@@ -22,6 +22,8 @@ Common ISO 639-1 codes: `kn` Kannada · `hi` Hindi · `en` English · `te` Telug
 
 Script names: `devanagari` · `latin` · `tamil` · `telugu` · `gujarati` · `bengali`
 
+File and folder names stay as full script/language names above — the generated chapter README displays these more compactly (ISO 15924 4-letter script codes like `Deva` for transliteration, the ISO 639-1 code or an optional `meta.locale` like `en-IN` for translation), but that's a display-only concern and doesn't change how you name or write your file.
+
 ## Adding a new chapter (source file)
 
 1. Create the folder: `{board}/{state}/{medium}/{grade}/{subject}/{chapter-slug}/`
@@ -112,6 +114,7 @@ meta:
   source: source.kn.yaml       # which source file this maps to
   script: devanagari           # for transliteration; omit for translation
   language: hi                 # for translation; omit for transliteration
+  locale: hi-IN                # optional — BCP-47 tag shown as the display label instead of "HI"
   contributor: your-github-username
   license: CC BY 4.0
 

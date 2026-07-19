@@ -1,6 +1,7 @@
 meta:
   source: source.kn.yaml
   language: en
+  locale: en-IN
   contributor: itzsrikanth
   license: CC BY 4.0
 

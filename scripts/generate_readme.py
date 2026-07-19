@@ -12,6 +12,24 @@ import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
+# ISO 15924 four-letter script codes — used for transliteration labels so they
+# stay compact and don't imply a single language owns that script (Devanagari
+# is shared by Hindi, Marathi, Nepali, Sanskrit, ... not just Hindi).
+SCRIPT_CODES = {
+    "devanagari": "Deva",
+    "latin": "Latn",
+    "tamil": "Taml",
+    "telugu": "Telu",
+    "kannada": "Knda",
+    "malayalam": "Mlym",
+    "bengali": "Beng",
+    "gujarati": "Gujr",
+    "gurmukhi": "Guru",
+    "oriya": "Orya",
+    "odia": "Orya",
+    "urdu": "Arab",
+}
+
 
 def find_chapter_dirs(root):
     for path in sorted(root.rglob("source.*.yaml")):
@@ -32,15 +50,14 @@ def load_contributor_files(chapter_dir, subfolder):
     return result
 
 
-def annotate(seg_id, translits, translations):
-    out = []
-    for script, data in translits.items():
-        if seg_id in data:
-            out.append(f"{script.title()}: {data[seg_id]}")
-    for lang, data in translations.items():
-        if seg_id in data:
-            out.append(f"{lang.upper()}: {data[seg_id]}")
-    return out
+def script_label(script, data):
+    declared = (data.get("meta") or {}).get("script") or script
+    return SCRIPT_CODES.get(declared.lower(), declared.title())
+
+
+def translation_label(lang, data):
+    meta = data.get("meta") or {}
+    return meta.get("locale") or lang.upper()
 
 
 def render_chapter(chapter_dir, source_path):
@@ -52,6 +69,18 @@ def render_chapter(chapter_dir, source_path):
     translations = load_contributor_files(chapter_dir, "translation")
     translit_labels = {script: (data.get("labels") or {}) for script, data in translits.items()}
     translation_labels = {lang: (data.get("labels") or {}) for lang, data in translations.items()}
+    translit_display = {script: script_label(script, data) for script, data in translits.items()}
+    translation_display = {lang: translation_label(lang, data) for lang, data in translations.items()}
+
+    def annotate(seg_id):
+        out = []
+        for script, data in translits.items():
+            if seg_id in data:
+                out.append(f"{translit_display[script]}: {data[seg_id]}")
+        for lang, data in translations.items():
+            if seg_id in data:
+                out.append(f"{translation_display[lang]}: {data[seg_id]}")
+        return out
 
     answer_for = {}
     definition_for = {}
@@ -73,8 +102,8 @@ def render_chapter(chapter_dir, source_path):
                 parts.append(labels[section_key])
         return " · ".join(parts)
 
-    script_names = ", ".join(s.title() for s in translits) or "none yet"
-    lang_names = ", ".join(l.upper() for l in translations) or "none yet"
+    script_names = ", ".join(translit_display.values()) or "none yet"
+    lang_names = ", ".join(translation_display.values()) or "none yet"
 
     lines = [
         f"# {meta['title']}",
@@ -113,13 +142,13 @@ def render_chapter(chapter_dir, source_path):
         if t == "competency":
             enter("competency", "Competency")
             lines.append(f"> {seg['text']}  ")
-            for a in annotate(seg["id"], translits, translations):
+            for a in annotate(seg["id"]):
                 lines.append(f"> {a}  ")
 
         elif t == "prose" and seg.get("section") == "intro":
             enter("intro", "Introduction")
             lines.append(f"- {seg['text']}")
-            for a in annotate(seg["id"], translits, translations):
+            for a in annotate(seg["id"]):
                 lines.append(f"  - {a}")
 
         elif t == "poem_line":
@@ -129,27 +158,27 @@ def render_chapter(chapter_dir, source_path):
                     lines.append("")
                 stanza[0] = seg.get("stanza")
             lines.append(f"{seg['text']}  ")
-            for a in annotate(seg["id"], translits, translations):
+            for a in annotate(seg["id"]):
                 lines.append(f"*{a}*  ")
 
         elif t == "vocabulary_term":
             enter("vocab", "Word Meanings")
             defn = definition_for.get(seg["id"])
             lines.append(f"- **{seg['text']}** — {defn['text'] if defn else ''}")
-            for a in annotate(seg["id"], translits, translations):
+            for a in annotate(seg["id"]):
                 lines.append(f"  - {a}")
             if defn:
-                for a in annotate(defn["id"], translits, translations):
+                for a in annotate(defn["id"]):
                     lines.append(f"  - {a}")
 
         elif t == "note_term":
             enter("notes", "Notes")
             defn = definition_for.get(seg["id"])
             lines.append(f"- **{seg['text']}** — {defn['text'] if defn else ''}")
-            for a in annotate(seg["id"], translits, translations):
+            for a in annotate(seg["id"]):
                 lines.append(f"  - {a}")
             if defn:
-                for a in annotate(defn["id"], translits, translations):
+                for a in annotate(defn["id"]):
                     lines.append(f"  - {a}")
 
         elif t in ("prose", "question", "fill_blank") and seg.get("exercise"):
@@ -157,16 +186,16 @@ def render_chapter(chapter_dir, source_path):
             enter(f"exercise-{ex}", f"Exercise {ex}")
             if t == "prose":
                 lines.append(f"{seg['text']}  ")
-                for a in annotate(seg["id"], translits, translations):
+                for a in annotate(seg["id"]):
                     lines.append(f"*{a}*  ")
             else:
                 lines.append(f"- {seg['text']}")
-                for a in annotate(seg["id"], translits, translations):
+                for a in annotate(seg["id"]):
                     lines.append(f"  - {a}")
                 ans = answer_for.get(seg["id"])
                 if ans:
                     lines.append(f"  - **Answer:** {ans['text']}")
-                    for a in annotate(ans["id"], translits, translations):
+                    for a in annotate(ans["id"]):
                         lines.append(f"    - {a}")
 
         else:
