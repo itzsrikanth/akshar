@@ -224,31 +224,55 @@ segments:
     type: question
     exercise: A
     text: ಕಸ್ತೂರಿಯು ಏನನ್ನು ಕೊಂಡನು?
+  - id: ex-a-q1-ans
+    type: answer
+    ref: ex-a-q1
+    text: ಕಸ್ತೂರಿಯು ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿಯನ್ನು ಕೊಂಡನು.
 
   - id: ex-a-q2
     type: question
     exercise: A
     text: ಕಸ್ತೂರಿ ಎಲ್ಲಿ ತುತ್ತೂರಿ ಊದಿದನು?
+  - id: ex-a-q2-ans
+    type: answer
+    ref: ex-a-q2
+    text: ಕಸ್ತೂರಿ ಕೊಳದ ಬಳಿ ತುತ್ತೂರಿ ಊದಿದನು.
 
   - id: ex-a-q3
     type: question
     exercise: A
     text: ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಯಾವಾಗ ಊದಿದನು?
+  - id: ex-a-q3-ans
+    type: answer
+    ref: ex-a-q3
+    text: ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಸಂಜೆಯಲಿ ಊದಿದನು.
 
   - id: ex-a-q4
     type: question
     exercise: A
     text: ಜಂಭದ ಕೋಳಿ ಯಾರು?
+  - id: ex-a-q4-ans
+    type: answer
+    ref: ex-a-q4
+    text: ಜಂಭದ ಕೋಳಿ ಕಸ್ತೂರಿಯೇ.
 
   - id: ex-a-q5
     type: question
     exercise: A
     text: ಜಂಭದ ಕೋಳಿಗೆ ಏಕೆ ಗೋಳಾಯಿತು?
+  - id: ex-a-q5-ans
+    type: answer
+    ref: ex-a-q5
+    text: ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ ಹಾಳಾದ್ದರಿಂದ ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯಿತು.
 
   - id: ex-a-q6
     type: question
     exercise: A
     text: ತುತ್ತೂರಿ ಏನಾಯಿತು?
+  - id: ex-a-q6-ans
+    type: answer
+    ref: ex-a-q6
+    text: ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ, ಬಣ್ಣ ಕಳೆದುಕೊಂಡು ಹಾಳಾಯಿತು.
 
   # ── ಅಭ್ಯಾಸ ಆ) ಸೂಕ್ತ ಪದದಿಂದ ತುಂಬು ─────────────────────
   - id: ex-b-q1
@@ -327,6 +351,10 @@ segments:
     type: question
     exercise: C
     text: ರಾಮಣ್ಣ ಯಾರು?
+  - id: ex-c-q1-ans
+    type: answer
+    ref: ex-c-q1
+    text: ರಾಮಣ್ಣ ಬೀರೂರಿನ ಒಬ್ಬ ಕಟ್ಟಿಗೆ ವ್ಯಾಪಾರಿ.
 
   - id: ex-c-q2
     type: question

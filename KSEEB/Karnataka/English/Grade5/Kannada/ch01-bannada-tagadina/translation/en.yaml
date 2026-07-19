@@ -73,11 +73,17 @@ note-sarigama-def: the seven musical notes of Indian classical music
 
 # ── ಅಭ್ಯಾಸ ಅ)
 ex-a-q1: What did Kasturi buy?
+ex-a-q1-ans: Kasturi bought the colorful tin trumpet.
 ex-a-q2: Where did Kasturi blow the trumpet?
+ex-a-q2-ans: Kasturi blew the trumpet near the pond.
 ex-a-q3: When did Kasturi blow the trumpet?
+ex-a-q3-ans: Kasturi blew the trumpet in the evening.
 ex-a-q4: Who is the "arrogant rooster"?
+ex-a-q4-ans: The "arrogant rooster" is Kasturi himself.
 ex-a-q5: Why did the arrogant rooster end up in grief?
+ex-a-q5-ans: Because the trumpet slipped into the water and was ruined, the arrogant rooster ended up in grief.
 ex-a-q6: What happened to the trumpet?
+ex-a-q6-ans: The trumpet slipped into the water, lost its color, and was ruined.
 
 # ── ಅಭ್ಯಾಸ ಆ)
 ex-b-q1: The colorful tin ________
@@ -99,6 +105,7 @@ ex-c-p6: "For this virtue, the forest goddess gave him the Akshaya Patre (the in
 ex-c-p7: From this, Ramanna became wealthy.
 
 ex-c-q1: Who is Ramanna?
+ex-c-q1-ans: Ramanna is a firewood merchant from Beeruru.
 ex-c-q2: Where did Ramanna live?
 ex-c-q2-ans: Beeruru
 ex-c-q3: When did Ramanna go to the forest?
