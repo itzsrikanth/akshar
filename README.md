@@ -1,4 +1,4 @@
-# Akshar · अक्षर · ಅಕ್ಷರ
+# Akshar
 
 > Open, community-contributed phonetic guides and translations for Indian school textbook content — so every parent can help their child, regardless of which script they know.
 

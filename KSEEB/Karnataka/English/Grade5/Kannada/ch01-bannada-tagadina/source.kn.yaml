@@ -11,6 +11,16 @@ meta:
   license: CC BY 4.0
   original_publisher: KSEEB
 
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  poem: ಕವನ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+
 segments:
 
   # ── ಸಾಮರ್ಥ್ಯ (Competency) ──────────────────────────────

@@ -17,6 +17,11 @@
         "license": { "type": "string", "minLength": 1 }
       },
       "additionalProperties": false
+    },
+    "labels": {
+      "type": "object",
+      "description": "Optional section-heading labels in this contributor's script/language, matching the same keys as the source file's labels.",
+      "additionalProperties": { "type": "string", "minLength": 1 }
     }
   },
   "additionalProperties": { "type": "string", "minLength": 1 }

@@ -4,6 +4,16 @@ meta:
   contributor: itzsrikanth
   license: CC BY 4.0
 
+labels:
+  competency: सामर्थ्य
+  intro: प्रवेश
+  poem: कवन
+  vocab: पदगळ अर्थ
+  notes: टिप्पणि
+  exercise-A: अभ्यास अ
+  exercise-B: अभ्यास आ
+  exercise-C: अभ्यास इ
+
 # ── ಸಾಮರ್ಥ್ಯ
 competency: पठ्यवन्नु ओदिद मेले यारु? यावाग? एल्लि? एनु? एके? एंब प्रश्नेगळिगे उत्तरिसुवुदु.
 

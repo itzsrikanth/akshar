@@ -4,6 +4,16 @@ meta:
   contributor: itzsrikanth
   license: CC BY 4.0
 
+labels:
+  competency: Competency
+  intro: Introduction
+  poem: Poem
+  vocab: Word Meanings
+  notes: Notes
+  exercise-A: Exercise A
+  exercise-B: Exercise B
+  exercise-C: Exercise C
+
 # ── ಸಾಮರ್ಥ್ಯ
 competency: "After reading the text, to answer the questions — Who? When? Where? What? Why?"
 

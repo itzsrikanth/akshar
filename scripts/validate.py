@@ -127,7 +127,7 @@ def validate_contributor(path, source_ids_by_filename, errors):
         return
 
     for key in data:
-        if key == "meta":
+        if key in ("meta", "labels"):
             continue
         if key not in source_ids:
             errors.add(path, f"id {key!r} does not exist in {source_name}")

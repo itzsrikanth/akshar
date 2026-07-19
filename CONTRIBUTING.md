@@ -46,6 +46,14 @@ meta:
   license: CC BY 4.0                    # verify on DIKSHA before using
   original_publisher: KSEEB
 
+labels:                                 # optional — section headings in the source language,
+  competency: ...                       # used by the auto-generated chapter README
+  intro: ...
+  poem: ...
+  vocab: ...
+  notes: ...
+  exercise-A: ...
+
 segments:
   - id: competency
     type: competency
@@ -106,6 +114,10 @@ meta:
   language: hi                 # for translation; omit for transliteration
   contributor: your-github-username
   license: CC BY 4.0
+
+labels:                        # optional — if the source file has a `labels` block,
+  competency: ...               # match its keys with your script/language's own words
+  intro: ...
 
 # one line per segment — copy IDs from source, add your text
 competency: ...

@@ -47,8 +47,11 @@ def render_chapter(chapter_dir, source_path):
     source = load_yaml(source_path)
     meta = source["meta"]
     segments = source["segments"]
+    source_labels = source.get("labels") or {}
     translits = load_contributor_files(chapter_dir, "transliteration")
     translations = load_contributor_files(chapter_dir, "translation")
+    translit_labels = {script: (data.get("labels") or {}) for script, data in translits.items()}
+    translation_labels = {lang: (data.get("labels") or {}) for lang, data in translations.items()}
 
     answer_for = {}
     definition_for = {}
@@ -58,11 +61,29 @@ def render_chapter(chapter_dir, source_path):
         elif s["type"] in ("vocabulary_definition", "note_definition") and "ref" in s:
             definition_for[s["ref"]] = s
 
+    def build_heading(section_key, fallback):
+        parts = [fallback]
+        if section_key in source_labels:
+            parts.append(source_labels[section_key])
+        for labels in translit_labels.values():
+            if section_key in labels:
+                parts.append(labels[section_key])
+        for labels in translation_labels.values():
+            if section_key in labels and labels[section_key] != fallback:
+                parts.append(labels[section_key])
+        return " · ".join(parts)
+
+    script_names = ", ".join(s.title() for s in translits) or "none yet"
+    lang_names = ", ".join(l.upper() for l in translations) or "none yet"
+
     lines = [
         f"# {meta['title']}",
         "",
         f"> Auto-generated from `{source_path.name}` — do not edit manually. "
         "Edit the source YAML and run `python3 scripts/generate_readme.py` to regenerate.",
+        "",
+        f"> Currently showing **{script_names}** transliteration and **{lang_names}** translation "
+        "as a sample — this is extensible to any script/language pair. See CONTRIBUTING.md to add one.",
         "",
         f"**Board:** {meta['board']} · **State:** {meta['state']} · **Medium:** {meta['medium']} · "
         f"**Grade:** {meta['grade']} · **Subject:** {meta['subject']} · **Chapter:** {meta['chapter']}",
@@ -79,7 +100,7 @@ def render_chapter(chapter_dir, source_path):
             if lines and lines[-1] != "":
                 lines.append("")
             if heading:
-                lines.append(f"## {heading}")
+                lines.append(f"## {build_heading(section_key, heading)}")
                 lines.append("")
             section[0] = section_key
             stanza[0] = None
@@ -91,9 +112,9 @@ def render_chapter(chapter_dir, source_path):
 
         if t == "competency":
             enter("competency", "Competency")
-            lines.append(f"> {seg['text']}")
+            lines.append(f"> {seg['text']}  ")
             for a in annotate(seg["id"], translits, translations):
-                lines.append(f"> {a}")
+                lines.append(f"> {a}  ")
 
         elif t == "prose" and seg.get("section") == "intro":
             enter("intro", "Introduction")
