@@ -43,6 +43,8 @@ CC BY 4.0 permits copying, redistribution, adaptation (translations and translit
 
 Transliterations and translations contributed here are original creative works by contributors, released under CC BY 4.0.
 
+This repo uses two licenses: [`LICENSE`](LICENSE) (CC BY 4.0) covers all textbook content, transliterations, and translations; [`LICENSE-CODE`](LICENSE-CODE) (MIT) covers scripts and tooling (e.g. `scripts/`, CI workflows).
+
 ---
 
 ## Repository structure
@@ -160,11 +162,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Automating the first pass
 
-[AI4Bharat IndicXlit](https://github.com/AI4Bharat/IndicXlit) generates first-pass Devanagari (and other script) transliterations from source text programmatically. Workflow:
+Transliteration is not one problem — it's two, and they need different tools:
 
-1. Maintainer adds `source.kn.yaml`
-2. CI runs IndicXlit → auto-generates `transliteration/devanagari.yaml` as a draft
-3. Community reviews and corrects via PR
+- **Brahmic script → Brahmic script** (e.g. Kannada → Devanagari): these scripts share a near 1:1 structural correspondence (vowels, consonants, matras, virama), so the right tool is a deterministic rule-based mapper — [`indic_transliteration`](https://pypi.org/project/indic-transliteration/)'s `sanscript` module — not a statistical model. Going through Roman as an intermediate step (as an ML Roman↔Indic model would require) throws away that structure and loses precision.
+- **Brahmic script → Latin/Roman** (for parents who only read the English alphabet): here Roman *is* the destination, not a waypoint, so [AI4Bharat IndicXlit](https://github.com/AI4Bharat/IndicXlit) (ML-based, natural colloquial spelling) is a good fit.
+
+Both are planned as a **local script, not a CI gate** — output is always a draft for human review via PR, never auto-merged.
 
 [Bhashini TTS API](https://bhashini.gov.in/ulca) provides audio pronunciation for the mobile app across most Indic languages.
 
@@ -172,9 +175,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## Roadmap
 
-- [ ] JSON schema + CI validation for source and contributor files
-- [ ] IndicXlit integration for automated first-pass Devanagari transliteration
-- [ ] Auto-generate chapter `README.md` from YAML via CI
+- [x] JSON schema + CI validation for source and contributor files (`schema/`, `scripts/validate.py`) — schema conformance, unique segment IDs, dangling `ref` detection, contributor-file orphan-ID detection, meta/path consistency, BOM/invisible-character checks
+- [x] Auto-generate chapter `README.md` from YAML via CI (`scripts/generate_readme.py`, checked in CI with `--check`)
+- [ ] Local (non-CI) draft-transliteration script: `indic_transliteration`/`sanscript` for Brahmic→Brahmic, IndicXlit for Brahmic→Latin — always a human-reviewed draft
+- [ ] Root-level content index (manually maintained for now; see "Current content" below)
+- [ ] Community-recorded audio as a third contribution type, alongside transliteration/translation
+- [ ] Cross-chapter vocabulary glossary per subject/grade
 - [ ] Mobile app: dropdown for board / grade / subject / chapter / phonetics script / meaning language
 - [ ] Bhashini TTS integration for audio pronunciation in app
 

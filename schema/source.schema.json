@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/source.schema.json",
+  "title": "Akshar source file",
+  "type": "object",
+  "required": ["meta", "segments"],
+  "additionalProperties": false,
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": [
+        "board",
+        "state",
+        "medium",
+        "grade",
+        "subject",
+        "chapter",
+        "slug",
+        "title",
+        "source_url",
+        "license",
+        "original_publisher"
+      ],
+      "properties": {
+        "board": { "type": "string", "minLength": 1 },
+        "state": { "type": "string", "minLength": 1 },
+        "medium": { "type": "string", "minLength": 1 },
+        "grade": { "type": "integer", "minimum": 1 },
+        "subject": { "type": "string", "minLength": 1 },
+        "chapter": { "type": "integer", "minimum": 1 },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+        "title": { "type": "string", "minLength": 1 },
+        "source_url": { "type": "string", "format": "uri" },
+        "license": { "type": "string", "minLength": 1 },
+        "original_publisher": { "type": "string", "minLength": 1 }
+      }
+    },
+    "segments": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/segment" }
+    }
+  },
+  "definitions": {
+    "segment": {
+      "type": "object",
+      "required": ["id", "type", "text"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "type": {
+          "type": "string",
+          "enum": [
+            "competency",
+            "prose",
+            "poem_line",
+            "question",
+            "answer",
+            "fill_blank",
+            "vocabulary_term",
+            "vocabulary_definition",
+            "note_term",
+            "note_definition"
+          ]
+        },
+        "text": { "type": "string", "minLength": 1 },
+        "section": { "type": "string", "minLength": 1 },
+        "stanza": { "type": "integer", "minimum": 1 },
+        "exercise": { "type": "string", "minLength": 1 },
+        "ref": { "type": "string", "minLength": 1 }
+      }
+    }
+  }
+}
