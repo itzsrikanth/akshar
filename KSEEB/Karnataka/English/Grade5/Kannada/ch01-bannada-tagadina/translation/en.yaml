@@ -1,0 +1,96 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  contributor: itzsrikanth
+  license: CC BY 4.0
+
+# ── ಸಾಮರ್ಥ್ಯ
+competency: "After reading the text, to answer the questions — Who? When? Where? What? Why?"
+
+# ── ಪ್ರವೇಶ
+intro-1: "Joy, sorrow, pain — haven't these experiences happened to you too?"
+intro-2: Recall one experience of your own.
+intro-3: "There must be a reason for it, mustn't there?"
+intro-4: Now observe the incident described here.
+intro-5: Identify the situations that caused happiness and sadness.
+
+# ── ಕವನ: ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ
+poem-s1l1: The colorful tin trumpet,
+poem-s1l2: Kasturi bought it for a coin.
+poem-s1l3: He blew Sa-Ri-Ga-Ma-Pa-Da-Ni-Sa (ascending notes).
+poem-s1l4: He blew Sa-Ni-Da-Pa-Ma-Ga-Ri-Sa (descending notes).
+
+poem-s2l1: "He boasted that only he has the trumpet,"
+poem-s2l2: He said no one else has one.
+poem-s2l3: "Kasturi strutted down the street,"
+poem-s2l4: Like a proud, arrogant rooster.
+
+poem-s3l1: "Blowing his trumpet near the pond,"
+poem-s3l2: Kasturi walked in the evening.
+poem-s3l3: The trumpet slipped into the water.
+poem-s3l4: "His throat choked, tears welled in his eyes."
+
+poem-s4l1: "He tried to blow Sa-Ri-Ga-Ma again,"
+poem-s4l2: It only made a ga-ga-ga-ga gurgling sound.
+poem-s4l3: "The paint washed off into the water,"
+poem-s4l4: The colorful trumpet was stripped bare.
+
+poem-s5l1: "The colorful trumpet was ruined,"
+poem-s5l2: The arrogant rooster was left in grief.
+
+# ── ಪದಗಳ ಅರ್ಥ
+vocab-kaasu: coin / money
+vocab-kaasu-def: money
+vocab-jambha: pride / arrogance
+vocab-jambha-def: arrogance
+vocab-halaagu: to be ruined / spoiled
+vocab-halaagu-def: to go bad / be spoiled
+vocab-saddu: sound / noise
+vocab-saddu-def: noise
+vocab-sanje: evening
+vocab-sanje-def: evening / dusk
+
+# ── ಟಿಪ್ಪಣಿ
+note-tagadu: tin / sheet metal
+note-tagadu-def: thin sheet of metal
+note-kola: pond / lake
+note-kola-def: a body of water, pond
+note-tutturi: tin trumpet
+note-tutturi-def: a blowing instrument
+note-sarigama: Sa-Ri-Ga-Ma-Pa-Da-Ni
+note-sarigama-def: the seven musical notes of Indian classical music
+
+# ── ಅಭ್ಯಾಸ ಅ)
+ex-a-q1: What did Kasturi buy?
+ex-a-q2: Where did Kasturi blow the trumpet?
+ex-a-q3: When did Kasturi blow the trumpet?
+ex-a-q4: Who is the "arrogant rooster"?
+ex-a-q5: Why did the arrogant rooster end up in grief?
+ex-a-q6: What happened to the trumpet?
+
+# ── ಅಭ್ಯಾಸ ಆ)
+ex-b-q1: The colorful tin ________
+ex-b-q1-ans: trumpet
+ex-b-q2: Kasturi walked in the ________
+ex-b-q2-ans: street
+ex-b-q3: ________ into the water
+ex-b-q3-ans: slipped
+ex-b-q4: The colorful trumpet ________
+ex-b-q4-ans: was ruined
+
+# ── ಅಭ್ಯಾಸ ಇ) passage
+ex-c-p1: In Beeruru, a firewood merchant named Ramanna used to live.
+ex-c-p2: He was very poor.
+ex-c-p3: Every morning he would go to the forest, chop dry wood, and bring it back.
+ex-c-p4: He would sell the firewood in the market and make his living.
+ex-c-p5: He had never once cut a green / live tree.
+ex-c-p6: "For this virtue, the forest goddess gave him the Akshaya Patre (the inexhaustible vessel)."
+ex-c-p7: From this, Ramanna became wealthy.
+
+ex-c-q1: Who is Ramanna?
+ex-c-q2: Where did Ramanna live?
+ex-c-q2-ans: Beeruru
+ex-c-q3: When did Ramanna go to the forest?
+ex-c-q3-ans: Every morning
+ex-c-q4: Why did the forest goddess give Ramanna the Akshaya Patre?
+ex-c-q4-ans: Because he never cut a green / live tree.

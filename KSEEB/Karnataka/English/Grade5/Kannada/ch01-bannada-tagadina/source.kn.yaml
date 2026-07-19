@@ -1,0 +1,346 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: English
+  grade: 5
+  subject: Kannada
+  chapter: 1
+  slug: ch01-bannada-tagadina
+  title: ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ
+  source_url: https://diksha.gov.in/dial/X6D4P9
+  license: CC BY 4.0
+  original_publisher: KSEEB
+
+segments:
+
+  # ── ಸಾಮರ್ಥ್ಯ (Competency) ──────────────────────────────
+  - id: competency
+    type: competency
+    text: ಪಠ್ಯವನ್ನು ಓದಿದ ಮೇಲೆ ಯಾರು? ಯಾವಾಗ? ಎಲ್ಲಿ? ಏನು? ಏಕೆ? ಎಂಬ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸುವುದು.
+
+  # ── ಪ್ರವೇಶ (Introduction) ──────────────────────────────
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಸಂತೋಷ, ದುಃಖ, ನೋವು — ಈ ಅನುಭವಗಳು ನಿನಗೂ ಆಗಿರಬಹುದಲ್ಲವೇ?
+
+  - id: intro-2
+    type: prose
+    section: intro
+    text: ನಿನ್ನ ಒಂದು ಅನುಭವವನ್ನು ನೆನೆಪಿಸಿಕೊ.
+
+  - id: intro-3
+    type: prose
+    section: intro
+    text: ಅದಕ್ಕೆ ಒಂದು ಕಾರಣವೂ ಇರಬೇಕಲ್ಲವೇ?
+
+  - id: intro-4
+    type: prose
+    section: intro
+    text: ಈಗ ಇಲ್ಲಿನ ಘಟನೆಯನ್ನು ಗಮನಿಸು.
+
+  - id: intro-5
+    type: prose
+    section: intro
+    text: ಸಂತೋಷ ಹಾಗೂ ದುಃಖಕ್ಕೆ ಕಾರಣವಾದ ಸಂದರ್ಭಗಳನ್ನು ಗುರುತಿಸು.
+
+  # ── ಕವನ: ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ (Poem) ────────────────
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಕಾಸಿಗೆ ಕೊಂಡನು ಕಸ್ತೂರಿ
+
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಸರಿಗಮಪದನಿಸ ಊದಿದನು
+
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಸನಿದಪ ಮಗರಿಸ ಊದಿದನು
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ತನಗೇ ತುತ್ತೂರಿ ಇದೆಯೆಂದ
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಬೇರಾರಿಗು ಅದು ಇಲ್ಲೆಂದ
+
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಕಸ್ತೂರಿ ನಡೆದನು ಬೀದಿಯಲಿ
+
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಜಂಭದ ಕೋಳಿಯ ರೀತಿಯಲಿ
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ತುತ್ತೂರಿಯೂದುತ ಕೊಳದ ಬಳಿ
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ನಡೆದನು ಕಸ್ತೂರಿ ಸಂಜೆಯಲಿ
+
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಜಾರಿತು ನೀರಿಗೆ ತುತ್ತೂರಿ
+
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಗಂಟಲು ಕಟ್ಟಿತು ನೀರೂರಿ
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಸರಿಗಮ ಊದಲು ನೋಡಿದನು
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಗಗಗಗ ಸದ್ದನು ಮಾಡಿದನು
+
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ಬಣ್ಣವು ನೀರಿನ ಪಾಲಾಯ್ತು
+
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಬಣ್ಣದ ತುತ್ತೂರಿ ಬೋಳಾಯ್ತು
+
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಬಣ್ಣದ ತುತ್ತೂರಿ ಹಾಳಾಯ್ತು
+
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯ್ತು
+
+  # ── ಪದಗಳ ಅರ್ಥ (Word Meanings) ──────────────────────────
+  - id: vocab-kaasu
+    type: vocabulary_term
+    text: ಕಾಸು
+  - id: vocab-kaasu-def
+    type: vocabulary_definition
+    ref: vocab-kaasu
+    text: ಹಣ
+
+  - id: vocab-jambha
+    type: vocabulary_term
+    text: ಜಂಭ
+  - id: vocab-jambha-def
+    type: vocabulary_definition
+    ref: vocab-jambha
+    text: ಅಹಂಕಾರ
+
+  - id: vocab-halaagu
+    type: vocabulary_term
+    text: ಹಾಳಾಗು
+  - id: vocab-halaagu-def
+    type: vocabulary_definition
+    ref: vocab-halaagu
+    text: ಕೆಟ್ಟುಹೋಗು
+
+  - id: vocab-saddu
+    type: vocabulary_term
+    text: ಸದ್ದು
+  - id: vocab-saddu-def
+    type: vocabulary_definition
+    ref: vocab-saddu
+    text: ಸಪ್ಪಳ
+
+  - id: vocab-sanje
+    type: vocabulary_term
+    text: ಸಂಜೆ
+  - id: vocab-sanje-def
+    type: vocabulary_definition
+    ref: vocab-sanje
+    text: ಸಾಯಂಕಾಲ
+
+  # ── ಟಿಪ್ಪಣಿ (Notes) ─────────────────────────────────────
+  - id: note-tagadu
+    type: note_term
+    text: ತಗಡು
+  - id: note-tagadu-def
+    type: note_definition
+    ref: note-tagadu
+    text: ತೆಳುವಾದ ಲೋಹದ ಹಾಳೆ
+
+  - id: note-kola
+    type: note_term
+    text: ಕೊಳ
+  - id: note-kola-def
+    type: note_definition
+    ref: note-kola
+    text: ನೀರಿನ ತಾಣ, ಕೆರೆ
+
+  - id: note-tutturi
+    type: note_term
+    text: ತುತ್ತೂರಿ
+  - id: note-tutturi-def
+    type: note_definition
+    ref: note-tutturi
+    text: ಊದುವ ವಾದ್ಯ
+
+  - id: note-sarigama
+    type: note_term
+    text: ಸರಿಗಮಪದನಿ
+  - id: note-sarigama-def
+    type: note_definition
+    ref: note-sarigama
+    text: ಸಂಗೀತದ ಏಳು ಸ್ವರಗಳು
+
+  # ── ಅಭ್ಯಾಸ ಅ) ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು ──────────────
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಕಸ್ತೂರಿಯು ಏನನ್ನು ಕೊಂಡನು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಕಸ್ತೂರಿ ಎಲ್ಲಿ ತುತ್ತೂರಿ ಊದಿದನು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಯಾವಾಗ ಊದಿದನು?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಜಂಭದ ಕೋಳಿ ಯಾರು?
+
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: ಜಂಭದ ಕೋಳಿಗೆ ಏಕೆ ಗೋಳಾಯಿತು?
+
+  - id: ex-a-q6
+    type: question
+    exercise: A
+    text: ತುತ್ತೂರಿ ಏನಾಯಿತು?
+
+  # ── ಅಭ್ಯಾಸ ಆ) ಸೂಕ್ತ ಪದದಿಂದ ತುಂಬು ─────────────────────
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: ಬಣ್ಣದ ತಗಡಿನ ________
+  - id: ex-b-q1-ans
+    type: answer
+    ref: ex-b-q1
+    text: ತುತ್ತೂರಿ
+
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: ಕಸ್ತೂರಿ ನಡೆದನು ________
+  - id: ex-b-q2-ans
+    type: answer
+    ref: ex-b-q2
+    text: ಬೀದಿಯಲಿ
+
+  - id: ex-b-q3
+    type: fill_blank
+    exercise: B
+    text: ________ ನೀರಿಗೆ ತುತ್ತೂರಿ
+  - id: ex-b-q3-ans
+    type: answer
+    ref: ex-b-q3
+    text: ಜಾರಿತು
+
+  - id: ex-b-q4
+    type: fill_blank
+    exercise: B
+    text: ಬಣ್ಣದ ತುತ್ತೂರಿ ________
+  - id: ex-b-q4-ans
+    type: answer
+    ref: ex-b-q4
+    text: ಹಾಳಾಯ್ತು
+
+  # ── ಅಭ್ಯಾಸ ಇ) ಓದಿ ಉತ್ತರಿಸು (passage) ──────────────────
+  - id: ex-c-p1
+    type: prose
+    exercise: C
+    text: ಬೀರೂರಿನಲ್ಲಿ ರಾಮಣ್ಣ ಎಂಬ ಕಟ್ಟಿಗೆ ವ್ಯಾಪಾರಿಯು ವಾಸಿಸುತ್ತಿದ್ದನು.
+
+  - id: ex-c-p2
+    type: prose
+    exercise: C
+    text: ಅವನು ತುಂಬಾ ಬಡವನಾಗಿದ್ದನು.
+
+  - id: ex-c-p3
+    type: prose
+    exercise: C
+    text: ಅವನು ಪ್ರತಿ ದಿನ ಬೆಳಗ್ಗೆ ಕಾಡಿಗೆ ಹೋಗಿ ಒಣ ಮರವನ್ನು ಕಡಿದು ತರುತ್ತಿದ್ದನು.
+
+  - id: ex-c-p4
+    type: prose
+    exercise: C
+    text: ಪೇಟೆಯಲ್ಲಿ ಕಟ್ಟಿಗೆ ಮಾರಿ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದನು.
+
+  - id: ex-c-p5
+    type: prose
+    exercise: C
+    text: ಅವನು ಎಂದೂ ಹಸಿ ಮರವನ್ನು ಕಡಿದವನಲ್ಲ.
+
+  - id: ex-c-p6
+    type: prose
+    exercise: C
+    text: ಇದಕ್ಕಾಗಿ ಇವನಿಗೆ ವನದೇವತೆಯು ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನು ನೀಡಿದಳು.
+
+  - id: ex-c-p7
+    type: prose
+    exercise: C
+    text: ಇದರಿಂದ ರಾಮಣ್ಣ ಶ್ರೀಮಂತನಾದನು.
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: ರಾಮಣ್ಣ ಯಾರು?
+
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: ರಾಮಣ್ಣ ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು?
+  - id: ex-c-q2-ans
+    type: answer
+    ref: ex-c-q2
+    text: ಬೀರೂರು
+
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: ರಾಮಣ್ಣ ಯಾವಾಗ ಕಾಡಿಗೆ ಹೋಗುತ್ತಿದ್ದನು?
+  - id: ex-c-q3-ans
+    type: answer
+    ref: ex-c-q3
+    text: ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ
+
+  - id: ex-c-q4
+    type: question
+    exercise: C
+    text: ವನದೇವತೆಯು ರಾಮಣ್ಣನಿಗೆ ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನು ಏಕೆ ನೀಡಿದಳು?
+  - id: ex-c-q4-ans
+    type: answer
+    ref: ex-c-q4
+    text: ಅವನು ಎಂದೂ ಹಸಿ ಮರವನ್ನು ಕಡಿದವನಲ್ಲ.
