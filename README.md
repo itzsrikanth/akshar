@@ -119,7 +119,7 @@ segments:
     text: ಕಸ್ತೂರಿಯು ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿಯನ್ನು ಕೊಂಡನು.
 ```
 
-Valid `type` values: `competency`, `prose`, `poem_line`, `question`, `answer`, `fill_blank`, `vocabulary_term`, `vocabulary_definition`, `note_term`, `note_definition`.
+Valid `type` values: `competency`, `prose`, `dialogue`, `poem_line`, `question`, `answer`, `fill_blank`, `vocabulary_term`, `vocabulary_definition`, `note_term`, `note_definition`. `dialogue` takes an optional `speaker` field.
 
 ### Contributor files
 

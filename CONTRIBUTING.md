@@ -97,10 +97,14 @@ segments:
 | Exercise answer | `ex-{section}-q{n}-ans` | `ex-a-q1-ans` |
 | Fill-in-the-blank | `ex-{section}-q{n}` | `ex-b-q2` |
 | Passage prose | `ex-{section}-p{n}` | `ex-c-p1` |
+| Story narration | `story-n{n}`, `section: story` | `story-n1` |
+| Story dialogue | `story-d{n}`, `section: story`, `speaker: ...` | `story-d1` |
 
 ### Valid type values
 
-`competency` · `prose` · `poem_line` · `question` · `answer` · `fill_blank` · `vocabulary_term` · `vocabulary_definition` · `note_term` · `note_definition`
+`competency` · `prose` · `dialogue` · `poem_line` · `question` · `answer` · `fill_blank` · `vocabulary_term` · `vocabulary_definition` · `note_term` · `note_definition`
+
+`dialogue` segments take an optional `speaker` field (character name). Leave it out if the speaker is illegible/missing in the source rather than guessing.
 
 ## Adding a transliteration or translation
 

@@ -58,6 +58,7 @@
           "enum": [
             "competency",
             "prose",
+            "dialogue",
             "poem_line",
             "question",
             "answer",
@@ -72,7 +73,12 @@
         "section": { "type": "string", "minLength": 1 },
         "stanza": { "type": "integer", "minimum": 1 },
         "exercise": { "type": "string", "minLength": 1 },
-        "ref": { "type": "string", "minLength": 1 }
+        "ref": { "type": "string", "minLength": 1 },
+        "speaker": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Character name for a dialogue segment. Optional — omit if the speaker is unknown/illegible in the source rather than guessing."
+        }
       }
     }
   }

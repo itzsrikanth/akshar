@@ -161,6 +161,20 @@ def render_chapter(chapter_dir, source_path):
             for a in annotate(seg["id"]):
                 lines.append(f"*{a}*  ")
 
+        elif t == "prose" and seg.get("section") == "story":
+            enter("story", "Story")
+            lines.append(f"{seg['text']}  ")
+            for a in annotate(seg["id"]):
+                lines.append(f"*{a}*  ")
+
+        elif t == "dialogue" and seg.get("section") == "story":
+            enter("story", "Story")
+            speaker = seg.get("speaker")
+            prefix = f"**{speaker}:** " if speaker else "**(speaker unknown):** "
+            lines.append(f"{prefix}{seg['text']}  ")
+            for a in annotate(seg["id"]):
+                lines.append(f"*{a}*  ")
+
         elif t == "vocabulary_term":
             enter("vocab", "Word Meanings")
             defn = definition_for.get(seg["id"])
