@@ -1,0 +1,974 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "kn": "ಸಾಮರ್ಥ್ಯ"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ",
+      "en": "Exercise A",
+      "kn": "ಅಭ್ಯಾಸ ಅ"
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ",
+      "en": "Exercise B",
+      "kn": "ಅಭ್ಯಾಸ ಆ"
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ",
+      "en": "Exercise C",
+      "kn": "ಅಭ್ಯಾಸ ಇ"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "kn": "ಪ್ರವೇಶ"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "kn": "ಟಿಪ್ಪಣಿ"
+    },
+    "poem": {
+      "devanagari": "कवन",
+      "en": "Poem",
+      "kn": "ಕವನ"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word Meanings",
+      "kn": "ಪದಗಳ ಅರ್ಥ"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "English",
+    "original_publisher": "KSEEB",
+    "slug": "ch01-bannada-tagadina",
+    "source_url": "https://diksha.gov.in/dial/X6D4P9",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "competency",
+      "text": "ಪಠ್ಯವನ್ನು ಓದಿದ ಮೇಲೆ ಯಾರು? ಯಾವಾಗ? ಎಲ್ಲಿ? ಏನು? ಏಕೆ? ಎಂಬ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸುವುದು.",
+      "translations": {
+        "en": "After reading the text, to answer the questions — Who? When? Where? What? Why?"
+      },
+      "transliterations": {
+        "devanagari": "पठ्यवन्नु ओदिद मेले यारु? यावाग? एल्लि? एनु? एके? एंब प्रश्नेगळिगे उत्तरिसुवुदु."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಸಂತೋಷ, ದುಃಖ, ನೋವು — ಈ ಅನುಭವಗಳು ನಿನಗೂ ಆಗಿರಬಹುದಲ್ಲವೇ?",
+      "translations": {
+        "en": "Joy, sorrow, pain — haven't these experiences happened to you too?"
+      },
+      "transliterations": {
+        "devanagari": "सन्तोष, दुःख, नोवु — ई अनुभवगळु निनगू आगिरबहुदल्लवे?"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ನಿನ್ನ ಒಂದು ಅನುಭವವನ್ನು ನೆನೆಪಿಸಿಕೊ.",
+      "translations": {
+        "en": "Recall one experience of your own."
+      },
+      "transliterations": {
+        "devanagari": "निन्न ओन्दु अनुभववन्नु नेनेपिसिको."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-3",
+      "section": "intro",
+      "text": "ಅದಕ್ಕೆ ಒಂದು ಕಾರಣವೂ ಇರಬೇಕಲ್ಲವೇ?",
+      "translations": {
+        "en": "There must be a reason for it, mustn't there?"
+      },
+      "transliterations": {
+        "devanagari": "अदक्के ओन्दु कारणवू इरबेकल्लवे?"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-4",
+      "section": "intro",
+      "text": "ಈಗ ಇಲ್ಲಿನ ಘಟನೆಯನ್ನು ಗಮನಿಸು.",
+      "translations": {
+        "en": "Now observe the incident described here."
+      },
+      "transliterations": {
+        "devanagari": "ईग इल्लिन घटनेयन्नु गमनिसु."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-5",
+      "section": "intro",
+      "text": "ಸಂತೋಷ ಹಾಗೂ ದುಃಖಕ್ಕೆ ಕಾರಣವಾದ ಸಂದರ್ಭಗಳನ್ನು ಗುರುತಿಸು.",
+      "translations": {
+        "en": "Identify the situations that caused happiness and sadness."
+      },
+      "transliterations": {
+        "devanagari": "सन्तोष हागू दुःखक्के कारणवाद सन्दर्भगळन्नु गुरुतिसु."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ",
+      "translations": {
+        "en": "The colorful tin trumpet,"
+      },
+      "transliterations": {
+        "devanagari": "बण्णद तगडिन तुत्तूरि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಕಾಸಿಗೆ ಕೊಂಡನು ಕಸ್ತೂರಿ",
+      "translations": {
+        "en": "Kasturi bought it for a coin."
+      },
+      "transliterations": {
+        "devanagari": "कासिगे कोण्डनु कस्तूरि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಸರಿಗಮಪದನಿಸ ಊದಿದನು",
+      "translations": {
+        "en": "He blew Sa-Ri-Ga-Ma-Pa-Da-Ni-Sa (ascending notes)."
+      },
+      "transliterations": {
+        "devanagari": "सरिगमपदनिस ऊदिदनु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಸನಿದಪ ಮಗರಿಸ ಊದಿದನು",
+      "translations": {
+        "en": "He blew Sa-Ni-Da-Pa-Ma-Ga-Ri-Sa (descending notes)."
+      },
+      "transliterations": {
+        "devanagari": "सनिदप मगरिस ऊदिदनु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ತನಗೇ ತುತ್ತೂರಿ ಇದೆಯೆಂದ",
+      "translations": {
+        "en": "He boasted that only he has the trumpet,"
+      },
+      "transliterations": {
+        "devanagari": "तनगे तुत्तूरि इदेयेन्द"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಬೇರಾರಿಗು ಅದು ಇಲ್ಲೆಂದ",
+      "translations": {
+        "en": "He said no one else has one."
+      },
+      "transliterations": {
+        "devanagari": "बेरारिगू अदु इल्लेन्द"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಕಸ್ತೂರಿ ನಡೆದನು ಬೀದಿಯಲಿ",
+      "translations": {
+        "en": "Kasturi strutted down the street,"
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरि नडेदनु बीदियलि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಜಂಭದ ಕೋಳಿಯ ರೀತಿಯಲಿ",
+      "translations": {
+        "en": "Like a proud, arrogant rooster."
+      },
+      "transliterations": {
+        "devanagari": "जंभद कोळिय रीतियलि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ತುತ್ತೂರಿಯೂದುತ ಕೊಳದ ಬಳಿ",
+      "translations": {
+        "en": "Blowing his trumpet near the pond,"
+      },
+      "transliterations": {
+        "devanagari": "तुत्तूरियूदुत कोळद बळि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ನಡೆದನು ಕಸ್ತೂರಿ ಸಂಜೆಯಲಿ",
+      "translations": {
+        "en": "Kasturi walked in the evening."
+      },
+      "transliterations": {
+        "devanagari": "नडेदनु कस्तूरि संजेयलि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಜಾರಿತು ನೀರಿಗೆ ತುತ್ತೂರಿ",
+      "translations": {
+        "en": "The trumpet slipped into the water."
+      },
+      "transliterations": {
+        "devanagari": "जारितु नीरिगे तुत्तूरि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಗಂಟಲು ಕಟ್ಟಿತು ನೀರೂರಿ",
+      "translations": {
+        "en": "His throat choked, tears welled in his eyes."
+      },
+      "transliterations": {
+        "devanagari": "गंटलु कट्टितु नीरूरि"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಸರಿಗಮ ಊದಲು ನೋಡಿದನು",
+      "translations": {
+        "en": "He tried to blow Sa-Ri-Ga-Ma again,"
+      },
+      "transliterations": {
+        "devanagari": "सरिगम ऊदलु नोडिदनु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಗಗಗಗ ಸದ್ದನು ಮಾಡಿದನು",
+      "translations": {
+        "en": "It only made a ga-ga-ga-ga gurgling sound."
+      },
+      "transliterations": {
+        "devanagari": "ग-ग-ग-ग सद्दनु माडिदनु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಬಣ್ಣವು ನೀರಿನ ಪಾಲಾಯ್ತು",
+      "translations": {
+        "en": "The paint washed off into the water,"
+      },
+      "transliterations": {
+        "devanagari": "बण्णवु नीरिन पालायतु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಬಣ್ಣದ ತುತ್ತೂರಿ ಬೋಳಾಯ್ತು",
+      "translations": {
+        "en": "The colorful trumpet was stripped bare."
+      },
+      "transliterations": {
+        "devanagari": "बण्णद तुत्तूरि बोळायतु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಬಣ್ಣದ ತುತ್ತೂರಿ ಹಾಳಾಯ್ತು",
+      "translations": {
+        "en": "The colorful trumpet was ruined,"
+      },
+      "transliterations": {
+        "devanagari": "बण्णद तुत्तूरि हाळायतु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯ್ತು",
+      "translations": {
+        "en": "The arrogant rooster was left in grief."
+      },
+      "transliterations": {
+        "devanagari": "जंभद कोळिगे गोळायतु"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-kaasu",
+      "text": "ಕಾಸು",
+      "translations": {
+        "en": "coin / money"
+      },
+      "transliterations": {
+        "devanagari": "कासु"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaasu-def",
+      "ref": "vocab-kaasu",
+      "text": "ಹಣ",
+      "translations": {
+        "en": "money"
+      },
+      "transliterations": {
+        "devanagari": "हण"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jambha",
+      "text": "ಜಂಭ",
+      "translations": {
+        "en": "pride / arrogance"
+      },
+      "transliterations": {
+        "devanagari": "जंभ"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jambha-def",
+      "ref": "vocab-jambha",
+      "text": "ಅಹಂಕಾರ",
+      "translations": {
+        "en": "arrogance"
+      },
+      "transliterations": {
+        "devanagari": "अहंकार"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-halaagu",
+      "text": "ಹಾಳಾಗು",
+      "translations": {
+        "en": "to be ruined / spoiled"
+      },
+      "transliterations": {
+        "devanagari": "हाळागु"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-halaagu-def",
+      "ref": "vocab-halaagu",
+      "text": "ಕೆಟ್ಟುಹೋಗು",
+      "translations": {
+        "en": "to go bad / be spoiled"
+      },
+      "transliterations": {
+        "devanagari": "केट्टुहोगु"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-saddu",
+      "text": "ಸದ್ದು",
+      "translations": {
+        "en": "sound / noise"
+      },
+      "transliterations": {
+        "devanagari": "सद्दु"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saddu-def",
+      "ref": "vocab-saddu",
+      "text": "ಸಪ್ಪಳ",
+      "translations": {
+        "en": "noise"
+      },
+      "transliterations": {
+        "devanagari": "सप्पळ"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sanje",
+      "text": "ಸಂಜೆ",
+      "translations": {
+        "en": "evening"
+      },
+      "transliterations": {
+        "devanagari": "संजे"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sanje-def",
+      "ref": "vocab-sanje",
+      "text": "ಸಾಯಂಕಾಲ",
+      "translations": {
+        "en": "evening / dusk"
+      },
+      "transliterations": {
+        "devanagari": "सायंकाल"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-tagadu",
+      "text": "ತಗಡು",
+      "translations": {
+        "en": "tin / sheet metal"
+      },
+      "transliterations": {
+        "devanagari": "तगडु"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-tagadu-def",
+      "ref": "note-tagadu",
+      "text": "ತೆಳುವಾದ ಲೋಹದ ಹಾಳೆ",
+      "translations": {
+        "en": "thin sheet of metal"
+      },
+      "transliterations": {
+        "devanagari": "तेळुवाद लोहद हाळे"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kola",
+      "text": "ಕೊಳ",
+      "translations": {
+        "en": "pond / lake"
+      },
+      "transliterations": {
+        "devanagari": "कोळ"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kola-def",
+      "ref": "note-kola",
+      "text": "ನೀರಿನ ತಾಣ, ಕೆರೆ",
+      "translations": {
+        "en": "a body of water, pond"
+      },
+      "transliterations": {
+        "devanagari": "नीरिन ताण, केरे"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-tutturi",
+      "text": "ತುತ್ತೂರಿ",
+      "translations": {
+        "en": "tin trumpet"
+      },
+      "transliterations": {
+        "devanagari": "तुत्तूरि"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-tutturi-def",
+      "ref": "note-tutturi",
+      "text": "ಊದುವ ವಾದ್ಯ",
+      "translations": {
+        "en": "a blowing instrument"
+      },
+      "transliterations": {
+        "devanagari": "ऊदुव वाद्य"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-sarigama",
+      "text": "ಸರಿಗಮಪದನಿ",
+      "translations": {
+        "en": "Sa-Ri-Ga-Ma-Pa-Da-Ni"
+      },
+      "transliterations": {
+        "devanagari": "सरिगमपदनि"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sarigama-def",
+      "ref": "note-sarigama",
+      "text": "ಸಂಗೀತದ ಏಳು ಸ್ವರಗಳು",
+      "translations": {
+        "en": "the seven musical notes of Indian classical music"
+      },
+      "transliterations": {
+        "devanagari": "संगीतद एळु स्वरगळु"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಕಸ್ತೂರಿಯು ಏನನ್ನು ಕೊಂಡನು?",
+      "translations": {
+        "en": "What did Kasturi buy?"
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरियु एननु कोण्डनु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-a-q1-ans",
+      "ref": "ex-a-q1",
+      "text": "ಕಸ್ತೂರಿಯು ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿಯನ್ನು ಕೊಂಡನು.",
+      "translations": {
+        "en": "Kasturi bought the colorful tin trumpet."
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरियु बण्णद तगडिन तुत्तूरियन्नु कोण्डनु."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಕಸ್ತೂರಿ ಎಲ್ಲಿ ತುತ್ತೂರಿ ಊದಿದನು?",
+      "translations": {
+        "en": "Where did Kasturi blow the trumpet?"
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरि एल्लि तुत्तूरि ऊदिदनु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-a-q2-ans",
+      "ref": "ex-a-q2",
+      "text": "ಕಸ್ತೂರಿ ಕೊಳದ ಬಳಿ ತುತ್ತೂರಿ ಊದಿದನು.",
+      "translations": {
+        "en": "Kasturi blew the trumpet near the pond."
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरि कोळद बळि तुत्तूरि ऊदिदनु."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಯಾವಾಗ ಊದಿದನು?",
+      "translations": {
+        "en": "When did Kasturi blow the trumpet?"
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरियु तुत्तूरियन्नु यावाग ऊदिदनु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-a-q3-ans",
+      "ref": "ex-a-q3",
+      "text": "ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಸಂಜೆಯಲಿ ಊದಿದನು.",
+      "translations": {
+        "en": "Kasturi blew the trumpet in the evening."
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरियु तुत्तूरियन्नु संजेयलि ऊदिदनु."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಜಂಭದ ಕೋಳಿ ಯಾರು?",
+      "translations": {
+        "en": "Who is the \"arrogant rooster\"?"
+      },
+      "transliterations": {
+        "devanagari": "जंभद कोळि यारु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-a-q4-ans",
+      "ref": "ex-a-q4",
+      "text": "ಜಂಭದ ಕೋಳಿ ಕಸ್ತೂರಿಯೇ.",
+      "translations": {
+        "en": "The \"arrogant rooster\" is Kasturi himself."
+      },
+      "transliterations": {
+        "devanagari": "जंभद कोळि कस्तूरिये."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಜಂಭದ ಕೋಳಿಗೆ ಏಕೆ ಗೋಳಾಯಿತು?",
+      "translations": {
+        "en": "Why did the arrogant rooster end up in grief?"
+      },
+      "transliterations": {
+        "devanagari": "जंभद कोळिगे एके गोळायितु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-a-q5-ans",
+      "ref": "ex-a-q5",
+      "text": "ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ ಹಾಳಾದ್ದರಿಂದ ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯಿತು.",
+      "translations": {
+        "en": "Because the trumpet slipped into the water and was ruined, the arrogant rooster ended up in grief."
+      },
+      "transliterations": {
+        "devanagari": "तुत्तूरि नीरिगे जारि हाळाद्दरिंद जंभद कोळिगे गोळायितु."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ತುತ್ತೂರಿ ಏನಾಯಿತು?",
+      "translations": {
+        "en": "What happened to the trumpet?"
+      },
+      "transliterations": {
+        "devanagari": "तुत्तूरि एनायितु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-a-q6-ans",
+      "ref": "ex-a-q6",
+      "text": "ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ, ಬಣ್ಣ ಕಳೆದುಕೊಂಡು ಹಾಳಾಯಿತು.",
+      "translations": {
+        "en": "The trumpet slipped into the water, lost its color, and was ruined."
+      },
+      "transliterations": {
+        "devanagari": "तुत्तूरि नीरिगे जारि, बण्ण कळेदुकोण्डु हाळायितु."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಬಣ್ಣದ ತಗಡಿನ ________",
+      "translations": {
+        "en": "The colorful tin ________"
+      },
+      "transliterations": {
+        "devanagari": "बण्णद तगडिन ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-b-q1-ans",
+      "ref": "ex-b-q1",
+      "text": "ತುತ್ತೂರಿ",
+      "translations": {
+        "en": "trumpet"
+      },
+      "transliterations": {
+        "devanagari": "तुत्तूरि"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಕಸ್ತೂರಿ ನಡೆದನು ________",
+      "translations": {
+        "en": "Kasturi walked in the ________"
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरि नडेदनु ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-b-q2-ans",
+      "ref": "ex-b-q2",
+      "text": "ಬೀದಿಯಲಿ",
+      "translations": {
+        "en": "street"
+      },
+      "transliterations": {
+        "devanagari": "बीदियलि"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "________ ನೀರಿಗೆ ತುತ್ತೂರಿ",
+      "translations": {
+        "en": "________ into the water"
+      },
+      "transliterations": {
+        "devanagari": "________ नीरिगे तुत्तूरि"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-b-q3-ans",
+      "ref": "ex-b-q3",
+      "text": "ಜಾರಿತು",
+      "translations": {
+        "en": "slipped"
+      },
+      "transliterations": {
+        "devanagari": "जारितु"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಬಣ್ಣದ ತುತ್ತೂರಿ ________",
+      "translations": {
+        "en": "The colorful trumpet ________"
+      },
+      "transliterations": {
+        "devanagari": "बण्णद तुत्तूरि ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-b-q4-ans",
+      "ref": "ex-b-q4",
+      "text": "ಹಾಳಾಯ್ತು",
+      "translations": {
+        "en": "was ruined"
+      },
+      "transliterations": {
+        "devanagari": "हाळायतु"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p1",
+      "text": "ಬೀರೂರಿನಲ್ಲಿ ರಾಮಣ್ಣ ಎಂಬ ಕಟ್ಟಿಗೆ ವ್ಯಾಪಾರಿಯು ವಾಸಿಸುತ್ತಿದ್ದನು.",
+      "translations": {
+        "en": "In Beeruru, a firewood merchant named Ramanna used to live."
+      },
+      "transliterations": {
+        "devanagari": "बीरूरिनल्लि रामण्ण एंब कट्टिगे व्यापारियु वासिसुत्तिद्दनु."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p2",
+      "text": "ಅವನು ತುಂಬಾ ಬಡವನಾಗಿದ್ದನು.",
+      "translations": {
+        "en": "He was very poor."
+      },
+      "transliterations": {
+        "devanagari": "अवनु तुंबा बडवनागिद्दनु."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p3",
+      "text": "ಅವನು ಪ್ರತಿ ದಿನ ಬೆಳಗ್ಗೆ ಕಾಡಿಗೆ ಹೋಗಿ ಒಣ ಮರವನ್ನು ಕಡಿದು ತರುತ್ತಿದ್ದನು.",
+      "translations": {
+        "en": "Every morning he would go to the forest, chop dry wood, and bring it back."
+      },
+      "transliterations": {
+        "devanagari": "अवनु प्रति दिन बेळग्गे कादिगे होगि ओण मरवन्नु कडिदु तरुत्तिद्दनु."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p4",
+      "text": "ಪೇಟೆಯಲ್ಲಿ ಕಟ್ಟಿಗೆ ಮಾರಿ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದನು.",
+      "translations": {
+        "en": "He would sell the firewood in the market and make his living."
+      },
+      "transliterations": {
+        "devanagari": "पेटेयल्लि कट्टिगे मारि जीवन नडेसुत्तिद्दनु."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p5",
+      "text": "ಅವನು ಎಂದೂ ಹಸಿ ಮರವನ್ನು ಕಡಿದವನಲ್ಲ.",
+      "translations": {
+        "en": "He had never once cut a green / live tree."
+      },
+      "transliterations": {
+        "devanagari": "अवनु एन्दू हसि मरवन्नु कडिदवनल्ल."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p6",
+      "text": "ಇದಕ್ಕಾಗಿ ಇವನಿಗೆ ವನದೇವತೆಯು ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನು ನೀಡಿದಳು.",
+      "translations": {
+        "en": "For this virtue, the forest goddess gave him the Akshaya Patre (the inexhaustible vessel)."
+      },
+      "transliterations": {
+        "devanagari": "इदक्कागि इवनिगे वनदेवतेयु अक्षय पात्रेयन्नु नीडिदळु."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p7",
+      "text": "ಇದರಿಂದ ರಾಮಣ್ಣ ಶ್ರೀಮಂತನಾದನು.",
+      "translations": {
+        "en": "From this, Ramanna became wealthy."
+      },
+      "transliterations": {
+        "devanagari": "इदरिंद रामण्ण श्रीमंतनादनु."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ರಾಮಣ್ಣ ಯಾರು?",
+      "translations": {
+        "en": "Who is Ramanna?"
+      },
+      "transliterations": {
+        "devanagari": "रामण्ण यारु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q1-ans",
+      "ref": "ex-c-q1",
+      "text": "ರಾಮಣ್ಣ ಬೀರೂರಿನ ಒಬ್ಬ ಕಟ್ಟಿಗೆ ವ್ಯಾಪಾರಿ.",
+      "translations": {
+        "en": "Ramanna is a firewood merchant from Beeruru."
+      },
+      "transliterations": {
+        "devanagari": "रामण्ण बीरूरिन ओब्ब कट्टिगे व्यापारि."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ರಾಮಣ್ಣ ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು?",
+      "translations": {
+        "en": "Where did Ramanna live?"
+      },
+      "transliterations": {
+        "devanagari": "रामण्ण एल्लि वासिसुत्तिद्दनु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q2-ans",
+      "ref": "ex-c-q2",
+      "text": "ಬೀರೂರು",
+      "translations": {
+        "en": "Beeruru"
+      },
+      "transliterations": {
+        "devanagari": "बीरूरु"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ರಾಮಣ್ಣ ಯಾವಾಗ ಕಾಡಿಗೆ ಹೋಗುತ್ತಿದ್ದನು?",
+      "translations": {
+        "en": "When did Ramanna go to the forest?"
+      },
+      "transliterations": {
+        "devanagari": "रामण्ण यावाग कादिगे होगुत्तिद्दनु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q3-ans",
+      "ref": "ex-c-q3",
+      "text": "ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ",
+      "translations": {
+        "en": "Every morning"
+      },
+      "transliterations": {
+        "devanagari": "प्रतिदिन बेळग्गे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ವನದೇವತೆಯು ರಾಮಣ್ಣನಿಗೆ ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನು ಏಕೆ ನೀಡಿದಳು?",
+      "translations": {
+        "en": "Why did the forest goddess give Ramanna the Akshaya Patre?"
+      },
+      "transliterations": {
+        "devanagari": "वनदेवतेयु रामण्णनिगे अक्षय पात्रेयन्नु एके नीडिदळु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q4-ans",
+      "ref": "ex-c-q4",
+      "text": "ಅವನು ಎಂದೂ ಹಸಿ ಮರವನ್ನು ಕಡಿದವನಲ್ಲ.",
+      "translations": {
+        "en": "Because he never cut a green / live tree."
+      },
+      "transliterations": {
+        "devanagari": "अवनु एन्दू हसि मरवन्नु कडिदवनल्ल."
+      },
+      "type": "answer"
+    }
+  ]
+}

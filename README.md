@@ -81,6 +81,32 @@ ch01-bannada-tagadina/
 └── README.md                   ← auto-generated, do not edit manually
 ```
 
+**Top-level layout, with app development in mind:** content (`{board}/...`), `schema/`, and
+`scripts/` stay at the repo root exactly as above — no coding knowledge is needed to reach or
+edit them. `api/` holds JSON compiled from the YAML by `scripts/build_json.py` (never hand-edit
+it — see below). `apps/` and `packages/` are reserved for app code (e.g. a future React Native
+app) as it's added.
+
+### Machine-readable API (`api/`)
+
+`scripts/build_json.py` compiles every chapter's source + transliteration + translation +
+labels into one denormalized JSON file, plus a top-level manifest:
+
+```
+api/
+├── contents.json                                              ← every chapter's meta + available scripts/languages + a content hash
+└── KSEEB/Karnataka/English/Grade5/Kannada/
+    ├── ch01-bannada-tagadina.json
+    └── ch02-nanna-kanasu.json
+```
+
+This is generated and committed (like the chapter READMEs), and checked in CI with
+`build_json.py --check`. It's deliberately flat and doesn't group by section/stanza/exercise —
+segments carry that as metadata (`section`, `stanza`, `exercise`, `speaker`, `ref`) so any
+consumer can group them however its own UI needs, rather than inheriting one baked-in shape.
+Since content only changes via PR (no runtime writes), this can be served directly from the
+repo via a free CDN (e.g. jsDelivr) with no backend server required.
+
 ---
 
 ## Data format
@@ -177,11 +203,12 @@ Both are planned as a **local script, not a CI gate** — output is always a dra
 
 - [x] JSON schema + CI validation for source and contributor files (`schema/`, `scripts/validate.py`) — schema conformance, unique segment IDs, dangling `ref` detection, contributor-file orphan-ID detection, meta/path consistency, BOM/invisible-character checks
 - [x] Auto-generate chapter `README.md` from YAML via CI (`scripts/generate_readme.py`, checked in CI with `--check`)
+- [x] Compile YAML into a machine-readable JSON API + manifest (`api/`, `scripts/build_json.py`, checked in CI with `--check`)
 - [ ] Local (non-CI) draft-transliteration script: `indic_transliteration`/`sanscript` for Brahmic→Brahmic, IndicXlit for Brahmic→Latin — always a human-reviewed draft
 - [ ] Root-level content index (manually maintained for now; see "Current content" below)
 - [ ] Community-recorded audio as a third contribution type, alongside transliteration/translation
 - [ ] Cross-chapter vocabulary glossary per subject/grade
-- [ ] Mobile app: dropdown for board / grade / subject / chapter / phonetics script / meaning language
+- [ ] Mobile app (Expo/React Native) consuming `api/` — lazy per-chapter download + local cache, manifest-driven update checks
 - [ ] Bhashini TTS integration for audio pronunciation in app
 
 ---

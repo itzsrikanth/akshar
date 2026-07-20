@@ -1,0 +1,37 @@
+{
+  "chapters": [
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "6cfd39928e0d4680",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json",
+      "slug": "ch01-bannada-tagadina",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ",
+      "translations": [
+        "en"
+      ],
+      "transliterations": [
+        "devanagari"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "4de8a7a07473f7bd",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json",
+      "slug": "ch02-nanna-kanasu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನನ್ನ ಕನಸು",
+      "translations": [],
+      "transliterations": []
+    }
+  ],
+  "schemaVersion": "1.0"
+}
