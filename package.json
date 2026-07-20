@@ -1,0 +1,8 @@
+{
+  "name": "akshar-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
