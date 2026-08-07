@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Material+Symbols+Outlined&display=block" rel="stylesheet">
+<style>
+body{margin:0;background:#F4F1EC;}
+a{color:#B5541A;}
+a:hover{color:#8F4315;}
+</style>
+</helmet>
+<div style="min-height:100vh;padding:48px 24px 80px;display:flex;flex-direction:column;align-items:center;gap:28px;font-family:-apple-system,Roboto,system-ui,sans-serif;box-sizing:border-box;">
+  <div style="text-align:center;max-width:640px;">
+    <div style="font-size:13px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;color:#B5541A;">Akshar · Mobile design</div>
+    <div style="font-size:30px;font-weight:700;color:#000000;margin-top:6px;">Home · Explore · Reader · Exercises · Settings</div>
+    <div style="font-size:15px;color:#60646C;margin-top:8px;line-height:22px;">One shared design for iOS and Android — chrome (status bar, tab bar, header) follows each platform's convention; everything else stays identical. Library and Search follow the same visual language and aren't detailed here yet.</div>
+  </div>
+
+  <div style="display:flex;gap:6px;background:#ffffff;border:1px solid #D8D9DE;border-radius:999px;padding:4px;">
+    <sc-if value="{{isHome}}" hint-placeholder-val="{{true}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Home</div></sc-if>
+    <sc-if value="{{notHome}}"><div onClick="{{goHome}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Home</div></sc-if>
+    <sc-if value="{{isExplore}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Explore</div></sc-if>
+    <sc-if value="{{notExplore}}"><div onClick="{{goExplore}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Explore</div></sc-if>
+    <sc-if value="{{isReader}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Reader</div></sc-if>
+    <sc-if value="{{notReader}}"><div onClick="{{goReader}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Reader</div></sc-if>
+    <sc-if value="{{isExercises}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Exercises</div></sc-if>
+    <sc-if value="{{notExercises}}"><div onClick="{{goExercises}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Exercises</div></sc-if>
+    <sc-if value="{{isSettings}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Settings</div></sc-if>
+    <sc-if value="{{notSettings}}"><div onClick="{{goSettings}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Settings</div></sc-if>
+  </div>
+
+  <sc-if value="{{isHome}}" hint-placeholder-val="{{true}}">
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" hint-size="402,874">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:56px 20px 6px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <div style="display:flex;align-items:center;gap:12px;">
+                <span style="font-size:13px;color:#60646C;">Ready</span>
+                <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;cursor:pointer;" onClick="{{goSettings}}">settings</span>
+              </div>
+            </div>
+            <div style="padding:0 20px 16px;font-size:13px;color:#60646C;">Homework helper for Kannada, Grade 5</div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:16px;">
+                <div style="font-size:18px;font-weight:600;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+                <div style="font-size:13px;color:#60646C;margin-top:4px;">KSEEB · Karnataka · Grade 5 · Kannada</div>
+                <div style="position:relative;height:6px;border-radius:999px;background:#D8D9DE;margin-top:14px;">
+                  <div style="position:absolute;left:0;top:0;height:6px;width:42%;border-radius:999px;background:#B5541A;"></div>
+                </div>
+                <div style="font-size:12px;color:#60646C;margin-top:6px;">5 of 12 segments read</div>
+                <div style="display:inline-flex;align-items:center;justify-content:center;margin-top:14px;padding:10px 20px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;">Continue reading</div>
+              </div>
+            </div>
+            <div style="padding:0 20px 24px;">
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;">Your scope</span>
+                <span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goSettings}}">Edit</span>
+              </div>
+              <div style="display:flex;gap:8px;flex-wrap:wrap;">
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">KSEEB</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Karnataka</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">English medium</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Grade 5</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Kannada</span>
+              </div>
+            </div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Subjects</div>
+              <div style="display:flex;align-items:center;gap:12px;border:1px solid #D8D9DE;border-radius:16px;padding:14px;">
+                <div style="width:44px;height:44px;border-radius:999px;background:#FCEADD;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">translate</span>
+                </div>
+                <div style="flex:1;">
+                  <div style="font-size:16px;font-weight:500;color:#000000;">Kannada</div>
+                  <div style="font-size:13px;color:#60646C;margin-top:2px;">1 chapter downloaded · 1 available</div>
+                </div>
+                <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#A0A4AC;">chevron_right</span>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid rgba(0,0,0,0.08);background:rgba(255,255,255,0.9);padding:8px 0 22px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#B5541A;font-variation-settings:'FILL' 1;">home</span>
+              <span style="font-size:11px;font-weight:600;color:#B5541A;">Home</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">auto_stories</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Library</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">search</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Search</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">menu_book</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Reader</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">explore</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Explore</span>
+            </div>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" hint-size="412,892">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:16px 16px 4px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <div style="display:flex;align-items:center;gap:12px;">
+                <span style="font-size:13px;color:#60646C;">Ready</span>
+                <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;cursor:pointer;" onClick="{{goSettings}}">settings</span>
+              </div>
+            </div>
+            <div style="padding:0 16px 16px;font-size:13px;color:#60646C;">Homework helper for Kannada, Grade 5</div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:16px;">
+                <div style="font-size:18px;font-weight:600;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+                <div style="font-size:13px;color:#60646C;margin-top:4px;">KSEEB · Karnataka · Grade 5 · Kannada</div>
+                <div style="position:relative;height:6px;border-radius:999px;background:#D8D9DE;margin-top:14px;">
+                  <div style="position:absolute;left:0;top:0;height:6px;width:42%;border-radius:999px;background:#B5541A;"></div>
+                </div>
+                <div style="font-size:12px;color:#60646C;margin-top:6px;">5 of 12 segments read</div>
+                <div style="display:inline-flex;align-items:center;justify-content:center;margin-top:14px;padding:10px 20px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;">Continue reading</div>
+              </div>
+            </div>
+            <div style="padding:0 16px 24px;">
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                <span style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;">Your scope</span>
+                <span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goSettings}}">Edit</span>
+              </div>
+              <div style="display:flex;gap:8px;flex-wrap:wrap;">
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">KSEEB</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Karnataka</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">English medium</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Grade 5</span>
+                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Kannada</span>
+              </div>
+            </div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Subjects</div>
+              <div style="display:flex;align-items:center;gap:12px;border:1px solid #D8D9DE;border-radius:16px;padding:14px;">
+                <div style="width:44px;height:44px;border-radius:999px;background:#FCEADD;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">translate</span>
+                </div>
+                <div style="flex:1;">
+                  <div style="font-size:16px;font-weight:500;color:#000000;">Kannada</div>
+                  <div style="font-size:13px;color:#60646C;margin-top:2px;">1 chapter downloaded · 1 available</div>
+                </div>
+                <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#A0A4AC;">chevron_right</span>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid #D8D9DE;background:#ffffff;padding:10px 0 12px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <div style="background:#FCEADD;border-radius:999px;padding:4px 20px;display:flex;align-items:center;justify-content:center;">
+                <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;font-variation-settings:'FILL' 1;">home</span>
+              </div>
+              <span style="font-size:12px;font-weight:600;color:#B5541A;">Home</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">auto_stories</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Library</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">search</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Search</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">menu_book</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Reader</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">explore</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Explore</span>
+            </div>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
+  <sc-if value="{{isExplore}}">
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" hint-size="402,874">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:56px 20px 4px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Explore</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">search</span>
+            </div>
+            <div style="padding:0 20px 14px;font-size:13px;color:#60646C;">Browse the full catalog</div>
+            <div style="padding:0 20px;display:flex;align-items:center;gap:4px;overflow:hidden;">
+              <span style="font-size:13px;color:#60646C;">KSEEB</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;color:#60646C;">Karnataka</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;color:#60646C;">English</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;color:#60646C;">Grade 5</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;font-weight:600;color:#B5541A;background:#FCEADD;padding:3px 10px;border-radius:999px;">Kannada</span>
+            </div>
+            <div style="padding:20px 20px 6px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;">2 chapters</span>
+              <span style="font-size:13px;font-weight:600;color:#B5541A;">Download all</span>
+            </div>
+            <div style="padding:0 20px;">
+              <div style="display:flex;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid #D8D9DE;">
+                <div style="width:44px;height:44px;border-radius:12px;background:#FCEADD;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">menu_book</span>
+                </div>
+                <div style="flex:1;min-width:0;">
+                  <div style="font-size:16px;font-weight:500;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+                  <div style="display:flex;gap:6px;margin-top:5px;">
+                    <span style="font-size:11px;font-weight:600;color:#2E7D32;background:#E8F5E9;padding:2px 8px;border-radius:999px;">EN</span>
+                    <span style="font-size:11px;font-weight:600;color:#2E7D32;background:#E8F5E9;padding:2px 8px;border-radius:999px;">Devanagari</span>
+                  </div>
+                </div>
+                <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#C62828;cursor:pointer;" title="Remove download">delete_outline</span>
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#A0A4AC;">chevron_right</span>
+                </div>
+              </div>
+              <div style="display:flex;align-items:center;gap:12px;padding:14px 0;">
+                <div style="width:44px;height:44px;border-radius:12px;background:#F0F0F3;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#A0A4AC;">menu_book</span>
+                </div>
+                <div style="flex:1;min-width:0;">
+                  <div style="font-size:16px;font-weight:500;color:#000000;">ನನ್ನ ಕನಸು</div>
+                  <div style="font-size:12px;color:#A0A4AC;margin-top:5px;">No transliteration or translation yet</div>
+                </div>
+                <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#B5541A;cursor:pointer;" title="Download">download</span>
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#A0A4AC;">chevron_right</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid rgba(0,0,0,0.08);background:rgba(255,255,255,0.9);padding:8px 0 22px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">home</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Home</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">auto_stories</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Library</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">search</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Search</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">menu_book</span>
+              <span style="font-size:11px;font-weight:600;color:#A0A4AC;">Reader</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:23px;color:#B5541A;font-variation-settings:'FILL' 1;">explore</span>
+              <span style="font-size:11px;font-weight:600;color:#B5541A;">Explore</span>
+            </div>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" hint-size="412,892">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:16px 16px 4px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Explore</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">search</span>
+            </div>
+            <div style="padding:0 16px 14px;font-size:13px;color:#60646C;">Browse the full catalog</div>
+            <div style="padding:0 16px;display:flex;align-items:center;gap:4px;overflow:hidden;">
+              <span style="font-size:13px;color:#60646C;">KSEEB</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;color:#60646C;">Karnataka</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;color:#60646C;">English</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;color:#60646C;">Grade 5</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:15px;color:#A0A4AC;">chevron_right</span>
+              <span style="font-size:13px;font-weight:600;color:#B5541A;background:#FCEADD;padding:3px 10px;border-radius:999px;">Kannada</span>
+            </div>
+            <div style="padding:20px 16px 6px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;">2 chapters</span>
+              <span style="font-size:13px;font-weight:600;color:#B5541A;">Download all</span>
+            </div>
+            <div style="padding:0 16px;">
+              <div style="display:flex;align-items:center;gap:12px;padding:14px 0;border-bottom:1px solid #D8D9DE;">
+                <div style="width:44px;height:44px;border-radius:12px;background:#FCEADD;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">menu_book</span>
+                </div>
+                <div style="flex:1;min-width:0;">
+                  <div style="font-size:16px;font-weight:500;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+                  <div style="display:flex;gap:6px;margin-top:5px;">
+                    <span style="font-size:11px;font-weight:600;color:#2E7D32;background:#E8F5E9;padding:2px 8px;border-radius:999px;">EN</span>
+                    <span style="font-size:11px;font-weight:600;color:#2E7D32;background:#E8F5E9;padding:2px 8px;border-radius:999px;">Devanagari</span>
+                  </div>
+                </div>
+                <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#C62828;cursor:pointer;" title="Remove download">delete_outline</span>
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#A0A4AC;">chevron_right</span>
+                </div>
+              </div>
+              <div style="display:flex;align-items:center;gap:12px;padding:14px 0;">
+                <div style="width:44px;height:44px;border-radius:12px;background:#F0F0F3;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#A0A4AC;">menu_book</span>
+                </div>
+                <div style="flex:1;min-width:0;">
+                  <div style="font-size:16px;font-weight:500;color:#000000;">ನನ್ನ ಕನಸು</div>
+                  <div style="font-size:12px;color:#A0A4AC;margin-top:5px;">No transliteration or translation yet</div>
+                </div>
+                <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#B5541A;cursor:pointer;" title="Download">download</span>
+                  <span style="font-family:'Material Symbols Outlined';font-size:20px;color:#A0A4AC;">chevron_right</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid #D8D9DE;background:#ffffff;padding:10px 0 12px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">home</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Home</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">auto_stories</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Library</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">search</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Search</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">menu_book</span>
+              <span style="font-size:12px;font-weight:500;color:#60646C;">Reader</span>
+            </div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;">
+              <div style="background:#FCEADD;border-radius:999px;padding:4px 20px;display:flex;align-items:center;justify-content:center;">
+                <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;font-variation-settings:'FILL' 1;">explore</span>
+              </div>
+              <span style="font-size:12px;font-weight:600;color:#B5541A;">Explore</span>
+            </div>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
+  <sc-if value="{{isReader}}">
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" title="ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ" hint-size="402,874">
+        <div style="padding:0 20px 32px;">
+          <div style="font-size:13px;font-weight:600;color:#4B4F57;letter-spacing:0.01em;padding:0 0 12px;">KSEEB · Karnataka · English · Grade 5 · Kannada</div>
+
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin:12px 0 8px;">Introduction</div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="font-size:18px;line-height:29px;color:#000000;flex:1;">ಸಂತೋಷ, ದುಃಖ, ನೋವು — ಈ ಅನುಭವಗಳು ನಿನಗೂ ಆಗಿರಬಹುದಲ್ಲವೇ?</div>
+              <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#B5541A;cursor:pointer;flex-shrink:0;margin-top:4px;" title="Read aloud">volume_up</span>
+            </div>
+            <div style="font-size:15px;line-height:24px;color:#60646C;margin-top:6px;">सन्तोष, दुःख, नोवु — ई अनुभवगळु निनगू आगिरबहुदल्लवे?</div>
+            <div style="font-size:15px;line-height:22px;color:#000000;margin-top:4px;">Joy, sorrow, pain — haven't these experiences happened to you too?</div>
+            <div style="height:1px;background:#D8D9DE;margin-top:16px;"></div>
+          </div>
+
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin:16px 0 8px;">Poem — Stanza 1</div>
+          <div style="background:#F0F0F3;border-radius:16px;padding:14px;margin-bottom:16px;display:flex;flex-direction:column;gap:12px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div><div style="font-size:13px;color:#60646C;margin-top:2px;">बण्णद तगडिन तुत्तूरि · The colorful tin trumpet,</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಕಾಸಿಗೆ ಕೊಂಡನು ಕಸ್ತೂರಿ</div><div style="font-size:13px;color:#60646C;margin-top:2px;">कासिगे कोण्डनु कस्तूरि · Kasturi bought it for a coin.</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಸರಿಗಮಪದನಿಸ ಊದಿದನು</div><div style="font-size:13px;color:#60646C;margin-top:2px;">सरिगमपदनिस ऊदिदनु · He blew Sa-Ri-Ga-Ma-Pa-Da-Ni-Sa.</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಸನಿದಪ ಮಗರಿಸ ಊದಿದನು</div><div style="font-size:13px;color:#60646C;margin-top:2px;">सनिदप मगरिस ऊदिदनु · He blew Sa-Ni-Da-Pa-Ma-Ga-Ri-Sa.</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+          </div>
+
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin:16px 0 8px;">Word meanings</div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="flex:1;"><div style="display:flex;align-items:baseline;gap:8px;"><span style="font-size:18px;font-weight:700;color:#B5541A;">ಕಾಸು</span><span style="color:#A0A4AC;">→</span><span style="font-size:16px;color:#000000;">ಹಣ</span></div><div style="font-size:12px;color:#60646C;margin-top:2px;">kāsu · haṇa — coin / money</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+          </div>
+
+          <div onClick="{{goExercises}}" style="display:flex;align-items:center;justify-content:space-between;background:#F0F0F3;border-radius:16px;padding:14px 16px;margin-bottom:16px;cursor:pointer;">
+            <div>
+              <div style="font-size:15px;font-weight:600;color:#000000;">Exercises</div>
+              <div style="font-size:12px;color:#60646C;margin-top:2px;">3 sets · A, B, C</div>
+            </div>
+            <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">arrow_forward</span>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" title="ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ" hint-size="412,892">
+        <div style="padding:0 16px 32px;font-family:Roboto,system-ui,sans-serif;">
+          <div style="font-size:13px;font-weight:600;color:#4B4F57;letter-spacing:0.01em;padding:0 0 12px;">KSEEB · Karnataka · English · Grade 5 · Kannada</div>
+
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin:12px 0 8px;">Introduction</div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="font-size:18px;line-height:29px;color:#000000;flex:1;">ಸಂತೋಷ, ದುಃಖ, ನೋವು — ಈ ಅನುಭವಗಳು ನಿನಗೂ ಆಗಿರಬಹುದಲ್ಲವೇ?</div>
+              <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#B5541A;cursor:pointer;flex-shrink:0;margin-top:4px;" title="Read aloud">volume_up</span>
+            </div>
+            <div style="font-size:15px;line-height:24px;color:#60646C;margin-top:6px;">सन्तोष, दुःख, नोवु — ई अनुभवगळु निनगू आगिरबहुदल्लवे?</div>
+            <div style="font-size:15px;line-height:22px;color:#000000;margin-top:4px;">Joy, sorrow, pain — haven't these experiences happened to you too?</div>
+            <div style="height:1px;background:#D8D9DE;margin-top:16px;"></div>
+          </div>
+
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin:16px 0 8px;">Poem — Stanza 1</div>
+          <div style="background:#F0F0F3;border-radius:16px;padding:14px;margin-bottom:16px;display:flex;flex-direction:column;gap:12px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div><div style="font-size:13px;color:#60646C;margin-top:2px;">बण्णद तगडिन तुत्तूरि · The colorful tin trumpet,</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಕಾಸಿಗೆ ಕೊಂಡನು ಕಸ್ತೂರಿ</div><div style="font-size:13px;color:#60646C;margin-top:2px;">कासिगे कोण्डनु कस्तूरि · Kasturi bought it for a coin.</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಸರಿಗಮಪದನಿಸ ಊದಿದನು</div><div style="font-size:13px;color:#60646C;margin-top:2px;">सरिगमपदनिस ऊदिदनु · He blew Sa-Ri-Ga-Ma-Pa-Da-Ni-Sa.</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;"><div style="flex:1;"><div style="font-size:17px;font-weight:500;color:#000000;">ಸನಿದಪ ಮಗರಿಸ ಊದಿದನು</div><div style="font-size:13px;color:#60646C;margin-top:2px;">सनिदप मगरिस ऊदिदनु · He blew Sa-Ni-Da-Pa-Ma-Ga-Ri-Sa.</div></div><span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span></div>
+          </div>
+
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin:16px 0 8px;">Word meanings</div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="flex:1;"><div style="display:flex;align-items:baseline;gap:8px;"><span style="font-size:18px;font-weight:700;color:#B5541A;">ಕಾಸು</span><span style="color:#A0A4AC;">→</span><span style="font-size:16px;color:#000000;">ಹಣ</span></div><div style="font-size:12px;color:#60646C;margin-top:2px;">kāsu · haṇa — coin / money</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+          </div>
+
+          <div onClick="{{goExercises}}" style="display:flex;align-items:center;justify-content:space-between;background:#F0F0F3;border-radius:16px;padding:14px 16px;margin-bottom:16px;cursor:pointer;">
+            <div>
+              <div style="font-size:15px;font-weight:600;color:#000000;">Exercises</div>
+              <div style="font-size:12px;color:#60646C;margin-top:2px;">3 sets · A, B, C</div>
+            </div>
+            <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">arrow_forward</span>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
+  <sc-if value="{{isExercises}}">
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" title="Exercise A" hint-size="402,874">
+        <div style="padding:0 20px 32px;">
+          <div style="padding-top:16px;"><span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goReader}}">← Back to chapter</span></div>
+          <div style="font-size:13px;color:#60646C;margin-top:6px;margin-bottom:12px;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+          <div style="display:flex;gap:8px;margin-bottom:16px;">
+            <span style="padding:6px 14px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:13px;font-weight:600;">A</span>
+            <span style="padding:6px 14px;border-radius:999px;background:#F0F0F3;color:#60646C;font-size:13px;font-weight:600;">B</span>
+            <span style="padding:6px 14px;border-radius:999px;background:#F0F0F3;color:#60646C;font-size:13px;font-weight:600;">C</span>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ಏನನ್ನು ಕೊಂಡನು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">kastūriyu ēnannu koṇḍanu? · What did Kasturi buy?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿಯನ್ನು ಕೊಂಡನು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">kastūriyu baṇṇada tagaḍina tuttūriyannu koṇḍanu · Kasturi bought the colorful tin trumpet.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿ ಎಲ್ಲಿ ತುತ್ತೂರಿ ಊದಿದನು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">kastūri elli tuttūri ūdidanu? · Where did Kasturi blow the trumpet?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿ ಕೊಳದ ಬಳಿ ತುತ್ತೂರಿ ಊದಿದನು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">kastūri koḻada baḻi tuttūri ūdidanu · Kasturi blew the trumpet near the pond.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಯಾವಾಗ ಊದಿದನು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">kastūriyu tuttūriyannu yāvāga ūdidanu? · When did Kasturi blow the trumpet?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಸಂಜೆಯಲಿ ಊದಿದನು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">kastūriyu tuttūriyannu san̄jeyali ūdidanu · Kasturi blew the trumpet in the evening.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಜಂಭದ ಕೋಳಿ ಯಾರು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">jambhada kōḻi yāru? · Who is the "arrogant rooster"?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಜಂಭದ ಕೋಳಿ ಕಸ್ತೂರಿಯೇ.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">jambhada kōḻi kastūriyē · The "arrogant rooster" is Kasturi himself.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಜಂಭದ ಕೋಳಿಗೆ ಏಕೆ ಗೋಳಾಯಿತು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">jambhada kōḻige ēke gōḻāyitu? · Why did the arrogant rooster end up in grief?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ ಹಾಳಾದ್ದರಿಂದ ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯಿತು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">tuttūri nīrige jāri hāḻāddariṁda jambhada kōḻige gōḻāyitu · Because the trumpet slipped into the water and was ruined, the arrogant rooster ended up in grief.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ತುತ್ತೂರಿ ಏನಾಯಿತು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">tuttūri ēnāyitu? · What happened to the trumpet?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ, ಬಣ್ಣ ಕಳೆದುಕೊಂಡು ಹಾಳಾಯಿತು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">tuttūri nīrige jāri, baṇṇa kaḻedukoṇḍu hāḻāyitu · The trumpet slipped into the water, lost its color, and was ruined.</div>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" title="Exercise A" hint-size="412,892">
+        <div style="padding:0 16px 32px;font-family:Roboto,system-ui,sans-serif;">
+          <div style="padding-top:16px;"><span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goReader}}">← Back to chapter</span></div>
+          <div style="font-size:13px;color:#60646C;margin-top:6px;margin-bottom:12px;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+          <div style="display:flex;gap:8px;margin-bottom:16px;">
+            <span style="padding:6px 14px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:13px;font-weight:600;">A</span>
+            <span style="padding:6px 14px;border-radius:999px;background:#F0F0F3;color:#60646C;font-size:13px;font-weight:600;">B</span>
+            <span style="padding:6px 14px;border-radius:999px;background:#F0F0F3;color:#60646C;font-size:13px;font-weight:600;">C</span>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ಏನನ್ನು ಕೊಂಡನು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">kastūriyu ēnannu koṇḍanu? · What did Kasturi buy?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿಯನ್ನು ಕೊಂಡನು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">kastūriyu baṇṇada tagaḍina tuttūriyannu koṇḍanu · Kasturi bought the colorful tin trumpet.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿ ಎಲ್ಲಿ ತುತ್ತೂರಿ ಊದಿದನು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">kastūri elli tuttūri ūdidanu? · Where did Kasturi blow the trumpet?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿ ಕೊಳದ ಬಳಿ ತುತ್ತೂರಿ ಊದಿದನು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">kastūri koḻada baḻi tuttūri ūdidanu · Kasturi blew the trumpet near the pond.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಯಾವಾಗ ಊದಿದನು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">kastūriyu tuttūriyannu yāvāga ūdidanu? · When did Kasturi blow the trumpet?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಸಂಜೆಯಲಿ ಊದಿದನು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">kastūriyu tuttūriyannu san̄jeyali ūdidanu · Kasturi blew the trumpet in the evening.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಜಂಭದ ಕೋಳಿ ಯಾರು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">jambhada kōḻi yāru? · Who is the "arrogant rooster"?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ಜಂಭದ ಕೋಳಿ ಕಸ್ತೂರಿಯೇ.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">jambhada kōḻi kastūriyē · The "arrogant rooster" is Kasturi himself.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ಜಂಭದ ಕೋಳಿಗೆ ಏಕೆ ಗೋಳಾಯಿತು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">jambhada kōḻige ēke gōḻāyitu? · Why did the arrogant rooster end up in grief?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ ಹಾಳಾದ್ದರಿಂದ ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯಿತು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">tuttūri nīrige jāri hāḻāddariṁda jambhada kōḻige gōḻāyitu · Because the trumpet slipped into the water and was ruined, the arrogant rooster ended up in grief.</div>
+          </div>
+          <div style="margin-bottom:16px;">
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">Q</div><div style="flex:1;font-size:16px;color:#000000;">ತುತ್ತೂರಿ ಏನಾಯಿತು?</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:32px;margin-top:2px;">tuttūri ēnāyitu? · What happened to the trumpet?</div>
+            <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;background:#FCEADD;border-radius:12px;padding:10px;margin-top:8px;margin-left:28px;">
+              <div style="display:flex;gap:10px;align-items:flex-start;flex:1;"><div style="width:22px;height:22px;border-radius:999px;background:#ffffff;border:1px solid #B5541A;color:#B5541A;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;">A</div><div style="flex:1;font-size:16px;color:#000000;">ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ, ಬಣ್ಣ ಕಳೆದುಕೊಂಡು ಹಾಳಾಯಿತು.</div></div>
+              <span style="font-family:'Material Symbols Outlined';font-size:17px;color:#B5541A;cursor:pointer;flex-shrink:0;">volume_up</span>
+            </div>
+            <div style="font-size:12px;color:#60646C;margin-left:60px;margin-top:2px;">tuttūri nīrige jāri, baṇṇa kaḻedukoṇḍu hāḻāyitu · The trumpet slipped into the water, lost its color, and was ruined.</div>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
+  <sc-if value="{{isSettings}}">
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" hint-size="402,874">
+        <div style="padding:56px 20px 32px;">
+          <div><span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goHome}}">← Back</span></div>
+          <div style="font-size:24px;font-weight:700;color:#000000;margin-top:10px;margin-bottom:20px;">Settings</div>
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Reading languages</div>
+          <div style="border:1px solid #D8D9DE;border-radius:16px;overflow:hidden;margin-bottom:20px;">
+            <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #D8D9DE;">
+              <span style="font-size:15px;color:#000000;">Translation language</span>
+              <div style="display:flex;align-items:center;gap:6px;"><span style="font-size:14px;color:#60646C;">English</span><span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span></div>
+            </div>
+            <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;">
+              <span style="font-size:15px;color:#000000;">Transliteration script</span>
+              <div style="display:flex;align-items:center;gap:6px;"><span style="font-size:14px;color:#60646C;">Devanagari</span><span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span></div>
+            </div>
+          </div>
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Default scope</div>
+          <div style="border:1px solid #D8D9DE;border-radius:16px;padding:14px 16px;display:flex;align-items:center;justify-content:space-between;">
+            <span style="font-size:14px;color:#000000;">KSEEB · Karnataka · English · Grade 5 · Kannada</span>
+            <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" hint-size="412,892">
+        <div style="padding:16px 16px 32px;font-family:Roboto,system-ui,sans-serif;">
+          <div><span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goHome}}">← Back</span></div>
+          <div style="font-size:24px;font-weight:700;color:#000000;margin-top:10px;margin-bottom:20px;">Settings</div>
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Reading languages</div>
+          <div style="border:1px solid #D8D9DE;border-radius:16px;overflow:hidden;margin-bottom:20px;">
+            <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #D8D9DE;">
+              <span style="font-size:15px;color:#000000;">Translation language</span>
+              <div style="display:flex;align-items:center;gap:6px;"><span style="font-size:14px;color:#60646C;">English</span><span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span></div>
+            </div>
+            <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;">
+              <span style="font-size:15px;color:#000000;">Transliteration script</span>
+              <div style="display:flex;align-items:center;gap:6px;"><span style="font-size:14px;color:#60646C;">Devanagari</span><span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span></div>
+            </div>
+          </div>
+          <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Default scope</div>
+          <div style="border:1px solid #D8D9DE;border-radius:16px;padding:14px 16px;display:flex;align-items:center;justify-content:space-between;">
+            <span style="font-size:14px;color:#000000;">KSEEB · Karnataka · English · Grade 5 · Kannada</span>
+            <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span>
+          </div>
+        </div>
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{
+  &quot;initialScreen&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;'home'|'explore'|'reader'|'exercises'|'settings'&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;explore&quot;,&quot;reader&quot;,&quot;exercises&quot;,&quot;settings&quot;],&quot;section&quot;:&quot;Prototype&quot;},
+  &quot;platformFilter&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;both&quot;,&quot;tsType&quot;:&quot;'both'|'ios'|'android'&quot;,&quot;options&quot;:[&quot;both&quot;,&quot;ios&quot;,&quot;android&quot;],&quot;section&quot;:&quot;Prototype&quot;}
+}">
+class Component extends DCLogic {
+  state = { screen: this.props.initialScreen || 'home' };
+
+  renderVals() {
+    const screen = this.state.screen;
+    const pf = this.props.platformFilter ?? 'both';
+    return {
+      isHome: screen === 'home',
+      notHome: screen !== 'home',
+      isExplore: screen === 'explore',
+      notExplore: screen !== 'explore',
+      isReader: screen === 'reader',
+      notReader: screen !== 'reader',
+      isExercises: screen === 'exercises',
+      notExercises: screen !== 'exercises',
+      isSettings: screen === 'settings',
+      notSettings: screen !== 'settings',
+      goHome: () => this.setState({ screen: 'home' }),
+      goExplore: () => this.setState({ screen: 'explore' }),
+      goReader: () => this.setState({ screen: 'reader' }),
+      goExercises: () => this.setState({ screen: 'exercises' }),
+      goSettings: () => this.setState({ screen: 'settings' }),
+      showIOS: pf !== 'android',
+      showAndroid: pf !== 'ios',
+    };
+  }
+}
+</script>
+</body>
+</html>
