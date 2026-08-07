@@ -8,9 +8,11 @@
     "scheme": "mobile",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.srikanth650.akshar"
     },
     "android": {
+      "package": "com.srikanth650.akshar",
       "adaptiveIcon": {
         "backgroundColor": "#FCEADD",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -37,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f76849cd-064d-4360-86c3-4f70fbbc04fd"
+      }
+    },
+    "owner": "srikanth650"
   }
 }
