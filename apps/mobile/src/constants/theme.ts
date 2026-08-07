@@ -21,6 +21,11 @@ export const Colors = {
     // Soft accent surface (e.g. selected/active chips) — same hue family as tint,
     // matches the adaptive icon background in app.json.
     tintMuted: '#FCEADD',
+    // Text/icon color for content placed directly on a `tint`-filled surface
+    // (e.g. a primary button's label). Not just `background` reused — dark
+    // mode's lighter tint fails white-text contrast, so this needs its own
+    // per-theme value.
+    onTint: '#ffffff',
     success: '#2E7D32',
     warning: '#B8860B',
     error: '#C62828',
@@ -36,6 +41,7 @@ export const Colors = {
     border: '#3A3D42',
     tint: '#E8935F',
     tintMuted: '#3A2A1E',
+    onTint: '#241005',
     success: '#66BB6A',
     warning: '#E0A84D',
     error: '#EF5350',
