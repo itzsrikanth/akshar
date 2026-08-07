@@ -20,8 +20,11 @@ source of truth for the *values*.
   child with homework — the tone should read as approachable and human, not like enterprise
   software. Terracotta/cream over a cooler, more "productivity tool" blue-and-gray palette
   supports that.
-- **Light and dark both matter.** This is a homework-time app — evenings, low light — so dark
-  mode isn't optional polish.
+- **Light and dark both matter eventually, but v1 ships light only.** This is a homework-time
+  app — evenings, low light — so dark mode isn't optional polish long-term. `Colors.dark` is
+  fully defined in `theme.ts` for exactly that reason, but `useTheme()` currently pins to
+  `Colors.light` unconditionally, to keep initial design/QA scope to one theme. Re-enabling is a
+  one-line change in `use-theme.ts` (see the comment there) — no token rework needed.
 - **Segment text needs its own type scale entry.** Kannada, Devanagari, Tamil, and Telugu all
   carry matras and diacritics above and below the baseline that a Latin-tuned line-height
   clips or crowds. `Typography.reading` uses a taller line-height (1.6×) than `Typography.body`
