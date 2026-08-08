@@ -65,42 +65,56 @@ export default function ExploreScreen() {
             </ThemedText>
           </View>
 
-          {CHAPTERS.map((chapter, i) => (
-            <View key={chapter.title} style={[styles.chapterRow, i < CHAPTERS.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
-              <View style={[styles.chapterIcon, { backgroundColor: chapter.downloaded ? theme.tintMuted : theme.backgroundElement }]}>
-                <MaterialCommunityIcons name="book-open-page-variant" size={22} color={chapter.downloaded ? theme.tint : theme.textDisabled} />
+          {CHAPTERS.map((chapter, i) => {
+            const row = (
+              <View style={styles.chapterRowInner}>
+                <View style={[styles.chapterIcon, { backgroundColor: chapter.downloaded ? theme.tintMuted : theme.backgroundElement }]}>
+                  <MaterialCommunityIcons name="book-open-page-variant" size={22} color={chapter.downloaded ? theme.tint : theme.textDisabled} />
+                </View>
+                <View style={styles.f1}>
+                  <ThemedText type="default">{chapter.title}</ThemedText>
+                  {chapter.badges.length > 0 ? (
+                    <View style={styles.badgeRow}>
+                      {chapter.badges.map((badge) => (
+                        // theme.success at reduced opacity via hex alpha, rather than a
+                        // new successMuted token — a one-off availability badge, not
+                        // reused enough yet to warrant expanding the token set.
+                        <View key={badge} style={[styles.badge, { backgroundColor: `${theme.success}1A` }]}>
+                          <ThemedText type="smallBold" themeColor="success">
+                            {badge}
+                          </ThemedText>
+                        </View>
+                      ))}
+                    </View>
+                  ) : (
+                    <ThemedText type="small" themeColor="textDisabled" style={styles.mt5}>
+                      {chapter.caption}
+                    </ThemedText>
+                  )}
+                </View>
+                <View style={styles.chapterActions}>
+                  <MaterialCommunityIcons
+                    name={chapter.downloaded ? 'delete-outline' : 'download'}
+                    size={20}
+                    color={chapter.downloaded ? theme.error : theme.tint}
+                  />
+                  <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
+                </View>
               </View>
-              <View style={styles.f1}>
-                <ThemedText type="default">{chapter.title}</ThemedText>
-                {chapter.badges.length > 0 ? (
-                  <View style={styles.badgeRow}>
-                    {chapter.badges.map((badge) => (
-                      // theme.success at reduced opacity via hex alpha, rather than a
-                      // new successMuted token — a one-off availability badge, not
-                      // reused enough yet to warrant expanding the token set.
-                      <View key={badge} style={[styles.badge, { backgroundColor: `${theme.success}1A` }]}>
-                        <ThemedText type="smallBold" themeColor="success">
-                          {badge}
-                        </ThemedText>
-                      </View>
-                    ))}
-                  </View>
-                ) : (
-                  <ThemedText type="small" themeColor="textDisabled" style={styles.mt5}>
-                    {chapter.caption}
-                  </ThemedText>
-                )}
+            );
+            const rowStyle = [styles.chapterRow, i < CHAPTERS.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }];
+            // Only the chapter with real content is tappable — there's nowhere
+            // for the other one to open yet (see the comment on CHAPTERS above).
+            return chapter.downloaded ? (
+              <Pressable key={chapter.title} onPress={() => router.push('/reader')} style={rowStyle}>
+                {row}
+              </Pressable>
+            ) : (
+              <View key={chapter.title} style={rowStyle}>
+                {row}
               </View>
-              <View style={styles.chapterActions}>
-                <MaterialCommunityIcons
-                  name={chapter.downloaded ? 'delete-outline' : 'download'}
-                  size={20}
-                  color={chapter.downloaded ? theme.error : theme.tint}
-                />
-                <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
-              </View>
-            </View>
-          ))}
+            );
+          })}
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
@@ -118,7 +132,8 @@ const styles = StyleSheet.create({
   subjectPill: { paddingVertical: 3, paddingHorizontal: 10, borderRadius: Radius.pill },
   sectionHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: Spacing.two },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5 },
-  chapterRow: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three, paddingVertical: Spacing.three },
+  chapterRow: { paddingVertical: Spacing.three },
+  chapterRowInner: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three },
   chapterIcon: { width: 44, height: 44, borderRadius: Radius.medium, alignItems: 'center', justifyContent: 'center' },
   chapterActions: { flexDirection: 'row', alignItems: 'center', gap: Spacing.two },
   badgeRow: { flexDirection: 'row', gap: 6, marginTop: 5 },
