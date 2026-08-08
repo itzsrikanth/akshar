@@ -35,6 +35,14 @@ so it's known if jsDelivr ever needs bypassing.
 is exactly what a local cache should compare against to know whether to re-download (see
 Downloads in `product-brief.md`).
 
+**Implemented (basic):** `src/services/content-repository.ts`'s `CdnContentRepository` does the
+actual `fetch()` against this URL scheme — `getCatalog()`/`getChapter(path)`, no persistence yet
+(that's the download layer above, still just a plan). `src/services/config.ts` points it at a
+local dev server instead of jsDelivr whenever `__DEV__` is true — see
+`docs/local-dev-content-server.md` for why and how to run one. Reader and Exercises
+(`src/hooks/use-chapter.ts`) are the first real consumers, replacing what used to be a direct
+`import`-ed chapter JSON.
+
 ## No-backend architecture — repository pattern
 
 There is no backend today, and the plan (per `product-brief.md`'s download model) is for one to
