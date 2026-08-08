@@ -195,7 +195,7 @@ def render_chapter(chapter_dir, source_path):
                 for a in annotate(defn["id"]):
                     lines.append(f"  - {a}")
 
-        elif t in ("prose", "question", "fill_blank") and seg.get("exercise"):
+        elif t in ("prose", "question", "fill_blank", "true_false") and seg.get("exercise"):
             ex = seg["exercise"]
             enter(f"exercise-{ex}", f"Exercise {ex}")
             if t == "prose":

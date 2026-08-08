@@ -63,6 +63,7 @@
             "question",
             "answer",
             "fill_blank",
+            "true_false",
             "vocabulary_term",
             "vocabulary_definition",
             "note_term",
