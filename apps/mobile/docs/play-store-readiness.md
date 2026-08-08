@@ -5,13 +5,15 @@ Status: In progress — tracks what's done vs. still needed for a first Play Sto
 ## Done
 
 - **App icon, adaptive icon, splash icon, favicon** — real Akshar brand assets (`assets/images/`),
-  replacing the unmodified Expo template defaults. Built from a Gemini-generated glyph
-  (`assets/images/gemini/` — kept as source for future regeneration), cleaned up with
-  ImageMagick (removed a stray generation artifact, rebuilt real alpha transparency for the
-  Android layers — the raw Gemini "transparent" export was actually a baked-in checkerboard
-  texture on an opaque background, not real transparency). Android adaptive foreground is scaled
-  to fit Google's "safe zone" (center ~61% of the canvas) so it survives circular/squircle
-  launcher masks without clipping.
+  replacing the unmodified Expo template defaults. Built from a Gemini-generated glyph (the raw
+  ~2MB source exports were removed afterward to keep repo size down — only the derived PNGs
+  actually in use are committed) using ImageMagick: removed a stray generation artifact, rebuilt real alpha
+  transparency for the Android layers (the raw Gemini "transparent" export was actually a
+  baked-in checkerboard texture on an opaque background, not real transparency). Android adaptive
+  foreground is scaled to fit Google's "safe zone" (center ~61% of the canvas) so it survives
+  circular/squircle launcher masks without clipping. To regenerate from scratch later, the two
+  Gemini prompts used are preserved in this conversation's history — re-run them and repeat the
+  ImageMagick cleanup steps (sparkle removal, chroma-key transparency, safe-zone scaling).
 - **`app.json` branding** — `name`/`slug` were still the Expo default `"mobile"`; now `"Akshar"` /
   `"akshar"`. `scheme` (deep link prefix) updated the same way, confirmed nothing in code
   referenced the old value. Removed `ios.icon`'s Icon Composer bundle (`assets/expo.icon/`) — an
