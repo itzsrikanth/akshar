@@ -10,9 +10,10 @@ import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
-import { availableLanguages, availableScripts, deriveScope, labelForLanguage, labelForScript } from '@/services/scope';
+import { availableLanguages, availableScripts, labelForLanguage, labelForScript } from '@/services/scope';
 
 export default function SettingsScreen() {
   const state = useCatalog();
@@ -52,7 +53,7 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
     () => availableScripts(catalog).map((code) => ({ label: labelForScript(code), value: code })),
     [catalog],
   );
-  const scope = useMemo(() => deriveScope(catalog), [catalog]);
+  const { scope, isSaved } = useScope(catalog);
 
   // Local-only state, not yet persisted anywhere (no ProgressRepository yet).
   const [translation, setTranslation] = useState(translationOptions[0]?.value);
@@ -96,9 +97,16 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
             DEFAULT SCOPE
           </ThemedText>
           <Pressable onPress={() => router.push('/explore')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
-            <ThemedText type="small" style={styles.f1}>
-              {`${scope.board} · ${scope.state} · ${scope.medium} · Grade ${scope.grade} · ${scope.subject}`}
-            </ThemedText>
+            <View style={styles.f1}>
+              <ThemedText type="small">
+                {`${scope.board} · ${scope.state} · ${scope.medium} · Grade ${scope.grade}`}
+              </ThemedText>
+              {!isSaved && (
+                <ThemedText type="small" themeColor="textDisabled" style={styles.mt2}>
+                  Using default — browse Explore to set your own
+                </ThemedText>
+              )}
+            </View>
             <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
           </Pressable>
         </>
@@ -116,4 +124,5 @@ const styles = StyleSheet.create({
   card: { borderWidth: 1, borderRadius: Radius.medium, marginBottom: Spacing.four, overflow: 'hidden' },
   row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three, paddingHorizontal: Spacing.three },
   f1: { flex: 1 },
+  mt2: { marginTop: 2 },
 });

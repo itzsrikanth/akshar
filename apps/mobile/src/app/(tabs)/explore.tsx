@@ -10,10 +10,11 @@ import { ThemedView } from '@/components/themed-view';
 import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
 import { autoResolve, filterChapters, LEVEL_KEYS, levelLabel, levelName, optionsAtLevel } from '@/services/hierarchy';
-import { labelForLanguage, labelForScript } from '@/services/scope';
+import { labelForLanguage, labelForScript, scopesEqual, type Scope } from '@/services/scope';
 import type { LevelValue } from '@/services/hierarchy';
 
 export default function ExploreScreen() {
@@ -49,6 +50,16 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
   const resolved = useMemo(() => autoResolve(catalog.chapters, manualSelected), [catalog, manualSelected]);
   const atChapterList = resolved.length === LEVEL_KEYS.length;
   const chaptersInScope = useMemo(() => filterChapters(catalog.chapters, resolved), [catalog, resolved]);
+
+  const { scope, isSaved, setScope } = useScope(catalog);
+  // Scope is board/state/medium/grade only (see services/scope.ts) — offer
+  // to save it the moment those first 4 levels are resolved, regardless of
+  // which subject the user is currently browsing into.
+  const candidateScope: Scope | null =
+    resolved.length >= 4
+      ? { board: resolved[0] as string, state: resolved[1] as string, medium: resolved[2] as string, grade: resolved[3] as number }
+      : null;
+  const candidateIsCurrent = isSaved && scopesEqual(scope, candidateScope);
 
   return (
     <>
@@ -86,6 +97,24 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
           );
         })}
       </View>
+
+      {candidateScope && (
+        <Pressable
+          onPress={() => !candidateIsCurrent && setScope(candidateScope)}
+          disabled={candidateIsCurrent}
+          style={styles.setScopeRow}
+          hitSlop={6}
+        >
+          <MaterialCommunityIcons
+            name={candidateIsCurrent ? 'check-circle' : 'map-marker-outline'}
+            size={16}
+            color={candidateIsCurrent ? theme.success : theme.tint}
+          />
+          <ThemedText type="smallBold" themeColor={candidateIsCurrent ? 'success' : 'tint'}>
+            {candidateIsCurrent ? 'This is your default scope' : 'Set as my default scope'}
+          </ThemedText>
+        </Pressable>
+      )}
 
       {!atChapterList ? (
         <View>
@@ -181,6 +210,7 @@ const styles = StyleSheet.create({
   subtitle: { marginTop: 2, marginBottom: Spacing.three },
   breadcrumbRow: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: 2, marginBottom: Spacing.four },
   breadcrumbItem: { flexDirection: 'row', alignItems: 'center', gap: 2 },
+  setScopeRow: { flexDirection: 'row', alignItems: 'center', gap: 5, marginBottom: Spacing.four },
   subjectPill: { paddingVertical: 3, paddingHorizontal: 10, borderRadius: Radius.pill },
   sectionHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: Spacing.two },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },

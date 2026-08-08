@@ -11,9 +11,9 @@ import { ThemedView } from '@/components/themed-view';
 import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
-import { deriveScope } from '@/services/scope';
 
 // "Progress" (segmentsRead/segmentsTotal) has no backing data yet — no
 // ProgressRepository (docs/tech-implementation.md) — so it stays a fixed
@@ -40,7 +40,7 @@ export default function HomeScreen() {
 
 function HomeContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
-  const scope = useMemo(() => deriveScope(catalog), [catalog]);
+  const { scope } = useScope(catalog);
   const continueReading = catalog.chapters[0];
   const progressPct = Math.round((PLACEHOLDER_PROGRESS.segmentsRead / PLACEHOLDER_PROGRESS.segmentsTotal) * 100);
 
@@ -98,7 +98,7 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
             </Pressable>
           </View>
           <View style={styles.chipsRow}>
-            {[scope.board, scope.state, `${scope.medium} medium`, `Grade ${scope.grade}`, scope.subject].map((label) => (
+            {[scope.board, scope.state, `${scope.medium} medium`, `Grade ${scope.grade}`].map((label) => (
               <View key={label} style={[styles.chip, { borderColor: theme.border }]}>
                 <ThemedText type="small">{label}</ThemedText>
               </View>
