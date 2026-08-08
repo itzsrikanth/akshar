@@ -2,6 +2,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { Pressable, StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/themed-text';
+import { Radius } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
 
 export function AppHeader({
@@ -25,8 +26,8 @@ export function AppHeader({
         <View style={s.right}>
           <ThemedText type="small" themeColor="textSecondary">{status}</ThemedText>
           {showSettings && (
-            <Pressable onPress={onSettingsPress} hitSlop={8}>
-              <MaterialCommunityIcons name="cog-outline" size={24} color={theme.textSecondary} />
+            <Pressable onPress={onSettingsPress} hitSlop={8} style={[s.settingsButton, { backgroundColor: theme.tintMuted }]}>
+              <MaterialCommunityIcons name="cog-outline" size={20} color={theme.tint} />
             </Pressable>
           )}
         </View>
@@ -45,4 +46,8 @@ const s = StyleSheet.create({
   row: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   right: { flexDirection: 'row', alignItems: 'center', gap: 12 },
   subtitle: { marginTop: 4 },
+  // A muted icon alone on a plain background read as barely-there — the tinted
+  // pill gives the settings entry point real visual weight without competing
+  // with primary content (still tintMuted, not the full-strength tint).
+  settingsButton: { width: 32, height: 32, borderRadius: Radius.pill, alignItems: 'center', justifyContent: 'center' },
 });

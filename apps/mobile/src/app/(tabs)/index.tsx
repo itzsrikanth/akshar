@@ -30,7 +30,14 @@ export default function HomeScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          <AppHeader subtitle="Homework helper for Kannada, Grade 5" onSettingsPress={() => router.push('/settings')} />
+          {/* "Homework helper" was dropped — it reads as a promise of homework-checking
+              (camera + AI, a future-roadmap item, not built), when what this app actually
+              does is line-by-line reading/pronunciation help. Derived from scope, not a
+              second hardcoded copy of it. */}
+          <AppHeader
+            subtitle={`${SCOPE_CHIPS[4]} reading help · ${SCOPE_CHIPS[3]}`}
+            onSettingsPress={() => router.push('/settings')}
+          />
 
           <View style={styles.section}>
             <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
