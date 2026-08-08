@@ -70,7 +70,7 @@ function DevSettingsContent() {
             })}
           </View>
           <ThemedText type="small" themeColor="textDisabled" style={styles.hint}>
-            Takes effect immediately for new fetches; already-loaded screens pick it up next time you navigate to them.
+            Takes effect immediately — forces a catalog refetch from the new source everywhere in the app.
           </ThemedText>
 
           <ThemedText type="small" themeColor="textDisabled" style={styles.hint}>

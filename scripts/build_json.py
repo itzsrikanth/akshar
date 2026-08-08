@@ -12,6 +12,7 @@ Usage:
 import hashlib
 import json
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -127,7 +128,24 @@ def build_all():
             })
 
     manifest_chapters.sort(key=lambda c: (c["board"], c["state"], c["medium"], c["grade"], c["subject"], c["chapter"]))
-    manifest = {"schemaVersion": SCHEMA_VERSION, "chapters": manifest_chapters}
+
+    # Only bump generatedAt when the chapter list actually changed — a
+    # timestamp that moved on every run regardless of content would make
+    # `--check` fail spuriously (bytes always differ from whatever's
+    # committed) and would defeat the mobile app's whole reason for wanting
+    # it: a stable value it can compare against to know whether a
+    # background refetch actually found anything new.
+    generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    existing_path = API_DIR / "contents.json"
+    if existing_path.exists():
+        try:
+            existing = json.loads(existing_path.read_text(encoding="utf-8"))
+            if existing.get("chapters") == manifest_chapters:
+                generated_at = existing.get("generatedAt", generated_at)
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    manifest = {"schemaVersion": SCHEMA_VERSION, "generatedAt": generated_at, "chapters": manifest_chapters}
     written[API_DIR / "contents.json"] = manifest
     return written
 

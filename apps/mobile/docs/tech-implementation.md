@@ -31,9 +31,11 @@ Not yet built — flagged here so it isn't lost.
 outage. Not proactive failover in the client (adds complexity for a rare case) — just documented
 so it's known if jsDelivr ever needs bypassing.
 
-**Client-side staleness:** already solved — each chapter's `contentHash` in `api/contents.json`
-is exactly what a local cache should compare against to know whether to re-download (see
-Downloads in `product-brief.md`).
+**Client-side staleness:** each chapter's `contentHash` in `api/contents.json` is what a local
+cache compares against to know whether to re-download (see Downloads in `product-brief.md`); the
+manifest itself now carries a `generatedAt` timestamp (`scripts/build_json.py`, only bumped when
+the compiled output actually changes — not on every build invocation, so it stays meaningful as a
+diff signal) for the catalog-level cache below.
 
 **Implemented (basic):** `src/services/content-repository.ts`'s `CdnContentRepository` does the
 actual `fetch()` against this URL scheme — `getCatalog()`/`getChapter(path)`. `src/services/config.ts`
@@ -52,11 +54,25 @@ sake. `useChapter` (`src/hooks/use-chapter.ts`) checks a downloaded copy before 
 network, so a downloaded chapter genuinely reads offline. Group-level download ("download all" at
 the resolved grade/subject list) and staleness re-sync via `contentHash` are still not built.
 
+**Implemented (basic) — catalog cache-first at boot:** `src/services/catalog-store.ts` is the
+single shared source every `useCatalog()` call reads from (`src/hooks/use-catalog.ts`, via
+`useSyncExternalStore` — same cross-screen-consistency shape as `downloads.ts`), primed once at
+launch (`primeCatalog()`, awaited in `app/_layout.tsx` alongside `applyDevSettingsOnLaunch()`,
+before `ready` flips). A cached catalog (`src/services/catalog-cache.ts`, AsyncStorage) renders
+immediately if one exists, while a fresh fetch runs in the background and only replaces it (and
+re-persists) if `generatedAt` actually differs — so a real network round trip blocks the splash
+screen only on the very first launch ever, before any cache exists; every launch after that is
+instant. `Home`/`Explore`/`Library`/`Settings` no longer each fetch independently — they all read
+this one primed value.
+
 **Dev tooling — content-source override:** `src/services/dev-settings.ts` +
 `src/app/dev-settings.tsx` (linked from Settings' "Developer" section, itself hidden outside
 `__DEV__`) let a developer flip the active content source between the local server and jsDelivr
 at runtime, persisted across restarts, without rebuilding. `CdnContentRepository.setBaseUrl()`
-clears its in-memory fetch caches on switch so nothing stale lingers. Applied once at launch
+clears its in-memory fetch caches on switch, and `setDevContentSource()` calls
+`catalog-store.ts`'s `forceCatalogRefresh()` so the switch is visible everywhere immediately —
+necessary now that the catalog is a store primed once rather than refetched by each screen on
+mount. Applied once at launch
 (`app/_layout.tsx` awaits `applyDevSettingsOnLaunch()` before the first render) so it can't race
 the first catalog fetch. This is also the seam future dev-only flags (e.g. skipping an onboarding
 flow during testing, once one exists) are meant to extend, not a one-off.

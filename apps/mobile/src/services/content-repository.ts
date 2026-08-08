@@ -20,6 +20,8 @@ export type CatalogChapter = {
 
 export type Catalog = {
   schemaVersion: string;
+  /** ISO timestamp — only bumps when scripts/build_json.py's output actually changes (see the script). */
+  generatedAt: string;
   chapters: CatalogChapter[];
 };
 

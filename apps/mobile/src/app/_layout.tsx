@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import { useColorScheme } from 'react-native';
 
 import { SplashView } from '@/components/splash-view';
+import { primeCatalog } from '@/services/catalog-store';
 import { applyDevSettingsOnLaunch } from '@/services/dev-settings';
 
 SplashScreen.preventAutoHideAsync();
@@ -11,11 +12,12 @@ SplashScreen.preventAutoHideAsync();
 export default function RootLayout() {
   const colorScheme = useColorScheme();
   // Gates the first render, not just the splash hide — holding the splash
-  // alone wouldn't stop a tab screen underneath from already firing its
+  // alone wouldn't stop a tab screen underneath from already firing its own
   // catalog fetch against the wrong content source. In production this
-  // resolves on the next tick (applyDevSettingsOnLaunch is a no-op there),
-  // so there's no user-visible delay. This is also the seam a real
-  // "check for new content" step would slot into later (see docs).
+  // resolves quickly: dev settings are a no-op, and primeCatalog() only
+  // blocks on the network when there's no cached catalog yet (first launch
+  // ever) — every launch after that renders from cache immediately while
+  // a fresh fetch runs in the background (see services/catalog-store.ts).
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
@@ -24,7 +26,9 @@ export default function RootLayout() {
     // so the swap is invisible, but SplashView can show a live spinner for
     // however long the boot check actually takes.
     SplashScreen.hideAsync();
-    applyDevSettingsOnLaunch().finally(() => setReady(true));
+    applyDevSettingsOnLaunch()
+      .then(() => primeCatalog())
+      .finally(() => setReady(true));
   }, []);
 
   if (!ready) return <SplashView />;

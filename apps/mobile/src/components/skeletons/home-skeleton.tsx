@@ -19,9 +19,8 @@ export function HomeSkeleton() {
           <View style={styles.mt10}>
             <SkeletonLine width="35%" height={12} />
           </View>
-          <View style={[styles.progressTrack, { backgroundColor: theme.border }]} />
           <View style={styles.mt8}>
-            <SkeletonLine width="45%" height={12} />
+            <SkeletonLine width="30%" height={12} />
           </View>
         </View>
       </View>
@@ -56,7 +55,6 @@ const styles = StyleSheet.create({
   section: { paddingHorizontal: Spacing.three, marginTop: Spacing.three },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
   card: { padding: Spacing.three, borderRadius: Radius.large },
-  progressTrack: { height: 6, borderRadius: Radius.pill, marginTop: Spacing.three },
   subjectRow: {
     flexDirection: 'row',
     alignItems: 'center',

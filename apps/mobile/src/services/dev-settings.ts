@@ -6,6 +6,7 @@
 // dead-code-eliminated from the release bundle.
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
+import { forceCatalogRefresh } from './catalog-store';
 import { CONTENT_SOURCES, type ContentSourceId } from './config';
 import { setContentBaseUrlForDev } from './index';
 
@@ -42,4 +43,9 @@ export async function setDevContentSource(source: ContentSourceId): Promise<void
   if (!__DEV__) return;
   await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify({ contentSource: source }));
   setContentBaseUrlForDev(CONTENT_SOURCES[source]);
+  // The catalog is now a shared, primed-once-at-boot store (see
+  // catalog-store.ts) rather than something each screen refetches on
+  // mount, so switching source needs an explicit forced refresh to show up
+  // anywhere — screens won't pick it up just by being navigated to again.
+  await forceCatalogRefresh();
 }
