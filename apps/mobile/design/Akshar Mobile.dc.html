@@ -14,6 +14,8 @@
 body{margin:0;background:#F4F1EC;}
 a{color:#B5541A;}
 a:hover{color:#8F4315;}
+@keyframes akshar-shimmer{0%{background-position:-200px 0;}100%{background-position:200px 0;}}
+@keyframes akshar-spin{to{transform:rotate(360deg);}}
 </style>
 </helmet>
 <div style="min-height:100vh;padding:48px 24px 80px;display:flex;flex-direction:column;align-items:center;gap:28px;font-family:-apple-system,Roboto,system-ui,sans-serif;box-sizing:border-box;">
@@ -36,6 +38,8 @@ a:hover{color:#8F4315;}
     <sc-if value="{{notExercises}}"><div onClick="{{goExercises}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Exercises</div></sc-if>
     <sc-if value="{{isSettings}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Settings</div></sc-if>
     <sc-if value="{{notSettings}}"><div onClick="{{goSettings}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Settings</div></sc-if>
+    <sc-if value="{{isLoading}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Loading states</div></sc-if>
+    <sc-if value="{{notLoading}}"><div onClick="{{goLoading}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Loading states</div></sc-if>
   </div>
 
   <sc-if value="{{isHome}}" hint-placeholder-val="{{true}}">
@@ -71,13 +75,7 @@ a:hover{color:#8F4315;}
                 <span style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;">Your scope</span>
                 <span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goSettings}}">Edit</span>
               </div>
-              <div style="display:flex;gap:8px;flex-wrap:wrap;">
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">KSEEB</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Karnataka</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">English medium</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Grade 5</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Kannada</span>
-              </div>
+              <div style="border:1px solid #D8D9DE;border-radius:16px;padding:14px 16px;font-size:14px;color:#000000;">KSEEB · Karnataka · English medium · Grade 5 · Kannada</div>
             </div>
             <div style="padding:0 20px 24px;">
               <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Subjects</div>
@@ -143,13 +141,7 @@ a:hover{color:#8F4315;}
                 <span style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;">Your scope</span>
                 <span style="font-size:13px;font-weight:600;color:#B5541A;cursor:pointer;" onClick="{{goSettings}}">Edit</span>
               </div>
-              <div style="display:flex;gap:8px;flex-wrap:wrap;">
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">KSEEB</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Karnataka</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">English medium</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Grade 5</span>
-                <span style="padding:6px 12px;border-radius:999px;background:#ffffff;border:1px solid #D8D9DE;font-size:13px;color:#000000;">Kannada</span>
-              </div>
+              <div style="border:1px solid #D8D9DE;border-radius:16px;padding:14px 16px;font-size:14px;color:#000000;">KSEEB · Karnataka · English medium · Grade 5 · Kannada</div>
             </div>
             <div style="padding:0 16px 24px;">
               <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Subjects</div>
@@ -814,11 +806,259 @@ a:hover{color:#8F4315;}
   </div>
   </sc-if>
 
+  <sc-if value="{{isLoading}}">
+  <div style="text-align:center;max-width:520px;font-size:13px;color:#60646C;margin-top:-12px;">Splash on cold start, skeletons for first-load layout shape, and two loader treatments for in-page async waits — pick one per section based on how much of the screen depends on the pending data.</div>
+  <div style="display:flex;gap:6px;background:#ffffff;border:1px solid #D8D9DE;border-radius:999px;padding:4px;flex-wrap:wrap;justify-content:center;">
+    <sc-for list="{{loadingViews}}" as="v" hint-placeholder-count="4">
+      <sc-if value="{{v.active}}" hint-placeholder-val="{{true}}"><div onClick="{{v.onClick}}" style="padding:10px 18px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;">{{v.label}}</div></sc-if>
+      <sc-if value="{{v.notActive}}"><div onClick="{{v.onClick}}" style="padding:10px 18px;border-radius:999px;color:#60646C;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;">{{v.label}}</div></sc-if>
+    </sc-for>
+  </div>
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" hint-size="402,874">
+
+        <sc-if value="{{isSplash}}" hint-placeholder-val="{{true}}">
+        <div style="height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;background:#B5541A;">
+          <div style="width:72px;height:72px;border-radius:20px;background:#ffffff;display:flex;align-items:center;justify-content:center;">
+            <span style="font-family:'Material Symbols Outlined';font-size:36px;color:#B5541A;">translate</span>
+          </div>
+          <div style="font-size:26px;font-weight:700;color:#ffffff;">Akshar</div>
+          <div style="font-size:14px;color:rgba(255,255,255,0.85);">Homework helper for Kannada, Grade 5</div>
+          <div style="width:26px;height:26px;border:3px solid rgba(255,255,255,0.35);border-top-color:#ffffff;border-radius:50%;animation:akshar-spin .8s linear infinite;margin-top:14px;"></div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isSkeleton}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:56px 20px 6px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;">settings</span>
+            </div>
+            <div style="padding:0 20px 16px;width:70%;height:13px;border-radius:4px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:16px;">
+                <div style="width:55%;height:16px;border-radius:4px;background:linear-gradient(90deg,#E1E2E7 25%,#EDEEF1 37%,#E1E2E7 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                <div style="width:35%;height:12px;border-radius:4px;margin-top:10px;background:linear-gradient(90deg,#E1E2E7 25%,#EDEEF1 37%,#E1E2E7 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                <div style="height:6px;border-radius:999px;background:#E1E2E7;margin-top:16px;"></div>
+                <div style="width:45%;height:12px;border-radius:4px;margin-top:8px;background:linear-gradient(90deg,#E1E2E7 25%,#EDEEF1 37%,#E1E2E7 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+              </div>
+            </div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Your scope</div>
+              <div style="height:44px;border-radius:16px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+            </div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Subjects</div>
+              <div style="display:flex;align-items:center;gap:12px;border:1px solid #D8D9DE;border-radius:16px;padding:14px;">
+                <div style="width:44px;height:44px;border-radius:999px;flex-shrink:0;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                <div style="flex:1;display:flex;flex-direction:column;gap:6px;">
+                  <div style="width:40%;height:14px;border-radius:4px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                  <div style="width:65%;height:11px;border-radius:4px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid rgba(0,0,0,0.08);background:rgba(255,255,255,0.9);padding:8px 0 22px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#B5541A;">home</span><span style="font-size:11px;font-weight:600;color:#B5541A;">Home</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">menu_book</span><span style="font-size:11px;font-weight:600;color:#A0A4AC;">Library</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">explore</span><span style="font-size:11px;font-weight:600;color:#A0A4AC;">Explore</span></div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isLoaderInline}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:56px 20px 6px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;">settings</span>
+            </div>
+            <div style="padding:0 20px 16px;font-size:13px;color:#60646C;">Homework helper for Kannada, Grade 5</div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:32px 16px;display:flex;align-items:center;justify-content:center;">
+                <div style="width:26px;height:26px;border:3px solid #D8D9DE;border-top-color:#B5541A;border-radius:50%;animation:akshar-spin .8s linear infinite;"></div>
+              </div>
+            </div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Your scope</div>
+              <div style="border:1px solid #D8D9DE;border-radius:16px;padding:14px 16px;font-size:14px;color:#000000;">KSEEB · Karnataka · English medium · Grade 5 · Kannada</div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid rgba(0,0,0,0.08);background:rgba(255,255,255,0.9);padding:8px 0 22px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#B5541A;">home</span><span style="font-size:11px;font-weight:600;color:#B5541A;">Home</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">menu_book</span><span style="font-size:11px;font-weight:600;color:#A0A4AC;">Library</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">explore</span><span style="font-size:11px;font-weight:600;color:#A0A4AC;">Explore</span></div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isLoaderOverlay}}">
+        <div style="height:100%;position:relative;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="flex:1;overflow:hidden;">
+            <div style="padding:56px 20px 6px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;">settings</span>
+            </div>
+            <div style="padding:0 20px 16px;font-size:13px;color:#60646C;">Homework helper for Kannada, Grade 5</div>
+            <div style="padding:0 20px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:16px;">
+                <div style="font-size:18px;font-weight:600;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+                <div style="font-size:13px;color:#60646C;margin-top:4px;">KSEEB · Karnataka · Grade 5 · Kannada</div>
+              </div>
+            </div>
+          </div>
+          <div style="position:absolute;inset:0;background:rgba(255,255,255,0.7);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;">
+            <div style="width:32px;height:32px;border:3px solid #D8D9DE;border-top-color:#B5541A;border-radius:50%;animation:akshar-spin .8s linear infinite;"></div>
+            <div style="font-size:14px;font-weight:600;color:#4B4F57;">Loading…</div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid rgba(0,0,0,0.08);background:rgba(255,255,255,0.9);padding:8px 0 22px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#B5541A;">home</span><span style="font-size:11px;font-weight:600;color:#B5541A;">Home</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">menu_book</span><span style="font-size:11px;font-weight:600;color:#A0A4AC;">Library</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;"><span style="font-family:'Material Symbols Outlined';font-size:23px;color:#A0A4AC;">explore</span><span style="font-size:11px;font-weight:600;color:#A0A4AC;">Explore</span></div>
+          </div>
+        </div>
+        </sc-if>
+
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" hint-size="412,892">
+
+        <sc-if value="{{isSplash}}" hint-placeholder-val="{{true}}">
+        <div style="height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;background:#B5541A;font-family:Roboto,system-ui,sans-serif;">
+          <div style="width:72px;height:72px;border-radius:20px;background:#ffffff;display:flex;align-items:center;justify-content:center;">
+            <span style="font-family:'Material Symbols Outlined';font-size:36px;color:#B5541A;">translate</span>
+          </div>
+          <div style="font-size:26px;font-weight:700;color:#ffffff;">Akshar</div>
+          <div style="font-size:14px;color:rgba(255,255,255,0.85);">Homework helper for Kannada, Grade 5</div>
+          <div style="width:26px;height:26px;border:3px solid rgba(255,255,255,0.35);border-top-color:#ffffff;border-radius:50%;animation:akshar-spin .8s linear infinite;margin-top:14px;"></div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isSkeleton}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:16px 16px 4px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;">settings</span>
+            </div>
+            <div style="padding:0 16px 16px;width:70%;height:13px;border-radius:4px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:16px;">
+                <div style="width:55%;height:16px;border-radius:4px;background:linear-gradient(90deg,#E1E2E7 25%,#EDEEF1 37%,#E1E2E7 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                <div style="width:35%;height:12px;border-radius:4px;margin-top:10px;background:linear-gradient(90deg,#E1E2E7 25%,#EDEEF1 37%,#E1E2E7 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                <div style="height:6px;border-radius:999px;background:#E1E2E7;margin-top:16px;"></div>
+                <div style="width:45%;height:12px;border-radius:4px;margin-top:8px;background:linear-gradient(90deg,#E1E2E7 25%,#EDEEF1 37%,#E1E2E7 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+              </div>
+            </div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Your scope</div>
+              <div style="height:44px;border-radius:16px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+            </div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Subjects</div>
+              <div style="display:flex;align-items:center;gap:12px;border:1px solid #D8D9DE;border-radius:16px;padding:14px;">
+                <div style="width:44px;height:44px;border-radius:999px;flex-shrink:0;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                <div style="flex:1;display:flex;flex-direction:column;gap:6px;">
+                  <div style="width:40%;height:14px;border-radius:4px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                  <div style="width:65%;height:11px;border-radius:4px;background:linear-gradient(90deg,#E8E9ED 25%,#F4F5F7 37%,#E8E9ED 63%);background-size:400px 100%;animation:akshar-shimmer 1.4s ease-in-out infinite;"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid #D8D9DE;background:#ffffff;padding:10px 0 12px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">home</span><span style="font-size:12px;font-weight:500;color:#B5541A;">Home</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">menu_book</span><span style="font-size:12px;font-weight:500;color:#60646C;">Library</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">explore</span><span style="font-size:12px;font-weight:500;color:#60646C;">Explore</span></div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isLoaderInline}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;overflow:auto;">
+            <div style="padding:16px 16px 4px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;">settings</span>
+            </div>
+            <div style="padding:0 16px 16px;font-size:13px;color:#60646C;">Homework helper for Kannada, Grade 5</div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:32px 16px;display:flex;align-items:center;justify-content:center;">
+                <div style="width:26px;height:26px;border:3px solid #D8D9DE;border-top-color:#B5541A;border-radius:50%;animation:akshar-spin .8s linear infinite;"></div>
+              </div>
+            </div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Your scope</div>
+              <div style="border:1px solid #D8D9DE;border-radius:16px;padding:14px 16px;font-size:14px;color:#000000;">KSEEB · Karnataka · English medium · Grade 5 · Kannada</div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid #D8D9DE;background:#ffffff;padding:10px 0 12px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">home</span><span style="font-size:12px;font-weight:500;color:#B5541A;">Home</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">menu_book</span><span style="font-size:12px;font-weight:500;color:#60646C;">Library</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">explore</span><span style="font-size:12px;font-weight:500;color:#60646C;">Explore</span></div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isLoaderOverlay}}">
+        <div style="height:100%;position:relative;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;overflow:hidden;">
+            <div style="padding:16px 16px 4px;display:flex;justify-content:space-between;align-items:center;">
+              <span style="font-size:24px;font-weight:700;color:#000000;">Akshar</span>
+              <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;">settings</span>
+            </div>
+            <div style="padding:0 16px 16px;font-size:13px;color:#60646C;">Homework helper for Kannada, Grade 5</div>
+            <div style="padding:0 16px 24px;">
+              <div style="font-size:13px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Continue reading</div>
+              <div style="background:#F0F0F3;border-radius:20px;padding:16px;">
+                <div style="font-size:18px;font-weight:600;color:#000000;">ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ</div>
+                <div style="font-size:13px;color:#60646C;margin-top:4px;">KSEEB · Karnataka · Grade 5 · Kannada</div>
+              </div>
+            </div>
+          </div>
+          <div style="position:absolute;inset:0;background:rgba(255,255,255,0.7);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;">
+            <div style="width:32px;height:32px;border:3px solid #D8D9DE;border-top-color:#B5541A;border-radius:50%;animation:akshar-spin .8s linear infinite;"></div>
+            <div style="font-size:14px;font-weight:600;color:#4B4F57;">Loading…</div>
+          </div>
+          <div style="flex-shrink:0;display:flex;border-top:1px solid #D8D9DE;background:#ffffff;padding:10px 0 12px;">
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#B5541A;">home</span><span style="font-size:12px;font-weight:500;color:#B5541A;">Home</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">menu_book</span><span style="font-size:12px;font-weight:500;color:#60646C;">Library</span></div>
+            <div style="flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;"><span style="font-family:'Material Symbols Outlined';font-size:22px;color:#60646C;">explore</span><span style="font-size:12px;font-weight:500;color:#60646C;">Explore</span></div>
+          </div>
+        </div>
+        </sc-if>
+
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{
-  &quot;initialScreen&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;'home'|'explore'|'reader'|'exercises'|'settings'&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;explore&quot;,&quot;reader&quot;,&quot;exercises&quot;,&quot;settings&quot;],&quot;section&quot;:&quot;Prototype&quot;},
+  &quot;initialScreen&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;'home'|'explore'|'reader'|'exercises'|'settings'|'loading'&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;explore&quot;,&quot;reader&quot;,&quot;exercises&quot;,&quot;settings&quot;,&quot;loading&quot;],&quot;section&quot;:&quot;Prototype&quot;},
   &quot;platformFilter&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;both&quot;,&quot;tsType&quot;:&quot;'both'|'ios'|'android'&quot;,&quot;options&quot;:[&quot;both&quot;,&quot;ios&quot;,&quot;android&quot;],&quot;section&quot;:&quot;Prototype&quot;}
 }">
+const LOADING_VIEWS = [
+  { id: 'splash', label: 'Splash' },
+  { id: 'skeleton', label: 'Skeleton' },
+  { id: 'loader-inline', label: 'In-area loader' },
+  { id: 'loader-overlay', label: 'Full-screen loader' },
+];
+
 const EXERCISE_TYPES = [
   { id: 'answer', label: 'Answer the following' },
   { id: 'fillblank', label: 'Fill in the blanks' },
@@ -858,13 +1098,15 @@ const REASONS_ITEMS = [
 ];
 
 class Component extends DCLogic {
-  state = { screen: this.props.initialScreen || 'home', exerciseType: 'answer' };
+  state = { screen: this.props.initialScreen || 'home', exerciseType: 'answer', loadingView: 'splash' };
 
   renderVals() {
     const screen = this.state.screen;
     const pf = this.props.platformFilter ?? 'both';
     const et = this.state.exerciseType;
+    const lv = this.state.loadingView;
     const setType = (id) => this.setState({ exerciseType: id });
+    const setLoadingView = (id) => this.setState({ loadingView: id });
     return {
       isHome: screen === 'home',
       notHome: screen !== 'home',
@@ -878,6 +1120,9 @@ class Component extends DCLogic {
       notExercises: screen !== 'exercises',
       isSettings: screen === 'settings',
       notSettings: screen !== 'settings',
+      isLoading: screen === 'loading',
+      notLoading: screen !== 'loading',
+      goLoading: () => this.setState({ screen: 'loading' }),
       goHome: () => this.setState({ screen: 'home' }),
       goExplore: () => this.setState({ screen: 'explore' }),
       goLibrary: () => this.setState({ screen: 'library' }),
@@ -898,6 +1143,12 @@ class Component extends DCLogic {
       matchItems: MATCH_ITEMS.map((m, i) => ({ ...m, num: i + 1 })),
       trueFalseItems: TRUEFALSE_ITEMS.map(i => ({ ...i, notAnswer: !i.answer })),
       reasonsItems: REASONS_ITEMS,
+
+      loadingViews: LOADING_VIEWS.map(v => ({ ...v, active: v.id === lv, notActive: v.id !== lv, onClick: () => setLoadingView(v.id) })),
+      isSplash: lv === 'splash',
+      isSkeleton: lv === 'skeleton',
+      isLoaderInline: lv === 'loader-inline',
+      isLoaderOverlay: lv === 'loader-overlay',
     };
   }
 }
