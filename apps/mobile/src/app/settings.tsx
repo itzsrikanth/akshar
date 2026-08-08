@@ -1,8 +1,9 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Host, Picker } from '@expo/ui';
+import Constants from 'expo-constants';
 import { router } from 'expo-router';
 import { useMemo, useState } from 'react';
-import { ScrollView, StyleSheet, View } from 'react-native';
+import { Linking, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
@@ -123,6 +124,30 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
         </>
       )}
 
+      <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+        ABOUT
+      </ThemedText>
+      <View style={[styles.card, { borderColor: theme.border }]}>
+        <Touchable
+          onPress={() => Linking.openURL('https://github.com/itzsrikanth/akshar/blob/main/apps/mobile/PRIVACY_POLICY.md')}
+          style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+        >
+          <ThemedText type="default" style={styles.f1}>
+            Privacy policy
+          </ThemedText>
+          <MaterialCommunityIcons name="open-in-new" size={16} color={theme.textDisabled} />
+        </Touchable>
+        <Touchable onPress={() => Linking.openURL('https://github.com/itzsrikanth/akshar')} style={styles.row}>
+          <ThemedText type="default" style={styles.f1}>
+            Source code
+          </ThemedText>
+          <MaterialCommunityIcons name="open-in-new" size={16} color={theme.textDisabled} />
+        </Touchable>
+      </View>
+      <ThemedText type="small" themeColor="textDisabled" style={styles.versionText}>
+        {`Akshar ${Constants.expoConfig?.version ?? ''}`}
+      </ThemedText>
+
       {__DEV__ && (
         <>
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
@@ -150,4 +175,5 @@ const styles = StyleSheet.create({
   row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three, paddingHorizontal: Spacing.three },
   f1: { flex: 1 },
   mt2: { marginTop: 2 },
+  versionText: { textAlign: 'center', marginTop: Spacing.two, marginBottom: Spacing.four },
 });

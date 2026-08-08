@@ -18,8 +18,7 @@ export const Colors = {
     border: '#D8D9DE',
     // Akshar brand accent — warm terracotta, distinct from Expo's stock blue.
     tint: '#B5541A',
-    // Soft accent surface (e.g. selected/active chips) — same hue family as tint,
-    // matches the adaptive icon background in app.json.
+    // Soft accent surface (e.g. selected/active chips) — same hue family as tint.
     tintMuted: '#FCEADD',
     // Text/icon color for content placed directly on a `tint`-filled surface
     // (e.g. a primary button's label). Not just `background` reused — dark
