@@ -123,7 +123,19 @@ second storage dependency yet; downloads similarly skip a manifest store (see th
 note above) and don't extend `ContentRepository`'s interface — they're a genuinely separate
 concern (persisting a fetch result vs. how to fetch), kept as their own `downloads.ts` module
 rather than folded into the fetch interface. `ProgressRepository` and `expo-sqlite/kv-store`
-itself remain unbuilt, plan-only.
+itself remain unbuilt, plan-only — except for one slice pulled forward early: Home's "continue
+reading" card and Library's per-chapter status line used to read `catalog.chapters[0]` and a
+fixed `{ segmentsRead: 5, segmentsTotal: 12 }` constant, which was fabricated data with no basis
+in anything the user had actually done — a direct violation of this project's "never fabricate,
+show 'not yet available' instead" rule. `src/services/reading-history.ts` (AsyncStorage,
+`akshar:reading-history:default`) now records `{ path, openedAt }` when Reader actually finishes
+loading a chapter (`app/reader.tsx`), and `src/hooks/use-reading-history.ts` exposes it via
+`useFocusEffect` so Home/Library pick up a chapter opened in Reader on the way back, without
+needing a synchronous shared store the way `downloads.ts` does. This is chapter-level only —
+segment-level "N of M read" from the interface above still needs Reader to track which segments
+were actually seen (scroll/viewport tracking), which is a bigger lift than this pass and stays
+plan-only for now. When it's built, `reading-history.ts` should fold into the real
+`ProgressRepository`/`LocalProgressRepository`, not stay a separate module.
 
 ## Component architecture — feature modules, not Atomic Design
 

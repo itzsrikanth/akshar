@@ -14,15 +14,11 @@ import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
+import { useLastOpenedChapter } from '@/hooks/use-reading-history';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
-
-// "Progress" (segmentsRead/segmentsTotal) has no backing data yet — no
-// ProgressRepository (docs/tech-implementation.md) — so it stays a fixed
-// placeholder even though everything else on this screen now comes from
-// the real catalog fetch.
-const PLACEHOLDER_PROGRESS = { segmentsRead: 5, segmentsTotal: 12 };
+import { formatRelativeTime } from '@/services/reading-history';
 
 export default function HomeScreen() {
   const state = useCatalog();
@@ -53,8 +49,12 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
   const { scope } = useScope(catalog);
   const downloads = useDownloads();
-  const continueReading = catalog.chapters[0];
-  const progressPct = Math.round((PLACEHOLDER_PROGRESS.segmentsRead / PLACEHOLDER_PROGRESS.segmentsTotal) * 100);
+  const lastOpened = useLastOpenedChapter();
+  // Real chapter, looked up by the path actually opened — not
+  // catalog.chapters[0] (that was a fabricated stand-in for "the user's
+  // current chapter" with no basis in what they'd actually read). Section
+  // simply doesn't render until there's a real entry (see JSX below).
+  const continueReading = lastOpened ? catalog.chapters.find((c) => c.path === lastOpened.path) : undefined;
 
   const subjects = useMemo(() => {
     const bySubject = new Map<string, { total: number; downloaded: number }>();
@@ -69,7 +69,7 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
 
   return (
     <ScrollView contentContainerStyle={styles.content}>
-      {continueReading && (
+      {continueReading && lastOpened && (
         <View style={styles.section}>
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             CONTINUE READING
@@ -79,14 +79,11 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
             <ThemedText type="small" themeColor="textSecondary" style={styles.mt4}>
               {`${continueReading.board} · ${continueReading.state} · Grade ${continueReading.grade} · ${continueReading.subject}`}
             </ThemedText>
-            <View style={[styles.progressTrack, { backgroundColor: theme.border }]}>
-              <View style={[styles.progressFill, { width: `${progressPct}%`, backgroundColor: theme.tint }]} />
-            </View>
             <ThemedText type="small" themeColor="textSecondary" style={styles.mt6}>
-              {PLACEHOLDER_PROGRESS.segmentsRead} of {PLACEHOLDER_PROGRESS.segmentsTotal} segments read
+              {`Opened ${formatRelativeTime(lastOpened.openedAt)}`}
             </ThemedText>
             <Touchable
-              onPress={() => router.push('/reader')}
+              onPress={() => router.push({ pathname: '/reader', params: { path: continueReading.path } })}
               style={[styles.pillButton, { backgroundColor: theme.tint }]}
             >
               <ThemedText type="smallBold" themeColor="onTint">
@@ -155,8 +152,6 @@ const styles = StyleSheet.create({
   sectionHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
   card: { padding: Spacing.three },
-  progressTrack: { height: 6, borderRadius: Radius.pill, marginTop: Spacing.three },
-  progressFill: { height: 6, borderRadius: Radius.pill },
   pillButton: {
     alignSelf: 'flex-start',
     marginTop: Spacing.three,

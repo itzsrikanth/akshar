@@ -13,14 +13,10 @@ import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
+import { useReadingHistoryMap } from '@/hooks/use-reading-history';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
-
-// "Segments read" has no backing data yet — no ProgressRepository (see
-// docs/tech-implementation.md) — so it stays a fixed placeholder even
-// though which chapters are "downloaded" and their titles now come from
-// the real catalog fetch.
-const PLACEHOLDER_PROGRESS = { segmentsRead: 5, segmentsTotal: 12 };
+import { formatRelativeTime } from '@/services/reading-history';
 
 export default function LibraryScreen() {
   const state = useCatalog();
@@ -58,6 +54,7 @@ export default function LibraryScreen() {
 function LibraryContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
   const downloads = useDownloads();
+  const history = useReadingHistoryMap();
   const downloaded = useMemo(
     () => catalog.chapters.filter((c) => downloads.isDownloaded(c.slug)),
     [catalog, downloads.downloadedSlugs],
@@ -88,7 +85,7 @@ function LibraryContent({ catalog }: { catalog: Catalog }) {
           <View style={styles.f1}>
             <ThemedText type="default">{chapter.title}</ThemedText>
             <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
-              {`${PLACEHOLDER_PROGRESS.segmentsRead} of ${PLACEHOLDER_PROGRESS.segmentsTotal} segments read`}
+              {history.has(chapter.path) ? `Opened ${formatRelativeTime(history.get(chapter.path)!.openedAt)}` : 'Not opened yet'}
             </ThemedText>
           </View>
           <Touchable onPress={() => downloads.remove(chapter.slug)} hitSlop={8}>

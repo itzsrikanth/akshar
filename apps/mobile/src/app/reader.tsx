@@ -1,6 +1,6 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router, useLocalSearchParams } from 'expo-router';
-import { useMemo } from 'react';
+import { useEffect, useMemo } from 'react';
 import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -17,6 +17,7 @@ import { Radius, Spacing } from '@/constants/theme';
 import { useChapter } from '@/hooks/use-chapter';
 import { useTheme } from '@/hooks/use-theme';
 import type { Chapter, ChapterSegment } from '@/services/content-repository';
+import { recordChapterOpened } from '@/services/reading-history';
 
 function deriveReaderData(chapter: Chapter) {
   const { segments } = chapter;
@@ -84,6 +85,13 @@ export default function ReaderScreen() {
   const { path } = useLocalSearchParams<{ path?: string }>();
   const chapterPath = path ?? DEFAULT_CHAPTER_PATH;
   const state = useChapter(chapterPath);
+
+  // Real "continue reading" signal for Home/Library (see
+  // services/reading-history.ts) — recorded once the chapter actually
+  // loads, not on navigation, so a failed/offline open doesn't count.
+  useEffect(() => {
+    if (state.status === 'ready') recordChapterOpened(chapterPath);
+  }, [state.status, chapterPath]);
 
   return (
     <ThemedView style={styles.container}>
