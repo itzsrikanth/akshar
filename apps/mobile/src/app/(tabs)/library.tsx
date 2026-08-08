@@ -1,22 +1,26 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
+import { useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
+import { useCatalog } from '@/hooks/use-catalog';
 import { useTheme } from '@/hooks/use-theme';
+import type { Catalog } from '@/services/content-repository';
 
-// Placeholder — real chapter data (api/contents.json), but "downloaded" and
-// "segments read" aren't tracked anywhere yet (no download layer, no
-// ProgressRepository — see docs/tech-implementation.md). Only ch01 is shown
-// since it's the only chapter that's ever actually been "read" in this
-// placeholder sense; ch02 has no coverage yet (see explore.tsx).
-const DOWNLOADED = [{ title: 'ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ', segmentsRead: 5, segmentsTotal: 12 }];
+// "Segments read" has no backing data yet — no ProgressRepository (see
+// docs/tech-implementation.md) — so it stays a fixed placeholder even
+// though which chapters are "downloaded" and their titles now come from
+// the real catalog fetch.
+const PLACEHOLDER_PROGRESS = { segmentsRead: 5, segmentsTotal: 12 };
 
 export default function LibraryScreen() {
-  const theme = useTheme();
+  const state = useCatalog();
 
   return (
     <ThemedView style={styles.container}>
@@ -27,27 +31,7 @@ export default function LibraryScreen() {
             Chapters you've downloaded for offline reading
           </ThemedText>
 
-          <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
-            {`DOWNLOADED · ${DOWNLOADED.length}`}
-          </ThemedText>
-          {DOWNLOADED.map((chapter, i) => (
-            <Pressable
-              key={chapter.title}
-              onPress={() => router.push('/reader')}
-              style={[styles.row, i < DOWNLOADED.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
-            >
-              <View style={[styles.icon, { backgroundColor: theme.tintMuted }]}>
-                <MaterialCommunityIcons name="book-open-page-variant" size={22} color={theme.tint} />
-              </View>
-              <View style={styles.f1}>
-                <ThemedText type="default">{chapter.title}</ThemedText>
-                <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
-                  {`${chapter.segmentsRead} of ${chapter.segmentsTotal} segments read`}
-                </ThemedText>
-              </View>
-              <MaterialCommunityIcons name="delete-outline" size={20} color={theme.error} />
-            </Pressable>
-          ))}
+          {state.status !== 'ready' ? <AsyncStateView state={state} /> : <LibraryContent catalog={state.catalog} />}
 
           <Pressable onPress={() => router.push('/explore')} style={styles.browseLink}>
             <ThemedText type="smallBold" themeColor="tint">
@@ -57,6 +41,40 @@ export default function LibraryScreen() {
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+function LibraryContent({ catalog }: { catalog: Catalog }) {
+  const theme = useTheme();
+  const downloaded = useMemo(
+    () => catalog.chapters.filter((c) => DOWNLOADED_SLUGS.includes(c.slug)),
+    [catalog],
+  );
+
+  return (
+    <>
+      <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+        {`DOWNLOADED · ${downloaded.length}`}
+      </ThemedText>
+      {downloaded.map((chapter, i) => (
+        <Pressable
+          key={chapter.slug}
+          onPress={() => router.push({ pathname: '/reader', params: { path: chapter.path } })}
+          style={[styles.row, i < downloaded.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+        >
+          <View style={[styles.icon, { backgroundColor: theme.tintMuted }]}>
+            <MaterialCommunityIcons name="book-open-page-variant" size={22} color={theme.tint} />
+          </View>
+          <View style={styles.f1}>
+            <ThemedText type="default">{chapter.title}</ThemedText>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
+              {`${PLACEHOLDER_PROGRESS.segmentsRead} of ${PLACEHOLDER_PROGRESS.segmentsTotal} segments read`}
+            </ThemedText>
+          </View>
+          <MaterialCommunityIcons name="delete-outline" size={20} color={theme.error} />
+        </Pressable>
+      ))}
+    </>
   );
 }
 

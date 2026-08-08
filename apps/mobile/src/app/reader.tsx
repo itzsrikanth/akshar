@@ -1,10 +1,10 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
-import { router } from 'expo-router';
+import { router, useLocalSearchParams } from 'expo-router';
 import { useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { ChapterLoadState } from '@/components/chapter-load-state';
+import { AsyncStateView } from '@/components/async-state-view';
 import { EXERCISE_TYPES } from '@/components/exercises/registry';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
@@ -18,7 +18,19 @@ import type { Chapter, ChapterSegment } from '@/services/content-repository';
 function deriveReaderData(chapter: Chapter) {
   const { segments } = chapter;
   const competency = segments.find((s) => s.type === 'competency');
-  const introLines = segments.filter((s) => s.section === 'intro' && s.type !== 'competency');
+
+  // Any segment tagged with a `section` (intro, story, ...) gets its own
+  // labeled block, in source order — not hardcoded to "Introduction" only.
+  // ch01 has just "intro"; ch02 also has a "story" section with dialogue
+  // lines. Poem/vocab/notes/exercise segments never carry `section`, so
+  // this partition doesn't overlap with those below.
+  const sectionKeys = Array.from(new Set(segments.filter((s) => s.section).map((s) => s.section as string)));
+  const sections = sectionKeys.map((key) => ({
+    key,
+    label: chapter.labels?.[key]?.en ?? key.charAt(0).toUpperCase() + key.slice(1),
+    segments: segments.filter((s) => s.section === key),
+  }));
+
   const poemLines = segments.filter((s) => s.type === 'poem_line');
   const stanzas = Array.from(new Set(poemLines.map((l) => l.stanza))).sort((a, b) => (a ?? 0) - (b ?? 0));
   const vocabTerms = segments.filter((s) => s.type === 'vocabulary_term');
@@ -27,7 +39,7 @@ function deriveReaderData(chapter: Chapter) {
   const noteDefs = new Map(segments.filter((s) => s.type === 'note_definition').map((s) => [s.ref, s]));
   const exerciseLetters = Array.from(new Set(segments.filter((s) => s.exercise).map((s) => s.exercise as string))).sort();
   const breadcrumb = `${chapter.meta.board} · ${chapter.meta.state} · ${chapter.meta.medium} · Grade ${chapter.meta.grade} · ${chapter.meta.subject}`;
-  return { competency, introLines, poemLines, stanzas, vocabTerms, vocabDefs, noteTerms, noteDefs, exerciseLetters, breadcrumb };
+  return { competency, sections, poemLines, stanzas, vocabTerms, vocabDefs, noteTerms, noteDefs, exerciseLetters, breadcrumb };
 }
 
 function SectionLabel({ children }: { children: string }) {
@@ -66,7 +78,9 @@ function TermPair({ term, definition }: { term: ChapterSegment; definition?: Cha
 
 export default function ReaderScreen() {
   const theme = useTheme();
-  const state = useChapter(DEFAULT_CHAPTER_PATH);
+  const { path } = useLocalSearchParams<{ path?: string }>();
+  const chapterPath = path ?? DEFAULT_CHAPTER_PATH;
+  const state = useChapter(chapterPath);
 
   return (
     <ThemedView style={styles.container}>
@@ -86,13 +100,17 @@ export default function ReaderScreen() {
           </Pressable>
         </View>
 
-        {state.status !== 'ready' ? <ChapterLoadState state={state} /> : <ReaderContent chapter={state.chapter} />}
+        {state.status !== 'ready' ? (
+          <AsyncStateView state={state} />
+        ) : (
+          <ReaderContent chapter={state.chapter} chapterPath={chapterPath} />
+        )}
       </SafeAreaView>
     </ThemedView>
   );
 }
 
-function ReaderContent({ chapter }: { chapter: Chapter }) {
+function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath: string }) {
   const theme = useTheme();
   const data = useMemo(() => deriveReaderData(chapter), [chapter]);
 
@@ -114,18 +132,21 @@ function ReaderContent({ chapter }: { chapter: Chapter }) {
         </View>
       )}
 
-      <View style={styles.section}>
-        <SectionLabel>{chapter.labels?.intro?.en ?? 'Introduction'}</SectionLabel>
-        {data.introLines.map((line, i) => (
-          <View key={line.id} style={i > 0 ? styles.mt4 : undefined}>
-            <SegmentLine
-              source={line.text}
-              transliteration={line.transliterations?.devanagari}
-              translation={line.translations?.en}
-            />
-          </View>
-        ))}
-      </View>
+      {data.sections.map((section) => (
+        <View key={section.key} style={styles.section}>
+          <SectionLabel>{section.label}</SectionLabel>
+          {section.segments.map((seg, i) => (
+            <View key={seg.id} style={i > 0 ? styles.mt4 : undefined}>
+              <SegmentLine
+                source={seg.text}
+                transliteration={seg.transliterations?.devanagari}
+                translation={seg.translations?.en}
+                speaker={seg.speaker}
+              />
+            </View>
+          ))}
+        </View>
+      ))}
 
       {data.stanzas.map((stanza) => (
         <View key={stanza} style={styles.section}>
@@ -181,7 +202,7 @@ function ReaderContent({ chapter }: { chapter: Chapter }) {
       {data.exerciseLetters.length > 0 && (
         <View style={styles.section}>
           <Pressable
-            onPress={() => router.push('/exercises')}
+            onPress={() => router.push({ pathname: '/exercises', params: { path: chapterPath } })}
             style={[styles.exercisesCard, { backgroundColor: theme.backgroundElement }]}
           >
             <View>

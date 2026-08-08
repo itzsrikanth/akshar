@@ -1,107 +1,136 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
+import { useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AppHeader } from '@/components/app-header';
+import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
+import { useCatalog } from '@/hooks/use-catalog';
 import { useTheme } from '@/hooks/use-theme';
+import type { Catalog } from '@/services/content-repository';
+import { deriveScope } from '@/services/scope';
 
-// Placeholder data — no content-fetch or local-progress layer exists yet
-// (see docs/tech-implementation.md's repository-pattern plan). Real values
-// below (title, board/state/medium/grade/subject) are ch01-bannada-tagadina's
-// actual api/contents.json entry; "progress" and "downloaded" counts are
-// static mockups matching the Claude Design source, not live-tracked yet.
-const SCOPE_CHIPS = ['KSEEB', 'Karnataka', 'English medium', 'Grade 5', 'Kannada'];
-const CONTINUE_READING = {
-  title: 'ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ',
-  meta: 'KSEEB · Karnataka · Grade 5 · Kannada',
-  segmentsRead: 5,
-  segmentsTotal: 12,
-};
+// "Progress" (segmentsRead/segmentsTotal) has no backing data yet — no
+// ProgressRepository (docs/tech-implementation.md) — so it stays a fixed
+// placeholder even though everything else on this screen now comes from
+// the real catalog fetch.
+const PLACEHOLDER_PROGRESS = { segmentsRead: 5, segmentsTotal: 12 };
 
 export default function HomeScreen() {
-  const theme = useTheme();
-  const progressPct = Math.round((CONTINUE_READING.segmentsRead / CONTINUE_READING.segmentsTotal) * 100);
+  const state = useCatalog();
 
   return (
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
-        <ScrollView contentContainerStyle={styles.content}>
-          {/* Generic placeholder copy for now — "Homework helper" was dropped
-              because it reads as a promise of homework-checking (camera + AI,
-              a future-roadmap item, not built). Revisit with real tagline
-              copy once the core reading flow has been used by someone. */}
-          <AppHeader subtitle="Learning app" onSettingsPress={() => router.push('/settings')} />
-
-          <View style={styles.section}>
-            <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
-              CONTINUE READING
-            </ThemedText>
-            <ThemedView type="backgroundElement" style={[styles.card, { borderRadius: Radius.large }]}>
-              <ThemedText type="subtitle">{CONTINUE_READING.title}</ThemedText>
-              <ThemedText type="small" themeColor="textSecondary" style={styles.mt4}>
-                {CONTINUE_READING.meta}
-              </ThemedText>
-              <View style={[styles.progressTrack, { backgroundColor: theme.border }]}>
-                <View style={[styles.progressFill, { width: `${progressPct}%`, backgroundColor: theme.tint }]} />
-              </View>
-              <ThemedText type="small" themeColor="textSecondary" style={styles.mt6}>
-                {CONTINUE_READING.segmentsRead} of {CONTINUE_READING.segmentsTotal} segments read
-              </ThemedText>
-              <Pressable
-                onPress={() => router.push('/reader')}
-                style={[styles.pillButton, { backgroundColor: theme.tint }]}
-              >
-                <ThemedText type="smallBold" themeColor="onTint">
-                  Continue reading
-                </ThemedText>
-              </Pressable>
-            </ThemedView>
-          </View>
-
-          <View style={styles.section}>
-            <View style={styles.sectionHeaderRow}>
-              <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
-                YOUR SCOPE
-              </ThemedText>
-              <Pressable onPress={() => router.push('/settings')} hitSlop={8}>
-                <ThemedText type="smallBold" themeColor="tint">
-                  Edit
-                </ThemedText>
-              </Pressable>
-            </View>
-            <View style={styles.chipsRow}>
-              {SCOPE_CHIPS.map((label) => (
-                <View key={label} style={[styles.chip, { borderColor: theme.border }]}>
-                  <ThemedText type="small">{label}</ThemedText>
-                </View>
-              ))}
-            </View>
-          </View>
-
-          <View style={styles.section}>
-            <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
-              SUBJECTS
-            </ThemedText>
-            <View style={[styles.subjectRow, { borderColor: theme.border }]}>
-              <View style={[styles.subjectIcon, { backgroundColor: theme.tintMuted }]}>
-                <MaterialCommunityIcons name="translate" size={22} color={theme.tint} />
-              </View>
-              <View style={styles.f1}>
-                <ThemedText type="default">Kannada</ThemedText>
-                <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
-                  1 chapter downloaded · 1 available
-                </ThemedText>
-              </View>
-              <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
-            </View>
-          </View>
-        </ScrollView>
+        {/* Generic placeholder copy for now — "Homework helper" was dropped
+            because it reads as a promise of homework-checking (camera + AI,
+            a future-roadmap item, not built). Revisit with real tagline
+            copy once the core reading flow has been used by someone. */}
+        <AppHeader subtitle="Learning app" onSettingsPress={() => router.push('/settings')} />
+        {state.status !== 'ready' ? <AsyncStateView state={state} /> : <HomeContent catalog={state.catalog} />}
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+function HomeContent({ catalog }: { catalog: Catalog }) {
+  const theme = useTheme();
+  const scope = useMemo(() => deriveScope(catalog), [catalog]);
+  const continueReading = catalog.chapters[0];
+  const progressPct = Math.round((PLACEHOLDER_PROGRESS.segmentsRead / PLACEHOLDER_PROGRESS.segmentsTotal) * 100);
+
+  const subjects = useMemo(() => {
+    const bySubject = new Map<string, { total: number; downloaded: number }>();
+    for (const c of catalog.chapters) {
+      const entry = bySubject.get(c.subject) ?? { total: 0, downloaded: 0 };
+      entry.total += 1;
+      if (DOWNLOADED_SLUGS.includes(c.slug)) entry.downloaded += 1;
+      bySubject.set(c.subject, entry);
+    }
+    return Array.from(bySubject, ([subject, counts]) => ({ subject, ...counts }));
+  }, [catalog]);
+
+  return (
+    <ScrollView contentContainerStyle={styles.content}>
+      {continueReading && (
+        <View style={styles.section}>
+          <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+            CONTINUE READING
+          </ThemedText>
+          <ThemedView type="backgroundElement" style={[styles.card, { borderRadius: Radius.large }]}>
+            <ThemedText type="subtitle">{continueReading.title}</ThemedText>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt4}>
+              {`${continueReading.board} · ${continueReading.state} · Grade ${continueReading.grade} · ${continueReading.subject}`}
+            </ThemedText>
+            <View style={[styles.progressTrack, { backgroundColor: theme.border }]}>
+              <View style={[styles.progressFill, { width: `${progressPct}%`, backgroundColor: theme.tint }]} />
+            </View>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt6}>
+              {PLACEHOLDER_PROGRESS.segmentsRead} of {PLACEHOLDER_PROGRESS.segmentsTotal} segments read
+            </ThemedText>
+            <Pressable
+              onPress={() => router.push('/reader')}
+              style={[styles.pillButton, { backgroundColor: theme.tint }]}
+            >
+              <ThemedText type="smallBold" themeColor="onTint">
+                Continue reading
+              </ThemedText>
+            </Pressable>
+          </ThemedView>
+        </View>
+      )}
+
+      {scope && (
+        <View style={styles.section}>
+          <View style={styles.sectionHeaderRow}>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+              YOUR SCOPE
+            </ThemedText>
+            <Pressable onPress={() => router.push('/settings')} hitSlop={8}>
+              <ThemedText type="smallBold" themeColor="tint">
+                Edit
+              </ThemedText>
+            </Pressable>
+          </View>
+          <View style={styles.chipsRow}>
+            {[scope.board, scope.state, `${scope.medium} medium`, `Grade ${scope.grade}`, scope.subject].map((label) => (
+              <View key={label} style={[styles.chip, { borderColor: theme.border }]}>
+                <ThemedText type="small">{label}</ThemedText>
+              </View>
+            ))}
+          </View>
+        </View>
+      )}
+
+      <View style={styles.section}>
+        <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+          SUBJECTS
+        </ThemedText>
+        {subjects.map((s) => (
+          <Pressable
+            key={s.subject}
+            onPress={() => router.push('/explore')}
+            style={[styles.subjectRow, { borderColor: theme.border }]}
+          >
+            <View style={[styles.subjectIcon, { backgroundColor: theme.tintMuted }]}>
+              <MaterialCommunityIcons name="translate" size={22} color={theme.tint} />
+            </View>
+            <View style={styles.f1}>
+              <ThemedText type="default">{s.subject}</ThemedText>
+              <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+                {`${s.downloaded} chapter${s.downloaded === 1 ? '' : 's'} downloaded · ${s.total} available`}
+              </ThemedText>
+            </View>
+            <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
+          </Pressable>
+        ))}
+      </View>
+    </ScrollView>
   );
 }
 
@@ -124,7 +153,15 @@ const styles = StyleSheet.create({
   },
   chipsRow: { flexDirection: 'row', flexWrap: 'wrap', gap: Spacing.two },
   chip: { paddingVertical: Spacing.one, paddingHorizontal: Spacing.three, borderRadius: Radius.pill, borderWidth: 1 },
-  subjectRow: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three, borderWidth: 1, borderRadius: Radius.medium, padding: Spacing.three },
+  subjectRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: Spacing.three,
+    borderWidth: 1,
+    borderRadius: Radius.medium,
+    padding: Spacing.three,
+    marginBottom: Spacing.two,
+  },
   subjectIcon: { width: 44, height: 44, borderRadius: Radius.pill, alignItems: 'center', justifyContent: 'center' },
   f1: { flex: 1 },
   mt2: { marginTop: 2 },

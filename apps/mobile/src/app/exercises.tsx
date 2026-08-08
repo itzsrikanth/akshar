@@ -1,4 +1,4 @@
-import { router } from 'expo-router';
+import { router, useLocalSearchParams } from 'expo-router';
 import { useMemo, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -10,7 +10,7 @@ import { MatchExercise } from '@/components/exercises/match-exercise';
 import { ReasonsExercise } from '@/components/exercises/reasons-exercise';
 import { TrueFalseExercise } from '@/components/exercises/true-false-exercise';
 import type { AnswerItem, ExerciseTypeId, FillBlankItem, MatchItem } from '@/components/exercises/types';
-import { ChapterLoadState } from '@/components/chapter-load-state';
+import { AsyncStateView } from '@/components/async-state-view';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
@@ -86,7 +86,8 @@ function deriveExerciseData(chapter: Chapter) {
 }
 
 export default function ExercisesScreen() {
-  const state = useChapter(DEFAULT_CHAPTER_PATH);
+  const { path } = useLocalSearchParams<{ path?: string }>();
+  const state = useChapter(path ?? DEFAULT_CHAPTER_PATH);
 
   return (
     <ThemedView style={styles.container}>
@@ -98,7 +99,7 @@ export default function ExercisesScreen() {
             </ThemedText>
           </Pressable>
           {state.status !== 'ready' ? (
-            <ChapterLoadState state={state} />
+            <AsyncStateView state={state} />
           ) : (
             <ExercisesContent chapter={state.chapter} />
           )}

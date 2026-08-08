@@ -1,30 +1,22 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
+import { useMemo } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
+import { useCatalog } from '@/hooks/use-catalog';
 import { useTheme } from '@/hooks/use-theme';
-
-// Placeholder — real chapter titles/coverage from api/contents.json
-// (KSEEB/Karnataka/English/Grade5/Kannada), but there's only ever been one
-// board/state/medium/grade/subject combination in the content so far, so
-// there's nowhere else the breadcrumb could actually navigate to yet. Kept
-// static rather than wired to fake hierarchy navigation. Same for
-// download/delete/"Download all" — no download layer exists yet (see
-// docs/tech-implementation.md), so these render the target visual state but
-// aren't Pressable.
-const BREADCRUMB = ['KSEEB', 'Karnataka', 'English', 'Grade 5'];
-const CURRENT_SUBJECT = 'Kannada';
-const CHAPTERS = [
-  { title: 'ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ', badges: ['EN', 'Devanagari'], caption: null, downloaded: true },
-  { title: 'ನನ್ನ ಕನಸು', badges: [] as string[], caption: 'No transliteration or translation yet', downloaded: false },
-];
+import type { Catalog } from '@/services/content-repository';
+import { deriveScope, labelForLanguage, labelForScript } from '@/services/scope';
 
 export default function ExploreScreen() {
   const theme = useTheme();
+  const state = useCatalog();
 
   return (
     <ThemedView style={styles.container}>
@@ -40,84 +32,103 @@ export default function ExploreScreen() {
             Browse the full catalog
           </ThemedText>
 
-          <View style={styles.breadcrumbRow}>
-            {BREADCRUMB.map((segment) => (
-              <View key={segment} style={styles.breadcrumbItem}>
-                <ThemedText type="small" themeColor="textSecondary">
-                  {segment}
-                </ThemedText>
-                <MaterialCommunityIcons name="chevron-right" size={15} color={theme.textDisabled} />
-              </View>
-            ))}
-            <View style={[styles.subjectPill, { backgroundColor: theme.tintMuted }]}>
-              <ThemedText type="smallBold" themeColor="tint">
-                {CURRENT_SUBJECT}
-              </ThemedText>
-            </View>
-          </View>
-
-          <View style={styles.sectionHeaderRow}>
-            <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
-              {CHAPTERS.length} CHAPTERS
-            </ThemedText>
-            <ThemedText type="smallBold" themeColor="tint">
-              Download all
-            </ThemedText>
-          </View>
-
-          {CHAPTERS.map((chapter, i) => {
-            const row = (
-              <View style={styles.chapterRowInner}>
-                <View style={[styles.chapterIcon, { backgroundColor: chapter.downloaded ? theme.tintMuted : theme.backgroundElement }]}>
-                  <MaterialCommunityIcons name="book-open-page-variant" size={22} color={chapter.downloaded ? theme.tint : theme.textDisabled} />
-                </View>
-                <View style={styles.f1}>
-                  <ThemedText type="default">{chapter.title}</ThemedText>
-                  {chapter.badges.length > 0 ? (
-                    <View style={styles.badgeRow}>
-                      {chapter.badges.map((badge) => (
-                        // theme.success at reduced opacity via hex alpha, rather than a
-                        // new successMuted token — a one-off availability badge, not
-                        // reused enough yet to warrant expanding the token set.
-                        <View key={badge} style={[styles.badge, { backgroundColor: `${theme.success}1A` }]}>
-                          <ThemedText type="smallBold" themeColor="success">
-                            {badge}
-                          </ThemedText>
-                        </View>
-                      ))}
-                    </View>
-                  ) : (
-                    <ThemedText type="small" themeColor="textDisabled" style={styles.mt5}>
-                      {chapter.caption}
-                    </ThemedText>
-                  )}
-                </View>
-                <View style={styles.chapterActions}>
-                  <MaterialCommunityIcons
-                    name={chapter.downloaded ? 'delete-outline' : 'download'}
-                    size={20}
-                    color={chapter.downloaded ? theme.error : theme.tint}
-                  />
-                  <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
-                </View>
-              </View>
-            );
-            const rowStyle = [styles.chapterRow, i < CHAPTERS.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }];
-            // Only the chapter with real content is tappable — there's nowhere
-            // for the other one to open yet (see the comment on CHAPTERS above).
-            return chapter.downloaded ? (
-              <Pressable key={chapter.title} onPress={() => router.push('/reader')} style={rowStyle}>
-                {row}
-              </Pressable>
-            ) : (
-              <View key={chapter.title} style={rowStyle}>
-                {row}
-              </View>
-            );
-          })}
+          {state.status !== 'ready' ? <AsyncStateView state={state} /> : <ExploreContent catalog={state.catalog} />}
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+function ExploreContent({ catalog }: { catalog: Catalog }) {
+  const theme = useTheme();
+  const scope = useMemo(() => deriveScope(catalog), [catalog]);
+
+  return (
+    <>
+      {/* Static, not a hierarchy picker — every chapter in the real catalog
+          shares this one board/state/medium/grade path today, so there's
+          nowhere else the breadcrumb could actually navigate to yet. */}
+      {scope && (
+        <View style={styles.breadcrumbRow}>
+          {[scope.board, scope.state, scope.medium, `Grade ${scope.grade}`].map((segment) => (
+            <View key={segment} style={styles.breadcrumbItem}>
+              <ThemedText type="small" themeColor="textSecondary">
+                {segment}
+              </ThemedText>
+              <MaterialCommunityIcons name="chevron-right" size={15} color={theme.textDisabled} />
+            </View>
+          ))}
+          <View style={[styles.subjectPill, { backgroundColor: theme.tintMuted }]}>
+            <ThemedText type="smallBold" themeColor="tint">
+              {scope.subject}
+            </ThemedText>
+          </View>
+        </View>
+      )}
+
+      <View style={styles.sectionHeaderRow}>
+        <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+          {`${catalog.chapters.length} CHAPTERS`}
+        </ThemedText>
+        <ThemedText type="smallBold" themeColor="tint">
+          Download all
+        </ThemedText>
+      </View>
+
+      {catalog.chapters.map((chapter, i) => {
+        const downloaded = DOWNLOADED_SLUGS.includes(chapter.slug);
+        const badges = [...chapter.translations.map(labelForLanguage), ...chapter.transliterations.map(labelForScript)];
+        const row = (
+          <View style={styles.chapterRowInner}>
+            <View style={[styles.chapterIcon, { backgroundColor: downloaded ? theme.tintMuted : theme.backgroundElement }]}>
+              <MaterialCommunityIcons name="book-open-page-variant" size={22} color={downloaded ? theme.tint : theme.textDisabled} />
+            </View>
+            <View style={styles.f1}>
+              <ThemedText type="default">{chapter.title}</ThemedText>
+              {badges.length > 0 ? (
+                <View style={styles.badgeRow}>
+                  {badges.map((badge) => (
+                    // theme.success at reduced opacity via hex alpha, rather than a
+                    // new successMuted token — a one-off availability badge, not
+                    // reused enough yet to warrant expanding the token set.
+                    <View key={badge} style={[styles.badge, { backgroundColor: `${theme.success}1A` }]}>
+                      <ThemedText type="smallBold" themeColor="success">
+                        {badge}
+                      </ThemedText>
+                    </View>
+                  ))}
+                </View>
+              ) : (
+                <ThemedText type="small" themeColor="textDisabled" style={styles.mt5}>
+                  No transliteration or translation yet
+                </ThemedText>
+              )}
+            </View>
+            <View style={styles.chapterActions}>
+              <MaterialCommunityIcons
+                name={downloaded ? 'delete-outline' : 'download'}
+                size={20}
+                color={downloaded ? theme.error : theme.tint}
+              />
+              <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
+            </View>
+          </View>
+        );
+        const rowStyle = [
+          styles.chapterRow,
+          i < catalog.chapters.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border },
+        ];
+        return (
+          <Pressable
+            key={chapter.slug}
+            onPress={() => router.push({ pathname: '/reader', params: { path: chapter.path } })}
+            style={rowStyle}
+          >
+            {row}
+          </Pressable>
+        );
+      })}
+    </>
   );
 }
 

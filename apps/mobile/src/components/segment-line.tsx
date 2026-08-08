@@ -18,15 +18,23 @@ export function SegmentLine({
   source,
   transliteration,
   translation,
+  speaker,
 }: {
   source: string;
   transliteration?: string;
   translation?: string;
+  /** Character name for a dialogue segment (schema's `speaker` field) — shown above the line. */
+  speaker?: string;
 }) {
   const theme = useTheme();
   return (
     <View style={styles.row}>
       <View style={styles.f1}>
+        {speaker && (
+          <ThemedText type="smallBold" themeColor="tint" style={styles.speaker}>
+            {speaker}
+          </ThemedText>
+        )}
         <ThemedText type="reading">{source}</ThemedText>
         {transliteration ? (
           <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
@@ -55,6 +63,7 @@ export function SegmentLine({
 const styles = StyleSheet.create({
   row: { flexDirection: 'row', alignItems: 'flex-start', gap: 8 },
   f1: { flex: 1 },
+  speaker: { marginBottom: 2 },
   icon: { marginTop: 4 },
   mt2: { marginTop: 2 },
 });

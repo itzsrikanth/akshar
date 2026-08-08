@@ -1,29 +1,21 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Host, Picker } from '@expo/ui';
 import { router } from 'expo-router';
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Radius, Spacing } from '@/constants/theme';
+import { useCatalog } from '@/hooks/use-catalog';
 import { useTheme } from '@/hooks/use-theme';
-
-// Placeholder — only one option exists per row because that's genuinely all
-// ch01-bannada-tagadina has (api/contents.json: translations: ["en"],
-// transliterations: ["devanagari"]). Future: derive these lists by
-// aggregating translations/transliterations across every chapter in the
-// user's current scope, not hardcoding them — see docs/tech-implementation.md.
-const TRANSLATION_OPTIONS = [{ label: 'English', value: 'en' }];
-const TRANSLITERATION_OPTIONS = [{ label: 'Devanagari', value: 'devanagari' }];
-const DEFAULT_SCOPE = 'KSEEB · Karnataka · English · Grade 5 · Kannada';
+import type { Catalog } from '@/services/content-repository';
+import { availableLanguages, availableScripts, deriveScope, labelForLanguage, labelForScript } from '@/services/scope';
 
 export default function SettingsScreen() {
-  const theme = useTheme();
-  // Local-only state, not yet persisted anywhere (no ProgressRepository yet).
-  const [translation, setTranslation] = useState(TRANSLATION_OPTIONS[0].value);
-  const [transliteration, setTransliteration] = useState(TRANSLITERATION_OPTIONS[0].value);
+  const state = useCatalog();
 
   return (
     <ThemedView style={styles.container}>
@@ -39,6 +31,37 @@ export default function SettingsScreen() {
             Settings
           </ThemedText>
 
+          {state.status !== 'ready' ? <AsyncStateView state={state} /> : <SettingsContent catalog={state.catalog} />}
+        </ScrollView>
+      </SafeAreaView>
+    </ThemedView>
+  );
+}
+
+function SettingsContent({ catalog }: { catalog: Catalog }) {
+  const theme = useTheme();
+  // Derived from every chapter in the catalog, not hardcoded — one option
+  // per row today only because that's genuinely all the real content has
+  // (see docs/tech-implementation.md). Adding a chapter with a new
+  // translation/script makes it show up here automatically.
+  const translationOptions = useMemo(
+    () => availableLanguages(catalog).map((code) => ({ label: labelForLanguage(code), value: code })),
+    [catalog],
+  );
+  const transliterationOptions = useMemo(
+    () => availableScripts(catalog).map((code) => ({ label: labelForScript(code), value: code })),
+    [catalog],
+  );
+  const scope = useMemo(() => deriveScope(catalog), [catalog]);
+
+  // Local-only state, not yet persisted anywhere (no ProgressRepository yet).
+  const [translation, setTranslation] = useState(translationOptions[0]?.value);
+  const [transliteration, setTransliteration] = useState(transliterationOptions[0]?.value);
+
+  return (
+    <>
+      {translationOptions.length > 0 && (
+        <>
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             READING LANGUAGES
           </ThemedText>
@@ -47,7 +70,7 @@ export default function SettingsScreen() {
               <ThemedText type="default">Translation language</ThemedText>
               <Host matchContents>
                 <Picker selectedValue={translation} onValueChange={setTranslation}>
-                  {TRANSLATION_OPTIONS.map((o) => (
+                  {translationOptions.map((o) => (
                     <Picker.Item key={o.value} label={o.label} value={o.value} />
                   ))}
                 </Picker>
@@ -57,26 +80,30 @@ export default function SettingsScreen() {
               <ThemedText type="default">Transliteration script</ThemedText>
               <Host matchContents>
                 <Picker selectedValue={transliteration} onValueChange={setTransliteration}>
-                  {TRANSLITERATION_OPTIONS.map((o) => (
+                  {transliterationOptions.map((o) => (
                     <Picker.Item key={o.value} label={o.label} value={o.value} />
                   ))}
                 </Picker>
               </Host>
             </View>
           </View>
+        </>
+      )}
 
+      {scope && (
+        <>
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             DEFAULT SCOPE
           </ThemedText>
-          <View style={[styles.card, styles.row, { borderColor: theme.border }]}>
+          <Pressable onPress={() => router.push('/explore')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
             <ThemedText type="small" style={styles.f1}>
-              {DEFAULT_SCOPE}
+              {`${scope.board} · ${scope.state} · ${scope.medium} · Grade ${scope.grade} · ${scope.subject}`}
             </ThemedText>
             <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
-          </View>
-        </ScrollView>
-      </SafeAreaView>
-    </ThemedView>
+          </Pressable>
+        </>
+      )}
+    </>
   );
 }
 
