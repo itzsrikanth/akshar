@@ -100,30 +100,50 @@ speculative item here — no false confidence intended.
 
 ## 4. Interactive exercises — self-check answers
 
-**Concept:** the Exercises screen (`ch01`'s `question`/`answer`/`fill_blank` segment pairs — see
-`src/app/exercises.tsx`) currently just reveals the paired answer alongside the question, for
-reading/comparison. The next step is turning it into an actual self-check: the child answers
-first (typed text for `question`, a filled-in word for `fill_blank`), then submits to see whether
-it matched, rather than the answer being visible immediately.
+**Concept:** the Exercises screen (`src/app/exercises.tsx`) has five exercise-type components —
+Answer the following, Fill in the blanks, Match the following, True or False, Give reasons (see
+`src/components/exercises/`, and the component-architecture decision in
+`tech-implementation.md`) — but they're all read-only today: the answer is revealed alongside the
+question, for reading/comparison. The next step is turning each into an actual self-check: the
+child answers first, then submits to see whether it matched, rather than the answer being visible
+immediately.
 
-**Why this belongs on the roadmap and not in v1:** matching a free-typed answer against the
-reference `answer.text` needs real thought (exact match is too strict for a translated/
-transliterated answer with legitimate spelling variation — e.g. `kāsu` vs `kaasu`) and a place to
-persist attempt state. Neither is a v1 blocker for the core reading experience.
+**Why this belongs on the roadmap and not in v1:** validating a free-typed answer needs real
+thought per type (see below), and a place to persist attempt state. Neither is a v1 blocker for
+the core reading experience.
+
+**Objective types — no AI needed, client-side only:**
+- **Answer the following / Fill in the blanks:** fuzzy string match against the reference answer,
+  not exact match — a translated/transliterated answer has legitimate spelling variation (e.g.
+  `kāsu` vs `kaasu`).
+- **Match the following:** the child picks/drags a definition to a term; validate against the
+  known `ref` pairing — trivially exact, no fuzziness needed.
+- **True or False:** a straight boolean compare — the simplest of the five.
+
+**Subjective type — "Give reasons" needs an AI API, not string matching.** A reasoned explanation
+has many valid phrasings; there's no reference string to fuzzy-match against. Grading it means
+sending the child's written answer plus the reference reason to an LLM and asking whether it
+captures the same idea. **Architectural implication, stated plainly:** this is a live, per-request
+AI call, same shape as
+[handwritten homework recognition](#3-handwritten-homework-recognition) — it needs a backend or
+serverless function to hold the API key safely (a public client app can't ship a raw key), so it
+should be gated behind "a backend already exists for other reasons," not become the reason one
+gets built. The four objective types have no such dependency and could ship well before this one.
 
 **Design note (so this doesn't get redesigned from scratch later):** when the Exercises screen
-gets its next real design pass, it should account for these states per question, in addition to
-the read-only Q/A pair shown today:
-- an empty **answer input** (text field for `question`, a single blank-filling field for
-  `fill_blank`) shown in place of the immediately-visible answer
-- a **submitted / checking** state
+gets its next real design pass, each of the five item components should account for these states,
+in addition to the read-only view shown today:
+- an empty **answer input**, shaped per type (free text for Answer/Give reasons, a single field
+  for Fill in the blanks, a tap/drag target for Match, a True/False toggle)
+- a **submitted / checking** state (for Give reasons specifically, this may be a visible
+  "checking..." wait while the AI call is in flight — not instant like the other four)
 - **correct** and **incorrect** result states (with the reference answer still shown after
   submission, either way — this is a learning aid, not a graded test)
-- a per-exercise-set **completion summary** (e.g. "4 of 6 answered")
+- a per-exercise-type **completion summary** (e.g. "4 of 6 answered")
 
 **The seam to leave now, at zero extra cost today:** `ProgressRepository`
-(`docs/tech-implementation.md`) should be the place per-question attempt state lives, keyed by
-segment `id` — same profile-aware shape already planned for reading progress in
+(`docs/tech-implementation.md`) should be the place per-item attempt state lives, keyed by segment
+`id` — same profile-aware shape already planned for reading progress in
 [multi-kid support](#1-multi-kid--multi-profile-support), so a future "answers saved per child"
 requirement doesn't need a data migration either.
 

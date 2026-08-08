@@ -90,6 +90,53 @@ progress, and the downloaded-chapter manifest — all small, key-shaped state. R
 SQLite schema only if that stops being true (e.g. cross-chapter progress queries that need real
 joins) — no need to build that structure speculatively now.
 
+## Component architecture — feature modules, not Atomic Design
+
+**Decision: not Atomic Design.** Atomic Design's five-tier taxonomy (atoms/molecules/organisms/
+templates/pages) was built for CSS-driven design systems with a large, stable shared vocabulary of
+primitives. This app's primitives are already covered by three small files
+(`themed-text.tsx`/`themed-view.tsx`/`theme.ts`) — there isn't enough primitive surface area to
+justify sorting components into five folders by abstractness, and forcing every new component
+through that taxonomy (is a Q&A block a molecule or an organism?) is overhead with no real payoff
+here.
+
+**What's used instead: feature-scoped module folders, each self-contained and swappable.**
+`src/components/exercises/` is the concrete example (added alongside the Reader/Exercises
+screens):
+
+```
+src/components/exercises/
+  types.ts                    — plain item shapes (AnswerItem, FillBlankItem, MatchItem, ...),
+                                 deliberately NOT the raw schema Segment type
+  registry.ts                 — [{ id, label }, ...] — the pill list, and the thing a new
+                                 exercise type gets added to
+  empty-exercise-state.tsx    — shared "no items of this type yet" state
+  answer-exercise.tsx         — "Answer the following"
+  fill-blank-exercise.tsx     — "Fill in the blanks"
+  match-exercise.tsx          — "Match the following"
+  true-false-exercise.tsx     — "True or False"
+  reasons-exercise.tsx        — "Give reasons"
+```
+
+Each `*-exercise.tsx` component takes a typed `items: T[]` prop and renders read-only — no
+knowledge of `ref`/`exercise`/the source JSON shape at all. The screen (`app/exercises.tsx`) is
+the only place that knows how to turn real chapter segments into `AnswerItem[]` etc. This split is
+what makes "extensible and self-dependent" concrete: **adding a 6th exercise type is one new
+component file + one entry in `registry.ts` + one data-building branch on the screen — nothing
+existing gets touched.** It's also what makes these components reusable for a future
+from-scratch assessment page whose content doesn't come from a chapter's source JSON at all (see
+`roadmap.md`'s interactive-exercises item) — they were never coupled to that source in the first
+place.
+
+**Validation, when that gets built:** objective types (answer/fill-blank/match/true-false) can be
+checked client-side — exact or fuzzy string match against the reference answer, no network call.
+"Give reasons" is inherently subjective (a written explanation, not a fixed string) and needs an
+LLM call to grade — same architectural shape as
+[handwritten homework recognition](roadmap.md#3-handwritten-homework-recognition): a live,
+per-request AI call that can't safely hold an API key in a public client app, so it's gated behind
+"a backend/serverless function already exists for other reasons," not a reason to build one. See
+`roadmap.md` for both.
+
 ## Crash reporting
 
 | Option | Notes |

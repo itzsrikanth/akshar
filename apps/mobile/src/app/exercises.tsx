@@ -1,9 +1,15 @@
-import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
 import { useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { AnswerExercise } from '@/components/exercises/answer-exercise';
+import { EXERCISE_TYPES } from '@/components/exercises/registry';
+import { FillBlankExercise } from '@/components/exercises/fill-blank-exercise';
+import { MatchExercise } from '@/components/exercises/match-exercise';
+import { ReasonsExercise } from '@/components/exercises/reasons-exercise';
+import { TrueFalseExercise } from '@/components/exercises/true-false-exercise';
+import type { AnswerItem, ExerciseTypeId, FillBlankItem, MatchItem } from '@/components/exercises/types';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
@@ -25,57 +31,72 @@ type Segment = {
 };
 
 const chapter = chapterData as { meta: { title: string }; segments: Segment[] };
+
+// Building all 5 exercise-type item lists from the same real segment array.
+// Answer/FillBlank/Match are backed by real ch01 content; TrueFalse/Reasons
+// stay empty (see components/exercises/empty-exercise-state.tsx) — there's
+// no schema field distinguishing a "reasoning" question from any other
+// question today, and no chapter has true/false content yet. Registering
+// the components without data is deliberate: it's what makes them ready
+// the moment such content exists, without a screen rewrite.
 const answerById = new Map(chapter.segments.filter((s) => s.type === 'answer' && s.ref).map((s) => [s.ref, s]));
-const exerciseLetters = Array.from(
-  new Set(chapter.segments.filter((s) => s.exercise).map((s) => s.exercise as string)),
-).sort();
 
-function QuestionAnswer({ question, answer }: { question: Segment; answer?: Segment }) {
-  const theme = useTheme();
-  const badge = question.type === 'fill_blank' ? '?' : 'Q';
-  return (
-    <View style={styles.qaBlock}>
-      <View style={styles.qaRow}>
-        <View style={[styles.bubble, { backgroundColor: theme.tint }]}>
-          <ThemedText type="smallBold" themeColor="onTint">
-            {badge}
-          </ThemedText>
-        </View>
-        <ThemedText type="default" style={styles.f1}>
-          {question.text}
-        </ThemedText>
-        <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
-      </View>
-      <ThemedText type="small" themeColor="textSecondary" style={styles.qaCaption}>
-        {[question.transliterations?.devanagari, question.translations?.en].filter(Boolean).join(' · ')}
-      </ThemedText>
+const passageItems = chapter.segments.filter((s) => s.type === 'prose' && s.exercise === 'C');
 
-      {answer && (
-        <>
-          <View style={[styles.qaRow, styles.answerRow, { backgroundColor: `${theme.tint}1A` }]}>
-            <View style={[styles.bubble, styles.bubbleOutline, { borderColor: theme.tint }]}>
-              <ThemedText type="smallBold" themeColor="tint">
-                A
-              </ThemedText>
-            </View>
-            <ThemedText type="default" style={styles.f1}>
-              {answer.text}
-            </ThemedText>
-            <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
-          </View>
-          <ThemedText type="small" themeColor="textSecondary" style={styles.answerCaption}>
-            {[answer.transliterations?.devanagari, answer.translations?.en].filter(Boolean).join(' · ')}
-          </ThemedText>
-        </>
-      )}
-    </View>
-  );
-}
+const answerItems: AnswerItem[] = chapter.segments
+  .filter((s) => s.type === 'question' && s.exercise)
+  .map((s) => {
+    const answer = answerById.get(s.id);
+    return {
+      id: s.id,
+      group: `Exercise ${s.exercise}`,
+      question: s.text,
+      questionTransliteration: s.transliterations?.devanagari,
+      questionTranslation: s.translations?.en,
+      answer: answer?.text ?? '',
+      answerTransliteration: answer?.transliterations?.devanagari,
+      answerTranslation: answer?.translations?.en,
+    };
+  });
+
+const fillBlankItems: FillBlankItem[] = chapter.segments
+  .filter((s) => s.type === 'fill_blank')
+  .map((s) => {
+    const answer = answerById.get(s.id);
+    const [before, after] = s.text.split(/_+/);
+    return {
+      id: s.id,
+      before: before ?? '',
+      after: after ?? '',
+      transliteration: s.transliterations?.devanagari,
+      translation: s.translations?.en,
+      answer: answer?.text ?? '',
+    };
+  });
+
+const defByRef = new Map(
+  chapter.segments
+    .filter((s) => s.type === 'vocabulary_definition' || s.type === 'note_definition')
+    .map((s) => [s.ref, s]),
+);
+const matchItems: MatchItem[] = chapter.segments
+  .filter((s) => s.type === 'vocabulary_term' || s.type === 'note_term')
+  .map((term) => {
+    const definition = defByRef.get(term.id);
+    return {
+      id: term.id,
+      term: term.text,
+      definition: definition?.text ?? '',
+      transliteration: [term.transliterations?.devanagari, definition?.transliterations?.devanagari]
+        .filter(Boolean)
+        .join(' · '),
+      translation: definition?.translations?.en,
+    };
+  });
 
 export default function ExercisesScreen() {
   const theme = useTheme();
-  const [selected, setSelected] = useState(exerciseLetters[0]);
-  const items = chapter.segments.filter((s) => s.exercise === selected && s.type !== 'answer');
+  const [selected, setSelected] = useState<ExerciseTypeId>('answer');
 
   return (
     <ThemedView style={styles.container}>
@@ -90,39 +111,50 @@ export default function ExercisesScreen() {
             {chapter.meta.title}
           </ThemedText>
 
-          <View style={styles.pillRow}>
-            {exerciseLetters.map((letter) => {
-              const active = letter === selected;
-              return (
-                <Pressable
-                  key={letter}
-                  onPress={() => setSelected(letter)}
-                  style={[
-                    styles.pill,
-                    { backgroundColor: active ? theme.tint : theme.backgroundElement },
-                  ]}
-                >
-                  <ThemedText type="smallBold" themeColor={active ? 'onTint' : 'textSecondary'}>
-                    {letter}
-                  </ThemedText>
-                </Pressable>
-              );
-            })}
-          </View>
+          <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.pillScroll}>
+            <View style={styles.pillRow}>
+              {EXERCISE_TYPES.map((t) => {
+                const active = t.id === selected;
+                return (
+                  <Pressable
+                    key={t.id}
+                    onPress={() => setSelected(t.id)}
+                    style={[styles.pill, { backgroundColor: active ? theme.tint : theme.backgroundElement }]}
+                  >
+                    <ThemedText type="smallBold" themeColor={active ? 'onTint' : 'textSecondary'}>
+                      {t.label}
+                    </ThemedText>
+                  </Pressable>
+                );
+              })}
+            </View>
+          </ScrollView>
 
-          {items.map((item) =>
-            item.type === 'prose' ? (
-              <View key={item.id} style={styles.proseRow}>
-                <SegmentLine
-                  source={item.text}
-                  transliteration={item.transliterations?.devanagari}
-                  translation={item.translations?.en}
-                />
-              </View>
-            ) : (
-              <QuestionAnswer key={item.id} question={item} answer={answerById.get(item.id)} />
-            ),
+          {selected === 'answer' && (
+            <>
+              {passageItems.length > 0 && (
+                <View style={styles.passage}>
+                  <ThemedText type="small" themeColor="textSecondary" style={styles.passageLabel}>
+                    Exercise C · Passage
+                  </ThemedText>
+                  {passageItems.map((p) => (
+                    <View key={p.id} style={styles.mt3}>
+                      <SegmentLine
+                        source={p.text}
+                        transliteration={p.transliterations?.devanagari}
+                        translation={p.translations?.en}
+                      />
+                    </View>
+                  ))}
+                </View>
+              )}
+              <AnswerExercise items={answerItems} />
+            </>
           )}
+          {selected === 'fillblank' && <FillBlankExercise items={fillBlankItems} />}
+          {selected === 'match' && <MatchExercise items={matchItems} />}
+          {selected === 'truefalse' && <TrueFalseExercise items={[]} />}
+          {selected === 'reasons' && <ReasonsExercise items={[]} />}
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
@@ -134,15 +166,10 @@ const styles = StyleSheet.create({
   safeArea: { flex: 1 },
   content: { padding: Spacing.three, paddingBottom: Spacing.six },
   chapterTitle: { marginTop: Spacing.two, marginBottom: Spacing.three },
-  pillRow: { flexDirection: 'row', gap: Spacing.two, marginBottom: Spacing.four },
+  pillScroll: { marginBottom: Spacing.four },
+  pillRow: { flexDirection: 'row', gap: Spacing.two },
   pill: { paddingVertical: Spacing.two, paddingHorizontal: Spacing.four, borderRadius: Radius.pill },
-  proseRow: { marginBottom: Spacing.three },
-  qaBlock: { marginBottom: Spacing.four },
-  qaRow: { flexDirection: 'row', alignItems: 'flex-start', gap: 10 },
-  answerRow: { borderRadius: Radius.medium, padding: Spacing.two, marginTop: Spacing.two, marginLeft: Spacing.four },
-  qaCaption: { marginLeft: Spacing.five, marginTop: 2 },
-  answerCaption: { marginLeft: Spacing.six, marginTop: 2 },
-  bubble: { width: 22, height: 22, borderRadius: Radius.pill, alignItems: 'center', justifyContent: 'center' },
-  bubbleOutline: { backgroundColor: 'transparent', borderWidth: 1 },
-  f1: { flex: 1 },
+  passage: { marginBottom: Spacing.four },
+  passageLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
+  mt3: { marginTop: Spacing.three },
 });
