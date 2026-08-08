@@ -2,19 +2,18 @@ import { StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/themed-text';
 import { Spacing } from '@/constants/theme';
-import type { ChapterState } from '@/hooks/use-chapter';
 
-/** Shared loading/error UI for any screen driven by useChapter — everything but the 'ready' case. */
-export function ChapterLoadState({ state }: { state: Exclude<ChapterState, { status: 'ready' }> }) {
+/** Shared loading/error UI for anything backed by useAsyncResource (useChapter, useCatalog, ...). */
+export function AsyncStateView({ state }: { state: { status: 'loading' } | { status: 'error'; message: string } }) {
   return (
     <View style={styles.container}>
       {state.status === 'loading' ? (
         <ThemedText type="small" themeColor="textSecondary">
-          Loading chapter…
+          Loading…
         </ThemedText>
       ) : (
         <>
-          <ThemedText type="default">Couldn't load this chapter.</ThemedText>
+          <ThemedText type="default">Couldn't load this.</ThemedText>
           <ThemedText type="small" themeColor="textDisabled" style={styles.mt2}>
             {state.message}
           </ThemedText>

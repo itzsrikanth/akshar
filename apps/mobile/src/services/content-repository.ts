@@ -69,6 +69,7 @@ export interface ContentRepository {
  */
 export class CdnContentRepository implements ContentRepository {
   private chapterCache = new Map<string, Promise<Chapter>>();
+  private catalogCache?: Promise<Catalog>;
 
   constructor(private baseUrl: string) {}
 
@@ -81,7 +82,15 @@ export class CdnContentRepository implements ContentRepository {
   }
 
   getCatalog(): Promise<Catalog> {
-    return this.fetchJson<Catalog>('api/contents.json');
+    if (!this.catalogCache) {
+      this.catalogCache = this.fetchJson<Catalog>('api/contents.json');
+      // Don't cache a rejected fetch — a transient network error shouldn't
+      // permanently poison the catalog for the rest of the session.
+      this.catalogCache.catch(() => {
+        this.catalogCache = undefined;
+      });
+    }
+    return this.catalogCache;
   }
 
   getChapter(path: string): Promise<Chapter> {
