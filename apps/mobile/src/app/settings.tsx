@@ -1,25 +1,29 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
+import { Host, Picker } from '@expo/ui';
 import { router } from 'expo-router';
+import { useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
-import { Radius, Spacing, Typography } from '@/constants/theme';
+import { Radius, Spacing } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
 
-// Placeholder — no language-picker or scope-editor screens exist yet, so
-// these rows aren't wired to real navigation. Values match Home's
-// placeholder scope; not yet backed by ProgressRepository (see
-// docs/tech-implementation.md).
-const READING_LANGUAGES = [
-  { label: 'Translation language', value: 'English' },
-  { label: 'Transliteration script', value: 'Devanagari' },
-];
+// Placeholder — only one option exists per row because that's genuinely all
+// ch01-bannada-tagadina has (api/contents.json: translations: ["en"],
+// transliterations: ["devanagari"]). Future: derive these lists by
+// aggregating translations/transliterations across every chapter in the
+// user's current scope, not hardcoding them — see docs/tech-implementation.md.
+const TRANSLATION_OPTIONS = [{ label: 'English', value: 'en' }];
+const TRANSLITERATION_OPTIONS = [{ label: 'Devanagari', value: 'devanagari' }];
 const DEFAULT_SCOPE = 'KSEEB · Karnataka · English · Grade 5 · Kannada';
 
 export default function SettingsScreen() {
   const theme = useTheme();
+  // Local-only state, not yet persisted anywhere (no ProgressRepository yet).
+  const [translation, setTranslation] = useState(TRANSLATION_OPTIONS[0].value);
+  const [transliteration, setTransliteration] = useState(TRANSLITERATION_OPTIONS[0].value);
 
   return (
     <ThemedView style={styles.container}>
@@ -31,12 +35,7 @@ export default function SettingsScreen() {
             </ThemedText>
           </Pressable>
 
-          {/* Typography.title (24/700) deliberately, not ThemedText's own
-              type="title" (48px) — that variant is the Home screen's app
-              name, a different thing that happens to share the name.
-              ThemedText's ad-hoc styles vs. the Typography token scale could
-              use reconciling later; not done here to keep this change scoped. */}
-          <ThemedText type="default" style={styles.pageTitle}>
+          <ThemedText type="subtitle" style={styles.pageTitle}>
             Settings
           </ThemedText>
 
@@ -44,19 +43,26 @@ export default function SettingsScreen() {
             READING LANGUAGES
           </ThemedText>
           <View style={[styles.card, { borderColor: theme.border }]}>
-            {READING_LANGUAGES.map((row, i) => (
-              <View
-                key={row.label}
-                style={[styles.row, i < READING_LANGUAGES.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
-                <ThemedText type="default">{row.label}</ThemedText>
-                <View style={styles.rowValue}>
-                  <ThemedText type="small" themeColor="textSecondary">
-                    {row.value}
-                  </ThemedText>
-                  <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
-                </View>
-              </View>
-            ))}
+            <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
+              <ThemedText type="default">Translation language</ThemedText>
+              <Host matchContents>
+                <Picker selectedValue={translation} onValueChange={setTranslation}>
+                  {TRANSLATION_OPTIONS.map((o) => (
+                    <Picker.Item key={o.value} label={o.label} value={o.value} />
+                  ))}
+                </Picker>
+              </Host>
+            </View>
+            <View style={styles.row}>
+              <ThemedText type="default">Transliteration script</ThemedText>
+              <Host matchContents>
+                <Picker selectedValue={transliteration} onValueChange={setTransliteration}>
+                  {TRANSLITERATION_OPTIONS.map((o) => (
+                    <Picker.Item key={o.value} label={o.label} value={o.value} />
+                  ))}
+                </Picker>
+              </Host>
+            </View>
           </View>
 
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
@@ -78,15 +84,9 @@ const styles = StyleSheet.create({
   container: { flex: 1 },
   safeArea: { flex: 1 },
   content: { padding: Spacing.three, paddingBottom: Spacing.six },
-  pageTitle: {
-    fontSize: Typography.title.fontSize,
-    fontWeight: Typography.title.fontWeight,
-    marginTop: Spacing.three,
-    marginBottom: Spacing.four,
-  },
+  pageTitle: { marginTop: Spacing.three, marginBottom: Spacing.four },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
   card: { borderWidth: 1, borderRadius: Radius.medium, marginBottom: Spacing.four, overflow: 'hidden' },
   row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three, paddingHorizontal: Spacing.three },
-  rowValue: { flexDirection: 'row', alignItems: 'center', gap: 6 },
   f1: { flex: 1 },
 });
