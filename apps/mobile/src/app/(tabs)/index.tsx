@@ -30,14 +30,11 @@ export default function HomeScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          {/* "Homework helper" was dropped — it reads as a promise of homework-checking
-              (camera + AI, a future-roadmap item, not built), when what this app actually
-              does is line-by-line reading/pronunciation help. Derived from scope, not a
-              second hardcoded copy of it. */}
-          <AppHeader
-            subtitle={`${SCOPE_CHIPS[4]} reading help · ${SCOPE_CHIPS[3]}`}
-            onSettingsPress={() => router.push('/settings')}
-          />
+          {/* Generic placeholder copy for now — "Homework helper" was dropped
+              because it reads as a promise of homework-checking (camera + AI,
+              a future-roadmap item, not built). Revisit with real tagline
+              copy once the core reading flow has been used by someone. */}
+          <AppHeader subtitle="Learning app" onSettingsPress={() => router.push('/settings')} />
 
           <View style={styles.section}>
             <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
@@ -54,11 +51,14 @@ export default function HomeScreen() {
               <ThemedText type="small" themeColor="textSecondary" style={styles.mt6}>
                 {CONTINUE_READING.segmentsRead} of {CONTINUE_READING.segmentsTotal} segments read
               </ThemedText>
-              <View style={[styles.pillButton, { backgroundColor: theme.tint }]}>
+              <Pressable
+                onPress={() => router.push('/reader')}
+                style={[styles.pillButton, { backgroundColor: theme.tint }]}
+              >
                 <ThemedText type="smallBold" themeColor="onTint">
                   Continue reading
                 </ThemedText>
-              </View>
+              </Pressable>
             </ThemedView>
           </View>
 
