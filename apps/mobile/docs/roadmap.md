@@ -98,7 +98,36 @@ the reason a backend gets built. Given the technical risk and cost-per-request (
 items, this one doesn't get cheaper with reuse), it's correctly the lowest-priority, most
 speculative item here — no false confidence intended.
 
-## 4. Other relevant possibilities worth noting
+## 4. Interactive exercises — self-check answers
+
+**Concept:** the Exercises screen (`ch01`'s `question`/`answer`/`fill_blank` segment pairs — see
+`src/app/exercises.tsx`) currently just reveals the paired answer alongside the question, for
+reading/comparison. The next step is turning it into an actual self-check: the child answers
+first (typed text for `question`, a filled-in word for `fill_blank`), then submits to see whether
+it matched, rather than the answer being visible immediately.
+
+**Why this belongs on the roadmap and not in v1:** matching a free-typed answer against the
+reference `answer.text` needs real thought (exact match is too strict for a translated/
+transliterated answer with legitimate spelling variation — e.g. `kāsu` vs `kaasu`) and a place to
+persist attempt state. Neither is a v1 blocker for the core reading experience.
+
+**Design note (so this doesn't get redesigned from scratch later):** when the Exercises screen
+gets its next real design pass, it should account for these states per question, in addition to
+the read-only Q/A pair shown today:
+- an empty **answer input** (text field for `question`, a single blank-filling field for
+  `fill_blank`) shown in place of the immediately-visible answer
+- a **submitted / checking** state
+- **correct** and **incorrect** result states (with the reference answer still shown after
+  submission, either way — this is a learning aid, not a graded test)
+- a per-exercise-set **completion summary** (e.g. "4 of 6 answered")
+
+**The seam to leave now, at zero extra cost today:** `ProgressRepository`
+(`docs/tech-implementation.md`) should be the place per-question attempt state lives, keyed by
+segment `id` — same profile-aware shape already planned for reading progress in
+[multi-kid support](#1-multi-kid--multi-profile-support), so a future "answers saved per child"
+requirement doesn't need a data migration either.
+
+## 5. Other relevant possibilities worth noting
 
 - **Community-recorded audio** — already on root `README.md`'s roadmap as a planned third
   contribution type (alongside transliteration/translation). Composes cleanly with TTS: TTS
