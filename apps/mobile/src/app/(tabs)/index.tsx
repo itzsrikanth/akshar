@@ -1,5 +1,6 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
-import { ScrollView, StyleSheet, View } from 'react-native';
+import { router } from 'expo-router';
+import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AppHeader } from '@/components/app-header';
@@ -29,7 +30,7 @@ export default function HomeScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          <AppHeader subtitle="Homework helper for Kannada, Grade 5" />
+          <AppHeader subtitle="Homework helper for Kannada, Grade 5" onSettingsPress={() => router.push('/settings')} />
 
           <View style={styles.section}>
             <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
@@ -59,9 +60,11 @@ export default function HomeScreen() {
               <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
                 YOUR SCOPE
               </ThemedText>
-              <ThemedText type="smallBold" themeColor="tint">
-                Edit
-              </ThemedText>
+              <Pressable onPress={() => router.push('/settings')} hitSlop={8}>
+                <ThemedText type="smallBold" themeColor="tint">
+                  Edit
+                </ThemedText>
+              </Pressable>
             </View>
             <View style={styles.chipsRow}>
               {SCOPE_CHIPS.map((label) => (
