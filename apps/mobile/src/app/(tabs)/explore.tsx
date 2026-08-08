@@ -6,6 +6,8 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
+import { LoadingOverlay } from '@/components/loading-overlay';
+import { ExploreSkeleton } from '@/components/skeletons/explore-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
@@ -37,7 +39,9 @@ export default function ExploreScreen() {
             Browse the full catalog
           </ThemedText>
 
-          {state.status !== 'ready' ? (
+          {state.status === 'loading' ? (
+            <ExploreSkeleton />
+          ) : state.status === 'error' ? (
             <AsyncStateView state={state} />
           ) : (
             <FadeInView>
@@ -70,7 +74,20 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
   const candidateIsCurrent = isSaved && scopesEqual(scope, candidateScope);
 
   const downloads = useDownloads();
-  const notYetDownloaded = chaptersInScope.filter((c) => !downloads.isDownloaded(c.slug));
+  const notYetDownloaded = chaptersInScope.filter((c) => !downloads.isDownloaded(c.slug) && !downloads.isPending(c.slug));
+
+  // A local flag, not just per-row `isPending` — "Download all" touches
+  // every row at once, so it needs its own block against a second tap
+  // firing a duplicate batch while the first is still in flight.
+  const [batchDownloading, setBatchDownloading] = useState(false);
+  const downloadAll = async () => {
+    setBatchDownloading(true);
+    try {
+      await Promise.all(notYetDownloaded.map((c) => downloads.download(c.path, c.slug)));
+    } finally {
+      setBatchDownloading(false);
+    }
+  };
 
   return (
     <>
@@ -144,13 +161,13 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
           ))}
         </View>
       ) : (
-        <>
+        <View style={styles.relative}>
           <View style={styles.sectionHeaderRow}>
             <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
               {`${chaptersInScope.length} CHAPTERS`}
             </ThemedText>
             {notYetDownloaded.length > 0 && (
-              <Touchable onPress={() => notYetDownloaded.forEach((c) => downloads.download(c.path, c.slug))} hitSlop={6}>
+              <Touchable onPress={downloadAll} disabled={batchDownloading} hitSlop={6}>
                 <ThemedText type="smallBold" themeColor="tint">
                   Download all
                 </ThemedText>
@@ -221,7 +238,9 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
               </Touchable>
             );
           })}
-        </>
+
+          {batchDownloading && <LoadingOverlay message="Downloading chapters…" />}
+        </View>
       )}
     </>
   );
@@ -232,6 +251,7 @@ const styles = StyleSheet.create({
   safeArea: { flex: 1 },
   content: { padding: Spacing.three, paddingBottom: Spacing.six },
   headerRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
+  relative: { position: 'relative' },
   subtitle: { marginTop: 2, marginBottom: Spacing.three },
   breadcrumbRow: { flexDirection: 'row', flexWrap: 'wrap', alignItems: 'center', gap: 2, marginBottom: Spacing.four },
   breadcrumbItem: { flexDirection: 'row', alignItems: 'center', gap: 2 },

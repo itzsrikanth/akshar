@@ -3,6 +3,7 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
 import { useColorScheme } from 'react-native';
 
+import { SplashView } from '@/components/splash-view';
 import { applyDevSettingsOnLaunch } from '@/services/dev-settings';
 
 SplashScreen.preventAutoHideAsync();
@@ -18,13 +19,15 @@ export default function RootLayout() {
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    applyDevSettingsOnLaunch().finally(() => {
-      setReady(true);
-      SplashScreen.hideAsync();
-    });
+    // Hand off from the native splash (a static image, app.json) to our own
+    // SplashView immediately — same background color (Colors.light.tint),
+    // so the swap is invisible, but SplashView can show a live spinner for
+    // however long the boot check actually takes.
+    SplashScreen.hideAsync();
+    applyDevSettingsOnLaunch().finally(() => setReady(true));
   }, []);
 
-  if (!ready) return null;
+  if (!ready) return <SplashView />;
 
   return (
     <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>

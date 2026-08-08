@@ -7,6 +7,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
+import { SettingsSkeleton } from '@/components/skeletons/settings-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
@@ -34,7 +35,9 @@ export default function SettingsScreen() {
             Settings
           </ThemedText>
 
-          {state.status !== 'ready' ? (
+          {state.status === 'loading' ? (
+            <SettingsSkeleton />
+          ) : state.status === 'error' ? (
             <AsyncStateView state={state} />
           ) : (
             <FadeInView>

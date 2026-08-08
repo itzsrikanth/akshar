@@ -7,6 +7,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { AppHeader } from '@/components/app-header';
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
+import { HomeSkeleton } from '@/components/skeletons/home-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
@@ -34,7 +35,9 @@ export default function HomeScreen() {
             a future-roadmap item, not built). Revisit with real tagline
             copy once the core reading flow has been used by someone. */}
         <AppHeader subtitle="Learning app" onSettingsPress={() => router.push('/settings')} />
-        {state.status !== 'ready' ? (
+        {state.status === 'loading' ? (
+          <HomeSkeleton />
+        ) : state.status === 'error' ? (
           <AsyncStateView state={state} />
         ) : (
           <FadeInView style={styles.fill}>

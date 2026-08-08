@@ -6,6 +6,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
+import { LibrarySkeleton } from '@/components/skeletons/library-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
@@ -33,7 +34,9 @@ export default function LibraryScreen() {
             Chapters you've downloaded for offline reading
           </ThemedText>
 
-          {state.status !== 'ready' ? (
+          {state.status === 'loading' ? (
+            <LibrarySkeleton />
+          ) : state.status === 'error' ? (
             <AsyncStateView state={state} />
           ) : (
             <FadeInView>

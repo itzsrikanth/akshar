@@ -172,6 +172,39 @@ per-request AI call that can't safely hold an API key in a public client app, so
 "a backend/serverless function already exists for other reasons," not a reason to build one. See
 `roadmap.md` for both.
 
+## Loading states — skeletons, in-area/full-screen loaders, splash
+
+Per `design/Akshar Mobile.dc.html`'s "Loading states" page: splash on cold start, skeletons for
+first-load layout shape, and two loader treatments for in-page async waits — chosen per section
+based on how much of the screen depends on the pending data.
+
+**Implemented (basic):**
+- **Skeleton (first load):** `src/components/skeleton.tsx` (`SkeletonBox`/`SkeletonLine`/
+  `SkeletonCircle`) and one layout per screen in `src/components/skeletons/`, shown for
+  `useAsyncResource`'s `loading` status in place of the old generic "Loading…" text (the error
+  status still uses `AsyncStateView`, unchanged — the redesign didn't touch that state). Uses a
+  pulsing opacity, not the design's gradient sweep — no `expo-linear-gradient` dependency needed
+  just for a placeholder shape.
+- **In-area loader:** already existed before this pass, just not named as such — Explore/
+  Library's per-chapter download button swaps to an `ActivityIndicator` while
+  `useDownloads().isPending(slug)` is true (`services/downloads.ts`/`hooks/use-downloads.ts`).
+  Because the button itself is replaced rather than merely disabled, a second tap has nothing to
+  land on.
+- **Full-screen loader:** `src/components/loading-overlay.tsx`, used for Explore's "Download all"
+  — a real gap this pass found: tapping it repeatedly while a batch was in flight could re-fire
+  downloads for chapters whose fetch hadn't resolved yet (`notYetDownloaded` didn't check
+  `isPending`). Fixed by excluding pending chapters from what "Download all" dispatches, plus a
+  local `batchDownloading` flag that shows the overlay over the whole chapter-list section — no
+  `expo-blur` dependency; a plain translucent scrim gets the same "you can't interact right now"
+  read as the design's blurred one.
+- **Splash:** `src/components/splash-view.tsx`, rendered by `app/_layout.tsx` for the same boot
+  gate described in the content-delivery section above (`applyDevSettingsOnLaunch()`) — the native
+  splash (`app.json`'s `expo-splash-screen` plugin, a static image) hides immediately on mount and
+  hands off to this JS-rendered one, same background color (`Colors.light.tint`) so the swap is
+  invisible, but capable of a live spinner for however long the boot check actually takes. Copy
+  says "Learning app," not the design's literal "Homework helper..." — same substitution as
+  Home's subtitle, and for the same reason (see `(tabs)/index.tsx`).
+
 ## Crash reporting
 
 | Option | Notes |

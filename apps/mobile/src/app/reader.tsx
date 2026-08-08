@@ -8,6 +8,7 @@ import { AsyncStateView } from '@/components/async-state-view';
 import { EXERCISE_TYPES } from '@/components/exercises/registry';
 import { FadeInView } from '@/components/fade-in';
 import { SegmentLine } from '@/components/segment-line';
+import { ReaderSkeleton } from '@/components/skeletons/reader-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
@@ -102,7 +103,9 @@ export default function ReaderScreen() {
           </Touchable>
         </View>
 
-        {state.status !== 'ready' ? (
+        {state.status === 'loading' ? (
+          <ReaderSkeleton />
+        ) : state.status === 'error' ? (
           <AsyncStateView state={state} />
         ) : (
           <FadeInView style={styles.fill}>

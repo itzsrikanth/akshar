@@ -14,6 +14,7 @@ import type { AnswerItem, ExerciseTypeId, FillBlankItem, MatchItem } from '@/com
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
 import { SegmentLine } from '@/components/segment-line';
+import { ExercisesSkeleton } from '@/components/skeletons/exercises-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
@@ -101,7 +102,9 @@ export default function ExercisesScreen() {
               ← Back to chapter
             </ThemedText>
           </Touchable>
-          {state.status !== 'ready' ? (
+          {state.status === 'loading' ? (
+            <ExercisesSkeleton />
+          ) : state.status === 'error' ? (
             <AsyncStateView state={state} />
           ) : (
             <FadeInView>
