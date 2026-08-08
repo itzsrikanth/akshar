@@ -105,7 +105,11 @@ This is generated and committed (like the chapter READMEs), and checked in CI wi
 segments carry that as metadata (`section`, `stanza`, `exercise`, `speaker`, `ref`) so any
 consumer can group them however its own UI needs, rather than inheriting one baked-in shape.
 Since content only changes via PR (no runtime writes), this can be served directly from the
-repo via a free CDN (e.g. jsDelivr) with no backend server required.
+repo via a free CDN (e.g. jsDelivr) with no backend server required. The mobile app
+(`apps/mobile`) reads this `api/` folder through exactly that CDN in production; for local
+development there's also a trivial local server (`npm run content-server` at the repo root) so
+content edits show up instantly instead of waiting on the CDN's cache — see
+`apps/mobile/docs/local-dev-content-server.md`.
 
 ---
 

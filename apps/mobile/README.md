@@ -1,56 +1,53 @@
-# Welcome to your Expo app 👋
+# Akshar — mobile app
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+React Native / Expo app for the [Akshar](../../README.md) content repo — per-line source text,
+transliteration, and translation for Indian school textbook chapters, so a parent who can't read
+their child's textbook script can still help with homework.
 
 ## Get started
 
-1. Install dependencies
+1. Install dependencies (from the repo root, this is a workspace):
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Start the local content server (repo root, separate terminal) — the app reads chapter content
+   from this in dev rather than the production CDN, so content edits show up instantly:
+
+   ```bash
+   npm run content-server
+   ```
+
+   See [`docs/local-dev-content-server.md`](docs/local-dev-content-server.md) for what this is,
+   why it exists, and how to reach it if the app isn't running on this same machine (Simulator on
+   a separate Mac, a physical device, etc. — it's a local SSH port forward, not a reverse one).
+
+3. Start Metro (from `apps/mobile`):
 
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+   Open in a [development build](https://docs.expo.dev/develop/development-builds/introduction/),
+   [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/), or
+   [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/). Plain Expo Go won't work here —
+   this project uses native modules (`@expo/ui`, `expo-router`'s native tabs) that aren't in the
+   Expo Go sandbox.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Docs
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Decisions and architecture live in [`docs/`](docs/), not scattered in code comments:
 
-## Get a fresh project
+- [`product-brief.md`](docs/product-brief.md) — what this app is, for whom, and why
+- [`theme.md`](docs/theme.md) / [`iconography.md`](docs/iconography.md) — design tokens, icon set
+- [`tech-implementation.md`](docs/tech-implementation.md) — content delivery, the no-backend
+  repository pattern, component architecture, crash reporting/analytics choices
+- [`local-dev-content-server.md`](docs/local-dev-content-server.md) — the dev content server above
+- [`roadmap.md`](docs/roadmap.md) — future scope (multi-kid, audio, interactive exercises, AI
+  grading), deliberately not built until the core reading experience has real usage
 
-When you're ready, run:
+## Learn more about Expo
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Expo documentation](https://docs.expo.dev/)
+- [Expo Router](https://docs.expo.dev/router/introduction/) — this project uses file-based routing
