@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -10,27 +10,15 @@ import { MatchExercise } from '@/components/exercises/match-exercise';
 import { ReasonsExercise } from '@/components/exercises/reasons-exercise';
 import { TrueFalseExercise } from '@/components/exercises/true-false-exercise';
 import type { AnswerItem, ExerciseTypeId, FillBlankItem, MatchItem } from '@/components/exercises/types';
+import { ChapterLoadState } from '@/components/chapter-load-state';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { DEFAULT_CHAPTER_PATH } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
+import { useChapter } from '@/hooks/use-chapter';
 import { useTheme } from '@/hooks/use-theme';
-
-// Same chapter JSON the Reader screen imports — see reader.tsx's comment on
-// why this is a direct import rather than a hand-copied placeholder.
-import chapterData from '../../../../api/KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json';
-
-type Segment = {
-  id: string;
-  type: string;
-  text: string;
-  exercise?: string;
-  ref?: string;
-  translations?: Record<string, string>;
-  transliterations?: Record<string, string>;
-};
-
-const chapter = chapterData as { meta: { title: string }; segments: Segment[] };
+import type { Chapter } from '@/services/content-repository';
 
 // Building all 5 exercise-type item lists from the same real segment array.
 // Answer/FillBlank/Match are backed by real ch01 content; TrueFalse/Reasons
@@ -39,64 +27,66 @@ const chapter = chapterData as { meta: { title: string }; segments: Segment[] };
 // question today, and no chapter has true/false content yet. Registering
 // the components without data is deliberate: it's what makes them ready
 // the moment such content exists, without a screen rewrite.
-const answerById = new Map(chapter.segments.filter((s) => s.type === 'answer' && s.ref).map((s) => [s.ref, s]));
+function deriveExerciseData(chapter: Chapter) {
+  const { segments } = chapter;
+  const answerById = new Map(segments.filter((s) => s.type === 'answer' && s.ref).map((s) => [s.ref, s]));
 
-const passageItems = chapter.segments.filter((s) => s.type === 'prose' && s.exercise === 'C');
+  const passageItems = segments.filter((s) => s.type === 'prose' && s.exercise === 'C');
 
-const answerItems: AnswerItem[] = chapter.segments
-  .filter((s) => s.type === 'question' && s.exercise)
-  .map((s) => {
-    const answer = answerById.get(s.id);
-    return {
-      id: s.id,
-      group: `Exercise ${s.exercise}`,
-      question: s.text,
-      questionTransliteration: s.transliterations?.devanagari,
-      questionTranslation: s.translations?.en,
-      answer: answer?.text ?? '',
-      answerTransliteration: answer?.transliterations?.devanagari,
-      answerTranslation: answer?.translations?.en,
-    };
-  });
+  const answerItems: AnswerItem[] = segments
+    .filter((s) => s.type === 'question' && s.exercise)
+    .map((s) => {
+      const answer = answerById.get(s.id);
+      return {
+        id: s.id,
+        group: `Exercise ${s.exercise}`,
+        question: s.text,
+        questionTransliteration: s.transliterations?.devanagari,
+        questionTranslation: s.translations?.en,
+        answer: answer?.text ?? '',
+        answerTransliteration: answer?.transliterations?.devanagari,
+        answerTranslation: answer?.translations?.en,
+      };
+    });
 
-const fillBlankItems: FillBlankItem[] = chapter.segments
-  .filter((s) => s.type === 'fill_blank')
-  .map((s) => {
-    const answer = answerById.get(s.id);
-    const [before, after] = s.text.split(/_+/);
-    return {
-      id: s.id,
-      before: before ?? '',
-      after: after ?? '',
-      transliteration: s.transliterations?.devanagari,
-      translation: s.translations?.en,
-      answer: answer?.text ?? '',
-    };
-  });
+  const fillBlankItems: FillBlankItem[] = segments
+    .filter((s) => s.type === 'fill_blank')
+    .map((s) => {
+      const answer = answerById.get(s.id);
+      const [before, after] = s.text.split(/_+/);
+      return {
+        id: s.id,
+        before: before ?? '',
+        after: after ?? '',
+        transliteration: s.transliterations?.devanagari,
+        translation: s.translations?.en,
+        answer: answer?.text ?? '',
+      };
+    });
 
-const defByRef = new Map(
-  chapter.segments
-    .filter((s) => s.type === 'vocabulary_definition' || s.type === 'note_definition')
-    .map((s) => [s.ref, s]),
-);
-const matchItems: MatchItem[] = chapter.segments
-  .filter((s) => s.type === 'vocabulary_term' || s.type === 'note_term')
-  .map((term) => {
-    const definition = defByRef.get(term.id);
-    return {
-      id: term.id,
-      term: term.text,
-      definition: definition?.text ?? '',
-      transliteration: [term.transliterations?.devanagari, definition?.transliterations?.devanagari]
-        .filter(Boolean)
-        .join(' · '),
-      translation: definition?.translations?.en,
-    };
-  });
+  const defByRef = new Map(
+    segments.filter((s) => s.type === 'vocabulary_definition' || s.type === 'note_definition').map((s) => [s.ref, s]),
+  );
+  const matchItems: MatchItem[] = segments
+    .filter((s) => s.type === 'vocabulary_term' || s.type === 'note_term')
+    .map((term) => {
+      const definition = defByRef.get(term.id);
+      return {
+        id: term.id,
+        term: term.text,
+        definition: definition?.text ?? '',
+        transliteration: [term.transliterations?.devanagari, definition?.transliterations?.devanagari]
+          .filter(Boolean)
+          .join(' · '),
+        translation: definition?.translations?.en,
+      };
+    });
+
+  return { passageItems, answerItems, fillBlankItems, matchItems };
+}
 
 export default function ExercisesScreen() {
-  const theme = useTheme();
-  const [selected, setSelected] = useState<ExerciseTypeId>('answer');
+  const state = useChapter(DEFAULT_CHAPTER_PATH);
 
   return (
     <ThemedView style={styles.container}>
@@ -107,57 +97,73 @@ export default function ExercisesScreen() {
               ← Back to chapter
             </ThemedText>
           </Pressable>
-          <ThemedText type="small" themeColor="textSecondary" style={styles.chapterTitle}>
-            {chapter.meta.title}
-          </ThemedText>
-
-          <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.pillScroll}>
-            <View style={styles.pillRow}>
-              {EXERCISE_TYPES.map((t) => {
-                const active = t.id === selected;
-                return (
-                  <Pressable
-                    key={t.id}
-                    onPress={() => setSelected(t.id)}
-                    style={[styles.pill, { backgroundColor: active ? theme.tint : theme.backgroundElement }]}
-                  >
-                    <ThemedText type="smallBold" themeColor={active ? 'onTint' : 'textSecondary'}>
-                      {t.label}
-                    </ThemedText>
-                  </Pressable>
-                );
-              })}
-            </View>
-          </ScrollView>
-
-          {selected === 'answer' && (
-            <>
-              {passageItems.length > 0 && (
-                <View style={styles.passage}>
-                  <ThemedText type="small" themeColor="textSecondary" style={styles.passageLabel}>
-                    Exercise C · Passage
-                  </ThemedText>
-                  {passageItems.map((p) => (
-                    <View key={p.id} style={styles.mt3}>
-                      <SegmentLine
-                        source={p.text}
-                        transliteration={p.transliterations?.devanagari}
-                        translation={p.translations?.en}
-                      />
-                    </View>
-                  ))}
-                </View>
-              )}
-              <AnswerExercise items={answerItems} />
-            </>
+          {state.status !== 'ready' ? (
+            <ChapterLoadState state={state} />
+          ) : (
+            <ExercisesContent chapter={state.chapter} />
           )}
-          {selected === 'fillblank' && <FillBlankExercise items={fillBlankItems} />}
-          {selected === 'match' && <MatchExercise items={matchItems} />}
-          {selected === 'truefalse' && <TrueFalseExercise items={[]} />}
-          {selected === 'reasons' && <ReasonsExercise items={[]} />}
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+function ExercisesContent({ chapter }: { chapter: Chapter }) {
+  const theme = useTheme();
+  const [selected, setSelected] = useState<ExerciseTypeId>('answer');
+  const data = useMemo(() => deriveExerciseData(chapter), [chapter]);
+
+  return (
+    <>
+      <ThemedText type="small" themeColor="textSecondary" style={styles.chapterTitle}>
+        {chapter.meta.title}
+      </ThemedText>
+
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.pillScroll}>
+        <View style={styles.pillRow}>
+          {EXERCISE_TYPES.map((t) => {
+            const active = t.id === selected;
+            return (
+              <Pressable
+                key={t.id}
+                onPress={() => setSelected(t.id)}
+                style={[styles.pill, { backgroundColor: active ? theme.tint : theme.backgroundElement }]}
+              >
+                <ThemedText type="smallBold" themeColor={active ? 'onTint' : 'textSecondary'}>
+                  {t.label}
+                </ThemedText>
+              </Pressable>
+            );
+          })}
+        </View>
+      </ScrollView>
+
+      {selected === 'answer' && (
+        <>
+          {data.passageItems.length > 0 && (
+            <View style={styles.passage}>
+              <ThemedText type="small" themeColor="textSecondary" style={styles.passageLabel}>
+                Exercise C · Passage
+              </ThemedText>
+              {data.passageItems.map((p) => (
+                <View key={p.id} style={styles.mt3}>
+                  <SegmentLine
+                    source={p.text}
+                    transliteration={p.transliterations?.devanagari}
+                    translation={p.translations?.en}
+                  />
+                </View>
+              ))}
+            </View>
+          )}
+          <AnswerExercise items={data.answerItems} />
+        </>
+      )}
+      {selected === 'fillblank' && <FillBlankExercise items={data.fillBlankItems} />}
+      {selected === 'match' && <MatchExercise items={data.matchItems} />}
+      {selected === 'truefalse' && <TrueFalseExercise items={[]} />}
+      {selected === 'reasons' && <ReasonsExercise items={[]} />}
+    </>
   );
 }
 
