@@ -7,17 +7,16 @@ import { Colors } from '@/constants/theme';
 
 type MCIName = ComponentProps<typeof MaterialCommunityIcons>['name'];
 
-// Icon choices per docs/iconography.md — outline by default, filled only for
-// the active tab where MaterialCommunityIcons has a natural filled variant.
-function tabIcon(outline: MCIName, filled?: MCIName) {
-  return (
-    <NativeTabs.Trigger.Icon
-      src={{
-        default: <NativeTabs.Trigger.VectorIcon family={MaterialCommunityIcons} name={outline} />,
-        selected: <NativeTabs.Trigger.VectorIcon family={MaterialCommunityIcons} name={filled ?? outline} />,
-      }}
-    />
-  );
+// Icon per docs/iconography.md — single icon, not a default/selected pair.
+// `VectorIcon.family.getImageSource()` is async; providing two separate
+// VectorIcon elements (one per state) means two independent promises that
+// can resolve in either order, and RNScreens throws if `selectedIcon`
+// resolves before `icon` does ("[RNScreens] To use selectedIcon prop, the
+// icon prop must also be provided"). A single icon never hits that native
+// validation at all — active/inactive state is carried by `iconColor` and
+// the indicator pill below instead, which don't share this async path.
+function tabIcon(name: MCIName) {
+  return <NativeTabs.Trigger.Icon src={<NativeTabs.Trigger.VectorIcon family={MaterialCommunityIcons} name={name} />} />;
 }
 
 export default function AppTabs() {
@@ -36,7 +35,7 @@ export default function AppTabs() {
     >
       <NativeTabs.Trigger name="index">
         <NativeTabs.Trigger.Label>Home</NativeTabs.Trigger.Label>
-        {tabIcon('home-outline', 'home')}
+        {tabIcon('home-outline')}
       </NativeTabs.Trigger>
       <NativeTabs.Trigger name="library">
         <NativeTabs.Trigger.Label>Library</NativeTabs.Trigger.Label>
@@ -52,7 +51,7 @@ export default function AppTabs() {
       </NativeTabs.Trigger>
       <NativeTabs.Trigger name="explore">
         <NativeTabs.Trigger.Label>Explore</NativeTabs.Trigger.Label>
-        {tabIcon('compass-outline', 'compass')}
+        {tabIcon('compass-outline')}
       </NativeTabs.Trigger>
     </NativeTabs>
   );
