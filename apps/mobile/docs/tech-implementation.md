@@ -241,8 +241,26 @@ based on how much of the screen depends on the pending data.
 | Firebase Crashlytics | Free, unlimited volume, but pulls in a Firebase project as a dependency and has no self-host path — less portable, less aligned with an open-source, vendor-independent posture. |
 | Bugsnag | Solid RN support, but no free tier suited to a solo/OSS project. |
 
-**Decision: Sentry.** Apply for its open-source program once the app has real users. Not wired
-into code yet — this is the pick, implementation is a separate step.
+**Decision: Sentry.** Apply for its open-source program once the app has real users.
+
+**Implemented (basic):** `@sentry/react-native` + its Expo config plugin are installed and
+wired — `src/services/crash-reporting.ts`'s `initCrashReporting()` runs at module scope in
+`app/_layout.tsx`, as early as possible, and the root component is wrapped with `Sentry.wrap()`
+per Sentry's recommended integration (adds touch-event breadcrumbs, correlates JS errors with
+native crash reports). Works identically on iOS and Android — one SDK, no per-platform code.
+This is a real no-op today, not a stub pretending to work: `extra.sentryDsn` in `app.json` is an
+empty string until a real Sentry project exists, and `enabled: Boolean(dsn) && !__DEV__` means
+nothing is captured or sent anywhere until that DSN is actually set. Once a project exists (the
+OSS program above), paste the DSN into `app.json` — no code changes needed — and reporting goes
+live in production builds only (dev is deliberately excluded, so local development errors don't
+burn through the free/OSS tier's monthly event quota).
+
+**Not yet done — source map upload.** The Expo config plugin only handles native module
+linking; it doesn't automatically upload source maps during EAS Build, which needs an
+organization/project slug and a `SENTRY_AUTH_TOKEN` build secret from an actual Sentry account
+(none exists yet). Without this, once a DSN is set, crash reports will show minified/obfuscated
+JS stack traces rather than real file/line numbers — add this as a follow-up once the OSS
+program application above is approved.
 
 ## Analytics, feature flags, and A/B testing
 
@@ -273,7 +291,8 @@ called out there already). No `.env` secret-handling story needed for either.
 
 ## Explicitly out of scope for this doc
 
-- Actually installing/wiring Sentry or PostHog SDKs — a follow-up implementation step.
+- Actually installing/wiring the PostHog SDK — a follow-up implementation step (Sentry is now
+  done, see "Crash reporting" above).
 - The jsDelivr-purge GitHub Action — noted above, not yet built.
 - A real backend — this whole doc's premise is deferring it; revisit when one is actually being
   built, using the repository interfaces above as the seam.

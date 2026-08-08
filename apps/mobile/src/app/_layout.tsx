@@ -1,3 +1,4 @@
+import * as Sentry from '@sentry/react-native';
 import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
@@ -5,11 +6,15 @@ import { useColorScheme } from 'react-native';
 
 import { SplashView } from '@/components/splash-view';
 import { primeCatalog } from '@/services/catalog-store';
+import { initCrashReporting } from '@/services/crash-reporting';
 import { applyDevSettingsOnLaunch } from '@/services/dev-settings';
 
 SplashScreen.preventAutoHideAsync();
+// As early as possible, before the rest of the app's modules even finish loading —
+// see services/crash-reporting.ts (a no-op until a real DSN is configured).
+initCrashReporting();
 
-export default function RootLayout() {
+function RootLayout() {
   const colorScheme = useColorScheme();
   // Gates the first render, not just the splash hide — holding the splash
   // alone wouldn't stop a tab screen underneath from already firing its own
@@ -46,3 +51,7 @@ export default function RootLayout() {
     </ThemeProvider>
   );
 }
+
+// Sentry.wrap adds touch-event breadcrumbs and correlates JS errors with native
+// crash reports — the recommended integration point, per Sentry's RN docs.
+export default Sentry.wrap(RootLayout);

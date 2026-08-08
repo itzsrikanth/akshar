@@ -33,7 +33,8 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
-      ]
+      ],
+      "@sentry/react-native"
     ],
     "experiments": {
       "typedRoutes": true,
@@ -43,7 +44,8 @@
       "router": {},
       "eas": {
         "projectId": "f76849cd-064d-4360-86c3-4f70fbbc04fd"
-      }
+      },
+      "sentryDsn": ""
     },
     "owner": "srikanth650"
   }

@@ -22,7 +22,8 @@ device, in your device's local storage, and is never sent anywhere.
 - No camera or microphone access.
 - No contacts access.
 - No advertising, and no ad-tracking identifiers.
-- No analytics or crash-reporting is active in the current version (see "Future changes" below).
+- No analytics.
+- Crash reporting (Sentry) is present in the app's code but **inactive** — see "Crash reporting" below.
 
 ## What the app stores, and where
 
@@ -46,6 +47,17 @@ The app fetches textbook content (chapter text, translations, transliterations) 
 repository (`github.com/itzsrikanth/akshar`). These are plain content requests — no personal
 data, device identifiers, or account information is attached to them.
 
+## Crash reporting
+
+The app includes the Sentry crash-reporting SDK (`@sentry/react-native`), but it is currently
+**configured off** (`src/services/crash-reporting.ts`) — no crash reports, error data, or device
+information are sent anywhere by the current version of the app. This will change once the
+project has a real Sentry account set up; when that happens, this section will be updated first,
+before that release ships, to describe exactly what's collected (typically: error/crash details
+and basic device info such as OS version, never chapter content or anything you've typed) and
+why. Crash data, if and when it's turned on, is used only to fix bugs — never for advertising or
+tracking.
+
 ## Children's privacy
 
 Akshar is built to be used by children doing schoolwork, typically alongside a parent. Because
@@ -55,11 +67,10 @@ collected, stored remotely, or shared.
 
 ## Future changes
 
-This project's technical roadmap (`docs/tech-implementation.md`) lists optional future
-additions — crash reporting (Sentry) and basic usage analytics (Google Analytics) — that are
-**not implemented in the current version of the app**. If either is added in a future release,
-this policy will be updated first to disclose exactly what's collected and why, before that
-release ships.
+This project's technical roadmap (`docs/tech-implementation.md`) lists one further optional
+addition not yet built at all: basic product-usage analytics (PostHog). If it's added in a
+future release, this policy will be updated first to disclose exactly what's collected and why,
+before that release ships — same commitment already made above for crash reporting.
 
 ## Open source
 
