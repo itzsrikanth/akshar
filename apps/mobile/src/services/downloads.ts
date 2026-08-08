@@ -14,11 +14,7 @@ function fileFor(slug: string): File {
   return new File(downloadsDir, `${slug}.json`);
 }
 
-export function isDownloaded(slug: string): boolean {
-  return fileFor(slug).exists;
-}
-
-export function listDownloadedSlugs(): string[] {
+function listSlugsFromDisk(): string[] {
   if (!downloadsDir.exists) return [];
   return downloadsDir
     .list()
@@ -26,16 +22,47 @@ export function listDownloadedSlugs(): string[] {
     .map((file) => file.name.replace(/\.json$/, ''));
 }
 
+// A single in-memory snapshot shared across every useDownloads() call —
+// Explore and Library each mount their own hook instance, and React
+// Navigation keeps both tabs mounted, so without a shared store a download
+// made in one tab silently wouldn't appear in the other until it happened
+// to remount. useSyncExternalStore (hooks/use-downloads.ts) needs a
+// snapshot that's referentially stable between real changes, hence a cache
+// invalidated on write rather than re-reading the directory every render.
+let snapshot: string[] | null = null;
+const listeners = new Set<() => void>();
+
+function invalidate(): void {
+  snapshot = null;
+  listeners.forEach((listener) => listener());
+}
+
+export function subscribeToDownloads(listener: () => void): () => void {
+  listeners.add(listener);
+  return () => listeners.delete(listener);
+}
+
+export function getDownloadedSlugsSnapshot(): string[] {
+  if (snapshot === null) snapshot = listSlugsFromDisk();
+  return snapshot;
+}
+
+export function isDownloaded(slug: string): boolean {
+  return fileFor(slug).exists;
+}
+
 export function downloadChapter(slug: string, chapter: Chapter): void {
   if (!downloadsDir.exists) downloadsDir.create({ intermediates: true, idempotent: true });
   const file = fileFor(slug);
   if (!file.exists) file.create({ overwrite: true });
   file.write(JSON.stringify(chapter));
+  invalidate();
 }
 
 export function deleteChapter(slug: string): void {
   const file = fileFor(slug);
   if (file.exists) file.delete();
+  invalidate();
 }
 
 export function getDownloadedChapter(slug: string): Chapter | null {

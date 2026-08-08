@@ -1,22 +1,21 @@
-import { useCallback, useState } from 'react';
+import { useCallback, useState, useSyncExternalStore } from 'react';
 
 import { contentRepository } from '@/services';
-import { deleteChapter, downloadChapter, listDownloadedSlugs } from '@/services/downloads';
+import { deleteChapter, downloadChapter, getDownloadedSlugsSnapshot, subscribeToDownloads } from '@/services/downloads';
 
-// The File/Directory API is synchronous (see services/downloads.ts), so the
-// initial list is read straight from disk with no loading state to manage.
+// Subscribes to the shared downloads store (services/downloads.ts) rather
+// than keeping its own local list — Explore and Library each mount their
+// own instance of this hook, and both need to see a download made in
+// either one without waiting for a remount.
 export function useDownloads() {
-  const [slugs, setSlugs] = useState<string[]>(() => listDownloadedSlugs());
+  const slugs = useSyncExternalStore(subscribeToDownloads, getDownloadedSlugsSnapshot);
   const [pending, setPending] = useState<ReadonlySet<string>>(new Set());
-
-  const refresh = useCallback(() => setSlugs(listDownloadedSlugs()), []);
 
   const download = useCallback(async (path: string, slug: string) => {
     setPending((p) => new Set(p).add(slug));
     try {
       const chapter = await contentRepository.getChapter(path);
       downloadChapter(slug, chapter);
-      refresh();
     } finally {
       setPending((p) => {
         const next = new Set(p);
@@ -24,15 +23,11 @@ export function useDownloads() {
         return next;
       });
     }
-  }, [refresh]);
+  }, []);
 
-  const remove = useCallback(
-    (slug: string) => {
-      deleteChapter(slug);
-      refresh();
-    },
-    [refresh],
-  );
+  const remove = useCallback((slug: string) => {
+    deleteChapter(slug);
+  }, []);
 
   return {
     downloadedSlugs: slugs,
