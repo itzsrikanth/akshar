@@ -1,7 +1,8 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { useMemo, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import Animated, { FadeIn } from 'react-native-reanimated';
 
 import { AnswerExercise } from '@/components/exercises/answer-exercise';
 import { EXERCISE_TYPES } from '@/components/exercises/registry';
@@ -11,9 +12,11 @@ import { ReasonsExercise } from '@/components/exercises/reasons-exercise';
 import { TrueFalseExercise } from '@/components/exercises/true-false-exercise';
 import type { AnswerItem, ExerciseTypeId, FillBlankItem, MatchItem } from '@/components/exercises/types';
 import { AsyncStateView } from '@/components/async-state-view';
+import { FadeInView } from '@/components/fade-in';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { DEFAULT_CHAPTER_PATH } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useChapter } from '@/hooks/use-chapter';
@@ -93,15 +96,17 @@ export default function ExercisesScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          <Pressable onPress={() => router.back()} hitSlop={8}>
+          <Touchable onPress={() => router.back()} hitSlop={8}>
             <ThemedText type="smallBold" themeColor="tint">
               ← Back to chapter
             </ThemedText>
-          </Pressable>
+          </Touchable>
           {state.status !== 'ready' ? (
             <AsyncStateView state={state} />
           ) : (
-            <ExercisesContent chapter={state.chapter} />
+            <FadeInView>
+              <ExercisesContent chapter={state.chapter} />
+            </FadeInView>
           )}
         </ScrollView>
       </SafeAreaView>
@@ -125,7 +130,7 @@ function ExercisesContent({ chapter }: { chapter: Chapter }) {
           {EXERCISE_TYPES.map((t) => {
             const active = t.id === selected;
             return (
-              <Pressable
+              <Touchable
                 key={t.id}
                 onPress={() => setSelected(t.id)}
                 style={[styles.pill, { backgroundColor: active ? theme.tint : theme.backgroundElement }]}
@@ -133,37 +138,39 @@ function ExercisesContent({ chapter }: { chapter: Chapter }) {
                 <ThemedText type="smallBold" themeColor={active ? 'onTint' : 'textSecondary'}>
                   {t.label}
                 </ThemedText>
-              </Pressable>
+              </Touchable>
             );
           })}
         </View>
       </ScrollView>
 
-      {selected === 'answer' && (
-        <>
-          {data.passageItems.length > 0 && (
-            <View style={styles.passage}>
-              <ThemedText type="small" themeColor="textSecondary" style={styles.passageLabel}>
-                Exercise C · Passage
-              </ThemedText>
-              {data.passageItems.map((p) => (
-                <View key={p.id} style={styles.mt3}>
-                  <SegmentLine
-                    source={p.text}
-                    transliteration={p.transliterations?.devanagari}
-                    translation={p.translations?.en}
-                  />
-                </View>
-              ))}
-            </View>
-          )}
-          <AnswerExercise items={data.answerItems} />
-        </>
-      )}
-      {selected === 'fillblank' && <FillBlankExercise items={data.fillBlankItems} />}
-      {selected === 'match' && <MatchExercise items={data.matchItems} />}
-      {selected === 'truefalse' && <TrueFalseExercise items={[]} />}
-      {selected === 'reasons' && <ReasonsExercise items={[]} />}
+      <Animated.View key={selected} entering={FadeIn.duration(150)}>
+        {selected === 'answer' && (
+          <>
+            {data.passageItems.length > 0 && (
+              <View style={styles.passage}>
+                <ThemedText type="small" themeColor="textSecondary" style={styles.passageLabel}>
+                  Exercise C · Passage
+                </ThemedText>
+                {data.passageItems.map((p) => (
+                  <View key={p.id} style={styles.mt3}>
+                    <SegmentLine
+                      source={p.text}
+                      transliteration={p.transliterations?.devanagari}
+                      translation={p.translations?.en}
+                    />
+                  </View>
+                ))}
+              </View>
+            )}
+            <AnswerExercise items={data.answerItems} />
+          </>
+        )}
+        {selected === 'fillblank' && <FillBlankExercise items={data.fillBlankItems} />}
+        {selected === 'match' && <MatchExercise items={data.matchItems} />}
+        {selected === 'truefalse' && <TrueFalseExercise items={[]} />}
+        {selected === 'reasons' && <ReasonsExercise items={[]} />}
+      </Animated.View>
     </>
   );
 }

@@ -1,13 +1,15 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
 import { useMemo } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AppHeader } from '@/components/app-header';
 import { AsyncStateView } from '@/components/async-state-view';
+import { FadeInView } from '@/components/fade-in';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
@@ -32,7 +34,13 @@ export default function HomeScreen() {
             a future-roadmap item, not built). Revisit with real tagline
             copy once the core reading flow has been used by someone. */}
         <AppHeader subtitle="Learning app" onSettingsPress={() => router.push('/settings')} />
-        {state.status !== 'ready' ? <AsyncStateView state={state} /> : <HomeContent catalog={state.catalog} />}
+        {state.status !== 'ready' ? (
+          <AsyncStateView state={state} />
+        ) : (
+          <FadeInView style={styles.fill}>
+            <HomeContent catalog={state.catalog} />
+          </FadeInView>
+        )}
       </SafeAreaView>
     </ThemedView>
   );
@@ -74,14 +82,14 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
             <ThemedText type="small" themeColor="textSecondary" style={styles.mt6}>
               {PLACEHOLDER_PROGRESS.segmentsRead} of {PLACEHOLDER_PROGRESS.segmentsTotal} segments read
             </ThemedText>
-            <Pressable
+            <Touchable
               onPress={() => router.push('/reader')}
               style={[styles.pillButton, { backgroundColor: theme.tint }]}
             >
               <ThemedText type="smallBold" themeColor="onTint">
                 Continue reading
               </ThemedText>
-            </Pressable>
+            </Touchable>
           </ThemedView>
         </View>
       )}
@@ -92,11 +100,11 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
             <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
               YOUR SCOPE
             </ThemedText>
-            <Pressable onPress={() => router.push('/settings')} hitSlop={8}>
+            <Touchable onPress={() => router.push('/settings')} hitSlop={8}>
               <ThemedText type="smallBold" themeColor="tint">
                 Edit
               </ThemedText>
-            </Pressable>
+            </Touchable>
           </View>
           <View style={styles.chipsRow}>
             {[scope.board, scope.state, `${scope.medium} medium`, `Grade ${scope.grade}`].map((label) => (
@@ -113,7 +121,7 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
           SUBJECTS
         </ThemedText>
         {subjects.map((s) => (
-          <Pressable
+          <Touchable
             key={s.subject}
             onPress={() => router.push('/explore')}
             style={[styles.subjectRow, { borderColor: theme.border }]}
@@ -128,7 +136,7 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
               </ThemedText>
             </View>
             <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
-          </Pressable>
+          </Touchable>
         ))}
       </View>
     </ScrollView>
@@ -138,6 +146,7 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
 const styles = StyleSheet.create({
   container: { flex: 1 },
   safeArea: { flex: 1 },
+  fill: { flex: 1 },
   content: { paddingBottom: Spacing.six },
   section: { paddingHorizontal: Spacing.three, marginTop: Spacing.three },
   sectionHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },

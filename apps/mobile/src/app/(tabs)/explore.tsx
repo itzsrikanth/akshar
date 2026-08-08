@@ -1,12 +1,14 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
 import { useMemo, useState } from 'react';
-import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ActivityIndicator, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
+import { FadeInView } from '@/components/fade-in';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
@@ -27,15 +29,21 @@ export default function ExploreScreen() {
         <ScrollView contentContainerStyle={styles.content}>
           <View style={styles.headerRow}>
             <ThemedText type="subtitle">Explore</ThemedText>
-            <Pressable onPress={() => router.push('/search')} hitSlop={8}>
+            <Touchable onPress={() => router.push('/search')} hitSlop={8}>
               <MaterialCommunityIcons name="magnify" size={22} color={theme.textSecondary} />
-            </Pressable>
+            </Touchable>
           </View>
           <ThemedText type="small" themeColor="textSecondary" style={styles.subtitle}>
             Browse the full catalog
           </ThemedText>
 
-          {state.status !== 'ready' ? <AsyncStateView state={state} /> : <ExploreContent catalog={state.catalog} />}
+          {state.status !== 'ready' ? (
+            <AsyncStateView state={state} />
+          ) : (
+            <FadeInView>
+              <ExploreContent catalog={state.catalog} />
+            </FadeInView>
+          )}
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
@@ -92,9 +100,9 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
               </View>
             );
           return tappable ? (
-            <Pressable key={key} onPress={() => setManualSelected(resolved.slice(0, i))} hitSlop={6}>
+            <Touchable key={key} onPress={() => setManualSelected(resolved.slice(0, i))} hitSlop={6}>
               {content}
-            </Pressable>
+            </Touchable>
           ) : (
             <View key={key}>{content}</View>
           );
@@ -102,7 +110,7 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
       </View>
 
       {candidateScope && (
-        <Pressable
+        <Touchable
           onPress={() => !candidateIsCurrent && setScope(candidateScope)}
           disabled={candidateIsCurrent}
           style={styles.setScopeRow}
@@ -116,7 +124,7 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
           <ThemedText type="smallBold" themeColor={candidateIsCurrent ? 'success' : 'tint'}>
             {candidateIsCurrent ? 'This is your default scope' : 'Set as my default scope'}
           </ThemedText>
-        </Pressable>
+        </Touchable>
       )}
 
       {!atChapterList ? (
@@ -125,14 +133,14 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
             {`CHOOSE A ${levelName(LEVEL_KEYS[resolved.length]).toUpperCase()}`}
           </ThemedText>
           {optionsAtLevel(catalog.chapters, resolved, resolved.length).map((option, i, options) => (
-            <Pressable
+            <Touchable
               key={String(option)}
               onPress={() => setManualSelected([...resolved, option])}
               style={[styles.optionRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
             >
               <ThemedText type="default">{levelLabel(LEVEL_KEYS[resolved.length], option)}</ThemedText>
               <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
-            </Pressable>
+            </Touchable>
           ))}
         </View>
       ) : (
@@ -142,11 +150,11 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
               {`${chaptersInScope.length} CHAPTERS`}
             </ThemedText>
             {notYetDownloaded.length > 0 && (
-              <Pressable onPress={() => notYetDownloaded.forEach((c) => downloads.download(c.path, c.slug))} hitSlop={6}>
+              <Touchable onPress={() => notYetDownloaded.forEach((c) => downloads.download(c.path, c.slug))} hitSlop={6}>
                 <ThemedText type="smallBold" themeColor="tint">
                   Download all
                 </ThemedText>
-              </Pressable>
+              </Touchable>
             )}
           </View>
 
@@ -184,7 +192,7 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
                   {pending ? (
                     <ActivityIndicator size="small" color={theme.tint} />
                   ) : (
-                    <Pressable
+                    <Touchable
                       onPress={() => (downloaded ? downloads.remove(chapter.slug) : downloads.download(chapter.path, chapter.slug))}
                       hitSlop={8}
                     >
@@ -193,7 +201,7 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
                         size={20}
                         color={downloaded ? theme.error : theme.tint}
                       />
-                    </Pressable>
+                    </Touchable>
                   )}
                   <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
                 </View>
@@ -204,13 +212,13 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
               i < chaptersInScope.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border },
             ];
             return (
-              <Pressable
+              <Touchable
                 key={chapter.slug}
                 onPress={() => router.push({ pathname: '/reader', params: { path: chapter.path } })}
                 style={rowStyle}
               >
                 {row}
-              </Pressable>
+              </Touchable>
             );
           })}
         </>

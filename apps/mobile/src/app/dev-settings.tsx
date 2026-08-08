@@ -1,10 +1,11 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Redirect, router } from 'expo-router';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useDevSettings } from '@/hooks/use-dev-settings';
 import { useTheme } from '@/hooks/use-theme';
@@ -32,11 +33,11 @@ function DevSettingsContent() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          <Pressable onPress={() => router.back()} hitSlop={8}>
+          <Touchable onPress={() => router.back()} hitSlop={8}>
             <ThemedText type="smallBold" themeColor="tint">
               ← Back
             </ThemedText>
-          </Pressable>
+          </Touchable>
 
           <ThemedText type="subtitle" style={styles.pageTitle}>
             Developer settings
@@ -52,7 +53,7 @@ function DevSettingsContent() {
             {(Object.keys(CONTENT_SOURCES) as ContentSourceId[]).map((id, i, ids) => {
               const active = loaded && (contentSource ?? (__DEV__ ? 'local' : 'cdn')) === id;
               return (
-                <Pressable
+                <Touchable
                   key={id}
                   onPress={() => setContentSource(id)}
                   style={[styles.row, i < ids.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
@@ -64,7 +65,7 @@ function DevSettingsContent() {
                     </ThemedText>
                   </View>
                   {active && <MaterialCommunityIcons name="check-circle" size={18} color={theme.success} />}
-                </Pressable>
+                </Touchable>
               );
             })}
           </View>

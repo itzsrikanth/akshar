@@ -2,12 +2,14 @@ import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Host, Picker } from '@expo/ui';
 import { router } from 'expo-router';
 import { useMemo, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
+import { FadeInView } from '@/components/fade-in';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useScope } from '@/hooks/use-scope';
@@ -22,17 +24,23 @@ export default function SettingsScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          <Pressable onPress={() => router.back()} hitSlop={8}>
+          <Touchable onPress={() => router.back()} hitSlop={8}>
             <ThemedText type="smallBold" themeColor="tint">
               ← Back
             </ThemedText>
-          </Pressable>
+          </Touchable>
 
           <ThemedText type="subtitle" style={styles.pageTitle}>
             Settings
           </ThemedText>
 
-          {state.status !== 'ready' ? <AsyncStateView state={state} /> : <SettingsContent catalog={state.catalog} />}
+          {state.status !== 'ready' ? (
+            <AsyncStateView state={state} />
+          ) : (
+            <FadeInView>
+              <SettingsContent catalog={state.catalog} />
+            </FadeInView>
+          )}
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
@@ -96,7 +104,7 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             DEFAULT SCOPE
           </ThemedText>
-          <Pressable onPress={() => router.push('/explore')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
+          <Touchable onPress={() => router.push('/explore')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
             <View style={styles.f1}>
               <ThemedText type="small">
                 {`${scope.board} · ${scope.state} · ${scope.medium} · Grade ${scope.grade}`}
@@ -108,7 +116,7 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
               )}
             </View>
             <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
-          </Pressable>
+          </Touchable>
         </>
       )}
 
@@ -117,12 +125,12 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             DEVELOPER
           </ThemedText>
-          <Pressable onPress={() => router.push('/dev-settings')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
+          <Touchable onPress={() => router.push('/dev-settings')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
             <ThemedText type="small" style={styles.f1}>
               Content source, test flags
             </ThemedText>
             <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
-          </Pressable>
+          </Touchable>
         </>
       )}
     </>

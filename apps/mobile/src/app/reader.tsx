@@ -1,14 +1,16 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router, useLocalSearchParams } from 'expo-router';
 import { useMemo } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { EXERCISE_TYPES } from '@/components/exercises/registry';
+import { FadeInView } from '@/components/fade-in';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { DEFAULT_CHAPTER_PATH } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useChapter } from '@/hooks/use-chapter';
@@ -86,24 +88,26 @@ export default function ReaderScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <View style={styles.topRow}>
-          <Pressable onPress={() => router.back()} hitSlop={8}>
+          <Touchable onPress={() => router.back()} hitSlop={8}>
             <ThemedText type="smallBold" themeColor="tint">
               ← Back
             </ThemedText>
-          </Pressable>
-          <Pressable
+          </Touchable>
+          <Touchable
             onPress={() => router.push('/settings')}
             hitSlop={8}
             style={[styles.settingsButton, { backgroundColor: theme.tintMuted }]}
           >
             <MaterialCommunityIcons name="cog-outline" size={20} color={theme.tint} />
-          </Pressable>
+          </Touchable>
         </View>
 
         {state.status !== 'ready' ? (
           <AsyncStateView state={state} />
         ) : (
-          <ReaderContent chapter={state.chapter} chapterPath={chapterPath} />
+          <FadeInView style={styles.fill}>
+            <ReaderContent chapter={state.chapter} chapterPath={chapterPath} />
+          </FadeInView>
         )}
       </SafeAreaView>
     </ThemedView>
@@ -201,7 +205,7 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
 
       {data.exerciseLetters.length > 0 && (
         <View style={styles.section}>
-          <Pressable
+          <Touchable
             onPress={() => router.push({ pathname: '/exercises', params: { path: chapterPath } })}
             style={[styles.exercisesCard, { backgroundColor: theme.backgroundElement }]}
           >
@@ -214,7 +218,7 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
               </ThemedText>
             </View>
             <MaterialCommunityIcons name="arrow-right" size={22} color={theme.tint} />
-          </Pressable>
+          </Touchable>
         </View>
       )}
     </ScrollView>
@@ -224,6 +228,7 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
 const styles = StyleSheet.create({
   container: { flex: 1 },
   safeArea: { flex: 1 },
+  fill: { flex: 1 },
   topRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',

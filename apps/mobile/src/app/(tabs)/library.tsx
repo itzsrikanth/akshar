@@ -1,12 +1,14 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
 import { useMemo } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
+import { FadeInView } from '@/components/fade-in';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
+import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
@@ -31,13 +33,19 @@ export default function LibraryScreen() {
             Chapters you've downloaded for offline reading
           </ThemedText>
 
-          {state.status !== 'ready' ? <AsyncStateView state={state} /> : <LibraryContent catalog={state.catalog} />}
+          {state.status !== 'ready' ? (
+            <AsyncStateView state={state} />
+          ) : (
+            <FadeInView>
+              <LibraryContent catalog={state.catalog} />
+            </FadeInView>
+          )}
 
-          <Pressable onPress={() => router.push('/explore')} style={styles.browseLink}>
+          <Touchable onPress={() => router.push('/explore')} style={styles.browseLink}>
             <ThemedText type="smallBold" themeColor="tint">
               Browse full catalog →
             </ThemedText>
-          </Pressable>
+          </Touchable>
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
@@ -66,7 +74,7 @@ function LibraryContent({ catalog }: { catalog: Catalog }) {
         {`DOWNLOADED · ${downloaded.length}`}
       </ThemedText>
       {downloaded.map((chapter, i) => (
-        <Pressable
+        <Touchable
           key={chapter.slug}
           onPress={() => router.push({ pathname: '/reader', params: { path: chapter.path } })}
           style={[styles.row, i < downloaded.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
@@ -80,10 +88,10 @@ function LibraryContent({ catalog }: { catalog: Catalog }) {
               {`${PLACEHOLDER_PROGRESS.segmentsRead} of ${PLACEHOLDER_PROGRESS.segmentsTotal} segments read`}
             </ThemedText>
           </View>
-          <Pressable onPress={() => downloads.remove(chapter.slug)} hitSlop={8}>
+          <Touchable onPress={() => downloads.remove(chapter.slug)} hitSlop={8}>
             <MaterialCommunityIcons name="delete-outline" size={20} color={theme.error} />
-          </Pressable>
-        </Pressable>
+          </Touchable>
+        </Touchable>
       ))}
     </>
   );

@@ -1,7 +1,8 @@
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import { Pressable, StyleSheet, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 
 import { ThemedText } from '@/components/themed-text';
+import { Touchable } from '@/components/touchable';
 import { Radius } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
 
@@ -26,9 +27,9 @@ export function AppHeader({
         <View style={s.right}>
           <ThemedText type="small" themeColor="textSecondary">{status}</ThemedText>
           {showSettings && (
-            <Pressable onPress={onSettingsPress} hitSlop={8} style={[s.settingsButton, { backgroundColor: theme.tintMuted }]}>
+            <Touchable onPress={onSettingsPress} hitSlop={8} style={[s.settingsButton, { backgroundColor: theme.tintMuted }]}>
               <MaterialCommunityIcons name="cog-outline" size={20} color={theme.tint} />
-            </Pressable>
+            </Touchable>
           )}
         </View>
       </View>
