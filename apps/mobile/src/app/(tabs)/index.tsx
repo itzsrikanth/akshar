@@ -8,9 +8,9 @@ import { AppHeader } from '@/components/app-header';
 import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
-import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useDownloads } from '@/hooks/use-downloads';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
@@ -41,6 +41,7 @@ export default function HomeScreen() {
 function HomeContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
   const { scope } = useScope(catalog);
+  const downloads = useDownloads();
   const continueReading = catalog.chapters[0];
   const progressPct = Math.round((PLACEHOLDER_PROGRESS.segmentsRead / PLACEHOLDER_PROGRESS.segmentsTotal) * 100);
 
@@ -49,11 +50,11 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
     for (const c of catalog.chapters) {
       const entry = bySubject.get(c.subject) ?? { total: 0, downloaded: 0 };
       entry.total += 1;
-      if (DOWNLOADED_SLUGS.includes(c.slug)) entry.downloaded += 1;
+      if (downloads.isDownloaded(c.slug)) entry.downloaded += 1;
       bySubject.set(c.subject, entry);
     }
     return Array.from(bySubject, ([subject, counts]) => ({ subject, ...counts }));
-  }, [catalog]);
+  }, [catalog, downloads.downloadedSlugs]);
 
   return (
     <ScrollView contentContainerStyle={styles.content}>

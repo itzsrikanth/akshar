@@ -8,4 +8,11 @@ import { CdnContentRepository, type ContentRepository } from './content-reposito
 // this one line; nothing else moves.
 export const contentRepository: ContentRepository = new CdnContentRepository(CONTENT_BASE_URL);
 
+// Dev-only escape hatch (see services/dev-settings.ts + app/dev-settings.tsx)
+// — kept as a function, rather than exporting the concrete class, so normal
+// screens only ever see the ContentRepository interface.
+export function setContentBaseUrlForDev(url: string): void {
+  (contentRepository as CdnContentRepository).setBaseUrl(url);
+}
+
 export type { Catalog, CatalogChapter, Chapter, ChapterSegment, ContentRepository } from './content-repository';

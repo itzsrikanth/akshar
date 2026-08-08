@@ -6,6 +6,10 @@
 // package.json's "content-server" script (`python3 -m http.server`, no new
 // dependency) and docs/local-dev-content-server.md for how to reach it from
 // a device/Simulator that isn't running on this same machine.
-export const CONTENT_BASE_URL = __DEV__
-  ? 'http://localhost:8787'
-  : 'https://cdn.jsdelivr.net/gh/itzsrikanth/akshar@main';
+export const CONTENT_SOURCES = {
+  local: 'http://localhost:8787',
+  cdn: 'https://cdn.jsdelivr.net/gh/itzsrikanth/akshar@main',
+} as const;
+export type ContentSourceId = keyof typeof CONTENT_SOURCES;
+
+export const CONTENT_BASE_URL = __DEV__ ? CONTENT_SOURCES.local : CONTENT_SOURCES.cdn;

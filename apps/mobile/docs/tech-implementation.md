@@ -36,12 +36,30 @@ is exactly what a local cache should compare against to know whether to re-downl
 Downloads in `product-brief.md`).
 
 **Implemented (basic):** `src/services/content-repository.ts`'s `CdnContentRepository` does the
-actual `fetch()` against this URL scheme — `getCatalog()`/`getChapter(path)`, no persistence yet
-(that's the download layer above, still just a plan). `src/services/config.ts` points it at a
-local dev server instead of jsDelivr whenever `__DEV__` is true — see
+actual `fetch()` against this URL scheme — `getCatalog()`/`getChapter(path)`. `src/services/config.ts`
+points it at a local dev server instead of jsDelivr whenever `__DEV__` is true — see
 `docs/local-dev-content-server.md` for why and how to run one. Reader and Exercises
 (`src/hooks/use-chapter.ts`) are the first real consumers, replacing what used to be a direct
 `import`-ed chapter JSON.
+
+**Implemented (basic) — per-chapter download:** `src/services/downloads.ts` writes/reads chapter
+JSON via SDK 57's `File`/`Directory` API (`expo-file-system`'s legacy `FileSystem.*Async`
+functions moved to `expo-file-system/legacy` — see this file's AGENTS.md "Expo HAS CHANGED"
+note) into `Paths.document/chapters/<slug>.json`. No separate manifest: the directory listing
+*is* the "what's downloaded" answer (`listDownloadedSlugs()`), which is enough at this scale — a
+manifest only earns its keep once download metadata (e.g. `downloadedAt`) is needed for its own
+sake. `useChapter` (`src/hooks/use-chapter.ts`) checks a downloaded copy before hitting the
+network, so a downloaded chapter genuinely reads offline. Group-level download ("download all" at
+the resolved grade/subject list) and staleness re-sync via `contentHash` are still not built.
+
+**Dev tooling — content-source override:** `src/services/dev-settings.ts` +
+`src/app/dev-settings.tsx` (linked from Settings' "Developer" section, itself hidden outside
+`__DEV__`) let a developer flip the active content source between the local server and jsDelivr
+at runtime, persisted across restarts, without rebuilding. `CdnContentRepository.setBaseUrl()`
+clears its in-memory fetch caches on switch so nothing stale lingers. Applied once at launch
+(`app/_layout.tsx` awaits `applyDevSettingsOnLaunch()` before the first render) so it can't race
+the first catalog fetch. This is also the seam future dev-only flags (e.g. skipping an onboarding
+flow during testing, once one exists) are meant to extend, not a one-off.
 
 ## No-backend architecture — repository pattern
 
@@ -97,6 +115,15 @@ only whether `setScope`/`recordSegmentRead` also push to a server.
 progress, and the downloaded-chapter manifest — all small, key-shaped state. Reach for a real
 SQLite schema only if that stops being true (e.g. cross-chapter progress queries that need real
 joins) — no need to build that structure speculatively now.
+
+**Implemented (basic) — deviates slightly from the plan above:** scope ended up on
+`@react-native-async-storage/async-storage` directly (`src/services/scope-storage.ts` +
+`src/hooks/use-scope.ts`) rather than `expo-sqlite/kv-store` — one small string key, not worth a
+second storage dependency yet; downloads similarly skip a manifest store (see the download-layer
+note above) and don't extend `ContentRepository`'s interface — they're a genuinely separate
+concern (persisting a fetch result vs. how to fetch), kept as their own `downloads.ts` module
+rather than folded into the fetch interface. `ProgressRepository` and `expo-sqlite/kv-store`
+itself remain unbuilt, plan-only.
 
 ## Component architecture — feature modules, not Atomic Design
 

@@ -1,15 +1,15 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
 import { useMemo, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { ActivityIndicator, Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
-import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useDownloads } from '@/hooks/use-downloads';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
@@ -60,6 +60,9 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
       ? { board: resolved[0] as string, state: resolved[1] as string, medium: resolved[2] as string, grade: resolved[3] as number }
       : null;
   const candidateIsCurrent = isSaved && scopesEqual(scope, candidateScope);
+
+  const downloads = useDownloads();
+  const notYetDownloaded = chaptersInScope.filter((c) => !downloads.isDownloaded(c.slug));
 
   return (
     <>
@@ -138,13 +141,18 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
             <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
               {`${chaptersInScope.length} CHAPTERS`}
             </ThemedText>
-            <ThemedText type="smallBold" themeColor="tint">
-              Download all
-            </ThemedText>
+            {notYetDownloaded.length > 0 && (
+              <Pressable onPress={() => notYetDownloaded.forEach((c) => downloads.download(c.path, c.slug))} hitSlop={6}>
+                <ThemedText type="smallBold" themeColor="tint">
+                  Download all
+                </ThemedText>
+              </Pressable>
+            )}
           </View>
 
           {chaptersInScope.map((chapter, i) => {
-            const downloaded = DOWNLOADED_SLUGS.includes(chapter.slug);
+            const downloaded = downloads.isDownloaded(chapter.slug);
+            const pending = downloads.isPending(chapter.slug);
             const badges = [...chapter.translations.map(labelForLanguage), ...chapter.transliterations.map(labelForScript)];
             const row = (
               <View style={styles.chapterRowInner}>
@@ -173,11 +181,20 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
                   )}
                 </View>
                 <View style={styles.chapterActions}>
-                  <MaterialCommunityIcons
-                    name={downloaded ? 'delete-outline' : 'download'}
-                    size={20}
-                    color={downloaded ? theme.error : theme.tint}
-                  />
+                  {pending ? (
+                    <ActivityIndicator size="small" color={theme.tint} />
+                  ) : (
+                    <Pressable
+                      onPress={() => (downloaded ? downloads.remove(chapter.slug) : downloads.download(chapter.path, chapter.slug))}
+                      hitSlop={8}
+                    >
+                      <MaterialCommunityIcons
+                        name={downloaded ? 'delete-outline' : 'download'}
+                        size={20}
+                        color={downloaded ? theme.error : theme.tint}
+                      />
+                    </Pressable>
+                  )}
                   <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
                 </View>
               </View>

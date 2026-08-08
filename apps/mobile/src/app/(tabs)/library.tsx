@@ -7,9 +7,9 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { AsyncStateView } from '@/components/async-state-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
-import { DOWNLOADED_SLUGS } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useDownloads } from '@/hooks/use-downloads';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
 
@@ -46,10 +46,19 @@ export default function LibraryScreen() {
 
 function LibraryContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
+  const downloads = useDownloads();
   const downloaded = useMemo(
-    () => catalog.chapters.filter((c) => DOWNLOADED_SLUGS.includes(c.slug)),
-    [catalog],
+    () => catalog.chapters.filter((c) => downloads.isDownloaded(c.slug)),
+    [catalog, downloads.downloadedSlugs],
   );
+
+  if (downloaded.length === 0) {
+    return (
+      <ThemedText type="small" themeColor="textSecondary">
+        Nothing downloaded yet — browse the full catalog below and tap the download icon on a chapter to read it offline.
+      </ThemedText>
+    );
+  }
 
   return (
     <>
@@ -71,7 +80,9 @@ function LibraryContent({ catalog }: { catalog: Catalog }) {
               {`${PLACEHOLDER_PROGRESS.segmentsRead} of ${PLACEHOLDER_PROGRESS.segmentsTotal} segments read`}
             </ThemedText>
           </View>
-          <MaterialCommunityIcons name="delete-outline" size={20} color={theme.error} />
+          <Pressable onPress={() => downloads.remove(chapter.slug)} hitSlop={8}>
+            <MaterialCommunityIcons name="delete-outline" size={20} color={theme.error} />
+          </Pressable>
         </Pressable>
       ))}
     </>

@@ -73,6 +73,14 @@ export class CdnContentRepository implements ContentRepository {
 
   constructor(private baseUrl: string) {}
 
+  /** Dev-only escape hatch (see services/dev-settings.ts) — swaps the source and drops in-memory caches so nothing stale lingers from the old one. */
+  setBaseUrl(url: string): void {
+    if (url === this.baseUrl) return;
+    this.baseUrl = url;
+    this.chapterCache.clear();
+    this.catalogCache = undefined;
+  }
+
   private async fetchJson<T>(path: string): Promise<T> {
     const res = await fetch(`${this.baseUrl}/${path}`);
     if (!res.ok) {

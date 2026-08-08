@@ -17,10 +17,13 @@ duplicated, below.
 **The seam to leave now, at zero extra cost today:** `ProgressRepository` (defined in
 `tech-implementation.md`) should be profile-aware in its interface from the start — every method
 implicitly keyed by a `profileId`, even though v1 only ever has one, constant, invisible-in-UI
-profile (`'default'`). Local storage keys in `expo-sqlite/kv-store` should already be namespaced
-(`scope:default`, `progress:default`), not global (`scope`, `progress`). This costs nothing extra
-to write now — it's the same amount of code — but it means adding a real profile switcher later
-is additive (new UI, new profile IDs), not a data migration.
+profile (`'default'`). Local storage keys should already be namespaced (`scope:default`,
+`progress:default`), not global (`scope`, `progress`) — already done for scope
+(`src/services/scope-storage.ts`'s `'akshar:scope:default'` key; scope ended up on
+`AsyncStorage`, not `expo-sqlite/kv-store` — see `tech-implementation.md`), still to do for
+progress once `ProgressRepository` exists. This costs nothing extra to write now — it's the same
+amount of code — but it means adding a real profile switcher later is additive (new UI, new
+profile IDs), not a data migration.
 
 **One nuance worth getting right conceptually now:** downloaded *content* (chapter JSON on disk)
 should stay profile-agnostic and shared — two kids in the same grade/subject shouldn't trigger a

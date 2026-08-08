@@ -111,6 +111,20 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           </Pressable>
         </>
       )}
+
+      {__DEV__ && (
+        <>
+          <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+            DEVELOPER
+          </ThemedText>
+          <Pressable onPress={() => router.push('/dev-settings')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
+            <ThemedText type="small" style={styles.f1}>
+              Content source, test flags
+            </ThemedText>
+            <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
+          </Pressable>
+        </>
+      )}
     </>
   );
 }
