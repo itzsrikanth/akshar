@@ -19,9 +19,11 @@ Use `@expo/vector-icons` with the `MaterialCommunityIcons` icon set for the mobi
 |--------|------|
 | Home | `home-outline` |
 | Library | `bookshelf` |
-| Search | `magnify` |
-| Reader | `book-open-page-variant` |
 | Explore | `compass-outline` |
+
+Reader, Exercises, Search, and Settings are pushed screens reached from within Home/Library/
+Explore (e.g. "Continue reading", a chapter row, the search icon), not bottom-nav destinations —
+per the Claude Design update that moved Library into the tab bar in Reader's place.
 
 Guidelines:
 

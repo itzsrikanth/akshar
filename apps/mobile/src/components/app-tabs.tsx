@@ -41,14 +41,6 @@ export default function AppTabs() {
         <NativeTabs.Trigger.Label>Library</NativeTabs.Trigger.Label>
         {tabIcon('bookshelf')}
       </NativeTabs.Trigger>
-      <NativeTabs.Trigger name="search">
-        <NativeTabs.Trigger.Label>Search</NativeTabs.Trigger.Label>
-        {tabIcon('magnify')}
-      </NativeTabs.Trigger>
-      <NativeTabs.Trigger name="reader">
-        <NativeTabs.Trigger.Label>Reader</NativeTabs.Trigger.Label>
-        {tabIcon('book-open-page-variant')}
-      </NativeTabs.Trigger>
       <NativeTabs.Trigger name="explore">
         <NativeTabs.Trigger.Label>Explore</NativeTabs.Trigger.Label>
         {tabIcon('compass-outline')}

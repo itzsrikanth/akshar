@@ -3,6 +3,7 @@ import { router } from 'expo-router';
 import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { EXERCISE_TYPES } from '@/components/exercises/registry';
 import { SegmentLine } from '@/components/segment-line';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
@@ -13,7 +14,7 @@ import { useTheme } from '@/hooks/use-theme';
 // single source of truth with the exact shape a future ContentRepository
 // fetch (docs/tech-implementation.md) would return, so swapping the import
 // for a real fetch call later is a one-line change, not a rewrite.
-import chapterData from '../../../../../api/KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json';
+import chapterData from '../../../../api/KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json';
 
 type Segment = {
   id: string;
@@ -181,7 +182,7 @@ export default function ReaderScreen() {
                     Exercises
                   </ThemedText>
                   <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
-                    {`${exerciseLetters.length} sets · ${exerciseLetters.join(', ')}`}
+                    {`${EXERCISE_TYPES.length} exercise types`}
                   </ThemedText>
                 </View>
                 <MaterialCommunityIcons name="arrow-right" size={22} color={theme.tint} />
