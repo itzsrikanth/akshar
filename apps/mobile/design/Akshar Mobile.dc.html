@@ -40,6 +40,8 @@ a:hover{color:#8F4315;}
     <sc-if value="{{notSettings}}"><div onClick="{{goSettings}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Settings</div></sc-if>
     <sc-if value="{{isLoading}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Loading states</div></sc-if>
     <sc-if value="{{notLoading}}"><div onClick="{{goLoading}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Loading states</div></sc-if>
+    <sc-if value="{{isOnboarding}}"><div style="padding:10px 22px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:14px;font-weight:600;cursor:pointer;">Onboarding</div></sc-if>
+    <sc-if value="{{notOnboarding}}"><div onClick="{{goOnboarding}}" style="padding:10px 22px;border-radius:999px;color:#60646C;font-size:14px;font-weight:600;cursor:pointer;">Onboarding</div></sc-if>
   </div>
 
   <sc-if value="{{isHome}}" hint-placeholder-val="{{true}}">
@@ -1047,11 +1049,232 @@ a:hover{color:#8F4315;}
   </div>
   </sc-if>
 
+  <sc-if value="{{isOnboarding}}">
+  <div style="text-align:center;max-width:520px;font-size:13px;color:#60646C;margin-top:-12px;">First-run flow to capture scope (board · state · medium · grade) and reading language. Grade and language are chosen from tap-to-open lists, not typed — a short list opens flat, a long one opens with a search field.</div>
+  <div style="display:flex;gap:6px;background:#ffffff;border:1px solid #D8D9DE;border-radius:999px;padding:4px;flex-wrap:wrap;justify-content:center;">
+    <sc-for list="{{onboardingViews}}" as="v" hint-placeholder-count="4">
+      <sc-if value="{{v.active}}" hint-placeholder-val="{{true}}"><div onClick="{{v.onClick}}" style="padding:10px 18px;border-radius:999px;background:#B5541A;color:#ffffff;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;">{{v.label}}</div></sc-if>
+      <sc-if value="{{v.notActive}}"><div onClick="{{v.onClick}}" style="padding:10px 18px;border-radius:999px;color:#60646C;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;">{{v.label}}</div></sc-if>
+    </sc-for>
+  </div>
+  <div style="display:flex;gap:36px;flex-wrap:wrap;justify-content:center;align-items:flex-start;">
+    <sc-if value="{{showIOS}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">iOS</span>
+      <x-import component-from-global-scope="IOSDevice" from="./ios-frame.jsx" hint-size="402,874">
+
+        <sc-if value="{{isObWelcome}}" hint-placeholder-val="{{true}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#F4F1EC;">
+          <div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:0 32px;">
+            <div style="width:72px;height:72px;border-radius:20px;background:#B5541A;display:flex;align-items:center;justify-content:center;">
+              <span style="font-family:'Material Symbols Outlined';font-size:36px;color:#ffffff;">translate</span>
+            </div>
+            <div style="font-size:26px;font-weight:700;color:#000000;">Welcome to Akshar</div>
+            <div style="font-size:14px;color:#60646C;text-align:center;line-height:20px;">A homework helper that reads chapters aloud in your language, with exercises to match. Let's set up what you're studying.</div>
+          </div>
+          <div style="flex-shrink:0;padding:0 20px 40px;">
+            <div onClick="{{goObScope}}" style="background:#B5541A;color:#ffffff;font-size:16px;font-weight:600;border-radius:16px;padding:16px;text-align:center;cursor:pointer;">Get started</div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isObScope}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="flex:1;overflow:auto;padding:56px 20px 0;">
+            <div style="font-size:24px;font-weight:700;color:#000000;">Set up your scope</div>
+            <div style="font-size:13px;color:#60646C;margin-top:6px;margin-bottom:20px;line-height:19px;">This decides which chapters and exercises you'll see. You can change it anytime in Settings.</div>
+            <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Board &amp; medium</div>
+            <div style="border:1px solid #D8D9DE;border-radius:16px;overflow:hidden;margin-bottom:20px;">
+              <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #D8D9DE;"><span style="font-size:15px;color:#000000;">Board · State</span><span style="font-size:14px;color:#60646C;">KSEEB · Karnataka</span></div>
+              <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;"><span style="font-size:15px;color:#000000;">Medium</span><span style="font-size:14px;color:#60646C;">English medium</span></div>
+            </div>
+            <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Your details</div>
+            <div style="border:1px solid #D8D9DE;border-radius:16px;overflow:hidden;margin-bottom:24px;">
+              <div onClick="{{goObPickerSmall}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #D8D9DE;cursor:pointer;">
+                <span style="font-size:15px;color:#000000;">Grade</span>
+                <div style="display:flex;align-items:center;gap:6px;"><span style="font-size:14px;color:#60646C;">{{obGrade}}</span><span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span></div>
+              </div>
+              <div onClick="{{goObPickerLarge}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;cursor:pointer;">
+                <span style="font-size:15px;color:#000000;">Reading language</span>
+                <div style="display:flex;align-items:center;gap:6px;">
+                  <sc-if value="{{hasObLanguage}}" hint-placeholder-val="{{false}}"><span style="font-size:14px;color:#60646C;">{{obLanguage}}</span></sc-if>
+                  <sc-if value="{{notHasObLanguage}}" hint-placeholder-val="{{true}}"><span style="font-size:14px;color:#A0A4AC;">Select</span></sc-if>
+                  <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;padding:0 20px 40px;">
+            <div onClick="{{obContinue}}" style="background:{{obContinueBg}};color:{{obContinueColor}};font-size:16px;font-weight:600;border-radius:16px;padding:16px;text-align:center;">Continue</div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isObPickerSmall}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="padding:56px 20px 12px;display:flex;align-items:center;gap:12px;">
+            <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;cursor:pointer;" onClick="{{goObScope}}">arrow_back</span>
+            <span style="font-size:18px;font-weight:700;color:#000000;">Select grade</span>
+          </div>
+          <div style="flex:1;overflow:auto;padding:8px 20px 20px;">
+            <sc-for list="{{grades}}" as="g" hint-placeholder-count="8">
+              <div onClick="{{g.onClick}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 4px;border-bottom:1px solid #EFEFF2;cursor:pointer;min-height:24px;">
+                <span style="font-size:16px;color:#000000;">{{g.label}}</span>
+                <sc-if value="{{g.selected}}" hint-placeholder-val="{{false}}"><span style="font-family:'Material Symbols Outlined';font-size:20px;color:#B5541A;">check</span></sc-if>
+              </div>
+            </sc-for>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isObPickerLarge}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;">
+          <div style="padding:56px 20px 12px;display:flex;align-items:center;gap:12px;">
+            <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;cursor:pointer;" onClick="{{goObScope}}">arrow_back</span>
+            <span style="font-size:18px;font-weight:700;color:#000000;">Select reading language</span>
+          </div>
+          <div style="padding:0 20px 12px;">
+            <div style="display:flex;align-items:center;gap:8px;background:#F0F0F3;border-radius:12px;padding:10px 12px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#60646C;">search</span>
+              <input value="{{obSearch}}" onChange="{{obSearchChange}}" placeholder="Search languages" style="border:none;background:transparent;outline:none;font-size:15px;color:#000000;flex:1;font-family:inherit;"></input>
+            </div>
+          </div>
+          <div style="flex:1;overflow:auto;padding:0 20px 20px;">
+            <sc-for list="{{languages}}" as="l" hint-placeholder-count="6">
+              <div onClick="{{l.onClick}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 4px;border-bottom:1px solid #EFEFF2;cursor:pointer;min-height:24px;">
+                <span style="font-size:16px;color:#000000;">{{l.label}}</span>
+                <sc-if value="{{l.selected}}" hint-placeholder-val="{{false}}"><span style="font-family:'Material Symbols Outlined';font-size:20px;color:#B5541A;">check</span></sc-if>
+              </div>
+            </sc-for>
+            <sc-if value="{{noLanguageResults}}"><div style="padding:24px 4px;text-align:center;font-size:14px;color:#A0A4AC;">No languages match "{{obSearch}}"</div></sc-if>
+          </div>
+        </div>
+        </sc-if>
+
+      </x-import>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{showAndroid}}" hint-placeholder-val="{{true}}">
+    <div style="display:flex;flex-direction:column;align-items:center;gap:10px;">
+      <span style="font-size:12px;font-weight:600;color:#A0A4AC;letter-spacing:0.04em;text-transform:uppercase;">Android</span>
+      <x-import component-from-global-scope="AndroidDevice" from="./android-frame.jsx" hint-size="412,892">
+
+        <sc-if value="{{isObWelcome}}" hint-placeholder-val="{{true}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#F4F1EC;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:0 32px;">
+            <div style="width:72px;height:72px;border-radius:20px;background:#B5541A;display:flex;align-items:center;justify-content:center;">
+              <span style="font-family:'Material Symbols Outlined';font-size:36px;color:#ffffff;">translate</span>
+            </div>
+            <div style="font-size:26px;font-weight:700;color:#000000;">Welcome to Akshar</div>
+            <div style="font-size:14px;color:#60646C;text-align:center;line-height:20px;">A homework helper that reads chapters aloud in your language, with exercises to match. Let's set up what you're studying.</div>
+          </div>
+          <div style="flex-shrink:0;padding:0 16px 32px;">
+            <div onClick="{{goObScope}}" style="background:#B5541A;color:#ffffff;font-size:16px;font-weight:600;border-radius:16px;padding:16px;text-align:center;cursor:pointer;">Get started</div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isObScope}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="flex:1;overflow:auto;padding:16px 16px 0;">
+            <div style="font-size:24px;font-weight:700;color:#000000;">Set up your scope</div>
+            <div style="font-size:13px;color:#60646C;margin-top:6px;margin-bottom:20px;line-height:19px;">This decides which chapters and exercises you'll see. You can change it anytime in Settings.</div>
+            <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Board &amp; medium</div>
+            <div style="border:1px solid #D8D9DE;border-radius:16px;overflow:hidden;margin-bottom:20px;">
+              <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #D8D9DE;"><span style="font-size:15px;color:#000000;">Board · State</span><span style="font-size:14px;color:#60646C;">KSEEB · Karnataka</span></div>
+              <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;"><span style="font-size:15px;color:#000000;">Medium</span><span style="font-size:14px;color:#60646C;">English medium</span></div>
+            </div>
+            <div style="font-size:12px;font-weight:600;letter-spacing:0.04em;color:#60646C;text-transform:uppercase;margin-bottom:8px;">Your details</div>
+            <div style="border:1px solid #D8D9DE;border-radius:16px;overflow:hidden;margin-bottom:24px;">
+              <div onClick="{{goObPickerSmall}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid #D8D9DE;cursor:pointer;">
+                <span style="font-size:15px;color:#000000;">Grade</span>
+                <div style="display:flex;align-items:center;gap:6px;"><span style="font-size:14px;color:#60646C;">{{obGrade}}</span><span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span></div>
+              </div>
+              <div onClick="{{goObPickerLarge}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;cursor:pointer;">
+                <span style="font-size:15px;color:#000000;">Reading language</span>
+                <div style="display:flex;align-items:center;gap:6px;">
+                  <sc-if value="{{hasObLanguage}}" hint-placeholder-val="{{false}}"><span style="font-size:14px;color:#60646C;">{{obLanguage}}</span></sc-if>
+                  <sc-if value="{{notHasObLanguage}}" hint-placeholder-val="{{true}}"><span style="font-size:14px;color:#A0A4AC;">Select</span></sc-if>
+                  <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#A0A4AC;">chevron_right</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="flex-shrink:0;padding:0 16px 32px;">
+            <div onClick="{{obContinue}}" style="background:{{obContinueBg}};color:{{obContinueColor}};font-size:16px;font-weight:600;border-radius:16px;padding:16px;text-align:center;">Continue</div>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isObPickerSmall}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="padding:16px 16px 12px;display:flex;align-items:center;gap:12px;">
+            <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;cursor:pointer;" onClick="{{goObScope}}">arrow_back</span>
+            <span style="font-size:18px;font-weight:700;color:#000000;">Select grade</span>
+          </div>
+          <div style="flex:1;overflow:auto;padding:8px 16px 20px;">
+            <sc-for list="{{grades}}" as="g" hint-placeholder-count="8">
+              <div onClick="{{g.onClick}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 4px;border-bottom:1px solid #EFEFF2;cursor:pointer;min-height:24px;">
+                <span style="font-size:16px;color:#000000;">{{g.label}}</span>
+                <sc-if value="{{g.selected}}" hint-placeholder-val="{{false}}"><span style="font-family:'Material Symbols Outlined';font-size:20px;color:#B5541A;">check</span></sc-if>
+              </div>
+            </sc-for>
+          </div>
+        </div>
+        </sc-if>
+
+        <sc-if value="{{isObPickerLarge}}">
+        <div style="height:100%;display:flex;flex-direction:column;background:#ffffff;font-family:Roboto,system-ui,sans-serif;">
+          <div style="padding:16px 16px 12px;display:flex;align-items:center;gap:12px;">
+            <span style="font-family:'Material Symbols Outlined';font-size:22px;color:#000000;cursor:pointer;" onClick="{{goObScope}}">arrow_back</span>
+            <span style="font-size:18px;font-weight:700;color:#000000;">Select reading language</span>
+          </div>
+          <div style="padding:0 16px 12px;">
+            <div style="display:flex;align-items:center;gap:8px;background:#F0F0F3;border-radius:12px;padding:10px 12px;">
+              <span style="font-family:'Material Symbols Outlined';font-size:18px;color:#60646C;">search</span>
+              <input value="{{obSearch}}" onChange="{{obSearchChange}}" placeholder="Search languages" style="border:none;background:transparent;outline:none;font-size:15px;color:#000000;flex:1;font-family:inherit;"></input>
+            </div>
+          </div>
+          <div style="flex:1;overflow:auto;padding:0 16px 20px;">
+            <sc-for list="{{languages}}" as="l" hint-placeholder-count="6">
+              <div onClick="{{l.onClick}}" style="display:flex;align-items:center;justify-content:space-between;padding:14px 4px;border-bottom:1px solid #EFEFF2;cursor:pointer;min-height:24px;">
+                <span style="font-size:16px;color:#000000;">{{l.label}}</span>
+                <sc-if value="{{l.selected}}" hint-placeholder-val="{{false}}"><span style="font-family:'Material Symbols Outlined';font-size:20px;color:#B5541A;">check</span></sc-if>
+              </div>
+            </sc-for>
+            <sc-if value="{{noLanguageResults}}"><div style="padding:24px 4px;text-align:center;font-size:14px;color:#A0A4AC;">No languages match "{{obSearch}}"</div></sc-if>
+          </div>
+        </div>
+        </sc-if>
+
+      </x-import>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{
-  &quot;initialScreen&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;'home'|'explore'|'reader'|'exercises'|'settings'|'loading'&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;explore&quot;,&quot;reader&quot;,&quot;exercises&quot;,&quot;settings&quot;,&quot;loading&quot;],&quot;section&quot;:&quot;Prototype&quot;},
+  &quot;initialScreen&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;'home'|'explore'|'reader'|'exercises'|'settings'|'loading'|'onboarding'&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;explore&quot;,&quot;reader&quot;,&quot;exercises&quot;,&quot;settings&quot;,&quot;loading&quot;,&quot;onboarding&quot;],&quot;section&quot;:&quot;Prototype&quot;},
   &quot;platformFilter&quot;: {&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;both&quot;,&quot;tsType&quot;:&quot;'both'|'ios'|'android'&quot;,&quot;options&quot;:[&quot;both&quot;,&quot;ios&quot;,&quot;android&quot;],&quot;section&quot;:&quot;Prototype&quot;}
 }">
+const ONBOARDING_VIEWS = [
+  { id: 'welcome', label: 'Welcome' },
+  { id: 'scope', label: 'Set up scope' },
+  { id: 'picker-small', label: 'Picker · short list' },
+  { id: 'picker-large', label: 'Picker · long list' },
+];
+
+const GRADES = ['Grade 1', 'Grade 2', 'Grade 3', 'Grade 4', 'Grade 5', 'Grade 6', 'Grade 7', 'Grade 8'];
+
+const LANGUAGES = [
+  { label: 'Assamese' }, { label: 'Bengali' }, { label: 'English' }, { label: 'Gujarati' },
+  { label: 'Hindi' }, { label: 'Kannada' }, { label: 'Malayalam' }, { label: 'Marathi' },
+  { label: 'Odia' }, { label: 'Punjabi' }, { label: 'Sanskrit' }, { label: 'Tamil' },
+  { label: 'Telugu' }, { label: 'Urdu' },
+];
+
 const LOADING_VIEWS = [
   { id: 'splash', label: 'Splash' },
   { id: 'skeleton', label: 'Skeleton' },
@@ -1098,15 +1321,21 @@ const REASONS_ITEMS = [
 ];
 
 class Component extends DCLogic {
-  state = { screen: this.props.initialScreen || 'home', exerciseType: 'answer', loadingView: 'splash' };
+  state = { screen: this.props.initialScreen || 'home', exerciseType: 'answer', loadingView: 'splash', onboardingView: 'welcome', obGrade: 'Grade 5', obLanguage: null, obSearch: '' };
 
   renderVals() {
     const screen = this.state.screen;
     const pf = this.props.platformFilter ?? 'both';
     const et = this.state.exerciseType;
     const lv = this.state.loadingView;
+    const ov = this.state.onboardingView;
+    const obGrade = this.state.obGrade;
+    const obLanguage = this.state.obLanguage;
+    const obSearch = this.state.obSearch;
     const setType = (id) => this.setState({ exerciseType: id });
     const setLoadingView = (id) => this.setState({ loadingView: id });
+    const setOnboardingView = (id) => this.setState({ onboardingView: id });
+    const filteredLanguages = LANGUAGES.filter(l => l.label.toLowerCase().includes(obSearch.toLowerCase()));
     return {
       isHome: screen === 'home',
       notHome: screen !== 'home',
@@ -1123,6 +1352,9 @@ class Component extends DCLogic {
       isLoading: screen === 'loading',
       notLoading: screen !== 'loading',
       goLoading: () => this.setState({ screen: 'loading' }),
+      isOnboarding: screen === 'onboarding',
+      notOnboarding: screen !== 'onboarding',
+      goOnboarding: () => this.setState({ screen: 'onboarding' }),
       goHome: () => this.setState({ screen: 'home' }),
       goExplore: () => this.setState({ screen: 'explore' }),
       goLibrary: () => this.setState({ screen: 'library' }),
@@ -1149,6 +1381,27 @@ class Component extends DCLogic {
       isSkeleton: lv === 'skeleton',
       isLoaderInline: lv === 'loader-inline',
       isLoaderOverlay: lv === 'loader-overlay',
+
+      onboardingViews: ONBOARDING_VIEWS.map(v => ({ ...v, active: v.id === ov, notActive: v.id !== ov, onClick: () => setOnboardingView(v.id) })),
+      isObWelcome: ov === 'welcome',
+      isObScope: ov === 'scope',
+      isObPickerSmall: ov === 'picker-small',
+      isObPickerLarge: ov === 'picker-large',
+      goObScope: () => this.setState({ onboardingView: 'scope' }),
+      goObPickerSmall: () => this.setState({ onboardingView: 'picker-small' }),
+      goObPickerLarge: () => this.setState({ onboardingView: 'picker-large' }),
+      obGrade,
+      obLanguage,
+      hasObLanguage: !!obLanguage,
+      notHasObLanguage: !obLanguage,
+      obSearch,
+      obSearchChange: (e) => this.setState({ obSearch: e.target.value }),
+      grades: GRADES.map(g => ({ label: g, selected: g === obGrade, onClick: () => this.setState({ obGrade: g, onboardingView: 'scope' }) })),
+      languages: filteredLanguages.map(l => ({ label: l.label, selected: l.label === obLanguage, onClick: () => this.setState({ obLanguage: l.label, onboardingView: 'scope' }) })),
+      noLanguageResults: filteredLanguages.length === 0,
+      obContinue: () => { if (obLanguage) this.setState({ screen: 'home' }); },
+      obContinueBg: obLanguage ? '#B5541A' : '#D8D9DE',
+      obContinueColor: obLanguage ? '#ffffff' : '#A0A4AC',
     };
   }
 }
