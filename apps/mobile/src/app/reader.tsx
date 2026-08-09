@@ -1,8 +1,8 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router, useLocalSearchParams } from 'expo-router';
-import { useEffect, useMemo } from 'react';
-import { ScrollView, StyleSheet, View } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { useEffect, useMemo, useState } from 'react';
+import { ActivityIndicator, Modal, Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { EXERCISE_TYPES } from '@/components/exercises/registry';
@@ -15,6 +15,7 @@ import { Touchable } from '@/components/touchable';
 import { DEFAULT_CHAPTER_PATH } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useChapter } from '@/hooks/use-chapter';
+import { useDownloads } from '@/hooks/use-downloads';
 import { useTheme } from '@/hooks/use-theme';
 import type { Chapter, ChapterSegment } from '@/services/content-repository';
 import { recordChapterOpened } from '@/services/reading-history';
@@ -81,7 +82,6 @@ function TermPair({ term, definition }: { term: ChapterSegment; definition?: Cha
 }
 
 export default function ReaderScreen() {
-  const theme = useTheme();
   const { path } = useLocalSearchParams<{ path?: string }>();
   const chapterPath = path ?? DEFAULT_CHAPTER_PATH;
   const state = useChapter(chapterPath);
@@ -102,13 +102,9 @@ export default function ReaderScreen() {
               ← Back
             </ThemedText>
           </Touchable>
-          <Touchable
-            onPress={() => router.push('/settings')}
-            hitSlop={8}
-            style={[styles.settingsButton, { backgroundColor: theme.tintMuted }]}
-          >
-            <MaterialCommunityIcons name="cog-outline" size={20} color={theme.tint} />
-          </Touchable>
+          {/* Only once the chapter's actually loaded — download/exercises
+              options both need real chapter data, not the skeleton/error state. */}
+          {state.status === 'ready' && <ReaderMenu chapter={state.chapter} chapterPath={chapterPath} />}
         </View>
 
         {state.status === 'loading' ? (
@@ -122,6 +118,69 @@ export default function ReaderScreen() {
         )}
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+// Replaces the old top-right settings shortcut — app-wide settings has no
+// real relation to what's on this screen. This is chapter-scoped instead:
+// download-for-offline (hidden once already downloaded) and a shortcut into
+// this chapter's exercises (hidden if it doesn't have any).
+function ReaderMenu({ chapter, chapterPath }: { chapter: Chapter; chapterPath: string }) {
+  const theme = useTheme();
+  const insets = useSafeAreaInsets();
+  const downloads = useDownloads();
+  const [open, setOpen] = useState(false);
+
+  const slug = chapter.meta.slug;
+  const downloaded = downloads.isDownloaded(slug);
+  const pending = downloads.isPending(slug);
+  const hasExercises = chapter.segments.some((s) => s.exercise);
+
+  return (
+    <>
+      <Touchable
+        onPress={() => setOpen(true)}
+        hitSlop={8}
+        style={[styles.settingsButton, { backgroundColor: theme.tintMuted }]}
+      >
+        <MaterialCommunityIcons name="dots-vertical" size={20} color={theme.tint} />
+      </Touchable>
+      <Modal visible={open} transparent animationType="fade" onRequestClose={() => setOpen(false)}>
+        <Pressable style={styles.menuBackdrop} onPress={() => setOpen(false)}>
+          <View style={[styles.menuCard, { top: insets.top + 52, borderColor: theme.border, backgroundColor: theme.background }]}>
+            {!downloaded && (
+              <Touchable
+                onPress={() => {
+                  downloads.download(chapterPath, slug);
+                  setOpen(false);
+                }}
+                disabled={pending}
+                style={[styles.menuItem, hasExercises && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+              >
+                {pending ? (
+                  <ActivityIndicator size="small" color={theme.tint} />
+                ) : (
+                  <MaterialCommunityIcons name="download" size={18} color={theme.tint} />
+                )}
+                <ThemedText type="default">Download</ThemedText>
+              </Touchable>
+            )}
+            {hasExercises && (
+              <Touchable
+                onPress={() => {
+                  setOpen(false);
+                  router.push({ pathname: '/exercises', params: { path: chapterPath } });
+                }}
+                style={styles.menuItem}
+              >
+                <MaterialCommunityIcons name="pencil-outline" size={18} color={theme.tint} />
+                <ThemedText type="default">Exercises</ThemedText>
+              </Touchable>
+            )}
+          </View>
+        </Pressable>
+      </Modal>
+    </>
   );
 }
 
@@ -248,6 +307,16 @@ const styles = StyleSheet.create({
     paddingTop: Spacing.two,
   },
   settingsButton: { width: 32, height: 32, borderRadius: Radius.pill, alignItems: 'center', justifyContent: 'center' },
+  menuBackdrop: { flex: 1 },
+  menuCard: {
+    position: 'absolute',
+    right: Spacing.three,
+    minWidth: 170,
+    borderWidth: 1,
+    borderRadius: Radius.medium,
+    overflow: 'hidden',
+  },
+  menuItem: { flexDirection: 'row', alignItems: 'center', gap: Spacing.two, paddingVertical: Spacing.three, paddingHorizontal: Spacing.three },
   content: { padding: Spacing.three, paddingBottom: Spacing.six },
   breadcrumb: { marginTop: 4, marginBottom: Spacing.three },
   section: { marginTop: Spacing.four },

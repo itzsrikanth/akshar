@@ -26,11 +26,7 @@ export default function HomeScreen() {
   return (
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
-        {/* Generic placeholder copy for now — "Homework helper" was dropped
-            because it reads as a promise of homework-checking (camera + AI,
-            a future-roadmap item, not built). Revisit with real tagline
-            copy once the core reading flow has been used by someone. */}
-        <AppHeader subtitle="Learning app" onSettingsPress={() => router.push('/settings')} />
+        <AppHeader onSettingsPress={() => router.push('/settings')} />
         {state.status === 'loading' ? (
           <HomeSkeleton />
         ) : state.status === 'error' ? (

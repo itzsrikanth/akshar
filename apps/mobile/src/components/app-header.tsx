@@ -1,21 +1,16 @@
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import { StyleSheet, View } from 'react-native';
+import { Image, StyleSheet, View } from 'react-native';
 
-import { ThemedText } from '@/components/themed-text';
 import { Touchable } from '@/components/touchable';
 import { Radius } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
 
+const logo = require('@/assets/images/icon.png');
+
 export function AppHeader({
-  title = 'Akshar',
-  subtitle,
-  status = 'Ready',
   showSettings = true,
   onSettingsPress,
 }: {
-  title?: string;
-  subtitle?: string;
-  status?: string;
   showSettings?: boolean;
   onSettingsPress?: () => void;
 }) {
@@ -23,21 +18,13 @@ export function AppHeader({
   return (
     <View style={s.container}>
       <View style={s.row}>
-        <ThemedText type="title">{title}</ThemedText>
-        <View style={s.right}>
-          <ThemedText type="small" themeColor="textSecondary">{status}</ThemedText>
-          {showSettings && (
-            <Touchable onPress={onSettingsPress} hitSlop={8} style={[s.settingsButton, { backgroundColor: theme.tintMuted }]}>
-              <MaterialCommunityIcons name="cog-outline" size={20} color={theme.tint} />
-            </Touchable>
-          )}
-        </View>
+        <Image source={logo} style={s.logo} />
+        {showSettings && (
+          <Touchable onPress={onSettingsPress} hitSlop={8} style={[s.settingsButton, { backgroundColor: theme.tintMuted }]}>
+            <MaterialCommunityIcons name="cog-outline" size={20} color={theme.tint} />
+          </Touchable>
+        )}
       </View>
-      {subtitle && (
-        <ThemedText type="small" themeColor="textSecondary" style={s.subtitle}>
-          {subtitle}
-        </ThemedText>
-      )}
     </View>
   );
 }
@@ -45,8 +32,7 @@ export function AppHeader({
 const s = StyleSheet.create({
   container: { padding: 16 },
   row: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
-  right: { flexDirection: 'row', alignItems: 'center', gap: 12 },
-  subtitle: { marginTop: 4 },
+  logo: { width: 36, height: 36, borderRadius: Radius.medium },
   // A muted icon alone on a plain background read as barely-there — the tinted
   // pill gives the settings entry point real visual weight without competing
   // with primary content (still tintMuted, not the full-strength tint).
