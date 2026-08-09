@@ -59,7 +59,14 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
   // What the user has actually tapped — auto-filled with any level that
   // only ever has one possible value (see services/hierarchy.ts).
   const [manualSelected, setManualSelected] = useState<LevelValue[]>([]);
-  const resolved = useMemo(() => autoResolve(catalog.chapters, manualSelected), [catalog, manualSelected]);
+  // Set when the user taps a breadcrumb to go back up the tree — pins the
+  // display to that level instead of letting autoResolve immediately
+  // re-skip through it, which would otherwise make "going up" a no-op for
+  // any level that (like every level in today's catalog) has only one
+  // option. Cleared the moment they pick an option at that level again.
+  const [pinnedLevel, setPinnedLevel] = useState<number | null>(null);
+  const autoResolved = useMemo(() => autoResolve(catalog.chapters, manualSelected), [catalog, manualSelected]);
+  const resolved = pinnedLevel !== null ? autoResolved.slice(0, pinnedLevel) : autoResolved;
   const atChapterList = resolved.length === LEVEL_KEYS.length;
   const chaptersInScope = useMemo(() => filterChapters(catalog.chapters, resolved), [catalog, resolved]);
 
@@ -95,11 +102,6 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
         {resolved.map((value, i) => {
           const key = LEVEL_KEYS[i];
           const isLast = i === resolved.length - 1;
-          // Only tappable if this level actually had more than one option
-          // when it was resolved — otherwise it was auto-filled and
-          // there's nothing else here to choose.
-          const optionsHere = optionsAtLevel(catalog.chapters, resolved.slice(0, i), i);
-          const tappable = optionsHere.length > 1;
           const label = levelLabel(key, value);
           const content =
             isLast && atChapterList ? (
@@ -110,18 +112,26 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
               </View>
             ) : (
               <View style={styles.breadcrumbItem}>
-                <ThemedText type="small" themeColor={tappable ? 'tint' : 'textSecondary'}>
+                <ThemedText type="small" themeColor="tint">
                   {label}
                 </ThemedText>
                 <MaterialCommunityIcons name="chevron-right" size={15} color={theme.textDisabled} />
               </View>
             );
-          return tappable ? (
-            <Touchable key={key} onPress={() => setManualSelected(resolved.slice(0, i))} hitSlop={6}>
+          // Every crumb goes back up the tree to the picker for that level —
+          // including ones auto-filled because they only had one option, so
+          // there's always a way up even through a run of singleton levels.
+          return (
+            <Touchable
+              key={key}
+              onPress={() => {
+                setManualSelected(resolved.slice(0, i));
+                setPinnedLevel(i);
+              }}
+              hitSlop={6}
+            >
               {content}
             </Touchable>
-          ) : (
-            <View key={key}>{content}</View>
           );
         })}
       </View>
@@ -152,7 +162,10 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
           {optionsAtLevel(catalog.chapters, resolved, resolved.length).map((option, i, options) => (
             <Touchable
               key={String(option)}
-              onPress={() => setManualSelected([...resolved, option])}
+              onPress={() => {
+                setManualSelected([...resolved, option]);
+                setPinnedLevel(null);
+              }}
               style={[styles.optionRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
             >
               <ThemedText type="default">{levelLabel(LEVEL_KEYS[resolved.length], option)}</ThemedText>
