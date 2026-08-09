@@ -4,10 +4,14 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
 import { useColorScheme } from 'react-native';
 
+import { OnboardingFlow } from '@/components/onboarding-flow';
 import { SplashView } from '@/components/splash-view';
+import { useCatalog } from '@/hooks/use-catalog';
 import { primeCatalog } from '@/services/catalog-store';
 import { initCrashReporting } from '@/services/crash-reporting';
 import { applyDevSettingsOnLaunch } from '@/services/dev-settings';
+import { hasCompletedOnboarding } from '@/services/onboarding-storage';
+import { deriveScope } from '@/services/scope';
 
 SplashScreen.preventAutoHideAsync();
 // As early as possible, before the rest of the app's modules even finish loading —
@@ -24,6 +28,11 @@ function RootLayout() {
   // ever) — every launch after that renders from cache immediately while
   // a fresh fetch runs in the background (see services/catalog-store.ts).
   const [ready, setReady] = useState(false);
+  // Whether onboarding still needs to run — independent of scope/reading-
+  // preference state (see services/onboarding-storage.ts), read alongside
+  // the other boot-time checks so it's known before first render.
+  const [needsOnboarding, setNeedsOnboarding] = useState(false);
+  const catalogState = useCatalog();
 
   useEffect(() => {
     // Hand off from the native splash (a static image, app.json) to our own
@@ -32,11 +41,18 @@ function RootLayout() {
     // however long the boot check actually takes.
     SplashScreen.hideAsync();
     applyDevSettingsOnLaunch()
-      .then(() => primeCatalog())
+      .then(() => Promise.all([primeCatalog(), hasCompletedOnboarding()]))
+      .then(([, completed]) => setNeedsOnboarding(!completed))
       .finally(() => setReady(true));
   }, []);
 
   if (!ready) return <SplashView />;
+
+  // Skip onboarding gracefully rather than block on a broken/empty catalog —
+  // the normal Stack below already has its own per-screen error states for that.
+  if (needsOnboarding && catalogState.status === 'ready' && deriveScope(catalogState.catalog)) {
+    return <OnboardingFlow catalog={catalogState.catalog} onComplete={() => setNeedsOnboarding(false)} />;
+  }
 
   return (
     <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>

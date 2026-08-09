@@ -2,7 +2,7 @@ import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Host, Picker } from '@expo/ui';
 import Constants from 'expo-constants';
 import { router } from 'expo-router';
-import { useMemo, useState } from 'react';
+import { useMemo } from 'react';
 import { Linking, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -14,6 +14,7 @@ import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
+import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
@@ -66,10 +67,9 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
     [catalog],
   );
   const { scope, isSaved } = useScope(catalog);
-
-  // Local-only state, not yet persisted anywhere (no ProgressRepository yet).
-  const [translation, setTranslation] = useState(translationOptions[0]?.value);
-  const [transliteration, setTransliteration] = useState(transliterationOptions[0]?.value);
+  const { preference, setPreference } = useReadingPreference(catalog);
+  const translation = preference.translationLanguage ?? translationOptions[0]?.value;
+  const transliteration = preference.transliterationScript ?? transliterationOptions[0]?.value;
 
   return (
     <>
@@ -82,7 +82,10 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
             <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
               <ThemedText type="default">Translation language</ThemedText>
               <Host matchContents>
-                <Picker selectedValue={translation} onValueChange={setTranslation}>
+                <Picker
+                  selectedValue={translation}
+                  onValueChange={(value) => setPreference({ translationLanguage: value })}
+                >
                   {translationOptions.map((o) => (
                     <Picker.Item key={o.value} label={o.label} value={o.value} />
                   ))}
@@ -92,7 +95,10 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
             <View style={styles.row}>
               <ThemedText type="default">Transliteration script</ThemedText>
               <Host matchContents>
-                <Picker selectedValue={transliteration} onValueChange={setTransliteration}>
+                <Picker
+                  selectedValue={transliteration}
+                  onValueChange={(value) => setPreference({ transliterationScript: value })}
+                >
                   {transliterationOptions.map((o) => (
                     <Picker.Item key={o.value} label={o.label} value={o.value} />
                   ))}
