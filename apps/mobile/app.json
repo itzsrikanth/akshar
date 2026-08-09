@@ -34,7 +34,13 @@
           "imageWidth": 76
         }
       ],
-      "@sentry/react-native"
+      [
+        "@sentry/react-native",
+        {
+          "organization": "srikanth-5c",
+          "project": "akshar"
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true,

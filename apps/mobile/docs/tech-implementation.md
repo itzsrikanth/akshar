@@ -255,12 +255,30 @@ OSS program above), paste the DSN into `app.json` — no code changes needed —
 live in production builds only (dev is deliberately excluded, so local development errors don't
 burn through the free/OSS tier's monthly event quota).
 
-**Not yet done — source map upload.** The Expo config plugin only handles native module
-linking; it doesn't automatically upload source maps during EAS Build, which needs an
-organization/project slug and a `SENTRY_AUTH_TOKEN` build secret from an actual Sentry account
-(none exists yet). Without this, once a DSN is set, crash reports will show minified/obfuscated
-JS stack traces rather than real file/line numbers — add this as a follow-up once the OSS
-program application above is approved.
+**The Sentry account now exists** (org `srikanth-5c`, project `akshar`) — the plugin config in
+`app.json` carries `organization`/`project` accordingly. Those two are routing labels, not
+secrets, same as the DSN — safe to commit.
+
+**Where each piece of Sentry config lives, and why:**
+- **DSN** (`extra.sentryDsn` in `app.json`) — client-side config, not a secret (a DSN can only
+  *submit* events to this project, it can't read anything back) — same category as a Firebase
+  `apiKey`, per `AGENTS.md`. Goes directly in the repo.
+- **`organization`/`project`** (the Sentry plugin block in `app.json`) — also not secret, just
+  identifies which Sentry project a build's source maps/releases belong to. Also fine committed.
+- **`SENTRY_AUTH_TOKEN`** (not yet added) — this one *is* a real secret (it can create releases
+  and upload data under the account). It does **not** go in `app.json` (the plugin's `authToken`
+  field exists but is deliberately left unset here) and it does **not** go in GitHub Actions
+  secrets either — GitHub Actions only runs `validate.yml` (content validation) in this repo;
+  the mobile app is built by **EAS Build**, a separate hosted service, not GitHub Actions. The
+  right place is an EAS environment variable/secret (`eas env:create`, or the EAS dashboard),
+  which `sentry-cli` picks up automatically at build time — never touching a file that gets
+  committed.
+
+**Still not done — source map upload.** Without `SENTRY_AUTH_TOKEN` configured in EAS, crash
+reports will show minified/obfuscated JS stack traces rather than real file/line numbers. Add
+the EAS secret as a follow-up whenever a production build is actually being prepared — no code
+changes needed when that happens, the plugin picks it up automatically once it's present in the
+build environment.
 
 ## Analytics, feature flags, and A/B testing
 
