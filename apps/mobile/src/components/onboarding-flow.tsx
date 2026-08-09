@@ -151,11 +151,24 @@ function ScopeStep({
         <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
           BOARD & MEDIUM
         </ThemedText>
+        {/* Board, State, and Medium are separate rows, not combined — they're
+            independent levels in the real hierarchy (services/hierarchy.ts's
+            LEVEL_KEYS), and staying separate here matters once a board spans
+            more than one state (e.g. CBSE across several states, each
+            potentially with state-specific subjects) — that's a real picker
+            at that point, same "becomes a picker once there's more than one
+            option" rule Explore already follows, not built speculatively now. */}
         <View style={[styles.card, { borderColor: theme.border }]}>
           <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
-            <ThemedText type="default">Board · State</ThemedText>
+            <ThemedText type="default">Board</ThemedText>
             <ThemedText type="small" themeColor="textSecondary">
-              {`${baseScope.board} · ${baseScope.state}`}
+              {baseScope.board}
+            </ThemedText>
+          </View>
+          <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
+            <ThemedText type="default">State</ThemedText>
+            <ThemedText type="small" themeColor="textSecondary">
+              {baseScope.state}
             </ThemedText>
           </View>
           <View style={styles.row}>
