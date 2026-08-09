@@ -1,6 +1,6 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { useMemo, useState } from 'react';
-import { StyleSheet, TextInput, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ThemedText } from '@/components/themed-text';
@@ -9,44 +9,69 @@ import { Touchable } from '@/components/touchable';
 import { Colors, Radius, Spacing } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
+import { optionsAtLevel } from '@/services/hierarchy';
 import { setOnboardingCompleted } from '@/services/onboarding-storage';
 import { saveReadingPreference } from '@/services/reading-preference-storage';
+import { availableLanguages, availableScripts, labelForLanguage, labelForScript } from '@/services/scope';
 import { saveScope } from '@/services/scope-storage';
-import { deriveScope, readingOptions, type ReadingOption } from '@/services/scope';
-import { optionsAtLevel } from '@/services/hierarchy';
 
-type Step = 'welcome' | 'scope' | 'grade' | 'language';
+type Step = 'welcome' | 'scope' | 'board' | 'state' | 'medium' | 'grade' | 'translation' | 'transliteration';
 
 export function OnboardingFlow({ catalog, onComplete }: { catalog: Catalog; onComplete: () => void }) {
   const [step, setStep] = useState<Step>('welcome');
 
-  // Board/state/medium aren't a picker here — every chapter in the catalog
-  // today shares one of each (same fallback deriveScope uses elsewhere), so
-  // there's nothing to actually choose yet. Becomes a real picker step the
-  // moment a second board/state/medium exists — not built speculatively now.
-  const baseScope = useMemo(() => deriveScope(catalog), [catalog]);
-  const grades = useMemo(
-    () => (baseScope ? optionsAtLevel(catalog.chapters, [baseScope.board, baseScope.state, baseScope.medium], 3) : []),
-    [catalog, baseScope],
+  // Every level (board/state/medium/grade) is independently tappable, same
+  // as Explore's hierarchy browse — even a level with only one real option
+  // today still opens a real picker (of one item), rather than being
+  // silently auto-filled and non-interactive. Picking a higher level clears
+  // everything below it so stale/invalid combinations can't linger.
+  const [obBoard, setObBoard] = useState<string | null>(null);
+  const [obState, setObState] = useState<string | null>(null);
+  const [obMedium, setObMedium] = useState<string | null>(null);
+  const [obGrade, setObGrade] = useState<number | null>(null);
+
+  const boardOptions = useMemo(() => optionsAtLevel(catalog.chapters, [], 0) as string[], [catalog]);
+  const board = obBoard ?? boardOptions[0] ?? null;
+
+  const stateOptions = useMemo(
+    () => (board ? (optionsAtLevel(catalog.chapters, [board], 1) as string[]) : []),
+    [catalog, board],
   );
-  const options = useMemo(() => readingOptions(catalog), [catalog]);
+  const state = obState ?? stateOptions[0] ?? null;
 
-  const [grade, setGrade] = useState<number | null>(null);
-  const [reading, setReading] = useState<ReadingOption | null>(null);
+  const mediumOptions = useMemo(
+    () => (board && state ? (optionsAtLevel(catalog.chapters, [board, state], 2) as string[]) : []),
+    [catalog, board, state],
+  );
+  const medium = obMedium ?? mediumOptions[0] ?? null;
 
-  // baseScope can't actually be null here — app/_layout.tsx only renders
-  // this component once deriveScope(catalog) already succeeded — but typed
-  // as nullable since deriveScope itself always returns nullable.
-  if (!baseScope) return null;
-  const resolvedGrade = grade ?? (grades[0] as number | undefined) ?? baseScope.grade;
+  const gradeOptions = useMemo(
+    () => (board && state && medium ? (optionsAtLevel(catalog.chapters, [board, state, medium], 3) as number[]) : []),
+    [catalog, board, state, medium],
+  );
+  const grade = obGrade ?? gradeOptions[0] ?? null;
+
+  // Translation (meaning) and transliteration (pronunciation) are separate
+  // axes — same split Settings already has, not the single combined
+  // "reading language" concept an earlier draft of this flow used. Each
+  // defaults to the first real catalog-derived option, same as board/state/
+  // medium/grade above, and stays independently tappable to change.
+  const [obTranslation, setObTranslation] = useState<string | null>(null);
+  const [obTransliteration, setObTransliteration] = useState<string | null>(null);
+  const translationOptions = useMemo(() => availableLanguages(catalog), [catalog]);
+  const translation = obTranslation ?? translationOptions[0] ?? null;
+  const transliterationOptions = useMemo(() => availableScripts(catalog), [catalog]);
+  const transliteration = obTransliteration ?? transliterationOptions[0] ?? null;
+
+  // board/state/medium/grade can't actually be null once the catalog has
+  // any chapters at all — app/_layout.tsx only renders this component once
+  // deriveScope(catalog) already succeeded — but every optionsAtLevel call
+  // above is typed nullable, so this is a real (if practically unreachable) guard.
+  if (!board || !state || !medium || !grade) return null;
 
   const handleContinue = () => {
-    if (!reading) return;
-    saveScope({ ...baseScope, grade: resolvedGrade });
-    saveReadingPreference({
-      translationLanguage: reading.kind === 'language' ? reading.code : null,
-      transliterationScript: reading.kind === 'script' ? reading.code : null,
-    });
+    saveScope({ board, state, medium, grade });
+    saveReadingPreference({ translationLanguage: translation, transliterationScript: transliteration });
     setOnboardingCompleted();
     onComplete();
   };
@@ -57,31 +82,100 @@ export function OnboardingFlow({ catalog, onComplete }: { catalog: Catalog; onCo
         {step === 'welcome' && <WelcomeStep onGetStarted={() => setStep('scope')} />}
         {step === 'scope' && (
           <ScopeStep
-            baseScope={baseScope}
-            grade={resolvedGrade}
-            reading={reading}
+            board={board}
+            state={state}
+            medium={medium}
+            grade={grade}
+            translation={translation}
+            transliteration={transliteration}
+            onPickBoard={() => setStep('board')}
+            onPickState={() => setStep('state')}
+            onPickMedium={() => setStep('medium')}
             onPickGrade={() => setStep('grade')}
-            onPickReading={() => setStep('language')}
+            onPickTranslation={() => setStep('translation')}
+            onPickTransliteration={() => setStep('transliteration')}
             onContinue={handleContinue}
           />
         )}
-        {step === 'grade' && (
-          <GradePickerStep
-            grades={grades}
-            selected={resolvedGrade}
-            onSelect={(g) => {
-              setGrade(g);
+        {step === 'board' && (
+          <ListPickerStep
+            title="Select board"
+            options={boardOptions}
+            selected={board}
+            labelFor={String}
+            onSelect={(v) => {
+              setObBoard(v);
+              setObState(null);
+              setObMedium(null);
+              setObGrade(null);
               setStep('scope');
             }}
             onBack={() => setStep('scope')}
           />
         )}
-        {step === 'language' && (
-          <LanguagePickerStep
-            options={options}
-            selected={reading}
-            onSelect={(o) => {
-              setReading(o);
+        {step === 'state' && (
+          <ListPickerStep
+            title="Select state"
+            options={stateOptions}
+            selected={state}
+            labelFor={String}
+            onSelect={(v) => {
+              setObState(v);
+              setObMedium(null);
+              setObGrade(null);
+              setStep('scope');
+            }}
+            onBack={() => setStep('scope')}
+          />
+        )}
+        {step === 'medium' && (
+          <ListPickerStep
+            title="Select medium"
+            options={mediumOptions}
+            selected={medium}
+            labelFor={(v) => `${v} medium`}
+            onSelect={(v) => {
+              setObMedium(v);
+              setObGrade(null);
+              setStep('scope');
+            }}
+            onBack={() => setStep('scope')}
+          />
+        )}
+        {step === 'grade' && (
+          <ListPickerStep
+            title="Select grade"
+            options={gradeOptions}
+            selected={grade}
+            labelFor={(g) => `Grade ${g}`}
+            onSelect={(g) => {
+              setObGrade(g);
+              setStep('scope');
+            }}
+            onBack={() => setStep('scope')}
+          />
+        )}
+        {step === 'translation' && (
+          <ListPickerStep
+            title="Select translation language"
+            options={translationOptions}
+            selected={translation}
+            labelFor={labelForLanguage}
+            onSelect={(v) => {
+              setObTranslation(v);
+              setStep('scope');
+            }}
+            onBack={() => setStep('scope')}
+          />
+        )}
+        {step === 'transliteration' && (
+          <ListPickerStep
+            title="Select transliteration script"
+            options={transliterationOptions}
+            selected={transliteration}
+            labelFor={labelForScript}
+            onSelect={(v) => {
+              setObTransliteration(v);
               setStep('scope');
             }}
             onBack={() => setStep('scope')}
@@ -123,19 +217,48 @@ function WelcomeStep({ onGetStarted }: { onGetStarted: () => void }) {
   );
 }
 
+function ScopeRow({ label, value, onPress, isLast = false }: { label: string; value: string; onPress: () => void; isLast?: boolean }) {
+  const theme = useTheme();
+  return (
+    <Touchable onPress={onPress} style={[styles.row, !isLast && { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
+      <ThemedText type="default">{label}</ThemedText>
+      <View style={styles.rowValue}>
+        <ThemedText type="small" themeColor="textSecondary">
+          {value}
+        </ThemedText>
+        <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
+      </View>
+    </Touchable>
+  );
+}
+
 function ScopeStep({
-  baseScope,
+  board,
+  state,
+  medium,
   grade,
-  reading,
+  translation,
+  transliteration,
+  onPickBoard,
+  onPickState,
+  onPickMedium,
   onPickGrade,
-  onPickReading,
+  onPickTranslation,
+  onPickTransliteration,
   onContinue,
 }: {
-  baseScope: { board: string; state: string; medium: string };
+  board: string;
+  state: string;
+  medium: string;
   grade: number;
-  reading: ReadingOption | null;
+  translation: string;
+  transliteration: string;
+  onPickBoard: () => void;
+  onPickState: () => void;
+  onPickMedium: () => void;
   onPickGrade: () => void;
-  onPickReading: () => void;
+  onPickTranslation: () => void;
+  onPickTransliteration: () => void;
   onContinue: () => void;
 }) {
   const theme = useTheme();
@@ -151,67 +274,38 @@ function ScopeStep({
         <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
           BOARD & MEDIUM
         </ThemedText>
-        {/* Board, State, and Medium are separate rows, not combined — they're
-            independent levels in the real hierarchy (services/hierarchy.ts's
-            LEVEL_KEYS), and staying separate here matters once a board spans
-            more than one state (e.g. CBSE across several states, each
-            potentially with state-specific subjects) — that's a real picker
-            at that point, same "becomes a picker once there's more than one
-            option" rule Explore already follows, not built speculatively now. */}
+        {/* Board, State, and Medium are each their own tappable picker — even
+            with only one real option today (matters once a board spans more
+            than one state, e.g. CBSE across several states, each potentially
+            with state-specific subjects), same "still a real picker, even of
+            one item" treatment as Grade. */}
         <View style={[styles.card, { borderColor: theme.border }]}>
-          <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
-            <ThemedText type="default">Board</ThemedText>
-            <ThemedText type="small" themeColor="textSecondary">
-              {baseScope.board}
-            </ThemedText>
-          </View>
-          <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
-            <ThemedText type="default">State</ThemedText>
-            <ThemedText type="small" themeColor="textSecondary">
-              {baseScope.state}
-            </ThemedText>
-          </View>
-          <View style={styles.row}>
-            <ThemedText type="default">Medium</ThemedText>
-            <ThemedText type="small" themeColor="textSecondary">
-              {`${baseScope.medium} medium`}
-            </ThemedText>
-          </View>
+          <ScopeRow label="Board" value={board} onPress={onPickBoard} />
+          <ScopeRow label="State" value={state} onPress={onPickState} />
+          <ScopeRow label="Medium" value={`${medium} medium`} onPress={onPickMedium} isLast />
         </View>
 
         <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
           YOUR DETAILS
         </ThemedText>
         <View style={[styles.card, { borderColor: theme.border }]}>
-          <Touchable
-            onPress={onPickGrade}
-            style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}
-          >
-            <ThemedText type="default">Grade</ThemedText>
-            <View style={styles.rowValue}>
-              <ThemedText type="small" themeColor="textSecondary">{`Grade ${grade}`}</ThemedText>
-              <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
-            </View>
-          </Touchable>
-          <Touchable onPress={onPickReading} style={styles.row}>
-            <ThemedText type="default">Reading language</ThemedText>
-            <View style={styles.rowValue}>
-              <ThemedText type="small" themeColor={reading ? 'textSecondary' : 'textDisabled'}>
-                {reading?.label ?? 'Select'}
-              </ThemedText>
-              <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
-            </View>
-          </Touchable>
+          <ScopeRow label="Grade" value={`Grade ${grade}`} onPress={onPickGrade} />
+          {/* Translation (meaning) and transliteration (pronunciation) are
+              separate rows/axes, same split Settings uses — not one combined
+              "reading language" choice. */}
+          <ScopeRow label="Translation language" value={labelForLanguage(translation)} onPress={onPickTranslation} />
+          <ScopeRow
+            label="Transliteration script"
+            value={labelForScript(transliteration)}
+            onPress={onPickTransliteration}
+            isLast
+          />
         </View>
       </View>
 
       <View style={styles.footer}>
-        <Touchable
-          onPress={onContinue}
-          disabled={!reading}
-          style={[styles.primaryButton, { backgroundColor: reading ? theme.tint : theme.border }]}
-        >
-          <ThemedText type="default" style={[styles.primaryButtonText, { color: reading ? theme.onTint : theme.textDisabled }]}>
+        <Touchable onPress={onContinue} style={[styles.primaryButton, { backgroundColor: theme.tint }]}>
+          <ThemedText type="default" style={[styles.primaryButtonText, { color: theme.onTint }]}>
             Continue
           </ThemedText>
         </Touchable>
@@ -232,85 +326,37 @@ function PickerHeader({ title, onBack }: { title: string; onBack: () => void }) 
   );
 }
 
-function GradePickerStep({
-  grades,
-  selected,
-  onSelect,
-  onBack,
-}: {
-  grades: (string | number)[];
-  selected: number;
-  onSelect: (grade: number) => void;
-  onBack: () => void;
-}) {
-  const theme = useTheme();
-  return (
-    <View style={styles.fill}>
-      <PickerHeader title="Select grade" onBack={onBack} />
-      <View style={styles.pickerList}>
-        {grades.map((g, i) => (
-          <Touchable
-            key={g}
-            onPress={() => onSelect(Number(g))}
-            style={[styles.pickerRow, i < grades.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
-          >
-            <ThemedText type="default">{`Grade ${g}`}</ThemedText>
-            {Number(g) === selected && <MaterialCommunityIcons name="check" size={20} color={theme.tint} />}
-          </Touchable>
-        ))}
-      </View>
-    </View>
-  );
-}
-
-function LanguagePickerStep({
+/** Shared flat-list-with-checkmark picker — used for every onboarding step (board/state/medium/grade/translation/transliteration). */
+function ListPickerStep<T extends string | number>({
+  title,
   options,
   selected,
+  labelFor,
   onSelect,
   onBack,
 }: {
-  options: ReadingOption[];
-  selected: ReadingOption | null;
-  onSelect: (option: ReadingOption) => void;
+  title: string;
+  options: T[];
+  selected: T;
+  labelFor: (value: T) => string;
+  onSelect: (value: T) => void;
   onBack: () => void;
 }) {
   const theme = useTheme();
-  const [search, setSearch] = useState('');
-  const filtered = options.filter((o) => o.label.toLowerCase().includes(search.toLowerCase()));
-
   return (
     <View style={styles.fill}>
-      <PickerHeader title="Select reading language" onBack={onBack} />
-      <View style={styles.searchWrap}>
-        <View style={[styles.searchBox, { backgroundColor: theme.backgroundElement }]}>
-          <MaterialCommunityIcons name="magnify" size={18} color={theme.textSecondary} />
-          <TextInput
-            value={search}
-            onChangeText={setSearch}
-            placeholder="Search languages"
-            placeholderTextColor={theme.textDisabled}
-            style={[styles.searchInput, { color: theme.text }]}
-          />
-        </View>
-      </View>
+      <PickerHeader title={title} onBack={onBack} />
       <View style={styles.pickerList}>
-        {filtered.map((o, i) => (
+        {options.map((opt, i) => (
           <Touchable
-            key={`${o.kind}-${o.code}`}
-            onPress={() => onSelect(o)}
-            style={[styles.pickerRow, i < filtered.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+            key={String(opt)}
+            onPress={() => onSelect(opt)}
+            style={[styles.pickerRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
           >
-            <ThemedText type="default">{o.label}</ThemedText>
-            {selected?.kind === o.kind && selected.code === o.code && (
-              <MaterialCommunityIcons name="check" size={20} color={theme.tint} />
-            )}
+            <ThemedText type="default">{labelFor(opt)}</ThemedText>
+            {opt === selected && <MaterialCommunityIcons name="check" size={20} color={theme.tint} />}
           </Touchable>
         ))}
-        {filtered.length === 0 && (
-          <ThemedText type="small" themeColor="textDisabled" style={styles.noResults}>
-            {`No languages match "${search}"`}
-          </ThemedText>
-        )}
       </View>
     </View>
   );
@@ -342,8 +388,4 @@ const styles = StyleSheet.create({
   pickerHeader: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three, padding: Spacing.three },
   pickerList: { flex: 1, paddingHorizontal: Spacing.three },
   pickerRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three },
-  searchWrap: { paddingHorizontal: Spacing.three, paddingBottom: Spacing.two },
-  searchBox: { flexDirection: 'row', alignItems: 'center', gap: 8, borderRadius: Radius.medium, paddingVertical: 10, paddingHorizontal: 12 },
-  searchInput: { flex: 1, fontSize: 15 },
-  noResults: { textAlign: 'center', paddingVertical: Spacing.four },
 });

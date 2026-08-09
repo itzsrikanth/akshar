@@ -46,19 +46,3 @@ export function availableLanguages(catalog: Catalog): string[] {
 export function availableScripts(catalog: Catalog): string[] {
   return Array.from(new Set(catalog.chapters.flatMap((c) => c.transliterations))).sort();
 }
-
-export type ReadingOption = { kind: 'language' | 'script'; code: string; label: string };
-
-/**
- * The combined "what can you read" list onboarding's single picker needs —
- * scripts (pronunciation) and languages (meaning) are different axes
- * everywhere else in the app (see Settings' two separate pickers), but a
- * first-run user thinks in terms of one choice, not two technical concepts.
- * Real catalog-derived options only, same as availableLanguages/availableScripts.
- */
-export function readingOptions(catalog: Catalog): ReadingOption[] {
-  return [
-    ...availableScripts(catalog).map((code) => ({ kind: 'script' as const, code, label: labelForScript(code) })),
-    ...availableLanguages(catalog).map((code) => ({ kind: 'language' as const, code, label: labelForLanguage(code) })),
-  ];
-}
