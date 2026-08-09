@@ -1,4 +1,4 @@
-import type { Catalog } from './content-repository';
+import type { Catalog, CatalogChapter } from './content-repository';
 
 // Deliberately board/state/medium/grade only, no subject — those four are
 // genuinely fixed per child (a kid doesn't switch board or grade day to
@@ -37,12 +37,18 @@ export function scopesEqual(a: Scope | null, b: Scope | null): boolean {
   return a.board === b.board && a.state === b.state && a.medium === b.medium && a.grade === b.grade;
 }
 
-/** Union of every `translations` code across the catalog — not scoped to one chapter yet. */
-export function availableLanguages(catalog: Catalog): string[] {
-  return Array.from(new Set(catalog.chapters.flatMap((c) => c.translations))).sort();
+/**
+ * Union of every `translations` code across the given chapters. Takes a
+ * chapter list, not a whole Catalog — callers scope this to a specific
+ * board/state/medium/grade (via services/hierarchy.ts's filterChapters)
+ * rather than the entire catalog, so a parent is never shown a
+ * language/script that isn't actually available for their kid's board/grade.
+ */
+export function availableLanguages(chapters: CatalogChapter[]): string[] {
+  return Array.from(new Set(chapters.flatMap((c) => c.translations))).sort();
 }
 
-/** Union of every `transliterations` code across the catalog — not scoped to one chapter yet. */
-export function availableScripts(catalog: Catalog): string[] {
-  return Array.from(new Set(catalog.chapters.flatMap((c) => c.transliterations))).sort();
+/** Union of every `transliterations` code across the given chapters — see availableLanguages. */
+export function availableScripts(chapters: CatalogChapter[]): string[] {
+  return Array.from(new Set(chapters.flatMap((c) => c.transliterations))).sort();
 }

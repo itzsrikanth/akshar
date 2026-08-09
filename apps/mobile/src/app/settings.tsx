@@ -18,6 +18,7 @@ import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
+import { filterChapters } from '@/services/hierarchy';
 import { availableLanguages, availableScripts, labelForLanguage, labelForScript } from '@/services/scope';
 
 export default function SettingsScreen() {
@@ -54,19 +55,24 @@ export default function SettingsScreen() {
 
 function SettingsContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
-  // Derived from every chapter in the catalog, not hardcoded — one option
-  // per row today only because that's genuinely all the real content has
-  // (see docs/tech-implementation.md). Adding a chapter with a new
-  // translation/script makes it show up here automatically.
+  const { scope, isSaved } = useScope(catalog);
+  // Scoped to the saved default scope, not the whole catalog — a parent
+  // should never be offered a language/script that isn't actually available
+  // for their kid's board/state/medium/grade (see services/scope.ts).
+  // Today this is a no-op (one scope, one language, one script exist) — it
+  // stops being one the moment content grows.
+  const scopedChapters = useMemo(
+    () => (scope ? filterChapters(catalog.chapters, [scope.board, scope.state, scope.medium, scope.grade]) : catalog.chapters),
+    [catalog, scope],
+  );
   const translationOptions = useMemo(
-    () => availableLanguages(catalog).map((code) => ({ label: labelForLanguage(code), value: code })),
-    [catalog],
+    () => availableLanguages(scopedChapters).map((code) => ({ label: labelForLanguage(code), value: code })),
+    [scopedChapters],
   );
   const transliterationOptions = useMemo(
-    () => availableScripts(catalog).map((code) => ({ label: labelForScript(code), value: code })),
-    [catalog],
+    () => availableScripts(scopedChapters).map((code) => ({ label: labelForScript(code), value: code })),
+    [scopedChapters],
   );
-  const { scope, isSaved } = useScope(catalog);
   const { preference, setPreference } = useReadingPreference(catalog);
   const translation = preference.translationLanguage ?? translationOptions[0]?.value;
   const transliteration = preference.transliterationScript ?? transliterationOptions[0]?.value;
@@ -114,14 +120,14 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             DEFAULT SCOPE
           </ThemedText>
-          <Touchable onPress={() => router.push('/explore')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
+          <Touchable onPress={() => router.push('/scope-setup')} style={[styles.card, styles.row, { borderColor: theme.border }]}>
             <View style={styles.f1}>
               <ThemedText type="small">
                 {`${scope.board} · ${scope.state} · ${scope.medium} · Grade ${scope.grade}`}
               </ThemedText>
               {!isSaved && (
                 <ThemedText type="small" themeColor="textDisabled" style={styles.mt2}>
-                  Using default — browse Explore to set your own
+                  Using default — tap to set your own
                 </ThemedText>
               )}
             </View>

@@ -1,4 +1,5 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useFocusEffect } from 'expo-router';
+import { useCallback, useState } from 'react';
 
 import type { Catalog } from '@/services/content-repository';
 import {
@@ -12,17 +13,22 @@ import { availableLanguages, availableScripts } from '@/services/scope';
  * Same shape as use-scope.ts: a saved preference (per-field — either axis
  * can be set independently, e.g. onboarding only ever sets one at a time)
  * falling back to the first real catalog-derived option until the user
- * actually picks one, via Settings or onboarding.
+ * actually picks one, via Settings or onboarding. Reloads on focus, not
+ * just on mount — app/scope-setup.tsx can save a new preference from a
+ * separate screen instance, and Settings stays mounted underneath it in the
+ * navigation stack (same reasoning as hooks/use-reading-history.ts).
  */
 export function useReadingPreference(catalog: Catalog) {
   const [saved, setSaved] = useState<ReadingPreference | null>(null);
 
-  useEffect(() => {
-    loadReadingPreference().then(setSaved);
-  }, []);
+  useFocusEffect(
+    useCallback(() => {
+      loadReadingPreference().then(setSaved);
+    }, []),
+  );
 
-  const translationLanguage = saved?.translationLanguage ?? availableLanguages(catalog)[0] ?? null;
-  const transliterationScript = saved?.transliterationScript ?? availableScripts(catalog)[0] ?? null;
+  const translationLanguage = saved?.translationLanguage ?? availableLanguages(catalog.chapters)[0] ?? null;
+  const transliterationScript = saved?.transliterationScript ?? availableScripts(catalog.chapters)[0] ?? null;
 
   const setPreference = useCallback((next: Partial<ReadingPreference>) => {
     setSaved((prev) => {
