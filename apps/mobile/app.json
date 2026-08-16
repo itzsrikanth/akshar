@@ -48,10 +48,10 @@
     },
     "extra": {
       "router": {},
+      "sentryDsn": "https://7d74de11e1c2b4a33983cd4c8dfedc5a@o4511482815381504.ingest.us.sentry.io/4511878306594816",
       "eas": {
-        "projectId": "f76849cd-064d-4360-86c3-4f70fbbc04fd"
-      },
-      "sentryDsn": "https://7d74de11e1c2b4a33983cd4c8dfedc5a@o4511482815381504.ingest.us.sentry.io/4511878306594816"
+        "projectId": "38e4ae91-c176-449f-ac2f-14358621c243"
+      }
     },
     "owner": "srikanth650"
   }
