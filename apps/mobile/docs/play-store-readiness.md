@@ -40,10 +40,15 @@ Status: In progress — tracks what's done vs. still needed for a first Play Sto
   `appVersionSource: "remote"` + `production.autoIncrement: true` means EAS Build manages
   Android's `versionCode` automatically; nothing to add in `app.json` for that.
 
-## Still needed — can't be done from this repo alone
+- **Screenshots** — `assets/images/play-store/screenshot-{1-home,2-reader,3-explore}.png`
+  (1080×2160, cropped to satisfy Play Console's "max dimension ≤ 2× min dimension" rule — the
+  emulator's native 1080×2280 is 2.11:1, just over the limit). Captured from a real run: an
+  Android emulator (API 34, x86_64) provisioned on the dev VM, running the actual signed
+  `production`-profile release build (converted from the submitted `.aab` via `bundletool`, not a
+  separate debug build) — so these reflect real release behavior (jsDelivr content, no dev tools),
+  not fabricated mockups.
 
-- **Screenshots** — Play Console requires at least 2 phone screenshots. These need to come from
-  an actual run (Simulator or device); nothing here can fabricate them, and none exist yet.
+## Still needed — can't be done from this repo alone
 - **Google Play Console developer account** — a one-time $25 registration, done directly on Play
   Console, not from this repo.
 - **Play Console service account key** — required for `eas submit` (already scaffolded in
