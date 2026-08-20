@@ -24,10 +24,10 @@ Status: In progress — tracks what's done vs. still needed for a first Play Sto
   worst-case launcher shape). Changed to the same terracotta as the main icon for real contrast.
 - **Play Console store-listing assets** — `assets/images/play-store/icon-512.png` (512×512, the
   size Play Console wants for the listing itself, separate from the in-app launcher icon) and
-  `assets/images/play-store/feature-graphic.png` (1024×500). The feature graphic uses only
-  already-established copy (the "Learning app" tagline already used in-app) — it's a functional
-  placeholder, not a finished marketing asset; swapping in a real screenshot-based version once
-  the app has been used is worth doing later.
+  `assets/images/play-store/feature-graphic.png` (1024×500). Generated via Gemini from a prompt
+  grounded in the app's actual brand assets (exact icon glyph, exact `#B5541A` terracotta, exact
+  existing "Learning app" tagline copy from `splash-view.tsx`) rather than inventing new branding,
+  then cropped/resized to Play Console's exact 1024×500 requirement with ImageMagick.
 - **Privacy policy** — `apps/mobile/PRIVACY_POLICY.md`, publicly viewable on GitHub, linked from
   Settings → About. Play Console requires a privacy policy URL for every app regardless of
   whether it collects data.
