@@ -9,6 +9,10 @@ labels:
   competency: Competency
   intro: Introduction
   poem: Poem
+  vocab: Word Meanings
+  notes: Notes
+  exercise-A: Exercise A
+  exercise-B: Exercise B
 
 # ── ಸಾಮರ್ಥ್ಯ
 competency: To write down unfamiliar words through dictation.
@@ -36,3 +40,46 @@ poem-s3l2: and its glance shines like the blade in Lord Shiva's hand.
 
 poem-s4l1: What can I say of the child's fussing today — while I was pouring out a pot of milk,
 poem-s4l2: it said, "bring the evening moon and set it here!"
+
+# ── ಪದಗಳ ಅರ್ಥ
+vocab-kudi: sprout / shoot
+vocab-kudi-def: sprout / young shoot
+vocab-alagu: blade
+vocab-alagu-def: edge of a knife/sword
+vocab-esalu: petal
+vocab-esalu-def: petal of a flower
+vocab-kirikiri: fussing / irritation
+vocab-kirikiri-def: trouble / nuisance
+vocab-bangara: gold
+vocab-bangara-def: gold
+vocab-chanjeeya: of the evening (dialectal)
+vocab-chanjeeya-def: of the evening
+
+# ── ಟಿಪ್ಪಣಿ
+note-beesanige: hand-fan
+note-beesanige-def: An instrument used to fan oneself with air.
+note-havala: coral
+note-havala-def: >-
+  A type of red-colored gem/bead; one of the nine gems (navaratna) — diamond,
+  ruby, emerald, topaz, sapphire, hessonite (gomedhika), cat's eye (vaidurya),
+  pearl, and coral.
+
+# ── ಅಭ್ಯಾಸ ಅ)
+ex-a-q1: What does the mother say she will wash the child's soles with?
+ex-a-q1-ans: She says she will wash the child's soles with clear coconut water.
+ex-a-q2: What is the crying child's lip compared to?
+ex-a-q2-ans: The crying child's lip is compared to a coral sprout.
+ex-a-q3: What is the crying child's glance like?
+ex-a-q3-ans: The crying child's glance shines like the blade in Shiva's hand.
+ex-a-q4: What does the child ask to be brought and set before it?
+ex-a-q4-ans: The child asks for the evening moon to be brought and set before it.
+
+# ── ಅಭ್ಯಾಸ ಆ)
+ex-b-q1: The crying child's lips are like a coral ________
+ex-b-q1-ans: sprout
+ex-b-q2: "Come play, my child — I will ________ your little feet,"
+ex-b-q2-ans: wash
+ex-b-q3: "________, does a house with a little one need a hand-fan?"
+ex-b-q3-ans: Why
+ex-b-q4: What can I ________ of the child's fussing today —
+ex-b-q4-ans: say

@@ -23,6 +23,10 @@ labels:
   competency: ಸಾಮರ್ಥ್ಯ
   intro: ಪ್ರವೇಶ
   poem: ಪದ್ಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
 
 segments:
 
@@ -95,3 +99,158 @@ segments:
     type: poem_line
     stanza: 4
     text: ಚಂಜೀಯ 'ಚಂದ್ರಮನ ತಂದು ನಿಲಿಸೆಂದಾ |
+
+  # ── ಪದಗಳ ಅರ್ಥ (Word Meanings) ──────────────────────────
+  - id: vocab-kudi
+    type: vocabulary_term
+    text: ಕುಡಿ
+  - id: vocab-kudi-def
+    type: vocabulary_definition
+    ref: vocab-kudi
+    text: ಚಿಗುರು
+
+  - id: vocab-alagu
+    type: vocabulary_term
+    text: ಅಲಗು
+  - id: vocab-alagu-def
+    type: vocabulary_definition
+    ref: vocab-alagu
+    text: ಕತ್ತಿಯ ಅಂಚು
+
+  - id: vocab-esalu
+    type: vocabulary_term
+    text: ಎಸಳು
+  - id: vocab-esalu-def
+    type: vocabulary_definition
+    ref: vocab-esalu
+    text: ಹೂವಿನ ದಳ
+
+  # term inferred from the poem's own "ಕಿರಿಕಿರಿ" (contributor left the term
+  # blank, only gave the definition "ಕಾಟ" — confirmed as a best-guess, not a
+  # verified textbook answer)
+  - id: vocab-kirikiri
+    type: vocabulary_term
+    text: ಕಿರಿಕಿರಿ
+  - id: vocab-kirikiri-def
+    type: vocabulary_definition
+    ref: vocab-kirikiri
+    text: ಕಾಟ
+
+  # contributor wrote "ಓಂಗಾರ", corrected to "ಬಂಗಾರ" (the poem's own word,
+  # stanza 2) as a best-guess, not a verified textbook answer
+  - id: vocab-bangara
+    type: vocabulary_term
+    text: ಬಂಗಾರ
+  - id: vocab-bangara-def
+    type: vocabulary_definition
+    ref: vocab-bangara
+    text: ಚಿನ್ನ
+
+  - id: vocab-chanjeeya
+    type: vocabulary_term
+    text: ಚಂಜೀಯ
+  - id: vocab-chanjeeya-def
+    type: vocabulary_definition
+    ref: vocab-chanjeeya
+    text: ಸಂಜೆಯ
+
+  # ── ಟಿಪ್ಪಣಿ (Notes) ─────────────────────────────────────
+  - id: note-beesanige
+    type: note_term
+    text: ಬೀಸಣಿಗೆ
+  - id: note-beesanige-def
+    type: note_definition
+    ref: note-beesanige
+    text: ಗಾಳಿ ಬೀಸಿಕೊಳ್ಳಲು ಬಳಸುವ ಸಾಧನ.
+
+  - id: note-havala
+    type: note_term
+    text: ಹವಳ
+  - id: note-havala-def
+    type: note_definition
+    ref: note-havala
+    text: ಒಂದು ಜಾತಿಯ ಕೆಂಪು ಬಣ್ಣದ ಮಣಿ, ನವರತ್ನಗಳಲ್ಲಿ ಒಂದು. (ವಜ್ರ, ಮಾಣಿಕ್ಯ, ಮರಕತ, ಪುಷ್ಯರಾಗ, ನೀಲ, ಗೋಮೇಧಿಕ, ವೈಡೂರ್ಯ, ಮುತ್ತು, ಹವಳ)
+
+  # ── ಅಭ್ಯಾಸ ಅ) ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು ──────────────
+  # (contributor's paste had this as the *second* "ಆ)" block — relabeled to
+  # "ಅ" to match this repo's convention of ಅ=Exercise A/ಆ=Exercise B, and
+  # because the fill-blank block below is the one genuinely labeled "ಆ")
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ತಾಯಿಯು ಕಂದನ ಅಂಗಾಲನ್ನು ಯಾವುದರಿಂದ ತೊಳೆಯುವುದಾಗಿ ಹೇಳುತ್ತಾಳೆ?
+  - id: ex-a-q1-ans
+    type: answer
+    ref: ex-a-q1
+    text: ಕಂದನ ಅಂಗಾಲನ್ನು ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುವುದಾಗಿ ಹೇಳುತ್ತಾಳೆ.
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಅಳುವ ಕಂದನ ತುಟಿಯನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ?
+  - id: ex-a-q2-ans
+    type: answer
+    ref: ex-a-q2
+    text: ಅಳುವ ಕಂದನ ತುಟಿಯನ್ನು ಹವಳದ ಕುಡಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ.
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಅಳುವ ಕಂದನ ಕಣೋಟ ಹೇಗಿರುತ್ತದೆ?
+  - id: ex-a-q3-ans
+    type: answer
+    ref: ex-a-q3
+    text: ಅಳುವ ಕಂದನ ಕಣೋಟ ಶಿವನ ಕೈಯಲಗಿನಂತೆ ಹೊಳೆಯುತ್ತದೆ.
+
+  # contributor's pasted answer for this one was garbled (non-Kannada
+  # characters) — replaced with an answer grounded directly in this
+  # chapter's own poem text (stanza 4) instead of guessing at their intent
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಮಗು ಏನನ್ನು ತಂದು ನಿಲ್ಲಿಸೆಂದು ಕೇಳುತ್ತದೆ?
+  - id: ex-a-q4-ans
+    type: answer
+    ref: ex-a-q4
+    text: ಮಗು ಸಂಜೆಯ ಚಂದ್ರಮನನ್ನು ತಂದು ನಿಲ್ಲಿಸೆಂದು ಕೇಳುತ್ತದೆ.
+
+  # ── ಅಭ್ಯಾಸ ಆ) ಈ ಸಾಲುಗಳನ್ನು ಪದ್ಯದಲ್ಲಿರುವಂತೆ ಪೂರ್ಣಗೊಳಿಸು ──
+  # contributor's pasted lines were garbled at the tail end (OCR/paste
+  # noise); reconstructed against this chapter's own verified poem-s{n}l1
+  # text above and blanked out the last word, matching this repo's
+  # ch01-established fill_blank convention
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: ಅಳುವ ಕಂದನ ತುಟಿಯು ಹವಳದ ________
+  - id: ex-b-q1-ans
+    type: answer
+    ref: ex-b-q1
+    text: ಕುಡಿಹಂಗ
+
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: ಆಡಿ ಬಾ ನನ ಕಂದ ಅಂಗಾಲ ________
+  - id: ex-b-q2-ans
+    type: answer
+    ref: ex-b-q2
+    text: ತೊಳೆದೇನ
+
+  - id: ex-b-q3
+    type: fill_blank
+    exercise: B
+    text: ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ________
+  - id: ex-b-q3-ans
+    type: answer
+    ref: ex-b-q3
+    text: ಯಾತಕ
+
+  - id: ex-b-q4
+    type: fill_blank
+    exercise: B
+    text: ಕಂದಾನ ಕಿರಿಕಿರಿ ಇಂದೇನು ________
+  - id: ex-b-q4-ans
+    type: answer
+    ref: ex-b-q4
+    text: ಹೇಳಲಿ
