@@ -1,7 +1,7 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
-import { useMemo, useState } from 'react';
-import { ActivityIndicator, ScrollView, StyleSheet, View } from 'react-native';
+import { useCallback, useMemo, useState } from 'react';
+import { ActivityIndicator, RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
@@ -16,6 +16,7 @@ import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
+import { forceCatalogRefresh } from '@/services/catalog-store';
 import type { Catalog } from '@/services/content-repository';
 import { autoResolve, filterChapters, LEVEL_KEYS, levelLabel, levelName, optionsAtLevel } from '@/services/hierarchy';
 import { labelForLanguage, labelForScript, scopesEqual, type Scope } from '@/services/scope';
@@ -24,11 +25,23 @@ import type { LevelValue } from '@/services/hierarchy';
 export default function ExploreScreen() {
   const theme = useTheme();
   const state = useCatalog();
+  const [refreshing, setRefreshing] = useState(false);
+  const onRefresh = useCallback(async () => {
+    setRefreshing(true);
+    try {
+      await forceCatalogRefresh();
+    } finally {
+      setRefreshing(false);
+    }
+  }, []);
 
   return (
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
-        <ScrollView contentContainerStyle={styles.content}>
+        <ScrollView
+          contentContainerStyle={styles.content}
+          refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor={theme.tint} />}
+        >
           <View style={styles.headerRow}>
             <ThemedText type="subtitle">Explore</ThemedText>
             <Touchable onPress={() => router.push('/search')} hitSlop={8}>

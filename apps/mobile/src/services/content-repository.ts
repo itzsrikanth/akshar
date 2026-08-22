@@ -79,6 +79,11 @@ export class CdnContentRepository implements ContentRepository {
   setBaseUrl(url: string): void {
     if (url === this.baseUrl) return;
     this.baseUrl = url;
+    this.clearCache();
+  }
+
+  /** Drops the in-memory catalog/chapter caches so the next call re-fetches — used by a manual pull-to-refresh (see catalog-store.ts's forceCatalogRefresh). Doesn't touch the CDN itself, so a jsDelivr edge that hasn't picked up a recent push yet can still return stale content. */
+  clearCache(): void {
     this.chapterCache.clear();
     this.catalogCache = undefined;
   }

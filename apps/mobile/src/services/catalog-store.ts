@@ -5,7 +5,7 @@
 // screen on the very first launch, before any cache exists. Home/Explore/
 // Library all update together when the catalog changes, the same
 // cross-screen-consistency reasoning as services/downloads.ts.
-import { contentRepository } from '@/services';
+import { contentRepository, invalidateContentCache } from '@/services';
 import type { Catalog } from '@/services/content-repository';
 
 import { loadCachedCatalog, saveCachedCatalog } from './catalog-cache';
@@ -62,12 +62,15 @@ export async function primeCatalog(): Promise<void> {
 }
 
 /**
- * Dev-only: force a refetch bypassing the generatedAt-unchanged skip above,
- * so switching content source in app/dev-settings.tsx reflects immediately
- * even if the two sources happen to report the same generatedAt.
+ * Force a refetch bypassing both the generatedAt-unchanged skip above and
+ * the repository's own in-memory cache (see invalidateContentCache) — used
+ * by app/dev-settings.tsx when switching content source, and by a manual
+ * pull-to-refresh (see app/(tabs)/explore.tsx) so a chapter that just landed
+ * on the CDN shows up without restarting the app.
  */
 export async function forceCatalogRefresh(): Promise<void> {
   try {
+    invalidateContentCache();
     const fresh = await contentRepository.getCatalog();
     await saveCachedCatalog(fresh);
     setSnapshot({ catalog: fresh, error: null });

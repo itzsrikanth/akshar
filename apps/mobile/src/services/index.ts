@@ -15,4 +15,11 @@ export function setContentBaseUrlForDev(url: string): void {
   (contentRepository as CdnContentRepository).setBaseUrl(url);
 }
 
+// Used by a manual pull-to-refresh (see catalog-store.ts's forceCatalogRefresh)
+// — getCatalog()/getChapter() otherwise cache their first resolved fetch for
+// the rest of the app session, so a refresh needs to drop that first.
+export function invalidateContentCache(): void {
+  (contentRepository as CdnContentRepository).clearCache();
+}
+
 export type { Catalog, CatalogChapter, Chapter, ChapterSegment, ContentRepository } from './content-repository';
