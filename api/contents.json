@@ -21,7 +21,7 @@
     {
       "board": "KSEEB",
       "chapter": 2,
-      "contentHash": "4de8a7a07473f7bd",
+      "contentHash": "3ef21764de45a649",
       "grade": 5,
       "medium": "English",
       "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json",
@@ -29,8 +29,12 @@
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ನನ್ನ ಕನಸು",
-      "translations": [],
-      "transliterations": []
+      "translations": [
+        "en"
+      ],
+      "transliterations": [
+        "devanagari"
+      ]
     },
     {
       "board": "KSEEB",
@@ -51,6 +55,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-08-22T08:15:58Z",
+  "generatedAt": "2026-08-22T09:00:47Z",
   "schemaVersion": "1.0"
 }

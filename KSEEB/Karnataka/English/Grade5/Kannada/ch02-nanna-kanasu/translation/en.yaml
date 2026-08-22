@@ -1,0 +1,102 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: itzsrikanth
+  license: CC BY 4.0
+
+labels:
+  competency: Competency
+  intro: Introduction
+  story: Story
+  vocab: Word Meanings
+
+# ── ಸಾಮರ್ಥ್ಯ
+competency: Speaking with correct pronunciation. Narrating familiar simple stories with the right tone/stress and expression.
+
+# ── ಪ್ರವೇಶ
+intro-1: We do see dreams, don't we?
+intro-2: If so, recall a dream you once had.
+intro-3: Here is a dream a student once had.
+intro-4: Curious about what it might be?
+intro-5: If so, find out and share it with your friends.
+
+# ── ಕಥೆ
+story-n1: >-
+  A dense forest. Tall trees and plants grown over a vast area, vines climbing the trees and
+  stretching skyward, flowers and fruits painting colorful patterns amid the green, the humming of
+  bees, the chirping of birds, the cuckoo's voice floating in between, and the murmur of a gently
+  flowing stream. Such a beautiful environment was a peaceful shelter for the animals and birds.
+story-n2: >-
+  One morning. Amid the forest's chatter, the sound of footsteps made the animals' ears prick up.
+  Before they could see what it was, a blow struck the base of a tree, and the birds flew off
+  screeching. The animals nearby turned around with fearful curiosity, asking, "Who is it?" Seeing
+  the human, they grew angry and stepped forward to argue.
+story-d1: >-
+  Hey human. Haven't you gained any sense yet? Deaths and suffering have already happened from
+  floods and droughts. And still you're out to destroy the forest — shame on you, you fool!
+story-d2: >-
+  You timid animal! You dare call a human a fool? What do you know of our intelligence? (he said
+  this arrogantly, resting the axe on his shoulder)
+story-d3: Go on then, tell us of your cleverness... let us learn a little too.
+story-d4: >-
+  We've created airplanes that fly in the sky, boats and ships that move on water. Isn't this
+  enough proof of our intelligence?
+story-d5: >-
+  (lifting its neck, mocking) You built the airplane by watching birds, the boats and ships by
+  watching water creatures. What's original about any of that, that's actually yours?
+story-d6: >-
+  (dimmed by the fox's words, but not letting it show) We've created clothes and attire to look
+  beautiful. Don't you know that?
+story-d7: >-
+  Remember that at first you used to wear our very skins/hides. What's so special about your
+  clothes? Falling for the body colors of animals, birds, and insects, you made clothes to look
+  beautiful like us. Natural beauty is ours — understand?
+story-d8: >-
+  (swinging while holding a branch) You're the ones who say eyes should be like a deer's, a walk
+  should be like a peacock's, a voice should be like a cuckoo's — so tell us, are you the beautiful
+  ones, or are we?
+story-d9: >-
+  (grunting) Your factories that manufacture everyday goods let out smoke and filth. Because of
+  this, the air, soil, and water get polluted. Why don't you understand this?
+story-d10: >-
+  (seeing the animals' unity and intelligence, the human realized he was losing the argument, but
+  still didn't let it show) What would you, living out in the open, know about the beautiful houses
+  we've built? Come and see for yourselves — then you'll understand our intelligence.
+story-d11: >-
+  How beautiful and secure the weaver-bird's nest, the beehive, and the termite mounds built by
+  termites are! Next to our achievements made from mere scraps, your achievement of destroying
+  nature is worth nothing. (The human was astonished at the animals' and birds' intelligence)
+story-d12: (in astonishment) How did you come to know all this?
+story-d13: >-
+  (swaying) Some of us migrate to other lands, within the country and abroad, for a few months
+  every year. There, we discuss things with our friends. Didn't you know that?
+story-d14: >-
+  (the tree, which had been listening patiently) Hey human, whatever you have done or will do is
+  shaped by nature's influence — first understand that destroying the forest, which is a part of
+  nature, means destroying your own future generations. Come forward to protect the forest; look
+  at and learn from Saalumarada Thimmakka. Alongside living your own life, show your intelligence
+  by helping nature survive. Wake up, become aware — rise before time runs out.
+story-d15: >-
+  Raju, get up, you'll be late for school. (Woken by the call of "get up, wake up," Raju startled
+  awake and sat up on the bed)
+story-d16: >-
+  Mother. Mother. I had a dream. Do you know what kind of dream? In the forest, all the animals
+  came together and changed the mind of a man who had gone to cut down trees. Do you know how many
+  animals were there?
+story-d17: >-
+  Is that so — that's really a good dream! Raju, you read 'The Forest Story' before going to sleep
+  last night, that's why you had a dream like this. There's so much we can learn from animals.
+  Look, that rooster is crowing, waking everyone up. Get up quickly.
+
+# ── ಪದಗಳ ಅರ್ಥ
+vocab-chittara: picture / pattern
+vocab-chittara-def: picture
+vocab-ninada: resonant sound
+vocab-ninada-def: sound
+vocab-kalarava: chirping / warbling
+vocab-kalarava-def: the calling of birds
+vocab-samrakshisu: to protect / conserve
+vocab-samrakshisu-def: to safeguard
+vocab-moodalisu: to taunt / mock
+vocab-moodalisu-def: to taunt, to mock / deride
