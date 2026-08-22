@@ -1,0 +1,38 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: itzsrikanth
+  license: CC BY 4.0
+
+labels:
+  competency: Competency
+  intro: Introduction
+  poem: Poem
+
+# ── ಸಾಮರ್ಥ್ಯ
+competency: To write down unfamiliar words through dictation.
+
+# ── ಪ್ರವೇಶ
+intro-1: You may have seen father, mother, grandfather, grandmother, and others at home cuddling children with loving words.
+intro-2: Recall that you too may have been cuddled the same way.
+intro-3: Here there is a scene of being cuddled with loving words.
+intro-4: Match it with your own experience and see.
+
+# ── ಪದ್ಯ: ಕಂದ
+# This is a traditional North-Karnataka-dialect folk lullaby (ಜನಪದ), so the
+# translation below favors the sense of each verse-half over a literal
+# word-for-word rendering. One word in the last line, "ಚಂಜೀಯ", is read as a
+# dialectal form of "ಸಂಜೆಯ" (of the evening) — flagged here for a native
+# speaker to double-check rather than treated as certain.
+poem-s1l1: Why would a house with a little one need a hand-fan, with the dear child moving in and out —
+poem-s1l2: as it plays, the breeze stirs on its own, like a fan.
+
+poem-s2l1: Come, play, my child — I will wash your little feet with clear coconut water,
+poem-s2l2: and with the same, I will wash your golden face too.
+
+poem-s3l1: The crying child's lips are like a coral sprout, its tender brows like neem leaves,
+poem-s3l2: and its glance shines like the blade in Lord Shiva's hand.
+
+poem-s4l1: What can I say of the child's fussing today — while I was pouring out a pot of milk,
+poem-s4l2: it said, "bring the evening moon and set it here!"

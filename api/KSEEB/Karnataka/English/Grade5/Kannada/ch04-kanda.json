@@ -1,0 +1,190 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "kn": "ಸಾಮರ್ಥ್ಯ"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "kn": "ಪ್ರವೇಶ"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "kn": "ಪದ್ಯ"
+    }
+  },
+  "meta": {
+    "author": "ಜನಪದ",
+    "board": "KSEEB",
+    "chapter": 4,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "English",
+    "original_publisher": "KSEEB",
+    "slug": "ch04-kanda",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕಂದ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "competency",
+      "text": "ಉಕ್ತಲೇಖನದ ಮೂಲಕ ಅಪರಿಚಿತ ಪದಗಳನ್ನು ಬರೆಯುವುದು.",
+      "translations": {
+        "en": "To write down unfamiliar words through dictation."
+      },
+      "transliterations": {
+        "devanagari": "उक्तलेखनद मूलक अपरिचित पदगळन्नु बरेयुवुदु."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಮನೆಯಲ್ಲಿ ಅಪ್ಪ, ಅಮ್ಮ, ಅಜ್ಜ, ಅಜ್ಜಿ ಮತ್ತಿತರರು ಮಕ್ಕಳನ್ನು ಪ್ರೀತಿ ಮಾತುಗಳಿಂದ ಮುದ್ದಿಸುವುದನ್ನು ನೀನು ನೋಡಿರಬಹುದು.",
+      "translations": {
+        "en": "You may have seen father, mother, grandfather, grandmother, and others at home cuddling children with loving words."
+      },
+      "transliterations": {
+        "devanagari": "मनेयल्लि अप्प, अम्म, अज्ज, अज्जि मत्तितरर मक्कळन्नु प्रीति मातुगळिंद मुद्दिसुवुदन्नु नीनु नोडिरबहुदु."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಅದೇ ರೀತಿ ನಿನ್ನನ್ನೂ ಮುದ್ದು ಮಾಡಿರಬಹುದು ನೆನಪಿಸಿಕೊ.",
+      "translations": {
+        "en": "Recall that you too may have been cuddled the same way."
+      },
+      "transliterations": {
+        "devanagari": "अदे रीति निन्नन्नू मुद्दु माडिरबहुदु नेनेपिसिको."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-3",
+      "section": "intro",
+      "text": "ಇಲ್ಲಿ ಪ್ರೀತಿ ಮಾತುಗಳಿಂದ ಮುದ್ದಿಸುವ ಸಂದರ್ಭವಿದೆ.",
+      "translations": {
+        "en": "Here there is a scene of being cuddled with loving words."
+      },
+      "transliterations": {
+        "devanagari": "इल्लि प्रीति मातुगळिंद मुद्दिसुव संदर्भविदे."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-4",
+      "section": "intro",
+      "text": "ಅದನ್ನು ನಿನ್ನ ಅನುಭವದೊಂದಿಗೆ ಹೊಂದಿಸಿ ನೋಡು.",
+      "translations": {
+        "en": "Match it with your own experience and see."
+      },
+      "transliterations": {
+        "devanagari": "अदन्नु निन्न अनुभवदोंदिगे होंदिसि नोडु."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ ಕೂಸು ಕಂದಯ್ಯ ಒಳ ಹೊರಗ ।",
+      "translations": {
+        "en": "Why would a house with a little one need a hand-fan, with the dear child moving in and out —"
+      },
+      "transliterations": {
+        "devanagari": "कूसु इद्द मनिगे बीसणिगे यातक कूसु कंदय्य ओळ होरग ।"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಆಡಿದರ ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ ॥",
+      "translations": {
+        "en": "as it plays, the breeze stirs on its own, like a fan."
+      },
+      "transliterations": {
+        "devanagari": "आडिदर बीसणिगे गाळि सुळिदाव ॥"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಆಡಿ ಬಾ ನನ ಕಂದ ಅಂಗಾಲ ತೊಳೆದೇನ ತೆಂಗಿನ ಕಾಯಿ ತಿಳಿನೀರ |",
+      "translations": {
+        "en": "Come, play, my child — I will wash your little feet with clear coconut water,"
+      },
+      "transliterations": {
+        "devanagari": "आडि बा नन कंद अंगाल तोळेदेन तेंगिन कायि तिळिनीर |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ತಕ್ಕೊಂಡು ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ |",
+      "translations": {
+        "en": "and with the same, I will wash your golden face too."
+      },
+      "transliterations": {
+        "devanagari": "तक्कोंडु बंगार मारि तोळेदेन |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಅಳುವ ಕಂದನ ತುಟಿಯು ಹವಳದ ಕುಡಿಹಂಗ ಕುಡಿಹುಬ್ಬು ಬೇವಿನೆಸಳಂಗ ।",
+      "translations": {
+        "en": "The crying child's lips are like a coral sprout, its tender brows like neem leaves,"
+      },
+      "transliterations": {
+        "devanagari": "अळुव कंदन तुटियु हवळद कुडिहंग कुडिहुब्बु बेविनेसळंग ।"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಕಣೋಟ ಶಿವನ ಕೈಯಲಗು ಹೊಳೆದ್ದಂಗ |",
+      "translations": {
+        "en": "and its glance shines like the blade in Lord Shiva's hand."
+      },
+      "transliterations": {
+        "devanagari": "कणोट शिवन कैयलगु होळेद्दंग |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಕಂದಾನ ಕಿರಿಕಿರಿ ಇಂದೇನು ಹೇಳಲಿ ಬಿಂದಿಗೆ ಹಾಲು ಸುರಿವಂದ |",
+      "translations": {
+        "en": "What can I say of the child's fussing today — while I was pouring out a pot of milk,"
+      },
+      "transliterations": {
+        "devanagari": "कंदान किरिकिरि इंदेनु हेळलि बिंदिगे हालु सुरिवंद |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಚಂಜೀಯ 'ಚಂದ್ರಮನ ತಂದು ನಿಲಿಸೆಂದಾ |",
+      "translations": {
+        "en": "it said, \"bring the evening moon and set it here!\""
+      },
+      "transliterations": {
+        "devanagari": "चंजीय 'चंद्रमन तंदु निलिसेंदा |"
+      },
+      "type": "poem_line"
+    }
+  ]
+}

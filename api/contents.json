@@ -31,8 +31,26 @@
       "title": "ನನ್ನ ಕನಸು",
       "translations": [],
       "transliterations": []
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "b0d0199e4324ff66",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch04-kanda.json",
+      "slug": "ch04-kanda",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕಂದ",
+      "translations": [
+        "en"
+      ],
+      "transliterations": [
+        "devanagari"
+      ]
     }
   ],
-  "generatedAt": "2026-08-08T14:18:09Z",
+  "generatedAt": "2026-08-22T07:50:36Z",
   "schemaVersion": "1.0"
 }

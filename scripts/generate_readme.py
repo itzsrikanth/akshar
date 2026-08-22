@@ -115,10 +115,11 @@ def render_chapter(chapter_dir, source_path):
         "as a sample — this is extensible to any script/language pair. See CONTRIBUTING.md to add one.",
         "",
         f"**Board:** {meta['board']} · **State:** {meta['state']} · **Medium:** {meta['medium']} · "
-        f"**Grade:** {meta['grade']} · **Subject:** {meta['subject']} · **Chapter:** {meta['chapter']}",
+        f"**Grade:** {meta['grade']} · **Subject:** {meta['subject']} · **Chapter:** {meta['chapter']}"
+        + (f" · **Author:** {meta['author']}" if meta.get("author") else ""),
         "",
-        f"Source: [{meta['source_url']}]({meta['source_url']}) · License: {meta['license']} · "
-        f"Publisher: {meta['original_publisher']}",
+        (f"Source: [{meta['source_url']}]({meta['source_url']}) · " if meta.get("source_url") else "")
+        + f"License: {meta['license']} · Publisher: {meta['original_publisher']}",
     ]
 
     section = [None]

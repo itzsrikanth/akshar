@@ -17,7 +17,6 @@
         "chapter",
         "slug",
         "title",
-        "source_url",
         "license",
         "original_publisher"
       ],
@@ -30,9 +29,18 @@
         "chapter": { "type": "integer", "minimum": 1 },
         "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
         "title": { "type": "string", "minLength": 1 },
-        "source_url": { "type": "string", "format": "uri" },
+        "source_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Optional — omit when the chapter has no single digitized/attributable source page (e.g. a traditional folk poem with no DIKSHA dial code located yet). Add it as soon as one is found."
+        },
         "license": { "type": "string", "minLength": 1 },
-        "original_publisher": { "type": "string", "minLength": 1 }
+        "original_publisher": { "type": "string", "minLength": 1 },
+        "author": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Optional — credited author/attribution as printed in the source (e.g. a poet's name, or 'ಜನಪದ' for an anonymous/traditional folk piece). Omit if the source has no attribution line at all."
+        }
       }
     },
     "segments": {

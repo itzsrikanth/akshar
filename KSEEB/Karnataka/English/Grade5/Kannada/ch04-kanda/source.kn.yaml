@@ -1,0 +1,97 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: English
+  grade: 5
+  subject: Kannada
+  chapter: 4
+  slug: ch04-kanda
+  title: ಕಂದ
+  # source_url: TODO — no DIKSHA dial-code link located yet for this chapter (a
+  # traditional folk poem); add it here once found, per schema/source.schema.json
+  # (source_url is optional precisely for this case).
+  # license below is carried over from the same textbook's other chapters
+  # (ch01, ch02 — same board/state/medium/grade/subject) rather than independently
+  # verified against this chapter's own DIKSHA page, since that page isn't linked
+  # yet. Re-verify once source_url is added, per AGENTS.md's rule to check license
+  # per chapter rather than copy it.
+  license: CC BY 4.0
+  original_publisher: KSEEB
+  author: ಜನಪದ
+
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+
+segments:
+
+  # ── ಸಾಮರ್ಥ್ಯ (Competency) ──────────────────────────────
+  - id: competency
+    type: competency
+    text: ಉಕ್ತಲೇಖನದ ಮೂಲಕ ಅಪರಿಚಿತ ಪದಗಳನ್ನು ಬರೆಯುವುದು.
+
+  # ── ಪ್ರವೇಶ (Introduction) ──────────────────────────────
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಮನೆಯಲ್ಲಿ ಅಪ್ಪ, ಅಮ್ಮ, ಅಜ್ಜ, ಅಜ್ಜಿ ಮತ್ತಿತರರು ಮಕ್ಕಳನ್ನು ಪ್ರೀತಿ ಮಾತುಗಳಿಂದ ಮುದ್ದಿಸುವುದನ್ನು ನೀನು ನೋಡಿರಬಹುದು.
+
+  - id: intro-2
+    type: prose
+    section: intro
+    text: ಅದೇ ರೀತಿ ನಿನ್ನನ್ನೂ ಮುದ್ದು ಮಾಡಿರಬಹುದು ನೆನಪಿಸಿಕೊ.
+
+  - id: intro-3
+    type: prose
+    section: intro
+    text: ಇಲ್ಲಿ ಪ್ರೀತಿ ಮಾತುಗಳಿಂದ ಮುದ್ದಿಸುವ ಸಂದರ್ಭವಿದೆ.
+
+  - id: intro-4
+    type: prose
+    section: intro
+    text: ಅದನ್ನು ನಿನ್ನ ಅನುಭವದೊಂದಿಗೆ ಹೊಂದಿಸಿ ನೋಡು.
+
+  # ── ಪದ್ಯ: ಕಂದ (Poem) ───────────────────────────────────
+  # Each stanza is split into the two verse-halves marked in the source by
+  # ।/॥ (or the ASCII "|" stand-in) — the only line-break signal actually
+  # present in the original text as given, rather than a guessed word split.
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ ಕೂಸು ಕಂದಯ್ಯ ಒಳ ಹೊರಗ ।
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಆಡಿದರ ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ ॥
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಆಡಿ ಬಾ ನನ ಕಂದ ಅಂಗಾಲ ತೊಳೆದೇನ ತೆಂಗಿನ ಕಾಯಿ ತಿಳಿನೀರ |
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ತಕ್ಕೊಂಡು ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ |
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಅಳುವ ಕಂದನ ತುಟಿಯು ಹವಳದ ಕುಡಿಹಂಗ ಕುಡಿಹುಬ್ಬು ಬೇವಿನೆಸಳಂಗ ।
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಕಣೋಟ ಶಿವನ ಕೈಯಲಗು ಹೊಳೆದ್ದಂಗ |
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಕಂದಾನ ಕಿರಿಕಿರಿ ಇಂದೇನು ಹೇಳಲಿ ಬಿಂದಿಗೆ ಹಾಲು ಸುರಿವಂದ |
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಚಂಜೀಯ 'ಚಂದ್ರಮನ ತಂದು ನಿಲಿಸೆಂದಾ |
