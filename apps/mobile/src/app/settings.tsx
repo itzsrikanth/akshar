@@ -88,7 +88,12 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           <View style={[styles.card, { borderColor: theme.border }]}>
             <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
               <ThemedText type="default">Translation language</ThemedText>
-              <Host matchContents>
+              {/* `useTheme()` is hardcoded to Colors.light for v1 (dark mode isn't wired up
+                  yet) — but Host's embedded SwiftUI content follows the device's actual
+                  system appearance unless told otherwise, so on a phone set to system Dark
+                  Mode this picker would render with dark-scheme native styling (a washed,
+                  disabled-looking pill) inside an otherwise all-light page. Pin it. */}
+              <Host matchContents colorScheme="light">
                 <Picker
                   selectedValue={translation}
                   onValueChange={(value) => setPreference({ translationLanguage: value })}
@@ -101,7 +106,8 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
             </View>
             <View style={styles.row}>
               <ThemedText type="default">Transliteration script</ThemedText>
-              <Host matchContents>
+              {/* Same reasoning as the Host above. */}
+              <Host matchContents colorScheme="light">
                 <Picker
                   selectedValue={transliteration}
                   onValueChange={(value) => setPreference({ transliterationScript: value })}
