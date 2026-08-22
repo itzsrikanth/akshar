@@ -35,7 +35,7 @@
     {
       "board": "KSEEB",
       "chapter": 4,
-      "contentHash": "7f991e51323a3482",
+      "contentHash": "f7a75af445560ec6",
       "grade": 5,
       "medium": "English",
       "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch04-kanda.json",
@@ -51,6 +51,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-08-22T08:03:24Z",
+  "generatedAt": "2026-08-22T08:15:58Z",
   "schemaVersion": "1.0"
 }

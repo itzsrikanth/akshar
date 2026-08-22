@@ -173,3 +173,81 @@ License: CC BY 4.0 · Publisher: KSEEB
   - **Answer:** ಆಡಿ ಬರುವ ಕಂದನ ಅಂಗಾಲನ್ನು ತಾಯಿ ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುತ್ತಾಳೆ. ಅದೇ ನೀರಿನಿಂದ ಅವನ ಬಂಗಾರದಂತಹ ಮುಖವನ್ನೂ ತೊಳೆಯುತ್ತಾಳೆ.
     - Deva: आडि बरुव कंदन अंगालन्नु तायि तेंगिनकायि तिळिनीरिनिंद तोळेयुत्ताळे. अदे नीरिनिंद अवन बंगारदंतह मुखवन्नू तोळेयुत्ताळे.
     - en-IN: The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face.
+
+## Exercise D · ಭಾಷಾಭ್ಯಾಸ ಆ · भाषाभ्यास आ
+
+- ಮಗು ಏಕೆ ನಗುತ್ತಿರಬಹುದು?
+  - Deva: मगु एके नगुत्तिरबहुदु?
+  - en-IN: Why might the baby be laughing?
+
+## Exercise E · ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ · भाषा चटुवटिके अ
+
+- ಬಂಗಾರ
+  - Deva: बंगार
+  - en-IN: gold
+  - **Answer:** ಚಿನ್ನ, ಕನಕ
+    - Deva: चिन्न, कनक
+    - en-IN: chinna, kanaka (both mean gold)
+- ಕೂಸು
+  - Deva: कूसु
+  - en-IN: baby
+
+## Exercise F · ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ · भाषा चटुवटिके आ
+
+- ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ?
+  - Deva: कूसु इद्द मनिगे बीसणिगे यातक?
+  - en-IN: Why would a house with a little one need a hand-fan?
+  - **Answer:** ಮನೆಗೆ
+    - Deva: मनेगे
+    - en-IN: to the house — standard form of the dialect ಮನಿಗೆ
+- ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ
+  - Deva: बंगार मारि तोळेदेन
+  - en-IN: I will wash your golden face
+- ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ
+  - Deva: बीसणिगे गाळि सुळिदाव
+  - en-IN: the breeze stirs like a fan
+- ಚಂಜೀಯ ಚಂದ್ರಮನ ನಿಲಿಸೆಂದಾ
+  - Deva: चंजीय चंद्रमन निलिसेंदा
+  - en-IN: it said to bring and set up the evening moon
+  - **Answer:** ಸಂಜೆಯ
+    - Deva: संजेय
+    - en-IN: of the evening — standard form of the dialect ಚಂಜೀಯ
+
+## Exercise G · ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ · भाषा चटुवटिके इ
+
+- ಹೊಳೆದ್ದಂಗ
+  - Deva: होळेद्दंग
+  - en-IN: shone (dialect form)
+  - **Answer:** ಹೊಳೆದ ಹಾಗೆ
+    - Deva: होळेद हागे
+    - en-IN: as if it shone
+- ಕುಡಿಹಂಗ
+  - Deva: कुडिहंग
+  - en-IN: sprout (dialect form)
+  - **Answer:** ಕುಡಿ ಹಾಗೆ
+    - Deva: कुडि हागे
+    - en-IN: like a sprout
+- ಎಸಳಂಗ
+  - Deva: एसळंग
+  - en-IN: petal (dialect form)
+  - **Answer:** ಎಸಳ ಹಾಗೆ
+    - Deva: एसळ हागे
+    - en-IN: like a petal
+- ನೆನೆದ್ದಂಗ
+  - Deva: नेनेद्दंग
+  - en-IN: soaked (dialect form)
+  - **Answer:** ನೆನೆದ ಹಾಗೆ
+    - Deva: नेनेद हागे
+    - en-IN: as if it soaked
+- ಬಂದ್ದಂಗ
+  - Deva: बंद्दंग
+  - en-IN: came (dialect form)
+  - **Answer:** ಬಂದ ಹಾಗೆ
+    - Deva: बंद हागे
+    - en-IN: as if it came
+- ಕುಳಿತಂಗ
+  - Deva: कुळितंग
+  - en-IN: sat (dialect form)
+  - **Answer:** ಕುಳಿತ ಹಾಗೆ
+    - Deva: कुळित हागे
+    - en-IN: as if seated

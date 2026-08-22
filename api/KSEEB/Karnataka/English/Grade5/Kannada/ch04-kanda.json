@@ -20,6 +20,26 @@
       "en": "Exercise C",
       "kn": "ಅಭ್ಯಾಸ ಇ"
     },
+    "exercise-D": {
+      "devanagari": "भाषाभ्यास आ",
+      "en": "Exercise D",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಆ"
+    },
+    "exercise-E": {
+      "devanagari": "भाषा चटुवटिके अ",
+      "en": "Exercise E",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ"
+    },
+    "exercise-F": {
+      "devanagari": "भाषा चटुवटिके आ",
+      "en": "Exercise F",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ"
+    },
+    "exercise-G": {
+      "devanagari": "भाषा चटुवटिके इ",
+      "en": "Exercise G",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ"
+    },
     "intro": {
       "devanagari": "प्रवेश",
       "en": "Introduction",
@@ -632,6 +652,270 @@
       },
       "transliterations": {
         "devanagari": "आडि बरुव कंदन अंगालन्नु तायि तेंगिनकायि तिळिनीरिनिंद तोळेयुत्ताळे. अदे नीरिनिंद अवन बंगारदंतह मुखवन्नू तोळेयुत्ताळे."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಮಗು ಏಕೆ ನಗುತ್ತಿರಬಹುದು?",
+      "translations": {
+        "en": "Why might the baby be laughing?"
+      },
+      "transliterations": {
+        "devanagari": "मगु एके नगुत्तिरबहुदु?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಬಂಗಾರ",
+      "translations": {
+        "en": "gold"
+      },
+      "transliterations": {
+        "devanagari": "बंगार"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-e-q1-ans",
+      "ref": "ex-e-q1",
+      "text": "ಚಿನ್ನ, ಕನಕ",
+      "translations": {
+        "en": "chinna, kanaka (both mean gold)"
+      },
+      "transliterations": {
+        "devanagari": "चिन्न, कनक"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಕೂಸು",
+      "translations": {
+        "en": "baby"
+      },
+      "transliterations": {
+        "devanagari": "कूसु"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ?",
+      "translations": {
+        "en": "Why would a house with a little one need a hand-fan?"
+      },
+      "transliterations": {
+        "devanagari": "कूसु इद्द मनिगे बीसणिगे यातक?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-f-q1-ans",
+      "ref": "ex-f-q1",
+      "text": "ಮನೆಗೆ",
+      "translations": {
+        "en": "to the house — standard form of the dialect ಮನಿಗೆ"
+      },
+      "transliterations": {
+        "devanagari": "मनेगे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ",
+      "translations": {
+        "en": "I will wash your golden face"
+      },
+      "transliterations": {
+        "devanagari": "बंगार मारि तोळेदेन"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ",
+      "translations": {
+        "en": "the breeze stirs like a fan"
+      },
+      "transliterations": {
+        "devanagari": "बीसणिगे गाळि सुळिदाव"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q4",
+      "text": "ಚಂಜೀಯ ಚಂದ್ರಮನ ನಿಲಿಸೆಂದಾ",
+      "translations": {
+        "en": "it said to bring and set up the evening moon"
+      },
+      "transliterations": {
+        "devanagari": "चंजीय चंद्रमन निलिसेंदा"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-f-q4-ans",
+      "ref": "ex-f-q4",
+      "text": "ಸಂಜೆಯ",
+      "translations": {
+        "en": "of the evening — standard form of the dialect ಚಂಜೀಯ"
+      },
+      "transliterations": {
+        "devanagari": "संजेय"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q0",
+      "text": "ಹೊಳೆದ್ದಂಗ",
+      "translations": {
+        "en": "shone (dialect form)"
+      },
+      "transliterations": {
+        "devanagari": "होळेद्दंग"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-g-q0-ans",
+      "ref": "ex-g-q0",
+      "text": "ಹೊಳೆದ ಹಾಗೆ",
+      "translations": {
+        "en": "as if it shone"
+      },
+      "transliterations": {
+        "devanagari": "होळेद हागे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಕುಡಿಹಂಗ",
+      "translations": {
+        "en": "sprout (dialect form)"
+      },
+      "transliterations": {
+        "devanagari": "कुडिहंग"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-g-q1-ans",
+      "ref": "ex-g-q1",
+      "text": "ಕುಡಿ ಹಾಗೆ",
+      "translations": {
+        "en": "like a sprout"
+      },
+      "transliterations": {
+        "devanagari": "कुडि हागे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q2",
+      "text": "ಎಸಳಂಗ",
+      "translations": {
+        "en": "petal (dialect form)"
+      },
+      "transliterations": {
+        "devanagari": "एसळंग"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-g-q2-ans",
+      "ref": "ex-g-q2",
+      "text": "ಎಸಳ ಹಾಗೆ",
+      "translations": {
+        "en": "like a petal"
+      },
+      "transliterations": {
+        "devanagari": "एसळ हागे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q3",
+      "text": "ನೆನೆದ್ದಂಗ",
+      "translations": {
+        "en": "soaked (dialect form)"
+      },
+      "transliterations": {
+        "devanagari": "नेनेद्दंग"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-g-q3-ans",
+      "ref": "ex-g-q3",
+      "text": "ನೆನೆದ ಹಾಗೆ",
+      "translations": {
+        "en": "as if it soaked"
+      },
+      "transliterations": {
+        "devanagari": "नेनेद हागे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q4",
+      "text": "ಬಂದ್ದಂಗ",
+      "translations": {
+        "en": "came (dialect form)"
+      },
+      "transliterations": {
+        "devanagari": "बंद्दंग"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-g-q4-ans",
+      "ref": "ex-g-q4",
+      "text": "ಬಂದ ಹಾಗೆ",
+      "translations": {
+        "en": "as if it came"
+      },
+      "transliterations": {
+        "devanagari": "बंद हागे"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q5",
+      "text": "ಕುಳಿತಂಗ",
+      "translations": {
+        "en": "sat (dialect form)"
+      },
+      "transliterations": {
+        "devanagari": "कुळितंग"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-g-q5-ans",
+      "ref": "ex-g-q5",
+      "text": "ಕುಳಿತ ಹಾಗೆ",
+      "translations": {
+        "en": "as if seated"
+      },
+      "transliterations": {
+        "devanagari": "कुळित हागे"
       },
       "type": "answer"
     }

@@ -28,6 +28,10 @@ labels:
   exercise-A: ಅಭ್ಯಾಸ ಅ
   exercise-B: ಅಭ್ಯಾಸ ಆ
   exercise-C: ಅಭ್ಯಾಸ ಇ
+  exercise-D: ಭಾಷಾಭ್ಯಾಸ ಆ
+  exercise-E: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ
+  exercise-F: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ
+  exercise-G: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ
 
 segments:
 
@@ -276,3 +280,127 @@ segments:
     type: answer
     ref: ex-c-q2
     text: ಆಡಿ ಬರುವ ಕಂದನ ಅಂಗಾಲನ್ನು ತಾಯಿ ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುತ್ತಾಳೆ. ಅದೇ ನೀರಿನಿಂದ ಅವನ ಬಂಗಾರದಂತಹ ಮುಖವನ್ನೂ ತೊಳೆಯುತ್ತಾಳೆ.
+
+  # ── ಭಾಷಾಭ್ಯಾಸ ಆ) ಊಹಿಸಿ ಬರೆ ─────────────────────────
+  # contributor's pasted answer for this one was unreadable (non-Kannada
+  # characters); also, "guess and write" questions are open-ended by nature,
+  # so no single answer segment is added
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: ಮಗು ಏಕೆ ನಗುತ್ತಿರಬಹುದು?
+
+  # ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ) ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆ ──────────
+  # contributor wrote "ಚನ್ನ", corrected to "ಚಿನ್ನ" (best-guess, not verified).
+  # A separate, badly garbled second entry for this same item (tagged
+  # <error> by the contributor) is dropped rather than guessed at.
+  - id: ex-e-q1
+    type: question
+    exercise: E
+    text: ಬಂಗಾರ
+  - id: ex-e-q1-ans
+    type: answer
+    ref: ex-e-q1
+    text: ಚಿನ್ನ, ಕನಕ
+
+  # contributor left this blank ("___ ___") — no answer given
+  - id: ex-e-q2
+    type: question
+    exercise: E
+    text: ಕೂಸು
+
+  # ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ) ಈ ವಾಕ್ಯಗಳಲ್ಲಿ ಅಡಿ ಗೆರೆ ಹಾಕಿದ
+  # ಪದಗಳಿಗೆ ಗ್ರಾಂಥಿಕ ರೂಪ ಬರೆ ──────────────────────────
+  # q1/q4 answers were garbled in the paste ("ಮುನಿಗಿ", "సంజయ") but clearly
+  # recoverable — ಮನಿಗೆ→ಮನೆಗೆ and ಚಂಜೀಯ→ಸಂಜೆಯ are the same dialect→standard
+  # pairs already established elsewhere in this chapter. q2/q3 had no answer
+  # and no indication of which word was underlined, so no answer is given —
+  # both "ಮಾರಿ"/"ತೊಳೆದೇನ" (q2) and "ಸುಳಿದಾವ" (q3) are plausible dialect words
+  # in those lines and picking one would be a guess.
+  - id: ex-f-q1
+    type: question
+    exercise: F
+    text: ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ?
+  - id: ex-f-q1-ans
+    type: answer
+    ref: ex-f-q1
+    text: ಮನೆಗೆ
+
+  - id: ex-f-q2
+    type: question
+    exercise: F
+    text: ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ
+
+  - id: ex-f-q3
+    type: question
+    exercise: F
+    text: ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ
+
+  - id: ex-f-q4
+    type: question
+    exercise: F
+    text: ಚಂಜೀಯ ಚಂದ್ರಮನ ನಿಲಿಸೆಂದಾ
+  - id: ex-f-q4-ans
+    type: answer
+    ref: ex-f-q4
+    text: ಸಂಜೆಯ
+
+  # ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ) ಈ ಪದಗಳನ್ನು ಗ್ರಾಂಥಿಕ ರೂಪದಲ್ಲಿ ಬರೆ ──
+  # ಮಾದರಿ (model) given by the contributor, legible as-is. Every other
+  # answer in this list — q1, q3, q4, q5 were left blank ("_____") or
+  # garbled, and q2's given answer ("ಎಸ್ತಳ ಹಾಗ") was close but a bit
+  # scrambled — is derived by mechanically applying that same model's
+  # "{root}+ಅಂಗ/ದ್ದಂಗ/ತಂಗ → {root} ಹಾಗೆ" rule, not guessed independently.
+  - id: ex-g-q0
+    type: question
+    exercise: G
+    text: ಹೊಳೆದ್ದಂಗ
+  - id: ex-g-q0-ans
+    type: answer
+    ref: ex-g-q0
+    text: ಹೊಳೆದ ಹಾಗೆ
+
+  - id: ex-g-q1
+    type: question
+    exercise: G
+    text: ಕುಡಿಹಂಗ
+  - id: ex-g-q1-ans
+    type: answer
+    ref: ex-g-q1
+    text: ಕುಡಿ ಹಾಗೆ
+
+  - id: ex-g-q2
+    type: question
+    exercise: G
+    text: ಎಸಳಂಗ
+  - id: ex-g-q2-ans
+    type: answer
+    ref: ex-g-q2
+    text: ಎಸಳ ಹಾಗೆ
+
+  - id: ex-g-q3
+    type: question
+    exercise: G
+    text: ನೆನೆದ್ದಂಗ
+  - id: ex-g-q3-ans
+    type: answer
+    ref: ex-g-q3
+    text: ನೆನೆದ ಹಾಗೆ
+
+  - id: ex-g-q4
+    type: question
+    exercise: G
+    text: ಬಂದ್ದಂಗ
+  - id: ex-g-q4-ans
+    type: answer
+    ref: ex-g-q4
+    text: ಬಂದ ಹಾಗೆ
+
+  - id: ex-g-q5
+    type: question
+    exercise: G
+    text: ಕುಳಿತಂಗ
+  - id: ex-g-q5-ans
+    type: answer
+    ref: ex-g-q5
+    text: ಕುಳಿತ ಹಾಗೆ

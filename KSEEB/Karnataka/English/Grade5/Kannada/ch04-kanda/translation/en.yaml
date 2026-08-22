@@ -14,6 +14,10 @@ labels:
   exercise-A: Exercise A
   exercise-B: Exercise B
   exercise-C: Exercise C
+  exercise-D: Exercise D
+  exercise-E: Exercise E
+  exercise-F: Exercise F
+  exercise-G: Exercise G
 
 # ── ಸಾಮರ್ಥ್ಯ
 competency: To write down unfamiliar words through dictation.
@@ -90,3 +94,33 @@ ex-c-q1: A house with a baby doesn't need a hand-fan. Why?
 ex-c-q1-ans: It's enough that the baby plays in and out — that itself creates a breeze, as if a fan were blowing. So a house with a baby has no need for a hand-fan.
 ex-c-q2: How does the mother take care of the child who comes back from playing?
 ex-c-q2-ans: The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face.
+
+# ── ಭಾಷಾಭ್ಯಾಸ ಆ)
+ex-d-q1: Why might the baby be laughing?
+
+# ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ)
+ex-e-q1: gold
+ex-e-q1-ans: chinna, kanaka (both mean gold)
+ex-e-q2: baby
+
+# ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ)
+ex-f-q1: Why would a house with a little one need a hand-fan?
+ex-f-q1-ans: to the house — standard form of the dialect ಮನಿಗೆ
+ex-f-q2: I will wash your golden face
+ex-f-q3: the breeze stirs like a fan
+ex-f-q4: it said to bring and set up the evening moon
+ex-f-q4-ans: of the evening — standard form of the dialect ಚಂಜೀಯ
+
+# ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ)
+ex-g-q0: shone (dialect form)
+ex-g-q0-ans: as if it shone
+ex-g-q1: sprout (dialect form)
+ex-g-q1-ans: like a sprout
+ex-g-q2: petal (dialect form)
+ex-g-q2-ans: like a petal
+ex-g-q3: soaked (dialect form)
+ex-g-q3-ans: as if it soaked
+ex-g-q4: came (dialect form)
+ex-g-q4-ans: as if it came
+ex-g-q5: sat (dialect form)
+ex-g-q5-ans: as if seated
