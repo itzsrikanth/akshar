@@ -34,6 +34,15 @@ export function ScopeSetupFlow({
 }) {
   const [step, setStep] = useState<Step>('scope');
 
+  // Only an *editing* session (Settings → scope-setup, initialScope/
+  // initialPreference passed in) falls back to "first option" for a level
+  // that isn't explicitly set — a genuinely fresh onboarding starts every
+  // field truly empty (see ScopeStep below), even though today's catalog
+  // has exactly one option at every level, so a new user always makes a
+  // real, visible choice rather than inheriting a silent default.
+  const hasInitialScope = initialScope != null;
+  const hasInitialPreference = initialPreference != null;
+
   // Every level (board/state/medium/grade) is independently tappable, same
   // as Explore's hierarchy browse — even a level with only one real option
   // today still opens a real picker (of one item), rather than being
@@ -50,25 +59,25 @@ export function ScopeSetupFlow({
   );
 
   const boardOptions = useMemo(() => optionsAtLevel(catalog.chapters, [], 0) as string[], [catalog]);
-  const board = obBoard ?? boardOptions[0] ?? null;
+  const board = obBoard ?? (hasInitialScope ? boardOptions[0] ?? null : null);
 
   const stateOptions = useMemo(
     () => (board ? (optionsAtLevel(catalog.chapters, [board], 1) as string[]) : []),
     [catalog, board],
   );
-  const state = obState ?? stateOptions[0] ?? null;
+  const state = obState ?? (hasInitialScope ? stateOptions[0] ?? null : null);
 
   const mediumOptions = useMemo(
     () => (board && state ? (optionsAtLevel(catalog.chapters, [board, state], 2) as string[]) : []),
     [catalog, board, state],
   );
-  const medium = obMedium ?? mediumOptions[0] ?? null;
+  const medium = obMedium ?? (hasInitialScope ? mediumOptions[0] ?? null : null);
 
   const gradeOptions = useMemo(
     () => (board && state && medium ? (optionsAtLevel(catalog.chapters, [board, state, medium], 3) as number[]) : []),
     [catalog, board, state, medium],
   );
-  const grade = obGrade ?? gradeOptions[0] ?? null;
+  const grade = obGrade ?? (hasInitialScope ? gradeOptions[0] ?? null : null);
 
   // Translation (meaning) and transliteration (pronunciation) are separate
   // axes — same split Settings already has, not one combined "reading
@@ -81,9 +90,9 @@ export function ScopeSetupFlow({
     [catalog, board, state, medium, grade],
   );
   const translationOptions = useMemo(() => availableLanguages(scopedChapters), [scopedChapters]);
-  const translation = obTranslation ?? translationOptions[0] ?? null;
+  const translation = obTranslation ?? (hasInitialPreference ? translationOptions[0] ?? null : null);
   const transliterationOptions = useMemo(() => availableScripts(scopedChapters), [scopedChapters]);
-  const transliteration = obTransliteration ?? transliterationOptions[0] ?? null;
+  const transliteration = obTransliteration ?? (hasInitialPreference ? transliterationOptions[0] ?? null : null);
 
   // Any change to board/state/medium/grade clears everything downstream —
   // including translation/transliteration, since those are scoped to the
@@ -112,14 +121,14 @@ export function ScopeSetupFlow({
     setObTransliteration(null);
   };
 
-  // board/state/medium/grade can't actually be null once the catalog has
-  // any chapters at all — both call sites (onboarding, scope-setup) only
-  // render this once a real scope already resolved — but every
-  // optionsAtLevel call above is typed nullable, so this is a real (if
-  // practically unreachable) guard.
-  if (!board || !state || !medium || !grade) return null;
+  // A fresh onboarding starts every field null (see hasInitialScope/
+  // hasInitialPreference above) until the user actually taps through each
+  // picker, so — unlike before — board/state/medium/grade genuinely can be
+  // unset here. canSave/handleSave gate on that instead of an early return.
+  const canSave = board !== null && state !== null && medium !== null && grade !== null && translation !== null && transliteration !== null;
 
   const handleSave = () => {
+    if (!board || !state || !medium || grade === null || translation === null || transliteration === null) return;
     onSave({ board, state, medium, grade }, { translationLanguage: translation, transliterationScript: transliteration });
   };
 
@@ -134,6 +143,7 @@ export function ScopeSetupFlow({
           translation={translation}
           transliteration={transliteration}
           saveLabel={saveLabel}
+          canSave={canSave}
           onPickBoard={() => setStep('board')}
           onPickState={() => setStep('state')}
           onPickMedium={() => setStep('medium')}
@@ -229,14 +239,34 @@ export function ScopeSetupFlow({
   );
 }
 
-function ScopeRow({ label, value, onPress, isLast = false }: { label: string; value: string; onPress: () => void; isLast?: boolean }) {
+// `value: null` means "not chosen yet" (fresh onboarding, before this row's
+// been tapped) — shown as a distinct "Not selected" placeholder rather than
+// a real-looking value, and the row is disabled if `enabled` is false (its
+// prerequisite level hasn't been picked yet, e.g. State before Board).
+function ScopeRow({
+  label,
+  value,
+  onPress,
+  isLast = false,
+  enabled = true,
+}: {
+  label: string;
+  value: string | null;
+  onPress: () => void;
+  isLast?: boolean;
+  enabled?: boolean;
+}) {
   const theme = useTheme();
   return (
-    <Touchable onPress={onPress} style={[styles.row, !isLast && { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
+    <Touchable
+      onPress={onPress}
+      disabled={!enabled}
+      style={[styles.row, !isLast && { borderBottomWidth: 1, borderBottomColor: theme.border }, !enabled && styles.rowDisabled]}
+    >
       <ThemedText type="default">{label}</ThemedText>
       <View style={styles.rowValue}>
-        <ThemedText type="small" themeColor="textSecondary">
-          {value}
+        <ThemedText type="small" themeColor={value ? 'textSecondary' : 'textDisabled'}>
+          {value ?? 'Not selected'}
         </ThemedText>
         <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
       </View>
@@ -252,6 +282,7 @@ function ScopeStep({
   translation,
   transliteration,
   saveLabel,
+  canSave,
   onPickBoard,
   onPickState,
   onPickMedium,
@@ -260,13 +291,14 @@ function ScopeStep({
   onPickTransliteration,
   onSave,
 }: {
-  board: string;
-  state: string;
-  medium: string;
-  grade: number;
-  translation: string;
-  transliteration: string;
+  board: string | null;
+  state: string | null;
+  medium: string | null;
+  grade: number | null;
+  translation: string | null;
+  transliteration: string | null;
   saveLabel: string;
+  canSave: boolean;
   onPickBoard: () => void;
   onPickState: () => void;
   onPickMedium: () => void;
@@ -292,33 +324,45 @@ function ScopeStep({
             with only one real option today (matters once a board spans more
             than one state, e.g. CBSE across several states, each potentially
             with state-specific subjects), same "still a real picker, even of
-            one item" treatment as Grade. */}
+            one item" treatment as Grade. Each row past Board is disabled
+            until its prerequisite is actually chosen — nothing to pick from
+            yet otherwise (e.g. State's options depend on Board). */}
         <View style={[styles.card, { borderColor: theme.border }]}>
           <ScopeRow label="Board" value={board} onPress={onPickBoard} />
-          <ScopeRow label="State" value={state} onPress={onPickState} />
-          <ScopeRow label="Medium" value={`${medium} medium`} onPress={onPickMedium} isLast />
+          <ScopeRow label="State" value={state} onPress={onPickState} enabled={board !== null} />
+          <ScopeRow label="Medium" value={medium ? `${medium} medium` : null} onPress={onPickMedium} enabled={state !== null} isLast />
         </View>
 
         <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
           YOUR DETAILS
         </ThemedText>
         <View style={[styles.card, { borderColor: theme.border }]}>
-          <ScopeRow label="Grade" value={`Grade ${grade}`} onPress={onPickGrade} />
+          <ScopeRow label="Grade" value={grade !== null ? `Grade ${grade}` : null} onPress={onPickGrade} enabled={medium !== null} />
           {/* Translation (meaning) and transliteration (pronunciation) are
               separate rows/axes, same split Settings uses — not one combined
               "reading language" choice. */}
-          <ScopeRow label="Translation language" value={labelForLanguage(translation)} onPress={onPickTranslation} />
+          <ScopeRow
+            label="Translation language"
+            value={translation ? labelForLanguage(translation) : null}
+            onPress={onPickTranslation}
+            enabled={grade !== null}
+          />
           <ScopeRow
             label="Transliteration script"
-            value={labelForScript(transliteration)}
+            value={transliteration ? labelForScript(transliteration) : null}
             onPress={onPickTransliteration}
+            enabled={grade !== null}
             isLast
           />
         </View>
       </View>
 
       <View style={styles.footer}>
-        <Touchable onPress={onSave} style={[styles.primaryButton, { backgroundColor: theme.tint }]}>
+        <Touchable
+          onPress={onSave}
+          disabled={!canSave}
+          style={[styles.primaryButton, { backgroundColor: theme.tint }, !canSave && styles.primaryButtonDisabled]}
+        >
           <ThemedText type="default" style={[styles.primaryButtonText, { color: theme.onTint }]}>
             {saveLabel}
           </ThemedText>
@@ -351,7 +395,7 @@ function ListPickerStep<T extends string | number>({
 }: {
   title: string;
   options: T[];
-  selected: T;
+  selected: T | null;
   labelFor: (value: T) => string;
   onSelect: (value: T) => void;
   onBack: () => void;
@@ -384,10 +428,12 @@ const styles = StyleSheet.create({
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
   card: { borderWidth: 1, borderRadius: Radius.medium, overflow: 'hidden', marginBottom: Spacing.four },
   row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three, paddingHorizontal: Spacing.three },
+  rowDisabled: { opacity: 0.4 },
   rowValue: { flexDirection: 'row', alignItems: 'center', gap: 6 },
   footer: { padding: Spacing.three, paddingBottom: Spacing.five },
 
   primaryButton: { borderRadius: Radius.medium, padding: Spacing.three, alignItems: 'center' },
+  primaryButtonDisabled: { opacity: 0.4 },
   primaryButtonText: { fontWeight: '600', fontSize: 16 },
 
   pickerHeader: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three, padding: Spacing.three },
