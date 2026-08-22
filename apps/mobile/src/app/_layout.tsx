@@ -15,7 +15,7 @@ import { deriveScope } from '@/services/scope';
 
 SplashScreen.preventAutoHideAsync();
 // As early as possible, before the rest of the app's modules even finish loading —
-// see services/crash-reporting.ts (a no-op until a real DSN is configured).
+// see services/crash-reporting.ts.
 initCrashReporting();
 
 function RootLayout() {

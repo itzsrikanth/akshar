@@ -17,6 +17,7 @@ import { useCatalog } from '@/hooks/use-catalog';
 import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
+import { openFeedbackForm } from '@/services/crash-reporting';
 import type { Catalog } from '@/services/content-repository';
 import { filterChapters } from '@/services/hierarchy';
 import { availableLanguages, availableScripts, labelForLanguage, labelForScript } from '@/services/scope';
@@ -149,11 +150,20 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           </ThemedText>
           <MaterialCommunityIcons name="open-in-new" size={16} color={theme.textDisabled} />
         </Touchable>
-        <Touchable onPress={() => Linking.openURL('https://github.com/itzsrikanth/akshar')} style={styles.row}>
+        <Touchable
+          onPress={() => Linking.openURL('https://github.com/itzsrikanth/akshar')}
+          style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+        >
           <ThemedText type="default" style={styles.f1}>
             Source code
           </ThemedText>
           <MaterialCommunityIcons name="open-in-new" size={16} color={theme.textDisabled} />
+        </Touchable>
+        <Touchable onPress={openFeedbackForm} style={styles.row}>
+          <ThemedText type="default" style={styles.f1}>
+            Report a problem
+          </ThemedText>
+          <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
         </Touchable>
       </View>
       <ThemedText type="small" themeColor="textDisabled" style={styles.versionText}>
