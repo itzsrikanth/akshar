@@ -15,6 +15,11 @@
       "en": "Exercise B",
       "kn": "ಅಭ್ಯಾಸ ಆ"
     },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ",
+      "en": "Exercise C",
+      "kn": "ಅಭ್ಯಾಸ ಇ"
+    },
     "intro": {
       "devanagari": "प्रवेश",
       "en": "Introduction",
@@ -579,6 +584,54 @@
       },
       "transliterations": {
         "devanagari": "हेळलि"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆ ಬೇಡ. ಏಕೆ?",
+      "translations": {
+        "en": "A house with a baby doesn't need a hand-fan. Why?"
+      },
+      "transliterations": {
+        "devanagari": "कूसु इद्द मनेगे बीसणिगे बेड. एके?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q1-ans",
+      "ref": "ex-c-q1",
+      "text": "ಕೂಸು ಒಳಗೆ ಹೊರಗೆ ಆಡುತ್ತಿದ್ದರೆ ಸಾಕು, ಅದರಿಂದಲೇ ಗಾಳಿ ಬೀಸಿದಂತೆ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆಯ ಅಗತ್ಯವಿಲ್ಲ.",
+      "translations": {
+        "en": "It's enough that the baby plays in and out — that itself creates a breeze, as if a fan were blowing. So a house with a baby has no need for a hand-fan."
+      },
+      "transliterations": {
+        "devanagari": "कूसु ओळगे होरगे आडुत्तिद्दरे साकु, अदरिंदले गाळि बीसिदंते आगुत्तदे. आद्दरिंद कूसु इद्द मनेगे बीसणिगेय अगत्यविल्ल."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಆಡಿ ಬರುವ ಕಂದನನ್ನು ತಾಯಿ ಹೇಗೆ ಉಪಚರಿಸುವಳು?",
+      "translations": {
+        "en": "How does the mother take care of the child who comes back from playing?"
+      },
+      "transliterations": {
+        "devanagari": "आडि बरुव कंदनन्नु तायि हेगे उपचरिसुवळु?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q2-ans",
+      "ref": "ex-c-q2",
+      "text": "ಆಡಿ ಬರುವ ಕಂದನ ಅಂಗಾಲನ್ನು ತಾಯಿ ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುತ್ತಾಳೆ. ಅದೇ ನೀರಿನಿಂದ ಅವನ ಬಂಗಾರದಂತಹ ಮುಖವನ್ನೂ ತೊಳೆಯುತ್ತಾಳೆ.",
+      "translations": {
+        "en": "The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face."
+      },
+      "transliterations": {
+        "devanagari": "आडि बरुव कंदन अंगालन्नु तायि तेंगिनकायि तिळिनीरिनिंद तोळेयुत्ताळे. अदे नीरिनिंद अवन बंगारदंतह मुखवन्नू तोळेयुत्ताळे."
       },
       "type": "answer"
     }

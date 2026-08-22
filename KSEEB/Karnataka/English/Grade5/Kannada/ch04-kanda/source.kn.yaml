@@ -27,6 +27,7 @@ labels:
   notes: ಟಿಪ್ಪಣಿ
   exercise-A: ಅಭ್ಯಾಸ ಅ
   exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
 
 segments:
 
@@ -254,3 +255,24 @@ segments:
     type: answer
     ref: ex-b-q4
     text: ಹೇಳಲಿ
+
+  # ── ಅಭ್ಯಾಸ ಇ) ಎರಡು ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸು ──────────
+  # answers constructed directly from this chapter's own poem text — no
+  # answer key was pasted for this section
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆ ಬೇಡ. ಏಕೆ?
+  - id: ex-c-q1-ans
+    type: answer
+    ref: ex-c-q1
+    text: ಕೂಸು ಒಳಗೆ ಹೊರಗೆ ಆಡುತ್ತಿದ್ದರೆ ಸಾಕು, ಅದರಿಂದಲೇ ಗಾಳಿ ಬೀಸಿದಂತೆ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆಯ ಅಗತ್ಯವಿಲ್ಲ.
+
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: ಆಡಿ ಬರುವ ಕಂದನನ್ನು ತಾಯಿ ಹೇಗೆ ಉಪಚರಿಸುವಳು?
+  - id: ex-c-q2-ans
+    type: answer
+    ref: ex-c-q2
+    text: ಆಡಿ ಬರುವ ಕಂದನ ಅಂಗಾಲನ್ನು ತಾಯಿ ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುತ್ತಾಳೆ. ಅದೇ ನೀರಿನಿಂದ ಅವನ ಬಂಗಾರದಂತಹ ಮುಖವನ್ನೂ ತೊಳೆಯುತ್ತಾಳೆ.

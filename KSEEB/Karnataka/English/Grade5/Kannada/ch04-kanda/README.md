@@ -158,3 +158,18 @@ License: CC BY 4.0 · Publisher: KSEEB
   - **Answer:** ಹೇಳಲಿ
     - Deva: हेळलि
     - en-IN: say
+
+## Exercise C · ಅಭ್ಯಾಸ ಇ · अभ्यास इ
+
+- ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆ ಬೇಡ. ಏಕೆ?
+  - Deva: कूसु इद्द मनेगे बीसणिगे बेड. एके?
+  - en-IN: A house with a baby doesn't need a hand-fan. Why?
+  - **Answer:** ಕೂಸು ಒಳಗೆ ಹೊರಗೆ ಆಡುತ್ತಿದ್ದರೆ ಸಾಕು, ಅದರಿಂದಲೇ ಗಾಳಿ ಬೀಸಿದಂತೆ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆಯ ಅಗತ್ಯವಿಲ್ಲ.
+    - Deva: कूसु ओळगे होरगे आडुत्तिद्दरे साकु, अदरिंदले गाळि बीसिदंते आगुत्तदे. आद्दरिंद कूसु इद्द मनेगे बीसणिगेय अगत्यविल्ल.
+    - en-IN: It's enough that the baby plays in and out — that itself creates a breeze, as if a fan were blowing. So a house with a baby has no need for a hand-fan.
+- ಆಡಿ ಬರುವ ಕಂದನನ್ನು ತಾಯಿ ಹೇಗೆ ಉಪಚರಿಸುವಳು?
+  - Deva: आडि बरुव कंदनन्नु तायि हेगे उपचरिसुवळु?
+  - en-IN: How does the mother take care of the child who comes back from playing?
+  - **Answer:** ಆಡಿ ಬರುವ ಕಂದನ ಅಂಗಾಲನ್ನು ತಾಯಿ ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುತ್ತಾಳೆ. ಅದೇ ನೀರಿನಿಂದ ಅವನ ಬಂಗಾರದಂತಹ ಮುಖವನ್ನೂ ತೊಳೆಯುತ್ತಾಳೆ.
+    - Deva: आडि बरुव कंदन अंगालन्नु तायि तेंगिनकायि तिळिनीरिनिंद तोळेयुत्ताळे. अदे नीरिनिंद अवन बंगारदंतह मुखवन्नू तोळेयुत्ताळे.
+    - en-IN: The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face.

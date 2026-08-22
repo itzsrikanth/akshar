@@ -13,6 +13,7 @@ labels:
   notes: Notes
   exercise-A: Exercise A
   exercise-B: Exercise B
+  exercise-C: Exercise C
 
 # ── ಸಾಮರ್ಥ್ಯ
 competency: To write down unfamiliar words through dictation.
@@ -83,3 +84,9 @@ ex-b-q3: "________, does a house with a little one need a hand-fan?"
 ex-b-q3-ans: Why
 ex-b-q4: What can I ________ of the child's fussing today —
 ex-b-q4-ans: say
+
+# ── ಅಭ್ಯಾಸ ಇ)
+ex-c-q1: A house with a baby doesn't need a hand-fan. Why?
+ex-c-q1-ans: It's enough that the baby plays in and out — that itself creates a breeze, as if a fan were blowing. So a house with a baby has no need for a hand-fan.
+ex-c-q2: How does the mother take care of the child who comes back from playing?
+ex-c-q2-ans: The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face.
