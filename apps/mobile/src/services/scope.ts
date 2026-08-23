@@ -10,8 +10,8 @@ export type Scope = { board: string; state: string; medium: string; grade: numbe
 // Display labels for language/script codes — falls back to the raw code
 // for anything not listed, so an unrecognized code still renders instead
 // of disappearing.
-const LANGUAGE_LABELS: Record<string, string> = { en: 'English' };
-const SCRIPT_LABELS: Record<string, string> = { devanagari: 'Devanagari' };
+const LANGUAGE_LABELS: Record<string, string> = { en: 'English', hi: 'Hindi' };
+const SCRIPT_LABELS: Record<string, string> = { devanagari: 'Devanagari', latin: 'Latin' };
 
 export function labelForLanguage(code: string): string {
   return LANGUAGE_LABELS[code] ?? code;

@@ -3,62 +3,86 @@
     "competency": {
       "devanagari": "सामर्थ्य",
       "en": "Competency",
-      "kn": "ಸಾಮರ್ಥ್ಯ"
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Samarthya"
     },
     "exercise-A": {
       "devanagari": "अभ्यास अ",
       "en": "Exercise A",
-      "kn": "ಅಭ್ಯಾಸ ಅ"
+      "hi": "अभ्यास अ",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "Abhyaasa A"
     },
     "exercise-B": {
       "devanagari": "अभ्यास आ",
       "en": "Exercise B",
-      "kn": "ಅಭ್ಯಾಸ ಆ"
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "Abhyaasa Aa"
     },
     "exercise-C": {
       "devanagari": "अभ्यास इ",
       "en": "Exercise C",
-      "kn": "ಅಭ್ಯಾಸ ಇ"
+      "hi": "अभ्यास इ",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "Abhyaasa I"
     },
     "exercise-D": {
       "devanagari": "भाषाभ्यास आ",
       "en": "Exercise D",
-      "kn": "ಭಾಷಾಭ್ಯಾಸ ಆ"
+      "hi": "भाषाभ्यास आ",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಆ",
+      "latin": "Bhaashaabhyaasa Aa"
     },
     "exercise-E": {
       "devanagari": "भाषा चटुवटिके अ",
       "en": "Exercise E",
-      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ"
+      "hi": "भाषा गतिविधि अ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Bhaasha Chatuvatike A"
     },
     "exercise-F": {
       "devanagari": "भाषा चटुवटिके आ",
       "en": "Exercise F",
-      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ"
+      "hi": "भाषा गतिविधि आ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ",
+      "latin": "Bhaasha Chatuvatike Aa"
     },
     "exercise-G": {
       "devanagari": "भाषा चटुवटिके इ",
       "en": "Exercise G",
-      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ"
+      "hi": "भाषा गतिविधि इ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ",
+      "latin": "Bhaasha Chatuvatike I"
     },
     "intro": {
       "devanagari": "प्रवेश",
       "en": "Introduction",
-      "kn": "ಪ್ರವೇಶ"
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "Pravesha"
     },
     "notes": {
       "devanagari": "टिप्पणि",
       "en": "Notes",
-      "kn": "ಟಿಪ್ಪಣಿ"
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
     },
     "poem": {
       "devanagari": "पद्य",
       "en": "Poem",
-      "kn": "ಪದ್ಯ"
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "Padya"
     },
     "vocab": {
       "devanagari": "पदगळ अर्थ",
       "en": "Word Meanings",
-      "kn": "ಪದಗಳ ಅರ್ಥ"
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala Artha"
     }
   },
   "meta": {
@@ -80,10 +104,12 @@
       "id": "competency",
       "text": "ಉಕ್ತಲೇಖನದ ಮೂಲಕ ಅಪರಿಚಿತ ಪದಗಳನ್ನು ಬರೆಯುವುದು.",
       "translations": {
-        "en": "To write down unfamiliar words through dictation."
+        "en": "To write down unfamiliar words through dictation.",
+        "hi": "अपरिचित शब्दों को श्रुतलेख (डिक्टेशन) के माध्यम से लिखना।"
       },
       "transliterations": {
-        "devanagari": "उक्तलेखनद मूलक अपरिचित पदगळन्नु बरेयुवुदु."
+        "devanagari": "उक्तलेखनद मूलक अपरिचित पदगळन्नु बरेयुवुदु.",
+        "latin": "Uktalekhanada moolaka aparichita padagalannu bareyuvudu."
       },
       "type": "competency"
     },
@@ -92,10 +118,12 @@
       "section": "intro",
       "text": "ಮನೆಯಲ್ಲಿ ಅಪ್ಪ, ಅಮ್ಮ, ಅಜ್ಜ, ಅಜ್ಜಿ ಮತ್ತಿತರರು ಮಕ್ಕಳನ್ನು ಪ್ರೀತಿ ಮಾತುಗಳಿಂದ ಮುದ್ದಿಸುವುದನ್ನು ನೀನು ನೋಡಿರಬಹುದು.",
       "translations": {
-        "en": "You may have seen father, mother, grandfather, grandmother, and others at home cuddling children with loving words."
+        "en": "You may have seen father, mother, grandfather, grandmother, and others at home cuddling children with loving words.",
+        "hi": "तुमने घर में पापा, अम्मा, दादा, दादी और अन्य लोगों को बच्चों को प्यार भरे शब्दों से दुलारते हुए देखा होगा।"
       },
       "transliterations": {
-        "devanagari": "मनेयल्लि अप्प, अम्म, अज्ज, अज्जि मत्तितरर मक्कळन्नु प्रीति मातुगळिंद मुद्दिसुवुदन्नु नीनु नोडिरबहुदु."
+        "devanagari": "मनेयल्लि अप्प, अम्म, अज्ज, अज्जि मत्तितरर मक्कळन्नु प्रीति मातुगळिंद मुद्दिसुवुदन्नु नीनु नोडिरबहुदु.",
+        "latin": "Maneyalli appa, amma, ajja, ajji mattitararu makkalannu preeti maatugalinda muddisuvudannu neenu nodirabahudu."
       },
       "type": "prose"
     },
@@ -104,10 +132,12 @@
       "section": "intro",
       "text": "ಅದೇ ರೀತಿ ನಿನ್ನನ್ನೂ ಮುದ್ದು ಮಾಡಿರಬಹುದು ನೆನಪಿಸಿಕೊ.",
       "translations": {
-        "en": "Recall that you too may have been cuddled the same way."
+        "en": "Recall that you too may have been cuddled the same way.",
+        "hi": "याद करो कि तुम्हें भी उसी तरह दुलारा गया होगा।"
       },
       "transliterations": {
-        "devanagari": "अदे रीति निन्नन्नू मुद्दु माडिरबहुदु नेनेपिसिको."
+        "devanagari": "अदे रीति निन्नन्नू मुद्दु माडिरबहुदु नेनेपिसिको.",
+        "latin": "Adee reeti ninnannoo muddu maadirabahudu nenapisiko."
       },
       "type": "prose"
     },
@@ -116,10 +146,12 @@
       "section": "intro",
       "text": "ಇಲ್ಲಿ ಪ್ರೀತಿ ಮಾತುಗಳಿಂದ ಮುದ್ದಿಸುವ ಸಂದರ್ಭವಿದೆ.",
       "translations": {
-        "en": "Here there is a scene of being cuddled with loving words."
+        "en": "Here there is a scene of being cuddled with loving words.",
+        "hi": "यहाँ प्यार भरे शब्दों से दुलारे जाने का एक दृश्य है।"
       },
       "transliterations": {
-        "devanagari": "इल्लि प्रीति मातुगळिंद मुद्दिसुव संदर्भविदे."
+        "devanagari": "इल्लि प्रीति मातुगळिंद मुद्दिसुव संदर्भविदे.",
+        "latin": "Illi preeti maatugalinda muddisuva sandarbhavide."
       },
       "type": "prose"
     },
@@ -128,10 +160,12 @@
       "section": "intro",
       "text": "ಅದನ್ನು ನಿನ್ನ ಅನುಭವದೊಂದಿಗೆ ಹೊಂದಿಸಿ ನೋಡು.",
       "translations": {
-        "en": "Match it with your own experience and see."
+        "en": "Match it with your own experience and see.",
+        "hi": "उसे अपने अनुभव से मिलाकर देखो।"
       },
       "transliterations": {
-        "devanagari": "अदन्नु निन्न अनुभवदोंदिगे होंदिसि नोडु."
+        "devanagari": "अदन्नु निन्न अनुभवदोंदिगे होंदिसि नोडु.",
+        "latin": "Adannu ninna anubhavadondige hondisi nodu."
       },
       "type": "prose"
     },
@@ -140,10 +174,12 @@
       "stanza": 1,
       "text": "ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ ಕೂಸು ಕಂದಯ್ಯ ಒಳ ಹೊರಗ ।",
       "translations": {
-        "en": "Why would a house with a little one need a hand-fan, with the dear child moving in and out —"
+        "en": "Why would a house with a little one need a hand-fan, with the dear child moving in and out —",
+        "hi": "जिस घर में बच्चा है, उसे पंखे की क्या ज़रूरत, प्यारा बच्चा भीतर-बाहर आता-जाता है —"
       },
       "transliterations": {
-        "devanagari": "कूसु इद्द मनिगे बीसणिगे यातक कूसु कंदय्य ओळ होरग ।"
+        "devanagari": "कूसु इद्द मनिगे बीसणिगे यातक कूसु कंदय्य ओळ होरग ।",
+        "latin": "Koosu idda manige beesanige yaataka koosu kandayya ola horaga."
       },
       "type": "poem_line"
     },
@@ -152,10 +188,12 @@
       "stanza": 1,
       "text": "ಆಡಿದರ ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ ॥",
       "translations": {
-        "en": "as it plays, the breeze stirs on its own, like a fan."
+        "en": "as it plays, the breeze stirs on its own, like a fan.",
+        "hi": "जब वह खेलता है, हवा अपने आप पंखे जैसी बहने लगती है।"
       },
       "transliterations": {
-        "devanagari": "आडिदर बीसणिगे गाळि सुळिदाव ॥"
+        "devanagari": "आडिदर बीसणिगे गाळि सुळिदाव ॥",
+        "latin": "Aadidara beesanige gaali suliidaava."
       },
       "type": "poem_line"
     },
@@ -164,10 +202,12 @@
       "stanza": 2,
       "text": "ಆಡಿ ಬಾ ನನ ಕಂದ ಅಂಗಾಲ ತೊಳೆದೇನ ತೆಂಗಿನ ಕಾಯಿ ತಿಳಿನೀರ |",
       "translations": {
-        "en": "Come, play, my child — I will wash your little feet with clear coconut water,"
+        "en": "Come, play, my child — I will wash your little feet with clear coconut water,",
+        "hi": "आ जा, खेल ले, मेरे बच्चे — मैं तेरे नन्हे पैर नारियल के निर्मल पानी से धोऊँगी,"
       },
       "transliterations": {
-        "devanagari": "आडि बा नन कंद अंगाल तोळेदेन तेंगिन कायि तिळिनीर |"
+        "devanagari": "आडि बा नन कंद अंगाल तोळेदेन तेंगिन कायि तिळिनीर |",
+        "latin": "Aadi baa nana kanda angaala toledena tengina kaayi tilineera."
       },
       "type": "poem_line"
     },
@@ -176,10 +216,12 @@
       "stanza": 2,
       "text": "ತಕ್ಕೊಂಡು ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ |",
       "translations": {
-        "en": "and with the same, I will wash your golden face too."
+        "en": "and with the same, I will wash your golden face too.",
+        "hi": "और उसी पानी से तेरा सुनहरा चेहरा भी धोऊँगी।"
       },
       "transliterations": {
-        "devanagari": "तक्कोंडु बंगार मारि तोळेदेन |"
+        "devanagari": "तक्कोंडु बंगार मारि तोळेदेन |",
+        "latin": "Takkondu bangaara maari toledena."
       },
       "type": "poem_line"
     },
@@ -188,10 +230,12 @@
       "stanza": 3,
       "text": "ಅಳುವ ಕಂದನ ತುಟಿಯು ಹವಳದ ಕುಡಿಹಂಗ ಕುಡಿಹುಬ್ಬು ಬೇವಿನೆಸಳಂಗ ।",
       "translations": {
-        "en": "The crying child's lips are like a coral sprout, its tender brows like neem leaves,"
+        "en": "The crying child's lips are like a coral sprout, its tender brows like neem leaves,",
+        "hi": "रोते हुए बच्चे के होंठ मूँगे की कोंपल जैसे हैं, उसकी कोमल भौहें नीम की पत्तियों जैसी हैं,"
       },
       "transliterations": {
-        "devanagari": "अळुव कंदन तुटियु हवळद कुडिहंग कुडिहुब्बु बेविनेसळंग ।"
+        "devanagari": "अळुव कंदन तुटियु हवळद कुडिहंग कुडिहुब्बु बेविनेसळंग ।",
+        "latin": "Aluva kandana tutiyu havalada kudihanga kudihubbu bevinesalanga."
       },
       "type": "poem_line"
     },
@@ -200,10 +244,12 @@
       "stanza": 3,
       "text": "ಕಣೋಟ ಶಿವನ ಕೈಯಲಗು ಹೊಳೆದ್ದಂಗ |",
       "translations": {
-        "en": "and its glance shines like the blade in Lord Shiva's hand."
+        "en": "and its glance shines like the blade in Lord Shiva's hand.",
+        "hi": "और उसकी नज़र भगवान शिव के हाथ की तलवार जैसी चमकती है।"
       },
       "transliterations": {
-        "devanagari": "कणोट शिवन कैयलगु होळेद्दंग |"
+        "devanagari": "कणोट शिवन कैयलगु होळेद्दंग |",
+        "latin": "Kanota Shivana kaiyalagu holeddanga."
       },
       "type": "poem_line"
     },
@@ -212,10 +258,12 @@
       "stanza": 4,
       "text": "ಕಂದಾನ ಕಿರಿಕಿರಿ ಇಂದೇನು ಹೇಳಲಿ ಬಿಂದಿಗೆ ಹಾಲು ಸುರಿವಂದ |",
       "translations": {
-        "en": "What can I say of the child's fussing today — while I was pouring out a pot of milk,"
+        "en": "What can I say of the child's fussing today — while I was pouring out a pot of milk,",
+        "hi": "आज बच्चे की ज़िद के बारे में क्या कहूँ — जब मैं एक घड़ा दूध उड़ेल रही थी,"
       },
       "transliterations": {
-        "devanagari": "कंदान किरिकिरि इंदेनु हेळलि बिंदिगे हालु सुरिवंद |"
+        "devanagari": "कंदान किरिकिरि इंदेनु हेळलि बिंदिगे हालु सुरिवंद |",
+        "latin": "Kandaana kirikiri indenu heelali bindige haalu surivanda."
       },
       "type": "poem_line"
     },
@@ -224,10 +272,12 @@
       "stanza": 4,
       "text": "ಚಂಜೀಯ 'ಚಂದ್ರಮನ ತಂದು ನಿಲಿಸೆಂದಾ |",
       "translations": {
-        "en": "it said, \"bring the evening moon and set it here!\""
+        "en": "it said, \"bring the evening moon and set it here!\"",
+        "hi": "तो उसने कहा, 'शाम का चाँद लाकर यहाँ रख दो!'"
       },
       "transliterations": {
-        "devanagari": "चंजीय 'चंद्रमन तंदु निलिसेंदा |"
+        "devanagari": "चंजीय 'चंद्रमन तंदु निलिसेंदा |",
+        "latin": "Chanjeeya 'chandramana tandu nilisendaa."
       },
       "type": "poem_line"
     },
@@ -235,10 +285,12 @@
       "id": "vocab-kudi",
       "text": "ಕುಡಿ",
       "translations": {
-        "en": "sprout / shoot"
+        "en": "sprout / shoot",
+        "hi": "कोंपल / अंकुर"
       },
       "transliterations": {
-        "devanagari": "कुडि"
+        "devanagari": "कुडि",
+        "latin": "Kudi"
       },
       "type": "vocabulary_term"
     },
@@ -247,10 +299,12 @@
       "ref": "vocab-kudi",
       "text": "ಚಿಗುರು",
       "translations": {
-        "en": "sprout / young shoot"
+        "en": "sprout / young shoot",
+        "hi": "कोंपल / नई कोंपल"
       },
       "transliterations": {
-        "devanagari": "चिगुरु"
+        "devanagari": "चिगुरु",
+        "latin": "Chiguru"
       },
       "type": "vocabulary_definition"
     },
@@ -258,10 +312,12 @@
       "id": "vocab-alagu",
       "text": "ಅಲಗು",
       "translations": {
-        "en": "blade"
+        "en": "blade",
+        "hi": "फल / धार"
       },
       "transliterations": {
-        "devanagari": "अलगु"
+        "devanagari": "अलगु",
+        "latin": "Alagu"
       },
       "type": "vocabulary_term"
     },
@@ -270,10 +326,12 @@
       "ref": "vocab-alagu",
       "text": "ಕತ್ತಿಯ ಅಂಚು",
       "translations": {
-        "en": "edge of a knife/sword"
+        "en": "edge of a knife/sword",
+        "hi": "चाकू/तलवार की धार"
       },
       "transliterations": {
-        "devanagari": "कत्तिय अंचु"
+        "devanagari": "कत्तिय अंचु",
+        "latin": "Kattiya anchu"
       },
       "type": "vocabulary_definition"
     },
@@ -281,10 +339,12 @@
       "id": "vocab-esalu",
       "text": "ಎಸಳು",
       "translations": {
-        "en": "petal"
+        "en": "petal",
+        "hi": "पंखुड़ी"
       },
       "transliterations": {
-        "devanagari": "एसळु"
+        "devanagari": "एसळु",
+        "latin": "Esalu"
       },
       "type": "vocabulary_term"
     },
@@ -293,10 +353,12 @@
       "ref": "vocab-esalu",
       "text": "ಹೂವಿನ ದಳ",
       "translations": {
-        "en": "petal of a flower"
+        "en": "petal of a flower",
+        "hi": "फूल की पंखुड़ी"
       },
       "transliterations": {
-        "devanagari": "हूविन दळ"
+        "devanagari": "हूविन दळ",
+        "latin": "Hoovina dala"
       },
       "type": "vocabulary_definition"
     },
@@ -304,10 +366,12 @@
       "id": "vocab-kirikiri",
       "text": "ಕಿರಿಕಿರಿ",
       "translations": {
-        "en": "fussing / irritation"
+        "en": "fussing / irritation",
+        "hi": "ज़िद / चिड़चिड़ाहट"
       },
       "transliterations": {
-        "devanagari": "किरिकिरि"
+        "devanagari": "किरिकिरि",
+        "latin": "Kirikiri"
       },
       "type": "vocabulary_term"
     },
@@ -316,10 +380,12 @@
       "ref": "vocab-kirikiri",
       "text": "ಕಾಟ",
       "translations": {
-        "en": "trouble / nuisance"
+        "en": "trouble / nuisance",
+        "hi": "परेशानी"
       },
       "transliterations": {
-        "devanagari": "काट"
+        "devanagari": "काट",
+        "latin": "Kaata"
       },
       "type": "vocabulary_definition"
     },
@@ -327,10 +393,12 @@
       "id": "vocab-bangara",
       "text": "ಬಂಗಾರ",
       "translations": {
-        "en": "gold"
+        "en": "gold",
+        "hi": "सोना"
       },
       "transliterations": {
-        "devanagari": "बंगार"
+        "devanagari": "बंगार",
+        "latin": "Bangaara"
       },
       "type": "vocabulary_term"
     },
@@ -339,10 +407,12 @@
       "ref": "vocab-bangara",
       "text": "ಚಿನ್ನ",
       "translations": {
-        "en": "gold"
+        "en": "gold",
+        "hi": "सोना"
       },
       "transliterations": {
-        "devanagari": "चिन्न"
+        "devanagari": "चिन्न",
+        "latin": "Chinna"
       },
       "type": "vocabulary_definition"
     },
@@ -350,10 +420,12 @@
       "id": "vocab-chanjeeya",
       "text": "ಚಂಜೀಯ",
       "translations": {
-        "en": "of the evening (dialectal)"
+        "en": "of the evening (dialectal)",
+        "hi": "शाम का (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "चंजीय"
+        "devanagari": "चंजीय",
+        "latin": "Chanjeeya"
       },
       "type": "vocabulary_term"
     },
@@ -362,10 +434,12 @@
       "ref": "vocab-chanjeeya",
       "text": "ಸಂಜೆಯ",
       "translations": {
-        "en": "of the evening"
+        "en": "of the evening",
+        "hi": "शाम का"
       },
       "transliterations": {
-        "devanagari": "संजेय"
+        "devanagari": "संजेय",
+        "latin": "Sanjeya"
       },
       "type": "vocabulary_definition"
     },
@@ -373,10 +447,12 @@
       "id": "note-beesanige",
       "text": "ಬೀಸಣಿಗೆ",
       "translations": {
-        "en": "hand-fan"
+        "en": "hand-fan",
+        "hi": "हाथ का पंखा"
       },
       "transliterations": {
-        "devanagari": "बीसणिगे"
+        "devanagari": "बीसणिगे",
+        "latin": "Beesanige"
       },
       "type": "note_term"
     },
@@ -385,10 +461,12 @@
       "ref": "note-beesanige",
       "text": "ಗಾಳಿ ಬೀಸಿಕೊಳ್ಳಲು ಬಳಸುವ ಸಾಧನ.",
       "translations": {
-        "en": "An instrument used to fan oneself with air."
+        "en": "An instrument used to fan oneself with air.",
+        "hi": "हवा करने के लिए इस्तेमाल किया जाने वाला यंत्र।"
       },
       "transliterations": {
-        "devanagari": "गाळि बीसिकोळ्ळलु बळसुव साधन."
+        "devanagari": "गाळि बीसिकोळ्ळलु बळसुव साधन.",
+        "latin": "Gaali beesikollalu balasuva saadhana."
       },
       "type": "note_definition"
     },
@@ -396,10 +474,12 @@
       "id": "note-havala",
       "text": "ಹವಳ",
       "translations": {
-        "en": "coral"
+        "en": "coral",
+        "hi": "मूँगा"
       },
       "transliterations": {
-        "devanagari": "हवळ"
+        "devanagari": "हवळ",
+        "latin": "Havala"
       },
       "type": "note_term"
     },
@@ -408,10 +488,12 @@
       "ref": "note-havala",
       "text": "ಒಂದು ಜಾತಿಯ ಕೆಂಪು ಬಣ್ಣದ ಮಣಿ, ನವರತ್ನಗಳಲ್ಲಿ ಒಂದು. (ವಜ್ರ, ಮಾಣಿಕ್ಯ, ಮರಕತ, ಪುಷ್ಯರಾಗ, ನೀಲ, ಗೋಮೇಧಿಕ, ವೈಡೂರ್ಯ, ಮುತ್ತು, ಹವಳ)",
       "translations": {
-        "en": "A type of red-colored gem/bead; one of the nine gems (navaratna) — diamond, ruby, emerald, topaz, sapphire, hessonite (gomedhika), cat's eye (vaidurya), pearl, and coral."
+        "en": "A type of red-colored gem/bead; one of the nine gems (navaratna) — diamond, ruby, emerald, topaz, sapphire, hessonite (gomedhika), cat's eye (vaidurya), pearl, and coral.",
+        "hi": "एक प्रकार का लाल रंग का रत्न/मणि; नवरत्नों में से एक — हीरा, माणिक्य, पन्ना (मरकत), पुखराज, नीलम, गोमेद, वैडूर्य (लहसुनिया), मोती और मूँगा।"
       },
       "transliterations": {
-        "devanagari": "ओंदु जातिय केंपु बण्णद मणि, नवरत्नगळल्लि ओंदु. (वज्र, माणिक्य, मरकत, पुष्यराग, नील, गोमेधिक, वैडूर्य, मुत्तु, हवळ)"
+        "devanagari": "ओंदु जातिय केंपु बण्णद मणि, नवरत्नगळल्लि ओंदु. (वज्र, माणिक्य, मरकत, पुष्यराग, नील, गोमेधिक, वैडूर्य, मुत्तु, हवळ)",
+        "latin": "Ondu jaatiya kempu bannada mani, navaratnagalalli ondu. (Vajra, maanikya, marakata, pushyaraaga, neela, gomedhika, vaidoorya, muttu, havala)"
       },
       "type": "note_definition"
     },
@@ -420,10 +502,12 @@
       "id": "ex-a-q1",
       "text": "ತಾಯಿಯು ಕಂದನ ಅಂಗಾಲನ್ನು ಯಾವುದರಿಂದ ತೊಳೆಯುವುದಾಗಿ ಹೇಳುತ್ತಾಳೆ?",
       "translations": {
-        "en": "What does the mother say she will wash the child's soles with?"
+        "en": "What does the mother say she will wash the child's soles with?",
+        "hi": "माँ कहती है कि वह बच्चे के तलवे किससे धोएगी?"
       },
       "transliterations": {
-        "devanagari": "तायियु कंदन अंगालन्नु यावुदरिंद तोळेयुवुदागि हेळुत्ताळे?"
+        "devanagari": "तायियु कंदन अंगालन्नु यावुदरिंद तोळेयुवुदागि हेळुत्ताळे?",
+        "latin": "Taayiyu kandana angaalannu yaavudarinda toleyuvudaagi heluttaale?"
       },
       "type": "question"
     },
@@ -432,10 +516,12 @@
       "ref": "ex-a-q1",
       "text": "ಕಂದನ ಅಂಗಾಲನ್ನು ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುವುದಾಗಿ ಹೇಳುತ್ತಾಳೆ.",
       "translations": {
-        "en": "She says she will wash the child's soles with clear coconut water."
+        "en": "She says she will wash the child's soles with clear coconut water.",
+        "hi": "वह कहती है कि वह बच्चे के तलवे नारियल के निर्मल पानी से धोएगी।"
       },
       "transliterations": {
-        "devanagari": "कंदन अंगालन्नु तेंगिनकायि तिळिनीरिनिंद तोळेयुवुदागि हेळुत्ताळे."
+        "devanagari": "कंदन अंगालन्नु तेंगिनकायि तिळिनीरिनिंद तोळेयुवुदागि हेळुत्ताळे.",
+        "latin": "Kandana angaalannu tenginakaayi tilineerininda toleyuvudaagi heluttaale."
       },
       "type": "answer"
     },
@@ -444,10 +530,12 @@
       "id": "ex-a-q2",
       "text": "ಅಳುವ ಕಂದನ ತುಟಿಯನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ?",
       "translations": {
-        "en": "What is the crying child's lip compared to?"
+        "en": "What is the crying child's lip compared to?",
+        "hi": "रोते हुए बच्चे के होंठ की तुलना किससे की गई है?"
       },
       "transliterations": {
-        "devanagari": "अळुव कंदन तुटियन्नु यावुदक्के होलिसलागिदे?"
+        "devanagari": "अळुव कंदन तुटियन्नु यावुदक्के होलिसलागिदे?",
+        "latin": "Aluva kandana tutiyannu yaavudakke holisalaagide?"
       },
       "type": "question"
     },
@@ -456,10 +544,12 @@
       "ref": "ex-a-q2",
       "text": "ಅಳುವ ಕಂದನ ತುಟಿಯನ್ನು ಹವಳದ ಕುಡಿಗೆ ಹೋಲಿಸಲಾಗಿದೆ.",
       "translations": {
-        "en": "The crying child's lip is compared to a coral sprout."
+        "en": "The crying child's lip is compared to a coral sprout.",
+        "hi": "रोते हुए बच्चे के होंठ की तुलना मूँगे की कोंपल से की गई है।"
       },
       "transliterations": {
-        "devanagari": "अळुव कंदन तुटियन्नु हवळद कुडिगे होलिसलागिदे."
+        "devanagari": "अळुव कंदन तुटियन्नु हवळद कुडिगे होलिसलागिदे.",
+        "latin": "Aluva kandana tutiyannu havalada kudige holisalaagide."
       },
       "type": "answer"
     },
@@ -468,10 +558,12 @@
       "id": "ex-a-q3",
       "text": "ಅಳುವ ಕಂದನ ಕಣೋಟ ಹೇಗಿರುತ್ತದೆ?",
       "translations": {
-        "en": "What is the crying child's glance like?"
+        "en": "What is the crying child's glance like?",
+        "hi": "रोते हुए बच्चे की नज़र कैसी है?"
       },
       "transliterations": {
-        "devanagari": "अळुव कंदन कणोट हेगिरुत्तदे?"
+        "devanagari": "अळुव कंदन कणोट हेगिरुत्तदे?",
+        "latin": "Aluva kandana kanota hegiruttade?"
       },
       "type": "question"
     },
@@ -480,10 +572,12 @@
       "ref": "ex-a-q3",
       "text": "ಅಳುವ ಕಂದನ ಕಣೋಟ ಶಿವನ ಕೈಯಲಗಿನಂತೆ ಹೊಳೆಯುತ್ತದೆ.",
       "translations": {
-        "en": "The crying child's glance shines like the blade in Shiva's hand."
+        "en": "The crying child's glance shines like the blade in Shiva's hand.",
+        "hi": "रोते हुए बच्चे की नज़र शिव के हाथ की तलवार जैसी चमकती है।"
       },
       "transliterations": {
-        "devanagari": "अळुव कंदन कणोट शिवन कैयलगिनंते होळेयुत्तदे."
+        "devanagari": "अळुव कंदन कणोट शिवन कैयलगिनंते होळेयुत्तदे.",
+        "latin": "Aluva kandana kanota Shivana kaiyalaginante holeyuttade."
       },
       "type": "answer"
     },
@@ -492,10 +586,12 @@
       "id": "ex-a-q4",
       "text": "ಮಗು ಏನನ್ನು ತಂದು ನಿಲ್ಲಿಸೆಂದು ಕೇಳುತ್ತದೆ?",
       "translations": {
-        "en": "What does the child ask to be brought and set before it?"
+        "en": "What does the child ask to be brought and set before it?",
+        "hi": "बच्चा क्या लाकर सामने रखने के लिए कहता है?"
       },
       "transliterations": {
-        "devanagari": "मगु एनन्नु तंदु निल्लिसेंदु केळुत्तदे?"
+        "devanagari": "मगु एनन्नु तंदु निल्लिसेंदु केळुत्तदे?",
+        "latin": "Magu enannu tandu nillisendu keluttade?"
       },
       "type": "question"
     },
@@ -504,10 +600,12 @@
       "ref": "ex-a-q4",
       "text": "ಮಗು ಸಂಜೆಯ ಚಂದ್ರಮನನ್ನು ತಂದು ನಿಲ್ಲಿಸೆಂದು ಕೇಳುತ್ತದೆ.",
       "translations": {
-        "en": "The child asks for the evening moon to be brought and set before it."
+        "en": "The child asks for the evening moon to be brought and set before it.",
+        "hi": "बच्चा शाम का चाँद लाकर सामने रखने के लिए कहता है।"
       },
       "transliterations": {
-        "devanagari": "मगु संजेय चंद्रमनन्नु तंदु निल्लिसेंदु केळुत्तदे."
+        "devanagari": "मगु संजेय चंद्रमनन्नु तंदु निल्लिसेंदु केळुत्तदे.",
+        "latin": "Magu sanjeya chandramanannu tandu nillisendu keluttade."
       },
       "type": "answer"
     },
@@ -516,10 +614,12 @@
       "id": "ex-b-q1",
       "text": "ಅಳುವ ಕಂದನ ತುಟಿಯು ಹವಳದ ________",
       "translations": {
-        "en": "The crying child's lips are like a coral ________"
+        "en": "The crying child's lips are like a coral ________",
+        "hi": "रोते हुए बच्चे के होंठ मूँगे की ________ जैसे हैं"
       },
       "transliterations": {
-        "devanagari": "अळुव कंदन तुटियु हवळद ________"
+        "devanagari": "अळुव कंदन तुटियु हवळद ________",
+        "latin": "Aluva kandana tutiyu havalada ________"
       },
       "type": "fill_blank"
     },
@@ -528,10 +628,12 @@
       "ref": "ex-b-q1",
       "text": "ಕುಡಿಹಂಗ",
       "translations": {
-        "en": "sprout"
+        "en": "sprout",
+        "hi": "कोंपल"
       },
       "transliterations": {
-        "devanagari": "कुडिहंग"
+        "devanagari": "कुडिहंग",
+        "latin": "Kudihanga"
       },
       "type": "answer"
     },
@@ -540,10 +642,12 @@
       "id": "ex-b-q2",
       "text": "ಆಡಿ ಬಾ ನನ ಕಂದ ಅಂಗಾಲ ________",
       "translations": {
-        "en": "Come play, my child — I will ________ your little feet,"
+        "en": "Come play, my child — I will ________ your little feet,",
+        "hi": "आ खेल मेरे बच्चे — मैं तेरे नन्हे पैर ________"
       },
       "transliterations": {
-        "devanagari": "आडि बा नन कंद अंगाल ________"
+        "devanagari": "आडि बा नन कंद अंगाल ________",
+        "latin": "Aadi baa nana kanda angaala ________"
       },
       "type": "fill_blank"
     },
@@ -552,10 +656,12 @@
       "ref": "ex-b-q2",
       "text": "ತೊಳೆದೇನ",
       "translations": {
-        "en": "wash"
+        "en": "wash",
+        "hi": "धोऊँगी"
       },
       "transliterations": {
-        "devanagari": "तोळेदेन"
+        "devanagari": "तोळेदेन",
+        "latin": "Toledena"
       },
       "type": "answer"
     },
@@ -564,10 +670,12 @@
       "id": "ex-b-q3",
       "text": "ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ________",
       "translations": {
-        "en": "________, does a house with a little one need a hand-fan?"
+        "en": "________, does a house with a little one need a hand-fan?",
+        "hi": "________, बच्चे वाले घर को पंखे की ज़रूरत है क्या?"
       },
       "transliterations": {
-        "devanagari": "कूसु इद्द मनिगे बीसणिगे ________"
+        "devanagari": "कूसु इद्द मनिगे बीसणिगे ________",
+        "latin": "Koosu idda manige beesanige ________"
       },
       "type": "fill_blank"
     },
@@ -576,10 +684,12 @@
       "ref": "ex-b-q3",
       "text": "ಯಾತಕ",
       "translations": {
-        "en": "Why"
+        "en": "Why",
+        "hi": "क्यों"
       },
       "transliterations": {
-        "devanagari": "यातक"
+        "devanagari": "यातक",
+        "latin": "Yaataka"
       },
       "type": "answer"
     },
@@ -588,10 +698,12 @@
       "id": "ex-b-q4",
       "text": "ಕಂದಾನ ಕಿರಿಕಿರಿ ಇಂದೇನು ________",
       "translations": {
-        "en": "What can I ________ of the child's fussing today —"
+        "en": "What can I ________ of the child's fussing today —",
+        "hi": "बच्चे की ज़िद के बारे में आज मैं क्या ________"
       },
       "transliterations": {
-        "devanagari": "कंदान किरिकिरि इंदेनु ________"
+        "devanagari": "कंदान किरिकिरि इंदेनु ________",
+        "latin": "Kandaana kirikiri indenu ________"
       },
       "type": "fill_blank"
     },
@@ -600,10 +712,12 @@
       "ref": "ex-b-q4",
       "text": "ಹೇಳಲಿ",
       "translations": {
-        "en": "say"
+        "en": "say",
+        "hi": "कहूँ"
       },
       "transliterations": {
-        "devanagari": "हेळलि"
+        "devanagari": "हेळलि",
+        "latin": "Heelali"
       },
       "type": "answer"
     },
@@ -612,10 +726,12 @@
       "id": "ex-c-q1",
       "text": "ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆ ಬೇಡ. ಏಕೆ?",
       "translations": {
-        "en": "A house with a baby doesn't need a hand-fan. Why?"
+        "en": "A house with a baby doesn't need a hand-fan. Why?",
+        "hi": "बच्चे वाले घर को पंखे की ज़रूरत नहीं होती। क्यों?"
       },
       "transliterations": {
-        "devanagari": "कूसु इद्द मनेगे बीसणिगे बेड. एके?"
+        "devanagari": "कूसु इद्द मनेगे बीसणिगे बेड. एके?",
+        "latin": "Koosu idda manege beesanige beda. Eke?"
       },
       "type": "question"
     },
@@ -624,10 +740,12 @@
       "ref": "ex-c-q1",
       "text": "ಕೂಸು ಒಳಗೆ ಹೊರಗೆ ಆಡುತ್ತಿದ್ದರೆ ಸಾಕು, ಅದರಿಂದಲೇ ಗಾಳಿ ಬೀಸಿದಂತೆ ಆಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೂಸು ಇದ್ದ ಮನೆಗೆ ಬೀಸಣಿಗೆಯ ಅಗತ್ಯವಿಲ್ಲ.",
       "translations": {
-        "en": "It's enough that the baby plays in and out — that itself creates a breeze, as if a fan were blowing. So a house with a baby has no need for a hand-fan."
+        "en": "It's enough that the baby plays in and out — that itself creates a breeze, as if a fan were blowing. So a house with a baby has no need for a hand-fan.",
+        "hi": "बच्चे का भीतर-बाहर खेलना ही काफ़ी है, उसी से हवा ऐसे बहती है जैसे पंखा चल रहा हो। इसलिए बच्चे वाले घर को पंखे की ज़रूरत नहीं होती।"
       },
       "transliterations": {
-        "devanagari": "कूसु ओळगे होरगे आडुत्तिद्दरे साकु, अदरिंदले गाळि बीसिदंते आगुत्तदे. आद्दरिंद कूसु इद्द मनेगे बीसणिगेय अगत्यविल्ल."
+        "devanagari": "कूसु ओळगे होरगे आडुत्तिद्दरे साकु, अदरिंदले गाळि बीसिदंते आगुत्तदे. आद्दरिंद कूसु इद्द मनेगे बीसणिगेय अगत्यविल्ल.",
+        "latin": "Koosu olage horage aaduttiddare saaku, adarindalee gaali beesidante aaguttade. Addarinda koosu idda manege beesanigeya agatyavilla."
       },
       "type": "answer"
     },
@@ -636,10 +754,12 @@
       "id": "ex-c-q2",
       "text": "ಆಡಿ ಬರುವ ಕಂದನನ್ನು ತಾಯಿ ಹೇಗೆ ಉಪಚರಿಸುವಳು?",
       "translations": {
-        "en": "How does the mother take care of the child who comes back from playing?"
+        "en": "How does the mother take care of the child who comes back from playing?",
+        "hi": "खेलकर लौटे बच्चे की माँ किस तरह देखभाल करती है?"
       },
       "transliterations": {
-        "devanagari": "आडि बरुव कंदनन्नु तायि हेगे उपचरिसुवळु?"
+        "devanagari": "आडि बरुव कंदनन्नु तायि हेगे उपचरिसुवळु?",
+        "latin": "Aadi baruva kandanannu taayi hege upacharisuvalu?"
       },
       "type": "question"
     },
@@ -648,10 +768,12 @@
       "ref": "ex-c-q2",
       "text": "ಆಡಿ ಬರುವ ಕಂದನ ಅಂಗಾಲನ್ನು ತಾಯಿ ತೆಂಗಿನಕಾಯಿ ತಿಳಿನೀರಿನಿಂದ ತೊಳೆಯುತ್ತಾಳೆ. ಅದೇ ನೀರಿನಿಂದ ಅವನ ಬಂಗಾರದಂತಹ ಮುಖವನ್ನೂ ತೊಳೆಯುತ್ತಾಳೆ.",
       "translations": {
-        "en": "The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face."
+        "en": "The mother washes the returning child's feet with clear coconut water. With the same water, she also washes his golden-like face.",
+        "hi": "माँ लौटे हुए बच्चे के पैर नारियल के निर्मल पानी से धोती है। उसी पानी से वह उसका सुनहरे जैसा चेहरा भी धोती है।"
       },
       "transliterations": {
-        "devanagari": "आडि बरुव कंदन अंगालन्नु तायि तेंगिनकायि तिळिनीरिनिंद तोळेयुत्ताळे. अदे नीरिनिंद अवन बंगारदंतह मुखवन्नू तोळेयुत्ताळे."
+        "devanagari": "आडि बरुव कंदन अंगालन्नु तायि तेंगिनकायि तिळिनीरिनिंद तोळेयुत्ताळे. अदे नीरिनिंद अवन बंगारदंतह मुखवन्नू तोळेयुत्ताळे.",
+        "latin": "Aadi baruva kandana angaalannu taayi tenginakaayi tilineerininda toleyuttaale. Adee neerininda avana bangaaradantaha mukhavannoo toleyuttaale."
       },
       "type": "answer"
     },
@@ -660,10 +782,12 @@
       "id": "ex-d-q1",
       "text": "ಮಗು ಏಕೆ ನಗುತ್ತಿರಬಹುದು?",
       "translations": {
-        "en": "Why might the baby be laughing?"
+        "en": "Why might the baby be laughing?",
+        "hi": "बच्चा क्यों हँस रहा होगा?"
       },
       "transliterations": {
-        "devanagari": "मगु एके नगुत्तिरबहुदु?"
+        "devanagari": "मगु एके नगुत्तिरबहुदु?",
+        "latin": "Magu eke naguttirabahudu?"
       },
       "type": "question"
     },
@@ -672,10 +796,12 @@
       "id": "ex-e-q1",
       "text": "ಬಂಗಾರ",
       "translations": {
-        "en": "gold"
+        "en": "gold",
+        "hi": "सोना"
       },
       "transliterations": {
-        "devanagari": "बंगार"
+        "devanagari": "बंगार",
+        "latin": "Bangaara"
       },
       "type": "question"
     },
@@ -684,10 +810,12 @@
       "ref": "ex-e-q1",
       "text": "ಚಿನ್ನ, ಕನಕ",
       "translations": {
-        "en": "chinna, kanaka (both mean gold)"
+        "en": "chinna, kanaka (both mean gold)",
+        "hi": "चिन्न, कनक (दोनों का अर्थ सोना है)"
       },
       "transliterations": {
-        "devanagari": "चिन्न, कनक"
+        "devanagari": "चिन्न, कनक",
+        "latin": "Chinna, kanaka"
       },
       "type": "answer"
     },
@@ -696,10 +824,12 @@
       "id": "ex-e-q2",
       "text": "ಕೂಸು",
       "translations": {
-        "en": "baby"
+        "en": "baby",
+        "hi": "बच्चा"
       },
       "transliterations": {
-        "devanagari": "कूसु"
+        "devanagari": "कूसु",
+        "latin": "Koosu"
       },
       "type": "question"
     },
@@ -708,10 +838,12 @@
       "id": "ex-f-q1",
       "text": "ಕೂಸು ಇದ್ದ ಮನಿಗೆ ಬೀಸಣಿಗೆ ಯಾತಕ?",
       "translations": {
-        "en": "Why would a house with a little one need a hand-fan?"
+        "en": "Why would a house with a little one need a hand-fan?",
+        "hi": "बच्चे वाले घर को पंखे की ज़रूरत क्यों होगी?"
       },
       "transliterations": {
-        "devanagari": "कूसु इद्द मनिगे बीसणिगे यातक?"
+        "devanagari": "कूसु इद्द मनिगे बीसणिगे यातक?",
+        "latin": "Koosu idda manige beesanige yaataka?"
       },
       "type": "question"
     },
@@ -720,10 +852,12 @@
       "ref": "ex-f-q1",
       "text": "ಮನೆಗೆ",
       "translations": {
-        "en": "to the house — standard form of the dialect ಮನಿಗೆ"
+        "en": "to the house — standard form of the dialect ಮನಿಗೆ",
+        "hi": "घर को — बोली रूप 'मनिगे' का मानक रूप"
       },
       "transliterations": {
-        "devanagari": "मनेगे"
+        "devanagari": "मनेगे",
+        "latin": "Manege"
       },
       "type": "answer"
     },
@@ -732,10 +866,12 @@
       "id": "ex-f-q2",
       "text": "ಬಂಗಾರ ಮಾರಿ ತೊಳೆದೇನ",
       "translations": {
-        "en": "I will wash your golden face"
+        "en": "I will wash your golden face",
+        "hi": "मैं तेरा सुनहरा चेहरा धोऊँगी"
       },
       "transliterations": {
-        "devanagari": "बंगार मारि तोळेदेन"
+        "devanagari": "बंगार मारि तोळेदेन",
+        "latin": "Bangaara maari toledena"
       },
       "type": "question"
     },
@@ -744,10 +880,12 @@
       "id": "ex-f-q3",
       "text": "ಬೀಸಣಿಗೆ ಗಾಳಿ ಸುಳಿದಾವ",
       "translations": {
-        "en": "the breeze stirs like a fan"
+        "en": "the breeze stirs like a fan",
+        "hi": "हवा पंखे जैसी बहती है"
       },
       "transliterations": {
-        "devanagari": "बीसणिगे गाळि सुळिदाव"
+        "devanagari": "बीसणिगे गाळि सुळिदाव",
+        "latin": "Beesanige gaali suliidaava"
       },
       "type": "question"
     },
@@ -756,10 +894,12 @@
       "id": "ex-f-q4",
       "text": "ಚಂಜೀಯ ಚಂದ್ರಮನ ನಿಲಿಸೆಂದಾ",
       "translations": {
-        "en": "it said to bring and set up the evening moon"
+        "en": "it said to bring and set up the evening moon",
+        "hi": "उसने शाम का चाँद लाकर रखने को कहा"
       },
       "transliterations": {
-        "devanagari": "चंजीय चंद्रमन निलिसेंदा"
+        "devanagari": "चंजीय चंद्रमन निलिसेंदा",
+        "latin": "Chanjeeya chandramana nilisendaa"
       },
       "type": "question"
     },
@@ -768,10 +908,12 @@
       "ref": "ex-f-q4",
       "text": "ಸಂಜೆಯ",
       "translations": {
-        "en": "of the evening — standard form of the dialect ಚಂಜೀಯ"
+        "en": "of the evening — standard form of the dialect ಚಂಜೀಯ",
+        "hi": "शाम का — बोली रूप 'चंजीय' का मानक रूप"
       },
       "transliterations": {
-        "devanagari": "संजेय"
+        "devanagari": "संजेय",
+        "latin": "Sanjeya"
       },
       "type": "answer"
     },
@@ -780,10 +922,12 @@
       "id": "ex-g-q0",
       "text": "ಹೊಳೆದ್ದಂಗ",
       "translations": {
-        "en": "shone (dialect form)"
+        "en": "shone (dialect form)",
+        "hi": "चमका (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "होळेद्दंग"
+        "devanagari": "होळेद्दंग",
+        "latin": "Holeddanga"
       },
       "type": "question"
     },
@@ -792,10 +936,12 @@
       "ref": "ex-g-q0",
       "text": "ಹೊಳೆದ ಹಾಗೆ",
       "translations": {
-        "en": "as if it shone"
+        "en": "as if it shone",
+        "hi": "मानो चमका हो"
       },
       "transliterations": {
-        "devanagari": "होळेद हागे"
+        "devanagari": "होळेद हागे",
+        "latin": "Holeda haage"
       },
       "type": "answer"
     },
@@ -804,10 +950,12 @@
       "id": "ex-g-q1",
       "text": "ಕುಡಿಹಂಗ",
       "translations": {
-        "en": "sprout (dialect form)"
+        "en": "sprout (dialect form)",
+        "hi": "कोंपल (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "कुडिहंग"
+        "devanagari": "कुडिहंग",
+        "latin": "Kudihanga"
       },
       "type": "question"
     },
@@ -816,10 +964,12 @@
       "ref": "ex-g-q1",
       "text": "ಕುಡಿ ಹಾಗೆ",
       "translations": {
-        "en": "like a sprout"
+        "en": "like a sprout",
+        "hi": "कोंपल जैसा"
       },
       "transliterations": {
-        "devanagari": "कुडि हागे"
+        "devanagari": "कुडि हागे",
+        "latin": "Kudi haage"
       },
       "type": "answer"
     },
@@ -828,10 +978,12 @@
       "id": "ex-g-q2",
       "text": "ಎಸಳಂಗ",
       "translations": {
-        "en": "petal (dialect form)"
+        "en": "petal (dialect form)",
+        "hi": "पंखुड़ी (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "एसळंग"
+        "devanagari": "एसळंग",
+        "latin": "Esalanga"
       },
       "type": "question"
     },
@@ -840,10 +992,12 @@
       "ref": "ex-g-q2",
       "text": "ಎಸಳ ಹಾಗೆ",
       "translations": {
-        "en": "like a petal"
+        "en": "like a petal",
+        "hi": "पंखुड़ी जैसा"
       },
       "transliterations": {
-        "devanagari": "एसळ हागे"
+        "devanagari": "एसळ हागे",
+        "latin": "Esala haage"
       },
       "type": "answer"
     },
@@ -852,10 +1006,12 @@
       "id": "ex-g-q3",
       "text": "ನೆನೆದ್ದಂಗ",
       "translations": {
-        "en": "soaked (dialect form)"
+        "en": "soaked (dialect form)",
+        "hi": "भीगा (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "नेनेद्दंग"
+        "devanagari": "नेनेद्दंग",
+        "latin": "Neneddanga"
       },
       "type": "question"
     },
@@ -864,10 +1020,12 @@
       "ref": "ex-g-q3",
       "text": "ನೆನೆದ ಹಾಗೆ",
       "translations": {
-        "en": "as if it soaked"
+        "en": "as if it soaked",
+        "hi": "मानो भीगा हो"
       },
       "transliterations": {
-        "devanagari": "नेनेद हागे"
+        "devanagari": "नेनेद हागे",
+        "latin": "Neneda haage"
       },
       "type": "answer"
     },
@@ -876,10 +1034,12 @@
       "id": "ex-g-q4",
       "text": "ಬಂದ್ದಂಗ",
       "translations": {
-        "en": "came (dialect form)"
+        "en": "came (dialect form)",
+        "hi": "आया (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "बंद्दंग"
+        "devanagari": "बंद्दंग",
+        "latin": "Banddanga"
       },
       "type": "question"
     },
@@ -888,10 +1048,12 @@
       "ref": "ex-g-q4",
       "text": "ಬಂದ ಹಾಗೆ",
       "translations": {
-        "en": "as if it came"
+        "en": "as if it came",
+        "hi": "मानो आया हो"
       },
       "transliterations": {
-        "devanagari": "बंद हागे"
+        "devanagari": "बंद हागे",
+        "latin": "Banda haage"
       },
       "type": "answer"
     },
@@ -900,10 +1062,12 @@
       "id": "ex-g-q5",
       "text": "ಕುಳಿತಂಗ",
       "translations": {
-        "en": "sat (dialect form)"
+        "en": "sat (dialect form)",
+        "hi": "बैठा (बोली रूप)"
       },
       "transliterations": {
-        "devanagari": "कुळितंग"
+        "devanagari": "कुळितंग",
+        "latin": "Kulitanga"
       },
       "type": "question"
     },
@@ -912,10 +1076,12 @@
       "ref": "ex-g-q5",
       "text": "ಕುಳಿತ ಹಾಗೆ",
       "translations": {
-        "en": "as if seated"
+        "en": "as if seated",
+        "hi": "मानो बैठा हो"
       },
       "transliterations": {
-        "devanagari": "कुळित हागे"
+        "devanagari": "कुळित हागे",
+        "latin": "Kulita haage"
       },
       "type": "answer"
     }

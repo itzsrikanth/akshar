@@ -1,0 +1,123 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: itzsrikanth
+  license: CC BY 4.0
+
+labels:
+  competency: Samarthya
+  intro: Pravesha
+  poem: Padya
+  vocab: Padagala Artha
+  notes: Tippani
+  exercise-A: Abhyaasa A
+  exercise-B: Abhyaasa Aa
+  exercise-C: Abhyaasa I
+  exercise-D: Bhaashaabhyaasa Aa
+  exercise-E: Bhaasha Chatuvatike A
+  exercise-F: Bhaasha Chatuvatike Aa
+  exercise-G: Bhaasha Chatuvatike I
+
+# ── ಸಾಮರ್ಥ್ಯ
+competency: Uktalekhanada moolaka aparichita padagalannu bareyuvudu.
+
+# ── ಪ್ರವೇಶ
+intro-1: Maneyalli appa, amma, ajja, ajji mattitararu makkalannu preeti maatugalinda muddisuvudannu neenu nodirabahudu.
+intro-2: Adee reeti ninnannoo muddu maadirabahudu nenapisiko.
+intro-3: Illi preeti maatugalinda muddisuva sandarbhavide.
+intro-4: Adannu ninna anubhavadondige hondisi nodu.
+
+# ── ಪದ್ಯ: ಕಂದ
+poem-s1l1: Koosu idda manige beesanige yaataka koosu kandayya ola horaga.
+poem-s1l2: Aadidara beesanige gaali suliidaava.
+
+poem-s2l1: Aadi baa nana kanda angaala toledena tengina kaayi tilineera.
+poem-s2l2: Takkondu bangaara maari toledena.
+
+poem-s3l1: Aluva kandana tutiyu havalada kudihanga kudihubbu bevinesalanga.
+poem-s3l2: Kanota Shivana kaiyalagu holeddanga.
+
+poem-s4l1: Kandaana kirikiri indenu heelali bindige haalu surivanda.
+poem-s4l2: Chanjeeya 'chandramana tandu nilisendaa.
+
+# ── ಪದಗಳ ಅರ್ಥ
+vocab-kudi: Kudi
+vocab-kudi-def: Chiguru
+vocab-alagu: Alagu
+vocab-alagu-def: Kattiya anchu
+vocab-esalu: Esalu
+vocab-esalu-def: Hoovina dala
+vocab-kirikiri: Kirikiri
+vocab-kirikiri-def: Kaata
+vocab-bangara: Bangaara
+vocab-bangara-def: Chinna
+vocab-chanjeeya: Chanjeeya
+vocab-chanjeeya-def: Sanjeya
+
+# ── ಟಿಪ್ಪಣಿ
+note-beesanige: Beesanige
+note-beesanige-def: Gaali beesikollalu balasuva saadhana.
+note-havala: Havala
+note-havala-def: >-
+  Ondu jaatiya kempu bannada mani, navaratnagalalli ondu. (Vajra, maanikya, marakata,
+  pushyaraaga, neela, gomedhika, vaidoorya, muttu, havala)
+
+# ── ಅಭ್ಯಾಸ ಅ)
+ex-a-q1: Taayiyu kandana angaalannu yaavudarinda toleyuvudaagi heluttaale?
+ex-a-q1-ans: Kandana angaalannu tenginakaayi tilineerininda toleyuvudaagi heluttaale.
+ex-a-q2: Aluva kandana tutiyannu yaavudakke holisalaagide?
+ex-a-q2-ans: Aluva kandana tutiyannu havalada kudige holisalaagide.
+ex-a-q3: Aluva kandana kanota hegiruttade?
+ex-a-q3-ans: Aluva kandana kanota Shivana kaiyalaginante holeyuttade.
+ex-a-q4: Magu enannu tandu nillisendu keluttade?
+ex-a-q4-ans: Magu sanjeya chandramanannu tandu nillisendu keluttade.
+
+# ── ಅಭ್ಯಾಸ ಆ)
+ex-b-q1: Aluva kandana tutiyu havalada ________
+ex-b-q1-ans: Kudihanga
+ex-b-q2: Aadi baa nana kanda angaala ________
+ex-b-q2-ans: Toledena
+ex-b-q3: Koosu idda manige beesanige ________
+ex-b-q3-ans: Yaataka
+ex-b-q4: Kandaana kirikiri indenu ________
+ex-b-q4-ans: Heelali
+
+# ── ಅಭ್ಯಾಸ ಇ)
+ex-c-q1: Koosu idda manege beesanige beda. Eke?
+ex-c-q1-ans: >-
+  Koosu olage horage aaduttiddare saaku, adarindalee gaali beesidante aaguttade. Addarinda
+  koosu idda manege beesanigeya agatyavilla.
+ex-c-q2: Aadi baruva kandanannu taayi hege upacharisuvalu?
+ex-c-q2-ans: >-
+  Aadi baruva kandana angaalannu taayi tenginakaayi tilineerininda toleyuttaale. Adee
+  neerininda avana bangaaradantaha mukhavannoo toleyuttaale.
+
+# ── ಭಾಷಾಭ್ಯಾಸ ಆ)
+ex-d-q1: Magu eke naguttirabahudu?
+
+# ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ)
+ex-e-q1: Bangaara
+ex-e-q1-ans: "Chinna, kanaka"
+ex-e-q2: Koosu
+
+# ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ)
+ex-f-q1: Koosu idda manige beesanige yaataka?
+ex-f-q1-ans: Manege
+ex-f-q2: Bangaara maari toledena
+ex-f-q3: Beesanige gaali suliidaava
+ex-f-q4: Chanjeeya chandramana nilisendaa
+ex-f-q4-ans: Sanjeya
+
+# ── ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ)
+ex-g-q0: Holeddanga
+ex-g-q0-ans: Holeda haage
+ex-g-q1: Kudihanga
+ex-g-q1-ans: Kudi haage
+ex-g-q2: Esalanga
+ex-g-q2-ans: Esala haage
+ex-g-q3: Neneddanga
+ex-g-q3-ans: Neneda haage
+ex-g-q4: Banddanga
+ex-g-q4-ans: Banda haage
+ex-g-q5: Kulitanga
+ex-g-q5-ans: Kulita haage

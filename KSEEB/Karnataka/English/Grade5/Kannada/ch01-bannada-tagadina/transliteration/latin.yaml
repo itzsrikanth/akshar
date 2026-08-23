@@ -1,0 +1,113 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: itzsrikanth
+  license: CC BY 4.0
+
+labels:
+  competency: Samarthya
+  intro: Pravesha
+  poem: Kavana
+  vocab: Padagala Artha
+  notes: Tippani
+  exercise-A: Abhyaasa A
+  exercise-B: Abhyaasa Aa
+  exercise-C: Abhyaasa I
+
+# ── ಸಾಮರ್ಥ್ಯ
+competency: Pathyavannu oodida mele yaaru? Yaavaaga? Elli? Enu? Eke? Emba prashnegalige uttarisuvudu.
+
+# ── ಪ್ರವೇಶ
+intro-1: "Santosha, duhkha, novu — ee anubhavagalu ninagoo aagirabahudallave?"
+intro-2: Ninna ondu anubhavavannu nenepisiko.
+intro-3: Adakke ondu kaaranavoo irabekallave?
+intro-4: Eega illina ghataneyannu gamanisu.
+intro-5: Santosha haagoo duhkhakke kaaranavaada sandarbhagalannu gurutisu.
+
+# ── ಕವನ: ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ
+poem-s1l1: Bannada tagadina tutturi
+poem-s1l2: Kaasige kondanu Kasturi
+poem-s1l3: Sarigamapadanisa oodidanu
+poem-s1l4: Sanidapa magarisa oodidanu
+
+poem-s2l1: Tanagee tutturi ideyenda
+poem-s2l2: Beraarigu adu illenda
+poem-s2l3: Kasturi nadedanu biidiyali
+poem-s2l4: Jambhada koliya riitiyali
+
+poem-s3l1: Tutturiyooduta kolada bali
+poem-s3l2: Nadedanu Kasturi sanjeyali
+poem-s3l3: Jaaritu neerige tutturi
+poem-s3l4: Gantalu kattitu neeroori
+
+poem-s4l1: Sarigama oodalu nodidanu
+poem-s4l2: Gagagaga saddanu maadidanu
+poem-s4l3: Bannavu neerina paalaaytu
+poem-s4l4: Bannada tutturi bolaaytu
+
+poem-s5l1: Bannada tutturi haalaaytu
+poem-s5l2: Jambhada kolige golaaytu
+
+# ── ಪದಗಳ ಅರ್ಥ
+vocab-kaasu: Kaasu
+vocab-kaasu-def: Hana
+vocab-jambha: Jambha
+vocab-jambha-def: Ahankaara
+vocab-halaagu: Haalaagu
+vocab-halaagu-def: Kettuhogu
+vocab-saddu: Saddu
+vocab-saddu-def: Sappala
+vocab-sanje: Sanje
+vocab-sanje-def: Saayankaala
+
+# ── ಟಿಪ್ಪಣಿ
+note-tagadu: Tagadu
+note-tagadu-def: Teluvaada lohada haale
+note-kola: Kola
+note-kola-def: "Neerina taana, kere"
+note-tutturi: Tutturi
+note-tutturi-def: Ooduva vaadya
+note-sarigama: Sarigamapadani
+note-sarigama-def: Sangeetada elu svaragalu
+
+# ── ಅಭ್ಯಾಸ ಅ)
+ex-a-q1: Kasturiyu enannu kondanu?
+ex-a-q1-ans: Kasturiyu bannada tagadina tutturiyannu kondanu.
+ex-a-q2: Kasturi elli tutturi oodidanu?
+ex-a-q2-ans: Kasturi kolada bali tutturi oodidanu.
+ex-a-q3: Kasturiyu tutturiyannu yaavaaga oodidanu?
+ex-a-q3-ans: Kasturiyu tutturiyannu sanjeyali oodidanu.
+ex-a-q4: Jambhada koli yaaru?
+ex-a-q4-ans: Jambhada koli Kasturiye.
+ex-a-q5: Jambhada kolige eke golaayitu?
+ex-a-q5-ans: Tutturi neerige jaari haalaaddarinda jambhada kolige golaayitu.
+ex-a-q6: Tutturi enaayitu?
+ex-a-q6-ans: "Tutturi neerige jaari, banna kaledukondu haalaayitu."
+
+# ── ಅಭ್ಯಾಸ ಆ)
+ex-b-q1: Bannada tagadina ________
+ex-b-q1-ans: Tutturi
+ex-b-q2: Kasturi nadedanu ________
+ex-b-q2-ans: Biidiyali
+ex-b-q3: ________ neerige tutturi
+ex-b-q3-ans: Jaaritu
+ex-b-q4: Bannada tutturi ________
+ex-b-q4-ans: Haalaaytu
+
+# ── ಅಭ್ಯಾಸ ಇ) passage
+ex-c-p1: Beerurinalli Ramanna emba kattige vyaapaariyu vaasisuttiddanu.
+ex-c-p2: Avanu tumbaa badavanaagiddanu.
+ex-c-p3: Avanu prati dina belagge kaadige hogi ona maravannu kadidu taruttiddanu.
+ex-c-p4: Peteyalli kattige maari jeevana nadesuttiddanu.
+ex-c-p5: Avanu endoo hasi maravannu kadidavanalla.
+ex-c-p6: Idakkaagi ivanige vanadevateyu akshaya paatreyannu needidalu.
+ex-c-p7: Idarinda Ramanna shreemantanaadanu.
+
+ex-c-q1: Ramanna yaaru?
+ex-c-q1-ans: Ramanna Beeruriina obba kattige vyaapaari.
+ex-c-q2: Ramanna elli vaasisuttiddanu?
+ex-c-q2-ans: Beeruru
+ex-c-q3: Ramanna yaavaaga kaadige hoguttiddanu?
+ex-c-q3-ans: Pratidina belagge
+ex-c-q4: Vanadevateyu Ramannanige akshaya paatreyannu eke needidalu?
+ex-c-q4-ans: Avanu endoo hasi maravannu kadidavanalla.

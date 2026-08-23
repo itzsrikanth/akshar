@@ -3,42 +3,58 @@
     "competency": {
       "devanagari": "सामर्थ्य",
       "en": "Competency",
-      "kn": "ಸಾಮರ್ಥ್ಯ"
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Samarthya"
     },
     "exercise-A": {
       "devanagari": "अभ्यास अ",
       "en": "Exercise A",
-      "kn": "ಅಭ್ಯಾಸ ಅ"
+      "hi": "अभ्यास अ",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "Abhyaasa A"
     },
     "exercise-B": {
       "devanagari": "अभ्यास आ",
       "en": "Exercise B",
-      "kn": "ಅಭ್ಯಾಸ ಆ"
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "Abhyaasa Aa"
     },
     "exercise-C": {
       "devanagari": "अभ्यास इ",
       "en": "Exercise C",
-      "kn": "ಅಭ್ಯಾಸ ಇ"
+      "hi": "अभ्यास इ",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "Abhyaasa I"
     },
     "intro": {
       "devanagari": "प्रवेश",
       "en": "Introduction",
-      "kn": "ಪ್ರವೇಶ"
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "Pravesha"
     },
     "notes": {
       "devanagari": "टिप्पणि",
       "en": "Notes",
-      "kn": "ಟಿಪ್ಪಣಿ"
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
     },
     "poem": {
       "devanagari": "कवन",
       "en": "Poem",
-      "kn": "ಕವನ"
+      "hi": "कविता",
+      "kn": "ಕವನ",
+      "latin": "Kavana"
     },
     "vocab": {
       "devanagari": "पदगळ अर्थ",
       "en": "Word Meanings",
-      "kn": "ಪದಗಳ ಅರ್ಥ"
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala Artha"
     }
   },
   "meta": {
@@ -60,10 +76,12 @@
       "id": "competency",
       "text": "ಪಠ್ಯವನ್ನು ಓದಿದ ಮೇಲೆ ಯಾರು? ಯಾವಾಗ? ಎಲ್ಲಿ? ಏನು? ಏಕೆ? ಎಂಬ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸುವುದು.",
       "translations": {
-        "en": "After reading the text, to answer the questions — Who? When? Where? What? Why?"
+        "en": "After reading the text, to answer the questions — Who? When? Where? What? Why?",
+        "hi": "पाठ पढ़ने के बाद कौन? कब? कहाँ? क्या? क्यों? इन प्रश्नों के उत्तर देना."
       },
       "transliterations": {
-        "devanagari": "पठ्यवन्नु ओदिद मेले यारु? यावाग? एल्लि? एनु? एके? एंब प्रश्नेगळिगे उत्तरिसुवुदु."
+        "devanagari": "पठ्यवन्नु ओदिद मेले यारु? यावाग? एल्लि? एनु? एके? एंब प्रश्नेगळिगे उत्तरिसुवुदु.",
+        "latin": "Pathyavannu oodida mele yaaru? Yaavaaga? Elli? Enu? Eke? Emba prashnegalige uttarisuvudu."
       },
       "type": "competency"
     },
@@ -72,10 +90,12 @@
       "section": "intro",
       "text": "ಸಂತೋಷ, ದುಃಖ, ನೋವು — ಈ ಅನುಭವಗಳು ನಿನಗೂ ಆಗಿರಬಹುದಲ್ಲವೇ?",
       "translations": {
-        "en": "Joy, sorrow, pain — haven't these experiences happened to you too?"
+        "en": "Joy, sorrow, pain — haven't these experiences happened to you too?",
+        "hi": "खुशी, दुःख, दर्द — ये अनुभव तुम्हें भी हुए होंगे, है ना?"
       },
       "transliterations": {
-        "devanagari": "सन्तोष, दुःख, नोवु — ई अनुभवगळु निनगू आगिरबहुदल्लवे?"
+        "devanagari": "सन्तोष, दुःख, नोवु — ई अनुभवगळु निनगू आगिरबहुदल्लवे?",
+        "latin": "Santosha, duhkha, novu — ee anubhavagalu ninagoo aagirabahudallave?"
       },
       "type": "prose"
     },
@@ -84,10 +104,12 @@
       "section": "intro",
       "text": "ನಿನ್ನ ಒಂದು ಅನುಭವವನ್ನು ನೆನೆಪಿಸಿಕೊ.",
       "translations": {
-        "en": "Recall one experience of your own."
+        "en": "Recall one experience of your own.",
+        "hi": "अपने एक अनुभव को याद करो."
       },
       "transliterations": {
-        "devanagari": "निन्न ओन्दु अनुभववन्नु नेनेपिसिको."
+        "devanagari": "निन्न ओन्दु अनुभववन्नु नेनेपिसिको.",
+        "latin": "Ninna ondu anubhavavannu nenepisiko."
       },
       "type": "prose"
     },
@@ -96,10 +118,12 @@
       "section": "intro",
       "text": "ಅದಕ್ಕೆ ಒಂದು ಕಾರಣವೂ ಇರಬೇಕಲ್ಲವೇ?",
       "translations": {
-        "en": "There must be a reason for it, mustn't there?"
+        "en": "There must be a reason for it, mustn't there?",
+        "hi": "उसके पीछे कोई कारण भी होगा, है ना?"
       },
       "transliterations": {
-        "devanagari": "अदक्के ओन्दु कारणवू इरबेकल्लवे?"
+        "devanagari": "अदक्के ओन्दु कारणवू इरबेकल्लवे?",
+        "latin": "Adakke ondu kaaranavoo irabekallave?"
       },
       "type": "prose"
     },
@@ -108,10 +132,12 @@
       "section": "intro",
       "text": "ಈಗ ಇಲ್ಲಿನ ಘಟನೆಯನ್ನು ಗಮನಿಸು.",
       "translations": {
-        "en": "Now observe the incident described here."
+        "en": "Now observe the incident described here.",
+        "hi": "अब यहाँ दी गई घटना को ध्यान से देखो."
       },
       "transliterations": {
-        "devanagari": "ईग इल्लिन घटनेयन्नु गमनिसु."
+        "devanagari": "ईग इल्लिन घटनेयन्नु गमनिसु.",
+        "latin": "Eega illina ghataneyannu gamanisu."
       },
       "type": "prose"
     },
@@ -120,10 +146,12 @@
       "section": "intro",
       "text": "ಸಂತೋಷ ಹಾಗೂ ದುಃಖಕ್ಕೆ ಕಾರಣವಾದ ಸಂದರ್ಭಗಳನ್ನು ಗುರುತಿಸು.",
       "translations": {
-        "en": "Identify the situations that caused happiness and sadness."
+        "en": "Identify the situations that caused happiness and sadness.",
+        "hi": "खुशी और दुःख का कारण बनी परिस्थितियों को पहचानो."
       },
       "transliterations": {
-        "devanagari": "सन्तोष हागू दुःखक्के कारणवाद सन्दर्भगळन्नु गुरुतिसु."
+        "devanagari": "सन्तोष हागू दुःखक्के कारणवाद सन्दर्भगळन्नु गुरुतिसु.",
+        "latin": "Santosha haagoo duhkhakke kaaranavaada sandarbhagalannu gurutisu."
       },
       "type": "prose"
     },
@@ -132,10 +160,12 @@
       "stanza": 1,
       "text": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ",
       "translations": {
-        "en": "The colorful tin trumpet,"
+        "en": "The colorful tin trumpet,",
+        "hi": "रंग-बिरंगी टीन की तुरही,"
       },
       "transliterations": {
-        "devanagari": "बण्णद तगडिन तुत्तूरि"
+        "devanagari": "बण्णद तगडिन तुत्तूरि",
+        "latin": "Bannada tagadina tutturi"
       },
       "type": "poem_line"
     },
@@ -144,10 +174,12 @@
       "stanza": 1,
       "text": "ಕಾಸಿಗೆ ಕೊಂಡನು ಕಸ್ತೂರಿ",
       "translations": {
-        "en": "Kasturi bought it for a coin."
+        "en": "Kasturi bought it for a coin.",
+        "hi": "कस्तूरी ने एक सिक्के में खरीदी।"
       },
       "transliterations": {
-        "devanagari": "कासिगे कोण्डनु कस्तूरि"
+        "devanagari": "कासिगे कोण्डनु कस्तूरि",
+        "latin": "Kaasige kondanu Kasturi"
       },
       "type": "poem_line"
     },
@@ -156,10 +188,12 @@
       "stanza": 1,
       "text": "ಸರಿಗಮಪದನಿಸ ಊದಿದನು",
       "translations": {
-        "en": "He blew Sa-Ri-Ga-Ma-Pa-Da-Ni-Sa (ascending notes)."
+        "en": "He blew Sa-Ri-Ga-Ma-Pa-Da-Ni-Sa (ascending notes).",
+        "hi": "उसने सा-रि-ग-म-प-द-नि-सा (आरोही स्वर) बजाई,"
       },
       "transliterations": {
-        "devanagari": "सरिगमपदनिस ऊदिदनु"
+        "devanagari": "सरिगमपदनिस ऊदिदनु",
+        "latin": "Sarigamapadanisa oodidanu"
       },
       "type": "poem_line"
     },
@@ -168,10 +202,12 @@
       "stanza": 1,
       "text": "ಸನಿದಪ ಮಗರಿಸ ಊದಿದನು",
       "translations": {
-        "en": "He blew Sa-Ni-Da-Pa-Ma-Ga-Ri-Sa (descending notes)."
+        "en": "He blew Sa-Ni-Da-Pa-Ma-Ga-Ri-Sa (descending notes).",
+        "hi": "उसने सा-नि-द-प-म-ग-रि-सा (अवरोही स्वर) बजाई।"
       },
       "transliterations": {
-        "devanagari": "सनिदप मगरिस ऊदिदनु"
+        "devanagari": "सनिदप मगरिस ऊदिदनु",
+        "latin": "Sanidapa magarisa oodidanu"
       },
       "type": "poem_line"
     },
@@ -180,10 +216,12 @@
       "stanza": 2,
       "text": "ತನಗೇ ತುತ್ತೂರಿ ಇದೆಯೆಂದ",
       "translations": {
-        "en": "He boasted that only he has the trumpet,"
+        "en": "He boasted that only he has the trumpet,",
+        "hi": "उसने घमंड से कहा कि तुरही सिर्फ़ उसी के पास है,"
       },
       "transliterations": {
-        "devanagari": "तनगे तुत्तूरि इदेयेन्द"
+        "devanagari": "तनगे तुत्तूरि इदेयेन्द",
+        "latin": "Tanagee tutturi ideyenda"
       },
       "type": "poem_line"
     },
@@ -192,10 +230,12 @@
       "stanza": 2,
       "text": "ಬೇರಾರಿಗು ಅದು ಇಲ್ಲೆಂದ",
       "translations": {
-        "en": "He said no one else has one."
+        "en": "He said no one else has one.",
+        "hi": "और किसी के पास नहीं है, ऐसा कहा।"
       },
       "transliterations": {
-        "devanagari": "बेरारिगू अदु इल्लेन्द"
+        "devanagari": "बेरारिगू अदु इल्लेन्द",
+        "latin": "Beraarigu adu illenda"
       },
       "type": "poem_line"
     },
@@ -204,10 +244,12 @@
       "stanza": 2,
       "text": "ಕಸ್ತೂರಿ ನಡೆದನು ಬೀದಿಯಲಿ",
       "translations": {
-        "en": "Kasturi strutted down the street,"
+        "en": "Kasturi strutted down the street,",
+        "hi": "कस्तूरी गली में इतराते हुए चला,"
       },
       "transliterations": {
-        "devanagari": "कस्तूरि नडेदनु बीदियलि"
+        "devanagari": "कस्तूरि नडेदनु बीदियलि",
+        "latin": "Kasturi nadedanu biidiyali"
       },
       "type": "poem_line"
     },
@@ -216,10 +258,12 @@
       "stanza": 2,
       "text": "ಜಂಭದ ಕೋಳಿಯ ರೀತಿಯಲಿ",
       "translations": {
-        "en": "Like a proud, arrogant rooster."
+        "en": "Like a proud, arrogant rooster.",
+        "hi": "घमंडी मुर्गे की तरह।"
       },
       "transliterations": {
-        "devanagari": "जंभद कोळिय रीतियलि"
+        "devanagari": "जंभद कोळिय रीतियलि",
+        "latin": "Jambhada koliya riitiyali"
       },
       "type": "poem_line"
     },
@@ -228,10 +272,12 @@
       "stanza": 3,
       "text": "ತುತ್ತೂರಿಯೂದುತ ಕೊಳದ ಬಳಿ",
       "translations": {
-        "en": "Blowing his trumpet near the pond,"
+        "en": "Blowing his trumpet near the pond,",
+        "hi": "तालाब के पास तुरही बजाते हुए,"
       },
       "transliterations": {
-        "devanagari": "तुत्तूरियूदुत कोळद बळि"
+        "devanagari": "तुत्तूरियूदुत कोळद बळि",
+        "latin": "Tutturiyooduta kolada bali"
       },
       "type": "poem_line"
     },
@@ -240,10 +286,12 @@
       "stanza": 3,
       "text": "ನಡೆದನು ಕಸ್ತೂರಿ ಸಂಜೆಯಲಿ",
       "translations": {
-        "en": "Kasturi walked in the evening."
+        "en": "Kasturi walked in the evening.",
+        "hi": "कस्तूरी शाम को चला।"
       },
       "transliterations": {
-        "devanagari": "नडेदनु कस्तूरि संजेयलि"
+        "devanagari": "नडेदनु कस्तूरि संजेयलि",
+        "latin": "Nadedanu Kasturi sanjeyali"
       },
       "type": "poem_line"
     },
@@ -252,10 +300,12 @@
       "stanza": 3,
       "text": "ಜಾರಿತು ನೀರಿಗೆ ತುತ್ತೂರಿ",
       "translations": {
-        "en": "The trumpet slipped into the water."
+        "en": "The trumpet slipped into the water.",
+        "hi": "तुरही पानी में फिसल गई,"
       },
       "transliterations": {
-        "devanagari": "जारितु नीरिगे तुत्तूरि"
+        "devanagari": "जारितु नीरिगे तुत्तूरि",
+        "latin": "Jaaritu neerige tutturi"
       },
       "type": "poem_line"
     },
@@ -264,10 +314,12 @@
       "stanza": 3,
       "text": "ಗಂಟಲು ಕಟ್ಟಿತು ನೀರೂರಿ",
       "translations": {
-        "en": "His throat choked, tears welled in his eyes."
+        "en": "His throat choked, tears welled in his eyes.",
+        "hi": "उसका गला रुँध गया, आँखों में पानी भर आया।"
       },
       "transliterations": {
-        "devanagari": "गंटलु कट्टितु नीरूरि"
+        "devanagari": "गंटलु कट्टितु नीरूरि",
+        "latin": "Gantalu kattitu neeroori"
       },
       "type": "poem_line"
     },
@@ -276,10 +328,12 @@
       "stanza": 4,
       "text": "ಸರಿಗಮ ಊದಲು ನೋಡಿದನು",
       "translations": {
-        "en": "He tried to blow Sa-Ri-Ga-Ma again,"
+        "en": "He tried to blow Sa-Ri-Ga-Ma again,",
+        "hi": "उसने फिर से सा-रि-ग-म बजाने की कोशिश की,"
       },
       "transliterations": {
-        "devanagari": "सरिगम ऊदलु नोडिदनु"
+        "devanagari": "सरिगम ऊदलु नोडिदनु",
+        "latin": "Sarigama oodalu nodidanu"
       },
       "type": "poem_line"
     },
@@ -288,10 +342,12 @@
       "stanza": 4,
       "text": "ಗಗಗಗ ಸದ್ದನು ಮಾಡಿದನು",
       "translations": {
-        "en": "It only made a ga-ga-ga-ga gurgling sound."
+        "en": "It only made a ga-ga-ga-ga gurgling sound.",
+        "hi": "पर सिर्फ़ ग-ग-ग-ग जैसी गड़गड़ाहट की आवाज़ आई।"
       },
       "transliterations": {
-        "devanagari": "ग-ग-ग-ग सद्दनु माडिदनु"
+        "devanagari": "ग-ग-ग-ग सद्दनु माडिदनु",
+        "latin": "Gagagaga saddanu maadidanu"
       },
       "type": "poem_line"
     },
@@ -300,10 +356,12 @@
       "stanza": 4,
       "text": "ಬಣ್ಣವು ನೀರಿನ ಪಾಲಾಯ್ತು",
       "translations": {
-        "en": "The paint washed off into the water,"
+        "en": "The paint washed off into the water,",
+        "hi": "रंग पानी में धुल गया,"
       },
       "transliterations": {
-        "devanagari": "बण्णवु नीरिन पालायतु"
+        "devanagari": "बण्णवु नीरिन पालायतु",
+        "latin": "Bannavu neerina paalaaytu"
       },
       "type": "poem_line"
     },
@@ -312,10 +370,12 @@
       "stanza": 4,
       "text": "ಬಣ್ಣದ ತುತ್ತೂರಿ ಬೋಳಾಯ್ತು",
       "translations": {
-        "en": "The colorful trumpet was stripped bare."
+        "en": "The colorful trumpet was stripped bare.",
+        "hi": "रंग-बिरंगी तुरही बेरंग हो गई।"
       },
       "transliterations": {
-        "devanagari": "बण्णद तुत्तूरि बोळायतु"
+        "devanagari": "बण्णद तुत्तूरि बोळायतु",
+        "latin": "Bannada tutturi bolaaytu"
       },
       "type": "poem_line"
     },
@@ -324,10 +384,12 @@
       "stanza": 5,
       "text": "ಬಣ್ಣದ ತುತ್ತೂರಿ ಹಾಳಾಯ್ತು",
       "translations": {
-        "en": "The colorful trumpet was ruined,"
+        "en": "The colorful trumpet was ruined,",
+        "hi": "रंग-बिरंगी तुरही बर्बाद हो गई,"
       },
       "transliterations": {
-        "devanagari": "बण्णद तुत्तूरि हाळायतु"
+        "devanagari": "बण्णद तुत्तूरि हाळायतु",
+        "latin": "Bannada tutturi haalaaytu"
       },
       "type": "poem_line"
     },
@@ -336,10 +398,12 @@
       "stanza": 5,
       "text": "ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯ್ತು",
       "translations": {
-        "en": "The arrogant rooster was left in grief."
+        "en": "The arrogant rooster was left in grief.",
+        "hi": "घमंडी मुर्गे को दुःख हुआ।"
       },
       "transliterations": {
-        "devanagari": "जंभद कोळिगे गोळायतु"
+        "devanagari": "जंभद कोळिगे गोळायतु",
+        "latin": "Jambhada kolige golaaytu"
       },
       "type": "poem_line"
     },
@@ -347,10 +411,12 @@
       "id": "vocab-kaasu",
       "text": "ಕಾಸು",
       "translations": {
-        "en": "coin / money"
+        "en": "coin / money",
+        "hi": "सिक्का / पैसा"
       },
       "transliterations": {
-        "devanagari": "कासु"
+        "devanagari": "कासु",
+        "latin": "Kaasu"
       },
       "type": "vocabulary_term"
     },
@@ -359,10 +425,12 @@
       "ref": "vocab-kaasu",
       "text": "ಹಣ",
       "translations": {
-        "en": "money"
+        "en": "money",
+        "hi": "पैसा"
       },
       "transliterations": {
-        "devanagari": "हण"
+        "devanagari": "हण",
+        "latin": "Hana"
       },
       "type": "vocabulary_definition"
     },
@@ -370,10 +438,12 @@
       "id": "vocab-jambha",
       "text": "ಜಂಭ",
       "translations": {
-        "en": "pride / arrogance"
+        "en": "pride / arrogance",
+        "hi": "घमंड / अहंकार"
       },
       "transliterations": {
-        "devanagari": "जंभ"
+        "devanagari": "जंभ",
+        "latin": "Jambha"
       },
       "type": "vocabulary_term"
     },
@@ -382,10 +452,12 @@
       "ref": "vocab-jambha",
       "text": "ಅಹಂಕಾರ",
       "translations": {
-        "en": "arrogance"
+        "en": "arrogance",
+        "hi": "अहंकार"
       },
       "transliterations": {
-        "devanagari": "अहंकार"
+        "devanagari": "अहंकार",
+        "latin": "Ahankaara"
       },
       "type": "vocabulary_definition"
     },
@@ -393,10 +465,12 @@
       "id": "vocab-halaagu",
       "text": "ಹಾಳಾಗು",
       "translations": {
-        "en": "to be ruined / spoiled"
+        "en": "to be ruined / spoiled",
+        "hi": "बर्बाद होना / खराब होना"
       },
       "transliterations": {
-        "devanagari": "हाळागु"
+        "devanagari": "हाळागु",
+        "latin": "Haalaagu"
       },
       "type": "vocabulary_term"
     },
@@ -405,10 +479,12 @@
       "ref": "vocab-halaagu",
       "text": "ಕೆಟ್ಟುಹೋಗು",
       "translations": {
-        "en": "to go bad / be spoiled"
+        "en": "to go bad / be spoiled",
+        "hi": "खराब होना"
       },
       "transliterations": {
-        "devanagari": "केट्टुहोगु"
+        "devanagari": "केट्टुहोगु",
+        "latin": "Kettuhogu"
       },
       "type": "vocabulary_definition"
     },
@@ -416,10 +492,12 @@
       "id": "vocab-saddu",
       "text": "ಸದ್ದು",
       "translations": {
-        "en": "sound / noise"
+        "en": "sound / noise",
+        "hi": "आवाज़ / शोर"
       },
       "transliterations": {
-        "devanagari": "सद्दु"
+        "devanagari": "सद्दु",
+        "latin": "Saddu"
       },
       "type": "vocabulary_term"
     },
@@ -428,10 +506,12 @@
       "ref": "vocab-saddu",
       "text": "ಸಪ್ಪಳ",
       "translations": {
-        "en": "noise"
+        "en": "noise",
+        "hi": "शोर"
       },
       "transliterations": {
-        "devanagari": "सप्पळ"
+        "devanagari": "सप्पळ",
+        "latin": "Sappala"
       },
       "type": "vocabulary_definition"
     },
@@ -439,10 +519,12 @@
       "id": "vocab-sanje",
       "text": "ಸಂಜೆ",
       "translations": {
-        "en": "evening"
+        "en": "evening",
+        "hi": "शाम"
       },
       "transliterations": {
-        "devanagari": "संजे"
+        "devanagari": "संजे",
+        "latin": "Sanje"
       },
       "type": "vocabulary_term"
     },
@@ -451,10 +533,12 @@
       "ref": "vocab-sanje",
       "text": "ಸಾಯಂಕಾಲ",
       "translations": {
-        "en": "evening / dusk"
+        "en": "evening / dusk",
+        "hi": "शाम / सांझ"
       },
       "transliterations": {
-        "devanagari": "सायंकाल"
+        "devanagari": "सायंकाल",
+        "latin": "Saayankaala"
       },
       "type": "vocabulary_definition"
     },
@@ -462,10 +546,12 @@
       "id": "note-tagadu",
       "text": "ತಗಡು",
       "translations": {
-        "en": "tin / sheet metal"
+        "en": "tin / sheet metal",
+        "hi": "टीन / धातु की चादर"
       },
       "transliterations": {
-        "devanagari": "तगडु"
+        "devanagari": "तगडु",
+        "latin": "Tagadu"
       },
       "type": "note_term"
     },
@@ -474,10 +560,12 @@
       "ref": "note-tagadu",
       "text": "ತೆಳುವಾದ ಲೋಹದ ಹಾಳೆ",
       "translations": {
-        "en": "thin sheet of metal"
+        "en": "thin sheet of metal",
+        "hi": "धातु की पतली चादर"
       },
       "transliterations": {
-        "devanagari": "तेळुवाद लोहद हाळे"
+        "devanagari": "तेळुवाद लोहद हाळे",
+        "latin": "Teluvaada lohada haale"
       },
       "type": "note_definition"
     },
@@ -485,10 +573,12 @@
       "id": "note-kola",
       "text": "ಕೊಳ",
       "translations": {
-        "en": "pond / lake"
+        "en": "pond / lake",
+        "hi": "तालाब / झील"
       },
       "transliterations": {
-        "devanagari": "कोळ"
+        "devanagari": "कोळ",
+        "latin": "Kola"
       },
       "type": "note_term"
     },
@@ -497,10 +587,12 @@
       "ref": "note-kola",
       "text": "ನೀರಿನ ತಾಣ, ಕೆರೆ",
       "translations": {
-        "en": "a body of water, pond"
+        "en": "a body of water, pond",
+        "hi": "जल का स्थान, तालाब"
       },
       "transliterations": {
-        "devanagari": "नीरिन ताण, केरे"
+        "devanagari": "नीरिन ताण, केरे",
+        "latin": "Neerina taana, kere"
       },
       "type": "note_definition"
     },
@@ -508,10 +600,12 @@
       "id": "note-tutturi",
       "text": "ತುತ್ತೂರಿ",
       "translations": {
-        "en": "tin trumpet"
+        "en": "tin trumpet",
+        "hi": "टीन की तुरही"
       },
       "transliterations": {
-        "devanagari": "तुत्तूरि"
+        "devanagari": "तुत्तूरि",
+        "latin": "Tutturi"
       },
       "type": "note_term"
     },
@@ -520,10 +614,12 @@
       "ref": "note-tutturi",
       "text": "ಊದುವ ವಾದ್ಯ",
       "translations": {
-        "en": "a blowing instrument"
+        "en": "a blowing instrument",
+        "hi": "फूँककर बजाया जाने वाला वाद्य"
       },
       "transliterations": {
-        "devanagari": "ऊदुव वाद्य"
+        "devanagari": "ऊदुव वाद्य",
+        "latin": "Ooduva vaadya"
       },
       "type": "note_definition"
     },
@@ -531,10 +627,12 @@
       "id": "note-sarigama",
       "text": "ಸರಿಗಮಪದನಿ",
       "translations": {
-        "en": "Sa-Ri-Ga-Ma-Pa-Da-Ni"
+        "en": "Sa-Ri-Ga-Ma-Pa-Da-Ni",
+        "hi": "सा-रि-ग-म-प-द-नि"
       },
       "transliterations": {
-        "devanagari": "सरिगमपदनि"
+        "devanagari": "सरिगमपदनि",
+        "latin": "Sarigamapadani"
       },
       "type": "note_term"
     },
@@ -543,10 +641,12 @@
       "ref": "note-sarigama",
       "text": "ಸಂಗೀತದ ಏಳು ಸ್ವರಗಳು",
       "translations": {
-        "en": "the seven musical notes of Indian classical music"
+        "en": "the seven musical notes of Indian classical music",
+        "hi": "भारतीय शास्त्रीय संगीत के सात स्वर"
       },
       "transliterations": {
-        "devanagari": "संगीतद एळु स्वरगळु"
+        "devanagari": "संगीतद एळु स्वरगळु",
+        "latin": "Sangeetada elu svaragalu"
       },
       "type": "note_definition"
     },
@@ -555,10 +655,12 @@
       "id": "ex-a-q1",
       "text": "ಕಸ್ತೂರಿಯು ಏನನ್ನು ಕೊಂಡನು?",
       "translations": {
-        "en": "What did Kasturi buy?"
+        "en": "What did Kasturi buy?",
+        "hi": "कस्तूरी ने क्या खरीदा?"
       },
       "transliterations": {
-        "devanagari": "कस्तूरियु एननु कोण्डनु?"
+        "devanagari": "कस्तूरियु एननु कोण्डनु?",
+        "latin": "Kasturiyu enannu kondanu?"
       },
       "type": "question"
     },
@@ -567,10 +669,12 @@
       "ref": "ex-a-q1",
       "text": "ಕಸ್ತೂರಿಯು ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿಯನ್ನು ಕೊಂಡನು.",
       "translations": {
-        "en": "Kasturi bought the colorful tin trumpet."
+        "en": "Kasturi bought the colorful tin trumpet.",
+        "hi": "कस्तूरी ने रंग-बिरंगी टीन की तुरही खरीदी।"
       },
       "transliterations": {
-        "devanagari": "कस्तूरियु बण्णद तगडिन तुत्तूरियन्नु कोण्डनु."
+        "devanagari": "कस्तूरियु बण्णद तगडिन तुत्तूरियन्नु कोण्डनु.",
+        "latin": "Kasturiyu bannada tagadina tutturiyannu kondanu."
       },
       "type": "answer"
     },
@@ -579,10 +683,12 @@
       "id": "ex-a-q2",
       "text": "ಕಸ್ತೂರಿ ಎಲ್ಲಿ ತುತ್ತೂರಿ ಊದಿದನು?",
       "translations": {
-        "en": "Where did Kasturi blow the trumpet?"
+        "en": "Where did Kasturi blow the trumpet?",
+        "hi": "कस्तूरी ने तुरही कहाँ बजाई?"
       },
       "transliterations": {
-        "devanagari": "कस्तूरि एल्लि तुत्तूरि ऊदिदनु?"
+        "devanagari": "कस्तूरि एल्लि तुत्तूरि ऊदिदनु?",
+        "latin": "Kasturi elli tutturi oodidanu?"
       },
       "type": "question"
     },
@@ -591,10 +697,12 @@
       "ref": "ex-a-q2",
       "text": "ಕಸ್ತೂರಿ ಕೊಳದ ಬಳಿ ತುತ್ತೂರಿ ಊದಿದನು.",
       "translations": {
-        "en": "Kasturi blew the trumpet near the pond."
+        "en": "Kasturi blew the trumpet near the pond.",
+        "hi": "कस्तूरी ने तालाब के पास तुरही बजाई।"
       },
       "transliterations": {
-        "devanagari": "कस्तूरि कोळद बळि तुत्तूरि ऊदिदनु."
+        "devanagari": "कस्तूरि कोळद बळि तुत्तूरि ऊदिदनु.",
+        "latin": "Kasturi kolada bali tutturi oodidanu."
       },
       "type": "answer"
     },
@@ -603,10 +711,12 @@
       "id": "ex-a-q3",
       "text": "ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಯಾವಾಗ ಊದಿದನು?",
       "translations": {
-        "en": "When did Kasturi blow the trumpet?"
+        "en": "When did Kasturi blow the trumpet?",
+        "hi": "कस्तूरी ने तुरही कब बजाई?"
       },
       "transliterations": {
-        "devanagari": "कस्तूरियु तुत्तूरियन्नु यावाग ऊदिदनु?"
+        "devanagari": "कस्तूरियु तुत्तूरियन्नु यावाग ऊदिदनु?",
+        "latin": "Kasturiyu tutturiyannu yaavaaga oodidanu?"
       },
       "type": "question"
     },
@@ -615,10 +725,12 @@
       "ref": "ex-a-q3",
       "text": "ಕಸ್ತೂರಿಯು ತುತ್ತೂರಿಯನ್ನು ಸಂಜೆಯಲಿ ಊದಿದನು.",
       "translations": {
-        "en": "Kasturi blew the trumpet in the evening."
+        "en": "Kasturi blew the trumpet in the evening.",
+        "hi": "कस्तूरी ने शाम को तुरही बजाई।"
       },
       "transliterations": {
-        "devanagari": "कस्तूरियु तुत्तूरियन्नु संजेयलि ऊदिदनु."
+        "devanagari": "कस्तूरियु तुत्तूरियन्नु संजेयलि ऊदिदनु.",
+        "latin": "Kasturiyu tutturiyannu sanjeyali oodidanu."
       },
       "type": "answer"
     },
@@ -627,10 +739,12 @@
       "id": "ex-a-q4",
       "text": "ಜಂಭದ ಕೋಳಿ ಯಾರು?",
       "translations": {
-        "en": "Who is the \"arrogant rooster\"?"
+        "en": "Who is the \"arrogant rooster\"?",
+        "hi": "'घमंडी मुर्गा' कौन है?"
       },
       "transliterations": {
-        "devanagari": "जंभद कोळि यारु?"
+        "devanagari": "जंभद कोळि यारु?",
+        "latin": "Jambhada koli yaaru?"
       },
       "type": "question"
     },
@@ -639,10 +753,12 @@
       "ref": "ex-a-q4",
       "text": "ಜಂಭದ ಕೋಳಿ ಕಸ್ತೂರಿಯೇ.",
       "translations": {
-        "en": "The \"arrogant rooster\" is Kasturi himself."
+        "en": "The \"arrogant rooster\" is Kasturi himself.",
+        "hi": "'घमंडी मुर्गा' कस्तूरी खुद है।"
       },
       "transliterations": {
-        "devanagari": "जंभद कोळि कस्तूरिये."
+        "devanagari": "जंभद कोळि कस्तूरिये.",
+        "latin": "Jambhada koli Kasturiye."
       },
       "type": "answer"
     },
@@ -651,10 +767,12 @@
       "id": "ex-a-q5",
       "text": "ಜಂಭದ ಕೋಳಿಗೆ ಏಕೆ ಗೋಳಾಯಿತು?",
       "translations": {
-        "en": "Why did the arrogant rooster end up in grief?"
+        "en": "Why did the arrogant rooster end up in grief?",
+        "hi": "घमंडी मुर्गे को दुःख क्यों हुआ?"
       },
       "transliterations": {
-        "devanagari": "जंभद कोळिगे एके गोळायितु?"
+        "devanagari": "जंभद कोळिगे एके गोळायितु?",
+        "latin": "Jambhada kolige eke golaayitu?"
       },
       "type": "question"
     },
@@ -663,10 +781,12 @@
       "ref": "ex-a-q5",
       "text": "ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ ಹಾಳಾದ್ದರಿಂದ ಜಂಭದ ಕೋಳಿಗೆ ಗೋಳಾಯಿತು.",
       "translations": {
-        "en": "Because the trumpet slipped into the water and was ruined, the arrogant rooster ended up in grief."
+        "en": "Because the trumpet slipped into the water and was ruined, the arrogant rooster ended up in grief.",
+        "hi": "तुरही पानी में फिसलकर बर्बाद हो गई, इसलिए घमंडी मुर्गे को दुःख हुआ।"
       },
       "transliterations": {
-        "devanagari": "तुत्तूरि नीरिगे जारि हाळाद्दरिंद जंभद कोळिगे गोळायितु."
+        "devanagari": "तुत्तूरि नीरिगे जारि हाळाद्दरिंद जंभद कोळिगे गोळायितु.",
+        "latin": "Tutturi neerige jaari haalaaddarinda jambhada kolige golaayitu."
       },
       "type": "answer"
     },
@@ -675,10 +795,12 @@
       "id": "ex-a-q6",
       "text": "ತುತ್ತೂರಿ ಏನಾಯಿತು?",
       "translations": {
-        "en": "What happened to the trumpet?"
+        "en": "What happened to the trumpet?",
+        "hi": "तुरही का क्या हुआ?"
       },
       "transliterations": {
-        "devanagari": "तुत्तूरि एनायितु?"
+        "devanagari": "तुत्तूरि एनायितु?",
+        "latin": "Tutturi enaayitu?"
       },
       "type": "question"
     },
@@ -687,10 +809,12 @@
       "ref": "ex-a-q6",
       "text": "ತುತ್ತೂರಿ ನೀರಿಗೆ ಜಾರಿ, ಬಣ್ಣ ಕಳೆದುಕೊಂಡು ಹಾಳಾಯಿತು.",
       "translations": {
-        "en": "The trumpet slipped into the water, lost its color, and was ruined."
+        "en": "The trumpet slipped into the water, lost its color, and was ruined.",
+        "hi": "तुरही पानी में फिसल गई, उसका रंग उतर गया और वह बर्बाद हो गई।"
       },
       "transliterations": {
-        "devanagari": "तुत्तूरि नीरिगे जारि, बण्ण कळेदुकोण्डु हाळायितु."
+        "devanagari": "तुत्तूरि नीरिगे जारि, बण्ण कळेदुकोण्डु हाळायितु.",
+        "latin": "Tutturi neerige jaari, banna kaledukondu haalaayitu."
       },
       "type": "answer"
     },
@@ -699,10 +823,12 @@
       "id": "ex-b-q1",
       "text": "ಬಣ್ಣದ ತಗಡಿನ ________",
       "translations": {
-        "en": "The colorful tin ________"
+        "en": "The colorful tin ________",
+        "hi": "रंग-बिरंगी टीन की ________"
       },
       "transliterations": {
-        "devanagari": "बण्णद तगडिन ________"
+        "devanagari": "बण्णद तगडिन ________",
+        "latin": "Bannada tagadina ________"
       },
       "type": "fill_blank"
     },
@@ -711,10 +837,12 @@
       "ref": "ex-b-q1",
       "text": "ತುತ್ತೂರಿ",
       "translations": {
-        "en": "trumpet"
+        "en": "trumpet",
+        "hi": "तुरही"
       },
       "transliterations": {
-        "devanagari": "तुत्तूरि"
+        "devanagari": "तुत्तूरि",
+        "latin": "Tutturi"
       },
       "type": "answer"
     },
@@ -723,10 +851,12 @@
       "id": "ex-b-q2",
       "text": "ಕಸ್ತೂರಿ ನಡೆದನು ________",
       "translations": {
-        "en": "Kasturi walked in the ________"
+        "en": "Kasturi walked in the ________",
+        "hi": "कस्तूरी ________ में चला"
       },
       "transliterations": {
-        "devanagari": "कस्तूरि नडेदनु ________"
+        "devanagari": "कस्तूरि नडेदनु ________",
+        "latin": "Kasturi nadedanu ________"
       },
       "type": "fill_blank"
     },
@@ -735,10 +865,12 @@
       "ref": "ex-b-q2",
       "text": "ಬೀದಿಯಲಿ",
       "translations": {
-        "en": "street"
+        "en": "street",
+        "hi": "गली"
       },
       "transliterations": {
-        "devanagari": "बीदियलि"
+        "devanagari": "बीदियलि",
+        "latin": "Biidiyali"
       },
       "type": "answer"
     },
@@ -747,10 +879,12 @@
       "id": "ex-b-q3",
       "text": "________ ನೀರಿಗೆ ತುತ್ತೂರಿ",
       "translations": {
-        "en": "________ into the water"
+        "en": "________ into the water",
+        "hi": "पानी में ________"
       },
       "transliterations": {
-        "devanagari": "________ नीरिगे तुत्तूरि"
+        "devanagari": "________ नीरिगे तुत्तूरि",
+        "latin": "________ neerige tutturi"
       },
       "type": "fill_blank"
     },
@@ -759,10 +893,12 @@
       "ref": "ex-b-q3",
       "text": "ಜಾರಿತು",
       "translations": {
-        "en": "slipped"
+        "en": "slipped",
+        "hi": "फिसल गई"
       },
       "transliterations": {
-        "devanagari": "जारितु"
+        "devanagari": "जारितु",
+        "latin": "Jaaritu"
       },
       "type": "answer"
     },
@@ -771,10 +907,12 @@
       "id": "ex-b-q4",
       "text": "ಬಣ್ಣದ ತುತ್ತೂರಿ ________",
       "translations": {
-        "en": "The colorful trumpet ________"
+        "en": "The colorful trumpet ________",
+        "hi": "रंग-बिरंगी तुरही ________"
       },
       "transliterations": {
-        "devanagari": "बण्णद तुत्तूरि ________"
+        "devanagari": "बण्णद तुत्तूरि ________",
+        "latin": "Bannada tutturi ________"
       },
       "type": "fill_blank"
     },
@@ -783,10 +921,12 @@
       "ref": "ex-b-q4",
       "text": "ಹಾಳಾಯ್ತು",
       "translations": {
-        "en": "was ruined"
+        "en": "was ruined",
+        "hi": "बर्बाद हो गई"
       },
       "transliterations": {
-        "devanagari": "हाळायतु"
+        "devanagari": "हाळायतु",
+        "latin": "Haalaaytu"
       },
       "type": "answer"
     },
@@ -795,10 +935,12 @@
       "id": "ex-c-p1",
       "text": "ಬೀರೂರಿನಲ್ಲಿ ರಾಮಣ್ಣ ಎಂಬ ಕಟ್ಟಿಗೆ ವ್ಯಾಪಾರಿಯು ವಾಸಿಸುತ್ತಿದ್ದನು.",
       "translations": {
-        "en": "In Beeruru, a firewood merchant named Ramanna used to live."
+        "en": "In Beeruru, a firewood merchant named Ramanna used to live.",
+        "hi": "बीरूरु में रामण्णा नाम का एक लकड़हारा (लकड़ी बेचने वाला) रहता था।"
       },
       "transliterations": {
-        "devanagari": "बीरूरिनल्लि रामण्ण एंब कट्टिगे व्यापारियु वासिसुत्तिद्दनु."
+        "devanagari": "बीरूरिनल्लि रामण्ण एंब कट्टिगे व्यापारियु वासिसुत्तिद्दनु.",
+        "latin": "Beerurinalli Ramanna emba kattige vyaapaariyu vaasisuttiddanu."
       },
       "type": "prose"
     },
@@ -807,10 +949,12 @@
       "id": "ex-c-p2",
       "text": "ಅವನು ತುಂಬಾ ಬಡವನಾಗಿದ್ದನು.",
       "translations": {
-        "en": "He was very poor."
+        "en": "He was very poor.",
+        "hi": "वह बहुत गरीब था।"
       },
       "transliterations": {
-        "devanagari": "अवनु तुंबा बडवनागिद्दनु."
+        "devanagari": "अवनु तुंबा बडवनागिद्दनु.",
+        "latin": "Avanu tumbaa badavanaagiddanu."
       },
       "type": "prose"
     },
@@ -819,10 +963,12 @@
       "id": "ex-c-p3",
       "text": "ಅವನು ಪ್ರತಿ ದಿನ ಬೆಳಗ್ಗೆ ಕಾಡಿಗೆ ಹೋಗಿ ಒಣ ಮರವನ್ನು ಕಡಿದು ತರುತ್ತಿದ್ದನು.",
       "translations": {
-        "en": "Every morning he would go to the forest, chop dry wood, and bring it back."
+        "en": "Every morning he would go to the forest, chop dry wood, and bring it back.",
+        "hi": "वह हर सुबह जंगल जाकर सूखी लकड़ी काटकर लाता था।"
       },
       "transliterations": {
-        "devanagari": "अवनु प्रति दिन बेळग्गे कादिगे होगि ओण मरवन्नु कडिदु तरुत्तिद्दनु."
+        "devanagari": "अवनु प्रति दिन बेळग्गे कादिगे होगि ओण मरवन्नु कडिदु तरुत्तिद्दनु.",
+        "latin": "Avanu prati dina belagge kaadige hogi ona maravannu kadidu taruttiddanu."
       },
       "type": "prose"
     },
@@ -831,10 +977,12 @@
       "id": "ex-c-p4",
       "text": "ಪೇಟೆಯಲ್ಲಿ ಕಟ್ಟಿಗೆ ಮಾರಿ ಜೀವನ ನಡೆಸುತ್ತಿದ್ದನು.",
       "translations": {
-        "en": "He would sell the firewood in the market and make his living."
+        "en": "He would sell the firewood in the market and make his living.",
+        "hi": "वह बाज़ार में लकड़ी बेचकर अपना जीवन चलाता था।"
       },
       "transliterations": {
-        "devanagari": "पेटेयल्लि कट्टिगे मारि जीवन नडेसुत्तिद्दनु."
+        "devanagari": "पेटेयल्लि कट्टिगे मारि जीवन नडेसुत्तिद्दनु.",
+        "latin": "Peteyalli kattige maari jeevana nadesuttiddanu."
       },
       "type": "prose"
     },
@@ -843,10 +991,12 @@
       "id": "ex-c-p5",
       "text": "ಅವನು ಎಂದೂ ಹಸಿ ಮರವನ್ನು ಕಡಿದವನಲ್ಲ.",
       "translations": {
-        "en": "He had never once cut a green / live tree."
+        "en": "He had never once cut a green / live tree.",
+        "hi": "उसने कभी भी हरा (जीवित) पेड़ नहीं काटा था।"
       },
       "transliterations": {
-        "devanagari": "अवनु एन्दू हसि मरवन्नु कडिदवनल्ल."
+        "devanagari": "अवनु एन्दू हसि मरवन्नु कडिदवनल्ल.",
+        "latin": "Avanu endoo hasi maravannu kadidavanalla."
       },
       "type": "prose"
     },
@@ -855,10 +1005,12 @@
       "id": "ex-c-p6",
       "text": "ಇದಕ್ಕಾಗಿ ಇವನಿಗೆ ವನದೇವತೆಯು ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನು ನೀಡಿದಳು.",
       "translations": {
-        "en": "For this virtue, the forest goddess gave him the Akshaya Patre (the inexhaustible vessel)."
+        "en": "For this virtue, the forest goddess gave him the Akshaya Patre (the inexhaustible vessel).",
+        "hi": "इसी गुण के कारण वनदेवी ने उसे अक्षय पात्र (कभी न खाली होने वाला पात्र) दिया।"
       },
       "transliterations": {
-        "devanagari": "इदक्कागि इवनिगे वनदेवतेयु अक्षय पात्रेयन्नु नीडिदळु."
+        "devanagari": "इदक्कागि इवनिगे वनदेवतेयु अक्षय पात्रेयन्नु नीडिदळु.",
+        "latin": "Idakkaagi ivanige vanadevateyu akshaya paatreyannu needidalu."
       },
       "type": "prose"
     },
@@ -867,10 +1019,12 @@
       "id": "ex-c-p7",
       "text": "ಇದರಿಂದ ರಾಮಣ್ಣ ಶ್ರೀಮಂತನಾದನು.",
       "translations": {
-        "en": "From this, Ramanna became wealthy."
+        "en": "From this, Ramanna became wealthy.",
+        "hi": "इससे रामण्णा धनवान बन गया।"
       },
       "transliterations": {
-        "devanagari": "इदरिंद रामण्ण श्रीमंतनादनु."
+        "devanagari": "इदरिंद रामण्ण श्रीमंतनादनु.",
+        "latin": "Idarinda Ramanna shreemantanaadanu."
       },
       "type": "prose"
     },
@@ -879,10 +1033,12 @@
       "id": "ex-c-q1",
       "text": "ರಾಮಣ್ಣ ಯಾರು?",
       "translations": {
-        "en": "Who is Ramanna?"
+        "en": "Who is Ramanna?",
+        "hi": "रामण्णा कौन है?"
       },
       "transliterations": {
-        "devanagari": "रामण्ण यारु?"
+        "devanagari": "रामण्ण यारु?",
+        "latin": "Ramanna yaaru?"
       },
       "type": "question"
     },
@@ -891,10 +1047,12 @@
       "ref": "ex-c-q1",
       "text": "ರಾಮಣ್ಣ ಬೀರೂರಿನ ಒಬ್ಬ ಕಟ್ಟಿಗೆ ವ್ಯಾಪಾರಿ.",
       "translations": {
-        "en": "Ramanna is a firewood merchant from Beeruru."
+        "en": "Ramanna is a firewood merchant from Beeruru.",
+        "hi": "रामण्णा बीरूरु का एक लकड़हारा है।"
       },
       "transliterations": {
-        "devanagari": "रामण्ण बीरूरिन ओब्ब कट्टिगे व्यापारि."
+        "devanagari": "रामण्ण बीरूरिन ओब्ब कट्टिगे व्यापारि.",
+        "latin": "Ramanna Beeruriina obba kattige vyaapaari."
       },
       "type": "answer"
     },
@@ -903,10 +1061,12 @@
       "id": "ex-c-q2",
       "text": "ರಾಮಣ್ಣ ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದನು?",
       "translations": {
-        "en": "Where did Ramanna live?"
+        "en": "Where did Ramanna live?",
+        "hi": "रामण्णा कहाँ रहता था?"
       },
       "transliterations": {
-        "devanagari": "रामण्ण एल्लि वासिसुत्तिद्दनु?"
+        "devanagari": "रामण्ण एल्लि वासिसुत्तिद्दनु?",
+        "latin": "Ramanna elli vaasisuttiddanu?"
       },
       "type": "question"
     },
@@ -915,10 +1075,12 @@
       "ref": "ex-c-q2",
       "text": "ಬೀರೂರು",
       "translations": {
-        "en": "Beeruru"
+        "en": "Beeruru",
+        "hi": "बीरूरु"
       },
       "transliterations": {
-        "devanagari": "बीरूरु"
+        "devanagari": "बीरूरु",
+        "latin": "Beeruru"
       },
       "type": "answer"
     },
@@ -927,10 +1089,12 @@
       "id": "ex-c-q3",
       "text": "ರಾಮಣ್ಣ ಯಾವಾಗ ಕಾಡಿಗೆ ಹೋಗುತ್ತಿದ್ದನು?",
       "translations": {
-        "en": "When did Ramanna go to the forest?"
+        "en": "When did Ramanna go to the forest?",
+        "hi": "रामण्णा जंगल कब जाता था?"
       },
       "transliterations": {
-        "devanagari": "रामण्ण यावाग कादिगे होगुत्तिद्दनु?"
+        "devanagari": "रामण्ण यावाग कादिगे होगुत्तिद्दनु?",
+        "latin": "Ramanna yaavaaga kaadige hoguttiddanu?"
       },
       "type": "question"
     },
@@ -939,10 +1103,12 @@
       "ref": "ex-c-q3",
       "text": "ಪ್ರತಿದಿನ ಬೆಳಗ್ಗೆ",
       "translations": {
-        "en": "Every morning"
+        "en": "Every morning",
+        "hi": "हर सुबह"
       },
       "transliterations": {
-        "devanagari": "प्रतिदिन बेळग्गे"
+        "devanagari": "प्रतिदिन बेळग्गे",
+        "latin": "Pratidina belagge"
       },
       "type": "answer"
     },
@@ -951,10 +1117,12 @@
       "id": "ex-c-q4",
       "text": "ವನದೇವತೆಯು ರಾಮಣ್ಣನಿಗೆ ಅಕ್ಷಯ ಪಾತ್ರೆಯನ್ನು ಏಕೆ ನೀಡಿದಳು?",
       "translations": {
-        "en": "Why did the forest goddess give Ramanna the Akshaya Patre?"
+        "en": "Why did the forest goddess give Ramanna the Akshaya Patre?",
+        "hi": "वनदेवी ने रामण्णा को अक्षय पात्र क्यों दिया?"
       },
       "transliterations": {
-        "devanagari": "वनदेवतेयु रामण्णनिगे अक्षय पात्रेयन्नु एके नीडिदळु?"
+        "devanagari": "वनदेवतेयु रामण्णनिगे अक्षय पात्रेयन्नु एके नीडिदळु?",
+        "latin": "Vanadevateyu Ramannanige akshaya paatreyannu eke needidalu?"
       },
       "type": "question"
     },
@@ -963,10 +1131,12 @@
       "ref": "ex-c-q4",
       "text": "ಅವನು ಎಂದೂ ಹಸಿ ಮರವನ್ನು ಕಡಿದವನಲ್ಲ.",
       "translations": {
-        "en": "Because he never cut a green / live tree."
+        "en": "Because he never cut a green / live tree.",
+        "hi": "क्योंकि उसने कभी हरा (जीवित) पेड़ नहीं काटा था।"
       },
       "transliterations": {
-        "devanagari": "अवनु एन्दू हसि मरवन्नु कडिदवनल्ल."
+        "devanagari": "अवनु एन्दू हसि मरवन्नु कडिदवनल्ल.",
+        "latin": "Avanu endoo hasi maravannu kadidavanalla."
       },
       "type": "answer"
     }
