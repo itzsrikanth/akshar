@@ -46,6 +46,8 @@ Decisions and architecture live in [`docs/`](docs/), not scattered in code comme
 - [`local-dev-content-server.md`](docs/local-dev-content-server.md) — the dev content server above
 - [`roadmap.md`](docs/roadmap.md) — future scope (multi-kid, audio, interactive exercises, AI
   grading), deliberately not built until the core reading experience has real usage
+- [`user-feedback.md`](docs/user-feedback.md) — a running log of real feedback from testers/users,
+  kept separate from the maintainer's own speculative planning in `roadmap.md`
 
 ## Learn more about Expo
 
