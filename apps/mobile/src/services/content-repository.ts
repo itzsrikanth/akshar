@@ -89,7 +89,15 @@ export class CdnContentRepository implements ContentRepository {
   }
 
   private async fetchJson<T>(path: string): Promise<T> {
-    const res = await fetch(`${this.baseUrl}/${path}`);
+    // jsDelivr sends Cache-Control: max-age=604800 (7 days) — sized for its own CDN edges
+    // (s-maxage=43200 there), but the same header makes the OS's HTTP cache serve a week-old
+    // response transparently, invisible to and unaffected by our own cache invalidation
+    // (setBaseUrl/clearCache, pull-to-refresh) and by purging jsDelivr's edge cache — neither
+    // touches what's already sitting in the device's local HTTP cache. We already do
+    // session-scoped caching ourselves (chapterCache/catalogCache), so there's no need for a
+    // second, much longer-lived cache underneath it working against content freshness.
+    const bustUrl = `${this.baseUrl}/${path}${path.includes('?') ? '&' : '?'}_cb=${Date.now()}`;
+    const res = await fetch(bustUrl, { cache: 'no-store' });
     if (!res.ok) {
       throw new Error(`ContentRepository: ${path} failed (${res.status})`);
     }
