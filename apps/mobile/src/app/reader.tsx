@@ -14,10 +14,12 @@ import { ThemedView } from '@/components/themed-view';
 import { Touchable } from '@/components/touchable';
 import { DEFAULT_CHAPTER_PATH } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
+import { useCatalog } from '@/hooks/use-catalog';
 import { useChapter } from '@/hooks/use-chapter';
 import { useDownloads } from '@/hooks/use-downloads';
+import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useTheme } from '@/hooks/use-theme';
-import type { Chapter, ChapterSegment } from '@/services/content-repository';
+import type { Catalog, Chapter, ChapterSegment } from '@/services/content-repository';
 import { recordChapterOpened } from '@/services/reading-history';
 
 function deriveReaderData(chapter: Chapter) {
@@ -55,12 +57,26 @@ function SectionLabel({ children }: { children: string }) {
   );
 }
 
-function TermPair({ term, definition }: { term: ChapterSegment; definition?: ChapterSegment }) {
+function TermPair({
+  term,
+  definition,
+  translationLanguage,
+  transliterationScript,
+}: {
+  term: ChapterSegment;
+  definition?: ChapterSegment;
+  translationLanguage: string | null;
+  transliterationScript: string | null;
+}) {
   const theme = useTheme();
   if (!definition) return null;
-  const caption = [term.transliterations?.devanagari, definition.transliterations?.devanagari]
+  const caption = [
+    transliterationScript ? term.transliterations?.[transliterationScript] : undefined,
+    transliterationScript ? definition.transliterations?.[transliterationScript] : undefined,
+  ]
     .filter(Boolean)
     .join(' · ');
+  const translation = translationLanguage ? definition.translations?.[translationLanguage] : undefined;
   return (
     <View style={styles.termRow}>
       <View style={styles.f1}>
@@ -73,7 +89,7 @@ function TermPair({ term, definition }: { term: ChapterSegment; definition?: Cha
         </View>
         <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
           {caption}
-          {definition.translations?.en ? ` — ${definition.translations.en}` : ''}
+          {translation ? ` — ${translation}` : ''}
         </ThemedText>
       </View>
       <MaterialCommunityIcons name="volume-high" size={18} color={theme.textDisabled} />
@@ -85,6 +101,11 @@ export default function ReaderScreen() {
   const { path } = useLocalSearchParams<{ path?: string }>();
   const chapterPath = path ?? DEFAULT_CHAPTER_PATH;
   const state = useChapter(chapterPath);
+  // Needed for useReadingPreference's fallback-to-first-available-language
+  // logic — the catalog is primed at boot and shared app-wide (see
+  // hooks/use-catalog.ts), so in practice this is already 'ready' by the
+  // time a chapter's been opened from anywhere in the app.
+  const catalogState = useCatalog();
 
   // Real "continue reading" signal for Home/Library (see
   // services/reading-history.ts) — recorded once the chapter actually
@@ -107,13 +128,15 @@ export default function ReaderScreen() {
           {state.status === 'ready' && <ReaderMenu chapter={state.chapter} chapterPath={chapterPath} />}
         </View>
 
-        {state.status === 'loading' ? (
+        {state.status === 'loading' || catalogState.status === 'loading' ? (
           <ReaderSkeleton />
         ) : state.status === 'error' ? (
           <AsyncStateView state={state} />
+        ) : catalogState.status === 'error' ? (
+          <AsyncStateView state={catalogState} />
         ) : (
           <FadeInView style={styles.fill}>
-            <ReaderContent chapter={state.chapter} chapterPath={chapterPath} />
+            <ReaderContent chapter={state.chapter} chapterPath={chapterPath} catalog={catalogState.catalog} />
           </FadeInView>
         )}
       </SafeAreaView>
@@ -184,9 +207,14 @@ function ReaderMenu({ chapter, chapterPath }: { chapter: Chapter; chapterPath: s
   );
 }
 
-function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath: string }) {
+function ReaderContent({ chapter, chapterPath, catalog }: { chapter: Chapter; chapterPath: string; catalog: Catalog }) {
   const theme = useTheme();
   const data = useMemo(() => deriveReaderData(chapter), [chapter]);
+  const { preference } = useReadingPreference(catalog);
+  const { translationLanguage, transliterationScript } = preference;
+  const translationFor = (seg: ChapterSegment) => (translationLanguage ? seg.translations?.[translationLanguage] : undefined);
+  const transliterationFor = (seg: ChapterSegment) =>
+    transliterationScript ? seg.transliterations?.[transliterationScript] : undefined;
 
   return (
     <ScrollView contentContainerStyle={styles.content}>
@@ -200,8 +228,8 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
           <SectionLabel>{chapter.labels?.competency?.en ?? 'Competency'}</SectionLabel>
           <SegmentLine
             source={data.competency.text}
-            transliteration={data.competency.transliterations?.devanagari}
-            translation={data.competency.translations?.en}
+            transliteration={transliterationFor(data.competency)}
+            translation={translationFor(data.competency)}
           />
         </View>
       )}
@@ -213,8 +241,8 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
             <View key={seg.id} style={i > 0 ? styles.mt4 : undefined}>
               <SegmentLine
                 source={seg.text}
-                transliteration={seg.transliterations?.devanagari}
-                translation={seg.translations?.en}
+                transliteration={transliterationFor(seg)}
+                translation={translationFor(seg)}
                 speaker={seg.speaker}
               />
             </View>
@@ -232,8 +260,8 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
                 <View key={line.id} style={i < arr.length - 1 ? styles.poemLineSpacing : undefined}>
                   <SegmentLine
                     source={line.text}
-                    transliteration={line.transliterations?.devanagari}
-                    translation={line.translations?.en}
+                    transliteration={transliterationFor(line)}
+                    translation={translationFor(line)}
                   />
                 </View>
               ))}
@@ -250,7 +278,12 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
                 key={term.id}
                 style={i < data.vocabTerms.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }}
               >
-                <TermPair term={term} definition={data.vocabDefs.get(term.id)} />
+                <TermPair
+                  term={term}
+                  definition={data.vocabDefs.get(term.id)}
+                  translationLanguage={translationLanguage}
+                  transliterationScript={transliterationScript}
+                />
               </View>
             ))}
           </View>
@@ -266,7 +299,12 @@ function ReaderContent({ chapter, chapterPath }: { chapter: Chapter; chapterPath
                 key={term.id}
                 style={i < data.noteTerms.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }}
               >
-                <TermPair term={term} definition={data.noteDefs.get(term.id)} />
+                <TermPair
+                  term={term}
+                  definition={data.noteDefs.get(term.id)}
+                  translationLanguage={translationLanguage}
+                  transliterationScript={transliterationScript}
+                />
               </View>
             ))}
           </View>
