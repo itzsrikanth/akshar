@@ -88,16 +88,25 @@ export class CdnContentRepository implements ContentRepository {
     this.catalogCache = undefined;
   }
 
-  private async fetchJson<T>(path: string): Promise<T> {
-    // jsDelivr sends Cache-Control: max-age=604800 (7 days) — sized for its own CDN edges
-    // (s-maxage=43200 there), but the same header makes the OS's HTTP cache serve a week-old
-    // response transparently, invisible to and unaffected by our own cache invalidation
-    // (setBaseUrl/clearCache, pull-to-refresh) and by purging jsDelivr's edge cache — neither
-    // touches what's already sitting in the device's local HTTP cache. We already do
-    // session-scoped caching ourselves (chapterCache/catalogCache), so there's no need for a
-    // second, much longer-lived cache underneath it working against content freshness.
-    const bustUrl = `${this.baseUrl}/${path}${path.includes('?') ? '&' : '?'}_cb=${Date.now()}`;
-    const res = await fetch(bustUrl, { cache: 'no-store' });
+  // jsDelivr sends Cache-Control: max-age=604800 (7 days) — sized for its own CDN edges
+  // (s-maxage=43200 there), but the same header makes the OS's HTTP cache serve a week-old
+  // response transparently, invisible to and unaffected by our own cache invalidation
+  // (setBaseUrl/clearCache, pull-to-refresh) and by purging jsDelivr's edge cache — neither
+  // touches what's already sitting in the device's local HTTP cache. We already do
+  // session-scoped caching ourselves (chapterCache/catalogCache), so there's no need for a
+  // second, much longer-lived cache underneath it working against content freshness.
+  //
+  // `versionKey`, when available (a chapter's contentHash — see scripts/build_json.py),
+  // is a far better fix than blanket-busting every request: it only changes when that
+  // chapter's actual content changes, so the resulting URL is safe to cache aggressively —
+  // both jsDelivr's edge and the device benefit from real caching, and a real content change
+  // still produces a real cache miss automatically, no purge needed. Without one (api/
+  // contents.json has no hash of its own — it changes whenever any chapter does), fall back
+  // to timestamp-busting + no-store, same as before.
+  private async fetchJson<T>(path: string, versionKey?: string): Promise<T> {
+    const query = versionKey ? `v=${versionKey}` : `_cb=${Date.now()}`;
+    const url = `${this.baseUrl}/${path}${path.includes('?') ? '&' : '?'}${query}`;
+    const res = await fetch(url, versionKey ? undefined : { cache: 'no-store' });
     if (!res.ok) {
       throw new Error(`ContentRepository: ${path} failed (${res.status})`);
     }
@@ -119,12 +128,24 @@ export class CdnContentRepository implements ContentRepository {
   getChapter(path: string): Promise<Chapter> {
     let cached = this.chapterCache.get(path);
     if (!cached) {
-      cached = this.fetchJson<Chapter>(`api/${path}`);
+      cached = this.resolveContentHash(path).then((versionKey) => this.fetchJson<Chapter>(`api/${path}`, versionKey));
       this.chapterCache.set(path, cached);
       // Don't cache a rejected fetch — a transient network error shouldn't
       // permanently poison this path for the rest of the session.
       cached.catch(() => this.chapterCache.delete(path));
     }
     return cached;
+  }
+
+  /** Looks up a chapter's contentHash from the catalog for version-keyed caching (see
+   *  fetchJson) — falls back to undefined (timestamp-busting) if the catalog fetch itself
+   *  fails or the path isn't found there, rather than blocking the chapter fetch on it. */
+  private async resolveContentHash(path: string): Promise<string | undefined> {
+    try {
+      const catalog = await this.getCatalog();
+      return catalog.chapters.find((c) => c.path === path)?.contentHash;
+    } catch {
+      return undefined;
+    }
   }
 }
