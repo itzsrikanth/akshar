@@ -8,6 +8,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
+import { FontSizeStepper } from '@/components/font-size-stepper';
 import { SettingsSkeleton } from '@/components/skeletons/settings-skeleton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
@@ -121,6 +122,14 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           </View>
         </>
       )}
+
+      <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+        TEXT SIZE
+      </ThemedText>
+      <View style={[styles.card, styles.row, { borderColor: theme.border }]}>
+        <ThemedText type="default">Reading text size</ThemedText>
+        <FontSizeStepper showLabel />
+      </View>
 
       {scope && (
         <>

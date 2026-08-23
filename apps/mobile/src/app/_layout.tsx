@@ -10,6 +10,7 @@ import { useCatalog } from '@/hooks/use-catalog';
 import { primeCatalog } from '@/services/catalog-store';
 import { initCrashReporting } from '@/services/crash-reporting';
 import { applyDevSettingsOnLaunch } from '@/services/dev-settings';
+import { primeFontScale } from '@/services/font-scale-store';
 import { hasCompletedOnboarding } from '@/services/onboarding-storage';
 import { deriveScope } from '@/services/scope';
 
@@ -41,7 +42,7 @@ function RootLayout() {
     // however long the boot check actually takes.
     SplashScreen.hideAsync();
     applyDevSettingsOnLaunch()
-      .then(() => Promise.all([primeCatalog(), hasCompletedOnboarding()]))
+      .then(() => Promise.all([primeCatalog(), hasCompletedOnboarding(), primeFontScale()]))
       .then(([, completed]) => setNeedsOnboarding(!completed))
       .finally(() => setReady(true));
   }, []);

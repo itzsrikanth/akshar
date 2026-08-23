@@ -27,13 +27,15 @@ export function MatchExercise({ items }: { items: MatchItem[] }) {
           </View>
           <View style={styles.f1}>
             <View style={styles.termRow}>
-              <ThemedText type="default" themeColor="tint">
+              <ThemedText type="default" scalable themeColor="tint">
                 {item.term}
               </ThemedText>
               <MaterialCommunityIcons name="arrow-right" size={16} color={theme.textDisabled} />
-              <ThemedText type="default">{item.definition}</ThemedText>
+              <ThemedText type="default" scalable>
+                {item.definition}
+              </ThemedText>
             </View>
-            <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+            <ThemedText type="small" scalable themeColor="textSecondary" style={styles.mt2}>
               {[item.transliteration, item.translation].filter(Boolean).join(' — ')}
             </ThemedText>
           </View>

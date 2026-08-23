@@ -40,13 +40,13 @@ export function TrueFalseExercise({ items }: { items: TrueFalseItem[] }) {
       {items.map((item) => (
         <View key={item.id} style={styles.block}>
           <View style={styles.row}>
-            <ThemedText type="default" style={styles.f1}>
+            <ThemedText type="default" scalable style={styles.f1}>
               {item.statement}
             </ThemedText>
             <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
           </View>
           {(item.transliteration || item.translation) && (
-            <ThemedText type="small" themeColor="textSecondary" style={styles.caption}>
+            <ThemedText type="small" scalable themeColor="textSecondary" style={styles.caption}>
               {[item.transliteration, item.translation].filter(Boolean).join(' · ')}
             </ThemedText>
           )}

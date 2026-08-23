@@ -18,9 +18,9 @@ export function FillBlankExercise({ items }: { items: FillBlankItem[] }) {
       {items.map((item) => (
         <View key={item.id} style={styles.block}>
           <View style={styles.row}>
-            <ThemedText type="default" style={styles.f1}>
+            <ThemedText type="default" scalable style={styles.f1}>
               {item.before}
-              <ThemedText type="default" themeColor="tint" style={styles.blank}>
+              <ThemedText type="default" scalable themeColor="tint" style={styles.blank}>
                 {'   '}
               </ThemedText>
               {item.after}
@@ -28,7 +28,7 @@ export function FillBlankExercise({ items }: { items: FillBlankItem[] }) {
             <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
           </View>
           {(item.transliteration || item.translation) && (
-            <ThemedText type="small" themeColor="textSecondary" style={styles.caption}>
+            <ThemedText type="small" scalable themeColor="textSecondary" style={styles.caption}>
               {[item.transliteration, item.translation].filter(Boolean).join(' · ')}
             </ThemedText>
           )}
@@ -36,7 +36,9 @@ export function FillBlankExercise({ items }: { items: FillBlankItem[] }) {
             <ThemedText type="smallBold" themeColor="tint" style={styles.answerLabel}>
               ANSWER
             </ThemedText>
-            <ThemedText type="default">{item.answer}</ThemedText>
+            <ThemedText type="default" scalable>
+              {item.answer}
+            </ThemedText>
           </View>
         </View>
       ))}

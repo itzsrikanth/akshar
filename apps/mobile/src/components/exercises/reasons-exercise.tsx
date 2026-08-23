@@ -23,12 +23,12 @@ export function ReasonsExercise({ items }: { items: ReasonsItem[] }) {
                 ?
               </ThemedText>
             </View>
-            <ThemedText type="default" style={styles.f1}>
+            <ThemedText type="default" scalable style={styles.f1}>
               {item.question}
             </ThemedText>
             <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
           </View>
-          <ThemedText type="small" themeColor="textSecondary" style={styles.qCaption}>
+          <ThemedText type="small" scalable themeColor="textSecondary" style={styles.qCaption}>
             {[item.questionTransliteration, item.questionTranslation].filter(Boolean).join(' · ')}
           </ThemedText>
 
@@ -37,9 +37,11 @@ export function ReasonsExercise({ items }: { items: ReasonsItem[] }) {
               <ThemedText type="smallBold" themeColor="tint" style={styles.reasonLabel}>
                 REASON
               </ThemedText>
-              <ThemedText type="reading">{item.reason}</ThemedText>
+              <ThemedText type="reading" scalable>
+                {item.reason}
+              </ThemedText>
               {(item.reasonTransliteration || item.reasonTranslation) && (
-                <ThemedText type="small" themeColor="textSecondary" style={styles.mt4}>
+                <ThemedText type="small" scalable themeColor="textSecondary" style={styles.mt4}>
                   {[item.reasonTransliteration, item.reasonTranslation].filter(Boolean).join(' · ')}
                 </ThemedText>
               )}

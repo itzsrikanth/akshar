@@ -35,9 +35,11 @@ export function SegmentLine({
             {speaker}
           </ThemedText>
         )}
-        <ThemedText type="reading">{source}</ThemedText>
+        <ThemedText type="reading" scalable>
+          {source}
+        </ThemedText>
         {transliteration ? (
-          <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+          <ThemedText type="small" scalable themeColor="textSecondary" style={styles.mt2}>
             {transliteration}
           </ThemedText>
         ) : (
@@ -46,7 +48,7 @@ export function SegmentLine({
           </ThemedText>
         )}
         {translation ? (
-          <ThemedText type="small" style={styles.mt2}>
+          <ThemedText type="small" scalable style={styles.mt2}>
             {translation}
           </ThemedText>
         ) : (

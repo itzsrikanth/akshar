@@ -34,12 +34,12 @@ export function AnswerExercise({ items }: { items: AnswerItem[] }) {
                     Q
                   </ThemedText>
                 </View>
-                <ThemedText type="default" style={styles.f1}>
+                <ThemedText type="default" scalable style={styles.f1}>
                   {item.question}
                 </ThemedText>
                 <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
               </View>
-              <ThemedText type="small" themeColor="textSecondary" style={styles.qCaption}>
+              <ThemedText type="small" scalable themeColor="textSecondary" style={styles.qCaption}>
                 {[item.questionTransliteration, item.questionTranslation].filter(Boolean).join(' · ')}
               </ThemedText>
 
@@ -49,12 +49,12 @@ export function AnswerExercise({ items }: { items: AnswerItem[] }) {
                     A
                   </ThemedText>
                 </View>
-                <ThemedText type="default" style={styles.f1}>
+                <ThemedText type="default" scalable style={styles.f1}>
                   {item.answer}
                 </ThemedText>
                 <MaterialCommunityIcons name="volume-high" size={17} color={theme.textDisabled} />
               </View>
-              <ThemedText type="small" themeColor="textSecondary" style={styles.aCaption}>
+              <ThemedText type="small" scalable themeColor="textSecondary" style={styles.aCaption}>
                 {[item.answerTransliteration, item.answerTranslation].filter(Boolean).join(' · ')}
               </ThemedText>
             </View>

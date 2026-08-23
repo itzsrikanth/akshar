@@ -13,6 +13,7 @@ import { TrueFalseExercise } from '@/components/exercises/true-false-exercise';
 import type { AnswerItem, ExerciseTypeId, FillBlankItem, MatchItem } from '@/components/exercises/types';
 import { AsyncStateView } from '@/components/async-state-view';
 import { FadeInView } from '@/components/fade-in';
+import { FontSizeStepper } from '@/components/font-size-stepper';
 import { SegmentLine } from '@/components/segment-line';
 import { ExercisesSkeleton } from '@/components/skeletons/exercises-skeleton';
 import { ThemedText } from '@/components/themed-text';
@@ -97,11 +98,16 @@ export default function ExercisesScreen() {
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <ScrollView contentContainerStyle={styles.content}>
-          <Touchable onPress={() => router.back()} hitSlop={8}>
-            <ThemedText type="smallBold" themeColor="tint">
-              ← Back to chapter
-            </ThemedText>
-          </Touchable>
+          <ScrollView horizontal showsHorizontalScrollIndicator={false}>
+            <View style={styles.headerRow}>
+              <Touchable onPress={() => router.back()} hitSlop={8}>
+                <ThemedText type="smallBold" themeColor="tint">
+                  ← Back to chapter
+                </ThemedText>
+              </Touchable>
+              <FontSizeStepper />
+            </View>
+          </ScrollView>
           {state.status === 'loading' ? (
             <ExercisesSkeleton />
           ) : state.status === 'error' ? (
@@ -182,6 +188,7 @@ const styles = StyleSheet.create({
   container: { flex: 1 },
   safeArea: { flex: 1 },
   content: { padding: Spacing.three, paddingBottom: Spacing.six },
+  headerRow: { flexDirection: 'row', alignItems: 'center', gap: Spacing.four },
   chapterTitle: { marginTop: Spacing.two, marginBottom: Spacing.three },
   pillScroll: { marginBottom: Spacing.four },
   pillRow: { flexDirection: 'row', gap: Spacing.two },

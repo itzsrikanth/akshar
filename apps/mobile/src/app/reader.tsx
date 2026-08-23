@@ -7,6 +7,7 @@ import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context'
 import { AsyncStateView } from '@/components/async-state-view';
 import { EXERCISE_TYPES } from '@/components/exercises/registry';
 import { FadeInView } from '@/components/fade-in';
+import { FontSizeStepper } from '@/components/font-size-stepper';
 import { SegmentLine } from '@/components/segment-line';
 import { ReaderSkeleton } from '@/components/skeletons/reader-skeleton';
 import { ThemedText } from '@/components/themed-text';
@@ -81,13 +82,15 @@ function TermPair({
     <View style={styles.termRow}>
       <View style={styles.f1}>
         <View style={styles.termHeadRow}>
-          <ThemedText type="default" themeColor="tint">
+          <ThemedText type="default" scalable themeColor="tint">
             {term.text}
           </ThemedText>
           <MaterialCommunityIcons name="arrow-right" size={16} color={theme.textDisabled} />
-          <ThemedText type="default">{definition.text}</ThemedText>
+          <ThemedText type="default" scalable>
+            {definition.text}
+          </ThemedText>
         </View>
-        <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+        <ThemedText type="small" scalable themeColor="textSecondary" style={styles.mt2}>
           {caption}
           {translation ? ` — ${translation}` : ''}
         </ThemedText>
@@ -125,7 +128,12 @@ export default function ReaderScreen() {
           </Touchable>
           {/* Only once the chapter's actually loaded — download/exercises
               options both need real chapter data, not the skeleton/error state. */}
-          {state.status === 'ready' && <ReaderMenu chapter={state.chapter} chapterPath={chapterPath} />}
+          {state.status === 'ready' && (
+            <View style={styles.topRowActions}>
+              <FontSizeStepper />
+              <ReaderMenu chapter={state.chapter} chapterPath={chapterPath} />
+            </View>
+          )}
         </View>
 
         {state.status === 'loading' || catalogState.status === 'loading' ? (
@@ -344,6 +352,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: Spacing.three,
     paddingTop: Spacing.two,
   },
+  topRowActions: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three },
   settingsButton: { width: 32, height: 32, borderRadius: Radius.pill, alignItems: 'center', justifyContent: 'center' },
   menuBackdrop: { flex: 1 },
   menuCard: {
