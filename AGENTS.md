@@ -80,6 +80,7 @@ used, never invent their own.
    that might be wrong. (Precedent: `ch02-nanna-kanasu/source.kn.yaml` segment `story-d11` has
    no `speaker` field because the original text had no textual basis to infer one — that is
    correct, not incomplete.)
+
 4. **Partial contribution files are normal and valid.** A transliteration/translation file does
    not need to cover every segment id in its source. Do not pad missing entries with placeholder
    text to make a file "complete."
@@ -95,6 +96,18 @@ used, never invent their own.
 6. **`meta.license` must reflect what's actually on the DIKSHA source page** (CC BY 4.0 or
    CC BY-SA 4.0 vary by board/state) — verify it, don't default to copying the previous
    chapter's license value without checking.
+
+## Translation editorial standard
+
+Translations should be accurate, natural, and age-appropriate for the textbook's intended readers; they are not required to be word-for-word literal.
+
+Preserve helpful contextual explanations in an established translation when they accurately explain the source without changing its meaning. Examples include a brief gloss for a culturally specific term, or a concise musical or technical clarification that is directly supported by the text.
+
+Do not remove such context solely because it is implicit in the source. Remove or revise it only when it adds unsupported facts, changes meaning, or is misleading. When improving an existing translation, prefer a minimal diff and preserve its established spelling and readability style unless a project-wide policy changes.
+
+## Markdown formatting
+
+Do not manually hard-wrap prose paragraphs in `.md` files. Keep each paragraph on one line; editors handle visual wrapping.
 
 ## Generated files — never hand-edit
 
