@@ -1,4 +1,5 @@
 import type { CatalogChapter } from './content-repository';
+import { matchesLegacyScope } from './catalog-compatibility';
 
 // The catalog's real hierarchy, top to bottom — board is the outermost
 // grouping (e.g. KSEEB), subject the innermost before individual chapters.
@@ -16,7 +17,9 @@ export function levelLabel(key: LevelKey, value: LevelValue): string {
 
 /** Chapters matching every selection made so far, in level order. */
 export function filterChapters(chapters: CatalogChapter[], selected: LevelValue[]): CatalogChapter[] {
-  return chapters.filter((c) => LEVEL_KEYS.every((key, i) => i >= selected.length || c[key] === selected[i]));
+  return chapters.filter((chapter) =>
+    LEVEL_KEYS.every((key, index) => index >= selected.length || chapter[key] === selected[index]) ||
+    matchesLegacyScope(chapter, selected));
 }
 
 /** Every distinct value chapters-matching-`selected` have at `LEVEL_KEYS[levelIndex]`. */
@@ -44,7 +47,11 @@ const AUTO_FILL_LEVELS = LEVEL_KEYS.length - 1;
  * appears at that level automatically, with no screen rewrite.
  */
 export function autoResolve(chapters: CatalogChapter[], manualSelected: LevelValue[]): LevelValue[] {
-  const resolved = [...manualSelected];
+  const resolved: LevelValue[] = [];
+  for (const value of manualSelected) {
+    if (!optionsAtLevel(chapters, resolved, resolved.length).includes(value)) break;
+    resolved.push(value);
+  }
   while (resolved.length < AUTO_FILL_LEVELS) {
     const options = optionsAtLevel(chapters, resolved, resolved.length);
     if (options.length !== 1) break;

@@ -1,6 +1,8 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import type { Catalog } from './content-repository';
+import { normalizeCatalog } from './catalog-compatibility';
+import { isLocalDataResetting } from './local-reset-state';
 
 // Persists the catalog across cold starts, keyed off Catalog.generatedAt
 // (see services/catalog-store.ts) — content is public/non-sensitive, and
@@ -12,7 +14,7 @@ const STORAGE_KEY = 'akshar:catalog-cache';
 export async function loadCachedCatalog(): Promise<Catalog | null> {
   try {
     const raw = await AsyncStorage.getItem(STORAGE_KEY);
-    return raw ? (JSON.parse(raw) as Catalog) : null;
+    return raw ? normalizeCatalog(JSON.parse(raw) as Catalog) : null;
   } catch {
     // Corrupt or inaccessible storage shouldn't crash the app — just means
     // no cache, same as a first launch.
@@ -21,5 +23,6 @@ export async function loadCachedCatalog(): Promise<Catalog | null> {
 }
 
 export async function saveCachedCatalog(catalog: Catalog): Promise<void> {
+  if (isLocalDataResetting()) return;
   await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(catalog));
 }

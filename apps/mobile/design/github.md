@@ -1,5 +1,4 @@
-repo: itzsrikanth/akshar
-branch: main
+repo: itzsrikanth/akshar branch: main
 
 ## Last sync
 date: 2026-08-07T16:09:58Z

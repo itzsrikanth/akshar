@@ -9,6 +9,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { forceCatalogRefresh } from './catalog-store';
 import { CONTENT_SOURCES, type ContentSourceId } from './config';
 import { setContentBaseUrlForDev } from './index';
+import { isLocalDataResetting } from './local-reset-state';
 
 const STORAGE_KEY = 'akshar:dev-settings';
 
@@ -40,8 +41,9 @@ export async function getDevContentSource(): Promise<ContentSourceId | null> {
 }
 
 export async function setDevContentSource(source: ContentSourceId): Promise<void> {
-  if (!__DEV__) return;
+  if (!__DEV__ || isLocalDataResetting()) return;
   await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify({ contentSource: source }));
+  if (isLocalDataResetting()) return;
   setContentBaseUrlForDev(CONTENT_SOURCES[source]);
   // The catalog is now a shared, primed-once-at-boot store (see
   // catalog-store.ts) rather than something each screen refetches on

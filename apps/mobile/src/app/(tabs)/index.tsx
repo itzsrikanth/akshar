@@ -18,6 +18,7 @@ import { useLastOpenedChapter } from '@/hooks/use-reading-history';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
+import { canonicalChapterPath } from '@/services/catalog-compatibility';
 import { formatRelativeTime } from '@/services/reading-history';
 
 export default function HomeScreen() {
@@ -50,7 +51,9 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
   // catalog.chapters[0] (that was a fabricated stand-in for "the user's
   // current chapter" with no basis in what they'd actually read). Section
   // simply doesn't render until there's a real entry (see JSX below).
-  const continueReading = lastOpened ? catalog.chapters.find((c) => c.path === lastOpened.path) : undefined;
+  const continueReading = lastOpened
+    ? catalog.chapters.find((chapter) => canonicalChapterPath(chapter.path) === canonicalChapterPath(lastOpened.path))
+    : undefined;
 
   const subjects = useMemo(() => {
     const bySubject = new Map<string, { total: number; downloaded: number }>();

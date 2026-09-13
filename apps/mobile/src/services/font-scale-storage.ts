@@ -1,4 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { isLocalDataResetting } from './local-reset-state';
 
 // Mirrors reading-preference-storage.ts's shape — same profile-aware key, same load/save pattern.
 const STORAGE_KEY = 'akshar:font-scale:default';
@@ -15,5 +16,6 @@ export async function loadFontScale(): Promise<number | null> {
 }
 
 export async function saveFontScale(scale: number): Promise<void> {
+  if (isLocalDataResetting()) return;
   await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(scale));
 }

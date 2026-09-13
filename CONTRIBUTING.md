@@ -60,7 +60,7 @@ The template below is the current legacy format. Before creating a new book or c
 2. Copy the template below into `source.{lang}.yaml`
 3. Fill in each segment — one entry per line, question, vocabulary term, or note
 4. Add at least one translation or transliteration file
-5. Open a PR with title: `add: KSEEB/Karnataka/English/Grade5/Kannada/ch02`
+5. Open a PR with title: `add: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch02`
 
 ### Source file template
 
@@ -68,8 +68,8 @@ The template below is the current legacy format. Before creating a new book or c
 meta:
   board: KSEEB                          # issuing board
   state: Karnataka                      # state, or "national" for CBSE/ICSE
-  medium: English                       # language of instruction
-  grade: 5                              # numeric
+  medium: Kannada                       # language of instruction
+  grade: 3                              # numeric
   subject: Kannada                      # subject name in English
   chapter: 1                            # numeric
   slug: ch01-chapter-title              # kebab-case, used as folder name
@@ -163,6 +163,8 @@ poem-s1l1: ...
 ```
 
 You do not need to cover every segment. Partial contributions are welcome — cover what you can, leave the rest for others.
+
+To translate or transliterate the chapter title, add `title` inside the contributor's `labels` block, matching the source's `labels.title` key. The source title label must equal `meta.title`. Do not invent a title segment ID. The catalog can display these title labels without downloading the chapter body.
 
 ## License
 

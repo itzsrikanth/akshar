@@ -60,6 +60,8 @@ def compile_chapter(chapter_dir, source_path):
     segments = source["segments"]
     src_lang = source_lang_code(source_path)
     source_labels = source.get("labels") or {}
+    if source_labels.get("title", meta["title"]) != meta["title"]:
+        raise ValueError(f"labels.title must match meta.title: {source_path}")
 
     translits = load_contributor_files(chapter_dir, "transliteration")
     translations = load_contributor_files(chapter_dir, "translation")
@@ -101,6 +103,40 @@ def api_path_for(source_path):
     return API_DIR.joinpath(*parent_parts, f"{slug}.json")
 
 
+def add_compatibility_views(written, manifest_chapters):
+    config = json.loads((REPO_ROOT / "catalog-compatibility.json").read_text(encoding="utf-8"))
+    entries = {entry["path"]: entry for entry in manifest_chapters}
+    seen_paths = set()
+    for mapping in config["chapters"]:
+        canonical_path = mapping["canonicalPath"]
+        legacy_path = mapping["legacyPath"]
+        for relative_path in (canonical_path, legacy_path):
+            path = Path(relative_path)
+            if path.is_absolute() or ".." in path.parts or path.suffix != ".json" or relative_path in seen_paths:
+                raise ValueError(f"Invalid or duplicate compatibility path: {relative_path}")
+            seen_paths.add(relative_path)
+        if mapping["clientPath"] not in (canonical_path, legacy_path):
+            raise ValueError(f"Unknown client path for {canonical_path}")
+        for relative_path, scope in ((canonical_path, config["canonicalScope"]), (legacy_path, config["legacyScope"])):
+            expected = f'{scope["board"]}/{scope["state"]}/{scope["medium"]}/Grade{scope["grade"]}/{scope["subject"]}/{mapping["slug"]}.json'
+            if relative_path != expected:
+                raise ValueError(f"Compatibility path does not match its scope: {relative_path}")
+        entry = entries[canonical_path]
+        if entry["slug"] != mapping["slug"] or any(entry[key] != value for key, value in config["canonicalScope"].items()):
+            raise ValueError(f"Compatibility source identity mismatch: {canonical_path}")
+        if legacy_path in entries or API_DIR / legacy_path in written:
+            raise ValueError(f"Compatibility output collides with source: {legacy_path}")
+        canonical = written[API_DIR / canonical_path]
+        legacy = {**canonical, "meta": {**canonical["meta"], **config["legacyScope"]}}
+        written[API_DIR / legacy_path] = legacy
+        manifest_chapters.append({
+            **entry,
+            **config["legacyScope"],
+            "path": legacy_path,
+            "contentHash": content_hash(legacy),
+        })
+
+
 def build_all():
     manifest_chapters = []
     written = {}
@@ -126,7 +162,13 @@ def build_all():
                 "translations": langs_available,
                 "contentHash": content_hash(compiled),
             })
+            title_labels = compiled["labels"].get("title", {})
+            for field, codes in (("titleTranslations", langs_available), ("titleTransliterations", scripts_available)):
+                titles = {code: title_labels[code] for code in codes if code in title_labels}
+                if titles:
+                    manifest_chapters[-1][field] = titles
 
+    add_compatibility_views(written, manifest_chapters)
     manifest_chapters.sort(key=lambda c: (c["board"], c["state"], c["medium"], c["grade"], c["subject"], c["chapter"]))
 
     # Only bump generatedAt when the chapter list actually changed — a

@@ -1,0 +1,1881 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Saamarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ओंदु वाक्यदल्लि उत्तरिसु.",
+      "en": "Exercise A — Answer in one sentence.",
+      "hi": "अभ्यास अ — एक वाक्य में उत्तर दो।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.",
+      "latin": "Abhyaasa a — ondu vaakyadalli uttarisu."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — एरडु/मूरु वाक्यगळल्लि उत्तरिसु.",
+      "en": "Exercise B — Answer in two or three sentences.",
+      "hi": "अभ्यास आ — दो या तीन वाक्यों में उत्तर दो।",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಎರಡು/ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸು.",
+      "latin": "Abhyaasa aa — eradu/mooru vaakyagalalli uttarisu."
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ — कारण कोडु.",
+      "en": "Exercise C — Give reasons.",
+      "hi": "अभ्यास इ — कारण बताओ।",
+      "kn": "ಅಭ್ಯಾಸ ಇ — ಕಾರಣ ಕೊಡು.",
+      "latin": "Abhyaasa i — kaarana kodu."
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई — ई मातुगळन्नु यारु? यारिगे हेळिदरु? एंदु बरे.",
+      "en": "Exercise D — Write who said these words and to whom.",
+      "hi": "अभ्यास ई — लिखो कि ये बातें किसने, किससे कहीं।",
+      "kn": "ಅಭ್ಯಾಸ ಈ — ಈ ಮಾತುಗಳನ್ನು ಯಾರು? ಯಾರಿಗೆ ಹೇಳಿದರು? ಎಂದು ಬರೆ.",
+      "latin": "Abhyaasa ee — ee maatugalannu yaaru? Yaarige helidaru? Endu bare."
+    },
+    "exercise-E": {
+      "devanagari": "अभ्यास उ — ई पदगळन्नु बळसि स्वंत वाक्य रचिसु.",
+      "en": "Exercise E — Make your own sentences using these words.",
+      "hi": "अभ्यास उ — इन शब्दों से अपने वाक्य बनाओ।",
+      "kn": "ಅಭ್ಯಾಸ ಉ — ಈ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ರಚಿಸು.",
+      "latin": "Abhyaasa u — ee padagalannu balasi svanta vaakya rachisu."
+    },
+    "exercise-F": {
+      "devanagari": "सामर्थ्याधारित अभ्यास अ — सरि-तप्पु गुरुतिसु.",
+      "en": "Competency-based exercise A — Mark true or false.",
+      "hi": "क्षमता-आधारित अभ्यास अ — सही या गलत बताओ।",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಅ — ಸರಿ-ತಪ್ಪು ಗುರುತಿಸು.",
+      "latin": "Saamarthyaadhaarita abhyaasa a — sari-tappu gurutisu."
+    },
+    "exercise-G": {
+      "devanagari": "सामर्थ्याधारित अभ्यास आ — उत्तरिसु.",
+      "en": "Competency-based exercise B — Answer.",
+      "hi": "क्षमता-आधारित अभ्यास आ — उत्तर दो।",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಆ — ಉತ್ತರಿಸು.",
+      "latin": "Saamarthyaadhaarita abhyaasa aa — uttarisu."
+    },
+    "exercise-H": {
+      "devanagari": "सामर्थ्याधारित अभ्यास इ",
+      "en": "Competency-based exercise C",
+      "hi": "क्षमता-आधारित अभ्यास इ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಇ",
+      "latin": "Saamarthyaadhaarita abhyaasa i"
+    },
+    "exercise-I": {
+      "devanagari": "भाषाभ्यास अ",
+      "en": "Language practice A",
+      "hi": "भाषा-अभ्यास अ",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಅ",
+      "latin": "Bhaashaabhyaasa a"
+    },
+    "exercise-J": {
+      "devanagari": "भाषाभ्यास आ",
+      "en": "Language practice B",
+      "hi": "भाषा-अभ्यास आ",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಆ",
+      "latin": "Bhaashaabhyaasa aa"
+    },
+    "exercise-K": {
+      "devanagari": "भाषा चटुवटिके अ",
+      "en": "Language activity A",
+      "hi": "भाषा-गतिविधि अ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Bhaashaa chatuvatike a"
+    },
+    "exercise-L": {
+      "devanagari": "भाषा चटुवटिके आ",
+      "en": "Language activity B",
+      "hi": "भाषा-गतिविधि आ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ",
+      "latin": "Bhaashaa chatuvatike aa"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "Pravesha"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "story": {
+      "devanagari": "पाठ",
+      "en": "Lesson",
+      "hi": "पाठ",
+      "kn": "ಪಾಠ",
+      "latin": "Paatha"
+    },
+    "title": {
+      "devanagari": "स्वातंत्र्य दिनाचरणे",
+      "en": "Independence Day Celebration",
+      "hi": "स्वतंत्रता दिवस समारोह",
+      "kn": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+      "latin": "Svaatantrya Dinaacharane"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "English",
+    "original_publisher": "KSEEB",
+    "slug": "ch03-svatantrya-dinacharane",
+    "source_url": "https://diksha.gov.in/dial/X6D4P9",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "competency",
+      "text": "ತರಗತಿಯಲ್ಲಿ ನಡೆಯುವ ಸಂವಾದದಲ್ಲಿ ಭಾಗವಹಿಸುವುದು. ಗುಂಪಿನಲ್ಲಿ ಮಾತನಾಡುವಾಗ ಸರದಿಯನ್ನು ಅನುಸರಿಸುವುದು.",
+      "translations": {
+        "en": "Taking part in classroom discussions. Taking turns when speaking in a group.",
+        "hi": "कक्षा में होने वाले संवाद में भाग लेना। समूह में बात करते समय अपनी बारी का पालन करना।"
+      },
+      "transliterations": {
+        "devanagari": "तरगतियल्लि नडेयुव संवाददल्लि भागवहिसुवुदु. गुंपिनल्लि मातनाडुवाग सरदियन्नु अनुसरिसुवुदु.",
+        "latin": "Taragatiyalli nadeyuva samvaadadalli bhaagavahisuvudu. Gumpinalli maatanaaduvaaga saradiyannu anusarisuvudu."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ನಾವು ಹಬ್ಬಗಳನ್ನು ಆಚರಿಸುತ್ತೇವೆ. ಹಬ್ಬ ಆಚರಿಸಲು ಕೆಲವು ಸಿದ್ಧತೆಗಳು ಬೇಕು.",
+      "translations": {
+        "en": "We celebrate festivals. Some preparations are needed to celebrate a festival.",
+        "hi": "हम त्योहार मनाते हैं। त्योहार मनाने के लिए कुछ तैयारियाँ करनी पड़ती हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नावु हब्बगळन्नु आचरिसुत्तेवे. हब्ब आचरिसलु केलवु सिद्धतेगळु बेकु.",
+        "latin": "Naavu habbagalannu aacharisutteve. Habba aacharisalu kelavu siddhategalu beku."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಎಲ್ಲ ಸಿದ್ಧತೆಗಳನ್ನು ಒಬ್ಬರೇ ಮಾಡಬೇಕಾದರೆ ತೊಂದರೆ ಅಲ್ಲವೇ? ಹಾಗಾದರೆ ಆ ತೊಂದರೆ ನಿವಾರಿಸಲು ಏನು ಮಾಡಬೇಕು ಎಂಬ ಕುತೂಹಲವೇ?",
+      "translations": {
+        "en": "Wouldn't it be difficult for one person to make all the preparations? Are you curious about how to overcome that difficulty?",
+        "hi": "अगर सारी तैयारियाँ अकेले करनी पड़ें तो कठिनाई होगी, है ना? क्या तुम जानना चाहते हो कि वह कठिनाई कैसे दूर की जाए?"
+      },
+      "transliterations": {
+        "devanagari": "एल्ल सिद्धतेगळन्नु ओब्बरे माडबेकादरे तोंदरे अल्लवे? हागादरे आ तोंदरे निवारिसलु एनु माडबेकु एंब कुतूहलवे?",
+        "latin": "Ella siddhategalannu obbare maadabekaadare tondare allave? Haagaadare aa tondare nivaarisalu enu maadabeku emba kutoohalave?"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-3",
+      "section": "intro",
+      "text": "ಶಾಲೆಯಲ್ಲಿ ಗುರುಗಳು ಹಾಗೂ ವಿದ್ಯಾರ್ಥಿಗಳು ಅನುಸರಿಸಿದ ಕ್ರಮವನ್ನು ಗಮನಿಸಿ ತಿಳಿ.",
+      "translations": {
+        "en": "Observe and learn how the teachers and pupils at a school went about it.",
+        "hi": "देखो और जानो कि विद्यालय में शिक्षकों और विद्यार्थियों ने क्या तरीका अपनाया।"
+      },
+      "transliterations": {
+        "devanagari": "शालेयल्लि गुरुगळु हागू विद्यार्थिगळु अनुसरिसिद क्रमवन्नु गमनिसि तिळि.",
+        "latin": "Shaaleyalli gurugalu haagoo vidyaarthigalu anusarisida kramavannu gamanisi tili."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಬಿಡುವಿನ ಸಮಯ. ಮುಖ್ಯ ಗುರುಗಳು ಶಾಲಾ ವಿದ್ಯಾರ್ಥಿ ಮಂತ್ರಿಮಂಡಲದ ಸಭೆ ಕರೆದರು. ಮಂತ್ರಿಗಳು ಸಭೆಗೆ ಬಂದರು.",
+      "translations": {
+        "en": "It was free time. The headteacher called a meeting of the school's student cabinet. The ministers came to the meeting.",
+        "hi": "खाली समय था। प्रधानाध्यापक ने विद्यालय के विद्यार्थी मंत्रिमंडल की बैठक बुलाई। मंत्री बैठक में आए।"
+      },
+      "transliterations": {
+        "devanagari": "बिडुविन समय. मुख्य गुरुगळु शाला विद्यार्थि मंत्रिमंडलद सभे करेदरु. मंत्रिगळु सभेगे बंदरु.",
+        "latin": "Biduvina samaya. Mukhya gurugalu shaalaa vidyaarthi mantrimandalada sabhe karedaru. Mantrigalu sabhege bandaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಮಕ್ಕಳೇ, ಇದು ಆಗಸ್ಟ್ ತಿಂಗಳು. ಈ ತಿಂಗಳಲ್ಲಿ ಆಚರಿಸುವ ರಾಷ್ಟ್ರೀಯ ಹಬ್ಬ ಯಾವುದು? ನೀ ಹೇಳಬಲ್ಲೆಯಾ ರಾಜು?",
+      "translations": {
+        "en": "Children, this is August. Which national festival do we celebrate this month? Can you tell us, Raju?",
+        "hi": "बच्चो, यह अगस्त का महीना है। इस महीने हम कौन-सा राष्ट्रीय पर्व मनाते हैं? राजू, क्या तुम बता सकते हो?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळे, इदु आगस्ट् तिंगळु. ई तिंगळल्लि आचरिसुव राष्ट्रीय हब्ब यावुदु? नी हेळबल्लेया राजु?",
+        "latin": "Makkale, idu aagast tingalu. Ee tingalalli aacharisuva raashtreeya habba yaavudu? Nee helaballeyaa raaju?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ಎಲ್ಲರೂ",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ ಸರ್.",
+      "translations": {
+        "en": "Independence Day, sir.",
+        "hi": "स्वतंत्रता दिवस, सर।"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य दिनाचरणे सर्.",
+        "latin": "Svaatantrya dinaacharane sar."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಹೀಗೆ ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಮಾತನಾಡಬಾರದು. ಸರದಿ ಅನುಸರಿಸಬೇಕು ತಿಳಿಯಿತೇ? ಸರಿ, ರಾಜು ನೀನು ಹೇಳು, ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ ಎಂದರೇನು?",
+      "translations": {
+        "en": "You must not all speak at once like this. Take turns, understood? All right, Raju, tell us: what is Independence Day?",
+        "hi": "इस तरह सबको एक साथ नहीं बोलना चाहिए। अपनी बारी से बोलना चाहिए, समझे? अच्छा राजू, तुम बताओ, स्वतंत्रता दिवस क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "हीगे एल्लरू ओट्टागि मातनाडबारदु. सरदि अनुसरिसबेकु तिळियिते? सरि, राजु नीनु हेळु, स्वातंत्र्य दिनाचरणे एंदरेनु?",
+        "latin": "Heege ellaroo ottaagi maatanaadabaaradu. Saradi anusarisabeku tiliyite? Sari, raaju neenu helu, svaatantrya dinaacharane endarenu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ರಾಜು (ಮುಖ್ಯಮಂತ್ರಿ)",
+      "text": "ನಮ್ಮ ದೇಶ ಸ್ವತಂತ್ರವಾದ ದಿನದ ನೆನಪಿಗಾಗಿ ಪ್ರತಿ ವರ್ಷ ದೇಶದಾದ್ಯಂತ ಆಚರಿಸುವ ಹಬ್ಬ.",
+      "translations": {
+        "en": "It is the festival celebrated across the country every year to remember the day our country became independent.",
+        "hi": "हमारा देश जिस दिन स्वतंत्र हुआ था, उसकी याद में हर साल पूरे देश में मनाया जाने वाला पर्व।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म देश स्वतंत्रवाद दिनद नेनपिगागि प्रति वर्ष देशदाद्यंत आचरिसुव हब्ब.",
+        "latin": "Namma desha svatantravaada dinada nenapigaagi prati varsha deshadaadyanta aacharisuva habba."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "story",
+      "speaker": "ಮೇರಿ (ಆರೋಗ್ಯ ಮಂತ್ರಿ)",
+      "text": "ಸ್ವತಂತ್ರವಾದ ದಿನ! ಹಾಗೆಂದರೇನು ಸರ್?",
+      "translations": {
+        "en": "The day it became independent! What does that mean, sir?",
+        "hi": "स्वतंत्र होने का दिन! इसका क्या मतलब है, सर?"
+      },
+      "transliterations": {
+        "devanagari": "स्वतंत्रवाद दिन! हागेंदरेनु सर्?",
+        "latin": "Svatantravaada dina! Haagendarenu sar?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಹಿಂದೆ ನಮ್ಮ ದೇಶವನ್ನು ಬ್ರಿಟಿಷರು ಆಳುತ್ತಿದ್ದರು. ದೇಶದ ಸ್ವಾಭಿಮಾನಿ ಜನರು ಗಾಂಧೀಜಿಯವರ ನೇತೃತ್ವದಲ್ಲಿ ಅವರ ವಿರುದ್ಧ ಹೋರಾಡಿ ಸ್ವಾತಂತ್ರ್ಯ ತಂದುಕೊಟ್ಟರು. ಅವರ ದೇಶಾಭಿಮಾನ, ತ್ಯಾಗ ಹಾಗೂ ಬಲಿದಾನದಿಂದ 1947 ಆಗಸ್ಟ್ 15 ರಂದು ನಮ್ಮ ದೇಶ ಸ್ವತಂತ್ರವಾಯಿತು. ದೇಶ ಸ್ವತಂತ್ರವಾದ ಸವಿ ನೆನಪಿಗೆ ಪ್ರತಿ ವರ್ಷ ದೇಶಾದ್ಯಂತ ಆಚರಿಸುವ ಹಬ್ಬವೇ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ.",
+      "translations": {
+        "en": "The British once ruled our country. Our self-respecting people fought against them under Gandhiji's leadership and won freedom. Through their patriotism, sacrifice and the giving of their lives, our country became independent on 15 August 1947. Independence Day is the festival celebrated throughout the country each year in happy remembrance of that freedom.",
+        "hi": "पहले हमारे देश पर अंग्रेज़ शासन करते थे। देश के स्वाभिमानी लोगों ने गांधीजी के नेतृत्व में उनके विरुद्ध लड़कर स्वतंत्रता दिलाई। उनकी देशभक्ति, त्याग और बलिदान से हमारा देश 15 अगस्त 1947 को स्वतंत्र हुआ। देश की स्वतंत्रता की सुखद याद में हर साल पूरे देश में मनाया जाने वाला पर्व ही स्वतंत्रता दिवस है।"
+      },
+      "transliterations": {
+        "devanagari": "हिंदे नम्म देशवन्नु ब्रिटिषरु आळुत्तिद्दरु. देशद स्वाभिमानि जनरु गांधीजियवर नेतृत्वदल्लि अवर विरुद्ध होराडि स्वातंत्र्य तंदुकोट्टरु. अवर देशाभिमान, त्याग हागू बलिदानदिंद 1947 आगस्ट् 15 रंदु नम्म देश स्वतंत्रवायितु. देश स्वतंत्रवाद सवि नेनपिगे प्रति वर्ष देशाद्यंत आचरिसुव हब्बवे स्वातंत्र्य दिनाचरणे.",
+        "latin": "Hinde namma deshavannu britisharu aaluttiddaru. Deshada svaabhimaani janaru gaandheejiyavara netrutvadalli avara viruddha horaadi svaatantrya tandukottaru. Avara deshaabhimaana, tyaaga haagoo balidaanadinda 1947 aagast 15 randu namma desha svatantravaayitu. Desha svatantravaada savi nenapige prati varsha deshaadyanta aacharisuva habbave svaatantrya dinaacharane."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d7",
+      "section": "story",
+      "speaker": "ಷರೀಫ್ (ಉಪ ಮುಖ್ಯಮಂತ್ರಿ)",
+      "text": "ನಮ್ಮ ಶಾಲೆಯಲ್ಲೂ ಆಚರಿಸುತ್ತೇವಲ್ಲ ಸರ್?",
+      "translations": {
+        "en": "We celebrate it at our school too, don't we, sir?",
+        "hi": "हम अपने विद्यालय में भी मनाते हैं ना, सर?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म शालेयल्लू आचरिसुत्तेवल्ल सर्?",
+        "latin": "Namma shaaleyalloo aacharisuttevalla sar?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d8",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಹೌದು, ಅದಕ್ಕಾಗಿ ಈಗಿನಿಂದಲೇ ಸಿದ್ಧತೆ ಮಾಡಿಕೊಳ್ಳಬೇಕು.",
+      "translations": {
+        "en": "Yes. We must start preparing for it now.",
+        "hi": "हाँ, उसकी तैयारी अभी से करनी चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, अदक्कागि ईगिनिंदले सिद्धते माडिकोळ्ळबेकु.",
+        "latin": "Haudu, adakkaagi eeginindale siddhate maadikollabeku."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d9",
+      "section": "story",
+      "speaker": "ಷಾಹಿನ್ (ಗೃಹ ಮಂತ್ರಿ)",
+      "text": "ಏನೇನು ಸಿದ್ಧತೆ ಮಾಡಬೇಕಿದೆ? ಹೇಳಿ ಸರ್.",
+      "translations": {
+        "en": "What preparations are needed? Please tell us, sir.",
+        "hi": "क्या-क्या तैयारियाँ करनी हैं? बताइए, सर।"
+      },
+      "transliterations": {
+        "devanagari": "एनेनु सिद्धते माडबेकिदे? हेळि सर्.",
+        "latin": "Enenu siddhate maadabekide? Heli sar."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d10",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಆಟೋಟ ಸ್ಪರ್ಧೆ ಏರ್ಪಡಿಸಬೇಕು. ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ನಡೆಸಿಕೊಡುವವರನ್ನು ಗುರುತಿಸಬೇಕು. ಮೈದಾನವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಬೇಕು. ಶಾಲೆಯನ್ನು ತಳಿರು ತೋರಣಗಳಿಂದ ಅಲಂಕರಿಸಬೇಕು.",
+      "translations": {
+        "en": "We must arrange sports competitions, identify those who will present the cultural programme, clean the grounds, and decorate the school with fresh-leaf festoons.",
+        "hi": "खेल प्रतियोगिताएँ आयोजित करनी हैं। सांस्कृतिक कार्यक्रम प्रस्तुत करने वालों को चुनना है। मैदान साफ़ करना है। विद्यालय को हरे पत्तों के तोरणों से सजाना है।"
+      },
+      "transliterations": {
+        "devanagari": "आटोट स्पर्धे एर्पडिसबेकु. सांस्कृतिक कार्यक्रम नडेसिकोडुववरन्नु गुरुतिसबेकु. मैदानवन्नु स्वच्छगोळिसबेकु. शालेयन्नु तळिरु तोरणगळिंद अलंकरिसबेकु.",
+        "latin": "Aatota spardhe erpadisabeku. Saanskrutika kaaryakrama nadesikoduvavarannu gurutisabeku. Maidaanavannu svachchhagolisabeku. Shaaleyannu taliru toranagalinda alankarisabeku."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d11",
+      "section": "story",
+      "speaker": "ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)",
+      "text": "ಗುರುಗಳೇ, ನಾವು ಕೆಲಸ ಹಂಚಿಕೊಂಡು ಸಿದ್ಧತೆ ಮಾಡುತ್ತೇವೆ.",
+      "translations": {
+        "en": "Teacher, we will share the work and make the preparations.",
+        "hi": "गुरुजी, हम काम बाँटकर तैयारी करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "गुरुगळे, नावु केलस हंचिकोंडु सिद्धते माडुत्तेवे.",
+        "latin": "Gurugale, naavu kelasa hanchikondu siddhate maadutteve."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d12",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಸಂತೋಷ. ಯಾರು ಯಾರು, ಯಾವ ಯಾವ ಕೆಲಸಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿರಿ?",
+      "translations": {
+        "en": "Good. Who will take on which tasks?",
+        "hi": "बहुत अच्छा। कौन-कौन से काम किस-किस के हिस्से में आएँगे?"
+      },
+      "transliterations": {
+        "devanagari": "संतोष. यारु यारु, याव याव केलसगळन्नु हंचिकोळ्ळुविरि?",
+        "latin": "Santosha. Yaaru yaaru, yaava yaava kelasagalannu hanchikolluviri?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d13",
+      "section": "story",
+      "speaker": "ವಿವೇಕ್ (ಕ್ರೀಡಾ ಮಂತ್ರಿ)",
+      "text": "ಸರ್, ಮಂತ್ರಿ ಮಂಡಲದ ಎಲ್ಲ ಸದಸ್ಯರು ಸೇರಿ ಆಟೋಟ ಸ್ಪರ್ಧೆ ನಡೆಸಿ ವಿಜೇತರ ಪಟ್ಟಿಯನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತೇವೆ.",
+      "translations": {
+        "en": "Sir, all the cabinet members will together conduct the sports competitions and prepare a list of winners.",
+        "hi": "सर, मंत्रिमंडल के सभी सदस्य मिलकर खेल प्रतियोगिताएँ करवाएँगे और विजेताओं की सूची तैयार करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "सर्, मंत्रि मंडलद एल्ल सदस्यरु सेरि आटोट स्पर्धे नडेसि विजेतर पट्टियन्नु सिद्धपडिसुत्तेवे.",
+        "latin": "Sar, mantri mandalada ella sadasyaru seri aatota spardhe nadesi vijetara pattiyannu siddhapadisutteve."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "(ಷಾಹಿನ್ ಮತ್ತು ಐಶ್ವರ್ಯ ಮಾತನಾಡುತ್ತಿದ್ದರು)",
+      "translations": {
+        "en": "(Shahin and Aishwarya were talking.)",
+        "hi": "(शाहिन और ऐश्वर्य बात कर रहे थे।)"
+      },
+      "transliterations": {
+        "devanagari": "(षाहिन् मत्तु ऐश्वर्य मातनाडुत्तिद्दरु)",
+        "latin": "(Shaahin mattu aishvarya maatanaaduttiddaru)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d14",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಷಾಹಿನ್, ಐಶ್ವರ್ಯ ಒಬ್ಬರು ಮಾತಾಡುವಾಗ ನಿಮ್ಮ ನಿಮ್ಮೊಳಗೆ ಮಾತಾಡಬಾರದು. ಇತರರ ಅಭಿಪ್ರಾಯವನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಬೇಕು.",
+      "translations": {
+        "en": "Shahin, Aishwarya, you must not talk among yourselves while someone else is speaking. You should listen to others' opinions.",
+        "hi": "शाहिन, ऐश्वर्य, जब कोई बोल रहा हो तो आपस में बात नहीं करनी चाहिए। दूसरों के विचार सुनने चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "षाहिन्, ऐश्वर्य ओब्बरु माताडुवाग निम्म निम्मोळगे माताडबारदु. इतरर अभिप्रायवन्नु केळिसिकोळ्ळबेकु.",
+        "latin": "Shaahin, aishvarya obbaru maataaduvaaga nimma nimmolage maataadabaaradu. Itarara abhipraayavannu kelisikollabeku."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d15",
+      "section": "story",
+      "speaker": "ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)",
+      "text": "ಕ್ಷಮಿಸಿ ಸರ್, ಇನ್ನು ಮೇಲೆ ಗಮನವಿಟ್ಟು ಕೇಳುತ್ತೇವೆ.",
+      "translations": {
+        "en": "Sorry, sir. We will listen carefully from now on.",
+        "hi": "क्षमा कीजिए, सर। अब से हम ध्यान से सुनेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "क्षमिसि सर्, इन्नु मेले गमनविट्टु केळुत्तेवे.",
+        "latin": "Kshamisi sar, innu mele gamanavittu kelutteve."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d16",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಹ್ಞಾ! ಜಾಣ ಮಕ್ಕಳು.",
+      "translations": {
+        "en": "Ah! Good children.",
+        "hi": "अच्छा! समझदार बच्चे।"
+      },
+      "transliterations": {
+        "devanagari": "ह्ञा! जाण मक्कळु.",
+        "latin": "Hnyaa! Jaana makkalu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d17",
+      "section": "story",
+      "speaker": "ಕಾರ್ತಿಕ್ (ಪೌರಾಡಳಿತ ಮಂತ್ರಿ)",
+      "text": "ಸರ್, ನಾವು ನಾಲ್ಕನೆಯ ತರಗತಿಯವರು ಶಾಲೆಯ ಮೈದಾನವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತೇವೆ.",
+      "translations": {
+        "en": "Sir, we in Class Four will clean the school grounds.",
+        "hi": "सर, हम चौथी कक्षा के विद्यार्थी विद्यालय का मैदान साफ़ करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "सर्, नावु नाल्कनेय तरगतियवरु शालेय मैदानवन्नु स्वच्छगोळिसुत्तेवे.",
+        "latin": "Sar, naavu naalkaneya taragatiyavaru shaaleya maidaanavannu svachchhagolisutteve."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d18",
+      "section": "story",
+      "speaker": "ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)",
+      "text": "ನಾನು ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ನೀಡುವವರ ಪಟ್ಟಿ ಸಿದ್ಧಪಡಿಸುತ್ತೇನೆ.",
+      "translations": {
+        "en": "I will prepare the list of cultural programme participants.",
+        "hi": "मैं सांस्कृतिक कार्यक्रम प्रस्तुत करने वालों की सूची तैयार करूँगी।"
+      },
+      "transliterations": {
+        "devanagari": "नानु सांस्कृतिक कार्यक्रम नीडुववर पट्टि सिद्धपडिसुत्तेने.",
+        "latin": "Naanu saanskrutika kaaryakrama needuvavara patti siddhapadisuttene."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d19",
+      "section": "story",
+      "speaker": "ಮೇರಿ (ಆರೋಗ್ಯ ಮಂತ್ರಿ)",
+      "text": "ನಾವು ಎರಡನೆಯ ತರಗತಿಯವರು ಬಣ್ಣದ ಕಾಗದದಿಂದ ತೋರಣ ಕಟ್ಟುತ್ತೇವೆ.",
+      "translations": {
+        "en": "We in Class Two will make festoons from coloured paper.",
+        "hi": "हम दूसरी कक्षा के विद्यार्थी रंगीन कागज़ से तोरण बनाएँगे।"
+      },
+      "transliterations": {
+        "devanagari": "नावु एरडनेय तरगतियवरु बण्णद कागददिंद तोरण कट्टुत्तेवे.",
+        "latin": "Naavu eradaneya taragatiyavaru bannada kaagadadinda torana kattutteve."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d20",
+      "section": "story",
+      "speaker": "ಪಂಕಜ (ಹಣಕಾಸು ಮಂತ್ರಿ)",
+      "text": "ನಾವು ಮೂರನೆಯ ತರಗತಿಯವರು ಧ್ವಜಸ್ತಂಭವನ್ನು ಸಿಂಗರಿಸುತ್ತೇವೆ ಸರ್.",
+      "translations": {
+        "en": "We in Class Three will decorate the flagpole, sir.",
+        "hi": "हम तीसरी कक्षा के विद्यार्थी ध्वजस्तंभ सजाएँगे, सर।"
+      },
+      "transliterations": {
+        "devanagari": "नावु मूरनेय तरगतियवरु ध्वजस्तंभवन्नु सिंगरिसुत्तेवे सर्.",
+        "latin": "Naavu mooraneya taragatiyavaru dhvajastambhavannu singarisutteve sar."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d21",
+      "section": "story",
+      "speaker": "ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)",
+      "text": "ಧ್ವಜ ಸ್ತಂಭದ ಸುತ್ತ ರಂಗವಲ್ಲಿ ಹಾಕಿದರೆ ಚೆನ್ನಾಗಿರುತ್ತದೆ.",
+      "translations": {
+        "en": "It would look nice to make a rangoli around the flagpole.",
+        "hi": "ध्वजस्तंभ के चारों ओर रंगोली बनाने से अच्छा लगेगा।"
+      },
+      "transliterations": {
+        "devanagari": "ध्वज स्तंभद सुत्त रंगवल्लि हाकिदरे चेन्नागिरुत्तदे.",
+        "latin": "Dhvaja stambhada sutta rangavalli haakidare chennaagiruttade."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d22",
+      "section": "story",
+      "speaker": "ಮೇರಿ (ಆರೋಗ್ಯ ಮಂತ್ರಿ)",
+      "text": "ಒಳ್ಳೆಯ ಸಲಹೆ, ಪಂಕಜ ಚೆನ್ನಾಗಿ ರಂಗವಲ್ಲಿ ಹಾಕುತ್ತಾಳೆ. ಅವಳಿಂದ ಹಾಕಿಸೋಣವೇ ಸರ್?",
+      "translations": {
+        "en": "Good suggestion. Pankaja makes lovely rangolis. Shall we ask her to do it, sir?",
+        "hi": "अच्छा सुझाव है। पंकज अच्छी रंगोली बनाती है। क्या उससे बनवाएँ, सर?"
+      },
+      "transliterations": {
+        "devanagari": "ओळ्ळेय सलहे, पंकज चेन्नागि रंगवल्लि हाकुत्ताळे. अवळिंद हाकिसोणवे सर्?",
+        "latin": "Olleya salahe, pankaja chennaagi rangavalli haakuttaale. Avalinda haakisonave sar?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d23",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಒಳ್ಳೆಯದು, ಮೇರಿಯ ಸಲಹೆ ಎಲ್ಲರಿಗೂ ಒಪ್ಪಿಗೆಯೇ?",
+      "translations": {
+        "en": "Good. Does everyone agree with Mary's suggestion?",
+        "hi": "अच्छा, क्या सबको मेरी का सुझाव मंज़ूर है?"
+      },
+      "transliterations": {
+        "devanagari": "ओळ्ळेयदु, मेरिय सलहे एल्लरिगू ओप्पिगेये?",
+        "latin": "Olleyadu, meriya salahe ellarigoo oppigeye?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d24",
+      "section": "story",
+      "speaker": "ಎಲ್ಲರೂ",
+      "text": "ಓ.... ಆಗಬಹುದು ಸರ್.",
+      "translations": {
+        "en": "Oh… yes, sir.",
+        "hi": "ओ… हाँ, सर।"
+      },
+      "transliterations": {
+        "devanagari": "ओ.... आगबहुदु सर्.",
+        "latin": "O.... Aagabahudu sar."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d25",
+      "section": "story",
+      "speaker": "ಕಾರ್ತಿಕ್ (ಪೌರಾಡಳಿತ ಮಂತ್ರಿ)",
+      "text": "ಅಲಂಕಾರಕ್ಕೆ ಸಾಮಗ್ರಿಗಳನ್ನು ತರುವವರು ಯಾರು?",
+      "translations": {
+        "en": "Who will bring the decoration materials?",
+        "hi": "सजावट की सामग्री कौन लाएगा?"
+      },
+      "transliterations": {
+        "devanagari": "अलंकारक्के सामग्रिगळन्नु तरुववरु यारु?",
+        "latin": "Alankaarakke saamagrigalannu taruvavaru yaaru?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d26",
+      "section": "story",
+      "speaker": "ರಾಜು (ಮುಖ್ಯಮಂತ್ರಿ)",
+      "text": "ನಮ್ಮ ತೋಟದಿಂದ ಮಾವಿನ ತಳಿರು, ಬಾಳೆಕಂಬ ತರುತ್ತೇನೆ. ಎಲ್ಲರೂ ಸೇರಿ ಶಾಲೆಯನ್ನು ಸಿಂಗರಿಸೋಣ.",
+      "translations": {
+        "en": "I will bring tender mango leaves and banana stems from our garden. Let us all decorate the school together.",
+        "hi": "मैं अपने बगीचे से आम की कोमल पत्तियाँ और केले के तने लाऊँगा। हम सब मिलकर विद्यालय सजाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म तोटदिंद माविन तळिरु, बाळेकंब तरुत्तेने. एल्लरू सेरि शालेयन्नु सिंगरिसोण.",
+        "latin": "Namma totadinda maavina taliru, baalekamba taruttene. Ellaroo seri shaaleyannu singarisona."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d27",
+      "section": "story",
+      "speaker": "ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)",
+      "text": "ನಾವು ಐದನೆಯ ತರಗತಿಯವರು ರಾಷ್ಟ್ರ ನಾಯಕರ ಭಾವ ಚಿತ್ರಗಳಿಗೆ ಹೂವಿನ ಹಾರ ಹಾಕಿ ಅಲಂಕರಿಸುತ್ತೇವೆ. ಸರ್ ಮತ್ತೇ... (ಮಾತು ಮುಂದುವರಿಸುವಳು)",
+      "translations": {
+        "en": "We in Class Five will decorate the national leaders' portraits with flower garlands. Sir, also… (She continues speaking.)",
+        "hi": "हम पाँचवीं कक्षा के विद्यार्थी राष्ट्रनेताओं के चित्रों को फूलों की मालाओं से सजाएँगे। सर, और… (वह बोलती रहती है।)"
+      },
+      "transliterations": {
+        "devanagari": "नावु ऐदनेय तरगतियवरु राष्ट्र नायकर भाव चित्रगळिगे हूविन हार हाकि अलंकरिसुत्तेवे. सर् मत्ते... (मातु मुंदुवरिसुवळु)",
+        "latin": "Naavu aidaneya taragatiyavaru raashtra naayakara bhaava chitragalige hoovina haara haaki alankarisutteve. Sar matte... (Maatu munduvarisuvalu)"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d28",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಐಶ್ವರ್ಯಾ, ಇತರರಿಗೂ ಮಾತನಾಡಲು ಅವಕಾಶ ಕೊಡಬೇಕಲ್ಲವೇ?",
+      "translations": {
+        "en": "Aishwarya, shouldn't you give others a chance to speak too?",
+        "hi": "ऐश्वर्य, दूसरों को भी बोलने का अवसर देना चाहिए ना?"
+      },
+      "transliterations": {
+        "devanagari": "ऐश्वर्या, इतररिगू मातनाडलु अवकाश कोडबेकल्लवे?",
+        "latin": "Aishvaryaa, itararigoo maatanaadalu avakaasha kodabekallave?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d29",
+      "section": "story",
+      "speaker": "ರಮಾ (ವಿದ್ಯಾ ಮಂತ್ರಿ)",
+      "text": "ನಾನು ಒಂದನೆಯ ತರಗತಿಯವರೊಡನೆ ಸೇರಿ ಶಾಲಾ ಕೈತೋಟದಿಂದ ಹೂಗಳನ್ನು ಬಿಡಿಸಿ ತರುತ್ತೇನೆ.",
+      "translations": {
+        "en": "I will join the Class One pupils and bring flowers picked from the school garden.",
+        "hi": "मैं पहली कक्षा के विद्यार्थियों के साथ विद्यालय के बगीचे से फूल तोड़कर लाऊँगी।"
+      },
+      "transliterations": {
+        "devanagari": "नानु ओंदनेय तरगतियवरोडने सेरि शाला कैतोटदिंद हूगळन्नु बिडिसि तरुत्तेने.",
+        "latin": "Naanu ondaneya taragatiyavarodane seri shaalaa kaitotadinda hoogalannu bidisi taruttene."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d30",
+      "section": "story",
+      "speaker": "ಮುಖ್ಯ ಗುರುಗಳು",
+      "text": "ಸರಿ, ಹಾಗಾದರೆ ನಾನು ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಬರುವಂತೆ ಅತಿಥಿಗಳನ್ನು ಆಮಂತ್ರಿಸುತ್ತೇನೆ. ನಿಮ್ಮ ಕೆಲಸಗಳಲ್ಲಿ ಶಿಕ್ಷಕರು ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾರೆ. ಮುಂದಿನ ಸಿದ್ಧತೆ ಮಾಡಿಕೊಳ್ಳಿ.",
+      "translations": {
+        "en": "All right. I will invite the guests to the programme. The teachers will guide you in your work. Go ahead with the preparations.",
+        "hi": "ठीक है, तो मैं अतिथियों को कार्यक्रम में आने का निमंत्रण दूँगा। शिक्षक तुम्हारे कामों में मार्गदर्शन करेंगे। आगे की तैयारी करो।"
+      },
+      "transliterations": {
+        "devanagari": "सरि, हागादरे नानु कार्यक्रमक्के बरुवंते अतिथिगळन्नु आमंत्रिसुत्तेने. निम्म केलसगळल्लि शिक्षकरु मार्गदर्शन नीडुत्तारे. मुंदिन सिद्धते माडिकोळ्ळि.",
+        "latin": "Sari, haagaadare naanu kaaryakramakke baruvante atithigalannu aamantrisuttene. Nimma kelasagalalli shikshakaru maargadarshana needuttaare. Mundina siddhate maadikolli."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "(ಎಲ್ಲರೂ ಶಿಕ್ಷಕರ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ತಮ್ಮ ಕೆಲಸಕ್ಕೆ ಪೂರ್ವ ತಯಾರಿ ಮಾಡಿಕೊಂಡರು.)",
+      "translations": {
+        "en": "(Everyone prepared for their tasks under the teachers' guidance.)",
+        "hi": "(सबने शिक्षकों के मार्गदर्शन में अपने काम की तैयारी की।)"
+      },
+      "transliterations": {
+        "devanagari": "(एल्लरू शिक्षकर मार्गदर्शनदल्लि तम्म केलसक्के पूर्व तयारि माडिकोंडरु.)",
+        "latin": "(Ellaroo shikshakara maargadarshanadalli tamma kelasakke poorva tayaari maadikondaru.)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ದಿನದಂದು ಮಕ್ಕಳು ನಸುಕಿನಲ್ಲಿಯೇ ಎದ್ದು ಸಿದ್ಧರಾದರು. ಸಮವಸ್ತ್ರ ಧರಿಸಿ ಶಾಲೆಗೆ ಬಂದರು.",
+      "translations": {
+        "en": "On Independence Day, the children got up at dawn and got ready. They wore their uniforms and came to school.",
+        "hi": "स्वतंत्रता दिवस पर बच्चे भोर में ही उठकर तैयार हुए। वे वर्दी पहनकर विद्यालय आए।"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य दिनाचरणेय दिनदंदु मक्कळु नसुकिनल्लिये एद्दु सिद्धरादरु. समवस्त्र धरिसि शालेगे बंदरु.",
+        "latin": "Svaatantrya dinaacharaneya dinadandu makkalu nasukinalliye eddu siddharaadaru. Samavastra dharisi shaalege bandaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಎಲ್ಲರೂ ತಾವು ವಹಿಸಿಕೊಂಡಿದ್ದ ಕೆಲಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದರು. ಗುರುಗಳೊಂದಿಗೆ ಜಯಘೋಷ ಹಾಕುತ್ತ ಪ್ರಭಾತಫೇರಿಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡರು. ಮಕ್ಕಳ ಶಿಸ್ತನ್ನು ನೋಡಿ ಗ್ರಾಮಸ್ಥರು ಸಂತೋಷಪಟ್ಟರು.",
+      "translations": {
+        "en": "Everyone completed their assigned work. They joined the morning procession with their teachers, raising cheers. The villagers were pleased to see the children's discipline.",
+        "hi": "सबने अपना-अपना काम पूरा किया। शिक्षकों के साथ जयकारे लगाते हुए प्रभातफेरी में भाग लिया। बच्चों का अनुशासन देखकर गाँववाले खुश हुए।"
+      },
+      "transliterations": {
+        "devanagari": "एल्लरू तावु वहिसिकोंडिद्द केलसवन्नु पूर्णगोळिसिदरु. गुरुगळोंदिगे जयघोष हाकुत्त प्रभातफेरियल्लि पाल्गोंडरु. मक्कळ शिस्तन्नु नोडि ग्रामस्थरु संतोषपट्टरु.",
+        "latin": "Ellaroo taavu vahisikondidda kelasavannu poornagolisidaru. Gurugalondige jayaghosha haakutta prabhaatapheriyalli paalgondaru. Makkala shistannu nodi graamastharu santoshapattaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಶಾಲಾ ಮೈದಾನದಲ್ಲಿ ಪಂಚಾಯಿತಿ ಅಧ್ಯಕ್ಷರು ಧ್ವಜಾರೋಹಣ ಮಾಡಿದರು. ಎಲ್ಲರೂ ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡಿದರು. ಅನಂತರ ನಡೆದ ಸಭಾ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಮುಖ್ಯ ಗುರುಗಳು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರ ತ್ಯಾಗ ಮತ್ತು ದೇಶಭಕ್ತಿಯ ಕುರಿತು ಮಾತನಾಡಿದರು.",
+      "translations": {
+        "en": "The panchayat president hoisted the flag in the school grounds. Everyone sang the national anthem. At the gathering afterwards, the headteacher spoke about the freedom fighters' sacrifice and patriotism.",
+        "hi": "विद्यालय के मैदान में पंचायत अध्यक्ष ने ध्वजारोहण किया। सबने राष्ट्रगान गाया। उसके बाद हुई सभा में प्रधानाध्यापक ने स्वतंत्रता सेनानियों के त्याग और देशभक्ति के बारे में बताया।"
+      },
+      "transliterations": {
+        "devanagari": "शाला मैदानदल्लि पंचायिति अध्यक्षरु ध्वजारोहण माडिदरु. एल्लरू राष्ट्रगीते हाडिदरु. अनंतर नडेद सभा कार्यक्रमदल्लि मुख्य गुरुगळु स्वातंत्र्य होराटगारर त्याग मत्तु देशभक्तिय कुरितु मातनाडिदरु.",
+        "latin": "Shaalaa maidaanadalli panchaayiti adhyaksharu dhvajaarohana maadidaru. Ellaroo raashtrageete haadidaru. Anantara nadeda sabhaa kaaryakramadalli mukhya gurugalu svaatantrya horaatagaarara tyaaga mattu deshabhaktiya kuritu maatanaadidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಆಟೋಟ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ವಿಜೇತರಾದವರಿಗೆ ಮುಖ್ಯ ಅತಿಥಿಗಳು ಬಹುಮಾನ ವಿತರಿಸಿದರು. ಕೊನೆಯಲ್ಲಿ ಮಕ್ಕಳು ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ನಡೆಸಿಕೊಟ್ಟರು. ನೆರೆದಿದ್ದ ಜನರು ಸಂತೋಷದಿಂದ ಚಪ್ಪಾಳೆ ತಟ್ಟಿದರು. ಎಲ್ಲರೂ ಸಿಹಿ ಸವಿದು ಕಾರ್ಯಕ್ರಮ ಮೆಲುಕು ಹಾಕುತ್ತಾ ತೆರಳಿದರು.",
+      "translations": {
+        "en": "The chief guests distributed prizes to the sports winners. Finally, the children presented a cultural programme. The gathered people clapped happily. Everyone enjoyed sweets and left, recalling the programme.",
+        "hi": "मुख्य अतिथियों ने खेल प्रतियोगिताओं के विजेताओं को पुरस्कार दिए। अंत में बच्चों ने सांस्कृतिक कार्यक्रम प्रस्तुत किया। इकट्ठे हुए लोगों ने खुशी से तालियाँ बजाईं। सब मिठाई खाकर कार्यक्रम को याद करते हुए चले गए।"
+      },
+      "transliterations": {
+        "devanagari": "आटोट स्पर्धेयल्लि विजेतरादवरिगे मुख्य अतिथिगळु बहुमान वितरिसिदरु. कोनेयल्लि मक्कळु सांस्कृतिक कार्यक्रम नडेसिकोट्टरु. नेरेदिद्द जनरु संतोषदिंद चप्पाळे तट्टिदरु. एल्लरू सिहि सविदु कार्यक्रम मेलुकु हाकुत्ता तेरळिदरु.",
+        "latin": "Aatota spardheyalli vijetaraadavarige mukhya atithigalu bahumaana vitarisidaru. Koneyalli makkalu saanskrutika kaaryakrama nadesikottaru. Neredidda janaru santoshadinda chappaale tattidaru. Ellaroo sihi savidu kaaryakrama meluku haakuttaa teralidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-rashtra",
+      "text": "ರಾಷ್ಟ್ರ",
+      "translations": {
+        "en": "nation",
+        "hi": "राष्ट्र"
+      },
+      "transliterations": {
+        "devanagari": "राष्ट्र",
+        "latin": "Raashtra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rashtra-def",
+      "ref": "vocab-rashtra",
+      "text": "ದೇಶ",
+      "translations": {
+        "en": "country",
+        "hi": "देश"
+      },
+      "transliterations": {
+        "devanagari": "देश",
+        "latin": "Desha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-saradi",
+      "text": "ಸರದಿ",
+      "translations": {
+        "en": "turn",
+        "hi": "बारी"
+      },
+      "transliterations": {
+        "devanagari": "सरदि",
+        "latin": "Saradi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saradi-def",
+      "ref": "vocab-saradi",
+      "text": "ಅನುಕ್ರಮ",
+      "translations": {
+        "en": "sequence",
+        "hi": "क्रम"
+      },
+      "transliterations": {
+        "devanagari": "अनुक्रम",
+        "latin": "Anukrama"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-svabhimana",
+      "text": "ಸ್ವಾಭಿಮಾನ",
+      "translations": {
+        "en": "self-respect",
+        "hi": "स्वाभिमान"
+      },
+      "transliterations": {
+        "devanagari": "स्वाभिमान",
+        "latin": "Svaabhimaana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-svabhimana-def",
+      "ref": "vocab-svabhimana",
+      "text": "ಆತ್ಮಗೌರವ",
+      "translations": {
+        "en": "respect for oneself",
+        "hi": "आत्मसम्मान"
+      },
+      "transliterations": {
+        "devanagari": "आत्मगौरव",
+        "latin": "Aatmagaurava"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-spardhe",
+      "text": "ಸ್ಪರ್ಧೆ",
+      "translations": {
+        "en": "competition",
+        "hi": "प्रतियोगिता"
+      },
+      "transliterations": {
+        "devanagari": "स्पर्धे",
+        "latin": "Spardhe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-spardhe-def",
+      "ref": "vocab-spardhe",
+      "text": "ಪೈಪೋಟಿ",
+      "translations": {
+        "en": "contest",
+        "hi": "मुकाबला"
+      },
+      "transliterations": {
+        "devanagari": "पैपोटि",
+        "latin": "Paipoti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-taliru",
+      "text": "ತಳಿರು",
+      "translations": {
+        "en": "tender leaf",
+        "hi": "कोमल पत्ता"
+      },
+      "transliterations": {
+        "devanagari": "तळिरु",
+        "latin": "Taliru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-taliru-def",
+      "ref": "vocab-taliru",
+      "text": "ಚಿಗುರು",
+      "translations": {
+        "en": "new shoot",
+        "hi": "कोंपल"
+      },
+      "transliterations": {
+        "devanagari": "चिगुरु",
+        "latin": "Chiguru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-abhipraya",
+      "text": "ಅಭಿಪ್ರಾಯ",
+      "translations": {
+        "en": "opinion",
+        "hi": "राय"
+      },
+      "transliterations": {
+        "devanagari": "अभिप्राय",
+        "latin": "Abhipraaya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-abhipraya-def",
+      "ref": "vocab-abhipraya",
+      "text": "ಅನಿಸಿಕೆ",
+      "translations": {
+        "en": "thought or feeling",
+        "hi": "विचार"
+      },
+      "transliterations": {
+        "devanagari": "अनिसिके",
+        "latin": "Anisike"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhvajastambha",
+      "text": "ಧ್ವಜಸ್ತಂಭ",
+      "translations": {
+        "en": "flagpole",
+        "hi": "ध्वजस्तंभ"
+      },
+      "transliterations": {
+        "devanagari": "ध्वजस्तंभ",
+        "latin": "Dhvajastambha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhvajastambha-def",
+      "ref": "vocab-dhvajastambha",
+      "text": "ಬಾವುಟ ಹಾರಿಸುವ ಕಂಬ",
+      "translations": {
+        "en": "pole on which a flag is flown",
+        "hi": "झंडा फहराने का खंभा"
+      },
+      "transliterations": {
+        "devanagari": "बावुट हारिसुव कंब",
+        "latin": "Baavuta haarisuva kamba"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhavachitra",
+      "text": "ಭಾವಚಿತ್ರ",
+      "translations": {
+        "en": "portrait",
+        "hi": "चित्र"
+      },
+      "transliterations": {
+        "devanagari": "भावचित्र",
+        "latin": "Bhaavachitra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhavachitra-def",
+      "ref": "vocab-bhavachitra",
+      "text": "ವ್ಯಕ್ತಿಯ ಚಿತ್ರ",
+      "translations": {
+        "en": "picture of a person",
+        "hi": "किसी व्यक्ति का चित्र"
+      },
+      "transliterations": {
+        "devanagari": "व्यक्तिय चित्र",
+        "latin": "Vyaktiya chitra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-amantrisu",
+      "text": "ಆಮಂತ್ರಿಸು",
+      "translations": {
+        "en": "invite",
+        "hi": "आमंत्रित करना"
+      },
+      "transliterations": {
+        "devanagari": "आमंत्रिसु",
+        "latin": "Aamantrisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-amantrisu-def",
+      "ref": "vocab-amantrisu",
+      "text": "ಆಹ್ವಾನಿಸು",
+      "translations": {
+        "en": "ask someone to come",
+        "hi": "निमंत्रण देना"
+      },
+      "transliterations": {
+        "devanagari": "आह्वानिसु",
+        "latin": "Aahvaanisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nere",
+      "text": "ನೆರೆ",
+      "translations": {
+        "en": "gather",
+        "hi": "इकट्ठा होना"
+      },
+      "transliterations": {
+        "devanagari": "नेरे",
+        "latin": "Nere"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nere-def",
+      "ref": "vocab-nere",
+      "text": "ಒಟ್ಟಾಗು; ಗುಂಪು ಸೇರು",
+      "translations": {
+        "en": "come together; assemble",
+        "hi": "एकत्र होना; समूह में मिलना"
+      },
+      "transliterations": {
+        "devanagari": "ओट्टागु; गुंपु सेरु",
+        "latin": "Ottaagu; gumpu seru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-margadarshana",
+      "text": "ಮಾರ್ಗದರ್ಶನ",
+      "translations": {
+        "en": "guidance",
+        "hi": "मार्गदर्शन"
+      },
+      "transliterations": {
+        "devanagari": "मार्गदर्शन",
+        "latin": "Maargadarshana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-margadarshana-def",
+      "ref": "vocab-margadarshana",
+      "text": "ತಿಳಿಹೇಳುವುದು, ದಾರಿತೋರುವುದು",
+      "translations": {
+        "en": "explaining; showing the way",
+        "hi": "समझाना, राह दिखाना"
+      },
+      "transliterations": {
+        "devanagari": "तिळिहेळुवुदु, दारितोरुवुदु",
+        "latin": "Tiliheluvudu, daaritoruvudu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nasuku",
+      "text": "ನಸುಕು",
+      "translations": {
+        "en": "dawn",
+        "hi": "भोर"
+      },
+      "transliterations": {
+        "devanagari": "नसुकु",
+        "latin": "Nasuku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nasuku-def",
+      "ref": "vocab-nasuku",
+      "text": "ಮುಂಜಾನೆ, ಬೆಳಗಿನ ಜಾವ",
+      "translations": {
+        "en": "early morning; daybreak",
+        "hi": "सुबह-सवेरे, प्रातःकाल"
+      },
+      "transliterations": {
+        "devanagari": "मुंजाने, बेळगिन जाव",
+        "latin": "Munjaane, belagina jaava"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jayaghosha",
+      "text": "ಜಯಘೋಷ",
+      "translations": {
+        "en": "cheer",
+        "hi": "जयघोष"
+      },
+      "transliterations": {
+        "devanagari": "जयघोष",
+        "latin": "Jayaghosha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jayaghosha-def",
+      "ref": "vocab-jayaghosha",
+      "text": "ಜಯಕಾರ",
+      "translations": {
+        "en": "shout of victory",
+        "hi": "जयकार"
+      },
+      "transliterations": {
+        "devanagari": "जयकार",
+        "latin": "Jayakaara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vijetaru",
+      "text": "ವಿಜೇತರು",
+      "translations": {
+        "en": "winners",
+        "hi": "विजेता"
+      },
+      "transliterations": {
+        "devanagari": "विजेतरु",
+        "latin": "Vijetaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vijetaru-def",
+      "ref": "vocab-vijetaru",
+      "text": "ಗೆದ್ದವರು",
+      "translations": {
+        "en": "those who won",
+        "hi": "जीतने वाले"
+      },
+      "transliterations": {
+        "devanagari": "गेद्दवरु",
+        "latin": "Geddavaru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-atithi",
+      "text": "ಅತಿಥಿ",
+      "translations": {
+        "en": "guest",
+        "hi": "अतिथि"
+      },
+      "transliterations": {
+        "devanagari": "अतिथि",
+        "latin": "Atithi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-atithi-def",
+      "ref": "note-atithi",
+      "text": "ಆಹ್ವಾನಿತ ವ್ಯಕ್ತಿ",
+      "translations": {
+        "en": "an invited person",
+        "hi": "आमंत्रित व्यक्ति"
+      },
+      "transliterations": {
+        "devanagari": "आह्वानित व्यक्ति",
+        "latin": "Aahvaanita vyakti"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-samskritika",
+      "text": "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ",
+      "translations": {
+        "en": "cultural programme",
+        "hi": "सांस्कृतिक कार्यक्रम"
+      },
+      "transliterations": {
+        "devanagari": "सांस्कृतिक कार्यक्रम",
+        "latin": "Saanskrutika kaaryakrama"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-samskritika-def",
+      "ref": "note-samskritika",
+      "text": "ಸಂಸ್ಕೃತಿಗೆ ಸಂಬಂಧಿಸಿದ ಕಾರ್ಯಕ್ರಮ.",
+      "translations": {
+        "en": "A programme related to culture.",
+        "hi": "संस्कृति से संबंधित कार्यक्रम।"
+      },
+      "transliterations": {
+        "devanagari": "संस्कृतिगे संबंधिसिद कार्यक्रम.",
+        "latin": "Sanskrutige sambandhisida kaaryakrama."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-rashtranayakaru",
+      "text": "ರಾಷ್ಟ್ರನಾಯಕರು",
+      "translations": {
+        "en": "national leaders",
+        "hi": "राष्ट्रनेता"
+      },
+      "transliterations": {
+        "devanagari": "राष्ट्रनायकरु",
+        "latin": "Raashtranaayakaru"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-rashtranayakaru-def",
+      "ref": "note-rashtranayakaru",
+      "text": "ದೇಶಸೇವೆ ಮಾಡಿದ ಮಹನೀಯರು",
+      "translations": {
+        "en": "great people who served the country",
+        "hi": "देश की सेवा करने वाले महान व्यक्ति"
+      },
+      "transliterations": {
+        "devanagari": "देशसेवे माडिद महनीयरु",
+        "latin": "Deshaseve maadida mahaneeyaru"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-prabhatapheri",
+      "text": "ಪ್ರಭಾತಫೇರಿ",
+      "translations": {
+        "en": "morning procession",
+        "hi": "प्रभातफेरी"
+      },
+      "transliterations": {
+        "devanagari": "प्रभातफेरि",
+        "latin": "Prabhaatapheri"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-prabhatapheri-def",
+      "ref": "note-prabhatapheri",
+      "text": "ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ನಡೆಸುವ ಮೆರವಣಿಗೆ",
+      "translations": {
+        "en": "a procession held early in the morning",
+        "hi": "सुबह-सवेरे निकाली जाने वाली शोभायात्रा"
+      },
+      "transliterations": {
+        "devanagari": "बेळगिन जावदल्लि नडेसुव मेरवणिगे",
+        "latin": "Belagina jaavadalli nadesuva meravanige"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-samavastra",
+      "text": "ಸಮವಸ್ತ್ರ",
+      "translations": {
+        "en": "uniform",
+        "hi": "वर्दी"
+      },
+      "transliterations": {
+        "devanagari": "समवस्त्र",
+        "latin": "Samavastra"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-samavastra-def",
+      "ref": "note-samavastra",
+      "text": "ಒಂದೇ ರೂಪದ ವಸ್ತ್ರ",
+      "translations": {
+        "en": "clothing of the same design",
+        "hi": "एक जैसे कपड़े"
+      },
+      "transliterations": {
+        "devanagari": "ओंदे रूपद वस्त्र",
+        "latin": "Onde roopada vastra"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಮುಖ್ಯ ಗುರುಗಳು ಯಾರ ಸಭೆ ಕರೆದರು?",
+      "translations": {
+        "en": "Whose meeting did the headteacher call?",
+        "hi": "प्रधानाध्यापक ने किसकी बैठक बुलाई?"
+      },
+      "transliterations": {
+        "devanagari": "मुख्य गुरुगळु यार सभे करेदरु?",
+        "latin": "Mukhya gurugalu yaara sabhe karedaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನವನ್ನು ಎಂದು ಆಚರಿಸುತ್ತೇವೆ?",
+      "translations": {
+        "en": "When do we celebrate Independence Day?",
+        "hi": "हम स्वतंत्रता दिवस कब मनाते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य दिनवन्नु एंदु आचरिसुत्तेवे?",
+        "latin": "Svaatantrya dinavannu endu aacharisutteve?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಯಾರು ಕ್ಷಮೆ ಕೋರಿದರು?",
+      "translations": {
+        "en": "Who apologised?",
+        "hi": "किसने क्षमा माँगी?"
+      },
+      "transliterations": {
+        "devanagari": "यारु क्षमे कोरिदरु?",
+        "latin": "Yaaru kshame koridaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಮಂತ್ರಿಮಂಡಲದ ಸಭೆಯಲ್ಲಿ ಯಾವುದರ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದರು?",
+      "translations": {
+        "en": "What did they discuss at the cabinet meeting?",
+        "hi": "मंत्रिमंडल की बैठक में किस विषय पर चर्चा हुई?"
+      },
+      "transliterations": {
+        "devanagari": "मंत्रिमंडलद सभेयल्लि यावुदर बग्गे चर्चिसिदरु?",
+        "latin": "Mantrimandalada sabheyalli yaavudara bagge charchisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ ಎಂದರೇನು?",
+      "translations": {
+        "en": "What is Independence Day?",
+        "hi": "स्वतंत्रता दिवस क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य दिनाचरणे एंदरेनु?",
+        "latin": "Svaatantrya dinaacharane endarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಐಶ್ವರ್ಯ ನೀಡಿದ ಸಲಹೆ ಏನು?",
+      "translations": {
+        "en": "What suggestion did Aishwarya give?",
+        "hi": "ऐश्वर्य ने क्या सुझाव दिया?"
+      },
+      "transliterations": {
+        "devanagari": "ऐश्वर्य नीडिद सलहे एनु?",
+        "latin": "Aishvarya needida salahe enu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಕ್ರೀಡಾ ಮಂತ್ರಿ ವಹಿಸಿಕೊಂಡ ಕಾರ್ಯವೇನು?",
+      "translations": {
+        "en": "What task did the sports minister take on?",
+        "hi": "खेल मंत्री ने कौन-सा काम लिया?"
+      },
+      "transliterations": {
+        "devanagari": "क्रीडा मंत्रि वहिसिकोंड कार्यवेनु?",
+        "latin": "Kreedaa mantri vahisikonda kaaryavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "ಮೂರನೆಯ ತರಗತಿಯವರು ವಹಿಸಿಕೊಂಡ ಕಾರ್ಯ ಯಾವುದು?",
+      "translations": {
+        "en": "What task did the Class Three pupils take on?",
+        "hi": "तीसरी कक्षा के विद्यार्थियों ने कौन-सा काम लिया?"
+      },
+      "transliterations": {
+        "devanagari": "मूरनेय तरगतियवरु वहिसिकोंड कार्य यावुदु?",
+        "latin": "Mooraneya taragatiyavaru vahisikonda kaarya yaavudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಮುಖ್ಯ ಗುರುಗಳು ಮಂತ್ರಿಮಂಡಲದ ಸಭೆ ಕರೆದರು.",
+      "translations": {
+        "en": "The headteacher called a cabinet meeting.",
+        "hi": "प्रधानाध्यापक ने मंत्रिमंडल की बैठक बुलाई।"
+      },
+      "transliterations": {
+        "devanagari": "मुख्य गुरुगळु मंत्रिमंडलद सभे करेदरु.",
+        "latin": "Mukhya gurugalu mantrimandalada sabhe karedaru."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಇತರರು ಮಾತನಾಡುವಾಗ ಕೇಳಿಸಿಕೊಳ್ಳಬೇಕು.",
+      "translations": {
+        "en": "We should listen when others speak.",
+        "hi": "दूसरों के बोलते समय सुनना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "इतररु मातनाडुवाग केळिसिकोळ्ळबेकु.",
+        "latin": "Itararu maatanaaduvaaga kelisikollabeku."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಸಭೆಯಲ್ಲಿ ಒಟ್ಟಾಗಿ ಮಾತನಾಡಬಾರದು.",
+      "translations": {
+        "en": "We must not all speak at once in a meeting.",
+        "hi": "बैठक में सबको एक साथ नहीं बोलना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "सभेयल्लि ओट्टागि मातनाडबारदु.",
+        "latin": "Sabheyalli ottaagi maatanaadabaaradu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "“ನಮ್ಮ ಶಾಲೆಯಲ್ಲೂ ಆಚರಿಸುತ್ತೇವಲ್ಲ ಸರ್?” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "translations": {
+        "en": "“We celebrate it at our school too, don't we, sir?” Who said this? To whom?",
+        "hi": "“हम अपने विद्यालय में भी मनाते हैं ना, सर?” किसने कहा? किससे कहा?"
+      },
+      "transliterations": {
+        "devanagari": "“नम्म शालेयल्लू आचरिसुत्तेवल्ल सर्?” यारु हेळिदरु? यारिगे हेळिदरु?",
+        "latin": "“Namma shaaleyalloo aacharisuttevalla sar?” yaaru helidaru? Yaarige helidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "“ಒಳ್ಳೆಯದು, ಮೇರಿಯ ಸಲಹೆ ಎಲ್ಲರಿಗೂ ಒಪ್ಪಿಗೆಯೇ?” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "translations": {
+        "en": "“Good. Does everyone agree with Mary's suggestion?” Who said this? To whom?",
+        "hi": "“अच्छा, क्या सबको मेरी का सुझाव मंज़ूर है?” किसने कहा? किससे कहा?"
+      },
+      "transliterations": {
+        "devanagari": "“ओळ्ळेयदु, मेरिय सलहे एल्लरिगू ओप्पिगेये?” यारु हेळिदरु? यारिगे हेळिदरु?",
+        "latin": "“Olleyadu, meriya salahe ellarigoo oppigeye?” yaaru helidaru? Yaarige helidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "“ನಮ್ಮ ತೋಟದಿಂದ ಮಾವಿನ ತಳಿರು, ಬಾಳೆಕಂಬ ತರುತ್ತೇನೆ.” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "translations": {
+        "en": "“I will bring tender mango leaves and banana stems from our garden.” Who said this? To whom?",
+        "hi": "“मैं अपने बगीचे से आम की कोमल पत्तियाँ और केले के तने लाऊँगा।” किसने कहा? किससे कहा?"
+      },
+      "transliterations": {
+        "devanagari": "“नम्म तोटदिंद माविन तळिरु, बाळेकंब तरुत्तेने.” यारु हेळिदरु? यारिगे हेळिदरु?",
+        "latin": "“Namma totadinda maavina taliru, baalekamba taruttene.” yaaru helidaru? Yaarige helidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ತೋರಣ",
+      "translations": {
+        "en": "festoon",
+        "hi": "तोरण"
+      },
+      "transliterations": {
+        "devanagari": "तोरण",
+        "latin": "Torana"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ರಂಗವಲ್ಲಿ",
+      "translations": {
+        "en": "rangoli",
+        "hi": "रंगोली"
+      },
+      "transliterations": {
+        "devanagari": "रंगवल्लि",
+        "latin": "Rangavalli"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಬಹುಮಾನ",
+      "translations": {
+        "en": "prize",
+        "hi": "पुरस्कार"
+      },
+      "transliterations": {
+        "devanagari": "बहुमान",
+        "latin": "Bahumaana"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಸಮವಸ್ತ್ರ",
+      "translations": {
+        "en": "uniform",
+        "hi": "वर्दी"
+      },
+      "transliterations": {
+        "devanagari": "समवस्त्र",
+        "latin": "Samavastra"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಕಾರ್ಯಕ್ರಮ ಮಾಡುವಾಗ ಕೆಲಸ ಹಂಚಿಕೊಳ್ಳಬಾರದು. ( )",
+      "translations": {
+        "en": "Work must not be shared when organising a programme. ( )",
+        "hi": "कार्यक्रम करते समय काम नहीं बाँटना चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "कार्यक्रम माडुवाग केलस हंचिकोळ्ळबारदु. ( )",
+        "latin": "Kaaryakrama maaduvaaga kelasa hanchikollabaaradu. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಕಾರ್ಯಕ್ರಮ ಮಾಡುವ ಮೊದಲು ಸಭೆಯಲ್ಲಿ ಚರ್ಚೆ ಮಾಡಬೇಕು. ( )",
+      "translations": {
+        "en": "Before organising a programme, we should discuss it at a meeting. ( )",
+        "hi": "कार्यक्रम करने से पहले बैठक में चर्चा करनी चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "कार्यक्रम माडुव मोदलु सभेयल्लि चर्चे माडबेकु. ( )",
+        "latin": "Kaaryakrama maaduva modalu sabheyalli charche maadabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ಚರ್ಚೆಯಲ್ಲಿ ಇತರರು ಮಾತನಾಡುವಾಗ ಕೇಳಿಸಿಕೊಳ್ಳಬೇಕು. ( )",
+      "translations": {
+        "en": "In a discussion, we should listen when others speak. ( )",
+        "hi": "चर्चा में दूसरों के बोलते समय सुनना चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "चर्चेयल्लि इतररु मातनाडुवाग केळिसिकोळ्ळबेकु. ( )",
+        "latin": "Charcheyalli itararu maatanaaduvaaga kelisikollabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q4",
+      "text": "ಸಭೆಯಲ್ಲಿ ಒಟ್ಟಾಗಿ ಮಾತನಾಡಿದರೆ ತೊಂದರೆ. ( )",
+      "translations": {
+        "en": "It causes difficulty if everyone speaks at once in a meeting. ( )",
+        "hi": "बैठक में सबके एक साथ बोलने से परेशानी होती है। ( )"
+      },
+      "transliterations": {
+        "devanagari": "सभेयल्लि ओट्टागि मातनाडिदरे तोंदरे. ( )",
+        "latin": "Sabheyalli ottaagi maatanaadidare tondare. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q5",
+      "text": "ಸಭೆಯಲ್ಲಿ ಒಬ್ಬರ ಅನಂತರ ಒಬ್ಬರು ಮಾತನಾಡಬಾರದು. ( )",
+      "translations": {
+        "en": "In a meeting, people should not speak one after another. ( )",
+        "hi": "बैठक में एक के बाद एक नहीं बोलना चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "सभेयल्लि ओब्बर अनंतर ओब्बरु मातनाडबारदु. ( )",
+        "latin": "Sabheyalli obbara anantara obbaru maatanaadabaaradu. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q6",
+      "text": "ಇತರರ ಒಳ್ಳೆಯ ಮಾತನ್ನು ಕೇಳಬೇಕು. ( )",
+      "translations": {
+        "en": "We should listen to others' good advice. ( )",
+        "hi": "दूसरों की अच्छी बात सुननी चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "इतरर ओळ्ळेय मातन्नु केळबेकु. ( )",
+        "latin": "Itarara olleya maatannu kelabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ನೀನು ಶಾಲೆಯಲ್ಲಿ ವಹಿಸಿಕೊಂಡು ಮಾಡಿದ ಒಂದು ಕೆಲಸವನ್ನು ಬರೆ.",
+      "translations": {
+        "en": "Write about one task you took responsibility for at school.",
+        "hi": "विद्यालय में ज़िम्मेदारी लेकर किए हुए अपने एक काम के बारे में लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "नीनु शालेयल्लि वहिसिकोंडु माडिद ओंदु केलसवन्नु बरे.",
+        "latin": "Neenu shaaleyalli vahisikondu maadida ondu kelasavannu bare."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q2",
+      "text": "ನೀನು ಮನೆಯಲ್ಲಿ ವಹಿಸಿಕೊಂಡು ಮಾಡಿದ ಒಂದು ಕೆಲಸವನ್ನು ಬರೆ.",
+      "translations": {
+        "en": "Write about one task you took responsibility for at home.",
+        "hi": "घर में ज़िम्मेदारी लेकर किए हुए अपने एक काम के बारे में लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "नीनु मनेयल्लि वहिसिकोंडु माडिद ओंदु केलसवन्नु बरे.",
+        "latin": "Neenu maneyalli vahisikondu maadida ondu kelasavannu bare."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q3",
+      "text": "ನಿನ್ನ ಮನೆಯಲ್ಲಿ ಎಲ್ಲರೂ ಕುಳಿತು ಚರ್ಚಿಸಿ ಮಾಡಿರುವ ಕೆಲಸ ಯಾವುದು?",
+      "translations": {
+        "en": "What work has your family done after sitting together and discussing it?",
+        "hi": "तुम्हारे घर में सबने बैठकर चर्चा करने के बाद कौन-सा काम किया है?"
+      },
+      "transliterations": {
+        "devanagari": "निन्न मनेयल्लि एल्लरू कुळितु चर्चिसि माडिरुव केलस यावुदु?",
+        "latin": "Ninna maneyalli ellaroo kulitu charchisi maadiruva kelasa yaavudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ಚಿತ್ರ ನೋಡಿ ಸಲಹೆ ನೀಡು. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 22, PDF ಪುಟ 35 (1ರಿಂದ ಎಣಿಕೆ), ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಇ ಅಡಿಯ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "Look at the picture and give advice. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 22, PDF page 35 (counting from 1), illustration under competency-based exercise ಇ.]",
+        "hi": "चित्र देखकर सलाह दो। [संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 22, PDF पृष्ठ 35 (गिनती 1 से), क्षमता-आधारित अभ्यास इ के नीचे का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "चित्र नोडि सलहे नीडु. [संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 22, PDF पुट 35 (1रिंद एणिके), सामर्थ्याधारित अभ्यास इ अडिय चित्र.]",
+        "latin": "Chitra nodi salahe needu. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 22, PDF puta 35 (1rinda enike), saamarthyaadhaarita abhyaasa i adiya chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-p1",
+      "text": "ಸರಿಯಾದ ಅರ್ಥ ಬರುವಂತೆ ಪದಗಳನ್ನು ಜೋಡಿಸಿ ವಾಕ್ಯಗಳನ್ನು ಸರಿಪಡಿಸಿ ಬರೆ.",
+      "translations": {
+        "en": "Rearrange the words to make meaningful sentences and write them correctly.",
+        "hi": "शब्दों को सही क्रम में लगाकर अर्थपूर्ण वाक्य लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "सरियाद अर्थ बरुवंते पदगळन्नु जोडिसि वाक्यगळन्नु सरिपडिसि बरे.",
+        "latin": "Sariyaada artha baruvante padagalannu jodisi vaakyagalannu saripadisi bare."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ಸಮವಸ್ತ್ರ / ಮಕ್ಕಳು / ಧರಿಸಿ / ಬಂದರು / ಶಾಲೆಗೆ",
+      "translations": {
+        "en": "uniform / children / wearing / came / to school",
+        "hi": "वर्दी / बच्चे / पहनकर / आए / विद्यालय"
+      },
+      "transliterations": {
+        "devanagari": "समवस्त्र / मक्कळु / धरिसि / बंदरु / शालेगे",
+        "latin": "Samavastra / makkalu / dharisi / bandaru / shaalege"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q2",
+      "text": "ಮಕ್ಕಳು / ಸಾಂಸ್ಕೃತಿಕ / ನಡೆಸಿಕೊಟ್ಟರು / ಕಾರ್ಯಕ್ರಮ",
+      "translations": {
+        "en": "children / cultural / presented / programme",
+        "hi": "बच्चों ने / सांस्कृतिक / प्रस्तुत किया / कार्यक्रम"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु / सांस्कृतिक / नडेसिकोट्टरु / कार्यक्रम",
+        "latin": "Makkalu / saanskrutika / nadesikottaru / kaaryakrama"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q3",
+      "text": "ಕೈತೋಟದಲ್ಲಿ / ಶಾಲೆಯ / ಹೂ / ಗಿಡಗಳಿವೆ",
+      "translations": {
+        "en": "in the garden / school's / flowering / there are plants",
+        "hi": "बगीचे में / विद्यालय के / फूलों के / पौधे हैं"
+      },
+      "transliterations": {
+        "devanagari": "कैतोटदल्लि / शालेय / हू / गिडगळिवे",
+        "latin": "Kaitotadalli / shaaleya / hoo / gidagalive"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1",
+      "text": "ಅ, ಆ ಮತ್ತು ಇ ಮನೆಗಳಲ್ಲಿರುವ ಪದಗಳನ್ನು ಕ್ರಮವಾಗಿ ಬಳಸಿ ಅರ್ಥಪೂರ್ಣ ವಾಕ್ಯಗಳನ್ನು ರಚಿಸು. ಅ: ನಾನು, ನೀನು, ಅವನು, ಅವಳು, ರಮೇಶ, ಕವಿತಾ, ಗುರುಗಳು, ಹಸುಗಳು. ಆ: ಮನೆಗೆ. ಇ: ಹೋಗುತ್ತವೆ, ಹೋಗುತ್ತೇನೆ, ಹೋಗುವೆಯಾ, ಹೋಗುತ್ತಾನೆ, ಹೋದರು, ಹೋಗಲಿಲ್ಲ, ಹೋಗಬೇಕು, ಹೋಗುತ್ತಾಳೆ.",
+      "translations": {
+        "en": "Make meaningful sentences using words from columns ಅ, ಆ and ಇ in order. ಅ: I, you, he, she, Ramesha, Kavita, teachers, cows. ಆ: home. ಇ: go (plural), I go, will you go?, he goes, went, did not go, must go, she goes.",
+        "hi": "अ, आ और इ खानों के शब्द क्रम से लेकर अर्थपूर्ण वाक्य बनाओ। अ: मैं, तुम, वह (पुरुष), वह (स्त्री), रमेश, कविता, शिक्षक, गायें। आ: घर। इ: जाती हैं, जाता/जाती हूँ, जाओगे?, जाता है, गए, नहीं गए, जाना चाहिए, जाती है।"
+      },
+      "transliterations": {
+        "devanagari": "अ, आ मत्तु इ मनेगळल्लिरुव पदगळन्नु क्रमवागि बळसि अर्थपूर्ण वाक्यगळन्नु रचिसु. अ: नानु, नीनु, अवनु, अवळु, रमेश, कविता, गुरुगळु, हसुगळु. आ: मनेगे. इ: होगुत्तवे, होगुत्तेने, होगुवेया, होगुत्ताने, होदरु, होगलिल्ल, होगबेकु, होगुत्ताळे.",
+        "latin": "A, aa mattu i manegalalliruva padagalannu kramavaagi balasi arthapoorna vaakyagalannu rachisu. A: naanu, neenu, avanu, avalu, ramesha, kavitaa, gurugalu, hasugalu. Aa: manege. I: hoguttave, hoguttene, hoguveyaa, hoguttaane, hodaru, hogalilla, hogabeku, hoguttaale."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1-ans",
+      "ref": "ex-j-q1",
+      "text": "ಮಾದರಿ: ಅವನು ಮನೆಗೆ ಹೋಗುತ್ತಾನೆ.",
+      "translations": {
+        "en": "Example: He goes home.",
+        "hi": "उदाहरण: वह घर जाता है।"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: अवनु मनेगे होगुत्ताने.",
+        "latin": "Maadari: avanu manege hoguttaane."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-p1",
+      "text": "ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ವಾಕ್ಯವೆಂದರೆ ಸರಿಯಾದ ಅರ್ಥ ಕೊಡುವ ಪದಗಳ ಗುಂಪು.",
+      "translations": {
+        "en": "Remember: A sentence is a group of words that conveys a proper meaning.",
+        "hi": "याद रखो: वाक्य शब्दों का ऐसा समूह है जो सही अर्थ देता है।"
+      },
+      "transliterations": {
+        "devanagari": "निनगिदु तिळिदिरलि: वाक्यवेंदरे सरियाद अर्थ कोडुव पदगळ गुंपु.",
+        "latin": "Ninagidu tilidirali: vaakyavendare sariyaada artha koduva padagala gumpu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q1",
+      "text": "ಈ ಜೋಡುನುಡಿಗಳನ್ನು ಗಮನಿಸಿ ನಕಲು ಮಾಡು. (ತಳಿರುತೋರಣ, ಸಿಹಿಕಹಿ, ಹಳ್ಳಕೊಳ್ಳ, ಬೆಟ್ಟಗುಡ್ಡ, ನೋವುನಲಿವು)",
+      "translations": {
+        "en": "Observe and copy these paired expressions: tender leaves and festoons, sweet and bitter, streams and hollows, hills and mounds, pain and joy.",
+        "hi": "इन युग्म शब्दों को देखकर नकल करो: कोमल पत्ते और तोरण, मीठा-कड़वा, नाले और गड्ढे, पहाड़ और टीले, दुख और सुख।"
+      },
+      "transliterations": {
+        "devanagari": "ई जोडुनुडिगळन्नु गमनिसि नकलु माडु. (तळिरुतोरण, सिहिकहि, हळ्ळकोळ्ळ, बेट्टगुड्ड, नोवुनलिवु)",
+        "latin": "Ee jodunudigalannu gamanisi nakalu maadu. (Talirutorana, sihikahi, hallakolla, bettagudda, novunalivu)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p1",
+      "text": "ಆವರಣದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮಾನಾರ್ಥಕ ಪದವನ್ನು ಗುರುತಿಸಿ ಮಾದರಿಯಂತೆ ಬರೆ. (ಬಟ್ಟೆ, ಬಾವುಟ, ಮುಂಜಾನೆ, ತಯಾರಿ, ಅಣಿ, ಬೆಳಗಿನ ಜಾವ, ಪತಾಕೆ, ಕುಸುಮ, ಪುಷ್ಪ, ಅರಿವೆ)",
+      "translations": {
+        "en": "Identify the synonyms in brackets and write them as in the example. (cloth, flag, early morning, preparation, readiness, dawn, banner, blossom, flower, clothing)",
+        "hi": "कोष्ठक में दिए समानार्थक शब्द पहचानकर उदाहरण की तरह लिखो। (कपड़ा, झंडा, सुबह-सवेरे, तैयारी, सज्जा, भोर, पताका, कुसुम, पुष्प, वस्त्र)"
+      },
+      "transliterations": {
+        "devanagari": "आवरणदल्लि कोट्टिरुव समानार्थक पदवन्नु गुरुतिसि मादरियंते बरे. (बट्टे, बावुट, मुंजाने, तयारि, अणि, बेळगिन जाव, पताके, कुसुम, पुष्प, अरिवे)",
+        "latin": "Aavaranadalli kottiruva samaanaarthaka padavannu gurutisi maadariyante bare. (Batte, baavuta, munjaane, tayaari, ani, belagina jaava, pataake, kusuma, pushpa, arive)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q1",
+      "text": "ಮಾದರಿ: ವಸ್ತ್ರ",
+      "translations": {
+        "en": "Example: garment",
+        "hi": "उदाहरण: वस्त्र"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: वस्त्र",
+        "latin": "Maadari: vastra"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q1-ans",
+      "ref": "ex-l-q1",
+      "text": "ಬಟ್ಟೆ, ಅರಿವೆ",
+      "translations": {
+        "en": "cloth, clothing",
+        "hi": "कपड़ा, परिधान"
+      },
+      "transliterations": {
+        "devanagari": "बट्टे, अरिवे",
+        "latin": "Batte, arive"
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q2",
+      "text": "ಧ್ವಜ — ___, ___",
+      "translations": {
+        "en": "flag — ___, ___",
+        "hi": "ध्वज — ___, ___"
+      },
+      "transliterations": {
+        "devanagari": "ध्वज — ___, ___",
+        "latin": "Dhvaja — ___, ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q3",
+      "text": "ನಸುಕು — ___, ___",
+      "translations": {
+        "en": "dawn — ___, ___",
+        "hi": "भोर — ___, ___"
+      },
+      "transliterations": {
+        "devanagari": "नसुकु — ___, ___",
+        "latin": "Nasuku — ___, ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q4",
+      "text": "ಸಿದ್ಧತೆ — ___, ___",
+      "translations": {
+        "en": "preparation — ___, ___",
+        "hi": "तैयारी — ___, ___"
+      },
+      "transliterations": {
+        "devanagari": "सिद्धते — ___, ___",
+        "latin": "Siddhate — ___, ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q5",
+      "text": "ಹೂ — ___, ___",
+      "translations": {
+        "en": "flower — ___, ___",
+        "hi": "फूल — ___, ___"
+      },
+      "transliterations": {
+        "devanagari": "हू — ___, ___",
+        "latin": "Hoo — ___, ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p2",
+      "text": "ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಸಮಾನಾರ್ಥಕ ಪದಗಳು ಎಂದರೆ ಒಂದೇ ಅರ್ಥ ಕೊಡುವ ಬೇರೆ ಬೇರೆ ಪದಗಳು.",
+      "translations": {
+        "en": "Remember: Synonyms are different words that have the same meaning.",
+        "hi": "याद रखो: समानार्थक शब्द अलग-अलग शब्द होते हैं जिनका अर्थ एक ही होता है।"
+      },
+      "transliterations": {
+        "devanagari": "निनगिदु तिळिदिरलि: समानार्थक पदगळु एंदरे ओंदे अर्थ कोडुव बेरे बेरे पदगळु.",
+        "latin": "Ninagidu tilidirali: samaanaarthaka padagalu endare onde artha koduva bere bere padagalu."
+      },
+      "type": "prose"
+    }
+  ]
+}

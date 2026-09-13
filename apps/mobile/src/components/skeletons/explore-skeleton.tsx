@@ -12,9 +12,9 @@ function Row({ last }: { last?: boolean }) {
       <SkeletonBox width={44} height={44} radius={Radius.medium} />
       <View style={styles.f1}>
         <SkeletonLine width="75%" height={16} />
-        <View style={styles.badgeRow}>
-          <SkeletonBox width={40} height={16} radius={Radius.pill} />
-          <SkeletonBox width={70} height={16} radius={Radius.pill} />
+        <View style={styles.titleLines}>
+          <SkeletonLine width="65%" height={13} />
+          <SkeletonLine width="55%" height={13} />
         </View>
       </View>
     </View>
@@ -41,6 +41,6 @@ const styles = StyleSheet.create({
   sectionHeaderRow: { marginTop: Spacing.four, marginBottom: Spacing.two },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5 },
   row: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three, paddingVertical: Spacing.three },
-  badgeRow: { flexDirection: 'row', gap: 6, marginTop: 5 },
+  titleLines: { gap: 6, marginTop: 5 },
   f1: { flex: 1 },
 });

@@ -1,0 +1,103 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: itzsrikanth
+  license: CC BY 4.0
+
+labels:
+  title: Nanna Kanasu
+  competency: Samarthya
+  intro: Pravesha
+  story: Kathe
+  vocab: Padagala Artha
+
+# ── ಸಾಮರ್ಥ್ಯ
+competency: Sariyaada uchchaaradondige maatanaaduvudu. Sariyaada svarabhaara mattu abhinayada moolaka gottiruva sarala kathegalannu heluvudu.
+
+# ── ಪ್ರವೇಶ
+intro-1: Naavu kanasannu kaanutteve allave?
+intro-2: Haagiddare neenu kanda kanasondannu nenapu maadiko.
+intro-3: Illi vidyaarthiyobba kanda kanaside.
+intro-4: Adu enirabahudu emba kutoohalave?
+intro-5: Haagiddare adannu tilidu geleyarondige hanchiko.
+
+# ── ಕಥೆ
+story-n1: >-
+  Ondu dattavaada kaadu. Vishaala pradeshadalli belediruva ettaravaada mara gidagalu, maragalannu
+  balasi mugilettarakke habbuttiruva balligalu, hasirina naduve bannada chittaara moodisiruva hoo,
+  hannugalu, dumbiya jhenkaara, pakshigala kalarava, naduve teli baruttiruva kogileya dhvani, julu
+  julu hariyuttiruva jhariya ninaada. Intaha sundara parisaravu praani pakshigalige nemmadiya
+  aashraya taanavaagittu.
+story-n2: >-
+  Ondu munjaane. Kaadina kalaravada naduve hejjeya sappalavu praanigala kiviyannu nimiruvante
+  maaditu. Enendu noduvashtaralli marada budakke bidda hodetadinda pakshigalu cheeruttaa
+  haaridavu. Sanihadallidda praanigalu bhayamishrita kutoohaladinda "Yaaradu?" endu tirugi
+  nodidavu. Maanavanannu kandu sittugondu vaadakke mundaadavu.
+story-d1: >-
+  E maanava. Ninaginnoo buddi baralillave? Ativrushti haagoo anaavrushti yinda saavu novugaloo
+  sambhavisive. Aadaroo kaadina naashakke mundaagiruveyallaa, chhee avivekee!
+story-d2: >-
+  Anjuburuka praaniye! Neenu maanavanannu avivekee ennuveyaa? Namma buddivantike ninagenu gottu?
+  (Kodaliyannu hegala melittu gattininda helidanu)
+story-d3: Helappa nimma jaanatanavannu... Naavoo svalpa tiliyutteve.
+story-d4: >-
+  Aakaashadalli haaruva vimaana, neerina mele chalisuva dooni, hadagugalannu srushtisiddeve.
+  Idishtu saakallave namma buddhivantikege?
+story-d5: >-
+  (Kattannu meletti moodalisuttaa) Pakshiyannu nodi vimaanavannu, jalacharagalannu nodi dooni,
+  hadagugalannu nirmisiruve. Idaralli nimma svantike enu?
+story-d6: >-
+  (Nariya maatige mankaada maanava, torpadisikollade) Sundaravaagi kaanalu udge todugegalannu
+  srushtisiddeve. Nimagidu tiliyade?
+story-d7: >-
+  Modalige namma charmavannee dharisuttiddudannu nenapisiko. Nimma batteyallenu vishesha? Praani,
+  pakshi, keetagala maibannakke manasotu nammante sundaravaagi kaanalu battegalannu
+  siddhapadisiruve. Sahaja saundarya nammadu, tiliyite?
+story-d8: >-
+  (Kombeyannu hididu jotaaduta) Jinkeya kanninantaha kannu, navilina nadigeyantaha nadige,
+  kogileya daniyantaha dani irabeku endella heluva neevu sundaravo athavaa naavu sundaravo?
+story-d9: >-
+  (Guturu haakuttaa) Agatya vastugalannu utpaadisuva nimma kaarkhaanegalu hoge mattu
+  kalmashavannu hora haakuttave. Idarinda gaali, mannu, neeru malinavaaguttave. Ideke ninage
+  tiliyuttilla?
+story-d10: >-
+  (Praanigala oggattu mattu buddivantikeyannu kanda maanavanige taanu soluttiruvudu
+  manavarikeyaayitu. Aadaroo torpadisikollade) Bayalinalli vaasa maaduva nimagenu gottu naavu
+  kattiruva sundaravaada manegala bagge bandu nodi. Namma buddhivantike tiliyuttade.
+story-d11: >-
+  Geejagana goodu, jenugoodu, geddaluhulu kattuva huttagalu eshtu sundara, surakshita! Kasadinda
+  maadiruva namma saadhaneya munde prakritiya naashada nimma saadhane shoonya. (Praani
+  pakshigala buddivantikege maanava beragaada)
+story-d12: (Aashcharyadinda) Nimage idella hege tiliyitu?
+story-d13: >-
+  (Balukuttaa) Nammalli kelavaru varshadalli kelavu tingalu desha videshagalige valase
+  hogutteve. Alli geleyarondige charchisutteve. Ninagidu tiliyade?
+story-d14: >-
+  (Sahaneyinda aalisuttidda maravu) E maanava, neenu enee maadiddaroo athavaa munde maadidaroo
+  adu ee prakritiya prabhaavadinda, prakritiya angavaada kaadina naashadinda ninna santatiya
+  naashavembudannu modalu aritukoo. Kaadina samrakshanege mundaagu, Saalumarada Timmakkanannu
+  nodi kali. Neenu badukuva jotege prakritiya ulivige ninna buddivantikeyannu torisu. Elu
+  echcharagollu, samaya meeruva munna eddeelu.
+story-d15: >-
+  Raaju, eelo, shaalege tadavaagutte. (Elu, eddeelu emba koogige Raaju echcharagonda,
+  haasigeya mele kulita)
+story-d16: >-
+  Amma. Ammaa. Nanage kanasu biddittu. Enthaa kanasu gottaa? Kaadinalli praanigalella seri
+  mara kadiyalu hoda manushyana manahparivartane maadidavu. Alli eshtella praanigaliddavu
+  gottaa?
+story-d17: >-
+  Haudaa, nijavaagiyoo idu olleya kanasee! Raaju, ninne raatri 'Kaadina Kathe' odi
+  malagideyallaa, adakkee ee reeti kanasu biddide. Naavu praanigalinda kaliyodu bahalashtide.
+  Nodu, aa koli koogi ellarannoo echcharisuttide. Elu bega.
+
+# ── ಪದಗಳ ಅರ್ಥ
+vocab-chittara: Chittaara
+vocab-chittara-def: Chitra
+vocab-ninada: Ninaada
+vocab-ninada-def: Dhvani
+vocab-kalarava: Kalarava
+vocab-kalarava-def: Pakshigala koogu
+vocab-samrakshisu: Samrakshisu
+vocab-samrakshisu-def: Kaapaadu
+vocab-moodalisu: Moodalisu
+vocab-moodalisu-def: "Hangisu, heeyaalisu"

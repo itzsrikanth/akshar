@@ -2,6 +2,13 @@
   "name": "mobile",
   "main": "./index.js",
   "version": "1.0.0",
+  "expo": {
+    "autolinking": {
+      "ios": {
+        "buildFromSource": ["expo-file-system"]
+      }
+    }
+  },
   "dependencies": {
     "@expo/ui": "~57.0.7",
     "@expo/vector-icons": "^15.1.1",

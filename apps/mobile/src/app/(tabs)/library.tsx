@@ -16,6 +16,7 @@ import { useDownloads } from '@/hooks/use-downloads';
 import { useReadingHistoryMap } from '@/hooks/use-reading-history';
 import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
+import { canonicalChapterPath } from '@/services/catalog-compatibility';
 import { formatRelativeTime } from '@/services/reading-history';
 
 export default function LibraryScreen() {
@@ -85,7 +86,9 @@ function LibraryContent({ catalog }: { catalog: Catalog }) {
           <View style={styles.f1}>
             <ThemedText type="default">{chapter.title}</ThemedText>
             <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
-              {history.has(chapter.path) ? `Opened ${formatRelativeTime(history.get(chapter.path)!.openedAt)}` : 'Not opened yet'}
+              {history.has(canonicalChapterPath(chapter.path))
+                ? `Opened ${formatRelativeTime(history.get(canonicalChapterPath(chapter.path))!.openedAt)}`
+                : 'Not opened yet'}
             </ThemedText>
           </View>
           <Touchable onPress={() => downloads.remove(chapter.slug)} hitSlop={8}>

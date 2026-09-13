@@ -1,0 +1,47 @@
+{
+  "checkedOn": "2026-09-13",
+  "inventoryId": "g04-fl-p1",
+  "pdfSha256": "bdeaf5e3e90c6b2c17b530fb282270d9da17720e9a26d9bfb52d0d2bfea42617",
+  "pdfPages": 72,
+  "frontMatterPages": 14,
+  "pdfNotice": "NOT TO BE REPUBLISHED",
+  "pdfNoticeLocations": [1, 14, 15],
+  "catalogAcademicYear": "2026-27",
+  "printedTitle": "ಸವಿ ಕನ್ನಡ",
+  "printedGrade": 4,
+  "part": 1,
+  "publisher": "Karnataka Textbook Society",
+  "bookDialCode": "T2V1D9",
+  "diksha": {
+    "searchEndpoint": "https://diksha.gov.in/api/content/v1/search",
+    "searchRequest": {"request": {"filters": {"dialcodes": ["T2V1D9"], "status": ["Live"]}, "limit": 100}},
+    "bookId": "do_31400957587983564814081",
+    "title": "4 Kannada FL_2024-25_Part 1",
+    "gradeLevel": ["Class 4"],
+    "medium": ["Kannada"],
+    "subject": ["I Language Kannada"],
+    "license": "CC BY 4.0",
+    "copyright": "DSERT eContent",
+    "spineUrl": "https://files.odev.oci.diksha.gov.in/ntp-content-production/content/do_31400957587983564814081/4-kannada-fl_2024-25_part-1_1741261669792_do_31400957587983564814081_1_SPINE.ecar",
+    "chapter1Id": "do_31401171287858380817982",
+    "chapter1DialCode": "B3S4J1",
+    "chapter1CollectionLicense": "CC BY 4.0"
+  },
+  "publicationStatus": "hold-for-edition-rights-review",
+  "reason": "The official 2026–27 PDF carries a restrictive notice, while its QR resolves to a CC BY 4.0 collection titled 2024–25. The metadata spine establishes collection/chapter labels, not a matching licensed PDF artifact. Do not treat the older collection license as proof of rights to all 2026–27 text or images.",
+  "chapter1": {
+    "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ",
+    "author": "ಕುವೆಂಪು",
+    "pdfPagesInclusive": [15, 19],
+    "printedPagesInclusive": [1, 5],
+    "status": "split-and-extracted-unreviewed-draft"
+  },
+  "externalConverter": {
+    "repository": "https://github.com/aravindavk/ascii2unicode",
+    "commit": "6d53b9bae48c089bb9e5776b01c55b505005841f",
+    "path": "knconverter",
+    "sha256": "94bb8421e0e3179ff2a51e11880dca4baace8f28aecb06914b6dc0d661834a7d",
+    "license": "GPL-3.0-or-later",
+    "distribution": "External temporary tool only; not copied into Akshar's MIT-licensed scripts."
+  }
+}

@@ -2,7 +2,7 @@ import * as Sentry from '@sentry/react-native';
 import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
 import { useEffect, useState } from 'react';
-import { useColorScheme } from 'react-native';
+import { AppState, useColorScheme } from 'react-native';
 
 import { OnboardingFlow } from '@/components/onboarding-flow';
 import { SplashView } from '@/components/splash-view';
@@ -11,6 +11,7 @@ import { primeCatalog } from '@/services/catalog-store';
 import { initCrashReporting } from '@/services/crash-reporting';
 import { applyDevSettingsOnLaunch } from '@/services/dev-settings';
 import { primeFontScale } from '@/services/font-scale-store';
+import { refreshMediaAvailability } from '@/services/media-availability';
 import { hasCompletedOnboarding } from '@/services/onboarding-storage';
 import { deriveScope } from '@/services/scope';
 
@@ -42,9 +43,13 @@ function RootLayout() {
     // however long the boot check actually takes.
     SplashScreen.hideAsync();
     applyDevSettingsOnLaunch()
-      .then(() => Promise.all([primeCatalog(), hasCompletedOnboarding(), primeFontScale()]))
+      .then(() => Promise.all([primeCatalog(), hasCompletedOnboarding(), primeFontScale(), refreshMediaAvailability()]))
       .then(([, completed]) => setNeedsOnboarding(!completed))
       .finally(() => setReady(true));
+    const subscription = AppState.addEventListener('change', (state) => {
+      if (state === 'active') void refreshMediaAvailability();
+    });
+    return () => subscription.remove();
   }, []);
 
   if (!ready) return <SplashView />;

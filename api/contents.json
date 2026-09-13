@@ -3,7 +3,7 @@
     {
       "board": "KSEEB",
       "chapter": 1,
-      "contentHash": "8fec02b74ebd8de5",
+      "contentHash": "ee7643a746471635",
       "grade": 5,
       "medium": "English",
       "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json",
@@ -11,6 +11,14 @@
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ",
+      "titleTranslations": {
+        "en": "The Colourful Tin Trumpet",
+        "hi": "रंगीन टीन की तुरही"
+      },
+      "titleTransliterations": {
+        "devanagari": "बण्णद तगडिन तुत्तूरि",
+        "latin": "Bannada Tagadina Tutturi"
+      },
       "translations": [
         "en",
         "hi"
@@ -23,7 +31,7 @@
     {
       "board": "KSEEB",
       "chapter": 2,
-      "contentHash": "70b730c0aeffb55d",
+      "contentHash": "1845f9cb122efe01",
       "grade": 5,
       "medium": "English",
       "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json",
@@ -31,26 +39,14 @@
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ನನ್ನ ಕನಸು",
-      "translations": [
-        "en",
-        "hi"
-      ],
-      "transliterations": [
-        "devanagari",
-        "latin"
-      ]
-    },
-    {
-      "board": "KSEEB",
-      "chapter": 4,
-      "contentHash": "d2ba75bf1cf0b3f5",
-      "grade": 5,
-      "medium": "English",
-      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch04-kanda.json",
-      "slug": "ch04-kanda",
-      "state": "Karnataka",
-      "subject": "Kannada",
-      "title": "ಕಂದ",
+      "titleTranslations": {
+        "en": "My Dream",
+        "hi": "मेरा सपना"
+      },
+      "titleTransliterations": {
+        "devanagari": "नन्न कनसु",
+        "latin": "Nanna Kanasu"
+      },
       "translations": [
         "en",
         "hi"
@@ -63,14 +59,50 @@
     {
       "board": "KSEEB",
       "chapter": 3,
-      "contentHash": "cf469433d6b84401",
-      "grade": 3,
-      "medium": "Kannada",
-      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch03-svatantrya-dinacharane.json",
+      "contentHash": "27c4b2702a2a3de1",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch03-svatantrya-dinacharane.json",
       "slug": "ch03-svatantrya-dinacharane",
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+      "titleTranslations": {
+        "en": "Independence Day Celebration",
+        "hi": "स्वतंत्रता दिवस समारोह"
+      },
+      "titleTransliterations": {
+        "devanagari": "स्वातंत्र्य दिनाचरणे",
+        "latin": "Svaatantrya Dinaacharane"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "2e66e8069f85570d",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch04-kanda.json",
+      "slug": "ch04-kanda",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕಂದ",
+      "titleTranslations": {
+        "en": "Little One",
+        "hi": "नन्हा बच्चा"
+      },
+      "titleTransliterations": {
+        "devanagari": "कंद",
+        "latin": "Kanda"
+      },
       "translations": [
         "en",
         "hi"
@@ -83,14 +115,22 @@
     {
       "board": "KSEEB",
       "chapter": 5,
-      "contentHash": "7d049a24024ee692",
-      "grade": 3,
-      "medium": "Kannada",
-      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch05-chiguru.json",
+      "contentHash": "59f1360dd5c3e9fb",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch05-chiguru.json",
       "slug": "ch05-chiguru",
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ಚಿಗುರು",
+      "titleTranslations": {
+        "en": "Sprout",
+        "hi": "अंकुर"
+      },
+      "titleTransliterations": {
+        "devanagari": "चिगुरु",
+        "latin": "Chiguru"
+      },
       "translations": [
         "en",
         "hi"
@@ -103,14 +143,22 @@
     {
       "board": "KSEEB",
       "chapter": 6,
-      "contentHash": "5b974d6f980e6bff",
-      "grade": 3,
-      "medium": "Kannada",
-      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch06-esura-svagata.json",
+      "contentHash": "129e984c983e0a03",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch06-esura-svagata.json",
       "slug": "ch06-esura-svagata",
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ಈಸೂರ ಸ್ವಗತ",
+      "titleTranslations": {
+        "en": "Isuru's Monologue",
+        "hi": "ईसूर का आत्मकथन"
+      },
+      "titleTransliterations": {
+        "devanagari": "ईसूर स्वगत",
+        "latin": "Eesoora Svagata"
+      },
       "translations": [
         "en",
         "hi"
@@ -123,14 +171,22 @@
     {
       "board": "KSEEB",
       "chapter": 7,
-      "contentHash": "ee5ce9324636283c",
-      "grade": 3,
-      "medium": "Kannada",
-      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch07-pramanika-balaka.json",
+      "contentHash": "7740c721176bb9e3",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch07-pramanika-balaka.json",
       "slug": "ch07-pramanika-balaka",
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ",
+      "titleTranslations": {
+        "en": "The Honest Boy",
+        "hi": "ईमानदार बालक"
+      },
+      "titleTransliterations": {
+        "devanagari": "प्रामाणिक बालक",
+        "latin": "Praamaanika Baalaka"
+      },
       "translations": [
         "en",
         "hi"
@@ -143,7 +199,231 @@
     {
       "board": "KSEEB",
       "chapter": 8,
-      "contentHash": "213ea09561ee3cad",
+      "contentHash": "d335fdb28819be99",
+      "grade": 5,
+      "medium": "English",
+      "path": "KSEEB/Karnataka/English/Grade5/Kannada/ch08-sankranti.json",
+      "slug": "ch08-sankranti",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸಂಕ್ರಾಂತಿ",
+      "titleTranslations": {
+        "en": "Sankranti",
+        "hi": "संक्रांति"
+      },
+      "titleTransliterations": {
+        "devanagari": "संक्रांति",
+        "latin": "Sankraanti"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "f827f95dc7ffe16c",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch01-bannada-tagadina.json",
+      "slug": "ch01-bannada-tagadina",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ",
+      "titleTranslations": {
+        "en": "The Colourful Tin Trumpet",
+        "hi": "रंगीन टीन की तुरही"
+      },
+      "titleTransliterations": {
+        "devanagari": "बण्णद तगडिन तुत्तूरि",
+        "latin": "Bannada Tagadina Tutturi"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "d264447ad8b5c967",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch02-nanna-kanasu.json",
+      "slug": "ch02-nanna-kanasu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನನ್ನ ಕನಸು",
+      "titleTranslations": {
+        "en": "My Dream",
+        "hi": "मेरा सपना"
+      },
+      "titleTransliterations": {
+        "devanagari": "नन्न कनसु",
+        "latin": "Nanna Kanasu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "291aec0cca3c1c69",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch03-svatantrya-dinacharane.json",
+      "slug": "ch03-svatantrya-dinacharane",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+      "titleTranslations": {
+        "en": "Independence Day Celebration",
+        "hi": "स्वतंत्रता दिवस समारोह"
+      },
+      "titleTransliterations": {
+        "devanagari": "स्वातंत्र्य दिनाचरणे",
+        "latin": "Svaatantrya Dinaacharane"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "980f64897b29718d",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch04-kanda.json",
+      "slug": "ch04-kanda",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕಂದ",
+      "titleTranslations": {
+        "en": "Little One",
+        "hi": "नन्हा बच्चा"
+      },
+      "titleTransliterations": {
+        "devanagari": "कंद",
+        "latin": "Kanda"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "c1f1d77cbbc84267",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch05-chiguru.json",
+      "slug": "ch05-chiguru",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಚಿಗುರು",
+      "titleTranslations": {
+        "en": "Sprout",
+        "hi": "अंकुर"
+      },
+      "titleTransliterations": {
+        "devanagari": "चिगुरु",
+        "latin": "Chiguru"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "5c25298569e3efd1",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch06-esura-svagata.json",
+      "slug": "ch06-esura-svagata",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಈಸೂರ ಸ್ವಗತ",
+      "titleTranslations": {
+        "en": "Isuru's Monologue",
+        "hi": "ईसूर का आत्मकथन"
+      },
+      "titleTransliterations": {
+        "devanagari": "ईसूर स्वगत",
+        "latin": "Eesoora Svagata"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "07f07c80506c108f",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch07-pramanika-balaka.json",
+      "slug": "ch07-pramanika-balaka",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ",
+      "titleTranslations": {
+        "en": "The Honest Boy",
+        "hi": "ईमानदार बालक"
+      },
+      "titleTransliterations": {
+        "devanagari": "प्रामाणिक बालक",
+        "latin": "Praamaanika Baalaka"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "2e69d3803b0fd826",
       "grade": 3,
       "medium": "Kannada",
       "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch08-sankranti.json",
@@ -151,6 +431,14 @@
       "state": "Karnataka",
       "subject": "Kannada",
       "title": "ಸಂಕ್ರಾಂತಿ",
+      "titleTranslations": {
+        "en": "Sankranti",
+        "hi": "संक्रांति"
+      },
+      "titleTransliterations": {
+        "devanagari": "संक्रांति",
+        "latin": "Sankraanti"
+      },
       "translations": [
         "en",
         "hi"
@@ -161,6 +449,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-13T11:59:56Z",
+  "generatedAt": "2026-09-13T15:55:50Z",
   "schemaVersion": "1.0"
 }

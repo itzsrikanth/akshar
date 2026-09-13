@@ -2,6 +2,7 @@ import { useFocusEffect } from 'expo-router';
 import { useCallback, useState } from 'react';
 
 import { loadReadingHistory, type ChapterHistoryEntry } from '@/services/reading-history';
+import { canonicalChapterPath } from '@/services/catalog-compatibility';
 
 // Reloads on focus, not just on mount — Home/Library stay mounted across
 // tab switches (React Navigation), so a chapter opened in Reader wouldn't
@@ -28,5 +29,5 @@ export function useLastOpenedChapter(): ChapterHistoryEntry | null {
 
 /** Full history, keyed for a quick "has this chapter been opened" lookup (Library). */
 export function useReadingHistoryMap(): Map<string, ChapterHistoryEntry> {
-  return new Map(useReadingHistory().map((e) => [e.path, e]));
+  return new Map([...useReadingHistory()].reverse().map((entry) => [canonicalChapterPath(entry.path), entry]));
 }

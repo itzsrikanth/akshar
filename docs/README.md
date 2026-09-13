@@ -8,12 +8,15 @@
 - [Content source and license](license.md)
 - [Roadmap](roadmap.md)
 - [Current content](current-content.md)
+- [Kannada expansion checkpoint](kannada-expansion-todo.md) — resumable official-PDF acquisition and chapter-by-chapter school-demo work
+- [Pronunciation audio and object storage](media-delivery.md) — clip/sprite decision, cloud-credit caveats, IaC plan, and offline availability
 
 ## Contributing content
 
 - [Repository structure and the machine-readable API](repository-structure.md)
 - [Publication identity, editions, and safe migration](publication-model.md) — proposed book-centric layout, verified source provenance, current Android refresh limitations, legacy compatibility, and provider-neutral media storage
 - [Data format (YAML source + contributor files)](data-format.md)
+- [Kannada catalog correction and compatibility bridge](catalog-unification.md) — one source tree/mobile listing, retained historical API views, and translated/transliterated titles
 - [Automating the first-pass transliteration](automation.md)
 - [CONTRIBUTING.md](../CONTRIBUTING.md) — the actual step-by-step guide, no coding required
 

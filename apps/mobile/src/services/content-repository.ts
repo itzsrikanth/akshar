@@ -3,6 +3,8 @@
 // rather than imported from a schema package so this file has no build-time
 // dependency on the content repo's own tooling.
 
+import { normalizeCatalog } from './catalog-compatibility';
+
 export type CatalogChapter = {
   board: string;
   state: string;
@@ -12,6 +14,8 @@ export type CatalogChapter = {
   chapter: number;
   slug: string;
   title: string;
+  titleTranslations?: Record<string, string>;
+  titleTransliterations?: Record<string, string>;
   path: string;
   contentHash: string;
   translations: string[];
@@ -115,7 +119,7 @@ export class CdnContentRepository implements ContentRepository {
 
   getCatalog(): Promise<Catalog> {
     if (!this.catalogCache) {
-      this.catalogCache = this.fetchJson<Catalog>('api/contents.json');
+      this.catalogCache = this.fetchJson<Catalog>('api/contents.json').then(normalizeCatalog);
       // Don't cache a rejected fetch — a transient network error shouldn't
       // permanently poison the catalog for the rest of the session.
       this.catalogCache.catch(() => {

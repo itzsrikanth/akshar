@@ -1,6 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import type { Scope } from './scope';
+import { isLocalDataResetting } from './local-reset-state';
 
 // Single saved scope for now — one parent, one child (see
 // docs/product-brief.md's non-goals) — but namespaced by a fixed 'default'
@@ -21,5 +22,6 @@ export async function loadSavedScope(): Promise<Scope | null> {
 }
 
 export async function saveScope(scope: Scope): Promise<void> {
+  if (isLocalDataResetting()) return;
   await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(scope));
 }

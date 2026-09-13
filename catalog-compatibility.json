@@ -1,0 +1,14 @@
+{
+  "canonicalScope": { "board": "KSEEB", "state": "Karnataka", "medium": "Kannada", "grade": 3, "subject": "Kannada" },
+  "legacyScope": { "board": "KSEEB", "state": "Karnataka", "medium": "English", "grade": 5, "subject": "Kannada" },
+  "chapters": [
+    { "slug": "ch01-bannada-tagadina", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch01-bannada-tagadina.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json", "clientPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json" },
+    { "slug": "ch02-nanna-kanasu", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch02-nanna-kanasu.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json", "clientPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json" },
+    { "slug": "ch03-svatantrya-dinacharane", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch03-svatantrya-dinacharane.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch03-svatantrya-dinacharane.json", "clientPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch03-svatantrya-dinacharane.json" },
+    { "slug": "ch04-kanda", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch04-kanda.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch04-kanda.json", "clientPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch04-kanda.json" },
+    { "slug": "ch05-chiguru", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch05-chiguru.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch05-chiguru.json", "clientPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch05-chiguru.json" },
+    { "slug": "ch06-esura-svagata", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch06-esura-svagata.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch06-esura-svagata.json", "clientPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch06-esura-svagata.json" },
+    { "slug": "ch07-pramanika-balaka", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch07-pramanika-balaka.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch07-pramanika-balaka.json", "clientPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch07-pramanika-balaka.json" },
+    { "slug": "ch08-sankranti", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch08-sankranti.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch08-sankranti.json", "clientPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch08-sankranti.json" }
+  ]
+}

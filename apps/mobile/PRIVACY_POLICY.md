@@ -2,17 +2,11 @@
 
 **Effective date:** 2026-08-08
 
-Akshar ("the app") is an open-source, free app that helps parents and children read and
-translate Indian school textbook content across scripts. This policy describes what data the
-app collects and how it's used. The app's full source code is public — every claim below can be
-verified directly against it (see the file references in each section).
+Akshar ("the app") is an open-source, free app that helps parents and children read and translate Indian school textbook content across scripts. This policy describes what data the app collects and how it's used. The app's full source code is public — every claim below can be verified directly against it (see the file references in each section).
 
 ## Summary
 
-**Akshar does not collect, store, or transmit any personal data.** There is no account, no
-sign-in, and no backend server that receives data from your device. Everything the app
-remembers about you (your saved scope, downloaded chapters, reading history) stays on your
-device, in your device's local storage, and is never sent anywhere.
+**Akshar does not collect, store, or transmit any personal data.** There is no account, no sign-in, and no backend server that receives data from your device. Everything the app remembers about you (your saved scope, downloaded chapters, reading history) stays on your device, in your device's local storage, and is never sent anywhere.
 
 ## What the app does *not* do
 
@@ -27,8 +21,7 @@ device, in your device's local storage, and is never sent anywhere.
 
 ## What the app stores, and where
 
-Everything below is stored **only on your device**, using standard on-device storage
-(`AsyncStorage` and the device's local filesystem) — never uploaded to any server:
+Everything below is stored **only on your device**, using standard on-device storage (`AsyncStorage` and the device's local filesystem) — never uploaded to any server:
 
 | Data | Purpose | Source |
 |---|---|---|
@@ -37,43 +30,24 @@ Everything below is stored **only on your device**, using standard on-device sto
 | Which chapters you've opened, and when | Powers the "Continue reading" card | `src/services/reading-history.ts` |
 | A cached copy of the content catalog | Faster app startup | `src/services/catalog-cache.ts` |
 
-None of this data identifies you personally, none of it leaves your device, and none of it is
-accessible to the app's developer or anyone else. Uninstalling the app deletes all of it.
+None of this data identifies you personally, none of it leaves your device, and none of it is accessible to the app's developer or anyone else. Uninstalling the app deletes all of it.
 
 ## Network requests the app makes
 
-The app fetches textbook content (chapter text, translations, transliterations) from
-[jsDelivr](https://www.jsdelivr.com/), a public CDN serving this project's own public GitHub
-repository (`github.com/itzsrikanth/akshar`). These are plain content requests — no personal
-data, device identifiers, or account information is attached to them.
+The app fetches textbook content (chapter text, translations, transliterations) from [jsDelivr](https://www.jsdelivr.com/), a public CDN serving this project's own public GitHub repository (`github.com/itzsrikanth/akshar`). These are plain content requests — no personal data, device identifiers, or account information is attached to them.
 
 ## Crash reporting
 
-The app includes the Sentry crash-reporting SDK (`@sentry/react-native`), but it is currently
-**configured off** (`src/services/crash-reporting.ts`) — no crash reports, error data, or device
-information are sent anywhere by the current version of the app. This will change once the
-project has a real Sentry account set up; when that happens, this section will be updated first,
-before that release ships, to describe exactly what's collected (typically: error/crash details
-and basic device info such as OS version, never chapter content or anything you've typed) and
-why. Crash data, if and when it's turned on, is used only to fix bugs — never for advertising or
-tracking.
+The app includes the Sentry crash-reporting SDK (`@sentry/react-native`), but it is currently **configured off** (`src/services/crash-reporting.ts`) — no crash reports, error data, or device information are sent anywhere by the current version of the app. This will change once the project has a real Sentry account set up; when that happens, this section will be updated first, before that release ships, to describe exactly what's collected (typically: error/crash details and basic device info such as OS version, never chapter content or anything you've typed) and why. Crash data, if and when it's turned on, is used only to fix bugs — never for advertising or tracking.
 
 ## Children's privacy
 
-Akshar is built to be used by children doing schoolwork, typically alongside a parent. Because
-the app collects no personal data from anyone — child or adult — there is nothing to disclose
-under children's privacy regulations (e.g. COPPA). No data about a child (or anyone) is ever
-collected, stored remotely, or shared.
+Akshar is built to be used by children doing schoolwork, typically alongside a parent. Because the app collects no personal data from anyone — child or adult — there is nothing to disclose under children's privacy regulations (e.g. COPPA). No data about a child (or anyone) is ever collected, stored remotely, or shared.
 
 ## Future changes
 
-This project's technical roadmap (`docs/tech-implementation.md`) lists one further optional
-addition not yet built at all: basic product-usage analytics (PostHog). If it's added in a
-future release, this policy will be updated first to disclose exactly what's collected and why,
-before that release ships — same commitment already made above for crash reporting.
+This project's technical roadmap (`docs/tech-implementation.md`) lists one further optional addition not yet built at all: basic product-usage analytics (PostHog). If it's added in a future release, this policy will be updated first to disclose exactly what's collected and why, before that release ships — same commitment already made above for crash reporting.
 
 ## Open source
 
-Akshar's complete source code, including everything described in this policy, is public at
-<https://github.com/itzsrikanth/akshar>. If you have questions about this policy or how the app
-works, please [open an issue on GitHub](https://github.com/itzsrikanth/akshar/issues).
+Akshar's complete source code, including everything described in this policy, is public at <https://github.com/itzsrikanth/akshar>. If you have questions about this policy or how the app works, please [open an issue on GitHub](https://github.com/itzsrikanth/akshar/issues).

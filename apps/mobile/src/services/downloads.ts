@@ -7,6 +7,7 @@
 import { Directory, File, Paths } from 'expo-file-system';
 
 import type { Chapter } from './content-repository';
+import { isLocalDataResetting } from './local-reset-state';
 
 const downloadsDir = new Directory(Paths.document, 'chapters');
 
@@ -52,6 +53,7 @@ export function isDownloaded(slug: string): boolean {
 }
 
 export function downloadChapter(slug: string, chapter: Chapter): void {
+  if (isLocalDataResetting()) throw new Error('Local data is being reset. Restart the app before downloading.');
   if (!downloadsDir.exists) downloadsDir.create({ intermediates: true, idempotent: true });
   const file = fileFor(slug);
   if (!file.exists) file.create({ overwrite: true });
@@ -62,6 +64,12 @@ export function downloadChapter(slug: string, chapter: Chapter): void {
 export function deleteChapter(slug: string): void {
   const file = fileFor(slug);
   if (file.exists) file.delete();
+  invalidate();
+}
+
+export function clearDownloadedChapters(): void {
+  if (!__DEV__) throw new Error('Clearing all downloads is only available in development builds.');
+  if (downloadsDir.exists) downloadsDir.delete();
   invalidate();
 }
 

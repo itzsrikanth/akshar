@@ -1,4 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { isLocalDataResetting } from './local-reset-state';
 
 // Deliberately its own flag, not derived from whether a scope/reading
 // preference happens to be saved — a scope can get saved other ways (e.g.
@@ -15,5 +16,6 @@ export async function hasCompletedOnboarding(): Promise<boolean> {
 }
 
 export async function setOnboardingCompleted(): Promise<void> {
+  if (isLocalDataResetting()) return;
   await AsyncStorage.setItem(STORAGE_KEY, 'true');
 }

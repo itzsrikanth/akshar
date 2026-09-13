@@ -15,6 +15,7 @@ import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
 import { useScope } from '@/hooks/use-scope';
+import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useTheme } from '@/hooks/use-theme';
 import { forceCatalogRefresh } from '@/services/catalog-store';
 import type { Catalog } from '@/services/content-repository';
@@ -84,6 +85,7 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
   const chaptersInScope = useMemo(() => filterChapters(catalog.chapters, resolved), [catalog, resolved]);
 
   const { scope, isSaved, setScope } = useScope(catalog);
+  const { preference } = useReadingPreference(catalog);
   // Scope is board/state/medium/grade only (see services/scope.ts) — offer
   // to save it the moment those first 4 levels are resolved, regardless of
   // which subject the user is currently browsing into.
@@ -204,7 +206,12 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
           {chaptersInScope.map((chapter, i) => {
             const downloaded = downloads.isDownloaded(chapter.slug);
             const pending = downloads.isPending(chapter.slug);
-            const badges = [...chapter.translations.map(labelForLanguage), ...chapter.transliterations.map(labelForScript)];
+            const titleTranslation = preference.translationLanguage
+              ? chapter.titleTranslations?.[preference.translationLanguage]
+              : undefined;
+            const titleTransliteration = preference.transliterationScript
+              ? chapter.titleTransliterations?.[preference.transliterationScript]
+              : undefined;
             const row = (
               <View style={styles.chapterRowInner}>
                 <View style={[styles.chapterIcon, { backgroundColor: downloaded ? theme.tintMuted : theme.backgroundElement }]}>
@@ -212,22 +219,24 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
                 </View>
                 <View style={styles.f1}>
                   <ThemedText type="default">{chapter.title}</ThemedText>
-                  {badges.length > 0 ? (
-                    <View style={styles.badgeRow}>
-                      {badges.map((badge) => (
-                        // theme.success at reduced opacity via hex alpha, rather than a
-                        // new successMuted token — a one-off availability badge, not
-                        // reused enough yet to warrant expanding the token set.
-                        <View key={badge} style={[styles.badge, { backgroundColor: `${theme.success}1A` }]}>
-                          <ThemedText type="smallBold" themeColor="success">
-                            {badge}
-                          </ThemedText>
-                        </View>
-                      ))}
-                    </View>
-                  ) : (
-                    <ThemedText type="small" themeColor="textDisabled" style={styles.mt5}>
-                      No transliteration or translation yet
+                  {titleTransliteration && (
+                    <ThemedText
+                      type="small"
+                      themeColor="textSecondary"
+                      style={styles.mt5}
+                      accessibilityLabel={`${labelForScript(preference.transliterationScript!)} transliteration: ${titleTransliteration}`}
+                    >
+                      {titleTransliteration}
+                    </ThemedText>
+                  )}
+                  {titleTranslation && (
+                    <ThemedText
+                      type="small"
+                      themeColor="textSecondary"
+                      style={styles.mt5}
+                      accessibilityLabel={`${labelForLanguage(preference.translationLanguage!)} translation: ${titleTranslation}`}
+                    >
+                      {titleTranslation}
                     </ThemedText>
                   )}
                 </View>
@@ -295,8 +304,6 @@ const styles = StyleSheet.create({
   chapterRowInner: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three },
   chapterIcon: { width: 44, height: 44, borderRadius: Radius.medium, alignItems: 'center', justifyContent: 'center' },
   chapterActions: { flexDirection: 'row', alignItems: 'center', gap: Spacing.two },
-  badgeRow: { flexDirection: 'row', gap: 6, marginTop: 5 },
-  badge: { paddingVertical: 2, paddingHorizontal: 8, borderRadius: Radius.pill },
   f1: { flex: 1 },
   mt5: { marginTop: 5 },
 });

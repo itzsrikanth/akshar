@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import Animated, { Easing, useAnimatedStyle, useSharedValue, withRepeat, withTiming } from 'react-native-reanimated';
 
 import { Colors, Radius } from '@/constants/theme';
+import { useMediaAvailability } from '@/hooks/use-media-availability';
 
 /**
  * Shown while app/_layout.tsx holds the native splash open for a real boot
@@ -16,6 +17,7 @@ import { Colors, Radius } from '@/constants/theme';
  * see (tabs)/index.tsx's same substitution and why.
  */
 export function SplashView() {
+  const mediaAvailability = useMediaAvailability();
   const rotation = useSharedValue(0);
 
   useEffect(() => {
@@ -32,6 +34,9 @@ export function SplashView() {
       <Text style={styles.title}>Akshar</Text>
       <Text style={styles.tagline}>Learning app</Text>
       <Animated.View style={[styles.spinner, spinnerStyle]} />
+      <Text style={styles.status} accessibilityLiveRegion="polite">
+        {mediaAvailability === 'checking' ? 'Checking pronunciation availability…' : 'Preparing lessons…'}
+      </Text>
     </View>
   );
 }
@@ -54,6 +59,7 @@ const styles = StyleSheet.create({
   },
   title: { fontSize: 26, fontWeight: '700', color: '#ffffff' },
   tagline: { fontSize: 14, color: 'rgba(255,255,255,0.85)' },
+  status: { fontSize: 13, color: 'rgba(255,255,255,0.85)' },
   spinner: {
     width: 26,
     height: 26,

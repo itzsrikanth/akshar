@@ -1,4 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { isLocalDataResetting } from './local-reset-state';
 
 // Mirrors scope-storage.ts exactly — same profile-aware key shape, same
 // load/save pattern. Previously this preference lived only as local
@@ -23,5 +24,6 @@ export async function loadReadingPreference(): Promise<ReadingPreference | null>
 }
 
 export async function saveReadingPreference(preference: ReadingPreference): Promise<void> {
+  if (isLocalDataResetting()) return;
   await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(preference));
 }

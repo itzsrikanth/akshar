@@ -13,3 +13,5 @@ export const CONTENT_SOURCES = {
 export type ContentSourceId = keyof typeof CONTENT_SOURCES;
 
 export const CONTENT_BASE_URL = __DEV__ ? CONTENT_SOURCES.local : CONTENT_SOURCES.cdn;
+
+export const MEDIA_HEALTH_URL = process.env.EXPO_PUBLIC_MEDIA_HEALTH_URL?.trim() || undefined;

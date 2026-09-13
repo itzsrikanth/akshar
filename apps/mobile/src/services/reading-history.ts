@@ -1,4 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { isLocalDataResetting } from './local-reset-state';
 
 // Real "what has this user actually opened" signal — replaces the
 // catalog.chapters[0] + fixed segment-count placeholders that used to stand
@@ -27,6 +28,7 @@ export async function loadReadingHistory(): Promise<ChapterHistoryEntry[]> {
 
 export async function recordChapterOpened(path: string): Promise<void> {
   const existing = await loadReadingHistory();
+  if (isLocalDataResetting()) return;
   const next = [{ path, openedAt: new Date().toISOString() }, ...existing.filter((e) => e.path !== path)].slice(
     0,
     MAX_ENTRIES,

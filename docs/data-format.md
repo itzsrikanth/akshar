@@ -4,6 +4,8 @@
 
 **Current v1 format:** the fields and examples below describe the existing schema, not the proposed publication-aware schema. Publisher, board/curriculum, medium, subject language, book, and edition must be distinguished in the next model. See [Publication identity and safe migration](publication-model.md); do not add proposed metadata fields or move existing sources until the validator/compiler and client compatibility bridge are implemented.
 
+Chapter titles may use the existing `labels.title` heading key: the source value must equal `meta.title`, and contributor values contain the translated/transliterated title. These are heading labels, not new segment IDs. The compiler exposes them as optional catalog `titleTranslations` and `titleTransliterations` maps; availability arrays remain intact. See the implemented [Kannada catalog compatibility bridge](catalog-unification.md) for its bounded source reclassification and historical API views.
+
 **Why not Markdown:** Markdown has no natural way to express segment IDs. Transliteration files map to individual source lines by key — without IDs, one inserted line silently misaligns all downstream files with no way to detect it.
 
 **Why YAML over JSON:** YAML is structured (machine-parseable, every language has a parser) while remaining readable enough for non-developer contributors to edit directly in GitHub's web UI.
@@ -58,6 +60,4 @@ q1: कस्तूरियु एननु कोण्डनु?
 
 Use **ISO 639-1 codes** for translation files (`en.yaml`, `hi.yaml`, `te.yaml`). Use script names for transliteration files (`devanagari.yaml`, `latin.yaml`, `tamil.yaml`).
 
-See also: [`schema/source.schema.json`](../schema/source.schema.json) and
-[`schema/contributor.schema.json`](../schema/contributor.schema.json) — the JSON Schemas CI
-validates every file against (`scripts/validate.py`).
+See also: [`schema/source.schema.json`](../schema/source.schema.json) and [`schema/contributor.schema.json`](../schema/contributor.schema.json) — the JSON Schemas CI validates every file against (`scripts/validate.py`).
