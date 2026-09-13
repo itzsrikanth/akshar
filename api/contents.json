@@ -59,8 +59,108 @@
         "devanagari",
         "latin"
       ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "cf469433d6b84401",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch03-svatantrya-dinacharane.json",
+      "slug": "ch03-svatantrya-dinacharane",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "7d049a24024ee692",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch05-chiguru.json",
+      "slug": "ch05-chiguru",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಚಿಗುರು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "5b974d6f980e6bff",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch06-esura-svagata.json",
+      "slug": "ch06-esura-svagata",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಈಸೂರ ಸ್ವಗತ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "ee5ce9324636283c",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch07-pramanika-balaka.json",
+      "slug": "ch07-pramanika-balaka",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "213ea09561ee3cad",
+      "grade": 3,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch08-sankranti.json",
+      "slug": "ch08-sankranti",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸಂಕ್ರಾಂತಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
     }
   ],
-  "generatedAt": "2026-08-23T08:47:14Z",
+  "generatedAt": "2026-09-13T11:59:56Z",
   "schemaVersion": "1.0"
 }

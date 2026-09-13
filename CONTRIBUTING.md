@@ -10,6 +10,34 @@ Thank you for helping make school content accessible to more families.
 
 No coding knowledge required. All three can be done via GitHub's web UI.
 
+## Local checks before pushing
+
+For a local checkout, use Python 3.12 or newer and install `scripts/requirements.txt` in a virtual environment. Run these from the repository root:
+
+```sh
+python3 -m venv .venv
+. .venv/bin/activate
+python3 -m pip install -r scripts/requirements.txt
+python3 scripts/check.py
+```
+
+`python3 scripts/check.py` (also `npm run check`) runs the same schema/encoding validation, generated README freshness check, and compiled `api/` freshness check as GitHub Actions. It is read-only and exits on the first failure. After editing content, regenerate and include all resulting artifacts in your commit:
+
+```sh
+python3 scripts/validate.py
+python3 scripts/generate_readme.py
+python3 scripts/build_json.py
+python3 scripts/check.py
+```
+
+For a scoped conversion that must leave completed chapters untouched, use `python3 scripts/generate_readme.py --chapter path/to/chapter` for each changed chapter; the final check still verifies all chapters.
+
+Install the repository's pre-push hook once per clone with `git config --local core.hooksPath .githooks` (or `npm run hooks:install`). Check `git config --get core.hooksPath` first: if you already use custom hooks, integrate this check into them rather than overwriting their configuration. Keep the virtual environment active when pushing, including from an IDE. This uses native Git hooks, so Python-only content contributors do not need Husky or Node.js.
+
+The hook checks an isolated snapshot of each non-deleted local commit tip being pushed, not the working tree. Uncommitted regenerated JSON cannot hide a stale committed API; a branch other than the checked-out branch is checked correctly too. To check a commit manually, run `python3 scripts/check.py --revision HEAD`. Deletions are skipped and temporary snapshots are cleaned up. No files are generated, staged, or committed by the hook.
+
+Hooks are local and can be bypassed; GitHub Actions remains the merge gate. Configure the repository's branch protection/ruleset to require the `validate` job before merging. A pre-merge hook alone would not cover direct pushes or merges performed on GitHub. Branch protection must be configured separately by a repository administrator; adding this hook does not enable it.
+
 ## File naming
 
 | File | Convention | Example |
@@ -25,6 +53,8 @@ Script names: `devanagari` · `latin` · `tamil` · `telugu` · `gujarati` · `b
 File and folder names stay as full script/language names above — the generated chapter README displays these more compactly (ISO 15924 4-letter script codes like `Deva` for transliteration, the ISO 639-1 code or an optional `meta.locale` like `en-IN` for translation), but that's a display-only concern and doesn't change how you name or write your file.
 
 ## Adding a new chapter (source file)
+
+The template below is the current legacy format. Before creating a new book or copying another chapter's classification, verify the publisher, actual textbook/series, edition, grade, subject language, and language role from its source; school medium and board are separate facts. See [Publication identity and safe migration](docs/publication-model.md) for the proposed book/edition structure. Do not use that proposed layout until its schema/tooling are implemented, or move published chapters without the required client compatibility bridge.
 
 1. Create the folder: `{board}/{state}/{medium}/{grade}/{subject}/{chapter-slug}/`
 2. Copy the template below into `source.{lang}.yaml`

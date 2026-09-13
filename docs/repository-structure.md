@@ -2,6 +2,8 @@
 
 ## Repository structure
 
+**Current legacy layout, not the long-term identity model.** The validator, generated v1 API paths, and installed clients currently depend on the structure below. The [publication/edition design and migration plan](publication-model.md) replaces fixed board/state/medium/grade/subject identity with stable books and editions plus metadata-driven browsing. No source move is safe until the compatibility bridge is implemented.
+
 ```
 /{board}/{state}/{medium}/{grade}/{subject}/{chapter}/
 ```
@@ -15,9 +17,9 @@
 | `subject` | `Kannada`, `Hindi`, `Science` | |
 | `chapter` | `ch01-bannada-tagadina` | kebab-case slug |
 
-**Why medium is a separate level:** Kannada as a third language in an English-medium school uses a different, simpler textbook than Kannada as a second language in a Kannada-medium school. They are distinct curricula.
+**Do not conflate medium with language role:** school teaching medium, textbook source language, and first/second/third-language subject role are separate attributes. Verify them from the source rather than assuming one from another. A book can be used in several contexts without duplicating its chapter files.
 
-**Why state is kept for national boards:** Hindi taught in Uttar Pradesh and Madhya Pradesh may follow different state syllabi. The structure should not constrain what can be added.
+**Region is applicability, not publication identity:** books used in different states may be the same publication or different ones. Identify the actual publisher/book/edition first; the proposed model permits multiple sourced regional/curriculum associations without requiring a state-specific duplicate.
 
 Inside each chapter folder:
 

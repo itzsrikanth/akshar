@@ -12,6 +12,7 @@
 ## Contributing content
 
 - [Repository structure and the machine-readable API](repository-structure.md)
+- [Publication identity, editions, and safe migration](publication-model.md) — proposed book-centric layout, verified source provenance, current Android refresh limitations, legacy compatibility, and provider-neutral media storage
 - [Data format (YAML source + contributor files)](data-format.md)
 - [Automating the first-pass transliteration](automation.md)
 - [CONTRIBUTING.md](../CONTRIBUTING.md) — the actual step-by-step guide, no coding required
@@ -19,6 +20,7 @@
 ## Mobile app (`apps/mobile`)
 
 - [Product brief](../apps/mobile/docs/product-brief.md) — what the app is, for whom, and why
+- [Mobile product specification](mobile-product-spec.md) — draft requirements for browsing, shared-book adoption contexts, offline downloads, and updates; not all features are implemented
 - [Tech implementation](../apps/mobile/docs/tech-implementation.md) — architecture decisions
 - [Theme](../apps/mobile/docs/theme.md) — brand colors, typography, spacing tokens
 - [Iconography](../apps/mobile/docs/iconography.md) — icon set decision

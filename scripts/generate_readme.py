@@ -4,7 +4,9 @@
 Usage:
     python3 scripts/generate_readme.py            # write README.md into every chapter folder
     python3 scripts/generate_readme.py --check     # exit 1 if any generated README is stale/missing
+    python3 scripts/generate_readme.py --chapter path/to/chapter
 """
+import argparse
 import sys
 from pathlib import Path
 
@@ -221,10 +223,21 @@ def render_chapter(chapter_dir, source_path):
 
 
 def main():
-    check_only = "--check" in sys.argv
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true")
+    parser.add_argument("--chapter", type=Path, help="Generate only this chapter directory")
+    args = parser.parse_args()
+    check_only = args.check
+    if args.chapter:
+        chapter_path = args.chapter.resolve()
+        if not chapter_path.is_relative_to(REPO_ROOT) or not list(chapter_path.glob("source.*.yaml")):
+            parser.error("--chapter must name a chapter directory inside the repository")
+        chapter_dirs = [chapter_path]
+    else:
+        chapter_dirs = find_chapter_dirs(REPO_ROOT)
     stale = []
 
-    for chapter_dir in find_chapter_dirs(REPO_ROOT):
+    for chapter_dir in chapter_dirs:
         for source_path in sorted(chapter_dir.glob("source.*.yaml")):
             rendered = render_chapter(chapter_dir, source_path)
             readme_path = chapter_dir / "README.md"

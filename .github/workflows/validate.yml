@@ -18,11 +18,5 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Validate schema, structure, and encoding
-        run: python3 scripts/validate.py
-
-      - name: Check generated chapter READMEs are up to date
-        run: python3 scripts/generate_readme.py --check
-
-      - name: Check compiled api/ JSON is up to date
-        run: python3 scripts/build_json.py --check
+      - name: Run content checks (same command as local development)
+        run: python3 scripts/check.py

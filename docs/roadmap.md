@@ -2,17 +2,25 @@
 
 ## Roadmap
 
+Status audit: September 13, 2026, against repository code and generated outputs, not a claim of production/device verification. Checked items have implementations; unchecked items remain pending even when a design document or UI placeholder exists.
+
 - [x] JSON schema + CI validation for source and contributor files (`schema/`, `scripts/validate.py`) — schema conformance, unique segment IDs, dangling `ref` detection, contributor-file orphan-ID detection, meta/path consistency, BOM/invisible-character checks
 - [x] Auto-generate chapter `README.md` from YAML via CI (`scripts/generate_readme.py`, checked in CI with `--check`)
 - [x] Compile YAML into a machine-readable JSON API + manifest (`api/`, `scripts/build_json.py`, checked in CI with `--check`)
+- [x] Compile all eight converted Kannada chapters into the existing v1 API without changing existing chapter URLs/payloads; this fixes the September 13 stale-generated-API workflow failure. Shared-book discovery remains separate work.
+- [x] Shared local/CI content check command (`python3 scripts/check.py`, also `npm run check`) and opt-in native Git pre-push hook checking the actual committed snapshots, not uncommitted working files; setup in [CONTRIBUTING.md](../CONTRIBUTING.md#local-checks-before-pushing).
+- [ ] Publication-aware catalog and source layout — implement stable publisher/series/book/edition/chapter identities with metadata-driven browsing, following [Publication identity and safe migration](publication-model.md); reconcile the split Grade5/English and Grade3/Kannada chapters into one edition after source comparison, without changing learners' grades.
+- [ ] Shared-book discovery through adoption records — link Grade 3 first-language Kannada and Grade 5 second-language Kannada to the same complete book edition; separate printed grade from learner grade, preserve paired grade/role evidence, support both browse/search routes, deduplicate results/downloads, and isolate progress by learner profile. Use validated catalog references, not filesystem symlinks or duplicated YAML.
+- [ ] Backward-compatible rollout — inventory shipped v1 paths/payloads; add generated legacy compatibility views, a separate `api/v2/` namespace for breaking changes, explicit scope/history/download migrations, collision-safe offline keys, and old-client/offline/rollback tests before moving sources. Keep today's unversioned URLs as v1; see [API versioning policy](publication-model.md#api-versioning-policy).
+- [ ] Download freshness and recovery — persist revision metadata, validate supported payload versions, refresh downloaded content atomically with last-known-good fallback, and evaluate ETag/conditional requests. Existing content-hash URL keys do not update offline copies or migrate changed identities.
+- [ ] Image-backed exercises: add an `image_question` segment type through an explicitly reviewed, backward-compatible schema extension; preserve the textbook illustration and source-page attribution, support accessible descriptions and contributor translations, and update README generation, JSON compilation, and app rendering. Until then, keep the existing `question` type and append a clearly marked editorial image reference with the source PDF filename, printed page number, PDF page number (1-based), and exercise location; do not invent a replacement illustration or answer.
+- [ ] External object storage for textbook images/scans, authorized PDFs, and audio — keep binaries outside Git and provider-independent asset manifests/provenance/checksums inside it. During implementation compare AWS S3, Azure Blob Storage, Google Cloud Storage, Cloudflare R2, Backblaze B2, and suitable S3-compatible services on total cost, delivery/cache behavior, access controls, recovery/export, and ease of use; no provider selected. Include durable backups, reproducible crops, rights review, immutable object keys, and safe publish/retention ordering.
 - [ ] Local (non-CI) draft-transliteration script: `indic_transliteration`/`sanscript` for Brahmic→Brahmic, IndicXlit for Brahmic→Latin — always a human-reviewed draft
-- [ ] Root-level content index (manually maintained for now; see [Current content](current-content.md))
+- [x] Manually maintained content inventory ([Current content](current-content.md)).
+- [ ] Generate a human-readable content index from the catalog rather than maintaining it manually.
 - [ ] Community-recorded audio as a third contribution type, alongside transliteration/translation
 - [ ] Cross-chapter vocabulary glossary per subject/grade
-- [x] Mobile app (Expo/React Native) consuming `api/` — lazy per-chapter download + local cache, manifest-driven update checks (see [`apps/mobile/docs/`](../apps/mobile/docs/) for the app's own, more detailed roadmap)
-- [ ] Bhashini TTS integration for audio pronunciation in app
+- [x] Mobile app (Expo/React Native) consuming `api/` — on-demand chapter fetch, explicit offline downloads, cached catalog with metadata refresh, and chapter-open history. Downloaded-content refresh and segment-level progress are not implemented (see [`apps/mobile/docs/roadmap.md`](../apps/mobile/docs/roadmap.md)).
+- [ ] TTS generation and playback for audio pronunciation — evaluate Bhashini and alternatives during implementation; provider/voice choice and storage are not implemented.
 
-This is the content/repo-level roadmap. The mobile app has its own, more detailed roadmap at
-[`apps/mobile/docs/roadmap.md`](../apps/mobile/docs/roadmap.md) (multi-profile support, audio
-pronunciation vendor comparison, handwritten-homework recognition, interactive exercises, and
-more).
+This is the content/repo-level roadmap. The mobile app has its own, more detailed roadmap at [`apps/mobile/docs/roadmap.md`](../apps/mobile/docs/roadmap.md) (multi-profile support, audio pronunciation vendor comparison, handwritten-homework recognition, interactive exercises, and more).

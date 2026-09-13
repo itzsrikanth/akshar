@@ -31,11 +31,7 @@ Not yet built — flagged here so it isn't lost.
 outage. Not proactive failover in the client (adds complexity for a rare case) — just documented
 so it's known if jsDelivr ever needs bypassing.
 
-**Client-side staleness:** each chapter's `contentHash` in `api/contents.json` is what a local
-cache compares against to know whether to re-download (see Downloads in `product-brief.md`); the
-manifest itself now carries a `generatedAt` timestamp (`scripts/build_json.py`, only bumped when
-the compiled output actually changes — not on every build invocation, so it stays meaningful as a
-diff signal) for the catalog-level cache below.
+**Client-side staleness — implemented versus planned:** `CdnContentRepository` uses each chapter's `contentHash` in a versioned query string when fetching, while catalog requests use a timestamp query and `cache: 'no-store'`. Catalog refresh compares `generatedAt` (changed by `scripts/build_json.py` when its chapter list changes). Explicit ETag/`If-None-Match`/304 handling is not implemented. Downloaded files are still returned before any network fetch and are not compared against current hashes; automatic downloaded-content revalidation is planned, not shipped. None of these cache mechanisms migrates changed URLs, saved scopes, or slug-only downloads. See the [publication identity and compatibility audit](../../../docs/publication-model.md) before reorganizing content or adding multiple books/editions.
 
 **Implemented (basic):** `src/services/content-repository.ts`'s `CdnContentRepository` does the
 actual `fetch()` against this URL scheme — `getCatalog()`/`getChapter(path)`. `src/services/config.ts`
