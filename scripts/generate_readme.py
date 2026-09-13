@@ -12,6 +12,8 @@ from pathlib import Path
 
 import yaml
 
+from publication_holds import load_publication_holds
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # ISO 15924 four-letter script codes — used for transliteration labels so they
@@ -62,9 +64,29 @@ def translation_label(lang, data):
     return meta.get("locale") or lang.upper()
 
 
-def render_chapter(chapter_dir, source_path):
+def render_chapter(chapter_dir, source_path, hold_reason=None):
     source = load_yaml(source_path)
     meta = source["meta"]
+    if hold_reason:
+        lines = [
+            f"# {meta['title']}",
+            "",
+            "> Editorial draft — not served to production apps. No CC license is asserted for this draft.",
+            "",
+            hold_reason,
+            "",
+            f"License status: {meta['license']}.",
+            "",
+            "The YAML files below preserve the complete draft. Lesson rendering is deferred until the API hold is cleared; this page is not a rendered lesson.",
+            "",
+            f"- [Source YAML]({source_path.name})",
+        ]
+        for folder in ("translation", "transliteration"):
+            for path in sorted((chapter_dir / folder).glob("*.yaml")):
+                relative = path.relative_to(chapter_dir).as_posix()
+                lines.append(f"- [{relative}]({relative})")
+        lines.extend(["", "Generated from YAML and api-publication-holds.json; do not edit manually.", ""])
+        return "\n".join(lines)
     segments = source["segments"]
     source_labels = source.get("labels") or {}
     translits = load_contributor_files(chapter_dir, "transliteration")
@@ -236,10 +258,11 @@ def main():
     else:
         chapter_dirs = find_chapter_dirs(REPO_ROOT)
     stale = []
+    holds = load_publication_holds(REPO_ROOT)
 
     for chapter_dir in chapter_dirs:
         for source_path in sorted(chapter_dir.glob("source.*.yaml")):
-            rendered = render_chapter(chapter_dir, source_path)
+            rendered = render_chapter(chapter_dir, source_path, holds.get(chapter_dir.relative_to(REPO_ROOT).as_posix()))
             readme_path = chapter_dir / "README.md"
             if check_only:
                 existing = readme_path.read_text(encoding="utf-8") if readme_path.exists() else None

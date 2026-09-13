@@ -11,6 +11,8 @@ from pathlib import Path
 import yaml
 from jsonschema import Draft7Validator
 
+from publication_holds import load_publication_holds
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_DIR = REPO_ROOT / "schema"
 
@@ -135,6 +137,10 @@ def validate_contributor(path, source_ids_by_filename, errors):
 
 def main():
     errors = Errors()
+    try:
+        load_publication_holds(REPO_ROOT)
+    except (ValueError, OSError) as error:
+        errors.append(f"API publication holds: {error}")
 
     for chapter_dir in find_chapter_dirs(REPO_ROOT):
         source_ids_by_filename = {}

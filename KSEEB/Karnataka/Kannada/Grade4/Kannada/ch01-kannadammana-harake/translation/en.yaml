@@ -1,0 +1,114 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  source: source.kn.yaml
+  language: en
+  contributor: itzsrikanth
+labels:
+  title: Mother Kannada's Blessing
+  intro: Getting Ready to Learn
+  poem: Poem
+  vocab: Word Meanings
+  notes: Notes
+  exercise-A: Exercise A — Write each answer in one sentence
+  exercise-B: Exercise B — Choose the correct word from the given options and fill in the blank.
+  exercise-C: Exercise C — Write the missing lines from the poem
+  exercise-D: Language Activity A — Write rhyming words for the given words, as in the example
+  exercise-E: Language Activity B — Choose and write the correctly spelt form from each pair
+  exercise-F: Language Activity C
+  exercise-G: Practical Activity A
+  exercise-H: Practical Activity B
+  exercise-I: Practical Activity C — Say the given lines quickly
+  exercise-J: Practical Activity D
+  exercise-K: Practical Activity E
+  competency: Clever Child — Skill
+intro-1: Sing a song you know about the land of Kannada to a tune in class.
+poem-s1l1: Strive for Kannada,
+poem-s1l2: O child of Kannada;
+poem-s1l3: Protect Kannada,
+poem-s1l4: You who are my joy.
+poem-s2l1: This is a blessing in a lullaby;
+poem-s2l2: Do not forget it, my precious child.
+poem-s2l3: If you forget it, alas,
+poem-s2l4: It is as though you have forgotten me.
+poem-s3l1: Like a mother's milk,
+poem-s3l2: It is sweet honey to the mouth;
+poem-s3l3: Like a mother's embrace,
+poem-s3l4: It brings great comfort to the body.
+poem-s4l1: Like a teacher's good words,
+poem-s4l2: It brings well-being to life;
+poem-s4l3: Work for your mother tongue till you die,
+poem-s4l4: For well-being in this world and the next.
+poem-s5l1: I implore you, dear child,
+poem-s5l2: I plead with you;
+poem-s5l3: Mother Kannada's blessing—
+poem-s5l4: Do not forget it, my precious child.
+poem-s6l1: If you forget it, alas,
+poem-s6l2: It is as though you have forgotten me;
+poem-s6l3: Strive for Kannada
+poem-s6l4: Like a brave hero, my jewel.
+intro-2: A child who learns Kannada will keep moving forward.
+vocab-kaapaadu: Protect
+vocab-kaapaadu-def: Safeguard, nurture
+vocab-dudi: Work
+vocab-dudi-def: Do work, make an effort
+vocab-bedu: Plead
+vocab-bedu-def: Ask, beg
+vocab-madi: Die
+vocab-madi-def: Die, meet one's death
+vocab-shreyassu: Well-being
+vocab-shreyassu-def: Progress, development
+vocab-horaadu: Strive
+vocab-horaadu-def: Struggle, fight
+vocab-appuge: Embrace
+vocab-appuge-def: A hug
+vocab-kali: Hero
+vocab-kali-def: A brave person, a warrior
+vocab-savi: Taste
+vocab-savi-def: Flavour
+note-ihapara: This world and the next
+note-ihapara-def: Earthly and spiritual life; this world and the next world.
+note-jogula: Lullaby
+note-jogula-def: A song sung to put children to sleep.
+note-taaynudi: Mother tongue
+note-taaynudi-def: A mother's language, one's native language, the language spoken at home.
+note-dammayya: I implore you
+note-dammayya-def: Pleading humbly.
+ex-a-q1: What should the child of Kannada strive for?
+ex-a-q2: Whom is one said to have forgotten if one forgets Kannada?
+ex-a-q3: What must the child of Kannada not forget?
+ex-a-q4: What is the sweetness of the Kannada language compared to?
+ex-b-q1: Strive for Kannada, O ________ of Kannada. (1. ವೀರ 2. ಶೂರ 3. ಧೀರ 4. ಕಂದಾ)
+ex-b-q2: If you forget it, ________, it is as though you have forgotten me. (1. ದಮ್ಮಯ್ಯ 2. ಅಯ್ಯೊ 3. ಕಂದಯ್ಯ 4. ನನ್ನ)
+ex-b-q3: Like a mother's milk, it is ________ to the mouth. (1. ಹೆಜ್ಜೇನು 2. ಕಿರುಜೇನು 3. ಸವಿಜೇನು 4. ಹಾಲ್ಜೇನು)
+ex-b-q4: Strive for Kannada ________, my jewel. (1. ವೀರನಾಗಿ 2. ಶೂರನಾಗಿ 3. ಕಲಿಯಾಗಿ 4. ಧೀರನಾಗಿ)
+ex-c-q1: |-
+  I implore you, dear child,
+  ________
+  ________
+  Do not forget it, my precious child.
+ex-c-q2: |-
+  If you forget it, alas,
+  ________
+  ________
+  Like a brave hero, my jewel.
+ex-d-p1: 'Example: ದಮ್ಮಯ್ಯ : ಕಂದಯ್ಯ'
+ex-d-q1: 'ಹೋರಾಡು : ________'
+ex-d-q2: 'ಬಾಯ್ಗೆ : ________'
+ex-d-q3: 'ಬಾಳ್ಗೆ : ________'
+ex-d-q4: 'ಚಿನ್ನಾ : ________'
+ex-e-q1: ಓರಾಡು - ಹೋರಾಡು ________
+ex-e-q2: ಹರಕೆ - ಅರಕೆ ________
+ex-e-q3: ಆನಂದ - ಹಾನಂದ ________
+ex-e-q4: ಹಯ್ಯೊ - ಅಯ್ಯೊ ________
+ex-e-q5: ಹಾಲು - ಆಲು ________
+ex-e-q6: ಅಪ್ಪುಗೆ - ಹಪ್ಪುಗೆ ________
+ex-f-q1: 'Look at the given conjunct letters. Write conjuncts made from the same consonant inside circles, and conjuncts made from different consonants inside squares. ನ್ನ, ಸ್ನೊ, ಷ್ಟ, ಹ್ರ, ಬ್ಬ, ಯ್ಯ, ಸ್ತ, ಟ್ಟ, ತ್ತ, ಮ್ಮ, ಶ್ರೇ, ಕ್ಷ, ಪ್ಪ, ಶ್ನೆ. [Editorial image reference — g04-fl-p1-2026-27.pdf, printed page 4, PDF page 18 (1-based); the row of empty circles and squares below the conjunct letters.]'
+ex-g-q1: Collect lullabies from elders and practise singing them.
+ex-h-q1: Collect portraits of Kannada poets and make a portrait album.
+ex-i-q1: Bring dry leaves for the ram.
+ex-i-q2: Three black lambs on the embankment at Tarikere.
+ex-i-q3: Black kumkum, red kumkum.
+ex-i-q4: A crow's feather, an owl's feather.
+ex-j-q1: Write four lines you like from the poem.
+ex-k-q1: Memorise the lines of this poem and sing them to your own tune.
+competency: You can now sing the poem you have memorised to your own tune, can't you?

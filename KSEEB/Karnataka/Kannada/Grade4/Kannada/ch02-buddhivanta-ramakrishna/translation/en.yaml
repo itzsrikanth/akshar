@@ -1,0 +1,126 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  source: source.kn.yaml
+  language: en
+  contributor: itzsrikanth
+labels:
+  title: Clever Ramakrishna
+  intro: Getting Ready to Learn
+  story: Story
+  vocab: Word Meanings
+  notes: Notes
+  exercise-A: Exercise A — Write each answer in one sentence
+  exercise-B: Exercise B — Write each answer in two or three sentences
+  exercise-C: Exercise C — Who said these words, and to whom?
+  exercise-D: Language Activity A — Join the Kannada word parts and write the resulting words, as in the example.
+  exercise-E: Language Activity B — Correct and rewrite the following Kannada sentences.
+  exercise-F: Practical Activity A
+  exercise-G: Practical Activity B
+  exercise-H: Practical Activity C
+  competency: Clever Child — Skill
+intro-1: Tell the class a story, poem, short verse or joke that you have read.
+story-n1: Once, a great scholar named Vidyasagara came to Krishnadevaraya's court. His fame had spread everywhere. He was a brilliant Sanskrit scholar. Krishnadevaraya, who valued learning, welcomed him and treated him with honour.
+story-n2: '“Your Majesty, I have come to debate with the scholars of your court,” said Vidyasagara. Krishnadevaraya agreed and looked towards his court scholars. None of them showed any interest in debating.'
+story-n3: 'Seeing everyone remain silent, Vidyasagara said, “It is a pity that not even one scholar in such a great king’s court can defeat me. Had I known this earlier, I would never have come here.”'
+story-n4: 'Then Tenali Ramakrishna stood up and said, “Do not come to that conclusion so quickly.” Vidyasagara looked at him and asked, “Who are you?” “I have written a book or two. I am called Tenali Ramakrishna,” he replied.'
+story-n5: 'Vidyasagara’s face lit up. “Really? I have heard about your cleverness. But more than a quick wit, it takes deep study to be able to debate with me,” he said.'
+story-n6: '“I know that too. Which book will you debate?” asked Ramakrishna. Vidyasagara replied, “It can be any Sanskrit book you like.”'
+story-n7: '“Then I shall come prepared to debate with you at this same time tomorrow evening,” said Ramakrishna.'
+story-n8: The next day, Vidyasagara proudly entered the court and took his seat. Everyone waited, wondering how he would debate. A little later, Ramakrishna arrived at the assembly with a servant carrying a bundle wrapped in cloth. Nobody could guess what was inside it.
+story-n9: 'Ramakrishna sat down and told Vidyasagara, “I am ready, sir.” “So am I. Let us begin,” said Vidyasagara. “You said I could choose any book for the debate,” said Ramakrishna. Vidyasagara replied, “Yes! Choose whichever you wish.”'
+story-n10: 'Pointing to the bundle in front of him, Ramakrishna said, “I shall now debate this ‘Tilakashtha Mahishabandhana’. Shall I begin?” ‘Tilakashtha Mahishabandhana!’ Vidyasagara’s eyes widened. “That…! That…!” he stammered.'
+story-n11: '“Why? Have you not heard of ‘Tilakashtha Mahishabandhana’? Even the boys who look after cattle in our village know it,” said Ramakrishna proudly.'
+story-n12: Vidyasagara scratched his head. His face fell. However hard he thought, he could not remember the book Tilakashtha Mahishabandhana. He worried, ‘How did this one escape my notice?’
+story-n13: '“Your Majesty, for some reason I am not feeling well. Please allow us to begin the debate tomorrow,” Vidyasagara pleaded with the king. “Very well,” the king agreed. Vidyasagara left at once. Ramakrishna too went home without saying anything.'
+story-n14: At the same time the next day, Ramakrishna came solemnly to the assembly carrying the same bundle. But even after a long wait, Vidyasagara did not arrive. Servants went to fetch him, only to discover that he had fled during the night.
+story-n15: 'The whole assembly cheered Ramakrishna. “You have saved the honour of my court. I too have never heard of a book called ‘Tilakashtha Mahishabandhana’. Let me see it,” said Krishnadevaraya appreciatively.'
+story-n16: 'Ramakrishna opened the bundle. Inside were some sticks tied with a rope. “What is this?” asked the king in surprise.'
+story-n17: 'Ramakrishna explained, “These are sesame stalks, or tilakashtha. This is a rope used to tie a buffalo, or mahishabandhana. Together, they are ‘Tilakashtha Mahishabandhana’. Poor Vidyasagara was frightened that it must be some great book and ran away.”'
+story-n18: Everyone's laughter filled the assembly hall for a long time. Impressed by Ramakrishna's cleverness, Krishnadevaraya honoured him.
+intro-2: Learning teaches humility. Intelligence teaches good judgement.
+vocab-satkarisu: Honour
+vocab-satkarisu-def: Treat with care and hospitality
+vocab-vaada: Debate
+vocab-vaada-def: Discussion
+vocab-pechaadu: Fret
+vocab-pechaadu-def: Struggle in distress
+vocab-appane: Permission
+vocab-appane-def: Consent
+vocab-pandita: Scholar
+vocab-pandita-def: A learned person
+vocab-peetha: Seat
+vocab-peetha-def: A seat or throne
+note-palaayana: Fleeing
+note-palaayana-def: Leaving a place without telling anyone or being seen.
+note-pakshapaati: A biased person
+note-pakshapaati-def: Someone who treats one person differently from another and shows favouritism.
+note-mukha-aralitu: The face lit up
+note-mukha-aralitu-def: A smile filled the face, making the person's happiness clearly visible.
+ex-a-q1: Who came to Krishnadevaraya's court?
+ex-a-q2: What challenge did Vidyasagara put before Krishnadevaraya?
+ex-a-q3: Who agreed to debate with Vidyasagara?
+ex-a-q4: Which book did Tenali Ramakrishna choose for the debate?
+ex-b-q1: Why did Vidyasagara come to Krishnadevaraya's court?
+ex-b-q2: Why did Vidyasagara's face light up?
+ex-b-q3: What does Tilakashtha Mahishabandhana mean?
+ex-c-q1: |-
+  ‘Had I known this earlier, I would never have come here.’
+  Who said it?: ________
+  To whom?: ________
+ex-c-q2: |-
+  ‘Choose whichever you wish.’
+  Who said it?: ________
+  To whom?: ________
+ex-c-q3: |-
+  ‘Even the boys who look after cattle in our village know it.’
+  Who said it?: ________
+  To whom?: ________
+ex-c-q4: |-
+  ‘Your Majesty, for some reason I am not feeling well.’
+  Who said it?: ________
+  To whom?: ________
+ex-d-p1: 'Example: ಎಮ್ಮೆ + ಗಳು - ಎಮ್ಮೆಗಳು'
+ex-d-q1: ಕಟ್ಟಿಗೆ + ಗಳು - ________
+ex-d-q2: ಮುಖ + ಗಳು - ________
+ex-d-q3: ಗ್ರಂಥ + ಗಳು - ________
+ex-d-q4: ಕಣ್ಣು + ಗಳು - ________
+ex-e-q1: |-
+  ನಾವು ಶಾಲೆಗೆ ಹೋಗುತ್ತೇನೆ.
+  ________
+ex-e-q2: |-
+  ಶೀಲಾ ಕಥೆ ಬರೆಯುತ್ತಾನೆ.
+  ________
+ex-e-q3: |-
+  ಇಂದು ಮಳೆ ಬರುವ ಸಾಧ್ಯತೆ ಇವೆ.
+  ________
+ex-e-q4: |-
+  ನಮ್ಮ ತರಗತಿಯಲ್ಲಿ ಹುಡುಗ ಇದ್ದಾರೆ.
+  ________
+ex-e-q5: |-
+  ಕಾಡಿನಲ್ಲಿ ಮರಗಳು ಇದೆ.
+  ________
+ex-f-q1: |-
+  Read the poem and suggest a title for it.
+  ________
+poem-s1l1: A monkey came along
+poem-s1l2: And brought a pot.॥
+poem-s2l1: It went to the shop
+poem-s2l2: And brought lentils and jaggery.॥
+poem-s3l1: It put the pot on the stove
+poem-s3l2: And made payasa, a sweet pudding.॥
+poem-s4l1: There was no ladle,
+poem-s4l2: So it dipped in its tail and stirred.॥
+poem-s5l1: Its tail got burnt,
+poem-s5l2: And it sat down crying.॥
+ex-g-q1: Read the conversation and rewrite it as a story.
+ex-g-p1: Soldier, I have come to see the prisoners in the jail.
+ex-g-p2: As you command, my lord. Come this way. I shall show you each of them.
+ex-g-p3: Who is this young man?
+ex-g-p4: A criminal who arrived just yesterday, my lord.
+ex-g-p5: Young man! What crime did you commit?
+ex-g-p6: Sir! As I was walking along the street, I saw a piece of rope lying on the ground. Thinking that nobody wanted it, I picked it up and walked home.
+ex-g-p7: What? Such a punishment for picking up a piece of rope?
+ex-g-p8: Sir! Ask him what was at the end of the rope.
+ex-g-p9: It was my bad luck, sir. A cow was tied to the end of the rope.
+ex-h-q1: Collect stories from the children's sections of newspapers and read them in class with your teacher's help.
+competency: You can read and understand children's magazines, can't you?

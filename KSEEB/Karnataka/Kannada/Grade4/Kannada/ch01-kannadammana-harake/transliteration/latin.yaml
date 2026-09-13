@@ -1,0 +1,114 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  source: source.kn.yaml
+  script: latin
+  contributor: itzsrikanth
+labels:
+  title: Kannadammana Harake
+  intro: Kalikege Daari
+  poem: Padya
+  vocab: Padagala Artha
+  notes: Tippani
+  exercise-A: Abhyaasa A — Ondondu vaakyadalli uttara bareyiri
+  exercise-B: Abhyaasa Aa — Kottiruva padagalalli sariyaada pada aarisi khaali sthaladalli bareyiri.
+  exercise-C: Abhyaasa I — Padyadalli bittiruva mundina saalugalannu bareyiri
+  exercise-D: Bhaashaa Chatuvatike A — Maadariyante kottiruva padagalige praasa pada bareyiri
+  exercise-E: Bhaashaa Chatuvatike Aa — Kottiruva padagalalli barehada sariyaada roopavannu aarisi bareyiri
+  exercise-F: Bhaashaa Chatuvatike I
+  exercise-G: Balake Chatuvatike A
+  exercise-H: Balake Chatuvatike Aa
+  exercise-I: Balake Chatuvatike I — Kottiruva saalugalannu vegavaagi uchcharisi
+  exercise-J: Balake Chatuvatike Ee
+  exercise-K: Balake Chatuvatike U
+  competency: Jaana Mari — Saamarthya
+intro-1: Kannada naadina bagge nimage tilidiruva ondu haadannu taragatiyalli raagavaagi haadiri.
+poem-s1l1: Kannadake horaadu
+poem-s1l2: Kannadada kandaa;
+poem-s1l3: Kannadava kaapaadu
+poem-s1l4: Nanna aanandaa |
+poem-s2l1: Jogulada harakeyidu
+poem-s2l2: Mareyadiru, chinnaa;
+poem-s2l3: Mareteyaadare ayyo
+poem-s2l4: Maretante nanna |
+poem-s3l1: Moleya haalentante
+poem-s3l2: Savijenu baayge;
+poem-s3l3: Taayiyappugeyante
+poem-s3l4: Balusogasu meyge |
+poem-s4l1: Guruvinolnudiyante
+poem-s4l2: Shreyassu baalge;
+poem-s4l3: Taaynudige dudidu madi
+poem-s4l4: Ihaparagalelge |
+poem-s5l1: Dammayya kandayya
+poem-s5l2: Beduvenu ninna;
+poem-s5l3: Kannadammana harake,
+poem-s5l4: Mareyadiru, chinnaa |
+poem-s6l1: Mareteyaadare ayyo;
+poem-s6l2: Maretante nanna;
+poem-s6l3: Horaadu kannadake
+poem-s6l4: Kaliyaagi, rannaa |
+intro-2: Kanda kalitare kannadava, endendigoo munnadeva
+vocab-kaapaadu: Kaapaadu
+vocab-kaapaadu-def: Rakshisu, poshisu
+vocab-dudi: Dudi
+vocab-dudi-def: Kelasa maadu, shramapadu
+vocab-bedu: Bedu
+vocab-bedu-def: Kelu, yaachisu
+vocab-madi: Madi
+vocab-madi-def: Saavu, marana hondu
+vocab-shreyassu: Shreyassu
+vocab-shreyassu-def: Elige, abhivruddhi
+vocab-horaadu: Horaadu
+vocab-horaadu-def: Senasu, horaata maadu
+vocab-appuge: Appuge
+vocab-appuge-def: Aalingana
+vocab-kali: Kali
+vocab-kali-def: Veera, shoora
+vocab-savi: Savi
+vocab-savi-def: Ruchi
+note-ihapara: Ihapara
+note-ihapara-def: Laukika-alaukika baduku; ee loka paraloka
+note-jogula: Jogula
+note-jogula-def: Makkalannu malagisuvaaga haaduva pada, laali haadu.
+note-taaynudi: Taaynudi
+note-taaynudi-def: Taayi maatu, maatrubhaashe, manemaatu.
+note-dammayya: Dammayya
+note-dammayya-def: Deenateyinda beduvudu.
+ex-a-q1: Kannadada kanda yaavudakkaagi horaadabeku?
+ex-a-q2: Kannadavannu maretare yaarannu maretante?
+ex-a-q3: Kannadada kanda yaavudannu mareyabaaradu?
+ex-a-q4: Kannada nudiya sogasannu yaavudakke holisalaagide?
+ex-b-q1: Kannadake horaadu kannadada ________. (1. Veera 2. Shoora 3. Dheera 4. Kandaa)
+ex-b-q2: Mareteyaadare ________ maretante nanna. (1. Dammayya 2. Ayyo 3. Kandayya 4. Nanna)
+ex-b-q3: Moleya haalentante ________ baayge. (1. Hejjenu 2. Kirujenu 3. Savijenu 4. Haaljenu)
+ex-b-q4: Horaadu kannadake ________ rannaa. (1. Veeranaagi 2. Shooranaagi 3. Kaliyaagi 4. Dheeranaagi)
+ex-c-q1: |-
+  Dammayya kandayya
+  ________
+  ________
+  Mareyadiru, chinnaa |
+ex-c-q2: |-
+  Mareteyaadare ayyo ;
+  ________
+  ________
+  Kaliyaagi, rannaa |
+ex-d-p1: 'Maadari : Dammayya : Kandayya'
+ex-d-q1: 'Horaadu : ________'
+ex-d-q2: 'Baayge : ________'
+ex-d-q3: 'Baalge : ________'
+ex-d-q4: 'Chinnaa : ________'
+ex-e-q1: Ooraadu - horaadu ________
+ex-e-q2: Harake - arake ________
+ex-e-q3: Aananda - haananda ________
+ex-e-q4: Hayyo - ayyo ________
+ex-e-q5: Haalu - aalu ________
+ex-e-q6: Appuge - happuge ________
+ex-f-q1: Kottiruva ottaksharagalannu gamanisi. Vruttadolage sajaati ottakshara haagoo chaukadalli vijaati ottaksharagalannu bareyiri. Nna, sno, shta, hra, bba, yya, sta, ṭṭa, tta, mma, shre, ksha, ppa, shne. [Sampaadakeeya chitra ullekha — g04-fl-p1-2026-27.pdf, mudrita puta 4, PDF puta 18 (1rinda enike); ottaksharagala kelagina saalinalliruva khaali vruttagalu mattu chaukagalu.]
+ex-g-q1: Hiriyarinda jogulada padagalannu sangrahisi abhyaasa maadi
+ex-h-q1: Kannadada kavigala bhaavachitra sangrahisi ‘bhaavachitra kosha’ tayaarisiri
+ex-i-q1: Tagarige taragu tandu haaku.
+ex-i-q2: Tarikere eri mele mooru kari kurimari.
+ex-i-q3: Kappu kunkuma kempu kunkuma.
+ex-i-q4: Kaage pukka goobe pukka.
+ex-j-q1: Padyadalli neevu ishtapaduva naalku saalugalannu bareyiri
+ex-k-q1: Ee padyada saalugalannu kanthapaatha maadi nimmade raagadalli haadiri
+competency: Neeneega kanthapaatha maadida padyavannu ninnade raagadalli haaduva saamarthyavannu padediruveyallave?

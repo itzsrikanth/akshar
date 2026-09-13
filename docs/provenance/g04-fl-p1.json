@@ -27,7 +27,8 @@
     "chapter1DialCode": "B3S4J1",
     "chapter1CollectionLicense": "CC BY 4.0"
   },
-  "publicationStatus": "hold-for-edition-rights-review",
+  "publicationStatus": "git-editorial-drafts-authorized-production-api-held",
+  "gitStorageOverride": "The maintainer explicitly authorized committing Chapters 1–2 actual YAML despite the earlier concerns, provided production apps remain unaffected. Both chapters are excluded through api-publication-holds.json; no CC license is asserted for these drafts and the edition evidence below is unchanged.",
   "reason": "The official 2026–27 PDF carries a restrictive notice, while its QR resolves to a CC BY 4.0 collection titled 2024–25. The metadata spine establishes collection/chapter labels, not a matching licensed PDF artifact. Do not treat the older collection license as proof of rights to all 2026–27 text or images.",
   "rightsRecheck": {
     "checkedOn": "2026-09-13",
@@ -90,8 +91,16 @@
     "author": "ಕುವೆಂಪು",
     "pdfPagesInclusive": [15, 19],
     "printedPagesInclusive": [1, 5],
-    "status": "reviewed-local-five-file-draft-publication-blocked",
+    "status": "git-editorial-draft-production-api-held",
     "draftRecord": "g04-fl-p1-ch01-draft.json"
+  },
+  "chapter2": {
+    "title": "ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ",
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "pdfPagesInclusive": [20, 26],
+    "printedPagesInclusive": [6, 12],
+    "status": "git-editorial-draft-production-api-held",
+    "draftRecord": "g04-fl-p1-ch02-draft.json"
   },
   "externalConverter": {
     "repository": "https://github.com/aravindavk/ascii2unicode",

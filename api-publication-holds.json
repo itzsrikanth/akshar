@@ -1,0 +1,12 @@
+{
+  "chapters": [
+    {
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch01-kannadammana-harake",
+      "reason": "Editorial YAML committed at the maintainer's request. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch02-buddhivanta-ramakrishna",
+      "reason": "Editorial YAML committed at the maintainer's request. Edition licensing remains unverified and exercise poem/dialogue/example rendering needs review; excluded from production API and the repository's CC BY grant."
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 4
+  subject: Kannada
+  chapter: 1
+  slug: ch01-kannadammana-harake
+  title: ಕನ್ನಡಮ್ಮನ ಹರಕೆ
+  source_url: https://diksha.gov.in/dial/B3S4J1
+  original_publisher: Karnataka Textbook Society
+  author: ಕುವೆಂಪು
+labels:
+  title: ಕನ್ನಡಮ್ಮನ ಹರಕೆ
+  intro: ಕಲಿಕೆಗೆ ದಾರಿ
+  poem: ಪದ್ಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಖಾಲಿ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಪದ್ಯದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಮುಂದಿನ ಸಾಲುಗಳನ್ನು ಬರೆಯಿರಿ
+  exercise-D: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಮಾದರಿಯಂತೆ ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಪ್ರಾಸ ಪದ ಬರೆಯಿರಿ
+  exercise-E: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಬರೆಹದ ಸರಿಯಾದ ರೂಪವನ್ನು ಆರಿಸಿ ಬರೆಯಿರಿ
+  exercise-F: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ
+  exercise-G: ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ
+  exercise-H: ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ
+  exercise-I: ಬಳಕೆ ಚಟುವಟಿಕೆ ಇ — ಕೊಟ್ಟಿರುವ ಸಾಲುಗಳನ್ನು ವೇಗವಾಗಿ ಉಚ್ಚರಿಸಿ
+  exercise-J: ಬಳಕೆ ಚಟುವಟಿಕೆ ಈ
+  exercise-K: ಬಳಕೆ ಚಟುವಟಿಕೆ ಉ
+  competency: ಜಾಣ ಮರಿ — ಸಾಮರ್ಥ್ಯ
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಕನ್ನಡ ನಾಡಿನ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವ ಒಂದು ಹಾಡನ್ನು ತರಗತಿಯಲ್ಲಿ ರಾಗವಾಗಿ ಹಾಡಿರಿ.
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಕನ್ನಡಕೆ ಹೋರಾಡು
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಕನ್ನಡದ ಕಂದಾ;
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಕನ್ನಡವ ಕಾಪಾಡು
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ನನ್ನ ಆನಂದಾ |
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಜೋಗುಳದ ಹರಕೆಯಿದು
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಮರೆಯದಿರು, ಚಿನ್ನಾ;
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಮರೆತೆಯಾದರೆ ಅಯ್ಯೊ
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಮರೆತಂತೆ ನನ್ನ |
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಮೊಲೆಯ ಹಾಲೆಂತಂತೆ
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಸವಿಜೇನು ಬಾಯ್ಗೆ;
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ತಾಯಿಯಪ್ಪುಗೆಯಂತೆ
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಬಲುಸೊಗಸು ಮೆಯ್ಗೆ |
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಗುರುವಿನೊಳ್ನುಡಿಯಂತೆ
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಶ್ರೇಯಸ್ಸು ಬಾಳ್ಗೆ;
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ತಾಯ್ನುಡಿಗೆ ದುಡಿದು ಮಡಿ
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಇಹಪರಗಳೇಳ್ಗೆ |
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ದಮ್ಮಯ್ಯ ಕಂದಯ್ಯ
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಬೇಡುವೆನು ನಿನ್ನ;
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ಕನ್ನಡಮ್ಮನ ಹರಕೆ,
+  - id: poem-s5l4
+    type: poem_line
+    stanza: 5
+    text: ಮರೆಯದಿರು, ಚಿನ್ನಾ |
+  - id: poem-s6l1
+    type: poem_line
+    stanza: 6
+    text: ಮರೆತೆಯಾದರೆ ಅಯ್ಯೊ;
+  - id: poem-s6l2
+    type: poem_line
+    stanza: 6
+    text: ಮರೆತಂತೆ ನನ್ನ;
+  - id: poem-s6l3
+    type: poem_line
+    stanza: 6
+    text: ಹೋರಾಡು ಕನ್ನಡಕೆ
+  - id: poem-s6l4
+    type: poem_line
+    stanza: 6
+    text: ಕಲಿಯಾಗಿ, ರನ್ನಾ |
+  - id: intro-2
+    type: prose
+    section: intro
+    text: ಕಂದ ಕಲಿತರೆ ಕನ್ನಡವ, ಎಂದೆಂದಿಗೂ ಮುನ್ನಡೆವ
+  - id: vocab-kaapaadu
+    type: vocabulary_term
+    text: ಕಾಪಾಡು
+  - id: vocab-kaapaadu-def
+    type: vocabulary_definition
+    ref: vocab-kaapaadu
+    text: ರಕ್ಷಿಸು, ಪೋಷಿಸು
+  - id: vocab-dudi
+    type: vocabulary_term
+    text: ದುಡಿ
+  - id: vocab-dudi-def
+    type: vocabulary_definition
+    ref: vocab-dudi
+    text: ಕೆಲಸ ಮಾಡು, ಶ್ರಮಪಡು
+  - id: vocab-bedu
+    type: vocabulary_term
+    text: ಬೇಡು
+  - id: vocab-bedu-def
+    type: vocabulary_definition
+    ref: vocab-bedu
+    text: ಕೇಳು, ಯಾಚಿಸು
+  - id: vocab-madi
+    type: vocabulary_term
+    text: ಮಡಿ
+  - id: vocab-madi-def
+    type: vocabulary_definition
+    ref: vocab-madi
+    text: ಸಾವು, ಮರಣ ಹೊಂದು
+  - id: vocab-shreyassu
+    type: vocabulary_term
+    text: ಶ್ರೇಯಸ್ಸು
+  - id: vocab-shreyassu-def
+    type: vocabulary_definition
+    ref: vocab-shreyassu
+    text: ಏಳಿಗೆ, ಅಭಿವೃದ್ಧಿ
+  - id: vocab-horaadu
+    type: vocabulary_term
+    text: ಹೋರಾಡು
+  - id: vocab-horaadu-def
+    type: vocabulary_definition
+    ref: vocab-horaadu
+    text: ಸೆಣಸು, ಹೋರಾಟ ಮಾಡು
+  - id: vocab-appuge
+    type: vocabulary_term
+    text: ಅಪ್ಪುಗೆ
+  - id: vocab-appuge-def
+    type: vocabulary_definition
+    ref: vocab-appuge
+    text: ಆಲಿಂಗನ
+  - id: vocab-kali
+    type: vocabulary_term
+    text: ಕಲಿ
+  - id: vocab-kali-def
+    type: vocabulary_definition
+    ref: vocab-kali
+    text: ವೀರ, ಶೂರ
+  - id: vocab-savi
+    type: vocabulary_term
+    text: ಸವಿ
+  - id: vocab-savi-def
+    type: vocabulary_definition
+    ref: vocab-savi
+    text: ರುಚಿ
+  - id: note-ihapara
+    type: note_term
+    text: ಇಹಪರ
+  - id: note-ihapara-def
+    type: note_definition
+    ref: note-ihapara
+    text: ಲೌಕಿಕ-ಅಲೌಕಿಕ ಬದುಕು; ಈ ಲೋಕ ಪರಲೋಕ
+  - id: note-jogula
+    type: note_term
+    text: ಜೋಗುಳ
+  - id: note-jogula-def
+    type: note_definition
+    ref: note-jogula
+    text: ಮಕ್ಕಳನ್ನು ಮಲಗಿಸುವಾಗ ಹಾಡುವ ಪದ, ಲಾಲಿ ಹಾಡು.
+  - id: note-taaynudi
+    type: note_term
+    text: ತಾಯ್ನುಡಿ
+  - id: note-taaynudi-def
+    type: note_definition
+    ref: note-taaynudi
+    text: ತಾಯಿ ಮಾತು, ಮಾತೃಭಾಷೆ, ಮನೆಮಾತು.
+  - id: note-dammayya
+    type: note_term
+    text: ದಮ್ಮಯ್ಯ
+  - id: note-dammayya-def
+    type: note_definition
+    ref: note-dammayya
+    text: ದೀನತೆಯಿಂದ ಬೇಡುವುದು.
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಕನ್ನಡದ ಕಂದ ಯಾವುದಕ್ಕಾಗಿ ಹೋರಾಡಬೇಕು?
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಕನ್ನಡವನ್ನು ಮರೆತರೆ ಯಾರನ್ನು ಮರೆತಂತೆ?
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಕನ್ನಡದ ಕಂದ ಯಾವುದನ್ನು ಮರೆಯಬಾರದು?
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಕನ್ನಡ ನುಡಿಯ ಸೊಗಸನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ?
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: ಕನ್ನಡಕೆ ಹೋರಾಡು ಕನ್ನಡದ ________. (೧. ವೀರ ೨. ಶೂರ ೩. ಧೀರ ೪. ಕಂದಾ)
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: ಮರೆತೆಯಾದರೆ ________ ಮರೆತಂತೆ ನನ್ನ. (೧. ದಮ್ಮಯ್ಯ ೨. ಅಯ್ಯೊ ೩. ಕಂದಯ್ಯ ೪. ನನ್ನ)
+  - id: ex-b-q3
+    type: fill_blank
+    exercise: B
+    text: ಮೊಲೆಯ ಹಾಲೆಂತಂತೆ ________ ಬಾಯ್ಗೆ. (೧. ಹೆಜ್ಜೇನು ೨. ಕಿರುಜೇನು ೩. ಸವಿಜೇನು ೪. ಹಾಲ್ಜೇನು)
+  - id: ex-b-q4
+    type: fill_blank
+    exercise: B
+    text: ಹೋರಾಡು ಕನ್ನಡಕೆ ________ ರನ್ನಾ. (೧. ವೀರನಾಗಿ ೨. ಶೂರನಾಗಿ ೩. ಕಲಿಯಾಗಿ ೪. ಧೀರನಾಗಿ)
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: |-
+      ದಮ್ಮಯ್ಯ ಕಂದಯ್ಯ
+      ________
+      ________
+      ಮರೆಯದಿರು, ಚಿನ್ನಾ |
+  - id: ex-c-q2
+    type: fill_blank
+    exercise: C
+    text: |-
+      ಮರೆತೆಯಾದರೆ ಅಯ್ಯೊ ;
+      ________
+      ________
+      ಕಲಿಯಾಗಿ, ರನ್ನಾ |
+  - id: ex-d-p1
+    type: prose
+    exercise: D
+    text: 'ಮಾದರಿ : ದಮ್ಮಯ್ಯ : ಕಂದಯ್ಯ'
+  - id: ex-d-q1
+    type: fill_blank
+    exercise: D
+    text: 'ಹೋರಾಡು : ________'
+  - id: ex-d-q2
+    type: fill_blank
+    exercise: D
+    text: 'ಬಾಯ್ಗೆ : ________'
+  - id: ex-d-q3
+    type: fill_blank
+    exercise: D
+    text: 'ಬಾಳ್ಗೆ : ________'
+  - id: ex-d-q4
+    type: fill_blank
+    exercise: D
+    text: 'ಚಿನ್ನಾ : ________'
+  - id: ex-e-q1
+    type: question
+    exercise: E
+    text: ಓರಾಡು - ಹೋರಾಡು ________
+  - id: ex-e-q2
+    type: question
+    exercise: E
+    text: ಹರಕೆ - ಅರಕೆ ________
+  - id: ex-e-q3
+    type: question
+    exercise: E
+    text: ಆನಂದ - ಹಾನಂದ ________
+  - id: ex-e-q4
+    type: question
+    exercise: E
+    text: ಹಯ್ಯೊ - ಅಯ್ಯೊ ________
+  - id: ex-e-q5
+    type: question
+    exercise: E
+    text: ಹಾಲು - ಆಲು ________
+  - id: ex-e-q6
+    type: question
+    exercise: E
+    text: ಅಪ್ಪುಗೆ - ಹಪ್ಪುಗೆ ________
+  - id: ex-f-q1
+    type: question
+    exercise: F
+    text: ಕೊಟ್ಟಿರುವ ಒತ್ತಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ. ವೃತ್ತದೊಳಗೆ ಸಜಾತಿ ಒತ್ತಕ್ಷರ ಹಾಗೂ ಚೌಕದಲ್ಲಿ ವಿಜಾತಿ ಒತ್ತಕ್ಷರಗಳನ್ನು ಬರೆಯಿರಿ. ನ್ನ, ಸ್ನೊ, ಷ್ಟ, ಹ್ರ, ಬ್ಬ, ಯ್ಯ, ಸ್ತ, ಟ್ಟ, ತ್ತ, ಮ್ಮ, ಶ್ರೇ, ಕ್ಷ, ಪ್ಪ, ಶ್ನೆ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ — g04-fl-p1-2026-27.pdf, ಮುದ್ರಿತ ಪುಟ ೪, PDF ಪುಟ ೧೮ (೧ರಿಂದ ಎಣಿಕೆ); ಒತ್ತಕ್ಷರಗಳ ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿರುವ ಖಾಲಿ ವೃತ್ತಗಳು ಮತ್ತು ಚೌಕಗಳು.]
+  - id: ex-g-q1
+    type: question
+    exercise: G
+    text: ಹಿರಿಯರಿಂದ ಜೋಗುಳದ ಪದಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಅಭ್ಯಾಸ ಮಾಡಿ
+  - id: ex-h-q1
+    type: question
+    exercise: H
+    text: ಕನ್ನಡದ ಕವಿಗಳ ಭಾವಚಿತ್ರ ಸಂಗ್ರಹಿಸಿ ‘ಭಾವಚಿತ್ರ ಕೋಶ’ ತಯಾರಿಸಿರಿ
+  - id: ex-i-q1
+    type: question
+    exercise: I
+    text: ಟಗರಿಗೆ ತರಗು ತಂದು ಹಾಕು.
+  - id: ex-i-q2
+    type: question
+    exercise: I
+    text: ತರಿಕೆರೆ ಏರಿ ಮೇಲೆ ಮೂರು ಕರಿ ಕುರಿಮರಿ.
+  - id: ex-i-q3
+    type: question
+    exercise: I
+    text: ಕಪ್ಪು ಕುಂಕುಮ ಕೆಂಪು ಕುಂಕುಮ.
+  - id: ex-i-q4
+    type: question
+    exercise: I
+    text: ಕಾಗೆ ಪುಕ್ಕ ಗೂಬೆ ಪುಕ್ಕ.
+  - id: ex-j-q1
+    type: question
+    exercise: J
+    text: ಪದ್ಯದಲ್ಲಿ ನೀವು ಇಷ್ಟಪಡುವ ನಾಲ್ಕು ಸಾಲುಗಳನ್ನು ಬರೆಯಿರಿ
+  - id: ex-k-q1
+    type: question
+    exercise: K
+    text: ಈ ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಕಂಠಪಾಠ ಮಾಡಿ ನಿಮ್ಮದೇ ರಾಗದಲ್ಲಿ ಹಾಡಿರಿ
+  - id: competency
+    type: competency
+    text: ನೀನೀಗ ಕಂಠಪಾಠ ಮಾಡಿದ ಪದ್ಯವನ್ನು ನಿನ್ನದೇ ರಾಗದಲ್ಲಿ ಹಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪಡೆದಿರುವೆಯಲ್ಲವೆ?

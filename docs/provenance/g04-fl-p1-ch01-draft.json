@@ -3,7 +3,16 @@
   "inventoryId": "g04-fl-p1",
   "chapter": 1,
   "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ",
-  "status": "reviewed-local-draft-publication-blocked",
+  "status": "git-editorial-draft-production-api-held",
+  "repository": {
+    "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch01-kannadammana-harake",
+    "yamlFiles": 5,
+    "changeFromArchive": "Only meta.license added with truthful unverified status; no source or contributor text changed.",
+    "fullSchemaValid": true,
+    "generatedReadme": "Draft notice linking to all five YAML files",
+    "generatedApi": false,
+    "authorization": "Maintainer explicitly requested public Git upload despite earlier concerns, without changing production app content."
+  },
   "publicationReady": false,
   "rightsRecord": "g04-fl-p1.json",
   "sourcePdfSha256": "bdeaf5e3e90c6b2c17b530fb282270d9da17720e9a26d9bfb52d0d2bfea42617",
@@ -16,7 +25,7 @@
     "sha256": "3113ae43671d1fade3abb0cd8b935302f3dc908dcee8fd3f28bff761d1947512",
     "bytes": 15459,
     "trackedInGit": false,
-    "availability": "Same clone/machine only; not remote storage. Restore outside the repository after verifying hashes. If absent, editorial work must be recreated from the verified PDF.",
+    "availability": "Historical local-only archive. Current YAML is stored in the repository; resume there rather than recreate work if this archive is absent.",
     "filesSha256": {
       "REVIEW.md": "b2006aca680031a3d128bcb5b5fb53e27364929c029fefd1489d423176c266e6",
       "ch01-kannadammana-harake/source.kn.yaml": "1f829564247f042db7889023b1aa4aca1a27c86d83917196fbe6268ffd89bf97",
@@ -47,12 +56,12 @@
     {"pdfPage": 18, "printedPage": 4, "segments": ["ex-d-p1", "ex-d-q1..ex-d-q4", "ex-e-q1..ex-e-q6", "ex-f-q1", "ex-g-q1", "ex-h-q1"], "other": "Conjunct task retains all 14 entries and an editorial page locator for the circle/square answer boxes."},
     {"pdfPage": 19, "printedPage": 5, "segments": ["ex-i-q1..ex-i-q4", "ex-j-q1", "ex-k-q1", "competency"]}
   ],
-  "validation": {
+  "archiveValidation": {
     "fullSchemaValid": false,
     "blockingError": "All five files deliberately omit the required meta.license until the edition rights are verified. No schema or validator changes were made.",
     "otherChecks": "Unchanged schemas report only missing licenses; exact ID/label joins, refs, encoding, stanza counts and blank counts checked.",
     "generatedReadme": false,
     "generatedApi": false
   },
-  "nextAction": "Resolve the documented edition-rights hold; compare any replacement source against every page, confirm metadata and review translations, then populate evidenced licenses and use the normal source/contributor validation and README/API generation pipeline. Do not publish this archive or treat the private draft as a completed chapter."
+  "nextAction": "Resume from repository YAML. Resolve edition rights before production release; compare any replacement source against every page, set evidenced licenses, clear the explicit API hold, and run validation and README/API generation. Git storage is authorized but production release remains held."
 }

@@ -1,0 +1,154 @@
+{
+  "inventoryId": "g04-fl-p1",
+  "chapter": 2,
+  "title": "ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ",
+  "pdfSha256": "bdeaf5e3e90c6b2c17b530fb282270d9da17720e9a26d9bfb52d0d2bfea42617",
+  "pdfPagesInclusive": [
+    20,
+    26
+  ],
+  "printedPagesInclusive": [
+    6,
+    12
+  ],
+  "status": "git-editorial-draft-production-api-held",
+  "repository": {
+    "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch02-buddhivanta-ramakrishna",
+    "yamlFiles": 5,
+    "changeFromArchive": "Only meta.license added with truthful unverified status; no source or contributor text changed.",
+    "fullSchemaValid": true,
+    "generatedReadme": "Draft notice linking to all five YAML files",
+    "generatedApi": false,
+    "authorization": "Maintainer explicitly requested public Git upload despite earlier concerns, without changing production app content."
+  },
+  "diksha": {
+    "chapterId": "do_31401171287865753618032",
+    "dialCode": "G6I2Q1",
+    "collectionLicense": "CC BY 4.0",
+    "evidence": "Cached g04-spine.ecar hierarchy.json; no chapter artifact URL; edition hold remains."
+  },
+  "localArchive": {
+    "path": ".conversion-local/g04-fl-p1-ch02-reviewed-draft.zip",
+    "sha256": "303f421815af0fee5a037d65d92135ca9e2907c78164e2504e5b4a9b589d3b49",
+    "bytes": 23061,
+    "files": {
+      "REVIEW.md": "69398bbf1c3fd5a15592de9e0b422095ef7c35db10809bdc098318c120f6ab0a",
+      "ch02-buddhivanta-ramakrishna/source.kn.yaml": "6e79e687fa939594f1df2c5593a868d1dc46c90a77d49169337c8f66c42ad82c",
+      "ch02-buddhivanta-ramakrishna/translation/en.yaml": "7547de9bec70bdb5cd6824d5e1805e71668aebe2b3a20ec2f78dffd46e864553",
+      "ch02-buddhivanta-ramakrishna/translation/hi.yaml": "568560a44d6966ab05a97b85ad74f884404246608715116fe6d98e032983d485",
+      "ch02-buddhivanta-ramakrishna/transliteration/devanagari.yaml": "b0f9f855f1760ce242a86619e7bd76822e11c835232704dcb9dc6571297a9f3e",
+      "ch02-buddhivanta-ramakrishna/transliteration/latin.yaml": "57d771b18f747289e63cf5e8f4384af99d316fce177abe03a3310e32bfcd2790",
+      "review-report.json": "990812c27630140172988b1eab7d6edf9cc602b9f47fe0ba349d1acc63564910"
+    },
+    "committed": false,
+    "remoteBackup": false
+  },
+  "archiveReview": {
+    "sourceSegments": 82,
+    "contributorEntries": 328,
+    "labelsPerFile": 14,
+    "storyPassages": 18,
+    "vocabularyPairs": 6,
+    "notePairs": 3,
+    "exerciseGroups": {
+      "A": 4,
+      "B": 3,
+      "C": 4,
+      "D": 5,
+      "E": 5,
+      "F": 11,
+      "G": 10,
+      "H": 1
+    },
+    "activityPoemLines": 10,
+    "activityPoemStanzas": 5,
+    "activityDialogueTurns": 9,
+    "printedWorkedExamples": 1,
+    "blankSlots": 18,
+    "addedAnswerSegments": 0,
+    "fullSchemaValid": false,
+    "expectedValidationErrors": 5,
+    "blockingError": "All five YAML files deliberately omit required meta.license pending edition-rights verification.",
+    "otherChecks": [
+      "unique YAML keys",
+      "exact source/contributor and label joins",
+      "refs",
+      "encoding",
+      "corrected story Kannada-character equality",
+      "blank coverage",
+      "poem/dialogue coverage",
+      "Devanagari mapping",
+      "Latin word-by-word mapping review"
+    ],
+    "rendererReady": false,
+    "rendererBlockers": [
+      "Exercise poem lines are classified as main poem",
+      "Exercise dialogue omitted from generated README and mobile exercise screen",
+      "Mobile exercise passages are restricted to group C; printed example is in group D"
+    ],
+    "generatedReadme": false,
+    "generatedApi": false,
+    "published": false
+  },
+  "pageCoverage": [
+    {
+      "pdfPage": 20,
+      "segments": [
+        "intro-1",
+        "story-n1..story-n3"
+      ],
+      "other": "Title, printed author and QR; decorative illustration not reproduced."
+    },
+    {
+      "pdfPage": 21,
+      "segments": [
+        "story-n4..story-n9",
+        "story-n10 (opening words)"
+      ]
+    },
+    {
+      "pdfPage": 22,
+      "segments": [
+        "story-n10..story-n18",
+        "intro-2"
+      ]
+    },
+    {
+      "pdfPage": 23,
+      "segments": [
+        "vocab-*",
+        "note-*",
+        "ex-a-q1..ex-a-q4",
+        "ex-b-q1"
+      ]
+    },
+    {
+      "pdfPage": 24,
+      "segments": [
+        "ex-b-q2..ex-b-q3",
+        "ex-c-q1..ex-c-q4",
+        "ex-d-p1",
+        "ex-d-q1..ex-d-q2"
+      ]
+    },
+    {
+      "pdfPage": 25,
+      "segments": [
+        "ex-d-q3..ex-d-q4",
+        "ex-e-q1..ex-e-q5",
+        "ex-f-q1",
+        "poem-s1l1..poem-s5l2"
+      ]
+    },
+    {
+      "pdfPage": 26,
+      "segments": [
+        "ex-g-q1",
+        "ex-g-p1..ex-g-p9",
+        "ex-h-q1",
+        "competency"
+      ]
+    }
+  ],
+  "nextAction": "Resume from repository YAML. Resolve edition rights and exercise poem/dialogue/example renderer gaps before clearing the API hold and generating production JSON. Actual YAML Git storage is authorized; production app content remains unchanged."
+}

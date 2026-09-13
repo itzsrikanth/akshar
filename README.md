@@ -47,3 +47,7 @@ Millions of Indian children study a regional language at school that their paren
 No coding required. GitHub's web UI is sufficient for either workflow.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Editorial drafts
+
+Grade 4 Chapters 1–2 are stored as editorial YAML at the maintainer's request, but their edition licensing is unverified. They are excluded from the repository's CC BY grant and from production API output through `api-publication-holds.json`; their generated READMEs identify them as drafts. Their presence in Git does not establish redistribution permission. See [content licensing](docs/license.md) and [conversion status](docs/kannada-expansion-todo.md).

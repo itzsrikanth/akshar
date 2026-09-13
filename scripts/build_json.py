@@ -17,6 +17,8 @@ from pathlib import Path
 
 import yaml
 
+from publication_holds import load_publication_holds
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 API_DIR = REPO_ROOT / "api"
 SCHEMA_VERSION = "1.0"
@@ -140,8 +142,11 @@ def add_compatibility_views(written, manifest_chapters):
 def build_all():
     manifest_chapters = []
     written = {}
+    holds = load_publication_holds(REPO_ROOT)
 
     for chapter_dir in find_chapter_dirs(REPO_ROOT):
+        if chapter_dir.relative_to(REPO_ROOT).as_posix() in holds:
+            continue
         for source_path in sorted(chapter_dir.glob("source.*.yaml")):
             compiled, scripts_available, langs_available = compile_chapter(chapter_dir, source_path)
             out_path = api_path_for(source_path)
