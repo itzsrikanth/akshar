@@ -29,12 +29,69 @@
   },
   "publicationStatus": "hold-for-edition-rights-review",
   "reason": "The official 2026–27 PDF carries a restrictive notice, while its QR resolves to a CC BY 4.0 collection titled 2024–25. The metadata spine establishes collection/chapter labels, not a matching licensed PDF artifact. Do not treat the older collection license as proof of rights to all 2026–27 text or images.",
+  "rightsRecheck": {
+    "checkedOn": "2026-09-13",
+    "searchEndpoint": "https://diksha.gov.in/api/content/v1/search",
+    "queries": [
+      {
+        "request": {"filters": {"identifier": ["do_31401171287858380817982"], "status": ["Live"]}, "limit": 100},
+        "resultCount": 0,
+        "responseSha256": "5d3bc3c3d37cb0584f358d1aa8e5896280b7c26fbfbd276446980764d8e136bb"
+      },
+      {
+        "request": {"filters": {"dialcodes": ["B3S4J1"], "status": ["Live"]}, "limit": 100},
+        "resultCount": 0,
+        "responseSha256": "9bbac2c77a410a7cf147e723cd1c8cd325a09a3f5893528c7eeed5cb2adff926"
+      },
+      {
+        "request": {"filters": {"board": ["State (Karnataka)"], "gradeLevel": ["Class 4"], "subject": ["I Language Kannada"], "mimeType": ["application/pdf"], "status": ["Live"]}, "limit": 100},
+        "resultCount": 10,
+        "responseSha256": "317823f63c302c5f5256047c3bd0b148270a1e613bec36ccdab9219932cecc3f",
+        "finding": "Results include a Chapter 2 presentation, Grade 5 activities and Odu Karnataka resources; no matching Chapter 1 textbook PDF was identified."
+      },
+      {
+        "request": {"query": "ಕನ್ನಡಮ್ಮನ", "filters": {"status": ["Live"]}, "limit": 100},
+        "resultCount": 6,
+        "responseSha256": "5a2728e8196d3ef1fe86fb2aa2ed94dab3f4bab7aa5d297e98508e5483938a3e",
+        "finding": "Two MP4 resources and four ZIP-packaged activities; related-resource licenses do not establish the complete PDF chapter's rights.",
+        "resourceIds": ["do_31453757604197990412797", "do_314510698114965504137", "do_31315971991548723213651", "do_31315962340932812812345", "do_31315943305725542411614", "do_31315958385398579212289"]
+      },
+      {
+        "request": {"filters": {"board": ["State (Karnataka)"], "gradeLevel": ["Class 4"], "mimeType": ["application/pdf"], "status": ["Live"]}, "limit": 100},
+        "resultCount": 295,
+        "returnedCount": 100,
+        "responseSha256": "e03f7a15b8900da0bfd366794e053431ab41925100092b58485e2daa42894315",
+        "finding": "First page of the broader all-subject metadata search; subsequent pages were fetched after the interrupted command was rerun."
+      },
+      {
+        "request": {"filters": {"board": ["State (Karnataka)"], "gradeLevel": ["Class 4"], "mimeType": ["application/pdf"], "status": ["Live"]}, "limit": 100, "offset": 100},
+        "resultCount": 295,
+        "returnedCount": 100,
+        "responseSha256": "838ecaebffef5ceff22f3b6bae0dc8dbf0db0606e5ba105e967f6f64d973d755",
+        "finding": "No Kannada-subject record or matching chapter-title candidate identified in this metadata page."
+      },
+      {
+        "request": {"filters": {"board": ["State (Karnataka)"], "gradeLevel": ["Class 4"], "mimeType": ["application/pdf"], "status": ["Live"]}, "limit": 100, "offset": 200},
+        "resultCount": 295,
+        "returnedCount": 95,
+        "responseSha256": "ccf95561c62760a719c9292141891a5019ffe42d3df33fe93e83c21dd4a7d08b",
+        "finding": "Kannada-subject records are the six previously identified Odu Karnataka resources. A record without a subject is titled travel worksheet. No matching chapter-title candidate identified."
+      }
+    ],
+    "paginationCheck": {
+      "allSubjectPdfQueryUniqueIdentifiers": 295,
+      "duplicateIdentifiersAcrossPages": 0,
+      "scope": "All metadata pages for the stated board/grade/PDF filters were retrieved; PDF artifact contents were not exhaustively inspected and differently classified sources may exist."
+    },
+    "conclusion": "Hold remains. Zero standalone chapter search results do not establish removal: the unit is present in the previously retrieved collection spine. No matching licensed edition artifact was verified by these searches."
+  },
   "chapter1": {
     "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ",
     "author": "ಕುವೆಂಪು",
     "pdfPagesInclusive": [15, 19],
     "printedPagesInclusive": [1, 5],
-    "status": "split-and-extracted-unreviewed-draft"
+    "status": "reviewed-local-five-file-draft-publication-blocked",
+    "draftRecord": "g04-fl-p1-ch01-draft.json"
   },
   "externalConverter": {
     "repository": "https://github.com/aravindavk/ascii2unicode",

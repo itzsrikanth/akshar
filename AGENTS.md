@@ -91,6 +91,12 @@ If `validate.py` fails, fix the content — do not weaken the check to make it p
 
 Before committing/pushing, also regenerate `api/` with `python3 scripts/build_json.py` and run `python3 scripts/check.py`, the shared local/CI entrypoint. Stage the generated artifacts with their source changes. Install the opt-in `.githooks/pre-push` hook as documented in `CONTRIBUTING.md`; it checks committed snapshots so uncommitted fixes cannot mask a broken push. Do not bypass failed checks or weaken validation to publish.
 
+## Conversion-session checkpoints
+
+The maintainer requests an incremental commit and push at the end of each conversion session, unless a later instruction says otherwise. Put verified, publishable chapter YAML in the canonical repository tree, include generated README/API changes, and run the required checks before committing. Update the conversion TODO and provenance checkpoint with completed work, remaining blockers and exact resume instructions. Stage only the session's intended files; preserve unrelated user work, never bypass hooks, and never force-push to resolve a remote conflict. Report the commit and push outcome accurately rather than treating a local commit as remote backup.
+
+Do not leave the only copy of editorial work in `/tmp`. For a draft whose redistribution rights remain unresolved, retain a checksummed archive in the ignored `.conversion-local/` directory and commit only safe metadata, hashes, review status and recovery instructions. Keep extracted `source.*.yaml` drafts outside the repository because content tools discover them recursively, including ignored directories. Do not force-add the archive, fabricate a license, or publish incomplete-schema drafts to satisfy the session checkpoint policy. An ignored archive is local recovery only, not a remote backup; explicitly tell the maintainer when actual draft text was not pushed. Remote backup of held drafts requires a separately approved private destination, not this public remote.
+
 ## Segment ID conventions
 
 See `CONTRIBUTING.md` → "Segment ID conventions" for the full table (`competency`, `intro-{n}`, `poem-s{stanza}l{line}`, `vocab-{word}`/`vocab-{word}-def`, `note-{word}`/`note-{word}-def`, `ex-{section}-q{n}`/`-ans`, `story-n{n}`, `story-d{n}`). Follow it exactly — a compiler/app relies on these patterns being stable, not just documented.
