@@ -1,0 +1,181 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  language: en
+  locale: en-IN
+labels:
+  competency: Competency
+  intro: Introduction
+  story: Lesson and school magazine
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: Exercise A — Answer in one sentence.
+  exercise-B: Exercise B — Match and write.
+  exercise-C: Competency-based activity A
+  exercise-D: Competency-based activity B
+  exercise-E: Competency-based activity C
+  exercise-F: Competency-based activity D
+  exercise-G: Competency-based activity E
+  exercise-H: Competency-based activity F
+  exercise-I: Language practice A
+  exercise-J: Language activity A
+  exercise-K: Language activity B
+  exercise-L: Language activity C
+  poem: Short verse
+competency: Reading classmates' handwriting.
+intro-1: You have seen textbooks, invitations to weddings and housewarmings, and newspapers. These are printed.
+  We read their printed contents to learn what they say.
+intro-2: We do not read only printed material. Sometimes we read things written by hand. We also write down by hand
+  what we wish to say or what we have thought, don't we?
+intro-3: Your article may have appeared in your school magazine. Read the handwritten articles in this school magazine
+  and notice the different styles of handwriting.
+story-n1: It was Saturday. The editorial board examined the articles sent in by pupils. They chose good articles,
+  prepared the magazine and published it.
+story-n2: Radha saw the magazine and eagerly began reading. She read some articles easily, but found others difficult.
+  Why might that be? Can you tell? First, read this magazine.
+story-n3: School magazine — Chiguru (New Shoot) — June 2024
+story-n4: 'Mango: The mango is the king of fruits. Its varieties include Badami, Rasa and Malagoba. — Yusuf, Class
+  4'
+poem-s1l1: For little children, just the sky's
+poem-s1l2: Ball,
+poem-s1l3: For scientists here, just a ball of rock.
+story-n5: Short verse collected by Jahnavi, Class 3
+story-n6: 'Colour the picture. Picture collected by Vinayaka, Class 3. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  printed page 30, PDF page 43 (counting from 1), lion illustration on the left of the school magazine.]'
+story-n7: 'Wise saying: Sacrifice, love, compassion and honesty are true education. — Swami Vivekananda. Collected
+  by Javed, Class 5'
+story-n8: 'Idioms — meanings: As much as a sesame seed — very little; pull out the bars — run away. — Vivek, Class
+  5'
+story-n9: 'Subtract to find the product! Example: 36 × 9 = 324. Add a zero after 36 to make 360. Subtract 36. The
+  remainder (the product of 36 × 9) is 324.'
+story-n10: 'Notice: Try this method to find the product of any number multiplied by 9. — Harshini, Class 5'
+story-n11: 'Find the differences between the pictures. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  printed page 30, PDF page 43 (counting from 1), the two bird scenes at the lower right.]'
+story-n12: Did you know? The Krishnaraja dam in Srirangapatna taluk of Mandya district was built through Sir M.
+  Visvesvaraya's far-sighted planning. It has greatly helped the farmers of that region. — Mala, Class 4
+story-n13: 'Waterfall: Jog Falls is world-famous, a place of pride for Karnataka. It is in Jog village, Sagara taluk,
+  Shivamogga district, in Malenadu. — Satish, Class 5'
+story-n14: 'Swami Vivekananda: He proclaimed the greatness of Hinduism in America. His childhood name was Narendra.
+  His father was Vishwanath Datta and his mother was Bhuvaneshwari Devi. — Vinayaka, Class 3'
+story-n15: 'State festival: Dasara is our state festival. It is also called Sharannavaratri. Mysuru Dasara reflects
+  the state''s traditions. Its Jamboo Savari elephant procession is attractive. — Thomas, Class 5'
+story-n16: 'Proverb: A worker has no sorrow; a lazy person has no happiness. — Begum, Class 3'
+story-n17: 'Home remedy: Put washed guava leaves and salt in water and boil it. Rinsing the mouth with this water
+  when comfortably warm relieves toothache. — Gayatri, Class 5'
+story-d1: Radha, why did you find some articles difficult to read?
+story-n18: asked the teacher.
+story-d2: Some people's handwriting was not good. That made it difficult to read, madam.
+story-n23: Radha replied.
+story-d3: What was it like when you say the handwriting wasn't good?
+story-n24: asked the teacher.
+story-d4: Mala's writing is not clear, madam. Gayatri's letters do not have printed shapes, and Yusuf has left no
+  spaces between words.
+story-n19: she said. Others shared their thoughts. The teacher brought together the views expressed in the discussion.
+story-n20: 'Explaining what good handwriting should be like, she said: We must write without mistakes and make our
+  writing neat. It should be easy to read and understand. Letters should be of the same size.'
+story-n21: Every letter should have the shape of a printed letter. Within a word, letters should neither touch each
+  other nor have gaps between them. Leave a little space between words to help identify them.
+story-n22: Leave enough space between lines so the letters in one line do not touch those in another. Letters and
+  lines should not be slanted, she said. The pupils were happy to learn how to write neatly.
+vocab-lekhana: article
+vocab-lekhana-def: writing; written work
+vocab-parishilisu: examine
+vocab-parishilisu-def: observe carefully
+vocab-uttama: excellent
+vocab-uttama-def: superior
+vocab-prakatisu: publish
+vocab-prakatisu-def: bring books, articles and similar works into publication
+vocab-kutuhala: curiosity
+vocab-kutuhala-def: wonder
+vocab-saragavagi: fluently
+vocab-saragavagi-def: easily
+vocab-charche: discussion
+vocab-charche-def: deliberation
+vocab-salahe: advice
+vocab-salahe-def: suggestion
+vocab-subhashita: wise saying
+vocab-subhashita-def: good words; a moral saying
+note-sampadaka: editorial board
+note-sampadaka-def: A team that edits and publishes news.
+note-shalapatrike: school magazine
+note-shalapatrike-def: a magazine brought out by a school
+note-svarachita: self-composed
+note-svarachita-def: created by oneself
+note-nagehani: short joke
+note-nagehani-def: a short saying or piece of writing that makes one laugh
+note-chutuku: short verse
+note-chutuku-def: a short satirical poem
+note-kappuhalage: blackboard
+note-kappuhalage-def: A board or part of a wall painted black for writing.
+ex-a-q1: What is the name of the school magazine?
+ex-a-q2: What is our state festival?
+ex-a-q3: Who is the king of fruits?
+ex-a-q4: What was Vivekananda's childhood name?
+ex-a-q5: Where is Jog Falls?
+ex-a-q6: What is the title of Satish's article in this magazine?
+ex-a-q7: Which piece of writing in Chiguru did you like?
+ex-b-p1: 'Match the writers'' names to the article titles. Titles: 1. Swami Vivekananda; 2. Did You Know?; 3. State
+  Festival; 4. Proverb.'
+ex-b-q1: Mala
+ex-b-q2: Thomas
+ex-b-q3: Begum
+ex-b-q4: Vinayaka
+ex-c-p1: Mark correct statements with a tick (✓) and incorrect ones with a cross (✗).
+ex-c-q1: We should write neatly and without mistakes. ( )
+ex-c-q2: Writing should be easy to read and understand. ( )
+ex-c-q3: The letters in words should not be the same size. ( )
+ex-c-q4: Letters within a word should neither touch nor have gaps between them. ( )
+ex-c-q5: Words should be written without spaces between them. ( )
+ex-c-q6: Letters and lines should not be slanted. ( )
+ex-d-p1: Write these lines in the correct order.
+ex-d-q1: state / our / festival / Dasara
+ex-d-q2: speech / no quarrel / for one who knows
+ex-d-q3: state / our / Karnataka
+ex-d-q4: of fruits / mango / king
+ex-e-p1: 'Write the wise saying from Chiguru in one column. Have a friend write it in the other. Then answer the
+  questions below. Your name: ___. Friend''s name: ___.'
+ex-e-q1: Whose handwriting is good?
+ex-e-q2: Give one reason for saying the handwriting is good.
+ex-e-q3: Give one reason for saying the handwriting is not good.
+ex-f-p1: Copy these sentences.
+ex-f-q1: The cuckoo's song is sweet.
+ex-f-q2: You must reap what you sow, my lord.
+ex-g-q1: 'Write your name in this arch. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page
+  35, PDF page 48 (counting from 1), arch in activity ಉ.]'
+ex-h-q1: Write a three-line article in neat, correct handwriting for the school magazine Chukki Chinna.
+ex-h-p1: 'Remember: If you cannot identify a letter in a handwritten word, use the letters before and after it to
+  work out which letter it is.'
+ex-h-p2: If you cannot understand a word in a sentence, use the words before and after it to identify it.
+ex-h-p3: If an entire sentence is unclear, use the sentences before and after it to understand it.
+ex-i-p1: Look at these pictures and write what you think in meaningful sentences.
+ex-i-q1: 'Example picture. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page
+  49 (counting from 1), first-row picture.]'
+ex-i-q1-ans: 'Example: The girl is drinking water.'
+ex-i-q2: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting
+  from 1), second-row picture.]'
+ex-i-q3: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting
+  from 1), third-row picture.]'
+ex-i-q4: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting
+  from 1), fourth-row picture.]'
+ex-i-q5: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting
+  from 1), fifth-row picture.]'
+ex-i-q6: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting
+  from 1), sixth-row picture.]'
+ex-j-p1: Read and understand the proverbs.
+ex-j-q1: The one who helps in trouble is a true friend.
+ex-j-q2: Speech is silver; silence is gold.
+ex-j-q3: Excessive greed leads to ruin.
+ex-j-q4: Work like a servant; eat like a king.
+ex-k-p1: Choose the right words to complete the proverbs. (cleverness is better, jasmine flowers for the hair, the
+  buffalo pulls towards the water, my lord)
+ex-k-q1: Reap what you sow, ___.
+ex-k-q2: If the bull pulls towards the bank, ___.
+ex-k-q3: No flour for the stomach, yet ___.
+ex-k-q4: Rather than strength, ___.
+ex-l-p1: Write these words in their correct forms.
+ex-l-q1: ಕೂತುಹಲ (misspelt Kannada word for curiosity)
+ex-l-q2: ಸಿಕ್ಷಕ (misspelt Kannada word for teacher)
+ex-l-q3: ಜಾಲಪಾತ (misspelt Kannada word for waterfall)
+ex-l-q4: ನಿಡುಗಟ್ಟು (misspelt Kannada word for idiom)
+ex-l-p2: 'Remember: A proverb is a traditional saying.'

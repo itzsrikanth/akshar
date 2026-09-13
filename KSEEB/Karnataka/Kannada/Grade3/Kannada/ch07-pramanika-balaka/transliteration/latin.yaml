@@ -1,0 +1,126 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  script: latin
+labels:
+  competency: Saamarthya
+  intro: Pravesha
+  story: Kathe
+  vocab: Padagala artha
+  notes: Tippani
+  exercise-A: Abhyaasa a — bittiruva sthalavannu sookta padagalinda tumbi bare.
+  exercise-B: Abhyaasa aa — ondu vaakyadalli uttarisu.
+  exercise-C: Abhyaasa i — eradu-mooru vaakyagalalli uttarisu.
+  exercise-D: Abhyaasa ee — ee kelagina helikegalige kaarana kodu.
+  exercise-E: Abhyaasa u — illi kottiruva maatugalannu yaaru? Yaarige helidaru? Endu bareyiri.
+  exercise-F: Abhyaasa oo — kottiruva padagalannu odi, anantara svantavaakya rachisu.
+  exercise-G: Saamarthyaadhaarita chatuvatike a
+  exercise-H: Saamarthyaadhaarita chatuvatike aa
+  exercise-I: Bhaashaabhyaasa a
+  exercise-J: Bhaashaabhyaasa aa
+  exercise-K: Bhaashaa chatuvatike a
+competency: Pathyadallina mukhya vishayavannu gurutisuvudu. Eke emba prashnege uttarisuvudu.
+intro-1: 'Ee chitragalalliruva vyaktigalannu gurutisu. Ee mahaneeyaru deshakkaagi mattu samaaja sevegaagi horaadidavaru.
+  [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 48, PDF puta 61 (1rinda enike),
+  pravesha bhaagada bhaavachitragalu.]'
+intro-2: Ivara baalyavannu hintirugi nodidare sahaja tuntaatada naduve kelavu aadarshada gunagalu kandubaruttave.
+  Aadarsha gunagalannu maigoodisikondu beleda obba netaarana baalya mattu badukannu tiliyona.
+story-n1: Shaaleya gante baarisitu. Shaaleyinda hora banda makkalella maneyatta horataru. Daaribadiya maavina topinalli
+  beledu pakvavaagidda maavina hannugalu makkalannu aakarshisidavu. Hannu tinnuva aaseyinda makkalu topannu praveshisidaru.
+story-n2: Kelavaru maravanneridare matte kelavaru kallu beesidaru. Sikka hannugalannu khushiyinda hanchikondu tinnatodagidaru.
+  Aaga makkala gaddala kelida totada maaleeka dhaavisi bandanu. Anireekshitavaagi banda avanannu kandu makkalu galibiligondu
+  challaapilliyaagi odidaru.
+story-n3: Aadare obba huduga maatra odade alliye ninta. Hattira banda maaleeka huduganannu hididu
+story-d1: Ninna appa, amma, gurugalu idanne enu ninage kalisiddu?
+story-n10: Endu gadarisida. Huduga alatodagida. Aaga maaleeka
+story-d2: Eke aluve? Naanenu ninage hodedene?
+story-n4: Endanu. Adakke baalaka vinayadinda
+story-d3: Naanu maadiddu tappu. Innendoo intaha tappannu maaduvudilla. Aadare naanu maadida tappige nanna tande,
+  taayi mattu gurugalu nindanege guriyaadarallaa endu duhkhisuttiruve.
+story-n11: Endanu.
+story-n5: Baalakana mugdha haagoo praamaanika maatugalannu keli maaleekana manassu karagitu. Aaga maaleeka
+story-d4: Magu, ninna tappannu neenu oppikondiruve. Ninna praamaanikate nanage ishtavaayitu. Tappannu ariyuva, tiddikolluva
+  ninna ee guna, ninnannu dodda vyaktiyannaagi maaduttade.
+story-n12: Endu heli mattashtu maavinahannugalannu needi samaadhaanapadisi kaluhisida. Heege tanna praamaanikateyinda
+  maaleekana manassannu gedda aa baalakane laal bahaddoor shaastri.
+story-n6: Adu bhaaratada svaatantrya horaatada kaala. Svaatantryakkaagi gaandheejiyavara netrutvadalli nadeda chaluvaligalu
+  shaastriyavarannu aakarshisidavu. Deshaprema avaralli putidedditu. Aaga gaandheejiyavara odanaatadalli shaastriyavaru
+  aneka chaluvaligalalli paalgondaru. Antoo 1947 aagast 15randu bhaarata desha svatantra deshavaayitu.
+story-n7: Svatantra bhaaratada prathama pradhaaniyaada javaaharlaal neharu avara mantrimandaladalli railve mantriyaagi
+  shaastriyavaru kaarya nirvahisidaru. Aa samayadalli railve apaghaatavondakke taave hone hottu tappu tammadalladiddaroo
+  mantri padavige raajeenaame kottu dheemantike mereda ivaru neharooravara nantara deshada pradhaaniyaagi seve sallisidaru.
+story-n8: Kevala hadinentu tingala avadhiyalli tamma praamaanikate haagoo deshapremada nadavalikegalinda deshadellede
+  manemaataadaru.
+story-n9: Shaastriyavaru daksha aadalitagaararaagi, shaantidootaraagi, desha premigalaagi deshada keertipataake
+  haarisidaru. Ivaru needida ‘jai javaan jai kisaan’ emba ghoshavaakya janamanadalli uliyitu. Ivara sevege bhaarata
+  sarkaaravu ‘bhaarataratna’ prashasti needi gauravisitu.
+vocab-praveshisu: Praveshisu
+vocab-praveshisu-def: Olage hogu
+vocab-pramanikate: Praamaanikate
+vocab-pramanikate-def: Nambikege arha
+vocab-odanata: Odanaata
+vocab-odanata-def: Sahavaasa, joteyalliruvudu
+vocab-patake: Pataake
+vocab-patake-def: Baavuta, dhvaja
+note-chaluvali: Chaluvali
+note-chaluvali-def: Saamoohika horaata/satyaagraha
+note-mantrimandala: Mantrimandala
+note-mantrimandala-def: Mantrigala samiti
+note-ghoshane: Ghoshane
+note-ghoshane-def: Gattiyaagi heluvudu/saaruvudu
+note-rajiname: Raajeenaame
+note-rajiname-def: Udyoga, sthaana, adhikaara — modalaadavugalinda bidugade maadabekendu keli taane oppi baredu
+  koduva patra
+ex-a-q1: Daari badiya ___ topinallidda hannugalu aakarshisidavu.
+ex-a-q2: Shaastriyavaralli ___ putidedditu.
+ex-a-q3: Shaastriyavaru, gaandheejiyavara odanaatadalli aneka ___galalli paalgondaru.
+ex-a-q4: Namma deshavu 1947 aagast ___ randu svatantravaayitu.
+ex-a-q5: Bhaarata deshada prathama pradhaani ___
+ex-a-q6: Shaastriyavaru janatege needida ghoshavaakya ___
+ex-b-q1: Makkalu topannu eke praveshisidaru?
+ex-b-q2: Makkalu eke galibiligondaru?
+ex-b-q3: Maaleekana manassu eke karagitu?
+ex-b-q4: Shaastriyavarige sarkaara yaava prashasti needi gauravisitu?
+ex-c-q1: Baalaka maaleekanige enendu helidanu?
+ex-c-q2: Maaleeka baalakanannu hege samaadhaanapadisidanu?
+ex-c-q3: Shaastriyavaru mantri padavige eke raajeenaame needidaru?
+ex-d-q1: Maaleeka hodeyadiddaroo baalaka attanu.
+ex-d-q2: Shaastriyavaru deshadellede manemaataadaru.
+ex-e-q1: “Ninna appa, amma, gurugalu idanne enu kalisiddu?” yaaru helidaru? Yaarige helidaru?
+ex-e-q2: “Innendoo intaha tappu maaduvudilla.” yaaru helidaru? Yaarige helidaru?
+ex-e-q3: “Ninna ee guna ninnannu dodda vyaktiyannaagi maaduttade.” yaaru helidaru? Yaarige helidaru?
+ex-f-q1: Manemaataagu
+ex-f-q2: Honehottu
+ex-f-q3: Putidelu
+ex-f-q4: Aakarshisu
+ex-g-p1: Ee chitragalannu gamanisi avu eke beku embudannu ondu vaakyadalli bareyiri.
+ex-g-q1: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 52, PDF puta 65 (1rinda
+  enike), chatuvatike a ya modala chitra.]'
+ex-g-q2: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 52, PDF puta 65 (1rinda
+  enike), chatuvatike a ya eradaneya chitra.]'
+ex-g-q3: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 53, PDF puta 66 (1rinda
+  enike), putada melbhaagada modala chitra.]'
+ex-g-q4: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 53, PDF puta 66 (1rinda
+  enike), putada melbhaagada eradaneya chitra.]'
+ex-h-p1: 'Kottiruva chitravannu gamanisi, prashnegalige uttarisu. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  mudrita puta 53, PDF puta 66 (1rinda enike), nalliya kelage tumbi hariyuva bakettina chitra.]'
+ex-h-q1: Neeru eke suriyuttide?
+ex-h-q2: Neeru suriyuvudannu nillisabeku eke?
+ex-i-q1: 'Maadariyante vaakya rachisu. Modala ankana: neenu, naavu, neevu, avanu, avalu, avaru. Madhyada ankana:
+  hannannu. Koneya ankana: tindiri, tindevu, tindanu, tinde, tindaru, tindalu.'
+ex-i-q1-ans: 'Maadari: naanu hannannu tindenu.'
+ex-j-p1: Chitravannu gamanisi, arthapoorna vaakyagalannu rachisiri.
+ex-j-q1: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 54, PDF puta 67 (1rinda
+  enike), bhaashaabhyaasa aa ya melina chitra.]'
+ex-j-q1-ans: 'Maadari: hasuvu hullannu meyuttide.'
+ex-j-q2: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 54, PDF puta 67 (1rinda
+  enike), bhaashaabhyaasa aa ya kelagina chitra.]'
+ex-k-p1: Kelagina padagalige arthakoshadinda artha huduki bare.
+ex-k-q1: Pakva
+ex-k-q2: Dhaavisu
+ex-k-q3: Galibili
+ex-k-q4: Netrutva
+ex-k-p2: 'Arthakosha balakeya sulivu: artha tiliyabekaada padada modala aksharavannu tiliyabeku.'
+ex-k-p3: Gurutisikonda aksharavannu aadharisi shabdakoshadalli aa padavannu hudukabeku.
+ex-k-p4: Hudukida padada munde iruva arthagalannu tiliyuvudu.

@@ -1,0 +1,364 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 3
+  subject: Kannada
+  chapter: 7
+  slug: ch07-pramanika-balaka
+  title: ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ
+  source_url: https://diksha.gov.in/dial/X6D4P9
+  license: CC BY 4.0
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  story: ಕಥೆ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಬಿಟ್ಟಿರುವ ಸ್ಥಳವನ್ನು ಸೂಕ್ತ ಪದಗಳಿಂದ ತುಂಬಿ ಬರೆ.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಿಗೆ ಕಾರಣ ಕೊಡು.
+  exercise-E: ಅಭ್ಯಾಸ ಉ — ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಮಾತುಗಳನ್ನು ಯಾರು? ಯಾರಿಗೆ ಹೇಳಿದರು? ಎಂದು ಬರೆಯಿರಿ.
+  exercise-F: ಅಭ್ಯಾಸ ಊ — ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಓದಿ, ಅನಂತರ ಸ್ವಂತವಾಕ್ಯ ರಚಿಸು.
+  exercise-G: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಅ
+  exercise-H: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಆ
+  exercise-I: ಭಾಷಾಭ್ಯಾಸ ಅ
+  exercise-J: ಭಾಷಾಭ್ಯಾಸ ಆ
+  exercise-K: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ
+segments:
+- id: competency
+  type: competency
+  text: ಪಠ್ಯದಲ್ಲಿನ ಮುಖ್ಯ ವಿಷಯವನ್ನು ಗುರುತಿಸುವುದು. ಏಕೆ ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುವುದು.
+- id: intro-1
+  type: prose
+  text: 'ಈ ಚಿತ್ರಗಳಲ್ಲಿರುವ ವ್ಯಕ್ತಿಗಳನ್ನು ಗುರುತಿಸು. ಈ ಮಹನೀಯರು ದೇಶಕ್ಕಾಗಿ ಮತ್ತು ಸಮಾಜ ಸೇವೆಗಾಗಿ ಹೋರಾಡಿದವರು. [ಸಂಪಾದಕೀಯ
+    ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 48, PDF ಪುಟ 61 (1ರಿಂದ ಎಣಿಕೆ), ಪ್ರವೇಶ ಭಾಗದ ಭಾವಚಿತ್ರಗಳು.]'
+  section: intro
+- id: intro-2
+  type: prose
+  text: ಇವರ ಬಾಲ್ಯವನ್ನು ಹಿಂತಿರುಗಿ ನೋಡಿದರೆ ಸಹಜ ತುಂಟಾಟದ ನಡುವೆ ಕೆಲವು ಆದರ್ಶದ ಗುಣಗಳು ಕಂಡುಬರುತ್ತವೆ. ಆದರ್ಶ ಗುಣಗಳನ್ನು ಮೈಗೂಡಿಸಿಕೊಂಡು
+    ಬೆಳೆದ ಒಬ್ಬ ನೇತಾರನ ಬಾಲ್ಯ ಮತ್ತು ಬದುಕನ್ನು ತಿಳಿಯೋಣ.
+  section: intro
+- id: story-n1
+  type: prose
+  text: ಶಾಲೆಯ ಗಂಟೆ ಬಾರಿಸಿತು. ಶಾಲೆಯಿಂದ ಹೊರ ಬಂದ ಮಕ್ಕಳೆಲ್ಲ ಮನೆಯತ್ತ ಹೊರಟರು. ದಾರಿಬದಿಯ ಮಾವಿನ ತೋಪಿನಲ್ಲಿ ಬೆಳೆದು ಪಕ್ವವಾಗಿದ್ದ
+    ಮಾವಿನ ಹಣ್ಣುಗಳು ಮಕ್ಕಳನ್ನು ಆಕರ್ಷಿಸಿದವು. ಹಣ್ಣು ತಿನ್ನುವ ಆಸೆಯಿಂದ ಮಕ್ಕಳು ತೋಪನ್ನು ಪ್ರವೇಶಿಸಿದರು.
+  section: story
+- id: story-n2
+  type: prose
+  text: ಕೆಲವರು ಮರವನ್ನೇರಿದರೆ ಮತ್ತೆ ಕೆಲವರು ಕಲ್ಲು ಬೀಸಿದರು. ಸಿಕ್ಕ ಹಣ್ಣುಗಳನ್ನು ಖುಷಿಯಿಂದ ಹಂಚಿಕೊಂಡು ತಿನ್ನತೊಡಗಿದರು. ಆಗ ಮಕ್ಕಳ
+    ಗದ್ದಲ ಕೇಳಿದ ತೋಟದ ಮಾಲೀಕ ಧಾವಿಸಿ ಬಂದನು. ಅನಿರೀಕ್ಷಿತವಾಗಿ ಬಂದ ಅವನನ್ನು ಕಂಡು ಮಕ್ಕಳು ಗಲಿಬಿಲಿಗೊಂಡು ಚಲ್ಲಾಪಿಲ್ಲಿಯಾಗಿ ಓಡಿದರು.
+  section: story
+- id: story-n3
+  type: prose
+  text: ಆದರೆ ಒಬ್ಬ ಹುಡುಗ ಮಾತ್ರ ಓಡದೇ ಅಲ್ಲಿಯೇ ನಿಂತ. ಹತ್ತಿರ ಬಂದ ಮಾಲೀಕ ಹುಡುಗನನ್ನು ಹಿಡಿದು
+  section: story
+- id: story-d1
+  type: dialogue
+  text: ನಿನ್ನ ಅಪ್ಪ, ಅಮ್ಮ, ಗುರುಗಳು ಇದನ್ನೇ ಏನು ನಿನಗೆ ಕಲಿಸಿದ್ದು?
+  section: story
+  speaker: ಮಾಲೀಕ
+- id: story-n10
+  type: prose
+  text: ಎಂದು ಗದರಿಸಿದ. ಹುಡುಗ ಅಳತೊಡಗಿದ. ಆಗ ಮಾಲೀಕ
+  section: story
+- id: story-d2
+  type: dialogue
+  text: ಏಕೆ ಅಳುವೆ? ನಾನೇನು ನಿನಗೆ ಹೊಡೆದೆನೆ?
+  section: story
+  speaker: ಮಾಲೀಕ
+- id: story-n4
+  type: prose
+  text: ಎಂದನು. ಅದಕ್ಕೆ ಬಾಲಕ ವಿನಯದಿಂದ
+  section: story
+- id: story-d3
+  type: dialogue
+  text: ನಾನು ಮಾಡಿದ್ದು ತಪ್ಪು. ಇನ್ನೆಂದೂ ಇಂತಹ ತಪ್ಪನ್ನು ಮಾಡುವುದಿಲ್ಲ. ಆದರೆ ನಾನು ಮಾಡಿದ ತಪ್ಪಿಗೆ ನನ್ನ ತಂದೆ, ತಾಯಿ ಮತ್ತು ಗುರುಗಳು
+    ನಿಂದನೆಗೆ ಗುರಿಯಾದರಲ್ಲಾ ಎಂದು ದುಃಖಿಸುತ್ತಿರುವೆ.
+  section: story
+  speaker: ಬಾಲಕ
+- id: story-n11
+  type: prose
+  text: ಎಂದನು.
+  section: story
+- id: story-n5
+  type: prose
+  text: ಬಾಲಕನ ಮುಗ್ಧ ಹಾಗೂ ಪ್ರಾಮಾಣಿಕ ಮಾತುಗಳನ್ನು ಕೇಳಿ ಮಾಲೀಕನ ಮನಸ್ಸು ಕರಗಿತು. ಆಗ ಮಾಲೀಕ
+  section: story
+- id: story-d4
+  type: dialogue
+  text: ಮಗು, ನಿನ್ನ ತಪ್ಪನ್ನು ನೀನು ಒಪ್ಪಿಕೊಂಡಿರುವೆ. ನಿನ್ನ ಪ್ರಾಮಾಣಿಕತೆ ನನಗೆ ಇಷ್ಟವಾಯಿತು. ತಪ್ಪನ್ನು ಅರಿಯುವ, ತಿದ್ದಿಕೊಳ್ಳುವ
+    ನಿನ್ನ ಈ ಗುಣ, ನಿನ್ನನ್ನು ದೊಡ್ಡ ವ್ಯಕ್ತಿಯನ್ನಾಗಿ ಮಾಡುತ್ತದೆ.
+  section: story
+  speaker: ಮಾಲೀಕ
+- id: story-n12
+  type: prose
+  text: ಎಂದು ಹೇಳಿ ಮತ್ತಷ್ಟು ಮಾವಿನಹಣ್ಣುಗಳನ್ನು ನೀಡಿ ಸಮಾಧಾನಪಡಿಸಿ ಕಳುಹಿಸಿದ. ಹೀಗೆ ತನ್ನ ಪ್ರಾಮಾಣಿಕತೆಯಿಂದ ಮಾಲೀಕನ ಮನಸ್ಸನ್ನು
+    ಗೆದ್ದ ಆ ಬಾಲಕನೇ ಲಾಲ್ ಬಹದ್ದೂರ್ ಶಾಸ್ತ್ರಿ.
+  section: story
+- id: story-n6
+  type: prose
+  text: ಅದು ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಕಾಲ. ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಗಾಂಧೀಜಿಯವರ ನೇತೃತ್ವದಲ್ಲಿ ನಡೆದ ಚಳುವಳಿಗಳು ಶಾಸ್ತ್ರಿಯವರನ್ನು
+    ಆಕರ್ಷಿಸಿದವು. ದೇಶಪ್ರೇಮ ಅವರಲ್ಲಿ ಪುಟಿದೆದ್ದಿತು. ಆಗ ಗಾಂಧೀಜಿಯವರ ಒಡನಾಟದಲ್ಲಿ ಶಾಸ್ತ್ರಿಯವರು ಅನೇಕ ಚಳುವಳಿಗಳಲ್ಲಿ ಪಾಲ್ಗೊಂಡರು.
+    ಅಂತೂ 1947 ಆಗಸ್ಟ್ 15ರಂದು ಭಾರತ ದೇಶ ಸ್ವತಂತ್ರ ದೇಶವಾಯಿತು.
+  section: story
+- id: story-n7
+  type: prose
+  text: ಸ್ವತಂತ್ರ ಭಾರತದ ಪ್ರಥಮ ಪ್ರಧಾನಿಯಾದ ಜವಾಹರ್ಲಾಲ್ ನೆಹರು ಅವರ ಮಂತ್ರಿಮಂಡಲದಲ್ಲಿ ರೈಲ್ವೇ ಮಂತ್ರಿಯಾಗಿ ಶಾಸ್ತ್ರಿಯವರು ಕಾರ್ಯ
+    ನಿರ್ವಹಿಸಿದರು. ಆ ಸಮಯದಲ್ಲಿ ರೈಲ್ವೇ ಅಪಘಾತವೊಂದಕ್ಕೆ ತಾವೇ ಹೊಣೆ ಹೊತ್ತು ತಪ್ಪು ತಮ್ಮದಲ್ಲದಿದ್ದರೂ ಮಂತ್ರಿ ಪದವಿಗೆ ರಾಜೀನಾಮೆ
+    ಕೊಟ್ಟು ಧೀಮಂತಿಕೆ ಮೆರೆದ ಇವರು ನೆಹರೂರವರ ನಂತರ ದೇಶದ ಪ್ರಧಾನಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು.
+  section: story
+- id: story-n8
+  type: prose
+  text: ಕೇವಲ ಹದಿನೆಂಟು ತಿಂಗಳ ಅವಧಿಯಲ್ಲಿ ತಮ್ಮ ಪ್ರಾಮಾಣಿಕತೆ ಹಾಗೂ ದೇಶಪ್ರೇಮದ ನಡವಳಿಕೆಗಳಿಂದ ದೇಶದೆಲ್ಲೆಡೆ ಮನೆಮಾತಾದರು.
+  section: story
+- id: story-n9
+  type: prose
+  text: ಶಾಸ್ತ್ರಿಯವರು ದಕ್ಷ ಆಡಳಿತಗಾರರಾಗಿ, ಶಾಂತಿದೂತರಾಗಿ, ದೇಶ ಪ್ರೇಮಿಗಳಾಗಿ ದೇಶದ ಕೀರ್ತಿಪತಾಕೆ ಹಾರಿಸಿದರು. ಇವರು ನೀಡಿದ ‘ಜೈ
+    ಜವಾನ್ ಜೈ ಕಿಸಾನ್’ ಎಂಬ ಘೋಷವಾಕ್ಯ ಜನಮನದಲ್ಲಿ ಉಳಿಯಿತು. ಇವರ ಸೇವೆಗೆ ಭಾರತ ಸರ್ಕಾರವು ‘ಭಾರತರತ್ನ’ ಪ್ರಶಸ್ತಿ ನೀಡಿ ಗೌರವಿಸಿತು.
+  section: story
+- id: vocab-praveshisu
+  type: vocabulary_term
+  text: ಪ್ರವೇಶಿಸು
+- id: vocab-praveshisu-def
+  type: vocabulary_definition
+  text: ಒಳಗೆ ಹೋಗು
+  ref: vocab-praveshisu
+- id: vocab-pramanikate
+  type: vocabulary_term
+  text: ಪ್ರಾಮಾಣಿಕತೆ
+- id: vocab-pramanikate-def
+  type: vocabulary_definition
+  text: ನಂಬಿಕೆಗೆ ಅರ್ಹ
+  ref: vocab-pramanikate
+- id: vocab-odanata
+  type: vocabulary_term
+  text: ಒಡನಾಟ
+- id: vocab-odanata-def
+  type: vocabulary_definition
+  text: ಸಹವಾಸ, ಜೊತೆಯಲ್ಲಿರುವುದು
+  ref: vocab-odanata
+- id: vocab-patake
+  type: vocabulary_term
+  text: ಪತಾಕೆ
+- id: vocab-patake-def
+  type: vocabulary_definition
+  text: ಬಾವುಟ, ಧ್ವಜ
+  ref: vocab-patake
+- id: note-chaluvali
+  type: note_term
+  text: ಚಳುವಳಿ
+- id: note-chaluvali-def
+  type: note_definition
+  text: ಸಾಮೂಹಿಕ ಹೋರಾಟ/ಸತ್ಯಾಗ್ರಹ
+  ref: note-chaluvali
+- id: note-mantrimandala
+  type: note_term
+  text: ಮಂತ್ರಿಮಂಡಲ
+- id: note-mantrimandala-def
+  type: note_definition
+  text: ಮಂತ್ರಿಗಳ ಸಮಿತಿ
+  ref: note-mantrimandala
+- id: note-ghoshane
+  type: note_term
+  text: ಘೋಷಣೆ
+- id: note-ghoshane-def
+  type: note_definition
+  text: ಗಟ್ಟಿಯಾಗಿ ಹೇಳುವುದು/ಸಾರುವುದು
+  ref: note-ghoshane
+- id: note-rajiname
+  type: note_term
+  text: ರಾಜೀನಾಮೆ
+- id: note-rajiname-def
+  type: note_definition
+  text: ಉದ್ಯೋಗ, ಸ್ಥಾನ, ಅಧಿಕಾರ — ಮೊದಲಾದವುಗಳಿಂದ ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆಂದು ಕೇಳಿ ತಾನೇ ಒಪ್ಪಿ ಬರೆದು ಕೊಡುವ ಪತ್ರ
+  ref: note-rajiname
+- id: ex-a-q1
+  type: fill_blank
+  text: ದಾರಿ ಬದಿಯ ___ ತೋಪಿನಲ್ಲಿದ್ದ ಹಣ್ಣುಗಳು ಆಕರ್ಷಿಸಿದವು.
+  exercise: A
+- id: ex-a-q2
+  type: fill_blank
+  text: ಶಾಸ್ತ್ರಿಯವರಲ್ಲಿ ___ ಪುಟಿದೆದ್ದಿತು.
+  exercise: A
+- id: ex-a-q3
+  type: fill_blank
+  text: ಶಾಸ್ತ್ರಿಯವರು, ಗಾಂಧೀಜಿಯವರ ಒಡನಾಟದಲ್ಲಿ ಅನೇಕ ___ಗಳಲ್ಲಿ ಪಾಲ್ಗೊಂಡರು.
+  exercise: A
+- id: ex-a-q4
+  type: fill_blank
+  text: ನಮ್ಮ ದೇಶವು 1947 ಆಗಸ್ಟ್ ___ ರಂದು ಸ್ವತಂತ್ರವಾಯಿತು.
+  exercise: A
+- id: ex-a-q5
+  type: fill_blank
+  text: ಭಾರತ ದೇಶದ ಪ್ರಥಮ ಪ್ರಧಾನಿ ___
+  exercise: A
+- id: ex-a-q6
+  type: fill_blank
+  text: ಶಾಸ್ತ್ರಿಯವರು ಜನತೆಗೆ ನೀಡಿದ ಘೋಷವಾಕ್ಯ ___
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಮಕ್ಕಳು ತೋಪನ್ನು ಏಕೆ ಪ್ರವೇಶಿಸಿದರು?
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಮಕ್ಕಳು ಏಕೆ ಗಲಿಬಿಲಿಗೊಂಡರು?
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಮಾಲೀಕನ ಮನಸ್ಸು ಏಕೆ ಕರಗಿತು?
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಶಾಸ್ತ್ರಿಯವರಿಗೆ ಸರ್ಕಾರ ಯಾವ ಪ್ರಶಸ್ತಿ ನೀಡಿ ಗೌರವಿಸಿತು?
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ಬಾಲಕ ಮಾಲೀಕನಿಗೆ ಏನೆಂದು ಹೇಳಿದನು?
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಮಾಲೀಕ ಬಾಲಕನನ್ನು ಹೇಗೆ ಸಮಾಧಾನಪಡಿಸಿದನು?
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ಶಾಸ್ತ್ರಿಯವರು ಮಂತ್ರಿ ಪದವಿಗೆ ಏಕೆ ರಾಜೀನಾಮೆ ನೀಡಿದರು?
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ಮಾಲೀಕ ಹೊಡೆಯದಿದ್ದರೂ ಬಾಲಕ ಅತ್ತನು.
+  exercise: D
+- id: ex-d-q2
+  type: question
+  text: ಶಾಸ್ತ್ರಿಯವರು ದೇಶದೆಲ್ಲೆಡೆ ಮನೆಮಾತಾದರು.
+  exercise: D
+- id: ex-e-q1
+  type: question
+  text: “ನಿನ್ನ ಅಪ್ಪ, ಅಮ್ಮ, ಗುರುಗಳು ಇದನ್ನೇ ಏನು ಕಲಿಸಿದ್ದು?” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise: E
+- id: ex-e-q2
+  type: question
+  text: “ಇನ್ನೆಂದೂ ಇಂತಹ ತಪ್ಪು ಮಾಡುವುದಿಲ್ಲ.” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise: E
+- id: ex-e-q3
+  type: question
+  text: “ನಿನ್ನ ಈ ಗುಣ ನಿನ್ನನ್ನು ದೊಡ್ಡ ವ್ಯಕ್ತಿಯನ್ನಾಗಿ ಮಾಡುತ್ತದೆ.” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise: E
+- id: ex-f-q1
+  type: question
+  text: ಮನೆಮಾತಾಗು
+  exercise: F
+- id: ex-f-q2
+  type: question
+  text: ಹೊಣೆಹೊತ್ತು
+  exercise: F
+- id: ex-f-q3
+  type: question
+  text: ಪುಟಿದೇಳು
+  exercise: F
+- id: ex-f-q4
+  type: question
+  text: ಆಕರ್ಷಿಸು
+  exercise: F
+- id: ex-g-p1
+  type: prose
+  text: ಈ ಚಿತ್ರಗಳನ್ನು ಗಮನಿಸಿ ಅವು ಏಕೆ ಬೇಕು ಎಂಬುದನ್ನು ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಬರೆಯಿರಿ.
+  exercise: G
+- id: ex-g-q1
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 52, PDF ಪುಟ 65 (1ರಿಂದ ಎಣಿಕೆ), ಚಟುವಟಿಕೆ
+    ಅ ಯ ಮೊದಲ ಚಿತ್ರ.]'
+  exercise: G
+- id: ex-g-q2
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 52, PDF ಪುಟ 65 (1ರಿಂದ ಎಣಿಕೆ), ಚಟುವಟಿಕೆ
+    ಅ ಯ ಎರಡನೆಯ ಚಿತ್ರ.]'
+  exercise: G
+- id: ex-g-q3
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 53, PDF ಪುಟ 66 (1ರಿಂದ ಎಣಿಕೆ), ಪುಟದ
+    ಮೇಲ್ಭಾಗದ ಮೊದಲ ಚಿತ್ರ.]'
+  exercise: G
+- id: ex-g-q4
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 53, PDF ಪುಟ 66 (1ರಿಂದ ಎಣಿಕೆ), ಪುಟದ
+    ಮೇಲ್ಭಾಗದ ಎರಡನೆಯ ಚಿತ್ರ.]'
+  exercise: G
+- id: ex-h-p1
+  type: prose
+  text: 'ಕೊಟ್ಟಿರುವ ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ, ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸು. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+    ಮುದ್ರಿತ ಪುಟ 53, PDF ಪುಟ 66 (1ರಿಂದ ಎಣಿಕೆ), ನಲ್ಲಿಯ ಕೆಳಗೆ ತುಂಬಿ ಹರಿಯುವ ಬಕೆಟ್ಟಿನ ಚಿತ್ರ.]'
+  exercise: H
+- id: ex-h-q1
+  type: question
+  text: ನೀರು ಏಕೆ ಸುರಿಯುತ್ತಿದೆ?
+  exercise: H
+- id: ex-h-q2
+  type: question
+  text: ನೀರು ಸುರಿಯುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಕು ಏಕೆ?
+  exercise: H
+- id: ex-i-q1
+  type: question
+  text: 'ಮಾದರಿಯಂತೆ ವಾಕ್ಯ ರಚಿಸು. ಮೊದಲ ಅಂಕಣ: ನೀನು, ನಾವು, ನೀವು, ಅವನು, ಅವಳು, ಅವರು. ಮಧ್ಯದ ಅಂಕಣ: ಹಣ್ಣನ್ನು. ಕೊನೆಯ ಅಂಕಣ:
+    ತಿಂದಿರಿ, ತಿಂದೆವು, ತಿಂದನು, ತಿಂದೆ, ತಿಂದರು, ತಿಂದಳು.'
+  exercise: I
+- id: ex-i-q1-ans
+  type: answer
+  text: 'ಮಾದರಿ: ನಾನು ಹಣ್ಣನ್ನು ತಿಂದೆನು.'
+  exercise: I
+  ref: ex-i-q1
+- id: ex-j-p1
+  type: prose
+  text: ಚಿತ್ರವನ್ನು ಗಮನಿಸಿ, ಅರ್ಥಪೂರ್ಣ ವಾಕ್ಯಗಳನ್ನು ರಚಿಸಿರಿ.
+  exercise: J
+- id: ex-j-q1
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 54, PDF ಪುಟ 67 (1ರಿಂದ ಎಣಿಕೆ), ಭಾಷಾಭ್ಯಾಸ
+    ಆ ಯ ಮೇಲಿನ ಚಿತ್ರ.]'
+  exercise: J
+- id: ex-j-q1-ans
+  type: answer
+  text: 'ಮಾದರಿ: ಹಸುವು ಹುಲ್ಲನ್ನು ಮೇಯುತ್ತಿದೆ.'
+  exercise: J
+  ref: ex-j-q1
+- id: ex-j-q2
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 54, PDF ಪುಟ 67 (1ರಿಂದ ಎಣಿಕೆ), ಭಾಷಾಭ್ಯಾಸ
+    ಆ ಯ ಕೆಳಗಿನ ಚಿತ್ರ.]'
+  exercise: J
+- id: ex-k-p1
+  type: prose
+  text: ಕೆಳಗಿನ ಪದಗಳಿಗೆ ಅರ್ಥಕೋಶದಿಂದ ಅರ್ಥ ಹುಡುಕಿ ಬರೆ.
+  exercise: K
+- id: ex-k-q1
+  type: question
+  text: ಪಕ್ವ
+  exercise: K
+- id: ex-k-q2
+  type: question
+  text: ಧಾವಿಸು
+  exercise: K
+- id: ex-k-q3
+  type: question
+  text: ಗಲಿಬಿಲಿ
+  exercise: K
+- id: ex-k-q4
+  type: question
+  text: ನೇತೃತ್ವ
+  exercise: K
+- id: ex-k-p2
+  type: prose
+  text: 'ಅರ್ಥಕೋಶ ಬಳಕೆಯ ಸುಳಿವು: ಅರ್ಥ ತಿಳಿಯಬೇಕಾದ ಪದದ ಮೊದಲ ಅಕ್ಷರವನ್ನು ತಿಳಿಯಬೇಕು.'
+  exercise: K
+- id: ex-k-p3
+  type: prose
+  text: ಗುರುತಿಸಿಕೊಂಡ ಅಕ್ಷರವನ್ನು ಆಧರಿಸಿ ಶಬ್ದಕೋಶದಲ್ಲಿ ಆ ಪದವನ್ನು ಹುಡುಕಬೇಕು.
+  exercise: K
+- id: ex-k-p4
+  type: prose
+  text: ಹುಡುಕಿದ ಪದದ ಮುಂದೆ ಇರುವ ಅರ್ಥಗಳನ್ನು ತಿಳಿಯುವುದು.
+  exercise: K

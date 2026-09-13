@@ -1,0 +1,164 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  language: en
+  locale: en-IN
+labels:
+  competency: Competency
+  intro: Introduction
+  story: Lesson
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: Exercise A — Answer in one sentence.
+  exercise-B: Exercise B — Answer in two or three sentences.
+  exercise-C: Exercise C — Give reasons.
+  exercise-D: Exercise D — Write who said these words and to whom.
+  exercise-E: Exercise E — Make your own sentences using these words.
+  exercise-F: Competency-based exercise A — Mark true or false.
+  exercise-G: Competency-based exercise B — Answer.
+  exercise-H: Competency-based exercise C
+  exercise-I: Language practice A
+  exercise-J: Language practice B
+  exercise-K: Language activity A
+  exercise-L: Language activity B
+competency: Taking part in classroom discussions. Taking turns when speaking in a group.
+intro-1: We celebrate festivals. Some preparations are needed to celebrate a festival.
+intro-2: Wouldn't it be difficult for one person to make all the preparations? Are you curious about how to overcome
+  that difficulty?
+intro-3: Observe and learn how the teachers and pupils at a school went about it.
+story-n1: It was free time. The headteacher called a meeting of the school's student cabinet. The ministers came
+  to the meeting.
+story-d1: Children, this is August. Which national festival do we celebrate this month? Can you tell us, Raju?
+story-d2: Independence Day, sir.
+story-d3: 'You must not all speak at once like this. Take turns, understood? All right, Raju, tell us: what is Independence
+  Day?'
+story-d4: It is the festival celebrated across the country every year to remember the day our country became independent.
+story-d5: The day it became independent! What does that mean, sir?
+story-d6: The British once ruled our country. Our self-respecting people fought against them under Gandhiji's leadership
+  and won freedom. Through their patriotism, sacrifice and the giving of their lives, our country became independent
+  on 15 August 1947. Independence Day is the festival celebrated throughout the country each year in happy remembrance
+  of that freedom.
+story-d7: We celebrate it at our school too, don't we, sir?
+story-d8: Yes. We must start preparing for it now.
+story-d9: What preparations are needed? Please tell us, sir.
+story-d10: We must arrange sports competitions, identify those who will present the cultural programme, clean the
+  grounds, and decorate the school with fresh-leaf festoons.
+story-d11: Teacher, we will share the work and make the preparations.
+story-d12: Good. Who will take on which tasks?
+story-d13: Sir, all the cabinet members will together conduct the sports competitions and prepare a list of winners.
+story-n2: (Shahin and Aishwarya were talking.)
+story-d14: Shahin, Aishwarya, you must not talk among yourselves while someone else is speaking. You should listen
+  to others' opinions.
+story-d15: Sorry, sir. We will listen carefully from now on.
+story-d16: Ah! Good children.
+story-d17: Sir, we in Class Four will clean the school grounds.
+story-d18: I will prepare the list of cultural programme participants.
+story-d19: We in Class Two will make festoons from coloured paper.
+story-d20: We in Class Three will decorate the flagpole, sir.
+story-d21: It would look nice to make a rangoli around the flagpole.
+story-d22: Good suggestion. Pankaja makes lovely rangolis. Shall we ask her to do it, sir?
+story-d23: Good. Does everyone agree with Mary's suggestion?
+story-d24: Oh… yes, sir.
+story-d25: Who will bring the decoration materials?
+story-d26: I will bring tender mango leaves and banana stems from our garden. Let us all decorate the school together.
+story-d27: We in Class Five will decorate the national leaders' portraits with flower garlands. Sir, also… (She
+  continues speaking.)
+story-d28: Aishwarya, shouldn't you give others a chance to speak too?
+story-d29: I will join the Class One pupils and bring flowers picked from the school garden.
+story-d30: All right. I will invite the guests to the programme. The teachers will guide you in your work. Go ahead
+  with the preparations.
+story-n3: (Everyone prepared for their tasks under the teachers' guidance.)
+story-n4: On Independence Day, the children got up at dawn and got ready. They wore their uniforms and came to school.
+story-n5: Everyone completed their assigned work. They joined the morning procession with their teachers, raising
+  cheers. The villagers were pleased to see the children's discipline.
+story-n6: The panchayat president hoisted the flag in the school grounds. Everyone sang the national anthem. At
+  the gathering afterwards, the headteacher spoke about the freedom fighters' sacrifice and patriotism.
+story-n7: The chief guests distributed prizes to the sports winners. Finally, the children presented a cultural
+  programme. The gathered people clapped happily. Everyone enjoyed sweets and left, recalling the programme.
+vocab-rashtra: nation
+vocab-rashtra-def: country
+vocab-saradi: turn
+vocab-saradi-def: sequence
+vocab-svabhimana: self-respect
+vocab-svabhimana-def: respect for oneself
+vocab-spardhe: competition
+vocab-spardhe-def: contest
+vocab-taliru: tender leaf
+vocab-taliru-def: new shoot
+vocab-abhipraya: opinion
+vocab-abhipraya-def: thought or feeling
+vocab-dhvajastambha: flagpole
+vocab-dhvajastambha-def: pole on which a flag is flown
+vocab-bhavachitra: portrait
+vocab-bhavachitra-def: picture of a person
+vocab-amantrisu: invite
+vocab-amantrisu-def: ask someone to come
+vocab-nere: gather
+vocab-nere-def: come together; assemble
+vocab-margadarshana: guidance
+vocab-margadarshana-def: explaining; showing the way
+vocab-nasuku: dawn
+vocab-nasuku-def: early morning; daybreak
+vocab-jayaghosha: cheer
+vocab-jayaghosha-def: shout of victory
+vocab-vijetaru: winners
+vocab-vijetaru-def: those who won
+note-atithi: guest
+note-atithi-def: an invited person
+note-samskritika: cultural programme
+note-samskritika-def: A programme related to culture.
+note-rashtranayakaru: national leaders
+note-rashtranayakaru-def: great people who served the country
+note-prabhatapheri: morning procession
+note-prabhatapheri-def: a procession held early in the morning
+note-samavastra: uniform
+note-samavastra-def: clothing of the same design
+ex-a-q1: Whose meeting did the headteacher call?
+ex-a-q2: When do we celebrate Independence Day?
+ex-a-q3: Who apologised?
+ex-b-q1: What did they discuss at the cabinet meeting?
+ex-b-q2: What is Independence Day?
+ex-b-q3: What suggestion did Aishwarya give?
+ex-b-q4: What task did the sports minister take on?
+ex-b-q5: What task did the Class Three pupils take on?
+ex-c-q1: The headteacher called a cabinet meeting.
+ex-c-q2: We should listen when others speak.
+ex-c-q3: We must not all speak at once in a meeting.
+ex-d-q1: “We celebrate it at our school too, don't we, sir?” Who said this? To whom?
+ex-d-q2: “Good. Does everyone agree with Mary's suggestion?” Who said this? To whom?
+ex-d-q3: “I will bring tender mango leaves and banana stems from our garden.” Who said this? To whom?
+ex-e-q1: festoon
+ex-e-q2: rangoli
+ex-e-q3: prize
+ex-e-q4: uniform
+ex-f-q1: Work must not be shared when organising a programme. ( )
+ex-f-q2: Before organising a programme, we should discuss it at a meeting. ( )
+ex-f-q3: In a discussion, we should listen when others speak. ( )
+ex-f-q4: It causes difficulty if everyone speaks at once in a meeting. ( )
+ex-f-q5: In a meeting, people should not speak one after another. ( )
+ex-f-q6: We should listen to others' good advice. ( )
+ex-g-q1: Write about one task you took responsibility for at school.
+ex-g-q2: Write about one task you took responsibility for at home.
+ex-g-q3: What work has your family done after sitting together and discussing it?
+ex-h-q1: 'Look at the picture and give advice. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed
+  page 22, PDF page 35 (counting from 1), illustration under competency-based exercise ಇ.]'
+ex-i-p1: Rearrange the words to make meaningful sentences and write them correctly.
+ex-i-q1: uniform / children / wearing / came / to school
+ex-i-q2: children / cultural / presented / programme
+ex-i-q3: in the garden / school's / flowering / there are plants
+ex-j-q1: 'Make meaningful sentences using words from columns ಅ, ಆ and ಇ in order. ಅ: I, you, he, she, Ramesha, Kavita,
+  teachers, cows. ಆ: home. ಇ: go (plural), I go, will you go?, he goes, went, did not go, must go, she goes.'
+ex-j-q1-ans: 'Example: He goes home.'
+ex-j-p1: 'Remember: A sentence is a group of words that conveys a proper meaning.'
+ex-k-q1: 'Observe and copy these paired expressions: tender leaves and festoons, sweet and bitter, streams and hollows,
+  hills and mounds, pain and joy.'
+ex-l-p1: Identify the synonyms in brackets and write them as in the example. (cloth, flag, early morning, preparation,
+  readiness, dawn, banner, blossom, flower, clothing)
+ex-l-q1: 'Example: garment'
+ex-l-q1-ans: cloth, clothing
+ex-l-q2: flag — ___, ___
+ex-l-q3: dawn — ___, ___
+ex-l-q4: preparation — ___, ___
+ex-l-q5: flower — ___, ___
+ex-l-p2: 'Remember: Synonyms are different words that have the same meaning.'

@@ -1,0 +1,124 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  language: en
+  locale: en-IN
+labels:
+  competency: Competency
+  intro: Introduction
+  story: Story
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: Exercise A — Fill in the blanks with suitable words.
+  exercise-B: Exercise B — Answer in one sentence.
+  exercise-C: Exercise C — Answer in two or three sentences.
+  exercise-D: Exercise D — Give reasons for these statements.
+  exercise-E: Exercise E — Write who said these words and to whom.
+  exercise-F: Exercise F — Read the words and make your own sentences.
+  exercise-G: Competency-based activity A
+  exercise-H: Competency-based activity B
+  exercise-I: Language practice A
+  exercise-J: Language practice B
+  exercise-K: Language activity A
+competency: Identifying the main idea in a text. Answering “why” questions.
+intro-1: 'Identify the people in these pictures. These great people struggled for the country and to serve society.
+  [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 48, PDF page 61 (counting from 1),
+  portraits in the introduction.]'
+intro-2: Looking back at their childhood, we see admirable qualities alongside ordinary mischief. Let us learn about
+  the childhood and life of a leader who grew up with such qualities.
+story-n1: The school bell rang. All the children came out and headed home. Ripe mangoes in a roadside grove attracted
+  them. Wanting to eat the fruit, they entered the grove.
+story-n2: Some climbed the trees; others threw stones. They happily shared and ate the fruit they got. Hearing their
+  noise, the owner rushed over. Surprised by his sudden arrival, the children panicked and scattered.
+story-n3: But one boy did not run; he stayed where he was. The owner came closer and caught him.
+story-d1: Is this what your father, mother and teachers taught you?
+story-n10: 'he scolded. The boy began to cry. Then the owner said:'
+story-d2: Why are you crying? Have I hit you?
+story-n4: 'The boy humbly replied:'
+story-d3: What I did was wrong. I will never do it again. But I am sad that my father, mother and teachers have
+  been blamed for my mistake.
+story-n11: he said.
+story-n5: 'The boy''s innocent, honest words melted the owner''s heart. The owner said:'
+story-d4: Child, you have admitted your mistake. I like your honesty. Your ability to recognise and correct a mistake
+  will make you a great person.
+story-n12: Saying this, he comforted the boy, gave him more mangoes and sent him home. The boy who won the owner's
+  heart with his honesty was Lal Bahadur Shastri.
+story-n6: It was the time of India's freedom struggle. The movements led by Gandhiji attracted Shastri, and patriotism
+  surged within him. Alongside Gandhiji, he took part in many movements. Finally, India became independent on 15
+  August 1947.
+story-n7: Shastri served as Railway Minister in the cabinet of Jawaharlal Nehru, independent India's first Prime
+  Minister. Taking responsibility for a railway accident, even though it was not his fault, he showed nobility by
+  resigning as minister. After Nehru, he served as the country's Prime Minister.
+story-n8: In just eighteen months, his honesty and patriotic conduct made him known in homes across the country.
+story-n9: As an able administrator, messenger of peace and patriot, Shastri brought glory to the country. His slogan
+  “Jai Jawan, Jai Kisan”—hail the soldier, hail the farmer—remained in people's hearts. The Government of India
+  honoured his service with the Bharat Ratna award.
+vocab-praveshisu: enter
+vocab-praveshisu-def: go inside
+vocab-pramanikate: honesty
+vocab-pramanikate-def: worthy of trust
+vocab-odanata: companionship
+vocab-odanata-def: association; being together
+vocab-patake: banner
+vocab-patake-def: flag
+note-chaluvali: movement
+note-chaluvali-def: collective struggle or satyagraha
+note-mantrimandala: cabinet
+note-mantrimandala-def: a council of ministers
+note-ghoshane: proclamation
+note-ghoshane-def: saying aloud or announcing
+note-rajiname: resignation
+note-rajiname-def: a voluntarily written letter asking to be released from a job, position or office
+ex-a-q1: The fruit in the roadside ___ grove attracted them.
+ex-a-q2: ___ surged within Shastri.
+ex-a-q3: Alongside Gandhiji, Shastri took part in many ___.
+ex-a-q4: Our country became independent on ___ August 1947.
+ex-a-q5: India's first Prime Minister was ___.
+ex-a-q6: Shastri's slogan to the people was ___.
+ex-b-q1: Why did the children enter the grove?
+ex-b-q2: Why did the children panic?
+ex-b-q3: Why did the owner's heart soften?
+ex-b-q4: With which award did the government honour Shastri?
+ex-c-q1: What did the boy say to the owner?
+ex-c-q2: How did the owner comfort the boy?
+ex-c-q3: Why did Shastri resign as minister?
+ex-d-q1: The boy cried although the owner had not hit him.
+ex-d-q2: Shastri became a household name across the country.
+ex-e-q1: “Is this what your father, mother and teachers taught you?” Who said this? To whom?
+ex-e-q2: “I will never make such a mistake again.” Who said this? To whom?
+ex-e-q3: “This quality of yours will make you a great person.” Who said this? To whom?
+ex-f-q1: become a household name
+ex-f-q2: take responsibility
+ex-f-q3: surge up
+ex-f-q4: attract
+ex-g-p1: Look at these pictures and write one sentence explaining why each thing is needed.
+ex-g-q1: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 52, PDF page 65 (counting
+  from 1), first picture in activity ಅ.]'
+ex-g-q2: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 52, PDF page 65 (counting
+  from 1), second picture in activity ಅ.]'
+ex-g-q3: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 53, PDF page 66 (counting
+  from 1), first picture at the top of the page.]'
+ex-g-q4: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 53, PDF page 66 (counting
+  from 1), second picture at the top of the page.]'
+ex-h-p1: 'Look at the picture and answer the questions. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  printed page 53, PDF page 66 (counting from 1), overflowing bucket under a tap.]'
+ex-h-q1: Why is the water spilling?
+ex-h-q2: Why should the water be stopped from spilling?
+ex-i-q1: 'Make sentences as in the example. First column: you (singular), we, you (plural), he, she, they. Middle
+  column: the fruit. Last column: you (plural) ate, we ate, he ate, you (singular) ate, they ate, she ate.'
+ex-i-q1-ans: 'Example: I ate the fruit.'
+ex-j-p1: Observe the picture and make meaningful sentences.
+ex-j-q1: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 54, PDF page 67 (counting
+  from 1), upper picture in language practice ಆ.]'
+ex-j-q1-ans: 'Example: The cow is grazing on grass.'
+ex-j-q2: '[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 54, PDF page 67 (counting
+  from 1), lower picture in language practice ಆ.]'
+ex-k-p1: Find the meanings of these words in a dictionary and write them.
+ex-k-q1: ripe
+ex-k-q2: rush
+ex-k-q3: confusion
+ex-k-q4: leadership
+ex-k-p2: 'Hints for using a dictionary: Identify the first letter of the word whose meaning you need.'
+ex-k-p3: Use that letter to look up the word in the dictionary.
+ex-k-p4: Read the meanings given beside the word you found.

@@ -1,0 +1,613 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 3
+  subject: Kannada
+  chapter: 6
+  slug: ch06-esura-svagata
+  title: ಈಸೂರ ಸ್ವಗತ
+  source_url: https://diksha.gov.in/dial/X6D4P9
+  license: CC BY 4.0
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  story: ಸ್ವಗತ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಕಾರಣ ಕೊಡು.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಬಿಟ್ಟ ಸ್ಥಳವನ್ನು ಸರಿಯಾದ ಪದದಿಂದ ತುಂಬು.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಸರಿ ತಪ್ಪು ಗುರುತಿಸು.
+  exercise-E: ಅಭ್ಯಾಸ ಉ — ವಿರುದ್ಧಾರ್ಥಕ ಪದಗಳನ್ನು ಹೊಂದಿಸಿ ಬರೆ.
+  exercise-F: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಅ
+  exercise-G: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಆ
+  exercise-H: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಇ
+  exercise-I: ಭಾಷಾಭ್ಯಾಸ ಅ
+  exercise-J: ಭಾಷಾಭ್ಯಾಸ ಆ
+  exercise-K: ಭಾಷಾಭ್ಯಾಸ ಇ
+  exercise-L: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ
+  exercise-M: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ
+  exercise-N: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ
+segments:
+- id: competency
+  type: competency
+  text: ಅಕ್ಷರಗಳನ್ನು ಮತ್ತು ಪದಗಳನ್ನು ಸರಿಯಾದ ವಿನ್ಯಾಸ, ಅನುಕ್ರಮಣಿಕೆ ಹಾಗೂ ಸೂಕ್ತ ಅಂತರದೊಂದಿಗೆ ಬರೆಯುವುದು.
+- id: intro-1
+  type: prose
+  text: ನೀನು ವಿದ್ಯಾರ್ಥಿ. ನಿನ್ನಲ್ಲಿ ನಿನ್ನದೇ ಆದ ಕೆಲವು ವಸ್ತುಗಳಿವೆ ಅಲ್ಲವೇ? ನಿನ್ನ ವಸ್ತುಗಳನ್ನು ಯಾರಾದರೂ ಕಸಿದುಕೊಳ್ಳಲು ಬಂದರೆ
+    ಅದನ್ನು ಯಾರು ರಕ್ಷಿಸಬೇಕು? ಏಕೆ ರಕ್ಷಿಸಬೇಕು? ಹೇಗೆ ರಕ್ಷಿಸಿಕೊಳ್ಳುವೆ?
+  section: intro
+- id: intro-2
+  type: prose
+  text: ನಿಮ್ಮ ಮನೆ, ಹೊಲ ಮತ್ತಿತರ ಸಾಮಗ್ರಿಗಳನ್ನು ಯಾರಾದರೂ ಕಸಿದುಕೊಳ್ಳಲು ಬಂದರೆ ನೀನು ಏನು ಮಾಡುವೆ?
+  section: intro
+- id: intro-3
+  type: prose
+  text: ನಿಮ್ಮ ಊರಿಗೆ ಯಾರಾದರೂ ಕೇಡು ಮಾಡಲು ಬಂದರೆ ಊರನ್ನು ಯಾರು ರಕ್ಷಿಸಬೇಕು? ಈ ಬಗ್ಗೆ ಇಲ್ಲಿನ ಹೋರಾಟವನ್ನು ಗಮನಿಸು.
+  section: intro
+- id: story-n1
+  type: prose
+  text: “ಏಸೂರು ಕೊಟ್ಟರೂ ಈಸೂರು ಬಿಡೆವು”
+  section: story
+- id: story-n2
+  type: prose
+  text: ಕೇಳಿದಿರಲ್ಲ! ನನ್ನ ಮಡಿಲ ಮಕ್ಕಳ ಧೀರ ಮಾತುಗಳನ್ನ. ಏನು? ನಾನು ಯಾರೆಂದು ತಿಳಿಯುವ ಕುತೂಹಲವೇ? ಕೇಳಿ ನಾನು ಈಸೂರು ಎಂಬ ಗ್ರಾಮ.
+    ನಾನು ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ ಶಿಕಾರಿಪುರ ತಾಲ್ಲೂಕಿನಲ್ಲಿದ್ದೇನೆ. ಕುಮುದ್ವತಿ ನದಿಯ ಬಲದಂಡೆಯ ಮೇಲಿರುವ ನನ್ನ ಮಡಿಲಿನ ಮಕ್ಕಳು ತಮ್ಮದೇ
+    ಸರ್ಕಾರ ರಚಿಸಿಕೊಂಡು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಸ್ವಾತಂತ್ರ್ಯ ಪ್ರೇಮಿಗಳು, ನಾಡಿಗೆ ಕೀರ್ತಿ ತಂದವರು.
+  section: story
+- id: story-n3
+  type: prose
+  text: ನಮ್ಮನ್ನು ಬ್ರಿಟಿಷರು ಆಳುತ್ತಿದ್ದ ಕಾಲ. ನಾವು ಅವರ ಗುಲಾಮರಾಗಿ, ತುಂಬಾ ನೋವು, ಹಿಂಸೆ ಅನುಭವಿಸಬೇಕಾಗಿತ್ತು. ಬ್ರಿಟಿಷರನ್ನು
+    ಭಾರತದಿಂದ ಓಡಿಸಬೇಕು, ನಾವು ಸ್ವತಂತ್ರರಾಗಬೇಕು ಎಂಬ ಛಲ ಭಾರತೀಯರಲ್ಲಿ ಮೂಡಿತು. ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು “ಬ್ರಿಟಿಷರೇ, ಭಾರತ ಬಿಟ್ಟು
+    ತೊಲಗಿ” ಎಂಬ ಚಳುವಳಿ ಆರಂಭಿಸಿದರು.
+  section: story
+- id: story-n4
+  type: prose
+  text: ಇದರಿಂದ ಪ್ರೇರಿತರಾದ ನನ್ನ ಜನತೆ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರಕ್ಕೆ ತೆರಿಗೆ ಕೊಡದಂತೆ ಚಳುವಳಿ ನಡೆಸಿದರು. ಅಧಿಕಾರಿಗಳಿಗೆ ಹೆದರದಂತೆ ಜನರಿಗೆ
+    ಕರೆ ಕೊಟ್ಟರು. ಸರ್ಕಾರಿ ಅಧಿಕಾರಿಗಳಿಗೆ, ಕಛೇರಿಗಳಿಗೆ ಧಿಕ್ಕಾರ ಕೂಗಿದರು. 25 ಸೆಪ್ಟಂಬರ್ 1942ರಂದು ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರದ ಅಧಿಕಾರವನ್ನು
+    ಧಿಕ್ಕರಿಸಿದರು. “ಏಸೂರು ಕೊಟ್ಟರೂ ಈಸೂರು ಬಿಡೆವು” ಎಂಬ ಜನರ ಘೋಷಣೆ ಮುಗಿಲು ಮುಟ್ಟಿತು. ನನ್ನನ್ನು ‘ಸ್ವತಂತ್ರ ಹಳ್ಳಿ’ ಎಂದು ಸಾರಿದರು.
+    ತಮ್ಮದೇ ಆದ ಸರ್ಕಾರ ರಚಿಸಿಕೊಂಡು ಗ್ರಾಮದ ಆಡಳಿತ ನಡೆಸಲು ಪಣತೊಟ್ಟರು.
+  section: story
+- id: story-n5
+  type: prose
+  text: ಮರುದಿನ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರಿ ಅಧಿಕಾರಿಗಳಾದ ಪಟೇಲ್ ಚನ್ನಬಸವಯ್ಯ ಮತ್ತು ಶಾನುಭೋಗ ರಂಗನಾಥರಾವ್ ಕಂದಾಯದ ವಸೂಲಿಗೆ ನನ್ನಲ್ಲಿಗೆ
+    ಬಂದರು. ಖಾತೆ-ಕಿರ್ದಿ ಪುಸ್ತಕಗಳೊಂದಿಗೆ ಕಂದಾಯ ವಸೂಲಿಗೆ ಬಂದ ಅಧಿಕಾರಿಗಳನ್ನು ಹೋರಾಟಗಾರ ಯುವಕರು ವಿರೋಧಿಸಿದರು. “ರಾಜೀನಾಮೆ ಕೊಡಿ,
+    ಗಾಂಧಿ ಟೋಪಿ ಧರಿಸಿ” ಎಂದು ವಿನಂತಿಸಿದರು. ಮಾತಿನ ಚಕಮಕಿ ನಡೆಯಿತು. ವಿನಂತಿಗೆ ಒಪ್ಪದ ಅಧಿಕಾರಿಗಳಿಂದ ಹೋರಾಟಗಾರರು ಖಾತೆ-ಕಿರ್ದಿ
+    ಪುಸ್ತಕಗಳನ್ನು ಕಸಿದುಕೊಂಡರು. ಅಧಿಕಾರಿಗಳು ಸೋತರು. ತಾವು ತಂದ ಪುಸ್ತಕಗಳನ್ನು ಪಡೆಯಲಾಗದೆ ಹಿಂದಿರುಗಿದರು.
+  section: story
+- id: story-n6
+  type: prose
+  text: ಹೋರಾಟ ಅಲ್ಲಿಗೇ ನಿಲ್ಲಲಿಲ್ಲ. 1942 ಸೆಪ್ಟಂಬರ್ 27 ರಂದು ಸಂಜೆ ಗ್ರಾಮಸ್ಥರು ವೀರಭದ್ರ ದೇವಸ್ಥಾನದ ಮುಂದಿನ ಅಂಗಳದಲ್ಲಿ ಹಾರಿಸಿದ್ದ
+    ಧ್ವಜದ ಕೆಳಗೆ ಗುಪ್ತ ಸಭೆ ನಡೆಸಿದರು. ಭವಿಷ್ಯದ ಪ್ರಜೆಗಳಾದ ಮಕ್ಕಳನ್ನು ಒಳಗೊಂಡ ತಮ್ಮದೇ ಸರ್ಕಾರವನ್ನು ರಚಿಸಿ ನನ್ನ ರಕ್ಷಣೆಗೆ ನಿಂತರು.
+    ಮಕ್ಕಳಾದ ಸಾಹುಕಾರ್ ಜಯಣ್ಣನನ್ನು ಅಮಲ್ದಾರನನ್ನಾಗಿಯೂ, ಮಲ್ಲಪ್ಪಯ್ಯನನ್ನು ಪೊಲೀಸ್ ಅಧಿಕಾರಿಯನ್ನಾಗಿಯೂ ನೇಮಿಸಿದರು. ಇವರೊಂದಿಗೆ ಇತರೆ
+    ಮಕ್ಕಳೂ ಸೇರಿಕೊಂಡರು.
+  section: story
+- id: story-n7
+  type: prose
+  text: ಊರಿನ ಅಗಸೆ ಬಾಗಿಲಿನಲ್ಲಿ “ಬೇಜವಾಬ್ದಾರಿ ಸರ್ಕಾರಿ ಅಧಿಕಾರಿಗಳಿಗೆ ಈಸೂರಿನಲ್ಲಿ ಪ್ರವೇಶವಿಲ್ಲ” ಎಂಬ ಫಲಕವನ್ನು ತೂಗುಹಾಕಿದರು.
+    ಅಲ್ಲೇ ಕಛೇರಿಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಗಮನಿಸಿದಿರಾ ನನ್ನ ಮಡಿಲಿನ ಮಕ್ಕಳ ಸಾಹಸವನ್ನು?
+  section: story
+- id: story-n8
+  type: prose
+  text: ಖಾತೆ-ಕಿರ್ದಿ ಪುಸ್ತಕವನ್ನು ಪಡೆಯಲು ಪಟೇಲ್ ಚನ್ನಬಸವಯ್ಯ ಮತ್ತು ಶಾನುಭೋಗ ರಂಗನಾಥರಾವ್ ಮತ್ತೆ ಬಂದರು. ಮಕ್ಕಳಿಂದ ರಚನೆಯಾದ ಹೊಸ
+    ಸರ್ಕಾರದ ಅಧಿಕಾರಿಗಳು ಅವರಿಬ್ಬರನ್ನು ತಡೆದರು. ರಾಜೀನಾಮೆ ಕೊಟ್ಟು, ಗಾಂಧಿ ಟೋಪಿ ಹಾಕಿಕೊಂಡು, ತಾವು ರಚಿಸಿದ ಸರ್ಕಾರದಲ್ಲಿ ಕೆಲಸ
+    ಮಾಡಬೇಕೆಂದು ಅವರಿಗೆ ಆಜ್ಞೆ ಮಾಡಿದರು. ಇದಕ್ಕೆ ಅವರು ಒಪ್ಪಲಿಲ್ಲ. ಅವರಿಗೆ ಐವತ್ತು ರೂಪಾಯಿ ದಂಡ ವಿಧಿಸಲಾಯಿತು. ದಂಡ ಕಟ್ಟದ ಅವರಿಗೆ
+    ಮೂರು ಗಂಟೆ ಕಾಲ ಒಂಟಿ ಕಾಲಿನಲ್ಲಿ ನಿಲ್ಲುವಂತೆ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಯಿತು.
+  section: story
+- id: story-n9
+  type: prose
+  text: ಇದರಿಂದ ನನ್ನ ಮಡಿಲಿನ ಮಕ್ಕಳು ಅನುಭವಿಸಿದ ನೋವನ್ನು ನಿಮಗೆ ಹೇಳಲೇಬೇಕು.
+  section: story
+- id: story-n10
+  type: prose
+  text: ನನ್ನ ಮಕ್ಕಳ ಈ ಸಾಹಸವನ್ನು ತಿಳಿದ ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳು ಕೋಪಗೊಂಡರು. ತಾಲ್ಲೂಕಿನ ಅಮಲ್ದಾರರು, ಪೊಲೀಸ್ ಅಧಿಕಾರಿ ಮತ್ತು ಸಿಬ್ಬಂದಿಯೊಂದಿಗೆ
+    ಗ್ರಾಮಕ್ಕೆ ದಾಳಿಯಿಟ್ಟರು. ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳು ಗ್ರಾಮ ಪ್ರವೇಶಿಸದಂತೆ ಜನರು ಪ್ರತಿಭಟಿಸಿದರು. ಕೋಪಗೊಂಡ ಅಧಿಕಾರಿಗಳು ನಿರಾಯುಧ
+    ಜನರ ಮೇಲೆ ಲಾಠಿ ಬೀಸಿದರು. ಸಿಕ್ಕವರನ್ನೆಲ್ಲ ಚಚ್ಚಿದರು.
+  section: story
+- id: story-n11
+  type: prose
+  text: ರೊಚ್ಚಿಗೆದ್ದ ಜನರ ಪ್ರತಿಭಟನೆ ಹೆಚ್ಚಾಯಿತು. “ಏಸೂರು ಕೊಟ್ಟರೂ ಈಸೂರು ಬಿಡೆವು” ಎಂಬ ಘೋಷಣೆ ಮತ್ತೊಮ್ಮೆ ಮುಗಿಲು ಮುಟ್ಟಿತು.
+    ಪೊಲೀಸರು ತಾಳ್ಮೆ ಕಳೆದುಕೊಂಡು, ಜನರ ಮೇಲೆ ಗುಂಡು ಹಾರಿಸಿದರು. ರೊಚ್ಚಿಗೆದ್ದ ನಮ್ಮ ಜನರು ಅವರ ಮೇಲೆ ಮುಗಿಬಿದ್ದರು. ಅಮಲ್ದಾರ ಚನ್ನಕೃಷ್ಣಪ್ಪ
+    ಮತ್ತು ಪೊಲೀಸ್ ಅಧಿಕಾರಿ ಕೆಂಚೇಗೌಡ ಸತ್ತರು.
+  section: story
+- id: story-n12
+  type: prose
+  text: ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರಕ್ಕೆ ವಿಷಯ ಮುಟ್ಟಿತು. ಹೆಚ್ಚಿನ ಪೊಲೀಸ್ ಮತ್ತು ಸೈನ್ಯದಳವನ್ನು ಕಳಿಸಿ ಈಸೂರನ್ನು ಲೂಟಿ ಮಾಡಿಸಿತು. ಹೆಂಗಸರು
+    ಮಕ್ಕಳೆನ್ನದೆ ಅನೇಕರು ಚಿತ್ರಹಿಂಸೆಗೆ ಗುರಿಯಾದರು. ಸರ್ಕಾರದ ವಿರುದ್ಧ ಬಂಡೆದ್ದರೆಂದು ಹಲವರ ವಿರುದ್ಧ ಮೊಕದ್ದಮೆ ಹೂಡಲಾಯಿತು. ಮುಂದೆ
+    ಆ ವೀರರಲ್ಲಿ ಐವರು ಮರಣದಂಡನೆಗೆ ಗುರಿಯಾದರು.
+  section: story
+- id: story-n13
+  type: prose
+  text: ನನ್ನ ಜನರ ಸ್ವಾತಂತ್ರ್ಯ ಪ್ರೇಮ ಹಾಗೂ ಮಕ್ಕಳ ಧೈರ್ಯವು ಕನ್ನಡಿಗರ ಮನೆ ಮಾತಾಯಿತು. ಇಡೀ ಭಾರತದಲ್ಲೇ ಸ್ವಾತಂತ್ರ್ಯ ಪೂರ್ವದಲ್ಲಿ
+    ಮೊಟ್ಟ ಮೊದಲಿಗೆ ‘ಸ್ವತಂತ್ರ ಹಳ್ಳಿ’ ಎಂಬ ಹೆಸರನ್ನು ಪಡೆದ ನಾನೇ ಧನ್ಯ.
+  section: story
+- id: vocab-esuru
+  type: vocabulary_term
+  text: ಏಸೂರು
+- id: vocab-esuru-def
+  type: vocabulary_definition
+  text: ಎಷ್ಟು ಊರು
+  ref: vocab-esuru
+- id: vocab-dande
+  type: vocabulary_term
+  text: ದಂಡೆ
+- id: vocab-dande-def
+  type: vocabulary_definition
+  text: ದಡ
+  ref: vocab-dande
+- id: vocab-tolagu
+  type: vocabulary_term
+  text: ತೊಲಗು
+- id: vocab-tolagu-def
+  type: vocabulary_definition
+  text: ಹೋಗು
+  ref: vocab-tolagu
+- id: vocab-chaluvali
+  type: vocabulary_term
+  text: ಚಳುವಳಿ
+- id: vocab-chaluvali-def
+  type: vocabulary_definition
+  text: ಹೋರಾಟ
+  ref: vocab-chaluvali
+- id: vocab-prerita
+  type: vocabulary_term
+  text: ಪ್ರೇರಿತ
+- id: vocab-prerita-def
+  type: vocabulary_definition
+  text: ಪ್ರಚೋದಿತ
+  ref: vocab-prerita
+- id: vocab-terige
+  type: vocabulary_term
+  text: ತೆರಿಗೆ
+- id: vocab-terige-def
+  type: vocabulary_definition
+  text: ಕರ, ಕಂದಾಯ
+  ref: vocab-terige
+- id: vocab-dhikkarisu
+  type: vocabulary_term
+  text: ಧಿಕ್ಕರಿಸು
+- id: vocab-dhikkarisu-def
+  type: vocabulary_definition
+  text: ತಿರಸ್ಕರಿಸು
+  ref: vocab-dhikkarisu
+- id: vocab-pratibhatane
+  type: vocabulary_term
+  text: ಪ್ರತಿಭಟನೆ
+- id: vocab-pratibhatane-def
+  type: vocabulary_definition
+  text: ವಿರೋಧ
+  ref: vocab-pratibhatane
+- id: vocab-nirayudha
+  type: vocabulary_term
+  text: ನಿರಾಯುಧ
+- id: vocab-nirayudha-def
+  type: vocabulary_definition
+  text: ಆಯುಧವಿಲ್ಲದೆ
+  ref: vocab-nirayudha
+- id: vocab-lathi
+  type: vocabulary_term
+  text: ಲಾಠಿ
+- id: vocab-lathi-def
+  type: vocabulary_definition
+  text: ಬಿದಿರಿನ ಕೋಲು
+  ref: vocab-lathi
+- id: vocab-rochchigedda
+  type: vocabulary_term
+  text: ರೊಚ್ಚಿಗೆದ್ದ
+- id: vocab-rochchigedda-def
+  type: vocabulary_definition
+  text: ಕೋಪಗೊಂಡ
+  ref: vocab-rochchigedda
+- id: vocab-ghoshane
+  type: vocabulary_term
+  text: ಘೋಷಣೆ
+- id: vocab-ghoshane-def
+  type: vocabulary_definition
+  text: ಗಟ್ಟಿಯಾಗಿ ಕೂಗು
+  ref: vocab-ghoshane
+- id: vocab-luti
+  type: vocabulary_term
+  text: ಲೂಟಿ
+- id: vocab-luti-def
+  type: vocabulary_definition
+  text: ದೋಚು
+  ref: vocab-luti
+- id: vocab-bandelu
+  type: vocabulary_term
+  text: ಬಂಡೇಳು
+- id: vocab-bandelu-def
+  type: vocabulary_definition
+  text: ದಂಗೆ
+  ref: vocab-bandelu
+- id: vocab-dhritigedu
+  type: vocabulary_term
+  text: ಧೃತಿಗೆಡು
+- id: vocab-dhritigedu-def
+  type: vocabulary_definition
+  text: ಧೈರ್ಯಗುಂದು
+  ref: vocab-dhritigedu
+- id: vocab-phalaka
+  type: vocabulary_term
+  text: ಫಲಕ
+- id: vocab-phalaka-def
+  type: vocabulary_definition
+  text: ಬರಹದ ಹಲಗೆ
+  ref: vocab-phalaka
+- id: vocab-ajne
+  type: vocabulary_term
+  text: ಆಜ್ಞೆ
+- id: vocab-ajne-def
+  type: vocabulary_definition
+  text: ಆದೇಶ
+  ref: vocab-ajne
+- id: vocab-danda
+  type: vocabulary_term
+  text: ದಂಡ
+- id: vocab-danda-def
+  type: vocabulary_definition
+  text: ಜುಲ್ಮಾನೆ
+  ref: vocab-danda
+- id: vocab-harasu
+  type: vocabulary_term
+  text: ಹರಸು
+- id: vocab-harasu-def
+  type: vocabulary_definition
+  text: ಆಶೀರ್ವದಿಸು
+  ref: vocab-harasu
+- id: vocab-kaligalu
+  type: vocabulary_term
+  text: ಕಲಿಗಳು
+- id: vocab-kaligalu-def
+  type: vocabulary_definition
+  text: ವೀರರು
+  ref: vocab-kaligalu
+- id: vocab-agase
+  type: vocabulary_term
+  text: ಅಗಸೆ
+- id: vocab-agase-def
+  type: vocabulary_definition
+  text: ಊರ ಮುಂದಿನ ಹೆಬ್ಬಾಗಿಲು/ಮುಖ್ಯದ್ವಾರ
+  ref: vocab-agase
+- id: note-svatantryapurva
+  type: note_term
+  text: ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ
+- id: note-svatantryapurva-def
+  type: note_definition
+  text: ದೇಶ ಸ್ವತಂತ್ರವಾಗುವುದಕ್ಕೆ ಮುನ್ನ
+  ref: note-svatantryapurva
+- id: note-svatantrahalli
+  type: note_term
+  text: ಸ್ವತಂತ್ರ ಹಳ್ಳಿ
+- id: note-svatantrahalli-def
+  type: note_definition
+  text: ಪರಕೀಯರ ಆಡಳಿತದಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿದ ಗ್ರಾಮ.
+  ref: note-svatantrahalli
+- id: note-khatekirdi
+  type: note_term
+  text: ಖಾತೆ-ಕಿರ್ದಿ
+- id: note-khatekirdi-def
+  type: note_definition
+  text: ಮನೆ, ಭೂಮಾಲೀಕರ ವಿವರವಿರುವ ಕಂದಾಯ ದಾಖಲೆ ಪುಸ್ತಕ.
+  ref: note-khatekirdi
+- id: note-balidana
+  type: note_term
+  text: ಬಲಿದಾನ
+- id: note-balidana-def
+  type: note_definition
+  text: ಒಳಿತಿಗಾಗಿ ಮಾಡುವ ಜೀವದಾನ
+  ref: note-balidana
+- id: note-kandaya
+  type: note_term
+  text: ಕಂದಾಯ
+- id: note-kandaya-def
+  type: note_definition
+  text: ಮನೆ, ಭೂಮಿ, ವ್ಯಾಪಾರ, ವೃತ್ತಿ ಇತ್ಯಾದಿ ಗಳಿಕೆಯ ಮೇಲೆ ಸರ್ಕಾರ ವಿಧಿಸುವ ತೆರಿಗೆ.
+  ref: note-kandaya
+- id: note-mokaddame
+  type: note_term
+  text: ಮೊಕದ್ದಮೆ
+- id: note-mokaddame-def
+  type: note_definition
+  text: ಆಪಾದನೆಯನ್ನು ಆಧರಿಸಿ ಆಪಾದಿತನ ಮೇಲೆ ಆರೋಪ ಪಟ್ಟಿ ಸಿದ್ಧತೆ.
+  ref: note-mokaddame
+- id: note-amaldara
+  type: note_term
+  text: ಅಮಲ್ದಾರ
+- id: note-amaldara-def
+  type: note_definition
+  text: ತಾಲ್ಲೂಕಿನ ಭೂ ಕಂದಾಯ ಮುಂತಾದ ತೆರಿಗೆ ವಸೂಲು ಮಾಡಲು ಗೊತ್ತುಪಡಿಸಿರುವ ಅಧಿಕಾರಿ (ಈಗಿನ ತಹಸೀಲ್ದಾರ)
+  ref: note-amaldara
+- id: note-muktakantha
+  type: note_term
+  text: ಮುಕ್ತಕಂಠ
+- id: note-muktakantha-def
+  type: note_definition
+  text: ಸಂಕೋಚವಿಲ್ಲದೆ ನೇರವಾಗಿ ಹೇಳುವುದು
+  ref: note-muktakantha
+- id: note-svagata
+  type: note_term
+  text: ಸ್ವಗತ
+- id: note-svagata-def
+  type: note_definition
+  text: ತನಗೆ ತಾನೇ ಹೇಳಿಕೊಳ್ಳುವುದು
+  ref: note-svagata
+- id: ex-a-q1
+  type: question
+  text: ಈಸೂರು ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ?
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಗಾಂಧೀಜಿಯವರು ಆರಂಭಿಸಿದ ಚಳುವಳಿ ಯಾವುದು?
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಈಸೂರಿನ ಜನತೆ ಯಾರ ಅಧಿಕಾರವನ್ನು ಧಿಕ್ಕರಿಸಿದರು?
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ಈಸೂರಿನ ಜನತೆ ತಮ್ಮ ಹಳ್ಳಿಯನ್ನು ಏನೆಂದು ಘೋಷಿಸಿದರು?
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ಈಸೂರು ಜನರ ಘೋಷಣೆ ಏನು?
+  exercise: A
+- id: ex-a-q6
+  type: question
+  text: ಸ್ಥಳೀಯ ಸರ್ಕಾರದ ಅಮಲ್ದಾರ ಮತ್ತು ಪೊಲೀಸ್ ಅಧಿಕಾರಿಯ ಹೆಸರೇನು?
+  exercise: A
+- id: ex-a-q7
+  type: question
+  text: ಅಗಸೆ ಬಾಗಿಲಿನಲ್ಲಿ ಹಾಕಿದ್ದ ಫಲಕದಲ್ಲಿ ಏನೆಂದು ಬರೆದಿತ್ತು?
+  exercise: A
+- id: ex-a-q8
+  type: question
+  text: ಹೊಸ ಸರ್ಕಾರದ ಅಧಿಕಾರಿಗಳು ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳಿಗೆ ನೀಡಿದ ಆಜ್ಞೆ ಏನು?
+  exercise: A
+- id: ex-a-q9
+  type: question
+  text: ಸ್ವಗತ ಎಂದರೇನು?
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಈಸೂರು ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಗೆ ಹೆಸರು ತಂದಿತು.
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಹೊಸ ಸರ್ಕಾರದಲ್ಲಿ ಮಕ್ಕಳನ್ನು ಅಧಿಕಾರಿಗಳನ್ನಾಗಿ ಮಾಡಿದರು.
+  exercise: B
+- id: ex-c-q1
+  type: fill_blank
+  text: ಅಧಿಕಾರಿಗಳು ಕಂದಾಯ ವಸೂಲಿಗೆ ___ ಪುಸ್ತಕಗಳೊಂದಿಗೆ ಬಂದರು.
+  exercise: C
+- id: ex-c-q2
+  type: fill_blank
+  text: ದೇವಸ್ಥಾನದ ಮುಂದೆ ___ ಸಭೆ ನಡೆಸಿದರು.
+  exercise: C
+- id: ex-c-q3
+  type: fill_blank
+  text: ಅವರಿಗೆ ಐವತ್ತು ರೂಪಾಯಿ ___ ವಿಧಿಸಲಾಯಿತು.
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ಪಟೇಲ್ ಚನ್ನಬಸವಯ್ಯ ಮತ್ತು ಶಾನುಭೋಗ ರಂಗನಾಥರಾವ್ ಸ್ವತಂತ್ರ ಸರ್ಕಾರದ ಅಧಿಕಾರಿಗಳು. ( )
+  exercise: D
+- id: ex-d-q2
+  type: question
+  text: ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳು ಗ್ರಾಮ ಪ್ರವೇಶಿಸದಂತೆ ಜನರು ಪ್ರತಿಭಟಿಸಿದರು. ( )
+  exercise: D
+- id: ex-d-q3
+  type: question
+  text: ಈಸೂರಿನ ಸ್ವತಂತ್ರ ಸರ್ಕಾರದ ರಚನೆಯನ್ನು ತಿಳಿದ ಬ್ರಿಟಿಷ್ ಅಧಿಕಾರಿಗಳು ಸಂತಸಗೊಂಡರು. ( )
+  exercise: D
+- id: ex-e-p1
+  type: prose
+  text: 'ಆ: ಹೇಡಿ, ಗೆಲುವು, ನಿರ್ಗಮನ, ಮುಕ್ತಾಯ.'
+  exercise: E
+- id: ex-e-q1
+  type: question
+  text: ಆರಂಭ
+  exercise: E
+- id: ex-e-q2
+  type: question
+  text: ಪ್ರವೇಶ
+  exercise: E
+- id: ex-e-q3
+  type: question
+  text: ಸೋಲು
+  exercise: E
+- id: ex-e-q4
+  type: question
+  text: ಧೀರ
+  exercise: E
+- id: ex-f-p1
+  type: prose
+  text: ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳನ್ನು ನಕಲು ಮಾಡು.
+  exercise: F
+- id: ex-f-q1
+  type: question
+  text: “ಏಸೂರು ಕೊಟ್ಟರೂ ಈಸೂರು ಬಿಡೆವು”.
+  exercise: F
+- id: ex-f-q2
+  type: question
+  text: “ಬ್ರಿಟಿಷರೇ, ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ”.
+  exercise: F
+- id: ex-f-q3
+  type: question
+  text: “ಬೇಜವಾಬ್ದಾರಿ ಅಧಿಕಾರಿಗಳಿಗೆ ಈಸೂರಿಗೆ ಪ್ರವೇಶವಿಲ್ಲ”.
+  exercise: F
+- id: ex-g-p1
+  type: prose
+  text: ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳನ್ನು ಸರಿಯಾದ ಕ್ರಮದಲ್ಲಿ ಬರೆ.
+  exercise: G
+- id: ex-g-q1
+  type: question
+  text: ಆಳುತ್ತಿದ್ದರು ಹಿಂದೆ ಬ್ರಿಟಿಷರು ಭಾರತವನ್ನು
+  exercise: G
+- id: ex-g-q2
+  type: question
+  text: ಸ್ವಾತಂತ್ರ್ಯ ಈಸೂರಿನವರು ಪ್ರೇಮಿಗಳು
+  exercise: G
+- id: ex-h-q1
+  type: question
+  text: 'ಚಿತ್ರ ನೋಡಿ ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಬಳಸಿ ವಾಕ್ಯ ರಚಿಸಿ ಸೂಕ್ತ ವಿನ್ಯಾಸ ಹಾಗೂ ಅಂತರದೊಂದಿಗೆ ಬರೆ. (ದಾರ, ಬಟ್ಟೆ, ಹೆಂಗಸು,
+    ಪ್ಯಾಂಟು, ಸೀರೆ, ಲಂಗ, ಒಣಗಿಸು, ಸೂರ್ಯ) [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 44,
+    PDF ಪುಟ 57 (1ರಿಂದ ಎಣಿಕೆ), ಇ ಚಟುವಟಿಕೆಯ ಚಿತ್ರ.]'
+  exercise: H
+- id: ex-i-p1
+  type: prose
+  text: 'ಚಿತ್ರ ನೋಡಿ ಮಾದರಿಯಂತೆ ಬರೆ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 45, PDF
+    ಪುಟ 58 (1ರಿಂದ ಎಣಿಕೆ), ಗಾಡಿ, ಕುದುರೆ ಮತ್ತು ಗಿಳಿಗಳ ಚಿತ್ರಗಳು.]'
+  exercise: I
+- id: ex-i-q1
+  type: question
+  text: 'ಮಾದರಿ: ಗಾಡಿ'
+  exercise: I
+- id: ex-i-q1-ans
+  type: answer
+  text: ಗಾಡಿಗಳು
+  exercise: I
+  ref: ex-i-q1
+- id: ex-i-q2
+  type: question
+  text: ಕುದುರೆ
+  exercise: I
+- id: ex-i-q3
+  type: question
+  text: ಗಿಳಿ
+  exercise: I
+- id: ex-j-p1
+  type: prose
+  text: ಆವರಣದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸೂಕ್ತ ಪದ ಆರಿಸಿ ಮಾದರಿಯಂತೆ ಬಹುವಚನ ಪದಗಳನ್ನು ಬರೆ. (ಅಣ್ಣಂದಿರು, ಚಿಕ್ಕಮ್ಮಂದಿರು, ಚಿಕ್ಕಪ್ಪಂದಿರು,
+    ತಮ್ಮಂದಿರು, ಮಾವಂದಿರು, ಅಜ್ಜಂದಿರು)
+  exercise: J
+- id: ex-j-q1
+  type: question
+  text: 'ಮಾದರಿ: ಅಕ್ಕ'
+  exercise: J
+- id: ex-j-q1-ans
+  type: answer
+  text: ಅಕ್ಕಂದಿರು
+  exercise: J
+  ref: ex-j-q1
+- id: ex-j-q2
+  type: fill_blank
+  text: ಅಣ್ಣ — ___
+  exercise: J
+- id: ex-j-q3
+  type: fill_blank
+  text: ತಮ್ಮ — ___
+  exercise: J
+- id: ex-j-q4
+  type: fill_blank
+  text: ಚಿಕ್ಕಮ್ಮ — ___
+  exercise: J
+- id: ex-j-q5
+  type: fill_blank
+  text: ಅಜ್ಜ — ___
+  exercise: J
+- id: ex-j-q6
+  type: fill_blank
+  text: ಮಾವ — ___
+  exercise: J
+- id: ex-j-q7
+  type: fill_blank
+  text: ಚಿಕ್ಕಪ್ಪ — ___
+  exercise: J
+- id: ex-k-q1
+  type: question
+  text: 'ಚಿತ್ರವನ್ನು ಗಮನಿಸು. ಮಾದರಿಯಂತೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಇರುವುದನ್ನು ಬಹುವಚನದಲ್ಲಿ ಬರೆ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+    ಮುದ್ರಿತ ಪುಟ 46, PDF ಪುಟ 59 (1ರಿಂದ ಎಣಿಕೆ), ಭಾಷಾಭ್ಯಾಸ ಇ ಯ ಚಿತ್ರ.]'
+  exercise: K
+- id: ex-k-q1-ans
+  type: answer
+  text: 'ಮಾದರಿ: ಮನೆಗಳು'
+  exercise: K
+  ref: ex-k-q1
+- id: ex-k-p1
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಒಂದು ಎಂಬ ಅರ್ಥಕೊಡುವ ಪದಗಳು ಏಕವಚನ.'
+  exercise: K
+- id: ex-k-p2
+  type: prose
+  text: ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಎಂಬ ಅರ್ಥಕೊಡುವ ಪದಗಳು ಹಾಗೂ ಗೌರವ ಸೂಚಕ ಪದಗಳು ಬಹುವಚನ.
+  exercise: K
+- id: ex-l-p1
+  type: prose
+  text: ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಕೆಲವು ಅನ್ಯ ದೇಶೀಯ ಶಬ್ದಗಳನ್ನು ಓದಿ ತಿಳಿ.
+  exercise: L
+- id: ex-l-p2
+  type: prose
+  text: 'ಅರೇಬಿಕ್ ಪದ: ಖಾತೆ ಕಿರ್ದಿ, ಅಮಲ್ದಾರ, ಮೊಕದ್ದಮೆ, ಕಚೇರಿ, ಕುರ್ಚಿ.'
+  exercise: L
+- id: ex-l-p3
+  type: prose
+  text: 'ಇಂಗ್ಲಿಷ್: ಸ್ಕೂಟರ್, ಬಕೆಟ್, ನಿಕ್ಕರ್, ಪ್ಯಾಂಟ್, ಬ್ಯಾಂಕ್.'
+  exercise: L
+- id: ex-l-p4
+  type: prose
+  text: 'ಹಿಂದೂಸ್ಥಾನಿ: ಟೋಪಿ, ಗಡಿಯಾರ, ಗಾಡಿ, ಗಿರಾಕಿ, ಗಾಬರಿ.'
+  exercise: L
+- id: ex-l-p5
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಒಂದು ಭಾಷೆಯ ಮೂಲ ಪದಗಳನ್ನು ದೇಶ್ಯ ಶಬ್ದಗಳೆಂದು, ಬೇರೆ ಭಾಷೆಗಳಿಂದ ತೆಗೆದುಕೊಂಡ ಶಬ್ದಗಳನ್ನು ಅನ್ಯದೇಶ್ಯ
+    ಶಬ್ದಗಳೆಂದು ಕರೆಯುವರು.'
+  exercise: L
+- id: ex-m-p1
+  type: prose
+  text: ನುಡಿಗಟ್ಟುಗಳ ಅರ್ಥ ತಿಳಿ.
+  exercise: M
+- id: ex-m-p2
+  type: prose
+  text: ಎತ್ತಿದ ಕೈ — ಪ್ರವೀಣ; ನಿಪುಣ
+  exercise: M
+- id: ex-m-p3
+  type: prose
+  text: ಕಬ್ಬಿಣದ ಕಡಲೆ — ಕಠಿಣವಾದ ವಿಷಯ
+  exercise: M
+- id: ex-m-p4
+  type: prose
+  text: ತಲೆ ಹಾಕು — ಮಧ್ಯೆ ಪ್ರವೇಶಿಸು
+  exercise: M
+- id: ex-m-p5
+  type: prose
+  text: ಎಳ್ಳಷ್ಟು — ಅತ್ಯಲ್ಪ
+  exercise: M
+- id: ex-m-p6
+  type: prose
+  text: ರೈಲುಬಿಡು — ಸುಳ್ಳು ಹೇಳು
+  exercise: M
+- id: ex-m-p7
+  type: prose
+  text: ಕಾಲುತೆಗೆ — ಹೊರಡು
+  exercise: M
+- id: ex-n-p1
+  type: prose
+  text: ವಾಕ್ಯದಲ್ಲಿನ ಬಿಟ್ಟ ಸ್ಥಳವನ್ನು ಹಿಂದೆ ಕೊಟ್ಟಿರುವ ನುಡಿಗಟ್ಟುಗಳಲ್ಲಿ ಸೂಕ್ತವಾದುದನ್ನು ಆರಿಸಿ ಬರೆದು ವಾಕ್ಯ ಪೂರ್ಣ ಮಾಡು.
+  exercise: N
+- id: ex-n-q1
+  type: fill_blank
+  text: ರಾಜು ಕೆಲಸ ಮಾಡುವುದರಲ್ಲಿ ___
+  exercise: N
+- id: ex-n-q2
+  type: fill_blank
+  text: ಅವರು ಮಾತನಾಡುವಾಗ ನಾನು ಅನವಶ್ಯಕವಾಗಿ ___
+  exercise: N
+- id: ex-n-q3
+  type: fill_blank
+  text: ಕೆಲವರು ತಮಗೆ ಗೊತ್ತಿಲ್ಲದಿದ್ದರೂ ಸುಮ್ಮನೆ ___
+  exercise: N
+- id: ex-n-q4
+  type: fill_blank
+  text: ಅಮ್ಮ ಕೆಲಸ ಹೇಳಿದರೆ ನನ್ನ ತಮ್ಮ ___
+  exercise: N
+- id: ex-n-p2
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ನುಡಿಗಟ್ಟು ಎಂದರೆ ವಿಶಿಷ್ಟವಾದ ಮಾತಿನ ಜೋಡಣೆ.'
+  exercise: N
+- id: ex-n-q5
+  type: question
+  text: ವೃತ್ತ ಪತ್ರಿಕೆಯಲ್ಲಿರುವ ಮುದ್ರಿತ ಅಕ್ಷರಗಳು, ದಪ್ಪ ಅಕ್ಷರಗಳು, ಸಣ್ಣ ಅಕ್ಷರಗಳು, ಪದಗಳನ್ನು ಕತ್ತರಿಸಿ ಅಂಟಿಸುವುದು.
+  exercise: N

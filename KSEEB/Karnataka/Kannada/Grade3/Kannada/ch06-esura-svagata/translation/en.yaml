@@ -1,0 +1,201 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  language: en
+  locale: en-IN
+labels:
+  competency: Competency
+  intro: Introduction
+  story: Soliloquy
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: Exercise A — Answer in one sentence.
+  exercise-B: Exercise B — Give reasons.
+  exercise-C: Exercise C — Fill in the blanks with the right words.
+  exercise-D: Exercise D — Mark true or false.
+  exercise-E: Exercise E — Match the opposites.
+  exercise-F: Competency-based activity A
+  exercise-G: Competency-based activity B
+  exercise-H: Competency-based activity C
+  exercise-I: Language practice A
+  exercise-J: Language practice B
+  exercise-K: Language practice C
+  exercise-L: Language activity A
+  exercise-M: Language activity B
+  exercise-N: Language activity C
+competency: Writing letters and words with correct formation, sequence and spacing.
+intro-1: You are a pupil. You have some belongings of your own, don't you? If someone tries to take them away, who
+  should protect them? Why? How would you protect them?
+intro-2: What would you do if someone tried to take away your home, field or other belongings?
+intro-3: If someone came to harm your village, who should protect it? Read about the struggle described here.
+story-n1: “Whatever villages we may give up, we will not give up Esuru.”
+story-n2: 'You heard the brave words of my children! What? Are you curious to know who I am? Listen: I am the village
+  of Esuru, in Shikaripura taluk of Shivamogga district, on the right bank of the Kumudvati River. My children loved
+  freedom. They formed their own government, fought the British and brought honour to our land.'
+story-n3: It was the time of British rule. As their subjects, we suffered much pain and oppression. Indians became
+  determined to drive the British out and be free. Mahatma Gandhi began the movement, “British, Quit India.”
+story-n4: Inspired by this, my people launched a movement to refuse taxes to the British government. They urged
+  people not to fear officials and raised slogans against government officials and offices. On 25 September 1942,
+  they defied British authority. Their cry, “Whatever villages we may give up, we will not give up Esuru,” reached
+  the skies. They declared me an “independent village” and pledged to form their own government and run the village.
+story-n5: The next day, British officials Patel Channabasavayya and village accountant Ranganath Rao came to collect
+  revenue with their account books. Young protesters opposed them and requested, “Resign and wear Gandhi caps.”
+  An argument followed. When the officials refused, the protesters took away their account books. The officials
+  were defeated and returned without retrieving them.
+story-n6: The struggle did not end there. On the evening of 27 September 1942, the villagers held a secret meeting
+  under the flag in the courtyard before the Veerabhadra temple. They formed their own government, including children—the
+  citizens of the future—to protect me. They appointed the children Sahukar Jayanna as revenue officer and Mallappayya
+  as police officer. Other children joined them.
+story-n7: 'At the village gateway they hung a sign: “Irresponsible government officials may not enter Esuru.” They
+  opened their office there. Did you notice the courage of my children?'
+story-n8: Patel Channabasavayya and Ranganath Rao returned for their account books. The child officials of the new
+  government stopped them and ordered them to resign, wear Gandhi caps and work for the new government. They refused.
+  They were fined fifty rupees. When they did not pay, they were punished by being made to stand on one leg for
+  three hours.
+story-n9: I must tell you of the suffering my children faced because of this.
+story-n10: The British officials were angered by the children's bold action. The taluk revenue officer raided the
+  village with a police officer and staff. The people protested to prevent them from entering. The angry officials
+  struck the unarmed people with batons, beating everyone they could catch.
+story-n11: The enraged people's protest grew stronger. Again the slogan “Whatever villages we may give up, we will
+  not give up Esuru” rang out. The police lost patience and fired on the people. The furious villagers rushed at
+  them. Revenue officer Channakrishnappa and police officer Kenchegowda died.
+story-n12: The British government heard the news. It sent more police and troops and had Esuru plundered. Many people,
+  including women and children, were tortured. Cases were filed against several people for rebelling against the
+  government. Later, five of those brave people were sentenced to death.
+story-n13: My people's love of freedom and my children's courage became known in every Kannada home. I am blessed
+  to have been the first in all India to be called an “independent village” before independence.
+vocab-esuru: how many villages
+vocab-esuru-def: any number of villages
+vocab-dande: bank
+vocab-dande-def: shore
+vocab-tolagu: go away
+vocab-tolagu-def: go
+vocab-chaluvali: movement
+vocab-chaluvali-def: struggle
+vocab-prerita: inspired
+vocab-prerita-def: motivated
+vocab-terige: tax
+vocab-terige-def: tax; revenue
+vocab-dhikkarisu: defy
+vocab-dhikkarisu-def: reject
+vocab-pratibhatane: protest
+vocab-pratibhatane-def: opposition
+vocab-nirayudha: unarmed
+vocab-nirayudha-def: without weapons
+vocab-lathi: baton
+vocab-lathi-def: bamboo stick
+vocab-rochchigedda: enraged
+vocab-rochchigedda-def: angered
+vocab-ghoshane: slogan; proclamation
+vocab-ghoshane-def: shout loudly
+vocab-luti: plunder
+vocab-luti-def: rob
+vocab-bandelu: rebel
+vocab-bandelu-def: rebellion
+vocab-dhritigedu: lose courage
+vocab-dhritigedu-def: become disheartened
+vocab-phalaka: signboard
+vocab-phalaka-def: a board with writing
+vocab-ajne: command
+vocab-ajne-def: order
+vocab-danda: fine
+vocab-danda-def: monetary penalty
+vocab-harasu: bless
+vocab-harasu-def: give blessings
+vocab-kaligalu: heroes
+vocab-kaligalu-def: brave people
+vocab-agase: village gateway
+vocab-agase-def: the main gateway at the entrance to a village
+note-svatantryapurva: before independence
+note-svatantryapurva-def: before the country became independent
+note-svatantrahalli: independent village
+note-svatantrahalli-def: A village freed from foreign rule.
+note-khatekirdi: revenue accounts
+note-khatekirdi-def: A revenue record book containing details of house and land owners.
+note-balidana: sacrifice
+note-balidana-def: giving one's life for a good cause
+note-kandaya: revenue
+note-kandaya-def: A tax levied by the government on houses, land, trade, professions and related earnings.
+note-mokaddame: legal case
+note-mokaddame-def: Preparation of a charge sheet against an accused person based on an allegation.
+note-amaldara: revenue officer
+note-amaldara-def: an officer appointed to collect land revenue and other taxes in a taluk (the present-day tahsildar)
+note-muktakantha: openly
+note-muktakantha-def: speaking directly without hesitation
+note-svagata: soliloquy
+note-svagata-def: speaking to oneself
+ex-a-q1: In which district is Esuru?
+ex-a-q2: Which movement did Gandhiji start?
+ex-a-q3: Whose authority did the people of Esuru defy?
+ex-a-q4: What did Esuru's people declare their village to be?
+ex-a-q5: What was the slogan of Esuru's people?
+ex-a-q6: What were the names of the local government's revenue officer and police officer?
+ex-a-q7: What was written on the sign at the village gateway?
+ex-a-q8: What order did the new government's officers give the British officials?
+ex-a-q9: What is a soliloquy?
+ex-b-q1: Esuru brought fame to Shivamogga district.
+ex-b-q2: Children were made officials in the new government.
+ex-c-q1: The officials came to collect revenue with ___ books.
+ex-c-q2: They held a ___ meeting in front of the temple.
+ex-c-q3: A ___ of fifty rupees was imposed on them.
+ex-d-q1: Patel Channabasavayya and Ranganath Rao were officials of the independent government. ( )
+ex-d-q2: The people protested to stop British officials from entering the village. ( )
+ex-d-q3: The British officials were pleased to hear of Esuru's independent government. ( )
+ex-e-p1: 'Column B: coward, victory, exit, end.'
+ex-e-q1: beginning
+ex-e-q2: entry
+ex-e-q3: defeat
+ex-e-q4: brave person
+ex-f-p1: Copy the given sentences.
+ex-f-q1: “Whatever villages we may give up, we will not give up Esuru.”
+ex-f-q2: “British, Quit India.”
+ex-f-q3: “Irresponsible officials may not enter Esuru.”
+ex-g-p1: Write these sentences in the correct order.
+ex-g-q1: ruled / formerly / the British / India
+ex-g-q2: freedom / the people of Esuru / lovers
+ex-h-q1: 'Look at the picture, make sentences using the given words, and write them with proper formation and spacing.
+  (line, clothes, woman, trousers, sari, skirt, dry, sun) [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  printed page 44, PDF page 57 (counting from 1), picture in activity ಇ.]'
+ex-i-p1: 'Look at the pictures and write as in the example. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  printed page 45, PDF page 58 (counting from 1), pictures of carts, horses and parrots.]'
+ex-i-q1: 'Example: cart'
+ex-i-q1-ans: carts
+ex-i-q2: horse
+ex-i-q3: parrot
+ex-j-p1: Choose the suitable word in brackets and write the plural as in the example. (elder brothers, aunts, younger
+  uncles, younger brothers, maternal uncles, grandfathers)
+ex-j-q1: 'Example: elder sister'
+ex-j-q1-ans: elder sisters
+ex-j-q2: elder brother — ___
+ex-j-q3: younger brother — ___
+ex-j-q4: aunt — ___
+ex-j-q5: grandfather — ___
+ex-j-q6: maternal uncle — ___
+ex-j-q7: younger uncle — ___
+ex-k-q1: 'Observe the picture. As in the example, name in the plural the things of which there is more than one.
+  [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 46, PDF page 59 (counting from 1),
+  language practice ಇ picture.]'
+ex-k-q1-ans: 'Example: houses'
+ex-k-p1: 'Remember: Words that mean one are singular.'
+ex-k-p2: Words that mean more than one, and words expressing respect, are plural.
+ex-l-p1: Read and learn these words borrowed from other languages.
+ex-l-p2: 'Arabic words: revenue accounts, revenue officer, lawsuit, office, chair.'
+ex-l-p3: 'English: scooter, bucket, shorts, trousers, bank.'
+ex-l-p4: 'Hindustani: cap, clock, cart, customer, panic.'
+ex-l-p5: 'Remember: Words native to a language are called native words; those taken from other languages are called
+  borrowed words.'
+ex-m-p1: Learn the meanings of the idioms.
+ex-m-p2: A raised hand — expert; skilled
+ex-m-p3: Iron gram — a difficult matter
+ex-m-p4: Put one's head in — intervene
+ex-m-p5: As much as a sesame seed — very little
+ex-m-p6: Send off a train — tell lies
+ex-m-p7: Lift one's foot — leave
+ex-n-p1: Choose a suitable idiom from those given above to fill each blank and complete the sentence.
+ex-n-q1: Raju is ___ at doing work.
+ex-n-q2: While they were talking, I unnecessarily ___.
+ex-n-q3: Some people, even when they do not know, simply ___.
+ex-n-q4: When Mother asks him to work, my younger brother ___.
+ex-n-p2: 'Remember: An idiom is a distinctive combination of words.'
+ex-n-q5: Cut out and paste printed letters, bold letters, small letters and words from a newspaper.

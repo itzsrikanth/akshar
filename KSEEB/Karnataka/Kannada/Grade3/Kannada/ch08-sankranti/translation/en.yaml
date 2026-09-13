@@ -1,0 +1,95 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  language: en
+  locale: en-IN
+labels:
+  competency: Competency
+  intro: Introduction
+  poem: Poem
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: Exercise A — Answer in one sentence.
+  exercise-B: Exercise B
+  exercise-C: Competency-based exercise A
+  exercise-D: Competency-based exercise B
+  exercise-E: Language practice A
+  exercise-F: Language practice B
+  exercise-G: Language activity A
+competency: Reading a text, identifying its main idea, and recounting events in order.
+intro-1: There are many festivals. Each is celebrated differently and has something special about it.
+intro-2: Learn how the festival described here is celebrated. Compare it with a festival you celebrate and share
+  the differences with your friends.
+poem-s1l1: The festival is here, the festival is here,
+poem-s1l2: The festival, the festival is here!
+poem-s1l3: At last it has brought us
+poem-s1l4: Bundles and bundles of sugarcane!
+poem-s2l1: A crisp, rustling, zari-bordered
+poem-s2l2: Skirt she wears!
+poem-s2l3: Her little ankle bells
+poem-s2l4: Go jingle, jingle!
+poem-s3l1: Sesame, sugarcane, moulded sugar sweets,
+poem-s3l2: Bananas and jaggery too!
+poem-s3l3: Little sister has set off to share them
+poem-s3l4: With everyone in the neighbourhood.
+poem-s4l1: Off goes our tiny little sister,
+poem-s4l2: Together with her friend!
+poem-s4l3: A colourful doll from Rangenahalli—
+poem-s4l4: Look to your heart's content!
+poem-s5l1: Scraping the horns and painting them,
+poem-s5l2: The bullocks, cows and calves—
+poem-s5l3: Father leads them across the fire, then gives them
+poem-s5l4: Rice, jaggery and fruit!
+poem-s6l1: Seating all the children on a ceremonial seat,
+poem-s6l2: Sesame, jujubes and sugar sweets—
+poem-s6l3: Mother and Grandmother shower them over the children;
+poem-s6l4: Oh, how the children love it!
+vocab-biru: distribute
+vocab-biru-def: share; hand out
+vocab-kante: bundle
+vocab-kante-def: bunch
+vocab-keri: neighbourhood
+vocab-keri-def: lane
+vocab-kichchu: fire
+vocab-kichchu-def: flame; fire
+vocab-jodi: pair
+vocab-jodi-def: company; together
+note-hase: ceremonial seat
+note-hase-def: a seat arranged for auspicious ceremonies
+note-jaratari: zari fabric
+note-jaratari-def: cloth decorated with metallic zari thread
+note-elachi: jujube
+note-elachi-def: a kind of fruit
+note-garimuri: crisp new cloth
+note-garimuri-def: cloth whose folds are still crisp
+ex-a-q1: What kind of skirt was little sister wearing?
+ex-a-q2: Why did little sister go into the neighbourhood with her friend?
+ex-a-q3: What did Father give the cattle and calves?
+ex-a-q4: What do they do after seating the children on the ceremonial seat?
+ex-a-q5: Who wrote the poem “Sankranti”?
+ex-b-p1: 'Match the phrases in list ಅ with those in list ಬ. ಬ: 1. Little sister, to the whole neighbourhood; 2.
+  Rice, jaggery and fruit; 3. The children love it; 4. Wearing a skirt; 5. Look to your heart''s content.'
+ex-b-q1: Crisp, rustling zari fabric
+ex-b-q2: She has set off to distribute
+ex-b-q3: The colourful doll of Rangenahalli
+ex-b-q4: Father leads them across the fire and gives
+ex-b-q5: When Mother and Grandmother shower them
+ex-c-p1: Use the text to put these events in order and write them.
+ex-c-q1: Mother and Grandmother seat the children on a ceremonial seat and shower sesame, jujubes and sugar sweets
+  over them.
+ex-c-q2: Little sister went with her friend to distribute sesame and jaggery.
+ex-c-q3: Little sister put on a crisp, rustling zari skirt.
+ex-c-q4: The bullocks, cows and calves were decorated by scraping and painting their horns.
+ex-d-q1: Recall four things that happen at home between getting up in the morning and leaving for school. Write
+  them in order.
+ex-e-p1: 'Remember: Words denoting males are masculine, words denoting females are feminine, and words denoting
+  neither are neuter.'
+ex-e-p2: Rewrite the sentences according to the instructions in brackets.
+ex-e-q1: The girl brought vegetables. (Write this in the masculine form.)
+ex-e-q2: Raju pulled the cart. (Replace “Raju” with “bullock” and form the sentence.)
+ex-e-q3: The elder and younger brothers were like friends. (Write this in the feminine form.)
+ex-f-q1: Classify these Kannada words as masculine, feminine or neuter. (book, queen, younger brother, table, wall,
+  king, younger sister, elder sister, younger brother, school, elder brother, younger sister, father, mother, sister,
+  male friend, chair, female friend)
+ex-g-q1: Choose and write the rhyming words in the poem “Sankranti.”

@@ -1,0 +1,165 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  script: latin
+labels:
+  competency: Saamarthya
+  intro: Pravesha
+  story: Paatha
+  vocab: Padagala artha
+  notes: Tippani
+  exercise-A: Abhyaasa a — ondu vaakyadalli uttarisu.
+  exercise-B: Abhyaasa aa — eradu/mooru vaakyagalalli uttarisu.
+  exercise-C: Abhyaasa i — kaarana kodu.
+  exercise-D: Abhyaasa ee — ee maatugalannu yaaru? Yaarige helidaru? Endu bare.
+  exercise-E: Abhyaasa u — ee padagalannu balasi svanta vaakya rachisu.
+  exercise-F: Saamarthyaadhaarita abhyaasa a — sari-tappu gurutisu.
+  exercise-G: Saamarthyaadhaarita abhyaasa aa — uttarisu.
+  exercise-H: Saamarthyaadhaarita abhyaasa i
+  exercise-I: Bhaashaabhyaasa a
+  exercise-J: Bhaashaabhyaasa aa
+  exercise-K: Bhaashaa chatuvatike a
+  exercise-L: Bhaashaa chatuvatike aa
+competency: Taragatiyalli nadeyuva samvaadadalli bhaagavahisuvudu. Gumpinalli maatanaaduvaaga saradiyannu anusarisuvudu.
+intro-1: Naavu habbagalannu aacharisutteve. Habba aacharisalu kelavu siddhategalu beku.
+intro-2: Ella siddhategalannu obbare maadabekaadare tondare allave? Haagaadare aa tondare nivaarisalu enu maadabeku
+  emba kutoohalave?
+intro-3: Shaaleyalli gurugalu haagoo vidyaarthigalu anusarisida kramavannu gamanisi tili.
+story-n1: Biduvina samaya. Mukhya gurugalu shaalaa vidyaarthi mantrimandalada sabhe karedaru. Mantrigalu sabhege
+  bandaru.
+story-d1: Makkale, idu aagast tingalu. Ee tingalalli aacharisuva raashtreeya habba yaavudu? Nee helaballeyaa raaju?
+story-d2: Svaatantrya dinaacharane sar.
+story-d3: Heege ellaroo ottaagi maatanaadabaaradu. Saradi anusarisabeku tiliyite? Sari, raaju neenu helu, svaatantrya
+  dinaacharane endarenu?
+story-d4: Namma desha svatantravaada dinada nenapigaagi prati varsha deshadaadyanta aacharisuva habba.
+story-d5: Svatantravaada dina! Haagendarenu sar?
+story-d6: Hinde namma deshavannu britisharu aaluttiddaru. Deshada svaabhimaani janaru gaandheejiyavara netrutvadalli
+  avara viruddha horaadi svaatantrya tandukottaru. Avara deshaabhimaana, tyaaga haagoo balidaanadinda 1947 aagast
+  15 randu namma desha svatantravaayitu. Desha svatantravaada savi nenapige prati varsha deshaadyanta aacharisuva
+  habbave svaatantrya dinaacharane.
+story-d7: Namma shaaleyalloo aacharisuttevalla sar?
+story-d8: Haudu, adakkaagi eeginindale siddhate maadikollabeku.
+story-d9: Enenu siddhate maadabekide? Heli sar.
+story-d10: Aatota spardhe erpadisabeku. Saanskrutika kaaryakrama nadesikoduvavarannu gurutisabeku. Maidaanavannu
+  svachchhagolisabeku. Shaaleyannu taliru toranagalinda alankarisabeku.
+story-d11: Gurugale, naavu kelasa hanchikondu siddhate maadutteve.
+story-d12: Santosha. Yaaru yaaru, yaava yaava kelasagalannu hanchikolluviri?
+story-d13: Sar, mantri mandalada ella sadasyaru seri aatota spardhe nadesi vijetara pattiyannu siddhapadisutteve.
+story-n2: (Shaahin mattu aishvarya maatanaaduttiddaru)
+story-d14: Shaahin, aishvarya obbaru maataaduvaaga nimma nimmolage maataadabaaradu. Itarara abhipraayavannu kelisikollabeku.
+story-d15: Kshamisi sar, innu mele gamanavittu kelutteve.
+story-d16: Hnyaa! Jaana makkalu.
+story-d17: Sar, naavu naalkaneya taragatiyavaru shaaleya maidaanavannu svachchhagolisutteve.
+story-d18: Naanu saanskrutika kaaryakrama needuvavara patti siddhapadisuttene.
+story-d19: Naavu eradaneya taragatiyavaru bannada kaagadadinda torana kattutteve.
+story-d20: Naavu mooraneya taragatiyavaru dhvajastambhavannu singarisutteve sar.
+story-d21: Dhvaja stambhada sutta rangavalli haakidare chennaagiruttade.
+story-d22: Olleya salahe, pankaja chennaagi rangavalli haakuttaale. Avalinda haakisonave sar?
+story-d23: Olleyadu, meriya salahe ellarigoo oppigeye?
+story-d24: O.... Aagabahudu sar.
+story-d25: Alankaarakke saamagrigalannu taruvavaru yaaru?
+story-d26: Namma totadinda maavina taliru, baalekamba taruttene. Ellaroo seri shaaleyannu singarisona.
+story-d27: Naavu aidaneya taragatiyavaru raashtra naayakara bhaava chitragalige hoovina haara haaki alankarisutteve.
+  Sar matte... (Maatu munduvarisuvalu)
+story-d28: Aishvaryaa, itararigoo maatanaadalu avakaasha kodabekallave?
+story-d29: Naanu ondaneya taragatiyavarodane seri shaalaa kaitotadinda hoogalannu bidisi taruttene.
+story-d30: Sari, haagaadare naanu kaaryakramakke baruvante atithigalannu aamantrisuttene. Nimma kelasagalalli shikshakaru
+  maargadarshana needuttaare. Mundina siddhate maadikolli.
+story-n3: (Ellaroo shikshakara maargadarshanadalli tamma kelasakke poorva tayaari maadikondaru.)
+story-n4: Svaatantrya dinaacharaneya dinadandu makkalu nasukinalliye eddu siddharaadaru. Samavastra dharisi shaalege
+  bandaru.
+story-n5: Ellaroo taavu vahisikondidda kelasavannu poornagolisidaru. Gurugalondige jayaghosha haakutta prabhaatapheriyalli
+  paalgondaru. Makkala shistannu nodi graamastharu santoshapattaru.
+story-n6: Shaalaa maidaanadalli panchaayiti adhyaksharu dhvajaarohana maadidaru. Ellaroo raashtrageete haadidaru.
+  Anantara nadeda sabhaa kaaryakramadalli mukhya gurugalu svaatantrya horaatagaarara tyaaga mattu deshabhaktiya
+  kuritu maatanaadidaru.
+story-n7: Aatota spardheyalli vijetaraadavarige mukhya atithigalu bahumaana vitarisidaru. Koneyalli makkalu saanskrutika
+  kaaryakrama nadesikottaru. Neredidda janaru santoshadinda chappaale tattidaru. Ellaroo sihi savidu kaaryakrama
+  meluku haakuttaa teralidaru.
+vocab-rashtra: Raashtra
+vocab-rashtra-def: Desha
+vocab-saradi: Saradi
+vocab-saradi-def: Anukrama
+vocab-svabhimana: Svaabhimaana
+vocab-svabhimana-def: Aatmagaurava
+vocab-spardhe: Spardhe
+vocab-spardhe-def: Paipoti
+vocab-taliru: Taliru
+vocab-taliru-def: Chiguru
+vocab-abhipraya: Abhipraaya
+vocab-abhipraya-def: Anisike
+vocab-dhvajastambha: Dhvajastambha
+vocab-dhvajastambha-def: Baavuta haarisuva kamba
+vocab-bhavachitra: Bhaavachitra
+vocab-bhavachitra-def: Vyaktiya chitra
+vocab-amantrisu: Aamantrisu
+vocab-amantrisu-def: Aahvaanisu
+vocab-nere: Nere
+vocab-nere-def: Ottaagu; gumpu seru
+vocab-margadarshana: Maargadarshana
+vocab-margadarshana-def: Tiliheluvudu, daaritoruvudu
+vocab-nasuku: Nasuku
+vocab-nasuku-def: Munjaane, belagina jaava
+vocab-jayaghosha: Jayaghosha
+vocab-jayaghosha-def: Jayakaara
+vocab-vijetaru: Vijetaru
+vocab-vijetaru-def: Geddavaru
+note-atithi: Atithi
+note-atithi-def: Aahvaanita vyakti
+note-samskritika: Saanskrutika kaaryakrama
+note-samskritika-def: Sanskrutige sambandhisida kaaryakrama.
+note-rashtranayakaru: Raashtranaayakaru
+note-rashtranayakaru-def: Deshaseve maadida mahaneeyaru
+note-prabhatapheri: Prabhaatapheri
+note-prabhatapheri-def: Belagina jaavadalli nadesuva meravanige
+note-samavastra: Samavastra
+note-samavastra-def: Onde roopada vastra
+ex-a-q1: Mukhya gurugalu yaara sabhe karedaru?
+ex-a-q2: Svaatantrya dinavannu endu aacharisutteve?
+ex-a-q3: Yaaru kshame koridaru?
+ex-b-q1: Mantrimandalada sabheyalli yaavudara bagge charchisidaru?
+ex-b-q2: Svaatantrya dinaacharane endarenu?
+ex-b-q3: Aishvarya needida salahe enu?
+ex-b-q4: Kreedaa mantri vahisikonda kaaryavenu?
+ex-b-q5: Mooraneya taragatiyavaru vahisikonda kaarya yaavudu?
+ex-c-q1: Mukhya gurugalu mantrimandalada sabhe karedaru.
+ex-c-q2: Itararu maatanaaduvaaga kelisikollabeku.
+ex-c-q3: Sabheyalli ottaagi maatanaadabaaradu.
+ex-d-q1: “Namma shaaleyalloo aacharisuttevalla sar?” yaaru helidaru? Yaarige helidaru?
+ex-d-q2: “Olleyadu, meriya salahe ellarigoo oppigeye?” yaaru helidaru? Yaarige helidaru?
+ex-d-q3: “Namma totadinda maavina taliru, baalekamba taruttene.” yaaru helidaru? Yaarige helidaru?
+ex-e-q1: Torana
+ex-e-q2: Rangavalli
+ex-e-q3: Bahumaana
+ex-e-q4: Samavastra
+ex-f-q1: Kaaryakrama maaduvaaga kelasa hanchikollabaaradu. ( )
+ex-f-q2: Kaaryakrama maaduva modalu sabheyalli charche maadabeku. ( )
+ex-f-q3: Charcheyalli itararu maatanaaduvaaga kelisikollabeku. ( )
+ex-f-q4: Sabheyalli ottaagi maatanaadidare tondare. ( )
+ex-f-q5: Sabheyalli obbara anantara obbaru maatanaadabaaradu. ( )
+ex-f-q6: Itarara olleya maatannu kelabeku. ( )
+ex-g-q1: Neenu shaaleyalli vahisikondu maadida ondu kelasavannu bare.
+ex-g-q2: Neenu maneyalli vahisikondu maadida ondu kelasavannu bare.
+ex-g-q3: Ninna maneyalli ellaroo kulitu charchisi maadiruva kelasa yaavudu?
+ex-h-q1: 'Chitra nodi salahe needu. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta
+  22, PDF puta 35 (1rinda enike), saamarthyaadhaarita abhyaasa i adiya chitra.]'
+ex-i-p1: Sariyaada artha baruvante padagalannu jodisi vaakyagalannu saripadisi bare.
+ex-i-q1: Samavastra / makkalu / dharisi / bandaru / shaalege
+ex-i-q2: Makkalu / saanskrutika / nadesikottaru / kaaryakrama
+ex-i-q3: Kaitotadalli / shaaleya / hoo / gidagalive
+ex-j-q1: 'A, aa mattu i manegalalliruva padagalannu kramavaagi balasi arthapoorna vaakyagalannu rachisu. A: naanu,
+  neenu, avanu, avalu, ramesha, kavitaa, gurugalu, hasugalu. Aa: manege. I: hoguttave, hoguttene, hoguveyaa, hoguttaane,
+  hodaru, hogalilla, hogabeku, hoguttaale.'
+ex-j-q1-ans: 'Maadari: avanu manege hoguttaane.'
+ex-j-p1: 'Ninagidu tilidirali: vaakyavendare sariyaada artha koduva padagala gumpu.'
+ex-k-q1: Ee jodunudigalannu gamanisi nakalu maadu. (Talirutorana, sihikahi, hallakolla, bettagudda, novunalivu)
+ex-l-p1: Aavaranadalli kottiruva samaanaarthaka padavannu gurutisi maadariyante bare. (Batte, baavuta, munjaane,
+  tayaari, ani, belagina jaava, pataake, kusuma, pushpa, arive)
+ex-l-q1: 'Maadari: vastra'
+ex-l-q1-ans: Batte, arive
+ex-l-q2: Dhvaja — ___, ___
+ex-l-q3: Nasuku — ___, ___
+ex-l-q4: Siddhate — ___, ___
+ex-l-q5: Hoo — ___, ___
+ex-l-p2: 'Ninagidu tilidirali: samaanaarthaka padagalu endare onde artha koduva bere bere padagalu.'

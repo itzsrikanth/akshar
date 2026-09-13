@@ -1,0 +1,547 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 3
+  subject: Kannada
+  chapter: 3
+  slug: ch03-svatantrya-dinacharane
+  title: ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ
+  source_url: https://diksha.gov.in/dial/X6D4P9
+  license: CC BY 4.0
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  story: ಪಾಠ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಎರಡು/ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಕಾರಣ ಕೊಡು.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಈ ಮಾತುಗಳನ್ನು ಯಾರು? ಯಾರಿಗೆ ಹೇಳಿದರು? ಎಂದು ಬರೆ.
+  exercise-E: ಅಭ್ಯಾಸ ಉ — ಈ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ರಚಿಸು.
+  exercise-F: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಅ — ಸರಿ-ತಪ್ಪು ಗುರುತಿಸು.
+  exercise-G: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಆ — ಉತ್ತರಿಸು.
+  exercise-H: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಇ
+  exercise-I: ಭಾಷಾಭ್ಯಾಸ ಅ
+  exercise-J: ಭಾಷಾಭ್ಯಾಸ ಆ
+  exercise-K: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ
+  exercise-L: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ
+segments:
+- id: competency
+  type: competency
+  text: ತರಗತಿಯಲ್ಲಿ ನಡೆಯುವ ಸಂವಾದದಲ್ಲಿ ಭಾಗವಹಿಸುವುದು. ಗುಂಪಿನಲ್ಲಿ ಮಾತನಾಡುವಾಗ ಸರದಿಯನ್ನು ಅನುಸರಿಸುವುದು.
+- id: intro-1
+  type: prose
+  text: ನಾವು ಹಬ್ಬಗಳನ್ನು ಆಚರಿಸುತ್ತೇವೆ. ಹಬ್ಬ ಆಚರಿಸಲು ಕೆಲವು ಸಿದ್ಧತೆಗಳು ಬೇಕು.
+  section: intro
+- id: intro-2
+  type: prose
+  text: ಎಲ್ಲ ಸಿದ್ಧತೆಗಳನ್ನು ಒಬ್ಬರೇ ಮಾಡಬೇಕಾದರೆ ತೊಂದರೆ ಅಲ್ಲವೇ? ಹಾಗಾದರೆ ಆ ತೊಂದರೆ ನಿವಾರಿಸಲು ಏನು ಮಾಡಬೇಕು ಎಂಬ ಕುತೂಹಲವೇ?
+  section: intro
+- id: intro-3
+  type: prose
+  text: ಶಾಲೆಯಲ್ಲಿ ಗುರುಗಳು ಹಾಗೂ ವಿದ್ಯಾರ್ಥಿಗಳು ಅನುಸರಿಸಿದ ಕ್ರಮವನ್ನು ಗಮನಿಸಿ ತಿಳಿ.
+  section: intro
+- id: story-n1
+  type: prose
+  text: ಬಿಡುವಿನ ಸಮಯ. ಮುಖ್ಯ ಗುರುಗಳು ಶಾಲಾ ವಿದ್ಯಾರ್ಥಿ ಮಂತ್ರಿಮಂಡಲದ ಸಭೆ ಕರೆದರು. ಮಂತ್ರಿಗಳು ಸಭೆಗೆ ಬಂದರು.
+  section: story
+- id: story-d1
+  type: dialogue
+  text: ಮಕ್ಕಳೇ, ಇದು ಆಗಸ್ಟ್ ತಿಂಗಳು. ಈ ತಿಂಗಳಲ್ಲಿ ಆಚರಿಸುವ ರಾಷ್ಟ್ರೀಯ ಹಬ್ಬ ಯಾವುದು? ನೀ ಹೇಳಬಲ್ಲೆಯಾ ರಾಜು?
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d2
+  type: dialogue
+  text: ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ ಸರ್.
+  section: story
+  speaker: ಎಲ್ಲರೂ
+- id: story-d3
+  type: dialogue
+  text: ಹೀಗೆ ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಮಾತನಾಡಬಾರದು. ಸರದಿ ಅನುಸರಿಸಬೇಕು ತಿಳಿಯಿತೇ? ಸರಿ, ರಾಜು ನೀನು ಹೇಳು, ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ ಎಂದರೇನು?
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d4
+  type: dialogue
+  text: ನಮ್ಮ ದೇಶ ಸ್ವತಂತ್ರವಾದ ದಿನದ ನೆನಪಿಗಾಗಿ ಪ್ರತಿ ವರ್ಷ ದೇಶದಾದ್ಯಂತ ಆಚರಿಸುವ ಹಬ್ಬ.
+  section: story
+  speaker: ರಾಜು (ಮುಖ್ಯಮಂತ್ರಿ)
+- id: story-d5
+  type: dialogue
+  text: ಸ್ವತಂತ್ರವಾದ ದಿನ! ಹಾಗೆಂದರೇನು ಸರ್?
+  section: story
+  speaker: ಮೇರಿ (ಆರೋಗ್ಯ ಮಂತ್ರಿ)
+- id: story-d6
+  type: dialogue
+  text: ಹಿಂದೆ ನಮ್ಮ ದೇಶವನ್ನು ಬ್ರಿಟಿಷರು ಆಳುತ್ತಿದ್ದರು. ದೇಶದ ಸ್ವಾಭಿಮಾನಿ ಜನರು ಗಾಂಧೀಜಿಯವರ ನೇತೃತ್ವದಲ್ಲಿ ಅವರ ವಿರುದ್ಧ ಹೋರಾಡಿ
+    ಸ್ವಾತಂತ್ರ್ಯ ತಂದುಕೊಟ್ಟರು. ಅವರ ದೇಶಾಭಿಮಾನ, ತ್ಯಾಗ ಹಾಗೂ ಬಲಿದಾನದಿಂದ 1947 ಆಗಸ್ಟ್ 15 ರಂದು ನಮ್ಮ ದೇಶ ಸ್ವತಂತ್ರವಾಯಿತು. ದೇಶ
+    ಸ್ವತಂತ್ರವಾದ ಸವಿ ನೆನಪಿಗೆ ಪ್ರತಿ ವರ್ಷ ದೇಶಾದ್ಯಂತ ಆಚರಿಸುವ ಹಬ್ಬವೇ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ.
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d7
+  type: dialogue
+  text: ನಮ್ಮ ಶಾಲೆಯಲ್ಲೂ ಆಚರಿಸುತ್ತೇವಲ್ಲ ಸರ್?
+  section: story
+  speaker: ಷರೀಫ್ (ಉಪ ಮುಖ್ಯಮಂತ್ರಿ)
+- id: story-d8
+  type: dialogue
+  text: ಹೌದು, ಅದಕ್ಕಾಗಿ ಈಗಿನಿಂದಲೇ ಸಿದ್ಧತೆ ಮಾಡಿಕೊಳ್ಳಬೇಕು.
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d9
+  type: dialogue
+  text: ಏನೇನು ಸಿದ್ಧತೆ ಮಾಡಬೇಕಿದೆ? ಹೇಳಿ ಸರ್.
+  section: story
+  speaker: ಷಾಹಿನ್ (ಗೃಹ ಮಂತ್ರಿ)
+- id: story-d10
+  type: dialogue
+  text: ಆಟೋಟ ಸ್ಪರ್ಧೆ ಏರ್ಪಡಿಸಬೇಕು. ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ನಡೆಸಿಕೊಡುವವರನ್ನು ಗುರುತಿಸಬೇಕು. ಮೈದಾನವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಬೇಕು.
+    ಶಾಲೆಯನ್ನು ತಳಿರು ತೋರಣಗಳಿಂದ ಅಲಂಕರಿಸಬೇಕು.
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d11
+  type: dialogue
+  text: ಗುರುಗಳೇ, ನಾವು ಕೆಲಸ ಹಂಚಿಕೊಂಡು ಸಿದ್ಧತೆ ಮಾಡುತ್ತೇವೆ.
+  section: story
+  speaker: ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)
+- id: story-d12
+  type: dialogue
+  text: ಸಂತೋಷ. ಯಾರು ಯಾರು, ಯಾವ ಯಾವ ಕೆಲಸಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವಿರಿ?
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d13
+  type: dialogue
+  text: ಸರ್, ಮಂತ್ರಿ ಮಂಡಲದ ಎಲ್ಲ ಸದಸ್ಯರು ಸೇರಿ ಆಟೋಟ ಸ್ಪರ್ಧೆ ನಡೆಸಿ ವಿಜೇತರ ಪಟ್ಟಿಯನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತೇವೆ.
+  section: story
+  speaker: ವಿವೇಕ್ (ಕ್ರೀಡಾ ಮಂತ್ರಿ)
+- id: story-n2
+  type: prose
+  text: (ಷಾಹಿನ್ ಮತ್ತು ಐಶ್ವರ್ಯ ಮಾತನಾಡುತ್ತಿದ್ದರು)
+  section: story
+- id: story-d14
+  type: dialogue
+  text: ಷಾಹಿನ್, ಐಶ್ವರ್ಯ ಒಬ್ಬರು ಮಾತಾಡುವಾಗ ನಿಮ್ಮ ನಿಮ್ಮೊಳಗೆ ಮಾತಾಡಬಾರದು. ಇತರರ ಅಭಿಪ್ರಾಯವನ್ನು ಕೇಳಿಸಿಕೊಳ್ಳಬೇಕು.
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d15
+  type: dialogue
+  text: ಕ್ಷಮಿಸಿ ಸರ್, ಇನ್ನು ಮೇಲೆ ಗಮನವಿಟ್ಟು ಕೇಳುತ್ತೇವೆ.
+  section: story
+  speaker: ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)
+- id: story-d16
+  type: dialogue
+  text: ಹ್ಞಾ! ಜಾಣ ಮಕ್ಕಳು.
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d17
+  type: dialogue
+  text: ಸರ್, ನಾವು ನಾಲ್ಕನೆಯ ತರಗತಿಯವರು ಶಾಲೆಯ ಮೈದಾನವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತೇವೆ.
+  section: story
+  speaker: ಕಾರ್ತಿಕ್ (ಪೌರಾಡಳಿತ ಮಂತ್ರಿ)
+- id: story-d18
+  type: dialogue
+  text: ನಾನು ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ ನೀಡುವವರ ಪಟ್ಟಿ ಸಿದ್ಧಪಡಿಸುತ್ತೇನೆ.
+  section: story
+  speaker: ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)
+- id: story-d19
+  type: dialogue
+  text: ನಾವು ಎರಡನೆಯ ತರಗತಿಯವರು ಬಣ್ಣದ ಕಾಗದದಿಂದ ತೋರಣ ಕಟ್ಟುತ್ತೇವೆ.
+  section: story
+  speaker: ಮೇರಿ (ಆರೋಗ್ಯ ಮಂತ್ರಿ)
+- id: story-d20
+  type: dialogue
+  text: ನಾವು ಮೂರನೆಯ ತರಗತಿಯವರು ಧ್ವಜಸ್ತಂಭವನ್ನು ಸಿಂಗರಿಸುತ್ತೇವೆ ಸರ್.
+  section: story
+  speaker: ಪಂಕಜ (ಹಣಕಾಸು ಮಂತ್ರಿ)
+- id: story-d21
+  type: dialogue
+  text: ಧ್ವಜ ಸ್ತಂಭದ ಸುತ್ತ ರಂಗವಲ್ಲಿ ಹಾಕಿದರೆ ಚೆನ್ನಾಗಿರುತ್ತದೆ.
+  section: story
+  speaker: ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)
+- id: story-d22
+  type: dialogue
+  text: ಒಳ್ಳೆಯ ಸಲಹೆ, ಪಂಕಜ ಚೆನ್ನಾಗಿ ರಂಗವಲ್ಲಿ ಹಾಕುತ್ತಾಳೆ. ಅವಳಿಂದ ಹಾಕಿಸೋಣವೇ ಸರ್?
+  section: story
+  speaker: ಮೇರಿ (ಆರೋಗ್ಯ ಮಂತ್ರಿ)
+- id: story-d23
+  type: dialogue
+  text: ಒಳ್ಳೆಯದು, ಮೇರಿಯ ಸಲಹೆ ಎಲ್ಲರಿಗೂ ಒಪ್ಪಿಗೆಯೇ?
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d24
+  type: dialogue
+  text: ಓ.... ಆಗಬಹುದು ಸರ್.
+  section: story
+  speaker: ಎಲ್ಲರೂ
+- id: story-d25
+  type: dialogue
+  text: ಅಲಂಕಾರಕ್ಕೆ ಸಾಮಗ್ರಿಗಳನ್ನು ತರುವವರು ಯಾರು?
+  section: story
+  speaker: ಕಾರ್ತಿಕ್ (ಪೌರಾಡಳಿತ ಮಂತ್ರಿ)
+- id: story-d26
+  type: dialogue
+  text: ನಮ್ಮ ತೋಟದಿಂದ ಮಾವಿನ ತಳಿರು, ಬಾಳೆಕಂಬ ತರುತ್ತೇನೆ. ಎಲ್ಲರೂ ಸೇರಿ ಶಾಲೆಯನ್ನು ಸಿಂಗರಿಸೋಣ.
+  section: story
+  speaker: ರಾಜು (ಮುಖ್ಯಮಂತ್ರಿ)
+- id: story-d27
+  type: dialogue
+  text: ನಾವು ಐದನೆಯ ತರಗತಿಯವರು ರಾಷ್ಟ್ರ ನಾಯಕರ ಭಾವ ಚಿತ್ರಗಳಿಗೆ ಹೂವಿನ ಹಾರ ಹಾಕಿ ಅಲಂಕರಿಸುತ್ತೇವೆ. ಸರ್ ಮತ್ತೇ... (ಮಾತು ಮುಂದುವರಿಸುವಳು)
+  section: story
+  speaker: ಐಶ್ವರ್ಯ (ಸಂಸ್ಕೃತಿ ಮಂತ್ರಿ)
+- id: story-d28
+  type: dialogue
+  text: ಐಶ್ವರ್ಯಾ, ಇತರರಿಗೂ ಮಾತನಾಡಲು ಅವಕಾಶ ಕೊಡಬೇಕಲ್ಲವೇ?
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-d29
+  type: dialogue
+  text: ನಾನು ಒಂದನೆಯ ತರಗತಿಯವರೊಡನೆ ಸೇರಿ ಶಾಲಾ ಕೈತೋಟದಿಂದ ಹೂಗಳನ್ನು ಬಿಡಿಸಿ ತರುತ್ತೇನೆ.
+  section: story
+  speaker: ರಮಾ (ವಿದ್ಯಾ ಮಂತ್ರಿ)
+- id: story-d30
+  type: dialogue
+  text: ಸರಿ, ಹಾಗಾದರೆ ನಾನು ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಬರುವಂತೆ ಅತಿಥಿಗಳನ್ನು ಆಮಂತ್ರಿಸುತ್ತೇನೆ. ನಿಮ್ಮ ಕೆಲಸಗಳಲ್ಲಿ ಶಿಕ್ಷಕರು ಮಾರ್ಗದರ್ಶನ
+    ನೀಡುತ್ತಾರೆ. ಮುಂದಿನ ಸಿದ್ಧತೆ ಮಾಡಿಕೊಳ್ಳಿ.
+  section: story
+  speaker: ಮುಖ್ಯ ಗುರುಗಳು
+- id: story-n3
+  type: prose
+  text: (ಎಲ್ಲರೂ ಶಿಕ್ಷಕರ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ತಮ್ಮ ಕೆಲಸಕ್ಕೆ ಪೂರ್ವ ತಯಾರಿ ಮಾಡಿಕೊಂಡರು.)
+  section: story
+- id: story-n4
+  type: prose
+  text: ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ದಿನದಂದು ಮಕ್ಕಳು ನಸುಕಿನಲ್ಲಿಯೇ ಎದ್ದು ಸಿದ್ಧರಾದರು. ಸಮವಸ್ತ್ರ ಧರಿಸಿ ಶಾಲೆಗೆ ಬಂದರು.
+  section: story
+- id: story-n5
+  type: prose
+  text: ಎಲ್ಲರೂ ತಾವು ವಹಿಸಿಕೊಂಡಿದ್ದ ಕೆಲಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದರು. ಗುರುಗಳೊಂದಿಗೆ ಜಯಘೋಷ ಹಾಕುತ್ತ ಪ್ರಭಾತಫೇರಿಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡರು.
+    ಮಕ್ಕಳ ಶಿಸ್ತನ್ನು ನೋಡಿ ಗ್ರಾಮಸ್ಥರು ಸಂತೋಷಪಟ್ಟರು.
+  section: story
+- id: story-n6
+  type: prose
+  text: ಶಾಲಾ ಮೈದಾನದಲ್ಲಿ ಪಂಚಾಯಿತಿ ಅಧ್ಯಕ್ಷರು ಧ್ವಜಾರೋಹಣ ಮಾಡಿದರು. ಎಲ್ಲರೂ ರಾಷ್ಟ್ರಗೀತೆ ಹಾಡಿದರು. ಅನಂತರ ನಡೆದ ಸಭಾ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ
+    ಮುಖ್ಯ ಗುರುಗಳು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರ ತ್ಯಾಗ ಮತ್ತು ದೇಶಭಕ್ತಿಯ ಕುರಿತು ಮಾತನಾಡಿದರು.
+  section: story
+- id: story-n7
+  type: prose
+  text: ಆಟೋಟ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ವಿಜೇತರಾದವರಿಗೆ ಮುಖ್ಯ ಅತಿಥಿಗಳು ಬಹುಮಾನ ವಿತರಿಸಿದರು. ಕೊನೆಯಲ್ಲಿ ಮಕ್ಕಳು ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ
+    ನಡೆಸಿಕೊಟ್ಟರು. ನೆರೆದಿದ್ದ ಜನರು ಸಂತೋಷದಿಂದ ಚಪ್ಪಾಳೆ ತಟ್ಟಿದರು. ಎಲ್ಲರೂ ಸಿಹಿ ಸವಿದು ಕಾರ್ಯಕ್ರಮ ಮೆಲುಕು ಹಾಕುತ್ತಾ ತೆರಳಿದರು.
+  section: story
+- id: vocab-rashtra
+  type: vocabulary_term
+  text: ರಾಷ್ಟ್ರ
+- id: vocab-rashtra-def
+  type: vocabulary_definition
+  text: ದೇಶ
+  ref: vocab-rashtra
+- id: vocab-saradi
+  type: vocabulary_term
+  text: ಸರದಿ
+- id: vocab-saradi-def
+  type: vocabulary_definition
+  text: ಅನುಕ್ರಮ
+  ref: vocab-saradi
+- id: vocab-svabhimana
+  type: vocabulary_term
+  text: ಸ್ವಾಭಿಮಾನ
+- id: vocab-svabhimana-def
+  type: vocabulary_definition
+  text: ಆತ್ಮಗೌರವ
+  ref: vocab-svabhimana
+- id: vocab-spardhe
+  type: vocabulary_term
+  text: ಸ್ಪರ್ಧೆ
+- id: vocab-spardhe-def
+  type: vocabulary_definition
+  text: ಪೈಪೋಟಿ
+  ref: vocab-spardhe
+- id: vocab-taliru
+  type: vocabulary_term
+  text: ತಳಿರು
+- id: vocab-taliru-def
+  type: vocabulary_definition
+  text: ಚಿಗುರು
+  ref: vocab-taliru
+- id: vocab-abhipraya
+  type: vocabulary_term
+  text: ಅಭಿಪ್ರಾಯ
+- id: vocab-abhipraya-def
+  type: vocabulary_definition
+  text: ಅನಿಸಿಕೆ
+  ref: vocab-abhipraya
+- id: vocab-dhvajastambha
+  type: vocabulary_term
+  text: ಧ್ವಜಸ್ತಂಭ
+- id: vocab-dhvajastambha-def
+  type: vocabulary_definition
+  text: ಬಾವುಟ ಹಾರಿಸುವ ಕಂಬ
+  ref: vocab-dhvajastambha
+- id: vocab-bhavachitra
+  type: vocabulary_term
+  text: ಭಾವಚಿತ್ರ
+- id: vocab-bhavachitra-def
+  type: vocabulary_definition
+  text: ವ್ಯಕ್ತಿಯ ಚಿತ್ರ
+  ref: vocab-bhavachitra
+- id: vocab-amantrisu
+  type: vocabulary_term
+  text: ಆಮಂತ್ರಿಸು
+- id: vocab-amantrisu-def
+  type: vocabulary_definition
+  text: ಆಹ್ವಾನಿಸು
+  ref: vocab-amantrisu
+- id: vocab-nere
+  type: vocabulary_term
+  text: ನೆರೆ
+- id: vocab-nere-def
+  type: vocabulary_definition
+  text: ಒಟ್ಟಾಗು; ಗುಂಪು ಸೇರು
+  ref: vocab-nere
+- id: vocab-margadarshana
+  type: vocabulary_term
+  text: ಮಾರ್ಗದರ್ಶನ
+- id: vocab-margadarshana-def
+  type: vocabulary_definition
+  text: ತಿಳಿಹೇಳುವುದು, ದಾರಿತೋರುವುದು
+  ref: vocab-margadarshana
+- id: vocab-nasuku
+  type: vocabulary_term
+  text: ನಸುಕು
+- id: vocab-nasuku-def
+  type: vocabulary_definition
+  text: ಮುಂಜಾನೆ, ಬೆಳಗಿನ ಜಾವ
+  ref: vocab-nasuku
+- id: vocab-jayaghosha
+  type: vocabulary_term
+  text: ಜಯಘೋಷ
+- id: vocab-jayaghosha-def
+  type: vocabulary_definition
+  text: ಜಯಕಾರ
+  ref: vocab-jayaghosha
+- id: vocab-vijetaru
+  type: vocabulary_term
+  text: ವಿಜೇತರು
+- id: vocab-vijetaru-def
+  type: vocabulary_definition
+  text: ಗೆದ್ದವರು
+  ref: vocab-vijetaru
+- id: note-atithi
+  type: note_term
+  text: ಅತಿಥಿ
+- id: note-atithi-def
+  type: note_definition
+  text: ಆಹ್ವಾನಿತ ವ್ಯಕ್ತಿ
+  ref: note-atithi
+- id: note-samskritika
+  type: note_term
+  text: ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ
+- id: note-samskritika-def
+  type: note_definition
+  text: ಸಂಸ್ಕೃತಿಗೆ ಸಂಬಂಧಿಸಿದ ಕಾರ್ಯಕ್ರಮ.
+  ref: note-samskritika
+- id: note-rashtranayakaru
+  type: note_term
+  text: ರಾಷ್ಟ್ರನಾಯಕರು
+- id: note-rashtranayakaru-def
+  type: note_definition
+  text: ದೇಶಸೇವೆ ಮಾಡಿದ ಮಹನೀಯರು
+  ref: note-rashtranayakaru
+- id: note-prabhatapheri
+  type: note_term
+  text: ಪ್ರಭಾತಫೇರಿ
+- id: note-prabhatapheri-def
+  type: note_definition
+  text: ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ನಡೆಸುವ ಮೆರವಣಿಗೆ
+  ref: note-prabhatapheri
+- id: note-samavastra
+  type: note_term
+  text: ಸಮವಸ್ತ್ರ
+- id: note-samavastra-def
+  type: note_definition
+  text: ಒಂದೇ ರೂಪದ ವಸ್ತ್ರ
+  ref: note-samavastra
+- id: ex-a-q1
+  type: question
+  text: ಮುಖ್ಯ ಗುರುಗಳು ಯಾರ ಸಭೆ ಕರೆದರು?
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಸ್ವಾತಂತ್ರ್ಯ ದಿನವನ್ನು ಎಂದು ಆಚರಿಸುತ್ತೇವೆ?
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಯಾರು ಕ್ಷಮೆ ಕೋರಿದರು?
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಮಂತ್ರಿಮಂಡಲದ ಸಭೆಯಲ್ಲಿ ಯಾವುದರ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದರು?
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ ಎಂದರೇನು?
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಐಶ್ವರ್ಯ ನೀಡಿದ ಸಲಹೆ ಏನು?
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಕ್ರೀಡಾ ಮಂತ್ರಿ ವಹಿಸಿಕೊಂಡ ಕಾರ್ಯವೇನು?
+  exercise: B
+- id: ex-b-q5
+  type: question
+  text: ಮೂರನೆಯ ತರಗತಿಯವರು ವಹಿಸಿಕೊಂಡ ಕಾರ್ಯ ಯಾವುದು?
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ಮುಖ್ಯ ಗುರುಗಳು ಮಂತ್ರಿಮಂಡಲದ ಸಭೆ ಕರೆದರು.
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಇತರರು ಮಾತನಾಡುವಾಗ ಕೇಳಿಸಿಕೊಳ್ಳಬೇಕು.
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ಸಭೆಯಲ್ಲಿ ಒಟ್ಟಾಗಿ ಮಾತನಾಡಬಾರದು.
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: “ನಮ್ಮ ಶಾಲೆಯಲ್ಲೂ ಆಚರಿಸುತ್ತೇವಲ್ಲ ಸರ್?” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise: D
+- id: ex-d-q2
+  type: question
+  text: “ಒಳ್ಳೆಯದು, ಮೇರಿಯ ಸಲಹೆ ಎಲ್ಲರಿಗೂ ಒಪ್ಪಿಗೆಯೇ?” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise: D
+- id: ex-d-q3
+  type: question
+  text: “ನಮ್ಮ ತೋಟದಿಂದ ಮಾವಿನ ತಳಿರು, ಬಾಳೆಕಂಬ ತರುತ್ತೇನೆ.” ಯಾರು ಹೇಳಿದರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise: D
+- id: ex-e-q1
+  type: question
+  text: ತೋರಣ
+  exercise: E
+- id: ex-e-q2
+  type: question
+  text: ರಂಗವಲ್ಲಿ
+  exercise: E
+- id: ex-e-q3
+  type: question
+  text: ಬಹುಮಾನ
+  exercise: E
+- id: ex-e-q4
+  type: question
+  text: ಸಮವಸ್ತ್ರ
+  exercise: E
+- id: ex-f-q1
+  type: question
+  text: ಕಾರ್ಯಕ್ರಮ ಮಾಡುವಾಗ ಕೆಲಸ ಹಂಚಿಕೊಳ್ಳಬಾರದು. ( )
+  exercise: F
+- id: ex-f-q2
+  type: question
+  text: ಕಾರ್ಯಕ್ರಮ ಮಾಡುವ ಮೊದಲು ಸಭೆಯಲ್ಲಿ ಚರ್ಚೆ ಮಾಡಬೇಕು. ( )
+  exercise: F
+- id: ex-f-q3
+  type: question
+  text: ಚರ್ಚೆಯಲ್ಲಿ ಇತರರು ಮಾತನಾಡುವಾಗ ಕೇಳಿಸಿಕೊಳ್ಳಬೇಕು. ( )
+  exercise: F
+- id: ex-f-q4
+  type: question
+  text: ಸಭೆಯಲ್ಲಿ ಒಟ್ಟಾಗಿ ಮಾತನಾಡಿದರೆ ತೊಂದರೆ. ( )
+  exercise: F
+- id: ex-f-q5
+  type: question
+  text: ಸಭೆಯಲ್ಲಿ ಒಬ್ಬರ ಅನಂತರ ಒಬ್ಬರು ಮಾತನಾಡಬಾರದು. ( )
+  exercise: F
+- id: ex-f-q6
+  type: question
+  text: ಇತರರ ಒಳ್ಳೆಯ ಮಾತನ್ನು ಕೇಳಬೇಕು. ( )
+  exercise: F
+- id: ex-g-q1
+  type: question
+  text: ನೀನು ಶಾಲೆಯಲ್ಲಿ ವಹಿಸಿಕೊಂಡು ಮಾಡಿದ ಒಂದು ಕೆಲಸವನ್ನು ಬರೆ.
+  exercise: G
+- id: ex-g-q2
+  type: question
+  text: ನೀನು ಮನೆಯಲ್ಲಿ ವಹಿಸಿಕೊಂಡು ಮಾಡಿದ ಒಂದು ಕೆಲಸವನ್ನು ಬರೆ.
+  exercise: G
+- id: ex-g-q3
+  type: question
+  text: ನಿನ್ನ ಮನೆಯಲ್ಲಿ ಎಲ್ಲರೂ ಕುಳಿತು ಚರ್ಚಿಸಿ ಮಾಡಿರುವ ಕೆಲಸ ಯಾವುದು?
+  exercise: G
+- id: ex-h-q1
+  type: question
+  text: 'ಚಿತ್ರ ನೋಡಿ ಸಲಹೆ ನೀಡು. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 22, PDF ಪುಟ
+    35 (1ರಿಂದ ಎಣಿಕೆ), ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಇ ಅಡಿಯ ಚಿತ್ರ.]'
+  exercise: H
+- id: ex-i-p1
+  type: prose
+  text: ಸರಿಯಾದ ಅರ್ಥ ಬರುವಂತೆ ಪದಗಳನ್ನು ಜೋಡಿಸಿ ವಾಕ್ಯಗಳನ್ನು ಸರಿಪಡಿಸಿ ಬರೆ.
+  exercise: I
+- id: ex-i-q1
+  type: question
+  text: ಸಮವಸ್ತ್ರ / ಮಕ್ಕಳು / ಧರಿಸಿ / ಬಂದರು / ಶಾಲೆಗೆ
+  exercise: I
+- id: ex-i-q2
+  type: question
+  text: ಮಕ್ಕಳು / ಸಾಂಸ್ಕೃತಿಕ / ನಡೆಸಿಕೊಟ್ಟರು / ಕಾರ್ಯಕ್ರಮ
+  exercise: I
+- id: ex-i-q3
+  type: question
+  text: ಕೈತೋಟದಲ್ಲಿ / ಶಾಲೆಯ / ಹೂ / ಗಿಡಗಳಿವೆ
+  exercise: I
+- id: ex-j-q1
+  type: question
+  text: 'ಅ, ಆ ಮತ್ತು ಇ ಮನೆಗಳಲ್ಲಿರುವ ಪದಗಳನ್ನು ಕ್ರಮವಾಗಿ ಬಳಸಿ ಅರ್ಥಪೂರ್ಣ ವಾಕ್ಯಗಳನ್ನು ರಚಿಸು. ಅ: ನಾನು, ನೀನು, ಅವನು, ಅವಳು,
+    ರಮೇಶ, ಕವಿತಾ, ಗುರುಗಳು, ಹಸುಗಳು. ಆ: ಮನೆಗೆ. ಇ: ಹೋಗುತ್ತವೆ, ಹೋಗುತ್ತೇನೆ, ಹೋಗುವೆಯಾ, ಹೋಗುತ್ತಾನೆ, ಹೋದರು, ಹೋಗಲಿಲ್ಲ, ಹೋಗಬೇಕು,
+    ಹೋಗುತ್ತಾಳೆ.'
+  exercise: J
+- id: ex-j-q1-ans
+  type: answer
+  text: 'ಮಾದರಿ: ಅವನು ಮನೆಗೆ ಹೋಗುತ್ತಾನೆ.'
+  exercise: J
+  ref: ex-j-q1
+- id: ex-j-p1
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ವಾಕ್ಯವೆಂದರೆ ಸರಿಯಾದ ಅರ್ಥ ಕೊಡುವ ಪದಗಳ ಗುಂಪು.'
+  exercise: J
+- id: ex-k-q1
+  type: question
+  text: ಈ ಜೋಡುನುಡಿಗಳನ್ನು ಗಮನಿಸಿ ನಕಲು ಮಾಡು. (ತಳಿರುತೋರಣ, ಸಿಹಿಕಹಿ, ಹಳ್ಳಕೊಳ್ಳ, ಬೆಟ್ಟಗುಡ್ಡ, ನೋವುನಲಿವು)
+  exercise: K
+- id: ex-l-p1
+  type: prose
+  text: ಆವರಣದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸಮಾನಾರ್ಥಕ ಪದವನ್ನು ಗುರುತಿಸಿ ಮಾದರಿಯಂತೆ ಬರೆ. (ಬಟ್ಟೆ, ಬಾವುಟ, ಮುಂಜಾನೆ, ತಯಾರಿ, ಅಣಿ, ಬೆಳಗಿನ
+    ಜಾವ, ಪತಾಕೆ, ಕುಸುಮ, ಪುಷ್ಪ, ಅರಿವೆ)
+  exercise: L
+- id: ex-l-q1
+  type: question
+  text: 'ಮಾದರಿ: ವಸ್ತ್ರ'
+  exercise: L
+- id: ex-l-q1-ans
+  type: answer
+  text: ಬಟ್ಟೆ, ಅರಿವೆ
+  exercise: L
+  ref: ex-l-q1
+- id: ex-l-q2
+  type: fill_blank
+  text: ಧ್ವಜ — ___, ___
+  exercise: L
+- id: ex-l-q3
+  type: fill_blank
+  text: ನಸುಕು — ___, ___
+  exercise: L
+- id: ex-l-q4
+  type: fill_blank
+  text: ಸಿದ್ಧತೆ — ___, ___
+  exercise: L
+- id: ex-l-q5
+  type: fill_blank
+  text: ಹೂ — ___, ___
+  exercise: L
+- id: ex-l-p2
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಸಮಾನಾರ್ಥಕ ಪದಗಳು ಎಂದರೆ ಒಂದೇ ಅರ್ಥ ಕೊಡುವ ಬೇರೆ ಬೇರೆ ಪದಗಳು.'
+  exercise: L

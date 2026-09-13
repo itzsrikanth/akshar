@@ -1,0 +1,297 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 3
+  subject: Kannada
+  chapter: 8
+  slug: ch08-sankranti
+  title: ಸಂಕ್ರಾಂತಿ
+  source_url: https://diksha.gov.in/dial/X6D4P9
+  license: CC BY 4.0
+  original_publisher: KSEEB
+  author: ಎಚ್.ಎಸ್. ವೆಂಕಟೇಶ ಮೂರ್ತಿ
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಅ
+  exercise-D: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಆ
+  exercise-E: ಭಾಷಾಭ್ಯಾಸ ಅ
+  exercise-F: ಭಾಷಾಭ್ಯಾಸ ಆ
+  exercise-G: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ
+segments:
+- id: competency
+  type: competency
+  text: ಪಠ್ಯವನ್ನು ಓದಿ ಮುಖ್ಯ ವಿಷಯ ಗುರುತಿಸಿ ಘಟನೆಗಳನ್ನು ಅನುಕ್ರಮವಾಗಿ ಹೇಳುವುದು.
+- id: intro-1
+  type: prose
+  text: ಹಬ್ಬಗಳು ಹಲವು. ಪ್ರತಿ ಹಬ್ಬದ ಆಚರಣೆಯೂ ಭಿನ್ನ. ಒಂದೊಂದು ಹಬ್ಬದಲ್ಲೂ ಒಂದೊಂದು ವಿಶೇಷತೆ ಇರುತ್ತದೆ.
+  section: intro
+- id: intro-2
+  type: prose
+  text: ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಹಬ್ಬದ ಆಚರಣೆಯ ವಿವರಗಳನ್ನು ತಿಳಿ. ನೀನು ಆಚರಿಸುವ ಹಬ್ಬದೊಂದಿಗೆ ಹೋಲಿಸಿ, ವ್ಯತ್ಯಾಸಗಳನ್ನು ಗೆಳೆಯರೊಂದಿಗೆ
+    ಹಂಚಿಕೊ.
+  section: intro
+- id: poem-s1l1
+  type: poem_line
+  text: ಹಬ್ಬ ಬಂತು, ಹಬ್ಬ ಬಂತು
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಹಬ್ಬ ಬಂತು ಹಬ್ಬ!
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ಅಂತೂ ಇಂತೂ ತಂದೇ ತಂತು
+  stanza: 1
+- id: poem-s1l4
+  type: poem_line
+  text: ಕಂತೆ ಕಂತೆ ಕಬ್ಬ!
+  stanza: 1
+- id: poem-s2l1
+  type: poem_line
+  text: ಗರಿಮುರಿ ಜರತಾರಿ
+  stanza: 2
+- id: poem-s2l2
+  type: poem_line
+  text: ಲಂಗ ಹಾಕಿಕೊಂಡು!
+  stanza: 2
+- id: poem-s2l3
+  type: poem_line
+  text: ಗಿಲಿಗಿಲಿ ಕಾಲಗೆಜ್ಜೆ
+  stanza: 2
+- id: poem-s2l4
+  type: poem_line
+  text: ದನಿ ಮಾಡಿಕೊಂಡು!
+  stanza: 2
+- id: poem-s3l1
+  type: poem_line
+  text: ಎಳ್ಳು, ಕಬ್ಬು, ಸಕ್ರೆ ಅಚ್ಚು
+  stanza: 3
+- id: poem-s3l2
+  type: poem_line
+  text: ಬಾಳೆ ಹಣ್ಣು, ಬೆಲ್ಲ!
+  stanza: 3
+- id: poem-s3l3
+  type: poem_line
+  text: ಬೀರೋಕಂತ ಹೊರಟಿದ್ದಾಳೆ
+  stanza: 3
+- id: poem-s3l4
+  type: poem_line
+  text: ತಂಗಿ ಕೇರಿಗೆಲ್ಲ.
+  stanza: 3
+- id: poem-s4l1
+  type: poem_line
+  text: ಹೊರಟಿದ್ದಾಳೆ ಪುಟಾಣಿ ತಂಗಿ
+  stanza: 4
+- id: poem-s4l2
+  type: poem_line
+  text: ತನ್ನ ಗೆಳತಿ ಜೋಡಿ!
+  stanza: 4
+- id: poem-s4l3
+  type: poem_line
+  text: ರಂಗೇನಳ್ಳಿ ರಂಗಿನ ಗೊಂಬಿ
+  stanza: 4
+- id: poem-s4l4
+  type: poem_line
+  text: ಕಣ್ಣ ತುಂಬ ನೋಡಿ!
+  stanza: 4
+- id: poem-s5l1
+  type: poem_line
+  text: ಕೊಂಬನು ಹೆರೆದು, ಬಣ್ಣವ ಬಳಿದು
+  stanza: 5
+- id: poem-s5l2
+  type: poem_line
+  text: ಎತ್ತು-ಹಸು-ಕರುವನ್ನು!
+  stanza: 5
+- id: poem-s5l3
+  type: poem_line
+  text: ಕಿಚ್ಚನು ಹಾಯಿಸಿ ಕೊಡುವರು ಅಪ್ಪ
+  stanza: 5
+- id: poem-s5l4
+  type: poem_line
+  text: ಅಕ್ಕಿ-ಬೆಲ್ಲ-ಹಣ್ಣು!
+  stanza: 5
+- id: poem-s6l1
+  type: poem_line
+  text: ಮಕ್ಕಳನೆಲ್ಲ ಹಸೆಯಲಿ ಕೂಡಿಸಿ
+  stanza: 6
+- id: poem-s6l2
+  type: poem_line
+  text: ಎಳ್ಳು-ಎಲಚಿ-ಅಚ್ಚು!
+  stanza: 6
+- id: poem-s6l3
+  type: poem_line
+  text: ಸುರಿಯುವಾಗ ಅಮ್ಮ ಅಜ್ಜಿ
+  stanza: 6
+- id: poem-s6l4
+  type: poem_line
+  text: ಮಕ್ಕಳಿಗಚ್ಚು ಮೆಚ್ಚು!
+  stanza: 6
+- id: vocab-biru
+  type: vocabulary_term
+  text: ಬೀರು
+- id: vocab-biru-def
+  type: vocabulary_definition
+  text: ಹಂಚು, ವಿತರಿಸು
+  ref: vocab-biru
+- id: vocab-kante
+  type: vocabulary_term
+  text: ಕಂತೆ
+- id: vocab-kante-def
+  type: vocabulary_definition
+  text: ಕಟ್ಟು
+  ref: vocab-kante
+- id: vocab-keri
+  type: vocabulary_term
+  text: ಕೇರಿ
+- id: vocab-keri-def
+  type: vocabulary_definition
+  text: ಓಣಿ
+  ref: vocab-keri
+- id: vocab-kichchu
+  type: vocabulary_term
+  text: ಕಿಚ್ಚು
+- id: vocab-kichchu-def
+  type: vocabulary_definition
+  text: ಬೆಂಕಿ
+  ref: vocab-kichchu
+- id: vocab-jodi
+  type: vocabulary_term
+  text: ಜೋಡಿ
+- id: vocab-jodi-def
+  type: vocabulary_definition
+  text: ಜೊತೆ
+  ref: vocab-jodi
+- id: note-hase
+  type: note_term
+  text: ಹಸೆ
+- id: note-hase-def
+  type: note_definition
+  text: ಶುಭಕಾರ್ಯಗಳಿಗೆ ಹಾಕುವ ಆಸನ
+  ref: note-hase
+- id: note-jaratari
+  type: note_term
+  text: ಜರತಾರಿ
+- id: note-jaratari-def
+  type: note_definition
+  text: ಜರಿಯಿಂದ ಕೂಡಿದ ವಸ್ತ್ರ/ಬಟ್ಟೆ
+  ref: note-jaratari
+- id: note-elachi
+  type: note_term
+  text: ಎಲಚಿ
+- id: note-elachi-def
+  type: note_definition
+  text: ಒಂದು ಜಾತಿಯ ಹಣ್ಣು
+  ref: note-elachi
+- id: note-garimuri
+  type: note_term
+  text: ಗರಿಮುರಿ ಬಟ್ಟೆ
+- id: note-garimuri-def
+  type: note_definition
+  text: ಮಡಿಕೆ ಮುರಿಯದ ಬಟ್ಟೆ
+  ref: note-garimuri
+- id: ex-a-q1
+  type: question
+  text: ತಂಗಿಯು ಯಾವ ಲಂಗ ಹಾಕಿಕೊಂಡಿದ್ದಳು?
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಗೆಳತಿಯ ಜೊತೆ ತಂಗಿ ಕೇರಿಗೆ ಹೊರಟಿದ್ದು ಏಕೆ?
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಅಪ್ಪ ದನಕರುಗಳಿಗೆ ಏನು ಕೊಟ್ಟರು?
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ಮಕ್ಕಳನ್ನು ಹಸೆಯಲ್ಲಿ ಕೂರಿಸಿ ಏನು ಮಾಡುವರು?
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ‘ಸಂಕ್ರಾಂತಿ’ ಪದ್ಯವನ್ನು ಬರೆದ ಕವಿಯ ಹೆಸರೇನು?
+  exercise: A
+- id: ex-b-p1
+  type: prose
+  text: '‘ಅ’ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಾಕ್ಯಗಳನ್ನು ‘ಬ’ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಾಕ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆ. ‘ಬ’: 1. ತಂಗಿ ಕೇರಿಗೆಲ್ಲ; 2. ಅಕ್ಕಿ-ಬೆಲ್ಲ-ಹಣ್ಣು;
+    3. ಮಕ್ಕಳಿಗಚ್ಚು ಮೆಚ್ಚು; 4. ಲಂಗ ಹಾಕಿಕೊಂಡು; 5. ಕಣ್ಣ ತುಂಬ ನೋಡಿ.'
+  exercise: B
+- id: ex-b-q1
+  type: question
+  text: ಗರಿಮುರಿ ಜರತಾರಿ
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಬೀರೋಕಂತ ಹೊರಟಿದ್ದಾಳೆ
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ರಂಗೇನಳ್ಳಿ ರಂಗಿನ ಗೊಂಬೆ
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಕಿಚ್ಚನು ಹಾಯಿಸಿ ಕೊಡುವರು ಅಪ್ಪ
+  exercise: B
+- id: ex-b-q5
+  type: question
+  text: ಸುರಿಯುವಾಗ ಅಮ್ಮ ಅಜ್ಜಿ
+  exercise: B
+- id: ex-c-p1
+  type: prose
+  text: ಪಠ್ಯವನ್ನು ಆಧರಿಸಿ ಈ ಘಟನೆಗಳನ್ನು ಅನುಕ್ರಮವಾಗಿ ಗುರುತಿಸಿ ಬರೆ.
+  exercise: C
+- id: ex-c-q1
+  type: question
+  text: ಮಕ್ಕಳನ್ನು ಹಸೆಯಲ್ಲಿ ಕೂರಿಸಿ, ಎಳ್ಳು-ಎಲಚಿ-ಅಚ್ಚುಗಳನ್ನು ಅಮ್ಮ ಅಜ್ಜಿ ಸುರಿಯುವರು.
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಪುಟಾಣಿ ತಂಗಿ ತನ್ನ ಗೆಳತಿ ಜೊತೆ ಎಳ್ಳು, ಬೆಲ್ಲ ಬೀರಲು ಹೊರಟಳು.
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ತಂಗಿಯು ಗರಿಮುರಿ ಜರತಾರಿ ಲಂಗ ಹಾಕಿಕೊಂಡಳು.
+  exercise: C
+- id: ex-c-q4
+  type: question
+  text: ಎತ್ತು ಹಸು ಕರುಗಳನ್ನು ಕೊಂಬು ಹೆರೆದು ಬಣ್ಣವ ಬಳಿದು ಶೃಂಗಾರ ಮಾಡಿದರು.
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ನೀನು ಬೆಳಗ್ಗೆ ಎದ್ದ ನಂತರ ಶಾಲೆಗೆ ಹೋಗುವವರೆಗಿನ ನಾಲ್ಕು ಘಟನೆಗಳನ್ನು ನೆನಪಿಸಿಕೊಂಡು, ಅನುಕ್ರಮವಾಗಿ ಬರೆ.
+  exercise: D
+- id: ex-e-p1
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ‘ಗಂಡು’ ಎಂಬ ಅರ್ಥ ಬರುವ ಪದಗಳಿಗೆ ‘ಪುಲ್ಲಿಂಗ’ ಎಂದೂ ‘ಹೆಣ್ಣು’ ಎಂಬ ಅರ್ಥ ಬರುವ ಪದಗಳಿಗೆ ‘ಸ್ತ್ರೀಲಿಂಗ’
+    ಎಂದೂ ಹಾಗೂ ‘ಗಂಡು’ ‘ಹೆಣ್ಣು’ ಎಂಬ ಎರಡೂ ಅರ್ಥ ಬರದ ಪದಗಳಿಗೆ ‘ನಪುಂಸಕಲಿಂಗ’ ಎಂದು ಹೆಸರು.'
+  exercise: E
+- id: ex-e-p2
+  type: prose
+  text: ಕೆಳಗಿನ ವಾಕ್ಯಗಳನ್ನು ಆವರಣದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸೂಚನೆಗಳಿಗೆ ಅನುಸಾರವಾಗಿ ಬರೆಯಿರಿ.
+  exercise: E
+- id: ex-e-q1
+  type: question
+  text: ಹುಡುಗಿಯು ತರಕಾರಿಯನ್ನು ತಂದಳು. (ಇದನ್ನು ಪುಲ್ಲಿಂಗ ರೂಪದಲ್ಲಿ ಬರೆ)
+  exercise: E
+- id: ex-e-q2
+  type: question
+  text: ರಾಜು ಗಾಡಿಯನ್ನು ಎಳೆದನು. (‘ರಾಜು’ ಎಂಬ ಪದದ ಬದಲಿಗೆ ‘ಎತ್ತು’ ಎಂಬ ಪದ ಬಳಸಿ, ವಾಕ್ಯ ರಚಿಸಿ)
+  exercise: E
+- id: ex-e-q3
+  type: question
+  text: ಅಣ್ಣ ತಮ್ಮಂದಿರು ಸ್ನೇಹಿತರಂತೆ ಇದ್ದರು. (ಇದನ್ನು ಸ್ತ್ರೀಲಿಂಗ ರೂಪದಲ್ಲಿ ಬರೆ.)
+  exercise: E
+- id: ex-f-q1
+  type: question
+  text: ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಪುಲ್ಲಿಂಗ, ಸ್ತ್ರೀಲಿಂಗ, ನಪುಂಸಕ ಲಿಂಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ ಬರೆ. (ಪುಸ್ತಕ, ರಾಣಿ, ತಮ್ಮ, ಮೇಜು,
+    ಗೋಡೆ, ರಾಜ, ತಂಗಿ, ಅಕ್ಕ, ತಮ್ಮ, ಶಾಲೆ, ಅಣ್ಣ, ತಂಗಿ, ತಂದೆ, ತಾಯಿ, ಸಹೋದರಿ, ಗೆಳೆಯ, ಕುರ್ಚಿ, ಗೆಳತಿ)
+  exercise: F
+- id: ex-g-q1
+  type: question
+  text: ಸಂಕ್ರಾಂತಿ ಪದ್ಯದಲ್ಲಿ ಬರುವ ಪ್ರಾಸ ಪದಗಳನ್ನು ಆರಿಸಿ ಬರೆ.
+  exercise: G

@@ -1,0 +1,186 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  script: latin
+labels:
+  competency: Saamarthya
+  intro: Pravesha
+  story: Paatha mattu shaalaa patrike
+  vocab: Padagala artha
+  notes: Tippani
+  exercise-A: Abhyaasa a — ondu vaakyadalli uttarisu.
+  exercise-B: Abhyaasa aa — hondisi bare.
+  exercise-C: Saamarthyaadhaarita chatuvatike a
+  exercise-D: Saamarthyaadhaarita chatuvatike aa
+  exercise-E: Saamarthyaadhaarita chatuvatike i
+  exercise-F: Saamarthyaadhaarita chatuvatike ee
+  exercise-G: Saamarthyaadhaarita chatuvatike u
+  exercise-H: Saamarthyaadhaarita chatuvatike oo
+  exercise-I: Bhaashaabhyaasa a
+  exercise-J: Bhaashaa chatuvatike a
+  exercise-K: Bhaashaa chatuvatike aa
+  exercise-L: Bhaashaa chatuvatike i
+  poem: Chutuku
+competency: Sahapaathigala kai barehavannu oduvudu.
+intro-1: Pathya pustaka, maduve, gruhapravesha muntaada aamantrana patrike, samaachaara patrikegalannu nodiruve.
+  Ivu mudrita roopadallive. Naavu ivugalallina mudrita vishayagalannu odi tiliyutteve.
+intro-2: Naavu mudrita vishayagalannu maatra oduvudilla. Kelavu vele kaibarehadalliruva vishayagalannu odi tiliyutteve.
+  Allade helabekaadudannu athavaa aalochisiddannu kaibarehadalli bareyutteve allave?
+intro-3: Ninna shaalaa patrikeyalli ninna lekhana prakatavaagirabahudu. Ee shaalaa patrikeyalliruva kaibarehada
+  lekhanavannu odi tili. Kaibarehadallina vaividhyateyannu gurutisu.
+story-n1: Andu shanivaara. Sampaadaka mandaliyavaru vidyaarthigalinda banda lekhanagalannu parisheelisidaru. Uttama
+  lekhanagalannu aaydu patrikeyannu siddhapadisi prakatisidaru.
+story-n2: Raadhaa patrikeyannu nodidalu. Kutoohaladinda odalu mundaadalu. Kelavu lekhanagalannu saraagavaagi odidalu.
+  Aadare kelavu lekhanagalannu odalu kashtapattalu. Ekirabahudu? Helaballeyaa? Haagiddare modalige ee patrikeyannu
+  odu.
+story-n3: Shaalaa patrike — chiguru — joon 2024
+story-n4: 'Maavu: maavu hannugala raaja. Idaralli baadaami, rasa, malagoba muntaada vidhagalive. — yoosuph, 4ne
+  taragati'
+poem-s1l1: Chikka makkalige bari bhaanangalada
+poem-s1l2: Chendu,
+poem-s1l3: Vijnyaanigaligilli bari kallu gundu
+story-n5: 'Chutuku sangraha: jaahnavi, 3ne taragati'
+story-n6: 'Chitrakke banna haaki. Chitra sangraha: vinaayaka, 3ne taragati. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  mudrita puta 30, PDF puta 43 (1rinda enike), shaalaa patrikeya edabhaagada sinhada chitra.]'
+story-n7: 'Subhaashita: tyaaga, preeti, karune mattu praamaanikateye nijavaada shikshana. — svaami vivekaananda.
+  Sangraha: jaaved, 5ne taragati'
+story-n8: 'Nudigattu — artha: ellashtu — atyalpa; kambi keelu — odi hogu. — vivek, 5ne taragati'
+story-n9: 'Vyavakalana maadu — gunalabdha tili! Udaa: 36 × 9 = 324. 36ra munde sonne serisi bare: 360. 36nnu kale:
+  −36. Ulike (Iduve 36 × 9ra gunalabdha): 324.'
+story-n10: 'Gamanisu: 9rinda gunisabekaada yaavude sankhyeya gunalabdha tiliyalu ee krama anusarisi nodu. — harshini,
+  5ne taragati'
+story-n11: 'Chitragalalli vyatyaasa huduki. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita
+  puta 30, PDF puta 43 (1rinda enike), balakelagina eradu pakshigala chitragalu.]'
+story-n12: 'Nimagidu tilidirali: sar. Em. Vishveshvarayyanavara dooradrushtiya yojaneyinda mandya jilleya shreerangapattana
+  taallookinalli krushnaraaja anekattu kattalaagide. Idarinda aa bhaagada raitarige tumbaa anukoolavaagide. — maala,
+  4ne taragati'
+story-n13: 'Jalapaata: joga jalapaata loka vikhyaata. Kannada naadina hemmeya taana. Malenaadina shivamogga jilleya
+  saagara taallookina jog halliyalli ide. — sateesh, 5ne taragati'
+story-n14: 'Svaami vivekaananda: amerikaadalli hindoo dharmada hirimeyannu etti saaridaru. Ivara baalyada hesaru
+  narendra. Tande vishvanaatha datta. Taayi bhuvaneshvari devi. — vinaayaka, 3ne taragati'
+story-n15: 'Naadahabba: namma naada habba dasaraa. Idannu sharannavaraatri endoo kareyuttaare. Maisoorina dasaraa
+  raajyada parampareyannu pratibimbisuttade. Illina jamboo savaari aakarshaneeya. — thaamas, 5ne taragati'
+story-n16: 'Gaade: dudidavanige duhkhavilla, somaarige sukhavilla. — begam, 3ne taragati'
+story-n17: 'Mane maddu: toleda seebe hannina ele mattu uppannu neerige haaki kudisabeku. Kudisida neerannu hitavaada
+  shaakhadalli mukkalisidare hallu novu shamanavaaguttade. — gaayatri, 5ne taragati'
+story-d1: Raadhaa neenu kelavu lekhanagalannu odalu kashtapatte eke?
+story-n18: Endu shikshaki prashnisidaru.
+story-d2: Kelavara kaibareha chennaagiralilla. Aaddarinda odalu kashtavaayitu medam.
+story-n23: Endu raadhaa helidalu.
+story-d3: Bareha chennaagiralilla endare adu hegittu?
+story-n24: Endu shikshaki kelidaru.
+story-d4: Maalaa barediruvudu spashtavaagi kaanisuttilla medam. Aadare gaayatri barediruva aksharagalu mudrita aakaaradallilla,
+  innu yoosuphnu tanna barehadalli padagala naduve sthalavanne bittilla.
+story-n19: Endalu. Itararu tamma anisikeyannu hanchikondaru. Shikshaki charcheyalli banda abhipraayavannu ottugoodisidaru.
+story-n20: Barevanigeyu chennaagirabekaadare adu hegirabeku ennuva bagge tilisuttaa... Naavu tappillade chennaagi
+  kaanuva reetiyalli bareyabeku. Sulabhavaagi odalu mattu odiddu arthavaaguvante bareyabeku. Aksharagalannu onde
+  gaatradalli bareyabeku.
+story-n21: Bareyuva prati aksharavu mudrita aksharagala aakaaradalli irabeku. Ondu padadallina aksharagalu ondakkondu
+  taakadante haagoo naduve sthala bidadante bareyabeku. Padagalannu gurtisalu sahaayavaaguvante padagala naduve
+  svalpa sthalavannu bittu bareyabeku.
+story-n22: Ondu saalina aksharagalu mattondu saalina aksharagalige taagadante saalugala naduve sookta sthalavannu
+  bittu bareyabeku. Akshara haagoo saalugalu oreyaagirabaaradu endu helidaru. Vidyaarthigalu chennaagi bareyuva
+  krama tilidu santasagondaru.
+vocab-lekhana: Lekhana
+vocab-lekhana-def: Barevanige, bareha
+vocab-parishilisu: Parisheelisu
+vocab-parishilisu-def: Sookshmavaagi gamanisu
+vocab-uttama: Uttama
+vocab-uttama-def: Shreshtha
+vocab-prakatisu: Prakatisu
+vocab-prakatisu-def: Grantha, lekhana muntaaduvannu prakaashanakke taru
+vocab-kutuhala: Kutoohala
+vocab-kutuhala-def: Achchari
+vocab-saragavagi: Saraagavaagi
+vocab-saragavagi-def: Sulabhavaagi
+vocab-charche: Charche
+vocab-charche-def: Paryaalochane
+vocab-salahe: Salahe
+vocab-salahe-def: Soochane
+vocab-subhashita: Subhaashita
+vocab-subhashita-def: Olleya maatu, neetivaakya
+note-sampadaka: Sampaadaka mandali
+note-sampadaka-def: Suddiyannu parishkarisi prakatisuva tanda.
+note-shalapatrike: Shaalaa patrike
+note-shalapatrike-def: Shaaleyinda horataruva patrike
+note-svarachita: Svarachita
+note-svarachita-def: Taane rachisida
+note-nagehani: Nagehani
+note-nagehani-def: Naguvannuntumaaduva chutukaada maatu athavaa bareha
+note-chutuku: Chutuku
+note-chutuku-def: Anakadinda koodida chikka padya
+note-kappuhalage: Kappu halage
+note-kappuhalage-def: Bareyuvudakkaagi kappubanna hachchiruva godeya bhaaga athavaa halage.
+ex-a-q1: Shaalaa patrikeya hesarenu?
+ex-a-q2: Namma naada habba yaavudu?
+ex-a-q3: Hannugala raaja yaaru?
+ex-a-q4: Vivekaanandara baalyada hesarenu?
+ex-a-q5: Joga jalapaata ellide?
+ex-a-q6: Ee patrikeyalli sateesha barediruva lekhanada hesarenu?
+ex-a-q7: Chiguru patrikeyalli ninage ishtavaada bareha yaavudu?
+ex-b-p1: 'Lekhakara hesarugalannu lekhanada hesarugalondige hondisi bare. Lekhanada hesaru: 1. Svaami vivekaananda;
+  2. Nimagidu tilidirali; 3. Naada habba; 4. Gaade.'
+ex-b-q1: Maala
+ex-b-q2: Thaamas
+ex-b-q3: Begam
+ex-b-q4: Vinaayaka
+ex-c-p1: Ee helikegalalli sariyaadudakke sari gurutannu (✓), tappaagiddare tappu gurutannu (✗) haaku.
+ex-c-q1: Tappillade chennaagi kaanuva reetiyalli bareyabeku. ( )
+ex-c-q2: Sulabhavaagi odalu mattu odiddu arthavaaguvante bareyabeku. ( )
+ex-c-q3: Padagalallina aksharagalannu onde gaatradalli bareyabaaradu. ( )
+ex-c-q4: Padadallina aksharagalu ondakkondu taakadante haagoo naduve sthala bidadante bareyabeku. ( )
+ex-c-q5: Padagala naduve sthalavannu bidade bareyabeku. ( )
+ex-c-q6: Akshara haagu saalugalu oreyaagirabaaradu. ( )
+ex-d-p1: Ee saalugalannu sariyaada reetiyalli bare.
+ex-d-q1: Naada namma habba dasaraa
+ex-d-q2: Maatu jagalavilla ballavanige
+ex-d-q3: Raajya namma karnaataka
+ex-d-q4: Hannugala maavu raaja
+ex-e-p1: 'Chiguru patrikeyalliruva subhaashitavannu neenu ondu ankanadalli bare. Mattondaralli snehitarinda baresu.
+  Nantara kelagina prashnegalige uttarisu. Ninna hesaru: ___. Geleya/gelatiya hesaru: ___.'
+ex-e-q1: Yaara bareha chennaagide?
+ex-e-q2: Bareha chennaagide ennalu ondu kaarana kodu.
+ex-e-q3: Bareha chennaagilla ennalu ondu kaarana kodu.
+ex-f-p1: Ee vaakyagalannu nakalu maadu.
+ex-f-q1: Kogileya gaana impu
+ex-f-q2: Maadiddunno mahaaraaya
+ex-g-q1: 'Ee kamaaninalli ninna hesarannu bare. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+  mudrita puta 35, PDF puta 48 (1rinda enike), u chatuvatikeya kamaanu.]'
+ex-h-q1: Chukki chinna-shaalaa patrikege 3 saalugala ondu lekhanavannu shuddha barehadalli bare.
+ex-h-p1: 'Ninagidu tilidirali: kai barehada ondu padadallina yaavude aksharavannu gurutisalu saadhyavaagadiddaaga
+  aa aksharada hindina, mundina aksharagalannu aadharisi adu yaava akshara endu gurutisabahudu.'
+ex-h-p2: Vaakyadallina ondu pada gottaagadiddare aa padada hindina, mundina padagalannu aadharisi adu yaava pada
+  endu gurutisabahudu.
+ex-h-p3: Ondu vaakyave gottaagadiddare, aa vaakyada hindina, mundina vaakyada sahaayadinda gurutisabahudu.
+ex-i-p1: Ee chitragalannu nodi ninaganisiddannu arthapoorna vaakyadalli bare.
+ex-i-q1: 'Maadari chitra. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF
+  puta 49 (1rinda enike), modala saalina chitra.]'
+ex-i-q1-ans: 'Maadari: hudugi neerannu kudiyuttiddaale.'
+ex-i-q2: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda
+  enike), eradaneya saalina chitra.]'
+ex-i-q3: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda
+  enike), mooraneya saalina chitra.]'
+ex-i-q4: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda
+  enike), naalkaneya saalina chitra.]'
+ex-i-q5: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda
+  enike), aidaneya saalina chitra.]'
+ex-i-q6: '[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda
+  enike), aaraneya saalina chitra.]'
+ex-j-p1: Gaadegalannu odi tili.
+ex-j-q1: Aapattigaadavane nenta
+ex-j-q2: Maatu belli mauna bangaara
+ex-j-q3: Ati aase gati kedu
+ex-j-q4: Aalaagi dudi arasaagi unnu
+ex-k-p1: Sariyaada padavannu aarisi gaadeyannu poornamaadu. (Yukti melu, juttige mallige hoo, kona neerige eleyutte,
+  mahaaraaya)
+ex-k-q1: Maadiddunno ___
+ex-k-q2: Ettu erige eledare ___
+ex-k-q3: Hottege hittilla ___
+ex-k-q4: Shaktiginta ___
+ex-l-p1: Ee padagalannu sariyaada roopadalli bare.
+ex-l-q1: Kootuhala
+ex-l-q2: Sikshaka
+ex-l-q3: Jaalapaata
+ex-l-q4: Nidugattu
+ex-l-p2: 'Ninagidu tilidirali: gaade endare naannudi.'

@@ -1,0 +1,92 @@
+meta:
+  source: source.kn.yaml
+  contributor: AI-assisted
+  license: CC BY 4.0
+  script: latin
+labels:
+  competency: Saamarthya
+  intro: Pravesha
+  poem: Padya
+  vocab: Padagala artha
+  notes: Tippani
+  exercise-A: Abhyaasa a — ondu vaakyadalli uttarisu.
+  exercise-B: Abhyaasa aa
+  exercise-C: Saamarthyaadhaarita abhyaasa a
+  exercise-D: Saamarthyaadhaarita abhyaasa aa
+  exercise-E: Bhaashaabhyaasa a
+  exercise-F: Bhaashaabhyaasa aa
+  exercise-G: Bhaashaa chatuvatike a
+competency: Pathyavannu odi mukhya vishaya gurutisi ghatanegalannu anukramavaagi heluvudu.
+intro-1: Habbagalu halavu. Prati habbada aacharaneyoo bhinna. Ondondu habbadalloo ondondu visheshate iruttade.
+intro-2: Illi kottiruva habbada aacharaneya vivaragalannu tili. Neenu aacharisuva habbadondige holisi, vyatyaasagalannu
+  geleyarondige hanchiko.
+poem-s1l1: Habba bantu, habba bantu
+poem-s1l2: Habba bantu habba!
+poem-s1l3: Antoo intoo tande tantu
+poem-s1l4: Kante kante kabba!
+poem-s2l1: Garimuri jarataari
+poem-s2l2: Langa haakikondu!
+poem-s2l3: Giligili kaalagejje
+poem-s2l4: Dani maadikondu!
+poem-s3l1: Ellu, kabbu, sakre achchu
+poem-s3l2: Baale hannu, bella!
+poem-s3l3: Beerokanta horatiddaale
+poem-s3l4: Tangi kerigella.
+poem-s4l1: Horatiddaale putaani tangi
+poem-s4l2: Tanna gelati jodi!
+poem-s4l3: Rangenalli rangina gombi
+poem-s4l4: Kanna tumba nodi!
+poem-s5l1: Kombanu heredu, bannava balidu
+poem-s5l2: Ettu-hasu-karuvannu!
+poem-s5l3: Kichchanu haayisi koduvaru appa
+poem-s5l4: Akki-bella-hannu!
+poem-s6l1: Makkalanella haseyali koodisi
+poem-s6l2: Ellu-elachi-achchu!
+poem-s6l3: Suriyuvaaga amma ajji
+poem-s6l4: Makkaligachchu mechchu!
+vocab-biru: Beeru
+vocab-biru-def: Hanchu, vitarisu
+vocab-kante: Kante
+vocab-kante-def: Kattu
+vocab-keri: Keri
+vocab-keri-def: Oni
+vocab-kichchu: Kichchu
+vocab-kichchu-def: Benki
+vocab-jodi: Jodi
+vocab-jodi-def: Jote
+note-hase: Hase
+note-hase-def: Shubhakaaryagalige haakuva aasana
+note-jaratari: Jarataari
+note-jaratari-def: Jariyinda koodida vastra/batte
+note-elachi: Elachi
+note-elachi-def: Ondu jaatiya hannu
+note-garimuri: Garimuri batte
+note-garimuri-def: Madike muriyada batte
+ex-a-q1: Tangiyu yaava langa haakikondiddalu?
+ex-a-q2: Gelatiya jote tangi kerige horatiddu eke?
+ex-a-q3: Appa danakarugalige enu kottaru?
+ex-a-q4: Makkalannu haseyalli koorisi enu maaduvaru?
+ex-a-q5: ‘sankraanti’ padyavannu bareda kaviya hesarenu?
+ex-b-p1: '‘a’ pattiyalliruva vaakyagalannu ‘ba’ pattiyalliruva vaakyagalondige hondisi bare. ‘ba’: 1. Tangi kerigella;
+  2. Akki-bella-hannu; 3. Makkaligachchu mechchu; 4. Langa haakikondu; 5. Kanna tumba nodi.'
+ex-b-q1: Garimuri jarataari
+ex-b-q2: Beerokanta horatiddaale
+ex-b-q3: Rangenalli rangina gombe
+ex-b-q4: Kichchanu haayisi koduvaru appa
+ex-b-q5: Suriyuvaaga amma ajji
+ex-c-p1: Pathyavannu aadharisi ee ghatanegalannu anukramavaagi gurutisi bare.
+ex-c-q1: Makkalannu haseyalli koorisi, ellu-elachi-achchugalannu amma ajji suriyuvaru.
+ex-c-q2: Putaani tangi tanna gelati jote ellu, bella beeralu horatalu.
+ex-c-q3: Tangiyu garimuri jarataari langa haakikondalu.
+ex-c-q4: Ettu hasu karugalannu kombu heredu bannava balidu shrungaara maadidaru.
+ex-d-q1: Nimma maneyalli neenu belagge edda nantara shaalege hoguvavaregina naalku ghatanegalannu nenapisikondu,
+  anukramavaagi bare.
+ex-e-p1: 'Ninagidu tilidirali: ‘gandu’ emba artha baruva padagalige ‘pullinga’ endoo ‘hennu’ emba artha baruva padagalige
+  ‘streelinga’ endoo haagoo ‘gandu’ ‘hennu’ emba eradoo artha barada padagalige ‘napunsakalinga’ endu hesaru.'
+ex-e-p2: Kelagina vaakyagalannu aavaranadalli kottiruva soochanegalige anusaaravaagi bareyiri.
+ex-e-q1: Hudugiyu tarakaariyannu tandalu. (Idannu pullinga roopadalli bare)
+ex-e-q2: Raaju gaadiyannu eledanu. (‘raaju’ emba padada badalige ‘ettu’ emba pada balasi, vaakya rachisi)
+ex-e-q3: Anna tammandiru snehitarante iddaru. (Idannu streelinga roopadalli bare.)
+ex-f-q1: Kelage kottiruva padagalannu pullinga, streelinga, napunsaka lingagalaagi vingadisi bare. (Pustaka, raani,
+  tamma, meju, gode, raaja, tangi, akka, tamma, shaale, anna, tangi, tande, taayi, sahodari, geleya, kurchi, gelati)
+ex-g-q1: Sankraanti padyadalli baruva praasa padagalannu aarisi bare.

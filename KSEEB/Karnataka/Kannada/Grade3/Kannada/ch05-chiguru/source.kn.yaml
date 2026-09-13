@@ -1,0 +1,550 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 3
+  subject: Kannada
+  chapter: 5
+  slug: ch05-chiguru
+  title: ಚಿಗುರು
+  source_url: https://diksha.gov.in/dial/X6D4P9
+  license: CC BY 4.0
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  competency: ಸಾಮರ್ಥ್ಯ
+  intro: ಪ್ರವೇಶ
+  story: ಪಾಠ ಮತ್ತು ಶಾಲಾ ಪತ್ರಿಕೆ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಹೊಂದಿಸಿ ಬರೆ.
+  exercise-C: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಅ
+  exercise-D: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಆ
+  exercise-E: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಇ
+  exercise-F: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಈ
+  exercise-G: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಉ
+  exercise-H: ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಊ
+  exercise-I: ಭಾಷಾಭ್ಯಾಸ ಅ
+  exercise-J: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ
+  exercise-K: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ
+  exercise-L: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ
+  poem: ಚುಟುಕು
+segments:
+- id: competency
+  type: competency
+  text: ಸಹಪಾಠಿಗಳ ಕೈ ಬರೆಹವನ್ನು ಓದುವುದು.
+- id: intro-1
+  type: prose
+  text: ಪಠ್ಯ ಪುಸ್ತಕ, ಮದುವೆ, ಗೃಹಪ್ರವೇಶ ಮುಂತಾದ ಆಮಂತ್ರಣ ಪತ್ರಿಕೆ, ಸಮಾಚಾರ ಪತ್ರಿಕೆಗಳನ್ನು ನೋಡಿರುವೆ. ಇವು ಮುದ್ರಿತ ರೂಪದಲ್ಲಿವೆ.
+    ನಾವು ಇವುಗಳಲ್ಲಿನ ಮುದ್ರಿತ ವಿಷಯಗಳನ್ನು ಓದಿ ತಿಳಿಯುತ್ತೇವೆ.
+  section: intro
+- id: intro-2
+  type: prose
+  text: ನಾವು ಮುದ್ರಿತ ವಿಷಯಗಳನ್ನು ಮಾತ್ರ ಓದುವುದಿಲ್ಲ. ಕೆಲವು ವೇಳೆ ಕೈಬರೆಹದಲ್ಲಿರುವ ವಿಷಯಗಳನ್ನು ಓದಿ ತಿಳಿಯುತ್ತೇವೆ. ಅಲ್ಲದೆ
+    ಹೇಳಬೇಕಾದುದನ್ನು ಅಥವಾ ಆಲೋಚಿಸಿದ್ದನ್ನು ಕೈಬರೆಹದಲ್ಲಿ ಬರೆಯುತ್ತೇವೆ ಅಲ್ಲವೇ?
+  section: intro
+- id: intro-3
+  type: prose
+  text: ನಿನ್ನ ಶಾಲಾ ಪತ್ರಿಕೆಯಲ್ಲಿ ನಿನ್ನ ಲೇಖನ ಪ್ರಕಟವಾಗಿರಬಹುದು. ಈ ಶಾಲಾ ಪತ್ರಿಕೆಯಲ್ಲಿರುವ ಕೈಬರೆಹದ ಲೇಖನವನ್ನು ಓದಿ ತಿಳಿ. ಕೈಬರೆಹದಲ್ಲಿನ
+    ವೈವಿಧ್ಯತೆಯನ್ನು ಗುರುತಿಸು.
+  section: intro
+- id: story-n1
+  type: prose
+  text: ಅಂದು ಶನಿವಾರ. ಸಂಪಾದಕ ಮಂಡಳಿಯವರು ವಿದ್ಯಾರ್ಥಿಗಳಿಂದ ಬಂದ ಲೇಖನಗಳನ್ನು ಪರಿಶೀಲಿಸಿದರು. ಉತ್ತಮ ಲೇಖನಗಳನ್ನು ಆಯ್ದು ಪತ್ರಿಕೆಯನ್ನು
+    ಸಿದ್ಧಪಡಿಸಿ ಪ್ರಕಟಿಸಿದರು.
+  section: story
+- id: story-n2
+  type: prose
+  text: ರಾಧಾ ಪತ್ರಿಕೆಯನ್ನು ನೋಡಿದಳು. ಕುತೂಹಲದಿಂದ ಓದಲು ಮುಂದಾದಳು. ಕೆಲವು ಲೇಖನಗಳನ್ನು ಸರಾಗವಾಗಿ ಓದಿದಳು. ಆದರೆ ಕೆಲವು ಲೇಖನಗಳನ್ನು
+    ಓದಲು ಕಷ್ಟಪಟ್ಟಳು. ಏಕಿರಬಹುದು? ಹೇಳಬಲ್ಲೆಯಾ? ಹಾಗಿದ್ದರೆ ಮೊದಲಿಗೆ ಈ ಪತ್ರಿಕೆಯನ್ನು ಓದು.
+  section: story
+- id: story-n3
+  type: prose
+  text: ಶಾಲಾ ಪತ್ರಿಕೆ — ಚಿಗುರು — ಜೂನ್ 2024
+  section: story
+- id: story-n4
+  type: prose
+  text: 'ಮಾವು: ಮಾವು ಹಣ್ಣುಗಳ ರಾಜ. ಇದರಲ್ಲಿ ಬಾದಾಮಿ, ರಸ, ಮಲಗೋಬ ಮುಂತಾದ ವಿಧಗಳಿವೆ. — ಯೂಸುಫ್, 4ನೇ ತರಗತಿ'
+  section: story
+- id: poem-s1l1
+  type: poem_line
+  text: ಚಿಕ್ಕ ಮಕ್ಕಳಿಗೆ ಬರಿ ಭಾನಂಗಳದ
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಚೆಂಡು,
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ವಿಜ್ಞಾನಿಗಳಿಗಿಲ್ಲಿ ಬರಿ ಕಲ್ಲು ಗುಂಡು
+  stanza: 1
+- id: story-n5
+  type: prose
+  text: 'ಚುಟುಕು ಸಂಗ್ರಹ: ಜಾಹ್ನವಿ, 3ನೇ ತರಗತಿ'
+  section: story
+- id: story-n6
+  type: prose
+  text: 'ಚಿತ್ರಕ್ಕೆ ಬಣ್ಣ ಹಾಕಿ. ಚಿತ್ರ ಸಂಗ್ರಹ: ವಿನಾಯಕ, 3ನೇ ತರಗತಿ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf,
+    ಮುದ್ರಿತ ಪುಟ 30, PDF ಪುಟ 43 (1ರಿಂದ ಎಣಿಕೆ), ಶಾಲಾ ಪತ್ರಿಕೆಯ ಎಡಭಾಗದ ಸಿಂಹದ ಚಿತ್ರ.]'
+  section: story
+- id: story-n7
+  type: prose
+  text: 'ಸುಭಾಷಿತ: ತ್ಯಾಗ, ಪ್ರೀತಿ, ಕರುಣೆ ಮತ್ತು ಪ್ರಾಮಾಣಿಕತೆಯೇ ನಿಜವಾದ ಶಿಕ್ಷಣ. — ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ. ಸಂಗ್ರಹ: ಜಾವೇದ್, 5ನೇ
+    ತರಗತಿ'
+  section: story
+- id: story-n8
+  type: prose
+  text: 'ನುಡಿಗಟ್ಟು — ಅರ್ಥ: ಎಳ್ಳಷ್ಟು — ಅತ್ಯಲ್ಪ; ಕಂಬಿ ಕೀಳು — ಓಡಿ ಹೋಗು. — ವಿವೇಕ್, 5ನೇ ತರಗತಿ'
+  section: story
+- id: story-n9
+  type: prose
+  text: 'ವ್ಯವಕಲನ ಮಾಡು — ಗುಣಲಬ್ಧ ತಿಳಿ! ಉದಾ: 36 × 9 = 324. 36ರ ಮುಂದೆ ಸೊನ್ನೆ ಸೇರಿಸಿ ಬರೆ: 360. 36ನ್ನು ಕಳೆ: −36. ಉಳಿಕೆ
+    (ಇದುವೇ 36 × 9ರ ಗುಣಲಬ್ಧ): 324.'
+  section: story
+- id: story-n10
+  type: prose
+  text: 'ಗಮನಿಸು: 9ರಿಂದ ಗುಣಿಸಬೇಕಾದ ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಗುಣಲಬ್ಧ ತಿಳಿಯಲು ಈ ಕ್ರಮ ಅನುಸರಿಸಿ ನೋಡು. — ಹರ್ಷಿಣಿ, 5ನೇ ತರಗತಿ'
+  section: story
+- id: story-n11
+  type: prose
+  text: 'ಚಿತ್ರಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಹುಡುಕಿ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 30,
+    PDF ಪುಟ 43 (1ರಿಂದ ಎಣಿಕೆ), ಬಲಕೆಳಗಿನ ಎರಡು ಪಕ್ಷಿಗಳ ಚಿತ್ರಗಳು.]'
+  section: story
+- id: story-n12
+  type: prose
+  text: 'ನಿಮಗಿದು ತಿಳಿದಿರಲಿ: ಸರ್. ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯನವರ ದೂರದೃಷ್ಟಿಯ ಯೋಜನೆಯಿಂದ ಮಂಡ್ಯ ಜಿಲ್ಲೆಯ ಶ್ರೀರಂಗಪಟ್ಟಣ ತಾಲ್ಲೂಕಿನಲ್ಲಿ
+    ಕೃಷ್ಣರಾಜ ಅಣೆಕಟ್ಟು ಕಟ್ಟಲಾಗಿದೆ. ಇದರಿಂದ ಆ ಭಾಗದ ರೈತರಿಗೆ ತುಂಬಾ ಅನುಕೂಲವಾಗಿದೆ. — ಮಾಲ, 4ನೇ ತರಗತಿ'
+  section: story
+- id: story-n13
+  type: prose
+  text: 'ಜಲಪಾತ: ಜೋಗ ಜಲಪಾತ ಲೋಕ ವಿಖ್ಯಾತ. ಕನ್ನಡ ನಾಡಿನ ಹೆಮ್ಮೆಯ ತಾಣ. ಮಲೆನಾಡಿನ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಸಾಗರ ತಾಲ್ಲೂಕಿನ ಜೋಗ್ ಹಳ್ಳಿಯಲ್ಲಿ
+    ಇದೆ. — ಸತೀಶ್, 5ನೇ ತರಗತಿ'
+  section: story
+- id: story-n14
+  type: prose
+  text: 'ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ: ಅಮೇರಿಕಾದಲ್ಲಿ ಹಿಂದೂ ಧರ್ಮದ ಹಿರಿಮೆಯನ್ನು ಎತ್ತಿ ಸಾರಿದರು. ಇವರ ಬಾಲ್ಯದ ಹೆಸರು ನರೇಂದ್ರ. ತಂದೆ ವಿಶ್ವನಾಥ
+    ದತ್ತ. ತಾಯಿ ಭುವನೇಶ್ವರಿ ದೇವಿ. — ವಿನಾಯಕ, 3ನೇ ತರಗತಿ'
+  section: story
+- id: story-n15
+  type: prose
+  text: 'ನಾಡಹಬ್ಬ: ನಮ್ಮ ನಾಡ ಹಬ್ಬ ದಸರಾ. ಇದನ್ನು ಶರನ್ನವರಾತ್ರಿ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಮೈಸೂರಿನ ದಸರಾ ರಾಜ್ಯದ ಪರಂಪರೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ.
+    ಇಲ್ಲಿನ ಜಂಬೂ ಸವಾರಿ ಆಕರ್ಷಣೀಯ. — ಥಾಮಸ್, 5ನೇ ತರಗತಿ'
+  section: story
+- id: story-n16
+  type: prose
+  text: 'ಗಾದೆ: ದುಡಿದವನಿಗೆ ದುಃಖವಿಲ್ಲ, ಸೋಮಾರಿಗೆ ಸುಖವಿಲ್ಲ. — ಬೇಗಂ, 3ನೇ ತರಗತಿ'
+  section: story
+- id: story-n17
+  type: prose
+  text: 'ಮನೆ ಮದ್ದು: ತೊಳೆದ ಸೀಬೆ ಹಣ್ಣಿನ ಎಲೆ ಮತ್ತು ಉಪ್ಪನ್ನು ನೀರಿಗೆ ಹಾಕಿ ಕುದಿಸಬೇಕು. ಕುದಿಸಿದ ನೀರನ್ನು ಹಿತವಾದ ಶಾಖದಲ್ಲಿ
+    ಮುಕ್ಕಳಿಸಿದರೆ ಹಲ್ಲು ನೋವು ಶಮನವಾಗುತ್ತದೆ. — ಗಾಯತ್ರಿ, 5ನೇ ತರಗತಿ'
+  section: story
+- id: story-d1
+  type: dialogue
+  text: ರಾಧಾ ನೀನು ಕೆಲವು ಲೇಖನಗಳನ್ನು ಓದಲು ಕಷ್ಟಪಟ್ಟೆ ಏಕೆ?
+  section: story
+  speaker: ಶಿಕ್ಷಕಿ
+- id: story-n18
+  type: prose
+  text: ಎಂದು ಶಿಕ್ಷಕಿ ಪ್ರಶ್ನಿಸಿದರು.
+  section: story
+- id: story-d2
+  type: dialogue
+  text: ಕೆಲವರ ಕೈಬರೆಹ ಚೆನ್ನಾಗಿರಲಿಲ್ಲ. ಆದ್ದರಿಂದ ಓದಲು ಕಷ್ಟವಾಯಿತು ಮೇಡಂ.
+  section: story
+  speaker: ರಾಧಾ
+- id: story-n23
+  type: prose
+  text: ಎಂದು ರಾಧಾ ಹೇಳಿದಳು.
+  section: story
+- id: story-d3
+  type: dialogue
+  text: ಬರೆಹ ಚೆನ್ನಾಗಿರಲಿಲ್ಲ ಎಂದರೆ ಅದು ಹೇಗಿತ್ತು?
+  section: story
+  speaker: ಶಿಕ್ಷಕಿ
+- id: story-n24
+  type: prose
+  text: ಎಂದು ಶಿಕ್ಷಕಿ ಕೇಳಿದರು.
+  section: story
+- id: story-d4
+  type: dialogue
+  text: ಮಾಲಾ ಬರೆದಿರುವುದು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುತ್ತಿಲ್ಲ ಮೇಡಂ. ಆದರೆ ಗಾಯತ್ರಿ ಬರೆದಿರುವ ಅಕ್ಷರಗಳು ಮುದ್ರಿತ ಆಕಾರದಲ್ಲಿಲ್ಲ, ಇನ್ನು
+    ಯೂಸುಫ್ನು ತನ್ನ ಬರೆಹದಲ್ಲಿ ಪದಗಳ ನಡುವೆ ಸ್ಥಳವನ್ನೇ ಬಿಟ್ಟಿಲ್ಲ.
+  section: story
+  speaker: ರಾಧಾ
+- id: story-n19
+  type: prose
+  text: ಎಂದಳು. ಇತರರು ತಮ್ಮ ಅನಿಸಿಕೆಯನ್ನು ಹಂಚಿಕೊಂಡರು. ಶಿಕ್ಷಕಿ ಚರ್ಚೆಯಲ್ಲಿ ಬಂದ ಅಭಿಪ್ರಾಯವನ್ನು ಒಟ್ಟುಗೂಡಿಸಿದರು.
+  section: story
+- id: story-n20
+  type: prose
+  text: ಬರೆವಣಿಗೆಯು ಚೆನ್ನಾಗಿರಬೇಕಾದರೆ ಅದು ಹೇಗಿರಬೇಕು ಎನ್ನುವ ಬಗ್ಗೆ ತಿಳಿಸುತ್ತಾ... ನಾವು ತಪ್ಪಿಲ್ಲದೆ ಚೆನ್ನಾಗಿ ಕಾಣುವ ರೀತಿಯಲ್ಲಿ
+    ಬರೆಯಬೇಕು. ಸುಲಭವಾಗಿ ಓದಲು ಮತ್ತು ಓದಿದ್ದು ಅರ್ಥವಾಗುವಂತೆ ಬರೆಯಬೇಕು. ಅಕ್ಷರಗಳನ್ನು ಒಂದೇ ಗಾತ್ರದಲ್ಲಿ ಬರೆಯಬೇಕು.
+  section: story
+- id: story-n21
+  type: prose
+  text: ಬರೆಯುವ ಪ್ರತಿ ಅಕ್ಷರವು ಮುದ್ರಿತ ಅಕ್ಷರಗಳ ಆಕಾರದಲ್ಲಿ ಇರಬೇಕು. ಒಂದು ಪದದಲ್ಲಿನ ಅಕ್ಷರಗಳು ಒಂದಕ್ಕೊಂದು ತಾಕದಂತೆ ಹಾಗೂ ನಡುವೆ
+    ಸ್ಥಳ ಬಿಡದಂತೆ ಬರೆಯಬೇಕು. ಪದಗಳನ್ನು ಗುರ್ತಿಸಲು ಸಹಾಯವಾಗುವಂತೆ ಪದಗಳ ನಡುವೆ ಸ್ವಲ್ಪ ಸ್ಥಳವನ್ನು ಬಿಟ್ಟು ಬರೆಯಬೇಕು.
+  section: story
+- id: story-n22
+  type: prose
+  text: ಒಂದು ಸಾಲಿನ ಅಕ್ಷರಗಳು ಮತ್ತೊಂದು ಸಾಲಿನ ಅಕ್ಷರಗಳಿಗೆ ತಾಗದಂತೆ ಸಾಲುಗಳ ನಡುವೆ ಸೂಕ್ತ ಸ್ಥಳವನ್ನು ಬಿಟ್ಟು ಬರೆಯಬೇಕು. ಅಕ್ಷರ
+    ಹಾಗೂ ಸಾಲುಗಳು ಓರೆಯಾಗಿರಬಾರದು ಎಂದು ಹೇಳಿದರು. ವಿದ್ಯಾರ್ಥಿಗಳು ಚೆನ್ನಾಗಿ ಬರೆಯುವ ಕ್ರಮ ತಿಳಿದು ಸಂತಸಗೊಂಡರು.
+  section: story
+- id: vocab-lekhana
+  type: vocabulary_term
+  text: ಲೇಖನ
+- id: vocab-lekhana-def
+  type: vocabulary_definition
+  text: ಬರೆವಣಿಗೆ, ಬರೆಹ
+  ref: vocab-lekhana
+- id: vocab-parishilisu
+  type: vocabulary_term
+  text: ಪರಿಶೀಲಿಸು
+- id: vocab-parishilisu-def
+  type: vocabulary_definition
+  text: ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸು
+  ref: vocab-parishilisu
+- id: vocab-uttama
+  type: vocabulary_term
+  text: ಉತ್ತಮ
+- id: vocab-uttama-def
+  type: vocabulary_definition
+  text: ಶ್ರೇಷ್ಠ
+  ref: vocab-uttama
+- id: vocab-prakatisu
+  type: vocabulary_term
+  text: ಪ್ರಕಟಿಸು
+- id: vocab-prakatisu-def
+  type: vocabulary_definition
+  text: ಗ್ರಂಥ, ಲೇಖನ ಮುಂತಾದುವನ್ನು ಪ್ರಕಾಶನಕ್ಕೆ ತರು
+  ref: vocab-prakatisu
+- id: vocab-kutuhala
+  type: vocabulary_term
+  text: ಕುತೂಹಲ
+- id: vocab-kutuhala-def
+  type: vocabulary_definition
+  text: ಅಚ್ಚರಿ
+  ref: vocab-kutuhala
+- id: vocab-saragavagi
+  type: vocabulary_term
+  text: ಸರಾಗವಾಗಿ
+- id: vocab-saragavagi-def
+  type: vocabulary_definition
+  text: ಸುಲಭವಾಗಿ
+  ref: vocab-saragavagi
+- id: vocab-charche
+  type: vocabulary_term
+  text: ಚರ್ಚೆ
+- id: vocab-charche-def
+  type: vocabulary_definition
+  text: ಪರ್ಯಾಲೋಚನೆ
+  ref: vocab-charche
+- id: vocab-salahe
+  type: vocabulary_term
+  text: ಸಲಹೆ
+- id: vocab-salahe-def
+  type: vocabulary_definition
+  text: ಸೂಚನೆ
+  ref: vocab-salahe
+- id: vocab-subhashita
+  type: vocabulary_term
+  text: ಸುಭಾಷಿತ
+- id: vocab-subhashita-def
+  type: vocabulary_definition
+  text: ಒಳ್ಳೆಯ ಮಾತು, ನೀತಿವಾಕ್ಯ
+  ref: vocab-subhashita
+- id: note-sampadaka
+  type: note_term
+  text: ಸಂಪಾದಕ ಮಂಡಳಿ
+- id: note-sampadaka-def
+  type: note_definition
+  text: ಸುದ್ದಿಯನ್ನು ಪರಿಷ್ಕರಿಸಿ ಪ್ರಕಟಿಸುವ ತಂಡ.
+  ref: note-sampadaka
+- id: note-shalapatrike
+  type: note_term
+  text: ಶಾಲಾ ಪತ್ರಿಕೆ
+- id: note-shalapatrike-def
+  type: note_definition
+  text: ಶಾಲೆಯಿಂದ ಹೊರತರುವ ಪತ್ರಿಕೆ
+  ref: note-shalapatrike
+- id: note-svarachita
+  type: note_term
+  text: ಸ್ವರಚಿತ
+- id: note-svarachita-def
+  type: note_definition
+  text: ತಾನೇ ರಚಿಸಿದ
+  ref: note-svarachita
+- id: note-nagehani
+  type: note_term
+  text: ನಗೆಹನಿ
+- id: note-nagehani-def
+  type: note_definition
+  text: ನಗುವನ್ನುಂಟುಮಾಡುವ ಚುಟುಕಾದ ಮಾತು ಅಥವಾ ಬರೆಹ
+  ref: note-nagehani
+- id: note-chutuku
+  type: note_term
+  text: ಚುಟುಕು
+- id: note-chutuku-def
+  type: note_definition
+  text: ಅಣಕದಿಂದ ಕೂಡಿದ ಚಿಕ್ಕ ಪದ್ಯ
+  ref: note-chutuku
+- id: note-kappuhalage
+  type: note_term
+  text: ಕಪ್ಪು ಹಲಗೆ
+- id: note-kappuhalage-def
+  type: note_definition
+  text: ಬರೆಯುವುದಕ್ಕಾಗಿ ಕಪ್ಪುಬಣ್ಣ ಹಚ್ಚಿರುವ ಗೋಡೆಯ ಭಾಗ ಅಥವಾ ಹಲಗೆ.
+  ref: note-kappuhalage
+- id: ex-a-q1
+  type: question
+  text: ಶಾಲಾ ಪತ್ರಿಕೆಯ ಹೆಸರೇನು?
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ನಮ್ಮ ನಾಡ ಹಬ್ಬ ಯಾವುದು?
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಹಣ್ಣುಗಳ ರಾಜ ಯಾರು?
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ವಿವೇಕಾನಂದರ ಬಾಲ್ಯದ ಹೆಸರೇನು?
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ಜೋಗ ಜಲಪಾತ ಎಲ್ಲಿದೆ?
+  exercise: A
+- id: ex-a-q6
+  type: question
+  text: ಈ ಪತ್ರಿಕೆಯಲ್ಲಿ ಸತೀಶ ಬರೆದಿರುವ ಲೇಖನದ ಹೆಸರೇನು?
+  exercise: A
+- id: ex-a-q7
+  type: question
+  text: ಚಿಗುರು ಪತ್ರಿಕೆಯಲ್ಲಿ ನಿನಗೆ ಇಷ್ಟವಾದ ಬರೆಹ ಯಾವುದು?
+  exercise: A
+- id: ex-b-p1
+  type: prose
+  text: 'ಲೇಖಕರ ಹೆಸರುಗಳನ್ನು ಲೇಖನದ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆ. ಲೇಖನದ ಹೆಸರು: 1. ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ; 2. ನಿಮಗಿದು ತಿಳಿದಿರಲಿ;
+    3. ನಾಡ ಹಬ್ಬ; 4. ಗಾದೆ.'
+  exercise: B
+- id: ex-b-q1
+  type: question
+  text: ಮಾಲ
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಥಾಮಸ್
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಬೇಗಂ
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ವಿನಾಯಕ
+  exercise: B
+- id: ex-c-p1
+  type: prose
+  text: ಈ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಸರಿಯಾದುದಕ್ಕೆ ಸರಿ ಗುರುತನ್ನು (✓), ತಪ್ಪಾಗಿದ್ದರೆ ತಪ್ಪು ಗುರುತನ್ನು (✗) ಹಾಕು.
+  exercise: C
+- id: ex-c-q1
+  type: question
+  text: ತಪ್ಪಿಲ್ಲದೆ ಚೆನ್ನಾಗಿ ಕಾಣುವ ರೀತಿಯಲ್ಲಿ ಬರೆಯಬೇಕು. ( )
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಸುಲಭವಾಗಿ ಓದಲು ಮತ್ತು ಓದಿದ್ದು ಅರ್ಥವಾಗುವಂತೆ ಬರೆಯಬೇಕು. ( )
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ಪದಗಳಲ್ಲಿನ ಅಕ್ಷರಗಳನ್ನು ಒಂದೇ ಗಾತ್ರದಲ್ಲಿ ಬರೆಯಬಾರದು. ( )
+  exercise: C
+- id: ex-c-q4
+  type: question
+  text: ಪದದಲ್ಲಿನ ಅಕ್ಷರಗಳು ಒಂದಕ್ಕೊಂದು ತಾಕದಂತೆ ಹಾಗೂ ನಡುವೆ ಸ್ಥಳ ಬಿಡದಂತೆ ಬರೆಯಬೇಕು. ( )
+  exercise: C
+- id: ex-c-q5
+  type: question
+  text: ಪದಗಳ ನಡುವೆ ಸ್ಥಳವನ್ನು ಬಿಡದೆ ಬರೆಯಬೇಕು. ( )
+  exercise: C
+- id: ex-c-q6
+  type: question
+  text: ಅಕ್ಷರ ಹಾಗು ಸಾಲುಗಳು ಓರೆಯಾಗಿರಬಾರದು. ( )
+  exercise: C
+- id: ex-d-p1
+  type: prose
+  text: ಈ ಸಾಲುಗಳನ್ನು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ಬರೆ.
+  exercise: D
+- id: ex-d-q1
+  type: question
+  text: ನಾಡ ನಮ್ಮ ಹಬ್ಬ ದಸರಾ
+  exercise: D
+- id: ex-d-q2
+  type: question
+  text: ಮಾತು ಜಗಳವಿಲ್ಲ ಬಲ್ಲವನಿಗೆ
+  exercise: D
+- id: ex-d-q3
+  type: question
+  text: ರಾಜ್ಯ ನಮ್ಮ ಕರ್ನಾಟಕ
+  exercise: D
+- id: ex-d-q4
+  type: question
+  text: ಹಣ್ಣುಗಳ ಮಾವು ರಾಜ
+  exercise: D
+- id: ex-e-p1
+  type: prose
+  text: 'ಚಿಗುರು ಪತ್ರಿಕೆಯಲ್ಲಿರುವ ಸುಭಾಷಿತವನ್ನು ನೀನು ಒಂದು ಅಂಕಣದಲ್ಲಿ ಬರೆ. ಮತ್ತೊಂದರಲ್ಲಿ ಸ್ನೇಹಿತರಿಂದ ಬರೆಸು. ನಂತರ ಕೆಳಗಿನ
+    ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸು. ನಿನ್ನ ಹೆಸರು: ___. ಗೆಳೆಯ/ಗೆಳತಿಯ ಹೆಸರು: ___.'
+  exercise: E
+- id: ex-e-q1
+  type: question
+  text: ಯಾರ ಬರೆಹ ಚೆನ್ನಾಗಿದೆ?
+  exercise: E
+- id: ex-e-q2
+  type: question
+  text: ಬರೆಹ ಚೆನ್ನಾಗಿದೆ ಎನ್ನಲು ಒಂದು ಕಾರಣ ಕೊಡು.
+  exercise: E
+- id: ex-e-q3
+  type: question
+  text: ಬರೆಹ ಚೆನ್ನಾಗಿಲ್ಲ ಎನ್ನಲು ಒಂದು ಕಾರಣ ಕೊಡು.
+  exercise: E
+- id: ex-f-p1
+  type: prose
+  text: ಈ ವಾಕ್ಯಗಳನ್ನು ನಕಲು ಮಾಡು.
+  exercise: F
+- id: ex-f-q1
+  type: question
+  text: ಕೋಗಿಲೆಯ ಗಾನ ಇಂಪು
+  exercise: F
+- id: ex-f-q2
+  type: question
+  text: ಮಾಡಿದ್ದುಣ್ಣೊ ಮಹಾರಾಯ
+  exercise: F
+- id: ex-g-q1
+  type: question
+  text: 'ಈ ಕಮಾನಿನಲ್ಲಿ ನಿನ್ನ ಹೆಸರನ್ನು ಬರೆ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ
+    35, PDF ಪುಟ 48 (1ರಿಂದ ಎಣಿಕೆ), ಉ ಚಟುವಟಿಕೆಯ ಕಮಾನು.]'
+  exercise: G
+- id: ex-h-q1
+  type: question
+  text: ಚುಕ್ಕಿ ಚಿನ್ನ-ಶಾಲಾ ಪತ್ರಿಕೆಗೆ 3 ಸಾಲುಗಳ ಒಂದು ಲೇಖನವನ್ನು ಶುದ್ಧ ಬರೆಹದಲ್ಲಿ ಬರೆ.
+  exercise: H
+- id: ex-h-p1
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಕೈ ಬರೆಹದ ಒಂದು ಪದದಲ್ಲಿನ ಯಾವುದೇ ಅಕ್ಷರವನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದಾಗ ಆ ಅಕ್ಷರದ ಹಿಂದಿನ,
+    ಮುಂದಿನ ಅಕ್ಷರಗಳನ್ನು ಆಧರಿಸಿ ಅದು ಯಾವ ಅಕ್ಷರ ಎಂದು ಗುರುತಿಸಬಹುದು.'
+  exercise: H
+- id: ex-h-p2
+  type: prose
+  text: ವಾಕ್ಯದಲ್ಲಿನ ಒಂದು ಪದ ಗೊತ್ತಾಗದಿದ್ದರೆ ಆ ಪದದ ಹಿಂದಿನ, ಮುಂದಿನ ಪದಗಳನ್ನು ಆಧರಿಸಿ ಅದು ಯಾವ ಪದ ಎಂದು ಗುರುತಿಸಬಹುದು.
+  exercise: H
+- id: ex-h-p3
+  type: prose
+  text: ಒಂದು ವಾಕ್ಯವೇ ಗೊತ್ತಾಗದಿದ್ದರೆ, ಆ ವಾಕ್ಯದ ಹಿಂದಿನ, ಮುಂದಿನ ವಾಕ್ಯದ ಸಹಾಯದಿಂದ ಗುರುತಿಸಬಹುದು.
+  exercise: H
+- id: ex-i-p1
+  type: prose
+  text: ಈ ಚಿತ್ರಗಳನ್ನು ನೋಡಿ ನಿನಗನಿಸಿದ್ದನ್ನು ಅರ್ಥಪೂರ್ಣ ವಾಕ್ಯದಲ್ಲಿ ಬರೆ.
+  exercise: I
+- id: ex-i-q1
+  type: question
+  text: 'ಮಾದರಿ ಚಿತ್ರ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ
+    ಎಣಿಕೆ), ಮೊದಲ ಸಾಲಿನ ಚಿತ್ರ.]'
+  exercise: I
+- id: ex-i-q1-ans
+  type: answer
+  text: 'ಮಾದರಿ: ಹುಡುಗಿ ನೀರನ್ನು ಕುಡಿಯುತ್ತಿದ್ದಾಳೆ.'
+  exercise: I
+  ref: ex-i-q1
+- id: ex-i-q2
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಎರಡನೆಯ
+    ಸಾಲಿನ ಚಿತ್ರ.]'
+  exercise: I
+- id: ex-i-q3
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಮೂರನೆಯ
+    ಸಾಲಿನ ಚಿತ್ರ.]'
+  exercise: I
+- id: ex-i-q4
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ನಾಲ್ಕನೆಯ
+    ಸಾಲಿನ ಚಿತ್ರ.]'
+  exercise: I
+- id: ex-i-q5
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಐದನೆಯ
+    ಸಾಲಿನ ಚಿತ್ರ.]'
+  exercise: I
+- id: ex-i-q6
+  type: question
+  text: '[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಆರನೆಯ
+    ಸಾಲಿನ ಚಿತ್ರ.]'
+  exercise: I
+- id: ex-j-p1
+  type: prose
+  text: ಗಾದೆಗಳನ್ನು ಓದಿ ತಿಳಿ.
+  exercise: J
+- id: ex-j-q1
+  type: question
+  text: ಆಪತ್ತಿಗಾದವನೇ ನೆಂಟ
+  exercise: J
+- id: ex-j-q2
+  type: question
+  text: ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ
+  exercise: J
+- id: ex-j-q3
+  type: question
+  text: ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು
+  exercise: J
+- id: ex-j-q4
+  type: question
+  text: ಆಳಾಗಿ ದುಡಿ ಅರಸಾಗಿ ಉಣ್ಣು
+  exercise: J
+- id: ex-k-p1
+  type: prose
+  text: ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ ಗಾದೆಯನ್ನು ಪೂರ್ಣಮಾಡು. (ಯುಕ್ತಿ ಮೇಲು, ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ ಹೂ, ಕೋಣ ನೀರಿಗೆ ಎಳೆಯುತ್ತೆ, ಮಹಾರಾಯ)
+  exercise: K
+- id: ex-k-q1
+  type: fill_blank
+  text: ಮಾಡಿದ್ದುಣ್ಣೊ ___
+  exercise: K
+- id: ex-k-q2
+  type: fill_blank
+  text: ಎತ್ತು ಏರಿಗೆ ಎಳೆದರೆ ___
+  exercise: K
+- id: ex-k-q3
+  type: fill_blank
+  text: ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ___
+  exercise: K
+- id: ex-k-q4
+  type: fill_blank
+  text: ಶಕ್ತಿಗಿಂತ ___
+  exercise: K
+- id: ex-l-p1
+  type: prose
+  text: ಈ ಪದಗಳನ್ನು ಸರಿಯಾದ ರೂಪದಲ್ಲಿ ಬರೆ.
+  exercise: L
+- id: ex-l-q1
+  type: question
+  text: ಕೂತುಹಲ
+  exercise: L
+- id: ex-l-q2
+  type: question
+  text: ಸಿಕ್ಷಕ
+  exercise: L
+- id: ex-l-q3
+  type: question
+  text: ಜಾಲಪಾತ
+  exercise: L
+- id: ex-l-q4
+  type: question
+  text: ನಿಡುಗಟ್ಟು
+  exercise: L
+- id: ex-l-p2
+  type: prose
+  text: 'ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಗಾದೆ ಎಂದರೆ ನಾಣ್ಣುಡಿ.'
+  exercise: L
