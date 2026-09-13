@@ -11,6 +11,14 @@ Status: started September 13, 2026. This file is the handoff checkpoint; update 
 5. After each chapter: validate, generate only its README, compile API, run `python3 scripts/check.py`, and update this file with exact paths/page ranges and outstanding work. Do not call an extraction draft a completed chapter.
 6. At the end of each conversion session, commit and push publishable changes and safe tracking/provenance updates, as requested by the maintainer on September 13, 2026. Preserve unresolved-rights drafts in the ignored local archive and state clearly that their text is not pushed. Follow `AGENTS.md` → Conversion-session checkpoints; do not substitute a metadata-only remote checkpoint for a claimed remote backup of the chapter text.
 
+### Reuse and cost checkpoint
+
+Follow `AGENTS.md` → Conversion reuse, server courtesy and resource use. The current Grade 4 Chapter 1 archive already contains the five reviewed drafts; do not rerun extraction or translation under a different PDF filename. The original extraction text and page renders also remain available locally. MarkItDown is available at `/Users/srivenka/.pyenv/shims/markitdown` in the current environment; no new installation or extraction comparison was needed for this checkpoint. Future environments should discover the executable rather than depend on this machine-specific path.
+
+The cached DIKSHA JSON inspected so far supplies catalog/hierarchy, license metadata and resource links, not an Akshar-ready Kannada chapter body. The transcription source is the local PDF. Previous verification images were local PDF renders/crops, not AI-generated illustrations. Existing requests were sequential; this does not establish that the server can never rate-limit us. No new DIKSHA/textbook request was made during this policy update. Future lookups must reuse caches, follow the new conservative pacing/error policy and stop on access restrictions.
+
+The next content action is still the edition-rights gate, not another conversion of Chapter 1. The public metadata checkpoint and ignored local archive provide a safe boundary for manual context compaction; the archive is not a remote backup of the draft text.
+
 ## Scope and ordering
 
 The official 2026–27 catalog has separate first-/second-language publications. Their printed grade does not determine all adoption contexts; do not merge different PDFs simply because a school uses another grade's book. Start with the first-language Part 1 PDFs for other grades; second-language books and Part 2 remain separately identified in the inventory. Nalikali primers and Kannada-medium maths/EVS are not silently included as Kannada language books.
