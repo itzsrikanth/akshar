@@ -45,10 +45,9 @@ export function normalizeCatalog(catalog: Catalog): Catalog {
   };
 }
 
-export function matchesLegacyScope(chapter: CatalogChapter, selected: (string | number)[]): boolean {
-  const legacy = compatibility.legacyScope;
+export function discoveryScopesFor(chapter: CatalogChapter): Array<typeof compatibility.canonicalScope> {
   const mapping = mappingFor(chapter.path);
-  return selected.length >= 4 && selected[0] === legacy.board && selected[1] === legacy.state &&
-    selected[2] === legacy.medium && selected[3] === legacy.grade &&
-    (selected.length === 4 || selected[4] === legacy.subject) && mapping?.slug === chapter.slug && matchesKnownScope(chapter);
+  return mapping?.slug === chapter.slug && matchesKnownScope(chapter)
+    ? [compatibility.canonicalScope, compatibility.legacyScope]
+    : [chapter];
 }

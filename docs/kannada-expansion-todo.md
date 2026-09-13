@@ -4,6 +4,8 @@ Status: started September 13, 2026. This file is the handoff checkpoint; update 
 
 ## Resume here
 
+Lean workflow: actual YAML in Git is the checkpoint; no new YAML ZIP deliverables. Reuse the checked-in Grade 4 Chapters 1–2, cached PDFs and existing book-level provenance. Continue at Chapter 3 only when conversion is the active task. Stabilize its Kannada source, exercise coverage and IDs before translating; transliteration drafts can be generated mechanically and reviewed. Optional answers, language polish, audio and word-level glosses can wait. Partial contributor maps are valid and must be labeled honestly. For this known Grade 4 edition, keep unresolved-license editorial chapters behind explicit production API holds and commit/push the session's YAML plus necessary generated/tracking files. Do not repeat licensing investigations without new evidence or a production-release task.
+
 1. Read `AGENTS.md`, `CONTRIBUTING.md`, this file, and `docs/kannada-pdf-inventory.json`; inspect `git status` before editing. Existing Grade 3 chapters and their Grade 5 adoption remain protected.
 2. Chapters 1–2 now have all ten YAML files in `KSEEB/Karnataka/Kannada/Grade4/Kannada/`. Resume from these files, not temporary extraction or historical ZIPs; do not reconvert them. PDFs remain outside Git in `/tmp/akshar-kannada-2026-27/`. Fetch again only when needed for further page review; inventory URLs/checksums remain authoritative.
 3. Work on one chapter at a time, starting with Grade 4 first-language Part 1. Verify its printed grade/role, school-medium evidence, chapter boundaries, DIKSHA license, and edition provenance before publishing. Public downloads alone do not grant redistribution rights.

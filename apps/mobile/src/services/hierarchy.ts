@@ -1,5 +1,5 @@
 import type { CatalogChapter } from './content-repository';
-import { matchesLegacyScope } from './catalog-compatibility';
+import { discoveryScopesFor } from './catalog-compatibility';
 
 // The catalog's real hierarchy, top to bottom — board is the outermost
 // grouping (e.g. KSEEB), subject the innermost before individual chapters.
@@ -17,15 +17,16 @@ export function levelLabel(key: LevelKey, value: LevelValue): string {
 
 /** Chapters matching every selection made so far, in level order. */
 export function filterChapters(chapters: CatalogChapter[], selected: LevelValue[]): CatalogChapter[] {
-  return chapters.filter((chapter) =>
-    LEVEL_KEYS.every((key, index) => index >= selected.length || chapter[key] === selected[index]) ||
-    matchesLegacyScope(chapter, selected));
+  return chapters.filter((chapter) => discoveryScopesFor(chapter).some((scope) =>
+    LEVEL_KEYS.every((key, index) => index >= selected.length || scope[key] === selected[index])));
 }
 
 /** Every distinct value chapters-matching-`selected` have at `LEVEL_KEYS[levelIndex]`. */
 export function optionsAtLevel(chapters: CatalogChapter[], selected: LevelValue[], levelIndex: number): LevelValue[] {
   const key = LEVEL_KEYS[levelIndex];
-  return Array.from(new Set(filterChapters(chapters, selected).map((c) => c[key])));
+  const scopes = chapters.flatMap(discoveryScopesFor).filter((scope) =>
+    LEVEL_KEYS.every((level, index) => index >= selected.length || scope[level] === selected[index]));
+  return Array.from(new Set(scopes.map((scope) => scope[key])));
 }
 
 // Auto-fills board/state/medium/grade (curriculum identity — usually one
@@ -41,10 +42,6 @@ const AUTO_FILL_LEVELS = LEVEL_KEYS.length - 1;
  * subject that currently has exactly one possible value — so "Explore"
  * starts at the top of the real hierarchy (board) and only ever asks the
  * user to choose at a level that actually has more than one option today.
- * Every level up to grade in the real catalog right now resolves to exactly
- * one value, so this currently skips straight through to the subject list —
- * the moment a second board/state/medium/grade is added, a real picker
- * appears at that level automatically, with no screen rewrite.
  */
 export function autoResolve(chapters: CatalogChapter[], manualSelected: LevelValue[]): LevelValue[] {
   const resolved: LevelValue[] = [];
