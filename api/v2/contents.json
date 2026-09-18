@@ -1,0 +1,327 @@
+{
+  "adoptions": [
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Official 2026–27 textbook listing; maintainer confirms use.",
+      "id": "savi-kannada-grade3-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 3,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer-reported use on 2026-09-13; institution unspecified.",
+      "id": "savi-kannada-grade5-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 5,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    }
+  ],
+  "books": [
+    {
+      "id": "ktbs-savi-kannada-g3-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
+    }
+  ],
+  "chapters": [
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch01-bannada-tagadina",
+      "contentHash": "38cfd1f1df92592a",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch01-bannada-tagadina.json",
+      "title": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ",
+      "titleTranslations": {
+        "en": "The Colourful Tin Trumpet",
+        "hi": "रंगीन टीन की तुरही"
+      },
+      "titleTransliterations": {
+        "devanagari": "बण्णद तगडिन तुत्तूरि",
+        "latin": "Bannada Tagadina Tutturi"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch02-nanna-kanasu",
+      "contentHash": "96e3fc315ca4c01f",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch02-nanna-kanasu.json",
+      "title": "ನನ್ನ ಕನಸು",
+      "titleTranslations": {
+        "en": "My Dream",
+        "hi": "मेरा सपना"
+      },
+      "titleTransliterations": {
+        "devanagari": "नन्न कनसु",
+        "latin": "Nanna Kanasu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch03-svatantrya-dinacharane",
+      "contentHash": "b75690d842ee3a95",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch03-svatantrya-dinacharane.json",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+      "titleTranslations": {
+        "en": "Independence Day Celebration",
+        "hi": "स्वतंत्रता दिवस समारोह"
+      },
+      "titleTransliterations": {
+        "devanagari": "स्वातंत्र्य दिनाचरणे",
+        "latin": "Svaatantrya Dinaacharane"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch04-kanda",
+      "contentHash": "6a49a6923eccc003",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch04-kanda.json",
+      "title": "ಕಂದ",
+      "titleTranslations": {
+        "en": "Little One",
+        "hi": "नन्हा बच्चा"
+      },
+      "titleTransliterations": {
+        "devanagari": "कंद",
+        "latin": "Kanda"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch05-chiguru",
+      "contentHash": "175ed1d3fac065b5",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch05-chiguru.json",
+      "title": "ಚಿಗುರು",
+      "titleTranslations": {
+        "en": "Sprout",
+        "hi": "अंकुर"
+      },
+      "titleTransliterations": {
+        "devanagari": "चिगुरु",
+        "latin": "Chiguru"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch06-esura-svagata",
+      "contentHash": "6d4803fbd685ba5e",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch06-esura-svagata.json",
+      "title": "ಈಸೂರ ಸ್ವಗತ",
+      "titleTranslations": {
+        "en": "Isuru's Monologue",
+        "hi": "ईसूर का आत्मकथन"
+      },
+      "titleTransliterations": {
+        "devanagari": "ईसूर स्वगत",
+        "latin": "Eesoora Svagata"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch07-pramanika-balaka",
+      "contentHash": "f0a6fb1a1f139a0a",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch07-pramanika-balaka.json",
+      "title": "ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ",
+      "titleTranslations": {
+        "en": "The Honest Boy",
+        "hi": "ईमानदार बालक"
+      },
+      "titleTransliterations": {
+        "devanagari": "प्रामाणिक बालक",
+        "latin": "Praamaanika Baalaka"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch08-sankranti",
+      "contentHash": "27b783cd5899d355",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch08-sankranti.json",
+      "title": "ಸಂಕ್ರಾಂತಿ",
+      "titleTranslations": {
+        "en": "Sankranti",
+        "hi": "संक्रांति"
+      },
+      "titleTransliterations": {
+        "devanagari": "संक्रांति",
+        "latin": "Sankraanti"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    }
+  ],
+  "editions": [
+    {
+      "academicYears": [
+        "2026-27"
+      ],
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapters": [
+        {
+          "held": false,
+          "id": "ch01-bannada-tagadina",
+          "number": 1,
+          "title": "ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ"
+        },
+        {
+          "held": false,
+          "id": "ch02-nanna-kanasu",
+          "number": 2,
+          "title": "ನನ್ನ ಕನಸು"
+        },
+        {
+          "held": false,
+          "id": "ch03-svatantrya-dinacharane",
+          "number": 3,
+          "title": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ"
+        },
+        {
+          "held": false,
+          "id": "ch04-kanda",
+          "number": 4,
+          "title": "ಕಂದ"
+        },
+        {
+          "held": false,
+          "id": "ch05-chiguru",
+          "number": 5,
+          "title": "ಚಿಗುರು"
+        },
+        {
+          "held": false,
+          "id": "ch06-esura-svagata",
+          "number": 6,
+          "title": "ಈಸೂರ ಸ್ವಗತ"
+        },
+        {
+          "held": false,
+          "id": "ch07-pramanika-balaka",
+          "number": 7,
+          "title": "ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ"
+        },
+        {
+          "held": false,
+          "id": "ch08-sankranti",
+          "number": 8,
+          "title": "ಸಂಕ್ರಾಂತಿ"
+        },
+        {
+          "held": true,
+          "id": "ch01-kannadammana-harake",
+          "number": 9,
+          "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ"
+        },
+        {
+          "held": true,
+          "id": "ch02-buddhivanta-ramakrishna",
+          "number": 10,
+          "title": "ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 3 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "CC BY 4.0",
+      "printedGrade": 3,
+      "provenance": {
+        "notes": "Printed Grade 3 first-language book. Grade 5 second-language use is recorded as a separate adoption, not a second edition. Edition licensing for the held Grade 4 draft chapters below remains unverified and they stay out of production API.",
+        "sourceDocuments": [
+          {
+            "label": "3rd KANNADA FL Part 1 2026-27.pdf",
+            "sha256": "bbb0b521d1ce16b21f94f7eec99e17441d739bdd523a7ada2ed5fec373faaefe",
+            "url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/3rd%20%20STD/LANGUAGE%20TEXTBOOKS/3rd%20%20KANNADA%20FL%20%20Part%201%202026-27.pdf"
+          }
+        ]
+      }
+    }
+  ],
+  "generatedAt": "2026-09-18T17:25:51Z",
+  "schemaVersion": "2.0"
+}

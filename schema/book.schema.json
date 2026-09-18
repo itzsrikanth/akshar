@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/book.schema.json",
+  "title": "Akshar book identity",
+  "type": "object",
+  "required": ["id", "title", "publisher", "subjectLanguage"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable book ID. Do not reconstruct from mutable metadata."
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "publisher": {
+      "type": "object",
+      "required": ["id", "name"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+        "name": { "type": "string", "minLength": 1 }
+      }
+    },
+    "series": {
+      "type": "object",
+      "required": ["id", "name"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+        "name": { "type": "string", "minLength": 1 }
+      }
+    },
+    "subjectLanguage": {
+      "type": "string",
+      "minLength": 2,
+      "description": "BCP-47-ish source language code of the printed book (e.g. kn)."
+    },
+    "volume": { "type": "string", "minLength": 1 },
+    "part": { "type": "integer", "minimum": 1 }
+  }
+}

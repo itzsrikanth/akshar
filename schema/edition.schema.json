@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/edition.schema.json",
+  "title": "Akshar edition identity",
+  "type": "object",
+  "required": ["id", "bookId", "label", "printedGrade", "languageRole", "license", "chapters"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable edition ID within a book (e.g. 2026-27). Distinct from academic-year applicability."
+    },
+    "bookId": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "label": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable imprint/edition label."
+    },
+    "printedGrade": { "type": "integer", "minimum": 1 },
+    "languageRole": {
+      "type": "string",
+      "enum": ["first-language", "second-language", "third-language"]
+    },
+    "license": { "type": "string", "minLength": 1 },
+    "academicYears": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}$" },
+      "uniqueItems": true,
+      "description": "Years this edition is known to apply; not the edition identity itself."
+    },
+    "isbns": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["value", "format"],
+        "additionalProperties": false,
+        "properties": {
+          "value": { "type": "string", "minLength": 10 },
+          "format": { "type": "string", "enum": ["ISBN-10", "ISBN-13"] },
+          "sourceFormat": { "type": "string", "minLength": 1 },
+          "evidence": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sourceDocuments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["label"],
+            "additionalProperties": false,
+            "properties": {
+              "label": { "type": "string", "minLength": 1 },
+              "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+              "url": { "type": "string", "format": "uri" }
+            }
+          }
+        },
+        "notes": { "type": "string", "minLength": 1 }
+      }
+    },
+    "chapters": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "number", "legacyPath"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+            "description": "Chapter ID within the edition; typically the existing slug."
+          },
+          "number": { "type": "integer", "minimum": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "legacyPath": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Repo-relative chapter directory until content is relocated under content/books/."
+          },
+          "held": {
+            "type": "boolean",
+            "description": "When true, chapter is editorial-only and must not appear in production API payloads."
+          }
+        }
+      }
+    }
+  }
+}

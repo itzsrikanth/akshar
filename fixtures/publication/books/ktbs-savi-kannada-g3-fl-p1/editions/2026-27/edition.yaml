@@ -1,0 +1,60 @@
+id: "2026-27"
+bookId: ktbs-savi-kannada-g3-fl-p1
+label: Savi Kannada Grade 3 First Language Part 1 (2026–27)
+printedGrade: 3
+languageRole: first-language
+license: CC BY 4.0
+academicYears:
+  - "2026-27"
+provenance:
+  sourceDocuments:
+    - label: 3rd KANNADA FL Part 1 2026-27.pdf
+      sha256: bbb0b521d1ce16b21f94f7eec99e17441d739bdd523a7ada2ed5fec373faaefe
+      url: https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/3rd%20%20STD/LANGUAGE%20TEXTBOOKS/3rd%20%20KANNADA%20FL%20%20Part%201%202026-27.pdf
+  notes: >-
+    Printed Grade 3 first-language book. Grade 5 second-language use is recorded
+    as a separate adoption, not a second edition. Edition licensing for the held
+    Grade 4 draft chapters below remains unverified and they stay out of production API.
+chapters:
+  - id: ch01-bannada-tagadina
+    number: 1
+    title: ಬಣ್ಣದ ತಗಡಿನ ತುತ್ತೂರಿ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch01-bannada-tagadina
+  - id: ch02-nanna-kanasu
+    number: 2
+    title: ನನ್ನ ಕನಸು
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch02-nanna-kanasu
+  - id: ch03-svatantrya-dinacharane
+    number: 3
+    title: ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch03-svatantrya-dinacharane
+  - id: ch04-kanda
+    number: 4
+    title: ಕಂದ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch04-kanda
+  - id: ch05-chiguru
+    number: 5
+    title: ಚಿಗುರು
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch05-chiguru
+  - id: ch06-esura-svagata
+    number: 6
+    title: ಈಸೂರ ಸ್ವಗತ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch06-esura-svagata
+  - id: ch07-pramanika-balaka
+    number: 7
+    title: ಪ್ರಾಮಾಣಿಕ ಬಾಲಕ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch07-pramanika-balaka
+  - id: ch08-sankranti
+    number: 8
+    title: ಸಂಕ್ರಾಂತಿ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade3/Kannada/ch08-sankranti
+  - id: ch01-kannadammana-harake
+    number: 9
+    title: ಕನ್ನಡಮ್ಮನ ಹರಕೆ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade4/Kannada/ch01-kannadammana-harake
+    held: true
+  - id: ch02-buddhivanta-ramakrishna
+    number: 10
+    title: ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ
+    legacyPath: KSEEB/Karnataka/Kannada/Grade4/Kannada/ch02-buddhivanta-ramakrishna
+    held: true

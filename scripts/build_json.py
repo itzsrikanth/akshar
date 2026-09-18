@@ -18,14 +18,33 @@ from pathlib import Path
 import yaml
 
 from publication_holds import load_publication_holds
+from publication_identity import (
+    find_adoption_files,
+    find_book_files,
+    find_edition_files,
+    load_yaml as load_identity_yaml,
+)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 API_DIR = REPO_ROOT / "api"
+API_V2_DIR = API_DIR / "v2"
 SCHEMA_VERSION = "1.0"
+SCHEMA_VERSION_V2 = "2.0"
+
+SKIP_CHAPTER_ROOT_PREFIXES = (
+    "fixtures/",
+    "apps/",
+    "packages/",
+    "api/",
+    "content/",
+)
 
 
 def find_chapter_dirs(root):
     for path in sorted(root.rglob("source.*.yaml")):
+        relative = path.relative_to(root).as_posix()
+        if any(relative.startswith(prefix) for prefix in SKIP_CHAPTER_ROOT_PREFIXES):
+            continue
         yield path.parent
 
 
@@ -139,6 +158,151 @@ def add_compatibility_views(written, manifest_chapters):
         })
 
 
+def chapter_source_path(chapter_dir: Path) -> Path:
+    sources = sorted(chapter_dir.glob("source.*.yaml"))
+    if not sources:
+        raise ValueError(f"No source.*.yaml in {chapter_dir}")
+    if len(sources) > 1:
+        raise ValueError(f"Multiple source files in {chapter_dir}; v2 expects one")
+    return sources[0]
+
+
+def build_v2(holds):
+    """Compile publication fixtures into api/v2/ without touching v1 paths."""
+    books = []
+    editions = []
+    chapters_manifest = []
+    written = {}
+
+    books_by_id = {}
+    for book_path in find_book_files(REPO_ROOT):
+        book = load_identity_yaml(book_path)
+        books_by_id[book["id"]] = book
+        books.append({
+            "id": book["id"],
+            "title": book["title"],
+            "publisher": book["publisher"],
+            "subjectLanguage": book["subjectLanguage"],
+            **{k: book[k] for k in ("series", "volume", "part") if k in book},
+        })
+
+    for edition_path in find_edition_files(REPO_ROOT):
+        edition = load_identity_yaml(edition_path)
+        book_id = edition["bookId"]
+        edition_id = edition["id"]
+        if book_id not in books_by_id:
+            raise ValueError(f"Edition references unknown book: {book_id}")
+
+        edition_record = {
+            "id": edition_id,
+            "bookId": book_id,
+            "label": edition["label"],
+            "printedGrade": edition["printedGrade"],
+            "languageRole": edition["languageRole"],
+            "license": edition["license"],
+            "chapters": [],
+        }
+        for optional in ("academicYears", "isbns", "provenance"):
+            if optional in edition:
+                edition_record[optional] = edition[optional]
+
+        for chapter in edition["chapters"]:
+            chapter_id = chapter["id"]
+            legacy_path = chapter["legacyPath"]
+            held_flag = bool(chapter.get("held")) or legacy_path in holds
+            chapter_entry = {
+                "id": chapter_id,
+                "number": chapter["number"],
+                "held": held_flag,
+            }
+            if "title" in chapter:
+                chapter_entry["title"] = chapter["title"]
+            edition_record["chapters"].append(chapter_entry)
+
+            if held_flag:
+                continue
+
+            chapter_dir = REPO_ROOT / legacy_path
+            source_path = chapter_source_path(chapter_dir)
+            compiled, scripts_available, langs_available = compile_chapter(chapter_dir, source_path)
+            payload = {
+                "schemaVersion": SCHEMA_VERSION_V2,
+                "identity": {
+                    "bookId": book_id,
+                    "editionId": edition_id,
+                    "chapterId": chapter_id,
+                    "number": chapter["number"],
+                },
+                "meta": compiled["meta"],
+                "labels": compiled["labels"],
+                "segments": compiled["segments"],
+            }
+            relative = f"books/{book_id}/editions/{edition_id}/chapters/{chapter_id}.json"
+            out_path = API_V2_DIR / relative
+            written[out_path] = payload
+            hash_value = content_hash(payload)
+            chapters_manifest.append({
+                "bookId": book_id,
+                "editionId": edition_id,
+                "chapterId": chapter_id,
+                "number": chapter["number"],
+                "title": chapter.get("title") or compiled["meta"]["title"],
+                "path": relative,
+                "transliterations": scripts_available,
+                "translations": langs_available,
+                "contentHash": hash_value,
+            })
+            title_labels = compiled["labels"].get("title", {})
+            for field, codes in (("titleTranslations", langs_available), ("titleTransliterations", scripts_available)):
+                titles = {code: title_labels[code] for code in codes if code in title_labels}
+                if titles:
+                    chapters_manifest[-1][field] = titles
+
+        editions.append(edition_record)
+
+    adoptions = []
+    for adoption_path in find_adoption_files(REPO_ROOT):
+        data = load_identity_yaml(adoption_path)
+        adoptions.extend(data.get("adoptions") or [])
+
+    chapters_manifest.sort(key=lambda c: (c["bookId"], c["editionId"], c["number"], c["chapterId"]))
+    books.sort(key=lambda b: b["id"])
+    editions.sort(key=lambda e: (e["bookId"], e["id"]))
+    adoptions.sort(key=lambda a: a["id"])
+
+    generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    existing_path = API_V2_DIR / "contents.json"
+    if existing_path.exists():
+        try:
+            existing = json.loads(existing_path.read_text(encoding="utf-8"))
+            stable = {
+                "books": books,
+                "editions": editions,
+                "adoptions": adoptions,
+                "chapters": chapters_manifest,
+            }
+            prior = {
+                "books": existing.get("books"),
+                "editions": existing.get("editions"),
+                "adoptions": existing.get("adoptions"),
+                "chapters": existing.get("chapters"),
+            }
+            if prior == stable:
+                generated_at = existing.get("generatedAt", generated_at)
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    written[API_V2_DIR / "contents.json"] = {
+        "schemaVersion": SCHEMA_VERSION_V2,
+        "generatedAt": generated_at,
+        "books": books,
+        "editions": editions,
+        "adoptions": adoptions,
+        "chapters": chapters_manifest,
+    }
+    return written
+
+
 def build_all():
     manifest_chapters = []
     written = {}
@@ -194,6 +358,7 @@ def build_all():
 
     manifest = {"schemaVersion": SCHEMA_VERSION, "generatedAt": generated_at, "chapters": manifest_chapters}
     written[API_DIR / "contents.json"] = manifest
+    written.update(build_v2(holds))
     return written
 
 

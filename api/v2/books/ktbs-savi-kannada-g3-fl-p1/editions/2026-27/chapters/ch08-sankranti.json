@@ -1,0 +1,1074 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g3-fl-p1",
+    "chapterId": "ch08-sankranti",
+    "editionId": "2026-27",
+    "number": 8
+  },
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Saamarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ओंदु वाक्यदल्लि उत्तरिसु.",
+      "en": "Exercise A — Answer in one sentence.",
+      "hi": "अभ्यास अ — एक वाक्य में उत्तर दो।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.",
+      "latin": "Abhyaasa a — ondu vaakyadalli uttarisu."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ",
+      "en": "Exercise B",
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "Abhyaasa aa"
+    },
+    "exercise-C": {
+      "devanagari": "सामर्थ्याधारित अभ्यास अ",
+      "en": "Competency-based exercise A",
+      "hi": "क्षमता-आधारित अभ्यास अ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಅ",
+      "latin": "Saamarthyaadhaarita abhyaasa a"
+    },
+    "exercise-D": {
+      "devanagari": "सामर्थ्याधारित अभ्यास आ",
+      "en": "Competency-based exercise B",
+      "hi": "क्षमता-आधारित अभ्यास आ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಅಭ್ಯಾಸ ಆ",
+      "latin": "Saamarthyaadhaarita abhyaasa aa"
+    },
+    "exercise-E": {
+      "devanagari": "भाषाभ्यास अ",
+      "en": "Language practice A",
+      "hi": "भाषा-अभ्यास अ",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಅ",
+      "latin": "Bhaashaabhyaasa a"
+    },
+    "exercise-F": {
+      "devanagari": "भाषाभ्यास आ",
+      "en": "Language practice B",
+      "hi": "भाषा-अभ्यास आ",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಆ",
+      "latin": "Bhaashaabhyaasa aa"
+    },
+    "exercise-G": {
+      "devanagari": "भाषा चटुवटिके अ",
+      "en": "Language activity A",
+      "hi": "भाषा-गतिविधि अ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Bhaashaa chatuvatike a"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "Pravesha"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "Padya"
+    },
+    "title": {
+      "devanagari": "संक्रांति",
+      "en": "Sankranti",
+      "hi": "संक्रांति",
+      "kn": "ಸಂಕ್ರಾಂತಿ",
+      "latin": "Sankraanti"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala artha"
+    }
+  },
+  "meta": {
+    "author": "ಎಚ್.ಎಸ್. ವೆಂಕಟೇಶ ಮೂರ್ತಿ",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 3,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch08-sankranti",
+    "source_url": "https://diksha.gov.in/dial/X6D4P9",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸಂಕ್ರಾಂತಿ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "competency",
+      "text": "ಪಠ್ಯವನ್ನು ಓದಿ ಮುಖ್ಯ ವಿಷಯ ಗುರುತಿಸಿ ಘಟನೆಗಳನ್ನು ಅನುಕ್ರಮವಾಗಿ ಹೇಳುವುದು.",
+      "translations": {
+        "en": "Reading a text, identifying its main idea, and recounting events in order.",
+        "hi": "पाठ पढ़कर मुख्य विषय पहचानना और घटनाएँ क्रम से बताना।"
+      },
+      "transliterations": {
+        "devanagari": "पठ्यवन्नु ओदि मुख्य विषय गुरुतिसि घटनेगळन्नु अनुक्रमवागि हेळुवुदु.",
+        "latin": "Pathyavannu odi mukhya vishaya gurutisi ghatanegalannu anukramavaagi heluvudu."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಹಬ್ಬಗಳು ಹಲವು. ಪ್ರತಿ ಹಬ್ಬದ ಆಚರಣೆಯೂ ಭಿನ್ನ. ಒಂದೊಂದು ಹಬ್ಬದಲ್ಲೂ ಒಂದೊಂದು ವಿಶೇಷತೆ ಇರುತ್ತದೆ.",
+      "translations": {
+        "en": "There are many festivals. Each is celebrated differently and has something special about it.",
+        "hi": "त्योहार अनेक हैं। हर त्योहार अलग ढंग से मनाया जाता है। हर एक की अपनी विशेषता होती है।"
+      },
+      "transliterations": {
+        "devanagari": "हब्बगळु हलवु. प्रति हब्बद आचरणेयू भिन्न. ओंदोंदु हब्बदल्लू ओंदोंदु विशेषते इरुत्तदे.",
+        "latin": "Habbagalu halavu. Prati habbada aacharaneyoo bhinna. Ondondu habbadalloo ondondu visheshate iruttade."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಇಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಹಬ್ಬದ ಆಚರಣೆಯ ವಿವರಗಳನ್ನು ತಿಳಿ. ನೀನು ಆಚರಿಸುವ ಹಬ್ಬದೊಂದಿಗೆ ಹೋಲಿಸಿ, ವ್ಯತ್ಯಾಸಗಳನ್ನು ಗೆಳೆಯರೊಂದಿಗೆ ಹಂಚಿಕೊ.",
+      "translations": {
+        "en": "Learn how the festival described here is celebrated. Compare it with a festival you celebrate and share the differences with your friends.",
+        "hi": "यहाँ बताए त्योहार के उत्सव को जानो। अपने मनाए हुए त्योहार से तुलना करो और अंतर मित्रों को बताओ।"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि कोट्टिरुव हब्बद आचरणेय विवरगळन्नु तिळि. नीनु आचरिसुव हब्बदोंदिगे होलिसि, व्यत्यासगळन्नु गेळेयरोंदिगे हंचिको.",
+        "latin": "Illi kottiruva habbada aacharaneya vivaragalannu tili. Neenu aacharisuva habbadondige holisi, vyatyaasagalannu geleyarondige hanchiko."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಹಬ್ಬ ಬಂತು, ಹಬ್ಬ ಬಂತು",
+      "translations": {
+        "en": "The festival is here, the festival is here,",
+        "hi": "त्योहार आया, त्योहार आया,"
+      },
+      "transliterations": {
+        "devanagari": "हब्ब बंतु, हब्ब बंतु",
+        "latin": "Habba bantu, habba bantu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಹಬ್ಬ ಬಂತು ಹಬ್ಬ!",
+      "translations": {
+        "en": "The festival, the festival is here!",
+        "hi": "आया रे त्योहार!"
+      },
+      "transliterations": {
+        "devanagari": "हब्ब बंतु हब्ब!",
+        "latin": "Habba bantu habba!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಅಂತೂ ಇಂತೂ ತಂದೇ ತಂತು",
+      "translations": {
+        "en": "At last it has brought us",
+        "hi": "आख़िर साथ में ले ही आया"
+      },
+      "transliterations": {
+        "devanagari": "अंतू इंतू तंदे तंतु",
+        "latin": "Antoo intoo tande tantu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಕಂತೆ ಕಂತೆ ಕಬ್ಬ!",
+      "translations": {
+        "en": "Bundles and bundles of sugarcane!",
+        "hi": "गन्नों के गट्ठर अपार!"
+      },
+      "transliterations": {
+        "devanagari": "कंते कंते कब्ब!",
+        "latin": "Kante kante kabba!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಗರಿಮುರಿ ಜರತಾರಿ",
+      "translations": {
+        "en": "A crisp, rustling, zari-bordered",
+        "hi": "करारी, सरसराती, ज़री वाली"
+      },
+      "transliterations": {
+        "devanagari": "गरिमुरि जरतारि",
+        "latin": "Garimuri jarataari"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಲಂಗ ಹಾಕಿಕೊಂಡು!",
+      "translations": {
+        "en": "Skirt she wears!",
+        "hi": "घाघरी पहनकर!"
+      },
+      "transliterations": {
+        "devanagari": "लंग हाकिकोंडु!",
+        "latin": "Langa haakikondu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಗಿಲಿಗಿಲಿ ಕಾಲಗೆಜ್ಜೆ",
+      "translations": {
+        "en": "Her little ankle bells",
+        "hi": "पैरों के घुँघरू छन-छन"
+      },
+      "transliterations": {
+        "devanagari": "गिलिगिलि कालगेज्जे",
+        "latin": "Giligili kaalagejje"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ದನಿ ಮಾಡಿಕೊಂಡು!",
+      "translations": {
+        "en": "Go jingle, jingle!",
+        "hi": "बजाती चलकर!"
+      },
+      "transliterations": {
+        "devanagari": "दनि माडिकोंडु!",
+        "latin": "Dani maadikondu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಎಳ್ಳು, ಕಬ್ಬು, ಸಕ್ರೆ ಅಚ್ಚು",
+      "translations": {
+        "en": "Sesame, sugarcane, moulded sugar sweets,",
+        "hi": "तिल, गन्ना, साँचे की मिठाई,"
+      },
+      "transliterations": {
+        "devanagari": "एळ्ळु, कब्बु, सक्रे अच्चु",
+        "latin": "Ellu, kabbu, sakre achchu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಬಾಳೆ ಹಣ್ಣು, ಬೆಲ್ಲ!",
+      "translations": {
+        "en": "Bananas and jaggery too!",
+        "hi": "केला और गुड़ साथ!"
+      },
+      "transliterations": {
+        "devanagari": "बाळे हण्णु, बेल्ल!",
+        "latin": "Baale hannu, bella!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಬೀರೋಕಂತ ಹೊರಟಿದ್ದಾಳೆ",
+      "translations": {
+        "en": "Little sister has set off to share them",
+        "hi": "बाँटने निकली है छोटी बहन"
+      },
+      "transliterations": {
+        "devanagari": "बीरोकंत होरटिद्दाळे",
+        "latin": "Beerokanta horatiddaale"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ತಂಗಿ ಕೇರಿಗೆಲ್ಲ.",
+      "translations": {
+        "en": "With everyone in the neighbourhood.",
+        "hi": "पूरे मोहल्ले के पास।"
+      },
+      "transliterations": {
+        "devanagari": "तंगि केरिगेल्ल.",
+        "latin": "Tangi kerigella."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಹೊರಟಿದ್ದಾಳೆ ಪುಟಾಣಿ ತಂಗಿ",
+      "translations": {
+        "en": "Off goes our tiny little sister,",
+        "hi": "निकल पड़ी नन्ही बहना,"
+      },
+      "transliterations": {
+        "devanagari": "होरटिद्दाळे पुटाणि तंगि",
+        "latin": "Horatiddaale putaani tangi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ತನ್ನ ಗೆಳತಿ ಜೋಡಿ!",
+      "translations": {
+        "en": "Together with her friend!",
+        "hi": "अपनी सहेली के संग!"
+      },
+      "transliterations": {
+        "devanagari": "तन्न गेळति जोडि!",
+        "latin": "Tanna gelati jodi!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ರಂಗೇನಳ್ಳಿ ರಂಗಿನ ಗೊಂಬಿ",
+      "translations": {
+        "en": "A colourful doll from Rangenahalli—",
+        "hi": "रंगेनहळ्ळि की रंगीन गुड़िया—"
+      },
+      "transliterations": {
+        "devanagari": "रंगेनळ्ळि रंगिन गोंबि",
+        "latin": "Rangenalli rangina gombi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಕಣ್ಣ ತುಂಬ ನೋಡಿ!",
+      "translations": {
+        "en": "Look to your heart's content!",
+        "hi": "जी भर देखो उसके रंग!"
+      },
+      "transliterations": {
+        "devanagari": "कण्ण तुंब नोडि!",
+        "latin": "Kanna tumba nodi!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಕೊಂಬನು ಹೆರೆದು, ಬಣ್ಣವ ಬಳಿದು",
+      "translations": {
+        "en": "Scraping the horns and painting them,",
+        "hi": "सींगों को घिसकर रंग लगाएँ,"
+      },
+      "transliterations": {
+        "devanagari": "कोंबनु हेरेदु, बण्णव बळिदु",
+        "latin": "Kombanu heredu, bannava balidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಎತ್ತು-ಹಸು-ಕರುವನ್ನು!",
+      "translations": {
+        "en": "The bullocks, cows and calves—",
+        "hi": "बैल, गाय और बछड़ों को!"
+      },
+      "transliterations": {
+        "devanagari": "एत्तु-हसु-करुवन्नु!",
+        "latin": "Ettu-hasu-karuvannu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ಕಿಚ್ಚನು ಹಾಯಿಸಿ ಕೊಡುವರು ಅಪ್ಪ",
+      "translations": {
+        "en": "Father leads them across the fire, then gives them",
+        "hi": "आग पार कराकर पिताजी दें"
+      },
+      "transliterations": {
+        "devanagari": "किच्चनु हायिसि कोडुवरु अप्प",
+        "latin": "Kichchanu haayisi koduvaru appa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಅಕ್ಕಿ-ಬೆಲ್ಲ-ಹಣ್ಣು!",
+      "translations": {
+        "en": "Rice, jaggery and fruit!",
+        "hi": "चावल, गुड़ और फल!"
+      },
+      "transliterations": {
+        "devanagari": "अक्कि-बेल्ल-हण्णु!",
+        "latin": "Akki-bella-hannu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "stanza": 6,
+      "text": "ಮಕ್ಕಳನೆಲ್ಲ ಹಸೆಯಲಿ ಕೂಡಿಸಿ",
+      "translations": {
+        "en": "Seating all the children on a ceremonial seat,",
+        "hi": "सब बच्चों को आसन पर बिठाकर,"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळनेल्ल हसेयलि कूडिसि",
+        "latin": "Makkalanella haseyali koodisi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "stanza": 6,
+      "text": "ಎಳ್ಳು-ಎಲಚಿ-ಅಚ್ಚು!",
+      "translations": {
+        "en": "Sesame, jujubes and sugar sweets—",
+        "hi": "तिल, बेर, साँचे की मिठाई!"
+      },
+      "transliterations": {
+        "devanagari": "एळ्ळु-एलचि-अच्चु!",
+        "latin": "Ellu-elachi-achchu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "stanza": 6,
+      "text": "ಸುರಿಯುವಾಗ ಅಮ್ಮ ಅಜ್ಜಿ",
+      "translations": {
+        "en": "Mother and Grandmother shower them over the children;",
+        "hi": "जब माँ और दादी बरसातीं,"
+      },
+      "transliterations": {
+        "devanagari": "सुरियुवाग अम्म अज्जि",
+        "latin": "Suriyuvaaga amma ajji"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "stanza": 6,
+      "text": "ಮಕ್ಕಳಿಗಚ್ಚು ಮೆಚ್ಚು!",
+      "translations": {
+        "en": "Oh, how the children love it!",
+        "hi": "बच्चों को बहुत सुहाई!"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळिगच्चु मेच्चु!",
+        "latin": "Makkaligachchu mechchu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-biru",
+      "text": "ಬೀರು",
+      "translations": {
+        "en": "distribute",
+        "hi": "बाँटना"
+      },
+      "transliterations": {
+        "devanagari": "बीरु",
+        "latin": "Beeru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-biru-def",
+      "ref": "vocab-biru",
+      "text": "ಹಂಚು, ವಿತರಿಸು",
+      "translations": {
+        "en": "share; hand out",
+        "hi": "बाँटना, वितरित करना"
+      },
+      "transliterations": {
+        "devanagari": "हंचु, वितरिसु",
+        "latin": "Hanchu, vitarisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kante",
+      "text": "ಕಂತೆ",
+      "translations": {
+        "en": "bundle",
+        "hi": "गट्ठर"
+      },
+      "transliterations": {
+        "devanagari": "कंते",
+        "latin": "Kante"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kante-def",
+      "ref": "vocab-kante",
+      "text": "ಕಟ್ಟು",
+      "translations": {
+        "en": "bunch",
+        "hi": "गठरी"
+      },
+      "transliterations": {
+        "devanagari": "कट्टु",
+        "latin": "Kattu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-keri",
+      "text": "ಕೇರಿ",
+      "translations": {
+        "en": "neighbourhood",
+        "hi": "मोहल्ला"
+      },
+      "transliterations": {
+        "devanagari": "केरि",
+        "latin": "Keri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-keri-def",
+      "ref": "vocab-keri",
+      "text": "ಓಣಿ",
+      "translations": {
+        "en": "lane",
+        "hi": "गली"
+      },
+      "transliterations": {
+        "devanagari": "ओणि",
+        "latin": "Oni"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kichchu",
+      "text": "ಕಿಚ್ಚು",
+      "translations": {
+        "en": "fire",
+        "hi": "आग"
+      },
+      "transliterations": {
+        "devanagari": "किच्चु",
+        "latin": "Kichchu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kichchu-def",
+      "ref": "vocab-kichchu",
+      "text": "ಬೆಂಕಿ",
+      "translations": {
+        "en": "flame; fire",
+        "hi": "अग्नि"
+      },
+      "transliterations": {
+        "devanagari": "बेंकि",
+        "latin": "Benki"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jodi",
+      "text": "ಜೋಡಿ",
+      "translations": {
+        "en": "pair",
+        "hi": "जोड़ी"
+      },
+      "transliterations": {
+        "devanagari": "जोडि",
+        "latin": "Jodi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jodi-def",
+      "ref": "vocab-jodi",
+      "text": "ಜೊತೆ",
+      "translations": {
+        "en": "company; together",
+        "hi": "साथ"
+      },
+      "transliterations": {
+        "devanagari": "जोते",
+        "latin": "Jote"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-hase",
+      "text": "ಹಸೆ",
+      "translations": {
+        "en": "ceremonial seat",
+        "hi": "मंगल आसन"
+      },
+      "transliterations": {
+        "devanagari": "हसे",
+        "latin": "Hase"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-hase-def",
+      "ref": "note-hase",
+      "text": "ಶುಭಕಾರ್ಯಗಳಿಗೆ ಹಾಕುವ ಆಸನ",
+      "translations": {
+        "en": "a seat arranged for auspicious ceremonies",
+        "hi": "शुभ कार्यों में लगाया जाने वाला आसन"
+      },
+      "transliterations": {
+        "devanagari": "शुभकार्यगळिगे हाकुव आसन",
+        "latin": "Shubhakaaryagalige haakuva aasana"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-jaratari",
+      "text": "ಜರತಾರಿ",
+      "translations": {
+        "en": "zari fabric",
+        "hi": "ज़रीदार कपड़ा"
+      },
+      "transliterations": {
+        "devanagari": "जरतारि",
+        "latin": "Jarataari"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-jaratari-def",
+      "ref": "note-jaratari",
+      "text": "ಜರಿಯಿಂದ ಕೂಡಿದ ವಸ್ತ್ರ/ಬಟ್ಟೆ",
+      "translations": {
+        "en": "cloth decorated with metallic zari thread",
+        "hi": "ज़री से सजा वस्त्र"
+      },
+      "transliterations": {
+        "devanagari": "जरियिंद कूडिद वस्त्र/बट्टे",
+        "latin": "Jariyinda koodida vastra/batte"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-elachi",
+      "text": "ಎಲಚಿ",
+      "translations": {
+        "en": "jujube",
+        "hi": "बेर"
+      },
+      "transliterations": {
+        "devanagari": "एलचि",
+        "latin": "Elachi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-elachi-def",
+      "ref": "note-elachi",
+      "text": "ಒಂದು ಜಾತಿಯ ಹಣ್ಣು",
+      "translations": {
+        "en": "a kind of fruit",
+        "hi": "एक प्रकार का फल"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु जातिय हण्णु",
+        "latin": "Ondu jaatiya hannu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-garimuri",
+      "text": "ಗರಿಮುರಿ ಬಟ್ಟೆ",
+      "translations": {
+        "en": "crisp new cloth",
+        "hi": "करारा नया कपड़ा"
+      },
+      "transliterations": {
+        "devanagari": "गरिमुरि बट्टे",
+        "latin": "Garimuri batte"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-garimuri-def",
+      "ref": "note-garimuri",
+      "text": "ಮಡಿಕೆ ಮುರಿಯದ ಬಟ್ಟೆ",
+      "translations": {
+        "en": "cloth whose folds are still crisp",
+        "hi": "कपड़ा जिसकी तहें अभी नहीं खुली हैं"
+      },
+      "transliterations": {
+        "devanagari": "मडिके मुरियद बट्टे",
+        "latin": "Madike muriyada batte"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ತಂಗಿಯು ಯಾವ ಲಂಗ ಹಾಕಿಕೊಂಡಿದ್ದಳು?",
+      "translations": {
+        "en": "What kind of skirt was little sister wearing?",
+        "hi": "छोटी बहन ने कैसा घाघरा पहना था?"
+      },
+      "transliterations": {
+        "devanagari": "तंगियु याव लंग हाकिकोंडिद्दळु?",
+        "latin": "Tangiyu yaava langa haakikondiddalu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಗೆಳತಿಯ ಜೊತೆ ತಂಗಿ ಕೇರಿಗೆ ಹೊರಟಿದ್ದು ಏಕೆ?",
+      "translations": {
+        "en": "Why did little sister go into the neighbourhood with her friend?",
+        "hi": "छोटी बहन सहेली के साथ मोहल्ले में क्यों निकली?"
+      },
+      "transliterations": {
+        "devanagari": "गेळतिय जोते तंगि केरिगे होरटिद्दु एके?",
+        "latin": "Gelatiya jote tangi kerige horatiddu eke?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಅಪ್ಪ ದನಕರುಗಳಿಗೆ ಏನು ಕೊಟ್ಟರು?",
+      "translations": {
+        "en": "What did Father give the cattle and calves?",
+        "hi": "पिताजी ने गाय-बछड़ों को क्या दिया?"
+      },
+      "transliterations": {
+        "devanagari": "अप्प दनकरुगळिगे एनु कोट्टरु?",
+        "latin": "Appa danakarugalige enu kottaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಮಕ್ಕಳನ್ನು ಹಸೆಯಲ್ಲಿ ಕೂರಿಸಿ ಏನು ಮಾಡುವರು?",
+      "translations": {
+        "en": "What do they do after seating the children on the ceremonial seat?",
+        "hi": "बच्चों को आसन पर बिठाकर क्या करते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळन्नु हसेयल्लि कूरिसि एनु माडुवरु?",
+        "latin": "Makkalannu haseyalli koorisi enu maaduvaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "‘ಸಂಕ್ರಾಂತಿ’ ಪದ್ಯವನ್ನು ಬರೆದ ಕವಿಯ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "Who wrote the poem “Sankranti”?",
+        "hi": "“संक्रांति” कविता के कवि का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "‘संक्रांति’ पद्यवन्नु बरेद कविय हेसरेनु?",
+        "latin": "‘sankraanti’ padyavannu bareda kaviya hesarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-p1",
+      "text": "‘ಅ’ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಾಕ್ಯಗಳನ್ನು ‘ಬ’ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಾಕ್ಯಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆ. ‘ಬ’: 1. ತಂಗಿ ಕೇರಿಗೆಲ್ಲ; 2. ಅಕ್ಕಿ-ಬೆಲ್ಲ-ಹಣ್ಣು; 3. ಮಕ್ಕಳಿಗಚ್ಚು ಮೆಚ್ಚು; 4. ಲಂಗ ಹಾಕಿಕೊಂಡು; 5. ಕಣ್ಣ ತುಂಬ ನೋಡಿ.",
+      "translations": {
+        "en": "Match the phrases in list ಅ with those in list ಬ. ಬ: 1. Little sister, to the whole neighbourhood; 2. Rice, jaggery and fruit; 3. The children love it; 4. Wearing a skirt; 5. Look to your heart's content.",
+        "hi": "सूची अ के वाक्यांशों का सूची ब से मिलान करो। ब: 1. छोटी बहन पूरे मोहल्ले में; 2. चावल, गुड़ और फल; 3. बच्चों को बहुत पसंद; 4. घाघरा पहनकर; 5. जी भर देखो।"
+      },
+      "transliterations": {
+        "devanagari": "‘अ’ पट्टियल्लिरुव वाक्यगळन्नु ‘ब’ पट्टियल्लिरुव वाक्यगळोंदिगे होंदिसि बरे. ‘ब’: 1. तंगि केरिगेल्ल; 2. अक्कि-बेल्ल-हण्णु; 3. मक्कळिगच्चु मेच्चु; 4. लंग हाकिकोंडु; 5. कण्ण तुंब नोडि.",
+        "latin": "‘a’ pattiyalliruva vaakyagalannu ‘ba’ pattiyalliruva vaakyagalondige hondisi bare. ‘ba’: 1. Tangi kerigella; 2. Akki-bella-hannu; 3. Makkaligachchu mechchu; 4. Langa haakikondu; 5. Kanna tumba nodi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಗರಿಮುರಿ ಜರತಾರಿ",
+      "translations": {
+        "en": "Crisp, rustling zari fabric",
+        "hi": "करारी ज़री वाली"
+      },
+      "transliterations": {
+        "devanagari": "गरिमुरि जरतारि",
+        "latin": "Garimuri jarataari"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಬೀರೋಕಂತ ಹೊರಟಿದ್ದಾಳೆ",
+      "translations": {
+        "en": "She has set off to distribute",
+        "hi": "बाँटने निकली है"
+      },
+      "transliterations": {
+        "devanagari": "बीरोकंत होरटिद्दाळे",
+        "latin": "Beerokanta horatiddaale"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ರಂಗೇನಳ್ಳಿ ರಂಗಿನ ಗೊಂಬೆ",
+      "translations": {
+        "en": "The colourful doll of Rangenahalli",
+        "hi": "रंगेनहळ्ळि की रंगीन गुड़िया"
+      },
+      "transliterations": {
+        "devanagari": "रंगेनळ्ळि रंगिन गोंबे",
+        "latin": "Rangenalli rangina gombe"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಕಿಚ್ಚನು ಹಾಯಿಸಿ ಕೊಡುವರು ಅಪ್ಪ",
+      "translations": {
+        "en": "Father leads them across the fire and gives",
+        "hi": "आग पार कराकर पिताजी देते"
+      },
+      "transliterations": {
+        "devanagari": "किच्चनु हायिसि कोडुवरु अप्प",
+        "latin": "Kichchanu haayisi koduvaru appa"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "ಸುರಿಯುವಾಗ ಅಮ್ಮ ಅಜ್ಜಿ",
+      "translations": {
+        "en": "When Mother and Grandmother shower them",
+        "hi": "जब माँ और दादी बरसाती हैं"
+      },
+      "transliterations": {
+        "devanagari": "सुरियुवाग अम्म अज्जि",
+        "latin": "Suriyuvaaga amma ajji"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p1",
+      "text": "ಪಠ್ಯವನ್ನು ಆಧರಿಸಿ ಈ ಘಟನೆಗಳನ್ನು ಅನುಕ್ರಮವಾಗಿ ಗುರುತಿಸಿ ಬರೆ.",
+      "translations": {
+        "en": "Use the text to put these events in order and write them.",
+        "hi": "पाठ के आधार पर घटनाओं का क्रम पहचानकर लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "पठ्यवन्नु आधरिसि ई घटनेगळन्नु अनुक्रमवागि गुरुतिसि बरे.",
+        "latin": "Pathyavannu aadharisi ee ghatanegalannu anukramavaagi gurutisi bare."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಮಕ್ಕಳನ್ನು ಹಸೆಯಲ್ಲಿ ಕೂರಿಸಿ, ಎಳ್ಳು-ಎಲಚಿ-ಅಚ್ಚುಗಳನ್ನು ಅಮ್ಮ ಅಜ್ಜಿ ಸುರಿಯುವರು.",
+      "translations": {
+        "en": "Mother and Grandmother seat the children on a ceremonial seat and shower sesame, jujubes and sugar sweets over them.",
+        "hi": "माँ और दादी बच्चों को आसन पर बिठाकर उन पर तिल, बेर और साँचे की मिठाइयाँ बरसाती हैं।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळन्नु हसेयल्लि कूरिसि, एळ्ळु-एलचि-अच्चुगळन्नु अम्म अज्जि सुरियुवरु.",
+        "latin": "Makkalannu haseyalli koorisi, ellu-elachi-achchugalannu amma ajji suriyuvaru."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಪುಟಾಣಿ ತಂಗಿ ತನ್ನ ಗೆಳತಿ ಜೊತೆ ಎಳ್ಳು, ಬೆಲ್ಲ ಬೀರಲು ಹೊರಟಳು.",
+      "translations": {
+        "en": "Little sister went with her friend to distribute sesame and jaggery.",
+        "hi": "नन्ही बहन सहेली के साथ तिल और गुड़ बाँटने निकली।"
+      },
+      "transliterations": {
+        "devanagari": "पुटाणि तंगि तन्न गेळति जोते एळ्ळु, बेल्ल बीरलु होरटळु.",
+        "latin": "Putaani tangi tanna gelati jote ellu, bella beeralu horatalu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ತಂಗಿಯು ಗರಿಮುರಿ ಜರತಾರಿ ಲಂಗ ಹಾಕಿಕೊಂಡಳು.",
+      "translations": {
+        "en": "Little sister put on a crisp, rustling zari skirt.",
+        "hi": "छोटी बहन ने करारा ज़री वाला घाघरा पहना।"
+      },
+      "transliterations": {
+        "devanagari": "तंगियु गरिमुरि जरतारि लंग हाकिकोंडळु.",
+        "latin": "Tangiyu garimuri jarataari langa haakikondalu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಎತ್ತು ಹಸು ಕರುಗಳನ್ನು ಕೊಂಬು ಹೆರೆದು ಬಣ್ಣವ ಬಳಿದು ಶೃಂಗಾರ ಮಾಡಿದರು.",
+      "translations": {
+        "en": "The bullocks, cows and calves were decorated by scraping and painting their horns.",
+        "hi": "बैल, गाय और बछड़ों के सींग घिसकर और रंग लगाकर उन्हें सजाया।"
+      },
+      "transliterations": {
+        "devanagari": "एत्तु हसु करुगळन्नु कोंबु हेरेदु बण्णव बळिदु शृंगार माडिदरु.",
+        "latin": "Ettu hasu karugalannu kombu heredu bannava balidu shrungaara maadidaru."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ನೀನು ಬೆಳಗ್ಗೆ ಎದ್ದ ನಂತರ ಶಾಲೆಗೆ ಹೋಗುವವರೆಗಿನ ನಾಲ್ಕು ಘಟನೆಗಳನ್ನು ನೆನಪಿಸಿಕೊಂಡು, ಅನುಕ್ರಮವಾಗಿ ಬರೆ.",
+      "translations": {
+        "en": "Recall four things that happen at home between getting up in the morning and leaving for school. Write them in order.",
+        "hi": "सुबह उठने से विद्यालय जाने तक घर में होने वाली चार घटनाएँ याद करके क्रम से लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "निम्म मनेयल्लि नीनु बेळग्गे एद्द नंतर शालेगे होगुववरेगिन नाल्कु घटनेगळन्नु नेनपिसिकोंडु, अनुक्रमवागि बरे.",
+        "latin": "Nimma maneyalli neenu belagge edda nantara shaalege hoguvavaregina naalku ghatanegalannu nenapisikondu, anukramavaagi bare."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-p1",
+      "text": "ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ‘ಗಂಡು’ ಎಂಬ ಅರ್ಥ ಬರುವ ಪದಗಳಿಗೆ ‘ಪುಲ್ಲಿಂಗ’ ಎಂದೂ ‘ಹೆಣ್ಣು’ ಎಂಬ ಅರ್ಥ ಬರುವ ಪದಗಳಿಗೆ ‘ಸ್ತ್ರೀಲಿಂಗ’ ಎಂದೂ ಹಾಗೂ ‘ಗಂಡು’ ‘ಹೆಣ್ಣು’ ಎಂಬ ಎರಡೂ ಅರ್ಥ ಬರದ ಪದಗಳಿಗೆ ‘ನಪುಂಸಕಲಿಂಗ’ ಎಂದು ಹೆಸರು.",
+      "translations": {
+        "en": "Remember: Words denoting males are masculine, words denoting females are feminine, and words denoting neither are neuter.",
+        "hi": "याद रखो: पुरुष का बोध कराने वाले शब्द पुल्लिंग, स्त्री का बोध कराने वाले स्त्रीलिंग और दोनों में से किसी का बोध न कराने वाले नपुंसकलिंग कहलाते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "निनगिदु तिळिदिरलि: ‘गंडु’ एंब अर्थ बरुव पदगळिगे ‘पुल्लिंग’ एंदू ‘हेण्णु’ एंब अर्थ बरुव पदगळिगे ‘स्त्रीलिंग’ एंदू हागू ‘गंडु’ ‘हेण्णु’ एंब एरडू अर्थ बरद पदगळिगे ‘नपुंसकलिंग’ एंदु हेसरु.",
+        "latin": "Ninagidu tilidirali: ‘gandu’ emba artha baruva padagalige ‘pullinga’ endoo ‘hennu’ emba artha baruva padagalige ‘streelinga’ endoo haagoo ‘gandu’ ‘hennu’ emba eradoo artha barada padagalige ‘napunsakalinga’ endu hesaru."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-p2",
+      "text": "ಕೆಳಗಿನ ವಾಕ್ಯಗಳನ್ನು ಆವರಣದಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಸೂಚನೆಗಳಿಗೆ ಅನುಸಾರವಾಗಿ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Rewrite the sentences according to the instructions in brackets.",
+        "hi": "कोष्ठक के निर्देशों के अनुसार वाक्य दोबारा लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "केळगिन वाक्यगळन्नु आवरणदल्लि कोट्टिरुव सूचनेगळिगे अनुसारवागि बरेयिरि.",
+        "latin": "Kelagina vaakyagalannu aavaranadalli kottiruva soochanegalige anusaaravaagi bareyiri."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಹುಡುಗಿಯು ತರಕಾರಿಯನ್ನು ತಂದಳು. (ಇದನ್ನು ಪುಲ್ಲಿಂಗ ರೂಪದಲ್ಲಿ ಬರೆ)",
+      "translations": {
+        "en": "The girl brought vegetables. (Write this in the masculine form.)",
+        "hi": "लड़की सब्ज़ी लाई। (इसे पुल्लिंग में लिखो।)"
+      },
+      "transliterations": {
+        "devanagari": "हुडुगियु तरकारियन्नु तंदळु. (इदन्नु पुल्लिंग रूपदल्लि बरे)",
+        "latin": "Hudugiyu tarakaariyannu tandalu. (Idannu pullinga roopadalli bare)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ರಾಜು ಗಾಡಿಯನ್ನು ಎಳೆದನು. (‘ರಾಜು’ ಎಂಬ ಪದದ ಬದಲಿಗೆ ‘ಎತ್ತು’ ಎಂಬ ಪದ ಬಳಸಿ, ವಾಕ್ಯ ರಚಿಸಿ)",
+      "translations": {
+        "en": "Raju pulled the cart. (Replace “Raju” with “bullock” and form the sentence.)",
+        "hi": "राजू ने गाड़ी खींची। (“राजू” की जगह “बैल” लगाकर वाक्य बनाओ।)"
+      },
+      "transliterations": {
+        "devanagari": "राजु गाडियन्नु एळेदनु. (‘राजु’ एंब पदद बदलिगे ‘एत्तु’ एंब पद बळसि, वाक्य रचिसि)",
+        "latin": "Raaju gaadiyannu eledanu. (‘raaju’ emba padada badalige ‘ettu’ emba pada balasi, vaakya rachisi)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಅಣ್ಣ ತಮ್ಮಂದಿರು ಸ್ನೇಹಿತರಂತೆ ಇದ್ದರು. (ಇದನ್ನು ಸ್ತ್ರೀಲಿಂಗ ರೂಪದಲ್ಲಿ ಬರೆ.)",
+      "translations": {
+        "en": "The elder and younger brothers were like friends. (Write this in the feminine form.)",
+        "hi": "बड़े और छोटे भाई मित्रों की तरह थे। (इसे स्त्रीलिंग में लिखो।)"
+      },
+      "transliterations": {
+        "devanagari": "अण्ण तम्मंदिरु स्नेहितरंते इद्दरु. (इदन्नु स्त्रीलिंग रूपदल्लि बरे.)",
+        "latin": "Anna tammandiru snehitarante iddaru. (Idannu streelinga roopadalli bare.)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಪುಲ್ಲಿಂಗ, ಸ್ತ್ರೀಲಿಂಗ, ನಪುಂಸಕ ಲಿಂಗಗಳಾಗಿ ವಿಂಗಡಿಸಿ ಬರೆ. (ಪುಸ್ತಕ, ರಾಣಿ, ತಮ್ಮ, ಮೇಜು, ಗೋಡೆ, ರಾಜ, ತಂಗಿ, ಅಕ್ಕ, ತಮ್ಮ, ಶಾಲೆ, ಅಣ್ಣ, ತಂಗಿ, ತಂದೆ, ತಾಯಿ, ಸಹೋದರಿ, ಗೆಳೆಯ, ಕುರ್ಚಿ, ಗೆಳತಿ)",
+      "translations": {
+        "en": "Classify these Kannada words as masculine, feminine or neuter. (book, queen, younger brother, table, wall, king, younger sister, elder sister, younger brother, school, elder brother, younger sister, father, mother, sister, male friend, chair, female friend)",
+        "hi": "इन कन्नड़ शब्दों को पुल्लिंग, स्त्रीलिंग और नपुंसकलिंग में बाँटकर लिखो। (पुस्तक, रानी, छोटा भाई, मेज़, दीवार, राजा, छोटी बहन, बड़ी बहन, छोटा भाई, विद्यालय, बड़ा भाई, छोटी बहन, पिता, माता, बहन, मित्र, कुर्सी, सहेली)"
+      },
+      "transliterations": {
+        "devanagari": "केळगे कोट्टिरुव पदगळन्नु पुल्लिंग, स्त्रीलिंग, नपुंसक लिंगगळागि विंगडिसि बरे. (पुस्तक, राणि, तम्म, मेजु, गोडे, राज, तंगि, अक्क, तम्म, शाले, अण्ण, तंगि, तंदे, तायि, सहोदरि, गेळेय, कुर्चि, गेळति)",
+        "latin": "Kelage kottiruva padagalannu pullinga, streelinga, napunsaka lingagalaagi vingadisi bare. (Pustaka, raani, tamma, meju, gode, raaja, tangi, akka, tamma, shaale, anna, tangi, tande, taayi, sahodari, geleya, kurchi, gelati)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಸಂಕ್ರಾಂತಿ ಪದ್ಯದಲ್ಲಿ ಬರುವ ಪ್ರಾಸ ಪದಗಳನ್ನು ಆರಿಸಿ ಬರೆ.",
+      "translations": {
+        "en": "Choose and write the rhyming words in the poem “Sankranti.”",
+        "hi": "“संक्रांति” कविता के तुकवाले शब्द चुनकर लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "संक्रांति पद्यदल्लि बरुव प्रास पदगळन्नु आरिसि बरे.",
+        "latin": "Sankraanti padyadalli baruva praasa padagalannu aarisi bare."
+      },
+      "type": "question"
+    }
+  ]
+}

@@ -12,9 +12,19 @@ import yaml
 from jsonschema import Draft7Validator
 
 from publication_holds import load_publication_holds
+from publication_identity import validate_publication_identity
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_DIR = REPO_ROOT / "schema"
+
+# Directories that may contain source.*.yaml but are not legacy board trees.
+SKIP_CHAPTER_ROOT_PREFIXES = (
+    "fixtures/",
+    "apps/",
+    "packages/",
+    "api/",
+    "content/",
+)
 
 SOURCE_SCHEMA = json.loads((SCHEMA_DIR / "source.schema.json").read_text(encoding="utf-8"))
 CONTRIBUTOR_SCHEMA = json.loads((SCHEMA_DIR / "contributor.schema.json").read_text(encoding="utf-8"))
@@ -36,6 +46,9 @@ class Errors(list):
 
 def find_chapter_dirs(root):
     for path in sorted(root.rglob("source.*.yaml")):
+        relative = path.relative_to(root).as_posix()
+        if any(relative.startswith(prefix) for prefix in SKIP_CHAPTER_ROOT_PREFIXES):
+            continue
         yield path.parent
 
 
@@ -137,10 +150,13 @@ def validate_contributor(path, source_ids_by_filename, errors):
 
 def main():
     errors = Errors()
+    holds = {}
     try:
-        load_publication_holds(REPO_ROOT)
+        holds = load_publication_holds(REPO_ROOT)
     except (ValueError, OSError) as error:
         errors.append(f"API publication holds: {error}")
+
+    validate_publication_identity(REPO_ROOT, errors, holds=holds)
 
     for chapter_dir in find_chapter_dirs(REPO_ROOT):
         source_ids_by_filename = {}

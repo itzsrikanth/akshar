@@ -36,7 +36,11 @@ SCRIPT_CODES = {
 
 
 def find_chapter_dirs(root):
+    skip_prefixes = ("fixtures/", "apps/", "packages/", "api/", "content/")
     for path in sorted(root.rglob("source.*.yaml")):
+        relative = path.relative_to(root).as_posix()
+        if any(relative.startswith(prefix) for prefix in skip_prefixes):
+            continue
         yield path.parent
 
 

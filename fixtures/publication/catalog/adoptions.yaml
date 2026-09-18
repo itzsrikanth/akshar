@@ -1,0 +1,19 @@
+adoptions:
+  - id: savi-kannada-grade3-first-language
+    bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 3
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Official 2026–27 textbook listing; maintainer confirms use.
+  - id: savi-kannada-grade5-second-language
+    bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 5
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer-reported use on 2026-09-13; institution unspecified.

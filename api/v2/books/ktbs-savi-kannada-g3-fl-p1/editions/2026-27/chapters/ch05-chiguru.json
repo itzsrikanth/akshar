@@ -1,0 +1,1899 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g3-fl-p1",
+    "chapterId": "ch05-chiguru",
+    "editionId": "2026-27",
+    "number": 5
+  },
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Saamarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ओंदु वाक्यदल्लि उत्तरिसु.",
+      "en": "Exercise A — Answer in one sentence.",
+      "hi": "अभ्यास अ — एक वाक्य में उत्तर दो।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸು.",
+      "latin": "Abhyaasa a — ondu vaakyadalli uttarisu."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — होंदिसि बरे.",
+      "en": "Exercise B — Match and write.",
+      "hi": "अभ्यास आ — मिलान करके लिखो।",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಹೊಂದಿಸಿ ಬರೆ.",
+      "latin": "Abhyaasa aa — hondisi bare."
+    },
+    "exercise-C": {
+      "devanagari": "सामर्थ्याधारित चटुवटिके अ",
+      "en": "Competency-based activity A",
+      "hi": "क्षमता-आधारित गतिविधि अ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Saamarthyaadhaarita chatuvatike a"
+    },
+    "exercise-D": {
+      "devanagari": "सामर्थ्याधारित चटुवटिके आ",
+      "en": "Competency-based activity B",
+      "hi": "क्षमता-आधारित गतिविधि आ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಆ",
+      "latin": "Saamarthyaadhaarita chatuvatike aa"
+    },
+    "exercise-E": {
+      "devanagari": "सामर्थ्याधारित चटुवटिके इ",
+      "en": "Competency-based activity C",
+      "hi": "क्षमता-आधारित गतिविधि इ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಇ",
+      "latin": "Saamarthyaadhaarita chatuvatike i"
+    },
+    "exercise-F": {
+      "devanagari": "सामर्थ्याधारित चटुवटिके ई",
+      "en": "Competency-based activity D",
+      "hi": "क्षमता-आधारित गतिविधि ई",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಈ",
+      "latin": "Saamarthyaadhaarita chatuvatike ee"
+    },
+    "exercise-G": {
+      "devanagari": "सामर्थ्याधारित चटुवटिके उ",
+      "en": "Competency-based activity E",
+      "hi": "क्षमता-आधारित गतिविधि उ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಉ",
+      "latin": "Saamarthyaadhaarita chatuvatike u"
+    },
+    "exercise-H": {
+      "devanagari": "सामर्थ्याधारित चटुवटिके ऊ",
+      "en": "Competency-based activity F",
+      "hi": "क्षमता-आधारित गतिविधि ऊ",
+      "kn": "ಸಾಮರ್ಥ್ಯಾಧಾರಿತ ಚಟುವಟಿಕೆ ಊ",
+      "latin": "Saamarthyaadhaarita chatuvatike oo"
+    },
+    "exercise-I": {
+      "devanagari": "भाषाभ्यास अ",
+      "en": "Language practice A",
+      "hi": "भाषा-अभ्यास अ",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಅ",
+      "latin": "Bhaashaabhyaasa a"
+    },
+    "exercise-J": {
+      "devanagari": "भाषा चटुवटिके अ",
+      "en": "Language activity A",
+      "hi": "भाषा-गतिविधि अ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Bhaashaa chatuvatike a"
+    },
+    "exercise-K": {
+      "devanagari": "भाषा चटुवटिके आ",
+      "en": "Language activity B",
+      "hi": "भाषा-गतिविधि आ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ",
+      "latin": "Bhaashaa chatuvatike aa"
+    },
+    "exercise-L": {
+      "devanagari": "भाषा चटुवटिके इ",
+      "en": "Language activity C",
+      "hi": "भाषा-गतिविधि इ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ",
+      "latin": "Bhaashaa chatuvatike i"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "Pravesha"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "poem": {
+      "devanagari": "चुटुकु",
+      "en": "Short verse",
+      "hi": "लघु कविता",
+      "kn": "ಚುಟುಕು",
+      "latin": "Chutuku"
+    },
+    "story": {
+      "devanagari": "पाठ मत्तु शाला पत्रिके",
+      "en": "Lesson and school magazine",
+      "hi": "पाठ और विद्यालय पत्रिका",
+      "kn": "ಪಾಠ ಮತ್ತು ಶಾಲಾ ಪತ್ರಿಕೆ",
+      "latin": "Paatha mattu shaalaa patrike"
+    },
+    "title": {
+      "devanagari": "चिगुरु",
+      "en": "Sprout",
+      "hi": "अंकुर",
+      "kn": "ಚಿಗುರು",
+      "latin": "Chiguru"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 3,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch05-chiguru",
+    "source_url": "https://diksha.gov.in/dial/X6D4P9",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಚಿಗುರು"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "competency",
+      "text": "ಸಹಪಾಠಿಗಳ ಕೈ ಬರೆಹವನ್ನು ಓದುವುದು.",
+      "translations": {
+        "en": "Reading classmates' handwriting.",
+        "hi": "सहपाठियों की लिखावट पढ़ना।"
+      },
+      "transliterations": {
+        "devanagari": "सहपाठिगळ कै बरेहवन्नु ओदुवुदु.",
+        "latin": "Sahapaathigala kai barehavannu oduvudu."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಪಠ್ಯ ಪುಸ್ತಕ, ಮದುವೆ, ಗೃಹಪ್ರವೇಶ ಮುಂತಾದ ಆಮಂತ್ರಣ ಪತ್ರಿಕೆ, ಸಮಾಚಾರ ಪತ್ರಿಕೆಗಳನ್ನು ನೋಡಿರುವೆ. ಇವು ಮುದ್ರಿತ ರೂಪದಲ್ಲಿವೆ. ನಾವು ಇವುಗಳಲ್ಲಿನ ಮುದ್ರಿತ ವಿಷಯಗಳನ್ನು ಓದಿ ತಿಳಿಯುತ್ತೇವೆ.",
+      "translations": {
+        "en": "You have seen textbooks, invitations to weddings and housewarmings, and newspapers. These are printed. We read their printed contents to learn what they say.",
+        "hi": "तुमने पाठ्यपुस्तकें, विवाह और गृहप्रवेश के निमंत्रण-पत्र तथा समाचार-पत्र देखे हैं। ये छपे हुए होते हैं। हम इनमें छपी बातें पढ़कर जानते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "पठ्य पुस्तक, मदुवे, गृहप्रवेश मुंताद आमंत्रण पत्रिके, समाचार पत्रिकेगळन्नु नोडिरुवे. इवु मुद्रित रूपदल्लिवे. नावु इवुगळल्लिन मुद्रित विषयगळन्नु ओदि तिळियुत्तेवे.",
+        "latin": "Pathya pustaka, maduve, gruhapravesha muntaada aamantrana patrike, samaachaara patrikegalannu nodiruve. Ivu mudrita roopadallive. Naavu ivugalallina mudrita vishayagalannu odi tiliyutteve."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ನಾವು ಮುದ್ರಿತ ವಿಷಯಗಳನ್ನು ಮಾತ್ರ ಓದುವುದಿಲ್ಲ. ಕೆಲವು ವೇಳೆ ಕೈಬರೆಹದಲ್ಲಿರುವ ವಿಷಯಗಳನ್ನು ಓದಿ ತಿಳಿಯುತ್ತೇವೆ. ಅಲ್ಲದೆ ಹೇಳಬೇಕಾದುದನ್ನು ಅಥವಾ ಆಲೋಚಿಸಿದ್ದನ್ನು ಕೈಬರೆಹದಲ್ಲಿ ಬರೆಯುತ್ತೇವೆ ಅಲ್ಲವೇ?",
+      "translations": {
+        "en": "We do not read only printed material. Sometimes we read things written by hand. We also write down by hand what we wish to say or what we have thought, don't we?",
+        "hi": "हम केवल छपी बातें ही नहीं पढ़ते। कभी-कभी हाथ से लिखी बातें भी पढ़ते हैं। जो कहना चाहते हैं या सोचते हैं, उसे हाथ से लिखते भी हैं, है ना?"
+      },
+      "transliterations": {
+        "devanagari": "नावु मुद्रित विषयगळन्नु मात्र ओदुवुदिल्ल. केलवु वेळे कैबरेहदल्लिरुव विषयगळन्नु ओदि तिळियुत्तेवे. अल्लदे हेळबेकादुदन्नु अथवा आलोचिसिद्दन्नु कैबरेहदल्लि बरेयुत्तेवे अल्लवे?",
+        "latin": "Naavu mudrita vishayagalannu maatra oduvudilla. Kelavu vele kaibarehadalliruva vishayagalannu odi tiliyutteve. Allade helabekaadudannu athavaa aalochisiddannu kaibarehadalli bareyutteve allave?"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-3",
+      "section": "intro",
+      "text": "ನಿನ್ನ ಶಾಲಾ ಪತ್ರಿಕೆಯಲ್ಲಿ ನಿನ್ನ ಲೇಖನ ಪ್ರಕಟವಾಗಿರಬಹುದು. ಈ ಶಾಲಾ ಪತ್ರಿಕೆಯಲ್ಲಿರುವ ಕೈಬರೆಹದ ಲೇಖನವನ್ನು ಓದಿ ತಿಳಿ. ಕೈಬರೆಹದಲ್ಲಿನ ವೈವಿಧ್ಯತೆಯನ್ನು ಗುರುತಿಸು.",
+      "translations": {
+        "en": "Your article may have appeared in your school magazine. Read the handwritten articles in this school magazine and notice the different styles of handwriting.",
+        "hi": "तुम्हारा लेख तुम्हारी विद्यालय पत्रिका में छपा होगा। इस विद्यालय पत्रिका के हस्तलिखित लेख पढ़ो। लिखावट में भिन्नताएँ पहचानो।"
+      },
+      "transliterations": {
+        "devanagari": "निन्न शाला पत्रिकेयल्लि निन्न लेखन प्रकटवागिरबहुदु. ई शाला पत्रिकेयल्लिरुव कैबरेहद लेखनवन्नु ओदि तिळि. कैबरेहदल्लिन वैविध्यतेयन्नु गुरुतिसु.",
+        "latin": "Ninna shaalaa patrikeyalli ninna lekhana prakatavaagirabahudu. Ee shaalaa patrikeyalliruva kaibarehada lekhanavannu odi tili. Kaibarehadallina vaividhyateyannu gurutisu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಅಂದು ಶನಿವಾರ. ಸಂಪಾದಕ ಮಂಡಳಿಯವರು ವಿದ್ಯಾರ್ಥಿಗಳಿಂದ ಬಂದ ಲೇಖನಗಳನ್ನು ಪರಿಶೀಲಿಸಿದರು. ಉತ್ತಮ ಲೇಖನಗಳನ್ನು ಆಯ್ದು ಪತ್ರಿಕೆಯನ್ನು ಸಿದ್ಧಪಡಿಸಿ ಪ್ರಕಟಿಸಿದರು.",
+      "translations": {
+        "en": "It was Saturday. The editorial board examined the articles sent in by pupils. They chose good articles, prepared the magazine and published it.",
+        "hi": "उस दिन शनिवार था। संपादक मंडल ने विद्यार्थियों के लेखों की जाँच की। अच्छे लेख चुनकर पत्रिका तैयार की और प्रकाशित की।"
+      },
+      "transliterations": {
+        "devanagari": "अंदु शनिवार. संपादक मंडळियवरु विद्यार्थिगळिंद बंद लेखनगळन्नु परिशीलिसिदरु. उत्तम लेखनगळन्नु आय्दु पत्रिकेयन्नु सिद्धपडिसि प्रकटिसिदरु.",
+        "latin": "Andu shanivaara. Sampaadaka mandaliyavaru vidyaarthigalinda banda lekhanagalannu parisheelisidaru. Uttama lekhanagalannu aaydu patrikeyannu siddhapadisi prakatisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ರಾಧಾ ಪತ್ರಿಕೆಯನ್ನು ನೋಡಿದಳು. ಕುತೂಹಲದಿಂದ ಓದಲು ಮುಂದಾದಳು. ಕೆಲವು ಲೇಖನಗಳನ್ನು ಸರಾಗವಾಗಿ ಓದಿದಳು. ಆದರೆ ಕೆಲವು ಲೇಖನಗಳನ್ನು ಓದಲು ಕಷ್ಟಪಟ್ಟಳು. ಏಕಿರಬಹುದು? ಹೇಳಬಲ್ಲೆಯಾ? ಹಾಗಿದ್ದರೆ ಮೊದಲಿಗೆ ಈ ಪತ್ರಿಕೆಯನ್ನು ಓದು.",
+      "translations": {
+        "en": "Radha saw the magazine and eagerly began reading. She read some articles easily, but found others difficult. Why might that be? Can you tell? First, read this magazine.",
+        "hi": "राधा ने पत्रिका देखी और उत्सुकता से पढ़ने लगी। उसने कुछ लेख आसानी से पढ़े, पर कुछ पढ़ने में कठिनाई हुई। क्यों हुई होगी? क्या तुम बता सकते हो? पहले यह पत्रिका पढ़ो।"
+      },
+      "transliterations": {
+        "devanagari": "राधा पत्रिकेयन्नु नोडिदळु. कुतूहलदिंद ओदलु मुंदादळु. केलवु लेखनगळन्नु सरागवागि ओदिदळु. आदरे केलवु लेखनगळन्नु ओदलु कष्टपट्टळु. एकिरबहुदु? हेळबल्लेया? हागिद्दरे मोदलिगे ई पत्रिकेयन्नु ओदु.",
+        "latin": "Raadhaa patrikeyannu nodidalu. Kutoohaladinda odalu mundaadalu. Kelavu lekhanagalannu saraagavaagi odidalu. Aadare kelavu lekhanagalannu odalu kashtapattalu. Ekirabahudu? Helaballeyaa? Haagiddare modalige ee patrikeyannu odu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಶಾಲಾ ಪತ್ರಿಕೆ — ಚಿಗುರು — ಜೂನ್ 2024",
+      "translations": {
+        "en": "School magazine — Chiguru (New Shoot) — June 2024",
+        "hi": "विद्यालय पत्रिका — चिगुरु (कोंपल) — जून 2024"
+      },
+      "transliterations": {
+        "devanagari": "शाला पत्रिके — चिगुरु — जून् 2024",
+        "latin": "Shaalaa patrike — chiguru — joon 2024"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಮಾವು: ಮಾವು ಹಣ್ಣುಗಳ ರಾಜ. ಇದರಲ್ಲಿ ಬಾದಾಮಿ, ರಸ, ಮಲಗೋಬ ಮುಂತಾದ ವಿಧಗಳಿವೆ. — ಯೂಸುಫ್, 4ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Mango: The mango is the king of fruits. Its varieties include Badami, Rasa and Malagoba. — Yusuf, Class 4",
+        "hi": "आम: आम फलों का राजा है। इसकी बादामी, रस, मलगोबा आदि किस्में हैं। — यूसुफ़, कक्षा 4"
+      },
+      "transliterations": {
+        "devanagari": "मावु: मावु हण्णुगळ राज. इदरल्लि बादामि, रस, मलगोब मुंताद विधगळिवे. — यूसुफ्, 4ने तरगति",
+        "latin": "Maavu: maavu hannugala raaja. Idaralli baadaami, rasa, malagoba muntaada vidhagalive. — yoosuph, 4ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಚಿಕ್ಕ ಮಕ್ಕಳಿಗೆ ಬರಿ ಭಾನಂಗಳದ",
+      "translations": {
+        "en": "For little children, just the sky's",
+        "hi": "छोटे बच्चों के लिए आकाश की"
+      },
+      "transliterations": {
+        "devanagari": "चिक्क मक्कळिगे बरि भानंगळद",
+        "latin": "Chikka makkalige bari bhaanangalada"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಚೆಂಡು,",
+      "translations": {
+        "en": "Ball,",
+        "hi": "गेंद,"
+      },
+      "transliterations": {
+        "devanagari": "चेंडु,",
+        "latin": "Chendu,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ವಿಜ್ಞಾನಿಗಳಿಗಿಲ್ಲಿ ಬರಿ ಕಲ್ಲು ಗುಂಡು",
+      "translations": {
+        "en": "For scientists here, just a ball of rock.",
+        "hi": "वैज्ञानिकों के लिए यहाँ पत्थर का गोला।"
+      },
+      "transliterations": {
+        "devanagari": "विज्ञानिगळिगिल्लि बरि कल्लु गुंडु",
+        "latin": "Vijnyaanigaligilli bari kallu gundu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಚುಟುಕು ಸಂಗ್ರಹ: ಜಾಹ್ನವಿ, 3ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Short verse collected by Jahnavi, Class 3",
+        "hi": "लघु कविता का संग्रह: जाह्नवी, कक्षा 3"
+      },
+      "transliterations": {
+        "devanagari": "चुटुकु संग्रह: जाह्नवि, 3ने तरगति",
+        "latin": "Chutuku sangraha: jaahnavi, 3ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಚಿತ್ರಕ್ಕೆ ಬಣ್ಣ ಹಾಕಿ. ಚಿತ್ರ ಸಂಗ್ರಹ: ವಿನಾಯಕ, 3ನೇ ತರಗತಿ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 30, PDF ಪುಟ 43 (1ರಿಂದ ಎಣಿಕೆ), ಶಾಲಾ ಪತ್ರಿಕೆಯ ಎಡಭಾಗದ ಸಿಂಹದ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "Colour the picture. Picture collected by Vinayaka, Class 3. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 30, PDF page 43 (counting from 1), lion illustration on the left of the school magazine.]",
+        "hi": "चित्र में रंग भरो। चित्र-संग्रह: विनायक, कक्षा 3। [संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 30, PDF पृष्ठ 43 (गिनती 1 से), विद्यालय पत्रिका के बाईं ओर शेर का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "चित्रक्के बण्ण हाकि. चित्र संग्रह: विनायक, 3ने तरगति. [संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 30, PDF पुट 43 (1रिंद एणिके), शाला पत्रिकेय एडभागद सिंहद चित्र.]",
+        "latin": "Chitrakke banna haaki. Chitra sangraha: vinaayaka, 3ne taragati. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 30, PDF puta 43 (1rinda enike), shaalaa patrikeya edabhaagada sinhada chitra.]"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಸುಭಾಷಿತ: ತ್ಯಾಗ, ಪ್ರೀತಿ, ಕರುಣೆ ಮತ್ತು ಪ್ರಾಮಾಣಿಕತೆಯೇ ನಿಜವಾದ ಶಿಕ್ಷಣ. — ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ. ಸಂಗ್ರಹ: ಜಾವೇದ್, 5ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Wise saying: Sacrifice, love, compassion and honesty are true education. — Swami Vivekananda. Collected by Javed, Class 5",
+        "hi": "सुभाषित: त्याग, प्रेम, करुणा और ईमानदारी ही सच्ची शिक्षा हैं। — स्वामी विवेकानंद। संग्रह: जावेद, कक्षा 5"
+      },
+      "transliterations": {
+        "devanagari": "सुभाषित: त्याग, प्रीति, करुणे मत्तु प्रामाणिकतेये निजवाद शिक्षण. — स्वामि विवेकानंद. संग्रह: जावेद्, 5ने तरगति",
+        "latin": "Subhaashita: tyaaga, preeti, karune mattu praamaanikateye nijavaada shikshana. — svaami vivekaananda. Sangraha: jaaved, 5ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ನುಡಿಗಟ್ಟು — ಅರ್ಥ: ಎಳ್ಳಷ್ಟು — ಅತ್ಯಲ್ಪ; ಕಂಬಿ ಕೀಳು — ಓಡಿ ಹೋಗು. — ವಿವೇಕ್, 5ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Idioms — meanings: As much as a sesame seed — very little; pull out the bars — run away. — Vivek, Class 5",
+        "hi": "मुहावरे — अर्थ: तिल भर — बहुत थोड़ा; सलाखें उखाड़ना — भाग जाना। — विवेक, कक्षा 5"
+      },
+      "transliterations": {
+        "devanagari": "नुडिगट्टु — अर्थ: एळ्ळष्टु — अत्यल्प; कंबि कीळु — ओडि होगु. — विवेक्, 5ने तरगति",
+        "latin": "Nudigattu — artha: ellashtu — atyalpa; kambi keelu — odi hogu. — vivek, 5ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n9",
+      "section": "story",
+      "text": "ವ್ಯವಕಲನ ಮಾಡು — ಗುಣಲಬ್ಧ ತಿಳಿ! ಉದಾ: 36 × 9 = 324. 36ರ ಮುಂದೆ ಸೊನ್ನೆ ಸೇರಿಸಿ ಬರೆ: 360. 36ನ್ನು ಕಳೆ: −36. ಉಳಿಕೆ (ಇದುವೇ 36 × 9ರ ಗುಣಲಬ್ಧ): 324.",
+      "translations": {
+        "en": "Subtract to find the product! Example: 36 × 9 = 324. Add a zero after 36 to make 360. Subtract 36. The remainder (the product of 36 × 9) is 324.",
+        "hi": "घटाकर गुणनफल जानो! उदाहरण: 36 × 9 = 324। 36 के बाद शून्य लगाओ: 360। 36 घटाओ: −36। शेष (यही 36 × 9 का गुणनफल है): 324।"
+      },
+      "transliterations": {
+        "devanagari": "व्यवकलन माडु — गुणलब्ध तिळि! उदा: 36 × 9 = 324. 36र मुंदे सोन्ने सेरिसि बरे: 360. 36न्नु कळे: −36. उळिके (इदुवे 36 × 9र गुणलब्ध): 324.",
+        "latin": "Vyavakalana maadu — gunalabdha tili! Udaa: 36 × 9 = 324. 36ra munde sonne serisi bare: 360. 36nnu kale: −36. Ulike (Iduve 36 × 9ra gunalabdha): 324."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n10",
+      "section": "story",
+      "text": "ಗಮನಿಸು: 9ರಿಂದ ಗುಣಿಸಬೇಕಾದ ಯಾವುದೇ ಸಂಖ್ಯೆಯ ಗುಣಲಬ್ಧ ತಿಳಿಯಲು ಈ ಕ್ರಮ ಅನುಸರಿಸಿ ನೋಡು. — ಹರ್ಷಿಣಿ, 5ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Notice: Try this method to find the product of any number multiplied by 9. — Harshini, Class 5",
+        "hi": "ध्यान दो: किसी भी संख्या को 9 से गुणा करने का गुणनफल जानने के लिए यह तरीका आज़माओ। — हर्षिणी, कक्षा 5"
+      },
+      "transliterations": {
+        "devanagari": "गमनिसु: 9रिंद गुणिसबेकाद यावुदे संख्येय गुणलब्ध तिळियलु ई क्रम अनुसरिसि नोडु. — हर्षिणि, 5ने तरगति",
+        "latin": "Gamanisu: 9rinda gunisabekaada yaavude sankhyeya gunalabdha tiliyalu ee krama anusarisi nodu. — harshini, 5ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n11",
+      "section": "story",
+      "text": "ಚಿತ್ರಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಹುಡುಕಿ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 30, PDF ಪುಟ 43 (1ರಿಂದ ಎಣಿಕೆ), ಬಲಕೆಳಗಿನ ಎರಡು ಪಕ್ಷಿಗಳ ಚಿತ್ರಗಳು.]",
+      "translations": {
+        "en": "Find the differences between the pictures. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 30, PDF page 43 (counting from 1), the two bird scenes at the lower right.]",
+        "hi": "चित्रों में अंतर खोजो। [संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 30, PDF पृष्ठ 43 (गिनती 1 से), नीचे दाईं ओर पक्षियों वाले दो चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "चित्रगळल्लि व्यत्यास हुडुकि. [संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 30, PDF पुट 43 (1रिंद एणिके), बलकेळगिन एरडु पक्षिगळ चित्रगळु.]",
+        "latin": "Chitragalalli vyatyaasa huduki. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 30, PDF puta 43 (1rinda enike), balakelagina eradu pakshigala chitragalu.]"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n12",
+      "section": "story",
+      "text": "ನಿಮಗಿದು ತಿಳಿದಿರಲಿ: ಸರ್. ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯನವರ ದೂರದೃಷ್ಟಿಯ ಯೋಜನೆಯಿಂದ ಮಂಡ್ಯ ಜಿಲ್ಲೆಯ ಶ್ರೀರಂಗಪಟ್ಟಣ ತಾಲ್ಲೂಕಿನಲ್ಲಿ ಕೃಷ್ಣರಾಜ ಅಣೆಕಟ್ಟು ಕಟ್ಟಲಾಗಿದೆ. ಇದರಿಂದ ಆ ಭಾಗದ ರೈತರಿಗೆ ತುಂಬಾ ಅನುಕೂಲವಾಗಿದೆ. — ಮಾಲ, 4ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Did you know? The Krishnaraja dam in Srirangapatna taluk of Mandya district was built through Sir M. Visvesvaraya's far-sighted planning. It has greatly helped the farmers of that region. — Mala, Class 4",
+        "hi": "यह जान लो: सर एम. विश्वेश्वरैया की दूरदर्शी योजना से मंड्या ज़िले के श्रीरंगपट्टण तालुक में कृष्णराज बाँध बनाया गया। इससे उस क्षेत्र के किसानों को बहुत सुविधा हुई है। — माला, कक्षा 4"
+      },
+      "transliterations": {
+        "devanagari": "निमगिदु तिळिदिरलि: सर्. एं. विश्वेश्वरय्यनवर दूरदृष्टिय योजनेयिंद मंड्य जिल्लेय श्रीरंगपट्टण ताल्लूकिनल्लि कृष्णराज अणेकट्टु कट्टलागिदे. इदरिंद आ भागद रैतरिगे तुंबा अनुकूलवागिदे. — माल, 4ने तरगति",
+        "latin": "Nimagidu tilidirali: sar. Em. Vishveshvarayyanavara dooradrushtiya yojaneyinda mandya jilleya shreerangapattana taallookinalli krushnaraaja anekattu kattalaagide. Idarinda aa bhaagada raitarige tumbaa anukoolavaagide. — maala, 4ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n13",
+      "section": "story",
+      "text": "ಜಲಪಾತ: ಜೋಗ ಜಲಪಾತ ಲೋಕ ವಿಖ್ಯಾತ. ಕನ್ನಡ ನಾಡಿನ ಹೆಮ್ಮೆಯ ತಾಣ. ಮಲೆನಾಡಿನ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಸಾಗರ ತಾಲ್ಲೂಕಿನ ಜೋಗ್ ಹಳ್ಳಿಯಲ್ಲಿ ಇದೆ. — ಸತೀಶ್, 5ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Waterfall: Jog Falls is world-famous, a place of pride for Karnataka. It is in Jog village, Sagara taluk, Shivamogga district, in Malenadu. — Satish, Class 5",
+        "hi": "जलप्रपात: जोग जलप्रपात विश्वप्रसिद्ध है और कर्नाटक का गौरव है। यह मलेनाडु के शिवमोग्गा ज़िले के सागर तालुक के जोग गाँव में है। — सतीश, कक्षा 5"
+      },
+      "transliterations": {
+        "devanagari": "जलपात: जोग जलपात लोक विख्यात. कन्नड नाडिन हेम्मेय ताण. मलेनाडिन शिवमोग्ग जिल्लेय सागर ताल्लूकिन जोग् हळ्ळियल्लि इदे. — सतीश्, 5ने तरगति",
+        "latin": "Jalapaata: joga jalapaata loka vikhyaata. Kannada naadina hemmeya taana. Malenaadina shivamogga jilleya saagara taallookina jog halliyalli ide. — sateesh, 5ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n14",
+      "section": "story",
+      "text": "ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ: ಅಮೇರಿಕಾದಲ್ಲಿ ಹಿಂದೂ ಧರ್ಮದ ಹಿರಿಮೆಯನ್ನು ಎತ್ತಿ ಸಾರಿದರು. ಇವರ ಬಾಲ್ಯದ ಹೆಸರು ನರೇಂದ್ರ. ತಂದೆ ವಿಶ್ವನಾಥ ದತ್ತ. ತಾಯಿ ಭುವನೇಶ್ವರಿ ದೇವಿ. — ವಿನಾಯಕ, 3ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Swami Vivekananda: He proclaimed the greatness of Hinduism in America. His childhood name was Narendra. His father was Vishwanath Datta and his mother was Bhuvaneshwari Devi. — Vinayaka, Class 3",
+        "hi": "स्वामी विवेकानंद: उन्होंने अमेरिका में हिंदू धर्म की महिमा बताई। उनका बचपन का नाम नरेंद्र था। पिता विश्वनाथ दत्त और माता भुवनेश्वरी देवी थीं। — विनायक, कक्षा 3"
+      },
+      "transliterations": {
+        "devanagari": "स्वामि विवेकानंद: अमेरिकादल्लि हिंदू धर्मद हिरिमेयन्नु एत्ति सारिदरु. इवर बाल्यद हेसरु नरेंद्र. तंदे विश्वनाथ दत्त. तायि भुवनेश्वरि देवि. — विनायक, 3ने तरगति",
+        "latin": "Svaami vivekaananda: amerikaadalli hindoo dharmada hirimeyannu etti saaridaru. Ivara baalyada hesaru narendra. Tande vishvanaatha datta. Taayi bhuvaneshvari devi. — vinaayaka, 3ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n15",
+      "section": "story",
+      "text": "ನಾಡಹಬ್ಬ: ನಮ್ಮ ನಾಡ ಹಬ್ಬ ದಸರಾ. ಇದನ್ನು ಶರನ್ನವರಾತ್ರಿ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ. ಮೈಸೂರಿನ ದಸರಾ ರಾಜ್ಯದ ಪರಂಪರೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಇಲ್ಲಿನ ಜಂಬೂ ಸವಾರಿ ಆಕರ್ಷಣೀಯ. — ಥಾಮಸ್, 5ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "State festival: Dasara is our state festival. It is also called Sharannavaratri. Mysuru Dasara reflects the state's traditions. Its Jamboo Savari elephant procession is attractive. — Thomas, Class 5",
+        "hi": "राज्य का पर्व: दशहरा हमारे राज्य का पर्व है। इसे शरन्नवरात्रि भी कहते हैं। मैसूर का दशहरा राज्य की परंपरा दर्शाता है। यहाँ की जंबू सवारी, हाथियों की शोभायात्रा, आकर्षक होती है। — थॉमस, कक्षा 5"
+      },
+      "transliterations": {
+        "devanagari": "नाडहब्ब: नम्म नाड हब्ब दसरा. इदन्नु शरन्नवरात्रि एंदू करेयुत्तारे. मैसूरिन दसरा राज्यद परंपरेयन्नु प्रतिबिंबिसुत्तदे. इल्लिन जंबू सवारि आकर्षणीय. — थामस्, 5ने तरगति",
+        "latin": "Naadahabba: namma naada habba dasaraa. Idannu sharannavaraatri endoo kareyuttaare. Maisoorina dasaraa raajyada parampareyannu pratibimbisuttade. Illina jamboo savaari aakarshaneeya. — thaamas, 5ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n16",
+      "section": "story",
+      "text": "ಗಾದೆ: ದುಡಿದವನಿಗೆ ದುಃಖವಿಲ್ಲ, ಸೋಮಾರಿಗೆ ಸುಖವಿಲ್ಲ. — ಬೇಗಂ, 3ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Proverb: A worker has no sorrow; a lazy person has no happiness. — Begum, Class 3",
+        "hi": "कहावत: मेहनत करने वाले को दुख नहीं, आलसी को सुख नहीं। — बेगम, कक्षा 3"
+      },
+      "transliterations": {
+        "devanagari": "गादे: दुडिदवनिगे दुःखविल्ल, सोमारिगे सुखविल्ल. — बेगं, 3ने तरगति",
+        "latin": "Gaade: dudidavanige duhkhavilla, somaarige sukhavilla. — begam, 3ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n17",
+      "section": "story",
+      "text": "ಮನೆ ಮದ್ದು: ತೊಳೆದ ಸೀಬೆ ಹಣ್ಣಿನ ಎಲೆ ಮತ್ತು ಉಪ್ಪನ್ನು ನೀರಿಗೆ ಹಾಕಿ ಕುದಿಸಬೇಕು. ಕುದಿಸಿದ ನೀರನ್ನು ಹಿತವಾದ ಶಾಖದಲ್ಲಿ ಮುಕ್ಕಳಿಸಿದರೆ ಹಲ್ಲು ನೋವು ಶಮನವಾಗುತ್ತದೆ. — ಗಾಯತ್ರಿ, 5ನೇ ತರಗತಿ",
+      "translations": {
+        "en": "Home remedy: Put washed guava leaves and salt in water and boil it. Rinsing the mouth with this water when comfortably warm relieves toothache. — Gayatri, Class 5",
+        "hi": "घरेलू उपचार: धुले हुए अमरूद के पत्ते और नमक पानी में डालकर उबालें। पानी आरामदायक गुनगुना होने पर उससे कुल्ला करने से दाँत का दर्द कम होता है। — गायत्री, कक्षा 5"
+      },
+      "transliterations": {
+        "devanagari": "मने मद्दु: तोळेद सीबे हण्णिन एले मत्तु उप्पन्नु नीरिगे हाकि कुदिसबेकु. कुदिसिद नीरन्नु हितवाद शाखदल्लि मुक्कळिसिदरे हल्लु नोवु शमनवागुत्तदे. — गायत्रि, 5ने तरगति",
+        "latin": "Mane maddu: toleda seebe hannina ele mattu uppannu neerige haaki kudisabeku. Kudisida neerannu hitavaada shaakhadalli mukkalisidare hallu novu shamanavaaguttade. — gaayatri, 5ne taragati"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ಶಿಕ್ಷಕಿ",
+      "text": "ರಾಧಾ ನೀನು ಕೆಲವು ಲೇಖನಗಳನ್ನು ಓದಲು ಕಷ್ಟಪಟ್ಟೆ ಏಕೆ?",
+      "translations": {
+        "en": "Radha, why did you find some articles difficult to read?",
+        "hi": "राधा, तुम्हें कुछ लेख पढ़ने में कठिनाई क्यों हुई?"
+      },
+      "transliterations": {
+        "devanagari": "राधा नीनु केलवु लेखनगळन्नु ओदलु कष्टपट्टे एके?",
+        "latin": "Raadhaa neenu kelavu lekhanagalannu odalu kashtapatte eke?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n18",
+      "section": "story",
+      "text": "ಎಂದು ಶಿಕ್ಷಕಿ ಪ್ರಶ್ನಿಸಿದರು.",
+      "translations": {
+        "en": "asked the teacher.",
+        "hi": "शिक्षिका ने पूछा।"
+      },
+      "transliterations": {
+        "devanagari": "एंदु शिक्षकि प्रश्निसिदरु.",
+        "latin": "Endu shikshaki prashnisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ರಾಧಾ",
+      "text": "ಕೆಲವರ ಕೈಬರೆಹ ಚೆನ್ನಾಗಿರಲಿಲ್ಲ. ಆದ್ದರಿಂದ ಓದಲು ಕಷ್ಟವಾಯಿತು ಮೇಡಂ.",
+      "translations": {
+        "en": "Some people's handwriting was not good. That made it difficult to read, madam.",
+        "hi": "कुछ लोगों की लिखावट अच्छी नहीं थी। इसलिए पढ़ने में कठिनाई हुई, मैडम।"
+      },
+      "transliterations": {
+        "devanagari": "केलवर कैबरेह चेन्नागिरलिल्ल. आद्दरिंद ओदलु कष्टवायितु मेडं.",
+        "latin": "Kelavara kaibareha chennaagiralilla. Aaddarinda odalu kashtavaayitu medam."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n23",
+      "section": "story",
+      "text": "ಎಂದು ರಾಧಾ ಹೇಳಿದಳು.",
+      "translations": {
+        "en": "Radha replied.",
+        "hi": "राधा ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "एंदु राधा हेळिदळु.",
+        "latin": "Endu raadhaa helidalu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ಶಿಕ್ಷಕಿ",
+      "text": "ಬರೆಹ ಚೆನ್ನಾಗಿರಲಿಲ್ಲ ಎಂದರೆ ಅದು ಹೇಗಿತ್ತು?",
+      "translations": {
+        "en": "What was it like when you say the handwriting wasn't good?",
+        "hi": "लिखावट अच्छी नहीं थी, तो कैसी थी?"
+      },
+      "transliterations": {
+        "devanagari": "बरेह चेन्नागिरलिल्ल एंदरे अदु हेगित्तु?",
+        "latin": "Bareha chennaagiralilla endare adu hegittu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n24",
+      "section": "story",
+      "text": "ಎಂದು ಶಿಕ್ಷಕಿ ಕೇಳಿದರು.",
+      "translations": {
+        "en": "asked the teacher.",
+        "hi": "शिक्षिका ने पूछा।"
+      },
+      "transliterations": {
+        "devanagari": "एंदु शिक्षकि केळिदरु.",
+        "latin": "Endu shikshaki kelidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ರಾಧಾ",
+      "text": "ಮಾಲಾ ಬರೆದಿರುವುದು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣಿಸುತ್ತಿಲ್ಲ ಮೇಡಂ. ಆದರೆ ಗಾಯತ್ರಿ ಬರೆದಿರುವ ಅಕ್ಷರಗಳು ಮುದ್ರಿತ ಆಕಾರದಲ್ಲಿಲ್ಲ, ಇನ್ನು ಯೂಸುಫ್ನು ತನ್ನ ಬರೆಹದಲ್ಲಿ ಪದಗಳ ನಡುವೆ ಸ್ಥಳವನ್ನೇ ಬಿಟ್ಟಿಲ್ಲ.",
+      "translations": {
+        "en": "Mala's writing is not clear, madam. Gayatri's letters do not have printed shapes, and Yusuf has left no spaces between words.",
+        "hi": "माला की लिखावट साफ़ नहीं दिखती, मैडम। गायत्री के अक्षर छपे हुए अक्षरों जैसे नहीं हैं, और यूसुफ़ ने शब्दों के बीच जगह ही नहीं छोड़ी।"
+      },
+      "transliterations": {
+        "devanagari": "माला बरेदिरुवुदु स्पष्टवागि काणिसुत्तिल्ल मेडं. आदरे गायत्रि बरेदिरुव अक्षरगळु मुद्रित आकारदल्लिल्ल, इन्नु यूसुफ्नु तन्न बरेहदल्लि पदगळ नडुवे स्थळवन्ने बिट्टिल्ल.",
+        "latin": "Maalaa barediruvudu spashtavaagi kaanisuttilla medam. Aadare gaayatri barediruva aksharagalu mudrita aakaaradallilla, innu yoosuphnu tanna barehadalli padagala naduve sthalavanne bittilla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n19",
+      "section": "story",
+      "text": "ಎಂದಳು. ಇತರರು ತಮ್ಮ ಅನಿಸಿಕೆಯನ್ನು ಹಂಚಿಕೊಂಡರು. ಶಿಕ್ಷಕಿ ಚರ್ಚೆಯಲ್ಲಿ ಬಂದ ಅಭಿಪ್ರಾಯವನ್ನು ಒಟ್ಟುಗೂಡಿಸಿದರು.",
+      "translations": {
+        "en": "she said. Others shared their thoughts. The teacher brought together the views expressed in the discussion.",
+        "hi": "उसने कहा। दूसरों ने भी अपनी राय बताई। शिक्षिका ने चर्चा में आए विचारों को समेटा।"
+      },
+      "transliterations": {
+        "devanagari": "एंदळु. इतररु तम्म अनिसिकेयन्नु हंचिकोंडरु. शिक्षकि चर्चेयल्लि बंद अभिप्रायवन्नु ओट्टुगूडिसिदरु.",
+        "latin": "Endalu. Itararu tamma anisikeyannu hanchikondaru. Shikshaki charcheyalli banda abhipraayavannu ottugoodisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n20",
+      "section": "story",
+      "text": "ಬರೆವಣಿಗೆಯು ಚೆನ್ನಾಗಿರಬೇಕಾದರೆ ಅದು ಹೇಗಿರಬೇಕು ಎನ್ನುವ ಬಗ್ಗೆ ತಿಳಿಸುತ್ತಾ... ನಾವು ತಪ್ಪಿಲ್ಲದೆ ಚೆನ್ನಾಗಿ ಕಾಣುವ ರೀತಿಯಲ್ಲಿ ಬರೆಯಬೇಕು. ಸುಲಭವಾಗಿ ಓದಲು ಮತ್ತು ಓದಿದ್ದು ಅರ್ಥವಾಗುವಂತೆ ಬರೆಯಬೇಕು. ಅಕ್ಷರಗಳನ್ನು ಒಂದೇ ಗಾತ್ರದಲ್ಲಿ ಬರೆಯಬೇಕು.",
+      "translations": {
+        "en": "Explaining what good handwriting should be like, she said: We must write without mistakes and make our writing neat. It should be easy to read and understand. Letters should be of the same size.",
+        "hi": "अच्छी लिखावट कैसी होनी चाहिए, यह समझाते हुए उन्होंने कहा: हमें बिना गलती के साफ़-सुंदर लिखना चाहिए। लिखावट आसानी से पढ़ी और समझी जा सके। अक्षर एक ही आकार के होने चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "बरेवणिगेयु चेन्नागिरबेकादरे अदु हेगिरबेकु एन्नुव बग्गे तिळिसुत्ता... नावु तप्पिल्लदे चेन्नागि काणुव रीतियल्लि बरेयबेकु. सुलभवागि ओदलु मत्तु ओदिद्दु अर्थवागुवंते बरेयबेकु. अक्षरगळन्नु ओंदे गात्रदल्लि बरेयबेकु.",
+        "latin": "Barevanigeyu chennaagirabekaadare adu hegirabeku ennuva bagge tilisuttaa... Naavu tappillade chennaagi kaanuva reetiyalli bareyabeku. Sulabhavaagi odalu mattu odiddu arthavaaguvante bareyabeku. Aksharagalannu onde gaatradalli bareyabeku."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n21",
+      "section": "story",
+      "text": "ಬರೆಯುವ ಪ್ರತಿ ಅಕ್ಷರವು ಮುದ್ರಿತ ಅಕ್ಷರಗಳ ಆಕಾರದಲ್ಲಿ ಇರಬೇಕು. ಒಂದು ಪದದಲ್ಲಿನ ಅಕ್ಷರಗಳು ಒಂದಕ್ಕೊಂದು ತಾಕದಂತೆ ಹಾಗೂ ನಡುವೆ ಸ್ಥಳ ಬಿಡದಂತೆ ಬರೆಯಬೇಕು. ಪದಗಳನ್ನು ಗುರ್ತಿಸಲು ಸಹಾಯವಾಗುವಂತೆ ಪದಗಳ ನಡುವೆ ಸ್ವಲ್ಪ ಸ್ಥಳವನ್ನು ಬಿಟ್ಟು ಬರೆಯಬೇಕು.",
+      "translations": {
+        "en": "Every letter should have the shape of a printed letter. Within a word, letters should neither touch each other nor have gaps between them. Leave a little space between words to help identify them.",
+        "hi": "हर अक्षर छपे हुए अक्षर के आकार जैसा होना चाहिए। एक शब्द के अक्षर न आपस में छुएँ, न उनके बीच खाली जगह हो। शब्द पहचानने में आसानी हो, इसलिए शब्दों के बीच थोड़ी जगह छोड़नी चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "बरेयुव प्रति अक्षरवु मुद्रित अक्षरगळ आकारदल्लि इरबेकु. ओंदु पददल्लिन अक्षरगळु ओंदक्कोंदु ताकदंते हागू नडुवे स्थळ बिडदंते बरेयबेकु. पदगळन्नु गुर्तिसलु सहायवागुवंते पदगळ नडुवे स्वल्प स्थळवन्नु बिट्टु बरेयबेकु.",
+        "latin": "Bareyuva prati aksharavu mudrita aksharagala aakaaradalli irabeku. Ondu padadallina aksharagalu ondakkondu taakadante haagoo naduve sthala bidadante bareyabeku. Padagalannu gurtisalu sahaayavaaguvante padagala naduve svalpa sthalavannu bittu bareyabeku."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n22",
+      "section": "story",
+      "text": "ಒಂದು ಸಾಲಿನ ಅಕ್ಷರಗಳು ಮತ್ತೊಂದು ಸಾಲಿನ ಅಕ್ಷರಗಳಿಗೆ ತಾಗದಂತೆ ಸಾಲುಗಳ ನಡುವೆ ಸೂಕ್ತ ಸ್ಥಳವನ್ನು ಬಿಟ್ಟು ಬರೆಯಬೇಕು. ಅಕ್ಷರ ಹಾಗೂ ಸಾಲುಗಳು ಓರೆಯಾಗಿರಬಾರದು ಎಂದು ಹೇಳಿದರು. ವಿದ್ಯಾರ್ಥಿಗಳು ಚೆನ್ನಾಗಿ ಬರೆಯುವ ಕ್ರಮ ತಿಳಿದು ಸಂತಸಗೊಂಡರು.",
+      "translations": {
+        "en": "Leave enough space between lines so the letters in one line do not touch those in another. Letters and lines should not be slanted, she said. The pupils were happy to learn how to write neatly.",
+        "hi": "पंक्तियों के बीच उचित जगह छोड़नी चाहिए ताकि एक पंक्ति के अक्षर दूसरी के अक्षरों से न छुएँ। अक्षर और पंक्तियाँ तिरछी नहीं होनी चाहिए, उन्होंने कहा। अच्छी तरह लिखने का तरीका जानकर विद्यार्थी खुश हुए।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु सालिन अक्षरगळु मत्तोंदु सालिन अक्षरगळिगे तागदंते सालुगळ नडुवे सूक्त स्थळवन्नु बिट्टु बरेयबेकु. अक्षर हागू सालुगळु ओरेयागिरबारदु एंदु हेळिदरु. विद्यार्थिगळु चेन्नागि बरेयुव क्रम तिळिदु संतसगोंडरु.",
+        "latin": "Ondu saalina aksharagalu mattondu saalina aksharagalige taagadante saalugala naduve sookta sthalavannu bittu bareyabeku. Akshara haagoo saalugalu oreyaagirabaaradu endu helidaru. Vidyaarthigalu chennaagi bareyuva krama tilidu santasagondaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-lekhana",
+      "text": "ಲೇಖನ",
+      "translations": {
+        "en": "article",
+        "hi": "लेख"
+      },
+      "transliterations": {
+        "devanagari": "लेखन",
+        "latin": "Lekhana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-lekhana-def",
+      "ref": "vocab-lekhana",
+      "text": "ಬರೆವಣಿಗೆ, ಬರೆಹ",
+      "translations": {
+        "en": "writing; written work",
+        "hi": "लेखन, लिखी हुई रचना"
+      },
+      "transliterations": {
+        "devanagari": "बरेवणिगे, बरेह",
+        "latin": "Barevanige, bareha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-parishilisu",
+      "text": "ಪರಿಶೀಲಿಸು",
+      "translations": {
+        "en": "examine",
+        "hi": "जाँच करना"
+      },
+      "transliterations": {
+        "devanagari": "परिशीलिसु",
+        "latin": "Parisheelisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-parishilisu-def",
+      "ref": "vocab-parishilisu",
+      "text": "ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸು",
+      "translations": {
+        "en": "observe carefully",
+        "hi": "ध्यान से देखना"
+      },
+      "transliterations": {
+        "devanagari": "सूक्ष्मवागि गमनिसु",
+        "latin": "Sookshmavaagi gamanisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-uttama",
+      "text": "ಉತ್ತಮ",
+      "translations": {
+        "en": "excellent",
+        "hi": "उत्तम"
+      },
+      "transliterations": {
+        "devanagari": "उत्तम",
+        "latin": "Uttama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-uttama-def",
+      "ref": "vocab-uttama",
+      "text": "ಶ್ರೇಷ್ಠ",
+      "translations": {
+        "en": "superior",
+        "hi": "श्रेष्ठ"
+      },
+      "transliterations": {
+        "devanagari": "श्रेष्ठ",
+        "latin": "Shreshtha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-prakatisu",
+      "text": "ಪ್ರಕಟಿಸು",
+      "translations": {
+        "en": "publish",
+        "hi": "प्रकाशित करना"
+      },
+      "transliterations": {
+        "devanagari": "प्रकटिसु",
+        "latin": "Prakatisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-prakatisu-def",
+      "ref": "vocab-prakatisu",
+      "text": "ಗ್ರಂಥ, ಲೇಖನ ಮುಂತಾದುವನ್ನು ಪ್ರಕಾಶನಕ್ಕೆ ತರು",
+      "translations": {
+        "en": "bring books, articles and similar works into publication",
+        "hi": "पुस्तक, लेख आदि प्रकाशन में लाना"
+      },
+      "transliterations": {
+        "devanagari": "ग्रंथ, लेखन मुंतादुवन्नु प्रकाशनक्के तरु",
+        "latin": "Grantha, lekhana muntaaduvannu prakaashanakke taru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kutuhala",
+      "text": "ಕುತೂಹಲ",
+      "translations": {
+        "en": "curiosity",
+        "hi": "जिज्ञासा"
+      },
+      "transliterations": {
+        "devanagari": "कुतूहल",
+        "latin": "Kutoohala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kutuhala-def",
+      "ref": "vocab-kutuhala",
+      "text": "ಅಚ್ಚರಿ",
+      "translations": {
+        "en": "wonder",
+        "hi": "आश्चर्य"
+      },
+      "transliterations": {
+        "devanagari": "अच्चरि",
+        "latin": "Achchari"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-saragavagi",
+      "text": "ಸರಾಗವಾಗಿ",
+      "translations": {
+        "en": "fluently",
+        "hi": "सहजता से"
+      },
+      "transliterations": {
+        "devanagari": "सरागवागि",
+        "latin": "Saraagavaagi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saragavagi-def",
+      "ref": "vocab-saragavagi",
+      "text": "ಸುಲಭವಾಗಿ",
+      "translations": {
+        "en": "easily",
+        "hi": "आसानी से"
+      },
+      "transliterations": {
+        "devanagari": "सुलभवागि",
+        "latin": "Sulabhavaagi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-charche",
+      "text": "ಚರ್ಚೆ",
+      "translations": {
+        "en": "discussion",
+        "hi": "चर्चा"
+      },
+      "transliterations": {
+        "devanagari": "चर्चे",
+        "latin": "Charche"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-charche-def",
+      "ref": "vocab-charche",
+      "text": "ಪರ್ಯಾಲೋಚನೆ",
+      "translations": {
+        "en": "deliberation",
+        "hi": "विचार-विमर्श"
+      },
+      "transliterations": {
+        "devanagari": "पर्यालोचने",
+        "latin": "Paryaalochane"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-salahe",
+      "text": "ಸಲಹೆ",
+      "translations": {
+        "en": "advice",
+        "hi": "सलाह"
+      },
+      "transliterations": {
+        "devanagari": "सलहे",
+        "latin": "Salahe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-salahe-def",
+      "ref": "vocab-salahe",
+      "text": "ಸೂಚನೆ",
+      "translations": {
+        "en": "suggestion",
+        "hi": "सुझाव"
+      },
+      "transliterations": {
+        "devanagari": "सूचने",
+        "latin": "Soochane"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-subhashita",
+      "text": "ಸುಭಾಷಿತ",
+      "translations": {
+        "en": "wise saying",
+        "hi": "सुभाषित"
+      },
+      "transliterations": {
+        "devanagari": "सुभाषित",
+        "latin": "Subhaashita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-subhashita-def",
+      "ref": "vocab-subhashita",
+      "text": "ಒಳ್ಳೆಯ ಮಾತು, ನೀತಿವಾಕ್ಯ",
+      "translations": {
+        "en": "good words; a moral saying",
+        "hi": "अच्छी बात, नीति-वाक्य"
+      },
+      "transliterations": {
+        "devanagari": "ओळ्ळेय मातु, नीतिवाक्य",
+        "latin": "Olleya maatu, neetivaakya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-sampadaka",
+      "text": "ಸಂಪಾದಕ ಮಂಡಳಿ",
+      "translations": {
+        "en": "editorial board",
+        "hi": "संपादक मंडल"
+      },
+      "transliterations": {
+        "devanagari": "संपादक मंडळि",
+        "latin": "Sampaadaka mandali"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sampadaka-def",
+      "ref": "note-sampadaka",
+      "text": "ಸುದ್ದಿಯನ್ನು ಪರಿಷ್ಕರಿಸಿ ಪ್ರಕಟಿಸುವ ತಂಡ.",
+      "translations": {
+        "en": "A team that edits and publishes news.",
+        "hi": "समाचार संपादित और प्रकाशित करने वाला दल।"
+      },
+      "transliterations": {
+        "devanagari": "सुद्दियन्नु परिष्करिसि प्रकटिसुव तंड.",
+        "latin": "Suddiyannu parishkarisi prakatisuva tanda."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-shalapatrike",
+      "text": "ಶಾಲಾ ಪತ್ರಿಕೆ",
+      "translations": {
+        "en": "school magazine",
+        "hi": "विद्यालय पत्रिका"
+      },
+      "transliterations": {
+        "devanagari": "शाला पत्रिके",
+        "latin": "Shaalaa patrike"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-shalapatrike-def",
+      "ref": "note-shalapatrike",
+      "text": "ಶಾಲೆಯಿಂದ ಹೊರತರುವ ಪತ್ರಿಕೆ",
+      "translations": {
+        "en": "a magazine brought out by a school",
+        "hi": "विद्यालय द्वारा निकाली जाने वाली पत्रिका"
+      },
+      "transliterations": {
+        "devanagari": "शालेयिंद होरतरुव पत्रिके",
+        "latin": "Shaaleyinda horataruva patrike"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-svarachita",
+      "text": "ಸ್ವರಚಿತ",
+      "translations": {
+        "en": "self-composed",
+        "hi": "स्वरचित"
+      },
+      "transliterations": {
+        "devanagari": "स्वरचित",
+        "latin": "Svarachita"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-svarachita-def",
+      "ref": "note-svarachita",
+      "text": "ತಾನೇ ರಚಿಸಿದ",
+      "translations": {
+        "en": "created by oneself",
+        "hi": "स्वयं रचा हुआ"
+      },
+      "transliterations": {
+        "devanagari": "ताने रचिसिद",
+        "latin": "Taane rachisida"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-nagehani",
+      "text": "ನಗೆಹನಿ",
+      "translations": {
+        "en": "short joke",
+        "hi": "चुटकुला"
+      },
+      "transliterations": {
+        "devanagari": "नगेहनि",
+        "latin": "Nagehani"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-nagehani-def",
+      "ref": "note-nagehani",
+      "text": "ನಗುವನ್ನುಂಟುಮಾಡುವ ಚುಟುಕಾದ ಮಾತು ಅಥವಾ ಬರೆಹ",
+      "translations": {
+        "en": "a short saying or piece of writing that makes one laugh",
+        "hi": "हँसाने वाली छोटी बात या रचना"
+      },
+      "transliterations": {
+        "devanagari": "नगुवन्नुंटुमाडुव चुटुकाद मातु अथवा बरेह",
+        "latin": "Naguvannuntumaaduva chutukaada maatu athavaa bareha"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-chutuku",
+      "text": "ಚುಟುಕು",
+      "translations": {
+        "en": "short verse",
+        "hi": "लघु कविता"
+      },
+      "transliterations": {
+        "devanagari": "चुटुकु",
+        "latin": "Chutuku"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-chutuku-def",
+      "ref": "note-chutuku",
+      "text": "ಅಣಕದಿಂದ ಕೂಡಿದ ಚಿಕ್ಕ ಪದ್ಯ",
+      "translations": {
+        "en": "a short satirical poem",
+        "hi": "व्यंग्य से भरी छोटी कविता"
+      },
+      "transliterations": {
+        "devanagari": "अणकदिंद कूडिद चिक्क पद्य",
+        "latin": "Anakadinda koodida chikka padya"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kappuhalage",
+      "text": "ಕಪ್ಪು ಹಲಗೆ",
+      "translations": {
+        "en": "blackboard",
+        "hi": "श्यामपट"
+      },
+      "transliterations": {
+        "devanagari": "कप्पु हलगे",
+        "latin": "Kappu halage"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kappuhalage-def",
+      "ref": "note-kappuhalage",
+      "text": "ಬರೆಯುವುದಕ್ಕಾಗಿ ಕಪ್ಪುಬಣ್ಣ ಹಚ್ಚಿರುವ ಗೋಡೆಯ ಭಾಗ ಅಥವಾ ಹಲಗೆ.",
+      "translations": {
+        "en": "A board or part of a wall painted black for writing.",
+        "hi": "लिखने के लिए काले रंग से रंगा तख्ता या दीवार का हिस्सा।"
+      },
+      "transliterations": {
+        "devanagari": "बरेयुवुदक्कागि कप्पुबण्ण हच्चिरुव गोडेय भाग अथवा हलगे.",
+        "latin": "Bareyuvudakkaagi kappubanna hachchiruva godeya bhaaga athavaa halage."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಶಾಲಾ ಪತ್ರಿಕೆಯ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of the school magazine?",
+        "hi": "विद्यालय पत्रिका का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "शाला पत्रिकेय हेसरेनु?",
+        "latin": "Shaalaa patrikeya hesarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ನಮ್ಮ ನಾಡ ಹಬ್ಬ ಯಾವುದು?",
+      "translations": {
+        "en": "What is our state festival?",
+        "hi": "हमारे राज्य का पर्व कौन-सा है?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म नाड हब्ब यावुदु?",
+        "latin": "Namma naada habba yaavudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಹಣ್ಣುಗಳ ರಾಜ ಯಾರು?",
+      "translations": {
+        "en": "Who is the king of fruits?",
+        "hi": "फलों का राजा कौन है?"
+      },
+      "transliterations": {
+        "devanagari": "हण्णुगळ राज यारु?",
+        "latin": "Hannugala raaja yaaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ವಿವೇಕಾನಂದರ ಬಾಲ್ಯದ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What was Vivekananda's childhood name?",
+        "hi": "विवेकानंद का बचपन का नाम क्या था?"
+      },
+      "transliterations": {
+        "devanagari": "विवेकानंदर बाल्यद हेसरेनु?",
+        "latin": "Vivekaanandara baalyada hesarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಜೋಗ ಜಲಪಾತ ಎಲ್ಲಿದೆ?",
+      "translations": {
+        "en": "Where is Jog Falls?",
+        "hi": "जोग जलप्रपात कहाँ है?"
+      },
+      "transliterations": {
+        "devanagari": "जोग जलपात एल्लिदे?",
+        "latin": "Joga jalapaata ellide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ಈ ಪತ್ರಿಕೆಯಲ್ಲಿ ಸತೀಶ ಬರೆದಿರುವ ಲೇಖನದ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the title of Satish's article in this magazine?",
+        "hi": "इस पत्रिका में सतीश के लेख का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई पत्रिकेयल्लि सतीश बरेदिरुव लेखनद हेसरेनु?",
+        "latin": "Ee patrikeyalli sateesha barediruva lekhanada hesarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q7",
+      "text": "ಚಿಗುರು ಪತ್ರಿಕೆಯಲ್ಲಿ ನಿನಗೆ ಇಷ್ಟವಾದ ಬರೆಹ ಯಾವುದು?",
+      "translations": {
+        "en": "Which piece of writing in Chiguru did you like?",
+        "hi": "चिगुरु पत्रिका में तुम्हें कौन-सी रचना पसंद आई?"
+      },
+      "transliterations": {
+        "devanagari": "चिगुरु पत्रिकेयल्लि निनगे इष्टवाद बरेह यावुदु?",
+        "latin": "Chiguru patrikeyalli ninage ishtavaada bareha yaavudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-p1",
+      "text": "ಲೇಖಕರ ಹೆಸರುಗಳನ್ನು ಲೇಖನದ ಹೆಸರುಗಳೊಂದಿಗೆ ಹೊಂದಿಸಿ ಬರೆ. ಲೇಖನದ ಹೆಸರು: 1. ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ; 2. ನಿಮಗಿದು ತಿಳಿದಿರಲಿ; 3. ನಾಡ ಹಬ್ಬ; 4. ಗಾದೆ.",
+      "translations": {
+        "en": "Match the writers' names to the article titles. Titles: 1. Swami Vivekananda; 2. Did You Know?; 3. State Festival; 4. Proverb.",
+        "hi": "लेखकों के नामों का लेखों के नामों से मिलान करो। लेख: 1. स्वामी विवेकानंद; 2. यह जान लो; 3. राज्य का पर्व; 4. कहावत।"
+      },
+      "transliterations": {
+        "devanagari": "लेखकर हेसरुगळन्नु लेखनद हेसरुगळोंदिगे होंदिसि बरे. लेखनद हेसरु: 1. स्वामि विवेकानंद; 2. निमगिदु तिळिदिरलि; 3. नाड हब्ब; 4. गादे.",
+        "latin": "Lekhakara hesarugalannu lekhanada hesarugalondige hondisi bare. Lekhanada hesaru: 1. Svaami vivekaananda; 2. Nimagidu tilidirali; 3. Naada habba; 4. Gaade."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಮಾಲ",
+      "translations": {
+        "en": "Mala",
+        "hi": "माला"
+      },
+      "transliterations": {
+        "devanagari": "माल",
+        "latin": "Maala"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಥಾಮಸ್",
+      "translations": {
+        "en": "Thomas",
+        "hi": "थॉमस"
+      },
+      "transliterations": {
+        "devanagari": "थामस्",
+        "latin": "Thaamas"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಬೇಗಂ",
+      "translations": {
+        "en": "Begum",
+        "hi": "बेगम"
+      },
+      "transliterations": {
+        "devanagari": "बेगं",
+        "latin": "Begam"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ವಿನಾಯಕ",
+      "translations": {
+        "en": "Vinayaka",
+        "hi": "विनायक"
+      },
+      "transliterations": {
+        "devanagari": "विनायक",
+        "latin": "Vinaayaka"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-p1",
+      "text": "ಈ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಸರಿಯಾದುದಕ್ಕೆ ಸರಿ ಗುರುತನ್ನು (✓), ತಪ್ಪಾಗಿದ್ದರೆ ತಪ್ಪು ಗುರುತನ್ನು (✗) ಹಾಕು.",
+      "translations": {
+        "en": "Mark correct statements with a tick (✓) and incorrect ones with a cross (✗).",
+        "hi": "सही कथनों पर सही का चिह्न (✓) और गलत पर गलत का चिह्न (✗) लगाओ।"
+      },
+      "transliterations": {
+        "devanagari": "ई हेळिकेगळल्लि सरियादुदक्के सरि गुरुतन्नु (✓), तप्पागिद्दरे तप्पु गुरुतन्नु (✗) हाकु.",
+        "latin": "Ee helikegalalli sariyaadudakke sari gurutannu (✓), tappaagiddare tappu gurutannu (✗) haaku."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ತಪ್ಪಿಲ್ಲದೆ ಚೆನ್ನಾಗಿ ಕಾಣುವ ರೀತಿಯಲ್ಲಿ ಬರೆಯಬೇಕು. ( )",
+      "translations": {
+        "en": "We should write neatly and without mistakes. ( )",
+        "hi": "बिना गलती के साफ़-सुंदर लिखना चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "तप्पिल्लदे चेन्नागि काणुव रीतियल्लि बरेयबेकु. ( )",
+        "latin": "Tappillade chennaagi kaanuva reetiyalli bareyabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಸುಲಭವಾಗಿ ಓದಲು ಮತ್ತು ಓದಿದ್ದು ಅರ್ಥವಾಗುವಂತೆ ಬರೆಯಬೇಕು. ( )",
+      "translations": {
+        "en": "Writing should be easy to read and understand. ( )",
+        "hi": "ऐसा लिखना चाहिए जो आसानी से पढ़ा और समझा जा सके। ( )"
+      },
+      "transliterations": {
+        "devanagari": "सुलभवागि ओदलु मत्तु ओदिद्दु अर्थवागुवंते बरेयबेकु. ( )",
+        "latin": "Sulabhavaagi odalu mattu odiddu arthavaaguvante bareyabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಪದಗಳಲ್ಲಿನ ಅಕ್ಷರಗಳನ್ನು ಒಂದೇ ಗಾತ್ರದಲ್ಲಿ ಬರೆಯಬಾರದು. ( )",
+      "translations": {
+        "en": "The letters in words should not be the same size. ( )",
+        "hi": "शब्दों के अक्षर एक ही आकार में नहीं लिखने चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "पदगळल्लिन अक्षरगळन्नु ओंदे गात्रदल्लि बरेयबारदु. ( )",
+        "latin": "Padagalallina aksharagalannu onde gaatradalli bareyabaaradu. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಪದದಲ್ಲಿನ ಅಕ್ಷರಗಳು ಒಂದಕ್ಕೊಂದು ತಾಕದಂತೆ ಹಾಗೂ ನಡುವೆ ಸ್ಥಳ ಬಿಡದಂತೆ ಬರೆಯಬೇಕು. ( )",
+      "translations": {
+        "en": "Letters within a word should neither touch nor have gaps between them. ( )",
+        "hi": "शब्द के अक्षर न आपस में छुएँ, न उनके बीच खाली जगह हो। ( )"
+      },
+      "transliterations": {
+        "devanagari": "पददल्लिन अक्षरगळु ओंदक्कोंदु ताकदंते हागू नडुवे स्थळ बिडदंते बरेयबेकु. ( )",
+        "latin": "Padadallina aksharagalu ondakkondu taakadante haagoo naduve sthala bidadante bareyabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "text": "ಪದಗಳ ನಡುವೆ ಸ್ಥಳವನ್ನು ಬಿಡದೆ ಬರೆಯಬೇಕು. ( )",
+      "translations": {
+        "en": "Words should be written without spaces between them. ( )",
+        "hi": "शब्दों के बीच जगह छोड़े बिना लिखना चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "पदगळ नडुवे स्थळवन्नु बिडदे बरेयबेकु. ( )",
+        "latin": "Padagala naduve sthalavannu bidade bareyabeku. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q6",
+      "text": "ಅಕ್ಷರ ಹಾಗು ಸಾಲುಗಳು ಓರೆಯಾಗಿರಬಾರದು. ( )",
+      "translations": {
+        "en": "Letters and lines should not be slanted. ( )",
+        "hi": "अक्षर और पंक्तियाँ तिरछी नहीं होनी चाहिए। ( )"
+      },
+      "transliterations": {
+        "devanagari": "अक्षर हागु सालुगळु ओरेयागिरबारदु. ( )",
+        "latin": "Akshara haagu saalugalu oreyaagirabaaradu. ( )"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-p1",
+      "text": "ಈ ಸಾಲುಗಳನ್ನು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ಬರೆ.",
+      "translations": {
+        "en": "Write these lines in the correct order.",
+        "hi": "इन पंक्तियों को सही क्रम में लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "ई सालुगळन्नु सरियाद रीतियल्लि बरे.",
+        "latin": "Ee saalugalannu sariyaada reetiyalli bare."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ನಾಡ ನಮ್ಮ ಹಬ್ಬ ದಸರಾ",
+      "translations": {
+        "en": "state / our / festival / Dasara",
+        "hi": "राज्य / हमारा / पर्व / दशहरा"
+      },
+      "transliterations": {
+        "devanagari": "नाड नम्म हब्ब दसरा",
+        "latin": "Naada namma habba dasaraa"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಮಾತು ಜಗಳವಿಲ್ಲ ಬಲ್ಲವನಿಗೆ",
+      "translations": {
+        "en": "speech / no quarrel / for one who knows",
+        "hi": "बात / झगड़ा नहीं / जानने वाले को"
+      },
+      "transliterations": {
+        "devanagari": "मातु जगळविल्ल बल्लवनिगे",
+        "latin": "Maatu jagalavilla ballavanige"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ರಾಜ್ಯ ನಮ್ಮ ಕರ್ನಾಟಕ",
+      "translations": {
+        "en": "state / our / Karnataka",
+        "hi": "राज्य / हमारा / कर्नाटक"
+      },
+      "transliterations": {
+        "devanagari": "राज्य नम्म कर्नाटक",
+        "latin": "Raajya namma karnaataka"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಹಣ್ಣುಗಳ ಮಾವು ರಾಜ",
+      "translations": {
+        "en": "of fruits / mango / king",
+        "hi": "फलों का / आम / राजा"
+      },
+      "transliterations": {
+        "devanagari": "हण्णुगळ मावु राज",
+        "latin": "Hannugala maavu raaja"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-p1",
+      "text": "ಚಿಗುರು ಪತ್ರಿಕೆಯಲ್ಲಿರುವ ಸುಭಾಷಿತವನ್ನು ನೀನು ಒಂದು ಅಂಕಣದಲ್ಲಿ ಬರೆ. ಮತ್ತೊಂದರಲ್ಲಿ ಸ್ನೇಹಿತರಿಂದ ಬರೆಸು. ನಂತರ ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸು. ನಿನ್ನ ಹೆಸರು: ___. ಗೆಳೆಯ/ಗೆಳತಿಯ ಹೆಸರು: ___.",
+      "translations": {
+        "en": "Write the wise saying from Chiguru in one column. Have a friend write it in the other. Then answer the questions below. Your name: ___. Friend's name: ___.",
+        "hi": "चिगुरु का सुभाषित एक खाने में लिखो। दूसरे में मित्र से लिखवाओ। फिर नीचे के प्रश्नों के उत्तर दो। तुम्हारा नाम: ___। मित्र का नाम: ___।"
+      },
+      "transliterations": {
+        "devanagari": "चिगुरु पत्रिकेयल्लिरुव सुभाषितवन्नु नीनु ओंदु अंकणदल्लि बरे. मत्तोंदरल्लि स्नेहितरिंद बरेसु. नंतर केळगिन प्रश्नेगळिगे उत्तरिसु. निन्न हेसरु: ___. गेळेय/गेळतिय हेसरु: ___.",
+        "latin": "Chiguru patrikeyalliruva subhaashitavannu neenu ondu ankanadalli bare. Mattondaralli snehitarinda baresu. Nantara kelagina prashnegalige uttarisu. Ninna hesaru: ___. Geleya/gelatiya hesaru: ___."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಯಾರ ಬರೆಹ ಚೆನ್ನಾಗಿದೆ?",
+      "translations": {
+        "en": "Whose handwriting is good?",
+        "hi": "किसकी लिखावट अच्छी है?"
+      },
+      "transliterations": {
+        "devanagari": "यार बरेह चेन्नागिदे?",
+        "latin": "Yaara bareha chennaagide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಬರೆಹ ಚೆನ್ನಾಗಿದೆ ಎನ್ನಲು ಒಂದು ಕಾರಣ ಕೊಡು.",
+      "translations": {
+        "en": "Give one reason for saying the handwriting is good.",
+        "hi": "लिखावट अच्छी होने का एक कारण बताओ।"
+      },
+      "transliterations": {
+        "devanagari": "बरेह चेन्नागिदे एन्नलु ओंदु कारण कोडु.",
+        "latin": "Bareha chennaagide ennalu ondu kaarana kodu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಬರೆಹ ಚೆನ್ನಾಗಿಲ್ಲ ಎನ್ನಲು ಒಂದು ಕಾರಣ ಕೊಡು.",
+      "translations": {
+        "en": "Give one reason for saying the handwriting is not good.",
+        "hi": "लिखावट अच्छी न होने का एक कारण बताओ।"
+      },
+      "transliterations": {
+        "devanagari": "बरेह चेन्नागिल्ल एन्नलु ओंदु कारण कोडु.",
+        "latin": "Bareha chennaagilla ennalu ondu kaarana kodu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-p1",
+      "text": "ಈ ವಾಕ್ಯಗಳನ್ನು ನಕಲು ಮಾಡು.",
+      "translations": {
+        "en": "Copy these sentences.",
+        "hi": "इन वाक्यों की नकल करो।"
+      },
+      "transliterations": {
+        "devanagari": "ई वाक्यगळन्नु नकलु माडु.",
+        "latin": "Ee vaakyagalannu nakalu maadu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಕೋಗಿಲೆಯ ಗಾನ ಇಂಪು",
+      "translations": {
+        "en": "The cuckoo's song is sweet.",
+        "hi": "कोयल का गान मधुर है।"
+      },
+      "transliterations": {
+        "devanagari": "कोगिलेय गान इंपु",
+        "latin": "Kogileya gaana impu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಮಾಡಿದ್ದುಣ್ಣೊ ಮಹಾರಾಯ",
+      "translations": {
+        "en": "You must reap what you sow, my lord.",
+        "hi": "जैसा करोगे वैसा भरोगे, महाराज।"
+      },
+      "transliterations": {
+        "devanagari": "माडिद्दुण्णो महाराय",
+        "latin": "Maadiddunno mahaaraaya"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಈ ಕಮಾನಿನಲ್ಲಿ ನಿನ್ನ ಹೆಸರನ್ನು ಬರೆ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 35, PDF ಪುಟ 48 (1ರಿಂದ ಎಣಿಕೆ), ಉ ಚಟುವಟಿಕೆಯ ಕಮಾನು.]",
+      "translations": {
+        "en": "Write your name in this arch. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 35, PDF page 48 (counting from 1), arch in activity ಉ.]",
+        "hi": "इस मेहराब में अपना नाम लिखो। [संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 35, PDF पृष्ठ 48 (गिनती 1 से), गतिविधि उ का मेहराब।]"
+      },
+      "transliterations": {
+        "devanagari": "ई कमानिनल्लि निन्न हेसरन्नु बरे. [संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 35, PDF पुट 48 (1रिंद एणिके), उ चटुवटिकेय कमानु.]",
+        "latin": "Ee kamaaninalli ninna hesarannu bare. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 35, PDF puta 48 (1rinda enike), u chatuvatikeya kamaanu.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ಚುಕ್ಕಿ ಚಿನ್ನ-ಶಾಲಾ ಪತ್ರಿಕೆಗೆ 3 ಸಾಲುಗಳ ಒಂದು ಲೇಖನವನ್ನು ಶುದ್ಧ ಬರೆಹದಲ್ಲಿ ಬರೆ.",
+      "translations": {
+        "en": "Write a three-line article in neat, correct handwriting for the school magazine Chukki Chinna.",
+        "hi": "चुक्कि चिन्न विद्यालय पत्रिका के लिए तीन पंक्तियों का लेख साफ़ और शुद्ध लिखावट में लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "चुक्कि चिन्न-शाला पत्रिकेगे 3 सालुगळ ओंदु लेखनवन्नु शुद्ध बरेहदल्लि बरे.",
+        "latin": "Chukki chinna-shaalaa patrikege 3 saalugala ondu lekhanavannu shuddha barehadalli bare."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-p1",
+      "text": "ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಕೈ ಬರೆಹದ ಒಂದು ಪದದಲ್ಲಿನ ಯಾವುದೇ ಅಕ್ಷರವನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದಾಗ ಆ ಅಕ್ಷರದ ಹಿಂದಿನ, ಮುಂದಿನ ಅಕ್ಷರಗಳನ್ನು ಆಧರಿಸಿ ಅದು ಯಾವ ಅಕ್ಷರ ಎಂದು ಗುರುತಿಸಬಹುದು.",
+      "translations": {
+        "en": "Remember: If you cannot identify a letter in a handwritten word, use the letters before and after it to work out which letter it is.",
+        "hi": "याद रखो: हाथ से लिखे शब्द का कोई अक्षर न पहचान सको तो उसके पहले और बाद के अक्षरों की मदद से पहचान सकते हो।"
+      },
+      "transliterations": {
+        "devanagari": "निनगिदु तिळिदिरलि: कै बरेहद ओंदु पददल्लिन यावुदे अक्षरवन्नु गुरुतिसलु साध्यवागदिद्दाग आ अक्षरद हिंदिन, मुंदिन अक्षरगळन्नु आधरिसि अदु याव अक्षर एंदु गुरुतिसबहुदु.",
+        "latin": "Ninagidu tilidirali: kai barehada ondu padadallina yaavude aksharavannu gurutisalu saadhyavaagadiddaaga aa aksharada hindina, mundina aksharagalannu aadharisi adu yaava akshara endu gurutisabahudu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-p2",
+      "text": "ವಾಕ್ಯದಲ್ಲಿನ ಒಂದು ಪದ ಗೊತ್ತಾಗದಿದ್ದರೆ ಆ ಪದದ ಹಿಂದಿನ, ಮುಂದಿನ ಪದಗಳನ್ನು ಆಧರಿಸಿ ಅದು ಯಾವ ಪದ ಎಂದು ಗುರುತಿಸಬಹುದು.",
+      "translations": {
+        "en": "If you cannot understand a word in a sentence, use the words before and after it to identify it.",
+        "hi": "वाक्य में कोई शब्द समझ न आए तो उसके पहले और बाद के शब्दों की मदद से उसे पहचान सकते हो।"
+      },
+      "transliterations": {
+        "devanagari": "वाक्यदल्लिन ओंदु पद गोत्तागदिद्दरे आ पदद हिंदिन, मुंदिन पदगळन्नु आधरिसि अदु याव पद एंदु गुरुतिसबहुदु.",
+        "latin": "Vaakyadallina ondu pada gottaagadiddare aa padada hindina, mundina padagalannu aadharisi adu yaava pada endu gurutisabahudu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-p3",
+      "text": "ಒಂದು ವಾಕ್ಯವೇ ಗೊತ್ತಾಗದಿದ್ದರೆ, ಆ ವಾಕ್ಯದ ಹಿಂದಿನ, ಮುಂದಿನ ವಾಕ್ಯದ ಸಹಾಯದಿಂದ ಗುರುತಿಸಬಹುದು.",
+      "translations": {
+        "en": "If an entire sentence is unclear, use the sentences before and after it to understand it.",
+        "hi": "पूरा वाक्य समझ न आए तो उसके पहले और बाद के वाक्यों की मदद ले सकते हो।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु वाक्यवे गोत्तागदिद्दरे, आ वाक्यद हिंदिन, मुंदिन वाक्यद सहायदिंद गुरुतिसबहुदु.",
+        "latin": "Ondu vaakyave gottaagadiddare, aa vaakyada hindina, mundina vaakyada sahaayadinda gurutisabahudu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-p1",
+      "text": "ಈ ಚಿತ್ರಗಳನ್ನು ನೋಡಿ ನಿನಗನಿಸಿದ್ದನ್ನು ಅರ್ಥಪೂರ್ಣ ವಾಕ್ಯದಲ್ಲಿ ಬರೆ.",
+      "translations": {
+        "en": "Look at these pictures and write what you think in meaningful sentences.",
+        "hi": "चित्र देखकर अपने विचार अर्थपूर्ण वाक्यों में लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "ई चित्रगळन्नु नोडि निनगनिसिद्दन्नु अर्थपूर्ण वाक्यदल्लि बरे.",
+        "latin": "Ee chitragalannu nodi ninaganisiddannu arthapoorna vaakyadalli bare."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ಮಾದರಿ ಚಿತ್ರ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಮೊದಲ ಸಾಲಿನ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "Example picture. [Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting from 1), first-row picture.]",
+        "hi": "उदाहरण का चित्र। [संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 36, PDF पृष्ठ 49 (गिनती 1 से), पहली पंक्ति का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "मादरि चित्र. [संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 36, PDF पुट 49 (1रिंद एणिके), मोदल सालिन चित्र.]",
+        "latin": "Maadari chitra. [sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda enike), modala saalina chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1-ans",
+      "ref": "ex-i-q1",
+      "text": "ಮಾದರಿ: ಹುಡುಗಿ ನೀರನ್ನು ಕುಡಿಯುತ್ತಿದ್ದಾಳೆ.",
+      "translations": {
+        "en": "Example: The girl is drinking water.",
+        "hi": "उदाहरण: लड़की पानी पी रही है।"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: हुडुगि नीरन्नु कुडियुत्तिद्दाळे.",
+        "latin": "Maadari: hudugi neerannu kudiyuttiddaale."
+      },
+      "type": "answer"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q2",
+      "text": "[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಎರಡನೆಯ ಸಾಲಿನ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting from 1), second-row picture.]",
+        "hi": "[संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 36, PDF पृष्ठ 49 (गिनती 1 से), दूसरी पंक्ति का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "[संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 36, PDF पुट 49 (1रिंद एणिके), एरडनेय सालिन चित्र.]",
+        "latin": "[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda enike), eradaneya saalina chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q3",
+      "text": "[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಮೂರನೆಯ ಸಾಲಿನ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting from 1), third-row picture.]",
+        "hi": "[संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 36, PDF पृष्ठ 49 (गिनती 1 से), तीसरी पंक्ति का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "[संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 36, PDF पुट 49 (1रिंद एणिके), मूरनेय सालिन चित्र.]",
+        "latin": "[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda enike), mooraneya saalina chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q4",
+      "text": "[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ನಾಲ್ಕನೆಯ ಸಾಲಿನ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting from 1), fourth-row picture.]",
+        "hi": "[संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 36, PDF पृष्ठ 49 (गिनती 1 से), चौथी पंक्ति का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "[संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 36, PDF पुट 49 (1रिंद एणिके), नाल्कनेय सालिन चित्र.]",
+        "latin": "[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda enike), naalkaneya saalina chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q5",
+      "text": "[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಐದನೆಯ ಸಾಲಿನ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting from 1), fifth-row picture.]",
+        "hi": "[संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 36, PDF पृष्ठ 49 (गिनती 1 से), पाँचवीं पंक्ति का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "[संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 36, PDF पुट 49 (1रिंद एणिके), ऐदनेय सालिन चित्र.]",
+        "latin": "[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda enike), aidaneya saalina chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q6",
+      "text": "[ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, ಮುದ್ರಿತ ಪುಟ 36, PDF ಪುಟ 49 (1ರಿಂದ ಎಣಿಕೆ), ಆರನೆಯ ಸಾಲಿನ ಚಿತ್ರ.]",
+      "translations": {
+        "en": "[Editorial image reference: 3rd_KANNADA_FL_Part_1_2026-27.pdf, printed page 36, PDF page 49 (counting from 1), sixth-row picture.]",
+        "hi": "[संपादकीय चित्र-संदर्भ: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पृष्ठ 36, PDF पृष्ठ 49 (गिनती 1 से), छठी पंक्ति का चित्र।]"
+      },
+      "transliterations": {
+        "devanagari": "[संपादकीय चित्र उल्लेख: 3rd_KANNADA_FL_Part_1_2026-27.pdf, मुद्रित पुट 36, PDF पुट 49 (1रिंद एणिके), आरनेय सालिन चित्र.]",
+        "latin": "[sampaadakeeya chitra ullekha: 3rd_KANNADA_FL_Part_1_2026-27.pdf, mudrita puta 36, PDF puta 49 (1rinda enike), aaraneya saalina chitra.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-p1",
+      "text": "ಗಾದೆಗಳನ್ನು ಓದಿ ತಿಳಿ.",
+      "translations": {
+        "en": "Read and understand the proverbs.",
+        "hi": "कहावतें पढ़कर समझो।"
+      },
+      "transliterations": {
+        "devanagari": "गादेगळन्नु ओदि तिळि.",
+        "latin": "Gaadegalannu odi tili."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1",
+      "text": "ಆಪತ್ತಿಗಾದವನೇ ನೆಂಟ",
+      "translations": {
+        "en": "The one who helps in trouble is a true friend.",
+        "hi": "संकट में काम आने वाला ही सच्चा अपना है।"
+      },
+      "transliterations": {
+        "devanagari": "आपत्तिगादवने नेंट",
+        "latin": "Aapattigaadavane nenta"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q2",
+      "text": "ಮಾತು ಬೆಳ್ಳಿ ಮೌನ ಬಂಗಾರ",
+      "translations": {
+        "en": "Speech is silver; silence is gold.",
+        "hi": "बोलना चाँदी है, मौन सोना है।"
+      },
+      "transliterations": {
+        "devanagari": "मातु बेळ्ळि मौन बंगार",
+        "latin": "Maatu belli mauna bangaara"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q3",
+      "text": "ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು",
+      "translations": {
+        "en": "Excessive greed leads to ruin.",
+        "hi": "अधिक लालच विनाश लाता है।"
+      },
+      "transliterations": {
+        "devanagari": "अति आसे गति केडु",
+        "latin": "Ati aase gati kedu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q4",
+      "text": "ಆಳಾಗಿ ದುಡಿ ಅರಸಾಗಿ ಉಣ್ಣು",
+      "translations": {
+        "en": "Work like a servant; eat like a king.",
+        "hi": "सेवक की तरह काम करो, राजा की तरह खाओ।"
+      },
+      "transliterations": {
+        "devanagari": "आळागि दुडि अरसागि उण्णु",
+        "latin": "Aalaagi dudi arasaagi unnu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-p1",
+      "text": "ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ ಗಾದೆಯನ್ನು ಪೂರ್ಣಮಾಡು. (ಯುಕ್ತಿ ಮೇಲು, ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ ಹೂ, ಕೋಣ ನೀರಿಗೆ ಎಳೆಯುತ್ತೆ, ಮಹಾರಾಯ)",
+      "translations": {
+        "en": "Choose the right words to complete the proverbs. (cleverness is better, jasmine flowers for the hair, the buffalo pulls towards the water, my lord)",
+        "hi": "सही शब्द चुनकर कहावतें पूरी करो। (बुद्धि बड़ी है, बालों के लिए चमेली के फूल, भैंसा पानी की ओर खींचता है, महाराज)"
+      },
+      "transliterations": {
+        "devanagari": "सरियाद पदवन्नु आरिसि गादेयन्नु पूर्णमाडु. (युक्ति मेलु, जुट्टिगे मल्लिगे हू, कोण नीरिगे एळेयुत्ते, महाराय)",
+        "latin": "Sariyaada padavannu aarisi gaadeyannu poornamaadu. (Yukti melu, juttige mallige hoo, kona neerige eleyutte, mahaaraaya)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q1",
+      "text": "ಮಾಡಿದ್ದುಣ್ಣೊ ___",
+      "translations": {
+        "en": "Reap what you sow, ___.",
+        "hi": "जैसा करोगे वैसा भरोगे, ___।"
+      },
+      "transliterations": {
+        "devanagari": "माडिद्दुण्णो ___",
+        "latin": "Maadiddunno ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q2",
+      "text": "ಎತ್ತು ಏರಿಗೆ ಎಳೆದರೆ ___",
+      "translations": {
+        "en": "If the bull pulls towards the bank, ___.",
+        "hi": "बैल किनारे की ओर खींचे तो ___।"
+      },
+      "transliterations": {
+        "devanagari": "एत्तु एरिगे एळेदरे ___",
+        "latin": "Ettu erige eledare ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q3",
+      "text": "ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ___",
+      "translations": {
+        "en": "No flour for the stomach, yet ___.",
+        "hi": "पेट के लिए आटा नहीं, फिर भी ___।"
+      },
+      "transliterations": {
+        "devanagari": "होट्टेगे हिट्टिल्ल ___",
+        "latin": "Hottege hittilla ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q4",
+      "text": "ಶಕ್ತಿಗಿಂತ ___",
+      "translations": {
+        "en": "Rather than strength, ___.",
+        "hi": "शक्ति से ___।"
+      },
+      "transliterations": {
+        "devanagari": "शक्तिगिंत ___",
+        "latin": "Shaktiginta ___"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p1",
+      "text": "ಈ ಪದಗಳನ್ನು ಸರಿಯಾದ ರೂಪದಲ್ಲಿ ಬರೆ.",
+      "translations": {
+        "en": "Write these words in their correct forms.",
+        "hi": "इन शब्दों को सही रूप में लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "ई पदगळन्नु सरियाद रूपदल्लि बरे.",
+        "latin": "Ee padagalannu sariyaada roopadalli bare."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q1",
+      "text": "ಕೂತುಹಲ",
+      "translations": {
+        "en": "ಕೂತುಹಲ (misspelt Kannada word for curiosity)",
+        "hi": "ಕೂತುಹಲ (जिज्ञासा का अशुद्ध कन्नड़ शब्द)"
+      },
+      "transliterations": {
+        "devanagari": "कूतुहल",
+        "latin": "Kootuhala"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q2",
+      "text": "ಸಿಕ್ಷಕ",
+      "translations": {
+        "en": "ಸಿಕ್ಷಕ (misspelt Kannada word for teacher)",
+        "hi": "ಸಿಕ್ಷಕ (शिक्षक का अशुद्ध कन्नड़ शब्द)"
+      },
+      "transliterations": {
+        "devanagari": "सिक्षक",
+        "latin": "Sikshaka"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q3",
+      "text": "ಜಾಲಪಾತ",
+      "translations": {
+        "en": "ಜಾಲಪಾತ (misspelt Kannada word for waterfall)",
+        "hi": "ಜಾಲಪಾತ (जलप्रपात का अशुद्ध कन्नड़ शब्द)"
+      },
+      "transliterations": {
+        "devanagari": "जालपात",
+        "latin": "Jaalapaata"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q4",
+      "text": "ನಿಡುಗಟ್ಟು",
+      "translations": {
+        "en": "ನಿಡುಗಟ್ಟು (misspelt Kannada word for idiom)",
+        "hi": "ನಿಡುಗಟ್ಟು (मुहावरे का अशुद्ध कन्नड़ शब्द)"
+      },
+      "transliterations": {
+        "devanagari": "निडुगट्टु",
+        "latin": "Nidugattu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p2",
+      "text": "ನಿನಗಿದು ತಿಳಿದಿರಲಿ: ಗಾದೆ ಎಂದರೆ ನಾಣ್ಣುಡಿ.",
+      "translations": {
+        "en": "Remember: A proverb is a traditional saying.",
+        "hi": "याद रखो: गादे का अर्थ कहावत है।"
+      },
+      "transliterations": {
+        "devanagari": "निनगिदु तिळिदिरलि: गादे एंदरे नाण्णुडि.",
+        "latin": "Ninagidu tilidirali: gaade endare naannudi."
+      },
+      "type": "prose"
+    }
+  ]
+}
