@@ -4,6 +4,7 @@ import { reloadAppAsync } from 'expo';
 import { clearDownloadedChapters } from './downloads';
 import { invalidateContentCache } from './index';
 import { beginLocalDataReset } from './local-reset-state';
+import { clearDownloadedV2Chapters, invalidateV2ContentCache } from './v2';
 
 let pending: Promise<void> | null = null;
 
@@ -11,8 +12,10 @@ async function performReset(): Promise<void> {
   beginLocalDataReset();
   try {
     clearDownloadedChapters();
+    clearDownloadedV2Chapters();
     await AsyncStorage.clear();
     invalidateContentCache();
+    invalidateV2ContentCache();
   } catch {
     throw new Error('Some local data could not be cleared. Keep this screen open and retry the reset.');
   }
