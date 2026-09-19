@@ -1,0 +1,95 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: भोजन का खेल
+  intro: 'पाठ - ३ : पाठपूर्व गतिविधि'
+  poem: पद्य
+  vocab: सुने हुए शब्द
+  notes: शब्दार्थ
+  exercise-A: अभ्यास अ
+  exercise-B: अभ्यास आ
+  exercise-C: अभ्यास इ
+  exercise-D: अभ्यास ई
+intro-1: अ) चित्र दिखाकर शब्द बुलवाएँ।
+intro-moogu: नाक
+intro-kannugalu: आँखें
+intro-elegalu: पत्तियाँ
+intro-hoogalu: फूल
+intro-kai-beralgu: हाथ की उंगलियाँ
+poem-intro: (इस पद्य को राग से गाकर बच्चों से बुलवाएँ)
+poem-s1l1: एक दो
+poem-s1l2: केले का पत्ता बिछाओ
+poem-s2l1: तीन चार
+poem-s2l2: भात डालो
+poem-s3l1: पाँच छह
+poem-s3l2: दाल सारु
+poem-s4l1: सात आठ
+poem-s4l2: सब्जी के लिए डंठल
+poem-s5l1: नौ दस
+poem-s5l2: पत्ता मोड़कर उठाओ
+poem-s6l1: एक से दस
+poem-s6l2: ऐसा ही था
+poem-s6l3: भोजन का खेल
+poem-s6l4: समाप्त हुआ
+vocab-ondu: एक
+vocab-eradu: दो
+vocab-baalele: केले का पत्ता
+vocab-haradu: बिछाना
+vocab-mooru: तीन
+vocab-naalku: चार
+vocab-anna: अन्न
+vocab-haaku: डालना
+vocab-aidu: पाँच
+vocab-aaru: छह
+vocab-bele: दाल
+vocab-saaru: सारु
+vocab-elu: सात
+vocab-entu: आठ
+vocab-palya: सब्जी व्यंजन
+vocab-dantu: एक साग
+vocab-ombattu: नौ
+vocab-hattu: दस
+vocab-ele: पत्ता
+vocab-mudiru: मोड़ना
+vocab-ettu: उठाना
+vocab-oota: भोजन
+note-palya: सब्जी व्यंजन
+note-palya-def: सब्ज़ियों से बना पदार्थ
+note-dantu: डंठल साग
+note-dantu-def: एक प्रकार की पत्तेदार सब्जी
+note-mudiru: मोड़ना
+note-mudiru-def: ढकना, मोड़ना
+ex-a-intro: अ) दिए शब्द बोलें, बच्चों से बुलवाएँ।
+ex-a-q1: एक
+ex-a-q2: दो
+ex-a-q3: तीन
+ex-a-q4: चार
+ex-a-q5: पाँच
+ex-a-q6: छह
+ex-a-q7: सात
+ex-a-q8: आठ
+ex-a-q9: नौ
+ex-a-q10: दस
+ex-b-intro: आ) ये तुकबंदी शब्द बोलें, बच्चों से बुलवाएँ।
+ex-b-q1: 1) दो-बिछाओ
+ex-b-q2: 2) छह-सारु
+ex-b-q3: 3) आठ-डंठल
+ex-b-q4: 4) दस-उठाओ
+ex-c-intro: इ) पद्य की पंक्तियाँ नीचे दी हैं। प्रत्येक में एक शब्द छोड़ा गया है। छूटे शब्द बच्चों से बुलवाएँ।
+ex-c-q1: 1) एक दो _____ बिछाओ।
+ex-c-q2: 2) तीन चार _____ डालो।
+ex-c-q3: 3) पाँच छह _____ सारु।
+ex-c-q4: 4) सात आठ ______ डंठल।
+ex-c-q5: 5) नौ दस _____ मोड़कर उठाओ।
+ex-d-intro: ई) चित्र दिखाकर पास के प्रश्न पूछें और बच्चों से उत्तर लें।
+ex-d-q1: इस फल का नाम क्या है?
+ex-d-q2: यहाँ कितने फल हैं?
+ex-d-q3: इस चित्र में फल का नाम क्या है?
+ex-d-q4: यहाँ कितने फल हैं?
+ex-d-q5: इस चित्र में सब्जियों का नाम क्या है?
+ex-d-q6: यहाँ कितनी सब्जियाँ हैं?
+ex-d-q7: इस चित्र में सब्जी का नाम क्या है?

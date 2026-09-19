@@ -1,0 +1,209 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige ondondu vākyadalli uttarisi.'
+  exercise-B: 'ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. yāru, yārige, ēke hēḷidaru?'
+  exercise-D: 'ī. biṭṭa sthaḷagaḷannu tumbiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. keḷagina praśnegaḷige uttarisi.'
+  grammar-B: 'ā. hondisi bareyiri.'
+  grammar-C: 'i. koṭṭiruva padagaḷannu rūḍhanāma, aṅkita nāma hāgū anvarthanāmagaḷāgi viṅgaḍisi bareyiri.'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'ī. yōjane'
+  language-exercise-B: 'u. ōdige mannaṇe'
+  language-exercise-C: 'ū. śubhanuḍi'
+
+intro-1: 'bhūmiya mēliruva pratiyondu jīvigū badukuva hakkide. nāvu badukabēku. badukuvudakkū biḍabēku. jagattinalli pratiyondu jīvigū tannadē āda viśēṣate hāgū ananyate iddē iruttade. aṅgavaikalya embudu śāpavalla. adannu mīri sādhane māḍabahudu. tamma nyūnateyannu maretu yāva kṣētradalli tamma sāmathryavide embudannu aritukoṇḍu sādhane māḍabēku.'
+
+story-n1: '“obba vyaktige guṇavāgada kāyile iddare ātanannu badukisi uḷisi sādhisuvudēnide? hāge ātanige vaidyakīya upacāra māḍutta badukisuvudu śuddha avivēka” - embudu vaidyakīya vidyārthiyāgiddāga taruṇa ḍākṭar tēḍḍiyas mārlinana niścita abhiprāyavāgittu. “hāge vāsiyāgada kāyilegaḷinda naraḷuva rōgigaḷige mattu atiyāda nōvu-naraḷuvike anubhavisuva rōgigaḷige sukha maraṇa uṇṭāguvante māḍuvudē lēsu”- endu avanu tanna taragatiya itara vidyārthigaḷoḍane vādisuttiddanu.'
+
+story-n2: '“ādare nāvu illiruvudu aṅgahīnarāda hatabhāgyara āraikegāgi!” - endu avaru pratibhaṭisuttiddaru.'
+
+story-n3: '“ḍākṭararu iruvudu rōgigaḷannu ārōgyavantarannāgi māḍalikkē. nija, opputtēne. ādare, yāvudū avarannu guṇapaḍisuvantillavādare avaru naraḷuvudakkinta sāyuvudē lēsu!” endu mārlinanu chaladinda nuḍiyuttiddanu.'
+
+story-n4: 'mārlinana vyāsaṅgada koneya varṣavāgittu. adondu rātre mārlinanu āspatreya kelasadalliddanu. nagarada ondu koḷaku bhāgadinda ondu prasavakkāgi kare bantu. mārlinanu kūḍalē hōgi, jarmaniyinda valase banda ōrva heṅgasina prasavadalli neravādanu. adu avaḷa hattaneya maguvāgittu. ondu kāliginta innondu kālu giḍḍavāgi ā magu huṭṭittu. ḍākṭarana abhyāsadante, avanu ā maguvu usirāḍuvante māḍalu adara bāyiyoḷage ūdidanu. ādare, marukṣaṇavē avaniganisitu: “ēnu durantavī śiśu! adu beḷedāga jīvanaviḍī kuṇṭu kālinallē naḍeyabēku. itara makkaḷu aṇakisi gēli māḍuvaru. ī magu jīvisuvante māḍuvudēke? idu sattare jagattige ēnu naṣṭa!”'
+
+story-n5: 'ādare avanu hēḷikēḷi vaidya. maguvannu huṭṭinallē sāyisuva yōcane bandarū ātana vaidya buddhi jāgratavāgittu. bennu-hoṭṭegaḷa bhāgakke nayavāgi baḍidu āta ā maguvina usirāṭada prakriye prārambhavāguvante māḍidanu. konege avanu nirīkṣisuttidda usireḷeyu bantu. maguvina mukhavu kempagāyitu. magu huṭṭida mēle pratiyobbarū nirīkṣisuva ā modala aḷu - adu konegū maguvininda horaṭitu. tēḍḍiyasge nemmadiyāyitu.'
+
+story-n6: 'āta tanna upakaraṇagaḷannu cīladoḷage tumbi, nagarada kaḍege horaṭuhōdanu. tānu māḍida kelasakkāgi avanu bahaḷa asamādhānapaṭṭiddanu. “nānēke hāge māḍidenendu nanagē tiḷiyadu, dāridrya tumbida ā maneyalli, ī modalē, bēkādudakkinta heccu makkaḷiruvaru. nyūnateyuḷḷa idannu nānēke badukiside? intha kuṇṭarilladiddare jagattu uttamavāgadē?” endu avanu tannoḷagē goṇaguttiddanu.'
+
+story-n7: 'varuṣagaḷu uruḷiduvu. ḍākṭar mārlinanu, ondu kaigārikā nagarakke hōgi tanna vr̥tti sthāpisiddanu. cennāgi sampādaneyāguttittu. tāruṇyadallidda ā sudhāraṇā manōbhāva īga māyavāgittu.'
+
+story-n8: 'ondu dina bēsigeya sañje. āspatreyalli rōgigaḷa tapāsaṇeya kelasa mugidittu. āta tanna kōṇeyalli kuḷitu, nurita saṅgītagāranobba nuḍisuttidda piyānō vādanavannu rēḍiyōdalli ālisuttiddanu. adu entaha adbhuta saṅgīta! adondu saṅgītada rasadautaṇa!'
+
+story-n9: 'ḍākṭar mārlinanu ullasitanādanu. avanallidda daṇivellā māyavāyitu. saṅgīta mugida baḷika rēḍiyōdalli ghōṣaṇeyāyitu.'
+
+story-n10: '“iduvarege nīvu ālisida piyānō vādanavannu nuḍisidavaru pravīṇa millar bārbarā. ivaru huṭṭinindalē aṅgavikalaru. ondu kālu giḍḍavāgiruvudarinda naḍeyalu sādhyavāgadiddarū tamma saṅgītada mūlaka jagattannē geddiddāre.”'
+
+story-n11: 'ḍākṭar mārlinanige āścaryavāyitu. tānu huṭṭinallē sāyisabēkendidda magu idē irabahudē? endu yōcisidanu. ātanige tanna haḷeya nenapugaḷu marukaḷisidavu. “nānu andu ā maguvannu sāyisiddare, indu intaha adbhuta saṅgītavannu kēḷalu sādhyavāguttittē? jīvada maulyavannu ariyade nānu entaha tappu māḍahoraṭidde!” endu paścāttāpapaṭṭanu.'
+
+story-n12: 'pratiyondu jīvigū tannadē āda maulyavide. yārannū kīḷāgi kāṇabāradu. aṅgavaikalyavu sādhanege aḍḍiyāgalāradu emba satyavannu ḍākṭar mārlinanu aritukoṇḍanu.'
+
+vocab-angavaikalya: 'aṅgavaikalya'
+
+vocab-angavaikalya-def: 'dēhada aṅgāṅgaḷa ūna'
+
+vocab-ananyate: 'ananyate'
+
+vocab-ananyate-def: 'viśiṣṭate, bēreyavarigillada guṇa'
+
+vocab-aviveka: 'avivēka'
+
+vocab-aviveka-def: 'tiḷivaḷikeyillada, mūrkhatana'
+
+vocab-upachara: 'upacāra'
+
+vocab-upachara-def: 'āraike, sēve'
+
+vocab-chala: 'chala'
+
+vocab-chala-def: 'haṭha, paṭṭu'
+
+vocab-tapasane: 'tapāsaṇe'
+
+vocab-tapasane-def: 'parīkṣe, tanikhe'
+
+vocab-daridrya: 'dāridrya'
+
+vocab-daridrya-def: 'baḍatana, bavaṇe'
+
+vocab-nyunate: 'nyūnate'
+
+vocab-nyunate-def: 'korate, dōṣa'
+
+vocab-pratibhata: 'pratibhaṭa'
+
+vocab-pratibhata-def: 'virōdhisu, edurisu'
+
+vocab-prasava: 'prasava'
+
+vocab-prasava-def: 'herige, janana'
+
+vocab-moulya: 'maulya'
+
+vocab-moulya-def: 'bele, mahatva'
+
+vocab-rasadoutana: 'rasadautaṇa'
+
+vocab-rasadoutana-def: 'ruciyāda ūṭa, ānanda'
+
+vocab-valase: 'valase'
+
+vocab-valase-def: 'ondu ūrininda innondu ūrige hōgi nelesuvudu'
+
+vocab-vyasanga: 'vyāsaṅga'
+
+vocab-vyasanga-def: 'ōdu, adhyayana'
+
+vocab-hatabhagya: 'hatabhāgya'
+
+vocab-hatabhagya-def: 'duradr̥ṣṭavanta'
+
+ex-a-q1: 'ḍākṭar mārlinana niścita abhiprāyavēnāgittu?'
+
+ex-a-q2: 'mārlinanu prasavakkāgi ellige hōdanu?'
+
+ex-a-q3: 'huṭṭida magu hēgittu?'
+
+ex-a-q4: 'ḍākṭar mārlinanu rēḍiyōdalli ēnannu ālisuttiddanu?'
+
+ex-a-q5: 'piyānō nuḍisidavaru yāru?'
+
+ex-b-q1: 'mārlinanu tanna taragatiya vidyārthigaḷoḍane ēnendu vādisuttiddanu?'
+
+ex-b-q2: 'maguvannu nōḍidāga mārlinanige ēnenisitu?'
+
+ex-b-q3: 'mārlinanu maguvina usirāṭa prārambhavāgalu ēnu māḍidanu?'
+
+ex-b-q4: 'rēḍiyōdalli ghōṣaṇeyādaddēnu?'
+
+ex-b-q5: 'mārlinanu yāva satyavannu aritukoṇḍanu?'
+
+ex-c-q1: '“ādare nāvu illiruvudu aṅgahīnarāda hatabhāgyara āraikegāgi!”'
+
+ex-c-q2: '“ēnu durantavī śiśu!”'
+
+ex-c-q3: '“intha kuṇṭarilladiddare jagattu uttamavāgadē?”'
+
+ex-c-q4: '“jīvada maulyavannu ariyade nānu entaha tappu māḍahoraṭidde!”'
+
+ex-d-q1: 'ātanige vaidyakīya upacāra māḍutta badukisuvudu śuddha __________.'
+
+ex-d-q2: 'ḍākṭararu iruvudu rōgigaḷannu __________ māḍalikkē.'
+
+ex-d-q3: 'maguvannu huṭṭinallē sāyisuva yōcane bandarū ātana __________ jāgratavāgittu.'
+
+ex-d-q4: 'adu entaha adbhuta saṅgīta! adondu saṅgītada __________.'
+
+ex-d-q5: '__________ sādhanege aḍḍiyāgalāradu.'
+
+grammar-p1: 'nāmapada
+
+  vyakti, vastu, sthaḷa, prāṇi, pakṣi ityādigaḷa hesarannu sūcisuva padagaḷige nāmapada ennuvaru.
+
+  udā: rāma, pustaka, ūru, hasu, giḷi ityādi.'
+
+grammar-p2: 'nāmapadagaḷalli mukhyavāgi mūru vidha.
+
+  1. vastuvācaka
+
+  2. guṇavācaka
+
+  3. saṅkhyāvācaka'
+
+grammar-p3: '1. vastuvācaka
+
+  vastugaḷa hesarannu sūcisuva padagaḷige vastuvācaka ennuvaru. idaralli mūru vidha.
+
+  a) rūḍhanāma
+
+  ā) aṅkita nāma
+
+  i) anvartha nāma'
+
+grammar-p4: 'a) rūḍhanāma : rūḍhiyinda banda padagaḷu rūḍhanāmagaḷu.
+
+  udā: nadi, parvata, manuṣya, paṭṭaṇa ityādi.'
+
+grammar-p5: 'ā) aṅkita nāma : gurutigāgi hāgū vyavahārada upayōgakke iṭṭukoṇḍa hesarugaḷu aṅkita nāmagaḷu.
+
+  udā: gaṅgā, himālaya, rāma, beṅgaḷūru ityādi.'
+
+grammar-p6: 'i) anvartha nāma : rūpa, guṇa, svabhāvādi viśēṣavāda arthakke anuguṇavāgi banda hesarugaḷu anvartha nāmagaḷu.
+
+  udā: kuṇṭa, kuruḍa, kivuḍa, vyāpāri, śikṣaka ityādi.'
+
+grammar-a-q1: 'a) nāmapada endarēnu? udāharaṇe koḍi.'
+
+grammar-a-q2: 'ā) nāmapadagaḷalli eṣṭu vidha?'
+
+grammar-a-q3: 'i) vastuvācaka nāmapada endarēnu? avugaḷalli eṣṭu vidha?'
+
+grammar-b-q1: '1. aṅkita nāma - rūḍhiyinda banda padagaḷu'
+
+grammar-b-q2: '2. rūḍhanāma - rūpa, guṇa, svabhāvādi viśēṣavāda arthakke anuguṇavāgi banda hesaru'
+
+grammar-b-q3: '3. anvartha nāma - gurutigāgi hāgū vyavahārada upayōgakke iṭṭukoṇḍa hesaru'
+
+grammar-c-q1: 'mārlin, millar, vaidya, rōgi, heṅgasu, śiśu, bārbarā, pravīṇa, bālaki, vidyārthi'
+
+lang-ex-a-q1: '1. karapatra, lagnapatrikegaḷu hāgū sāhitigaḷa kaibarehagaḷannu saṅgrahisi ālbaṁ tayārisi.'
+
+lang-ex-b-q1: '1. mudrita karapatra hāgū lagna patrikegaḷannu saṅgrahisi ōdiri.'
+
+lang-ex-b-q2: '2. śiśu gītegaḷannu ōdiri.'
+
+lang-ex-b-q3: '3. rājaratnaṁ, ḍuṇḍirāj modalāda lēkhakaru bareda makkaḷa kavitegaḷannu ōdiri.'
+
+lang-ex-c-q1: '1. kannaḍi ninage bēḍa, kannaḍiye nīnāgu.'
+
+lang-ex-c-q2: '2. nuḍidare muttina hāradantirabēku.'
+
+lang-ex-c-q3: '3. mātina rītige prītiya besuge.'

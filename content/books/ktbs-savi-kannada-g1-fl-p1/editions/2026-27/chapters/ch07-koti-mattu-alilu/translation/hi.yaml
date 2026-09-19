@@ -1,0 +1,86 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: बंदर और गिलहरी
+  intro: 'पाठ - ७ : पाठपूर्व गतिविधि'
+  story: गद्य
+  vocab: सुने हुए शब्द
+  notes: शब्दार्थ
+  exercise-A: अभ्यास अ
+  exercise-B: अभ्यास आ
+  exercise-C: अभ्यास इ
+  exercise-D: अभ्यास ई
+intro-1: अ) चित्र दिखाकर पास के प्रश्न पूछें, बच्चों से उत्तर लें।
+intro-q1: इस जानवर का नाम क्या है?
+intro-q2: इस जानवर का नाम क्या है?
+intro-q3: इस चित्र में क्या है?
+intro-q4: इस चित्र में क्या है?
+story-intro: (पाठ पढ़कर सुनाएँ, बच्चों से बुलवाएँ)
+story-n1: एक बंदर पेड़ पर बैठा था। उस बंदर की पूँछ बहुत लंबी थी। वह ज़मीन तक लटक रही थी।
+story-n2: 'एक गिलहरी उछलती-कूदती वहाँ आई। उसने बंदर की पूँछ देखी। उसने सोचा, “यह झूला कितना सुंदर है!” बंदर की पूँछ पकड़कर गिलहरी झूलने लगी।'
+story-n3: बंदर को गुदगुदी आई। उसने नीचे देखा और हँसते हुए कहा,
+story-d1: बहन, क्या कर रही हो? मुझे गुदगुदी हो रही है।
+story-n4: तब गिलहरी डर गई।
+story-d2: बंदर भैया, क्या यह तुम्हारी पूँछ है? मैंने झूला समझकर झूल रही थी। मुझे क्षमा करो
+story-n5: उसने पूँछ छोड़ दी। गिलहरी भागकर पेड़ की डाल पर चढ़ गई।
+vocab-koti: बंदर
+vocab-mara: पेड़
+vocab-mele: ऊपर
+vocab-kulitittu: बैठा था
+vocab-baala: पूँछ
+vocab-udda: लंबा
+vocab-adu: वह
+vocab-nela: ज़मीन
+vocab-netadu: लटकेना
+vocab-alilu: गिलहरी
+vocab-kunidadu: उछलना
+vocab-allige: वहाँ
+vocab-banditu: आई
+vocab-noditu: देखा
+vocab-jokaali: झूला
+vocab-eshtu: कितना
+vocab-chanda: सुंदर
+vocab-yochisu: सोचना
+vocab-jeeku: झूलना
+vocab-kachaguli: गुदगुदी
+vocab-aayitu: हुआ
+vocab-kelage: नीचे
+vocab-nagu: हँसना
+vocab-helu: कहना
+vocab-tangi: बहन
+vocab-enu: क्या
+vocab-maadu: करना
+vocab-gaabari: डर
+vocab-manganna: बंदर भैया
+vocab-idu: यह
+vocab-tili: जानना
+vocab-kshamisu: क्षमा करना
+vocab-aaga: तब
+vocab-bittitu: छोड़ दिया
+note-gaabari: डर
+note-gaabari-def: भय
+note-kshamisu: क्षमा करना
+note-kshamisu-def: अपराध माफ़ करना
+ex-a-intro: अ) इन वाक्यों में छूटे शब्द बच्चों से बुलवाएँ।
+ex-a-q1: 1) उस बंदर की पूँछ _____ लंबी थी।
+ex-a-q2: 2) एक गिलहरी ________ वहाँ आई।
+ex-a-q3: 3) बंदर को _______ आई।
+ex-a-q4: 4) बंदर भैया, क्या यह ____ पूँछ है?
+ex-b-intro: आ) बच्चों से प्रश्न पूछें, उत्तर बुलवाएँ।
+ex-b-q1: 1) बंदर किस पर बैठा था?
+ex-b-q2: 2) बंदर की पूँछ पकड़कर कौन झूलने लगा?
+ex-b-q3: 3) “बंदर भैया, क्या यह तुम्हारी पूँछ है?… क्षमा करो” — यह किसने कहा?
+ex-b-q4: 4) गिलहरी कैसे जाकर पेड़ की डाल पर चढ़ी?
+ex-c-intro: इ) नमूने के अनुसार वाक्य बनाकर बच्चों से बुलवाएँ।
+ex-c-model: 'नमूना : बंदर, पेड़, पूँछ'
+ex-c-q1: 1) बंदर एक जानवर है।
+ex-c-q2: 2) बंदर पेड़ पर चढ़ता है।
+ex-c-q3: 3) बंदर की पूँछ होती है।
+ex-d-intro: ई) ये शब्द बच्चों से बुलवाएँ।
+ex-d-q1: गिलहरी
+ex-d-q2: पेड़
+ex-d-q3: पूँछ

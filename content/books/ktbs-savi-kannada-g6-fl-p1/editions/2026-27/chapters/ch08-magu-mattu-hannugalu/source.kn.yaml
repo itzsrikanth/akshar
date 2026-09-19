@@ -1,0 +1,332 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 8
+  slug: ch08-magu-mattu-hannugalu
+  title: ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಎಚ್. ಎಸ್. ಶಿವಪ್ರಕಾಶ್
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಬಿಟ್ಟಸ್ಥಳ ತುಂಬಿರಿ.
+  exercise-C: ಇ. ಈ ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಬರೆಯಿರಿ.
+  exercise-D: ಈ. ಕೆಳಗಿನ ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  text: ಮಾನವನಿಗೆ ಪ್ರಕೃತಿಯೇ ಮೊದಲ ಗುರು. ಎಲ್ಲರಿಂದಲೂ ಎಲ್ಲದರಿಂದಲೂ ಮಾನವ ಪಾಠ ಕಲಿಯಬೇಕು. ಪ್ರಾಣಿ, ಪಕ್ಷಿ, ಮರ-ಗಿಡಗಳಿಂದಲೂ ಕಲಿಯುವ ವಿಷಯಗಳು ಬಹಳಷ್ಟಿವೆ. ‘ಎಲ್ಲರೊಳಗೊಂದು ನುಡಿ ಕಲಿತು ವಿದ್ಯೆಯ ಪರ್ವತವೇ ಆದ ಸರ್ವಜ್ಞ’ ಎನ್ನುವ ಹಾಗೆ ಹಣ್ಣುಗಳಿಂದಲೂ ಕಲಿಯಬೇಕಾದ ಪಾಠಗಳಿವೆ. ಹಣ್ಣಿನ ಹಾಗೆ ಬದುಕು ಮಾಗಿದರೆ ಬಾಳು ಸಿಹಿಯಾಗಿರುತ್ತದೆ ಎಂಬ ಆಶಯದ ಪದ್ಯವಿದು.
+  section: intro
+- id: poem-s1l1
+  type: poem_line
+  text: ಹಣ್ಣಿನಂಗಡಿ ಮುಂದೆ ಕಣ್ಣರಳಿಸುವ ಮಗು
+  section: poem
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಇಲ್ಲಿ ಈ ತಿರುವಲ್ಲಿ ಥಟ್ಟನವತರಿಸಿದ ಕಪ್ಪು ಲಾರಿಯ ಹಾಗೆ
+  section: poem
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ಗಾಳಿ ಕೀಟಲೆ ಉಗುರೊ
+  section: poem
+  stanza: 1
+- id: poem-s1l4
+  type: poem_line
+  text: ತುಂಟರೆಸೆಯುವ ಕಲ್ಲೋ
+  section: poem
+  stanza: 1
+- id: poem-s2l1
+  type: poem_line
+  text: ಕಾಯಿಯಲ್ಲೇ ನಿನ್ನ ಕೆಡವದಿರಲಿ
+  section: poem
+  stanza: 2
+- id: poem-s2l2
+  type: poem_line
+  text: ಹಣ್ಣಿನಂಗಡಿಯಾಗು ನೀನೂನು
+  section: poem
+  stanza: 2
+- id: poem-s2l3
+  type: poem_line
+  text: ಗಿರವಿಯಂಗಡಿ ಗುಜರಿಗಳ ಧೂಳು ಹಬ್ಬಿದ
+  section: poem
+  stanza: 2
+- id: poem-s2l4
+  type: poem_line
+  text: ಊರ ಮಾರುಕಟ್ಟೆಯ ನಡುವೆ
+  section: poem
+  stanza: 2
+- id: poem-s3l1
+  type: poem_line
+  text: ಹಣ್ಣಾಗಬೇಕು ಮಗು
+  section: poem
+  stanza: 3
+- id: poem-s3l2
+  type: poem_line
+  text: ಮೈಯೆಲ್ಲ ಮಾಗಿಹುಣ್ಣಿನ ಸುಕ್ಕು ಬರುವವರೆಗೆ
+  section: poem
+  stanza: 3
+- id: poem-s3l3
+  type: poem_line
+  text: ಪಕ್ವತನ ಬಿರಿದ ಬಾಳೆಹಣ್ಣಿದೆಯಲ್ಲ
+  section: poem
+  stanza: 3
+- id: poem-s3l4
+  type: poem_line
+  text: ಅದರ ಹಾಗೇ ಕೊಂಚ ಬಾಗಬೇಕು
+  section: poem
+  stanza: 3
+- id: poem-s4l1
+  type: poem_line
+  text: ಕೊಬ್ಬಿದರೆ ಚಕೋತನೆಯ ಹಾಗೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l2
+  type: poem_line
+  text: ಕುಗ್ಗಿದರೆ ನಿಂಬೆ ಹಣ್ಣಿನ ಹಾಗೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l3
+  type: poem_line
+  text: ಹುಳಿಗಟ್ಟುವುದು ನಿನ್ನೊಳಗೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l4
+  type: poem_line
+  text: ಸರಿಗಾತ್ರವಾಗಿ ಸಮನಿಸಲಿ ನಿನ್ನತನ
+  section: poem
+  stanza: 4
+- id: poem-s5l1
+  type: poem_line
+  text: ಕಿತ್ತಲೆಯ ಹಾಗೆ, ಮೋಸಂಬಿ ಹಾಗೆ
+  section: poem
+  stanza: 5
+- id: poem-s5l2
+  type: poem_line
+  text: ರಸಪೂರಿ ಮಾವಿನ ಹಣ್ಣಿನಂತೆ
+  section: poem
+  stanza: 5
+- id: poem-s5l3
+  type: poem_line
+  text: ಅಂಜೂರದಂತೆ ಅಪರೂಪವಾಗು ಜನರ ಕಣ್ಣಿಗೆ;
+  section: poem
+  stanza: 5
+- id: poem-s5l4
+  type: poem_line
+  text: ಕಂಡರೆ ಕಾಣು ಕಲ್ಲಂಗಡಿಯಾಗಿ
+  section: poem
+  stanza: 5
+- id: poem-s6l1
+  type: poem_line
+  text: ಬೇಸಿಗೆಯ ಕಮರಿರುವ ಕಣ್ಣುಗಳಿಗೆ
+  section: poem
+  stanza: 6
+- id: poem-s6l2
+  type: poem_line
+  text: ದಳದಳಕೊಯ್ದು ಅರಳಿಸಿದ ದಾಳಿಂಬೆಯೊಳಗೆ
+  section: poem
+  stanza: 6
+- id: poem-s6l3
+  type: poem_line
+  text: ಥಳಥಳ ಕೆಂಡ ಬಣ್ಣ ಮಣಿಮಣಿ
+  section: poem
+  stanza: 6
+- id: poem-s6l4
+  type: poem_line
+  text: ಹನಿಹನಿ ತನಿರಸದ ಖನಿಯಾಗು;
+  section: poem
+  stanza: 6
+- id: poem-s7l1
+  type: poem_line
+  text: ಹಬ್ಬಿಕೋ ದ್ರಾಕ್ಷಿ ಬಳ್ಳಿಯ ಹಾಗೆ
+  section: poem
+  stanza: 7
+- id: poem-s7l2
+  type: poem_line
+  text: ಆಯುಷ್ಯೆ ಚಪ್ಪರದ ಉದ್ದಗಲ;
+  section: poem
+  stanza: 7
+- id: poem-s7l3
+  type: poem_line
+  text: ತಬ್ಬಿಕೋ ಬಿಡಬೇಡ;
+  section: poem
+  stanza: 7
+- id: poem-s7l4
+  type: poem_line
+  text: ಹಣ್ಣು ತೊಡಿಸಲು ನಿನಗೆ
+  section: poem
+  stanza: 7
+- id: poem-s8l1
+  type: poem_line
+  text: ತಾನೆ ಮಣ್ಣಾಗುತ-ಬರಲು ತೋಟಗಾತಿ
+  section: poem
+  stanza: 8
+- id: poem-s8l2
+  type: poem_line
+  text: ಬೆಲೆಯ ರಾಕೆಟ್ಟು ಯಾನ ಹೊರಡದಿರು
+  section: poem
+  stanza: 8
+- id: poem-s8l3
+  type: poem_line
+  text: ಸೇಬು ಹಣ್ಣಿನ ಜೊತೆಗೆ
+  section: poem
+  stanza: 8
+- id: poem-s8l4
+  type: poem_line
+  text: ಎಲ್ಲರಿಗೂ ದಕ್ಕುವ ಎಲಚಿಯಾಗು
+  section: poem
+  stanza: 8
+- id: author-1
+  type: prose
+  text: ಶ್ರೀ ಎಚ್. ಎಸ್. ಶಿವಪ್ರಕಾಶ್ ಅವರು 1954ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರಾಗಿ ಸೇವೆಯನ್ನು ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಇವರು ಮಹಾಚೈತ್ರ, ಸುಲ್ತಾನ್ ಟಿಪ್ಪು, ನವಿಲು ನಗರ, ಮಳೆಬಿದ್ದ ನೆಲದಲ್ಲಿ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರಿಗೆ ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕೇಂದ್ರ ಸಂಗೀತ ನಾಟಕ ಅಕಾಡೆಮಿ ಮತ್ತು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.
+  section: author
+- id: vocab-giraviyangadi
+  type: vocabulary_term
+  text: ಗಿರವಿಯಂಗಡಿ
+  section: vocab
+- id: vocab-giraviyangadi-def
+  type: vocabulary_definition
+  text: ವಸ್ತುಗಳನ್ನು ಅಡವಿಟ್ಟುಕೊಂಡು ಹಣ ನೀಡುವ ಅಂಗಡಿ
+  section: vocab
+- id: vocab-gujari
+  type: vocabulary_term
+  text: ಗುಜರಿ
+  section: vocab
+- id: vocab-gujari-def
+  type: vocabulary_definition
+  text: ಹಳೆಯ ವಸ್ತುಗಳನ್ನು ಮಾರುವ ಸ್ಥಳ
+  section: vocab
+- id: vocab-pakvatana
+  type: vocabulary_term
+  text: ಪಕ್ವತನ
+  section: vocab
+- id: vocab-pakvatana-def
+  type: vocabulary_definition
+  text: ಮಾಗಿದ
+  section: vocab
+- id: vocab-kobbu
+  type: vocabulary_term
+  text: ಕೊಬ್ಬು
+  section: vocab
+- id: vocab-kobbu-def
+  type: vocabulary_definition
+  text: ದಪ್ಪನಾಗು
+  section: vocab
+- id: vocab-kamaru
+  type: vocabulary_term
+  text: ಕಮರು
+  section: vocab
+- id: vocab-kamaru-def
+  type: vocabulary_definition
+  text: ಕಂದು
+  section: vocab
+- id: vocab-khani
+  type: vocabulary_term
+  text: ಖನಿ
+  section: vocab
+- id: vocab-khani-def
+  type: vocabulary_definition
+  text: ಗಣಿ, ಆಕರ
+  section: vocab
+- id: vocab-dakku
+  type: vocabulary_term
+  text: ದಕ್ಕು
+  section: vocab
+- id: vocab-dakku-def
+  type: vocabulary_definition
+  text: ದೊರಕು
+  section: vocab
+- id: ex-a-q1
+  type: question
+  text: ಕವಿಯ ಪ್ರಕಾರ ಮಗು ಏನಾಗಬೇಕು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಮಗು ಯಾವ ಹಣ್ಣಿನ ಹಾಗೆ ಬಾಗಬೇಕು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಯಾವ ಹಣ್ಣಿನಂತೆ ಕುಗ್ಗಬೇಕು ಎಂದು ಕವಿಗಳು ಹೇಳುತ್ತಾರೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ಅಪರೂಪವಾದ ಹಣ್ಣು ಯಾವುದು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ಕಮರಿರುವ ಕಣ್ಣುಗಳಿಗೆ ಹೇಗೆ ಕಾಣಬೇಕು?
+  section: exercise-A
+  exercise: A
+- id: ex-b-q1
+  type: fill_blank
+  text: ಥಳ ಥಳ ಕೆಂಡ ________ ಮಣಿ ಮಣಿ.
+  section: exercise-B
+  exercise: B
+- id: ex-b-q2
+  type: fill_blank
+  text: ಹಬ್ಬಿಕೋ _________ ಬಳ್ಳಿಯ ಹಾಗೆ.
+  section: exercise-B
+  exercise: B
+- id: ex-b-q3
+  type: fill_blank
+  text: ಎಲ್ಲರಿಗೂ __________ ಎಲಚಿಯಾಗು.
+  section: exercise-B
+  exercise: B
+- id: ex-b-q4
+  type: fill_blank
+  text: ಬೆಲೆಯ ________ ಯಾನ ಹೊರಡದಿರು.
+  section: exercise-B
+  exercise: B
+- id: ex-b-q5
+  type: fill_blank
+  text: ಸರಿಗಾತ್ರವಾಗಿ ಸಮನಿಸಲಿ ______
+  section: exercise-B
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ಹಣ್ಣಿನಂಗಡಿ
+  section: exercise-C
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಕಣ್ಣರಳಿಸು
+  section: exercise-C
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ತುಂಟರೆಸೆಯುವ
+  section: exercise-C
+  exercise: C
+- id: ex-c-q4
+  type: question
+  text: ಹುಳಿಗಟ್ಟುವುದು
+  section: exercise-C
+  exercise: C
+- id: ex-c-q5
+  type: question
+  text: ನಿನ್ನೊಳಗೆ
+  section: exercise-C
+  exercise: C
+- id: ex-c-q6
+  type: question
+  text: ಅಪರೂಪವಾಗು
+  section: exercise-C
+  exercise: C
+- id: ex-d-q1
+  type: fill_blank
+  text: ಕೊಬ್ಬಿದರೆ __________________________ / _____________________________ನಿನ್ನತನ
+  section: exercise-D
+  exercise: D

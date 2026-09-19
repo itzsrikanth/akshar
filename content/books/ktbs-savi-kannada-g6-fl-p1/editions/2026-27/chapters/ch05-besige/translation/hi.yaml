@@ -1,0 +1,91 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: प्रवेश
+  poem: पद्य
+  author: कवि-कृति परिचय
+  vocab: शब्दार्थ
+  exercise-A: अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-B: आ. प्रत्येक शब्द के दो पर्याय लिखिए।
+  exercise-C: इ. इन शब्दों से अपने वाक्य बनाइए।
+  exercise-D: ई. बेसिगे पद्य का सार अपने शब्दों में लिखिए।
+intro-1: हम मनुष्यों को प्रकृति से बहुत कुछ सीखना है। प्रकृति की प्रत्येक वस्तु परस्पर संबंधित है। ऋतुएँ बदलती हैं तो मौसम भी बदलता है। कभी प्रखर धूप, कभी ठंड, वर्षा, हवा—फिर भी काम नहीं रुकते। प्रकृति संतुलन रखकर अपना काम सदा करती रहती है।
+poem-s1l1: गर्मी की छुट्टी आ गई
+poem-s1l2: फिर भी धूप की सज़ा है
+poem-s1l3: आओ खेलें,
+poem-s1l4: सूर्य की महिमा गाएँ।
+poem-s2l1: सूर्य से अधिक ताप क्यों?
+poem-s2l2: किस पर उसका क्रोध?
+poem-s2l3: ऐसा दोष मत दो,
+poem-s2l4: सूर्य को दोषी मत समझो,
+poem-s2l5: बादल जोड़ने, धरती पर वर्षा लाने
+poem-s2l6: वह मेहनत करता है, बेचारा!
+poem-s3l1: धरती का पोषक सूर्य
+poem-s3l2: धरती के लिए अनिवार्य
+poem-s3l3: प्रशंसा नहीं चाहिए,
+poem-s3l4: निंदा से वह नहीं सिकुड़ता।
+poem-s3l5: प्रकाश देता, गर्मी भेजता
+poem-s3l6: कर्तव्य नहीं भूलता।
+poem-s4l1: इतनी तेज धूप में भी
+poem-s4l2: पेड़-पौधे, झाड़ियाँ, लताएँ
+poem-s4l3: व्याकुल नहीं,
+poem-s4l4: देखो—सब रंगे हैं
+poem-s4l5: कोंपल, फूल, फल
+poem-s4l6: उत्साह में हैं।
+poem-s5l1: सूर्य से सीखें।
+poem-s5l2: प्रकृति की तरह आनंद लें।
+poem-s5l3: कष्टों से न डरकर,
+poem-s5l4: कर्तव्य न भूलकर,
+poem-s5l5: आनंद से जीकर, आनंद बाँटकर,
+poem-s5l6: धन्यता पाएँ।
+author-1: बी.आर. लक्ष्मण राव का जन्म 09-09-1946 को चिक्कबल्लापुर जिले के चीमंगल ग्राम में हुआ। पिता बी.आर. राजा राव, माता वेंकटलक्ष्मम्मा। सेवानिवृत्त अध्यापक होकर साहित्य सेवा करते हैं। ‘बेसिगे’ पद्य ‘सुब्बाभट्टर मगेले’ भावगीत संग्रह से लिया गया है।
+vocab-saja: सज़ा
+vocab-saja-def: दण्ड
+vocab-mahime: महिमा
+vocab-mahime-def: गरिमा, महत्व
+vocab-ravi: रवि
+vocab-ravi-def: सूर्य
+vocab-tapa: ताप
+vocab-tapa-def: गर्मी, उष्णता
+vocab-hali: हळि
+vocab-hali-def: निंदा करना
+vocab-ile: इळे
+vocab-ile-def: भूमि, धरती
+vocab-poshaka: पोषक
+vocab-poshaka-def: पालक
+vocab-anivarya: अनिवार्य
+vocab-anivarya-def: अत्यंत आवश्यक
+vocab-hogalu: होगळु
+vocab-hogalu-def: प्रशंसा करना
+vocab-tegalu: तेगळु
+vocab-tegalu-def: निंदा करना
+vocab-midi: मिडि
+vocab-midi-def: कच्चा फल
+vocab-udu: ऊडु
+vocab-udu-def: खिलाना
+vocab-kartavya: कर्तव्य
+vocab-kartavya-def: काम, जिम्मेदारी
+vocab-biru: बिरु
+vocab-biru-def: तेज, प्रचंड
+vocab-sambhrama: संभ्रम
+vocab-sambhrama-def: उत्साह
+vocab-dhanyate: धन्यता
+vocab-dhanyate-def: संतुष्टि
+ex-a-q1: सूर्य क्यों मेहनत कर रहा है?
+ex-a-q2: धरती का पोषक कौन है?
+ex-a-q3: सूर्य कौन सा कर्तव्य नहीं भूलता?
+ex-a-q4: तेज धूप से क्या व्याकुल नहीं होते?
+ex-a-q5: बच्चों को सूर्य से क्या सीखना चाहिए?
+ex-b-q1: सूर्य
+ex-b-q2: धरती
+ex-b-q3: प्रकृति
+ex-b-q4: उत्साह
+ex-c-q1: पोषक
+ex-c-q2: कर्तव्य
+ex-c-q3: संभ्रम
+ex-c-q4: धन्यता
+ex-d-q1: ‘बेसिगे’ पद्य का सार अपने शब्दों में लिखिए।

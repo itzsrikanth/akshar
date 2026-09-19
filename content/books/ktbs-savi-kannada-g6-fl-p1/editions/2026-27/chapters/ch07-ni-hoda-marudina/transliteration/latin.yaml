@@ -1,0 +1,69 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kavi kṛti paricaya
+  vocab: padagaḻa artha
+  notes: vivara tiḻiyiri
+  exercise-A: a. kèḻagina praśnègaḻigè uttarisi.
+  exercise-B: ā. svaṃta vākyadalli baḻasiri.
+  exercise-C: i. ī padyada sārāṃśavannu nimma mātugaḻalli barèyiri.
+  exercise-D: ī. kèḻagina padyabhāgavannu pūrṇagòḻisiri.
+intro-1: hòsagannaḍa sāhityavu navodaya, pragatiśīla, dalita-baṃḍāya, mahiḻā sāhitya èṃba vividha dṛṣṭikonagaḻalli bèḻèdu baṃdidè. dalitaru tamma badukina śoṣaṇè novugaḻannu hāḍāgi hòmmisiddè dalita sāhitya. svātaṃtrya, saṃvidhāna baṃdarū namma baduku innū badalāgalilla èṃba novidè. badalāvaṇèya gāḻi bīsali baduku hasanāgali èṃba āśayavannu ī kavitè hòṃdidè.
+poem-s1l1: nī hoda marudina mòdalaṃgè nama baduku
+poem-s1l2: āgyādo bābā sāheba
+poem-s1l3: ninnaṃga duḍidavaru kaḻakaḻiya paḍuvavaru
+poem-s1l4: innutana baralilla òbba
+poem-s2l1: pratinitya èddāga namasuddi saṃbhramavu
+poem-s2l2: dekuvudu tappilla namaga
+poem-s2l3: hoda hodallèlla melavara āṭagaḻu
+poem-s2l4: urihacci biḍutāra òḻaga
+poem-s3l1: èlli keḻidaralli būṭugālina saddu
+poem-s3l2: taratarada novugaḻu namaga
+poem-s3l3: tammaṃga iradidrè talè kaḍidu hākuvaru
+poem-s3l4: hèsarīgè svātaṃtrya namaga
+poem-s4l1: kaikālu kivi mūgu mai manasu talè kaṇṇu
+poem-s4l2: kaḻakòṃḍa baraḍu giḍa nāvu
+poem-s4l3: mai tuṃba manatuṃba sikkavara mukhamudrè
+poem-s4l4: cīrāṭa hāraṭa sāvo
+poem-s5l1: hogbāro dāriyali aḍugallugaḻu seri
+poem-s5l2: muḻakallu hāsyāvò pūra
+poem-s5l3: hèccigè bèḻèdavara uḻidavara jīvagaḻa
+poem-s5l4: hagalāga hòḍèdāra ṭārā
+poem-s6l1: èṣṭaṃta uritāra èṣṭaṃta haritāra
+poem-s6l2: tāḻadakkū mitiyuṃṭu illi
+poem-s6l3: tāḻi tāḻiyū òmmè ceḻāgi kuṭukuvanu
+poem-s6l4: sāmānyanallo baḍajīvi
+poem-s7l1: duḍiduḍidu huṭṭiralu kattaliruvā tanaka
+poem-s7l2: kòttigaḻu hòtyāva jorā
+poem-s7l3: roḍigiddavarèllā gvāḍyāga kuṃtāra
+poem-s7l4: innilla nama dāri dūra
+poem-s8l1: bābā sāhebarenu huccarallave alla
+poem-s8l2: gāṃdhijòtè iralilla summa
+poem-s8l3: aṣṭu òddāḍidakè iṃgaitè nam baduku
+poem-s8l4: tiḻiyītè īglādrū tamma
+author-1: ḍā. cènnaṇṇa vālīkāraravaru 1943 epril 6 raṃdu kalburgi jillèya cittāpura tāllūkina śaṃkaravāḍiyalli janisidaru. dalita-baṃḍāya hinnèlèyalli aneka kavana saṃkalanagaḻu, kathāsaṃkalanagaḻu, mahākāvyagaḻu mattu nāṭakagaḻannu racisiddārè. prastuta kavitèyannu ivara ‘samagra kāvya saṃpuṭa’diṃda ārisikòḻḻalāgidè. ḍā. cènnaṇṇa vālīkāraravaru 23.11.2019 raṃdu nidhanarāgiddārè.
+vocab-baradu: baraḍu
+vocab-baradu-def: satvahīna
+vocab-kottigalu: kòttigaḻu
+vocab-kottigalu-def: bèkkugaḻu
+vocab-taara: ṭārā
+vocab-taara-def: ḍāṃbaru
+note-baba-saheb: bābā sāheba
+note-baba-saheb-def: ḍā. bi. ār. aṃbeḍkar
+ex-a-q1: yāru hoda melè namma baduku mòdalinaṃtè āgidè èṃdu kavi heḻiddārè?
+ex-a-q2: kavi yāvudu pratinitya tappilla namagè èṃdiddārè?
+ex-a-q3: kavi enannu kaḻèdukòṃḍa baraḍu giḍa nāvu èṃdiddārè?
+ex-a-q4: tāḻi tāḻi òmmè enāgi kuṭukuvanu?
+ex-a-q5: ‘nī hoda marudina’ padyavannu barèdavaru yāru?
+ex-b-q1: svātaṃtrya
+ex-b-q2: baduku
+ex-b-q3: saṃbhrama
+ex-b-q4: kuṭuku
+ex-c-q1: ī padyada sārāṃśavannu nimma mātugaḻalli barèyiri.
+ex-d-q1: nī hoda ________________________ / ___________________ baralilla òbba ||nī hoda||
+ex-d-q2: kaikālu __________________________ / _______________________ hāraṭa sāvo ||nī hoda||

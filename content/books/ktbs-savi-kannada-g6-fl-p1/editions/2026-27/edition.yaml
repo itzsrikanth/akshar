@@ -19,3 +19,57 @@ chapters:
   legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch01-doddavara-daari
   formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch01-doddavara-daari
   held: true
+- id: ch02-gandharvasena
+  number: 2
+  title: ಗಂಧರ್ವಸೇನ!
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch02-gandharvasena
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch02-gandharvasena
+  held: true
+- id: ch03-krishna-sudhama
+  number: 3
+  title: ಕೃಷ್ಣ - ಸುಧಾಮ (ನಾಟಕ)
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch03-krishna-sudhama
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch03-krishna-sudhama
+  held: true
+- id: ch04-dr-rajkumar
+  number: 4
+  title: ಡಾ. ರಾಜಕುಮಾರ್
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch04-dr-rajkumar
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch04-dr-rajkumar
+  held: true
+- id: ch05-besige
+  number: 5
+  title: ಬೇಸಿಗೆ
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch05-besige
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch05-besige
+  held: true
+- id: ch06-mangala-grahadalli-putti
+  number: 6
+  title: ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch06-mangala-grahadalli-putti
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch06-mangala-grahadalli-putti
+  held: true
+- id: ch07-ni-hoda-marudina
+  number: 7
+  title: ನೀ ಹೋದ ಮರುದಿನ
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch07-ni-hoda-marudina
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch07-ni-hoda-marudina
+  held: true
+- id: ch08-magu-mattu-hannugalu
+  number: 8
+  title: ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch08-magu-mattu-hannugalu
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch08-magu-mattu-hannugalu
+  held: true
+- id: ch09-natyakala-durandhara-mahammad-peer
+  number: 9
+  title: ನಾಟ್ಯಕಲಾ ದುರಂಧರ ಮಹಮ್ಮದ್ ಪೀರ್
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch09-natyakala-durandhara-mahammad-peer
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch09-natyakala-durandhara-mahammad-peer
+  held: true
+- id: ch10-avva
+  number: 10
+  title: ಅವ್ವ
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch10-avva
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch10-avva
+  held: true

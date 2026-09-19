@@ -1,0 +1,84 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: sahakāra
+  intro: 'pāṭha - 2 : pāṭhapūrva caṭuvaṭikè'
+  story: gadya
+  vocab: keḻida padagaḻu
+  notes: padagaḻa artha
+  exercise-A: abhyāsa a
+  exercise-B: abhyāsa ā
+  exercise-C: abhyāsa i
+intro-1: a) citra torisi pada heḻisi.
+intro-koli: koḻi
+intro-parivala: pārivāḻa
+intro-gubbacchi: gubbacci
+intro-tota: toṭa
+intro-ragitene: rāgitènè
+intro-gutuku: guṭuku
+story-intro: (pāṭhavannu odi heḻi)
+story-n1: òṃdu ūru. ā ūrina hèsaru malligèhaḻḻi. ā haḻḻiyalli òṃdu toṭavittu. ā toṭadalli òṃdu koḻi tanna marigaḻa jòtèyalli vāsavāgittu. ade toṭadalli gubbacci mattu pārivāḻagaḻū vāsavāgiddavu.
+story-n2: òṃdu dina koḻigè rāgiya kāḻugaḻu sikkavu. rāgiyannu hòladalli bittidarè tuṃbā rāgi siguttadè èṃdu koḻigè anisitu.
+story-n3: koḻi rāgiyannu bittalu gubbacciya sahāya keḻitu. gubbacci “nanniṃda āgadu” èṃditu. koḻi pārivāḻada sahāyavannu keḻitu. adū “nanniṃda āgadu” èṃditu. koḻi tanna marigaḻannu kūḍikòṃḍu rāgiyannu bittitu.
+story-n4: kèlavu dinagaḻu kaḻèdavu. rāgiya pairugaḻu bèḻèdu dòḍḍadādavu. rāgiya pairinalli tènègaḻu biṭṭavu. ā tènègaḻannu kòyyuva dina baṃditu.
+story-n5: koḻi rāgiya tènègaḻannu kòyyalu gubbacciya sahāya keḻitu. gubbacci “nanniṃda āgadu” èṃditu. koḻi pārivāḻada sahāyavannu keḻitu. adū “nanniṃda āgadu” èṃditu. koḻi tanna marigaḻannu kūḍikòṃḍu rāgiya tènègaḻannu kòyditu. kāḻannu saṃgrahisi iṭṭitu.
+story-n6: 'òṃdu dina gubbacci mattu pārivāḻagaḻigè tuṃbā hasivāyitu. avu koḻiya baḻibaṃdu “akkā, tinnalu rāgi kòḍu” èṃdu keḻidavu. koḻi “nīvu bittalū baralilla, kòyyalū baralilla. nimagè ekè rāgi kòḍali?” èṃdu keḻitu. gubbacci mattu pārivāḻagaḻigè tamma tappu tiḻiyitu. avu nāci talètaggisi niṃtavu. koḻigè ‘ayyo pāpa!’ anisitu. rāgiyannu kòṭṭitu.'
+vocab-ondu: òṃdu
+vocab-ooru: ūru
+vocab-hesaru: hèsaru
+vocab-malligehalli: malligèhaḻḻi
+vocab-koli: koḻi
+vocab-mari: mari
+vocab-jote: jòtè
+vocab-vaasa: vāsa
+vocab-gubbacchi: gubbacci
+vocab-parivala: pārivāḻa
+vocab-dina: dina
+vocab-ragikaalu: rāgikāḻu
+vocab-nela: nèla
+vocab-bittu: bittu
+vocab-tumba: tuṃbā
+vocab-sahaya: sahāya
+vocab-koodi: kūḍi
+vocab-kelavu: kèlavu
+vocab-doddadu: dòḍḍadu
+vocab-kelu: keḻu
+vocab-bele: bèḻè
+vocab-tene: tènè
+vocab-koyyu: kòyyu
+vocab-pairu: pairu
+vocab-sangrahisu: saṃgrahisu
+vocab-bali: baḻi
+vocab-hasivu: hasivu
+vocab-naachu: nācu
+vocab-taletagisu: talètaggisu
+vocab-tappu: tappu
+note-gubbacchi: gubbacci
+note-gubbacchi-def: gubbi, òṃdu jātiya saṇṇa pakṣi
+note-sangrahisu: saṃgrahisu
+note-sangrahisu-def: òṭṭugūḍisu
+note-bittu: bittu
+note-bittu-def: bīja hāku
+note-pairu: pairu
+note-pairu-def: dhānyada bèḻè
+ex-a-intro: a) praśnè keḻi, makkaḻiṃda uttara heḻisi.
+ex-a-q1: 1) haḻḻiya hèsarenu?
+ex-a-q2: 2) koḻi èlli vāsavāgittu?
+ex-a-q3: 3) koḻi enannu bittalu gubbacciya sahāya keḻitu?
+ex-a-q4: 4) rāgiya pairinalli enu biṭṭitu?
+ex-a-q5: 5) koḻi yārannu kūḍikòṃḍu rāgiya tènègaḻannu kòyditu?
+ex-a-q6: 6) gubbacci mattu pārivāḻagaḻigè enu tiḻiyitu?
+ex-a-q7: 7) koḻigè enu anisitu?
+ex-b-intro: ā) kòṭṭiruva vākyagaḻalli biṭṭiruva padagaḻannu heḻisi.
+ex-b-q1: 1) koḻi rāgiyannu bittalu gubbacciya ___________ keḻitu.
+ex-b-q2: 2) koḻi tanna marigaḻannu kūḍikòṃḍu ___________ bittitu.
+ex-b-q3: 3) òṃdu dina gubbacci mattu pārivāḻagaḻigè tuṃbā ___________.
+ex-b-q4: 4) gubbacci mattu pārivāḻagaḻigè tamma __________ tiḻiyitu.
+ex-c-intro: i) makkaḻiṃda citragaḻigè sūktavāda baṇṇa tuṃbisi.
+ex-c-q1: tāvarè
+ex-c-q2: bāḻèhaṇṇu
+ex-c-q3: kyārèṭ
+ex-c-q4: kuṃbaḻa kāyi

@@ -1,0 +1,215 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. koṭṭiruva praśnegaḷige ondondu vākyadalli uttarisi.'
+  exercise-B: 'ā. koṭṭiruva praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. yāru, yārige, ēke hēḷidaru?'
+  exercise-D: 'ī. hondisi bareyiri.'
+  exercise-E: 'u. biṭṭa sthaḷagaḷannu tumbiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. keḷagina praśnegaḷige uttarisi'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'ā. yōjane'
+  language-exercise-B: 'i. ōdige mannaṇe'
+  language-exercise-C: 'ī. śubhanuḍi'
+
+intro-1: 'nāvu indu nīrina mūlagaḷāda kere, bāvi, nadi modalādavugaḷannu sariyāda rītiyalli rakṣisade avugaḷannu kaluṣitagoḷisuttiddēve. idarindāgi namma badukige sañcakāra edurāguttide. namma suttalina nīrina mūlagaḷannu śuddhavāgiḍuvudu atyagatya.'
+
+intro-2: '[śālā makkaḷu gumpugumpāgi sēriddāre. ellara mukhadallū ātaṅka. āspatreyalli dākhalāgiruva sahapāṭhigaḷa ārōgyavannu tiḷiyuva tavaka. makkaḷu tamma tammalliyē sambhāṣisuttiddāre.]'
+
+story-d1: 'entha anāhuta naḍeduhōyitu! namma geḷeya geḷatiyarige hīge āgabāradittu.'
+
+story-d2: 'avarige ēnāyitu?'
+
+story-d3: 'ayyō! ninage tiḷidillave? ījalu hōda avarellarū āspatrege dākhalāgiddāre.'
+
+story-d4: 'āspatrege dākhalāgalu avarige ēnāgittu?'
+
+story-d5: 'ninne bhānuvāra śālege raje ittallavē? avarellarū beḷagge āṭavāḍalu hōgiddaru. madhyāhnadavaregū āṭavāḍi anantara sekeyannu tāḷalārade ūrina pakkada nadiyalli snāna māḍidaru.'
+
+story-d6: 'pariṇāmavāgi avara maimēlellā dappa dappa guḷḷegaḷu eddu viparīta turike prārambhavāyitu. nōvu tāḷalārade daṇḍeyalli biddu horaḷāḍidaru. yārō dārihōkaru naraḷāṭa kaṇḍu avarannu ettikoṇḍu hōgi āspatrege sērisidaru. avara ārōgya tīra hadageṭṭittu.'
+
+story-n1: '(makkaḷu āspatrege baruttāre. vaidyaru parīkṣā koṭhaḍiyinda horabaruttāre.)'
+
+story-d7: 'namma geḷeyara sthiti hēgide ḍākṭar?'
+
+story-d8: 'innū ēnannu hēḷuvantilla makkaḷe! ādare cintege kāraṇavilla anta tōruttade.'
+
+story-d9: 'avarige ēnāgittu ḍākṭar?'
+
+story-d10: 'avarige nadiya nīrina mālinyada sōṅku tagulide. pariṇāmavāgi iḍī dēhadalli guḷḷegaḷeddive. turike taḍeyalārade mūrche hōgiddāre.'
+
+story-d11: 'hāgādare nadiya nīru malinavāgalu kāraṇavēnu?'
+
+story-d12: 'manuṣyara svārthavē idakke kāraṇa.'
+
+story-d13: 'ḍākṭar, nāvu nadiya hattira hōgi barōṇave?'
+
+story-d14: 'āgabahudu, hōgi banni.'
+
+story-n2: '(makkaḷellarū nadiya hattira baruttāre. nadiya daḍadalli nintu nōḍuttāre.)'
+
+story-d15: 'chē! entha vāsane! illi nillalu āguttilla.'
+
+story-d16: 'haudu, ī nadiya nīru eṣṭu kaluṣitavāgide.'
+
+story-d17: '(aḷuttā) makkaḷē, nīvu hēḷuttiruvudu nija.'
+
+story-d18: '(āścaryadinda) yāru mātanāḍuttiruvudu?'
+
+story-d19: 'nānē nadi mātanāḍuttiruvudu.'
+
+story-d20: 'ayyō nadiyē, nīnēke aḷuttiddīye? ninagēnāgide?'
+
+story-d21: 'nanna aḷalannu yāra baḷi hēḷikoḷḷali? nanna ī dusthitige manuṣyarē kāraṇa.'
+
+story-d22: 'manuṣyaru ninagēnu māḍidaru?'
+
+story-d23: 'hinde nānu eṣṭu śuddhavāgidde gotte? nanna nīru gājinante svacchavāgittu. nanna oḍalalli jalacaragaḷu nirbhayavāgi jīvisuttiddavu. prāṇi, pakṣigaḷu, manuṣyaru nanna nīrannu kuḍidu santōṣadinda badukuttiddaru. ādare, īga nanna nīru viṣavāgide.'
+
+story-d24: 'ninna nīru viṣavāgalu kāraṇavēnu?'
+
+story-d25: 'kārkhānegaḷinda horabaruva rāsāyanika vastugaḷu, ūrina caraṇḍi nīru, kasakaḍḍi, plāsṭik ellavū nanna oḍalu sēruttive. idarinda nanna nīru kaluṣitagoṇḍu viṣavāgide.'
+
+story-d26: 'haudu, ninna nīrannu kuḍidu eṣṭō prāṇi pakṣigaḷu sattive. namma geḷeyaru ninna nīrinalli ījiddarindalē āspatre sēriddāre.'
+
+story-d27: '(duḥkhadinda) nanninda yārigū tondareyāgabāradu embudu nanna āse. ādare, manuṣyaru nannannu hāḷumāḍuttiddāre.'
+
+story-d28: 'nadiyē, aḷabēḍa. ninnannu rakṣisuva javābdāri nammadu. nāvu innu munde ninnannu kaluṣitagoḷisuvudilla.'
+
+story-d29: '(santōṣadinda) makkaḷē, nimma mātu kēḷi nanage tumbā santōṣavāyitu. nīvu hēḷidante naḍedare nanna baduku sārthakavāguttade.'
+
+story-d30: 'khaṇḍitavāgiyū nāvu ninnannu rakṣisuttēve.'
+
+vocab-alal: 'aḷalu'
+
+vocab-alal-def: 'duḥkha, saṅkaṭa'
+
+vocab-anahutha: 'anāhuta'
+
+vocab-anahutha-def: 'āpattu, tondare'
+
+vocab-kalushita: 'kaluṣita'
+
+vocab-kalushita-def: 'malina, holasu'
+
+vocab-jalachara: 'jalacara'
+
+vocab-jalachara-def: 'nīrinalli vāsisuva prāṇigaḷu'
+
+vocab-tavaka: 'tavaka'
+
+vocab-tavaka-def: 'ātura, avasara'
+
+vocab-dusthiti: 'dusthiti'
+
+vocab-dusthiti-def: 'keṭṭa sthiti'
+
+vocab-nirbhaya: 'nirbhaya'
+
+vocab-nirbhaya-def: 'bhayavillade'
+
+vocab-murche: 'mūrche'
+
+vocab-murche-def: 'prajñetappu, eccaratappu'
+
+vocab-rasayanika: 'rāsāyanika'
+
+vocab-rasayanika-def: 'rasāyanaśāstrakke sambandhisida'
+
+vocab-sanchakara: 'sañcakāra'
+
+vocab-sanchakara-def: 'kēḍu, nāśa'
+
+vocab-sahapathi: 'sahapāṭhi'
+
+vocab-sahapathi-def: 'joteyalli ōduvavanu'
+
+vocab-sonku: 'sōṅku'
+
+vocab-sonku-def: 'aṇṭu, tagulu'
+
+ex-a-q1: 'makkaḷellarū āspatrege ēke dākhalāgiddaru?'
+
+ex-a-q2: 'makkaḷige yāva sōṅku tagulittu?'
+
+ex-a-q3: 'nadiya nīru malinavāgalu kāraṇavēnu?'
+
+ex-a-q4: 'nadiya oḍalinalli yāru nirbhayavāgi jīvisuttiddaru?'
+
+ex-a-q5: 'nadiya nīru yāvudarinda kaluṣitagoṇḍu viṣavāgide?'
+
+ex-b-q1: 'nadiyalli snāna māḍida makkaḷige ēnāyitu?'
+
+ex-b-q2: 'hinde nadi hēgittu?'
+
+ex-b-q3: 'nadiyu tanna dusthitiya bagge makkaḷa baḷi ēnendu hēḷitu?'
+
+ex-c-q1: 'avarige nadiya nīrina mālinyada sōṅku tagulide.'
+
+ex-c-q2: 'chē! entha vāsane! illi nillalu āguttilla.'
+
+ex-c-q3: 'nanna aḷalannu yāra baḷi hēḷikoḷḷali?'
+
+ex-d-q1: '1. nadi
+
+  2. āspatre
+
+  3. nīru
+
+  4. kārkhāne
+
+
+  a. guḷḷe
+
+  ā. rāsāyanika
+
+  i. aḷalu
+
+  ī. vaidyaru
+
+  u. kaluṣita'
+
+ex-e-q1: 'entha __________ naḍeduhōyitu!'
+
+ex-e-q2: 'turike taḍeyalārade __________ hōgiddāre.'
+
+ex-e-q3: 'nanna ī dusthitige __________ kāraṇa.'
+
+ex-e-q4: 'nanna nīru __________ svacchavāgittu.'
+
+ex-e-q5: 'ninnannu rakṣisuva __________ nammadu.'
+
+grammar-p1: 'sanyuktākṣaragaḷu (ottakṣaragaḷu)
+
+  eraḍu athavā eraḍakkinta heccu vyañjanagaḷige ondu svara sēri āguva akṣaravē sanyuktākṣara athavā ottakṣara. (vyañjana + vyañjana + svara = sanyuktākṣara)'
+
+grammar-p2: 'sanyuktākṣaragaḷalli eraḍu vibhāgagaḷive. 1) sajātīya sanyuktākṣaragaḷu 2) vijātīya sanyuktākṣaragaḷu'
+
+grammar-p3: 'ondē jātiya eraḍu vyañjanagaḷu (svarada sahāyadinda) ondakkondu sēridare sajātīya sanyuktākṣaragaḷāguvuvu. udā :- a + k + k + a = akka. illi k + k (+a) ivu sajātīya vyañjanagaḷāgiddu, ivu ondakkondu kūḍi ‘kka’ emba sajātīya sanyuktākṣaravāgide. udā :- appa, amma, aṇṇa, akkara, akkapakka, rakkasa ityādi.'
+
+grammar-p4: 'bēre bēre jātiya eraḍu athavā heccu vyañjanagaḷu (svarada sahāyadinda) ondakkondu kūḍikoṇḍu uṇṭāguva akṣaravu vijātīya sanyuktākṣara venisuvudu. udā : bh + a + k + t + a = bhakta. illi k + t (+ a).ivu vijātīya sanyuktākṣara vyañjanagaḷāgiddu, iveraḍu kūḍi ‘kta’ emba vijātīya sanyuktākṣaravāgide. udā:- cakra, ājñe, strī, vastra ityādi.'
+
+grammar-a-q1: '1. sanyuktākṣaragaḷu endarēnu ?'
+
+grammar-a-q2: '2. keḷage koṭṭiruva sanyuktākṣaragaḷannu sajātīya, vijātīya sanyuktākṣaragaḷannāgi viṅgaḍisi bareyiri. kka, pta, sva, rra, jja, sva, stha, rya, ḍga, mma'
+
+grammar-a-q3: '3. aidu sajātīya hāgū aidu vijātīya sanyuktākṣaragaḷannu hondiruva śabdagaḷannu bareyiri.'
+
+lang-ex-a-q1: '1. nadigaḷa mālinyavannu taḍegaṭṭuva anśagaḷannu paṭṭimāḍi bareyiri.'
+
+lang-ex-b-q1: '1. nadigaḷa mālinya yāva kāraṇagaḷindāguttade embudannu ōdi tiḷiyiri hāgū hiriyarinda kēḷi tiḷiyiri.'
+
+lang-ex-b-q2: '2. dinapatrikeyalli baruva nadigaḷa mālinya kuritāda lēkhanagaḷannu ōdi tiḷiyiri hāgū nimma sahapāṭhigaḷondige carcisiri.'
+
+lang-ex-c-q1: '1. mālinyarahita nadi manukulada bhadratege bunādi.'
+
+lang-ex-c-q2: '2. aśuddha nīru anārōgyakke āhvāna.'
+
+lang-ex-c-q3: '3. nīrininda usiru nīrininda hasiru.'

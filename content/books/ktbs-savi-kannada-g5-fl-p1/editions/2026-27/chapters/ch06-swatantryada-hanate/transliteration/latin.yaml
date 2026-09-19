@@ -1,0 +1,124 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  author_intro: 'kr̥tikārara paricaya'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige ondu vākyadalli uttarisi.'
+  exercise-B: 'ā. keḷagina padyabhāgavannu pūrṇagoḷisi, kaṇṭhapāṭha māḍiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. guṇa viśēṣaṇa.'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'a. keḷagina praśnegaḷige uttarisi.'
+  language-exercise-B: 'ī. ōdige mannaṇe'
+  language-exercise-C: 'u. śubhanuḍi'
+
+intro-1: 'namage bandiruva svātantryavannu sadā rakṣaṇe māḍikoḷḷabēku. namma dēśada abhivr̥ddhigāgi sadā duḍiyuttirabēku. dhīratanadinda dēśada svātantryavannu kāpāḍikoḷḷabēku. namma sādhaneya kaḍege gamanavirabēku. dēśakkāgi hōrāḍida hutātmarige gauravavannu sadā sallisabēku embudu ī padyada āśayavāgide.'
+
+poem-s1l1: 'sadā uriyutiruva hāge svātantryada haṇate'
+
+poem-s1l2: 'duḍime tailavereyutiralu biḍuvillade janate'
+
+poem-s1l3: 'entu kundabahudu emma tāynāḍina ghanate || sadā ||'
+
+poem-s2l1: 'muḷḷininda arive biḍisidante bante mukti?'
+
+poem-s2l2: 'huliya bāya mēva kasiyuvante dhīraśakti'
+
+poem-s2l3: 'paḍeyitadanu janate, bāḷa beseye nāḍa bhakti || sadā ||'
+
+poem-s3l1: 'svātantryada jotege bandu kūḍalilla gaḷike'
+
+poem-s3l2: 'vyakti vyakti bevara hīri maravāgide moḷake,'
+
+poem-s3l3: 'mēlērida hāge bhadra pāyavuṇṭu gr̥hake || sadā ||'
+
+poem-s4l1: 'sāgidante salluttirali sādhaneyeḍe gamana'
+
+poem-s4l2: 'prāṇavanne pagaḍeyāḍidavarigemma namana,'
+
+poem-s4l3: 'tāya muḍige dinavu ērutirali hūvu davana || sadā ||'
+
+author-intro-1: 'ke. es. nisār ahammad : kavi kokkarehosahaḷḷi ṣēk haidar nisār ahammad avaru 05-02-1936 ralli beṅgaḷūru grāmāntara jilleya dēvanahaḷḷiyalli janisidaru. tande ṣēk haidar, tāyi hamīdā bēgaṁ. bhūgarbhaśāstradalli padaviyannu paḍedu beṅgaḷūru viśvavidyālayadalli adhyāpakarāgi sēveyannu prārambhisidaru. ivaru manasu gāndhibajāru, nenedavara manadalli, nityōtsava, sumūrta modalāda kr̥tigaḷannu racisiddāre. ivarige pampa praśasti, nāḍōja praśasti, kēndra mattu rājya sāhitya akāḍemi praśastigaḷannu nīḍi gauravisalāgide.'
+
+vocab-arive: 'arive'
+
+vocab-arive-def: 'baṭṭe, vastra'
+
+vocab-kasi: 'kasi'
+
+vocab-kasi-def: 'kittukoḷḷu'
+
+vocab-kundu: 'kundu'
+
+vocab-kundu-def: 'korate, kaḍime'
+
+vocab-ghanate: 'ghanate'
+
+vocab-ghanate-def: 'gaurava, hirime'
+
+vocab-taila: 'taila'
+
+vocab-taila-def: 'eṇṇe'
+
+vocab-davana: 'davana'
+
+vocab-davana-def: 'suvāsaneyuḷḷa ondu giḍa'
+
+vocab-paya: 'pāya'
+
+vocab-paya-def: 'taḷapāya, aḍipāya'
+
+vocab-mukti: 'mukti'
+
+vocab-mukti-def: 'biḍugaḍe'
+
+vocab-mudi: 'muḍi'
+
+vocab-mudi-def: 'tale, kūdalu'
+
+vocab-mevu: 'mēvu'
+
+vocab-mevu-def: 'āhāra, grāsa'
+
+vocab-hanate: 'haṇate'
+
+vocab-hanate-def: 'maṇṇina dīpa'
+
+ex-a-q1: 'namma tāynāḍina ghanate hēge kundabāradu?'
+
+ex-a-q2: 'dhīraśakti uḷḷavaru ēnu māḍaballaru?'
+
+ex-a-q3: 'moḷake uṇṭādudu hēge?'
+
+ex-a-q4: 'namma gamana yāvudara kaḍege sallabēku?'
+
+ex-b-q1: 'sadā ________________________________\n____________________________________\n________________________ ghanate || sadā ||'
+
+ex-b-q2: 'sāgidante ____________________________\n____________________________________\n________________________ davana || sadā ||'
+
+grammar-a-p1: 'nāmapadada viśēṣa guṇavannu tiḷisuva athavā sūcisuva padavē `guṇa viśēṣaṇa''. udā : ritēśana baḷi kariya molavide. illi ‘kariya’ embudu molada baṇṇavannu tiḷisuttade.'
+
+grammar-a-p2: '1. kāñcanā sundara huḍugi.'
+
+grammar-a-p3: '2. darśini kempu laṅgavannu toṭṭiddāḷe.'
+
+grammar-a-p4: '3. rāghuvina hattira doḍḍa vimānavide.'
+
+grammar-a-p5: 'illi aḍigere eḷeyalāda ‘sundara’, ‘kempu’, ‘doḍḍa’ ī padagaḷannu gamanisiri. baṇṇa, guṇa, rīti, svabhāvagaḷannu tiḷisuva viśēṣaṇagaḷāgive. ivugaḷannu ‘guṇa viśēṣaṇa’gaḷennuvaru.'
+
+lang-ex-a-q1: 'a) guṇaviśēṣaṇa endarēnu? udāharaṇeyondige vivarisiri.'
+
+lang-ex-a-q2: 'ā) koṭṭiruva vākyagaḷalli guṇaviśēṣaṇavannu gurutisi aḍi gere hākiri. 1. lāriyu tumbā lagējannu horaballadu. 2. vimāna nildāṇadalli viśēṣa atithigaḷa koṭhaḍigaḷiruttave. 3. vimāna nildāṇa tumbā sundaravāgide. 4. haḍagu bahaḷa doḍḍadāgide. 5. priyāḷa laṅga hacca hasurāgide.'
+
+lang-ex-b-q1: '1. ke. es. nisār ahammad avara bagege heccina vivaravannu tiḷiyiri.'
+
+lang-ex-b-q2: '2. ke. es. nisār ahammad avara ‘nityōtsava’ kavanavannu saṅgrahisi, hāḍiri.'
+
+lang-ex-c-q1: '1. dēśakkāgi duḍi; dēśakkāgi maḍi.'
+
+lang-ex-c-q2: '2. oggaṭṭinalli balavide.'

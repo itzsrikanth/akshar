@@ -1,0 +1,166 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  author_intro: 'About the author'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions in one sentence.'
+  exercise-B: 'B. Answer the following questions in two or three sentences.'
+  exercise-C: 'C. Fill in the blanks.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Join the words and write.'
+  grammar-B: 'B. Split the words and name the sandhi.'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'B. Recognition for reading'
+  language-exercise-B: 'C. Good sayings'
+
+intro-1: 'We should have pride in the Kannada land and language. Protecting Kannada land and language should be everyone’s duty. For that we must all become one. We must come forward to build the Kannada land. Kannada should become a language that gives food for life. For this, let us all come and join hands—this is the poet’s aim.'
+
+poem-s1l1: 'Everywhere it must breathe'
+
+poem-s1l2: 'our tongue, Kannada'
+
+poem-s1l3: 'To build the prosperous land'
+
+poem-s1l4: 'come with us'
+
+poem-s2l1: 'Hands must be full of work'
+
+poem-s2l2: 'the belly needs food'
+
+poem-s2l3: 'Carving the eye of letters'
+
+poem-s2l4: 'let knowledge come—gold'
+
+poem-s3l1: 'The body needs clothes'
+
+poem-s3l2: 'a shelter for the head'
+
+poem-s3l3: 'The earth must be sown full'
+
+poem-s3l4: 'with its own light, the sun'
+
+poem-s4l1: 'Filling the head with fire'
+
+poem-s4l2: 'the eyes must flash'
+
+poem-s4l3: 'Filling the chest, it must overflow'
+
+poem-s4l4: 'with the moonlight of love'
+
+poem-s5l1: 'Such a land we must build'
+
+poem-s5l2: 'come with us'
+
+poem-s5l3: 'Everywhere it must ring'
+
+poem-s5l4: 'Kannada, Kannada'
+
+poem-s5l5: 'Kannada, Kannada, come with us'
+
+author-intro-1: 'Chandrashekhara Patila: Famous by the short name “Champa”, Chandrashekhara Patila was born in 1939 CE in Hattimattur of Savanur taluk, Haveri district. He served as director of the English department at Karnatak University. He has written poetry collections such as Banuli, Madhyabindu, Huvu-Hannu and Ardhasatyada Hudugi; and plays such as Kodegalu, Appa, Kuntakunta Kuruvatti and Tingarabuddanna. He has received the State Sahitya Akademi Award, Rajyotsava Award and Pampa Award.'
+
+vocab-arivu: 'arivu (knowledge)'
+
+vocab-arivu-def: 'knowledge, understanding'
+
+vocab-asara: 'asara (shelter)'
+
+vocab-asara-def: 'shade, shelter'
+
+vocab-kanna: 'kanna (hole/eye)'
+
+vocab-kanna-def: 'hole, aperture'
+
+vocab-tulukabeku: 'tulukabeku (must overflow)'
+
+vocab-tulukabeku-def: 'must fill and overflow'
+
+vocab-nudi: 'nudi (speech)'
+
+vocab-nudi-def: 'speech, word'
+
+vocab-nesara: 'nesara (sun)'
+
+vocab-nesara-def: 'sun'
+
+vocab-molagabeku: 'molagabeku (must resound)'
+
+vocab-molagabeku-def: 'must make sound'
+
+vocab-sirinadu: 'sirinadu (prosperous land)'
+
+vocab-sirinadu-def: 'a land full of wealth'
+
+ex-a-q1: 'Which tongue must breathe everywhere?'
+
+ex-a-q2: 'Carving the eye of letters, what should come?'
+
+ex-a-q3: 'Who sows light all over the earth?'
+
+ex-a-q4: 'How should the eyes flash?'
+
+ex-b-q1: 'What all is needed to build the prosperous land?'
+
+ex-b-q2: 'What kind of land does the poet say we must build?'
+
+ex-c-q1: 'Hands must be full of __________.'
+
+ex-c-q2: 'Everywhere __________ Kannada Kannada.'
+
+ex-c-q3: 'The body must have __________.'
+
+ex-c-q4: 'Filling the chest __________ the moonlight of love.'
+
+grammar-p1: 'Agama sandhi
+
+  male + annu = maleyannu
+
+  Here, when sandhi occurs between the final “e” of the first word male and the initial “a” of the second word annu, a new letter “y” appears.
+
+  When a new letter appears during sandhi, it is called agama sandhi. There are two kinds: yakaragama sandhi and vakaragama sandhi.'
+
+grammar-p2: 'Adesha sandhi
+
+  mai + tole = maidole
+
+  In the word maidole, the letter “ta” (to) is replaced by “da” (do).
+
+  When during sandhi one letter’s place is taken by another letter, it is called adesha sandhi. Here the first letter of the second word changes. Generally ka, ta, pa become ga, da, ba respectively.'
+
+grammar-p3: 'Let us notice a few more such examples:
+
+  kudu + kolu = kudugolu : “ka” becomes “ga”.
+
+  betta + tavare = bettadavare : “ta” becomes “da”.
+
+  kan + pani = kambani : “pa” becomes “ba”.'
+
+grammar-a-q1: '1. mele + ittukondu'
+
+grammar-a-q2: '2. shubhra + ayitu'
+
+grammar-a-q3: '3. bande + annu'
+
+grammar-b-q1: 'savigannada, maravannu, navella, dariyalli, ondondu.'
+
+lang-ex-a-q1: '1. Learn about the forest wealth of the Kannada land.'
+
+lang-ex-a-q2: '2. Learn about great people of the Kannada land.'
+
+lang-ex-a-q3: '3. Read poems about the Kannada land.'
+
+lang-ex-a-q4: '4. Travel to famous places of the Kannada land.'
+
+lang-ex-b-q1: '1. The mother who bore us and the land that carries us are greater than heaven.'
+
+lang-ex-b-q2: '2. Kannada alone is truth; Kannada alone is eternal.'
+
+lang-ex-b-q3: '3. Wherever you are, however you are, forever remain Kannada.'
+
+lang-ex-b-q4: '4. Raise your hand for Kannada; your hand will become a wish-fulfilling tree.'

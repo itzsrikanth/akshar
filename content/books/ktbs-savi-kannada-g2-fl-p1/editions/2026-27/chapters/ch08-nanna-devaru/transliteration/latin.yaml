@@ -1,0 +1,90 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer-agent
+  license: CC BY 4.0
+
+labels:
+  poem: padya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: 'a) ''nanna dēvaru'' padyavannu rāgavāgi hāḍi:'
+  exercise-B: 'ā) ondu vākyadalli uttara hēḷiri:'
+  exercise-C: 'i) praśnegaḷige ondu vākyadalli uttarisi:'
+  exercise-D: 'ī) gumpige sērada pada gurutisi bareyiri :'
+  exercise-E: 'u) mādariyante pada bare :'
+  exercise-F: 'ū) ī katheyannu ōdi koṭṭiruva praśnegaḷige uttara bareyiri :'
+  title: nanna dēvaru
+
+poem-s1l1: nitya namage beḷaku koḍuva
+poem-s1l2: sūrya nanna dēvaru
+poem-s1l3: rātri hālu beḷaku koḍuva
+poem-s1l4: caṁdra nanna dēvaru
+poem-s2l1: kōṭi tāre beḷḷi cukki
+poem-s2l2: ulke nanna dēvaru
+poem-s2l3: beṁki gāḷi nīru gagana
+poem-s2l4: ella nanna dēvaru
+poem-s3l1: hacca hasiru hoddu niṁta
+poem-s3l2: bhūmi nanna dēvaru
+poem-s3l3: guḍḍa - beṭṭa kāḍu mēḍu
+poem-s3l4: hoḷegaḷenna dēvaru
+poem-s4l1: holadi bevaru surisi duḍiva
+poem-s4l2: raita nanna dēvaru
+poem-s4l3: dēśakāgi śramisutiruva
+poem-s4l4: yōdha nanna dēvaru
+poem-s5l1: taṁde - tāyi baṁdhu baḷaga-
+poem-s5l2: vella nanna dēvaru
+poem-s5l3: vidye kalisi hitava nuḍiva
+poem-s5l4: gurugaḷenna dēvaru
+poem-s6l1: nanna dēvarivaru nitya
+poem-s6l2: nanage kāṇutiruvaru
+poem-s6l3: śuddha manadi bēḍidudanu
+poem-s6l4: nīḍi poreyutiruvaru
+vocab-nitya: nitya
+vocab-surya: sūrya
+vocab-belaku: beḷaku
+vocab-taare: tāre
+vocab-belli: beḷḷi
+vocab-benki: beṁki
+vocab-ulke: ulke
+vocab-gaali: gāḷi
+vocab-gagana: gagana
+vocab-neeru: nīru
+vocab-hasiru: hasiru
+vocab-hoddu: hoddu
+vocab-bhumi: bhūmi
+vocab-guddabetta: guḍḍabeṭṭa
+vocab-raita: raita
+vocab-kaadumedu: kāḍumēḍu
+vocab-hole: hoḷe
+vocab-hola: hola
+vocab-bevaru: bevaru
+vocab-hita: hita
+vocab-desha: dēśa
+vocab-shramisu: śramisu
+vocab-yodha: yōdha
+vocab-vidye: vidye
+note-nitya: nitya
+note-nitya-def: pratidina, yāvāgalū
+note-taare: tāre
+note-taare-def: nakṣatra, cukke
+note-gagana: gagana
+note-gagana-def: ākāśa
+note-ulke: ulke
+note-ulke-def: ākāśakāya
+ex-a-q1: '''nanna dēvaru'' padyavannu rāgavāgi hāḍi:'
+ex-b-q1: namage hagalinalli beḷakannu koḍuvavanu yāru?
+ex-b-q2: raita elli duḍiyuttāne?
+ex-b-q3: yōdha ētakkāgi śramisuttiddāne?
+ex-c-q1: rātrivēḷe beḷaku koḍuvavanu yāru?
+ex-c-q2: bhūmi ēnannu hoddu niṁtide?
+ex-c-q3: vidye kalisi yāru hitava nuḍivaru?
+ex-d-q1: sūrya, caṁdra, guḍḍa, nakṣatra .........................
+ex-d-q2: beḷaku, gāḷi, nīru, raita .........................
+ex-e-q1: 'mādari: beṭṭa - guḍḍa'
+ex-e-q2: taṁde - .........................
+ex-e-q3: kāḍu - ........................
+ex-e-q4: baṁdhu - .........................
+story-n1: obba bēṭegāra hakkigaḷigāgi kāḷu celli bale bīsidanu. hakkigaḷu kāḷugaḷannu nōḍidavu. āseyiṁda kāḷu tinnalu hōdavu. kelavu baleyalli sikkikoṁḍavu. "ciṁv ciṁv" eṁdu kūgikoṁḍavu. kūḍalē oṁdu upāya māḍidavu. ellā hakkigaḷu sēri baleyannu ettikoṁḍu mēlakke hāridavu. anaṁtara bēreḍege hōgi upāyavāgi baleyiṁda horabaṁdavu.
+ex-f-q1: bēṭegāra yāvudakkāgi bale bīsidanu?
+ex-f-q2: ellā hakkigaḷu sēri ēnu māḍidavu?

@@ -1,0 +1,369 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 5
+  slug: ch05-besige
+  title: ಬೇಸಿಗೆ
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಬಿ.ಆರ್. ಲಕ್ಷ್ಮಣರಾವ್
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿರಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪದಗಳಿಗೆ ತಲಾ ಎರಡು ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.
+  exercise-C: ಇ. ಈ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ಬರೆಯಿರಿ.
+  exercise-D: ಈ. ಬೇಸಿಗೆ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  text: ಮಾನವರಾದ ನಾವು ಪ್ರಕೃತಿಯಿಂದ ಕಲಿಯಬೇಕಾದದ್ದು ಅಪಾರ. ಪ್ರಕೃತಿಯ ಪ್ರತಿಯೊಂದು ವಸ್ತುವೂ ಪರಸ್ಪರ ಸಂಬಂಧವುಳ್ಳದ್ದಾಗಿರುತ್ತವೆ. ಅಂತೆಯೇ ಋತುಮಾನಗಳು ಕೂಡ ಅವು ಬದಲಾದಂತೆ ಹವಾಮಾನವು ಏರುಪೇರಾಗುತ್ತಿರುತ್ತದೆ. ಒಮ್ಮೆ ಪ್ರಖರವಾದ ಬಿಸಿಲು, ಮತ್ತೊಮ್ಮೆ ಗಡಗಡ ನಡುಗುವ ಚಳಿ, ಮಳೆ, ಗಾಳಿ-ಹೀಗೆ ಏನೇ ಆದರೂ ಯಾವುದೇ ಕೆಲಸಕಾರ್ಯಗಳು ನಿಲ್ಲುವುದಿಲ್ಲ. ಪ್ರಕೃತಿಯು ಸಮತೋಲನವನ್ನು ಕಾಯ್ದುಕೊಂಡು ತನ್ನ ಪಾಲಿನ ಕೆಲಸವನ್ನು ಸದಾ ನಿರ್ವಹಿಸುತ್ತ ಇರುತ್ತದೆ.
+  section: intro
+- id: poem-s1l1
+  type: poem_line
+  text: ಬಂದಿದೆ ಬೇಸಿಗೆ ರಜಾ
+  section: poem
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಇದ್ದರೂ ಬಿಸಿಲಿನ ಸಜಾ
+  section: poem
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ಬನ್ನಿ ಆಡೋಣ,
+  section: poem
+  stanza: 1
+- id: poem-s1l4
+  type: poem_line
+  text: ಸೂರ್ಯನ ಮಹಿಮೆಯ ಹಾಡೋಣ.
+  section: poem
+  stanza: 1
+- id: poem-s2l1
+  type: poem_line
+  text: ಏಕೆ ರವಿಗಿಂತ ತಾಪ?
+  section: poem
+  stanza: 2
+- id: poem-s2l2
+  type: poem_line
+  text: ಯಾರ ಮೇಲವನ ಕೋಪ?
+  section: poem
+  stanza: 2
+- id: poem-s2l3
+  type: poem_line
+  text: ಎಂದು ಹಳಿಯಬೇಡಿ,
+  section: poem
+  stanza: 2
+- id: poem-s2l4
+  type: poem_line
+  text: ಸೂರ್ಯನ ತಪ್ಪು ತಿಳಿಯಬೇಡಿ,
+  section: poem
+  stanza: 2
+- id: poem-s2l5
+  type: poem_line
+  text: ಮೋಡ ಕೂಡಿಸಲು, ಇಳೆಗೆ ಮಳೆ ತರಲು
+  section: poem
+  stanza: 2
+- id: poem-s2l6
+  type: poem_line
+  text: ದುಡಿಯುತಿಹನು, ಪಾಪ!
+  section: poem
+  stanza: 2
+- id: poem-s3l1
+  type: poem_line
+  text: ಭೂಮಿಯ ಪೋಷಕ ಸೂರ್ಯ
+  section: poem
+  stanza: 3
+- id: poem-s3l2
+  type: poem_line
+  text: ಭೂಮಿಗವನು ಅನಿವಾರ್ಯ
+  section: poem
+  stanza: 3
+- id: poem-s3l3
+  type: poem_line
+  text: ಹೊಗಳಿಕೆ ಬೇಕಿಲ್ಲ,
+  section: poem
+  stanza: 3
+- id: poem-s3l4
+  type: poem_line
+  text: ತೆಗಳಿದರೆ ಅವ ಕುಗ್ಗುವುದಿಲ್ಲ.
+  section: poem
+  stanza: 3
+- id: poem-s3l5
+  type: poem_line
+  text: ಬೆಳಕ ನೀಡುವನು, ಬಿಸಿಯನೂಡುವನು
+  section: poem
+  stanza: 3
+- id: poem-s3l6
+  type: poem_line
+  text: ಮರೆಯದೆ ಕರ್ತವ್ಯ.
+  section: poem
+  stanza: 3
+- id: poem-s4l1
+  type: poem_line
+  text: ಇಂಥ ಬಿರು ಬಿಸಿಲಿನಲ್ಲಿ
+  section: poem
+  stanza: 4
+- id: poem-s4l2
+  type: poem_line
+  text: ಮರಾ ಗಿಡಾ ಪೊದೆ ಬಳ್ಳಿ
+  section: poem
+  stanza: 4
+- id: poem-s4l3
+  type: poem_line
+  text: ಕಂಗಾಲಾಗಿಲ್ಲ,
+  section: poem
+  stanza: 4
+- id: poem-s4l4
+  type: poem_line
+  text: ನೋಡಿ ರಂಗಾಗಿವೆ ಎಲ್ಲ
+  section: poem
+  stanza: 4
+- id: poem-s4l5
+  type: poem_line
+  text: ಚಿಗುರು ಹೂತೊಟ್ಟು, ಹಣ್ಣು ಮಿಡಿ ಬಿಟ್ಟು,
+  section: poem
+  stanza: 4
+- id: poem-s4l6
+  type: poem_line
+  text: ಇವೆ ಸಂಭ್ರಮದಲ್ಲಿ.
+  section: poem
+  stanza: 4
+- id: poem-s5l1
+  type: poem_line
+  text: ಸೂರ್ಯನಿಂದ ಕಲಿಯೋಣ.
+  section: poem
+  stanza: 5
+- id: poem-s5l2
+  type: poem_line
+  text: ಪ್ರಕೃತಿಯಂತೆ ನಲಿಯೋಣ.
+  section: poem
+  stanza: 5
+- id: poem-s5l3
+  type: poem_line
+  text: ಕಷ್ಟಗಳಿಗಂಜದೆ,
+  section: poem
+  stanza: 5
+- id: poem-s5l4
+  type: poem_line
+  text: ನಮ್ಮ ಕರ್ತವ್ಯ ಮರೆಯದೆ,
+  section: poem
+  stanza: 5
+- id: poem-s5l5
+  type: poem_line
+  text: ನಲಿಯುತ ಬಾಳಿ, ನಲಿವನು ಹಂಚಿ,
+  section: poem
+  stanza: 5
+- id: poem-s5l6
+  type: poem_line
+  text: ಧನ್ಯತೆ ಗಳಿಸೋಣ.
+  section: poem
+  stanza: 5
+- id: author-1
+  type: prose
+  text: ಬಿ.ಆರ್. ಲಕ್ಷ್ಮಣರಾವ್ ಅವರು ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಜಿಲ್ಲೆಯ ಚೀಮಂಗಲ ಗ್ರಾಮದಲ್ಲಿ 09-09-1946ರಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಬಿ.ಆರ್. ರಾಜಾರಾವ್, ತಾಯಿ ವೆಂಕಟಲಕ್ಷ್ಮಮ್ಮ. ಲಕ್ಷ್ಮಣರಾವ್ ನಿವೃತ್ತ ಉಪಾಧ್ಯಾಯರಾಗಿದ್ದು ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸೇವೆ ಮಾಡುತ್ತಿದ್ದಾರೆ. ‘ಬೇಸಿಗೆ’ ಎಂಬ ಪದ್ಯವನ್ನು ‘ಸುಬ್ಬಾಭಟ್ಟರ ಮಗಳೇ’ ಎಂಬ ಭಾವಗೀತೆಗಳ ಸಂಕಲನದಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ.
+  section: author
+- id: vocab-saja
+  type: vocabulary_term
+  text: ಸಜಾ
+  section: vocab
+- id: vocab-saja-def
+  type: vocabulary_definition
+  text: ಶಿಕ್ಷೆ
+  section: vocab
+- id: vocab-mahime
+  type: vocabulary_term
+  text: ಮಹಿಮೆ
+  section: vocab
+- id: vocab-mahime-def
+  type: vocabulary_definition
+  text: ಹಿರಿಮೆ, ಮಹತ್ವ
+  section: vocab
+- id: vocab-ravi
+  type: vocabulary_term
+  text: ರವಿ
+  section: vocab
+- id: vocab-ravi-def
+  type: vocabulary_definition
+  text: ಭಾನು, ಸೂರ್ಯ, ನೇಸರು
+  section: vocab
+- id: vocab-tapa
+  type: vocabulary_term
+  text: ತಾಪ
+  section: vocab
+- id: vocab-tapa-def
+  type: vocabulary_definition
+  text: ಬಿಸಿ, ಶಾಖ
+  section: vocab
+- id: vocab-hali
+  type: vocabulary_term
+  text: ಹಳಿ
+  section: vocab
+- id: vocab-hali-def
+  type: vocabulary_definition
+  text: ದೂಷಿಸು, ನಿಂದಿಸು
+  section: vocab
+- id: vocab-ile
+  type: vocabulary_term
+  text: ಇಳೆ
+  section: vocab
+- id: vocab-ile-def
+  type: vocabulary_definition
+  text: ಭೂಮಿ, ಧರೆ
+  section: vocab
+- id: vocab-poshaka
+  type: vocabulary_term
+  text: ಪೋಷಕ
+  section: vocab
+- id: vocab-poshaka-def
+  type: vocabulary_definition
+  text: ಸಲಹುವಾತ, ಪಾಲಕ
+  section: vocab
+- id: vocab-anivarya
+  type: vocabulary_term
+  text: ಅನಿವಾರ್ಯ
+  section: vocab
+- id: vocab-anivarya-def
+  type: vocabulary_definition
+  text: ಅತ್ಯಗತ್ಯ
+  section: vocab
+- id: vocab-hogalu
+  type: vocabulary_term
+  text: ಹೊಗಳು
+  section: vocab
+- id: vocab-hogalu-def
+  type: vocabulary_definition
+  text: ಕೊಂಡಾಡು, ಬಣ್ಣಿಸು
+  section: vocab
+- id: vocab-tegalu
+  type: vocabulary_term
+  text: ತೆಗಳು
+  section: vocab
+- id: vocab-tegalu-def
+  type: vocabulary_definition
+  text: ಹೀಯಾಳಿಸು, ನಿಂದಿಸು
+  section: vocab
+- id: vocab-midi
+  type: vocabulary_term
+  text: ಮಿಡಿ
+  section: vocab
+- id: vocab-midi-def
+  type: vocabulary_definition
+  text: ಹೀಚು, ಕಸುಗಾಯಿ
+  section: vocab
+- id: vocab-udu
+  type: vocabulary_term
+  text: ಊಡು
+  section: vocab
+- id: vocab-udu-def
+  type: vocabulary_definition
+  text: ಉಣಿಸು, ತಿನ್ನಿಸು
+  section: vocab
+- id: vocab-kartavya
+  type: vocabulary_term
+  text: ಕರ್ತವ್ಯ
+  section: vocab
+- id: vocab-kartavya-def
+  type: vocabulary_definition
+  text: ಕೆಲಸ, ಜವಾಬ್ದಾರಿ
+  section: vocab
+- id: vocab-biru
+  type: vocabulary_term
+  text: ಬಿರು
+  section: vocab
+- id: vocab-biru-def
+  type: vocabulary_definition
+  text: ರಭಸ, ಬಿರುಸು
+  section: vocab
+- id: vocab-sambhrama
+  type: vocabulary_term
+  text: ಸಂಭ್ರಮ
+  section: vocab
+- id: vocab-sambhrama-def
+  type: vocabulary_definition
+  text: ಉತ್ಸಾಹ, ಸಡಗರ
+  section: vocab
+- id: vocab-dhanyate
+  type: vocabulary_term
+  text: ಧನ್ಯತೆ
+  section: vocab
+- id: vocab-dhanyate-def
+  type: vocabulary_definition
+  text: ಸಂತೃಪ್ತಿ
+  section: vocab
+- id: ex-a-q1
+  type: question
+  text: ಸೂರ್ಯ ಏಕೆ ದುಡಿಯುತ್ತಿದ್ದಾನೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಭೂಮಿಯ ಪೋಷಕ ಯಾರು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಸೂರ್ಯ ಮರೆಯದೆ ಯಾವ ಕರ್ತವ್ಯ ಮಾಡುವನು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ಬಿರು ಬಿಸಿಲಿಗೆ ಯಾವುವು ಕಂಗಾಲಾಗಿಲ್ಲ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ಸೂರ್ಯನಿಂದ ಮಕ್ಕಳು ಕಲಿಯಬೇಕಾದ್ದೇನು?
+  section: exercise-A
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಸೂರ್ಯ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಇಳೆ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಪ್ರಕೃತಿ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಸಂಭ್ರಮ
+  section: exercise-B
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ಪೋಷಕರು
+  section: exercise-C
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಕರ್ತವ್ಯ
+  section: exercise-C
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ಸಂಭ್ರಮ
+  section: exercise-C
+  exercise: C
+- id: ex-c-q4
+  type: question
+  text: ಧನ್ಯತೆ
+  section: exercise-C
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ಬೇಸಿಗೆ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.
+  section: exercise-D
+  exercise: D

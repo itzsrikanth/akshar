@@ -1,0 +1,265 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  author_intro: 'kr̥tikārara paricaya'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige ondu vākyadalli uttarisi.'
+  exercise-B: 'ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. yāru, yārige hēḷidaru?'
+  exercise-D: 'ī. hondisi bareyiri.'
+  exercise-E: 'u. biṭṭa sthaḷagaḷannu tumbiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. keḷagina praśnegaḷige uttarisi.'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'ā. ōdige mannaṇe'
+  language-exercise-B: 'i. śubhanuḍi'
+
+intro-1: 'jīvanadalli dēvarannu kāṇalu antaraṅgaśuddhi bahaḷa mukhya. anya cinteginta dēvarannu kāṇabēku emba cinte mukhya. jīvanadalli stuti-nindegaḷu bandāga manadalli kōpa māḍikoḷḷade samādhāniyāgiruvudu mukhya. mānavanu nirahaṅkāriyāgi nuḍige takka naḍeyuḷḷavarāgi, dānigaḷāgi iruvudu mukhya embudu illina āśayavāgide.'
+
+poem-s1l1: 'kaḷabēḍa, kolabēḍa, husiya nuḍiyalu bēḍa,'
+
+poem-s1l2: 'muniyabēḍa, anyarige asahyapaḍabēḍa,'
+
+poem-s1l3: 'tanna baṇṇisabēḍa, idira haḷiyalu bēḍa,'
+
+poem-s1l4: 'idē antaraṅgaśuddhi; idē bahiraṅgaśuddhi;'
+
+poem-s1l5: 'idē namma kūḍala saṅgamadēvanolisuva pari.'
+
+poem-s1l6: '- basavaṇṇa'
+
+poem-s2l1: 'baḍatanakke umbuva cinte, uṇalādare uḍuva cinte,'
+
+poem-s2l2: 'uḍalādare iḍuva cinte, iḍalādare heṇḍira cinte,'
+
+poem-s2l3: 'heṇḍirādare makkaḷa cinte, makkaḷādare badukina cinte,'
+
+poem-s2l4: 'badukādare kēḍina cinte, kēḍādare maraṇada cinte,'
+
+poem-s2l5: 'intī halavu cinteyali ippavaranu kaṇḍenu.'
+
+poem-s2l6: 'śivana cinteyaliddavarobbaranu kāṇenendāta'
+
+poem-s2l7: 'namma ambigara cauḍayya nijaśaraṇa.'
+
+poem-s2l8: '- ambigara cauḍayya'
+
+poem-s3l1: 'beṭṭada mēlondu maneya māḍi,'
+
+poem-s3l2: 'mr̥gagaḷigañjidaḍentayyā?'
+
+poem-s3l3: 'samudrada taḍiyalondu maneya māḍi,'
+
+poem-s3l4: 'noreteregaḷigañjidaḍentayyā?'
+
+poem-s3l5: 'santeyoḷagondu maneya māḍi,'
+
+poem-s3l6: 'śabdakke nācidaḍentayyā?'
+
+poem-s3l7: 'cennamallikārjuna dēva kēḷayyā,'
+
+poem-s3l8: 'lōkadoḷage huṭṭida baḷika stutinindegaḷu bandaḍe'
+
+poem-s3l9: 'manadalli kōpava tāḷade samādhāniyāgirabēku.'
+
+poem-s3l10: '- akkamahādēvi'
+
+poem-s4l1: 'nuḍidare muttina hāradantirabēku.'
+
+poem-s4l2: 'nuḍidare māṇikyada dīptiyantirabēku.'
+
+poem-s4l3: 'nuḍidare sphaṭikada śalākeyantirabēku.'
+
+poem-s4l4: 'nuḍidare liṅga mecci ahudahudenabēku.'
+
+poem-s4l5: 'nuḍiyoḷagāgi naḍeyadiddare'
+
+poem-s4l6: 'kūḍalasaṅgamadēvanentolivanayyā?'
+
+poem-s4l7: '- basavaṇṇa'
+
+poem-s5l1: 'āse embudu arasigallade śivabhaktariguṇṭe?'
+
+poem-s5l2: 'rōṣavembudu yamana kiṅkararigallade ajātariguṇṭe?'
+
+poem-s5l3: 'īsakki āse nimagēke? īśvaranoppa,'
+
+poem-s5l4: 'mārayyapriya amarēśvaraliṅgakke dūra,'
+
+poem-s5l5: 'nuccu tari, bēga naḍeyayyā.'
+
+poem-s5l6: '- āydakki lakkamma'
+
+author-intro-1: 'basavaṇṇa : 12nē śatamānada vacanakāraru. ivaru vijayapura jilleya basavanabāgēvāḍiyalli janisidaru. tande mādarasa, tāyi mādalāmbike. ivara aṅkitanāma kūḍalasaṅgamadēva.'
+
+author-intro-2: 'ambigara cauḍayya : 12nē śatamānada vacanakāraru. ivaru hāvēri jilleya rāṇebennūru tāllūkina cauḍadānapuradalli janisidaru. ivara aṅkitanāma ambigara cauḍayya.'
+
+author-intro-3: 'akkamahādēvi : 12nē śatamānada vacanakārti. śivamogga jilleya śikāripura tāllūkina uḍutaḍiyalli janisidaru. tande nirmalaśeṭṭi, tāyi sumati. ivara aṅkitanāma cennamallikārjuna.'
+
+author-intro-4: 'āydakki lakkamma : 12nē śatamānada vacanakārti. rāyacūru jilleya amarēśvara ivara janmasthaḷa. ivara aṅkitanāma mārayyapriya amarēśvaraliṅga.'
+
+vocab-antaranga: 'antaraṅga'
+
+vocab-antaranga-def: 'oḷamanassu'
+
+vocab-anjidare: 'añjidare'
+
+vocab-anjidare-def: 'hedaridare'
+
+vocab-ajata: 'ajāta'
+
+vocab-ajata-def: 'huṭṭilladavanu'
+
+vocab-kinkara: 'kiṅkara'
+
+vocab-kinkara-def: 'sēvaka, āḷu'
+
+vocab-dipti: 'dīpti'
+
+vocab-dipti-def: 'beḷaku'
+
+vocab-ninda: 'ninde'
+
+vocab-ninda-def: 'baiguḷa'
+
+vocab-nuchu: 'nuccu'
+
+vocab-nuchu-def: 'murida akki'
+
+vocab-bahiranga: 'bahiraṅga'
+
+vocab-bahiranga-def: 'horagina'
+
+vocab-muni: 'muni'
+
+vocab-muni-def: 'kōpa'
+
+vocab-mriga: 'mr̥ga'
+
+vocab-mriga-def: 'prāṇi'
+
+vocab-rosha: 'rōṣa'
+
+vocab-rosha-def: 'siṭṭu, kōpa'
+
+vocab-shalake: 'śalāke'
+
+vocab-shalake-def: 'kaḍḍi'
+
+vocab-sphatika: 'sphaṭika'
+
+vocab-sphatika-def: 'beṇacukallu'
+
+vocab-stuti: 'stuti'
+
+vocab-stuti-def: 'hogaḷike'
+
+vocab-hali: 'haḷi'
+
+vocab-hali-def: 'nindisu'
+
+vocab-husi: 'husi'
+
+vocab-husi-def: 'suḷḷu'
+
+ex-a-q1: 'basavaṇṇanavara prakāra antaraṅga bahiraṅga śuddhi yāvudu?'
+
+ex-a-q2: 'ambigara cauḍayyanavara prakāra nijaśaraṇa yāru?'
+
+ex-a-q3: 'beṭṭada mēle manemāḍi yāvudakke añjabāradu?'
+
+ex-a-q4: 'namma nuḍi hēgirabēku?'
+
+ex-a-q5: 'āse embudu yārige irabēku?'
+
+ex-b-q1: 'kūḍalasaṅgamadēvanannu olisuva bage hēge?'
+
+ex-b-q2: 'ambigara cauḍayyanavaru yāva yāva cinteyalliruvavarannu kaṇḍiddāre?'
+
+ex-b-q3: 'akkamahādēviyavara prakāra nāvu samādhāniyāgirabēkādaddu yāvāga?'
+
+ex-b-q4: 'kūḍalasaṅgamadēvanu yāvāga oliyuvudilla?'
+
+ex-b-q5: 'āydakki lakkamma mārayyanige ēnendu hēḷidaḷu?'
+
+ex-c-q1: 'śabdakke nācidaḍentayyā?'
+
+ex-c-q2: 'nuḍidare muttina hāradantirabēku.'
+
+ex-c-q3: 'īsakki āse nimagēke?'
+
+ex-d-q1: '1. ambigara cauḍayya
+
+  2. āydakki lakkamma
+
+  3. basavaṇṇa
+
+  4. akkamahādēvi
+
+
+  a. kūḍalasaṅgamadēva
+
+  ā. cennamallikārjuna
+
+  i. ambigara cauḍayya
+
+  ī. guhēśvara
+
+  u. mārayyapriya amarēśvaraliṅga'
+
+ex-e-q1: 'idē namma __________ olisuva pari.'
+
+ex-e-q2: '__________ cinteyaliddavarobbaranu kāṇenendāta.'
+
+ex-e-q3: 'samudrada taḍiyalondu maneya māḍi __________ añjidaḍentayyā?'
+
+ex-e-q4: 'nuḍidare __________ dīptiyantirabēku.'
+
+ex-e-q5: 'rōṣavembudu yamana __________ allade ajātariguṇṭe?'
+
+grammar-p1: 'sandhigaḷu
+
+  eraḍu akṣaragaḷu kāla viḷambavillade arthakke anusāravāgi sēruvudē sandhi.
+
+  udāharaṇege :
+
+  maḷe + kāla = maḷegāla
+
+  hīge ondu pada innondu padadoḍane sēridāga pūrvapadada antyadalli mattu uttarapadada ādiyalli mūru bageya kāryagaḷu naḍeyabahudu. akṣaravondu lōpavāgabahudu, innondu āgamisabahudu, ondu akṣara hōgi adara sthānadalli bēreyē akṣara barabahudu. idannu ‘sandhikārya’ ennuvaru.
+
+  pūrvapada + uttarapada = sandhikārya
+
+  mātu + annu = mātannu
+
+  (u) + (a) = u lōpa
+
+  sandhiya vividha prakāragaḷa bagge mundina pāṭhadalli tiḷidukoḷḷōṇa.'
+
+grammar-a-q1: '1. sandhi endarēnu? ondu udāharaṇe koḍi.'
+
+grammar-a-q2: '2. sandhi kārya endarēnu?'
+
+grammar-a-q3: '3. tene + annu. idaralli pūrvapada, uttarapada yāvudu tiḷisiri. idaralli naḍeda sandhikāryavannu bareyiri.'
+
+grammar-a-q4: '4. ī padagaḷannu biḍisi bareyiri. sandhi kārya hēḷiri. sakkareyāyitu, keṭṭavaḷēnū, duḥkhitanādanu'
+
+lang-ex-a-q1: '1. vividha vacanakārara vacanagaḷannu saṅgrahisi ōdiri.'
+
+lang-ex-a-q2: '2. dhvani suruḷiyalliruva vacanagaḷannu ālisiri.'
+
+lang-ex-a-q3: '3. sāmūhikavāgi vacanagaḷannu hāḍiri.'
+
+lang-ex-a-q4: '4. vacanakārara jīvana caritregaḷannu ōdiri.'
+
+lang-ex-b-q1: '1. bahiraṅgaśuddhiginta antaraṅgaśuddhi bahaḷa mukhya.'
+
+lang-ex-b-q2: '2. daiva cintaneyinda manassige ānanda doreyuttade.'
+
+lang-ex-b-q3: '3. hogaḷikege higgabāradu; tegaḷikege kuggabāradu.'
+
+lang-ex-b-q4: '4. naḍenuḍigaḷu ondāgirabēku.'

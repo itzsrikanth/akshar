@@ -1,0 +1,284 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 7
+  slug: ch07-ni-hoda-marudina
+  title: ನೀ ಹೋದ ಮರುದಿನ
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಚೆನ್ನಣ್ಣ ವಾಲೀಕಾರ
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ವಿವರ ತಿಳಿಯಿರಿ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಸ್ವಂತ ವಾಕ್ಯದಲ್ಲಿ ಬಳಸಿರಿ.
+  exercise-C: ಇ. ಈ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.
+  exercise-D: ಈ. ಕೆಳಗಿನ ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  text: ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯವು ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ದಲಿತ-ಬಂಡಾಯ, ಮಹಿಳಾ ಸಾಹಿತ್ಯ ಎಂಬ ವಿವಿಧ ದೃಷ್ಟಿಕೋನಗಳಲ್ಲಿ ಬೆಳೆದು ಬಂದಿದೆ. ದಲಿತರು ತಮ್ಮ ಬದುಕಿನ ಶೋಷಣೆ ನೋವುಗಳನ್ನು ಹಾಡಾಗಿ ಹೊಮ್ಮಿಸಿದ್ದೆ ದಲಿತ ಸಾಹಿತ್ಯ. ಸ್ವಾತಂತ್ರ್ಯ, ಸಂವಿಧಾನ ಬಂದರೂ ನಮ್ಮ ಬದುಕು ಇನ್ನೂ ಬದಲಾಗಲಿಲ್ಲ ಎಂಬ ನೋವಿದೆ. ಬದಲಾವಣೆಯ ಗಾಳಿ ಬೀಸಲಿ ಬದುಕು ಹಸನಾಗಲಿ ಎಂಬ ಆಶಯವನ್ನು ಈ ಕವಿತೆ ಹೊಂದಿದೆ.
+  section: intro
+- id: poem-s1l1
+  type: poem_line
+  text: ನೀ ಹೋದ ಮರುದಿನ ಮೊದಲಂಗೆ ನಮ ಬದುಕು
+  section: poem
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಆಗ್ಯಾದೋ ಬಾಬಾ ಸಾಹೇಬ
+  section: poem
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ನಿನ್ನಂಗ ದುಡಿದವರು ಕಳಕಳಿಯ ಪಡುವವರು
+  section: poem
+  stanza: 1
+- id: poem-s1l4
+  type: poem_line
+  text: ಇನ್ನುತನ ಬರಲಿಲ್ಲ ಒಬ್ಬ
+  section: poem
+  stanza: 1
+- id: poem-s2l1
+  type: poem_line
+  text: ಪ್ರತಿನಿತ್ಯ ಎದ್ದಾಗ ನಮಸುದ್ದಿ ಸಂಭ್ರಮವು
+  section: poem
+  stanza: 2
+- id: poem-s2l2
+  type: poem_line
+  text: ದೇಕುವುದು ತಪ್ಪಿಲ್ಲ ನಮಗ
+  section: poem
+  stanza: 2
+- id: poem-s2l3
+  type: poem_line
+  text: ಹೋದ ಹೋದಲ್ಲೆಲ್ಲ ಮೇಲವರ ಆಟಗಳು
+  section: poem
+  stanza: 2
+- id: poem-s2l4
+  type: poem_line
+  text: ಉರಿಹಚ್ಚಿ ಬಿಡುತಾರ ಒಳಗ
+  section: poem
+  stanza: 2
+- id: poem-s3l1
+  type: poem_line
+  text: ಎಲ್ಲಿ ಕೇಳಿದರಲ್ಲಿ ಬೂಟುಗಾಲಿನ ಸದ್ದು
+  section: poem
+  stanza: 3
+- id: poem-s3l2
+  type: poem_line
+  text: ತರತರದ ನೋವುಗಳು ನಮಗ
+  section: poem
+  stanza: 3
+- id: poem-s3l3
+  type: poem_line
+  text: ತಮ್ಮಂಗ ಇರದಿದ್ರೆ ತಲೆ ಕಡಿದು ಹಾಕುವರು
+  section: poem
+  stanza: 3
+- id: poem-s3l4
+  type: poem_line
+  text: ಹೆಸರೀಗೆ ಸ್ವಾತಂತ್ರ್ಯ ನಮಗ
+  section: poem
+  stanza: 3
+- id: poem-s4l1
+  type: poem_line
+  text: ಕೈಕಾಲು ಕಿವಿ ಮೂಗು ಮೈ ಮನಸು ತಲೆ ಕಣ್ಣು
+  section: poem
+  stanza: 4
+- id: poem-s4l2
+  type: poem_line
+  text: ಕಳಕೊಂಡ ಬರಡು ಗಿಡ ನಾವು
+  section: poem
+  stanza: 4
+- id: poem-s4l3
+  type: poem_line
+  text: ಮೈ ತುಂಬ ಮನತುಂಬ ಸಿಕ್ಕವರ ಮುಖಮುದ್ರೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l4
+  type: poem_line
+  text: ಚೀರಾಟ ಹಾರಟ ಸಾವೋ
+  section: poem
+  stanza: 4
+- id: poem-s5l1
+  type: poem_line
+  text: ಹೋಗ್ಬಾರೋ ದಾರಿಯಲಿ ಅಡುಗಲ್ಲುಗಳು ಸೇರಿ
+  section: poem
+  stanza: 5
+- id: poem-s5l2
+  type: poem_line
+  text: ಮುಳಕಲ್ಲು ಹಾಸ್ಯಾವೊ ಪೂರ
+  section: poem
+  stanza: 5
+- id: poem-s5l3
+  type: poem_line
+  text: ಹೆಚ್ಚಿಗೆ ಬೆಳೆದವರ ಉಳಿದವರ ಜೀವಗಳ
+  section: poem
+  stanza: 5
+- id: poem-s5l4
+  type: poem_line
+  text: ಹಗಲಾಗ ಹೊಡೆದಾರ ಟಾರಾ
+  section: poem
+  stanza: 5
+- id: poem-s6l1
+  type: poem_line
+  text: ಎಷ್ಟಂತ ಉರಿತಾರ ಎಷ್ಟಂತ ಹರಿತಾರ
+  section: poem
+  stanza: 6
+- id: poem-s6l2
+  type: poem_line
+  text: ತಾಳದಕ್ಕೂ ಮಿತಿಯುಂಟು ಇಲ್ಲಿ
+  section: poem
+  stanza: 6
+- id: poem-s6l3
+  type: poem_line
+  text: ತಾಳಿ ತಾಳಿಯೂ ಒಮ್ಮೆ ಚೇಳಾಗಿ ಕುಟುಕುವನು
+  section: poem
+  stanza: 6
+- id: poem-s6l4
+  type: poem_line
+  text: ಸಾಮಾನ್ಯನಲ್ಲೋ ಬಡಜೀವಿ
+  section: poem
+  stanza: 6
+- id: poem-s7l1
+  type: poem_line
+  text: ದುಡಿದುಡಿದು ಹುಟ್ಟಿರಲು ಕತ್ತಲಿರುವಾ ತನಕ
+  section: poem
+  stanza: 7
+- id: poem-s7l2
+  type: poem_line
+  text: ಕೊತ್ತಿಗಳು ಹೊತ್ಯಾವ ಜೋರಾ
+  section: poem
+  stanza: 7
+- id: poem-s7l3
+  type: poem_line
+  text: ರೋಡಿಗಿದ್ದವರೆಲ್ಲಾ ಗ್ವಾಡ್ಯಾಗ ಕುಂತಾರ
+  section: poem
+  stanza: 7
+- id: poem-s7l4
+  type: poem_line
+  text: ಇನ್ನಿಲ್ಲ ನಮ ದಾರಿ ದೂರ
+  section: poem
+  stanza: 7
+- id: poem-s8l1
+  type: poem_line
+  text: ಬಾಬಾ ಸಾಹೇಬರೇನು ಹುಚ್ಚರಲ್ಲವೇ ಅಲ್ಲ
+  section: poem
+  stanza: 8
+- id: poem-s8l2
+  type: poem_line
+  text: ಗಾಂಧಿಜೊತೆ ಇರಲಿಲ್ಲ ಸುಮ್ಮ
+  section: poem
+  stanza: 8
+- id: poem-s8l3
+  type: poem_line
+  text: ಅಷ್ಟು ಒದ್ದಾಡಿದಕೆ ಇಂಗೈತೆ ನಮ್ ಬದುಕು
+  section: poem
+  stanza: 8
+- id: poem-s8l4
+  type: poem_line
+  text: ತಿಳಿಯೀತೆ ಈಗ್ಲಾದ್ರೂ ತಮ್ಮ
+  section: poem
+  stanza: 8
+- id: author-1
+  type: prose
+  text: ಡಾ. ಚೆನ್ನಣ್ಣ ವಾಲೀಕಾರರವರು 1943 ಏಪ್ರಿಲ್ 6 ರಂದು ಕಲ್ಬುರ್ಗಿ ಜಿಲ್ಲೆಯ ಚಿತ್ತಾಪುರ ತಾಲ್ಲೂಕಿನ ಶಂಕರವಾಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ದಲಿತ-ಬಂಡಾಯ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಅನೇಕ ಕವನ ಸಂಕಲನಗಳು, ಕಥಾಸಂಕಲನಗಳು, ಮಹಾಕಾವ್ಯಗಳು ಮತ್ತು ನಾಟಕಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಕವಿತೆಯನ್ನು ಇವರ ‘ಸಮಗ್ರ ಕಾವ್ಯ ಸಂಪುಟ’ದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ಡಾ. ಚೆನ್ನಣ್ಣ ವಾಲೀಕಾರರವರು 23.11.2019 ರಂದು ನಿಧನರಾಗಿದ್ದಾರೆ.
+  section: author
+- id: vocab-baradu
+  type: vocabulary_term
+  text: ಬರಡು
+  section: vocab
+- id: vocab-baradu-def
+  type: vocabulary_definition
+  text: ಸತ್ವಹೀನ
+  section: vocab
+- id: vocab-kottigalu
+  type: vocabulary_term
+  text: ಕೊತ್ತಿಗಳು
+  section: vocab
+- id: vocab-kottigalu-def
+  type: vocabulary_definition
+  text: ಬೆಕ್ಕುಗಳು
+  section: vocab
+- id: vocab-taara
+  type: vocabulary_term
+  text: ಟಾರಾ
+  section: vocab
+- id: vocab-taara-def
+  type: vocabulary_definition
+  text: ಡಾಂಬರು
+  section: vocab
+- id: note-baba-saheb
+  type: note_term
+  text: ಬಾಬಾ ಸಾಹೇಬ
+  section: notes
+- id: note-baba-saheb-def
+  type: note_definition
+  text: ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್
+  section: notes
+- id: ex-a-q1
+  type: question
+  text: ಯಾರು ಹೋದ ಮೇಲೆ ನಮ್ಮ ಬದುಕು ಮೊದಲಿನಂತೆ ಆಗಿದೆ ಎಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಕವಿ ಯಾವುದು ಪ್ರತಿನಿತ್ಯ ತಪ್ಪಿಲ್ಲ ನಮಗೆ ಎಂದಿದ್ದಾರೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ಕವಿ ಏನನ್ನು ಕಳೆದುಕೊಂಡ ಬರಡು ಗಿಡ ನಾವು ಎಂದಿದ್ದಾರೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ತಾಳಿ ತಾಳಿ ಒಮ್ಮೆ ಏನಾಗಿ ಕುಟುಕುವನು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ‘ನೀ ಹೋದ ಮರುದಿನ’ ಪದ್ಯವನ್ನು ಬರೆದವರು ಯಾರು?
+  section: exercise-A
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಸ್ವಾತಂತ್ರ್ಯ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಬದುಕು
+  section: exercise-B
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಸಂಭ್ರಮ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಕುಟುಕು
+  section: exercise-B
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ಈ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.
+  section: exercise-C
+  exercise: C
+- id: ex-d-q1
+  type: fill_blank
+  text: ನೀ ಹೋದ ________________________ / ___________________ ಬರಲಿಲ್ಲ ಒಬ್ಬ ||ನೀ ಹೋದ||
+  section: exercise-D
+  exercise: D
+- id: ex-d-q2
+  type: fill_blank
+  text: ಕೈಕಾಲು __________________________ / _______________________ ಹಾರಟ ಸಾವೋ ||ನೀ ಹೋದ||
+  section: exercise-D
+  exercise: D

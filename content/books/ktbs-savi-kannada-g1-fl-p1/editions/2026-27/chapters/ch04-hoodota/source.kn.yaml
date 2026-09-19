@@ -1,0 +1,234 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 4
+  slug: ch04-hoodota
+  title: ಹೂದೋಟ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ಹೂದೋಟ
+  intro: 'ಪಾಠ - ೪ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ'
+  story: ಗದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+  exercise-D: ಅಭ್ಯಾಸ ಈ
+  exercise-E: ಅಭ್ಯಾಸ ಉ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಅ) ಈ ಚಿತ್ರಗಳಿಗೆ ಬಣ್ಣ ತುಂಬಲು ತಿಳಿಸಿ.
+- id: story-intro
+  type: prose
+  section: story
+  text: (ಈ ಪಾಠದಲ್ಲಿರುವ ಸಂಭಾಷಣೆಯನ್ನು ಓದಿ ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)
+- id: story-d1
+  type: dialogue
+  section: story
+  speaker: ಸುಮಾ
+  text: ಅಜ್ಜೀ, ನೀವು ದಿನಾಲೂ ಸಂಜೆ ಹೂದೋಟಕ್ಕೆ ಬರುತ್ತೀರಿ ಅಲ್ಲವೆ?
+- id: story-d2
+  type: dialogue
+  section: story
+  speaker: ಅಜ್ಜಿ
+  text: ಹೌದು ಮಗು, ಹೂದೋಟಕ್ಕೆ ಬರಲು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ.
+- id: story-d3
+  type: dialogue
+  section: story
+  speaker: ಸುಮಾ
+  text: ಅಜ್ಜಿ, ಇಲ್ಲಿ ಹಲವಾರು ಮಂದಿ ನಡೆಯುತ್ತಾರಲ್ಲ, ಏಕೆ?
+- id: story-d4
+  type: dialogue
+  section: story
+  speaker: ಅಜ್ಜಿ
+  text: ನಡೆಯುವುದು ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ. ಈ ವ್ಯಾಯಾಮ ಆರೋಗ್ಯಕ್ಕೆ ಅಗತ್ಯ.
+- id: story-d5
+  type: dialogue
+  section: story
+  speaker: ಸುಮಾ
+  text: ಅಜ್ಜಿ, ಅಲ್ಲಿ ಜೋಕಾಲಿ ಇದೆ, ನಾನು ಹೋಗಿ ಸ್ವಲ್ಪ ಹೊತ್ತು ಜೋಕಾಲಿ ಆಡಲೇ?
+- id: story-d6
+  type: dialogue
+  section: story
+  speaker: ಅಜ್ಜಿ
+  text: ಆಡು ಮಗು. ನಾನು ಸ್ವಲ್ಪ ನಡೆದಾಡಿ ಬರುತ್ತೇನೆ.
+- id: story-n1
+  type: prose
+  section: story
+  text: (ಸ್ವಲ್ಪ ಸಮಯದ ಬಳಿಕ)
+- id: story-d7
+  type: dialogue
+  section: story
+  speaker: ಅಜ್ಜಿ
+  text: ಜೋಕಾಲಿ ಆಡಿದ್ದು ಆಯಿತೆ ಮಗು?
+- id: story-d8
+  type: dialogue
+  section: story
+  speaker: ಸುಮಾ
+  text: ಆಯಿತು ಅಜ್ಜಿ, ನಿಮ್ಮ ನಡೆದಾಟ ಆಯಿತೇ?
+- id: story-d9
+  type: dialogue
+  section: story
+  speaker: ಅಜ್ಜಿ
+  text: ಆಯಿತು ಮಗು, ಈಗ ಮನೆಗೆ ಹೋಗೋಣವೇ?
+- id: story-d10
+  type: dialogue
+  section: story
+  speaker: ಸುಮಾ
+  text: ಅಜ್ಜಿ, ನಾನು ದಿನಾಲೂ ನಿಮ್ಮ ಜೊತೆ ಹೂದೋಟಕ್ಕೆ ಬರುವೆ.
+- id: story-d11
+  type: dialogue
+  section: story
+  speaker: ಅಜ್ಜಿ
+  text: ನೀನು ತುಂಬಾ ಜಾಣೆ, ಮಕ್ಕಳು ಚಿಕ್ಕಂದಿನಿಂದಲೇ ಇಂಥ ಒಳ್ಳೆಯ ಅಭ್ಯಾಸಗಳನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು.
+- id: vocab-ajji
+  type: vocabulary_term
+  text: ಅಜ್ಜಿ
+- id: vocab-dinaalu
+  type: vocabulary_term
+  text: ದಿನಾಲೂ
+- id: vocab-sanje
+  type: vocabulary_term
+  text: ಸಂಜೆ
+- id: vocab-neevu
+  type: vocabulary_term
+  text: ನೀವು
+- id: vocab-hoodota
+  type: vocabulary_term
+  text: ಹೂದೋಟ
+- id: vocab-haudu
+  type: vocabulary_term
+  text: ಹೌದು
+- id: vocab-magu
+  type: vocabulary_term
+  text: ಮಗು
+- id: vocab-halavaaru
+  type: vocabulary_term
+  text: ಹಲವಾರು
+- id: vocab-mandi
+  type: vocabulary_term
+  text: ಮಂದಿ
+- id: vocab-nade
+  type: vocabulary_term
+  text: ನಡೆ
+- id: vocab-deha
+  type: vocabulary_term
+  text: ದೇಹ
+- id: vocab-olleya
+  type: vocabulary_term
+  text: ಒಳ್ಳೆಯ
+- id: vocab-vyaayama
+  type: vocabulary_term
+  text: ವ್ಯಾಯಾಮ
+- id: vocab-aarogya
+  type: vocabulary_term
+  text: ಆರೋಗ್ಯ
+- id: vocab-agatya
+  type: vocabulary_term
+  text: ಅಗತ್ಯ
+- id: vocab-jokaali
+  type: vocabulary_term
+  text: ಜೋಕಾಲಿ
+- id: vocab-nadedaata
+  type: vocabulary_term
+  text: ನಡೆದಾಟ
+- id: vocab-abhyasa
+  type: vocabulary_term
+  text: ಅಭ್ಯಾಸ
+- id: vocab-jaane
+  type: vocabulary_term
+  text: ಜಾಣೆ
+- id: note-dinaalu
+  type: note_term
+  text: ದಿನಾಲೂ
+- id: note-dinaalu-def
+  type: note_definition
+  ref: note-dinaalu
+  text: ಪ್ರತಿದಿನ
+- id: note-jokaali
+  type: note_term
+  text: ಜೋಕಾಲಿ
+- id: note-jokaali-def
+  type: note_definition
+  ref: note-jokaali
+  text: ಉಯ್ಯಾಲೆ, ತೂಗುಮಣೆ
+- id: ex-a-intro
+  type: prose
+  exercise: A
+  text: ಅ) ಪಾಠದ ವಾಕ್ಯಗಳನ್ನು ಕೆಳಗೆ ನೀಡಿದೆ. ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಸೇರಿಸಿ ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-a-q1
+  type: fill_blank
+  exercise: A
+  text: 1) ಹೂದೋಟಕ್ಕೆ ಬರಲು ನನಗೆ ___________ ಇಷ್ಟ.
+- id: ex-a-q2
+  type: fill_blank
+  exercise: A
+  text: 2) ನಾನು ಹೋಗಿ ಸ್ವಲ್ಪ ಹೊತ್ತು ___________ ಆಡಲೇ?
+- id: ex-a-q3
+  type: fill_blank
+  exercise: A
+  text: 3) ನಿಮ್ಮ ___________ ಆಯಿತೇ?
+- id: ex-a-q4
+  type: fill_blank
+  exercise: A
+  text: 4) ನೀನು ತುಂಬಾ ___________
+- id: ex-b-intro
+  type: prose
+  exercise: B
+  text: ಆ) ಮಕ್ಕಳಿಗೆ ಪ್ರಶ್ನೆ ಕೇಳಿ, ಉತ್ತರ ಹೇಳಿಸಿ.
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: 1) ಅಜ್ಜಿ ದಿನಾಲು ಸಂಜೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದರು?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: 2) ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ ಯಾವುದು?
+- id: ex-b-q3
+  type: question
+  exercise: B
+  text: 3) ಸುಮಾ ಯಾವ ಆಟ ಆಡಿದಳು?
+- id: ex-c-intro
+  type: prose
+  exercise: C
+  text: ಇ) ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು/ಕೇಳಿದರು ಎಂದು ಮಕ್ಕಳನ್ನು ಕೇಳಿ, ಉತ್ತರ ಪಡೆಯಿರಿ.
+- id: ex-c-q1
+  type: question
+  exercise: C
+  text: 1) ಅಜ್ಜೀ, ನೀವು ದಿನಾಲೂ ಸಂಜೆ ಹೂದೋಟಕ್ಕೆ ಬರುತ್ತೀರಿ ಅಲ್ಲವೆ? - ಎಂದು ಕೇಳಿದವರು ಯಾರು?
+- id: ex-c-q2
+  type: question
+  exercise: C
+  text: 2) ನಡೆಯುವುದು ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ. ಈ ವ್ಯಾಯಾಮ ಆರೋಗ್ಯಕ್ಕೆ ಅಗತ್ಯ. - ಎಂದು ಹೇಳಿದವರು ಯಾರು?
+- id: ex-c-q3
+  type: question
+  exercise: C
+  text: 3) ಮಕ್ಕಳು ಚಿಕ್ಕಂದಿನಿಂದಲೂ ಇಂಥ ಒಳ್ಳೆಯ ಅಭ್ಯಾಸಗಳನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು. - ಎಂದು ಹೇಳಿದವರು ಯಾರು?
+- id: ex-d-intro
+  type: prose
+  exercise: D
+  text: ಈ) ಈ ಕೆಳಗಿನ ವಾಕ್ಯಗಳನ್ನು ಓದಿ ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-d-q1
+  type: prose
+  exercise: D
+  text: 1) ನಾನು ದಿನಾಲೂ ಸ್ನಾನ ಮಾಡುತ್ತೇನೆ.
+- id: ex-d-q2
+  type: prose
+  exercise: D
+  text: 2) ನಮ್ಮ ಊರಿನಲ್ಲಿ ಹಲವಾರು ಮನೆಗಳಿವೆ.
+- id: ex-d-q3
+  type: prose
+  exercise: D
+  text: 3) ನನ್ನ ಗೆಳತಿ ತುಂಬಾ ಜಾಣೆ.
+- id: ex-e-intro
+  type: prose
+  exercise: E
+  text: ಉ) ಚಿತ್ರಗಳಲ್ಲಿರುವ ಹೂಗಳನ್ನು ಹೆಸರಿಸಲು ಹೇಳಿ.

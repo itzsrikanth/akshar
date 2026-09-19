@@ -1,0 +1,72 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: Flower Garden
+  intro: 'Lesson - 4 : Pre-lesson activity'
+  story: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: Exercise A
+  exercise-B: Exercise B
+  exercise-C: Exercise C
+  exercise-D: Exercise D
+  exercise-E: Exercise E
+intro-1: A) Tell them to colour these pictures.
+story-intro: (Read the conversation in this lesson, tell it, and have the children say it)
+story-d1: Grandmother, you come to the flower garden every evening, don’t you?
+story-d2: Yes, child, I like coming to the flower garden very much.
+story-d3: Grandmother, many people walk here, why?
+story-d4: Walking is good exercise for the body. This exercise is necessary for health.
+story-d5: Grandmother, there is a swing there; may I go and swing for a little while?
+story-d6: Play, child. I will walk a little and come.
+story-n1: (After a little time)
+story-d7: Have you finished swinging, child?
+story-d8: Yes, grandmother, is your walk finished?
+story-d9: Yes, child, shall we go home now?
+story-d10: Grandmother, I will come to the flower garden with you every day.
+story-d11: You are very clever; it is good for children to develop such good habits from childhood.
+vocab-ajji: grandmother
+vocab-dinaalu: every day
+vocab-sanje: evening
+vocab-neevu: you (respectful)
+vocab-hoodota: flower garden
+vocab-haudu: 'yes'
+vocab-magu: child
+vocab-halavaaru: many
+vocab-mandi: people
+vocab-nade: walk
+vocab-deha: body
+vocab-olleya: good
+vocab-vyaayama: exercise
+vocab-aarogya: health
+vocab-agatya: necessary
+vocab-jokaali: swing
+vocab-nadedaata: walk
+vocab-abhyasa: habit/practice
+vocab-jaane: clever (girl)
+note-dinaalu: every day
+note-dinaalu-def: each day
+note-jokaali: swing
+note-jokaali-def: swing, hanging seat
+ex-a-intro: A) Lesson sentences are given below. Add the missing word and have the children say them.
+ex-a-q1: 1) I like ___________ coming to the flower garden.
+ex-a-q2: 2) May I go and play ___________ for a little while?
+ex-a-q3: 3) Is your ___________ finished?
+ex-a-q4: 4) You are very ___________
+ex-b-intro: B) Ask the children questions and have them answer.
+ex-b-q1: 1) Where did grandmother go every evening?
+ex-b-q2: 2) What is good exercise for the body?
+ex-b-q3: 3) Which game did Suma play?
+ex-c-intro: C) Ask the children who said/asked whom, and get the answer.
+ex-c-q1: 1) “Grandmother, you come to the flower garden every evening, don’t you?” — who asked this?
+ex-c-q2: 2) “Walking is good exercise for the body. This exercise is necessary for health.” — who said this?
+ex-c-q3: 3) “It is good for children to develop such good habits from childhood.” — who said this?
+ex-d-intro: D) Read these sentences aloud and have the children say them.
+ex-d-q1: 1) I bathe every day.
+ex-d-q2: 2) There are many houses in our town.
+ex-d-q3: 3) My friend is very clever.
+ex-e-intro: E) Tell them to name the flowers in the pictures.

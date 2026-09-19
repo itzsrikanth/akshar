@@ -1,0 +1,94 @@
+meta:
+  source: source.kn.yaml
+  script: devanagari
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: ऊटद आट
+  intro: 'पाठ - ३ : पाठपूर्व चटुवटिकॆ'
+  poem: पद्य
+  vocab: केळिद पदगळु
+  notes: पदगळ अर्थ
+  exercise-A: अभ्यास अ
+  exercise-B: अभ्यास आ
+  exercise-C: अभ्यास इ
+  exercise-D: अभ्यास ई
+intro-1: अ) चित्र तोरिसि, पद हेळिसि.
+intro-moogu: मूगु
+intro-kannugalu: कण्णुगळु
+intro-elegalu: ऎलॆगळु
+intro-hoogalu: हूगळु
+intro-kai-beralgu: कै बॆरळुगळु
+poem-intro: (ई पद्यवन्नु रागवागि हाडि मक्कळिंद हेळिसि)
+poem-s1l1: ऒंदु ऎरडु
+poem-s1l2: बाळॆलॆ हरडु
+poem-s2l1: मूरु नाल्कु
+poem-s2l2: अन्न हाकु
+poem-s3l1: ऐदु आरु
+poem-s3l2: बेळॆ सारु
+poem-s4l1: एळु ऎंटु
+poem-s4l2: पल्यकॆ दंटु
+poem-s5l1: ऒंबत्तु हत्तु
+poem-s5l2: ऎलॆ मुदिरॆत्तु
+poem-s6l1: ऒंदरिंद हत्तु
+poem-s6l2: हीगित्तु
+poem-s6l3: ऊटद आटवु
+poem-s6l4: मुगिदित्तु
+vocab-ondu: ऒंदु
+vocab-eradu: ऎरडु
+vocab-baalele: बाळॆलॆ
+vocab-haradu: हरडु
+vocab-mooru: मूरु
+vocab-naalku: नाल्कु
+vocab-anna: अन्न
+vocab-haaku: हाकु
+vocab-aidu: ऐदु
+vocab-aaru: आरु
+vocab-bele: बेळॆ
+vocab-saaru: सारु
+vocab-elu: एळु
+vocab-entu: ऎंटु
+vocab-palya: पल्य
+vocab-dantu: दंटु
+vocab-ombattu: ऒंबत्तु
+vocab-hattu: हत्तु
+vocab-ele: ऎलॆ
+vocab-mudiru: मुदिरु
+vocab-ettu: ऎत्तु
+vocab-oota: ऊट
+note-palya: पल्य
+note-palya-def: तरकारियिंद माडिद पदार्थ, ताळद
+note-dantu: दंटु
+note-dantu-def: ऒंदु जातिय तरकारि सॊप्पु
+note-mudiru: मुदिरु
+note-mudiru-def: मुच्चु, मडिचु
+ex-a-intro: अ) नीडिरुव पदगळन्नु हेळि, मक्कळिंद हेळिसि.
+ex-a-q1: ऒंदु
+ex-a-q2: ऎरडु
+ex-a-q3: मूरु
+ex-a-q4: नाल्कु
+ex-a-q5: ऐदु
+ex-a-q6: आरु
+ex-a-q7: एळु
+ex-a-q8: ऎंटु
+ex-a-q9: ऒंबत्तु
+ex-a-q10: हत्तु
+ex-b-intro: आ) ई प्रास पदगळन्नु हेळि, मक्कळिंद हेळिसि.
+ex-b-q1: 1) ऎरडु-हरडु
+ex-b-q2: 2) आरु-सारु
+ex-b-q3: 3) ऎंटु-दंटु
+ex-b-q4: 4) हत्तु-ऎत्तु
+ex-c-intro: इ) पद्यद सालुगळन्नु कॆळगॆ नीडिदॆ. आ सालुगळल्लि ऒंदॊंदु पदवन्नु बिडलागिदॆ. बिट्टिरुव पदवन्नु मक्कळिंद हेळिसि.
+ex-c-q1: 1) ऒंदु ऎरडु _____ हरडु.
+ex-c-q2: 2) मूरु नाल्कु _____ हाकु.
+ex-c-q3: 3) ऐदु आरु _____ सारु.
+ex-c-q4: 4) एळु ऎंटु ______ दंटु.
+ex-c-q5: 5) ऒंबत्तु हत्तु _____ मुदिरॆत्तु.
+ex-d-intro: ई) चित्रगळन्नु तोरिसि, पक्कदल्लिरुव प्रश्नॆगळन्नु केळि मक्कळिंद उत्तर पडॆयिरि.
+ex-d-q1: ई हण्णिन हॆसरेनु?
+ex-d-q2: इल्लि ऎष्टु हण्णिदॆ?
+ex-d-q3: ई चित्रदल्लिरुव हण्णिन हॆसरेनु?
+ex-d-q4: इल्लि ऎष्टु हण्णुगळिवॆ?
+ex-d-q5: ई चित्रदल्लिरुव कायिगळ हॆसरेनु?
+ex-d-q6: इल्लि ऎष्टु कायिगळिवॆ?
+ex-d-q7: ई चित्रदल्लिरुव तरकारिय हॆसरेनु?

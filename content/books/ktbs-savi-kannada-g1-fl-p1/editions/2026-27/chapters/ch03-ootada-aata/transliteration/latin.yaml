@@ -1,0 +1,94 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: ūṭada āṭa
+  intro: 'pāṭha - 3 : pāṭhapūrva caṭuvaṭikè'
+  poem: padya
+  vocab: keḻida padagaḻu
+  notes: padagaḻa artha
+  exercise-A: abhyāsa a
+  exercise-B: abhyāsa ā
+  exercise-C: abhyāsa i
+  exercise-D: abhyāsa ī
+intro-1: a) citra torisi, pada heḻisi.
+intro-moogu: mūgu
+intro-kannugalu: kaṇṇugaḻu
+intro-elegalu: èlègaḻu
+intro-hoogalu: hūgaḻu
+intro-kai-beralgu: kai bèraḻugaḻu
+poem-intro: (ī padyavannu rāgavāgi hāḍi makkaḻiṃda heḻisi)
+poem-s1l1: òṃdu èraḍu
+poem-s1l2: bāḻèlè haraḍu
+poem-s2l1: mūru nālku
+poem-s2l2: anna hāku
+poem-s3l1: aidu āru
+poem-s3l2: beḻè sāru
+poem-s4l1: eḻu èṃṭu
+poem-s4l2: palyakè daṃṭu
+poem-s5l1: òṃbattu hattu
+poem-s5l2: èlè mudirèttu
+poem-s6l1: òṃdariṃda hattu
+poem-s6l2: hīgittu
+poem-s6l3: ūṭada āṭavu
+poem-s6l4: mugidittu
+vocab-ondu: òṃdu
+vocab-eradu: èraḍu
+vocab-baalele: bāḻèlè
+vocab-haradu: haraḍu
+vocab-mooru: mūru
+vocab-naalku: nālku
+vocab-anna: anna
+vocab-haaku: hāku
+vocab-aidu: aidu
+vocab-aaru: āru
+vocab-bele: beḻè
+vocab-saaru: sāru
+vocab-elu: eḻu
+vocab-entu: èṃṭu
+vocab-palya: palya
+vocab-dantu: daṃṭu
+vocab-ombattu: òṃbattu
+vocab-hattu: hattu
+vocab-ele: èlè
+vocab-mudiru: mudiru
+vocab-ettu: èttu
+vocab-oota: ūṭa
+note-palya: palya
+note-palya-def: tarakāriyiṃda māḍida padārtha, tāḻada
+note-dantu: daṃṭu
+note-dantu-def: òṃdu jātiya tarakāri sòppu
+note-mudiru: mudiru
+note-mudiru-def: muccu, maḍicu
+ex-a-intro: a) nīḍiruva padagaḻannu heḻi, makkaḻiṃda heḻisi.
+ex-a-q1: òṃdu
+ex-a-q2: èraḍu
+ex-a-q3: mūru
+ex-a-q4: nālku
+ex-a-q5: aidu
+ex-a-q6: āru
+ex-a-q7: eḻu
+ex-a-q8: èṃṭu
+ex-a-q9: òṃbattu
+ex-a-q10: hattu
+ex-b-intro: ā) ī prāsa padagaḻannu heḻi, makkaḻiṃda heḻisi.
+ex-b-q1: 1) èraḍu-haraḍu
+ex-b-q2: 2) āru-sāru
+ex-b-q3: 3) èṃṭu-daṃṭu
+ex-b-q4: 4) hattu-èttu
+ex-c-intro: i) padyada sālugaḻannu kèḻagè nīḍidè. ā sālugaḻalli òṃdòṃdu padavannu biḍalāgidè. biṭṭiruva padavannu makkaḻiṃda heḻisi.
+ex-c-q1: 1) òṃdu èraḍu _____ haraḍu.
+ex-c-q2: 2) mūru nālku _____ hāku.
+ex-c-q3: 3) aidu āru _____ sāru.
+ex-c-q4: 4) eḻu èṃṭu ______ daṃṭu.
+ex-c-q5: 5) òṃbattu hattu _____ mudirèttu.
+ex-d-intro: ī) citragaḻannu torisi, pakkadalliruva praśnègaḻannu keḻi makkaḻiṃda uttara paḍèyiri.
+ex-d-q1: ī haṇṇina hèsarenu?
+ex-d-q2: illi èṣṭu haṇṇidè?
+ex-d-q3: ī citradalliruva haṇṇina hèsarenu?
+ex-d-q4: illi èṣṭu haṇṇugaḻivè?
+ex-d-q5: ī citradalliruva kāyigaḻa hèsarenu?
+ex-d-q6: illi èṣṭu kāyigaḻivè?
+ex-d-q7: ī citradalliruva tarakāriya hèsarenu?

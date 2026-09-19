@@ -1,0 +1,187 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 10
+  slug: ch10-avva
+  title: ಅವ್ವ
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಲಲಿತಾ ಕೆ. ಹೊಸಪ್ಯಾಟಿ
+labels:
+  poem: ಪದ್ಯ
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  exercise-A: ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿರಿ.
+segments:
+- id: poem-s1l1
+  type: poem_line
+  text: ಬೊಗಸೆ ತುಂಬ ಹೂವ ತಂದು
+  section: poem
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಪಾದಕಮಲಕೆರಗುವೆ
+  section: poem
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ನಿನ್ನ ಅಡಿಗೆ ಮಣಿದು ಮತ್ತೆ
+  section: poem
+  stanza: 1
+- id: poem-s1l4
+  type: poem_line
+  text: ಭಾಗ್ಯವನ್ನೆ ಬೇಡುವೆ
+  section: poem
+  stanza: 1
+- id: poem-s2l1
+  type: poem_line
+  text: ಗರ್ಭದಲ್ಲಿ ಮಾಂಸ ಮುದ್ದೆ
+  section: poem
+  stanza: 2
+- id: poem-s2l2
+  type: poem_line
+  text: ಅ ಆ ಇ ಈ ತಿಳಿಯದು
+  section: poem
+  stanza: 2
+- id: poem-s2l3
+  type: poem_line
+  text: ಜನಿಸಿ ಧರೆಗೆ ಬಿದ್ದ ಕ್ಷಣವೆ
+  section: poem
+  stanza: 2
+- id: poem-s2l4
+  type: poem_line
+  text: ‘ಅವ್ವ’ ಅಂತು ಕೊರಳು
+  section: poem
+  stanza: 2
+- id: poem-s3l1
+  type: poem_line
+  text: ನೋವ ನುಂಗಿ ನನ್ನ ನಂಬಿ
+  section: poem
+  stanza: 3
+- id: poem-s3l2
+  type: poem_line
+  text: ಹಾಲ ನೀನು ಕುಡಿಸಿದೆ
+  section: poem
+  stanza: 3
+- id: poem-s3l3
+  type: poem_line
+  text: ಕಣ್ಣ ನೀರ ಒರೆಸಿ ನೀನು
+  section: poem
+  stanza: 3
+- id: poem-s3l4
+  type: poem_line
+  text: ಎದೆಗವಚಿ ರಮಿಸಿದೆ
+  section: poem
+  stanza: 3
+- id: poem-s4l1
+  type: poem_line
+  text: ಬಿದ್ದರಂತು ಓಡಿಬಂದು
+  section: poem
+  stanza: 4
+- id: poem-s4l2
+  type: poem_line
+  text: ಎತ್ತಿಕೊಂಡು ರಮಿಸಿದೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l3
+  type: poem_line
+  text: ಗೆದ್ದರಂತು ಖುಷಿಯು ನಿನಗೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l4
+  type: poem_line
+  text: ಹೊತ್ತುಕೊಂಡು ಸಾರಿದೆ
+  section: poem
+  stanza: 4
+- id: poem-s5l1
+  type: poem_line
+  text: ವಿದ್ಯೆ ಕಲಿಸಿ ಬುದ್ಧಿನೀಡಿ
+  section: poem
+  stanza: 5
+- id: poem-s5l2
+  type: poem_line
+  text: ಸಿದ್ಧಿಪಡೆಯೆ ಕಲಿಸಿದೆ
+  section: poem
+  stanza: 5
+- id: poem-s5l3
+  type: poem_line
+  text: ಯಶದ ಹಿಂದೆ ಹರಕೆ ನೀಡಿ
+  section: poem
+  stanza: 5
+- id: poem-s5l4
+  type: poem_line
+  text: ಜೀವತ್ಯಾಗ ಮಾಡಿದೆ
+  section: poem
+  stanza: 5
+- id: poem-s6l1
+  type: poem_line
+  text: ರೊಕ್ಕಕೆಲ್ಲ ಲೆಕ್ಕವಿಲ್ಲ
+  section: poem
+  stanza: 6
+- id: poem-s6l2
+  type: poem_line
+  text: ನಿನ್ನ ಋಣ ಅಗಣಿತ.
+  section: poem
+  stanza: 6
+- id: poem-s6l3
+  type: poem_line
+  text: ಪಾದಕಮಲಕೊಂದೆ ಹೂವು
+  section: poem
+  stanza: 6
+- id: poem-s6l4
+  type: poem_line
+  text: ನನ್ನ ಪ್ರೀತಿ ಸೀಮಿತ
+  section: poem
+  stanza: 6
+- id: poem-s7l1
+  type: poem_line
+  text: ತಾಯಿ ಹರಕೆ ಮುಂದೆ ಜಗದಿ
+  section: poem
+  stanza: 7
+- id: poem-s7l2
+  type: poem_line
+  text: ಯಾವುದಿಲ್ಲ ಮಿಗಿಲು ತಾನು
+  section: poem
+  stanza: 7
+- id: poem-s7l3
+  type: poem_line
+  text: ಕಾಯೊ ಗುಣದ ದೇವರವ್ವ
+  section: poem
+  stanza: 7
+- id: poem-s7l4
+  type: poem_line
+  text: ಅವ್ವ ನಿನ್ನ ಹೆಸರು
+  section: poem
+  stanza: 7
+- id: author-1
+  type: prose
+  text: ಲಲಿತಾ ಕೊಟ್ರೆಪ್ಪ ಹೊಸಪ್ಯಾಟಿ 1964ರಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಕೊಟ್ರೆಪ್ಪ, ತಾಯಿ ನೀಲಮ್ಮ. ಸರ್ಕಾರಿ ಪ್ರೌಢಶಾಲೆ ಹಿರೇಬಾದವಾಡಗಿ, ಹುನಗುಂದ ತಾ., ಬಾಗಲಕೋಟೆ ಜಿಲ್ಲೆಯಲ್ಲಿ ಮುಖ್ಯೋಪಾಧ್ಯಾಯಿನಿಯಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಇವರು ಕಲ್ಪನಾಳಿಗೊಂದು ಎದೆಹಾಡು, ಹೂ ಮಾರುವ ಹುಡುಗಿ ಎಂಬ ಮಕ್ಕಳ ಕವನ ಸಂಕಲನ ಹಾಗೂ ಮಕ್ಕಳ ನಾಟಕ ಮತ್ತು ಕಥಾ ಸಂಕಲನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.
+  section: author
+- id: ex-a-q1
+  type: question
+  text: ಕವಯಿತ್ರಿಯು ತಾಯಿಯ ಪಾದಕ್ಕೆ ಏನು ತರುತ್ತಾಳೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ಜಗತ್ತಿನಲ್ಲಿ ಮಿಗಿಲಾದುದು ಯಾವುದು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ತಾಯಿ ಮಗುವಿಗೆ ಏನನ್ನು ಕಲಿಸುತ್ತಾಳೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ಮಗು ಬಿದ್ದಾಗ ತಾಯಿ ಹೇಗೆ ರಮಿಸುತ್ತಾಳೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ತಾಯಿ ಮಗುವಿಗೆ ಏನನ್ನು ಕುಡಿಸುತ್ತಾಳೆ?
+  section: exercise-A
+  exercise: A

@@ -1,0 +1,472 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 6
+  slug: ch06-mangala-grahadalli-putti
+  title: ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಸಿ. ಎಂ. ಗೋವಿಂದರೆಡ್ಡಿ
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ವಿವರ ತಿಳಿಯಿರಿ
+  exercise-A: ಅ. ಬಿಟ್ಟ ಸ್ಥಳವನ್ನು ತುಂಬಿರಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+  exercise-C: ಇ. ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಿ.
+  exercise-D: ಈ. ಸಿ.ಎಂ.ಗೋವಿಂದರೆಡ್ಡಿಯವರ ಸ್ಥಳ, ಕಾಲ, ಕೃತಿಗಳ ವಿವರ ತಿಳಿಸಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  text: ಮಕ್ಕಳ ಮನಸ್ಸಿನಲ್ಲಿ ಕುತೂಹಲಭರಿತ ಪ್ರಶ್ನೆಗಳು ಹುಟ್ಟುತ್ತವೆ. ವಿವಿಧ ಕಲ್ಪನೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಹೊಸ ಹೊಸ ಕನಸುಗಳು ಗೂಡು ಕಟ್ಟುತ್ತವೆ. ಮಕ್ಕಳು ತಮ್ಮ ಕಲ್ಪನೆಯಲ್ಲಿ ನಿರ್ಜೀವ ವಸ್ತುಗಳೊಂದಿಗೂ ಮನಬಿಚ್ಚಿ ಮಾತಾಡಬಲ್ಲರು! ಅಪರಿಚಿತ ಸನ್ನಿವೇಶಗಳೂ ಸಹ ಅವರ ಕನಸುಗಳಲ್ಲಿ ಹತ್ತಿರಕ್ಕೆ ಬಂದುಬಿಡುತ್ತವೆ. ಹೀಗಿರುವ ಅವರ ಕಲ್ಪನೆಗಳಿಗೆ ಮತ್ತಷ್ಟು ಗರಿಗಳನ್ನು ಕಟ್ಟಿ ಇನ್ನಷ್ಟು ಎತ್ತರಕ್ಕೆ ಹಾರಲು ಪ್ರೋತ್ಸಾಹಿಸಿ ಆ ಮೂಲಕ ಪ್ರಸ್ತುತತೆಯ ಅರಿವು ಮೂಡಿಸುವುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.
+  section: intro
+- id: poem-s1l1
+  type: poem_line
+  text: ಆಗಸದಲ್ಲಿ ಹಾರುವುದೆಂದರೆ
+  section: poem
+  stanza: 1
+- id: poem-s1l2
+  type: poem_line
+  text: ಪುಟಾಣಿ ಪುಟ್ಟಿಗೆ ಬಲು ಇಷ್ಟ
+  section: poem
+  stanza: 1
+- id: poem-s1l3
+  type: poem_line
+  text: ರೆಕ್ಕೆಗಳಿಲ್ಲದೆ ಹಾರಲು ಹೋದರೆ
+  section: poem
+  stanza: 1
+- id: poem-s1l4
+  type: poem_line
+  text: ಆಗದೆ ತೊಂದರೆ? ಇದು ಕಷ್ಟ.
+  section: poem
+  stanza: 1
+- id: poem-s2l1
+  type: poem_line
+  text: ಒಂದಿನ ಇದ್ದಕ್ಕಿದ್ದಂತೆ
+  section: poem
+  stanza: 2
+- id: poem-s2l2
+  type: poem_line
+  text: ಪುಟ್ಟಿಗೆ ರೆಕ್ಕೆಯು ಬಂದಿತ್ತು.
+  section: poem
+  stanza: 2
+- id: poem-s2l3
+  type: poem_line
+  text: ಹಕ್ಕಿಯ ಹಾಗೆ ಹಾರುವ ಮನಕೆ
+  section: poem
+  stanza: 2
+- id: poem-s2l4
+  type: poem_line
+  text: ಹೆಚ್ಚಿನ ಹರುಷವ ತಂದಿತ್ತು.
+  section: poem
+  stanza: 2
+- id: poem-s3l1
+  type: poem_line
+  text: ಕೂಡಲೆ ಪುಟ್ಟಿ ಠಣ್ಣನೆ ಜಿಗಿದು
+  section: poem
+  stanza: 3
+- id: poem-s3l2
+  type: poem_line
+  text: ಆಗಸದೊಡಲಿಗೆ ಹಾರಿದಳು.
+  section: poem
+  stanza: 3
+- id: poem-s3l3
+  type: poem_line
+  text: ಹಾರುತ ತೇಲುತ ಮುಂದಕೆ ಸಾಗಿ
+  section: poem
+  stanza: 3
+- id: poem-s3l4
+  type: poem_line
+  text: ಚಂದ್ರನ ಮಡಿಲನು ಸೇರಿದಳು.
+  section: poem
+  stanza: 3
+- id: poem-s4l1
+  type: poem_line
+  text: ಚಂದ್ರನ ಮೇಲೆ ನೆಟ್ಟಗೆ ನಿಂತು
+  section: poem
+  stanza: 4
+- id: poem-s4l2
+  type: poem_line
+  text: ಭೂಮಿಯ ಕಡೆಗೆ ನೋಡಿದರೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l3
+  type: poem_line
+  text: ನೇರಳೆ ಬಣ್ಣದ ಚೆಂಡಿನ ಹಾಗೆ
+  section: poem
+  stanza: 4
+- id: poem-s4l4
+  type: poem_line
+  text: ಕಂಡಿತು ಅವಳಿಗೆ ನಮ್ಮ ಧರೆ.
+  section: poem
+  stanza: 4
+- id: poem-s5l1
+  type: poem_line
+  text: ಚಂದ್ರನ ಬಿಟ್ಟು ಮೇಲಕೆ ಹಾರಿ
+  section: poem
+  stanza: 5
+- id: poem-s5l2
+  type: poem_line
+  text: ಸೇರಲು ಮಂಗಳನಂಗಳವ
+  section: poem
+  stanza: 5
+- id: poem-s5l3
+  type: poem_line
+  text: ಕೆಂಪಗೆ ಬಣಬಣಗುಟ್ಟುತಲಿತ್ತು
+  section: poem
+  stanza: 5
+- id: poem-s5l4
+  type: poem_line
+  text: ಕಾಣಲಿಲ್ಲ ಯಾವುದೆ ಜೀವ
+  section: poem
+  stanza: 5
+- id: poem-s6l1
+  type: poem_line
+  text: ಪುಟ್ಟಿಯು ಕಂಡಳು ಮಂಗಳನಲ್ಲಿ
+  section: poem
+  stanza: 6
+- id: poem-s6l2
+  type: poem_line
+  text: ‘ಯೋಗಿ’ ಹೆಸರಿನ ಹೆಬ್ಬಂಡೆ
+  section: poem
+  stanza: 6
+- id: poem-s6l3
+  type: poem_line
+  text: ಒಡನೆ ಕೇಳಿದಳು ಕೆಂಪು ಬಂಡೆಯನು
+  section: poem
+  stanza: 6
+- id: poem-s6l4
+  type: poem_line
+  text: ‘ನೀನು ಹೇಗೆ ಇಲ್ಲಿಗೆ ಬಂದೆ?’
+  section: poem
+  stanza: 6
+- id: poem-s7l1
+  type: poem_line
+  text: ಬಂಡೆಯು ಕಣ್ಣೀರನು ಸುರಿಸುತ್ತಾ
+  section: poem
+  stanza: 7
+- id: poem-s7l2
+  type: poem_line
+  text: ಹೇಳಿತು ಪುಟ್ಟಿಗೆ ನೋವಿನಲಿ
+  section: poem
+  stanza: 7
+- id: poem-s7l3
+  type: poem_line
+  text: ‘ಪುಟ್ಟಿಯೇ, ನಮ್ಮೀ ಮಂಗಳ ಗ್ರಹದ
+  section: poem
+  stanza: 7
+- id: poem-s7l4
+  type: poem_line
+  text: ದುರಂತ ಕಥೆಯನು ಕೇಳಿ ತಿಳಿ’
+  section: poem
+  stanza: 7
+- id: poem-s8l1
+  type: poem_line
+  text: ಹಿಂದೊಂದು ಕಾಲದಿ ಈ ಗ್ರಹದಲ್ಲಿ
+  section: poem
+  stanza: 8
+- id: poem-s8l2
+  type: poem_line
+  text: ಇತ್ತು ಜೀವಜಲ ಹಸಿರು ಮರ
+  section: poem
+  stanza: 8
+- id: poem-s8l3
+  type: poem_line
+  text: ಆಗಿನ ಜನತೆಯು ನಾಡನು ಕಟ್ಟಲು
+  section: poem
+  stanza: 8
+- id: poem-s8l4
+  type: poem_line
+  text: ಮರಗಳ ಕಡಿಯೆ ಬಂತು ಬರ
+  section: poem
+  stanza: 8
+- id: poem-s9l1
+  type: poem_line
+  text: ಮಳೆ ಬೆಳೆ ಕಾಣದೆ ಜೀವಿಯು ಅಳಿದು
+  section: poem
+  stanza: 9
+- id: poem-s9l2
+  type: poem_line
+  text: ಬಂದಿತು ನಮಗೆ ಇಂಥ ಸ್ಥಿತಿ
+  section: poem
+  stanza: 9
+- id: poem-s9l3
+  type: poem_line
+  text: ‘ನಿಮ್ಮ ಭೂಮಿಯಲಿ ಗಿಡಮರ ಅಳಿದರೆ
+  section: poem
+  stanza: 9
+- id: poem-s9l4
+  type: poem_line
+  text: ಮುಂದೆ ಒಂದು ದಿನ ಇದೇ ಗತಿ’
+  section: poem
+  stanza: 9
+- id: poem-s10l1
+  type: poem_line
+  text: ಬಣಬಣಗುಟ್ಟುವ ಬಯಲನು ಕಂಡು
+  section: poem
+  stanza: 10
+- id: poem-s10l2
+  type: poem_line
+  text: ಢವಢವಗುಟ್ಟಿತು ಎಳೆ ಹೃದಯ
+  section: poem
+  stanza: 10
+- id: poem-s10l3
+  type: poem_line
+  text: ಹಸಿರನು ಅಳಿಸದೆ ಗಿಡಮರ ಬೆಳೆಸಿ
+  section: poem
+  stanza: 10
+- id: poem-s10l4
+  type: poem_line
+  text: ಉಳಿಸುವೆವೆಂದಳು ಈ ಧರೆಯ
+  section: poem
+  stanza: 10
+- id: poem-s11l1
+  type: poem_line
+  text: ಭೂಮಿಗೆ ಬಂದು ಜನತೆಯ ಕಂಡು
+  section: poem
+  stanza: 11
+- id: poem-s11l2
+  type: poem_line
+  text: ಹಸಿರನು ಉಳಿಸಲು ಬೇಡಿದಳು
+  section: poem
+  stanza: 11
+- id: poem-s11l3
+  type: poem_line
+  text: ತಾನು ಕೂಡ ಎಳೆ ಸಸಿಗಳ ನೆಟ್ಟು
+  section: poem
+  stanza: 11
+- id: poem-s11l4
+  type: poem_line
+  text: ಬೆಳೆಸುತ ಕುಣಿ ಕುಣಿದಾಡಿದಳು.
+  section: poem
+  stanza: 11
+- id: author-1
+  type: prose
+  text: ಸಿ.ಎಂ. ಗೋವಿಂದರೆಡ್ಡಿ ಅವರು 11-08-1958ರಲ್ಲಿ ಕೋಲಾರ ಜಿಲ್ಲೆಯ ಮಾಲೂರು ತಾಲೂಕಿನ ಚೆನ್ನಿಗರಾಯಪುರ ಎಂಬ ಊರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ರಚನೆಯಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ ಹೊಂದಿದ ಇವರು ‘ಬಣ್ಣದ ಚಿಟ್ಟೆ’, ‘ಮಕ್ಕಳ ಮಂದಾರ’, ‘ಪದ್ಯ ಹೇಳುವ ಮರ’ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಪದ್ಯವನ್ನು ‘ಮಕ್ಕಳ ಮಂದಾರ’ ಎಂಬ ಕೃತಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಲಾಗಿದೆ.
+  section: author
+- id: vocab-agasa
+  type: vocabulary_term
+  text: ಆಗಸ
+  section: vocab
+- id: vocab-agasa-def
+  type: vocabulary_definition
+  text: ಆಕಾಶ, ಗಗನ
+  section: vocab
+- id: vocab-ishta
+  type: vocabulary_term
+  text: ಇಷ್ಟ
+  section: vocab
+- id: vocab-ishta-def
+  type: vocabulary_definition
+  text: ಇಚ್ಛೆ, ಮೆಚ್ಚುಗೆ
+  section: vocab
+- id: vocab-rekke
+  type: vocabulary_term
+  text: ರೆಕ್ಕೆ
+  section: vocab
+- id: vocab-rekke-def
+  type: vocabulary_definition
+  text: ಹಕ್ಕಿಗಳ ಪುಕ್ಕ, ಗರಿ
+  section: vocab
+- id: vocab-odalu
+  type: vocabulary_term
+  text: ಒಡಲು
+  section: vocab
+- id: vocab-odalu-def
+  type: vocabulary_definition
+  text: ಶರೀರ, ಹೊಟ್ಟೆ
+  section: vocab
+- id: vocab-sagu
+  type: vocabulary_term
+  text: ಸಾಗು
+  section: vocab
+- id: vocab-sagu-def
+  type: vocabulary_definition
+  text: ಚಲಿಸು, ಮುಂದೆ ಹೋಗು
+  section: vocab
+- id: vocab-madilu
+  type: vocabulary_term
+  text: ಮಡಿಲು
+  section: vocab
+- id: vocab-madilu-def
+  type: vocabulary_definition
+  text: ಉಡಿ
+  section: vocab
+- id: vocab-dhare
+  type: vocabulary_term
+  text: ಧರೆ
+  section: vocab
+- id: vocab-dhare-def
+  type: vocabulary_definition
+  text: ನೆಲ, ಭೂಮಿ
+  section: vocab
+- id: vocab-hebbande
+  type: vocabulary_term
+  text: ಹೆಬ್ಬಂಡೆ
+  section: vocab
+- id: vocab-hebbande-def
+  type: vocabulary_definition
+  text: ದೊಡ್ಡದಾದ ಬಂಡೆ, ವಿಸ್ತಾರವಾದ ಕಲ್ಲು
+  section: vocab
+- id: vocab-bara
+  type: vocabulary_term
+  text: ಬರ
+  section: vocab
+- id: vocab-bara-def
+  type: vocabulary_definition
+  text: ಬರಗಾಲ, ಕ್ಷಾಮ
+  section: vocab
+- id: vocab-ali
+  type: vocabulary_term
+  text: ಅಳಿ
+  section: vocab
+- id: vocab-ali-def
+  type: vocabulary_definition
+  text: ಸಾಯು, ನಾಶಹೊಂದು
+  section: vocab
+- id: vocab-gati
+  type: vocabulary_term
+  text: ಗತಿ
+  section: vocab
+- id: vocab-gati-def
+  type: vocabulary_definition
+  text: ಸ್ಥಿತಿ, ದಾರಿ
+  section: vocab
+- id: vocab-bayalu
+  type: vocabulary_term
+  text: ಬಯಲು
+  section: vocab
+- id: vocab-bayalu-def
+  type: vocabulary_definition
+  text: ಅಂಗಳ, ಮೈದಾನ
+  section: vocab
+- id: vocab-ulisu
+  type: vocabulary_term
+  text: ಉಳಿಸು
+  section: vocab
+- id: vocab-ulisu-def
+  type: vocabulary_definition
+  text: ರಕ್ಷಿಸು, ಕಾಪಾಡು
+  section: vocab
+- id: vocab-nedu
+  type: vocabulary_term
+  text: ನೆಡು
+  section: vocab
+- id: vocab-nedu-def
+  type: vocabulary_definition
+  text: ನಾಟು
+  section: vocab
+- id: note-putti
+  type: note_term
+  text: ಪುಟ್ಟಿ
+  section: notes
+- id: note-putti-def
+  type: note_definition
+  text: ಮಕ್ಕಳನ್ನು ಕರೆಯುವ ಒಂದು ಆಪ್ತ ಸಂಬೋಧನೆ.
+  section: notes
+- id: note-mangalanangala
+  type: note_term
+  text: ಮಂಗಳನಂಗಳ
+  section: notes
+- id: note-mangalanangala-def
+  type: note_definition
+  text: ಮಂಗಳ ಗ್ರಹದ ಬಯಲು, ಮಂಗಳ ಗ್ರಹದ ವಿಸ್ತಾರ ಪ್ರದೇಶ.
+  section: notes
+- id: note-banabanaguttu
+  type: note_term
+  text: ಬಣಬಣಗುಟ್ಟು
+  section: notes
+- id: note-banabanaguttu-def
+  type: note_definition
+  text: ಖಾಲಿ ಖಾಲಿಯಾಗಿ ಕಾಣು, ನೀರವತೆಯಿಂದ ಕೂಡಿರು.
+  section: notes
+- id: note-yogi-bande
+  type: note_term
+  text: ಯೋಗಿ ಹೆಸರಿನ ಬಂಡೆ
+  section: notes
+- id: note-yogi-bande-def
+  type: note_definition
+  text: ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ ಎನ್ನಲಾದ ಒಂದು ದೊಡ್ಡ ಬಂಡೆ.
+  section: notes
+- id: note-duranta
+  type: note_term
+  text: ದುರಂತ
+  section: notes
+- id: note-duranta-def
+  type: note_definition
+  text: ದುಃಖದಲ್ಲಿ ಮುಗಿಯುವ, ಕಷ್ಟದಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ.
+  section: notes
+- id: note-dhavadhavaguttu
+  type: note_term
+  text: ಢವಢವಗುಟ್ಟು
+  section: notes
+- id: note-dhavadhavaguttu-def
+  type: note_definition
+  text: ಒಮ್ಮೆಲೆ ಭಯವಾಗು, ಹೃದಯ ಜೋರಾಗಿ ಹೊಡೆದುಕೊಳ್ಳು.
+  section: notes
+- id: ex-a-q1
+  type: fill_blank
+  text: ಒಂದಿನ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಪುಟ್ಟಿಗೆ _________ಬಂದಿತ್ತು.
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: fill_blank
+  text: ಹಾರುತ ತೇಲುತ ಮುಂದಕೆ ಸಾಗಿ ಚಂದ್ರನ _________ಸೇರಿದಳು.
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: fill_blank
+  text: ಪುಟ್ಟಿಯೇ, ನಮ್ಮೀ ಮಂಗಳಗ್ರಹದ ದುರಂತ ________ಕೇಳಿ ತಿಳಿ.
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: fill_blank
+  text: ಹಸಿರನು ಅಳಿಸದೆ ಗಿಡಮರ ಬೆಳೆಸಿ ಉಳಿಸುವೆವೆಂದಳು ಈ _______
+  section: exercise-A
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಪುಟ್ಟಿಗೆ ಯಾರ ಹಾಗೆ ಹಾರುವ ಮನಸ್ಸಿತ್ತು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಚಂದ್ರನ ಬಿಟ್ಟು ಮೇಲೆ ಹಾರಿದ ಪುಟ್ಟಿ ಎಲ್ಲಿಗೆ ಸೇರಿದಳು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಪುಟ್ಟಿ ಯೋಗಿಗೆ ಏನೆಂದು ಕೇಳಿದಳು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಬರ ಏಕೆ ಬಂದಿತು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q5
+  type: question
+  text: ಪುಟ್ಟಿ ಜನರಲ್ಲಿ ಏನನ್ನು ಉಳಿಸಲು ಬೇಡಿದಳು?
+  section: exercise-B
+  exercise: B
+- id: ex-c-q1
+  type: fill_blank
+  text: ಆಗಸದಲ್ಲಿ_________________ / _______________________ / _______________________ / _____________ಇದು ಕಷ್ಟ.
+  section: exercise-C
+  exercise: C
+- id: ex-c-q2
+  type: fill_blank
+  text: ಮಳೆಬೆಳೆ________________ / _______________________ / _______________________ / ______________ಇದೇ ಗತಿ.
+  section: exercise-C
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ಸಿ.ಎಂ.ಗೋವಿಂದರೆಡ್ಡಿಯವರ ಸ್ಥಳ, ಕಾಲ, ಕೃತಿಗಳ ವಿವರ ತಿಳಿಸಿರಿ.
+  section: exercise-D
+  exercise: D

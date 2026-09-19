@@ -1,0 +1,133 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  author_intro: 'About the author'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions in one sentence.'
+  exercise-B: 'B. Complete the following stanza parts and memorize them.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Qualitative adjective.'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'A. Answer the following questions.'
+  language-exercise-B: 'E. Recognition for reading'
+  language-exercise-C: 'U. Good sayings'
+
+intro-1: 'We must always protect the freedom we have received. We must always work for our country’s progress. We must guard the nation’s freedom with courage. Our attention must stay on achievement. We must always honour the martyrs who fought for the country—this is the aim of this poem.'
+
+poem-s1l1: 'May the lamp of freedom keep burning always'
+
+poem-s1l2: 'as the people ceaselessly pour the oil of labour'
+
+poem-s1l3: 'How can the dignity of our motherland diminish? || always ||'
+
+poem-s2l1: 'Did freedom come as easily as pulling a thorn from cloth?'
+
+poem-s2l2: 'Like snatching food from a tiger’s mouth—heroic strength'
+
+poem-s2l3: 'The people obtained it; let love of the land bind our lives || always ||'
+
+poem-s3l1: 'Gain did not come along with freedom'
+
+poem-s3l2: 'Absorbing each person’s sweat, the sprout has become a tree,'
+
+poem-s3l3: 'As it rises higher, the house has a firm foundation || always ||'
+
+poem-s4l1: 'As we go on, let attention keep falling toward achievement'
+
+poem-s4l2: 'Our salute to those who staked their very lives,'
+
+poem-s4l3: 'May flowers and fragrant davana rise each day on mother’s hair || always ||'
+
+author-intro-1: 'K. S. Nisar Ahmed: Poet Kokkarehosahalli Sheikh Haider Nisar Ahmed was born on 05-02-1936 in Devanahalli of Bengaluru Rural district. Father Sheikh Haider, mother Hameeda Begum. After graduating in geology he began service as a teacher at Bangalore University. He has written works such as Manasu Gandhibazaaru, Nenedavara Manadalli, Nityotsava and Sumurta. He has been honoured with the Pampa Award, Nadoja Award, and Central and State Sahitya Akademi awards.'
+
+vocab-arive: 'arive (cloth)'
+
+vocab-arive-def: 'cloth, garment'
+
+vocab-kasi: 'kasi (snatch)'
+
+vocab-kasi-def: 'snatch away, pull out'
+
+vocab-kundu: 'kundu (diminish)'
+
+vocab-kundu-def: 'shortage, decrease'
+
+vocab-ghanate: 'ghanate (dignity)'
+
+vocab-ghanate-def: 'honour, greatness'
+
+vocab-taila: 'taila (oil)'
+
+vocab-taila-def: 'oil'
+
+vocab-davana: 'davana'
+
+vocab-davana-def: 'a fragrant plant'
+
+vocab-paya: 'paya (foundation)'
+
+vocab-paya-def: 'foundation, base'
+
+vocab-mukti: 'mukti (freedom)'
+
+vocab-mukti-def: 'release, liberation'
+
+vocab-mudi: 'mudi (hair/head)'
+
+vocab-mudi-def: 'head, hair'
+
+vocab-mevu: 'mevu (fodder)'
+
+vocab-mevu-def: 'food, fodder'
+
+vocab-hanate: 'hanate (lamp)'
+
+vocab-hanate-def: 'earthen lamp'
+
+ex-a-q1: 'How should the dignity of our motherland not diminish?'
+
+ex-a-q2: 'What can those with heroic strength do?'
+
+ex-a-q3: 'How did the sprout come into being?'
+
+ex-a-q4: 'Toward what should our attention go?'
+
+ex-b-q1: 'Always ________________________________
+
+  ____________________________________
+
+  ________________________ dignity || always ||'
+
+ex-b-q2: 'As we go on ____________________________
+
+  ____________________________________
+
+  ________________________ davana || always ||'
+
+grammar-a-p1: 'A word that tells or indicates a special quality of a noun is a “qualitative adjective”. Example: Ritesh has a black rabbit. Here “black” tells the colour of the rabbit.'
+
+grammar-a-p2: '1. Kanchana is a beautiful girl.'
+
+grammar-a-p3: '2. Darshini is wearing a red skirt.'
+
+grammar-a-p4: '3. Raghu has a big aeroplane.'
+
+grammar-a-p5: 'Notice the underlined words “beautiful”, “red”, and “big”. They are adjectives that tell colour, quality, manner, or nature. They are called “qualitative adjectives”.'
+
+lang-ex-a-q1: 'A) What is a qualitative adjective? Explain with an example.'
+
+lang-ex-a-q2: 'B) In the given sentences, identify the qualitative adjective and underline it. 1. The lorry can carry a lot of luggage. 2. There are rooms for special guests at the airport. 3. The airport is very beautiful. 4. The ship is very big. 5. Priya’s skirt is bright green.'
+
+lang-ex-b-q1: '1. Learn more details about K. S. Nisar Ahmed.'
+
+lang-ex-b-q2: '2. Collect and sing K. S. Nisar Ahmed’s poem “Nityotsava”.'
+
+lang-ex-c-q1: '1. Work for the country; die for the country.'
+
+lang-ex-c-q2: '2. There is strength in unity.'

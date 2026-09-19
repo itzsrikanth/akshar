@@ -1,0 +1,283 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 6
+  slug: ch06-besige-rajeyali
+  title: ಬೇಸಿಗೆ ರಜೆಯಲಿ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ವಿದ್ಯಾಸಾಗರ ಕುಕ್ಕುಂದಾ
+labels:
+  title: ಬೇಸಿಗೆ ರಜೆಯಲಿ
+  intro: 'ಪಾಠ - ೬ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ'
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+  exercise-D: ಅಭ್ಯಾಸ ಈ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಅ) ಚಿತ್ರಕ್ಕೆ (ಕೇಸರಿ ಮತ್ತು ಹಸಿರು) ಬಣ್ಣ ಹಾಕಲು ಹೇಳಿ.
+- id: intro-kesari
+  type: vocabulary_term
+  section: intro
+  text: ಕೇಸರಿ
+- id: intro-hasiru
+  type: vocabulary_term
+  section: intro
+  text: ಹಸಿರು
+- id: intro-2
+  type: prose
+  section: intro
+  text: ಆ) ಮಕ್ಕಳಿಗೆ ಇಷ್ಟವಾದ ಬಣ್ಣದಿಂದ ಚಿತ್ರ ತುಂಬಿಸಲು ಹೇಳಿ.
+- id: poem-intro
+  type: prose
+  section: poem
+  text: (ಪದ್ಯವನ್ನು ಹಾಡಿ, ಮಕ್ಕಳಿಂದ ಹಾಡಿಸಿ)
+- id: poem-s1l1
+  type: poem_line
+  stanza: 1
+  text: ಬೇಸಿಗೆ ರಜೆಯಲಿ
+- id: poem-s1l2
+  type: poem_line
+  stanza: 1
+  text: ಅಪ್ಪನ ಜೊತೆ ನಾ
+- id: poem-s1l3
+  type: poem_line
+  stanza: 1
+  text: ಹಳ್ಳಿಗೆ ಹೋಗುವೆನು
+- id: poem-s2l1
+  type: poem_line
+  stanza: 2
+  text: ಬೆವರನು ಸುರಿಸುವ
+- id: poem-s2l2
+  type: poem_line
+  stanza: 2
+  text: ರೈತರ ಜೊತೆಯಲಿ
+- id: poem-s2l3
+  type: poem_line
+  stanza: 2
+  text: ನಾನೂ ದುಡಿಯುವೆನು
+- id: poem-s3l1
+  type: poem_line
+  stanza: 3
+  text: ಮುಗಿಲನೆ ಮುಟ್ಟುವ
+- id: poem-s3l2
+  type: poem_line
+  stanza: 3
+  text: ಎತ್ತರ ದನಿಯಲಿ
+- id: poem-s3l3
+  type: poem_line
+  stanza: 3
+  text: ಹಾಡನು ಹೇಳುವೆನು
+- id: poem-s4l1
+  type: poem_line
+  stanza: 4
+  text: ಜಗದಲಿ ನಡೆದಿಹ
+- id: poem-s4l2
+  type: poem_line
+  stanza: 4
+  text: ಕೌತುಕ ವಿಷಯವ
+- id: poem-s4l3
+  type: poem_line
+  stanza: 4
+  text: ಅವರಿಗೆ ತಿಳಿಸುವೆನು
+- id: poem-s5l1
+  type: poem_line
+  stanza: 5
+  text: ತೋಟದಿ ಬೆಳೆದಿಹ
+- id: poem-s5l2
+  type: poem_line
+  stanza: 5
+  text: ಬಗೆ ಬಗೆ ಹಣ್ಣಿನ
+- id: poem-s5l3
+  type: poem_line
+  stanza: 5
+  text: ಸವಿಯನು ಸವಿಯುವೆನು
+- id: poem-s6l1
+  type: poem_line
+  stanza: 6
+  text: ಹಚ್ಚನೆ ಹಸುರಿನ
+- id: poem-s6l2
+  type: poem_line
+  stanza: 6
+  text: ಸುಂದರ ಸೃಷ್ಟಿಯ
+- id: poem-s6l3
+  type: poem_line
+  stanza: 6
+  text: 'ಸೊಬಗನು ಕಾಣುವೆನು!'
+- id: vocab-besige
+  type: vocabulary_term
+  text: ಬೇಸಿಗೆ
+- id: vocab-raje
+  type: vocabulary_term
+  text: ರಜೆ
+- id: vocab-halli
+  type: vocabulary_term
+  text: ಹಳ್ಳಿ
+- id: vocab-bevaru
+  type: vocabulary_term
+  text: ಬೆವರು
+- id: vocab-raita
+  type: vocabulary_term
+  text: ರೈತ
+- id: vocab-dudi
+  type: vocabulary_term
+  text: ದುಡಿ
+- id: vocab-mugilu
+  type: vocabulary_term
+  text: ಮುಗಿಲು
+- id: vocab-ettara
+  type: vocabulary_term
+  text: ಎತ್ತರ
+- id: vocab-dani
+  type: vocabulary_term
+  text: ದನಿ
+- id: vocab-haadu
+  type: vocabulary_term
+  text: ಹಾಡು
+- id: vocab-jaga
+  type: vocabulary_term
+  text: ಜಗ
+- id: vocab-kautuka
+  type: vocabulary_term
+  text: ಕೌತುಕ
+- id: vocab-vishaya
+  type: vocabulary_term
+  text: ವಿಷಯ
+- id: vocab-tota
+  type: vocabulary_term
+  text: ತೋಟ
+- id: vocab-hannu
+  type: vocabulary_term
+  text: ಹಣ್ಣು
+- id: vocab-savi
+  type: vocabulary_term
+  text: ಸವಿ
+- id: vocab-hacchane
+  type: vocabulary_term
+  text: ಹಚ್ಚನೆ
+- id: vocab-sundara
+  type: vocabulary_term
+  text: ಸುಂದರ
+- id: vocab-srishti
+  type: vocabulary_term
+  text: ಸೃಷ್ಟಿ
+- id: vocab-sobagu
+  type: vocabulary_term
+  text: ಸೊಬಗು
+- id: note-raita
+  type: note_term
+  text: ರೈತ
+- id: note-raita-def
+  type: note_definition
+  ref: note-raita
+  text: ಕೃಷಿಕ
+- id: note-mugilu
+  type: note_term
+  text: ಮುಗಿಲು
+- id: note-mugilu-def
+  type: note_definition
+  ref: note-mugilu
+  text: ಆಕಾಶ
+- id: note-savi
+  type: note_term
+  text: ಸವಿ
+- id: note-savi-def
+  type: note_definition
+  ref: note-savi
+  text: ರುಚಿ
+- id: note-sobagu
+  type: note_term
+  text: ಸೊಬಗು
+- id: note-sobagu-def
+  type: note_definition
+  ref: note-sobagu
+  text: ಚಂದ
+- id: ex-a-intro
+  type: prose
+  exercise: A
+  text: ಅ) ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-a-q1
+  type: fill_blank
+  exercise: A
+  text: 1. ಅಪ್ಪನ ಜೊತೆ ನಾ _____ ಹೋಗುವೆನು.
+- id: ex-a-q2
+  type: fill_blank
+  exercise: A
+  text: 2. ಎತ್ತರ ದನಿಯಲಿ _____ ಹೇಳುವೆನು.
+- id: ex-a-q3
+  type: fill_blank
+  exercise: A
+  text: 3. ಬಗೆ ಬಗೆ ಹಣ್ಣಿನ _____ ಸವಿಯುವೆನು.
+- id: ex-a-q4
+  type: fill_blank
+  exercise: A
+  text: 4. ಸುಂದರ ಸೃಷ್ಟಿಯ _____ ಕಾಣುವೆನು.
+- id: ex-b-intro
+  type: prose
+  exercise: B
+  text: ಆ) ಮಕ್ಕಳಿಗೆ ಪ್ರಶ್ನೆ ಕೇಳಿ, ಉತ್ತರ ಹೇಳಿಸಿ.
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: 1. ಕವಿಯು ಯಾರ ಜೊತೆ ದುಡಿಯುವನು?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: 2. ಕೌತುಕ ವಿಷಯ ಎಲ್ಲಿ ನಡೆದಿದೆ?
+- id: ex-b-q3
+  type: question
+  exercise: B
+  text: 3. ಹಳ್ಳಿಗೆ ಯಾವಾಗ ಹೋಗಬೇಕು?
+- id: ex-c-intro
+  type: prose
+  exercise: C
+  text: ಇ) ‘ಅ’, ‘ಆ’ ಮತ್ತು ‘ಇ’ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಶಬ್ದಗಳನ್ನು ಜೋಡಿಸಿ ಕವಿತೆಯ ಸಾಲುಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.
+- id: ex-c-col-a
+  type: prose
+  exercise: C
+  text: 'ಅ: ಬೇಸಿಗೆ ರಜೆಯಲಿ / ತೋಟದಿ ಬೆಳೆದಿಹ / ಜಗದಲಿ ನಡೆದಿಹ / ಮುಗಿಲನೆ ಮುಟ್ಟುವ'
+- id: ex-c-col-aa
+  type: prose
+  exercise: C
+  text: 'ಆ: ಕೌತುಕ ವಿಷಯವ / ಎತ್ತರ ದನಿಯಲಿ / ಅಪ್ಪನ ಜೊತೆ ನಾ / ಬಗೆ ಬಗೆ ಹಣ್ಣಿನ'
+- id: ex-c-col-i
+  type: prose
+  exercise: C
+  text: 'ಇ: ಹಾಡನು ಹೇಳುವೆನು. / ಅವರಿಗೆ ತಿಳಿಸುವೆನು. / ಸವಿಯನು ಸವಿಯುವೆನು. / ಹಳ್ಳಿಗೆ ಹೋಗುವೆನು.'
+- id: ex-d-intro
+  type: prose
+  exercise: D
+  text: ಈ) ಕೆಳಗಿನ ಸಾಲುಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ಹೇಳಿ, ಅವರಿಂದ ಹೇಳಿಸಿ.
+- id: ex-d-q1
+  type: prose
+  exercise: D
+  text: 1. ಬೇಸಿಗೆ ರಜೆಯಲ್ಲಿ ಹಳ್ಳಿಗೆ ಹೋಗಬೇಕು.
+- id: ex-d-q2
+  type: prose
+  exercise: D
+  text: 2. ರೈತನು ಬೆವರು ಸುರಿಸಿ ದುಡಿವನು.
+- id: ex-d-q3
+  type: prose
+  exercise: D
+  text: 3. ಜಗದಲಿ ಕೌತುಕ ವಿಷಯಗಳು ನಡೆದಿವೆ.
+- id: ex-d-q4
+  type: prose
+  exercise: D
+  text: 4. ತೋಟದಲ್ಲಿ ಬಗೆ ಬಗೆ ಹಣ್ಣುಗಳಿವೆ.
+- id: ex-d-q5
+  type: prose
+  exercise: D
+  text: 5. ಸೃಷ್ಟಿಯು ಹಚ್ಚನೆ ಹಸುರಾಗಿದೆ.
+- id: ex-d-q6
+  type: prose
+  exercise: D
+  text: 6. ಹಾಡನು ಎತ್ತರದ ದನಿಯಲಿ ಹಾಡಬೇಕು.

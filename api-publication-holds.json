@@ -65,6 +65,10 @@
       "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
     },
     {
+      "path": "content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch08-nanna-devaru",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
       "path": "content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch01-ottige-baluva-ananda",
       "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
     },
@@ -106,6 +110,70 @@
     },
     {
       "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch01-doddavara-daari",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch02-gandharvasena",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch03-krishna-sudhama",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch04-dr-rajkumar",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch05-besige",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch06-mangala-grahadalli-putti",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch07-ni-hoda-marudina",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch08-magu-mattu-hannugalu",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch09-natyakala-durandhara-mahammad-peer",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch10-avva",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch02-sahakara",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch03-ootada-aata",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch04-hoodota",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch05-rekhabhyasa-pathagalu",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch06-besige-rajeyali",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch07-koti-mattu-alilu",
+      "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch08-pada-odu-akshara-kali",
       "reason": "Editorial YAML under the same Git-only edition exception as Grade 4. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant."
     }
   ]

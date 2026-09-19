@@ -1,0 +1,119 @@
+meta:
+  source: source.kn.yaml
+  script: devanagari
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: पद ओदु - अक्षर कलि
+  learned: कलित अक्षरगळु
+  alphabet: वर्णमालॆ
+  word-practice: पदगळ अभ्यास
+  akshara-1: अक्षराभ्यास-1
+  akshara-2: अक्षराभ्यास-2
+  akshara-3: अक्षराभ्यास-3
+  akshara-4: अक्षराभ्यास-4
+  akshara-5: अक्षराभ्यास-5
+  akshara-6: अक्षराभ्यास-6
+  akshara-7: अक्षराभ्यास-7
+  akshara-8: अक्षराभ्यास-8
+  akshara-9: अक्षराभ्यास-9
+  akshara-10: अक्षराभ्यास-10
+intro-1: ओदिसि-बरॆयिसि
+intro-2: अक्षर पाठ
+intro-3: पद ओदु - अक्षर कलि
+akshara-1-title: अक्षराभ्यास-1
+akshara-1-letters: र ग स द अ
+akshara-1-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-1-w1: रस
+akshara-1-w2: गरगस
+akshara-1-w3: सर
+akshara-1-w4: दसर
+akshara-1-w5: अर
+akshara-1-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-2-title: अक्षराभ्यास-2
+akshara-2-letters: ज व म ब न
+akshara-2-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-2-w1: जन
+akshara-2-w2: वन
+akshara-2-w3: मर
+akshara-2-w4: बसव
+akshara-2-w5: नगर
+akshara-2-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-3-title: अक्षराभ्यास-3
+akshara-3-letters: प य उ ड ट च
+akshara-3-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-3-w1: पट
+akshara-3-w2: यम
+akshara-3-w3: उड
+akshara-3-w4: डमडम
+akshara-3-w5: टपटप
+akshara-3-w6: चमच
+akshara-3-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-4-title: अक्षराभ्यास-4
+akshara-4-letters: ल ई ऊ क
+akshara-4-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-4-w1: ईचल
+akshara-4-w2: ऊट
+akshara-4-w3: कडग
+akshara-4-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-5-title: अक्षराभ्यास-5
+akshara-5-letters: ऎ ए इ आ त ळ
+akshara-5-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-5-w1: ऎरक
+akshara-5-w2: एत
+akshara-5-w3: इन
+akshara-5-w4: आल
+akshara-5-w5: तबल
+akshara-5-w6: नळ
+akshara-5-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-6-title: अक्षराभ्यास-6
+akshara-6-letters: ओ औ ह श ष
+akshara-6-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-6-w1: ओट
+akshara-6-w2: औडल
+akshara-6-w3: हय
+akshara-6-w4: शर
+akshara-6-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-7-title: अक्षराभ्यास-7
+akshara-7-letters: ऐ ऋ ण छ ऒ
+akshara-7-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-7-w1: ऐदळ
+akshara-7-w2: कण
+akshara-7-w3: ऒणमर
+akshara-7-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-8-title: अक्षराभ्यास-8
+akshara-8-letters: ध थ ढ भ
+akshara-8-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-8-w1: धन
+akshara-8-w2: रथ
+akshara-8-w3: ढणढण
+akshara-8-w4: भट
+akshara-8-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-9-title: अक्षराभ्यास-9
+akshara-9-letters: घ ठ फ झ ख
+akshara-9-intro: अ) चित्र तोरिसि पद हेळिसि.
+akshara-9-w1: घट
+akshara-9-w2: जठर
+akshara-9-w3: फल
+akshara-9-w4: झणझण
+akshara-9-w5: खग
+akshara-9-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+akshara-10-title: अक्षराभ्यास-10
+akshara-10-letters: अं अः ङ ञ
+akshara-10-intro: अ) अक्षर तोरिसि हेळिसि.
+akshara-10-w1: अंक
+akshara-10-w2: अंग
+akshara-10-w3: अंड
+akshara-10-w4: अंद
+akshara-10-w5: अंत
+akshara-10-w6: अंचल
+akshara-10-w7: अंगळ
+akshara-10-w8: अंजन
+akshara-10-copy: आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.
+learned-title: कलित अक्षरगळु
+learned-list: र ग स द अ · ज व म ब न · प य उ ड ट च · ल ई ऊ क · ऎ ए इ आ त ळ · ओ औ ह श ष · ऐ ऋ ण छ ऒ · ध थ ढ भ · घ ठ फ झ ख · अं अः ङ ञ
+word-practice-title: पदगळ अभ्यास
+word-practice-intro: मक्कळिंद ओदिसि, नकलु माडिसि
+alphabet-title: वर्णमालॆ
+alphabet-vowels: अ आ इ ई उ ऊ ऋ ऎ ए ऐ ऒ ओ औ अं अः
+alphabet-consonants: क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह ळ

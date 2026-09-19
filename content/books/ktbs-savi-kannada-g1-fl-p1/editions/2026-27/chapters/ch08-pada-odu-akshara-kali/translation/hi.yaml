@@ -1,0 +1,120 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: शब्द पढ़ो - अक्षर सीखो
+  learned: सीखे हुए अक्षर
+  alphabet: वर्णमाला
+  word-practice: शब्द अभ्यास
+  akshara-1: अक्षराभ्यास-1
+  akshara-2: अक्षराभ्यास-2
+  akshara-3: अक्षराभ्यास-3
+  akshara-4: अक्षराभ्यास-4
+  akshara-5: अक्षराभ्यास-5
+  akshara-6: अक्षराभ्यास-6
+  akshara-7: अक्षराभ्यास-7
+  akshara-8: अक्षराभ्यास-8
+  akshara-9: अक्षराभ्यास-9
+  akshara-10: अक्षराभ्यास-10
+intro-1: पढ़वाएँ-लिखवाएँ
+intro-2: अक्षर पाठ
+intro-3: शब्द पढ़ो - अक्षर सीखो
+akshara-1-title: अक्षराभ्यास-1
+akshara-1-letters: ರ ಗ ಸ ದ ಅ
+akshara-1-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-1-w1: ರಸ
+akshara-1-w2: ಗರಗಸ
+akshara-1-w3: ಸರ
+akshara-1-w4: ದಸರ
+akshara-1-w5: ಅರ
+akshara-1-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-2-title: अक्षराभ्यास-2
+akshara-2-letters: ಜ ವ ಮ ಬ ನ
+akshara-2-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-2-w1: ಜನ
+akshara-2-w2: ವನ
+akshara-2-w3: ಮರ
+akshara-2-w4: ಬಸವ
+akshara-2-w5: ನಗರ
+akshara-2-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-3-title: अक्षराभ्यास-3
+akshara-3-letters: ಪ ಯ ಉ ಡ ಟ ಚ
+akshara-3-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-3-w1: ಪಟ
+akshara-3-w2: ಯಮ
+akshara-3-w3: ಉಡ
+akshara-3-w4: ಡಮಡಮ
+akshara-3-w5: ಟಪಟಪ
+akshara-3-w6: ಚಮಚ
+akshara-3-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-4-title: अक्षराभ्यास-4
+akshara-4-letters: ಲ ಈ ಊ ಕ
+akshara-4-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-4-w1: ಈಚಲ
+akshara-4-w2: ಊಟ
+akshara-4-w3: ಕಡಗ
+akshara-4-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-5-title: अक्षराभ्यास-5
+akshara-5-letters: ಎ ಏ ಇ ಆ ತ ಳ
+akshara-5-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-5-w1: ಎರಕ
+akshara-5-w2: ಏತ
+akshara-5-w3: ಇನ
+akshara-5-w4: ಆಲ
+akshara-5-w5: ತಬಲ
+akshara-5-w6: ನಳ
+akshara-5-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-6-title: अक्षराभ्यास-6
+akshara-6-letters: ಓ ಔ ಹ ಶ ಷ
+akshara-6-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-6-w1: ಓಟ
+akshara-6-w2: ಔಡಲ
+akshara-6-w3: ಹಯ
+akshara-6-w4: ಶರ
+akshara-6-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-7-title: अक्षराभ्यास-7
+akshara-7-letters: ಐ ಋ ಣ ಛ ಒ
+akshara-7-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-7-w1: ಐದಳ
+akshara-7-w2: ಕಣ
+akshara-7-w3: ಒಣಮರ
+akshara-7-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-8-title: अक्षराभ्यास-8
+akshara-8-letters: ಧ ಥ ಢ ಭ
+akshara-8-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-8-w1: ಧನ
+akshara-8-w2: ರಥ
+akshara-8-w3: ಢಣಢಣ
+akshara-8-w4: ಭಟ
+akshara-8-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-9-title: अक्षराभ्यास-9
+akshara-9-letters: ಘ ಠ ಫ ಝ ಖ
+akshara-9-intro: अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।
+akshara-9-w1: ಘಟ
+akshara-9-w2: ಜಠರ
+akshara-9-w3: ಫಲ
+akshara-9-w4: ಝಣಝಣ
+akshara-9-w5: ಖಗ
+akshara-9-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+akshara-10-title: अक्षराभ्यास-10
+akshara-10-letters: ಅಂ ಅಃ ಙ ಞ
+akshara-10-intro: अ) अक्षर दिखाकर बुलवाएँ।
+akshara-10-w1: ಅಂಕ
+akshara-10-w2: ಅಂಗ
+akshara-10-w3: ಅಂಡ
+akshara-10-w4: ಅಂದ
+akshara-10-w5: ಅಂತ
+akshara-10-w6: ಅಂಚಲ
+akshara-10-w7: ಅಂಗಳ
+akshara-10-w8: ಅಂಜನ
+akshara-10-copy: आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।
+learned-title: सीखे हुए अक्षर
+learned-list: ರ ಗ ಸ ದ ಅ · ಜ ವ ಮ ಬ ನ · ಪ ಯ ಉ ಡ ಟ ಚ · ಲ ಈ ಊ ಕ · ಎ ಏ ಇ ಆ ತ ಳ · ಓ ಔ ಹ ಶ ಷ · ಐ ಋ ಣ ಛ ಒ · ಧ ಥ ಢ ಭ · ಘ ಠ ಫ ಝ ಖ · ಅಂ ಅಃ ಙ ಞ
+word-practice-title: शब्द अभ्यास
+word-practice-intro: बच्चों से पढ़वाएँ, नकल करवाएँ
+alphabet-title: वर्णमाला
+alphabet-vowels: ಅ ಆ ಇ ಈ ಉ ಊ ಋ ಎ ಏ ಐ ಒ ಓ ಔ ಅಂ ಅಃ
+alphabet-consonants: ಕ ಖ ಗ ಘ ಙ ಚ ಛ ಜ ಝ ಞ ಟ ಠ ಡ ಢ ಣ ತ ಥ ದ ಧ ನ ಪ ಫ ಬ ಭ ಮ ಯ ರ ಲ ವ ಶ ಷ ಸ ಹ ಳ

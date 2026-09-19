@@ -1,0 +1,268 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 2
+  slug: ch02-sahakara
+  title: ಸಹಕಾರ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ಸಹಕಾರ
+  intro: 'ಪಾಠ - ೨ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ'
+  story: ಗದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: intro-koli
+  type: vocabulary_term
+  section: intro
+  text: ಕೋಳಿ
+- id: intro-parivala
+  type: vocabulary_term
+  section: intro
+  text: ಪಾರಿವಾಳ
+- id: intro-gubbacchi
+  type: vocabulary_term
+  section: intro
+  text: ಗುಬ್ಬಚ್ಚಿ
+- id: intro-tota
+  type: vocabulary_term
+  section: intro
+  text: ತೋಟ
+- id: intro-ragitene
+  type: vocabulary_term
+  section: intro
+  text: ರಾಗಿತೆನೆ
+- id: intro-gutuku
+  type: vocabulary_term
+  section: intro
+  text: ಗುಟುಕು
+- id: story-intro
+  type: prose
+  section: story
+  text: (ಪಾಠವನ್ನು ಓದಿ ಹೇಳಿ)
+- id: story-n1
+  type: prose
+  section: story
+  text: ಒಂದು ಊರು. ಆ ಊರಿನ ಹೆಸರು ಮಲ್ಲಿಗೆಹಳ್ಳಿ. ಆ ಹಳ್ಳಿಯಲ್ಲಿ ಒಂದು ತೋಟವಿತ್ತು. ಆ ತೋಟದಲ್ಲಿ ಒಂದು ಕೋಳಿ ತನ್ನ ಮರಿಗಳ ಜೊತೆಯಲ್ಲಿ ವಾಸವಾಗಿತ್ತು. ಅದೇ ತೋಟದಲ್ಲಿ ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಪಾರಿವಾಳಗಳೂ ವಾಸವಾಗಿದ್ದವು.
+- id: story-n2
+  type: prose
+  section: story
+  text: ಒಂದು ದಿನ ಕೋಳಿಗೆ ರಾಗಿಯ ಕಾಳುಗಳು ಸಿಕ್ಕವು. ರಾಗಿಯನ್ನು ಹೊಲದಲ್ಲಿ ಬಿತ್ತಿದರೆ ತುಂಬಾ ರಾಗಿ ಸಿಗುತ್ತದೆ ಎಂದು ಕೋಳಿಗೆ ಅನಿಸಿತು.
+- id: story-n3
+  type: prose
+  section: story
+  text: ಕೋಳಿ ರಾಗಿಯನ್ನು ಬಿತ್ತಲು ಗುಬ್ಬಚ್ಚಿಯ ಸಹಾಯ ಕೇಳಿತು. ಗುಬ್ಬಚ್ಚಿ “ನನ್ನಿಂದ ಆಗದು” ಎಂದಿತು. ಕೋಳಿ ಪಾರಿವಾಳದ ಸಹಾಯವನ್ನು ಕೇಳಿತು. ಅದೂ “ನನ್ನಿಂದ ಆಗದು” ಎಂದಿತು. ಕೋಳಿ ತನ್ನ ಮರಿಗಳನ್ನು ಕೂಡಿಕೊಂಡು ರಾಗಿಯನ್ನು ಬಿತ್ತಿತು.
+- id: story-n4
+  type: prose
+  section: story
+  text: ಕೆಲವು ದಿನಗಳು ಕಳೆದವು. ರಾಗಿಯ ಪೈರುಗಳು ಬೆಳೆದು ದೊಡ್ಡದಾದವು. ರಾಗಿಯ ಪೈರಿನಲ್ಲಿ ತೆನೆಗಳು ಬಿಟ್ಟವು. ಆ ತೆನೆಗಳನ್ನು ಕೊಯ್ಯುವ ದಿನ ಬಂದಿತು.
+- id: story-n5
+  type: prose
+  section: story
+  text: ಕೋಳಿ ರಾಗಿಯ ತೆನೆಗಳನ್ನು ಕೊಯ್ಯಲು ಗುಬ್ಬಚ್ಚಿಯ ಸಹಾಯ ಕೇಳಿತು. ಗುಬ್ಬಚ್ಚಿ “ನನ್ನಿಂದ ಆಗದು” ಎಂದಿತು. ಕೋಳಿ ಪಾರಿವಾಳದ ಸಹಾಯವನ್ನು ಕೇಳಿತು. ಅದೂ “ನನ್ನಿಂದ ಆಗದು” ಎಂದಿತು. ಕೋಳಿ ತನ್ನ ಮರಿಗಳನ್ನು ಕೂಡಿಕೊಂಡು ರಾಗಿಯ ತೆನೆಗಳನ್ನು ಕೊಯ್ದಿತು. ಕಾಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಇಟ್ಟಿತು.
+- id: story-n6
+  type: prose
+  section: story
+  text: 'ಒಂದು ದಿನ ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಪಾರಿವಾಳಗಳಿಗೆ ತುಂಬಾ ಹಸಿವಾಯಿತು. ಅವು ಕೋಳಿಯ ಬಳಿಬಂದು “ಅಕ್ಕಾ, ತಿನ್ನಲು ರಾಗಿ ಕೊಡು” ಎಂದು ಕೇಳಿದವು. ಕೋಳಿ “ನೀವು ಬಿತ್ತಲೂ ಬರಲಿಲ್ಲ, ಕೊಯ್ಯಲೂ ಬರಲಿಲ್ಲ. ನಿಮಗೆ ಏಕೆ ರಾಗಿ ಕೊಡಲಿ?” ಎಂದು ಕೇಳಿತು. ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಪಾರಿವಾಳಗಳಿಗೆ ತಮ್ಮ ತಪ್ಪು ತಿಳಿಯಿತು. ಅವು ನಾಚಿ ತಲೆತಗ್ಗಿಸಿ ನಿಂತವು. ಕೋಳಿಗೆ ‘ಅಯ್ಯೋ ಪಾಪ!’ ಅನಿಸಿತು. ರಾಗಿಯನ್ನು ಕೊಟ್ಟಿತು.'
+- id: vocab-ondu
+  type: vocabulary_term
+  text: ಒಂದು
+- id: vocab-ooru
+  type: vocabulary_term
+  text: ಊರು
+- id: vocab-hesaru
+  type: vocabulary_term
+  text: ಹೆಸರು
+- id: vocab-malligehalli
+  type: vocabulary_term
+  text: ಮಲ್ಲಿಗೆಹಳ್ಳಿ
+- id: vocab-koli
+  type: vocabulary_term
+  text: ಕೋಳಿ
+- id: vocab-mari
+  type: vocabulary_term
+  text: ಮರಿ
+- id: vocab-jote
+  type: vocabulary_term
+  text: ಜೊತೆ
+- id: vocab-vaasa
+  type: vocabulary_term
+  text: ವಾಸ
+- id: vocab-gubbacchi
+  type: vocabulary_term
+  text: ಗುಬ್ಬಚ್ಚಿ
+- id: vocab-parivala
+  type: vocabulary_term
+  text: ಪಾರಿವಾಳ
+- id: vocab-dina
+  type: vocabulary_term
+  text: ದಿನ
+- id: vocab-ragikaalu
+  type: vocabulary_term
+  text: ರಾಗಿಕಾಳು
+- id: vocab-nela
+  type: vocabulary_term
+  text: ನೆಲ
+- id: vocab-bittu
+  type: vocabulary_term
+  text: ಬಿತ್ತು
+- id: vocab-tumba
+  type: vocabulary_term
+  text: ತುಂಬಾ
+- id: vocab-sahaya
+  type: vocabulary_term
+  text: ಸಹಾಯ
+- id: vocab-koodi
+  type: vocabulary_term
+  text: ಕೂಡಿ
+- id: vocab-kelavu
+  type: vocabulary_term
+  text: ಕೆಲವು
+- id: vocab-doddadu
+  type: vocabulary_term
+  text: ದೊಡ್ಡದು
+- id: vocab-kelu
+  type: vocabulary_term
+  text: ಕೇಳು
+- id: vocab-bele
+  type: vocabulary_term
+  text: ಬೆಳೆ
+- id: vocab-tene
+  type: vocabulary_term
+  text: ತೆನೆ
+- id: vocab-koyyu
+  type: vocabulary_term
+  text: ಕೊಯ್ಯು
+- id: vocab-pairu
+  type: vocabulary_term
+  text: ಪೈರು
+- id: vocab-sangrahisu
+  type: vocabulary_term
+  text: ಸಂಗ್ರಹಿಸು
+- id: vocab-bali
+  type: vocabulary_term
+  text: ಬಳಿ
+- id: vocab-hasivu
+  type: vocabulary_term
+  text: ಹಸಿವು
+- id: vocab-naachu
+  type: vocabulary_term
+  text: ನಾಚು
+- id: vocab-taletagisu
+  type: vocabulary_term
+  text: ತಲೆತಗ್ಗಿಸು
+- id: vocab-tappu
+  type: vocabulary_term
+  text: ತಪ್ಪು
+- id: note-gubbacchi
+  type: note_term
+  text: ಗುಬ್ಬಚ್ಚಿ
+- id: note-gubbacchi-def
+  type: note_definition
+  ref: note-gubbacchi
+  text: ಗುಬ್ಬಿ, ಒಂದು ಜಾತಿಯ ಸಣ್ಣ ಪಕ್ಷಿ
+- id: note-sangrahisu
+  type: note_term
+  text: ಸಂಗ್ರಹಿಸು
+- id: note-sangrahisu-def
+  type: note_definition
+  ref: note-sangrahisu
+  text: ಒಟ್ಟುಗೂಡಿಸು
+- id: note-bittu
+  type: note_term
+  text: ಬಿತ್ತು
+- id: note-bittu-def
+  type: note_definition
+  ref: note-bittu
+  text: ಬೀಜ ಹಾಕು
+- id: note-pairu
+  type: note_term
+  text: ಪೈರು
+- id: note-pairu-def
+  type: note_definition
+  ref: note-pairu
+  text: ಧಾನ್ಯದ ಬೆಳೆ
+- id: ex-a-intro
+  type: prose
+  exercise: A
+  text: ಅ) ಪ್ರಶ್ನೆ ಕೇಳಿ, ಮಕ್ಕಳಿಂದ ಉತ್ತರ ಹೇಳಿಸಿ.
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: 1) ಹಳ್ಳಿಯ ಹೆಸರೇನು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: 2) ಕೋಳಿ ಎಲ್ಲಿ ವಾಸವಾಗಿತ್ತು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: 3) ಕೋಳಿ ಏನನ್ನು ಬಿತ್ತಲು ಗುಬ್ಬಚ್ಚಿಯ ಸಹಾಯ ಕೇಳಿತು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: 4) ರಾಗಿಯ ಪೈರಿನಲ್ಲಿ ಏನು ಬಿಟ್ಟಿತು?
+- id: ex-a-q5
+  type: question
+  exercise: A
+  text: 5) ಕೋಳಿ ಯಾರನ್ನು ಕೂಡಿಕೊಂಡು ರಾಗಿಯ ತೆನೆಗಳನ್ನು ಕೊಯ್ದಿತು?
+- id: ex-a-q6
+  type: question
+  exercise: A
+  text: 6) ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಪಾರಿವಾಳಗಳಿಗೆ ಏನು ತಿಳಿಯಿತು?
+- id: ex-a-q7
+  type: question
+  exercise: A
+  text: 7) ಕೋಳಿಗೆ ಏನು ಅನಿಸಿತು?
+- id: ex-b-intro
+  type: prose
+  exercise: B
+  text: ಆ) ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಪದಗಳನ್ನು ಹೇಳಿಸಿ.
+- id: ex-b-q1
+  type: fill_blank
+  exercise: B
+  text: 1) ಕೋಳಿ ರಾಗಿಯನ್ನು ಬಿತ್ತಲು ಗುಬ್ಬಚ್ಚಿಯ ___________ ಕೇಳಿತು.
+- id: ex-b-q2
+  type: fill_blank
+  exercise: B
+  text: 2) ಕೋಳಿ ತನ್ನ ಮರಿಗಳನ್ನು ಕೂಡಿಕೊಂಡು ___________ ಬಿತ್ತಿತು.
+- id: ex-b-q3
+  type: fill_blank
+  exercise: B
+  text: 3) ಒಂದು ದಿನ ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಪಾರಿವಾಳಗಳಿಗೆ ತುಂಬಾ ___________.
+- id: ex-b-q4
+  type: fill_blank
+  exercise: B
+  text: 4) ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಪಾರಿವಾಳಗಳಿಗೆ ತಮ್ಮ __________ ತಿಳಿಯಿತು.
+- id: ex-c-intro
+  type: prose
+  exercise: C
+  text: ಇ) ಮಕ್ಕಳಿಂದ ಚಿತ್ರಗಳಿಗೆ ಸೂಕ್ತವಾದ ಬಣ್ಣ ತುಂಬಿಸಿ.
+- id: ex-c-q1
+  type: vocabulary_term
+  exercise: C
+  text: ತಾವರೆ
+- id: ex-c-q2
+  type: vocabulary_term
+  exercise: C
+  text: ಬಾಳೆಹಣ್ಣು
+- id: ex-c-q3
+  type: vocabulary_term
+  exercise: C
+  text: ಕ್ಯಾರೆಟ್
+- id: ex-c-q4
+  type: vocabulary_term
+  exercise: C
+  text: ಕುಂಬಳ ಕಾಯಿ

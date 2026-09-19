@@ -10,8 +10,8 @@ provenance:
   sourceDocuments:
   - label: g02-fl-p1-2026-27.pdf
     sha256: 0aae1d58354d99950f522e27d2cb82c22c2f66e60900f427bedbc335da598e05
-  notes: Partial conversion checkpoint for Grade 2 FL Part 1. Chapters are held editorial
-    drafts; production API excluded until rights are verified.
+  notes: Grade 2 FL Part 1 chapters 1–8 converted as held editorial drafts; production
+    API excluded until rights are verified.
 chapters:
 - id: ch01-bannada-hakki
   number: 1
@@ -54,4 +54,10 @@ chapters:
   title: ಅರಿವೇ ಗುರು
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch07-arive-guru
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch07-arive-guru
+  held: true
+- id: ch08-nanna-devaru
+  number: 8
+  title: ನನ್ನ ದೇವರು
+  legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch08-nanna-devaru
+  formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch08-nanna-devaru
   held: true

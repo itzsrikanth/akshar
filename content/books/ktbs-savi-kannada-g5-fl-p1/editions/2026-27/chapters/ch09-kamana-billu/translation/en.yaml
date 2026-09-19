@@ -1,0 +1,58 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  author_intro: 'About the author'
+  exercise-A: 'A. Answer the following questions.'
+
+poem-s1l1: 'Look, the sun has set out toward the west'
+
+poem-s1l2: 'to reach his mother’s home'
+
+poem-s1l3: 'The flower-like glow of evening light'
+
+poem-s1l4: 'is a beautiful flood of joy for the eyes'
+
+poem-s2l1: 'At the edge of a white-screen cloud'
+
+poem-s2l2: 'at the time when drizzle falls'
+
+poem-s2l3: 'Fine raindrops are falling.'
+
+poem-s2l4: 'They have made the rainbow appear'
+
+poem-s3l1: 'Look at the rainbow'
+
+poem-s3l2: 'That bowed bow is in the sky'
+
+poem-s3l3: 'Orange, saffron, yellow, red'
+
+poem-s3l4: 'Blue, brown, cool green'
+
+poem-s4l1: 'It has touched both the earth and the sky'
+
+poem-s4l2: 'It has brought a festival to the eyes'
+
+poem-s4l3: 'The sun sank and darkness came'
+
+poem-s4l4: 'The cloud scattered and the rain stopped too'
+
+poem-s5l1: 'The rainbow ran into hiding'
+
+poem-s5l2: 'The magical bow became unseen'
+
+author-intro-1: 'Ningappa Hanumappa Kunti (Ninganna Kunti of Itagi) was born in 1943 in Itagi village of Shirahatti taluk, Gadag district. He has served Kannada as a primary school teacher and as a children’s writer. Working in children’s literature, he has composed many nursery rhymes. His poetry collection “Chandappana Shale” has been published. He has been honoured with several awards for writing children’s literature.'
+
+ex-a-q1: '1. In which direction did the sun set out?'
+
+ex-a-q2: '2. From where to where does the rainbow stretch?'
+
+ex-a-q3: '3. Name the colours in the rainbow.'
+
+ex-a-q4: '4. When did the rainbow disappear?'
+
+ex-a-q5: '5. When does the rainbow appear?'

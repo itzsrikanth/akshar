@@ -1,0 +1,91 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the poet
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Write two synonyms for each word.
+  exercise-C: C. Use these words in your own sentences.
+  exercise-D: D. Write the gist of the poem Besige in your own words.
+intro-1: We humans have much to learn from nature. Every object in nature is interrelated. Likewise, as the seasons change, the weather rises and falls. Once scorching sun, another time shivering cold, rain, wind—whatever happens, work never stops. Nature keeps its balance and always does its share of work.
+poem-s1l1: Summer holidays have come
+poem-s1l2: yet there is the sun’s punishment
+poem-s1l3: Come, let’s play,
+poem-s1l4: let’s sing of the sun’s glory.
+poem-s2l1: Why hotter than the sun?
+poem-s2l2: On whom is his anger?
+poem-s2l3: Don’t blame him so,
+poem-s2l4: don’t take the sun as at fault,
+poem-s2l5: To gather clouds, to bring rain to the earth
+poem-s2l6: he toils, poor thing!
+poem-s3l1: The sun, nourisher of the earth
+poem-s3l2: is indispensable to the earth
+poem-s3l3: He needs no praise,
+poem-s3l4: blame does not shrink him.
+poem-s3l5: He gives light, he sends heat
+poem-s3l6: never forgetting duty.
+poem-s4l1: In such fierce heat
+poem-s4l2: trees, plants, bushes, vines
+poem-s4l3: are not distressed,
+poem-s4l4: see—they all look splendid
+poem-s4l5: sprouting, flowering, fruit setting,
+poem-s4l6: they are in celebration.
+poem-s5l1: Let’s learn from the sun.
+poem-s5l2: Let’s rejoice like nature.
+poem-s5l3: Without fearing hardships,
+poem-s5l4: not forgetting our duty,
+poem-s5l5: living joyfully, sharing joy,
+poem-s5l6: let us earn contentment.
+author-1: B.R. Lakshman Rao was born on 09-09-1946 in Cheemangala village, Chikkaballapur district. Father B.R. Raja Rao, mother Venkatalakshmamma. A retired teacher, he continues to serve literature. The poem ‘Besige’ is taken from the lyric collection ‘Subbabhattara Magele’.
+vocab-saja: punishment
+vocab-saja-def: punishment
+vocab-mahime: glory
+vocab-mahime-def: greatness, importance
+vocab-ravi: sun
+vocab-ravi-def: sun, the sun
+vocab-tapa: heat
+vocab-tapa-def: heat, warmth
+vocab-hali: to blame
+vocab-hali-def: to censure, to condemn
+vocab-ile: earth
+vocab-ile-def: earth, ground
+vocab-poshaka: nourisher
+vocab-poshaka-def: protector, nurturer
+vocab-anivarya: indispensable
+vocab-anivarya-def: absolutely necessary
+vocab-hogalu: to praise
+vocab-hogalu-def: to praise, to describe
+vocab-tegalu: to blame
+vocab-tegalu-def: to scorn, to condemn
+vocab-midi: unripe fruit
+vocab-midi-def: unripe fruit, young fruit
+vocab-udu: to feed
+vocab-udu-def: to feed, to make eat
+vocab-kartavya: duty
+vocab-kartavya-def: work, responsibility
+vocab-biru: fierce
+vocab-biru-def: fierce, intense
+vocab-sambhrama: celebration
+vocab-sambhrama-def: enthusiasm, festivity
+vocab-dhanyate: contentment
+vocab-dhanyate-def: satisfaction
+ex-a-q1: Why is the sun working hard?
+ex-a-q2: Who is the nourisher of the earth?
+ex-a-q3: What duty does the sun never forget?
+ex-a-q4: What are not distressed by the fierce heat?
+ex-a-q5: What should children learn from the sun?
+ex-b-q1: sun
+ex-b-q2: earth
+ex-b-q3: nature
+ex-b-q4: celebration
+ex-c-q1: nourishers/parents
+ex-c-q2: duty
+ex-c-q3: celebration
+ex-c-q4: contentment
+ex-d-q1: Write the gist of the poem ‘Besige’ in your own words.

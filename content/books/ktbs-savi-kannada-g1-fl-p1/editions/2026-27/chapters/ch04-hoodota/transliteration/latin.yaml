@@ -1,0 +1,71 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: hūdoṭa
+  intro: 'pāṭha - 4 : pāṭhapūrva caṭuvaṭikè'
+  story: gadya
+  vocab: keḻida padagaḻu
+  notes: padagaḻa artha
+  exercise-A: abhyāsa a
+  exercise-B: abhyāsa ā
+  exercise-C: abhyāsa i
+  exercise-D: abhyāsa ī
+  exercise-E: abhyāsa u
+intro-1: a) ī citragaḻigè baṇṇa tuṃbalu tiḻisi.
+story-intro: (ī pāṭhadalliruva saṃbhāṣaṇèyannu odi heḻi, makkaḻiṃda heḻisi)
+story-d1: ajjī, nīvu dinālū saṃjè hūdoṭakkè baruttīri allavè?
+story-d2: haudu magu, hūdoṭakkè baralu nanagè tuṃbā iṣṭa.
+story-d3: ajji, illi halavāru maṃdi naḍèyuttāralla, ekè?
+story-d4: naḍèyuvudu dehakkè òḻḻèya vyāyāma. ī vyāyāma ārogyakkè agatya.
+story-d5: ajji, alli jokāli idè, nānu hogi svalpa hòttu jokāli āḍale?
+story-d6: āḍu magu. nānu svalpa naḍèdāḍi baruttenè.
+story-n1: (svalpa samayada baḻika)
+story-d7: jokāli āḍiddu āyitè magu?
+story-d8: āyitu ajji, nimma naḍèdāṭa āyite?
+story-d9: āyitu magu, īga manègè hogoṇave?
+story-d10: ajji, nānu dinālū nimma jòtè hūdoṭakkè baruvè.
+story-d11: nīnu tuṃbā jāṇè, makkaḻu cikkaṃdiniṃdale iṃtha òḻḻèya abhyāsagaḻannu bèḻèsikòḻḻuvudu òḻḻèyadu.
+vocab-ajji: ajji
+vocab-dinaalu: dinālū
+vocab-sanje: saṃjè
+vocab-neevu: nīvu
+vocab-hoodota: hūdoṭa
+vocab-haudu: haudu
+vocab-magu: magu
+vocab-halavaaru: halavāru
+vocab-mandi: maṃdi
+vocab-nade: naḍè
+vocab-deha: deha
+vocab-olleya: òḻḻèya
+vocab-vyaayama: vyāyāma
+vocab-aarogya: ārogya
+vocab-agatya: agatya
+vocab-jokaali: jokāli
+vocab-nadedaata: naḍèdāṭa
+vocab-abhyasa: abhyāsa
+vocab-jaane: jāṇè
+note-dinaalu: dinālū
+note-dinaalu-def: pratidina
+note-jokaali: jokāli
+note-jokaali-def: uyyālè, tūgumaṇè
+ex-a-intro: a) pāṭhada vākyagaḻannu kèḻagè nīḍidè. biṭṭiruva padavannu serisi makkaḻiṃda heḻisi.
+ex-a-q1: 1) hūdoṭakkè baralu nanagè ___________ iṣṭa.
+ex-a-q2: 2) nānu hogi svalpa hòttu ___________ āḍale?
+ex-a-q3: 3) nimma ___________ āyite?
+ex-a-q4: 4) nīnu tuṃbā ___________
+ex-b-intro: ā) makkaḻigè praśnè keḻi, uttara heḻisi.
+ex-b-q1: 1) ajji dinālu saṃjè èlligè hoguttiddaru?
+ex-b-q2: 2) dehakkè òḻḻèya vyāyāma yāvudu?
+ex-b-q3: 3) sumā yāva āṭa āḍidaḻu?
+ex-c-intro: i) yāru yārigè heḻidaru/keḻidaru èṃdu makkaḻannu keḻi, uttara paḍèyiri.
+ex-c-q1: 1) ajjī, nīvu dinālū saṃjè hūdoṭakkè baruttīri allavè? - èṃdu keḻidavaru yāru?
+ex-c-q2: 2) naḍèyuvudu dehakkè òḻḻèya vyāyāma. ī vyāyāma ārogyakkè agatya. - èṃdu heḻidavaru yāru?
+ex-c-q3: 3) makkaḻu cikkaṃdiniṃdalū iṃtha òḻḻèya abhyāsagaḻannu bèḻèsikòḻḻuvudu òḻḻèyadu. - èṃdu heḻidavaru yāru?
+ex-d-intro: ī) ī kèḻagina vākyagaḻannu odi heḻi, makkaḻiṃda heḻisi.
+ex-d-q1: 1) nānu dinālū snāna māḍuttenè.
+ex-d-q2: 2) namma ūrinalli halavāru manègaḻivè.
+ex-d-q3: 3) nanna gèḻati tuṃbā jāṇè.
+ex-e-intro: u) citragaḻalliruva hūgaḻannu hèsarisalu heḻi.

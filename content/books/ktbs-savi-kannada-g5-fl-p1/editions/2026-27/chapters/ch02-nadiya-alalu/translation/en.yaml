@@ -1,0 +1,216 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the given questions in one sentence each.'
+  exercise-B: 'B. Answer the given questions in two or three sentences.'
+  exercise-C: 'C. Who said it, to whom, and why?'
+  exercise-D: 'D. Match and write.'
+  exercise-E: 'U. Fill in the blanks.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Answer the following questions'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'B. Project'
+  language-exercise-B: 'C. Recognition for reading'
+  language-exercise-C: 'D. Good sayings'
+
+intro-1: 'Today we are not protecting water sources such as lakes, wells and rivers properly; we are polluting them. Because of this, danger faces our lives. Keeping the water sources around us clean is essential.'
+
+intro-2: '[School children have gathered in groups. Anxiety is on every face. They are eager to know the health of classmates admitted to hospital. The children are talking among themselves.]'
+
+story-d1: 'What a disaster happened! This should not have happened to our friends.'
+
+story-d2: 'What happened to them?'
+
+story-d3: 'Oh! Don’t you know? All who went swimming have been admitted to hospital.'
+
+story-d4: 'What happened to them that they were admitted to hospital?'
+
+story-d5: 'Yesterday was Sunday and school was off, wasn’t it? They all went to play in the morning. They played till noon and then, unable to bear the heat, bathed in the river beside the village.'
+
+story-d6: 'As a result thick blisters rose all over their bodies and terrible itching began. Unable to bear the pain they rolled on the bank. Some passers-by saw their groaning, lifted them and took them to hospital. Their health had become very bad.'
+
+story-n1: '(The children come to the hospital. The doctor comes out of the examination room.)'
+
+story-d7: 'Doctor, how are our friends?'
+
+story-d8: 'I cannot say anything yet, children! But there seems no cause for worry.'
+
+story-d9: 'What happened to them, Doctor?'
+
+story-d10: 'They have an infection from the river’s polluted water. As a result blisters have risen all over the body. Unable to bear the itch they have fainted.'
+
+story-d11: 'Then what is the reason the river water became dirty?'
+
+story-d12: 'Human selfishness itself is the reason for this.'
+
+story-d13: 'Doctor, shall we go to the river and come back?'
+
+story-d14: 'You may; go and come.'
+
+story-n2: '(All the children come near the river. They stand on the bank and look.)'
+
+story-d15: 'Ugh! What a smell! One cannot stand here.'
+
+story-d16: 'Yes, how polluted this river’s water is.'
+
+story-d17: '(weeping) Children, what you are saying is true.'
+
+story-d18: '(in surprise) Who is speaking?'
+
+story-d19: 'It is I, the river, speaking.'
+
+story-d20: 'Oh river, why are you crying? What has happened to you?'
+
+story-d21: 'To whom shall I tell my sorrow? Humans themselves are the cause of this wretched state of mine.'
+
+story-d22: 'What did humans do to you?'
+
+story-d23: 'Do you know how pure I once was? My water was clean as glass. Aquatic creatures lived fearlessly in my belly. Animals, birds and humans drank my water and lived happily. But now my water has become poison.'
+
+story-d24: 'What is the reason your water became poison?'
+
+story-d25: 'Chemical substances from factories, town sewage, rubbish and plastic all enter my belly. Because of this my water has become polluted and poisonous.'
+
+story-d26: 'Yes, so many animals and birds have died drinking your water. Our friends are in hospital only because they swam in your water.'
+
+story-d27: '(sadly) My wish is that no one should be troubled because of me. But humans are destroying me.'
+
+story-d28: 'River, do not cry. The responsibility of protecting you is ours. From now on we will not pollute you.'
+
+story-d29: '(happily) Children, hearing your words I am very happy. If you act as you said, my life will be meaningful.'
+
+story-d30: 'We will certainly protect you.'
+
+vocab-alal: 'alalu (lament)'
+
+vocab-alal-def: 'sorrow, distress'
+
+vocab-anahutha: 'anahuta (disaster)'
+
+vocab-anahutha-def: 'calamity, trouble'
+
+vocab-kalushita: 'kalushita (polluted)'
+
+vocab-kalushita-def: 'dirty, filthy'
+
+vocab-jalachara: 'jalachara (aquatic)'
+
+vocab-jalachara-def: 'creatures that live in water'
+
+vocab-tavaka: 'tavaka (eagerness)'
+
+vocab-tavaka-def: 'urgency, haste'
+
+vocab-dusthiti: 'dusthiti (wretched state)'
+
+vocab-dusthiti-def: 'bad condition'
+
+vocab-nirbhaya: 'nirbhaya (fearless)'
+
+vocab-nirbhaya-def: 'without fear'
+
+vocab-murche: 'murche (faint)'
+
+vocab-murche-def: 'loss of consciousness'
+
+vocab-rasayanika: 'rasayanika (chemical)'
+
+vocab-rasayanika-def: 'related to chemistry'
+
+vocab-sanchakara: 'sanchakara (danger)'
+
+vocab-sanchakara-def: 'harm, destruction'
+
+vocab-sahapathi: 'sahapathi (classmate)'
+
+vocab-sahapathi-def: 'one who studies together'
+
+vocab-sonku: 'sonku (infection)'
+
+vocab-sonku-def: 'contagion, catching'
+
+ex-a-q1: 'Why had all the children been admitted to hospital?'
+
+ex-a-q2: 'What infection had the children caught?'
+
+ex-a-q3: 'What is the reason the river water became dirty?'
+
+ex-a-q4: 'Who lived fearlessly in the river’s belly?'
+
+ex-a-q5: 'By what has the river water become polluted and poisonous?'
+
+ex-b-q1: 'What happened to the children who bathed in the river?'
+
+ex-b-q2: 'How was the river earlier?'
+
+ex-b-q3: 'What did the river say to the children about its wretched state?'
+
+ex-c-q1: 'They have an infection from the river’s polluted water.'
+
+ex-c-q2: 'Ugh! What a smell! One cannot stand here.'
+
+ex-c-q3: 'To whom shall I tell my sorrow?'
+
+ex-d-q1: '1. river
+
+  2. hospital
+
+  3. water
+
+  4. factory
+
+
+  A. blister
+
+  B. chemical
+
+  C. lament
+
+  D. doctors
+
+  E. polluted'
+
+ex-e-q1: 'What a __________ happened!'
+
+ex-e-q2: 'Unable to bear the itch they have __________.'
+
+ex-e-q3: '__________ are the cause of this wretched state of mine.'
+
+ex-e-q4: 'My water was clean as __________.'
+
+ex-e-q5: 'The __________ of protecting you is ours.'
+
+grammar-p1: 'Conjunct letters (ottakshara)
+
+  A letter formed when one vowel joins two or more consonants is a conjunct letter or ottakshara. (consonant + consonant + vowel = conjunct letter)'
+
+grammar-p2: 'There are two divisions of conjunct letters. 1) Homogeneous conjunct letters 2) Heterogeneous conjunct letters'
+
+grammar-p3: 'When two consonants of the same class join (with help of a vowel), they become homogeneous conjunct letters. Example: a + k + k + a = akka. Here k + k (+a) are homogeneous consonants and together form the homogeneous conjunct “kka”. Examples: appa, amma, anna, akkara, akkapakka, rakkasa, etc.'
+
+grammar-p4: 'When two or more consonants of different classes join (with help of a vowel), the letter formed is called a heterogeneous conjunct letter. Example: bh + a + k + t + a = bhakta. Here k + t (+a) are heterogeneous consonants and together form the heterogeneous conjunct “kta”. Examples: chakra, ajne, stri, vastra, etc.'
+
+grammar-a-q1: '1. What are conjunct letters?'
+
+grammar-a-q2: '2. Sort the conjunct letters given below into homogeneous and heterogeneous: kka, pta, sva, rra, jja, sva, stha, rya, ḍga, mma'
+
+grammar-a-q3: '3. Write words containing five homogeneous and five heterogeneous conjunct letters.'
+
+lang-ex-a-q1: '1. List and write points that prevent river pollution.'
+
+lang-ex-b-q1: '1. Read and learn for what reasons river pollution happens, and also ask elders and learn.'
+
+lang-ex-b-q2: '2. Read newspaper articles on river pollution and discuss with your classmates.'
+
+lang-ex-c-q1: '1. A pollution-free river is the foundation of human security.'
+
+lang-ex-c-q2: '2. Impure water is an invitation to ill health.'
+
+lang-ex-c-q3: '3. From water, breath; from water, greenery.'

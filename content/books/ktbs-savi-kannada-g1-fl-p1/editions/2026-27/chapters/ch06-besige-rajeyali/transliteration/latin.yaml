@@ -1,0 +1,86 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: besigè rajèyali
+  intro: 'pāṭha - 6 : pāṭhapūrva caṭuvaṭikè'
+  poem: padya
+  vocab: keḻida padagaḻu
+  notes: padagaḻa artha
+  exercise-A: abhyāsa a
+  exercise-B: abhyāsa ā
+  exercise-C: abhyāsa i
+  exercise-D: abhyāsa ī
+intro-1: a) citrakkè (kesari mattu hasiru) baṇṇa hākalu heḻi.
+intro-kesari: kesari
+intro-hasiru: hasiru
+intro-2: ā) makkaḻigè iṣṭavāda baṇṇadiṃda citra tuṃbisalu heḻi.
+poem-intro: (padyavannu hāḍi, makkaḻiṃda hāḍisi)
+poem-s1l1: besigè rajèyali
+poem-s1l2: appana jòtè nā
+poem-s1l3: haḻḻigè hoguvènu
+poem-s2l1: bèvaranu surisuva
+poem-s2l2: raitara jòtèyali
+poem-s2l3: nānū duḍiyuvènu
+poem-s3l1: mugilanè muṭṭuva
+poem-s3l2: èttara daniyali
+poem-s3l3: hāḍanu heḻuvènu
+poem-s4l1: jagadali naḍèdiha
+poem-s4l2: kautuka viṣayava
+poem-s4l3: avarigè tiḻisuvènu
+poem-s5l1: toṭadi bèḻèdiha
+poem-s5l2: bagè bagè haṇṇina
+poem-s5l3: saviyanu saviyuvènu
+poem-s6l1: haccanè hasurina
+poem-s6l2: suṃdara sṛṣṭiya
+poem-s6l3: 'sòbaganu kāṇuvènu!'
+vocab-besige: besigè
+vocab-raje: rajè
+vocab-halli: haḻḻi
+vocab-bevaru: bèvaru
+vocab-raita: raita
+vocab-dudi: duḍi
+vocab-mugilu: mugilu
+vocab-ettara: èttara
+vocab-dani: dani
+vocab-haadu: hāḍu
+vocab-jaga: jaga
+vocab-kautuka: kautuka
+vocab-vishaya: viṣaya
+vocab-tota: toṭa
+vocab-hannu: haṇṇu
+vocab-savi: savi
+vocab-hacchane: haccanè
+vocab-sundara: suṃdara
+vocab-srishti: sṛṣṭi
+vocab-sobagu: sòbagu
+note-raita: raita
+note-raita-def: kṛṣika
+note-mugilu: mugilu
+note-mugilu-def: ākāśa
+note-savi: savi
+note-savi-def: ruci
+note-sobagu: sòbagu
+note-sobagu-def: caṃda
+ex-a-intro: a) padyada sālugaḻalli biṭṭiruva padavannu makkaḻiṃda heḻisi.
+ex-a-q1: 1. appana jòtè nā _____ hoguvènu.
+ex-a-q2: 2. èttara daniyali _____ heḻuvènu.
+ex-a-q3: 3. bagè bagè haṇṇina _____ saviyuvènu.
+ex-a-q4: 4. suṃdara sṛṣṭiya _____ kāṇuvènu.
+ex-b-intro: ā) makkaḻigè praśnè keḻi, uttara heḻisi.
+ex-b-q1: 1. kaviyu yāra jòtè duḍiyuvanu?
+ex-b-q2: 2. kautuka viṣaya èlli naḍèdidè?
+ex-b-q3: 3. haḻḻigè yāvāga hogabeku?
+ex-c-intro: i) ‘a’, ‘ā’ mattu ‘i’ paṭṭiyalliruva śabdagaḻannu joḍisi kavitèya sālugaḻannu pūrṇagòḻisi.
+ex-c-col-a: 'a: besigè rajèyali / toṭadi bèḻèdiha / jagadali naḍèdiha / mugilanè muṭṭuva'
+ex-c-col-aa: 'ā: kautuka viṣayava / èttara daniyali / appana jòtè nā / bagè bagè haṇṇina'
+ex-c-col-i: 'i: hāḍanu heḻuvènu. / avarigè tiḻisuvènu. / saviyanu saviyuvènu. / haḻḻigè hoguvènu.'
+ex-d-intro: ī) kèḻagina sālugaḻannu makkaḻigè heḻi, avariṃda heḻisi.
+ex-d-q1: 1. besigè rajèyalli haḻḻigè hogabeku.
+ex-d-q2: 2. raitanu bèvaru surisi duḍivanu.
+ex-d-q3: 3. jagadali kautuka viṣayagaḻu naḍèdivè.
+ex-d-q4: 4. toṭadalli bagè bagè haṇṇugaḻivè.
+ex-d-q5: 5. sṛṣṭiyu haccanè hasurāgidè.
+ex-d-q6: 6. hāḍanu èttarada daniyali hāḍabeku.

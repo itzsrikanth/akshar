@@ -1,0 +1,296 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 4
+  slug: ch04-dr-rajkumar
+  title: ಡಾ. ರಾಜಕುಮಾರ್
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಡಾ. ಎಚ್.ಎಸ್. ಸತ್ಯನಾರಾಯಣ
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ಪಾಠ
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-D: ಈ. ಸಂದರ್ಭ ಸೂಚಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  text: ಯಾವುದೇ ಬಗೆಯ ಮೂಲಭೂತ ಸೌಕರ್ಯಗಳೂ ಇಲ್ಲದೆ ಕಡುಬಡತನದಲ್ಲಿ ಅರಳಿದ ಪ್ರತಿಭೆಯೊಂದು ನಾಡಿನ ಜನರ ಕಣ್ಮಣಿಯಾಗುವುದು, ಎತ್ತರದ ಸಾಧನೆ ಮಾಡಿ ಜನಮಾನಸದಲ್ಲಿ ಶಾಶ್ವತವಾಗಿ ನೆಲೆ ನಿಲ್ಲುವುದು ಸಾಮಾನ್ಯದ ಮಾತಲ್ಲ. ನಾಡೋಜ, ನಟಸಾರ್ವಭೌಮ ಡಾ. ರಾಜಕುಮಾರ್ ಅವರ ಬದುಕು ಕೂಡ ಇಂತಹ ಅಸಾಮಾನ್ಯ ಸಾಧನೆಗೆ ಮಾದರಿಯಾಗಿದೆ. ತಮ್ಮ ಅಪೂರ್ವ ಪ್ರತಿಭೆಯ ನಟನೆ, ಗಾಯನ, ಕನ್ನಡ ಪರವಾದ ಉಜ್ವಲ ಪ್ರೀತಿ ಮತ್ತು ಸುಸಂಸ್ಕೃತ ಸಜ್ಜನಿಕೆಯ ನಡವಳಿಕೆಯಿಂದ ಡಾ. ರಾಜಕುಮಾರ್ ಅವರು ನಮ್ಮ ನಾಡು ಕಂಡ ಮೇರು ವ್ಯಕ್ತಿತ್ವವೆನಿಸಿದ್ದಾರೆ. ಅವರ ಬದುಕಿನ ಕೆಲವು ವಿವರಗಳ ಅವಲೋಕನದಿಂದ ನಾಡಿನ ಮಕ್ಕಳು ಸ್ಫೂರ್ತಿಹೊಂದಬಲ್ಲರೆಂಬುದು ಈ ಪಾಠದ ಆಶಯವಾಗಿದೆ.
+  section: intro
+- id: story-n1
+  type: prose
+  text: ಡಾ. ರಾಜಕುಮಾರ್ ಅವರು ಚಾಮರಾಜನಗರ ಜಿಲ್ಲೆಗೆ ಸೇರಿದ ಗಾಜನೂರಿನಲ್ಲಿ 24 ಏಪ್ರಿಲ್ 1929ರಂದು ಜನಿಸಿದರು. ಸಿಂಗಾನಲ್ಲೂರು ಮೂಲದ ಶ್ರೀಯುತ ಪುಟ್ಟಸ್ವಾಮಯ್ಯನವರು ರಾಜಕುಮಾರ್ ಅವರ ತಂದೆ. ತಾಯಿ ಗಾಜನೂರಿನವರಾದ ಶ್ರೀಮತಿ ಲಕ್ಷ್ಮಮ್ಮನವರು. ಈ ದಂಪತಿ ಗಂಡು ಮಗುವನ್ನು ಕರುಣಿಸೆಂದು ತಮ್ಮ ಇಷ್ಟದೈವ ಮುತ್ತತ್ತಿರಾಯನಿಗೆ ಹರಕೆ ಹೊತ್ತಿದ್ದರಂತೆ. ಹಾಗಾಗಿ ಆ ದೇವರ ಹೆಸರನ್ನೇ ಮಗನಿಗೆ ಇಟ್ಟರು. ‘ರಾಜ’ ಎಂಬುದು ‘ರಾಯ’ ಎಂಬುದರ ತದ್ಭವ ರೂಪವಾಗಿರುವುದರಿಂದ ‘ಮುತ್ತುರಾಯ’ ಸ್ವಾಮಿಯ ಹೆಸರು ‘ಮುತ್ತುರಾಜ’ ಎಂದಾಗಿದ್ದು ಮಾತ್ರವಲ್ಲ ಕನ್ನಡಿಗರ ಮನಗೆದ್ದ ರಾಜಕುಮಾರನೇ ಆಗಿದ್ದು ಆಕಸ್ಮಿಕವಲ್ಲ. ಮುತ್ತುರಾಜನೊಳಗಿನ ಪ್ರತಿಭೆಯು ವಿಕಾಸಗೊಂಡ ಪರಿ ಅದು. ಮಳೆಯಿಲ್ಲದೆ ಕಂಗೆಟ್ಟಿದ್ದ ನೆಲಕ್ಕೆ ಸ್ವಾತಿಯ ಮಳೆಸುರಿದು ತಂಪೆರೆಯುವ ತೆರದಿ ಜೋರು ಮಳೆ ಸುರಿಯುವಾಗ ಹುಟ್ಟಿದ ಮುತ್ತುರಾಜರ ಜನನದಿಂದ ಮನೆಮಂದಿಯೆಲ್ಲ ಸಂಭ್ರಮಪಟ್ಟರು.
+  section: story
+- id: story-n2
+  type: prose
+  text: ಬಾಲ್ಯದಲ್ಲಿಯೇ ಮುತ್ತುರಾಜರಿಗೆ ಬಡವರ ಕಷ್ಟ ಕಂಡು ಮರುಗುವ ಗುಣವಿತ್ತು. ಶಾಲೆಯಲ್ಲಿ ಕೂತಿದ್ದರೂ ಅವರ ಮನಸ್ಸು ಬಡತನ, ಹಸಿವು, ಕಷ್ಟಗಳತ್ತ ಹೊರಳುತ್ತಿತ್ತು. ಇದರೊಂದಿಗೆ ಹಳ್ಳಿಗಾಡಿನ ಸುಪ್ರಸನ್ನತೆ, ಸುಂದರ ಪರಿಸರ, ಮುಗ್ಧ ಜನರ ಆಚಾರ ವಿಚಾರಗಳು, ಹಳ್ಳ ಕೊಳ್ಳ, ಕಾಡು ಮುಂತಾದವೆಲ್ಲ ಮುತ್ತುರಾಜರ ಭಾವಲೋಕವನ್ನು ಹಿಗ್ಗಿಸುತ್ತಿತ್ತು. ಶಾಲೆಯಲ್ಲಿ ಕಲಿತದ್ದು ಮೂರನೆಯ ತರಗತಿಯವರೆಗೆ ಮಾತ್ರವಾದರೂ ಆ ವಯಸ್ಸಿನಿಂದಲೇ ಆದ ಲೋಕಾನುಭವದ ಶಿಕ್ಷಣದ ಪಾತ್ರ ಇವರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ರೂಪಿಸಿತು. ಇವರ ತಂದೆ ಪುಟ್ಟಸ್ವಾಮಯ್ಯನವರು ಅದ್ಭುತ ರಂಗ ಕಲಾವಿದರಾಗಿದ್ದರು. ಸೋದರ ಮಾವಂದಿರು ಸೊಗಸಾದ ಗಾಯಕರಾಗಿದ್ದರು. ಈ ಪರಿಸರದಲ್ಲಿ ತಮ್ಮ ಬಾಲ್ಯವನ್ನು ಕಳೆದ ಮುತ್ತುರಾಜರಿಗೆ ಸಹಜವಾಗಿಯೇ ರಂಗಭೂಮಿ ಕೈಬೀಸಿ ಕರೆಯಿತು.
+  section: story
+- id: story-n3
+  type: prose
+  text: ಮುತ್ತುರಾಜ ಅವರು ಬಾಲ ನಟನಾಗಿ ಕಲಾ ಪ್ರಪಂಚಕ್ಕೆ ಕಾಲಿಟ್ಟರು. ಗುಬ್ಬಿವೀರಣ್ಣನವರ ನಾಟಕ ಕಂಪನಿಯಲ್ಲಿ ಮೊದಮೊದಲು ಸಖಿ, ಸೇವಕಿಯಂತಹ ಸಣ್ಣಪುಟ್ಟ ಪಾತ್ರಗಳನ್ನು ಮಾಡಬೇಕಾಯಿತು. ಆಮೇಲೆ ಮತ್ತೋರ್ವ ಹಿರಿಯ ರಂಗಭೂಮಿಯ ಕಲಾವಿದರಾದ ಶ್ರೀ ಸುಬ್ಬಯ್ಯನಾಯ್ಡು ಅವರ ನಾಟಕ ಕಂಪನಿಗೆ ಸೇರಿ ಅನೇಕ ಮಹತ್ವದ ಪಾತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತಾ ಬೆಳೆಯುತ್ತಿರುವಾಗ ತಂದೆಯವರ ಅಕಾಲಿಕ ಮರಣದ ದುಃಖ ಎದುರಾಯಿತು. ಇಡೀ ಕುಟುಂಬವನ್ನು ಕಾಪಾಡಬೇಕಾದ ಜವಾಬ್ದಾರಿಯನ್ನು ಆತ್ಮವಿಶ್ವಾಸದಿಂದ ಎದುರಿಸಿದ ಮುತ್ತುರಾಜರು, ಈ ಅನುಭವ ಮತ್ತು ಅಭಿನಯ ಎರಡರಿಂದಲೂ ಮಾಗುತ್ತ ಸಾಗಿದರು. ಕಷ್ಟದ ದಿನಗಳಲ್ಲಿಯೂ ಕಲಾವಿದನ ಕೈ ಹಿಡಿದು ಸಂಸಾರದ ಬದುಕಿಗೆ ಹೆಗಲೆಣೆಯಾದವರು ಮುತ್ತುರಾಜರ ಸೋದರ ಮಾವನ ಮಗಳಾದ ಪಾರ್ವತಮ್ಮನವರು.
+  section: story
+- id: story-n4
+  type: prose
+  text: ಭಕ್ತ ಪ್ರಹ್ಲಾದ, ಶ್ರೀನಿವಾಸ ಕಲ್ಯಾಣದಂತಹ ಪೌರಾಣಿಕ ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಸಣ್ಣಪುಟ್ಟ ಪಾತ್ರಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿದ್ದರೂ 1954ರಲ್ಲಿ ತೆರೆಕಂಡ ‘ಬೇಡರ ಕಣ್ಣಪ್ಪ’ ಎಂಬ ಚಿತ್ರವು ಮುತ್ತುರಾಜರ ಬದುಕಿನಲ್ಲಿ ಹೊಸ ಅಧ್ಯಾಯ ಬರೆಯಿತು. ಈ ಚಿತ್ರದ ನಿರ್ದೇಶಕರಾದ ಎಚ್.ಎಲ್.ಎನ್. ಸಿಂಹ ಅವರು ‘ಮುತ್ತುರಾಜ’ ಎಂಬ ಹೆಸರನ್ನು ‘ರಾಜಕುಮಾರ’ ಎಂದು ಬದಲಾಯಿಸಿ, ಬೆಳ್ಳಿತೆರೆಗೆ ಪರಿಚಯಿಸಿದರು. ತಮ್ಮ ಹೆಸರನ್ನು ಬದಲಾಯಿಸುವುದು ಮುತ್ತುರಾಜರಿಗೆ ಇಷ್ಟವಿರಲಿಲ್ಲವಂತೆ. ಆದರೆ ಕನ್ನಡಿಗರು ರಾಜಕುಮಾರ ಎಂಬ ಹೆಸರನ್ನೇ ತಮ್ಮ ಹೃದಯ ಸಿಂಹಾಸನದಲ್ಲಿರಿಸಿಕೊಳ್ಳುವಂತೆ ತಾವು ಅಭಿನಯಿಸಿದ ಪ್ರತಿಯೊಂದು ಪಾತ್ರಕ್ಕೂ ರಾಜಕುಮಾರ್ ಜೀವ ತುಂಬಿದರು.
+  section: story
+- id: story-n5
+  type: prose
+  text: ರಾಜಕುಮಾರ್ ಅವರು ಅಭಿನಯಿಸಿದ ಭಕ್ತಿಪ್ರಧಾನವಾದ ಭಕ್ತವಿಜಯ, ಓಹಿಲೇಶ್ವರ, ಶ್ರೀಕೃಷ್ಣ ಗಾರುಡಿ, ಭಕ್ತಕುಂಬಾರ, ಸಂತ ತುಕಾರಾಂ, ಭಕ್ತ ಕನಕದಾಸ ಮುಂತಾದ ಚಿತ್ರಗಳನ್ನು ನೋಡಿದ ಚಿತ್ರರಸಿಕರು ರಾಜಕುಮಾರ್ ಅವರ ಮನೋಜ್ಞ ಅಭಿನಯಕ್ಕೆ ಸೋತುಹೋದರು. ಅತ್ಯಂತ ಯಶಸ್ಸುಗಳಿಸಿದ ಭಕ್ತಪ್ರಹ್ಲಾದ, ಮಯೂರ, ಬಭ್ರುವಾಹನ, ಕವಿರತ್ನ ಕಾಳಿದಾಸ ಮುಂತಾದ ಚಿತ್ರಗಳಲ್ಲಿನ ಅಭಿನಯವಂತೂ ರಾಜಕುಮಾರರಿಗೆ ಅಪಾರವಾದ ಜನಪ್ರೀತಿ, ಕೀರ್ತಿ, ಪುರಸ್ಕಾರಗಳನ್ನು ಹೊತ್ತು ತಂದವು. ಸಂಧ್ಯಾರಾಗ, ಸನಾದಿ ಅಪ್ಪಣ್ಣ, ಜೀವನಚೈತ್ರ, ಕಸ್ತೂರಿ ನಿವಾಸ, ಬಂಗಾರದ ಮನುಷ್ಯ, ದೇವತಾ ಮನುಷ್ಯ ಮುಂತಾದ ಸಾಮಾಜಿಕ ಚಿತ್ರಗಳು ಕನ್ನಡ ಚಿತ್ರರಂಗದಲ್ಲಿ ಹೊಸ ದಾಖಲೆಯನ್ನು ಬರೆದವು. ಜನ ಮೆಚ್ಚಿದ ‘ರಸಿಕರ ರಾಜ’ ಎನಿಸಿದ್ದು ಹೀಗೆ.
+  section: story
+- id: story-n6
+  type: prose
+  text: ತಮ್ಮ ಸೊಗಸಾದ ಕಂಠ ಮತ್ತು ಹಾಡುಗಾರಿಕೆಯಿಂದಲೂ ಕನ್ನಡಿಗರ ಮನಸೂರೆಗೊಂಡ ರಾಜಕುಮಾರ್ ಅವರು ‘ಗಾನಗಂಧರ್ವ’ ಎನಿಸಿದರು. ‘ಸಂಪತ್ತಿಗೆ ಸವಾಲ್’ ಎಂಬ ಚಿತ್ರದಲ್ಲಿ ನಾಯಕ ಎಮ್ಮೆಯ ಮೇಲೆ ಕುಳಿತು ಹಾಡಿದ “ಯಾರೇ ಕೂಗಾಡಲಿ, ಊರೇ ಹೋರಾಡಲಿ” ಎಂಬ ಗೀತೆಯು ದಿನ ಬೆಳಗಾಗುವುದರೊಳಗೆ ರಾಜಕುಮಾರ್ ಅವರನ್ನು ಹಿನ್ನೆಲೆಗಾಯಕರನ್ನಾಗಿ ಪರಿಚಯಿಸಿತು. ಚಿಕ್ಕಂದಿನಿಂದಲೂ ಇವರಿಗೆ ಹಾಡಲು ಬರುತ್ತಿತ್ತು. ಜೊತೆಗೆ, ನಾಟಕಗಳಲ್ಲಿ ಹಾಡಿದ ಅನುಭವವೂ ಇತ್ತು. ಸಂಪತ್ತಿಗೆ ಸವಾಲ್ ಚಿತ್ರದಿಂದ ತಮ್ಮ ಪಾತ್ರಗಳಿಗೆ ತಾವೇ ಹಾಡಲಾರಂಭಿಸಿದ ರಾಜಕುಮಾರ್ ಅವರು ನೂರಾರು ಚಲನಚಿತ್ರ ಗೀತೆಗಳನ್ನೂ, ಸಾವಿರಾರು ಭಕ್ತಿಗೀತೆಗಳನ್ನೂ, ಅನೇಕ ಭಾವಗೀತೆಗಳನ್ನೂ ಹಾಡಿದ್ದಾರೆ. ಜೀವನ ಚೈತ್ರ ಚಿತ್ರದ “ನಾದಮಯ ಈ ಲೋಕವೆಲ್ಲಾ ನಾದಮಯ” ಎಂಬ ಅದ್ಭುತ ಗಾಯನಕ್ಕಾಗಿ ರಾಷ್ಟ್ರಪ್ರಶಸ್ತಿಯನ್ನು ಮುಡಿಗೇರಿಸಿಕೊಂಡ ಹಿರಿಮೆಯೂ ಇವರದಾಗಿದೆ.
+  section: story
+- id: story-n7
+  type: prose
+  text: ನಟರಾಗಿ ಮಾತ್ರವಲ್ಲದೆ ಅನನ್ಯ ಕನ್ನಡ ಪ್ರೀತಿಗಾಗಿಯೂ ನಾಡು ರಾಜಕುಮಾರ್ ಅವರನ್ನು ಸದಾ ಸ್ಮರಿಸುತ್ತದೆ. ಎಂತಹ ಆಮಿಷವೊಡ್ಡಿದರೂ ರಾಜಕುಮಾರ್ ಅವರು ಕನ್ನಡ ಬಿಟ್ಟು ಬೇರೆ ಭಾಷೆಯ ಚಿತ್ರಗಳಲ್ಲಿ ನಟಿಸಲು ಒಪ್ಪಲಿಲ್ಲ. ಅಂತಹ ಕನ್ನಡ ಪ್ರೀತಿ ಅವರದು. ಕರ್ನಾಟಕದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಗೆ ಆದ್ಯತೆ, ಮಾನ್ಯತೆಗಳು ದೊರಕಬೇಕೆಂಬ ಸಂಕಲ್ಪದಿಂದಾರಂಭಿಸಿದ ಗೋಕಾಕ್ ಚಳುವಳಿಗೆ ಧುಮುಕಿದ ರಾಜಕುಮಾರ್ ಅವರು ಕನ್ನಡಿಗರ ಭಾವನೆಯ ಸ್ವರೂಪದ ಪ್ರತಿರೂಪದಂತೆ ಕಾಣಿಸಿಕೊಂಡು ಕನ್ನಡದ ಹೋರಾಟಕ್ಕೆ ಬಲ ತಂದರು. ತಾವು ಅಭಿನಯಿಸಿದ ಎಲ್ಲ ಪಾತ್ರಗಳು ಆಡುವ ಸರಳ, ಸೊಗಸಾದ ಕನ್ನಡದ ನುಡಿಗಳಿಂದ ಅವರು ಕನ್ನಡಿಗರ ಎದೆಗಳಲ್ಲಿ ಸವಿಗನ್ನಡದ ಕಂಪು ತುಂಬಿದ್ದನ್ನು ನಾವು ಎಂದಿಗೂ ಮರೆಯುವಂತಿಲ್ಲ.
+  section: story
+- id: story-n8
+  type: prose
+  text: ಅಶಕ್ತ ಕಲಾವಿದರ ನೆರವಿಗಾಗಿ ರಾಜಕುಮಾರ್ ಅವರು ಅನೇಕ ರಸಸಂಜೆ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಡೆಸಿ ನೆರವಿಗೆ ಬಂದಿದ್ದಾರೆ. ಬಡತನದಲ್ಲಿ ಬೆಳೆದು ಬಂದ ಅವರಿಗೆ ಹಸಿವಿನ, ಅನ್ನದ ಬೆಲೆ ಚೆನ್ನಾಗಿ ತಿಳಿದಿತ್ತು. ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಸಹ ಕಲಾವಿದರು, ತಂತ್ರಜ್ಞರು, ಚಲನಚಿತ್ರ ಕಾರ್ಮಿಕರು, ಸಂಘ ಸಂಸ್ಥೆಗಳು ರಾಜಕುಮಾರ್ ಅವರಿಂದ ಆರ್ಥಿಕ ನೆರವು ಪಡೆದ ಉದಾಹರಣೆಗಳಿವೆ. ರಾಜಕುಮಾರ್ ಅವರ ಕರುಣಾಮಯಿ ಹೃದಯ ಸಂಪನ್ನತೆಗೆ ಇವು ಕೆಲವು ಉದಾಹರಣೆಗಳು ಮಾತ್ರ.
+  section: story
+- id: story-n9
+  type: prose
+  text: ರಾಜಕುಮಾರರ ಕುಟುಂಬವೇ ಕನ್ನಡ ಚಿತ್ರರಂಗದ ದೊಡ್ಡ ಮನೆಯೆನಿಸಿದೆ. ಶ್ರೀಮತಿ ಪಾರ್ವತಮ್ಮನವರು ಚಿತ್ರ ನಿರ್ಮಾಪಕರಾಗಿ ವಿತರಕರಾಗಿ ದೊಡ್ಡ ಸಾಧನೆಗೈದರೆ, ಮಕ್ಕಳಾದ ರಾಘವೇಂದ್ರ ರಾಜಕುಮಾರ್, ಶಿವರಾಜಕುಮಾರ್, ಪುನೀತ್ ರಾಜಕುಮಾರ್ ನಟರಾಗಿ, ಗಾಯಕರಾಗಿ ನಾಡಿನ ಜನರ ಮನಗೆದ್ದವರು. ಪುನೀತ್ ರಾಜಕುಮಾರ್ ತಮ್ಮ ಬಾಲ್ಯದಲ್ಲಿಯೇ ‘ಬೆಟ್ಟದ ಹೂ’ ಚಿತ್ರದ ಅಮೋಘ ಅಭಿನಯಕ್ಕಾಗಿ ರಾಷ್ಟ್ರಪ್ರಶಸ್ತಿ ಪಡೆದಿದ್ದರು. ಅವರು ತಂದೆಯಂತೆಯೇ ‘ಕರ್ನಾಟಕ ರತ್ನ’ ಎನ್ನಿಸಿದ ಸಾಹಸಗಾಥೆ ಬೇರೆಯದೇ ಇದೆ. ರಾಜಕುಮಾರ್ ಅವರ ಮೊಮ್ಮಕ್ಕಳೂ ಸಿನಿಮಾ ನಾಯಕರಾಗಿರುವುದು ಈ ಕಲಾಸಂಪನ್ನತೆಯು ಮೂರನೇ ತಲೆಮಾರಿಗೂ ಹರಿದು ಬಂದಿರುವುದರ ಪ್ರತೀಕವಾಗಿದೆ.
+  section: story
+- id: story-n10
+  type: prose
+  text: ರಾಜಕುಮಾರ್ ಎಂಬ ಸಮ್ಮೋಹಕ ಪ್ರತಿಭೆಗೆ ಮನಸೋತ ಕನ್ನಡಿಗರು ಅವರನ್ನು ನಟ ಸಾರ್ವಭೌಮ, ಕಲಾ ಕೌಸ್ತುಭ, ಕಲಾ ಕೇಸರಿ, ವರನಟ, ರಸಿಕರ ರಾಜ, ಗಾನಗಂಧರ್ವ, ಕನ್ನಡದ ಕಣ್ಮಣಿ ಮುಂತಾದ ವಿಶೇಷಣಗಳಿಂದ ಕರೆದು ಸಂತೋಷಪಟ್ಟರೆ, 1979ರಲ್ಲಿ ಮೈಸೂರು ವಿಶ್ವ ವಿದ್ಯಾಲಯವು ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪದವಿ ನೀಡಿ ಪುರಸ್ಕರಿಸಿತು. ಅಂದಿನಿಂದ ಇವರು ಎಲ್ಲರ ಪ್ರೀತಿಯ ‘ಡಾಕ್ಟರ್ ರಾಜಕುಮಾರ್’ ಎನಿಸಿದರು. ಕೇಂದ್ರ ಸರ್ಕಾರ ಇವರ ಕಲಾಸೇವೆಗೆ ‘ಪದ್ಮಭೂಷಣ’ ಪ್ರಶಸ್ತಿಯನ್ನಿತ್ತು ಗೌರವಿಸಿತು. ಜೀವಮಾನದ ಸಾಧನೆಗಾಗಿ ಭಾರತ ಸರ್ಕಾರದ ಅತ್ಯುಚ್ಚ ಪ್ರಶಸ್ತಿಯಾದ ‘ದಾದಾ ಸಾಹೇಬ್ ಫಾಲ್ಕೆ ಪ್ರಶಸ್ತಿ’ಯೂ ದೊರೆಯಿತು. ಕರ್ನಾಟಕ ಸರ್ಕಾರವು “ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ” ನೀಡಿತು.
+  section: story
+- id: story-n11
+  type: prose
+  text: ಈ ಮೊದಲೇ ಹೇಳಿದಂತೆ ಬಡತನದ ಪರಿಸರದಲ್ಲಿ ಹುಟ್ಟಿದರೂ ಸಾಧನೆಯ ತಪಸ್ಸಿನಲ್ಲಿ ಶ್ರದ್ಧೆಯಿದ್ದರೆ ಯಾವುದೂ ತೊಡಕಲ್ಲವೆಂಬುದಕ್ಕೆ ರಾಜಕುಮಾರ್ ಅವರ ಬದುಕು ದೊಡ್ಡ ಮಾದರಿಯಾಗಿದೆ. ಅದೇ ಬಗೆಯ ಪರಿಸರದಲ್ಲಿ ಹುಟ್ಟಿದ ನಮ್ಮ ನಾಡ ಮಕ್ಕಳಿಗೆ ಅನುಕರಣೀಯವೂ ಅನುಸರಣೀಯವೂ ಆಗಿದೆ.
+  section: story
+- id: author-1
+  type: prose
+  text: ಡಾ. ಎಚ್.ಎಸ್. ಸತ್ಯನಾರಾಯಣ ಅವರು ಚಿಕ್ಕಮಗಳೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ, ಲಲಿತ ಪ್ರಬಂಧ, ಅಂಕಣ ಬರಹಗಳಲ್ಲಿ ಕೃಷಿ ಮಾಡಿ ಅನೇಕ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಚಿಕ್ಕಮಗಳೂರಿನ ಬಸವನಹಳ್ಳಿ ಬಾಲಿಕಾ ಸರ್ಕಾರಿ ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜಿನಲ್ಲಿ ಕನ್ನಡ ಉಪನ್ಯಾಸಕರಾಗಿದ್ದಾರೆ.
+  section: author
+- id: vocab-saukaryya
+  type: vocabulary_term
+  text: ಸೌಕರ್ಯ
+  section: vocab
+- id: vocab-saukaryya-def
+  type: vocabulary_definition
+  text: ಅನುಕೂಲ
+  section: vocab
+- id: vocab-janamanasa
+  type: vocabulary_term
+  text: ಜನಮಾನಸ
+  section: vocab
+- id: vocab-janamanasa-def
+  type: vocabulary_definition
+  text: ಜನರ ಮನಸ್ಸು
+  section: vocab
+- id: vocab-nadoja
+  type: vocabulary_term
+  text: ನಾಡೋಜ
+  section: vocab
+- id: vocab-nadoja-def
+  type: vocabulary_definition
+  text: ನಾಡಿಗೆ ಗುರು
+  section: vocab
+- id: vocab-ujvala
+  type: vocabulary_term
+  text: ಉಜ್ವಲ
+  section: vocab
+- id: vocab-ujvala-def
+  type: vocabulary_definition
+  text: ಬೆಳಗುವ
+  section: vocab
+- id: vocab-sajjanike
+  type: vocabulary_term
+  text: ಸಜ್ಜನಿಕೆ
+  section: vocab
+- id: vocab-sajjanike-def
+  type: vocabulary_definition
+  text: ಒಳ್ಳೆಯ ನಡವಳಿಕೆ
+  section: vocab
+- id: vocab-meru-vyaktitva
+  type: vocabulary_term
+  text: ಮೇರುವ್ಯಕ್ತಿತ್ವ
+  section: vocab
+- id: vocab-meru-vyaktitva-def
+  type: vocabulary_definition
+  text: ಎತ್ತರದ ವ್ಯಕ್ತಿತ್ವ
+  section: vocab
+- id: vocab-vikasa
+  type: vocabulary_term
+  text: ವಿಕಾಸ
+  section: vocab
+- id: vocab-vikasa-def
+  type: vocabulary_definition
+  text: ಹರಡಿಕೊಳ್ಳು
+  section: vocab
+- id: vocab-higgisu
+  type: vocabulary_term
+  text: ಹಿಗ್ಗಿಸು
+  section: vocab
+- id: vocab-higgisu-def
+  type: vocabulary_definition
+  text: ಹಿರಿದಾಗಿಸು
+  section: vocab
+- id: vocab-rangabhumi
+  type: vocabulary_term
+  text: ರಂಗಭೂಮಿ
+  section: vocab
+- id: vocab-rangabhumi-def
+  type: vocabulary_definition
+  text: ನಾಟಕವಾಡುವ ಸ್ಥಳ
+  section: vocab
+- id: vocab-akalika
+  type: vocabulary_term
+  text: ಅಕಾಲಿಕ
+  section: vocab
+- id: vocab-akalika-def
+  type: vocabulary_definition
+  text: ಕಾಲವಲ್ಲದ
+  section: vocab
+- id: vocab-magu
+  type: vocabulary_term
+  text: ಮಾಗು
+  section: vocab
+- id: vocab-magu-def
+  type: vocabulary_definition
+  text: ಪಕ್ವಗೊಳ್ಳು
+  section: vocab
+- id: vocab-hegalene
+  type: vocabulary_term
+  text: ಹೆಗಲೆಣೆ
+  section: vocab
+- id: vocab-hegalene-def
+  type: vocabulary_definition
+  text: ನೆರವು ನೀಡು
+  section: vocab
+- id: vocab-bellitere
+  type: vocabulary_term
+  text: ಬೆಳ್ಳಿತೆರೆ
+  section: vocab
+- id: vocab-bellitere-def
+  type: vocabulary_definition
+  text: ಚಲನಚಿತ್ರ ತೋರುವ ಪರದೆ
+  section: vocab
+- id: vocab-manojna
+  type: vocabulary_term
+  text: ಮನೋಜ್ಞ
+  section: vocab
+- id: vocab-manojna-def
+  type: vocabulary_definition
+  text: ಮನಮೆಚ್ಚುವ
+  section: vocab
+- id: vocab-sampannate
+  type: vocabulary_term
+  text: ಸಂಪನ್ನತೆ
+  section: vocab
+- id: vocab-sampannate-def
+  type: vocabulary_definition
+  text: ಸಿರಿವಂತಿಕೆ; ಸಮೃದ್ಧತೆ
+  section: vocab
+- id: vocab-pratika
+  type: vocabulary_term
+  text: ಪ್ರತೀಕ
+  section: vocab
+- id: vocab-pratika-def
+  type: vocabulary_definition
+  text: ಸಂಕೇತ
+  section: vocab
+- id: vocab-todaku
+  type: vocabulary_term
+  text: ತೊಡಕು
+  section: vocab
+- id: vocab-todaku-def
+  type: vocabulary_definition
+  text: ಅಡ್ಡಿ
+  section: vocab
+- id: ex-a-q1
+  type: question
+  text: ರಾಜಕುಮಾರ್ ಅವರ ಮೊದಲ ಹೆಸರೇನು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: question
+  text: ರಾಜಕುಮಾರ್ ಅವರ ಜನ್ಮಸ್ಥಳ ಯಾವುದು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: question
+  text: ರಾಜಕುಮಾರ್ ಅವರ ತಂದೆ-ತಾಯಿ ಯಾರು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: question
+  text: ನಾಯಕ ನಟರಾಗಿ ರಾಜಕುಮಾರ್ರವರು ನಟಿಸಿದ ಮೊದಲ ಚಿತ್ರ ಯಾವುದು?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q5
+  type: question
+  text: ಯಾವ ಚಿತ್ರದ ಗಾಯನಕ್ಕೆ ರಾಜಕುಮಾರ್ ಅವರಿಗೆ ರಾಷ್ಟ್ರ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ?
+  section: exercise-A
+  exercise: A
+- id: ex-a-q6
+  type: question
+  text: ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಜಕುಮಾರ್ ಅವರಿಗೆ ನೀಡಿದ ಅತ್ಯುಚ್ಚ ಪುರಸ್ಕಾರ ಯಾವುದು?
+  section: exercise-A
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ಯಾವ ನಾಟಕ ಕಂಪನಿಗಳಲ್ಲಿ ರಾಜಕುಮಾರ್ರವರು ಅಭಿನಯಿಸಿದರು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ರಾಜಕುಮಾರ್ ಅವರು ಅಭಿನಯಿಸಿದ ಭಕ್ತಿ ಪ್ರಧಾನವಾದ ಚಿತ್ರಗಳಾವುವು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಅಭಿಮಾನಿಗಳು ರಾಜಕುಮಾರ್ರವರಿಗೆ ನೀಡಿದ ವಿಶೇಷಣ-ಬಿರುದುಗಳು ಯಾವುವು?
+  section: exercise-B
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ರಾಜಕುಮಾರ್ ಅವರ ಹೃದಯ ಸಂಪನ್ನತೆಗೆ ಒಂದೆರಡು ಉದಾಹರಣೆ ನೀಡಿ.
+  section: exercise-B
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ರಾಜಕುಮಾರ್ ಅವರ ಬಾಲ್ಯ ಜೀವನವನ್ನು ಪರಿಚಯಿಸಿ.
+  section: exercise-C
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ರಾಜಕುಮಾರ್ರವರ ಕುಟುಂಬವು ಚಲನಚಿತ್ರ ಕ್ಷೇತ್ರಕ್ಕೆ ಕೊಟ್ಟ ಕೊಡುಗೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ವಿವರಿಸಿ.
+  section: exercise-C
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ಯಾವ ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ರಾಜಕುಮಾರ್ ಅವರ ಕೊಡುಗೆಗಳು ಸಂದಿವೆಯೆಂಬುದನ್ನು ಸಂಗ್ರಹಿಸಿ ಬರೆಯಿರಿ.
+  section: exercise-C
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ಮುತ್ತುರಾಯ ಸ್ವಾಮಿಯ ಹೆಸರೇ ಮುತ್ತುರಾಜ ಆಯಿತು.
+  section: exercise-D
+  exercise: D
+- id: ex-d-q2
+  type: question
+  text: ರಂಗಭೂಮಿ ಕೈ ಬೀಸಿ ಕರೆಯಿತು.
+  section: exercise-D
+  exercise: D
+- id: ex-d-q3
+  type: question
+  text: ಬೇರೆ ಭಾಷೆಯ ಚಿತ್ರಗಳಲ್ಲಿ ನಟಿಸಲು ಒಪ್ಪಲಿಲ್ಲ.
+  section: exercise-D
+  exercise: D
+- id: ex-d-q4
+  type: question
+  text: ಶ್ರದ್ಧೆಯಿದ್ದರೆ ಯಾವುದೂ ತೊಡಕಲ್ಲ.
+  section: exercise-D
+  exercise: D

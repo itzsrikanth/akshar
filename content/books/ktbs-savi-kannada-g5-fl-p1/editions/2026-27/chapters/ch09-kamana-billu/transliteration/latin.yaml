@@ -1,0 +1,57 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  author_intro: 'kr̥tikārara paricaya'
+  exercise-A: 'a. keḷagina praśnegaḷige uttarisi.'
+
+poem-s1l1: 'raviyado horaṭanu paḍuvaṇake'
+
+poem-s1l2: 'tāyiya maneyanu sēralike'
+
+poem-s1l3: 'sañjeya hottina hūbisilu'
+
+poem-s1l4: 'kaṇṇige higgina andada honalu'
+
+poem-s2l1: 'biḷitere mōḍada añcinali'
+
+poem-s2l2: 'hanimaḷe bīḷuva hottinali'
+
+poem-s2l3: 'tunturu hanigaḷu bīḷuttive.'
+
+poem-s2l4: 'kāmana billanu mūḍisive'
+
+poem-s3l1: 'kāmana billanu nōḍalli'
+
+poem-s3l2: 'maṇidiha billadu mugilalli'
+
+poem-s3l3: 'kittaḷe kēsari haḷadi kempu'
+
+poem-s3l4: 'nīli kandu nēriḷe tampu'
+
+poem-s4l1: 'nelakū mugiligū muṭṭihudu'
+
+poem-s4l2: 'kaṇṇige habbava tandihudu'
+
+poem-s4l3: 'sūryanu muḷugida kattalu banditu'
+
+poem-s4l4: 'mōḍavu caduritu maḷeyū nintitu'
+
+poem-s5l1: 'mareyali ōḍitu kāmana billu'
+
+poem-s5l2: 'kāṇadāyitu māyada billu'
+
+author-intro-1: 'niṅgappa hanumappa kuṇṭi (niṅgaṇṇa kuṇṭi iṭagi) ivaru 1943ralli gadaga jilleya śirahaṭṭi tāllūkina iṭagigrāmadalli janisidaru. ivaru prāthamika śālā śikṣakarāgi hāgū makkaḷa sāhitigaḷāgi kannaḍa sēveyannu sallisiddāre. makkaḷa sāhityadalli kr̥ṣi māḍiruva ivaru anēka śiśuprāsagaḷannu racisiddāre. ivara ‘candappana śāle’ kavana saṅkalana prakaṭagoṇḍide. śrīyutarige makkaḷa sāhitya racanegāgi halavu praśastigaḷannu nīḍi gauravisalāgide.'
+
+ex-a-q1: '1. raviyu yāva dikkige horaṭanu?'
+
+ex-a-q2: '2. kāmana billu ellinda elliyavarege āvariside?'
+
+ex-a-q3: '3. kāmana billinalliruva baṇṇagaḷannu hesarisi.'
+
+ex-a-q4: '4. kāmana billu yāvāga mareyāyitu?'
+
+ex-a-q5: '5. kāmana billu yāvāga mūḍuttade?'

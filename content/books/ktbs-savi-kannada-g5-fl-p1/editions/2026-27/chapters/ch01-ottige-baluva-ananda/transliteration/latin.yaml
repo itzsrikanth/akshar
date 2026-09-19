@@ -1,0 +1,148 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige uttarisi.'
+  exercise-B: 'ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. khāli biṭṭa sthaḷagaḷannu sūkta padagaḷinda tumbiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a.varṇamāle'
+  grammar-B: 'ā.svarākṣaragaḷu'
+  grammar-C: 'i.vyañjanākṣaragaḷu'
+  grammar-D: 'ī. yōgavāhagaḷu'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'a.biṭṭa sthaḷagaḷannu bhartimāḍiri.'
+  language-exercise-B: 'ā.vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri.'
+  language-exercise-C: 'i. avargīya vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri.'
+  language-exercise-D: 'ī. yōjane'
+  language-exercise-E: 'u. ōdige mannaṇe'
+  language-exercise-F: 'ū. śubhanuḍi'
+
+intro-1: '‘oggaṭṭinalli balavide’. ellarū oṭṭāgi bāḷidare ellarū sukhavāgi irabahudu. namma namma naḍuve iruva dvēṣa asūyegaḷannu maretu ellarannu prītisuttā bāḷidare namma baduku sukhamayavāgiruttade.'
+
+story-n1: 'ondu haḷḷi, alli raitanobbana hola ittu. alli ondu bēvina maravittu. hēgō ēnō adara keḷage ondu guṇḍaneya kallu bandu nintukoṇḍitu. marada mēle kuḷitukoḷḷuttidda hakkigaḷa hikke kallina mēle biddu biddu, ā kallu beḷḷagāgi, vibhūti baḷidante kāṇisuttittu. idarindāgi ā biḷiya kallu ellarigū ammana kallinante kāṇisuttittu. āddarinda, bēvina maravannu jana ‘ammana mara’ endu kareyuttiddaru. ā kallu bēvina marada keḷagiddudarinda adakke ‘ammana kallu’ emba hesaru rūḍhige bandittu. hīge ondarinda innondu hesaru paḍedukoṇḍu eraḍū sukhavāgiddavu. ‘ammana mara’, ‘ammana kallu’ endu ūrina janagaḷu avugaḷa taṇṭege hōguttiralilla.'
+
+story-n2: 'ondu sala, tanninda innondu sukhavāgide endu eraḍakkū jamba bantu. bēvina mara “nānu ammana mara, nīnu nanna keḷagiruvudarinda ninnannu ammana kallu, endu jana kareyuttāre” endu hēḷitu. adakke kallu “nānu ammana kallu, nanna pakkadalli nīniruvudarinda ninnannu ammana mara endu kareyuttāre” enditu. hīge eraḍū jagaḷa māḍidavu. konege kallu kōpadinda uruḷi uruḷi bēvina maradinda dūra hōgi nintitu. “nānilladiddare maravannu kaḍiduhākuttāre” endu kallu, “nanna keḷagiradiddare kallannu oḍedu hākuttāre” endu mara-hīge eraḍū tammoḷage ālōcisuttiddavu.'
+
+story-n3: 'ondu dina holavannu uḷalikke ā haḷḷiya raita tanna makkaḷa jote bandanu. ammana kallu illada ā bēvina maravannu nōḍi “idannu nāḷe kaḍisi, nēgilu, cakra māḍisi” endu tanna makkaḷige hēḷida. bēvina maradinda dūra biddidda kallannu nōḍi “ī kallannu nāḷe kallu oḍeyuvavarinda oḍesidare nēgilannu kaṭṭi uḷalu baruttade” endu tanna makkaḷige hēḷida. idannu kēḷi mara mattu kallu eraḍū bhayadinda naḍugidavu. nāvibbarū obbarinda obbaru dūravāgiddare janaru nammibbarannu nāśamāḍuttāre. āddarinda nāvibbarū uḷiyuvudilla emba tiḷivaḷike mara mattu kallige banditu. raita mattu raitana makkaḷu atta hōguvudannē kādiddu, kallu “baralā” endu bēvina maravannu kēḷitu. mara “bēga bā” endu kallige hēḷitu. tānu innondarinda sukhavāgiruvudu endu īga eraḍakkū tiḷiyitu. bēvina mara mattu kallu matte snēhitarādavu.'
+
+story-n4: 'māraneya dina marakaḍiyuvavaru bandu nōḍidaru. kallu marada keḷage modalinante nintittu. avarige mara mattu kallina bagege bhaya-bhakti uṇṭāyitu. “idu ammana mara, kaḍiyuvudu bēḍa” endu horaṭu hōdaru. kallu oḍeyuvavaru bandu “idu ammana kallu, oḍeyuvudu bēḍa” endu avarū horaṭu hōdaru.'
+
+story-n5: 'bēvina mara mattu kallu kaṇṭakadinda pārādavu. īga eraḍū saha yāra bhayavillade sukhavāgiddavu.'
+
+story-n6: 'hīge ellarū oṭṭāgi bāḷidare, ellarū sukhavāgi irabahudu.'
+
+vocab-kantaka: 'kaṇṭaka'
+
+vocab-kantaka-def: 'kēḍu, vipattu'
+
+vocab-jagala: 'jagaḷa'
+
+vocab-jagala-def: 'kalaha'
+
+vocab-jamba: 'jamba'
+
+vocab-jamba-def: 'garva, oṇa āḍambara'
+
+vocab-negilu: 'nēgilu'
+
+vocab-negilu-def: 'bhūmiyannu uḷuva sādhana'
+
+vocab-raitha: 'raita'
+
+vocab-raitha-def: 'bēsāya māḍuvavanu'
+
+vocab-vibhuthi: 'vibhūti'
+
+vocab-vibhuthi-def: 'bhasma, būdi'
+
+vocab-hikke: 'hikke'
+
+vocab-hikke-def: 'hakkigaḷa mala'
+
+ex-a-q1: 'guṇḍaneya kallu ellittu?'
+
+ex-a-q2: 'bēvina maravannu jana ēnendu kareyuttiddaru?'
+
+ex-a-q3: 'kallu kōpadinda ēnu māḍitu?'
+
+ex-a-q4: 'mara kaḍiyuvavaru ēnendu hēḷi horaṭu hōdaru?'
+
+ex-a-q5: 'kallu hoḍeyuvavaru ēnendu hēḷi horaṭu hōdaru?'
+
+ex-b-q1: 'jambadinda bēvina mara ammana kallige ēnendu hēḷitu?'
+
+ex-b-q2: 'jambadinda ammana kallu bēvina marakke ēnendu hēḷitu?'
+
+ex-b-q3: 'bēre bēreyāgidda bēvina mara mattu kallannu nōḍi raitanu tanna makkaḷige ēnu hēḷidanu?'
+
+ex-b-q4: 'bēvina mara mattu ammana kallu matte hēge snēhitarādavu?'
+
+ex-c-q1: 'bēvina maravannu jana __________ endu kareyuttiddaru.'
+
+ex-c-q2: 'nāvibbarū obbarinda obbaru __________ janaru nammibbarannu nāśamāḍuttāre.'
+
+ex-c-q3: 'idu ammana mara ___________ bēḍa" endu horaṭuhōdaru.'
+
+ex-c-q4: 'kallu oḍeyuvavaru bandu "idu ammana kallu, _________ bēḍa endu avarū horaṭuhōdaru.'
+
+ex-c-q5: 'ellarū oṭṭāgi bāḷidare, ellarū _________ irabahudu.'
+
+grammar-a-p1: 'kannaḍadalli oṭṭu 49 akṣaragaḷive. ivugaḷannu varṇagaḷendu kareyuttāre. ī akṣaragaḷa kramabaddha jōḍaṇege ‘varṇamāle’ athavā ‘akṣaramāle’ endu hesaru.'
+
+grammar-a-p2: 'varṇamāleyalli mūru vidhagaḷu a) svarākṣaragaḷu ā) vyañjanākṣaragaḷu i) yōgavāhagaḷu'
+
+grammar-b-p1: 'svatantravāgi uccarisalāguva akṣaragaḷu svarākṣaragaḷu. oṭṭu svarākṣaragaḷu 13.'
+
+grammar-b-p2: 'svarākṣaragaḷalli eraḍu vidha.: 1) hrasvasvaragaḷu 2) dīrghasvaragaḷu'
+
+grammar-b-p3: '1) hrasvasvara - ondu mātrā kāladalli uccarisalāguva (a, i, u, r̥, e, o) akṣaragaḷu hrasvasvaragaḷu.'
+
+grammar-b-p4: '2) dīrghasvara - eraḍu mātrā kāladalli uccarisalāguva (ā, ī, ū, ē, ai, ō, au) akṣaragaḷu dīrghasvaragaḷu.'
+
+grammar-c-p1: 'svaragaḷa sahāyadinda uccarisalāguva akṣaragaḷu vyañjanākṣaragaḷu. (udā : k + a = ka ; c + a = ca) oṭṭu vyañjanākṣaragaḷu = 34'
+
+grammar-c-p2: 'vyañjanākṣaragaḷalli eraḍu vidha : 1) vargīya vyañjanagaḷu 2) avargīya vyañjanagaḷu'
+
+grammar-c-p3: '1. vargīya vyañjana kōṣṭaka. k varga: k kh g gh ṅa. c varga: c ch j jh ña. ṭ varga: ṭ ṭh ḍ ḍh ṇ. t varga: t th d dh n. p varga: p ph b bh m. oṭṭu 25. ivu utpattiyāguva sthānagaḷige anuguṇavāgi varga māḍiruvudarinda vargīya vyañjanagaḷu.'
+
+grammar-c-p4: 'alpaprāṇākṣaragaḷu = kaḍime usirininda uccarisalāguva vyañjanagaḷu alpaprāṇākṣaragaḷu. udā : k, c, ṭ, t, p, g, j, ḍ, d, b.'
+
+grammar-c-p5: 'mahāprāṇākṣaragaḷu = heccu usirininda uccarisalāguva vyañjanagaḷu mahāprāṇākṣaragaḷu. udā : kh, ch, ṭh, th, ph. gh, jh, ḍh, dh, bh.'
+
+grammar-c-p6: 'anunāsikākṣaragaḷu = mūgina sahāyadinda uccarisalāguva vyañjanagaḷu anunāsikākṣaragaḷu. udā : ṅa, ña, ṇ, n, m.'
+
+grammar-c-p7: '2. avargīya vyañjanagaḷu. ‘y’ kāradinda ‘ḷ’ kāradavaregina 9 akṣaragaḷu avargīya vyañjanagaḷu. udā : y, r, l, v, ś, ṣ, s, h, ḷ. ivu utpattiyāguva sthānagaḷu bērebēreyāgiruvudarinda, ivugaḷannu nirdiṣṭavāda vargagaḷalli sērisi hēḷalu baruvudillavāddarinda ivannu avargīya vyañjanagaḷu endu kareyuvaru.'
+
+grammar-d-p1: '‘yōga’ endare ‘kūḍu, ‘vāha’ endare hōguva endartha. ‘yōgavāha'' endare kūḍihōguva (kūḍikoṇḍiruva) andare bēre akṣaragaḷa joteyalli mātra uccarisabahudāda akṣara endartha.'
+
+grammar-d-p2: 'yōgavāhagaḷalli eraḍu vidha: 1) anusvāra (ṁ) 2) visarga (ḥ) udā : sinha, duḥkha'
+
+lang-ex-a-q1: 'svarākṣaragaḷa saṅkhye _________'
+
+lang-ex-a-q2: 'vyañjanagaḷa saṅkhye _________'
+
+lang-ex-a-q3: 'yōgavāhagaḷa saṅkhye _________'
+
+lang-ex-a-q4: '1. hrasva svarākṣaragaḷu = _________'
+
+lang-ex-a-q5: '2. dīrgha svarākṣaragaḷu = _________'
+
+lang-ex-b-q1: 'vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri.'
+
+lang-ex-c-q1: 'avargīya vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri.'
+
+lang-ex-d-q1: '1. dinapatrikegaḷalli baruva nālku makkaḷa kathegaḷannu saṅgrahisi, tūgupaṭadalli aṇṭisi.'
+
+lang-ex-e-q1: '1. granthālayadalli dorakuva paricita viṣayagaḷa kurita kathegaḷannu ōdiri.'
+
+lang-ex-f-q1: '1. sadguṇagaḷiruvalli sadgatiyide.'
+
+lang-ex-f-q2: '2. nisvārtha sēvege agrapūje.'
+
+lang-ex-f-q3: '3. parōpakāravē parama śrēṣṭha guṇa.'

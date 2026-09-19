@@ -1,0 +1,50 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 5
+  slug: ch05-rekhabhyasa-pathagalu
+  title: ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು
+  exercise-1: ರೇಖಾಭ್ಯಾಸ -೧
+  exercise-2: ರೇಖಾಭ್ಯಾಸ -೨
+  exercise-3: ರೇಖಾಭ್ಯಾಸ -೩
+  exercise-4: ರೇಖಾಭ್ಯಾಸ -೪
+  exercise-5: ರೇಖಾಭ್ಯಾಸ -೫
+segments:
+- id: intro-1
+  type: prose
+  text: ತೋಚಿದಂತೆ ಗೀಚು
+- id: intro-2
+  type: prose
+  text: (ಮಕ್ಕಳು ತಮ್ಮ ಮನಸ್ಸಿಗೆ ಬಂದಂತೆ ಗೆರೆ ಎಳೆಯಲು ಹೇಳಿ)
+- id: ex-1-title
+  type: prose
+  exercise: '1'
+  text: ರೇಖಾಭ್ಯಾಸ -1
+- id: ex-1-intro
+  type: prose
+  exercise: '1'
+  text: ತೋರಿಸಿ - ಬರೆಯಿಸಿ
+- id: ex-2-title
+  type: prose
+  exercise: '2'
+  text: ರೇಖಾಭ್ಯಾಸ -2
+- id: ex-3-title
+  type: prose
+  exercise: '3'
+  text: ರೇಖಾಭ್ಯಾಸ -3
+- id: ex-4-title
+  type: prose
+  exercise: '4'
+  text: ರೇಖಾಭ್ಯಾಸ -4
+- id: ex-5-title
+  type: prose
+  exercise: '5'
+  text: ರೇಖಾಭ್ಯಾಸ -5

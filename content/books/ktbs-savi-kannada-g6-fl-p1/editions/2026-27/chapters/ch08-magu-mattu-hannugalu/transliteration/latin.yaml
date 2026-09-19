@@ -1,0 +1,79 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kavi kṛti paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. kèḻagina praśnègaḻigè uttarisi.
+  exercise-B: ā. biṭṭasthaḻa tuṃbiri.
+  exercise-C: i. ī padagaḻannu biḍisi barèyiri.
+  exercise-D: ī. kèḻagina padyabhāgavannu pūrṇagòḻisi.
+intro-1: mānavanigè prakṛtiye mòdala guru. èllariṃdalū èlladariṃdalū mānava pāṭha kaliyabeku. prāṇi, pakṣi, mara-giḍagaḻiṃdalū kaliyuva viṣayagaḻu bahaḻaṣṭivè. ‘èllaròḻagòṃdu nuḍi kalitu vidyèya parvatave āda sarvajña’ ènnuva hāgè haṇṇugaḻiṃdalū kaliyabekāda pāṭhagaḻivè. haṇṇina hāgè baduku māgidarè bāḻu sihiyāgiruttadè èṃba āśayada padyavidu.
+poem-s1l1: haṇṇinaṃgaḍi muṃdè kaṇṇaraḻisuva magu
+poem-s1l2: illi ī tiruvalli thaṭṭanavatarisida kappu lāriya hāgè
+poem-s1l3: gāḻi kīṭalè ugurò
+poem-s1l4: tuṃṭarèsèyuva kallo
+poem-s2l1: kāyiyalle ninna kèḍavadirali
+poem-s2l2: haṇṇinaṃgaḍiyāgu nīnūnu
+poem-s2l3: giraviyaṃgaḍi gujarigaḻa dhūḻu habbida
+poem-s2l4: ūra mārukaṭṭèya naḍuvè
+poem-s3l1: haṇṇāgabeku magu
+poem-s3l2: maiyèlla māgihuṇṇina sukku baruvavarègè
+poem-s3l3: pakvatana birida bāḻèhaṇṇidèyalla
+poem-s3l4: adara hāge kòṃca bāgabeku
+poem-s4l1: kòbbidarè cakotanèya hāgè
+poem-s4l2: kuggidarè niṃbè haṇṇina hāgè
+poem-s4l3: huḻigaṭṭuvudu ninnòḻagè
+poem-s4l4: sarigātravāgi samanisali ninnatana
+poem-s5l1: kittalèya hāgè, mosaṃbi hāgè
+poem-s5l2: rasapūri māvina haṇṇinaṃtè
+poem-s5l3: aṃjūradaṃtè aparūpavāgu janara kaṇṇigè;
+poem-s5l4: kaṃḍarè kāṇu kallaṃgaḍiyāgi
+poem-s6l1: besigèya kamariruva kaṇṇugaḻigè
+poem-s6l2: daḻadaḻakòydu araḻisida dāḻiṃbèyòḻagè
+poem-s6l3: thaḻathaḻa kèṃḍa baṇṇa maṇimaṇi
+poem-s6l4: hanihani tanirasada khaniyāgu;
+poem-s7l1: habbiko drākṣi baḻḻiya hāgè
+poem-s7l2: āyuṣyè capparada uddagala;
+poem-s7l3: tabbiko biḍabeḍa;
+poem-s7l4: haṇṇu tòḍisalu ninagè
+poem-s8l1: tānè maṇṇāguta-baralu toṭagāti
+poem-s8l2: bèlèya rākèṭṭu yāna hòraḍadiru
+poem-s8l3: sebu haṇṇina jòtègè
+poem-s8l4: èllarigū dakkuva èlaciyāgu
+author-1: śrī èc. ès. śivaprakāś avaru 1954ralli bèṃgaḻūrinalli janisidaru. iṃgliṣ prādhyāpakarāgi sevèyannu sallisiddārè. ivaru mahācaitra, sultān ṭippu, navilu nagara, maḻèbidda nèladalli mòdalāda kṛtigaḻannu racisiddārè. ivarigè karnāṭaka nāṭaka akāḍèmi praśasti, keṃdra saṃgīta nāṭaka akāḍèmi mattu keṃdra sāhitya akāḍèmi praśastigaḻannu nīḍi gauravisalāgidè.
+vocab-giraviyangadi: giraviyaṃgaḍi
+vocab-giraviyangadi-def: vastugaḻannu aḍaviṭṭukòṃḍu haṇa nīḍuva aṃgaḍi
+vocab-gujari: gujari
+vocab-gujari-def: haḻèya vastugaḻannu māruva sthaḻa
+vocab-pakvatana: pakvatana
+vocab-pakvatana-def: māgida
+vocab-kobbu: kòbbu
+vocab-kobbu-def: dappanāgu
+vocab-kamaru: kamaru
+vocab-kamaru-def: kaṃdu
+vocab-khani: khani
+vocab-khani-def: gaṇi, ākara
+vocab-dakku: dakku
+vocab-dakku-def: dòraku
+ex-a-q1: kaviya prakāra magu enāgabeku?
+ex-a-q2: magu yāva haṇṇina hāgè bāgabeku?
+ex-a-q3: yāva haṇṇinaṃtè kuggabeku èṃdu kavigaḻu heḻuttārè?
+ex-a-q4: aparūpavāda haṇṇu yāvudu?
+ex-a-q5: kamariruva kaṇṇugaḻigè hegè kāṇabeku?
+ex-b-q1: thaḻa thaḻa kèṃḍa ________ maṇi maṇi.
+ex-b-q2: habbiko _________ baḻḻiya hāgè.
+ex-b-q3: èllarigū __________ èlaciyāgu.
+ex-b-q4: bèlèya ________ yāna hòraḍadiru.
+ex-b-q5: sarigātravāgi samanisali ______
+ex-c-q1: haṇṇinaṃgaḍi
+ex-c-q2: kaṇṇaraḻisu
+ex-c-q3: tuṃṭarèsèyuva
+ex-c-q4: huḻigaṭṭuvudu
+ex-c-q5: ninnòḻagè
+ex-c-q6: aparūpavāgu
+ex-d-q1: kòbbidarè __________________________ / _____________________________ninnatana

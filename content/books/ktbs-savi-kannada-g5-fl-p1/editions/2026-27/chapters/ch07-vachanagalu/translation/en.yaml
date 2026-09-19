@@ -1,0 +1,266 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  author_intro: 'About the authors'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions in one sentence.'
+  exercise-B: 'B. Answer the following questions in two or three sentences.'
+  exercise-C: 'C. Who said it, and to whom?'
+  exercise-D: 'D. Match and write.'
+  exercise-E: 'U. Fill in the blanks.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Answer the following questions.'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'B. Recognition for reading'
+  language-exercise-B: 'C. Good sayings'
+
+intro-1: 'To see God in life, purity of the inner self is very important. The thought of seeing God matters more than other worries. When praise and blame come in life, it is important to stay calm without anger in the mind. That humans should be free of ego, match speech with conduct, and be generous—this is the aim here.'
+
+poem-s1l1: 'Do not steal, do not kill, do not speak falsehood,'
+
+poem-s1l2: 'Do not get angry, do not feel disgust toward others,'
+
+poem-s1l3: 'Do not praise yourself, do not abuse the other,'
+
+poem-s1l4: 'This alone is inner purity; this alone is outer purity;'
+
+poem-s1l5: 'This alone is the way to please our Kudalasangama Deva.'
+
+poem-s1l6: '— Basavanna'
+
+poem-s2l1: 'For poverty, worry of food; if fed, worry of clothes,'
+
+poem-s2l2: 'If clothed, worry of storing; if stored, worry of wife,'
+
+poem-s2l3: 'If wife, worry of children; if children, worry of life,'
+
+poem-s2l4: 'If life, worry of harm; if harm, worry of death,'
+
+poem-s2l5: 'I have seen people in so many such worries.'
+
+poem-s2l6: 'I have not seen even one who stayed in thought of Shiva, said he,'
+
+poem-s2l7: 'Our boatman Chaudayya is a true sharana.'
+
+poem-s2l8: '— Ambiga Chaudayya'
+
+poem-s3l1: 'If you build a house on a hill,'
+
+poem-s3l2: 'and fear the beasts—then what, O Lord?'
+
+poem-s3l3: 'If you build a house by the sea shore,'
+
+poem-s3l4: 'and fear the foaming waves—then what, O Lord?'
+
+poem-s3l5: 'If you build a house in the market,'
+
+poem-s3l6: 'and feel shy of noise—then what, O Lord?'
+
+poem-s3l7: 'Listen, O Chennamallikarjuna Deva,'
+
+poem-s3l8: 'After being born in the world, when praise and blame come,'
+
+poem-s3l9: 'one must stay calm without harbouring anger in the mind.'
+
+poem-s3l10: '— Akkamahadevi'
+
+poem-s4l1: 'When one speaks, it should be like a pearl necklace.'
+
+poem-s4l2: 'When one speaks, it should be like the glow of a ruby.'
+
+poem-s4l3: 'When one speaks, it should be like a crystal rod.'
+
+poem-s4l4: 'When one speaks, the Linga should approve saying “yes, yes.”'
+
+poem-s4l5: 'If one does not act according to one’s speech,'
+
+poem-s4l6: 'how will Kudalasangama Deva be pleased, O Lord?'
+
+poem-s4l7: '— Basavanna'
+
+poem-s5l1: 'Is desire only for kings, not for Shiva’s devotees?'
+
+poem-s5l2: 'Is rage only for Yama’s servants, not for the unborn (egoless)?'
+
+poem-s5l3: 'Aydakki, why desire for you? If Ishwara consents,'
+
+poem-s5l4: 'you stay far from Marayya’s beloved Amareshwara Linga,'
+
+poem-s5l5: 'Bring broken rice; walk quickly, O Lord.'
+
+poem-s5l6: '— Aydakki Lakkamma'
+
+author-intro-1: 'Basavanna: A 12th-century vachana poet. Born in Basavan Bagewadi of Vijayapura district. Father Madarasa, mother Madalambike. His signature name is Kudalasangama Deva.'
+
+author-intro-2: 'Ambiga Chaudayya: A 12th-century vachana poet. Born in Chaudadanapura of Ranebennur taluk, Haveri district. His signature name is Ambiga Chaudayya.'
+
+author-intro-3: 'Akkamahadevi: A 12th-century vachana poet. Born in Udutadi of Shikaripur taluk, Shivamogga district. Father Nirmalashetti, mother Sumati. Her signature name is Chennamallikarjuna.'
+
+author-intro-4: 'Aydakki Lakkamma: A 12th-century vachana poet. Amareshwara in Raichur district is her birthplace. Her signature name is Marayyapriya Amareshwara Linga.'
+
+vocab-antaranga: 'antaranga (inner)'
+
+vocab-antaranga-def: 'inner mind'
+
+vocab-anjidare: 'anjidare (if afraid)'
+
+vocab-anjidare-def: 'if afraid'
+
+vocab-ajata: 'ajata (unborn)'
+
+vocab-ajata-def: 'one without birth (egoless)'
+
+vocab-kinkara: 'kinkara (servant)'
+
+vocab-kinkara-def: 'servant, attendant'
+
+vocab-dipti: 'dipti (glow)'
+
+vocab-dipti-def: 'light, radiance'
+
+vocab-ninda: 'ninde (blame)'
+
+vocab-ninda-def: 'abuse, censure'
+
+vocab-nuchu: 'nuchu (broken rice)'
+
+vocab-nuchu-def: 'broken rice'
+
+vocab-bahiranga: 'bahiranga (outer)'
+
+vocab-bahiranga-def: 'outer'
+
+vocab-muni: 'muni (anger)'
+
+vocab-muni-def: 'anger'
+
+vocab-mriga: 'mriga (beast)'
+
+vocab-mriga-def: 'animal'
+
+vocab-rosha: 'rosha (rage)'
+
+vocab-rosha-def: 'anger, fury'
+
+vocab-shalake: 'shalake (rod)'
+
+vocab-shalake-def: 'stick, rod'
+
+vocab-sphatika: 'sphatika (crystal)'
+
+vocab-sphatika-def: 'quartz crystal'
+
+vocab-stuti: 'stuti (praise)'
+
+vocab-stuti-def: 'praise'
+
+vocab-hali: 'hali (abuse)'
+
+vocab-hali-def: 'to censure'
+
+vocab-husi: 'husi (lie)'
+
+vocab-husi-def: 'falsehood'
+
+ex-a-q1: 'According to Basavanna, what is inner and outer purity?'
+
+ex-a-q2: 'According to Ambiga Chaudayya, who is a true sharana?'
+
+ex-a-q3: 'Having built a house on a hill, what should one not fear?'
+
+ex-a-q4: 'How should our speech be?'
+
+ex-a-q5: 'For whom should desire exist?'
+
+ex-b-q1: 'How does one please Kudalasangama Deva?'
+
+ex-b-q2: 'What kinds of worries has Ambiga Chaudayya seen people in?'
+
+ex-b-q3: 'According to Akkamahadevi, when should we stay calm?'
+
+ex-b-q4: 'When will Kudalasangama Deva not be pleased?'
+
+ex-b-q5: 'What did Aydakki Lakkamma say to Marayya?'
+
+ex-c-q1: 'If shy of noise—then what, O Lord?'
+
+ex-c-q2: 'When one speaks, it should be like a pearl necklace.'
+
+ex-c-q3: 'Aydakki, why desire for you?'
+
+ex-d-q1: '1. Ambiga Chaudayya
+
+  2. Aydakki Lakkamma
+
+  3. Basavanna
+
+  4. Akkamahadevi
+
+
+  A. Kudalasangama Deva
+
+  B. Chennamallikarjuna
+
+  C. Ambiga Chaudayya
+
+  D. Guheshwara
+
+  E. Marayyapriya Amareshwara Linga'
+
+ex-e-q1: 'This alone is the way to please our __________.'
+
+ex-e-q2: 'I have not seen even one who stayed in __________ thought, said he.'
+
+ex-e-q3: 'If you build a house by the sea shore and fear __________, then what, O Lord?'
+
+ex-e-q4: 'When one speaks, it should be like the glow of __________.'
+
+ex-e-q5: 'Is rage only for Yama’s __________, not for the unborn?'
+
+grammar-p1: 'Sandhis
+
+  When two letters join without delay of time according to meaning, that is sandhi.
+
+  For example:
+
+  male + kala = malegala
+
+  When one word joins another, three kinds of processes may occur at the end of the first word and the beginning of the second. A letter may be dropped, another may appear, or one letter may go and another take its place. This is called “sandhi-karya”.
+
+  First word + second word = sandhi process
+
+  matu + annu = matannu
+
+  (u) + (a) = u is dropped
+
+  We will learn about various kinds of sandhi in the next lesson.'
+
+grammar-a-q1: '1. What is sandhi? Give one example.'
+
+grammar-a-q2: '2. What is sandhi-karya?'
+
+grammar-a-q3: '3. tene + annu. State which is the first word and which the second. Write the sandhi process that occurred.'
+
+grammar-a-q4: '4. Split these words and write. State the sandhi process: sakkareyayitu, kettavalenu, duhkitanadanu'
+
+lang-ex-a-q1: '1. Collect and read vachanas of various vachana poets.'
+
+lang-ex-a-q2: '2. Listen to vachanas on audio recordings.'
+
+lang-ex-a-q3: '3. Sing vachanas in a group.'
+
+lang-ex-a-q4: '4. Read life histories of vachana poets.'
+
+lang-ex-b-q1: '1. Inner purity is far more important than outer purity.'
+
+lang-ex-b-q2: '2. Thought of the divine brings joy to the mind.'
+
+lang-ex-b-q3: '3. Do not swell with praise; do not shrink with blame.'
+
+lang-ex-b-q4: '4. Conduct and speech should be one.'

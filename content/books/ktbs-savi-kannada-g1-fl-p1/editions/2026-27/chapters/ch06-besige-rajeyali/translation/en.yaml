@@ -1,0 +1,87 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: In the Summer Holiday
+  intro: 'Lesson - 6 : Pre-lesson activity'
+  poem: Poem
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: Exercise A
+  exercise-B: Exercise B
+  exercise-C: Exercise C
+  exercise-D: Exercise D
+intro-1: A) Tell them to colour the picture (saffron and green).
+intro-kesari: saffron/orange
+intro-hasiru: green
+intro-2: B) Tell the children to fill the picture with a colour they like.
+poem-intro: (Sing the poem and have the children sing)
+poem-s1l1: In the summer holiday
+poem-s1l2: With father I
+poem-s1l3: Will go to the village
+poem-s2l1: Sweating
+poem-s2l2: With the farmers
+poem-s2l3: I too will work
+poem-s3l1: Touching the sky
+poem-s3l2: In a loud voice
+poem-s3l3: I will sing a song
+poem-s4l1: Happening in the world
+poem-s4l2: Wonderful matters
+poem-s4l3: I will tell them
+poem-s5l1: Grown in the garden
+poem-s5l2: Of many kinds of fruit
+poem-s5l3: I will taste the flavour
+poem-s6l1: Of deep green
+poem-s6l2: Of beautiful creation
+poem-s6l3: 'I will see the beauty!'
+vocab-besige: summer
+vocab-raje: holiday
+vocab-halli: village
+vocab-bevaru: sweat
+vocab-raita: farmer
+vocab-dudi: work
+vocab-mugilu: sky/cloud
+vocab-ettara: height/loud
+vocab-dani: voice
+vocab-haadu: song
+vocab-jaga: world
+vocab-kautuka: wonder
+vocab-vishaya: matter
+vocab-tota: garden
+vocab-hannu: fruit
+vocab-savi: taste
+vocab-hacchane: deep/dense
+vocab-sundara: beautiful
+vocab-srishti: creation
+vocab-sobagu: beauty
+note-raita: farmer
+note-raita-def: cultivator
+note-mugilu: sky
+note-mugilu-def: sky
+note-savi: taste
+note-savi-def: flavour
+note-sobagu: beauty
+note-sobagu-def: charm
+ex-a-intro: A) Have the children say the missing word in the poem lines.
+ex-a-q1: 1. With father I will go to _____.
+ex-a-q2: 2. In a loud voice I will _____ a song.
+ex-a-q3: 3. Of many kinds of fruit I will _____ the flavour.
+ex-a-q4: 4. Of beautiful creation I will _____ the beauty.
+ex-b-intro: B) Ask the children questions and have them answer.
+ex-b-q1: 1. With whom does the poet work?
+ex-b-q2: 2. Where are the wonderful matters happening?
+ex-b-q3: 3. When should one go to the village?
+ex-c-intro: C) Join the words in lists A, AA and I to complete the poem lines.
+ex-c-col-a: 'A: In the summer holiday / Grown in the garden / Happening in the world / Touching the sky'
+ex-c-col-aa: 'AA: Wonderful matters / In a loud voice / With father I / Of many kinds of fruit'
+ex-c-col-i: 'I: I will sing a song. / I will tell them. / I will taste the flavour. / I will go to the village.'
+ex-d-intro: D) Say the lines below to the children and have them say them.
+ex-d-q1: 1. One should go to the village in the summer holiday.
+ex-d-q2: 2. The farmer works sweating.
+ex-d-q3: 3. Wonderful matters happen in the world.
+ex-d-q4: 4. There are many kinds of fruit in the garden.
+ex-d-q5: 5. Creation is deep green.
+ex-d-q6: 6. One should sing the song in a loud voice.

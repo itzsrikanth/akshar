@@ -1,0 +1,320 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 2
+  slug: ch02-gandharvasena
+  title: ಗಂಧರ್ವಸೇನ!
+  source_url: https://diksha.gov.in
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ಕಥೆ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ವಿವರ ತಿಳಿಯಿರಿ
+  exercise-A: ಅ. ಸರಿಯಾದ ಪದಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿರಿ.
+  exercise-B: ಆ. ಈ ಪದಗಳ ಅರ್ಥ ಬರೆಯಿರಿ.
+  exercise-C: ಇ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-D: ಈ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.
+  exercise-E: ಉ. ಸಂದರ್ಭ ಸಹಿತ ವಿವರಿಸಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  text: ಎಷ್ಟೋ ಸಂದರ್ಭಗಳಲ್ಲಿ ನಾವು ಮಾತನಾಡುವ ಶೈಲಿ, ದೇಹದ ಹಾವಭಾವಗಳು ನಿಜವಾಗಿ ನೀಡಬೇಕಾದ ಅರ್ಥಕ್ಕಿಂತ ಭಿನ್ನವಾದ ಅರ್ಥಗಳನ್ನು ಕೊಡುವುದಿದೆ. ಮಾತಿನ ಹಿನ್ನೆಲೆಯಲ್ಲಿರುವ ನಿಜವಾದ ಅರ್ಥವನ್ನು ಗ್ರಹಿಸಬೇಕಾದರೆ ಆ ಮಾತಿನ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ ಸ್ಪಷ್ಟತೆ ಇರಬೇಕು. ಹಾಗಾದಾಗ ಮಾತ್ರವೇ ಭಾಷೆಯು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ಸಂವಹನಗೊಳ್ಳುವುದು.
+  section: intro
+- id: intro-2
+  type: prose
+  text: ಇದೊಂದು ಜಾನಪದ ಮೂಲದಿಂದ ಆರಿಸಿಕೊಂಡು ರಚಿಸಲಾದ ಕತೆ.
+  section: intro
+- id: story-n1
+  type: prose
+  text: ಒಂದು ದಿನ ಒಬ್ಬ ರಾಜ ಒಡ್ಡೋಲಗದಲ್ಲಿದ್ದಾಗ, ಅವನ ಮಂತ್ರಿ ಗಟ್ಟಿಯಾಗಿ ಅಳುತ್ತಾ ಬಂದನು. ಅವನ ರೋದನಕ್ಕೆ ಕಾರಣವೇನೆಂದು ರಾಜ ಪ್ರಶ್ನಿಸಿದ. ಮಂತ್ರಿಯು ಸಿಂಹಾಸನವನ್ನು ಚುಂಬಿಸಿ, ಭೂಮಿಯನ್ನು ಮುಟ್ಟಿ ನಮಸ್ಕರಿಸಿ ತನ್ನ ನಾಲಗೆಯನ್ನು ಉದ್ದ ಮಾಡಿ - ‘ಮಹಾರಾಜರೇ ಗಂಧರ್ವಸೇನರು ತೀರಿಕೊಂಡರಂತೆ’ ಎಂದು ಉದ್ಗರಿಸುತ್ತಾ ಮೂರ್ಛೆ ಹೋದ. ರಾಜನು ಒಡ್ಡೋಲಗವನ್ನು ಅಲ್ಲಿಗೇ ಪರಿಸಮಾಪ್ತಿಗೊಳಿಸಿ ಕಣ್ಣೀರು ಸುರಿಸುತ್ತ ಗಂಧರ್ವಸೇನರ ಆತ್ಮಶಾಂತಿಗಾಗಿ ನಾಲ್ಕು ದಿನಗಳ ಕಾಲ ರಾಜ್ಯಾದ್ಯಂತ ಎಲ್ಲರೂ ಶೋಕಾಚರಣೆ ಮಾಡಬೇಕೆಂದು ಆಜ್ಞಾಪಿಸಿದ. ಮಂತ್ರಿಯ ಆರೈಕೆಗೆ ವೈದ್ಯರನ್ನು ಕರೆಸಿ ಉಪಚರಿಸುವಂತೆ ರಾಜಭಟರಿಗೆ ತಿಳಿಸಿ ಅಂತಃಪುರಕ್ಕೆ ಬಂದ. ರಾಜ, ಅಲ್ಲಿಯೂ ಕರುಳು ಕಿತ್ತುಬರುವಂತೆ ಅಳತೊಡಗಿದ.
+  section: story
+- id: story-n2
+  type: prose
+  text: ರಾಣಿಯರು ಅವನ ಶೋಕಕ್ಕೆ ಕಾರಣವನ್ನು ಕೇಳಿದರು. ‘ಗಂಧರ್ವಸೇನರು ತೀರಿಕೊಂಡರು’ ಎಂದು ರಾಜ ಗದ್ಗದ ಕಂಠದಿಂದ ಹೇಳಿದಾಗ, ‘ರಾಜನ ದುಃಖ ತಮ್ಮ ದುಃಖ’ ಎಂದು ಅವರು ಕೂಡ ಕರುಳು ಹಿಂಡುವಂತೆ ಎದೆ ಬಡಿದುಕೊಂಡು ಅಳಲಾರಂಭಿಸಿದರು. ಇಡೀ ಅಂತಃಪುರ ದುಃಖ ಹಾಗೂ ಗೊಂದಲದಿಂದ ತುಂಬಿತು.
+  section: story
+- id: story-n3
+  type: prose
+  text: ರಾಣಿಯ ಸೇವಕಿಯೊಬ್ಬಳಿಗೆ ಈ ಎಲ್ಲಾ ಗೊಂದಲ ಏಕೆಂದು ತಿಳಿಯಲಿಲ್ಲ. ಅವಳು, “ಮಹಾರಾಣಿಯವರೇ, ಎಲ್ಲರು ಏಕೆ ಅಳುತ್ತಿದ್ದಾರೆ?” ಎಂದು ಕೇಳಿದಳು. ರಾಣಿ ನಿಟ್ಟುಸಿರುಬಿಟ್ಟು, “ಪಾಪ! ಗಂಧರ್ವಸೇನರು ತೀರಿಕೊಂಡರಂತೆ” ಎಂದಳು. ಸೇವಕಿ ಚುರುಕು ಬುದ್ಧಿಯವಳು. ಅವಳು ಆಲೋಚನೆ ಮಾಡಿದಳು. ಈ ನಮ್ಮ ಮಹಾರಾಜರಿಗೂ ಆ ಗಂಧರ್ವಸೇನರಿಗೂ ಏನ್ ಸಂಬಂಧ? ಎಂದು ಆತಂಕದಿಂದ ರಾಣಿಯ ಬಳಿ ಕೇಳಿದಳು. ರಾಣಿ ಅದು ತನಗೆ ಗೊತ್ತಿಲ್ಲವೆಂದು ನುಡಿದು ರಾಜನ ಬಳಿಗೆ ಓಡಿಹೋಗಿ, “ಗಂಧರ್ವಸೇನರು ಯಾರು?” ಎಂದು ಕೇಳಿದಳು. ರಾಜನಿಗೂ ಗೊತ್ತಿಲ್ಲ. ಆತ ಕಣ್ ಕಣ್ ಬಿಟ್ಟು “ತಾನೆಂಥ ಮೂರ್ಖತನದ ಕೆಲಸ ಮಾಡಿದೆ” ಅಂದುಕೊಂಡು ಕೂಡಲೇ ಆಸ್ಥಾನಕ್ಕೆ ತೆರಳಿದ.
+  section: story
+- id: story-n4
+  type: prose
+  text: ಈಗಾಗಲೆ ವೈದ್ಯರ ಉಪಚಾರದಿಂದ ಸುಧಾರಿಸಿಕೊಂಡಿದ್ದ ಮಂತ್ರಿಯನ್ನು ಕರೆಸಿಕೊಂಡು, “ಮಂತ್ರಿಗಳೇ, ಯಾರು ಈ ಗಂಧರ್ವಸೇನ?” ಎಂದು ಪ್ರಶ್ನಿಸಿದ. “ಮಹಾರಾಜರೆ ದಯವಿಟ್ಟು ಕ್ಷಮಿಸಿ. ಗಂಧರ್ವಸೇನರು ಯಾರೆಂಬುದು ನನಗೂ ತಿಳಿದಿಲ್ಲ. ಆದರೆ ಪಡೆಯ ಮುಖ್ಯಸ್ಥನು ಗಂಧರ್ವಸೇನ ತೀರಿಕೊಂಡರೆಂದು ಗಟ್ಟಿಯಾಗಿ ಗಂಟಲು ಹರಿಯುವಂತೆ ಕೂಗುತ್ತಾ ಅಳುತ್ತಿರುವುದನ್ನು ಕಂಡು ನಾನೂ ಅತ್ತೆ” ಎಂದು ಮಾರ್ನುಡಿದ. ರಾಜನ ಕೋಪ ನೆತ್ತಿಗೇರಿತು. “ನೀನೊಬ್ಬ ಮೂರ್ಖ. ಕೂಡಲೆ ಹೋಗಿ ಗಂಧರ್ವಸೇನ ಯಾರೆಂದು ಪತ್ತೆ ಮಾಡಿಕೊಂಡು ಬಾ” ಎಂದ. ಮಂತ್ರಿ ರಾಜನಿಗೆ ವಂದಿಸಿ, ‘ಕೇಳಿದ ಕಿವಿ ಊರಿಗೆ ಮಾರಿ ತಂದಿತು’ ಅಂದುಕೊಂಡು ಅಲ್ಲಿಂದ ಕಾಲಿಗೆ ಬುದ್ಧಿಹೇಳಿದ.
+  section: story
+- id: story-n5
+  type: prose
+  text: ಪಡೆಯ ಮುಖ್ಯಸ್ಥನನ್ನು ಕಂಡು, “ಗಂಧರ್ವಸೇನರು ಯಾರು?” ಎಂದು ಪ್ರಶ್ನಿಸಿದ. “ಸ್ವಾಮಿ, ಅವರು ಯಾರು? ಏನಾಗಿದ್ದರು? ಎಂದು ನನಗೆ ತಿಳಿಯದು. ಆದರೆ ಅವರು ತೀರಿಕೊಂಡರೆಂದು ಸ್ವತಃ ನನ್ನ ಹೆಂಡತಿಯೇ ಅಳುತ್ತಿದ್ದಳು. ಈ ಸುದ್ದಿಯನ್ನು ನಿಮಗೆ ಹೇಳಬೇಕೆನಿಸಿತು. ಬಂದು ಹೇಳಿದೆ” ಎಂದನು. ಮಂತ್ರಿ ತಲೆಯ ಮೇಲೆ ಕೈ ಹೊತ್ತು ಕುಳಿತ. ಇರಲಿ, ಇವನ ಹೆಂಡತಿಯನ್ನು ವಿಚಾರಿಸೋಣ ಎಂದು ಇಬ್ಬರೂ ಆತನ ಮನೆಗೆ ಹೋಗಿ, “ಯಾರಮ್ಮ ಈ ಗಂಧರ್ವಸೇನ?” ಎಂದು ಕೇಳಿದರು. ಅವಳು, “ಸ್ವಾಮೀ, ಗಂಧರ್ವಸೇನರ ಪರಿಚಯ ನನಗಿಲ್ಲ. ಈ ದಿವಸ ಬೆಳಿಗ್ಗೆ ಸ್ನಾನ ಮಾಡಲಿಕ್ಕೆ ಕೆರೆಗೆ ಹೋಗಿದ್ದೆ. ಅಲ್ಲಿ ಮಡಿವಾಳ್ತಿ ತನ್ನ ಗಂಧರ್ವ ಸೇನ ಸತ್ತಿದ್ದಾನೆಂದು ಬಾಯಿ ಬಡಿದುಕೊಂಡು ಒಂದೇ ಸಮನೆ ಅಳುತ್ತಿದ್ದಳು. ಅದನ್ನು ನೋಡಿ ನಾನೂ ಅತ್ತೆ, ಗಂಡನ ಬಳಿ ಹೇಳಿದೆ” ಎಂದಳು. ಮಂತ್ರಿಗೆ ತಲೆಸುತ್ತಿದಂತಾಯ್ತು.
+  section: story
+- id: story-n6
+  type: prose
+  text: ಈ ಗಂಧರ್ವಸೇನ ಯಾರು? ತಲೆತಲೆ ಚಚ್ಚಿಕೊಂಡ. ಏನೇ ಆಗಲಿ ಎಂದುಕೊಂಡು ಅವರೆಲ್ಲರೂ ಆ ಮಡಿವಾಳ್ತಿಯ ಮನೆಗೆ ಹೋಗಿ, ‘ಗಂಧರ್ವಸೇನ ಯಾರು?’ ಎಂದು ಕೇಳಿದರು. ಅವಳು ದುಃಖಿಸತೊಡಗಿದಳು. “ಸ್ವಾಮಿ, ನನಗೆ ಅದೃಷ್ಟವಿಲ್ಲ. ಈಗಲೂ ನನ್ನ ಹೃದಯ ಅವನಿಗಾಗಿ ಮಿಡಿಯುತ್ತಿದೆ. ಗಂಧರ್ವಸೇನ ನನ್ನ ಪ್ರೀತಿಯ ಕತ್ತೆ. ನನ್ನ ಮಗನಿಗಿಂತಲೂ ಹೆಚ್ಚಾಗಿ ಅವನನ್ನು ಮುದ್ದಿನಿಂದ ಬೆಳೆಸಿದ್ದೆ. ನಮ್ಮ ಎಲ್ಲಾ ವ್ಯವಹಾರಗಳನ್ನೂ ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದ. ಸ್ವಾಮಿ, ನಿನ್ನೆ ರಾತ್ರಿ ಕಣ್ಣು ಮುಚ್ಕೊಂಬಿಟ್ಟ. ನನ್ನ ಹೊಟ್ಟೆ ಮೇಲೆ ಕಲ್ಹಾಕ್ ಬಿಟ್ಟ” ಎಂದು ಬೊಬ್ಬಿಟ್ಟು ಅತ್ತಳು. ಇದನ್ನು ಕೇಳಿದ ಮಂತ್ರಿ, ಮುಖ್ಯಸ್ಥ, ಅವನ ಹೆಂಡತಿ ಒಬ್ಬರ ಮುಖವನ್ನು ಒಬ್ಬರು ನೋಡಿಕೊಂಡು ಅಲ್ಲಿಂದ ಕಂಬಿಕಿತ್ತರು.
+  section: story
+- id: story-n7
+  type: prose
+  text: ಮಂತ್ರಿ ಅರಮನೆಗೆ ಬಂದು ರಾಜನ ಕಾಲಿಗೆ ಬಿದ್ದು ನಿಜಾಂಶವನ್ನು ಹೇಳಿದ. “ಗಂಧರ್ವಸೇನರು ಸತ್ತರೆಂದು ನಾವೆಲ್ಲ ಶೋಕಿಸಿದೆವಲ್ಲಾ, ಅದು ಬೇರೆ ಯಾರು ಅಲ್ಲ; ಮಡಿವಾಳ್ತಿಯ ಪ್ರೀತಿಯ ಕತ್ತೆ” ಎಂದು ಹೇಳಿದ. ರಾಜ ಅವನಿಗೆ ಹಿಗ್ಗಾಮುಗ್ಗಾ ಬೈದನು. ಆದರೆ ಶಿಕ್ಷಿಸದೆ ಬಿಟ್ಟುಬಿಟ್ಟ. ಈ ಸುದ್ದಿ ಅಂತಃಪುರದ ರಾಣಿಯರ ಕಿವಿಗೂ ಮುಟ್ಟಿತು. ‘ಒಂದು ಕುರಿ ಹಳ್ಳಕ್ಕೆ ಬಿದ್ದರೆ ಎಲ್ಲಾ ಬಿದ್ದವು’ ಎನ್ನುವಂತೆ ರಾಜ ಮತ್ತು ಅವನ ಆಸ್ಥಾನಿಕರ ಮೂರ್ಖತನಕ್ಕಾಗಿ ರಾಣಿಯರು ತಮ್ಮ ಪಕ್ಕೆಲುಬುಗಳು ನೋಯುವವರೆಗೂ ನಗುತ್ತಲೇ ಇದ್ದರು.
+  section: story
+- id: vocab-oddolaga
+  type: vocabulary_term
+  text: ಒಡ್ಡೋಲಗ
+  section: vocab
+- id: vocab-oddolaga-def
+  type: vocabulary_definition
+  text: ರಾಜಸಭೆ, ದರ್ಬಾರು
+  section: vocab
+- id: vocab-rodana
+  type: vocabulary_term
+  text: ರೋದನ
+  section: vocab
+- id: vocab-rodana-def
+  type: vocabulary_definition
+  text: ಅಳುವಿಕೆ, ಪ್ರಲಾಪ
+  section: vocab
+- id: vocab-chumbana
+  type: vocabulary_term
+  text: ಚುಂಬನ
+  section: vocab
+- id: vocab-chumbana-def
+  type: vocabulary_definition
+  text: ಮುತ್ತು
+  section: vocab
+- id: vocab-udgarisu
+  type: vocabulary_term
+  text: ಉದ್ಗರಿಸು
+  section: vocab
+- id: vocab-udgarisu-def
+  type: vocabulary_definition
+  text: ಹೇಳು, ಹೊರಗೆಡಹು
+  section: vocab
+- id: vocab-parisamapti
+  type: vocabulary_term
+  text: ಪರಿಸಮಾಪ್ತಿ
+  section: vocab
+- id: vocab-parisamapti-def
+  type: vocabulary_definition
+  text: ಮುಕ್ತಾಯ, ಕೊನೆ
+  section: vocab
+- id: vocab-shoka
+  type: vocabulary_term
+  text: ಶೋಕ
+  section: vocab
+- id: vocab-shoka-def
+  type: vocabulary_definition
+  text: ಅಳಲು, ದುಃಖ
+  section: vocab
+- id: vocab-gadgada-kantha
+  type: vocabulary_term
+  text: ಗದ್ಗದ ಕಂಠ
+  section: vocab
+- id: vocab-gadgada-kantha-def
+  type: vocabulary_definition
+  text: ನಿಂತು ನಿಂತು ಬರುವ ಅಸ್ಪಷ್ಟವಾದ ಮಾತು, ಬಿಗಿದ ಕಂಠ
+  section: vocab
+- id: vocab-antahpura
+  type: vocabulary_term
+  text: ಅಂತಃಪುರ
+  section: vocab
+- id: vocab-antahpura-def
+  type: vocabulary_definition
+  text: ರಾಣಿವಾಸ
+  section: vocab
+- id: vocab-nittusiru
+  type: vocabulary_term
+  text: ನಿಟ್ಟುಸಿರು
+  section: vocab
+- id: vocab-nittusiru-def
+  type: vocabulary_definition
+  text: ದೀರ್ಘವಾಗಿ ಬಿಡುವ ಉಸಿರು, ನಿಡಿದಾದ ಶ್ವಾಸ
+  section: vocab
+- id: vocab-tirikollu
+  type: vocabulary_term
+  text: ತೀರಿಕೊಳ್ಳು
+  section: vocab
+- id: vocab-tirikollu-def
+  type: vocabulary_definition
+  text: ಗತಿಸು, ಮರಣ ಹೊಂದು
+  section: vocab
+- id: vocab-marnudi
+  type: vocabulary_term
+  text: ಮಾರ್ನುಡಿ
+  section: vocab
+- id: vocab-marnudi-def
+  type: vocabulary_definition
+  text: ಪ್ರತಿಯಾಗಿ ಮಾತನಾಡು, ಮಾರುತ್ತರ ಕೊಡು
+  section: vocab
+- id: vocab-patte
+  type: vocabulary_term
+  text: ಪತ್ತೆ
+  section: vocab
+- id: vocab-patte-def
+  type: vocabulary_definition
+  text: ಗುರುತು, ಸುಳಿವು, ವಿಳಾಸ
+  section: vocab
+- id: vocab-bobbidu
+  type: vocabulary_term
+  text: ಬೊಬ್ಬಿಡು
+  section: vocab
+- id: vocab-bobbidu-def
+  type: vocabulary_definition
+  text: ಕೂಗು, ಅರಚು, ಗಟ್ಟಿಯಾಗಿ ಹೇಳು
+  section: vocab
+- id: vocab-nijamsha
+  type: vocabulary_term
+  text: ನಿಜಾಂಶ
+  section: vocab
+- id: vocab-nijamsha-def
+  type: vocabulary_definition
+  text: ಸತ್ಯ, ದಿಟ
+  section: vocab
+- id: vocab-pakkelubu
+  type: vocabulary_term
+  text: ಪಕ್ಕೆಲುಬು
+  section: vocab
+- id: vocab-pakkelubu-def
+  type: vocabulary_definition
+  text: ಇಬ್ಬದಿಯ ಎಲುಬುಗಳು
+  section: vocab
+- id: note-shokacharane
+  type: note_term
+  text: ಶೋಕಾಚರಣೆ
+  section: notes
+- id: note-shokacharane-def
+  type: note_definition
+  text: ಸತ್ತವರಿಗಾಗಿ ಸಂತಾಪ ಸೂಚಿಸುವುದು.
+  section: notes
+- id: note-nalage-udda
+  type: note_term
+  text: ನಾಲಗೆಯನ್ನು ಉದ್ದ ಮಾಡಿ ಹೇಳು
+  section: notes
+- id: note-nalage-udda-def
+  type: note_definition
+  text: ಒಂದು ವಿಷಯದ ಬಗ್ಗೆ ತನಗೆ ಪೂರ್ಣ ಗೊತ್ತಿದೆ ಅಂದುಕೊಳ್ಳುತ್ತಾ ನಂಬಿಸಿ ಹೇಳುವುದು; ಅತಿಯಾಗಿ ಮಾತನಾಡುವುದು.
+  section: notes
+- id: note-karulu-kittu
+  type: note_term
+  text: ಕರುಳು ಕಿತ್ತುಬರುವಂತೆ ಅಳು
+  section: notes
+- id: note-karulu-kittu-def
+  type: note_definition
+  text: ತನಗಾದ ದುಃಖವನ್ನು ತೋರ್ಪಡಿಸಿಕೊಳ್ಳಲು ಅಳುವ ಒಂದು ರೀತಿ, ಅತೀವವಾದ ಅಳು.
+  section: notes
+- id: note-gantalu-hariyu
+  type: note_term
+  text: ಗಂಟಲು ಹರಿಯುವಂತೆ ಕೂಗು
+  section: notes
+- id: note-gantalu-hariyu-def
+  type: note_definition
+  text: ಬೊಬ್ಬೆಹಾಕಿ ಹೇಳು, ಜೋರಾಗಿ ಬೊಬ್ಬಿಡು.
+  section: notes
+- id: note-kalige-buddhi
+  type: note_term
+  text: ಕಾಲಿಗೆ ಬುದ್ಧಿ ಹೇಳು
+  section: notes
+- id: note-kalige-buddhi-def
+  type: note_definition
+  text: ಹೇಳದೆ ಕೇಳದೆ ಓಡಿ ಹೋಗು, ಪಲಾಯನ ಮಾಡು.
+  section: notes
+- id: ex-a-q1
+  type: fill_blank
+  text: ರಾಜನು ___________ವನ್ನು ಅಲ್ಲಿಗೇ ಪರಿಸಮಾಪ್ತಿಗೊಳಿಸಿದ. (ಒಡ್ಡೋಲಗ, ಬಡ್ಡೋಲಗ, ಓಡ್ಡೋಲಗ)
+  section: exercise-A
+  exercise: A
+- id: ex-a-q2
+  type: fill_blank
+  text: ಸೇವಕಿ ________ಬುದ್ಧಿಯವಳು. (ಮುರುಕು, ತಳುಕು, ಚುರುಕು)
+  section: exercise-A
+  exercise: A
+- id: ex-a-q3
+  type: fill_blank
+  text: ಮಂತ್ರಿ ಅರಮನೆಗೆ ಬಂದು ರಾಜನ ಕಾಲಿಗೆ ಬಿದ್ದು _________ಹೇಳಿದ. (ನಿಜಾಂಶ, ಸಾರಾಂಶ, ಮಿಥ್ಯಾಂಶ)
+  section: exercise-A
+  exercise: A
+- id: ex-a-q4
+  type: fill_blank
+  text: ರಾಜನಿಗೆ ಗಂಧರ್ವಸೇನ ತೀರಿದ ವಿಷಯ ತಿಳಿಸಿದ್ದು _____________. (ಮಂತ್ರಿ, ರಾಣಿ, ಸೇವಕಿ)
+  section: exercise-A
+  exercise: A
+- id: ex-a-q5
+  type: fill_blank
+  text: ಅಂತಃಪುರ ಇದರ ಅರ್ಥ________ (ರಾಣಿವಾಸ, ಸೇವಕಿಯರ ವಾಸ, ರಾಜಗೃಹ)
+  section: exercise-A
+  exercise: A
+- id: ex-b-q1
+  type: question
+  text: ನಿಟ್ಟುಸಿರು
+  section: exercise-B
+  exercise: B
+- id: ex-b-q2
+  type: question
+  text: ಪರಿಸಮಾಪ್ತಿ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q3
+  type: question
+  text: ಮಾರ್ನುಡಿ
+  section: exercise-B
+  exercise: B
+- id: ex-b-q4
+  type: question
+  text: ಉದ್ಗರಿಸು
+  section: exercise-B
+  exercise: B
+- id: ex-c-q1
+  type: question
+  text: ಮಂತ್ರಿ ಅಳುತ್ತಾ ರಾಜನ ಬಳಿ ಏನೆಂದು ಹೇಳಿದ?
+  section: exercise-C
+  exercise: C
+- id: ex-c-q2
+  type: question
+  text: ಗಂಧರ್ವಸೇನ ಯಾರು?
+  section: exercise-C
+  exercise: C
+- id: ex-c-q3
+  type: question
+  text: ಗಂಧರ್ವಸೇನ ತೀರಿಕೊಂಡ ವಿಷಯವನ್ನು ರಾಜ ಯಾರಿಗೆ ಹೇಳಿದ?
+  section: exercise-C
+  exercise: C
+- id: ex-c-q4
+  type: question
+  text: ರಾಣಿಯ ಸೇವಕಿ ಏನೆಂದು ಆಲೋಚನೆ ಮಾಡಿದಳು?
+  section: exercise-C
+  exercise: C
+- id: ex-c-q5
+  type: question
+  text: ರಾಣಿಯರು ನಗಲು ಕಾರಣವೇನು?
+  section: exercise-C
+  exercise: C
+- id: ex-d-q1
+  type: question
+  text: ರಾಜನ ಒಡ್ಡೋಲಗದಲ್ಲಿ ನಡೆದ ಪ್ರಸಂಗವನ್ನು ವಿವರಿಸಿರಿ.
+  section: exercise-D
+  exercise: D
+- id: ex-d-q2
+  type: question
+  text: ಗಂಧರ್ವಸೇನ ಯಾರು ಎಂಬುದನ್ನು ತಿಳಿಯಲು ಮಂತ್ರಿಯು ಮಾಡಿದ ಪ್ರಯತ್ನಗಳೇನು?
+  section: exercise-D
+  exercise: D
+- id: ex-e-q1
+  type: question
+  text: “ಮಹಾರಾಜರೇ ಗಂಧರ್ವ ಸೇನರು ತೀರಿಕೊಂಡರಂತೆ.”
+  section: exercise-E
+  exercise: E
+- id: ex-e-q2
+  type: question
+  text: “ಸ್ವಾಮಿ, ಅವರು ಯಾರು? ಏನಾಗಿದ್ದರು? ಎಂದು ನನಗೆ ತಿಳಿಯದು.”
+  section: exercise-E
+  exercise: E
+- id: ex-e-q3
+  type: question
+  text: “ನಿನ್ನೆ ರಾತ್ರಿ ಕಣ್ಣು ಮುಚ್ಕೊಂಬಿಟ್ಟ.”
+  section: exercise-E
+  exercise: E
+- id: ex-e-q4
+  type: question
+  text: “ಒಂದು ಕುರಿ ಹಳ್ಳಕ್ಕೆ ಬಿದ್ದರೆ ಎಲ್ಲಾ ಬಿದ್ದವು.”
+  section: exercise-E
+  exercise: E

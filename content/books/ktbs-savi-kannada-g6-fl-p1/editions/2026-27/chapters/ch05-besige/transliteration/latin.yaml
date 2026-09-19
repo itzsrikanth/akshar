@@ -1,0 +1,90 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kavi kṛti paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. kèḻagina praśnègaḻigè uttarisiri.
+  exercise-B: ā. kèḻagina padagaḻigè talā èraḍu samānārthaka padagaḻannu barèyiri.
+  exercise-C: i. ī padagaḻannu baḻasi svaṃta vākya barèyiri.
+  exercise-D: ī. besigè padyada sārāṃśavannu nimma mātugaḻalli barèyiri.
+intro-1: mānavarāda nāvu prakṛtiyiṃda kaliyabekādaddu apāra. prakṛtiya pratiyòṃdu vastuvū paraspara saṃbaṃdhavuḻḻaddāgiruttavè. aṃtèye ṛtumānagaḻu kūḍa avu badalādaṃtè havāmānavu eruperāguttiruttadè. òmmè prakharavāda bisilu, mattòmmè gaḍagaḍa naḍuguva caḻi, maḻè, gāḻi-hīgè ene ādarū yāvude kèlasakāryagaḻu nilluvudilla. prakṛtiyu samatolanavannu kāydukòṃḍu tanna pālina kèlasavannu sadā nirvahisutta iruttadè.
+poem-s1l1: baṃdidè besigè rajā
+poem-s1l2: iddarū bisilina sajā
+poem-s1l3: banni āḍoṇa,
+poem-s1l4: sūryana mahimèya hāḍoṇa.
+poem-s2l1: ekè ravigiṃta tāpa?
+poem-s2l2: yāra melavana kopa?
+poem-s2l3: èṃdu haḻiyabeḍi,
+poem-s2l4: sūryana tappu tiḻiyabeḍi,
+poem-s2l5: moḍa kūḍisalu, iḻègè maḻè taralu
+poem-s2l6: duḍiyutihanu, pāpa!
+poem-s3l1: bhūmiya poṣaka sūrya
+poem-s3l2: bhūmigavanu anivārya
+poem-s3l3: hògaḻikè bekilla,
+poem-s3l4: tègaḻidarè ava kugguvudilla.
+poem-s3l5: bèḻaka nīḍuvanu, bisiyanūḍuvanu
+poem-s3l6: marèyadè kartavya.
+poem-s4l1: iṃtha biru bisilinalli
+poem-s4l2: marā giḍā pòdè baḻḻi
+poem-s4l3: kaṃgālāgilla,
+poem-s4l4: noḍi raṃgāgivè èlla
+poem-s4l5: ciguru hūtòṭṭu, haṇṇu miḍi biṭṭu,
+poem-s4l6: ivè saṃbhramadalli.
+poem-s5l1: sūryaniṃda kaliyoṇa.
+poem-s5l2: prakṛtiyaṃtè naliyoṇa.
+poem-s5l3: kaṣṭagaḻigaṃjadè,
+poem-s5l4: namma kartavya marèyadè,
+poem-s5l5: naliyuta bāḻi, nalivanu haṃci,
+poem-s5l6: dhanyatè gaḻisoṇa.
+author-1: bi.ār. lakṣmaṇarāv avaru cikkabaḻḻāpura jillèya cīmaṃgala grāmadalli 09-09-1946ralli janisidaru. taṃdè bi.ār. rājārāv, tāyi vèṃkaṭalakṣmamma. lakṣmaṇarāv nivṛtta upādhyāyarāgiddu sāhitya kṣetradalli sevè māḍuttiddārè. ‘besigè’ èṃba padyavannu ‘subbābhaṭṭara magaḻe’ èṃba bhāvagītègaḻa saṃkalanadiṃda āydukòḻḻalāgidè.
+vocab-saja: sajā
+vocab-saja-def: śikṣè
+vocab-mahime: mahimè
+vocab-mahime-def: hirimè, mahatva
+vocab-ravi: ravi
+vocab-ravi-def: bhānu, sūrya, nesaru
+vocab-tapa: tāpa
+vocab-tapa-def: bisi, śākha
+vocab-hali: haḻi
+vocab-hali-def: dūṣisu, niṃdisu
+vocab-ile: iḻè
+vocab-ile-def: bhūmi, dharè
+vocab-poshaka: poṣaka
+vocab-poshaka-def: salahuvāta, pālaka
+vocab-anivarya: anivārya
+vocab-anivarya-def: atyagatya
+vocab-hogalu: hògaḻu
+vocab-hogalu-def: kòṃḍāḍu, baṇṇisu
+vocab-tegalu: tègaḻu
+vocab-tegalu-def: hīyāḻisu, niṃdisu
+vocab-midi: miḍi
+vocab-midi-def: hīcu, kasugāyi
+vocab-udu: ūḍu
+vocab-udu-def: uṇisu, tinnisu
+vocab-kartavya: kartavya
+vocab-kartavya-def: kèlasa, javābdāri
+vocab-biru: biru
+vocab-biru-def: rabhasa, birusu
+vocab-sambhrama: saṃbhrama
+vocab-sambhrama-def: utsāha, saḍagara
+vocab-dhanyate: dhanyatè
+vocab-dhanyate-def: saṃtṛpti
+ex-a-q1: sūrya ekè duḍiyuttiddānè?
+ex-a-q2: bhūmiya poṣaka yāru?
+ex-a-q3: sūrya marèyadè yāva kartavya māḍuvanu?
+ex-a-q4: biru bisiligè yāvuvu kaṃgālāgilla?
+ex-a-q5: sūryaniṃda makkaḻu kaliyabekāddenu?
+ex-b-q1: sūrya
+ex-b-q2: iḻè
+ex-b-q3: prakṛti
+ex-b-q4: saṃbhrama
+ex-c-q1: poṣakaru
+ex-c-q2: kartavya
+ex-c-q3: saṃbhrama
+ex-c-q4: dhanyatè
+ex-d-q1: besigè padyada sārāṃśavannu nimma mātugaḻalli barèyiri.

@@ -1,0 +1,149 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions.'
+  exercise-B: 'B. Answer the following questions in two or three sentences.'
+  exercise-C: 'C. Fill in the blanks with suitable words.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Alphabet'
+  grammar-B: 'B. Vowels'
+  grammar-C: 'C. Consonants'
+  grammar-D: 'D. Yogavahas'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'A. Fill in the blanks.'
+  language-exercise-B: 'B. Complete the consonant chart.'
+  language-exercise-C: 'C. Complete the unclassified consonant chart.'
+  language-exercise-D: 'D. Project'
+  language-exercise-E: 'U. Recognition for reading'
+  language-exercise-F: 'Uu. Good sayings'
+
+intro-1: '“There is strength in unity.” If everyone lives together, everyone can be happy. If we forget the hatred and jealousy among us and live loving everyone, our life becomes joyful.'
+
+story-n1: 'There was a village, and there a farmer had a field. In it stood a neem tree. Somehow a round stone came and settled under it. Droppings from birds sitting on the tree fell again and again on the stone, and the stone turned white, looking as if vibhuti had been smeared on it. Because of this, that white stone looked to everyone like the Mother’s stone. So people called the neem tree “Mother’s tree.” Since the stone lay under the neem, the name “Mother’s stone” became common for it. Thus each took a name from the other, and both were happy. Calling them “Mother’s tree” and “Mother’s stone,” the village people did not trouble them.'
+
+story-n2: 'Once, thinking that one was happy because of the other, both grew proud. The neem tree said, “I am Mother’s tree; because you are under me, people call you Mother’s stone.” The stone said, “I am Mother’s stone; because you are beside me, people call you Mother’s tree.” Thus they quarrelled. At last the stone, in anger, rolled away from the neem and stood far off. “If I am not here they will cut the tree,” thought the stone; “If you are not under me they will break the stone,” thought the tree—so both thought within themselves.'
+
+story-n3: 'One day the village farmer came with his children to plough the field. Seeing the neem without Mother’s stone he told his children, “Cut this tomorrow and make a plough and a wheel.” Seeing the stone lying far from the neem he said, “If we get stone-breakers to break this stone tomorrow, we can fix the plough and plough.” Hearing this, both tree and stone trembled with fear. The understanding came to them that if the two of us stay apart from each other, people will destroy us both, so neither of us will survive. Waiting until the farmer and his children went away, the stone asked the neem, “May I come?” The tree said to the stone, “Come quickly.” Now both understood that each was happy because of the other. The neem tree and the stone became friends again.'
+
+story-n4: 'The next day the tree-cutters came and looked. The stone stood under the tree as before. Fear and devotion toward the tree and stone arose in them. “This is Mother’s tree; do not cut it,” they said and went away. The stone-breakers came and said, “This is Mother’s stone; do not break it,” and they too went away.'
+
+story-n5: 'The neem tree and the stone escaped danger. Now both lived happily without fear of anyone.'
+
+story-n6: 'Thus if everyone lives together, everyone can be happy.'
+
+vocab-kantaka: 'kantaka (obstacle)'
+
+vocab-kantaka-def: 'harm, calamity'
+
+vocab-jagala: 'jagala (quarrel)'
+
+vocab-jagala-def: 'conflict'
+
+vocab-jamba: 'jamba (pride)'
+
+vocab-jamba-def: 'pride, empty show'
+
+vocab-negilu: 'negilu (plough)'
+
+vocab-negilu-def: 'a tool for ploughing the land'
+
+vocab-raitha: 'raitha (farmer)'
+
+vocab-raitha-def: 'one who farms'
+
+vocab-vibhuthi: 'vibhuti'
+
+vocab-vibhuthi-def: 'sacred ash, ash'
+
+vocab-hikke: 'hikke (droppings)'
+
+vocab-hikke-def: 'bird droppings'
+
+ex-a-q1: 'Where was the round stone?'
+
+ex-a-q2: 'What did people call the neem tree?'
+
+ex-a-q3: 'What did the stone do in anger?'
+
+ex-a-q4: 'What did the tree-cutters say and leave?'
+
+ex-a-q5: 'What did the stone-breakers say and leave?'
+
+ex-b-q1: 'In pride, what did the neem tree say to Mother’s stone?'
+
+ex-b-q2: 'In pride, what did Mother’s stone say to the neem tree?'
+
+ex-b-q3: 'Seeing the neem and the stone apart, what did the farmer tell his children?'
+
+ex-b-q4: 'How did the neem tree and Mother’s stone become friends again?'
+
+ex-c-q1: 'People used to call the neem tree __________.'
+
+ex-c-q2: 'If we two stay __________ from each other, people will destroy us both.'
+
+ex-c-q3: '“This is Mother’s tree; do not ___________,” they said and left.'
+
+ex-c-q4: 'The stone-breakers came and said, “This is Mother’s stone; do not _________,” and they too left.'
+
+ex-c-q5: 'If everyone lives together, everyone can live _________.'
+
+grammar-a-p1: 'In Kannada there are 49 letters in all. They are called varnas (phonemes). The ordered arrangement of these letters is called the varnamale or aksharamale (alphabet).'
+
+grammar-a-p2: 'There are three kinds in the alphabet: A) vowels B) consonants C) yogavahas'
+
+grammar-b-p1: 'Letters that can be pronounced independently are vowels. There are 13 vowels in all.'
+
+grammar-b-p2: 'There are two kinds of vowels: 1) short vowels 2) long vowels'
+
+grammar-b-p3: '1) Short vowels — letters pronounced in one matra of time (a, i, u, ṛ, e, o) are short vowels.'
+
+grammar-b-p4: '2) Long vowels — letters pronounced in two matras of time (ā, ī, ū, ē, ai, ō, au) are long vowels.'
+
+grammar-c-p1: 'Letters pronounced with the help of vowels are consonants. (Example: k + a = ka; c + a = ca) Total consonants = 34'
+
+grammar-c-p2: 'There are two kinds of consonants: 1) classified consonants 2) unclassified consonants'
+
+grammar-c-p3: '1. Classified consonant chart. k-group: k kh g gh ṅ. c-group: c ch j jh ñ. ṭ-group: ṭ ṭh ḍ ḍh ṇ. t-group: t th d dh n. p-group: p ph b bh m. Total 25. Because they are grouped according to place of articulation, they are classified consonants.'
+
+grammar-c-p4: 'Alpaprana letters = consonants pronounced with less breath. Examples: k, c, ṭ, t, p, g, j, ḍ, d, b.'
+
+grammar-c-p5: 'Mahaprana letters = consonants pronounced with more breath. Examples: kh, ch, ṭh, th, ph, gh, jh, ḍh, dh, bh.'
+
+grammar-c-p6: 'Anunasika letters = consonants pronounced with help of the nose. Examples: ṅ, ñ, ṇ, n, m.'
+
+grammar-c-p7: '2. Unclassified consonants. The 9 letters from “y” to “ḷ” are unclassified consonants. Examples: y, r, l, v, ś, ṣ, s, h, ḷ. Because their places of articulation differ and they cannot be put in specific groups, they are called unclassified consonants.'
+
+grammar-d-p1: '“Yoga” means “join,” and “vaha” means “that which goes.” “Yogavaha” means that which goes joined—that is, a letter that can be pronounced only together with other letters.'
+
+grammar-d-p2: 'There are two kinds of yogavahas: 1) anusvara (ṁ) 2) visarga (ḥ) Examples: simha, duḥkha'
+
+lang-ex-a-q1: 'Number of vowels _________'
+
+lang-ex-a-q2: 'Number of consonants _________'
+
+lang-ex-a-q3: 'Number of yogavahas _________'
+
+lang-ex-a-q4: '1. Short vowels = _________'
+
+lang-ex-a-q5: '2. Long vowels = _________'
+
+lang-ex-b-q1: 'Complete the consonant chart.'
+
+lang-ex-c-q1: 'Complete the unclassified consonant chart.'
+
+lang-ex-d-q1: '1. Collect four children’s stories from newspapers and stick them on a hanging board.'
+
+lang-ex-e-q1: '1. Read stories on familiar topics available in the library.'
+
+lang-ex-f-q1: '1. Where there are good qualities, there is a good destiny.'
+
+lang-ex-f-q2: '2. Selfless service deserves the highest honour.'
+
+lang-ex-f-q3: '3. Helping others is the highest virtue.'

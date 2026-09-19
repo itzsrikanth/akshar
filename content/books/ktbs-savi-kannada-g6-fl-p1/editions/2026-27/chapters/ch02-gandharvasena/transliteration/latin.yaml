@@ -1,0 +1,84 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  story: kathè
+  vocab: padagaḻa artha
+  notes: vivara tiḻiyiri
+  exercise-A: a. sariyāda padagaḻannu āykè māḍi biṭṭa sthaḻa tuṃbiri.
+  exercise-B: ā. ī padagaḻa artha barèyiri.
+  exercise-C: i. kèḻagina praśnègaḻigè òṃdu vākyadalli uttara barèyiri.
+  exercise-D: ī. kèḻagina praśnègaḻigè aidu-āru vākyagaḻalli uttarisiri.
+  exercise-E: u. saṃdarbha sahita vivarisiri.
+intro-1: èṣṭo saṃdarbhagaḻalli nāvu mātanāḍuva śaili, dehada hāvabhāvagaḻu nijavāgi nīḍabekāda arthakkiṃta bhinnavāda arthagaḻannu kòḍuvudidè. mātina hinnèlèyalliruva nijavāda arthavannu grahisabekādarè ā mātina abhivyaktiyalli spaṣṭatè irabeku. hāgādāga mātrave bhāṣèyu sariyāda rītiyalli saṃvahanagòḻḻuvudu.
+intro-2: idòṃdu jānapada mūladiṃda ārisikòṃḍu racisalāda katè.
+story-n1: òṃdu dina òbba rāja òḍḍolagadalliddāga, avana maṃtri gaṭṭiyāgi aḻuttā baṃdanu. avana rodanakkè kāraṇavenèṃdu rāja praśnisida. maṃtriyu siṃhāsanavannu cuṃbisi, bhūmiyannu muṭṭi namaskarisi tanna nālagèyannu udda māḍi - ‘mahārājare gaṃdharvasenaru tīrikòṃḍaraṃtè’ èṃdu udgarisuttā mūrchè hoda. rājanu òḍḍolagavannu allige parisamāptigòḻisi kaṇṇīru surisutta gaṃdharvasenara ātmaśāṃtigāgi nālku dinagaḻa kāla rājyādyaṃta èllarū śokācaraṇè māḍabekèṃdu ājñāpisida. maṃtriya āraikègè vaidyarannu karèsi upacarisuvaṃtè rājabhaṭarigè tiḻisi aṃtaḥpurakkè baṃda. rāja, alliyū karuḻu kittubaruvaṃtè aḻatòḍagida.
+story-n2: rāṇiyaru avana śokakkè kāraṇavannu keḻidaru. ‘gaṃdharvasenaru tīrikòṃḍaru’ èṃdu rāja gadgada kaṃṭhadiṃda heḻidāga, ‘rājana duḥkha tamma duḥkha’ èṃdu avaru kūḍa karuḻu hiṃḍuvaṃtè èdè baḍidukòṃḍu aḻalāraṃbhisidaru. iḍī aṃtaḥpura duḥkha hāgū gòṃdaladiṃda tuṃbitu.
+story-n3: rāṇiya sevakiyòbbaḻigè ī èllā gòṃdala ekèṃdu tiḻiyalilla. avaḻu, “mahārāṇiyavare, èllaru ekè aḻuttiddārè?” èṃdu keḻidaḻu. rāṇi niṭṭusirubiṭṭu, “pāpa! gaṃdharvasenaru tīrikòṃḍaraṃtè” èṃdaḻu. sevaki curuku buddhiyavaḻu. avaḻu ālocanè māḍidaḻu. ī namma mahārājarigū ā gaṃdharvasenarigū en saṃbaṃdha? èṃdu ātaṃkadiṃda rāṇiya baḻi keḻidaḻu. rāṇi adu tanagè gòttillavèṃdu nuḍidu rājana baḻigè oḍihogi, “gaṃdharvasenaru yāru?” èṃdu keḻidaḻu. rājanigū gòttilla. āta kaṇ kaṇ biṭṭu “tānèṃtha mūrkhatanada kèlasa māḍidè” aṃdukòṃḍu kūḍale āsthānakkè tèraḻida.
+story-n4: īgāgalè vaidyara upacāradiṃda sudhārisikòṃḍidda maṃtriyannu karèsikòṃḍu, “maṃtrigaḻe, yāru ī gaṃdharvasena?” èṃdu praśnisida. “mahārājarè dayaviṭṭu kṣamisi. gaṃdharvasenaru yārèṃbudu nanagū tiḻidilla. ādarè paḍèya mukhyasthanu gaṃdharvasena tīrikòṃḍarèṃdu gaṭṭiyāgi gaṃṭalu hariyuvaṃtè kūguttā aḻuttiruvudannu kaṃḍu nānū attè” èṃdu mārnuḍida. rājana kopa nèttigeritu. “nīnòbba mūrkha. kūḍalè hogi gaṃdharvasena yārèṃdu pattè māḍikòṃḍu bā” èṃda. maṃtri rājanigè vaṃdisi, ‘keḻida kivi ūrigè māri taṃditu’ aṃdukòṃḍu alliṃda kāligè buddhiheḻida.
+story-n5: paḍèya mukhyasthanannu kaṃḍu, “gaṃdharvasenaru yāru?” èṃdu praśnisida. “svāmi, avaru yāru? enāgiddaru? èṃdu nanagè tiḻiyadu. ādarè avaru tīrikòṃḍarèṃdu svataḥ nanna hèṃḍatiye aḻuttiddaḻu. ī suddiyannu nimagè heḻabekènisitu. baṃdu heḻidè” èṃdanu. maṃtri talèya melè kai hòttu kuḻita. irali, ivana hèṃḍatiyannu vicārisoṇa èṃdu ibbarū ātana manègè hogi, “yāramma ī gaṃdharvasena?” èṃdu keḻidaru. avaḻu, “svāmī, gaṃdharvasenara paricaya nanagilla. ī divasa bèḻiggè snāna māḍalikkè kèrègè hogiddè. alli maḍivāḻti tanna gaṃdharva sena sattiddānèṃdu bāyi baḍidukòṃḍu òṃde samanè aḻuttiddaḻu. adannu noḍi nānū attè, gaṃḍana baḻi heḻidè” èṃdaḻu. maṃtrigè talèsuttidaṃtāytu.
+story-n6: ī gaṃdharvasena yāru? talètalè caccikòṃḍa. ene āgali èṃdukòṃḍu avarèllarū ā maḍivāḻtiya manègè hogi, ‘gaṃdharvasena yāru?’ èṃdu keḻidaru. avaḻu duḥkhisatòḍagidaḻu. “svāmi, nanagè adṛṣṭavilla. īgalū nanna hṛdaya avanigāgi miḍiyuttidè. gaṃdharvasena nanna prītiya kattè. nanna maganigiṃtalū hèccāgi avanannu muddiniṃda bèḻèsiddè. namma èllā vyavahāragaḻannū noḍikòḻḻuttidda. svāmi, ninnè rātri kaṇṇu muckòṃbiṭṭa. nanna hòṭṭè melè kalhāk biṭṭa” èṃdu bòbbiṭṭu attaḻu. idannu keḻida maṃtri, mukhyastha, avana hèṃḍati òbbara mukhavannu òbbaru noḍikòṃḍu alliṃda kaṃbikittaru.
+story-n7: maṃtri aramanègè baṃdu rājana kāligè biddu nijāṃśavannu heḻida. “gaṃdharvasenaru sattarèṃdu nāvèlla śokisidèvallā, adu berè yāru alla; maḍivāḻtiya prītiya kattè” èṃdu heḻida. rāja avanigè higgāmuggā baidanu. ādarè śikṣisadè biṭṭubiṭṭa. ī suddi aṃtaḥpurada rāṇiyara kivigū muṭṭitu. ‘òṃdu kuri haḻḻakkè biddarè èllā biddavu’ ènnuvaṃtè rāja mattu avana āsthānikara mūrkhatanakkāgi rāṇiyaru tamma pakkèlubugaḻu noyuvavarègū naguttale iddaru.
+vocab-oddolaga: òḍḍolaga
+vocab-oddolaga-def: rājasabhè, darbāru
+vocab-rodana: rodana
+vocab-rodana-def: aḻuvikè, pralāpa
+vocab-chumbana: cuṃbana
+vocab-chumbana-def: muttu
+vocab-udgarisu: udgarisu
+vocab-udgarisu-def: heḻu, hòragèḍahu
+vocab-parisamapti: parisamāpti
+vocab-parisamapti-def: muktāya, kònè
+vocab-shoka: śoka
+vocab-shoka-def: aḻalu, duḥkha
+vocab-gadgada-kantha: gadgada kaṃṭha
+vocab-gadgada-kantha-def: niṃtu niṃtu baruva aspaṣṭavāda mātu, bigida kaṃṭha
+vocab-antahpura: aṃtaḥpura
+vocab-antahpura-def: rāṇivāsa
+vocab-nittusiru: niṭṭusiru
+vocab-nittusiru-def: dīrghavāgi biḍuva usiru, niḍidāda śvāsa
+vocab-tirikollu: tīrikòḻḻu
+vocab-tirikollu-def: gatisu, maraṇa hòṃdu
+vocab-marnudi: mārnuḍi
+vocab-marnudi-def: pratiyāgi mātanāḍu, māruttara kòḍu
+vocab-patte: pattè
+vocab-patte-def: gurutu, suḻivu, viḻāsa
+vocab-bobbidu: bòbbiḍu
+vocab-bobbidu-def: kūgu, aracu, gaṭṭiyāgi heḻu
+vocab-nijamsha: nijāṃśa
+vocab-nijamsha-def: satya, diṭa
+vocab-pakkelubu: pakkèlubu
+vocab-pakkelubu-def: ibbadiya èlubugaḻu
+note-shokacharane: śokācaraṇè
+note-shokacharane-def: sattavarigāgi saṃtāpa sūcisuvudu.
+note-nalage-udda: nālagèyannu udda māḍi heḻu
+note-nalage-udda-def: òṃdu viṣayada baggè tanagè pūrṇa gòttidè aṃdukòḻḻuttā naṃbisi heḻuvudu; atiyāgi mātanāḍuvudu.
+note-karulu-kittu: karuḻu kittubaruvaṃtè aḻu
+note-karulu-kittu-def: tanagāda duḥkhavannu torpaḍisikòḻḻalu aḻuva òṃdu rīti, atīvavāda aḻu.
+note-gantalu-hariyu: gaṃṭalu hariyuvaṃtè kūgu
+note-gantalu-hariyu-def: bòbbèhāki heḻu, jorāgi bòbbiḍu.
+note-kalige-buddhi: kāligè buddhi heḻu
+note-kalige-buddhi-def: heḻadè keḻadè oḍi hogu, palāyana māḍu.
+ex-a-q1: rājanu ___________vannu allige parisamāptigòḻisida. (òḍḍolaga, baḍḍolaga, oḍḍolaga)
+ex-a-q2: sevaki ________buddhiyavaḻu. (muruku, taḻuku, curuku)
+ex-a-q3: maṃtri aramanègè baṃdu rājana kāligè biddu _________heḻida. (nijāṃśa, sārāṃśa, mithyāṃśa)
+ex-a-q4: rājanigè gaṃdharvasena tīrida viṣaya tiḻisiddu _____________. (maṃtri, rāṇi, sevaki)
+ex-a-q5: aṃtaḥpura idara artha________ (rāṇivāsa, sevakiyara vāsa, rājagṛha)
+ex-b-q1: niṭṭusiru
+ex-b-q2: parisamāpti
+ex-b-q3: mārnuḍi
+ex-b-q4: udgarisu
+ex-c-q1: maṃtri aḻuttā rājana baḻi enèṃdu heḻida?
+ex-c-q2: gaṃdharvasena yāru?
+ex-c-q3: gaṃdharvasena tīrikòṃḍa viṣayavannu rāja yārigè heḻida?
+ex-c-q4: rāṇiya sevaki enèṃdu ālocanè māḍidaḻu?
+ex-c-q5: rāṇiyaru nagalu kāraṇavenu?
+ex-d-q1: rājana òḍḍolagadalli naḍèda prasaṃgavannu vivarisiri.
+ex-d-q2: gaṃdharvasena yāru èṃbudannu tiḻiyalu maṃtriyu māḍida prayatnagaḻenu?
+ex-e-q1: “mahārājare gaṃdharva senaru tīrikòṃḍaraṃtè.”
+ex-e-q2: “svāmi, avaru yāru? enāgiddaru? èṃdu nanagè tiḻiyadu.”
+ex-e-q3: “ninnè rātri kaṇṇu muckòṃbiṭṭa.”
+ex-e-q4: “òṃdu kuri haḻḻakkè biddarè èllā biddavu.”

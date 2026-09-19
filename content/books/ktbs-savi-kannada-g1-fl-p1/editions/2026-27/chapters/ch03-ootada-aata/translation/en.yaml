@@ -1,0 +1,95 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: The Meal Game
+  intro: 'Lesson - 3 : Pre-lesson activity'
+  poem: Poem
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: Exercise A
+  exercise-B: Exercise B
+  exercise-C: Exercise C
+  exercise-D: Exercise D
+intro-1: A) Show the picture and have the children say the word.
+intro-moogu: nose
+intro-kannugalu: eyes
+intro-elegalu: leaves
+intro-hoogalu: flowers
+intro-kai-beralgu: fingers of the hand
+poem-intro: (Sing this poem tunefully and have the children say it)
+poem-s1l1: One two
+poem-s1l2: Spread the banana leaf
+poem-s2l1: Three four
+poem-s2l2: Serve the rice
+poem-s3l1: Five six
+poem-s3l2: Lentil soup (saaru)
+poem-s4l1: Seven eight
+poem-s4l2: Greens for the side dish
+poem-s5l1: Nine ten
+poem-s5l2: Fold up the leaf
+poem-s6l1: From one to ten
+poem-s6l2: It was like this
+poem-s6l3: The meal game
+poem-s6l4: Was finished
+vocab-ondu: one
+vocab-eradu: two
+vocab-baalele: banana leaf
+vocab-haradu: spread
+vocab-mooru: three
+vocab-naalku: four
+vocab-anna: rice/food
+vocab-haaku: put/serve
+vocab-aidu: five
+vocab-aaru: six
+vocab-bele: dal/lentil
+vocab-saaru: rasam/soup
+vocab-elu: seven
+vocab-entu: eight
+vocab-palya: vegetable side dish
+vocab-dantu: a leafy vegetable
+vocab-ombattu: nine
+vocab-hattu: ten
+vocab-ele: leaf
+vocab-mudiru: fold/cover
+vocab-ettu: lift
+vocab-oota: meal
+note-palya: vegetable side dish
+note-palya-def: a dish made from vegetables
+note-dantu: dantu greens
+note-dantu-def: a kind of leafy vegetable
+note-mudiru: fold
+note-mudiru-def: cover, fold
+ex-a-intro: A) Say the given words and have the children say them.
+ex-a-q1: one
+ex-a-q2: two
+ex-a-q3: three
+ex-a-q4: four
+ex-a-q5: five
+ex-a-q6: six
+ex-a-q7: seven
+ex-a-q8: eight
+ex-a-q9: nine
+ex-a-q10: ten
+ex-b-intro: B) Say these rhyming words and have the children say them.
+ex-b-q1: 1) two–spread
+ex-b-q2: 2) six–soup
+ex-b-q3: 3) eight–greens
+ex-b-q4: 4) ten–lift
+ex-c-intro: C) Poem lines are given below. One word is left blank in each. Have the children say the missing word.
+ex-c-q1: 1) One two _____ spread.
+ex-c-q2: 2) Three four _____ serve.
+ex-c-q3: 3) Five six _____ soup.
+ex-c-q4: 4) Seven eight ______ greens.
+ex-c-q5: 5) Nine ten _____ fold up.
+ex-d-intro: D) Show the pictures, ask the questions beside them, and get answers from the children.
+ex-d-q1: What is the name of this fruit?
+ex-d-q2: How many fruits are here?
+ex-d-q3: What is the name of the fruit in this picture?
+ex-d-q4: How many fruits are here?
+ex-d-q5: What is the name of the vegetables in this picture?
+ex-d-q6: How many vegetables are here?
+ex-d-q7: What is the name of the vegetable in this picture?

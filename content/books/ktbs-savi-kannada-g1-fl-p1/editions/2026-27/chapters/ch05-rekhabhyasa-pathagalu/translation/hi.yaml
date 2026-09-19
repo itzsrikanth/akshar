@@ -1,0 +1,21 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: रेखाभ्यास पाठ
+  exercise-1: रेखाभ्यास -१
+  exercise-2: रेखाभ्यास -२
+  exercise-3: रेखाभ्यास -३
+  exercise-4: रेखाभ्यास -४
+  exercise-5: रेखाभ्यास -५
+intro-1: जैसा सूझे वैसा घसीटें
+intro-2: (बच्चों से मनचाहे रेखाएँ खींचने को कहें)
+ex-1-title: रेखाभ्यास -१
+ex-1-intro: दिखाएँ - लिखवाएँ
+ex-2-title: रेखाभ्यास -२
+ex-3-title: रेखाभ्यास -३
+ex-4-title: रेखाभ्यास -४
+ex-5-title: रेखाभ्यास -५

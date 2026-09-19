@@ -1,0 +1,113 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kavi kṛti paricaya
+  vocab: padagaḻa artha
+  notes: vivara tiḻiyiri
+  exercise-A: a. biṭṭa sthaḻavannu tuṃbiri.
+  exercise-B: ā. kèḻagina praśnègaḻigè òṃdu vākyadalli uttarisiri.
+  exercise-C: i. padyabhāgavannu pūrṇagòḻisiri.
+  exercise-D: ī. si.èṃ.goviṃdarèḍḍiyavara sthaḻa, kāla, kṛtigaḻa vivara tiḻisiri.
+intro-1: makkaḻa manassinalli kutūhalabharita praśnègaḻu huṭṭuttavè. vividha kalpanègaḻu kāṇisuttavè. hòsa hòsa kanasugaḻu gūḍu kaṭṭuttavè. makkaḻu tamma kalpanèyalli nirjīva vastugaḻòṃdigū manabicci mātāḍaballaru! aparicita sanniveśagaḻū saha avara kanasugaḻalli hattirakkè baṃdubiḍuttavè. hīgiruva avara kalpanègaḻigè mattaṣṭu garigaḻannu kaṭṭi innaṣṭu èttarakkè hāralu protsāhisi ā mūlaka prastutatèya arivu mūḍisuvudu illina āśayavāgidè.
+poem-s1l1: āgasadalli hāruvudèṃdarè
+poem-s1l2: puṭāṇi puṭṭigè balu iṣṭa
+poem-s1l3: rèkkègaḻilladè hāralu hodarè
+poem-s1l4: āgadè tòṃdarè? idu kaṣṭa.
+poem-s2l1: òṃdina iddakkiddaṃtè
+poem-s2l2: puṭṭigè rèkkèyu baṃdittu.
+poem-s2l3: hakkiya hāgè hāruva manakè
+poem-s2l4: hèccina haruṣava taṃdittu.
+poem-s3l1: kūḍalè puṭṭi ṭhaṇṇanè jigidu
+poem-s3l2: āgasadòḍaligè hāridaḻu.
+poem-s3l3: hāruta teluta muṃdakè sāgi
+poem-s3l4: caṃdrana maḍilanu seridaḻu.
+poem-s4l1: caṃdrana melè nèṭṭagè niṃtu
+poem-s4l2: bhūmiya kaḍègè noḍidarè
+poem-s4l3: neraḻè baṇṇada cèṃḍina hāgè
+poem-s4l4: kaṃḍitu avaḻigè namma dharè.
+poem-s5l1: caṃdrana biṭṭu melakè hāri
+poem-s5l2: seralu maṃgaḻanaṃgaḻava
+poem-s5l3: kèṃpagè baṇabaṇaguṭṭutalittu
+poem-s5l4: kāṇalilla yāvudè jīva
+poem-s6l1: puṭṭiyu kaṃḍaḻu maṃgaḻanalli
+poem-s6l2: ‘yogi’ hèsarina hèbbaṃḍè
+poem-s6l3: òḍanè keḻidaḻu kèṃpu baṃḍèyanu
+poem-s6l4: ‘nīnu hegè illigè baṃdè?’
+poem-s7l1: baṃḍèyu kaṇṇīranu surisuttā
+poem-s7l2: heḻitu puṭṭigè novinali
+poem-s7l3: ‘puṭṭiye, nammī maṃgaḻa grahada
+poem-s7l4: duraṃta kathèyanu keḻi tiḻi’
+poem-s8l1: hiṃdòṃdu kāladi ī grahadalli
+poem-s8l2: ittu jīvajala hasiru mara
+poem-s8l3: āgina janatèyu nāḍanu kaṭṭalu
+poem-s8l4: maragaḻa kaḍiyè baṃtu bara
+poem-s9l1: maḻè bèḻè kāṇadè jīviyu aḻidu
+poem-s9l2: baṃditu namagè iṃtha sthiti
+poem-s9l3: ‘nimma bhūmiyali giḍamara aḻidarè
+poem-s9l4: muṃdè òṃdu dina ide gati’
+poem-s10l1: baṇabaṇaguṭṭuva bayalanu kaṃḍu
+poem-s10l2: ḍhavaḍhavaguṭṭitu èḻè hṛdaya
+poem-s10l3: hasiranu aḻisadè giḍamara bèḻèsi
+poem-s10l4: uḻisuvèvèṃdaḻu ī dharèya
+poem-s11l1: bhūmigè baṃdu janatèya kaṃḍu
+poem-s11l2: hasiranu uḻisalu beḍidaḻu
+poem-s11l3: tānu kūḍa èḻè sasigaḻa nèṭṭu
+poem-s11l4: bèḻèsuta kuṇi kuṇidāḍidaḻu.
+author-1: si.èṃ. goviṃdarèḍḍi avaru 11-08-1958ralli kolāra jillèya mālūru tālūkina cènnigarāyapura èṃba ūrinalli janisidaru. makkaḻa sāhitya racanèyalli viśeṣa āsakti hòṃdida ivaru ‘baṇṇada ciṭṭè’, ‘makkaḻa maṃdāra’, ‘padya heḻuva mara’ mòdalāda kṛtigaḻannu racisiddārè. prastuta padyavannu ‘makkaḻa maṃdāra’ èṃba kṛtiyiṃda āykèmāḍikòḻḻalāgidè.
+vocab-agasa: āgasa
+vocab-agasa-def: ākāśa, gagana
+vocab-ishta: iṣṭa
+vocab-ishta-def: icchè, mèccugè
+vocab-rekke: rèkkè
+vocab-rekke-def: hakkigaḻa pukka, gari
+vocab-odalu: òḍalu
+vocab-odalu-def: śarīra, hòṭṭè
+vocab-sagu: sāgu
+vocab-sagu-def: calisu, muṃdè hogu
+vocab-madilu: maḍilu
+vocab-madilu-def: uḍi
+vocab-dhare: dharè
+vocab-dhare-def: nèla, bhūmi
+vocab-hebbande: hèbbaṃḍè
+vocab-hebbande-def: dòḍḍadāda baṃḍè, vistāravāda kallu
+vocab-bara: bara
+vocab-bara-def: baragāla, kṣāma
+vocab-ali: aḻi
+vocab-ali-def: sāyu, nāśahòṃdu
+vocab-gati: gati
+vocab-gati-def: sthiti, dāri
+vocab-bayalu: bayalu
+vocab-bayalu-def: aṃgaḻa, maidāna
+vocab-ulisu: uḻisu
+vocab-ulisu-def: rakṣisu, kāpāḍu
+vocab-nedu: nèḍu
+vocab-nedu-def: nāṭu
+note-putti: puṭṭi
+note-putti-def: makkaḻannu karèyuva òṃdu āpta saṃbodhanè.
+note-mangalanangala: maṃgaḻanaṃgaḻa
+note-mangalanangala-def: maṃgaḻa grahada bayalu, maṃgaḻa grahada vistāra pradeśa.
+note-banabanaguttu: baṇabaṇaguṭṭu
+note-banabanaguttu-def: khāli khāliyāgi kāṇu, nīravatèyiṃda kūḍiru.
+note-yogi-bande: yogi hèsarina baṃḍè
+note-yogi-bande-def: maṃgaḻa grahadalli kaṃḍubaṃdidè ènnalāda òṃdu dòḍḍa baṃḍè.
+note-duranta: duraṃta
+note-duranta-def: duḥkhadalli mugiyuva, kaṣṭadalli kònègòḻḻuva.
+note-dhavadhavaguttu: ḍhavaḍhavaguṭṭu
+note-dhavadhavaguttu-def: òmmèlè bhayavāgu, hṛdaya jorāgi hòḍèdukòḻḻu.
+ex-a-q1: òṃdina iddakkiddaṃtè puṭṭigè _________baṃdittu.
+ex-a-q2: hāruta teluta muṃdakè sāgi caṃdrana _________seridaḻu.
+ex-a-q3: puṭṭiye, nammī maṃgaḻagrahada duraṃta ________keḻi tiḻi.
+ex-a-q4: hasiranu aḻisadè giḍamara bèḻèsi uḻisuvèvèṃdaḻu ī _______
+ex-b-q1: puṭṭigè yāra hāgè hāruva manassittu?
+ex-b-q2: caṃdrana biṭṭu melè hārida puṭṭi èlligè seridaḻu?
+ex-b-q3: puṭṭi yogigè enèṃdu keḻidaḻu?
+ex-b-q4: maṃgaḻa grahadalli bara ekè baṃditu?
+ex-b-q5: puṭṭi janaralli enannu uḻisalu beḍidaḻu?
+ex-c-q1: āgasadalli_________________ / _______________________ / _______________________ / _____________idu kaṣṭa.
+ex-c-q2: maḻèbèḻè________________ / _______________________ / _______________________ / ______________ide gati.
+ex-d-q1: si.èṃ.goviṃdarèḍḍiyavara sthaḻa, kāla, kṛtigaḻa vivara tiḻisiri.

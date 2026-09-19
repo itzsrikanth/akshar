@@ -1,0 +1,269 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 7
+  slug: ch07-koti-mattu-alilu
+  title: ಕೋತಿ ಮತ್ತು ಅಳಿಲು
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ಕೋತಿ ಮತ್ತು ಅಳಿಲು
+  intro: 'ಪಾಠ - ೭ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ'
+  story: ಗದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+  exercise-D: ಅಭ್ಯಾಸ ಈ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಅ) ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಿ, ಪಕ್ಕದಲ್ಲಿರುವ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ, ಮಕ್ಕಳಿಂದ ಉತ್ತರ ಪಡೆಯಿರಿ.
+- id: intro-q1
+  type: question
+  section: intro
+  text: ಈ ಪ್ರಾಣಿಯ ಹೆಸರೇನು?
+- id: intro-q2
+  type: question
+  section: intro
+  text: ಈ ಪ್ರಾಣಿಯ ಹೆಸರೇನು?
+- id: intro-q3
+  type: question
+  section: intro
+  text: ಈ ಚಿತ್ರದಲ್ಲಿರುವುದೇನು?
+- id: intro-q4
+  type: question
+  section: intro
+  text: ಈ ಚಿತ್ರದಲ್ಲಿರುವುದೇನು?
+- id: story-intro
+  type: prose
+  section: story
+  text: (ಪಾಠವನ್ನು ಓದಿ ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)
+- id: story-n1
+  type: prose
+  section: story
+  text: ಒಂದು ಕೋತಿ ಮರದ ಮೇಲೆ ಕುಳಿತಿತ್ತು. ಆ ಕೋತಿಯ ಬಾಲ ತುಂಬಾ ಉದ್ದವಿತ್ತು. ಅದು ನೆಲದವರೆಗೆ ನೇತಾಡುತ್ತಿತ್ತು.
+- id: story-n2
+  type: prose
+  section: story
+  text: 'ಒಂದು ಅಳಿಲು ಕುಣಿದಾಡುತ್ತಾ ಅಲ್ಲಿಗೆ ಬಂದಿತು. ಅದು ಕೋತಿಯ ಬಾಲ ನೋಡಿತು. “ಈ ಜೋಕಾಲಿ ಎಷ್ಟು ಚಂದ!” ಎಂದು ಯೋಚಿಸಿತು. ಕೋತಿಯ ಬಾಲ ಹಿಡಿದು ಅಳಿಲು ಜೀಕತೊಡಗಿತು.'
+- id: story-n3
+  type: prose
+  section: story
+  text: ಕೋತಿಗೆ ಕಚಗುಳಿ ಆಯಿತು. ಅದು ಕೆಳಗೆ ನೋಡಿತು ಮತ್ತು ನಗುತ್ತಾ ಹೇಳಿತು.
+- id: story-d1
+  type: dialogue
+  section: story
+  speaker: ಕೋತಿ
+  text: ತಂಗಿ, ಏನು ಮಾಡುತ್ತಿರುವೆ? ನನಗೆ ಕಚಗುಳಿಯಾಗುತ್ತಿದೆ.
+- id: story-n4
+  type: prose
+  section: story
+  text: ಆಗ ಅಳಿಲಿಗೆ ಗಾಬರಿಯಾಯಿತು.
+- id: story-d2
+  type: dialogue
+  section: story
+  speaker: ಅಳಿಲು
+  text: ಮಂಗಣ್ಣಾ, ಇದು ನಿನ್ನ ಬಾಲವೇ? ಜೋಕಾಲಿ ಎಂದು ತಿಳಿದು ಜೀಕುತ್ತಿದ್ದೆ. ನನ್ನನ್ನು ಕ್ಷಮಿಸು
+- id: story-n5
+  type: prose
+  section: story
+  text: ಬಾಲವನ್ನು ಬಿಟ್ಟಿತು. ಅಳಿಲು ಓಡಿಹೋಗಿ, ಮರದ ಕೊಂಬೆಯನ್ನು ಏರಿತು.
+- id: vocab-koti
+  type: vocabulary_term
+  text: ಕೋತಿ
+- id: vocab-mara
+  type: vocabulary_term
+  text: ಮರ
+- id: vocab-mele
+  type: vocabulary_term
+  text: ಮೇಲೆ
+- id: vocab-kulitittu
+  type: vocabulary_term
+  text: ಕುಳಿತಿತ್ತು
+- id: vocab-baala
+  type: vocabulary_term
+  text: ಬಾಲ
+- id: vocab-udda
+  type: vocabulary_term
+  text: ಉದ್ದ
+- id: vocab-adu
+  type: vocabulary_term
+  text: ಅದು
+- id: vocab-nela
+  type: vocabulary_term
+  text: ನೆಲ
+- id: vocab-netadu
+  type: vocabulary_term
+  text: ನೇತಾಡು
+- id: vocab-alilu
+  type: vocabulary_term
+  text: ಅಳಿಲು
+- id: vocab-kunidadu
+  type: vocabulary_term
+  text: ಕುಣಿದಾಡು
+- id: vocab-allige
+  type: vocabulary_term
+  text: ಅಲ್ಲಿಗೆ
+- id: vocab-banditu
+  type: vocabulary_term
+  text: ಬಂದಿತು
+- id: vocab-noditu
+  type: vocabulary_term
+  text: ನೋಡಿತು
+- id: vocab-jokaali
+  type: vocabulary_term
+  text: ಜೋಕಾಲಿ
+- id: vocab-eshtu
+  type: vocabulary_term
+  text: ಎಷ್ಟು
+- id: vocab-chanda
+  type: vocabulary_term
+  text: ಚಂದ
+- id: vocab-yochisu
+  type: vocabulary_term
+  text: ಯೋಚಿಸು
+- id: vocab-jeeku
+  type: vocabulary_term
+  text: ಜೀಕು
+- id: vocab-kachaguli
+  type: vocabulary_term
+  text: ಕಚಗುಳಿ
+- id: vocab-aayitu
+  type: vocabulary_term
+  text: ಆಯಿತು
+- id: vocab-kelage
+  type: vocabulary_term
+  text: ಕೆಳಗೆ
+- id: vocab-nagu
+  type: vocabulary_term
+  text: ನಗು
+- id: vocab-helu
+  type: vocabulary_term
+  text: ಹೇಳು
+- id: vocab-tangi
+  type: vocabulary_term
+  text: ತಂಗಿ
+- id: vocab-enu
+  type: vocabulary_term
+  text: ಏನು
+- id: vocab-maadu
+  type: vocabulary_term
+  text: ಮಾಡು
+- id: vocab-gaabari
+  type: vocabulary_term
+  text: ಗಾಬರಿ
+- id: vocab-manganna
+  type: vocabulary_term
+  text: ಮಂಗಣ್ಣಾ
+- id: vocab-idu
+  type: vocabulary_term
+  text: ಇದು
+- id: vocab-tili
+  type: vocabulary_term
+  text: ತಿಳಿ
+- id: vocab-kshamisu
+  type: vocabulary_term
+  text: ಕ್ಷಮಿಸು
+- id: vocab-aaga
+  type: vocabulary_term
+  text: ಆಗ
+- id: vocab-bittitu
+  type: vocabulary_term
+  text: ಬಿಟ್ಟಿತು
+- id: note-gaabari
+  type: note_term
+  text: ಗಾಬರಿ
+- id: note-gaabari-def
+  type: note_definition
+  ref: note-gaabari
+  text: ಹೆದರಿಕೆ
+- id: note-kshamisu
+  type: note_term
+  text: ಕ್ಷಮಿಸು
+- id: note-kshamisu-def
+  type: note_definition
+  ref: note-kshamisu
+  text: ಅಪರಾಧವನ್ನು ಮನ್ನಿಸು
+- id: ex-a-intro
+  type: prose
+  exercise: A
+  text: ಅ) ಈ ವಾಕ್ಯಗಳಲ್ಲಿನ ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-a-q1
+  type: fill_blank
+  exercise: A
+  text: 1) ಆ ಕೋತಿಯ ಬಾಲ _____ ಉದ್ದವಿತ್ತು.
+- id: ex-a-q2
+  type: fill_blank
+  exercise: A
+  text: 2) ಒಂದು ಅಳಿಲು ________ ಅಲ್ಲಿಗೆ ಬಂದಿತು.
+- id: ex-a-q3
+  type: fill_blank
+  exercise: A
+  text: 3) ಕೋತಿಗೆ _______ ಆಯಿತು.
+- id: ex-a-q4
+  type: fill_blank
+  exercise: A
+  text: 4) ಮಂಗಣ್ಣಾ, ಇದು ____ ಬಾಲವೇ?
+- id: ex-b-intro
+  type: prose
+  exercise: B
+  text: ಆ) ಮಕ್ಕಳಿಗೆ ಪ್ರಶ್ನೆ ಕೇಳಿ, ಉತ್ತರ ಹೇಳಿಸಿ.
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: 1) ಕೋತಿ ಯಾವುದರ ಮೇಲೆ ಕುಳಿತಿತ್ತು?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: 2) ಕೋತಿಯ ಬಾಲ ಹಿಡಿದು ಯಾವುದು ಜೀಕತೊಡಗಿತು?
+- id: ex-b-q3
+  type: question
+  exercise: B
+  text: 3) “ಮಂಗಣ್ಣಾ ಇದು ನಿನ್ನ ಬಾಲವೇ? ಜೋಕಾಲಿ ಎಂದು ತಿಳಿದು ಜೀಕುತ್ತಿದ್ದೆ. ನನ್ನನ್ನು ಕ್ಷಮಿಸು” ಎಂದು ಯಾವುದು ಹೇಳಿತು?
+- id: ex-b-q4
+  type: question
+  exercise: B
+  text: 4) ಅಳಿಲು ಹೇಗೆ ಹೋಗಿ ಮರದ ಕೊಂಬೆಯನ್ನು ಏರಿತು?
+- id: ex-c-intro
+  type: prose
+  exercise: C
+  text: ಇ) ಮಾದರಿಯಂತೆ ವಾಕ್ಯಗಳನ್ನು ಮಾಡಿ ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-c-model
+  type: prose
+  exercise: C
+  text: 'ಮಾದರಿ : ಕೋತಿ, ಮರ, ಬಾಲ'
+- id: ex-c-q1
+  type: prose
+  exercise: C
+  text: 1) ಕೋತಿ ಒಂದು ಪ್ರಾಣಿ.
+- id: ex-c-q2
+  type: prose
+  exercise: C
+  text: 2) ಕೋತಿಯು ಮರವನ್ನು ಹತ್ತುತ್ತದೆ.
+- id: ex-c-q3
+  type: prose
+  exercise: C
+  text: 3) ಕೋತಿಗೆ ಬಾಲವಿದೆ.
+- id: ex-d-intro
+  type: prose
+  exercise: D
+  text: ಈ) ಈ ಪದಗಳನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-d-q1
+  type: vocabulary_term
+  exercise: D
+  text: ಅಳಿಲು
+- id: ex-d-q2
+  type: vocabulary_term
+  exercise: D
+  text: ಮರ
+- id: ex-d-q3
+  type: vocabulary_term
+  exercise: D
+  text: ಬಾಲ

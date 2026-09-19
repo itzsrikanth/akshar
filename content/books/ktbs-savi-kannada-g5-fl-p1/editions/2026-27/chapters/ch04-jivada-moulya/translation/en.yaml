@@ -1,0 +1,210 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions in one sentence each.'
+  exercise-B: 'B. Answer the following questions in two or three sentences.'
+  exercise-C: 'C. Who said it, to whom, and why?'
+  exercise-D: 'D. Fill in the blanks.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Answer the following questions.'
+  grammar-B: 'B. Match and write.'
+  grammar-C: 'C. Sort the given words into conventional names, proper names and meaningful names.'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'E. Project'
+  language-exercise-B: 'U. Recognition for reading'
+  language-exercise-C: 'Uu. Good sayings'
+
+intro-1: 'Every living being on earth has the right to live. We must live. We must also let others live. Every living being in the world has its own special quality and uniqueness. Disability is not a curse. One can achieve beyond it. Forgetting one’s shortcoming, one should know where one’s strength lies and achieve.'
+
+story-n1: '"If a person has an incurable disease, what is the point of keeping him alive and making him achieve? Giving medical care and keeping such a person alive is pure folly"—this was the firm opinion of young Doctor Thaddeus Marlin when he was a medical student. "For patients suffering from incurable diseases and those in extreme pain, it is better to arrange a peaceful death," he would argue with other students in his class.'
+
+story-n2: '"But we are here to care for the disabled and unfortunate!" they would protest.'
+
+story-n3: '"Doctors exist to make patients healthy. True, I agree. But if nothing can cure them, dying is better than suffering!" Marlin would say stubbornly.'
+
+story-n4: 'It was Marlin’s final year of study. One night Marlin was on hospital duty. A call came for a delivery from a filthy part of the city. Marlin went at once and helped a woman who had migrated from Germany with her delivery. It was her tenth child. The baby was born with one leg shorter than the other. As doctors are trained, he blew into the baby’s mouth to make it breathe. But the next moment he thought: "What a tragedy this infant! When it grows it must walk its whole life on a lame leg. Other children will mock and tease. Why make this child live? If it dies, what loss to the world!"'
+
+story-n5: 'But he was a doctor after all. Though the thought of letting the baby die at birth came, his medical sense stayed awake. Gently tapping the back and belly he started the baby’s breathing. At last the breath he awaited came. The baby’s face turned red. The first cry everyone expects after birth—at last it came from the baby. Thaddeus felt peace.'
+
+story-n6: 'He packed his instruments into the bag and set off toward the city. He was very unhappy about what he had done. "I myself do not know why I did that; in that house full of poverty there were already more children than needed. Why did I save this imperfect one? Wouldn’t the world be better without such lame ones?" he muttered to himself.'
+
+story-n7: 'Years rolled by. Doctor Marlin went to an industrial city and set up his practice. He earned well. The reformist spirit of his youth had now vanished.'
+
+story-n8: 'One summer evening. Hospital examination work was over. Sitting in his room he was listening on the radio to piano music played by a skilled musician. What wonderful music! It was a feast of musical delight!'
+
+story-n9: 'Doctor Marlin became joyful. All his tiredness vanished. After the music ended an announcement came on the radio.'
+
+story-n10: '"The piano performance you just heard was by the expert Miller Barbara. She has been disabled from birth. Though one short leg makes walking impossible, through her music she has conquered the world."'
+
+story-n11: 'Doctor Marlin was astonished. Could this be the same child he had thought of letting die at birth? Old memories returned. "If I had let that child die that day, could I hear such wonderful music today? Not knowing the value of life, what a mistake I was about to make!" he felt remorse.'
+
+story-n12: 'Every living being has its own value. No one should be looked down on. Doctor Marlin understood the truth that disability cannot block achievement.'
+
+vocab-angavaikalya: 'angavaikalya (disability)'
+
+vocab-angavaikalya-def: 'impairment of body parts'
+
+vocab-ananyate: 'ananyate (uniqueness)'
+
+vocab-ananyate-def: 'special quality others lack'
+
+vocab-aviveka: 'aviveka (folly)'
+
+vocab-aviveka-def: 'without understanding, foolishness'
+
+vocab-upachara: 'upachara (treatment)'
+
+vocab-upachara-def: 'care, service'
+
+vocab-chala: 'chala (stubbornness)'
+
+vocab-chala-def: 'obstinacy, persistence'
+
+vocab-tapasane: 'tapasane (examination)'
+
+vocab-tapasane-def: 'check-up, inquiry'
+
+vocab-daridrya: 'daridrya (poverty)'
+
+vocab-daridrya-def: 'poverty, hardship'
+
+vocab-nyunate: 'nyunate (shortcoming)'
+
+vocab-nyunate-def: 'lack, defect'
+
+vocab-pratibhata: 'pratibhata (protest)'
+
+vocab-pratibhata-def: 'oppose, confront'
+
+vocab-prasava: 'prasava (childbirth)'
+
+vocab-prasava-def: 'delivery, birth'
+
+vocab-moulya: 'moulya (value)'
+
+vocab-moulya-def: 'worth, importance'
+
+vocab-rasadoutana: 'rasadoutana (feast)'
+
+vocab-rasadoutana-def: 'tasty meal, delight'
+
+vocab-valase: 'valase (migration)'
+
+vocab-valase-def: 'going from one place to settle in another'
+
+vocab-vyasanga: 'vyasanga (studies)'
+
+vocab-vyasanga-def: 'study, learning'
+
+vocab-hatabhagya: 'hatabhagya (unfortunate)'
+
+vocab-hatabhagya-def: 'unlucky person'
+
+ex-a-q1: 'What was Doctor Marlin’s firm opinion?'
+
+ex-a-q2: 'Where did Marlin go for the delivery?'
+
+ex-a-q3: 'How was the newborn baby?'
+
+ex-a-q4: 'What was Doctor Marlin listening to on the radio?'
+
+ex-a-q5: 'Who played the piano?'
+
+ex-b-q1: 'What was Marlin arguing with his classmates?'
+
+ex-b-q2: 'What did Marlin feel when he saw the baby?'
+
+ex-b-q3: 'What did Marlin do to start the baby’s breathing?'
+
+ex-b-q4: 'What was announced on the radio?'
+
+ex-b-q5: 'What truth did Marlin understand?'
+
+ex-c-q1: '"But we are here to care for the disabled and unfortunate!"'
+
+ex-c-q2: '"What a tragedy this infant!"'
+
+ex-c-q3: '"Wouldn’t the world be better without such lame ones?"'
+
+ex-c-q4: '"Not knowing the value of life, what a mistake I was about to make!"'
+
+ex-d-q1: 'Giving him medical care and keeping him alive is pure __________.'
+
+ex-d-q2: 'Doctors exist to make patients __________.'
+
+ex-d-q3: 'Though the thought of letting the baby die at birth came, his __________ stayed awake.'
+
+ex-d-q4: 'What wonderful music! It was a musical __________.'
+
+ex-d-q5: '__________ cannot block achievement.'
+
+grammar-p1: 'Noun
+
+  Words that indicate the names of persons, things, places, animals, birds etc. are called nouns.
+
+  Examples: Rama, book, town, cow, parrot, etc.'
+
+grammar-p2: 'There are mainly three kinds of nouns.
+
+  1. Concrete (vastuvachaka)
+
+  2. Abstract quality (gunavachaka)
+
+  3. Numeral (sankhyavachaka)'
+
+grammar-p3: '1. Concrete nouns
+
+  Words that indicate names of things are concrete nouns. There are three kinds among them.
+
+  A) Conventional name (rudhanama)
+
+  B) Proper name (ankita nama)
+
+  C) Meaningful name (anvartha nama)'
+
+grammar-p4: 'A) Conventional name: Words that have come by custom are conventional names.
+
+  Examples: river, mountain, human, town, etc.'
+
+grammar-p5: 'B) Proper name: Names given for identity and practical use are proper names.
+
+  Examples: Ganga, Himalaya, Rama, Bengaluru, etc.'
+
+grammar-p6: 'C) Meaningful name: Names that match a special meaning of form, quality or nature are meaningful names.
+
+  Examples: lame, blind, deaf, trader, teacher, etc.'
+
+grammar-a-q1: 'A) What is a noun? Give an example.'
+
+grammar-a-q2: 'B) How many kinds of nouns are there?'
+
+grammar-a-q3: 'C) What is a concrete noun? How many kinds are there among them?'
+
+grammar-b-q1: '1. Proper name - words that have come by custom'
+
+grammar-b-q2: '2. Conventional name - a name matching special meaning of form, quality or nature'
+
+grammar-b-q3: '3. Meaningful name - a name given for identity and practical use'
+
+grammar-c-q1: 'Marlin, Miller, doctor, patient, woman, infant, Barbara, expert, girl, student'
+
+lang-ex-a-q1: '1. Collect leaflets, wedding invitations and writers’ handwriting and make an album.'
+
+lang-ex-b-q1: '1. Collect and read printed leaflets and wedding invitations.'
+
+lang-ex-b-q2: '2. Read nursery songs.'
+
+lang-ex-b-q3: '3. Read children’s poems by writers such as Rajaratnam and Dundiraj.'
+
+lang-ex-c-q1: '1. You need no mirror; become the mirror yourself.'
+
+lang-ex-c-q2: '2. When one speaks, it should be like a pearl necklace.'
+
+lang-ex-c-q3: '3. Weld love into the manner of speech.'

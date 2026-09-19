@@ -1,0 +1,85 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: koti mattu aḻilu
+  intro: 'pāṭha - 7 : pāṭhapūrva caṭuvaṭikè'
+  story: gadya
+  vocab: keḻida padagaḻu
+  notes: padagaḻa artha
+  exercise-A: abhyāsa a
+  exercise-B: abhyāsa ā
+  exercise-C: abhyāsa i
+  exercise-D: abhyāsa ī
+intro-1: a) citragaḻannu torisi, pakkadalliruva praśnègaḻannu keḻi, makkaḻiṃda uttara paḍèyiri.
+intro-q1: ī prāṇiya hèsarenu?
+intro-q2: ī prāṇiya hèsarenu?
+intro-q3: ī citradalliruvudenu?
+intro-q4: ī citradalliruvudenu?
+story-intro: (pāṭhavannu odi heḻi, makkaḻiṃda heḻisi)
+story-n1: òṃdu koti marada melè kuḻitittu. ā kotiya bāla tuṃbā uddavittu. adu nèladavarègè netāḍuttittu.
+story-n2: 'òṃdu aḻilu kuṇidāḍuttā alligè baṃditu. adu kotiya bāla noḍitu. “ī jokāli èṣṭu caṃda!” èṃdu yocisitu. kotiya bāla hiḍidu aḻilu jīkatòḍagitu.'
+story-n3: kotigè kacaguḻi āyitu. adu kèḻagè noḍitu mattu naguttā heḻitu.
+story-d1: taṃgi, enu māḍuttiruvè? nanagè kacaguḻiyāguttidè.
+story-n4: āga aḻiligè gābariyāyitu.
+story-d2: maṃgaṇṇā, idu ninna bālave? jokāli èṃdu tiḻidu jīkuttiddè. nannannu kṣamisu
+story-n5: bālavannu biṭṭitu. aḻilu oḍihogi, marada kòṃbèyannu eritu.
+vocab-koti: koti
+vocab-mara: mara
+vocab-mele: melè
+vocab-kulitittu: kuḻitittu
+vocab-baala: bāla
+vocab-udda: udda
+vocab-adu: adu
+vocab-nela: nèla
+vocab-netadu: netāḍu
+vocab-alilu: aḻilu
+vocab-kunidadu: kuṇidāḍu
+vocab-allige: alligè
+vocab-banditu: baṃditu
+vocab-noditu: noḍitu
+vocab-jokaali: jokāli
+vocab-eshtu: èṣṭu
+vocab-chanda: caṃda
+vocab-yochisu: yocisu
+vocab-jeeku: jīku
+vocab-kachaguli: kacaguḻi
+vocab-aayitu: āyitu
+vocab-kelage: kèḻagè
+vocab-nagu: nagu
+vocab-helu: heḻu
+vocab-tangi: taṃgi
+vocab-enu: enu
+vocab-maadu: māḍu
+vocab-gaabari: gābari
+vocab-manganna: maṃgaṇṇā
+vocab-idu: idu
+vocab-tili: tiḻi
+vocab-kshamisu: kṣamisu
+vocab-aaga: āga
+vocab-bittitu: biṭṭitu
+note-gaabari: gābari
+note-gaabari-def: hèdarikè
+note-kshamisu: kṣamisu
+note-kshamisu-def: aparādhavannu mannisu
+ex-a-intro: a) ī vākyagaḻallina biṭṭiruva padavannu makkaḻiṃda heḻisi.
+ex-a-q1: 1) ā kotiya bāla _____ uddavittu.
+ex-a-q2: 2) òṃdu aḻilu ________ alligè baṃditu.
+ex-a-q3: 3) kotigè _______ āyitu.
+ex-a-q4: 4) maṃgaṇṇā, idu ____ bālave?
+ex-b-intro: ā) makkaḻigè praśnè keḻi, uttara heḻisi.
+ex-b-q1: 1) koti yāvudara melè kuḻitittu?
+ex-b-q2: 2) kotiya bāla hiḍidu yāvudu jīkatòḍagitu?
+ex-b-q3: 3) “maṃgaṇṇā idu ninna bālave? jokāli èṃdu tiḻidu jīkuttiddè. nannannu kṣamisu” èṃdu yāvudu heḻitu?
+ex-b-q4: 4) aḻilu hegè hogi marada kòṃbèyannu eritu?
+ex-c-intro: i) mādariyaṃtè vākyagaḻannu māḍi makkaḻiṃda heḻisi.
+ex-c-model: 'mādari : koti, mara, bāla'
+ex-c-q1: 1) koti òṃdu prāṇi.
+ex-c-q2: 2) kotiyu maravannu hattuttadè.
+ex-c-q3: 3) kotigè bālavidè.
+ex-d-intro: ī) ī padagaḻannu makkaḻiṃda heḻisi.
+ex-d-q1: aḻilu
+ex-d-q2: mara
+ex-d-q3: bāla

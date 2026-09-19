@@ -1,0 +1,114 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the author
+  vocab: Word meanings
+  notes: Know the details
+  exercise-A: A. Exercises
+  exercise-B: B. Exercises
+  exercise-C: C. Exercises
+  exercise-D: D. Exercises
+intro-1: Curious questions arise in children’s minds. Varied imaginings appear. New dreams nest. Children can even open their hearts and talk to lifeless things in imagination! Unfamiliar situations too come close in their dreams. The aim here is to add more wings to such imaginings, encourage them to fly higher, and thereby awaken awareness of the present.
+author-1: C.M. Govinda Reddy was born on 11-08-1958 in Chennigarayapura, Malur taluk, Kolar district. He has special interest in children’s literature and has written works such as Bannada Chitte, Makkala Mandara and Padya Heluva Mara. This poem is chosen from ‘Makkala Mandara’.
+poem-s1l1: To fly in the sky
+poem-s1l2: little Putti loves very much
+poem-s1l3: If she goes to fly without wings
+poem-s1l4: it won’t work—trouble? This is hard.
+poem-s2l1: One day all of a sudden
+poem-s2l2: wings came to Putti.
+poem-s2l3: To the mind that wanted to fly like a bird
+poem-s2l4: it brought greater joy.
+poem-s3l1: At once Putti leaped with a thud
+poem-s3l2: and flew into the belly of the sky.
+poem-s3l3: Flying floating going onward
+poem-s3l4: she reached the moon’s lap.
+poem-s4l1: Standing straight on the moon
+poem-s4l2: when she looked toward the earth
+poem-s4l3: like a purple-coloured ball
+poem-s4l4: our earth appeared to her.
+poem-s5l1: Leaving the moon flying higher
+poem-s5l2: to reach the plains of Mars
+poem-s5l3: it glowed red and empty
+poem-s5l4: no life was to be seen
+poem-s6l1: On Mars Putti saw
+poem-s6l2: a great rock named ‘Yogi’
+poem-s6l3: At once she asked the red rock
+poem-s6l4: ‘How did you come here?’
+poem-s7l1: The rock shedding tears
+poem-s7l2: told Putti in pain
+poem-s7l3: ‘Putti, of this Mars of ours
+poem-s7l4: hear and know the tragic tale’
+poem-s8l1: Once upon a time on this planet
+poem-s8l2: there was living water and green trees
+poem-s8l3: Then people to build the land
+poem-s8l4: cut the trees and drought came
+poem-s9l1: Without rain and crops life died
+poem-s9l2: and we came to such a state
+poem-s9l3: ‘If trees die on your earth
+poem-s9l4: one day ahead this same fate’
+poem-s10l1: Seeing the empty glowing plain
+poem-s10l2: the tender heart pounded
+poem-s10l3: Without erasing green, growing trees
+poem-s10l4: she said we will save this earth
+poem-s11l1: Coming to earth she met people
+poem-s11l2: and begged them to save the green
+poem-s11l3: She too planted tender saplings
+poem-s11l4: grew them and danced for joy.
+ex-a-q1: One day all of a sudden ________ came to Putti.
+ex-a-q2: Flying floating going onward she reached the moon’s ________.
+ex-a-q3: Putti, hear and know the tragic ________ of this Mars of ours.
+ex-a-q4: Without erasing green, growing trees, she said we will save this _______
+ex-b-q1: Like whom did Putti wish to fly?
+ex-b-q2: Leaving the moon, where did Putti flying upward reach?
+ex-b-q3: What did Putti ask Yogi?
+ex-b-q4: Why did drought come on Mars?
+ex-b-q5: What did Putti beg people to save?
+ex-c-q1: Complete the stanza beginning ‘In the sky…’ ending ‘This is hard.’
+ex-c-q2: Complete the stanza beginning ‘Rain crops…’ ending ‘this same fate.’
+ex-d-q1: Give details of C.M. Govinda Reddy’s place, time and works.
+vocab-agasa: āgasa
+vocab-ishta: iṣṭa
+vocab-rekke: rèkkè
+vocab-odalu: òḍalu
+vocab-sagu: sāgu
+vocab-madilu: maḍilu
+vocab-dhare: dharè
+vocab-hebbande: hèbbaṃḍè
+vocab-bara: bara
+vocab-ali: aḻi
+vocab-gati: gati
+vocab-bayalu: bayalu
+vocab-ulisu: uḻisu
+vocab-nedu: nèḍu
+note-putti: puṭṭi
+note-mangalanangala: maṃgaḻanaṃgaḻa
+note-banabanaguttu: baṇabaṇaguṭṭu
+note-yogi-bande: yogi hèsarina baṃḍè
+note-duranta: duraṃta
+note-dhavadhavaguttu: ḍhavaḍhavaguṭṭu
+vocab-agasa-def: sky, firmament
+vocab-ishta-def: wish, liking
+vocab-rekke-def: bird’s feather, wing
+vocab-odalu-def: body, belly
+vocab-sagu-def: to move, to go ahead
+vocab-madilu-def: lap
+vocab-dhare-def: ground, earth
+vocab-hebbande-def: a large rock, vast stone
+vocab-bara-def: drought, famine
+vocab-ali-def: to die, to perish
+vocab-gati-def: state, path
+vocab-bayalu-def: courtyard, plain
+vocab-ulisu-def: to protect, to save
+vocab-nedu-def: to plant
+note-putti-def: An affectionate way of addressing children.
+note-mangalanangala-def: The plain of Mars; the vast region of Mars.
+note-banabanaguttu-def: To look empty; to be desolate.
+note-yogi-bande-def: A large rock said to have been found on Mars.
+note-duranta-def: Ending in sorrow; ending in hardship.
+note-dhavadhavaguttu-def: To feel sudden fear; for the heart to pound.

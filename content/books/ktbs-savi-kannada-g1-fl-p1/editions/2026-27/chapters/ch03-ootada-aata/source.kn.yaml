@@ -1,0 +1,314 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 3
+  slug: ch03-ootada-aata
+  title: ಊಟದ ಆಟ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಜಿ.ಪಿ. ರಾಜರತ್ನಂ
+labels:
+  title: ಊಟದ ಆಟ
+  intro: 'ಪಾಠ - ೩ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ'
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+  exercise-D: ಅಭ್ಯಾಸ ಈ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ, ಪದ ಹೇಳಿಸಿ.
+- id: intro-moogu
+  type: vocabulary_term
+  section: intro
+  text: ಮೂಗು
+- id: intro-kannugalu
+  type: vocabulary_term
+  section: intro
+  text: ಕಣ್ಣುಗಳು
+- id: intro-elegalu
+  type: vocabulary_term
+  section: intro
+  text: ಎಲೆಗಳು
+- id: intro-hoogalu
+  type: vocabulary_term
+  section: intro
+  text: ಹೂಗಳು
+- id: intro-kai-beralgu
+  type: vocabulary_term
+  section: intro
+  text: ಕೈ ಬೆರಳುಗಳು
+- id: poem-intro
+  type: prose
+  section: poem
+  text: (ಈ ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಹಾಡಿ ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)
+- id: poem-s1l1
+  type: poem_line
+  stanza: 1
+  text: ಒಂದು ಎರಡು
+- id: poem-s1l2
+  type: poem_line
+  stanza: 1
+  text: ಬಾಳೆಲೆ ಹರಡು
+- id: poem-s2l1
+  type: poem_line
+  stanza: 2
+  text: ಮೂರು ನಾಲ್ಕು
+- id: poem-s2l2
+  type: poem_line
+  stanza: 2
+  text: ಅನ್ನ ಹಾಕು
+- id: poem-s3l1
+  type: poem_line
+  stanza: 3
+  text: ಐದು ಆರು
+- id: poem-s3l2
+  type: poem_line
+  stanza: 3
+  text: ಬೇಳೆ ಸಾರು
+- id: poem-s4l1
+  type: poem_line
+  stanza: 4
+  text: ಏಳು ಎಂಟು
+- id: poem-s4l2
+  type: poem_line
+  stanza: 4
+  text: ಪಲ್ಯಕೆ ದಂಟು
+- id: poem-s5l1
+  type: poem_line
+  stanza: 5
+  text: ಒಂಬತ್ತು ಹತ್ತು
+- id: poem-s5l2
+  type: poem_line
+  stanza: 5
+  text: ಎಲೆ ಮುದಿರೆತ್ತು
+- id: poem-s6l1
+  type: poem_line
+  stanza: 6
+  text: ಒಂದರಿಂದ ಹತ್ತು
+- id: poem-s6l2
+  type: poem_line
+  stanza: 6
+  text: ಹೀಗಿತ್ತು
+- id: poem-s6l3
+  type: poem_line
+  stanza: 6
+  text: ಊಟದ ಆಟವು
+- id: poem-s6l4
+  type: poem_line
+  stanza: 6
+  text: ಮುಗಿದಿತ್ತು
+- id: vocab-ondu
+  type: vocabulary_term
+  text: ಒಂದು
+- id: vocab-eradu
+  type: vocabulary_term
+  text: ಎರಡು
+- id: vocab-baalele
+  type: vocabulary_term
+  text: ಬಾಳೆಲೆ
+- id: vocab-haradu
+  type: vocabulary_term
+  text: ಹರಡು
+- id: vocab-mooru
+  type: vocabulary_term
+  text: ಮೂರು
+- id: vocab-naalku
+  type: vocabulary_term
+  text: ನಾಲ್ಕು
+- id: vocab-anna
+  type: vocabulary_term
+  text: ಅನ್ನ
+- id: vocab-haaku
+  type: vocabulary_term
+  text: ಹಾಕು
+- id: vocab-aidu
+  type: vocabulary_term
+  text: ಐದು
+- id: vocab-aaru
+  type: vocabulary_term
+  text: ಆರು
+- id: vocab-bele
+  type: vocabulary_term
+  text: ಬೇಳೆ
+- id: vocab-saaru
+  type: vocabulary_term
+  text: ಸಾರು
+- id: vocab-elu
+  type: vocabulary_term
+  text: ಏಳು
+- id: vocab-entu
+  type: vocabulary_term
+  text: ಎಂಟು
+- id: vocab-palya
+  type: vocabulary_term
+  text: ಪಲ್ಯ
+- id: vocab-dantu
+  type: vocabulary_term
+  text: ದಂಟು
+- id: vocab-ombattu
+  type: vocabulary_term
+  text: ಒಂಬತ್ತು
+- id: vocab-hattu
+  type: vocabulary_term
+  text: ಹತ್ತು
+- id: vocab-ele
+  type: vocabulary_term
+  text: ಎಲೆ
+- id: vocab-mudiru
+  type: vocabulary_term
+  text: ಮುದಿರು
+- id: vocab-ettu
+  type: vocabulary_term
+  text: ಎತ್ತು
+- id: vocab-oota
+  type: vocabulary_term
+  text: ಊಟ
+- id: note-palya
+  type: note_term
+  text: ಪಲ್ಯ
+- id: note-palya-def
+  type: note_definition
+  ref: note-palya
+  text: ತರಕಾರಿಯಿಂದ ಮಾಡಿದ ಪದಾರ್ಥ, ತಾಳದ
+- id: note-dantu
+  type: note_term
+  text: ದಂಟು
+- id: note-dantu-def
+  type: note_definition
+  ref: note-dantu
+  text: ಒಂದು ಜಾತಿಯ ತರಕಾರಿ ಸೊಪ್ಪು
+- id: note-mudiru
+  type: note_term
+  text: ಮುದಿರು
+- id: note-mudiru-def
+  type: note_definition
+  ref: note-mudiru
+  text: ಮುಚ್ಚು, ಮಡಿಚು
+- id: ex-a-intro
+  type: prose
+  exercise: A
+  text: ಅ) ನೀಡಿರುವ ಪದಗಳನ್ನು ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-a-q1
+  type: vocabulary_term
+  exercise: A
+  text: ಒಂದು
+- id: ex-a-q2
+  type: vocabulary_term
+  exercise: A
+  text: ಎರಡು
+- id: ex-a-q3
+  type: vocabulary_term
+  exercise: A
+  text: ಮೂರು
+- id: ex-a-q4
+  type: vocabulary_term
+  exercise: A
+  text: ನಾಲ್ಕು
+- id: ex-a-q5
+  type: vocabulary_term
+  exercise: A
+  text: ಐದು
+- id: ex-a-q6
+  type: vocabulary_term
+  exercise: A
+  text: ಆರು
+- id: ex-a-q7
+  type: vocabulary_term
+  exercise: A
+  text: ಏಳು
+- id: ex-a-q8
+  type: vocabulary_term
+  exercise: A
+  text: ಎಂಟು
+- id: ex-a-q9
+  type: vocabulary_term
+  exercise: A
+  text: ಒಂಬತ್ತು
+- id: ex-a-q10
+  type: vocabulary_term
+  exercise: A
+  text: ಹತ್ತು
+- id: ex-b-intro
+  type: prose
+  exercise: B
+  text: ಆ) ಈ ಪ್ರಾಸ ಪದಗಳನ್ನು ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-b-q1
+  type: prose
+  exercise: B
+  text: 1) ಎರಡು-ಹರಡು
+- id: ex-b-q2
+  type: prose
+  exercise: B
+  text: 2) ಆರು-ಸಾರು
+- id: ex-b-q3
+  type: prose
+  exercise: B
+  text: 3) ಎಂಟು-ದಂಟು
+- id: ex-b-q4
+  type: prose
+  exercise: B
+  text: 4) ಹತ್ತು-ಎತ್ತು
+- id: ex-c-intro
+  type: prose
+  exercise: C
+  text: ಇ) ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಕೆಳಗೆ ನೀಡಿದೆ. ಆ ಸಾಲುಗಳಲ್ಲಿ ಒಂದೊಂದು ಪದವನ್ನು ಬಿಡಲಾಗಿದೆ. ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+- id: ex-c-q1
+  type: fill_blank
+  exercise: C
+  text: 1) ಒಂದು ಎರಡು _____ ಹರಡು.
+- id: ex-c-q2
+  type: fill_blank
+  exercise: C
+  text: 2) ಮೂರು ನಾಲ್ಕು _____ ಹಾಕು.
+- id: ex-c-q3
+  type: fill_blank
+  exercise: C
+  text: 3) ಐದು ಆರು _____ ಸಾರು.
+- id: ex-c-q4
+  type: fill_blank
+  exercise: C
+  text: 4) ಏಳು ಎಂಟು ______ ದಂಟು.
+- id: ex-c-q5
+  type: fill_blank
+  exercise: C
+  text: 5) ಒಂಬತ್ತು ಹತ್ತು _____ ಮುದಿರೆತ್ತು.
+- id: ex-d-intro
+  type: prose
+  exercise: D
+  text: ಈ) ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಿ, ಪಕ್ಕದಲ್ಲಿರುವ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ ಮಕ್ಕಳಿಂದ ಉತ್ತರ ಪಡೆಯಿರಿ.
+- id: ex-d-q1
+  type: question
+  exercise: D
+  text: ಈ ಹಣ್ಣಿನ ಹೆಸರೇನು?
+- id: ex-d-q2
+  type: question
+  exercise: D
+  text: ಇಲ್ಲಿ ಎಷ್ಟು ಹಣ್ಣಿದೆ?
+- id: ex-d-q3
+  type: question
+  exercise: D
+  text: ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಹಣ್ಣಿನ ಹೆಸರೇನು?
+- id: ex-d-q4
+  type: question
+  exercise: D
+  text: ಇಲ್ಲಿ ಎಷ್ಟು ಹಣ್ಣುಗಳಿವೆ?
+- id: ex-d-q5
+  type: question
+  exercise: D
+  text: ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಕಾಯಿಗಳ ಹೆಸರೇನು?
+- id: ex-d-q6
+  type: question
+  exercise: D
+  text: ಇಲ್ಲಿ ಎಷ್ಟು ಕಾಯಿಗಳಿವೆ?
+- id: ex-d-q7
+  type: question
+  exercise: D
+  text: ಈ ಚಿತ್ರದಲ್ಲಿರುವ ತರಕಾರಿಯ ಹೆಸರೇನು?

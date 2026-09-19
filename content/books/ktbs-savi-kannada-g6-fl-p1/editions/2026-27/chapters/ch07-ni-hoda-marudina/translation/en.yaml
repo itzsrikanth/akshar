@@ -1,0 +1,70 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the poet
+  vocab: Word meanings
+  notes: Know the details
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Use in your own sentences.
+  exercise-C: C. Write the gist of this poem in your own words.
+  exercise-D: D. Complete the following poem passages.
+intro-1: Modern Kannada literature has grown through various viewpoints such as Navodaya, progressive, Dalit-Bandaya and women’s literature. Dalit literature is the expression of Dalits’ life of exploitation and pain as song. Even after freedom and the Constitution, our lives have not yet changed—that pain remains. This poem holds the hope that the wind of change may blow and life may become better.
+poem-s1l1: The day after you left, our life was as before
+poem-s1l2: it has become, Baba Saheb
+poem-s1l3: Those who toiled like you, who felt for others
+poem-s1l4: not one more has come
+poem-s2l1: Every day on waking, our news and celebration
+poem-s2l2: never fail to blaze for us
+poem-s2l3: Wherever we go, the games of the powerful
+poem-s2l4: set fire inside us
+poem-s3l1: Wherever we hear, the sound of booted feet
+poem-s3l2: pains of every kind for us
+poem-s3l3: If it is not among their own they cut off heads
+poem-s3l4: this is what freedom is called for us
+poem-s4l1: Hands feet ears nose body mind head eyes
+poem-s4l2: we are a barren plant that lost them
+poem-s4l3: Body full mind full of others’ face-stamps
+poem-s4l4: screams flights death
+poem-s5l1: Don’t go—on the road stones gather
+poem-s5l2: thorn-stones spread all over
+poem-s5l3: Those who grew greater strike the lives of the rest
+poem-s5l4: they beat as if by day with tar
+poem-s6l1: How much they burn how much they cut
+poem-s6l2: even endurance has a limit here
+poem-s6l3: Endure endure and once he stings like a scorpion
+poem-s6l4: the poor soul is no ordinary person
+poem-s7l1: Toiling from birth until darkness
+poem-s7l2: cats howl fiercely
+poem-s7l3: All who were on the road sit huddled in a pen
+poem-s7l4: our road is no longer far
+poem-s8l1: Baba Saheb was no madman, was he?
+poem-s8l2: he did not sit idle with Gandhi
+poem-s8l3: For all that struggle, is our life like the English?
+poem-s8l4: Would they understand even now
+author-1: Dr Chennanna Valikar was born on 6 April 1943 in Shankaravadi, Chittapur taluk, Kalaburagi district. Against a Dalit-Bandaya background he wrote many poetry collections, story collections, epics and plays. This poem is taken from his ‘Samagra Kavya Samputa’. He passed away on 23.11.2019.
+vocab-baradu: barren
+vocab-baradu-def: without strength
+vocab-kottigalu: cats
+vocab-kottigalu-def: cats
+vocab-taara: tar
+vocab-taara-def: tar, asphalt
+note-baba-saheb: Baba Saheb
+note-baba-saheb-def: Dr B.R. Ambedkar
+ex-a-q1: After whose departure does the poet say our life became as before?
+ex-a-q2: What does the poet say never fails us every day?
+ex-a-q3: What does the poet call a barren plant that has lost everything?
+ex-a-q4: After enduring and enduring, what does he become when he stings?
+ex-a-q5: Who wrote the poem ‘Ni Hoda Marudina’?
+ex-b-q1: freedom
+ex-b-q2: life
+ex-b-q3: celebration
+ex-b-q4: to sting
+ex-c-q1: Write the gist of this poem in your own words.
+ex-d-q1: 'Complete: The day after you left ________ / ________ not one more has come ||after you left||'
+ex-d-q2: 'Complete: Hands feet ________ / ________ screams flights death ||after you left||'

@@ -1,0 +1,156 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions in one sentence.'
+  exercise-B: 'B. Answer the following questions in two or three sentences.'
+  exercise-C: 'C. Who said it, and to whom?'
+  exercise-D: 'D. Fill in the blanks.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Change the number and write.'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'B. Project'
+  language-exercise-B: 'C. Recognition for reading'
+  language-exercise-C: 'D. Good sayings'
+
+intro-1: 'Every living being has an equal right to live. But humans, for their selfishness, do not allow that. Sometimes a person becomes an obstacle to their own peace and comfort. Getting animals to speak about the improper acts humans do, and thereby making people think—this is the aim here.'
+
+story-n1: 'Once there was a forest. Many kinds of animals lived there. The elephant was the lord of that forest. It often called meetings and asked after their welfare. It had also made friends with animals of the village and let them take part in the meeting. With fine leadership, the elephant had won the praise of all animals.'
+
+story-n2: 'One day it had called such a meeting. All the animals were complaining heavily about humans that day. They discussed the trouble caused by humans and the remedy. The elephant had told the animals to write details on boards to explain to humans. Accordingly the animals had come prepared for today’s meeting. As the leader directed, they stood in a line holding their boards. The elephant went ahead reading them one by one.'
+
+story-d1: '"You make us work more and more. You give less food. You want our service; but not us, isn’t it? Do not forget our service." "Let there be kindness toward all animals."'
+
+story-d2: '"The base of our life is the forest. You are destroying it. We have no grass to eat. No tree shade to sleep under. The forest is needed for you too. Needed for us too." "Save us, and you will be saved too."'
+
+story-d3: '"Water is a precious treasure. You are spoiling it. You dirty it with rubbish. We cannot stay in the water. Clean water is needed for us and for you." "Save water, grow the land."'
+
+story-d4: '"I am the guard of your house. I drive away thieves who come to your house. But you do not treat me with love. You hit me with stones. Is this right?" "Love the mute animals."'
+
+story-d5: '"You kill us for our skin, nails, hair and tusks. You have no right to destroy our lineage." "Hurting animals is a great sin."'
+
+story-d6: '"O humans, give up greed. Love animals. Grow the forest. Keep water clean. Protect the environment. Only then can you live in peace."'
+
+vocab-adhipathi: 'adhipati (lord)'
+
+vocab-adhipathi-def: 'owner, master'
+
+vocab-amulya: 'amulya (precious)'
+
+vocab-amulya-def: 'priceless, excellent'
+
+vocab-kalmasha: 'kalmasha (filth)'
+
+vocab-kalmasha-def: 'dirt, pollution'
+
+vocab-ksema: 'kshema (welfare)'
+
+vocab-ksema-def: 'well-being, happiness'
+
+vocab-daye: 'daye (compassion)'
+
+vocab-daye-def: 'mercy, pity'
+
+vocab-phalaka: 'phalaka (board)'
+
+vocab-phalaka-def: 'plank, board'
+
+vocab-muka: 'muka (mute)'
+
+vocab-muka-def: 'without speech'
+
+vocab-samachara: 'samachara (news)'
+
+vocab-samachara-def: 'news, report'
+
+ex-a-q1: 'Who is the lord of the forest?'
+
+ex-a-q2: 'About whom were the animals complaining?'
+
+ex-a-q3: 'What instruction had the elephant given the animals?'
+
+ex-a-q4: 'What was written on the board the tortoise held?'
+
+ex-a-q5: 'What did the dog say to humans?'
+
+ex-b-q1: 'What did the ox say about humans?'
+
+ex-b-q2: 'What had the deer written on its board?'
+
+ex-b-q3: 'What advice did the bear give humans?'
+
+ex-b-q4: 'What message did the elephant give humans?'
+
+ex-c-q1: 'You make us work more and more.'
+
+ex-c-q2: 'The base of our life is the forest.'
+
+ex-c-q3: 'I am the guard of your house.'
+
+ex-c-q4: 'You have no right to destroy our lineage.'
+
+ex-d-q1: 'The elephant often called meetings and asked after their __________.'
+
+ex-d-q2: 'Let there be kindness toward __________ animals.'
+
+ex-d-q3: 'Water is a __________ treasure.'
+
+ex-d-q4: 'Hurting animals is __________.'
+
+grammar-p1: 'Numbers (vachana)
+
+  Vachana means number. There are two kinds of number.
+
+  1. Singular
+
+  2. Plural'
+
+grammar-p2: '1. Singular
+
+  Speaking of one thing or one person is singular.
+
+  Examples: tree, cow, boy, book, etc.'
+
+grammar-p3: '2. Plural
+
+  Speaking of more than one thing or person is plural.
+
+  Examples: trees, cows, boys, books, etc.'
+
+grammar-a-q1: '1. ox : _________________'
+
+grammar-a-q2: '2. leader : _________________'
+
+grammar-a-q3: '3. elder brothers : _________________'
+
+grammar-a-q4: '4. newspapers : _________________'
+
+grammar-a-q5: '5. letters : _________________'
+
+grammar-a-q6: '6. friends : _________________'
+
+grammar-a-q7: '7. it : _________________'
+
+grammar-a-q8: '8. you (pl./respect) : _________________'
+
+lang-ex-a-q1: '1. Prepare various wall posters and display them at school.'
+
+lang-ex-a-q2: '2. Write singular–plural words on a flash strip.'
+
+lang-ex-b-q1: '1. Read and learn about the lifestyles of various animals.'
+
+lang-ex-b-q2: '2. Read readers’ suggestions that appear in newspapers.'
+
+lang-ex-b-q3: '3. Read picture stories and wall posters with friends and enjoy.'
+
+lang-ex-c-q1: '1. Give respect to others’ words too.'
+
+lang-ex-c-q2: '2. Use resources only as much as needed.'
+
+lang-ex-c-q3: '3. Grow forests; save wild creatures.'

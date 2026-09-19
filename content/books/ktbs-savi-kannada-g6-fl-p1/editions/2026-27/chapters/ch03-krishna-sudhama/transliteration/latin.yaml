@@ -1,0 +1,136 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  drama: nāṭaka
+  author: kavi kṛti paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. ī padagaḻigè èraḍu samānārthaka padagaḻannu barèyiri.
+  exercise-B: ā. ī padagaḻannu baḻasi svaṃta vākya racisiri.
+  exercise-C: i. kèḻagina praśnègaḻigè òṃdu vākyadalli uttarisiri.
+  exercise-D: ī. kèḻagina praśnègaḻigè aidu-āru vākyagaḻalli uttarisiri.
+  exercise-E: u. kèḻagina mātugaḻannu yāru, yārigè, yāvāga heḻidaru?
+intro-1: gèḻètanavèṃbudu pavitravāda òṃdu saṃbaṃdha. illi baḍatana, siritana, vidyāvaṃta, avidyāvaṃta ityādiyāda yāvude bagèya bheda bhāva iruvudilla. huṭṭuttā aṇṇa tammaṃdirāgiyū bèḻèyuttā dāyādigaḻāgiyū baduku sāgisuvavaru namma naḍuvè iddārè. òṃde taragatiyalli kalita bālya snehitarū siritana, baḍatana nimittavāgi berpaḍuttārè. nijavāda gèḻètanada bèsugè muridu hoguvaṃthaddalla èṃbudannu ètti torisuvudu prastuta pāṭhada āśayavāgidè.
+scene-1-stage: 'dṛśya-1: sudhāmana guḍisalu, rātriya samaya. sudhāma yocisuttā śatapatisuttiddānè. ātana mukhadalli nirāsè tuṃbidè.'
+story-d1: (svagata) jīvanadalli barī kaṣṭagaḻe baruttivèyalla! sukhada dinagaḻu yāvāga baruttavò? hā! (niṭṭusirubiṭṭu) adèllā ā devarige gòttu!
+story-d2: baḍatana namma bènnu hattidè. adu nammannu biṭṭu hoguvudilla.
+story-d3: ‘baḍatana namagirali, manè tuṃba makkaḻirali’ èṃdu devaralli nī beḍikòṃḍèyo hegè?
+story-d4: makkaḻirali aṃdiddu nija. ādrè..............
+story-d5: (makkaḻa praveśa) ammā .... ammā ..... hasivāgtidè.
+story-d6: nanagū hasivu, ūṭa kòḍamma.
+story-d7: noḍidrā, makkaḻèllā hasiviniṃda kaṃgālāgivè. pāṃḍityavuḻḻa nanna gaṃḍa duḍidu tartāreṃta tiḻididdè.
+story-d8: yāvudakkū kāla kūḍi barabekalla.
+story-d9: aṃtū iṃtū namagè baḍatanave gati.
+story-d10: ciṃtè māḍidarè enu baṃtu? jīvanadalli baṃdaddannu anubhavisale beku. ade mānava dharma.
+story-d11: nīvu nīti heḻuvudaralli bahaḻa muṃdu.
+story-d12: nīti, niyama, vidheyatè, pāṃḍitya iddudariṃdale gurukuladalli śrīkṛṣṇa nanna snehitanādaddu.
+story-d13: mātumātigū “śrīkṛṣṇa nanna snehitanāgidda” aṃtīri.
+story-d14: hūṃ! nijakkū āta nanna parama mitranāgidda. gurukuladalli òṭṭigè vidyābhyāsa māḍidèvu.
+story-d15: satya heḻuvirā! ā śrīmaṃtarèlli, nīvèlli? yākè summanè baḍāyi biḍtīrā?
+story-d16: yākè suḻḻu heḻali nānu, kṛṣṇa sadā nanna jòtèyalliye iruttidda. òṭṭigè kaliyuttiddèvu. nannannu kaṃḍarè avanigè apāra prīti, sneha, gaurava.
+story-d17: aṃtaha śrīmaṃta snehitaniddarū illiyavarègè nīvu ekè avara hattira sahāya keḻalilla?
+story-d18: (kṣaṇa hòttu mauna) baḍavanādava dòḍḍavara manègè sahāya keḻalu hogabāradu.
+story-d19: snehitarèduru èṃtha svābhimāna! dayaviṭṭu hogi avaralli sahāya keḻi.
+story-d20: hegè keḻuvudu?
+story-d21: ātmīya gèḻèya annuttīri, aṃda melè avaru sahāya māḍe māḍuttārè.
+story-d22: illa annalāra, ādarū keḻuvudakkè saṃkoca.
+story-d23: saṃkoca beḍārī, hasidiruva makkaḻigoskaravādarū hogi keḻi.
+story-d24: āgali, hoguttenè. ādarè gèḻèyanannu noḍalu barigaiyalli hogalā?
+story-d25: ninnè taṃda avalakkiyalli svalpave uḻididè. makkaḻa upāhārakkè enenū sāladu. adanne kaṭṭikòḍalè?
+story-d26: hasivu, adannādarū nanagè kòḍamma.
+story-d27: tusu taḍèduko kaṃdā, devara dayèyiddarè ī avalakkiye baṃgāravādītu. (gaṃḍanigè) kaṭṭikòḍalè?
+story-d28: sari, hāgè māḍu.
+scene-2-stage: 'dṛśya-2: kṛṣṇana aramanè- kāvalugāra sudhāmanannu aramanèyòḻakkè biḍadè bāgilalle nillisuvanu. kṛṣṇa ākasmikavāgi hòragè baruvanu. sudhāmanannu noḍuvanu.'
+story-d29: (āścaryadiṃda) oho sudhāma! yāvāga baṃdè? bā òḻagè (sudhāmana kai hiḍiyuvanu. kāvalugāra āścaryadiṃda dūra sariyuvanu.)
+story-d30: śrīkṛṣṇa mahārājaru! (atīva saṃtoṣadiṃda ānaṃdabāṣpa suriyuttadè. māte hòraḍadaṃtāgidè.)
+story-d31: ekè sudhāma kaṇṇalli nīru?
+story-d32: bahaḻa dinagaḻa anaṃtara nimmannu noḍuttiruvènalla! adakkāgi ānaṃdada kaṇṇīru.
+story-d33: dūradiṃda daṇidu baṃdiddīya. snāna mugisi ūṭa māḍi viśrāṃti tègèduko. aṣṭubega ninnannu hogagòḍuvudilla.
+story-d34: ayyo, alli manèyalli yārū illa. makkaḻigè........
+story-d35: summaniru, baṃda takṣaṇa hogabekiddarè yākè baṃdè? yāralli? sudhāmanigè viśrāṃtiya vyavasthè māḍi. (sudhāmanigè) nanagū turtu kèlasavidè. adu mugida takṣaṇa baṃdu biḍuvè.
+scene-3-stage: 'dṛśya-3: kṛṣṇana aramanè- sudhāmaniruva koṇè.'
+story-d36: (svagata) śrīkṛṣṇanaṃtaha mitranannu paḍèda nāne dhanyanu, nannannu marètilla. nānu taṃda avalakkiyannu tānū tiṃdu hèṃḍatigū prītiyiṃda tinnisida. iṣṭòṃdu prīti viśvāsaviruva kṛṣṇana hattira nanna baḍatana heḻi ātana manassigè besaravuṃṭumāḍabāradu. nanna baḍatana nanagirali.
+story-d37: (hiṃdiniṃda barutta) enu yocisuttiruvè sudhāma?
+story-d38: enilla kṛṣṇa ..... enilla, summanè.
+story-d39: nī baṃdu nanna manassigè tuṃbā saṃtoṣavannuṃṭumāḍidè. nanagè gurukulada jīvana nènapāguttidè.
+story-d40: òṭṭigè ūṭa māḍuttiddèvu, kūḍi kaliyuttiddèvu, kaṭṭigè taralu hoguttiddèvu.
+story-d41: gurumātè kòṭṭa hurida kaḍalè tiṃdiddu! ninna pālina kaḍalè nā kasidukòṃḍiddu!
+story-d42: (taḍavarisuttā) hasivu......baḍatana.....(eno nènapu māḍikòḻḻalu yatnisi mauniyāguvanu.)
+story-d43: prajègaḻa hasivu hiṃgisalu avara kaṣṭa kārpaṇya nīgisalu rājanādavanu śramisabeku. āga mātra avanu nijavāda rājanāguvanu. ninnannu pīḍisiddu tappèṃdu krameṇa nanna arivigè baṃtu noḍu.
+story-d44: kṛṣṇa, iṣṭu dina illiddu adannèlla kaṇṇārè kaṃḍiruvè.
+story-d45: sudhāma, ninagenu beku?
+story-d46: nanagenū beḍa. ninna satkāra jīvanadalli marèyuvaṃtilla. ninna snehavòṃdè sāku. innu nannūrigè hòraḍuvè.
+story-d47: iṣṭu bega!
+story-d48: nānu iṣṭu dīrghakāla manèbiṭṭu iddavanè alla. alli hèṃḍati makkaḻu nanna dāri kādu kaṃgālāgirabahudu.
+story-d49: illigè baṃda viṣaya avarigè gòttidèyalla.
+story-d50: gòttidè. ādarè nanagè makkaḻade ciṃtè. hòraḍalu appaṇè kòḍu kṛṣṇā.
+story-d51: ninna iṣṭadaṃtèye āgali, hogi bā. śubhavāgali gèḻèya. aṃda hāgè ninna manègè nannannu karèyale illa! paravāgilla. nīnu karèyadiddarū nāne baruvè.
+story-d52: ayyo! nanna manègè! beḍa kṛṣṇā!
+story-d53: īga ciṃtè biṭṭu hòraḍu. òḻḻèyadāgali.
+scene-4-stage: 'dṛśya-4: sudhāmana suṃdaravāda manè. hèṃḍati, makkaḻu hòsabaṭṭè dharisi manèyalli saṃtoṣadiṃda iruva sanniveśa.'
+story-d54: (āścaryadiṃda hèṃḍatigè) nīvu yāra manèyalliddīri?
+story-d55: idu namma manè kaṇrī!
+story-d56: namma guḍisalu èlli?
+story-d57: ā guḍisalina jāgadalliye ī aramanèyaṃtaha manè nirmāṇavāgidè.
+story-d58: arè! nānu hogi baruvudaròḻagè idu hegè sādhyavāytu?
+story-d59: (nagutta) nimma mitrana kṛpèyiṃda.
+story-d60: (āścaryadiṃda) nanna mitra śrīkṛṣṇaniṃda!
+story-d61: haudu, ā mahārāya śrīkṛṣṇaniṃdale.
+story-d62: nānu avanigè sahāya māḍu èṃdu keḻiye illa.
+story-d63: nijavāgiyū!
+story-d64: satyavāgiyū.
+story-d65: nīvu dvārakā nagara talupida dinave alliṃda sevakara daṃḍu baṃtu. bekāda èlla vastugaḻannu taṃdaru. cakacakāṃta manè nirmisidaru. namagèlla hòsa uḍupu, ābharaṇagaḻannu saha kòṭṭaru.
+story-d66: paramāścarya, nanna manada iṃgitavannu tiḻidukòṃḍu èllā rītiya sahāya māḍiddānè śrīkṛṣṇa.
+story-d67: nīvu tègèdukòṃḍu hoda avalakkiyannu avarigè nīḍidirā?
+story-d68: hūṃ! kòṭṭè. bahaḻa ānaṃdadiṃda tiṃdu, hèṃḍati rukmiṇigū tinnisida.
+story-d69: abbā.......! baḍavara manè avalakkiyannu saṃtoṣavāgi tiṃdaralla. idu avara nijavāda sneha hāgū dòḍḍa guṇa. mattè nīvu yākè sahāya keḻalilla?
+story-d70: āta satkāra māḍiddu noḍi nanna manassu nāci kuggi hoyitu. mattè enannu keḻalū manassāgalilla.
+story-d71: nīvu keḻalilla nija, ādarè ā śrīkṛṣṇa paramātmane tamma kartavya māḍiddārè.
+story-d72: makkaḻèllā èlliddārè?
+story-d73: appā.....nanna hòsa baṭṭè noḍi, èṣṭu cènnāgidè sara, olè, baḻè èlla......
+story-d74: appā..... nimagū reṣmèbaṭṭè kòṭṭiddārè, noḍi.
+story-d75: nanagè beḍa, nīvèlla dharisikòḻḻi. nanagè ā kṛṣṇadevana snehave reṣmè baṭṭè, avana mātè nanagè ābharaṇa. avanaṃtaha gèḻèyanannu paḍèda nāne dhanya.
+author-1: vi.ès. śirahaṭṭi maṭha avaru ī nāṭakavannu racisiddārè. prastuta pāṭhavu kṛṣṇa-sudhāmara gèḻètanavannu nāṭaka rūpadalli torisuttadè.
+vocab-gudisalu: guḍisalu
+vocab-gudisalu-def: cikka manè, guḍi
+vocab-shatapati: śatapati
+vocab-shatapati-def: ālocanèyalli muḻugu
+vocab-nirase: nirāsè
+vocab-nirase-def: nirāśè
+vocab-panditya: pāṃḍitya
+vocab-panditya-def: vidvattu, jñāna
+vocab-sankocha: saṃkoca
+vocab-sankocha-def: lajjè, hiṃjarikè
+vocab-avalakki: avalakki
+vocab-avalakki-def: akki tiṃḍi / avalakki
+vocab-satkara: satkāra
+vocab-satkara-def: gaurava, ādara
+vocab-ingita: iṃgita
+vocab-ingita-def: òḻamanassina āsè
+vocab-karpanya: kārpaṇya
+vocab-karpanya-def: jipuṇatana, kaṣṭa
+vocab-dhanya: dhanya
+vocab-dhanya-def: bhāgyaśāli
+ex-a-q1: gèḻèya
+ex-a-q2: hèṃḍati
+ex-a-q3: rāja
+ex-a-q4: duḍimè
+ex-b-q1: paramamitra
+ex-b-q2: viśrāṃti
+ex-b-q3: satkāra
+ex-b-q4: saṃtoṣa
+ex-b-q5: śramisu
+ex-c-q1: sudhāma yāvudannu mānavadharma ènnuttānè?
+ex-c-q2: yārigāgi śrīkṛṣṇana baḻi sahāya keḻalu sudhāmana patni heḻuttāḻè?
+ex-c-q3: sudhāmana kaṇṇalli nīru ekè baṃtu?
+ex-c-q4: manègè maraḻida sudhāmanu enannu kaṃḍanu?
+ex-c-q5: sudhāmana manèyannu kaṭṭisidavaru yāru?
+ex-d-q1: kṛṣṇa-sudhāmaru gurukuladalli kaḻèda dinagaḻannu paraspara nènapisikòṃḍaddu hegè?
+ex-d-q2: kṛṣṇanu sudhāmanigè manè kaṭṭisikòṭṭa saṃdarbhavannu vivarisiri.
+ex-e-q1: nannannu kaṃḍarè avanigè apāra prīti, sneha, gaurava.
+ex-e-q2: hasidiruva makkaḻigoskaravādarū hogi keḻi.
+ex-e-q3: nanagè gurukulada jīvana nènapāguttidè.
+ex-e-q4: nimagū reṣmèbaṭṭè kòṭṭiddārè.

@@ -1,0 +1,155 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige ondu vākyadalli uttarisi.'
+  exercise-B: 'ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. yāru, yārige hēḷidaru?'
+  exercise-D: 'ī. biṭṭa sthaḷagaḷannu tumbiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. vacana badalisi bareyiri.'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'ā. yōjane'
+  language-exercise-B: 'i. ōdige mannaṇe'
+  language-exercise-C: 'ī. śubhanuḍi'
+
+intro-1: 'ella jīvigaḷigū badukalu samāna hakkide. ādare manuṣya tanna svārtha nimittanāgi adakke avakāśa nīḍuttilla. kelavomme āta tanna śānti nemmadigaḷige tānē aḍḍiyāguttāne. manuṣya māḍuttiruva sādhuvallada kāryagaḷannu prāṇigaḷa mūlaka hēḷisi, ā mūlaka ātanannu yōcanege haccuvudu illina āśayavāgide.'
+
+story-n1: 'ondānondu kāḍu. alli bagebageya prāṇigaḷu vāsavāgiddavu. āneyu ā kāḍina adhipatiyāgittu. adu āgāga sabhe karedu avugaḷa kṣēma samācāravannu vicārisuttittu. ūrinalliruva prāṇigaḷondigū snēhavannu beḷesittu. avugaḷigū sabheyalli pālgoḷḷalu avakāśa nīḍuttittu. uttama nāyakatva guṇa hondiruva āneyu ellā prāṇigaḷindalū meccugeyannu gaḷisittu.'
+
+story-n2: 'hīgeyē ondu dina sabhe karedittu. ella prāṇigaḷu andu manuṣyara mēle bahaḷavāgi dūru hēḷuttiddavu. mānavaninda āguttiruva tondare hāgū parihāra kuritu carcisiddavu. manuṣyanige tiḷihēḷalu phalakadalli vivara baredu taralu āneyu prāṇigaḷige sūcane nīḍittu. adarante prāṇigaḷu ī dinada sabhege siddavāgi bandiddavu. nāyakana sūcaneyante avugaḷu tamma phalakagaḷannu hiḍidukoṇḍu sālāgi nintiddavu. āneyu avugaḷannu ondondāgi ōduttā munnaḍeyitu.'
+
+story-d1: '“nammannu heccu heccu duḍisikoḷḷuttīri. kaḍime āhāra nīḍuttīri. namma sēve bēku; nāvu mātra bēḍa allavē? namma sēveyannu mareyadiri.” “dayeyirali sakala prāṇigaḷalli.”'
+
+story-d2: '“namma badukina ādhāratāṇa kāḍu. adannu nāśa māḍuttiddīri. namage tinnalu hullilla. malagalu marada neraḷilla. kāḍu nimagū bēku. namagū bēku.” “nammannu uḷisiri, nīvū uḷiyiri.”'
+
+story-d3: '“nīru amūlya sampattu. adannu hāḷu māḍuttiddīri. kasakaḍḍi hāki kalmaṣagoḷisuttiddīri. namage nīrinalliralu āguttilla. śuddha nīru namagū bēku, nimagū bēku.” “nīru uḷisi, nāḍu beḷesi.”'
+
+story-d4: '“nānu nimma maneya kāvalugāra. nimma manege baruva kaḷḷarannu ōḍisuve. ādare nīvu nannannu prītiyinda kāṇuvudilla. kallugaḷinda hoḍeyuttīri. idu sariyē?” “mūka prāṇigaḷannu prītisiri.”'
+
+story-d5: '“namma carma, uguru, kūdalu, dantagaḷigāgi nammannu kolluviri. namma santatiyannu nāśamāḍuva hakku nimagilla.” “prāṇi hinse mahāpāpa.”'
+
+story-d6: '“manuṣyarē, atiyāse biḍi. prāṇigaḷannu prītisi. kāḍannu beḷesi. nīrannu śuddhavāgiḍi. parisaravannu rakṣisi. āga mātra nīvu nemmadiyinda bāḷalu sādhya.”'
+
+vocab-adhipathi: 'adhipati'
+
+vocab-adhipathi-def: 'oḍeya, yajamāna'
+
+vocab-amulya: 'amūlya'
+
+vocab-amulya-def: 'belekaṭṭalāgada, śrēṣṭhavāda'
+
+vocab-kalmasha: 'kalmaṣa'
+
+vocab-kalmasha-def: 'koḷe, malina'
+
+vocab-ksema: 'kṣēma'
+
+vocab-ksema-def: 'kuśala, sukha'
+
+vocab-daye: 'daye'
+
+vocab-daye-def: 'karuṇe, kanikara'
+
+vocab-phalaka: 'phalaka'
+
+vocab-phalaka-def: 'halage'
+
+vocab-muka: 'mūka'
+
+vocab-muka-def: 'mātillada'
+
+vocab-samachara: 'samācāra'
+
+vocab-samachara-def: 'suddi, varadi'
+
+ex-a-q1: 'kāḍina adhipati yāru?'
+
+ex-a-q2: 'prāṇigaḷu yāra mēle dūru hēḷuttiddavu?'
+
+ex-a-q3: 'āneyu prāṇigaḷige yāva sūcane nīḍittu?'
+
+ex-a-q4: 'āme hiḍididda phalakadalli ēnendu baredittu?'
+
+ex-a-q5: 'nāyi manuṣyarige ēnendu hēḷitu?'
+
+ex-b-q1: 'ettu manuṣyara bagge ēnendu hēḷitu?'
+
+ex-b-q2: 'jiṅkeyu tanna phalakadalli ēnendu baredittu?'
+
+ex-b-q3: 'karaḍiyu manuṣyarige ēnendu buddhivāda hēḷitu?'
+
+ex-b-q4: 'āneyu manuṣyarige nīḍida sandēśavēnu?'
+
+ex-c-q1: 'nammannu heccu heccu duḍisikoḷḷuttīri.'
+
+ex-c-q2: 'namma badukina ādhāratāṇa kāḍu.'
+
+ex-c-q3: 'nānu nimma maneya kāvalugāra.'
+
+ex-c-q4: 'namma santatiyannu nāśamāḍuva hakku nimagilla.'
+
+ex-d-q1: 'āneyu āgāga sabhe karedu avugaḷa __________ vicārisuttittu.'
+
+ex-d-q2: 'dayeyirali __________ prāṇigaḷalli.'
+
+ex-d-q3: 'nīru __________ sampattu.'
+
+ex-d-q4: 'prāṇi hinse __________.'
+
+grammar-p1: 'vacanagaḷu
+
+  vacana endare saṅkhye endartha. vacanagaḷalli eraḍu vidha.
+
+  1. ēkavacana
+
+  2. bahuvacana'
+
+grammar-p2: '1. ēkavacana
+
+  ondu vastuvannāgalī athavā obba vyaktiyannāgalī kuritu hēḷuvudu ēkavacana.
+
+  udā: mara, hasu, huḍuga, pustaka ityādi.'
+
+grammar-p3: '2. bahuvacana
+
+  ondakkinta heccu vastugaḷannāgalī athavā vyaktigaḷannāgalī kuritu hēḷuvudu bahuvacana.
+
+  udā: maragaḷu, hasugaḷu, huḍugaru, pustakagaḷu ityādi.'
+
+grammar-a-q1: '1. ettu : _________________'
+
+grammar-a-q2: '2. nāyaka : _________________'
+
+grammar-a-q3: '3. aṇṇandiru : _________________'
+
+grammar-a-q4: '4. patrikegaḷu : _________________'
+
+grammar-a-q5: '5. patragaḷu : _________________'
+
+grammar-a-q6: '6. mitraru : _________________'
+
+grammar-a-q7: '7. adu : _________________'
+
+grammar-a-q8: '8. nīvu : _________________'
+
+lang-ex-a-q1: '1. vividha bhittipatragaḷannu tayārisi śāleyalli pradarśisiri.'
+
+lang-ex-a-q2: '2. miñcupaṭṭiyalli ēkavacana-bahuvacana padagaḷannu bareyiri.'
+
+lang-ex-b-q1: '1. vividha prāṇigaḷa jīvana kramada bagge ōdi tiḷiyiri.'
+
+lang-ex-b-q2: '2. patrikegaḷalli baruva vācakara salahegaḷannu ōdiri.'
+
+lang-ex-b-q3: '3. citrakathe, bhittipatragaḷannu geḷeyarondige ōdi naliyiri.'
+
+lang-ex-c-q1: '1. itarara mātugaḷigū mannaṇe koḍiri.'
+
+lang-ex-c-q2: '2. sampanmūlagaḷannu agatyaviddaṣṭu mātra baḷasiri.'
+
+lang-ex-c-q3: '3. vanagaḷannu beḷesiri, vanya jīvigaḷannu uḷisiri.'

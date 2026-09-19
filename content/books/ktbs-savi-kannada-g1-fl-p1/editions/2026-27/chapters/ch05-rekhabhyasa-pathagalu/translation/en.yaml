@@ -1,0 +1,21 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: Line-drawing lessons
+  exercise-1: Line practice -1
+  exercise-2: Line practice -2
+  exercise-3: Line practice -3
+  exercise-4: Line practice -4
+  exercise-5: Line practice -5
+intro-1: Scribble as you like
+intro-2: (Tell the children to draw lines as they wish)
+ex-1-title: Line practice -1
+ex-1-intro: Show - have them write
+ex-2-title: Line practice -2
+ex-3-title: Line practice -3
+ex-4-title: Line practice -4
+ex-5-title: Line practice -5

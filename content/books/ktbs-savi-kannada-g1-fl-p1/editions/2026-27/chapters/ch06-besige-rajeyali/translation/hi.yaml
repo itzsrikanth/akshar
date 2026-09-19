@@ -1,0 +1,87 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: ग्रीष्म अवकाश में
+  intro: 'पाठ - ६ : पाठपूर्व गतिविधि'
+  poem: पद्य
+  vocab: सुने हुए शब्द
+  notes: शब्दार्थ
+  exercise-A: अभ्यास अ
+  exercise-B: अभ्यास आ
+  exercise-C: अभ्यास इ
+  exercise-D: अभ्यास ई
+intro-1: अ) चित्र में (केसरी और हरा) रंग भरने को कहें।
+intro-kesari: केसरी
+intro-hasiru: हरा
+intro-2: आ) बच्चों से पसंद के रंग से चित्र भरवाएँ।
+poem-intro: (पद्य गाएँ, बच्चों से गवाएँ)
+poem-s1l1: ग्रीष्म अवकाश में
+poem-s1l2: पिता के साथ मैं
+poem-s1l3: गाँव जाऊँगा
+poem-s2l1: पसीना बहाते
+poem-s2l2: किसानों के साथ
+poem-s2l3: मैं भी मेहनत करूँगा
+poem-s3l1: आकाश छूती
+poem-s3l2: ऊँची आवाज़ में
+poem-s3l3: गीत गाऊँगा
+poem-s4l1: जगत में घटी
+poem-s4l2: अद्भुत बातें
+poem-s4l3: उन्हें बताऊँगा
+poem-s5l1: बगीचे में उगे
+poem-s5l2: कई तरह के फलों का
+poem-s5l3: स्वाद लूँगा
+poem-s6l1: गहरी हरियाली की
+poem-s6l2: सुंदर सृष्टि की
+poem-s6l3: 'शोभा देखूँगा!'
+vocab-besige: ग्रीष्म
+vocab-raje: अवकाश
+vocab-halli: गाँव
+vocab-bevaru: पसीना
+vocab-raita: किसान
+vocab-dudi: मेहनत
+vocab-mugilu: आकाश
+vocab-ettara: ऊँचाई
+vocab-dani: आवाज़
+vocab-haadu: गीत
+vocab-jaga: जगत
+vocab-kautuka: अद्भुत
+vocab-vishaya: विषय
+vocab-tota: बगीचा
+vocab-hannu: फल
+vocab-savi: स्वाद
+vocab-hacchane: घना
+vocab-sundara: सुंदर
+vocab-srishti: सृष्टि
+vocab-sobagu: शोभा
+note-raita: किसान
+note-raita-def: कृषक
+note-mugilu: आकाश
+note-mugilu-def: आकाश
+note-savi: स्वाद
+note-savi-def: रूचि
+note-sobagu: शोभा
+note-sobagu-def: सौंदर्य
+ex-a-intro: अ) पद्य की पंक्तियों में छूटे शब्द बच्चों से बुलवाएँ।
+ex-a-q1: 1. पिता के साथ मैं _____ जाऊँगा।
+ex-a-q2: 2. ऊँची आवाज़ में _____ गाऊँगा।
+ex-a-q3: 3. कई तरह के फलों का _____ लूँगा।
+ex-a-q4: 4. सुंदर सृष्टि की _____ देखूँगा।
+ex-b-intro: आ) बच्चों से प्रश्न पूछें, उत्तर बुलवाएँ।
+ex-b-q1: 1. कवि किसके साथ मेहनत करता है?
+ex-b-q2: 2. अद्भुत बात कहाँ घटी है?
+ex-b-q3: 3. गाँव कब जाना चाहिए?
+ex-c-intro: इ) ‘अ’, ‘आ’ और ‘इ’ सूची के शब्दों को जोड़कर कविता की पंक्तियाँ पूरी करें।
+ex-c-col-a: 'अ: ग्रीष्म अवकाश में / बगीचे में उगे / जगत में घटी / आकाश छूती'
+ex-c-col-aa: 'आ: अद्भुत बातें / ऊँची आवाज़ में / पिता के साथ मैं / कई तरह के फलों का'
+ex-c-col-i: 'इ: गीत गाऊँगा। / उन्हें बताऊँगा। / स्वाद लूँगा। / गाँव जाऊँगा।'
+ex-d-intro: ई) नीचे की पंक्तियाँ बच्चों को सुनाएँ, उनसे बुलवाएँ।
+ex-d-q1: 1. ग्रीष्म अवकाश में गाँव जाना चाहिए।
+ex-d-q2: 2. किसान पसीना बहाकर मेहनत करता है।
+ex-d-q3: 3. जगत में अद्भुत बातें घटी हैं।
+ex-d-q4: 4. बगीचे में कई तरह के फल हैं।
+ex-d-q5: 5. सृष्टि घनी हरी है।
+ex-d-q6: 6. गीत ऊँची आवाज़ में गाना चाहिए।

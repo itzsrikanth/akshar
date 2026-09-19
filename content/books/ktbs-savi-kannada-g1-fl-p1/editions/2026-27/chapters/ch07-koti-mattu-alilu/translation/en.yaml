@@ -1,0 +1,86 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: The Monkey and the Squirrel
+  intro: 'Lesson - 7 : Pre-lesson activity'
+  story: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: Exercise A
+  exercise-B: Exercise B
+  exercise-C: Exercise C
+  exercise-D: Exercise D
+intro-1: A) Show the pictures, ask the questions beside them, and get answers from the children.
+intro-q1: What is the name of this animal?
+intro-q2: What is the name of this animal?
+intro-q3: What is in this picture?
+intro-q4: What is in this picture?
+story-intro: (Read and tell the lesson, and have the children say it)
+story-n1: A monkey was sitting on a tree. That monkey’s tail was very long. It was hanging down to the ground.
+story-n2: 'A squirrel came there hopping. It saw the monkey’s tail. It thought, “How lovely this swing is!” Holding the monkey’s tail, the squirrel began to swing.'
+story-n3: The monkey felt ticklish. It looked down and said laughing,
+story-d1: Little sister, what are you doing? I am getting ticklish.
+story-n4: Then the squirrel got frightened.
+story-d2: Brother monkey, is this your tail? I thought it was a swing and was swinging. Forgive me
+story-n5: It let go of the tail. The squirrel ran away and climbed a branch of the tree.
+vocab-koti: monkey
+vocab-mara: tree
+vocab-mele: on/above
+vocab-kulitittu: was sitting
+vocab-baala: tail
+vocab-udda: long
+vocab-adu: it
+vocab-nela: ground
+vocab-netadu: hang
+vocab-alilu: squirrel
+vocab-kunidadu: hop/dance
+vocab-allige: there
+vocab-banditu: came
+vocab-noditu: saw
+vocab-jokaali: swing
+vocab-eshtu: how much
+vocab-chanda: lovely
+vocab-yochisu: think
+vocab-jeeku: swing
+vocab-kachaguli: tickle
+vocab-aayitu: happened
+vocab-kelage: below
+vocab-nagu: laugh
+vocab-helu: say
+vocab-tangi: younger sister
+vocab-enu: what
+vocab-maadu: do
+vocab-gaabari: fear
+vocab-manganna: brother monkey
+vocab-idu: this
+vocab-tili: know
+vocab-kshamisu: forgive
+vocab-aaga: then
+vocab-bittitu: let go
+note-gaabari: fear
+note-gaabari-def: fright
+note-kshamisu: forgive
+note-kshamisu-def: pardon the fault
+ex-a-intro: A) Have the children say the missing word in these sentences.
+ex-a-q1: 1) That monkey’s tail was _____ long.
+ex-a-q2: 2) A squirrel ________ came there.
+ex-a-q3: 3) The monkey got _______.
+ex-a-q4: 4) Brother monkey, is this ____ tail?
+ex-b-intro: B) Ask the children questions and have them answer.
+ex-b-q1: 1) What was the monkey sitting on?
+ex-b-q2: 2) What held the monkey’s tail and began to swing?
+ex-b-q3: 3) Who said, “Brother monkey, is this your tail? … Forgive me”?
+ex-b-q4: 4) How did the squirrel go and climb the tree branch?
+ex-c-intro: C) Make sentences like the model and have the children say them.
+ex-c-model: 'Model: monkey, tree, tail'
+ex-c-q1: 1) A monkey is an animal.
+ex-c-q2: 2) The monkey climbs the tree.
+ex-c-q3: 3) The monkey has a tail.
+ex-d-intro: D) Have the children say these words.
+ex-d-q1: squirrel
+ex-d-q2: tree
+ex-d-q3: tail

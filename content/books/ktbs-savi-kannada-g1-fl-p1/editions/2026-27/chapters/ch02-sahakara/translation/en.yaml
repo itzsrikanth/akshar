@@ -1,0 +1,85 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: Cooperation
+  intro: 'Lesson - 2 : Pre-lesson activity'
+  story: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: Exercise A
+  exercise-B: Exercise B
+  exercise-C: Exercise C
+intro-1: A) Show the picture and have the children say the word.
+intro-koli: hen
+intro-parivala: pigeon
+intro-gubbacchi: sparrow
+intro-tota: garden
+intro-ragitene: ragi ear / millet ear
+intro-gutuku: peck
+story-intro: (Read and tell the lesson)
+story-n1: There was a village. The name of that village was Malligehalli. In that village there was a garden. In that garden a hen lived with her chicks. In the same garden sparrows and pigeons also lived.
+story-n2: One day the hen found some ragi grains. She thought that if ragi were sown in the field, a lot of ragi would be obtained.
+story-n3: The hen asked the sparrow for help to sow the ragi. The sparrow said, “I cannot.” The hen asked the pigeon for help. It too said, “I cannot.” The hen gathered her chicks and sowed the ragi.
+story-n4: A few days passed. The ragi plants grew and became big. Ears of grain appeared on the ragi plants. The day to harvest those ears came.
+story-n5: The hen asked the sparrow for help to harvest the ragi ears. The sparrow said, “I cannot.” The hen asked the pigeon for help. It too said, “I cannot.” The hen gathered her chicks and harvested the ragi ears. She collected and stored the grain.
+story-n6: One day the sparrows and pigeons became very hungry. They came to the hen and asked, “Sister, give us ragi to eat.” The hen asked, “You did not come to sow, nor to harvest. Why should I give you ragi?” The sparrows and pigeons realized their mistake. They stood ashamed with their heads bowed. The hen felt pity and gave them ragi.
+vocab-ondu: one
+vocab-ooru: village/town
+vocab-hesaru: name
+vocab-malligehalli: Malligehalli
+vocab-koli: hen
+vocab-mari: chick
+vocab-jote: together/company
+vocab-vaasa: dwelling
+vocab-gubbacchi: sparrow
+vocab-parivala: pigeon
+vocab-dina: day
+vocab-ragikaalu: ragi grain
+vocab-nela: ground/land
+vocab-bittu: sow
+vocab-tumba: a lot
+vocab-sahaya: help
+vocab-koodi: join/together
+vocab-kelavu: some
+vocab-doddadu: big
+vocab-kelu: ask
+vocab-bele: crop/grow
+vocab-tene: ear of grain
+vocab-koyyu: harvest
+vocab-pairu: crop/plants
+vocab-sangrahisu: collect
+vocab-bali: near
+vocab-hasivu: hunger
+vocab-naachu: be ashamed
+vocab-taletagisu: bow the head
+vocab-tappu: mistake
+note-gubbacchi: sparrow
+note-gubbacchi-def: gubbi, a kind of small bird
+note-sangrahisu: collect
+note-sangrahisu-def: gather together
+note-bittu: sow
+note-bittu-def: put seed
+note-pairu: crop
+note-pairu-def: grain crop
+ex-a-intro: A) Ask questions and have the children answer.
+ex-a-q1: 1) What is the name of the village?
+ex-a-q2: 2) Where was the hen living?
+ex-a-q3: 3) What did the hen ask the sparrow for help to sow?
+ex-a-q4: 4) What appeared on the ragi plants?
+ex-a-q5: 5) Whom did the hen gather to harvest the ragi ears?
+ex-a-q6: 6) What did the sparrows and pigeons realize?
+ex-a-q7: 7) What did the hen feel?
+ex-b-intro: B) Have the children say the missing words in the given sentences.
+ex-b-q1: 1) The hen asked the sparrow for ___________ to sow the ragi.
+ex-b-q2: 2) The hen gathered her chicks and sowed ___________.
+ex-b-q3: 3) One day the sparrows and pigeons became very ___________.
+ex-b-q4: 4) The sparrows and pigeons realized their __________.
+ex-c-intro: C) Have the children fill suitable colours in the pictures.
+ex-c-q1: lotus
+ex-c-q2: banana
+ex-c-q3: carrot
+ex-c-q4: pumpkin

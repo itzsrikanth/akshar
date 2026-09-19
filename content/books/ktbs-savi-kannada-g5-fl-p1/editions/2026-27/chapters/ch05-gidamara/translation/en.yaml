@@ -1,0 +1,190 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions in one sentence.'
+  exercise-B: 'B. Answer the following questions in two or three sentences.'
+  exercise-C: 'C. Complete the given lines of the poem.'
+  exercise-D: 'D. Match and write.'
+  grammar: 'Grammar information'
+  grammar-A: 'A. Answer the following questions.'
+  grammar-B: 'B. Change the gender and write.'
+  grammar-C: 'C. From the given words, sort and write masculine, feminine and neuter.'
+  language-exercise: 'Language practice'
+  language-exercise-A: 'A. Complete the sentences by choosing the suitable word from those in brackets.'
+  language-exercise-B: 'B. Complete the sentences by choosing the suitable letter from those in brackets.'
+
+intro-1: 'The five fingers on our hand are not all alike. We use each finger for its own work. To grasp something we use all five together. We do not notice the shape and form of a finger. A tree may give fruit, shade. Likewise it can give many birds a place to nest. If we humans also live cooperatively, how lovely is that? The benefit of following nature is immense.'
+
+poem-s1l1: 'Trunk dark and leaves green'
+
+poem-s1l2: 'Flowers of many kinds'
+
+poem-s1l3: 'What beauty, what fragrance'
+
+poem-s1l4: 'in the grown plant and tree'
+
+poem-s2l1: 'Whoever comes, whatever they do'
+
+poem-s2l2: 'to all of it, divine silence'
+
+poem-s2l3: 'Where branch and twig sprout'
+
+poem-s2l4: 'life surges like the sea'
+
+poem-s3l1: 'In humans there is speech'
+
+poem-s3l2: 'but not a heart matching speech'
+
+poem-s3l3: 'Gender, colour, caste, religion'
+
+poem-s3l4: 'have made his mind a ruined den'
+
+poem-s4l1: 'Caste and song, gender and faith'
+
+poem-s4l2: 'the plant and tree that grew beyond them'
+
+poem-s4l3: 'he, she, that, this'
+
+poem-s4l4: 'it never counts even one day'
+
+poem-s5l1: 'Trunk dark and leaves green'
+
+poem-s5l2: 'Flowers of many kinds'
+
+poem-s5l3: 'Enduring sun, rain and cold'
+
+poem-s5l4: 'they blossom every day.'
+
+vocab-aralu: 'aralu (bloom)'
+
+vocab-aralu-def: 'develop, bloom'
+
+vocab-kampu: 'kampu (fragrance)'
+
+vocab-kampu-def: 'fragrance'
+
+vocab-kompe: 'kompe (den)'
+
+vocab-kompe-def: 'filthy place'
+
+vocab-chetana: 'chetana (life-force)'
+
+vocab-chetana-def: 'life, vitality, strength'
+
+vocab-divya: 'divya (divine)'
+
+vocab-divya-def: 'excellent, sacred'
+
+vocab-bodde: 'bodde (trunk)'
+
+vocab-bodde-def: 'tree trunk'
+
+vocab-varna: 'varna (colour/caste)'
+
+vocab-varna-def: 'colour'
+
+ex-a-q1: 'What colour are the trunks and leaves of plants and trees?'
+
+ex-a-q2: 'What do plants and trees endure as they grow?'
+
+ex-a-q3: 'By what has the human mind become a ruined den?'
+
+ex-b-q1: 'What is the nature of plants and trees?'
+
+ex-b-q2: 'What have plants and trees grown beyond?'
+
+ex-c-q1: 'Trunk dark ______________
+
+  ______________ many kinds
+
+  What beauty ______________
+
+  ______________ plant and tree'
+
+ex-d-q1: '''A''
+
+  1. divine
+
+  2. ruined
+
+  3. surging
+
+
+  ''B''
+
+  life-force
+
+  silence
+
+  den'
+
+grammar-p1: 'Genders
+
+  Separating and naming male, female and other things is called gender.'
+
+grammar-p2: 'There are three kinds of gender.
+
+  1. Masculine
+
+  2. Feminine
+
+  3. Neuter'
+
+grammar-p3: '1. Masculine
+
+  All words referring to males are masculine. That is, words about men are masculine.
+
+  Examples: Rama, king, boy, father, elder brother, etc.'
+
+grammar-p4: '2. Feminine
+
+  All words referring to females are feminine. That is, words about women are feminine.
+
+  Examples: Sita, queen, girl, mother, elder sister, etc.'
+
+grammar-p5: '3. Neuter
+
+  All words other than male- and female-referring words are neuter. (animals, birds, trees, plants, objects, etc.)
+
+  Examples: cow, parrot, tree, stone, house, etc.'
+
+grammar-a-q1: 'A) What is gender?'
+
+grammar-a-q2: 'B) How many kinds of gender are there? What are they?'
+
+grammar-a-q3: 'C) What is feminine gender? Give an example.'
+
+grammar-b-q1: '1. boy : ___________________'
+
+grammar-b-q2: '2. younger sister : ___________________'
+
+grammar-b-q3: '3. Gowdati (lady) : ___________________'
+
+grammar-b-q4: '4. aunt : ___________________'
+
+grammar-b-q5: '5. he : ___________________'
+
+grammar-c-q1: 'cuckoo, he, elder brother, deer, parrot, grandfather, queen, Ganga, friend, mother, fruit, Radha'
+
+lang-ex-a-q1: '1. On a moonlit night, looking at the __________ where the moon is, is joy (washerman / sky)'
+
+lang-ex-a-q2: '2. Seeing that you were hurt, __________ came to me. (person / cry)'
+
+lang-ex-a-q3: '3. My __________ is Bengaluru. (thigh / town)'
+
+lang-ex-a-q4: '4. After playing in the evening and __________, I eat. (having studied / having kicked)'
+
+lang-ex-a-q5: '5. Milk has been placed on the __________. (stove’s / earring’s)'
+
+lang-ex-b-q1: '1. Ka__________veri near the hill of Ko__________dag’s Bhagamandala is born as a small__________ and flows do__________ward. (ka/kā/ki/kī/ke/ko)'
+
+lang-ex-b-q2: '2. If you cro__________ the river and reach the other ba__________, a bi__________ banyan tree can be see__________. (da/dā/de/do)'
+
+lang-ex-b-q3: '3. Kaveri is a river that twists like a sna__________ and flo__________s. (ha/hā/hi/ho)'

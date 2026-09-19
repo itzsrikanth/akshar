@@ -10,12 +10,53 @@ provenance:
   sourceDocuments:
   - label: g01-fl-p1-2026-27.pdf
     sha256: 3a7610c55e27735fab3388d1fbaf1d28232e8d213a0f49c854aeeb6713e1675e
-  notes: Partial conversion checkpoint for Grade 1 FL Part 1. Chapters are held editorial
-    drafts; production API excluded until rights are verified.
+  notes: Grade 1 FL Part 1 chapters 1–8 converted as held editorial drafts; production API excluded until rights are verified. Chapter 8 alphabet drills are structured by ಅಕ್ಷರಾಭ್ಯಾಸ units with representative sample words; page-local fill-in drills remain partial.
 chapters:
 - id: ch01-vandane
   number: 1
   title: ವಂದನೆ
   legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch01-vandane
   formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch01-vandane
+  held: true
+- id: ch02-sahakara
+  number: 2
+  title: ಸಹಕಾರ
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch02-sahakara
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch02-sahakara
+  held: true
+- id: ch03-ootada-aata
+  number: 3
+  title: ಊಟದ ಆಟ
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch03-ootada-aata
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch03-ootada-aata
+  held: true
+- id: ch04-hoodota
+  number: 4
+  title: ಹೂದೋಟ
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch04-hoodota
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch04-hoodota
+  held: true
+- id: ch05-rekhabhyasa-pathagalu
+  number: 5
+  title: ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch05-rekhabhyasa-pathagalu
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch05-rekhabhyasa-pathagalu
+  held: true
+- id: ch06-besige-rajeyali
+  number: 6
+  title: ಬೇಸಿಗೆ ರಜೆಯಲಿ
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch06-besige-rajeyali
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch06-besige-rajeyali
+  held: true
+- id: ch07-koti-mattu-alilu
+  number: 7
+  title: ಕೋತಿ ಮತ್ತು ಅಳಿಲು
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch07-koti-mattu-alilu
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch07-koti-mattu-alilu
+  held: true
+- id: ch08-pada-odu-akshara-kali
+  number: 8
+  title: ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch08-pada-odu-akshara-kali
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch08-pada-odu-akshara-kali
   held: true

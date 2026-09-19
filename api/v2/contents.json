@@ -305,6 +305,48 @@
           "id": "ch01-vandane",
           "number": 1,
           "title": "ವಂದನೆ"
+        },
+        {
+          "held": true,
+          "id": "ch02-sahakara",
+          "number": 2,
+          "title": "ಸಹಕಾರ"
+        },
+        {
+          "held": true,
+          "id": "ch03-ootada-aata",
+          "number": 3,
+          "title": "ಊಟದ ಆಟ"
+        },
+        {
+          "held": true,
+          "id": "ch04-hoodota",
+          "number": 4,
+          "title": "ಹೂದೋಟ"
+        },
+        {
+          "held": true,
+          "id": "ch05-rekhabhyasa-pathagalu",
+          "number": 5,
+          "title": "ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು"
+        },
+        {
+          "held": true,
+          "id": "ch06-besige-rajeyali",
+          "number": 6,
+          "title": "ಬೇಸಿಗೆ ರಜೆಯಲಿ"
+        },
+        {
+          "held": true,
+          "id": "ch07-koti-mattu-alilu",
+          "number": 7,
+          "title": "ಕೋತಿ ಮತ್ತು ಅಳಿಲು"
+        },
+        {
+          "held": true,
+          "id": "ch08-pada-odu-akshara-kali",
+          "number": 8,
+          "title": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ"
         }
       ],
       "id": "2026-27",
@@ -313,7 +355,7 @@
       "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
       "printedGrade": 1,
       "provenance": {
-        "notes": "Partial conversion checkpoint for Grade 1 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "notes": "Grade 1 FL Part 1 chapters 1–8 converted as held editorial drafts; production API excluded until rights are verified. Chapter 8 alphabet drills are structured by ಅಕ್ಷರಾಭ್ಯಾಸ units with representative sample words; page-local fill-in drills remain partial.",
         "sourceDocuments": [
           {
             "label": "g01-fl-p1-2026-27.pdf",
@@ -369,6 +411,12 @@
           "id": "ch07-arive-guru",
           "number": 7,
           "title": "ಅರಿವೇ ಗುರು"
+        },
+        {
+          "held": true,
+          "id": "ch08-nanna-devaru",
+          "number": 8,
+          "title": "ನನ್ನ ದೇವರು"
         }
       ],
       "id": "2026-27",
@@ -377,7 +425,7 @@
       "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
       "printedGrade": 2,
       "provenance": {
-        "notes": "Partial conversion checkpoint for Grade 2 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "notes": "Grade 2 FL Part 1 chapters 1–8 converted as held editorial drafts; production API excluded until rights are verified.",
         "sourceDocuments": [
           {
             "label": "g02-fl-p1-2026-27.pdf",
@@ -598,6 +646,60 @@
           "id": "ch01-doddavara-daari",
           "number": 1,
           "title": "ದೊಡ್ಡವರ ದಾರಿ"
+        },
+        {
+          "held": true,
+          "id": "ch02-gandharvasena",
+          "number": 2,
+          "title": "ಗಂಧರ್ವಸೇನ!"
+        },
+        {
+          "held": true,
+          "id": "ch03-krishna-sudhama",
+          "number": 3,
+          "title": "ಕೃಷ್ಣ - ಸುಧಾಮ (ನಾಟಕ)"
+        },
+        {
+          "held": true,
+          "id": "ch04-dr-rajkumar",
+          "number": 4,
+          "title": "ಡಾ. ರಾಜಕುಮಾರ್"
+        },
+        {
+          "held": true,
+          "id": "ch05-besige",
+          "number": 5,
+          "title": "ಬೇಸಿಗೆ"
+        },
+        {
+          "held": true,
+          "id": "ch06-mangala-grahadalli-putti",
+          "number": 6,
+          "title": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ"
+        },
+        {
+          "held": true,
+          "id": "ch07-ni-hoda-marudina",
+          "number": 7,
+          "title": "ನೀ ಹೋದ ಮರುದಿನ"
+        },
+        {
+          "held": true,
+          "id": "ch08-magu-mattu-hannugalu",
+          "number": 8,
+          "title": "ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು"
+        },
+        {
+          "held": true,
+          "id": "ch09-natyakala-durandhara-mahammad-peer",
+          "number": 9,
+          "title": "ನಾಟ್ಯಕಲಾ ದುರಂಧರ ಮಹಮ್ಮದ್ ಪೀರ್"
+        },
+        {
+          "held": true,
+          "id": "ch10-avva",
+          "number": 10,
+          "title": "ಅವ್ವ"
         }
       ],
       "id": "2026-27",
@@ -616,6 +718,6 @@
       }
     }
   ],
-  "generatedAt": "2026-09-19T05:16:37Z",
+  "generatedAt": "2026-09-19T05:40:54Z",
   "schemaVersion": "2.0"
 }

@@ -1,0 +1,20 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: rekhābhyāsa pāṭhagaḻu
+  exercise-1: rekhābhyāsa -1
+  exercise-2: rekhābhyāsa -2
+  exercise-3: rekhābhyāsa -3
+  exercise-4: rekhābhyāsa -4
+  exercise-5: rekhābhyāsa -5
+intro-1: tocidaṃtè gīcu
+intro-2: (makkaḻu tamma manassigè baṃdaṃtè gèrè èḻèyalu heḻi)
+ex-1-title: rekhābhyāsa -1
+ex-1-intro: torisi - barèyisi
+ex-2-title: rekhābhyāsa -2
+ex-3-title: rekhābhyāsa -3
+ex-4-title: rekhābhyāsa -4
+ex-5-title: rekhābhyāsa -5

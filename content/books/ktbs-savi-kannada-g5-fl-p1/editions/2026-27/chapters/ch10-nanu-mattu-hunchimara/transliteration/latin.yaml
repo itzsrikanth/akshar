@@ -1,0 +1,54 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  author_intro: 'kr̥tikārara paricaya'
+  exercise-A: 'a. keḷagina praśnegaḷige uttarisi.'
+
+intro-1: 'anēka bageya mūḍhanambikegaḷu namma naḍuve bīḍubiṭṭive. ā nimittavāgi nāvu māḍabārada kelasagaḷannu māḍuttēve. parisara nāśa māḍuttēve. yāvudē vaijñānika satyavannu kaṇḍukoḷḷalu prayatnisuvudilla. yārō hēḷida yāvudo mātige ēnō artha kalpisuva janarinda enthentha anāhutagaḷu āgibiḍuttave embudannu kuritu eccarike nīḍuvudu prastuta pāṭhada āśaya.'
+
+story-n1: 'nānu dāriyalli naḍedu hōguttidde. nanna būṭugaḷu iddakkiddante nintuhōdavu. mellane keḷage nōḍidare... āhā... huñcihūvu! nelada tumbā haḷadiya huñcihūvugaḷa rāśirāśi. cikkavaniddāga nanagondu vicitra havyāsavittu. adendare huñcihūvu tinnuvudu! eḷeya hallugaḷinda huñcihūvugaḷannu bakabaka tinnuva bakapakṣi nānāgidde. jummendāgalē hallu caḷitaddu gottāguttittu.'
+
+story-n2: 'nanna bāyalli nīrūritu. mellane baggi, aidāru huñcihūvugaḷannu ārisikoṇḍu tinnuvāse mūḍitu. ādare... nānīga puṭṭa huḍuganalla...doḍḍava.... doḍḍa pagāradava...pyāṇṭu būṭu... intha kāladalli... adū rasteyalli nintu... nānu huñcihūvu ārisidare jana ēnendāru? adannu allē biṭṭe.'
+
+story-n3: 'būṭu khaṭ khaṭ ūruttā munde sāgibiṭṭe.'
+
+story-n4: 'munde ondu vārada anantara adē huṇise marada keḷagininda hōguvāga svalpa balita eḷanāgarakāyigaḷu kaṇḍavu. kelavu huḍugaru huñcimarakke kallu esedu, nāgarakāyi bīḷisi tinnuttiddaru. nanna bāyalli haṇḍe nīru chillendu cimmitu. ā huḍugarige jabarisuva nepadalli nintu avarigende, “lē...lē...kallu hoḍībyāḍri...! yāra tale oḍībēkanta māḍiddīri?”'
+
+story-n5: 'nanna gadarikege ā huḍugaru añji dikkāpālāgi ōḍibiṭṭaru. “ayyayyō’’ ande! avaru tūrida kallu nēravāgi nanna talege baḍididdarū nānu bēḍa annuttiralilla. aṣṭu prīti nanage huñcikāyiya mēle.'
+
+story-n6: 'svalpa dinagaḷa anantara adē marada dārige bande. abbā...! innū ondu vicitra kaṇḍe! huñcigiḍada iḷibidda udda ṭoṅgegaḷannu hiḍidu kelavu huḍugiyaru jōkāli jīkuttiddaru. ondu kṣaṇa ninte, haudu! nānu cikkavaniddāga hīgeyē jōkāli jīkuttidde.'
+
+story-n7: 'eraḍu mūru vāra dāṭidavu. ā huñcimarada baḷige bandāga alli habbada vātāvaraṇa. kāraṇa ‘ḍōre huṇise’. andare....itta kāyi huṇiseyu alla; atta haṇṇu huṇiseyu alla ...idara madhyada hantada haḷadi-hasiru baṇṇada ḍōrehuṇise haṇṇu. ondu viśiṣṭa ruciya haṇṇu. ī haṇṇina adbhuta ruciyu āpūs māvina haṇṇina ruciginta mēlu!'
+
+story-n8: 'mattondu vāra kaḷeyitu. ā huṇisemarada hattira ondu duṇḍāda baṇḍegallu ittu. nānu sañje gāḷi sēvisuva nepamāḍikoṇḍu alli hōgi kuḷite. alli marakuṭigana hakki, kāge, gubbi, mainā, ṭiṭṭibha muntāda pakṣigaḷu kāṇisikoṇḍavu. ā hakkimitrarondige mātāḍide. avellavū ā huṇisemaradalli hāḍi naliyuttiddavu.'
+
+story-n9: 'ānantara nānu bēre ūrige vargavāgi hōde. matte nanna ūrige bandāga āru tiṅgaḷu kaḷedu hōgiddavu. modalinante ā dāriyalli bande. alli huṇisemara iralilla. bōḷu nela mātra kāṇisuttittu!'
+
+story-n10: 'ede jōrāgi baḍidukoṇḍitu. alli āṭa āḍuttidda obba huḍuganannu karedu kēḷide: “ē tamma... illi huñci mara ittalla... ēnāytu?” āta sappe mukha māḍikoṇḍu hēḷida- ``kaḍidaru..kaḍidubiṭṭaru..”'
+
+story-n11: '“āṁ...āṁ...kaḍidare? yāke? yāke?” ondē usirinalli kēḷide.'
+
+story-n12: '``huñcimaradalli devvagōḷu iruttāvante. idaralli devva vāsamāḍtittante, adakka kaḍidubiṭru sāvkārru...”'
+
+story-n13: 'ā huḍuga ākāśavannu nōḍutta kaṅgālāgi nintubiṭṭanu.'
+
+story-n14: 'mēle bisilu.. keḷage bōḷu nela...'
+
+story-n15: 'aṣṭu kāla nānu prītisuttidda huṇisemara andu kāṇadāgittu. mūḍhanambikege baliyāgittu. ellō dūradinda adē huṇesemara kūgi koṇḍante bhāsavāyitu. “manuṣyaru yāke hīge māḍuttāre?”'
+
+author-intro-1: 'śrī gurusiddhayya huccayya hanneraḍumaṭha avaru 1940 mārc 13randu hubbaḷḷiyalli janisidaru. tande huccayya, tāyi annapūrṇamma. 1963ralli karnāṭaka viśva vidyālayadalli eṁ. e. padavi paḍedaru. iḷakallina śrī vijaya mahāntēśvara kale, vijñāna hāgū vāṇijya mahāvidyālayadalli kannaḍa prādhyāpakarāgi kāryanirvahisidaru. kavana, kathe, nāṭaka, kādambari, viḍambane, vinōda, sampādane, vyakti citraṇa ityādi 80 pustakagaḷannu racisiddāre. avugaḷalli sōma sākṣātkāra, pañcārati, mahātapasvi, baṇḍedda bārakōlu, hōḷi muntāda kr̥tigaḷu sērive. mahātapasvi, hōḷi muntāda kr̥tigaḷu calanacitragaḷāgi prasiddhi paḍedive. prastuta katheyannu kanakāmbariyondige kampina payaṇa emba saṇṇakathegaḷa saṅkalanadinda aydukoḷḷalāgide.'
+
+ex-a-q1: '1. huñcihūvu tinnuvudarinda hallugaḷu ēnāguttave?'
+
+ex-a-q2: '2. ḍōrehuṇise endarēnu?'
+
+ex-a-q3: '3. huñcimarada ṭoṅgegaḷannu hiḍidu huḍugiyaru ēnu māḍuttiddaru?'
+
+ex-a-q4: '4. huñcimarada baḷiyalli habbada vātāvaraṇaviralu yāru kāraṇavādaru?'
+
+ex-a-q5: '5. mūḍhanambikege yāvudu baliyāgittu?'

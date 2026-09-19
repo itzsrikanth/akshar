@@ -1,0 +1,119 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: AI
+  license: CC BY 4.0
+labels:
+  title: pada odu - akṣara kali
+  learned: kalita akṣaragaḻu
+  alphabet: varṇamālè
+  word-practice: padagaḻa abhyāsa
+  akshara-1: akṣarābhyāsa-1
+  akshara-2: akṣarābhyāsa-2
+  akshara-3: akṣarābhyāsa-3
+  akshara-4: akṣarābhyāsa-4
+  akshara-5: akṣarābhyāsa-5
+  akshara-6: akṣarābhyāsa-6
+  akshara-7: akṣarābhyāsa-7
+  akshara-8: akṣarābhyāsa-8
+  akshara-9: akṣarābhyāsa-9
+  akshara-10: akṣarābhyāsa-10
+intro-1: odisi-barèyisi
+intro-2: akṣara pāṭha
+intro-3: pada odu - akṣara kali
+akshara-1-title: akṣarābhyāsa-1
+akshara-1-letters: ra ga sa da a
+akshara-1-intro: a) citra torisi pada heḻisi.
+akshara-1-w1: rasa
+akshara-1-w2: garagasa
+akshara-1-w3: sara
+akshara-1-w4: dasara
+akshara-1-w5: ara
+akshara-1-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-2-title: akṣarābhyāsa-2
+akshara-2-letters: ja va ma ba na
+akshara-2-intro: a) citra torisi pada heḻisi.
+akshara-2-w1: jana
+akshara-2-w2: vana
+akshara-2-w3: mara
+akshara-2-w4: basava
+akshara-2-w5: nagara
+akshara-2-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-3-title: akṣarābhyāsa-3
+akshara-3-letters: pa ya u ḍa ṭa ca
+akshara-3-intro: a) citra torisi pada heḻisi.
+akshara-3-w1: paṭa
+akshara-3-w2: yama
+akshara-3-w3: uḍa
+akshara-3-w4: ḍamaḍama
+akshara-3-w5: ṭapaṭapa
+akshara-3-w6: camaca
+akshara-3-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-4-title: akṣarābhyāsa-4
+akshara-4-letters: la ī ū ka
+akshara-4-intro: a) citra torisi pada heḻisi.
+akshara-4-w1: īcala
+akshara-4-w2: ūṭa
+akshara-4-w3: kaḍaga
+akshara-4-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-5-title: akṣarābhyāsa-5
+akshara-5-letters: è e i ā ta ḻa
+akshara-5-intro: a) citra torisi pada heḻisi.
+akshara-5-w1: èraka
+akshara-5-w2: eta
+akshara-5-w3: ina
+akshara-5-w4: āla
+akshara-5-w5: tabala
+akshara-5-w6: naḻa
+akshara-5-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-6-title: akṣarābhyāsa-6
+akshara-6-letters: o au ha śa ṣa
+akshara-6-intro: a) citra torisi pada heḻisi.
+akshara-6-w1: oṭa
+akshara-6-w2: auḍala
+akshara-6-w3: haya
+akshara-6-w4: śara
+akshara-6-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-7-title: akṣarābhyāsa-7
+akshara-7-letters: ai ṛ ṇa cha ò
+akshara-7-intro: a) citra torisi pada heḻisi.
+akshara-7-w1: aidaḻa
+akshara-7-w2: kaṇa
+akshara-7-w3: òṇamara
+akshara-7-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-8-title: akṣarābhyāsa-8
+akshara-8-letters: dha tha ḍha bha
+akshara-8-intro: a) citra torisi pada heḻisi.
+akshara-8-w1: dhana
+akshara-8-w2: ratha
+akshara-8-w3: ḍhaṇaḍhaṇa
+akshara-8-w4: bhaṭa
+akshara-8-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-9-title: akṣarābhyāsa-9
+akshara-9-letters: gha ṭha pha jha kha
+akshara-9-intro: a) citra torisi pada heḻisi.
+akshara-9-w1: ghaṭa
+akshara-9-w2: jaṭhara
+akshara-9-w3: phala
+akshara-9-w4: jhaṇajhaṇa
+akshara-9-w5: khaga
+akshara-9-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+akshara-10-title: akṣarābhyāsa-10
+akshara-10-letters: aṃ aḥ ṅa ña
+akshara-10-intro: a) akṣara torisi heḻisi.
+akshara-10-w1: aṃka
+akshara-10-w2: aṃga
+akshara-10-w3: aṃḍa
+akshara-10-w4: aṃda
+akshara-10-w5: aṃta
+akshara-10-w6: aṃcala
+akshara-10-w7: aṃgaḻa
+akshara-10-w8: aṃjana
+akshara-10-copy: ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi.
+learned-title: kalita akṣaragaḻu
+learned-list: ra ga sa da a · ja va ma ba na · pa ya u ḍa ṭa ca · la ī ū ka · è e i ā ta ḻa · o au ha śa ṣa · ai ṛ ṇa cha ò · dha tha ḍha bha · gha ṭha pha jha kha · aṃ aḥ ṅa ña
+word-practice-title: padagaḻa abhyāsa
+word-practice-intro: makkaḻiṃda odisi, nakalu māḍisi
+alphabet-title: varṇamālè
+alphabet-vowels: a ā i ī u ū ṛ è e ai ò o au aṃ aḥ
+alphabet-consonants: ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha ḻa

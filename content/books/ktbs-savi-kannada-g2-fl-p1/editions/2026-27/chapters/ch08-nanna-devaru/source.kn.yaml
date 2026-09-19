@@ -1,0 +1,280 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 8
+  slug: ch08-nanna-devaru
+  title: ನನ್ನ ದೇವರು
+  source_url: 'https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf'
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: 'ಅ) ''ನನ್ನ ದೇವರು'' ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಹಾಡಿ:'
+  exercise-B: 'ಆ) ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಹೇಳಿರಿ:'
+  exercise-C: 'ಇ) ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ:'
+  exercise-D: 'ಈ) ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಗುರುತಿಸಿ ಬರೆಯಿರಿ :'
+  exercise-E: 'ಉ) ಮಾದರಿಯಂತೆ ಪದ ಬರೆ :'
+  exercise-F: 'ಊ) ಈ ಕಥೆಯನ್ನು ಓದಿ ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಬರೆಯಿರಿ :'
+
+segments:
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ನಿತ್ಯ ನಮಗೆ ಬೆಳಕು ಕೊಡುವ
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಸೂರ್ಯ ನನ್ನ ದೇವರು
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ರಾತ್ರಿ ಹಾಲು ಬೆಳಕು ಕೊಡುವ
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಚಂದ್ರ ನನ್ನ ದೇವರು
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಕೋಟಿ ತಾರೆ ಬೆಳ್ಳಿ ಚುಕ್ಕಿ
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಉಲ್ಕೆ ನನ್ನ ದೇವರು
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಬೆಂಕಿ ಗಾಳಿ ನೀರು ಗಗನ
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಎಲ್ಲ ನನ್ನ ದೇವರು
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಹಚ್ಚ ಹಸಿರು ಹೊದ್ದು ನಿಂತ
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಭೂಮಿ ನನ್ನ ದೇವರು
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಗುಡ್ಡ - ಬೆಟ್ಟ ಕಾಡು ಮೇಡು
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಹೊಳೆಗಳೆನ್ನ ದೇವರು
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಹೊಲದಿ ಬೆವರು ಸುರಿಸಿ ದುಡಿವ
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ರೈತ ನನ್ನ ದೇವರು
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ದೇಶಕಾಗಿ ಶ್ರಮಿಸುತಿರುವ
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಯೋಧ ನನ್ನ ದೇವರು
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ತಂದೆ - ತಾಯಿ ಬಂಧು ಬಳಗ-
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ವೆಲ್ಲ ನನ್ನ ದೇವರು
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ವಿದ್ಯೆ ಕಲಿಸಿ ಹಿತವ ನುಡಿವ
+  - id: poem-s5l4
+    type: poem_line
+    stanza: 5
+    text: ಗುರುಗಳೆನ್ನ ದೇವರು
+  - id: poem-s6l1
+    type: poem_line
+    stanza: 6
+    text: ನನ್ನ ದೇವರಿವರು ನಿತ್ಯ
+  - id: poem-s6l2
+    type: poem_line
+    stanza: 6
+    text: ನನಗೆ ಕಾಣುತಿರುವರು
+  - id: poem-s6l3
+    type: poem_line
+    stanza: 6
+    text: ಶುದ್ಧ ಮನದಿ ಬೇಡಿದುದನು
+  - id: poem-s6l4
+    type: poem_line
+    stanza: 6
+    text: ನೀಡಿ ಪೊರೆಯುತಿರುವರು
+  - id: vocab-nitya
+    type: vocabulary_term
+    text: ನಿತ್ಯ
+  - id: vocab-surya
+    type: vocabulary_term
+    text: ಸೂರ್ಯ
+  - id: vocab-belaku
+    type: vocabulary_term
+    text: ಬೆಳಕು
+  - id: vocab-taare
+    type: vocabulary_term
+    text: ತಾರೆ
+  - id: vocab-belli
+    type: vocabulary_term
+    text: ಬೆಳ್ಳಿ
+  - id: vocab-benki
+    type: vocabulary_term
+    text: ಬೆಂಕಿ
+  - id: vocab-ulke
+    type: vocabulary_term
+    text: ಉಲ್ಕೆ
+  - id: vocab-gaali
+    type: vocabulary_term
+    text: ಗಾಳಿ
+  - id: vocab-gagana
+    type: vocabulary_term
+    text: ಗಗನ
+  - id: vocab-neeru
+    type: vocabulary_term
+    text: ನೀರು
+  - id: vocab-hasiru
+    type: vocabulary_term
+    text: ಹಸಿರು
+  - id: vocab-hoddu
+    type: vocabulary_term
+    text: ಹೊದ್ದು
+  - id: vocab-bhumi
+    type: vocabulary_term
+    text: ಭೂಮಿ
+  - id: vocab-guddabetta
+    type: vocabulary_term
+    text: ಗುಡ್ಡಬೆಟ್ಟ
+  - id: vocab-raita
+    type: vocabulary_term
+    text: ರೈತ
+  - id: vocab-kaadumedu
+    type: vocabulary_term
+    text: ಕಾಡುಮೇಡು
+  - id: vocab-hole
+    type: vocabulary_term
+    text: ಹೊಳೆ
+  - id: vocab-hola
+    type: vocabulary_term
+    text: ಹೊಲ
+  - id: vocab-bevaru
+    type: vocabulary_term
+    text: ಬೆವರು
+  - id: vocab-hita
+    type: vocabulary_term
+    text: ಹಿತ
+  - id: vocab-desha
+    type: vocabulary_term
+    text: ದೇಶ
+  - id: vocab-shramisu
+    type: vocabulary_term
+    text: ಶ್ರಮಿಸು
+  - id: vocab-yodha
+    type: vocabulary_term
+    text: ಯೋಧ
+  - id: vocab-vidye
+    type: vocabulary_term
+    text: ವಿದ್ಯೆ
+  - id: note-nitya
+    type: note_term
+    text: ನಿತ್ಯ
+  - id: note-nitya-def
+    type: note_definition
+    text: ಪ್ರತಿದಿನ, ಯಾವಾಗಲೂ
+  - id: note-taare
+    type: note_term
+    text: ತಾರೆ
+  - id: note-taare-def
+    type: note_definition
+    text: ನಕ್ಷತ್ರ, ಚುಕ್ಕೆ
+  - id: note-gagana
+    type: note_term
+    text: ಗಗನ
+  - id: note-gagana-def
+    type: note_definition
+    text: ಆಕಾಶ
+  - id: note-ulke
+    type: note_term
+    text: ಉಲ್ಕೆ
+  - id: note-ulke-def
+    type: note_definition
+    text: ಆಕಾಶಕಾಯ
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: '''ನನ್ನ ದೇವರು'' ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಹಾಡಿ:'
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ನಮಗೆ ಹಗಲಿನಲ್ಲಿ ಬೆಳಕನ್ನು ಕೊಡುವವನು ಯಾರು?
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ರೈತ ಎಲ್ಲಿ ದುಡಿಯುತ್ತಾನೆ?
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ಯೋಧ ಏತಕ್ಕಾಗಿ ಶ್ರಮಿಸುತ್ತಿದ್ದಾನೆ?
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: ರಾತ್ರಿವೇಳೆ ಬೆಳಕು ಕೊಡುವವನು ಯಾರು?
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: ಭೂಮಿ ಏನನ್ನು ಹೊದ್ದು ನಿಂತಿದೆ?
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: ವಿದ್ಯೆ ಕಲಿಸಿ ಯಾರು ಹಿತವ ನುಡಿವರು?
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: ಸೂರ್ಯ, ಚಂದ್ರ, ಗುಡ್ಡ, ನಕ್ಷತ್ರ .........................
+  - id: ex-d-q2
+    type: question
+    exercise: D
+    text: ಬೆಳಕು, ಗಾಳಿ, ನೀರು, ರೈತ .........................
+  - id: ex-e-q1
+    type: fill_blank
+    exercise: E
+    text: 'ಮಾದರಿ: ಬೆಟ್ಟ - ಗುಡ್ಡ'
+  - id: ex-e-q2
+    type: fill_blank
+    exercise: E
+    text: ತಂದೆ - .........................
+  - id: ex-e-q3
+    type: fill_blank
+    exercise: E
+    text: ಕಾಡು - ........................
+  - id: ex-e-q4
+    type: fill_blank
+    exercise: E
+    text: ಬಂಧು - .........................
+  - id: story-n1
+    type: prose
+    text: ಒಬ್ಬ ಬೇಟೆಗಾರ ಹಕ್ಕಿಗಳಿಗಾಗಿ ಕಾಳು ಚೆಲ್ಲಿ ಬಲೆ ಬೀಸಿದನು. ಹಕ್ಕಿಗಳು ಕಾಳುಗಳನ್ನು ನೋಡಿದವು. ಆಸೆಯಿಂದ ಕಾಳು ತಿನ್ನಲು ಹೋದವು. ಕೆಲವು ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡವು. "ಚಿಂವ್ ಚಿಂವ್" ಎಂದು ಕೂಗಿಕೊಂಡವು. ಕೂಡಲೇ ಒಂದು ಉಪಾಯ ಮಾಡಿದವು. ಎಲ್ಲಾ ಹಕ್ಕಿಗಳು ಸೇರಿ ಬಲೆಯನ್ನು ಎತ್ತಿಕೊಂಡು ಮೇಲಕ್ಕೆ ಹಾರಿದವು. ಅನಂತರ ಬೇರೆಡೆಗೆ ಹೋಗಿ ಉಪಾಯವಾಗಿ ಬಲೆಯಿಂದ ಹೊರಬಂದವು.
+  - id: ex-f-q1
+    type: question
+    exercise: F
+    text: ಬೇಟೆಗಾರ ಯಾವುದಕ್ಕಾಗಿ ಬಲೆ ಬೀಸಿದನು?
+  - id: ex-f-q2
+    type: question
+    exercise: F
+    text: ಎಲ್ಲಾ ಹಕ್ಕಿಗಳು ಸೇರಿ ಏನು ಮಾಡಿದವು?

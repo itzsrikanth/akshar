@@ -1,0 +1,80 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the poet
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Fill in the blanks.
+  exercise-C: C. Split these words and write them.
+  exercise-D: D. Complete the following poem passage.
+intro-1: Nature is humanity’s first teacher. One must learn from everyone and everything. There is much to learn even from animals, birds and trees. As the saying about Sarvajna who learned a word from everyone and became a mountain of learning goes, there are lessons to learn from fruits too. This poem holds the hope that if life ripens like fruit, living becomes sweet.
+poem-s1l1: A child with wide eyes before the fruit shop
+poem-s1l2: like a black lorry that suddenly landed at this turn
+poem-s1l3: Is it the teasing nail of the wind
+poem-s1l4: or a stone thrown by mischief-makers
+poem-s2l1: May you not be felled while still unripe
+poem-s2l2: Become a fruit shop yourself
+poem-s2l3: Pawnshop dust of the thrift-market risen
+poem-s2l4: in the middle of the town market
+poem-s3l1: A child must become fruit
+poem-s3l2: until the wrinkles of a ripe fruit cover the body
+poem-s3l3: There is a banana split with ripeness
+poem-s3l4: like that you must bend a little
+poem-s4l1: If you grow fat like a pomelo
+poem-s4l2: if you shrink like a lemon
+poem-s4l3: sourness settles inside you
+poem-s4l4: may your selfhood level to the right measure
+poem-s5l1: Like orange, like mosambi
+poem-s5l2: like a juicy mango
+poem-s5l3: become rare like a fig to people’s eyes;
+poem-s5l4: when seen, appear as watermelon
+poem-s6l1: For eyes scorched by summer
+poem-s6l2: inside a pomegranate burst open petal by petal
+poem-s6l3: glittering ember-coloured beads
+poem-s6l4: become a mine of pure juice drop by drop;
+poem-s7l1: Spread like a grapevine
+poem-s7l2: the length and breadth of life’s canopy;
+poem-s7l3: Hold on; don’t let go;
+poem-s7l4: for fruits to be hung on you
+poem-s8l1: When the gardener comes as you turn to earth yourself
+poem-s8l2: don’t set out on a costly rocket journey
+poem-s8l3: Along with the apple
+poem-s8l4: become a berry that reaches everyone
+author-1: Sri H.S. Shivaprakash was born in Bengaluru in 1954. He served as a professor of English. He has written works such as Mahachaitra, Sultan Tipu, Navilu Nagara and Male Bidda Neladalli. He has been honoured with Karnataka Nataka Academy, Sangeet Natak Akademi and Sahitya Akademi awards.
+vocab-giraviyangadi: pawn shop
+vocab-giraviyangadi-def: a shop that lends money against goods
+vocab-gujari: thrift market
+vocab-gujari-def: a place selling old goods
+vocab-pakvatana: ripeness
+vocab-pakvatana-def: ripened
+vocab-kobbu: to grow fat
+vocab-kobbu-def: to become thick
+vocab-kamaru: scorch
+vocab-kamaru-def: brown/scorched
+vocab-khani: mine
+vocab-khani-def: mine, source
+vocab-dakku: to obtain
+vocab-dakku-def: to get
+ex-a-q1: According to the poet, what should a child become?
+ex-a-q2: Like which fruit should the child bend?
+ex-a-q3: Like which fruit should one shrink, say the poets?
+ex-a-q4: Which fruit is rare?
+ex-a-q5: How should one appear to scorched eyes?
+ex-b-q1: glittering ember ________ bead by bead.
+ex-b-q2: Spread like a _________ vine.
+ex-b-q3: Become a __________ berry for everyone.
+ex-b-q4: Don’t set out on a costly ________ journey.
+ex-b-q5: May it level in right measure ______
+ex-c-q1: fruit-shop
+ex-c-q2: eyes widening
+ex-c-q3: thrown by mischief-makers
+ex-c-q4: turning sour
+ex-c-q5: inside you
+ex-c-q6: become rare
+ex-d-q1: 'Complete: If you grow fat ________ / ________ your selfhood'

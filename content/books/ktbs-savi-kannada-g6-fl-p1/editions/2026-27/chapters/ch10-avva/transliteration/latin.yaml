@@ -1,0 +1,43 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  poem: padya
+  author: kavi kṛti paricaya
+  exercise-A: kèḻagina praśnègaḻigè uttarisiri.
+poem-s1l1: bògasè tuṃba hūva taṃdu
+poem-s1l2: pādakamalakèraguvè
+poem-s1l3: ninna aḍigè maṇidu mattè
+poem-s1l4: bhāgyavannè beḍuvè
+poem-s2l1: garbhadalli māṃsa muddè
+poem-s2l2: a ā i ī tiḻiyadu
+poem-s2l3: janisi dharègè bidda kṣaṇavè
+poem-s2l4: ‘avva’ aṃtu kòraḻu
+poem-s3l1: nova nuṃgi nanna naṃbi
+poem-s3l2: hāla nīnu kuḍisidè
+poem-s3l3: kaṇṇa nīra òrèsi nīnu
+poem-s3l4: èdègavaci ramisidè
+poem-s4l1: biddaraṃtu oḍibaṃdu
+poem-s4l2: èttikòṃḍu ramisidè
+poem-s4l3: gèddaraṃtu khuṣiyu ninagè
+poem-s4l4: hòttukòṃḍu sāridè
+poem-s5l1: vidyè kalisi buddhinīḍi
+poem-s5l2: siddhipaḍèyè kalisidè
+poem-s5l3: yaśada hiṃdè harakè nīḍi
+poem-s5l4: jīvatyāga māḍidè
+poem-s6l1: ròkkakèlla lèkkavilla
+poem-s6l2: ninna ṛṇa agaṇita.
+poem-s6l3: pādakamalakòṃdè hūvu
+poem-s6l4: nanna prīti sīmita
+poem-s7l1: tāyi harakè muṃdè jagadi
+poem-s7l2: yāvudilla migilu tānu
+poem-s7l3: kāyò guṇada devaravva
+poem-s7l4: avva ninna hèsaru
+author-1: lalitā kòṭrèppa hòsapyāṭi 1964ralli janisidaru. taṃdè kòṭrèppa, tāyi nīlamma. sarkāri prauḍhaśālè hirebādavāḍagi, hunaguṃda tā., bāgalakoṭè jillèyalli mukhyopādhyāyiniyāgi kārya nirvahisuttiddārè. ivaru kalpanāḻigòṃdu èdèhāḍu, hū māruva huḍugi èṃba makkaḻa kavana saṃkalana hāgū makkaḻa nāṭaka mattu kathā saṃkalanagaḻannu racisiddārè.
+ex-a-q1: kavayitriyu tāyiya pādakkè enu taruttāḻè?
+ex-a-q2: jagattinalli migilādudu yāvudu?
+ex-a-q3: tāyi maguvigè enannu kalisuttāḻè?
+ex-a-q4: magu biddāga tāyi hegè ramisuttāḻè?
+ex-a-q5: tāyi maguvigè enannu kuḍisuttāḻè?

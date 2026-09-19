@@ -1,0 +1,91 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer-agent
+  license: CC BY 4.0
+
+labels:
+  poem: Poem
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: 'A) Sing the poem ''My God'' melodiously:'
+  exercise-B: 'B) Answer in one sentence:'
+  exercise-C: 'C) Answer the questions in one sentence:'
+  exercise-D: 'D) Identify and write the word that does not belong to the group:'
+  exercise-E: 'E) Write words as in the model:'
+  exercise-F: 'F) Read this story and write answers to the given questions:'
+  title: My God
+
+poem-s1l1: Who gives us light every day
+poem-s1l2: the sun is my God
+poem-s1l3: Who gives milky light at night
+poem-s1l4: the moon is my God
+poem-s2l1: Crores of stars, silver dots
+poem-s2l2: the meteor is my God
+poem-s2l3: Fire, wind, water, sky
+poem-s2l4: all are my God
+poem-s3l1: Standing wrapped in deep green
+poem-s3l2: the earth is my God
+poem-s3l3: Hills - mountains, forests, plains
+poem-s3l4: the streams are my God
+poem-s4l1: Who toils shedding sweat in the field
+poem-s4l2: the farmer is my God
+poem-s4l3: Who strives for the country
+poem-s4l4: the soldier is my God
+poem-s5l1: Father - mother, kin and clan-
+poem-s5l2: all are my God
+poem-s5l3: Who teach knowledge and speak kindly
+poem-s5l4: the teachers are my God
+poem-s6l1: These gods of mine always
+poem-s6l2: are visible to me
+poem-s6l3: What is asked with a pure mind
+poem-s6l4: they give and protect
+vocab-nitya: always / daily
+vocab-surya: sun
+vocab-belaku: light
+vocab-taare: star
+vocab-belli: silver
+vocab-benki: fire
+vocab-ulke: meteor
+vocab-gaali: wind
+vocab-gagana: sky
+vocab-neeru: water
+vocab-hasiru: green
+vocab-hoddu: having covered / wrapped
+vocab-bhumi: earth
+vocab-guddabetta: hills and mountains
+vocab-raita: farmer
+vocab-kaadumedu: forest and plain
+vocab-hole: stream
+vocab-hola: field
+vocab-bevaru: sweat
+vocab-hita: welfare / kindness
+vocab-desha: country
+vocab-shramisu: to strive
+vocab-yodha: soldier
+vocab-vidye: knowledge / learning
+note-nitya: always / daily
+note-nitya-def: every day, always
+note-taare: star
+note-taare-def: star, speck
+note-gagana: sky
+note-gagana-def: sky / heavens
+note-ulke: meteor
+note-ulke-def: celestial body / meteor
+ex-a-q1: 'Sing the poem ''My God'' melodiously:'
+ex-b-q1: Who gives us light during the day?
+ex-b-q2: Where does the farmer work?
+ex-b-q3: For what is the soldier striving?
+ex-c-q1: Who gives light at night?
+ex-c-q2: What has the earth wrapped itself in?
+ex-c-q3: Who teaches knowledge and speaks kindly?
+ex-d-q1: sun, moon, hill, star .........................
+ex-d-q2: light, wind, water, farmer .........................
+ex-e-q1: 'Model: mountain - hill'
+ex-e-q2: father - .........................
+ex-e-q3: forest - ........................
+ex-e-q4: relative - .........................
+story-n1: A hunter scattered grain and cast a net for birds. The birds saw the grains. Eagerly they went to eat the grain. Some got caught in the net. They cried "chinw chinw". At once they made a plan. All the birds together lifted the net and flew up. Afterwards they went elsewhere and cleverly came out of the net.
+ex-f-q1: For what did the hunter cast the net?
+ex-f-q2: What did all the birds do together?

@@ -1,0 +1,431 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 8
+  slug: ch08-pada-odu-akshara-kali
+  title: ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ
+  learned: ಕಲಿತ ಅಕ್ಷರಗಳು
+  alphabet: ವರ್ಣಮಾಲೆ
+  word-practice: ಪದಗಳ ಅಭ್ಯಾಸ
+  akshara-1: ಅಕ್ಷರಾಭ್ಯಾಸ-1
+  akshara-2: ಅಕ್ಷರಾಭ್ಯಾಸ-2
+  akshara-3: ಅಕ್ಷರಾಭ್ಯಾಸ-3
+  akshara-4: ಅಕ್ಷರಾಭ್ಯಾಸ-4
+  akshara-5: ಅಕ್ಷರಾಭ್ಯಾಸ-5
+  akshara-6: ಅಕ್ಷರಾಭ್ಯಾಸ-6
+  akshara-7: ಅಕ್ಷರಾಭ್ಯಾಸ-7
+  akshara-8: ಅಕ್ಷರಾಭ್ಯಾಸ-8
+  akshara-9: ಅಕ್ಷರಾಭ್ಯಾಸ-9
+  akshara-10: ಅಕ್ಷರಾಭ್ಯಾಸ-10
+segments:
+- id: intro-1
+  type: prose
+  text: ಓದಿಸಿ-ಬರೆಯಿಸಿ
+- id: intro-2
+  type: prose
+  text: ಅಕ್ಷರ ಪಾಠ
+- id: intro-3
+  type: prose
+  text: ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ
+- id: akshara-1-title
+  type: prose
+  section: akshara-1
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-1
+- id: akshara-1-letters
+  type: prose
+  section: akshara-1
+  text: ರ ಗ ಸ ದ ಅ
+- id: akshara-1-intro
+  type: prose
+  section: akshara-1
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-1-w1
+  type: vocabulary_term
+  section: akshara-1
+  text: ರಸ
+- id: akshara-1-w2
+  type: vocabulary_term
+  section: akshara-1
+  text: ಗರಗಸ
+- id: akshara-1-w3
+  type: vocabulary_term
+  section: akshara-1
+  text: ಸರ
+- id: akshara-1-w4
+  type: vocabulary_term
+  section: akshara-1
+  text: ದಸರ
+- id: akshara-1-w5
+  type: vocabulary_term
+  section: akshara-1
+  text: ಅರ
+- id: akshara-1-copy
+  type: prose
+  section: akshara-1
+  exercise: '1'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-2-title
+  type: prose
+  section: akshara-2
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-2
+- id: akshara-2-letters
+  type: prose
+  section: akshara-2
+  text: ಜ ವ ಮ ಬ ನ
+- id: akshara-2-intro
+  type: prose
+  section: akshara-2
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-2-w1
+  type: vocabulary_term
+  section: akshara-2
+  text: ಜನ
+- id: akshara-2-w2
+  type: vocabulary_term
+  section: akshara-2
+  text: ವನ
+- id: akshara-2-w3
+  type: vocabulary_term
+  section: akshara-2
+  text: ಮರ
+- id: akshara-2-w4
+  type: vocabulary_term
+  section: akshara-2
+  text: ಬಸವ
+- id: akshara-2-w5
+  type: vocabulary_term
+  section: akshara-2
+  text: ನಗರ
+- id: akshara-2-copy
+  type: prose
+  section: akshara-2
+  exercise: '2'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-3-title
+  type: prose
+  section: akshara-3
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-3
+- id: akshara-3-letters
+  type: prose
+  section: akshara-3
+  text: ಪ ಯ ಉ ಡ ಟ ಚ
+- id: akshara-3-intro
+  type: prose
+  section: akshara-3
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-3-w1
+  type: vocabulary_term
+  section: akshara-3
+  text: ಪಟ
+- id: akshara-3-w2
+  type: vocabulary_term
+  section: akshara-3
+  text: ಯಮ
+- id: akshara-3-w3
+  type: vocabulary_term
+  section: akshara-3
+  text: ಉಡ
+- id: akshara-3-w4
+  type: vocabulary_term
+  section: akshara-3
+  text: ಡಮಡಮ
+- id: akshara-3-w5
+  type: vocabulary_term
+  section: akshara-3
+  text: ಟಪಟಪ
+- id: akshara-3-w6
+  type: vocabulary_term
+  section: akshara-3
+  text: ಚಮಚ
+- id: akshara-3-copy
+  type: prose
+  section: akshara-3
+  exercise: '3'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-4-title
+  type: prose
+  section: akshara-4
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-4
+- id: akshara-4-letters
+  type: prose
+  section: akshara-4
+  text: ಲ ಈ ಊ ಕ
+- id: akshara-4-intro
+  type: prose
+  section: akshara-4
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-4-w1
+  type: vocabulary_term
+  section: akshara-4
+  text: ಈಚಲ
+- id: akshara-4-w2
+  type: vocabulary_term
+  section: akshara-4
+  text: ಊಟ
+- id: akshara-4-w3
+  type: vocabulary_term
+  section: akshara-4
+  text: ಕಡಗ
+- id: akshara-4-copy
+  type: prose
+  section: akshara-4
+  exercise: '4'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-5-title
+  type: prose
+  section: akshara-5
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-5
+- id: akshara-5-letters
+  type: prose
+  section: akshara-5
+  text: ಎ ಏ ಇ ಆ ತ ಳ
+- id: akshara-5-intro
+  type: prose
+  section: akshara-5
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-5-w1
+  type: vocabulary_term
+  section: akshara-5
+  text: ಎರಕ
+- id: akshara-5-w2
+  type: vocabulary_term
+  section: akshara-5
+  text: ಏತ
+- id: akshara-5-w3
+  type: vocabulary_term
+  section: akshara-5
+  text: ಇನ
+- id: akshara-5-w4
+  type: vocabulary_term
+  section: akshara-5
+  text: ಆಲ
+- id: akshara-5-w5
+  type: vocabulary_term
+  section: akshara-5
+  text: ತಬಲ
+- id: akshara-5-w6
+  type: vocabulary_term
+  section: akshara-5
+  text: ನಳ
+- id: akshara-5-copy
+  type: prose
+  section: akshara-5
+  exercise: '5'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-6-title
+  type: prose
+  section: akshara-6
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-6
+- id: akshara-6-letters
+  type: prose
+  section: akshara-6
+  text: ಓ ಔ ಹ ಶ ಷ
+- id: akshara-6-intro
+  type: prose
+  section: akshara-6
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-6-w1
+  type: vocabulary_term
+  section: akshara-6
+  text: ಓಟ
+- id: akshara-6-w2
+  type: vocabulary_term
+  section: akshara-6
+  text: ಔಡಲ
+- id: akshara-6-w3
+  type: vocabulary_term
+  section: akshara-6
+  text: ಹಯ
+- id: akshara-6-w4
+  type: vocabulary_term
+  section: akshara-6
+  text: ಶರ
+- id: akshara-6-copy
+  type: prose
+  section: akshara-6
+  exercise: '6'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-7-title
+  type: prose
+  section: akshara-7
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-7
+- id: akshara-7-letters
+  type: prose
+  section: akshara-7
+  text: ಐ ಋ ಣ ಛ ಒ
+- id: akshara-7-intro
+  type: prose
+  section: akshara-7
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-7-w1
+  type: vocabulary_term
+  section: akshara-7
+  text: ಐದಳ
+- id: akshara-7-w2
+  type: vocabulary_term
+  section: akshara-7
+  text: ಕಣ
+- id: akshara-7-w3
+  type: vocabulary_term
+  section: akshara-7
+  text: ಒಣಮರ
+- id: akshara-7-copy
+  type: prose
+  section: akshara-7
+  exercise: '7'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-8-title
+  type: prose
+  section: akshara-8
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-8
+- id: akshara-8-letters
+  type: prose
+  section: akshara-8
+  text: ಧ ಥ ಢ ಭ
+- id: akshara-8-intro
+  type: prose
+  section: akshara-8
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-8-w1
+  type: vocabulary_term
+  section: akshara-8
+  text: ಧನ
+- id: akshara-8-w2
+  type: vocabulary_term
+  section: akshara-8
+  text: ರಥ
+- id: akshara-8-w3
+  type: vocabulary_term
+  section: akshara-8
+  text: ಢಣಢಣ
+- id: akshara-8-w4
+  type: vocabulary_term
+  section: akshara-8
+  text: ಭಟ
+- id: akshara-8-copy
+  type: prose
+  section: akshara-8
+  exercise: '8'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-9-title
+  type: prose
+  section: akshara-9
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-9
+- id: akshara-9-letters
+  type: prose
+  section: akshara-9
+  text: ಘ ಠ ಫ ಝ ಖ
+- id: akshara-9-intro
+  type: prose
+  section: akshara-9
+  text: ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+- id: akshara-9-w1
+  type: vocabulary_term
+  section: akshara-9
+  text: ಘಟ
+- id: akshara-9-w2
+  type: vocabulary_term
+  section: akshara-9
+  text: ಜಠರ
+- id: akshara-9-w3
+  type: vocabulary_term
+  section: akshara-9
+  text: ಫಲ
+- id: akshara-9-w4
+  type: vocabulary_term
+  section: akshara-9
+  text: ಝಣಝಣ
+- id: akshara-9-w5
+  type: vocabulary_term
+  section: akshara-9
+  text: ಖಗ
+- id: akshara-9-copy
+  type: prose
+  section: akshara-9
+  exercise: '9'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: akshara-10-title
+  type: prose
+  section: akshara-10
+  text: ಅಕ್ಷರಾಭ್ಯಾಸ-10
+- id: akshara-10-letters
+  type: prose
+  section: akshara-10
+  text: ಅಂ ಅಃ ಙ ಞ
+- id: akshara-10-intro
+  type: prose
+  section: akshara-10
+  text: ಅ) ಅಕ್ಷರ ತೋರಿಸಿ ಹೇಳಿಸಿ.
+- id: akshara-10-w1
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂಕ
+- id: akshara-10-w2
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂಗ
+- id: akshara-10-w3
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂಡ
+- id: akshara-10-w4
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂದ
+- id: akshara-10-w5
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂತ
+- id: akshara-10-w6
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂಚಲ
+- id: akshara-10-w7
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂಗಳ
+- id: akshara-10-w8
+  type: vocabulary_term
+  section: akshara-10
+  text: ಅಂಜನ
+- id: akshara-10-copy
+  type: prose
+  section: akshara-10
+  exercise: '10'
+  text: ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.
+- id: learned-title
+  type: prose
+  section: learned
+  text: ಕಲಿತ ಅಕ್ಷರಗಳು
+- id: learned-list
+  type: prose
+  section: learned
+  text: ರ ಗ ಸ ದ ಅ · ಜ ವ ಮ ಬ ನ · ಪ ಯ ಉ ಡ ಟ ಚ · ಲ ಈ ಊ ಕ · ಎ ಏ ಇ ಆ ತ ಳ · ಓ ಔ ಹ ಶ ಷ · ಐ ಋ ಣ ಛ ಒ · ಧ ಥ ಢ ಭ · ಘ ಠ ಫ ಝ ಖ · ಅಂ ಅಃ ಙ ಞ
+- id: word-practice-title
+  type: prose
+  section: word-practice
+  text: ಪದಗಳ ಅಭ್ಯಾಸ
+- id: word-practice-intro
+  type: prose
+  section: word-practice
+  text: ಮಕ್ಕಳಿಂದ ಓದಿಸಿ, ನಕಲು ಮಾಡಿಸಿ
+- id: alphabet-title
+  type: prose
+  section: alphabet
+  text: ವರ್ಣಮಾಲೆ
+- id: alphabet-vowels
+  type: prose
+  section: alphabet
+  text: ಅ ಆ ಇ ಈ ಉ ಊ ಋ ಎ ಏ ಐ ಒ ಓ ಔ ಅಂ ಅಃ
+- id: alphabet-consonants
+  type: prose
+  section: alphabet
+  text: ಕ ಖ ಗ ಘ ಙ ಚ ಛ ಜ ಝ ಞ ಟ ಠ ಡ ಢ ಣ ತ ಥ ದ ಧ ನ ಪ ಫ ಬ ಭ ಮ ಯ ರ ಲ ವ ಶ ಷ ಸ ಹ ಳ

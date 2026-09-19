@@ -1,0 +1,165 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  author_intro: 'kr̥tikārara paricaya'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige ondu vākyadalli uttarisi.'
+  exercise-B: 'ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. biṭṭa sthaḷagaḷannu tumbiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. padagaḷannu kūḍisi bareyiri.'
+  grammar-B: 'ā. padagaḷannu biḍisi sandhiya hesaru tiḷisiri.'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'ā. ōdige mannaṇe'
+  language-exercise-B: 'i. śubhanuḍi'
+
+intro-1: 'kannaḍa nāḍu nuḍiya bagege abhimānavirabēku. kannaḍa nāḍu nuḍiya rakṣaṇe nammellara kartavyavāgabēku. adakkāgi nāvellarū ondāgabēku. kannaḍa nāḍannu kaṭṭuva kāryakke mundāgabēku. kannaḍa bāḷige anna koḍuva bhāṣeyāgabēku. idakkāgi ellarū banni kaijōḍisōṇa embudu kaviya āśayavāgide.'
+
+poem-s1l1: 'ellellū usirabēku'
+
+poem-s1l2: 'namma nuḍi kannaḍa'
+
+poem-s1l3: 'sirināḍanu kaṭṭalikke'
+
+poem-s1l4: 'barri namma saṅgaḍa'
+
+poem-s2l1: 'kaiya tumba kelasabēku'
+
+poem-s2l2: 'bēku hoṭṭeganna'
+
+poem-s2l3: 'akṣaragaḷa kanna koredu'
+
+poem-s2l4: 'barali arivu - cinna'
+
+poem-s3l1: 'maiya tumba baṭṭebēku'
+
+poem-s3l2: 'nettigondu āsara'
+
+poem-s3l3: 'bhūmi tumba bittabēku'
+
+poem-s3l4: 'tanna beḷaku nēsara'
+
+poem-s4l1: 'taleya tumba beṅki tumbi'
+
+poem-s4l2: 'miñcabēku kaṅgaḷu'
+
+poem-s4l3: 'edeya tumbi tuḷukabēku'
+
+poem-s4l4: 'prītiya beḷadiṅgaḷu'
+
+poem-s5l1: 'intha nāḍu kaṭṭabēku'
+
+poem-s5l2: 'barri namma saṅgaḍa'
+
+poem-s5l3: 'ellellū moḷagabēku'
+
+poem-s5l4: 'kannaḍa kannaḍa'
+
+poem-s5l5: 'kannaḍa kannaḍa barri namma saṅgaḍa'
+
+author-intro-1: 'candraśēkhara pāṭīla : ‘campā’emba saṅkṣiptanāmadinda prasiddharāda candraśēkhara pāṭīla avaru sā. śa. 1939 ralli hāvēri jilleya savaṇūru tāllūkina hattimattūrinalli janisidaru. ivaru karnāṭaka viśvavidyālayada iṅgliṣ vibhāgada nirdēśakarāgi kārya nirvahisidaru. ivaru bānuli, madhyabindu, hūvu-haṇṇu, ardhasatyada huḍugi modalāda kavana saṅkalanagaḷannu; koḍegaḷu, appa, kuṇṭakuṇṭa kuruvatti, ṭiṅgarabuḍḍaṇṇa modalāda nāṭakagaḷannu racisiddāre. ivarige rājya sāhitya akāḍemi praśasti, rājyōtsava praśasti, pampa praśastigaḷu labhisive.'
+
+vocab-arivu: 'arivu'
+
+vocab-arivu-def: 'jñāna, tiḷivaḷike'
+
+vocab-asara: 'āsara'
+
+vocab-asara-def: 'neraḷu, āśraya'
+
+vocab-kanna: 'kanna'
+
+vocab-kanna-def: 'randhra'
+
+vocab-tulukabeku: 'tuḷukabēku'
+
+vocab-tulukabeku-def: 'tumbi hariyabēku'
+
+vocab-nudi: 'nuḍi'
+
+vocab-nudi-def: 'mātu'
+
+vocab-nesara: 'nēsara'
+
+vocab-nesara-def: 'sūrya'
+
+vocab-molagabeku: 'moḷagabēku'
+
+vocab-molagabeku-def: 'śabdamāḍabēku'
+
+vocab-sirinadu: 'sirināḍu'
+
+vocab-sirinadu-def: 'sampattininda kūḍida nāḍu'
+
+ex-a-q1: 'ellellū yāva nuḍi usirabēku?'
+
+ex-a-q2: 'akṣaragaḷa kanna koredu ēnu barabēku?'
+
+ex-a-q3: 'bhūmiya tumba beḷakannu bittuvavanu yāru?'
+
+ex-a-q4: 'kaṅgaḷu hēge miñcabēku?'
+
+ex-b-q1: 'sirināḍannu kaṭṭalu ēnēnu bēku?'
+
+ex-b-q2: 'kaviyu entha nāḍu kaṭṭabēku ennuttāre?'
+
+ex-c-q1: 'kaiya tumba __________ bēku.'
+
+ex-c-q2: 'ellellū __________ kannaḍa kannaḍa.'
+
+ex-c-q3: 'maiya tumba __________ bēku.'
+
+ex-c-q4: 'edeya tumbi __________ prītiya beḷadiṅgaḷu.'
+
+grammar-p1: 'āgama sandhi
+
+  maḷe + annu = maḷeyannu
+
+  illi maḷe emba pūrvapadada antyadalliruva ‘e’ kārakkū, annu emba uttarapadada ādiyalliruva ‘a’ kārakkū sandhi āguvāga ‘y’ emba akṣara hosadāgi bandide.
+
+  hīge sandhiyāguvāga hosadāgi ondu akṣara bandare adannu āgamasandhi ennuvaru. idaralli yakārāgama sandhi mattu vakārāgama sandhi endu eraḍu vidhagaḷive.'
+
+grammar-p2: 'ādēśa sandhi
+
+  mai + toḷe = maidoḷe
+
+  illi maidoḷe emba padadalli ‘ta’ (to) akṣarada badalige ‘da’ (do) akṣara bandide.
+
+  hīge sandhiyāguvāga ondu akṣarada sthānadalli bērondu akṣara bandare adannu ādēśasandhi ennuvaru. illi uttara padada modalaneya akṣaravu badalāguttade. sāmānyavāgi ka,ta,pa gaḷige kramavāgi ga,da,ba gaḷu ādēśavāgi baruttave.'
+
+grammar-p3: 'ī rītiyāda innu kelavu udāharaṇegaḷannu gamanisōṇa :
+
+  kuḍu + kōlu = kuḍugōlu : ‘ka’ da badalu ‘ga’ āgide.
+
+  beṭṭa + tāvare = beṭṭadāvare : ‘ta’ da badalu ‘da’ āgide.
+
+  kaṇ + pani = kambani : ‘pa’ da badalu ‘ba’ āgide.'
+
+grammar-a-q1: '1. mēle + iṭṭukoṇḍu'
+
+grammar-a-q2: '2. śubhra + āyitu'
+
+grammar-a-q3: '3. baṇḍe + annu'
+
+grammar-b-q1: 'savigannaḍa, maravannu, nāvellā, dāriyalli, ondondu.'
+
+lang-ex-a-q1: '1. kannaḍa nāḍina araṇya sampattina bagge tiḷiyiri.'
+
+lang-ex-a-q2: '2. kannaḍa nāḍina śrēṣṭha vyaktigaḷa bagge tiḷiyiri.'
+
+lang-ex-a-q3: '3. kannaḍa nāḍu kurita kavanagaḷannu ōdiri.'
+
+lang-ex-a-q4: '4. kannaḍa nāḍina prasiddha sthaḷagaḷige pravāsa hōgiri.'
+
+lang-ex-b-q1: '1. hettatāyi hottanāḍu svargakkintalū migilu.'
+
+lang-ex-b-q2: '2. kannaḍavē satya; kannaḍavē nitya.'
+
+lang-ex-b-q3: '3. ellādaru iru entādaru iru endendigū nī kannaḍavāgiru.'
+
+lang-ex-b-q4: '4. kannaḍakkāgi kai ettu ninna kai kalpavr̥kṣavāguvudu.'

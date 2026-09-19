@@ -1,0 +1,183 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'pravēśa'
+  vocab: 'padagaḷa artha'
+  exercise-A: 'a. keḷagina praśnegaḷige ondu vākyadalli uttarisi.'
+  exercise-B: 'ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi.'
+  exercise-C: 'i. koṭṭiruva padyada sālugaḷannu pūrṇagoḷisiri.'
+  exercise-D: 'ī. hondisi bareyiri.'
+  grammar: 'vyākaraṇa māhiti'
+  grammar-A: 'a. keḷagina praśnegaḷige uttarisi.'
+  grammar-B: 'ā. liṅga badalisi bareyiri.'
+  grammar-C: 'i. koṭṭiruva padagaḷalli pulliṅga, strīliṅga hāgū napunsakaliṅgagaḷāgi ārisi bareyiri.'
+  language-exercise: 'bhāṣābhyāsa'
+  language-exercise-A: 'a. keḷage nīḍiruva vākyagaḷannu āvaraṇadalli nīḍiruva padagaḷalli sūktavādudannu ārisi vākya pūrṇagoḷisi.'
+  language-exercise-B: 'ā. keḷage nīḍiruva vākyagaḷannu āvaraṇadalli nīḍiruva akṣaragaḷalli sūktavādudannu ārisi pūrṇagoḷisi.'
+
+intro-1: 'namma kaiyalliruva aidu beraḷugaḷū ondē rītiyilla. pratiyondu beraḷannu adaradē āda kāryagaḷige nāvu baḷasuttēve. ēnannādarū hiḍiyabēkādare aidū beraḷugaḷannu oṭṭāgi baḷasuttēve. beraḷina ākāra, svarūpa namma gamanakke baruvudilla. ondu mara kāyannu, haṇṇannu, neraḷannu nīḍabahudu. hāgeyē, halavu hakkigaḷu gūḍukaṭṭalu avakāśa māḍaballadu. manuṣyarāda nāvū sahakāriyāgi badukidare eṣṭu canda allave? prakr̥tiyannu anusarisuvudarinda āguva prayōjana apāra.'
+
+poem-s1l1: 'boḍḍe karidu ele hasiru'
+
+poem-s1l2: 'hūvu nānā taratara'
+
+poem-s1l3: 'entha sogasu ēnu kampu'
+
+poem-s1l4: 'beḷedu ninta giḍa mara'
+
+poem-s2l1: 'yārē bandu ēnē māḍali'
+
+poem-s2l2: 'elladakkū divya mauna'
+
+poem-s2l3: 'rembe kombe ciguruvalli'
+
+poem-s2l4: 'kaḍalukkuva cētana'
+
+poem-s3l1: 'manuṣyanalli mātu uṇṭu'
+
+poem-s3l2: 'mātinante illa mana'
+
+poem-s3l3: 'liṅga varṇa jāti dharma'
+
+poem-s3l4: 'hāḷu kompe ivana mana'
+
+poem-s4l1: 'jāti-gīti, liṅga-dharma'
+
+poem-s4l2: 'mīri beḷeda giḍamara'
+
+poem-s4l3: 'avanu ivaḷu adu idu'
+
+poem-s4l4: 'eṇisutilla ondu dina'
+
+poem-s5l1: 'boḍḍe karidu ele hasiru'
+
+poem-s5l2: 'hūvu nānā taratara'
+
+poem-s5l3: 'bisilu maḷe caḷiya taḍedu'
+
+poem-s5l4: 'araḷutihavu anudina.'
+
+vocab-aralu: 'araḷu'
+
+vocab-aralu-def: 'vikāsavāgu, hūbiḍu'
+
+vocab-kampu: 'kampu'
+
+vocab-kampu-def: 'suvāsane'
+
+vocab-kompe: 'kompe'
+
+vocab-kompe-def: 'koḷaku pradēśa'
+
+vocab-chetana: 'cētana'
+
+vocab-chetana-def: 'jīva, prāṇa, śakti'
+
+vocab-divya: 'divya'
+
+vocab-divya-def: 'śrēṣṭha, pavitra'
+
+vocab-bodde: 'boḍḍe'
+
+vocab-bodde-def: 'marada kāṇḍa'
+
+vocab-varna: 'varṇa'
+
+vocab-varna-def: 'baṇṇa'
+
+ex-a-q1: 'giḍamaragaḷa boḍḍe hāgū ele yāva baṇṇadallive?'
+
+ex-a-q2: 'giḍamaragaḷu ēnannu taḍedu beḷeyuttave?'
+
+ex-a-q3: 'manuṣyana manassu yāvudarinda hāḷu kompeyāgide?'
+
+ex-b-q1: 'giḍamaragaḷa svabhāva enthaddu?'
+
+ex-b-q2: 'giḍamaragaḷu ēnannu mīri beḷedive?'
+
+ex-c-q1: 'boḍḍe karidu ______________\n______________ taratara\nentha sogasu ______________\n______________ giḍa mara'
+
+ex-d-q1: '‘a’
+
+  1. divya
+
+  2. hāḷu
+
+  3. kaḍalukkuva
+
+
+  ‘ba’
+
+  cētana
+
+  mauna
+
+  kompe'
+
+grammar-p1: 'liṅgagaḷu
+
+  puruṣa, strī mattu itara vastugaḷannu pratyēkisi hēḷuvudakke liṅga ennuttāre.'
+
+grammar-p2: 'liṅgagaḷalli mūru vidha.
+
+  1. pulliṅga
+
+  2. strīliṅga
+
+  3. napunsakaliṅga'
+
+grammar-p3: '1. pulliṅga
+
+  puruṣa vācaka śabdagaḷellavū pulliṅgagaḷu. andare gaṇḍasarannu kuritu hēḷuva padagaḷu pulliṅga.
+
+  udā: rāma, arasa, huḍuga, tande, aṇṇa ityādi.'
+
+grammar-p4: '2. strīliṅga
+
+  strī vācaka śabdagaḷellavū strīliṅgagaḷu. andare heṅgasarannu kuritu hēḷuva padagaḷu strīliṅga.
+
+  udā: sīte, arasi, huḍugi, tāyi, akka ityādi.'
+
+grammar-p5: '3. napunsakaliṅga
+
+  puruṣa vācaka mattu strī vācaka śabdagaḷannu biṭṭu uḷidella śabdagaḷu napunsakaliṅgagaḷu. (prāṇi, pakṣi, mara, giḍa, vastu ityādi)
+
+  udā: hasu, giḷi, mara, kallu, mane ityādi.'
+
+grammar-a-q1: 'a) liṅga endarēnu?'
+
+grammar-a-q2: 'ā) liṅgagaḷalli eṣṭu vidha? avu yāvuvu?'
+
+grammar-a-q3: 'i) strīliṅga endarēnu? udāharaṇe koḍi.'
+
+grammar-b-q1: '1. huḍuga : ___________________'
+
+grammar-b-q2: '2. taṅgi : ___________________'
+
+grammar-b-q3: '3. gauḍati : ___________________'
+
+grammar-b-q4: '4. atte : ___________________'
+
+grammar-b-q5: '5. avanu : ___________________'
+
+grammar-c-q1: 'kōgile, āta, aṇṇa, jiṅke, giḷi, tāta, arasi, gaṅge, geḷeya, tāyi, haṇṇu, rādhe'
+
+lang-ex-a-q1: '1. beḷadiṅgaḷa rātriyalli candraniruva __________ nōḍuvudē ānanda (agasanannu/āgasavannu)'
+
+lang-ex-a-q2: '2. ninage peṭṭāgiruvudannu kaṇḍāga nanage __________ banditu. (āḷu/aḷu)'
+
+lang-ex-a-q3: '3. nanna __________ beṅgaḷūru. (uru/ūru)'
+
+lang-ex-a-q4: '4. sañje āṭa āḍi __________ anantara ūṭamāḍuttēne. (ōdida/odida)'
+
+lang-ex-a-q5: '5. __________ mēle hālannu iḍalāgide. (oleya/ōleya)'
+
+lang-ex-b-q1: '1. kā__________vēri ko__________ḍagina bhāgamaṇḍalada beṭṭada baḷi saṇṇa__________ridāgi huṭṭi ke__________ḷage hariyuttade. (ka/kā/ki/kī/ke/ko)'
+
+lang-ex-b-q2: '2. nadiyannu dā__________ṭi āceya da__________ḍa sēridare do__________ḍḍa ālada mara kāṇutta__________de (da/dā/de/do)'
+
+lang-ex-b-q3: '3. kāvēri hā__________vinante ho__________raḷi ha__________riyuva nadi (ha/hā/hi/ho)'
