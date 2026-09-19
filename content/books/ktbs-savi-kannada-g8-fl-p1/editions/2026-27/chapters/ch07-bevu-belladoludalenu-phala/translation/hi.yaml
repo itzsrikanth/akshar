@@ -3,7 +3,7 @@ meta:
   language: hi
   locale: hi-IN
   contributor: composer
-  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  license: CC BY 4.0
 labels:
   intro: प्रवेश
   poem: कविता

@@ -1,0 +1,795 @@
+{
+  "labels": {
+    "ashaya": {
+      "devanagari": "आशय",
+      "en": "Theme",
+      "hi": "आशय",
+      "kn": "ಆಶಯ",
+      "latin": "āśaya"
+    },
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु/मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions.",
+      "hi": "आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು/ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu/mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॊट्टिरुव प्रश्नॆगॆ ऎंटु/हत्तु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Answer the following questions.",
+      "hi": "इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗೆ ಎಂಟು/ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kòṭṭiruva praśnègè èṃṭu/hattu vākyagaḻalli uttarisi."
+    },
+    "exercise-D": {
+      "devanagari": "ई. ई हेळिकॆगळिगॆ संदर्भसहित स्वारस्यवन्नु विवरिसि.",
+      "en": "D. Answer the following questions.",
+      "hi": "ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಈ. ಈ ಹೇಳಿಕೆಗಳಿಗೆ ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ.",
+      "latin": "ī. ī heḻikègaḻigè saṃdarbhasahita svārasyavannu vivarisi."
+    },
+    "exercise-E": {
+      "devanagari": "उ. बिट्ट स्थळ तुंबि.",
+      "en": "E. Explain with context.",
+      "hi": "उ. संदर्भ सहित व्याख्या कीजिए।",
+      "kn": "ಉ. ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿ.",
+      "latin": "u. biṭṭa sthaḻa tuṃbi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 8,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch06-bharathiyate",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಭಾರತೀಯತೆ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾವ್ಯಪರಂಪರೆಯಲ್ಲಿ ನವೋದಯ, ನವ್ಯ, ಪ್ರಗತಿಶೀಲ, ಬಂಡಾಯ ಮತ್ತು ದಲಿತ ಎಂಬ ವಿವಿಧ ಮಜಲುಗಳಿವೆ. ನವೋದಯ ಕವಿತೆಗಳಲ್ಲಿ ಪ್ರಕೃತಿಯ ವರ್ಣನೆ, ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಹಿರಿಮೆಯನ್ನು ಕವಿಗಳು ತಮ್ಮ ಕವಿತೆಗಳಲ್ಲಿ ಅನಾವರಣಗೊಳಿಸುವುದು ಒಂದು ಮುಖ್ಯ ವಸ್ತುವಾಗಿದ್ದು, ಅದಕ್ಕೊಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ಈ ಕವಿತೆಯಾಗಿದೆ.",
+      "translations": {
+        "en": "In the modern Kannada poetic tradition there are stages such as Navodaya, Navy, progressive, Bandaya and Dalit. In Navodaya poems, nature description, nationalism and cultural greatness are major themes; this poem is a fine example.",
+        "hi": "आधुनिक कन्नड़ काव्य परंपरा में नवोदय, नव्य, प्रगतिशील, बंडाय और दलित जैसे पड़ाव हैं। नवोदय कविताओं में प्रकृति वर्णन, राष्ट्रीयता और सांस्कृतिक गौरव मुख्य विषय हैं; यह कविता उसका अच्छा उदाहरण है।"
+      },
+      "transliterations": {
+        "devanagari": "आधुनिक कन्नड साहित्यद काव्यपरंपरॆयल्लि नवोदय, नव्य, प्रगतिशील, बंडाय मत्तु दलित ऎंब विविध मजलुगळिवॆ. नवोदय कवितॆगळल्लि प्रकृतिय वर्णनॆ, राष्ट्रीयतॆ मत्तु सांस्कृतिक हिरिमॆयन्नु कविगळु तम्म कवितॆगळल्लि अनावरणगॊळिसुवुदु ऒंदु मुख्य वस्तुवागिद्दु, अदक्कॊंदु उत्तम उदाहरणॆ ई कवितॆयागिदॆ.",
+        "latin": "ādhunika kannaḍa sāhityada kāvyaparaṃparèyalli navodaya, navya, pragatiśīla, baṃḍāya mattu dalita èṃba vividha majalugaḻivè. navodaya kavitègaḻalli prakṛtiya varṇanè, rāṣṭrīyatè mattu sāṃskṛtika hirimèyannu kavigaḻu tamma kavitègaḻalli anāvaraṇagòḻisuvudu òṃdu mukhya vastuvāgiddu, adakkòṃdu uttama udāharaṇè ī kavitèyāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆಕಾಶಕ್ಕೆದ್ದು ನಿಂತ ಪರ್ವತ ಹಿಮ ಮೌನದಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "आकाशक्कॆद्दु निंत पर्वत हिम मौनदल्लि",
+        "latin": "ākāśakkèddu niṃta parvata hima maunadalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಕರಾವಳಿಗೆ ಮುತ್ತನಿಡುವ ಪೆರ್ದೆರೆಗಳ ಗಾನದಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "करावळिगॆ मुत्तनिडुव पॆर्दॆरॆगळ गानदल्लि",
+        "latin": "karāvaḻigè muttaniḍuva pèrdèrègaḻa gānadalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬಯಲ ತುಂಬ ಹಸಿರ ದೀಪ ಹಚ್ಚಿ ಹರಿವ ನದಿಗಳಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "बयल तुंब हसिर दीप हच्चि हरिव नदिगळल्लि",
+        "latin": "bayala tuṃba hasira dīpa hacci hariva nadigaḻalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನೀಲಿಯಲ್ಲಿ ಹೊಗೆಯ ಚೆಲ್ಲಿ ಯಂತ್ರಘೋಷವೇಳುವಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नीलियल्लि हॊगॆय चॆल्लि यंत्रघोषवेळुवल्लि",
+        "latin": "nīliyalli hògèya cèlli yaṃtraghoṣaveḻuvalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಕಣ್ಣು ಬೇರೆ, ನೋಟವೊಂದು-",
+      "translations": {
+        "en": "Eyes differ, the gaze is one—",
+        "hi": "आँखें अलग, दृष्टि एक—"
+      },
+      "transliterations": {
+        "devanagari": "कण्णु बेरॆ, नोटवॊंदु-",
+        "latin": "kaṇṇu berè, noṭavòṃdu-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l6",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನಾವು ಭಾರತೀಯರು.",
+      "translations": {
+        "en": "We are Indians.",
+        "hi": "हम भारतीय हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नावु भारतीयरु.",
+        "latin": "nāvu bhāratīyaru."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಾಡಿನೆಲ್ಲ ಗಡಿಗಳಲ್ಲಿ ಬಾನಿನಲ್ಲಿ ಕಡಲಿನಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नाडिनॆल्ल गडिगळल्लि बानिनल्लि कडलिनल्लि",
+        "latin": "nāḍinèlla gaḍigaḻalli bāninalli kaḍalinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಮ್ಮ ಯೋಧರೆತ್ತಿ ಹಿಡಿದ ನಮ್ಮ ಧ್ವಜದ ನೆರಳಿನಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नम्म योधरॆत्ति हिडिद नम्म ध्वजद नॆरळिनल्लि",
+        "latin": "namma yodharètti hiḍida namma dhvajada nèraḻinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಒಂದೆ ನೆಲದ ತೊಟ್ಟಿಲಲ್ಲಿ ಬೆಳೆದ ನಮ್ಮ ಕೊರಳಿನಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "ऒंदॆ नॆलद तॊट्टिलल्लि बॆळॆद नम्म कॊरळिनल्लि",
+        "latin": "òṃdè nèlada tòṭṭilalli bèḻèda namma kòraḻinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಮ್ಮ ಯುಗದ ದನಿಗಳಾಗಿ ಮೂಡಿದೆಲ್ಲ ಹಾಡಿನಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नम्म युगद दनिगळागि मूडिदॆल्ल हाडिनल्लि",
+        "latin": "namma yugada danigaḻāgi mūḍidèlla hāḍinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಭಾಷೆ ಬೇರೆ, ಭಾವವೊಂದು-",
+      "translations": {
+        "en": "Languages differ, feeling is one—",
+        "hi": "भाषाएँ अलग, भाव एक—"
+      },
+      "transliterations": {
+        "devanagari": "भाषॆ बेरॆ, भाववॊंदु-",
+        "latin": "bhāṣè berè, bhāvavòṃdu-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಾವು ಭಾರತೀಯರು.",
+      "translations": {
+        "en": "We are Indians.",
+        "hi": "हम भारतीय हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नावु भारतीयरु.",
+        "latin": "nāvu bhāratīyaru."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಾಡಿಗಾಗಿ ತನುವ ತೆತ್ತ ಹುತಾತ್ಮರ ಸ್ಮರಣೆಯಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नाडिगागि तनुव तॆत्त हुतात्मर स्मरणॆयल्लि",
+        "latin": "nāḍigāgi tanuva tètta hutātmara smaraṇèyalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಮ್ಮ ಕಷ್ಟದಲ್ಲು ನೆರೆಗೆ ನೆರಳನೀವ ಕರುಣೆಯಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नम्म कष्टदल्लु नॆरॆगॆ नॆरळनीव करुणॆयल्लि",
+        "latin": "namma kaṣṭadallu nèrègè nèraḻanīva karuṇèyalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ದಾರಿ ಬಳಸಿ ಏರುವಲ್ಲಿ ಬಿರುಗಾಳಿಯೆ ಮೊಳಗುವಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "दारि बळसि एरुवल्लि बिरुगाळियॆ मॊळगुवल्लि",
+        "latin": "dāri baḻasi eruvalli birugāḻiyè mòḻaguvalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಮ್ಮ ಗುರಿಯ ಬೆಳಕಿನೆಡೆಗೆ ನಡೆವ ಧೀರ ಪಯಣದಲ್ಲಿ",
+      "transliterations": {
+        "devanagari": "नम्म गुरिय बॆळकिनॆडॆगॆ नडॆव धीर पयणदल्लि",
+        "latin": "namma guriya bèḻakinèḍègè naḍèva dhīra payaṇadalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಎಲ್ಲೆ ಇರಲಿ, ನಾವು ಒಂದು-",
+      "translations": {
+        "en": "Wherever we are, we are one—",
+        "hi": "कहीं भी हों, हम एक हैं—"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लॆ इरलि, नावु ऒंदु-",
+        "latin": "èllè irali, nāvu òṃdu-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l6",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಾವು ಭಾರತೀಯರು.",
+      "translations": {
+        "en": "We are Indians.",
+        "hi": "हम भारतीय हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नावु भारतीयरु.",
+        "latin": "nāvu bhāratīyaru."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಆಧುನಿಕ ಕಾವ್ಯ ಸಂದರ್ಭದ ಪ್ರಮುಖ ಕವಿಗಳಲ್ಲಿ ಒಬ್ಬರಾದ ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ ಅವರು 26-01-1915 ರಲ್ಲಿ ಮಂಡ್ಯ ಜಿಲ್ಲೆಯ ಕೃಷ್ಣರಾಜಪೇಟೆ ತಾಲೂಕಿನ ಕಿಕ್ಕೇರಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಇವರ ಮೊದಲ ಕವನ ಸಂಕಲನ ಮೈಸೂರು ಮಲ್ಲಿಗೆ 1943ರಲ್ಲಿ ಪ್ರಕಟವಾಯಿತು. ಇವರು ಶಿಲಾಲತೆ, ಐರಾವತ, ನವಪಲ್ಲವ, ಇರುವಂತಿಗೆ, ದೀಪದ ಮಲ್ಲಿ, ಮನೆಯಿಂದ ಮನೆಗೆ, ತೆರೆದ ಬಾಗಿಲು ಮೊದಲಾದ ಕವನ ಸಂಕಲನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. 1977ರಲ್ಲಿ ಇವರ ತೆರೆದ ಬಾಗಿಲು ಎಂಬ ಕವನ ಸಂಗ್ರಹಕ್ಕೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ. 1990ರಲ್ಲಿ ಮೈಸೂರಿನಲ್ಲಿ ನಡೆದ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು. ಇವರ ದುಂಡು ಮಲ್ಲಿಗೆ ಕವನ ಸಂಕಲನಕ್ಕೆ ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಪ್ರತಿಷ್ಠಿತ ಪಂಪ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ. ಇವರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪ್ರೇಮಕವಿ ಎಂದೇ ಗುರುತಿಸಲಾಗಿದೆ. 2004ರಲ್ಲಿ ದೈವಾಧೀನರಾದರು.",
+      "transliterations": {
+        "devanagari": "आधुनिक काव्य संदर्भद प्रमुख कविगळल्लि ऒब्बराद कॆ.ऎस्. नरसिंहस्वामि अवरु 26-01-1915 रल्लि मंड्य जिल्लॆय कृष्णराजपेटॆ तालूकिन किक्केरियल्लि जनिसिदरु. इवर मॊदल कवन संकलन मैसूरु मल्लिगॆ 1943रल्लि प्रकटवायितु. इवरु शिलालतॆ, ऐरावत, नवपल्लव, इरुवंतिगॆ, दीपद मल्लि, मनॆयिंद मनॆगॆ, तॆरॆद बागिलु मॊदलाद कवन संकलनगळन्नु रचिसिद्दारॆ. 1977रल्लि इवर तॆरॆद बागिलु ऎंब कवन संग्रहक्कॆ केंद्र साहित्य अकाडॆमि प्रशस्ति लभिसिदॆ. 1990रल्लि मैसूरिनल्लि नडॆद अखिल भारत कन्नड साहित्य सम्मेळनद अध्यक्षरागिद्दरु. इवर दुंडु मल्लिगॆ कवन संकलनक्कॆ कर्नाटक सर्कारद प्रतिष्ठित पंप प्रशस्ति लभिसिदॆ. इवरन्नु कन्नड साहित्य क्षेत्रदल्लि प्रेमकवि ऎंदे गुरुतिसलागिदॆ. 2004रल्लि दैवाधीनरादरु.",
+        "latin": "ādhunika kāvya saṃdarbhada pramukha kavigaḻalli òbbarāda kè.ès. narasiṃhasvāmi avaru 26-01-1915 ralli maṃḍya jillèya kṛṣṇarājapeṭè tālūkina kikkeriyalli janisidaru. ivara mòdala kavana saṃkalana maisūru malligè 1943ralli prakaṭavāyitu. ivaru śilālatè, airāvata, navapallava, iruvaṃtigè, dīpada malli, manèyiṃda manègè, tèrèda bāgilu mòdalāda kavana saṃkalanagaḻannu racisiddārè. 1977ralli ivara tèrèda bāgilu èṃba kavana saṃgrahakkè keṃdra sāhitya akāḍèmi praśasti labhisidè. 1990ralli maisūrinalli naḍèda akhila bhārata kannaḍa sāhitya sammeḻanada adhyakṣarāgiddaru. ivara duṃḍu malligè kavana saṃkalanakkè karnāṭaka sarkārada pratiṣṭhita paṃpa praśasti labhisidè. ivarannu kannaḍa sāhitya kṣetradalli premakavi èṃde gurutisalāgidè. 2004ralli daivādhīnarādaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ashaya-1",
+      "section": "ashaya",
+      "text": "ಭಾರತೀಯತೆ ಕವನದಲ್ಲಿ ಕವಿ ಭಾರತೀಯರ ಏಕತೆಯನ್ನು ಕುರಿತು ಅಭಿಮಾನದಿಂದ ಹೇಳಿದ್ದಾರೆ. ಭಾರತ ದೇಶದ ಪ್ರಾಕೃತಿಕ ಸೌಂದರ್ಯ, ಜನರ ಜೀವನ ಶೈಲಿ, ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ, ಭಿನ್ನತೆಯಲ್ಲಿ ಏಕತಾಭಾವ, ದೇಶಭಕ್ತಿ, ತ್ಯಾಗ, ಪರೋಪಕಾರಬುದ್ಧಿ ಮುಂತಾದ ಉತ್ಕೃಷ್ಟ ಗುಣಗಳನ್ನು ಕವಿ ಇಲ್ಲಿ ವಿಶದೀಕರಿಸಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "In Bharatiyate the poet speaks proudly of the unity of Indians — natural beauty, way of life, cultural heritage, unity in diversity, patriotism, sacrifice and generosity.",
+        "hi": "भारतीयता में कवि भारतीयों की एकता पर गर्व से कहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "भारतीयतॆ कवनदल्लि कवि भारतीयर एकतॆयन्नु कुरितु अभिमानदिंद हेळिद्दारॆ. भारत देशद प्राकृतिक सौंदर्य, जनर जीवन शैलि, सांस्कृतिक परंपरॆ, भिन्नतॆयल्लि एकताभाव, देशभक्ति, त्याग, परोपकारबुद्धि मुंताद उत्कृष्ट गुणगळन्नु कवि इल्लि विशदीकरिसिद्दारॆ.",
+        "latin": "bhāratīyatè kavanadalli kavi bhāratīyara ekatèyannu kuritu abhimānadiṃda heḻiddārè. bhārata deśada prākṛtika sauṃdarya, janara jīvana śaili, sāṃskṛtika paraṃparè, bhinnatèyalli ekatābhāva, deśabhakti, tyāga, paropakārabuddhi muṃtāda utkṛṣṭa guṇagaḻannu kavi illi viśadīkarisiddārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-hima",
+      "text": "ಹಿಮ",
+      "transliterations": {
+        "devanagari": "हिम",
+        "latin": "hima"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hima-def",
+      "text": "ಮಂಜು",
+      "transliterations": {
+        "devanagari": "मंजु",
+        "latin": "maṃju"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-karavali",
+      "text": "ಕರಾವಳಿ",
+      "transliterations": {
+        "devanagari": "करावळि",
+        "latin": "karāvaḻi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-karavali-def",
+      "text": "ಸಮುದ್ರತೀರ",
+      "transliterations": {
+        "devanagari": "समुद्रतीर",
+        "latin": "samudratīra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-perdere",
+      "text": "ಪೆರ್ದೆರೆ",
+      "transliterations": {
+        "devanagari": "पॆर्दॆरॆ",
+        "latin": "pèrdèrè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-perdere-def",
+      "text": "ದೊಡ್ಡ ಅಲೆ",
+      "transliterations": {
+        "devanagari": "दॊड्ड अलॆ",
+        "latin": "dòḍḍa alè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ghosha",
+      "text": "ಘೋಷ",
+      "transliterations": {
+        "devanagari": "घोष",
+        "latin": "ghoṣa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ghosha-def",
+      "text": "ಗಟ್ಟಿಯಾಗಿ ಹೇಳುವುದು",
+      "transliterations": {
+        "devanagari": "गट्टियागि हेळुवुदु",
+        "latin": "gaṭṭiyāgi heḻuvudu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-gadi",
+      "text": "ಗಡಿ",
+      "transliterations": {
+        "devanagari": "गडि",
+        "latin": "gaḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gadi-def",
+      "text": "ಸೀಮೆ, ಎಲ್ಲೆ",
+      "transliterations": {
+        "devanagari": "सीमॆ, ऎल्लॆ",
+        "latin": "sīmè, èllè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-yodha",
+      "text": "ಯೋಧ",
+      "transliterations": {
+        "devanagari": "योध",
+        "latin": "yodha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-yodha-def",
+      "text": "ಸೈನಿಕ",
+      "transliterations": {
+        "devanagari": "सैनिक",
+        "latin": "sainika"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-korulu",
+      "text": "ಕೊರಳು",
+      "transliterations": {
+        "devanagari": "कॊरळु",
+        "latin": "kòraḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-korulu-def",
+      "text": "ಧ್ವನಿ",
+      "transliterations": {
+        "devanagari": "ध्वनि",
+        "latin": "dhvani"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tanu",
+      "text": "ತನು",
+      "transliterations": {
+        "devanagari": "तनु",
+        "latin": "tanu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tanu-def",
+      "text": "ದೇಹ",
+      "transliterations": {
+        "devanagari": "देह",
+        "latin": "deha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-teru",
+      "text": "ತೆರು",
+      "transliterations": {
+        "devanagari": "तॆरु",
+        "latin": "tèru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-teru-def",
+      "text": "ನೀಡು, ತ್ಯಾಗ ಮಾಡು",
+      "transliterations": {
+        "devanagari": "नीडु, त्याग माडु",
+        "latin": "nīḍu, tyāga māḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hutatma",
+      "text": "ಹುತಾತ್ಮ",
+      "transliterations": {
+        "devanagari": "हुतात्म",
+        "latin": "hutātma"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hutatma-def",
+      "text": "ದೇಶಕ್ಕಾಗಿ ಪ್ರಾಣ ತೆತ್ತವ",
+      "transliterations": {
+        "devanagari": "देशक्कागि प्राण तॆत्तव",
+        "latin": "deśakkāgi prāṇa tèttava"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-smarane",
+      "text": "ಸ್ಮರಣೆ",
+      "transliterations": {
+        "devanagari": "स्मरणॆ",
+        "latin": "smaraṇè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-smarane-def",
+      "text": "ನೆನಪು",
+      "transliterations": {
+        "devanagari": "नॆनपु",
+        "latin": "nènapu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nere",
+      "text": "ನೆರೆ",
+      "transliterations": {
+        "devanagari": "नॆरॆ",
+        "latin": "nèrè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nere-def",
+      "text": "ಪಕ್ಕ",
+      "transliterations": {
+        "devanagari": "पक्क",
+        "latin": "pakka"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-neralu",
+      "text": "ನೆರಳು",
+      "transliterations": {
+        "devanagari": "नॆरळु",
+        "latin": "nèraḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-neralu-def",
+      "text": "ಆಶ್ರಯ",
+      "transliterations": {
+        "devanagari": "आश्रय",
+        "latin": "āśraya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-molagu",
+      "text": "ಮೊಳಗು",
+      "transliterations": {
+        "devanagari": "मॊळगु",
+        "latin": "mòḻagu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-molagu-def",
+      "text": "ಅಬ್ಬರ",
+      "transliterations": {
+        "devanagari": "अब्बर",
+        "latin": "abbara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-belaku",
+      "text": "ಬೆಳಕು",
+      "transliterations": {
+        "devanagari": "बॆळकु",
+        "latin": "bèḻaku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-belaku-def",
+      "text": "ಜ್ಞಾನ",
+      "transliterations": {
+        "devanagari": "ज्ञान",
+        "latin": "jñāna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಪರ್ವತ ಹಿಮ ಯಾವ ಎತ್ತರಕ್ಕೆ ಎದ್ದು ನಿಂತಿದೆ?",
+      "transliterations": {
+        "devanagari": "पर्वत हिम याव ऎत्तरक्कॆ ऎद्दु निंतिदॆ?",
+        "latin": "parvata hima yāva èttarakkè èddu niṃtidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಪೆರ್ದೆರೆಗಳು ಯಾವುದಕ್ಕೆ ಮುತ್ತನಿಡುತ್ತಿವೆ?",
+      "transliterations": {
+        "devanagari": "पॆर्दॆरॆगळु यावुदक्कॆ मुत्तनिडुत्तिवॆ?",
+        "latin": "pèrdèrègaḻu yāvudakkè muttaniḍuttivè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಹಸಿರು ದೀಪವನ್ನು ಎಲ್ಲಿ ಹಚ್ಚಲಾಗಿದೆ?",
+      "transliterations": {
+        "devanagari": "हसिरु दीपवन्नु ऎल्लि हच्चलागिदॆ?",
+        "latin": "hasiru dīpavannu èlli haccalāgidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಯಂತ್ರಘೋಷ ಏಳುತ್ತಿರುವ ಬಗೆ ಹೇಗೆ?",
+      "transliterations": {
+        "devanagari": "यंत्रघोष एळुत्तिरुव बगॆ हेगॆ?",
+        "latin": "yaṃtraghoṣa eḻuttiruva bagè hegè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ನಮ್ಮ ಧ್ವಜವನ್ನು ಎತ್ತಿ ಹಿಡಿದಿರುವವರು ಯಾರು?",
+      "translations": {
+        "en": "Who hold up our flag?",
+        "hi": "हमारा ध्वज कौन ऊँचा उठाए हुए हैं?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म ध्वजवन्नु ऎत्ति हिडिदिरुववरु यारु?",
+        "latin": "namma dhvajavannu ètti hiḍidiruvavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ನಮ್ಮ ಪಯಣ ಎತ್ತ ಸಾಗಿದೆ?",
+      "transliterations": {
+        "devanagari": "नम्म पयण ऎत्त सागिदॆ?",
+        "latin": "namma payaṇa ètta sāgidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಕಣ್ಣು ಬೇರೆಯಾದರೂ ನೋಟ ಒಂದಾಗುವ ಸಂದರ್ಭಗಳನ್ನು ತಿಳಿಸಿ.",
+      "transliterations": {
+        "devanagari": "कण्णु बेरॆयादरू नोट ऒंदागुव संदर्भगळन्नु तिळिसि.",
+        "latin": "kaṇṇu berèyādarū noṭa òṃdāguva saṃdarbhagaḻannu tiḻisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "‘ಭಾಷೆ ಬೇರೆಯಾದರೂ ಭಾವ ಒಂದು’ - ಸಮರ್ಥಿಸಿ.",
+      "transliterations": {
+        "devanagari": "‘भाषॆ बेरॆयादरू भाव ऒंदु’ - समर्थिसि.",
+        "latin": "‘bhāṣè berèyādarū bhāva òṃdu’ - samarthisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ನಾವು ಭಾರತೀಯರು ಎಂಬ ಅಭಿಮಾನ ಮಿಡಿಯುವ ಸನ್ನಿವೇಶಗಳನ್ನು ವಿವರಿಸಿ.",
+      "transliterations": {
+        "devanagari": "नावु भारतीयरु ऎंब अभिमान मिडियुव सन्निवेशगळन्नु विवरिसि.",
+        "latin": "nāvu bhāratīyaru èṃba abhimāna miḍiyuva sanniveśagaḻannu vivarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "“ಕಣ್ಣು ಬೇರೆ, ನೋಟವೊಂದು”",
+      "transliterations": {
+        "devanagari": "“कण्णु बेरॆ, नोटवॊंदु”",
+        "latin": "“kaṇṇu berè, noṭavòṃdu”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "“ಭಾಷೆ ಬೇರೆ, ಭಾವವೊಂದು”",
+      "transliterations": {
+        "devanagari": "“भाषॆ बेरॆ, भाववॊंदु”",
+        "latin": "“bhāṣè berè, bhāvavòṃdu”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "“ಎಲ್ಲೆ ಇರಲಿ, ನಾವು ಒಂದು”",
+      "transliterations": {
+        "devanagari": "“ऎल्लॆ इरलि, नावु ऒंदु”",
+        "latin": "“èllè irali, nāvu òṃdu”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಯಂತ್ರ ______ ವೇಳುವಲ್ಲಿ.",
+      "transliterations": {
+        "devanagari": "यंत्र ______ वेळुवल्लि.",
+        "latin": "yaṃtra ______ veḻuvalli."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಒಂದೆ ನೆಲದ ______ .",
+      "transliterations": {
+        "devanagari": "ऒंदॆ नॆलद ______ .",
+        "latin": "òṃdè nèlada ______ ."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ನಮ್ಮ ಯುಗದ ದನಿಗಳಾಗಿ ಮೂಡಿದೆಲ್ಲ _______ .",
+      "transliterations": {
+        "devanagari": "नम्म युगद दनिगळागि मूडिदॆल्ल _______ .",
+        "latin": "namma yugada danigaḻāgi mūḍidèlla _______ ."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಎಲ್ಲೆ ಇರಲಿ ನಾವು ______ .",
+      "transliterations": {
+        "devanagari": "ऎल्लॆ इरलि नावु ______ .",
+        "latin": "èllè irali nāvu ______ ."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q5",
+      "text": "ನಡೆವ _____ ಪಯಣದಲ್ಲಿ.",
+      "transliterations": {
+        "devanagari": "नडॆव _____ पयणदल्लि.",
+        "latin": "naḍèva _____ payaṇadalli."
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

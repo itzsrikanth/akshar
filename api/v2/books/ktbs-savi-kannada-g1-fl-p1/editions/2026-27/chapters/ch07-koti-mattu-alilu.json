@@ -1,0 +1,1035 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g1-fl-p1",
+    "chapterId": "ch07-koti-mattu-alilu",
+    "editionId": "2026-27",
+    "number": 7
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अभ्यास अ",
+      "en": "Exercise A",
+      "hi": "अभ्यास अ",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "abhyāsa a"
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ",
+      "en": "Exercise B",
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "abhyāsa ā"
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ",
+      "en": "Exercise C",
+      "hi": "अभ्यास इ",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "abhyāsa i"
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई",
+      "en": "Exercise D",
+      "hi": "अभ्यास ई",
+      "kn": "ಅಭ್ಯಾಸ ಈ",
+      "latin": "abhyāsa ī"
+    },
+    "intro": {
+      "devanagari": "पाठ - ७ : पाठपूर्व चटुवटिकॆ",
+      "en": "Lesson - 7 : Pre-lesson activity",
+      "hi": "पाठ - ७ : पाठपूर्व गतिविधि",
+      "kn": "ಪಾಠ - ೭ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ",
+      "latin": "pāṭha - 7 : pāṭhapūrva caṭuvaṭikè"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    },
+    "story": {
+      "devanagari": "गद्य",
+      "en": "Prose",
+      "hi": "गद्य",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "title": {
+      "devanagari": "कोति मत्तु अळिलु",
+      "en": "The Monkey and the Squirrel",
+      "hi": "बंदर और गिलहरी",
+      "kn": "ಕೋತಿ ಮತ್ತು ಅಳಿಲು",
+      "latin": "koti mattu aḻilu"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने हुए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "keḻida padagaḻu"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 7,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch07-koti-mattu-alilu",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕೋತಿ ಮತ್ತು ಅಳಿಲು"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಅ) ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಿ, ಪಕ್ಕದಲ್ಲಿರುವ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ, ಮಕ್ಕಳಿಂದ ಉತ್ತರ ಪಡೆಯಿರಿ.",
+      "translations": {
+        "en": "A) Show the pictures, ask the questions beside them, and get answers from the children.",
+        "hi": "अ) चित्र दिखाकर पास के प्रश्न पूछें, बच्चों से उत्तर लें।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्रगळन्नु तोरिसि, पक्कदल्लिरुव प्रश्नॆगळन्नु केळि, मक्कळिंद उत्तर पडॆयिरि.",
+        "latin": "a) citragaḻannu torisi, pakkadalliruva praśnègaḻannu keḻi, makkaḻiṃda uttara paḍèyiri."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-q1",
+      "section": "intro",
+      "text": "ಈ ಪ್ರಾಣಿಯ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of this animal?",
+        "hi": "इस जानवर का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई प्राणिय हॆसरेनु?",
+        "latin": "ī prāṇiya hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "intro-q2",
+      "section": "intro",
+      "text": "ಈ ಪ್ರಾಣಿಯ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of this animal?",
+        "hi": "इस जानवर का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई प्राणिय हॆसरेनु?",
+        "latin": "ī prāṇiya hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "intro-q3",
+      "section": "intro",
+      "text": "ಈ ಚಿತ್ರದಲ್ಲಿರುವುದೇನು?",
+      "translations": {
+        "en": "What is in this picture?",
+        "hi": "इस चित्र में क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई चित्रदल्लिरुवुदेनु?",
+        "latin": "ī citradalliruvudenu?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "intro-q4",
+      "section": "intro",
+      "text": "ಈ ಚಿತ್ರದಲ್ಲಿರುವುದೇನು?",
+      "translations": {
+        "en": "What is in this picture?",
+        "hi": "इस चित्र में क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई चित्रदल्लिरुवुदेनु?",
+        "latin": "ī citradalliruvudenu?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "story-intro",
+      "section": "story",
+      "text": "(ಪಾಠವನ್ನು ಓದಿ ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)",
+      "translations": {
+        "en": "(Read and tell the lesson, and have the children say it)",
+        "hi": "(पाठ पढ़कर सुनाएँ, बच्चों से बुलवाएँ)"
+      },
+      "transliterations": {
+        "devanagari": "(पाठवन्नु ओदि हेळि, मक्कळिंद हेळिसि)",
+        "latin": "(pāṭhavannu odi heḻi, makkaḻiṃda heḻisi)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಒಂದು ಕೋತಿ ಮರದ ಮೇಲೆ ಕುಳಿತಿತ್ತು. ಆ ಕೋತಿಯ ಬಾಲ ತುಂಬಾ ಉದ್ದವಿತ್ತು. ಅದು ನೆಲದವರೆಗೆ ನೇತಾಡುತ್ತಿತ್ತು.",
+      "translations": {
+        "en": "A monkey was sitting on a tree. That monkey’s tail was very long. It was hanging down to the ground.",
+        "hi": "एक बंदर पेड़ पर बैठा था। उस बंदर की पूँछ बहुत लंबी थी। वह ज़मीन तक लटक रही थी।"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु कोति मरद मेलॆ कुळितित्तु. आ कोतिय बाल तुंबा उद्दवित्तु. अदु नॆलदवरॆगॆ नेताडुत्तित्तु.",
+        "latin": "òṃdu koti marada melè kuḻitittu. ā kotiya bāla tuṃbā uddavittu. adu nèladavarègè netāḍuttittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಒಂದು ಅಳಿಲು ಕುಣಿದಾಡುತ್ತಾ ಅಲ್ಲಿಗೆ ಬಂದಿತು. ಅದು ಕೋತಿಯ ಬಾಲ ನೋಡಿತು. “ಈ ಜೋಕಾಲಿ ಎಷ್ಟು ಚಂದ!” ಎಂದು ಯೋಚಿಸಿತು. ಕೋತಿಯ ಬಾಲ ಹಿಡಿದು ಅಳಿಲು ಜೀಕತೊಡಗಿತು.",
+      "translations": {
+        "en": "A squirrel came there hopping. It saw the monkey’s tail. It thought, “How lovely this swing is!” Holding the monkey’s tail, the squirrel began to swing.",
+        "hi": "एक गिलहरी उछलती-कूदती वहाँ आई। उसने बंदर की पूँछ देखी। उसने सोचा, “यह झूला कितना सुंदर है!” बंदर की पूँछ पकड़कर गिलहरी झूलने लगी।"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु अळिलु कुणिदाडुत्ता अल्लिगॆ बंदितु. अदु कोतिय बाल नोडितु. “ई जोकालि ऎष्टु चंद!” ऎंदु योचिसितु. कोतिय बाल हिडिदु अळिलु जीकतॊडगितु.",
+        "latin": "òṃdu aḻilu kuṇidāḍuttā alligè baṃditu. adu kotiya bāla noḍitu. “ī jokāli èṣṭu caṃda!” èṃdu yocisitu. kotiya bāla hiḍidu aḻilu jīkatòḍagitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಕೋತಿಗೆ ಕಚಗುಳಿ ಆಯಿತು. ಅದು ಕೆಳಗೆ ನೋಡಿತು ಮತ್ತು ನಗುತ್ತಾ ಹೇಳಿತು.",
+      "translations": {
+        "en": "The monkey felt ticklish. It looked down and said laughing,",
+        "hi": "बंदर को गुदगुदी आई। उसने नीचे देखा और हँसते हुए कहा,"
+      },
+      "transliterations": {
+        "devanagari": "कोतिगॆ कचगुळि आयितु. अदु कॆळगॆ नोडितु मत्तु नगुत्ता हेळितु.",
+        "latin": "kotigè kacaguḻi āyitu. adu kèḻagè noḍitu mattu naguttā heḻitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ಕೋತಿ",
+      "text": "ತಂಗಿ, ಏನು ಮಾಡುತ್ತಿರುವೆ? ನನಗೆ ಕಚಗುಳಿಯಾಗುತ್ತಿದೆ.",
+      "translations": {
+        "en": "Little sister, what are you doing? I am getting ticklish.",
+        "hi": "बहन, क्या कर रही हो? मुझे गुदगुदी हो रही है।"
+      },
+      "transliterations": {
+        "devanagari": "तंगि, एनु माडुत्तिरुवॆ? ननगॆ कचगुळियागुत्तिदॆ.",
+        "latin": "taṃgi, enu māḍuttiruvè? nanagè kacaguḻiyāguttidè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಆಗ ಅಳಿಲಿಗೆ ಗಾಬರಿಯಾಯಿತು.",
+      "translations": {
+        "en": "Then the squirrel got frightened.",
+        "hi": "तब गिलहरी डर गई।"
+      },
+      "transliterations": {
+        "devanagari": "आग अळिलिगॆ गाबरियायितु.",
+        "latin": "āga aḻiligè gābariyāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ಅಳಿಲು",
+      "text": "ಮಂಗಣ್ಣಾ, ಇದು ನಿನ್ನ ಬಾಲವೇ? ಜೋಕಾಲಿ ಎಂದು ತಿಳಿದು ಜೀಕುತ್ತಿದ್ದೆ. ನನ್ನನ್ನು ಕ್ಷಮಿಸು",
+      "translations": {
+        "en": "Brother monkey, is this your tail? I thought it was a swing and was swinging. Forgive me",
+        "hi": "बंदर भैया, क्या यह तुम्हारी पूँछ है? मैंने झूला समझकर झूल रही थी। मुझे क्षमा करो"
+      },
+      "transliterations": {
+        "devanagari": "मंगण्णा, इदु निन्न बालवे? जोकालि ऎंदु तिळिदु जीकुत्तिद्दॆ. नन्नन्नु क्षमिसु",
+        "latin": "maṃgaṇṇā, idu ninna bālave? jokāli èṃdu tiḻidu jīkuttiddè. nannannu kṣamisu"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಬಾಲವನ್ನು ಬಿಟ್ಟಿತು. ಅಳಿಲು ಓಡಿಹೋಗಿ, ಮರದ ಕೊಂಬೆಯನ್ನು ಏರಿತು.",
+      "translations": {
+        "en": "It let go of the tail. The squirrel ran away and climbed a branch of the tree.",
+        "hi": "उसने पूँछ छोड़ दी। गिलहरी भागकर पेड़ की डाल पर चढ़ गई।"
+      },
+      "transliterations": {
+        "devanagari": "बालवन्नु बिट्टितु. अळिलु ओडिहोगि, मरद कॊंबॆयन्नु एरितु.",
+        "latin": "bālavannu biṭṭitu. aḻilu oḍihogi, marada kòṃbèyannu eritu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-koti",
+      "text": "ಕೋತಿ",
+      "translations": {
+        "en": "monkey",
+        "hi": "बंदर"
+      },
+      "transliterations": {
+        "devanagari": "कोति",
+        "latin": "koti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mara",
+      "text": "ಮರ",
+      "translations": {
+        "en": "tree",
+        "hi": "पेड़"
+      },
+      "transliterations": {
+        "devanagari": "मर",
+        "latin": "mara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mele",
+      "text": "ಮೇಲೆ",
+      "translations": {
+        "en": "on/above",
+        "hi": "ऊपर"
+      },
+      "transliterations": {
+        "devanagari": "मेलॆ",
+        "latin": "melè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kulitittu",
+      "text": "ಕುಳಿತಿತ್ತು",
+      "translations": {
+        "en": "was sitting",
+        "hi": "बैठा था"
+      },
+      "transliterations": {
+        "devanagari": "कुळितित्तु",
+        "latin": "kuḻitittu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-baala",
+      "text": "ಬಾಲ",
+      "translations": {
+        "en": "tail",
+        "hi": "पूँछ"
+      },
+      "transliterations": {
+        "devanagari": "बाल",
+        "latin": "bāla"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-udda",
+      "text": "ಉದ್ದ",
+      "translations": {
+        "en": "long",
+        "hi": "लंबा"
+      },
+      "transliterations": {
+        "devanagari": "उद्द",
+        "latin": "udda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-adu",
+      "text": "ಅದು",
+      "translations": {
+        "en": "it",
+        "hi": "वह"
+      },
+      "transliterations": {
+        "devanagari": "अदु",
+        "latin": "adu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nela",
+      "text": "ನೆಲ",
+      "translations": {
+        "en": "ground",
+        "hi": "ज़मीन"
+      },
+      "transliterations": {
+        "devanagari": "नॆल",
+        "latin": "nèla"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-netadu",
+      "text": "ನೇತಾಡು",
+      "translations": {
+        "en": "hang",
+        "hi": "लटकेना"
+      },
+      "transliterations": {
+        "devanagari": "नेताडु",
+        "latin": "netāḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-alilu",
+      "text": "ಅಳಿಲು",
+      "translations": {
+        "en": "squirrel",
+        "hi": "गिलहरी"
+      },
+      "transliterations": {
+        "devanagari": "अळिलु",
+        "latin": "aḻilu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kunidadu",
+      "text": "ಕುಣಿದಾಡು",
+      "translations": {
+        "en": "hop/dance",
+        "hi": "उछलना"
+      },
+      "transliterations": {
+        "devanagari": "कुणिदाडु",
+        "latin": "kuṇidāḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-allige",
+      "text": "ಅಲ್ಲಿಗೆ",
+      "translations": {
+        "en": "there",
+        "hi": "वहाँ"
+      },
+      "transliterations": {
+        "devanagari": "अल्लिगॆ",
+        "latin": "alligè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-banditu",
+      "text": "ಬಂದಿತು",
+      "translations": {
+        "en": "came",
+        "hi": "आई"
+      },
+      "transliterations": {
+        "devanagari": "बंदितु",
+        "latin": "baṃditu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-noditu",
+      "text": "ನೋಡಿತು",
+      "translations": {
+        "en": "saw",
+        "hi": "देखा"
+      },
+      "transliterations": {
+        "devanagari": "नोडितु",
+        "latin": "noḍitu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jokaali",
+      "text": "ಜೋಕಾಲಿ",
+      "translations": {
+        "en": "swing",
+        "hi": "झूला"
+      },
+      "transliterations": {
+        "devanagari": "जोकालि",
+        "latin": "jokāli"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-eshtu",
+      "text": "ಎಷ್ಟು",
+      "translations": {
+        "en": "how much",
+        "hi": "कितना"
+      },
+      "transliterations": {
+        "devanagari": "ऎष्टु",
+        "latin": "èṣṭu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chanda",
+      "text": "ಚಂದ",
+      "translations": {
+        "en": "lovely",
+        "hi": "सुंदर"
+      },
+      "transliterations": {
+        "devanagari": "चंद",
+        "latin": "caṃda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-yochisu",
+      "text": "ಯೋಚಿಸು",
+      "translations": {
+        "en": "think",
+        "hi": "सोचना"
+      },
+      "transliterations": {
+        "devanagari": "योचिसु",
+        "latin": "yocisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jeeku",
+      "text": "ಜೀಕು",
+      "translations": {
+        "en": "swing",
+        "hi": "झूलना"
+      },
+      "transliterations": {
+        "devanagari": "जीकु",
+        "latin": "jīku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kachaguli",
+      "text": "ಕಚಗುಳಿ",
+      "translations": {
+        "en": "tickle",
+        "hi": "गुदगुदी"
+      },
+      "transliterations": {
+        "devanagari": "कचगुळि",
+        "latin": "kacaguḻi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aayitu",
+      "text": "ಆಯಿತು",
+      "translations": {
+        "en": "happened",
+        "hi": "हुआ"
+      },
+      "transliterations": {
+        "devanagari": "आयितु",
+        "latin": "āyitu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kelage",
+      "text": "ಕೆಳಗೆ",
+      "translations": {
+        "en": "below",
+        "hi": "नीचे"
+      },
+      "transliterations": {
+        "devanagari": "कॆळगॆ",
+        "latin": "kèḻagè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nagu",
+      "text": "ನಗು",
+      "translations": {
+        "en": "laugh",
+        "hi": "हँसना"
+      },
+      "transliterations": {
+        "devanagari": "नगु",
+        "latin": "nagu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-helu",
+      "text": "ಹೇಳು",
+      "translations": {
+        "en": "say",
+        "hi": "कहना"
+      },
+      "transliterations": {
+        "devanagari": "हेळु",
+        "latin": "heḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tangi",
+      "text": "ತಂಗಿ",
+      "translations": {
+        "en": "younger sister",
+        "hi": "बहन"
+      },
+      "transliterations": {
+        "devanagari": "तंगि",
+        "latin": "taṃgi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-enu",
+      "text": "ಏನು",
+      "translations": {
+        "en": "what",
+        "hi": "क्या"
+      },
+      "transliterations": {
+        "devanagari": "एनु",
+        "latin": "enu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-maadu",
+      "text": "ಮಾಡು",
+      "translations": {
+        "en": "do",
+        "hi": "करना"
+      },
+      "transliterations": {
+        "devanagari": "माडु",
+        "latin": "māḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gaabari",
+      "text": "ಗಾಬರಿ",
+      "translations": {
+        "en": "fear",
+        "hi": "डर"
+      },
+      "transliterations": {
+        "devanagari": "गाबरि",
+        "latin": "gābari"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-manganna",
+      "text": "ಮಂಗಣ್ಣಾ",
+      "translations": {
+        "en": "brother monkey",
+        "hi": "बंदर भैया"
+      },
+      "transliterations": {
+        "devanagari": "मंगण्णा",
+        "latin": "maṃgaṇṇā"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-idu",
+      "text": "ಇದು",
+      "translations": {
+        "en": "this",
+        "hi": "यह"
+      },
+      "transliterations": {
+        "devanagari": "इदु",
+        "latin": "idu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tili",
+      "text": "ತಿಳಿ",
+      "translations": {
+        "en": "know",
+        "hi": "जानना"
+      },
+      "transliterations": {
+        "devanagari": "तिळि",
+        "latin": "tiḻi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kshamisu",
+      "text": "ಕ್ಷಮಿಸು",
+      "translations": {
+        "en": "forgive",
+        "hi": "क्षमा करना"
+      },
+      "transliterations": {
+        "devanagari": "क्षमिसु",
+        "latin": "kṣamisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aaga",
+      "text": "ಆಗ",
+      "translations": {
+        "en": "then",
+        "hi": "तब"
+      },
+      "transliterations": {
+        "devanagari": "आग",
+        "latin": "āga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bittitu",
+      "text": "ಬಿಟ್ಟಿತು",
+      "translations": {
+        "en": "let go",
+        "hi": "छोड़ दिया"
+      },
+      "transliterations": {
+        "devanagari": "बिट्टितु",
+        "latin": "biṭṭitu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-gaabari",
+      "text": "ಗಾಬರಿ",
+      "translations": {
+        "en": "fear",
+        "hi": "डर"
+      },
+      "transliterations": {
+        "devanagari": "गाबरि",
+        "latin": "gābari"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-gaabari-def",
+      "ref": "note-gaabari",
+      "text": "ಹೆದರಿಕೆ",
+      "translations": {
+        "en": "fright",
+        "hi": "भय"
+      },
+      "transliterations": {
+        "devanagari": "हॆदरिकॆ",
+        "latin": "hèdarikè"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kshamisu",
+      "text": "ಕ್ಷಮಿಸು",
+      "translations": {
+        "en": "forgive",
+        "hi": "क्षमा करना"
+      },
+      "transliterations": {
+        "devanagari": "क्षमिसु",
+        "latin": "kṣamisu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kshamisu-def",
+      "ref": "note-kshamisu",
+      "text": "ಅಪರಾಧವನ್ನು ಮನ್ನಿಸು",
+      "translations": {
+        "en": "pardon the fault",
+        "hi": "अपराध माफ़ करना"
+      },
+      "transliterations": {
+        "devanagari": "अपराधवन्नु मन्निसु",
+        "latin": "aparādhavannu mannisu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-intro",
+      "text": "ಅ) ಈ ವಾಕ್ಯಗಳಲ್ಲಿನ ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Have the children say the missing word in these sentences.",
+        "hi": "अ) इन वाक्यों में छूटे शब्द बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) ई वाक्यगळल्लिन बिट्टिरुव पदवन्नु मक्कळिंद हेळिसि.",
+        "latin": "a) ī vākyagaḻallina biṭṭiruva padavannu makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "1) ಆ ಕೋತಿಯ ಬಾಲ _____ ಉದ್ದವಿತ್ತು.",
+      "translations": {
+        "en": "1) That monkey’s tail was _____ long.",
+        "hi": "1) उस बंदर की पूँछ _____ लंबी थी।"
+      },
+      "transliterations": {
+        "devanagari": "1) आ कोतिय बाल _____ उद्दवित्तु.",
+        "latin": "1) ā kotiya bāla _____ uddavittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "2) ಒಂದು ಅಳಿಲು ________ ಅಲ್ಲಿಗೆ ಬಂದಿತು.",
+      "translations": {
+        "en": "2) A squirrel ________ came there.",
+        "hi": "2) एक गिलहरी ________ वहाँ आई।"
+      },
+      "transliterations": {
+        "devanagari": "2) ऒंदु अळिलु ________ अल्लिगॆ बंदितु.",
+        "latin": "2) òṃdu aḻilu ________ alligè baṃditu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "3) ಕೋತಿಗೆ _______ ಆಯಿತು.",
+      "translations": {
+        "en": "3) The monkey got _______.",
+        "hi": "3) बंदर को _______ आई।"
+      },
+      "transliterations": {
+        "devanagari": "3) कोतिगॆ _______ आयितु.",
+        "latin": "3) kotigè _______ āyitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "4) ಮಂಗಣ್ಣಾ, ಇದು ____ ಬಾಲವೇ?",
+      "translations": {
+        "en": "4) Brother monkey, is this ____ tail?",
+        "hi": "4) बंदर भैया, क्या यह ____ पूँछ है?"
+      },
+      "transliterations": {
+        "devanagari": "4) मंगण्णा, इदु ____ बालवे?",
+        "latin": "4) maṃgaṇṇā, idu ____ bālave?"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-intro",
+      "text": "ಆ) ಮಕ್ಕಳಿಗೆ ಪ್ರಶ್ನೆ ಕೇಳಿ, ಉತ್ತರ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "B) Ask the children questions and have them answer.",
+        "hi": "आ) बच्चों से प्रश्न पूछें, उत्तर बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) मक्कळिगॆ प्रश्नॆ केळि, उत्तर हेळिसि.",
+        "latin": "ā) makkaḻigè praśnè keḻi, uttara heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "1) ಕೋತಿ ಯಾವುದರ ಮೇಲೆ ಕುಳಿತಿತ್ತು?",
+      "translations": {
+        "en": "1) What was the monkey sitting on?",
+        "hi": "1) बंदर किस पर बैठा था?"
+      },
+      "transliterations": {
+        "devanagari": "1) कोति यावुदर मेलॆ कुळितित्तु?",
+        "latin": "1) koti yāvudara melè kuḻitittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "2) ಕೋತಿಯ ಬಾಲ ಹಿಡಿದು ಯಾವುದು ಜೀಕತೊಡಗಿತು?",
+      "translations": {
+        "en": "2) What held the monkey’s tail and began to swing?",
+        "hi": "2) बंदर की पूँछ पकड़कर कौन झूलने लगा?"
+      },
+      "transliterations": {
+        "devanagari": "2) कोतिय बाल हिडिदु यावुदु जीकतॊडगितु?",
+        "latin": "2) kotiya bāla hiḍidu yāvudu jīkatòḍagitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "3) “ಮಂಗಣ್ಣಾ ಇದು ನಿನ್ನ ಬಾಲವೇ? ಜೋಕಾಲಿ ಎಂದು ತಿಳಿದು ಜೀಕುತ್ತಿದ್ದೆ. ನನ್ನನ್ನು ಕ್ಷಮಿಸು” ಎಂದು ಯಾವುದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "3) Who said, “Brother monkey, is this your tail? … Forgive me”?",
+        "hi": "3) “बंदर भैया, क्या यह तुम्हारी पूँछ है?… क्षमा करो” — यह किसने कहा?"
+      },
+      "transliterations": {
+        "devanagari": "3) “मंगण्णा इदु निन्न बालवे? जोकालि ऎंदु तिळिदु जीकुत्तिद्दॆ. नन्नन्नु क्षमिसु” ऎंदु यावुदु हेळितु?",
+        "latin": "3) “maṃgaṇṇā idu ninna bālave? jokāli èṃdu tiḻidu jīkuttiddè. nannannu kṣamisu” èṃdu yāvudu heḻitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "4) ಅಳಿಲು ಹೇಗೆ ಹೋಗಿ ಮರದ ಕೊಂಬೆಯನ್ನು ಏರಿತು?",
+      "translations": {
+        "en": "4) How did the squirrel go and climb the tree branch?",
+        "hi": "4) गिलहरी कैसे जाकर पेड़ की डाल पर चढ़ी?"
+      },
+      "transliterations": {
+        "devanagari": "4) अळिलु हेगॆ होगि मरद कॊंबॆयन्नु एरितु?",
+        "latin": "4) aḻilu hegè hogi marada kòṃbèyannu eritu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-intro",
+      "text": "ಇ) ಮಾದರಿಯಂತೆ ವಾಕ್ಯಗಳನ್ನು ಮಾಡಿ ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "C) Make sentences like the model and have the children say them.",
+        "hi": "इ) नमूने के अनुसार वाक्य बनाकर बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "इ) मादरियंतॆ वाक्यगळन्नु माडि मक्कळिंद हेळिसि.",
+        "latin": "i) mādariyaṃtè vākyagaḻannu māḍi makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-model",
+      "text": "ಮಾದರಿ : ಕೋತಿ, ಮರ, ಬಾಲ",
+      "translations": {
+        "en": "Model: monkey, tree, tail",
+        "hi": "नमूना : बंदर, पेड़, पूँछ"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : कोति, मर, बाल",
+        "latin": "mādari : koti, mara, bāla"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "1) ಕೋತಿ ಒಂದು ಪ್ರಾಣಿ.",
+      "translations": {
+        "en": "1) A monkey is an animal.",
+        "hi": "1) बंदर एक जानवर है।"
+      },
+      "transliterations": {
+        "devanagari": "1) कोति ऒंदु प्राणि.",
+        "latin": "1) koti òṃdu prāṇi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "2) ಕೋತಿಯು ಮರವನ್ನು ಹತ್ತುತ್ತದೆ.",
+      "translations": {
+        "en": "2) The monkey climbs the tree.",
+        "hi": "2) बंदर पेड़ पर चढ़ता है।"
+      },
+      "transliterations": {
+        "devanagari": "2) कोतियु मरवन्नु हत्तुत्तदॆ.",
+        "latin": "2) kotiyu maravannu hattuttadè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "3) ಕೋತಿಗೆ ಬಾಲವಿದೆ.",
+      "translations": {
+        "en": "3) The monkey has a tail.",
+        "hi": "3) बंदर की पूँछ होती है।"
+      },
+      "transliterations": {
+        "devanagari": "3) कोतिगॆ बालविदॆ.",
+        "latin": "3) kotigè bālavidè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-intro",
+      "text": "ಈ) ಈ ಪದಗಳನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "D) Have the children say these words.",
+        "hi": "ई) ये शब्द बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "ई) ई पदगळन्नु मक्कळिंद हेळिसि.",
+        "latin": "ī) ī padagaḻannu makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಅಳಿಲು",
+      "translations": {
+        "en": "squirrel",
+        "hi": "गिलहरी"
+      },
+      "transliterations": {
+        "devanagari": "अळिलु",
+        "latin": "aḻilu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಮರ",
+      "translations": {
+        "en": "tree",
+        "hi": "पेड़"
+      },
+      "transliterations": {
+        "devanagari": "मर",
+        "latin": "mara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಬಾಲ",
+      "translations": {
+        "en": "tail",
+        "hi": "पूँछ"
+      },
+      "transliterations": {
+        "devanagari": "बाल",
+        "latin": "bāla"
+      },
+      "type": "vocabulary_term"
+    }
+  ]
+}

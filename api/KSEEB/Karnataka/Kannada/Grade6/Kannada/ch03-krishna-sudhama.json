@@ -1,0 +1,1873 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the author",
+      "hi": "लेखक परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "drama": {
+      "devanagari": "नाटक",
+      "en": "Play",
+      "hi": "नाटक",
+      "kn": "ನಾಟಕ",
+      "latin": "nāṭaka"
+    },
+    "exercise-A": {
+      "devanagari": "अ. ई पदगळिगॆ ऎरडु समानार्थक पदगळन्नु बरॆयिरि.",
+      "en": "A. Write two synonyms for each word.",
+      "hi": "अ. दो पर्याय लिखिए।",
+      "kn": "ಅ. ಈ ಪದಗಳಿಗೆ ಎರಡು ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "a. ī padagaḻigè èraḍu samānārthaka padagaḻannu barèyiri."
+    },
+    "exercise-B": {
+      "devanagari": "आ. ई पदगळन्नु बळसि स्वंत वाक्य रचिसिरि.",
+      "en": "B. Use these words in your own sentences.",
+      "hi": "आ. अपने वाक्य बनाइए।",
+      "kn": "ಆ. ಈ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ರಚಿಸಿರಿ.",
+      "latin": "ā. ī padagaḻannu baḻasi svaṃta vākya racisiri."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॆळगिन प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसिरि.",
+      "en": "C. Answer in one sentence.",
+      "hi": "इ. एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಇ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "i. kèḻagina praśnègaḻigè òṃdu vākyadalli uttarisiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. कॆळगिन प्रश्नॆगळिगॆ ऐदु-आरु वाक्यगळल्लि उत्तरिसिरि.",
+      "en": "D. Answer in five or six sentences.",
+      "hi": "ई. पाँच-छह वाक्यों में उत्तर दीजिए।",
+      "kn": "ಈ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "ī. kèḻagina praśnègaḻigè aidu-āru vākyagaḻalli uttarisiri."
+    },
+    "exercise-E": {
+      "devanagari": "उ. कॆळगिन मातुगळन्नु यारु, यारिगॆ, यावाग हेळिदरु?",
+      "en": "E. Who said to whom, when?",
+      "hi": "उ. किसने, किसे, कब कहा?",
+      "kn": "ಉ. ಕೆಳಗಿನ ಮಾತುಗಳನ್ನು ಯಾರು, ಯಾರಿಗೆ, ಯಾವಾಗ ಹೇಳಿದರು?",
+      "latin": "u. kèḻagina mātugaḻannu yāru, yārigè, yāvāga heḻidaru?"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ವಿ.ಎಸ್. ಶಿರಹಟ್ಟಿ ಮಠ",
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch03-krishna-sudhama",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕೃಷ್ಣ - ಸುಧಾಮ (ನಾಟಕ)"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಗೆಳೆತನವೆಂಬುದು ಪವಿತ್ರವಾದ ಒಂದು ಸಂಬಂಧ. ಇಲ್ಲಿ ಬಡತನ, ಸಿರಿತನ, ವಿದ್ಯಾವಂತ, ಅವಿದ್ಯಾವಂತ ಇತ್ಯಾದಿಯಾದ ಯಾವುದೇ ಬಗೆಯ ಭೇದ ಭಾವ ಇರುವುದಿಲ್ಲ. ಹುಟ್ಟುತ್ತಾ ಅಣ್ಣ ತಮ್ಮಂದಿರಾಗಿಯೂ ಬೆಳೆಯುತ್ತಾ ದಾಯಾದಿಗಳಾಗಿಯೂ ಬದುಕು ಸಾಗಿಸುವವರು ನಮ್ಮ ನಡುವೆ ಇದ್ದಾರೆ. ಒಂದೇ ತರಗತಿಯಲ್ಲಿ ಕಲಿತ ಬಾಲ್ಯ ಸ್ನೇಹಿತರೂ ಸಿರಿತನ, ಬಡತನ ನಿಮಿತ್ತವಾಗಿ ಬೇರ್ಪಡುತ್ತಾರೆ. ನಿಜವಾದ ಗೆಳೆತನದ ಬೆಸುಗೆ ಮುರಿದು ಹೋಗುವಂಥದ್ದಲ್ಲ ಎಂಬುದನ್ನು ಎತ್ತಿ ತೋರಿಸುವುದು ಪ್ರಸ್ತುತ ಪಾಠದ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "Friendship is a sacred bond. Here there is no discrimination of poverty, wealth, the educated or the uneducated. Among us there are those who from birth are brothers and as they grow become relatives. Childhood friends who studied in the same class also separate because of wealth and poverty. The aim of this lesson is to show that the bond of true friendship does not break.",
+        "hi": "मित्रता एक पवित्र संबंध है। यहाँ गरीबी, धन, विद्वान, अविद्वान आदि किसी भेदभाव का स्थान नहीं। जन्म से भाई और बढ़कर संबंधी बन जीवन चलाने वाले हमारे बीच हैं। एक ही कक्षा में पढ़े बचपन के मित्र भी धन-गरीबी से बिछड़ जाते हैं। सच्ची मित्रता का बंधन नहीं टूटता—यह दिखाना इस पाठ का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "गॆळॆतनवॆंबुदु पवित्रवाद ऒंदु संबंध. इल्लि बडतन, सिरितन, विद्यावंत, अविद्यावंत इत्यादियाद यावुदे बगॆय भेद भाव इरुवुदिल्ल. हुट्टुत्ता अण्ण तम्मंदिरागियू बॆळॆयुत्ता दायादिगळागियू बदुकु सागिसुववरु नम्म नडुवॆ इद्दारॆ. ऒंदे तरगतियल्लि कलित बाल्य स्नेहितरू सिरितन, बडतन निमित्तवागि बेर्पडुत्तारॆ. निजवाद गॆळॆतनद बॆसुगॆ मुरिदु होगुवंथद्दल्ल ऎंबुदन्नु ऎत्ति तोरिसुवुदु प्रस्तुत पाठद आशयवागिदॆ.",
+        "latin": "gèḻètanavèṃbudu pavitravāda òṃdu saṃbaṃdha. illi baḍatana, siritana, vidyāvaṃta, avidyāvaṃta ityādiyāda yāvude bagèya bheda bhāva iruvudilla. huṭṭuttā aṇṇa tammaṃdirāgiyū bèḻèyuttā dāyādigaḻāgiyū baduku sāgisuvavaru namma naḍuvè iddārè. òṃde taragatiyalli kalita bālya snehitarū siritana, baḍatana nimittavāgi berpaḍuttārè. nijavāda gèḻètanada bèsugè muridu hoguvaṃthaddalla èṃbudannu ètti torisuvudu prastuta pāṭhada āśayavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "scene-1-stage",
+      "section": "drama",
+      "text": "ದೃಶ್ಯ-1: ಸುಧಾಮನ ಗುಡಿಸಲು, ರಾತ್ರಿಯ ಸಮಯ. ಸುಧಾಮ ಯೋಚಿಸುತ್ತಾ ಶತಪತಿಸುತ್ತಿದ್ದಾನೆ. ಆತನ ಮುಖದಲ್ಲಿ ನಿರಾಸೆ ತುಂಬಿದೆ.",
+      "translations": {
+        "en": "Scene 1: Sudhama’s hut, night. Sudhama paces thinking. His face is full of despair.",
+        "hi": "दृश्य-1: सुदामा की झोपड़ी, रात। सुदामा सोचता घूम रहा है। मुख पर निराशा।"
+      },
+      "transliterations": {
+        "devanagari": "दृश्य-1: सुधामन गुडिसलु, रात्रिय समय. सुधाम योचिसुत्ता शतपतिसुत्तिद्दानॆ. आतन मुखदल्लि निरासॆ तुंबिदॆ.",
+        "latin": "dṛśya-1: sudhāmana guḍisalu, rātriya samaya. sudhāma yocisuttā śatapatisuttiddānè. ātana mukhadalli nirāsè tuṃbidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "(ಸ್ವಗತ) ಜೀವನದಲ್ಲಿ ಬರೀ ಕಷ್ಟಗಳೇ ಬರುತ್ತಿವೆಯಲ್ಲ! ಸುಖದ ದಿನಗಳು ಯಾವಾಗ ಬರುತ್ತವೊ? ಹಾ! (ನಿಟ್ಟುಸಿರುಬಿಟ್ಟು) ಅದೆಲ್ಲಾ ಆ ದೇವರಿಗೇ ಗೊತ್ತು!",
+      "translations": {
+        "en": "(Aside) In life only hardships keep coming! When will days of happiness come? Ah! (sighs) All that only God knows!",
+        "hi": "(स्वगत) जीवन में सिर्फ कष्ट ही आते हैं! सुख के दिन कब आएँगे? हा! (आह भर) वह सब उसी भगवान को पता!"
+      },
+      "transliterations": {
+        "devanagari": "(स्वगत) जीवनदल्लि बरी कष्टगळे बरुत्तिवॆयल्ल! सुखद दिनगळु यावाग बरुत्तवॊ? हा! (निट्टुसिरुबिट्टु) अदॆल्ला आ देवरिगे गॊत्तु!",
+        "latin": "(svagata) jīvanadalli barī kaṣṭagaḻe baruttivèyalla! sukhada dinagaḻu yāvāga baruttavò? hā! (niṭṭusirubiṭṭu) adèllā ā devarige gòttu!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಬಡತನ ನಮ್ಮ ಬೆನ್ನು ಹತ್ತಿದೆ. ಅದು ನಮ್ಮನ್ನು ಬಿಟ್ಟು ಹೋಗುವುದಿಲ್ಲ.",
+      "translations": {
+        "en": "Poverty has stuck to our backs. It will not leave us.",
+        "hi": "गरीबी हमारी पीठ चिपकी है। हमें छोड़कर नहीं जाएगी।"
+      },
+      "transliterations": {
+        "devanagari": "बडतन नम्म बॆन्नु हत्तिदॆ. अदु नम्मन्नु बिट्टु होगुवुदिल्ल.",
+        "latin": "baḍatana namma bènnu hattidè. adu nammannu biṭṭu hoguvudilla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "‘ಬಡತನ ನಮಗಿರಲಿ, ಮನೆ ತುಂಬ ಮಕ್ಕಳಿರಲಿ’ ಎಂದು ದೇವರಲ್ಲಿ ನೀ ಬೇಡಿಕೊಂಡೆಯೋ ಹೇಗೆ?",
+      "translations": {
+        "en": "Did you beg God ‘let us have poverty, but a house full of children’?",
+        "hi": "‘गरीबी रहे, घर भरा बच्चों से रहे’—क्या तुमने भगवान से यही माँगा?"
+      },
+      "transliterations": {
+        "devanagari": "‘बडतन नमगिरलि, मनॆ तुंब मक्कळिरलि’ ऎंदु देवरल्लि नी बेडिकॊंडॆयो हेगॆ?",
+        "latin": "‘baḍatana namagirali, manè tuṃba makkaḻirali’ èṃdu devaralli nī beḍikòṃḍèyo hegè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಮಕ್ಕಳಿರಲಿ ಅಂದಿದ್ದು ನಿಜ. ಆದ್ರೆ..............",
+      "translations": {
+        "en": "Asking for children is true. But..............",
+        "hi": "बच्चे हों—यह सच। पर.............."
+      },
+      "transliterations": {
+        "devanagari": "मक्कळिरलि अंदिद्दु निज. आद्रॆ..............",
+        "latin": "makkaḻirali aṃdiddu nija. ādrè.............."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "drama",
+      "speaker": "ಮಗಳು",
+      "text": "(ಮಕ್ಕಳ ಪ್ರವೇಶ) ಅಮ್ಮಾ .... ಅಮ್ಮಾ ..... ಹಸಿವಾಗ್ತಿದೆ.",
+      "translations": {
+        "en": "(children enter) Amma .... Amma ..... I’m hungry.",
+        "hi": "(बच्चों का प्रवेश) अम्मा .... अम्मा ..... भूख लगी है।"
+      },
+      "transliterations": {
+        "devanagari": "(मक्कळ प्रवेश) अम्मा .... अम्मा ..... हसिवाग्तिदॆ.",
+        "latin": "(makkaḻa praveśa) ammā .... ammā ..... hasivāgtidè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "drama",
+      "speaker": "ಮಗ",
+      "text": "ನನಗೂ ಹಸಿವು, ಊಟ ಕೊಡಮ್ಮ.",
+      "translations": {
+        "en": "I’m hungry too; give food, mother.",
+        "hi": "मुझे भी भूख है, खाना दो अम्मा।"
+      },
+      "transliterations": {
+        "devanagari": "ननगू हसिवु, ऊट कॊडम्म.",
+        "latin": "nanagū hasivu, ūṭa kòḍamma."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d7",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನೋಡಿದ್ರಾ, ಮಕ್ಕಳೆಲ್ಲಾ ಹಸಿವಿನಿಂದ ಕಂಗಾಲಾಗಿವೆ. ಪಾಂಡಿತ್ಯವುಳ್ಳ ನನ್ನ ಗಂಡ ದುಡಿದು ತರ್ತಾರೇಂತ ತಿಳಿದಿದ್ದೆ.",
+      "translations": {
+        "en": "See, the children are distressed with hunger. I thought my learned husband would earn and bring.",
+        "hi": "देखो, बच्चे भूख से व्याकुल हैं। समझा था पंडित पति कमाकर लाएँगे।"
+      },
+      "transliterations": {
+        "devanagari": "नोडिद्रा, मक्कळॆल्ला हसिविनिंद कंगालागिवॆ. पांडित्यवुळ्ळ नन्न गंड दुडिदु तर्तारेंत तिळिदिद्दॆ.",
+        "latin": "noḍidrā, makkaḻèllā hasiviniṃda kaṃgālāgivè. pāṃḍityavuḻḻa nanna gaṃḍa duḍidu tartāreṃta tiḻididdè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d8",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಯಾವುದಕ್ಕೂ ಕಾಲ ಕೂಡಿ ಬರಬೇಕಲ್ಲ.",
+      "translations": {
+        "en": "For everything the time must come together.",
+        "hi": "हर बात के लिए समय का मेल चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "यावुदक्कू काल कूडि बरबेकल्ल.",
+        "latin": "yāvudakkū kāla kūḍi barabekalla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d9",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಅಂತೂ ಇಂತೂ ನಮಗೆ ಬಡತನವೇ ಗತಿ.",
+      "translations": {
+        "en": "One way or another poverty is our lot.",
+        "hi": "जैसे-तैसे हमें गरीबी ही मिली है।"
+      },
+      "transliterations": {
+        "devanagari": "अंतू इंतू नमगॆ बडतनवे गति.",
+        "latin": "aṃtū iṃtū namagè baḍatanave gati."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d10",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಚಿಂತೆ ಮಾಡಿದರೆ ಏನು ಬಂತು? ಜೀವನದಲ್ಲಿ ಬಂದದ್ದನ್ನು ಅನುಭವಿಸಲೇ ಬೇಕು. ಅದೇ ಮಾನವ ಧರ್ಮ.",
+      "translations": {
+        "en": "What came of worrying? What comes in life must be endured. That is human dharma.",
+        "hi": "चिंता करने से क्या हुआ? जीवन में जो आए सहना ही चाहिए। वही मानव धर्म।"
+      },
+      "transliterations": {
+        "devanagari": "चिंतॆ माडिदरॆ एनु बंतु? जीवनदल्लि बंदद्दन्नु अनुभविसले बेकु. अदे मानव धर्म.",
+        "latin": "ciṃtè māḍidarè enu baṃtu? jīvanadalli baṃdaddannu anubhavisale beku. ade mānava dharma."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d11",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನೀವು ನೀತಿ ಹೇಳುವುದರಲ್ಲಿ ಬಹಳ ಮುಂದು.",
+      "translations": {
+        "en": "You are far ahead in preaching morals.",
+        "hi": "नीति सुनाने में तुम बहुत आगे हो।"
+      },
+      "transliterations": {
+        "devanagari": "नीवु नीति हेळुवुदरल्लि बहळ मुंदु.",
+        "latin": "nīvu nīti heḻuvudaralli bahaḻa muṃdu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d12",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ನೀತಿ, ನಿಯಮ, ವಿಧೇಯತೆ, ಪಾಂಡಿತ್ಯ ಇದ್ದುದರಿಂದಲೇ ಗುರುಕುಲದಲ್ಲಿ ಶ್ರೀಕೃಷ್ಣ ನನ್ನ ಸ್ನೇಹಿತನಾದದ್ದು.",
+      "translations": {
+        "en": "It is because of morals, rules, obedience and learning that Sri Krishna became my friend in the gurukula.",
+        "hi": "नीति, नियम, आज्ञाकारिता, पांडित्य होने से ही गुरुकुल में श्रीकृष्ण मेरे मित्र बने।"
+      },
+      "transliterations": {
+        "devanagari": "नीति, नियम, विधेयतॆ, पांडित्य इद्दुदरिंदले गुरुकुलदल्लि श्रीकृष्ण नन्न स्नेहितनादद्दु.",
+        "latin": "nīti, niyama, vidheyatè, pāṃḍitya iddudariṃdale gurukuladalli śrīkṛṣṇa nanna snehitanādaddu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d13",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಮಾತುಮಾತಿಗೂ “ಶ್ರೀಕೃಷ್ಣ ನನ್ನ ಸ್ನೇಹಿತನಾಗಿದ್ದ” ಅಂತೀರಿ.",
+      "translations": {
+        "en": "At every word you say “Sri Krishna was my friend.”",
+        "hi": "हर बात पर «श्रीकृष्ण मेरे मित्र थे» कहते हो।"
+      },
+      "transliterations": {
+        "devanagari": "मातुमातिगू “श्रीकृष्ण नन्न स्नेहितनागिद्द” अंतीरि.",
+        "latin": "mātumātigū “śrīkṛṣṇa nanna snehitanāgidda” aṃtīri."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d14",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಹೂಂ! ನಿಜಕ್ಕೂ ಆತ ನನ್ನ ಪರಮ ಮಿತ್ರನಾಗಿದ್ದ. ಗುರುಕುಲದಲ್ಲಿ ಒಟ್ಟಿಗೆ ವಿದ್ಯಾಭ್ಯಾಸ ಮಾಡಿದೆವು.",
+      "translations": {
+        "en": "Yes! Truly he was my closest friend. Together we studied in the gurukula.",
+        "hi": "हाँ! सचमुच वह मेरे परम मित्र थे। गुरुकुल में साथ पढ़े।"
+      },
+      "transliterations": {
+        "devanagari": "हूं! निजक्कू आत नन्न परम मित्रनागिद्द. गुरुकुलदल्लि ऒट्टिगॆ विद्याभ्यास माडिदॆवु.",
+        "latin": "hūṃ! nijakkū āta nanna parama mitranāgidda. gurukuladalli òṭṭigè vidyābhyāsa māḍidèvu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d15",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಸತ್ಯ ಹೇಳುವಿರಾ! ಆ ಶ್ರೀಮಂತರೆಲ್ಲಿ, ನೀವೆಲ್ಲಿ? ಯಾಕೆ ಸುಮ್ಮನೆ ಬಡಾಯಿ ಬಿಡ್ತೀರಾ?",
+      "translations": {
+        "en": "Are you telling the truth? Where are those rich people, where are you? Why do you boast for nothing?",
+        "hi": "सच कहते हो? वे धनी कहाँ, तुम कहाँ? व्यर्थ डींग क्यों हाँकते हो?"
+      },
+      "transliterations": {
+        "devanagari": "सत्य हेळुविरा! आ श्रीमंतरॆल्लि, नीवॆल्लि? याकॆ सुम्मनॆ बडायि बिड्तीरा?",
+        "latin": "satya heḻuvirā! ā śrīmaṃtarèlli, nīvèlli? yākè summanè baḍāyi biḍtīrā?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d16",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಯಾಕೆ ಸುಳ್ಳು ಹೇಳಲಿ ನಾನು, ಕೃಷ್ಣ ಸದಾ ನನ್ನ ಜೊತೆಯಲ್ಲಿಯೇ ಇರುತ್ತಿದ್ದ. ಒಟ್ಟಿಗೆ ಕಲಿಯುತ್ತಿದ್ದೆವು. ನನ್ನನ್ನು ಕಂಡರೆ ಅವನಿಗೆ ಅಪಾರ ಪ್ರೀತಿ, ಸ್ನೇಹ, ಗೌರವ.",
+      "translations": {
+        "en": "Why should I lie? Krishna was always with me. We studied together. Seeing me he had immense love, friendship and respect.",
+        "hi": "झूठ क्यों बोलूँ? कृष्ण सदा मेरे साथ रहते। साथ पढ़ते। मुझे देखकर अपार प्रेम, स्नेह, गौरव।"
+      },
+      "transliterations": {
+        "devanagari": "याकॆ सुळ्ळु हेळलि नानु, कृष्ण सदा नन्न जॊतॆयल्लिये इरुत्तिद्द. ऒट्टिगॆ कलियुत्तिद्दॆवु. नन्नन्नु कंडरॆ अवनिगॆ अपार प्रीति, स्नेह, गौरव.",
+        "latin": "yākè suḻḻu heḻali nānu, kṛṣṇa sadā nanna jòtèyalliye iruttidda. òṭṭigè kaliyuttiddèvu. nannannu kaṃḍarè avanigè apāra prīti, sneha, gaurava."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d17",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಅಂತಹ ಶ್ರೀಮಂತ ಸ್ನೇಹಿತನಿದ್ದರೂ ಇಲ್ಲಿಯವರೆಗೆ ನೀವು ಏಕೆ ಅವರ ಹತ್ತಿರ ಸಹಾಯ ಕೇಳಲಿಲ್ಲ?",
+      "translations": {
+        "en": "Having such a rich friend, why until now did you not ask him for help?",
+        "hi": "ऐसे धनी मित्र होते हुए अब तक उनके पास मदद क्यों नहीं माँगी?"
+      },
+      "transliterations": {
+        "devanagari": "अंतह श्रीमंत स्नेहितनिद्दरू इल्लियवरॆगॆ नीवु एकॆ अवर हत्तिर सहाय केळलिल्ल?",
+        "latin": "aṃtaha śrīmaṃta snehitaniddarū illiyavarègè nīvu ekè avara hattira sahāya keḻalilla?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d18",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "(ಕ್ಷಣ ಹೊತ್ತು ಮೌನ) ಬಡವನಾದವ ದೊಡ್ಡವರ ಮನೆಗೆ ಸಹಾಯ ಕೇಳಲು ಹೋಗಬಾರದು.",
+      "translations": {
+        "en": "(silent a moment) A poor man should not go to the great for help.",
+        "hi": "(क्षण मौन) गरीब को बड़े के घर मदद माँगने नहीं जाना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "(क्षण हॊत्तु मौन) बडवनादव दॊड्डवर मनॆगॆ सहाय केळलु होगबारदु.",
+        "latin": "(kṣaṇa hòttu mauna) baḍavanādava dòḍḍavara manègè sahāya keḻalu hogabāradu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d19",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಸ್ನೇಹಿತರೆದುರು ಎಂಥ ಸ್ವಾಭಿಮಾನ! ದಯವಿಟ್ಟು ಹೋಗಿ ಅವರಲ್ಲಿ ಸಹಾಯ ಕೇಳಿ.",
+      "translations": {
+        "en": "What self-respect before a friend! Please go and ask him for help.",
+        "hi": "मित्र के सामने कैसा अभिमान! कृपया जाकर उनसे मदद माँगो।"
+      },
+      "transliterations": {
+        "devanagari": "स्नेहितरॆदुरु ऎंथ स्वाभिमान! दयविट्टु होगि अवरल्लि सहाय केळि.",
+        "latin": "snehitarèduru èṃtha svābhimāna! dayaviṭṭu hogi avaralli sahāya keḻi."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d20",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಹೇಗೆ ಕೇಳುವುದು?",
+      "translations": {
+        "en": "How to ask?",
+        "hi": "कैसे माँगूँ?"
+      },
+      "transliterations": {
+        "devanagari": "हेगॆ केळुवुदु?",
+        "latin": "hegè keḻuvudu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d21",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಆತ್ಮೀಯ ಗೆಳೆಯ ಅನ್ನುತ್ತೀರಿ, ಅಂದ ಮೇಲೆ ಅವರು ಸಹಾಯ ಮಾಡೇ ಮಾಡುತ್ತಾರೆ.",
+      "translations": {
+        "en": "You call him a dear friend; then he will surely help.",
+        "hi": "आत्मीय मित्र कहते हो, तो मदद अवश्य करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "आत्मीय गॆळॆय अन्नुत्तीरि, अंद मेलॆ अवरु सहाय माडे माडुत्तारॆ.",
+        "latin": "ātmīya gèḻèya annuttīri, aṃda melè avaru sahāya māḍe māḍuttārè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d22",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಇಲ್ಲ ಅನ್ನಲಾರ, ಆದರೂ ಕೇಳುವುದಕ್ಕೆ ಸಂಕೋಚ.",
+      "translations": {
+        "en": "I cannot say no, yet I hesitate to ask.",
+        "hi": "नहीं नहीं कह सकता, पर माँगने में संकोच।"
+      },
+      "transliterations": {
+        "devanagari": "इल्ल अन्नलार, आदरू केळुवुदक्कॆ संकोच.",
+        "latin": "illa annalāra, ādarū keḻuvudakkè saṃkoca."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d23",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಸಂಕೋಚ ಬೇಡಾರೀ, ಹಸಿದಿರುವ ಮಕ್ಕಳಿಗೋಸ್ಕರವಾದರೂ ಹೋಗಿ ಕೇಳಿ.",
+      "translations": {
+        "en": "Don’t hesitate; at least for the hungry children go and ask.",
+        "hi": "संकोच मत करो; भूखे बच्चों के लिए ही सही, जाकर माँगो।"
+      },
+      "transliterations": {
+        "devanagari": "संकोच बेडारी, हसिदिरुव मक्कळिगोस्करवादरू होगि केळि.",
+        "latin": "saṃkoca beḍārī, hasidiruva makkaḻigoskaravādarū hogi keḻi."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d24",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಆಗಲಿ, ಹೋಗುತ್ತೇನೆ. ಆದರೆ ಗೆಳೆಯನನ್ನು ನೋಡಲು ಬರಿಗೈಯಲ್ಲಿ ಹೋಗಲಾ?",
+      "translations": {
+        "en": "All right, I will go. But shall I go empty-handed to see a friend?",
+        "hi": "अच्छा, जाता हूँ। पर मित्र से मिलने खाली हाथ जाऊँ?"
+      },
+      "transliterations": {
+        "devanagari": "आगलि, होगुत्तेनॆ. आदरॆ गॆळॆयनन्नु नोडलु बरिगैयल्लि होगला?",
+        "latin": "āgali, hoguttenè. ādarè gèḻèyanannu noḍalu barigaiyalli hogalā?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d25",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನಿನ್ನೆ ತಂದ ಅವಲಕ್ಕಿಯಲ್ಲಿ ಸ್ವಲ್ಪವೇ ಉಳಿದಿದೆ. ಮಕ್ಕಳ ಉಪಾಹಾರಕ್ಕೆ ಏನೇನೂ ಸಾಲದು. ಅದನ್ನೇ ಕಟ್ಟಿಕೊಡಲೆ?",
+      "translations": {
+        "en": "Of the flattened rice I brought yesterday only a little remains. It is not enough for the children’s breakfast. Shall I pack that?",
+        "hi": "कल लाई अवल्ककी में थोड़ी ही बची। बच्चों के नाश्ते को भी नहीं। वही बाँध दूँ?"
+      },
+      "transliterations": {
+        "devanagari": "निन्नॆ तंद अवलक्कियल्लि स्वल्पवे उळिदिदॆ. मक्कळ उपाहारक्कॆ एनेनू सालदु. अदन्ने कट्टिकॊडलॆ?",
+        "latin": "ninnè taṃda avalakkiyalli svalpave uḻididè. makkaḻa upāhārakkè enenū sāladu. adanne kaṭṭikòḍalè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d26",
+      "section": "drama",
+      "speaker": "ಮಗ",
+      "text": "ಹಸಿವು, ಅದನ್ನಾದರೂ ನನಗೆ ಕೊಡಮ್ಮ.",
+      "translations": {
+        "en": "Hunger—give me even that, mother.",
+        "hi": "भूख—वही मुझे दो अम्मा।"
+      },
+      "transliterations": {
+        "devanagari": "हसिवु, अदन्नादरू ननगॆ कॊडम्म.",
+        "latin": "hasivu, adannādarū nanagè kòḍamma."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d27",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ತುಸು ತಡೆದುಕೋ ಕಂದಾ, ದೇವರ ದಯೆಯಿದ್ದರೆ ಈ ಅವಲಕ್ಕಿಯೇ ಬಂಗಾರವಾದೀತು. (ಗಂಡನಿಗೆ) ಕಟ್ಟಿಕೊಡಲೆ?",
+      "translations": {
+        "en": "Wait a little, child; if God wills this flattened rice itself may become gold. (to husband) Shall I pack it?",
+        "hi": "थोड़ा ठहरो बेटा, भगवान की दया हो तो यही अवल्ककी सोना बन जाए। (पति से) बाँध दूँ?"
+      },
+      "transliterations": {
+        "devanagari": "तुसु तडॆदुको कंदा, देवर दयॆयिद्दरॆ ई अवलक्किये बंगारवादीतु. (गंडनिगॆ) कट्टिकॊडलॆ?",
+        "latin": "tusu taḍèduko kaṃdā, devara dayèyiddarè ī avalakkiye baṃgāravādītu. (gaṃḍanigè) kaṭṭikòḍalè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d28",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಸರಿ, ಹಾಗೆ ಮಾಡು.",
+      "translations": {
+        "en": "All right, do so.",
+        "hi": "ठीक, ऐसा करो।"
+      },
+      "transliterations": {
+        "devanagari": "सरि, हागॆ माडु.",
+        "latin": "sari, hāgè māḍu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "scene-2-stage",
+      "section": "drama",
+      "text": "ದೃಶ್ಯ-2: ಕೃಷ್ಣನ ಅರಮನೆ- ಕಾವಲುಗಾರ ಸುಧಾಮನನ್ನು ಅರಮನೆಯೊಳಕ್ಕೆ ಬಿಡದೆ ಬಾಗಿಲಲ್ಲೇ ನಿಲ್ಲಿಸುವನು. ಕೃಷ್ಣ ಆಕಸ್ಮಿಕವಾಗಿ ಹೊರಗೆ ಬರುವನು. ಸುಧಾಮನನ್ನು ನೋಡುವನು.",
+      "translations": {
+        "en": "Scene 2: Krishna’s palace—the guard stops Sudhama at the door. Krishna comes out by chance and sees Sudhama.",
+        "hi": "दृश्य-2: कृष्ण का महल—पहरेदार सुदामा को अंदर नहीं जाने देते। कृष्ण अचानक बाहर आते हैं, सुदामा को देखते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "दृश्य-2: कृष्णन अरमनॆ- कावलुगार सुधामनन्नु अरमनॆयॊळक्कॆ बिडदॆ बागिलल्ले निल्लिसुवनु. कृष्ण आकस्मिकवागि हॊरगॆ बरुवनु. सुधामनन्नु नोडुवनु.",
+        "latin": "dṛśya-2: kṛṣṇana aramanè- kāvalugāra sudhāmanannu aramanèyòḻakkè biḍadè bāgilalle nillisuvanu. kṛṣṇa ākasmikavāgi hòragè baruvanu. sudhāmanannu noḍuvanu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d29",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "(ಆಶ್ಚರ್ಯದಿಂದ) ಓಹೋ ಸುಧಾಮ! ಯಾವಾಗ ಬಂದೆ? ಬಾ ಒಳಗೆ (ಸುಧಾಮನ ಕೈ ಹಿಡಿಯುವನು. ಕಾವಲುಗಾರ ಆಶ್ಚರ್ಯದಿಂದ ದೂರ ಸರಿಯುವನು.)",
+      "translations": {
+        "en": "(in surprise) Oh Sudhama! When did you come? Come inside (takes Sudhama’s hand. The guard steps aside in surprise.)",
+        "hi": "(आश्चर्य से) ओहो सुदामा! कब आए? अंदर आओ (हाथ पकड़ते। पहरेदार आश्चर्य से हटते।)"
+      },
+      "transliterations": {
+        "devanagari": "(आश्चर्यदिंद) ओहो सुधाम! यावाग बंदॆ? बा ऒळगॆ (सुधामन कै हिडियुवनु. कावलुगार आश्चर्यदिंद दूर सरियुवनु.)",
+        "latin": "(āścaryadiṃda) oho sudhāma! yāvāga baṃdè? bā òḻagè (sudhāmana kai hiḍiyuvanu. kāvalugāra āścaryadiṃda dūra sariyuvanu.)"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d30",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಶ್ರೀಕೃಷ್ಣ ಮಹಾರಾಜರು! (ಅತೀವ ಸಂತೋಷದಿಂದ ಆನಂದಬಾಷ್ಪ ಸುರಿಯುತ್ತದೆ. ಮಾತೇ ಹೊರಡದಂತಾಗಿದೆ.)",
+      "translations": {
+        "en": "Sri Krishna Maharaja! (tears of joy flow with intense happiness. Words will not come.)",
+        "hi": "श्रीकृष्ण महाराज! (अत्यधिक आनंद से आँसू। बात नहीं निकलती।)"
+      },
+      "transliterations": {
+        "devanagari": "श्रीकृष्ण महाराजरु! (अतीव संतोषदिंद आनंदबाष्प सुरियुत्तदॆ. माते हॊरडदंतागिदॆ.)",
+        "latin": "śrīkṛṣṇa mahārājaru! (atīva saṃtoṣadiṃda ānaṃdabāṣpa suriyuttadè. māte hòraḍadaṃtāgidè.)"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d31",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಏಕೆ ಸುಧಾಮ ಕಣ್ಣಲ್ಲಿ ನೀರು?",
+      "translations": {
+        "en": "Why tears in your eyes, Sudhama?",
+        "hi": "सुदामा आँखों में पानी क्यों?"
+      },
+      "transliterations": {
+        "devanagari": "एकॆ सुधाम कण्णल्लि नीरु?",
+        "latin": "ekè sudhāma kaṇṇalli nīru?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d32",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಬಹಳ ದಿನಗಳ ಅನಂತರ ನಿಮ್ಮನ್ನು ನೋಡುತ್ತಿರುವೆನಲ್ಲ! ಅದಕ್ಕಾಗಿ ಆನಂದದ ಕಣ್ಣೀರು.",
+      "translations": {
+        "en": "After so many days I am seeing you! These are tears of joy for that.",
+        "hi": "बहुत दिनों बाद आपको देख रहा हूँ! इसलिए आनंद के आँसू।"
+      },
+      "transliterations": {
+        "devanagari": "बहळ दिनगळ अनंतर निम्मन्नु नोडुत्तिरुवॆनल्ल! अदक्कागि आनंदद कण्णीरु.",
+        "latin": "bahaḻa dinagaḻa anaṃtara nimmannu noḍuttiruvènalla! adakkāgi ānaṃdada kaṇṇīru."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d33",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ದೂರದಿಂದ ದಣಿದು ಬಂದಿದ್ದೀಯ. ಸ್ನಾನ ಮುಗಿಸಿ ಊಟ ಮಾಡಿ ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೋ. ಅಷ್ಟುಬೇಗ ನಿನ್ನನ್ನು ಹೋಗಗೊಡುವುದಿಲ್ಲ.",
+      "translations": {
+        "en": "You have come tired from afar. Bathe, eat and rest. I will not let you go so soon.",
+        "hi": "दूर से थककर आए हो। स्नान-भोजन कर आराम लो। इतनी जल्दी नहीं जाने दूँगा।"
+      },
+      "transliterations": {
+        "devanagari": "दूरदिंद दणिदु बंदिद्दीय. स्नान मुगिसि ऊट माडि विश्रांति तॆगॆदुको. अष्टुबेग निन्नन्नु होगगॊडुवुदिल्ल.",
+        "latin": "dūradiṃda daṇidu baṃdiddīya. snāna mugisi ūṭa māḍi viśrāṃti tègèduko. aṣṭubega ninnannu hogagòḍuvudilla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d34",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಅಯ್ಯೋ, ಅಲ್ಲಿ ಮನೆಯಲ್ಲಿ ಯಾರೂ ಇಲ್ಲ. ಮಕ್ಕಳಿಗೆ........",
+      "translations": {
+        "en": "Alas, there is no one at home. The children........",
+        "hi": "अय्यो, घर में कोई नहीं। बच्चों को........"
+      },
+      "transliterations": {
+        "devanagari": "अय्यो, अल्लि मनॆयल्लि यारू इल्ल. मक्कळिगॆ........",
+        "latin": "ayyo, alli manèyalli yārū illa. makkaḻigè........"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d35",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಸುಮ್ಮನಿರು, ಬಂದ ತಕ್ಷಣ ಹೋಗಬೇಕಿದ್ದರೆ ಯಾಕೆ ಬಂದೆ? ಯಾರಲ್ಲಿ? ಸುಧಾಮನಿಗೆ ವಿಶ್ರಾಂತಿಯ ವ್ಯವಸ್ಥೆ ಮಾಡಿ. (ಸುಧಾಮನಿಗೆ) ನನಗೂ ತುರ್ತು ಕೆಲಸವಿದೆ. ಅದು ಮುಗಿದ ತಕ್ಷಣ ಬಂದು ಬಿಡುವೆ.",
+      "translations": {
+        "en": "Be quiet—if you had to go at once why did you come? To whom? Arrange rest for Sudhama. (to Sudhama) I too have urgent work. As soon as it is done I will come.",
+        "hi": "चुप रहो—आते ही जाना था तो क्यों आए? किसके पास? सुदामा के लिए आराम की व्यवस्था करो। (सुदामा से) मेरा भी ज़रूरी काम है। खत्म होते ही आऊँगा।"
+      },
+      "transliterations": {
+        "devanagari": "सुम्मनिरु, बंद तक्षण होगबेकिद्दरॆ याकॆ बंदॆ? यारल्लि? सुधामनिगॆ विश्रांतिय व्यवस्थॆ माडि. (सुधामनिगॆ) ननगू तुर्तु कॆलसविदॆ. अदु मुगिद तक्षण बंदु बिडुवॆ.",
+        "latin": "summaniru, baṃda takṣaṇa hogabekiddarè yākè baṃdè? yāralli? sudhāmanigè viśrāṃtiya vyavasthè māḍi. (sudhāmanigè) nanagū turtu kèlasavidè. adu mugida takṣaṇa baṃdu biḍuvè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "scene-3-stage",
+      "section": "drama",
+      "text": "ದೃಶ್ಯ-3: ಕೃಷ್ಣನ ಅರಮನೆ- ಸುಧಾಮನಿರುವ ಕೋಣೆ.",
+      "translations": {
+        "en": "Scene 3: Krishna’s palace—Sudhama’s room.",
+        "hi": "दृश्य-3: कृष्ण का महल—सुदामा का कमरा।"
+      },
+      "transliterations": {
+        "devanagari": "दृश्य-3: कृष्णन अरमनॆ- सुधामनिरुव कोणॆ.",
+        "latin": "dṛśya-3: kṛṣṇana aramanè- sudhāmaniruva koṇè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d36",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "(ಸ್ವಗತ) ಶ್ರೀಕೃಷ್ಣನಂತಹ ಮಿತ್ರನನ್ನು ಪಡೆದ ನಾನೇ ಧನ್ಯನು, ನನ್ನನ್ನು ಮರೆತಿಲ್ಲ. ನಾನು ತಂದ ಅವಲಕ್ಕಿಯನ್ನು ತಾನೂ ತಿಂದು ಹೆಂಡತಿಗೂ ಪ್ರೀತಿಯಿಂದ ತಿನ್ನಿಸಿದ. ಇಷ್ಟೊಂದು ಪ್ರೀತಿ ವಿಶ್ವಾಸವಿರುವ ಕೃಷ್ಣನ ಹತ್ತಿರ ನನ್ನ ಬಡತನ ಹೇಳಿ ಆತನ ಮನಸ್ಸಿಗೆ ಬೇಸರವುಂಟುಮಾಡಬಾರದು. ನನ್ನ ಬಡತನ ನನಗಿರಲಿ.",
+      "translations": {
+        "en": "(aside) Blessed am I who have a friend like Sri Krishna; he has not forgotten me. He ate the flattened rice I brought and lovingly fed his wife too. With such love and trust I should not tell him my poverty and trouble his mind. Let my poverty stay with me.",
+        "hi": "(स्वगत) श्रीकृष्ण जैसे मित्र पाकर मैं धन्य; भूला नहीं। लाई अवल्ककी खुद खाई पत्नी को भी प्रेम से खिलाई। इतना प्रेम-विश्वास हो तो अपनी गरीबी कह मन दुखाना नहीं चाहिए। गरीबी मेरे पास रहे।"
+      },
+      "transliterations": {
+        "devanagari": "(स्वगत) श्रीकृष्णनंतह मित्रनन्नु पडॆद नाने धन्यनु, नन्नन्नु मरॆतिल्ल. नानु तंद अवलक्कियन्नु तानू तिंदु हॆंडतिगू प्रीतियिंद तिन्निसिद. इष्टॊंदु प्रीति विश्वासविरुव कृष्णन हत्तिर नन्न बडतन हेळि आतन मनस्सिगॆ बेसरवुंटुमाडबारदु. नन्न बडतन ननगिरलि.",
+        "latin": "(svagata) śrīkṛṣṇanaṃtaha mitranannu paḍèda nāne dhanyanu, nannannu marètilla. nānu taṃda avalakkiyannu tānū tiṃdu hèṃḍatigū prītiyiṃda tinnisida. iṣṭòṃdu prīti viśvāsaviruva kṛṣṇana hattira nanna baḍatana heḻi ātana manassigè besaravuṃṭumāḍabāradu. nanna baḍatana nanagirali."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d37",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "(ಹಿಂದಿನಿಂದ ಬರುತ್ತ) ಏನು ಯೋಚಿಸುತ್ತಿರುವೆ ಸುಧಾಮ?",
+      "translations": {
+        "en": "(coming from behind) What are you thinking, Sudhama?",
+        "hi": "(पीछे से आते) क्या सोच रहे हो सुदामा?"
+      },
+      "transliterations": {
+        "devanagari": "(हिंदिनिंद बरुत्त) एनु योचिसुत्तिरुवॆ सुधाम?",
+        "latin": "(hiṃdiniṃda barutta) enu yocisuttiruvè sudhāma?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d38",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಏನಿಲ್ಲ ಕೃಷ್ಣ ..... ಏನಿಲ್ಲ, ಸುಮ್ಮನೆ.",
+      "translations": {
+        "en": "Nothing, Krishna ..... nothing, just so.",
+        "hi": "कुछ नहीं कृष्ण ..... कुछ नहीं, यूँ ही।"
+      },
+      "transliterations": {
+        "devanagari": "एनिल्ल कृष्ण ..... एनिल्ल, सुम्मनॆ.",
+        "latin": "enilla kṛṣṇa ..... enilla, summanè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d39",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ನೀ ಬಂದು ನನ್ನ ಮನಸ್ಸಿಗೆ ತುಂಬಾ ಸಂತೋಷವನ್ನುಂಟುಮಾಡಿದೆ. ನನಗೆ ಗುರುಕುಲದ ಜೀವನ ನೆನಪಾಗುತ್ತಿದೆ.",
+      "translations": {
+        "en": "Your coming has given my mind great joy. Gurukula life comes to my mind.",
+        "hi": "तुम्हारे आने से मन को बहुत आनंद। गुरुकुल का जीवन याद आता है।"
+      },
+      "transliterations": {
+        "devanagari": "नी बंदु नन्न मनस्सिगॆ तुंबा संतोषवन्नुंटुमाडिदॆ. ननगॆ गुरुकुलद जीवन नॆनपागुत्तिदॆ.",
+        "latin": "nī baṃdu nanna manassigè tuṃbā saṃtoṣavannuṃṭumāḍidè. nanagè gurukulada jīvana nènapāguttidè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d40",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಒಟ್ಟಿಗೆ ಊಟ ಮಾಡುತ್ತಿದ್ದೆವು, ಕೂಡಿ ಕಲಿಯುತ್ತಿದ್ದೆವು, ಕಟ್ಟಿಗೆ ತರಲು ಹೋಗುತ್ತಿದ್ದೆವು.",
+      "translations": {
+        "en": "We ate together, studied together, went to fetch firewood.",
+        "hi": "साथ खाते, साथ पढ़ते, लकड़ी लाने जाते।"
+      },
+      "transliterations": {
+        "devanagari": "ऒट्टिगॆ ऊट माडुत्तिद्दॆवु, कूडि कलियुत्तिद्दॆवु, कट्टिगॆ तरलु होगुत्तिद्दॆवु.",
+        "latin": "òṭṭigè ūṭa māḍuttiddèvu, kūḍi kaliyuttiddèvu, kaṭṭigè taralu hoguttiddèvu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d41",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಗುರುಮಾತೆ ಕೊಟ್ಟ ಹುರಿದ ಕಡಲೆ ತಿಂದಿದ್ದು! ನಿನ್ನ ಪಾಲಿನ ಕಡಲೆ ನಾ ಕಸಿದುಕೊಂಡಿದ್ದು!",
+      "translations": {
+        "en": "Eating the roasted gram the guru’s wife gave! I snatching your share of gram!",
+        "hi": "गुरुमाता की भुनी चना खाना! तुम्हारा हिस्सा मैं छीन लेना!"
+      },
+      "transliterations": {
+        "devanagari": "गुरुमातॆ कॊट्ट हुरिद कडलॆ तिंदिद्दु! निन्न पालिन कडलॆ ना कसिदुकॊंडिद्दु!",
+        "latin": "gurumātè kòṭṭa hurida kaḍalè tiṃdiddu! ninna pālina kaḍalè nā kasidukòṃḍiddu!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d42",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "(ತಡವರಿಸುತ್ತಾ) ಹಸಿವು......ಬಡತನ.....(ಏನೋ ನೆನಪು ಮಾಡಿಕೊಳ್ಳಲು ಯತ್ನಿಸಿ ಮೌನಿಯಾಗುವನು.)",
+      "translations": {
+        "en": "(hesitating) Hunger......poverty.....(tries to remember something and becomes silent.)",
+        "hi": "(हिचकिचाते) भूख......गरीबी.....(याद करने का यत्न कर मौन।)"
+      },
+      "transliterations": {
+        "devanagari": "(तडवरिसुत्ता) हसिवु......बडतन.....(एनो नॆनपु माडिकॊळ्ळलु यत्निसि मौनियागुवनु.)",
+        "latin": "(taḍavarisuttā) hasivu......baḍatana.....(eno nènapu māḍikòḻḻalu yatnisi mauniyāguvanu.)"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d43",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಪ್ರಜೆಗಳ ಹಸಿವು ಹಿಂಗಿಸಲು ಅವರ ಕಷ್ಟ ಕಾರ್ಪಣ್ಯ ನೀಗಿಸಲು ರಾಜನಾದವನು ಶ್ರಮಿಸಬೇಕು. ಆಗ ಮಾತ್ರ ಅವನು ನಿಜವಾದ ರಾಜನಾಗುವನು. ನಿನ್ನನ್ನು ಪೀಡಿಸಿದ್ದು ತಪ್ಪೆಂದು ಕ್ರಮೇಣ ನನ್ನ ಅರಿವಿಗೆ ಬಂತು ನೋಡು.",
+      "translations": {
+        "en": "A king must strive to end the people’s hunger and remove their hardship and meanness. Only then is he a true king. That I troubled you was wrong—this gradually came to my awareness, see.",
+        "hi": "प्रजा की भूख मिटाने, कष्ट-कार्पण्य हटाने राजा को श्रम करना चाहिए। तभी सच्चा राजा। तुम्हें पीड़ित करना गलत था—धीरे-धीरे यह बोध हुआ देखो।"
+      },
+      "transliterations": {
+        "devanagari": "प्रजॆगळ हसिवु हिंगिसलु अवर कष्ट कार्पण्य नीगिसलु राजनादवनु श्रमिसबेकु. आग मात्र अवनु निजवाद राजनागुवनु. निन्नन्नु पीडिसिद्दु तप्पॆंदु क्रमेण नन्न अरिविगॆ बंतु नोडु.",
+        "latin": "prajègaḻa hasivu hiṃgisalu avara kaṣṭa kārpaṇya nīgisalu rājanādavanu śramisabeku. āga mātra avanu nijavāda rājanāguvanu. ninnannu pīḍisiddu tappèṃdu krameṇa nanna arivigè baṃtu noḍu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d44",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಕೃಷ್ಣ, ಇಷ್ಟು ದಿನ ಇಲ್ಲಿದ್ದು ಅದನ್ನೆಲ್ಲ ಕಣ್ಣಾರೆ ಕಂಡಿರುವೆ.",
+      "translations": {
+        "en": "Krishna, staying here these days I have seen all that with my own eyes.",
+        "hi": "कृष्ण, इतने दिन यहाँ रह सब आँखों से देखा।"
+      },
+      "transliterations": {
+        "devanagari": "कृष्ण, इष्टु दिन इल्लिद्दु अदन्नॆल्ल कण्णारॆ कंडिरुवॆ.",
+        "latin": "kṛṣṇa, iṣṭu dina illiddu adannèlla kaṇṇārè kaṃḍiruvè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d45",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಸುಧಾಮ, ನಿನಗೇನು ಬೇಕು?",
+      "translations": {
+        "en": "Sudhama, what do you need?",
+        "hi": "सुदामा, तुम्हें क्या चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "सुधाम, निनगेनु बेकु?",
+        "latin": "sudhāma, ninagenu beku?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d46",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ನನಗೇನೂ ಬೇಡ. ನಿನ್ನ ಸತ್ಕಾರ ಜೀವನದಲ್ಲಿ ಮರೆಯುವಂತಿಲ್ಲ. ನಿನ್ನ ಸ್ನೇಹವೊಂದೆ ಸಾಕು. ಇನ್ನು ನನ್ನೂರಿಗೆ ಹೊರಡುವೆ.",
+      "translations": {
+        "en": "I need nothing. Your hospitality is unforgettable in life. Your friendship alone is enough. Now I will leave for my village.",
+        "hi": "मुझे कुछ नहीं। तुम्हारा सत्कार जीवन में अविस्मरणीय। तुम्हारी मित्रता काफी। अब गाँव जाता हूँ।"
+      },
+      "transliterations": {
+        "devanagari": "ननगेनू बेड. निन्न सत्कार जीवनदल्लि मरॆयुवंतिल्ल. निन्न स्नेहवॊंदॆ साकु. इन्नु नन्नूरिगॆ हॊरडुवॆ.",
+        "latin": "nanagenū beḍa. ninna satkāra jīvanadalli marèyuvaṃtilla. ninna snehavòṃdè sāku. innu nannūrigè hòraḍuvè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d47",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಇಷ್ಟು ಬೇಗ!",
+      "translations": {
+        "en": "So soon!",
+        "hi": "इतनी जल्दी!"
+      },
+      "transliterations": {
+        "devanagari": "इष्टु बेग!",
+        "latin": "iṣṭu bega!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d48",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ನಾನು ಇಷ್ಟು ದೀರ್ಘಕಾಲ ಮನೆಬಿಟ್ಟು ಇದ್ದವನೆ ಅಲ್ಲ. ಅಲ್ಲಿ ಹೆಂಡತಿ ಮಕ್ಕಳು ನನ್ನ ದಾರಿ ಕಾದು ಕಂಗಾಲಾಗಿರಬಹುದು.",
+      "translations": {
+        "en": "I am not one who stays away from home so long. There wife and children may be waiting anxiously for me.",
+        "hi": "मैं इतने लंबे काल घर छोड़ने वाला नहीं। वहाँ पत्नी-बच्चे राह देख व्याकुल हो सकते।"
+      },
+      "transliterations": {
+        "devanagari": "नानु इष्टु दीर्घकाल मनॆबिट्टु इद्दवनॆ अल्ल. अल्लि हॆंडति मक्कळु नन्न दारि कादु कंगालागिरबहुदु.",
+        "latin": "nānu iṣṭu dīrghakāla manèbiṭṭu iddavanè alla. alli hèṃḍati makkaḻu nanna dāri kādu kaṃgālāgirabahudu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d49",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಇಲ್ಲಿಗೆ ಬಂದ ವಿಷಯ ಅವರಿಗೆ ಗೊತ್ತಿದೆಯಲ್ಲ.",
+      "translations": {
+        "en": "They know why you came here.",
+        "hi": "यहाँ आने की बात उन्हें पता है।"
+      },
+      "transliterations": {
+        "devanagari": "इल्लिगॆ बंद विषय अवरिगॆ गॊत्तिदॆयल्ल.",
+        "latin": "illigè baṃda viṣaya avarigè gòttidèyalla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d50",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಗೊತ್ತಿದೆ. ಆದರೆ ನನಗೆ ಮಕ್ಕಳದೇ ಚಿಂತೆ. ಹೊರಡಲು ಅಪ್ಪಣೆ ಕೊಡು ಕೃಷ್ಣಾ.",
+      "translations": {
+        "en": "They know. But my worry is only the children. Give leave to go, Krishna.",
+        "hi": "पता है। पर चिंता बच्चों की। जाने की आज्ञा दो कृष्ण।"
+      },
+      "transliterations": {
+        "devanagari": "गॊत्तिदॆ. आदरॆ ननगॆ मक्कळदे चिंतॆ. हॊरडलु अप्पणॆ कॊडु कृष्णा.",
+        "latin": "gòttidè. ādarè nanagè makkaḻade ciṃtè. hòraḍalu appaṇè kòḍu kṛṣṇā."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d51",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ನಿನ್ನ ಇಷ್ಟದಂತೆಯೇ ಆಗಲಿ, ಹೋಗಿ ಬಾ. ಶುಭವಾಗಲಿ ಗೆಳೆಯ. ಅಂದ ಹಾಗೆ ನಿನ್ನ ಮನೆಗೆ ನನ್ನನ್ನು ಕರೆಯಲೇ ಇಲ್ಲ! ಪರವಾಗಿಲ್ಲ. ನೀನು ಕರೆಯದಿದ್ದರೂ ನಾನೇ ಬರುವೆ.",
+      "translations": {
+        "en": "As you wish; go and come. May it be well, friend. By the way you never invited me to your house! Never mind. Even if you don’t invite I myself will come.",
+        "hi": "तुम्हारी इच्छा अनुसार; जाओ आओ। शुभ हो मित्र। वैसे तुमने घर नहीं बुलाया! कोई बात नहीं। न बुलाओ तो भी मैं स्वयं आऊँगा।"
+      },
+      "transliterations": {
+        "devanagari": "निन्न इष्टदंतॆये आगलि, होगि बा. शुभवागलि गॆळॆय. अंद हागॆ निन्न मनॆगॆ नन्नन्नु करॆयले इल्ल! परवागिल्ल. नीनु करॆयदिद्दरू नाने बरुवॆ.",
+        "latin": "ninna iṣṭadaṃtèye āgali, hogi bā. śubhavāgali gèḻèya. aṃda hāgè ninna manègè nannannu karèyale illa! paravāgilla. nīnu karèyadiddarū nāne baruvè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d52",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಅಯ್ಯೋ! ನನ್ನ ಮನೆಗೆ! ಬೇಡ ಕೃಷ್ಣಾ!",
+      "translations": {
+        "en": "Alas! To my house! Don’t, Krishna!",
+        "hi": "अय्यो! मेरे घर! मत कृष्ण!"
+      },
+      "transliterations": {
+        "devanagari": "अय्यो! नन्न मनॆगॆ! बेड कृष्णा!",
+        "latin": "ayyo! nanna manègè! beḍa kṛṣṇā!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d53",
+      "section": "drama",
+      "speaker": "ಕೃಷ್ಣ",
+      "text": "ಈಗ ಚಿಂತೆ ಬಿಟ್ಟು ಹೊರಡು. ಒಳ್ಳೆಯದಾಗಲಿ.",
+      "translations": {
+        "en": "Now leave worry and go. May good happen.",
+        "hi": "अब चिंता छोड़कर जाओ। भला हो।"
+      },
+      "transliterations": {
+        "devanagari": "ईग चिंतॆ बिट्टु हॊरडु. ऒळ्ळॆयदागलि.",
+        "latin": "īga ciṃtè biṭṭu hòraḍu. òḻḻèyadāgali."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "scene-4-stage",
+      "section": "drama",
+      "text": "ದೃಶ್ಯ-4: ಸುಧಾಮನ ಸುಂದರವಾದ ಮನೆ. ಹೆಂಡತಿ, ಮಕ್ಕಳು ಹೊಸಬಟ್ಟೆ ಧರಿಸಿ ಮನೆಯಲ್ಲಿ ಸಂತೋಷದಿಂದ ಇರುವ ಸನ್ನಿವೇಶ.",
+      "translations": {
+        "en": "Scene 4: Sudhama’s beautiful house. Wife and children in new clothes, happy at home.",
+        "hi": "दृश्य-4: सुदामा का सुंदर घर। पत्नी-बच्चे नए कपड़ों में प्रसन्न।"
+      },
+      "transliterations": {
+        "devanagari": "दृश्य-4: सुधामन सुंदरवाद मनॆ. हॆंडति, मक्कळु हॊसबट्टॆ धरिसि मनॆयल्लि संतोषदिंद इरुव सन्निवेश.",
+        "latin": "dṛśya-4: sudhāmana suṃdaravāda manè. hèṃḍati, makkaḻu hòsabaṭṭè dharisi manèyalli saṃtoṣadiṃda iruva sanniveśa."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d54",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "(ಆಶ್ಚರ್ಯದಿಂದ ಹೆಂಡತಿಗೆ) ನೀವು ಯಾರ ಮನೆಯಲ್ಲಿದ್ದೀರಿ?",
+      "translations": {
+        "en": "(surprised, to wife) Whose house are you in?",
+        "hi": "(आश्चर्य से पत्नी से) तुम किसके घर में हो?"
+      },
+      "transliterations": {
+        "devanagari": "(आश्चर्यदिंद हॆंडतिगॆ) नीवु यार मनॆयल्लिद्दीरि?",
+        "latin": "(āścaryadiṃda hèṃḍatigè) nīvu yāra manèyalliddīri?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d55",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಇದು ನಮ್ಮ ಮನೆ ಕಣ್ರೀ!",
+      "translations": {
+        "en": "This is our house, dear!",
+        "hi": "यह हमारा घर है प्रिय!"
+      },
+      "transliterations": {
+        "devanagari": "इदु नम्म मनॆ कण्री!",
+        "latin": "idu namma manè kaṇrī!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d56",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ನಮ್ಮ ಗುಡಿಸಲು ಎಲ್ಲಿ?",
+      "translations": {
+        "en": "Where is our hut?",
+        "hi": "हमारी झोपड़ी कहाँ?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म गुडिसलु ऎल्लि?",
+        "latin": "namma guḍisalu èlli?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d57",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಆ ಗುಡಿಸಲಿನ ಜಾಗದಲ್ಲಿಯೇ ಈ ಅರಮನೆಯಂತಹ ಮನೆ ನಿರ್ಮಾಣವಾಗಿದೆ.",
+      "translations": {
+        "en": "On the very spot of that hut this palace-like house has been built.",
+        "hi": "उसी झोपड़ी की जगह यह महल जैसा घर बना है।"
+      },
+      "transliterations": {
+        "devanagari": "आ गुडिसलिन जागदल्लिये ई अरमनॆयंतह मनॆ निर्माणवागिदॆ.",
+        "latin": "ā guḍisalina jāgadalliye ī aramanèyaṃtaha manè nirmāṇavāgidè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d58",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಅರೆ! ನಾನು ಹೋಗಿ ಬರುವುದರೊಳಗೆ ಇದು ಹೇಗೆ ಸಾಧ್ಯವಾಯ್ತು?",
+      "translations": {
+        "en": "Oh! How was this possible while I went and came?",
+        "hi": "अरे! मेरे जाते-आते यह कैसे संभव?"
+      },
+      "transliterations": {
+        "devanagari": "अरॆ! नानु होगि बरुवुदरॊळगॆ इदु हेगॆ साध्यवाय्तु?",
+        "latin": "arè! nānu hogi baruvudaròḻagè idu hegè sādhyavāytu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d59",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "(ನಗುತ್ತ) ನಿಮ್ಮ ಮಿತ್ರನ ಕೃಪೆಯಿಂದ.",
+      "translations": {
+        "en": "(laughing) By your friend’s grace.",
+        "hi": "(हँसते) तुम्हारे मित्र की कृपा से।"
+      },
+      "transliterations": {
+        "devanagari": "(नगुत्त) निम्म मित्रन कृपॆयिंद.",
+        "latin": "(nagutta) nimma mitrana kṛpèyiṃda."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d60",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "(ಆಶ್ಚರ್ಯದಿಂದ) ನನ್ನ ಮಿತ್ರ ಶ್ರೀಕೃಷ್ಣನಿಂದ!",
+      "translations": {
+        "en": "(surprised) From my friend Sri Krishna!",
+        "hi": "(आश्चर्य) मेरे मित्र श्रीकृष्ण से!"
+      },
+      "transliterations": {
+        "devanagari": "(आश्चर्यदिंद) नन्न मित्र श्रीकृष्णनिंद!",
+        "latin": "(āścaryadiṃda) nanna mitra śrīkṛṣṇaniṃda!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d61",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಹೌದು, ಆ ಮಹಾರಾಯ ಶ್ರೀಕೃಷ್ಣನಿಂದಲೇ.",
+      "translations": {
+        "en": "Yes, from that great king Sri Krishna himself.",
+        "hi": "हाँ, उसी महाराज श्रीकृष्ण से।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, आ महाराय श्रीकृष्णनिंदले.",
+        "latin": "haudu, ā mahārāya śrīkṛṣṇaniṃdale."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d62",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ನಾನು ಅವನಿಗೆ ಸಹಾಯ ಮಾಡು ಎಂದು ಕೇಳಿಯೇ ಇಲ್ಲ.",
+      "translations": {
+        "en": "I never even asked him to help.",
+        "hi": "मैंने मदद करने को कहा ही नहीं।"
+      },
+      "transliterations": {
+        "devanagari": "नानु अवनिगॆ सहाय माडु ऎंदु केळिये इल्ल.",
+        "latin": "nānu avanigè sahāya māḍu èṃdu keḻiye illa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d63",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನಿಜವಾಗಿಯೂ!",
+      "translations": {
+        "en": "Really!",
+        "hi": "सचमुच!"
+      },
+      "transliterations": {
+        "devanagari": "निजवागियू!",
+        "latin": "nijavāgiyū!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d64",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಸತ್ಯವಾಗಿಯೂ.",
+      "translations": {
+        "en": "Truly.",
+        "hi": "सत्य ही।"
+      },
+      "transliterations": {
+        "devanagari": "सत्यवागियू.",
+        "latin": "satyavāgiyū."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d65",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನೀವು ದ್ವಾರಕಾ ನಗರ ತಲುಪಿದ ದಿನವೇ ಅಲ್ಲಿಂದ ಸೇವಕರ ದಂಡು ಬಂತು. ಬೇಕಾದ ಎಲ್ಲ ವಸ್ತುಗಳನ್ನು ತಂದರು. ಚಕಚಕಾಂತ ಮನೆ ನಿರ್ಮಿಸಿದರು. ನಮಗೆಲ್ಲ ಹೊಸ ಉಡುಪು, ಆಭರಣಗಳನ್ನು ಸಹ ಕೊಟ್ಟರು.",
+      "translations": {
+        "en": "The very day you reached Dwaraka a troop of servants came from there. They brought all needed things. They built a sparkling house. They also gave us all new clothes and ornaments.",
+        "hi": "द्वारका पहुँचने के दिन ही वहाँ से सेवकों का दल आया। जरूरी सब लाए। चमकता घर बनाया। हमें सबको नए वस्त्र-आभूषण भी दिए।"
+      },
+      "transliterations": {
+        "devanagari": "नीवु द्वारका नगर तलुपिद दिनवे अल्लिंद सेवकर दंडु बंतु. बेकाद ऎल्ल वस्तुगळन्नु तंदरु. चकचकांत मनॆ निर्मिसिदरु. नमगॆल्ल हॊस उडुपु, आभरणगळन्नु सह कॊट्टरु.",
+        "latin": "nīvu dvārakā nagara talupida dinave alliṃda sevakara daṃḍu baṃtu. bekāda èlla vastugaḻannu taṃdaru. cakacakāṃta manè nirmisidaru. namagèlla hòsa uḍupu, ābharaṇagaḻannu saha kòṭṭaru."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d66",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಪರಮಾಶ್ಚರ್ಯ, ನನ್ನ ಮನದ ಇಂಗಿತವನ್ನು ತಿಳಿದುಕೊಂಡು ಎಲ್ಲಾ ರೀತಿಯ ಸಹಾಯ ಮಾಡಿದ್ದಾನೆ ಶ್ರೀಕೃಷ್ಣ.",
+      "translations": {
+        "en": "Wonder of wonders—knowing the wish of my heart Sri Krishna has helped in every way.",
+        "hi": "परमाश्चर्य—मेरे मन की बात जान हर तरह मदद की श्रीकृष्ण ने।"
+      },
+      "transliterations": {
+        "devanagari": "परमाश्चर्य, नन्न मनद इंगितवन्नु तिळिदुकॊंडु ऎल्ला रीतिय सहाय माडिद्दानॆ श्रीकृष्ण.",
+        "latin": "paramāścarya, nanna manada iṃgitavannu tiḻidukòṃḍu èllā rītiya sahāya māḍiddānè śrīkṛṣṇa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d67",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನೀವು ತೆಗೆದುಕೊಂಡು ಹೋದ ಅವಲಕ್ಕಿಯನ್ನು ಅವರಿಗೆ ನೀಡಿದಿರಾ?",
+      "translations": {
+        "en": "Did you give them the flattened rice you took?",
+        "hi": "ले गई अवल्ककी उन्हें दी?"
+      },
+      "transliterations": {
+        "devanagari": "नीवु तॆगॆदुकॊंडु होद अवलक्कियन्नु अवरिगॆ नीडिदिरा?",
+        "latin": "nīvu tègèdukòṃḍu hoda avalakkiyannu avarigè nīḍidirā?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d68",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಹೂಂ! ಕೊಟ್ಟೆ. ಬಹಳ ಆನಂದದಿಂದ ತಿಂದು, ಹೆಂಡತಿ ರುಕ್ಮಿಣಿಗೂ ತಿನ್ನಿಸಿದ.",
+      "translations": {
+        "en": "Yes! I gave it. He ate with great joy and fed wife Rukmini too.",
+        "hi": "हाँ! दी। बहुत आनंद से खाई, पत्नी रुक्मिणी को भी खिलाई।"
+      },
+      "transliterations": {
+        "devanagari": "हूं! कॊट्टॆ. बहळ आनंददिंद तिंदु, हॆंडति रुक्मिणिगू तिन्निसिद.",
+        "latin": "hūṃ! kòṭṭè. bahaḻa ānaṃdadiṃda tiṃdu, hèṃḍati rukmiṇigū tinnisida."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d69",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ಅಬ್ಬಾ.......! ಬಡವರ ಮನೆ ಅವಲಕ್ಕಿಯನ್ನು ಸಂತೋಷವಾಗಿ ತಿಂದರಲ್ಲ. ಇದು ಅವರ ನಿಜವಾದ ಸ್ನೇಹ ಹಾಗೂ ದೊಡ್ಡ ಗುಣ. ಮತ್ತೆ ನೀವು ಯಾಕೆ ಸಹಾಯ ಕೇಳಲಿಲ್ಲ?",
+      "translations": {
+        "en": "Ah.......! He happily ate flattened rice from a poor home. That is their true friendship and greatness. Why then did you not ask for help?",
+        "hi": "अब्बा.......! गरीब घर की अवल्ककी खुशी से खाई। यही सच्ची मित्रता और बड़ा गुण। फिर मदद क्यों नहीं माँगी?"
+      },
+      "transliterations": {
+        "devanagari": "अब्बा.......! बडवर मनॆ अवलक्कियन्नु संतोषवागि तिंदरल्ल. इदु अवर निजवाद स्नेह हागू दॊड्ड गुण. मत्तॆ नीवु याकॆ सहाय केळलिल्ल?",
+        "latin": "abbā.......! baḍavara manè avalakkiyannu saṃtoṣavāgi tiṃdaralla. idu avara nijavāda sneha hāgū dòḍḍa guṇa. mattè nīvu yākè sahāya keḻalilla?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d70",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಆತ ಸತ್ಕಾರ ಮಾಡಿದ್ದು ನೋಡಿ ನನ್ನ ಮನಸ್ಸು ನಾಚಿ ಕುಗ್ಗಿ ಹೋಯಿತು. ಮತ್ತೆ ಏನನ್ನು ಕೇಳಲೂ ಮನಸ್ಸಾಗಲಿಲ್ಲ.",
+      "translations": {
+        "en": "Seeing his hospitality my mind shrank in shame. I had no heart to ask anything more.",
+        "hi": "सत्कार देख मन शर्म से सिकुड़ गया। फिर कुछ माँगने का मन नहीं हुआ।"
+      },
+      "transliterations": {
+        "devanagari": "आत सत्कार माडिद्दु नोडि नन्न मनस्सु नाचि कुग्गि होयितु. मत्तॆ एनन्नु केळलू मनस्सागलिल्ल.",
+        "latin": "āta satkāra māḍiddu noḍi nanna manassu nāci kuggi hoyitu. mattè enannu keḻalū manassāgalilla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d71",
+      "section": "drama",
+      "speaker": "ಹೆಂಡತಿ",
+      "text": "ನೀವು ಕೇಳಲಿಲ್ಲ ನಿಜ, ಆದರೆ ಆ ಶ್ರೀಕೃಷ್ಣ ಪರಮಾತ್ಮನೇ ತಮ್ಮ ಕರ್ತವ್ಯ ಮಾಡಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "You did not ask, true, but that Sri Krishna Paramatma himself has done his duty.",
+        "hi": "तुमने नहीं माँगा सच, पर श्रीकृष्ण परमात्मा ने अपना कर्तव्य किया।"
+      },
+      "transliterations": {
+        "devanagari": "नीवु केळलिल्ल निज, आदरॆ आ श्रीकृष्ण परमात्मने तम्म कर्तव्य माडिद्दारॆ.",
+        "latin": "nīvu keḻalilla nija, ādarè ā śrīkṛṣṇa paramātmane tamma kartavya māḍiddārè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d72",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ಮಕ್ಕಳೆಲ್ಲಾ ಎಲ್ಲಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "Where are all the children?",
+        "hi": "बच्चे सब कहाँ हैं?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळॆल्ला ऎल्लिद्दारॆ?",
+        "latin": "makkaḻèllā èlliddārè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d73",
+      "section": "drama",
+      "speaker": "ಮಗಳು",
+      "text": "ಅಪ್ಪಾ.....ನನ್ನ ಹೊಸ ಬಟ್ಟೆ ನೋಡಿ, ಎಷ್ಟು ಚೆನ್ನಾಗಿದೆ ಸರ, ಓಲೆ, ಬಳೆ ಎಲ್ಲ......",
+      "translations": {
+        "en": "Appa..... look at my new clothes, how nice the chain, earrings, bangles all......",
+        "hi": "अप्पा..... नए कपड़े देखो, कितने अच्छे हार, बाली, चूड़ियाँ सब......"
+      },
+      "transliterations": {
+        "devanagari": "अप्पा.....नन्न हॊस बट्टॆ नोडि, ऎष्टु चॆन्नागिदॆ सर, ओलॆ, बळॆ ऎल्ल......",
+        "latin": "appā.....nanna hòsa baṭṭè noḍi, èṣṭu cènnāgidè sara, olè, baḻè èlla......"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d74",
+      "section": "drama",
+      "speaker": "ಮಗ",
+      "text": "ಅಪ್ಪಾ..... ನಿಮಗೂ ರೇಷ್ಮೆಬಟ್ಟೆ ಕೊಟ್ಟಿದ್ದಾರೆ, ನೋಡಿ.",
+      "translations": {
+        "en": "Appa..... they have given you silk clothes too, look.",
+        "hi": "अप्पा..... तुम्हें भी रेशमी कपड़े दिए हैं, देखो।"
+      },
+      "transliterations": {
+        "devanagari": "अप्पा..... निमगू रेष्मॆबट्टॆ कॊट्टिद्दारॆ, नोडि.",
+        "latin": "appā..... nimagū reṣmèbaṭṭè kòṭṭiddārè, noḍi."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d75",
+      "section": "drama",
+      "speaker": "ಸುಧಾಮ",
+      "text": "ನನಗೆ ಬೇಡ, ನೀವೆಲ್ಲ ಧರಿಸಿಕೊಳ್ಳಿ. ನನಗೆ ಆ ಕೃಷ್ಣದೇವನ ಸ್ನೇಹವೇ ರೇಷ್ಮೆ ಬಟ್ಟೆ, ಅವನ ಮಾತೆ ನನಗೆ ಆಭರಣ. ಅವನಂತಹ ಗೆಳೆಯನನ್ನು ಪಡೆದ ನಾನೇ ಧನ್ಯ.",
+      "translations": {
+        "en": "I don’t need them; you all wear them. For me that Krishnadeva’s friendship itself is silk cloth, his word itself an ornament. Blessed am I who have such a friend.",
+        "hi": "मुझे नहीं चाहिए, तुम पहनो। मुझे उस कृष्णदेव की मित्रता ही रेशम, उनकी बात ही आभूषण। ऐसे मित्र पाकर मैं धन्य।"
+      },
+      "transliterations": {
+        "devanagari": "ननगॆ बेड, नीवॆल्ल धरिसिकॊळ्ळि. ननगॆ आ कृष्णदेवन स्नेहवे रेष्मॆ बट्टॆ, अवन मातॆ ननगॆ आभरण. अवनंतह गॆळॆयनन्नु पडॆद नाने धन्य.",
+        "latin": "nanagè beḍa, nīvèlla dharisikòḻḻi. nanagè ā kṛṣṇadevana snehave reṣmè baṭṭè, avana mātè nanagè ābharaṇa. avanaṃtaha gèḻèyanannu paḍèda nāne dhanya."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ವಿ.ಎಸ್. ಶಿರಹಟ್ಟಿ ಮಠ ಅವರು ಈ ನಾಟಕವನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಪಾಠವು ಕೃಷ್ಣ-ಸುಧಾಮರ ಗೆಳೆತನವನ್ನು ನಾಟಕ ರೂಪದಲ್ಲಿ ತೋರಿಸುತ್ತದೆ.",
+      "translations": {
+        "en": "V.S. Shirahatti Matha composed this play. The present lesson shows the friendship of Krishna and Sudhama in dramatic form.",
+        "hi": "वी.एस. शिरहट्टि मठ ने यह नाटक रचा। प्रस्तुत पाठ कृष्ण-सुदामा की मित्रता को नाटक रूप में दिखाता है।"
+      },
+      "transliterations": {
+        "devanagari": "वि.ऎस्. शिरहट्टि मठ अवरु ई नाटकवन्नु रचिसिद्दारॆ. प्रस्तुत पाठवु कृष्ण-सुधामर गॆळॆतनवन्नु नाटक रूपदल्लि तोरिसुत्तदॆ.",
+        "latin": "vi.ès. śirahaṭṭi maṭha avaru ī nāṭakavannu racisiddārè. prastuta pāṭhavu kṛṣṇa-sudhāmara gèḻètanavannu nāṭaka rūpadalli torisuttadè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-gudisalu",
+      "section": "vocab",
+      "text": "ಗುಡಿಸಲು",
+      "translations": {
+        "en": "guḍisalu",
+        "hi": "गुडिसलु"
+      },
+      "transliterations": {
+        "devanagari": "गुडिसलु",
+        "latin": "guḍisalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gudisalu-def",
+      "section": "vocab",
+      "text": "ಚಿಕ್ಕ ಮನೆ, ಗುಡಿ",
+      "translations": {
+        "en": "small house, hut",
+        "hi": "छोटा घर, झोपड़ी"
+      },
+      "transliterations": {
+        "devanagari": "चिक्क मनॆ, गुडि",
+        "latin": "cikka manè, guḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-shatapati",
+      "section": "vocab",
+      "text": "ಶತಪತಿ",
+      "translations": {
+        "en": "śatapati",
+        "hi": "शतपति"
+      },
+      "transliterations": {
+        "devanagari": "शतपति",
+        "latin": "śatapati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shatapati-def",
+      "section": "vocab",
+      "text": "ಆಲೋಚನೆಯಲ್ಲಿ ಮುಳುಗು",
+      "translations": {
+        "en": "to be sunk in thought",
+        "hi": "चिंतन में डूबा होना"
+      },
+      "transliterations": {
+        "devanagari": "आलोचनॆयल्लि मुळुगु",
+        "latin": "ālocanèyalli muḻugu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nirase",
+      "section": "vocab",
+      "text": "ನಿರಾಸೆ",
+      "translations": {
+        "en": "nirāsè",
+        "hi": "निरासॆ"
+      },
+      "transliterations": {
+        "devanagari": "निरासॆ",
+        "latin": "nirāsè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nirase-def",
+      "section": "vocab",
+      "text": "ನಿರಾಶೆ",
+      "translations": {
+        "en": "despair",
+        "hi": "निराशा"
+      },
+      "transliterations": {
+        "devanagari": "निराशॆ",
+        "latin": "nirāśè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-panditya",
+      "section": "vocab",
+      "text": "ಪಾಂಡಿತ್ಯ",
+      "translations": {
+        "en": "pāṃḍitya",
+        "hi": "पांडित्य"
+      },
+      "transliterations": {
+        "devanagari": "पांडित्य",
+        "latin": "pāṃḍitya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-panditya-def",
+      "section": "vocab",
+      "text": "ವಿದ್ವತ್ತು, ಜ್ಞಾನ",
+      "translations": {
+        "en": "learning, knowledge",
+        "hi": "विद्वत्ता"
+      },
+      "transliterations": {
+        "devanagari": "विद्वत्तु, ज्ञान",
+        "latin": "vidvattu, jñāna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sankocha",
+      "section": "vocab",
+      "text": "ಸಂಕೋಚ",
+      "translations": {
+        "en": "saṃkoca",
+        "hi": "संकोच"
+      },
+      "transliterations": {
+        "devanagari": "संकोच",
+        "latin": "saṃkoca"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sankocha-def",
+      "section": "vocab",
+      "text": "ಲಜ್ಜೆ, ಹಿಂಜರಿಕೆ",
+      "translations": {
+        "en": "shyness, hesitation",
+        "hi": "संकोच"
+      },
+      "transliterations": {
+        "devanagari": "लज्जॆ, हिंजरिकॆ",
+        "latin": "lajjè, hiṃjarikè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-avalakki",
+      "section": "vocab",
+      "text": "ಅವಲಕ್ಕಿ",
+      "translations": {
+        "en": "avalakki",
+        "hi": "अवलक्कि"
+      },
+      "transliterations": {
+        "devanagari": "अवलक्कि",
+        "latin": "avalakki"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-avalakki-def",
+      "section": "vocab",
+      "text": "ಅಕ್ಕಿ ತಿಂಡಿ / ಅವಲಕ್ಕಿ",
+      "translations": {
+        "en": "flattened rice",
+        "hi": "अवल्ककी"
+      },
+      "transliterations": {
+        "devanagari": "अक्कि तिंडि / अवलक्कि",
+        "latin": "akki tiṃḍi / avalakki"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-satkara",
+      "section": "vocab",
+      "text": "ಸತ್ಕಾರ",
+      "translations": {
+        "en": "satkāra",
+        "hi": "सत्कार"
+      },
+      "transliterations": {
+        "devanagari": "सत्कार",
+        "latin": "satkāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-satkara-def",
+      "section": "vocab",
+      "text": "ಗೌರವ, ಆದರ",
+      "translations": {
+        "en": "honour, hospitality",
+        "hi": "सत्कार"
+      },
+      "transliterations": {
+        "devanagari": "गौरव, आदर",
+        "latin": "gaurava, ādara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ingita",
+      "section": "vocab",
+      "text": "ಇಂಗಿತ",
+      "translations": {
+        "en": "iṃgita",
+        "hi": "इंगित"
+      },
+      "transliterations": {
+        "devanagari": "इंगित",
+        "latin": "iṃgita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ingita-def",
+      "section": "vocab",
+      "text": "ಒಳಮನಸ್ಸಿನ ಆಸೆ",
+      "translations": {
+        "en": "inner wish",
+        "hi": "अंतर्मन की इच्छा"
+      },
+      "transliterations": {
+        "devanagari": "ऒळमनस्सिन आसॆ",
+        "latin": "òḻamanassina āsè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-karpanya",
+      "section": "vocab",
+      "text": "ಕಾರ್ಪಣ್ಯ",
+      "translations": {
+        "en": "kārpaṇya",
+        "hi": "कार्पण्य"
+      },
+      "transliterations": {
+        "devanagari": "कार्पण्य",
+        "latin": "kārpaṇya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-karpanya-def",
+      "section": "vocab",
+      "text": "ಜಿಪುಣತನ, ಕಷ್ಟ",
+      "translations": {
+        "en": "meanness, hardship",
+        "hi": "कार्पण्य, कष्ट"
+      },
+      "transliterations": {
+        "devanagari": "जिपुणतन, कष्ट",
+        "latin": "jipuṇatana, kaṣṭa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhanya",
+      "section": "vocab",
+      "text": "ಧನ್ಯ",
+      "translations": {
+        "en": "dhanya",
+        "hi": "धन्य"
+      },
+      "transliterations": {
+        "devanagari": "धन्य",
+        "latin": "dhanya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhanya-def",
+      "section": "vocab",
+      "text": "ಭಾಗ್ಯಶಾಲಿ",
+      "translations": {
+        "en": "blessed",
+        "hi": "धन्य"
+      },
+      "transliterations": {
+        "devanagari": "भाग्यशालि",
+        "latin": "bhāgyaśāli"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಗೆಳೆಯ",
+      "translations": {
+        "en": "friend",
+        "hi": "मित्र"
+      },
+      "transliterations": {
+        "devanagari": "गॆळॆय",
+        "latin": "gèḻèya"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಹೆಂಡತಿ",
+      "translations": {
+        "en": "wife",
+        "hi": "पत्नी"
+      },
+      "transliterations": {
+        "devanagari": "हॆंडति",
+        "latin": "hèṃḍati"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ರಾಜ",
+      "translations": {
+        "en": "king",
+        "hi": "राजा"
+      },
+      "transliterations": {
+        "devanagari": "राज",
+        "latin": "rāja"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ದುಡಿಮೆ",
+      "translations": {
+        "en": "labour",
+        "hi": "मेहनत"
+      },
+      "transliterations": {
+        "devanagari": "दुडिमॆ",
+        "latin": "duḍimè"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಪರಮಮಿತ್ರ",
+      "translations": {
+        "en": "closest friend",
+        "hi": "परममित्र"
+      },
+      "transliterations": {
+        "devanagari": "परममित्र",
+        "latin": "paramamitra"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ವಿಶ್ರಾಂತಿ",
+      "translations": {
+        "en": "rest",
+        "hi": "विश्राम"
+      },
+      "transliterations": {
+        "devanagari": "विश्रांति",
+        "latin": "viśrāṃti"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಸತ್ಕಾರ",
+      "translations": {
+        "en": "hospitality",
+        "hi": "सत्कार"
+      },
+      "transliterations": {
+        "devanagari": "सत्कार",
+        "latin": "satkāra"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಸಂತೋಷ",
+      "translations": {
+        "en": "joy",
+        "hi": "आनंद"
+      },
+      "transliterations": {
+        "devanagari": "संतोष",
+        "latin": "saṃtoṣa"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "section": "exercise-B",
+      "text": "ಶ್ರಮಿಸು",
+      "translations": {
+        "en": "to strive",
+        "hi": "श्रम करना"
+      },
+      "transliterations": {
+        "devanagari": "श्रमिसु",
+        "latin": "śramisu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಸುಧಾಮ ಯಾವುದನ್ನು ಮಾನವಧರ್ಮ ಎನ್ನುತ್ತಾನೆ?",
+      "translations": {
+        "en": "What does Sudhama call human dharma?",
+        "hi": "सुदामा किसे मानवधर्म कहता है?"
+      },
+      "transliterations": {
+        "devanagari": "सुधाम यावुदन्नु मानवधर्म ऎन्नुत्तानॆ?",
+        "latin": "sudhāma yāvudannu mānavadharma ènnuttānè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಯಾರಿಗಾಗಿ ಶ್ರೀಕೃಷ್ಣನ ಬಳಿ ಸಹಾಯ ಕೇಳಲು ಸುಧಾಮನ ಪತ್ನಿ ಹೇಳುತ್ತಾಳೆ?",
+      "translations": {
+        "en": "For whose sake does Sudhama’s wife tell him to ask Sri Krishna for help?",
+        "hi": "किसके लिए पत्नी श्रीकृष्ण से मदद माँगने को कहती है?"
+      },
+      "transliterations": {
+        "devanagari": "यारिगागि श्रीकृष्णन बळि सहाय केळलु सुधामन पत्नि हेळुत्ताळॆ?",
+        "latin": "yārigāgi śrīkṛṣṇana baḻi sahāya keḻalu sudhāmana patni heḻuttāḻè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "ಸುಧಾಮನ ಕಣ್ಣಲ್ಲಿ ನೀರು ಏಕೆ ಬಂತು?",
+      "translations": {
+        "en": "Why did tears come to Sudhama’s eyes?",
+        "hi": "सुदामा की आँखों में पानी क्यों आया?"
+      },
+      "transliterations": {
+        "devanagari": "सुधामन कण्णल्लि नीरु एकॆ बंतु?",
+        "latin": "sudhāmana kaṇṇalli nīru ekè baṃtu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "section": "exercise-C",
+      "text": "ಮನೆಗೆ ಮರಳಿದ ಸುಧಾಮನು ಏನನ್ನು ಕಂಡನು?",
+      "translations": {
+        "en": "What did Sudhama see when he returned home?",
+        "hi": "घर लौटकर सुदामा ने क्या देखा?"
+      },
+      "transliterations": {
+        "devanagari": "मनॆगॆ मरळिद सुधामनु एनन्नु कंडनु?",
+        "latin": "manègè maraḻida sudhāmanu enannu kaṃḍanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "section": "exercise-C",
+      "text": "ಸುಧಾಮನ ಮನೆಯನ್ನು ಕಟ್ಟಿಸಿದವರು ಯಾರು?",
+      "translations": {
+        "en": "Who had Sudhama’s house built?",
+        "hi": "सुदामा का घर किसने बनवाया?"
+      },
+      "transliterations": {
+        "devanagari": "सुधामन मनॆयन्नु कट्टिसिदवरु यारु?",
+        "latin": "sudhāmana manèyannu kaṭṭisidavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ಕೃಷ್ಣ-ಸುಧಾಮರು ಗುರುಕುಲದಲ್ಲಿ ಕಳೆದ ದಿನಗಳನ್ನು ಪರಸ್ಪರ ನೆನಪಿಸಿಕೊಂಡದ್ದು ಹೇಗೆ?",
+      "translations": {
+        "en": "How did Krishna and Sudhama recall the days spent in the gurukula?",
+        "hi": "कृष्ण-सुदामा ने गुरुकुल के दिन कैसे याद किए?"
+      },
+      "transliterations": {
+        "devanagari": "कृष्ण-सुधामरु गुरुकुलदल्लि कळॆद दिनगळन्नु परस्पर नॆनपिसिकॊंडद्दु हेगॆ?",
+        "latin": "kṛṣṇa-sudhāmaru gurukuladalli kaḻèda dinagaḻannu paraspara nènapisikòṃḍaddu hegè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "section": "exercise-D",
+      "text": "ಕೃಷ್ಣನು ಸುಧಾಮನಿಗೆ ಮನೆ ಕಟ್ಟಿಸಿಕೊಟ್ಟ ಸಂದರ್ಭವನ್ನು ವಿವರಿಸಿರಿ.",
+      "translations": {
+        "en": "Describe the occasion when Krishna had a house built for Sudhama.",
+        "hi": "कृष्ण ने सुदामा के लिए घर बनवाने का प्रसंग बताइए।"
+      },
+      "transliterations": {
+        "devanagari": "कृष्णनु सुधामनिगॆ मनॆ कट्टिसिकॊट्ट संदर्भवन्नु विवरिसिरि.",
+        "latin": "kṛṣṇanu sudhāmanigè manè kaṭṭisikòṭṭa saṃdarbhavannu vivarisiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "section": "exercise-E",
+      "text": "ನನ್ನನ್ನು ಕಂಡರೆ ಅವನಿಗೆ ಅಪಾರ ಪ್ರೀತಿ, ಸ್ನೇಹ, ಗೌರವ.",
+      "translations": {
+        "en": "Seeing me he had immense love, friendship and respect.",
+        "hi": "मुझे देखकर अपार प्रेम, स्नेह, गौरव।"
+      },
+      "transliterations": {
+        "devanagari": "नन्नन्नु कंडरॆ अवनिगॆ अपार प्रीति, स्नेह, गौरव.",
+        "latin": "nannannu kaṃḍarè avanigè apāra prīti, sneha, gaurava."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "section": "exercise-E",
+      "text": "ಹಸಿದಿರುವ ಮಕ್ಕಳಿಗೋಸ್ಕರವಾದರೂ ಹೋಗಿ ಕೇಳಿ.",
+      "translations": {
+        "en": "At least for the hungry children go and ask.",
+        "hi": "भूखे बच्चों के लिए ही सही, जाकर माँगो।"
+      },
+      "transliterations": {
+        "devanagari": "हसिदिरुव मक्कळिगोस्करवादरू होगि केळि.",
+        "latin": "hasidiruva makkaḻigoskaravādarū hogi keḻi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "section": "exercise-E",
+      "text": "ನನಗೆ ಗುರುಕುಲದ ಜೀವನ ನೆನಪಾಗುತ್ತಿದೆ.",
+      "translations": {
+        "en": "Gurukula life comes to my mind.",
+        "hi": "गुरुकुल का जीवन याद आता है।"
+      },
+      "transliterations": {
+        "devanagari": "ननगॆ गुरुकुलद जीवन नॆनपागुत्तिदॆ.",
+        "latin": "nanagè gurukulada jīvana nènapāguttidè."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "section": "exercise-E",
+      "text": "ನಿಮಗೂ ರೇಷ್ಮೆಬಟ್ಟೆ ಕೊಟ್ಟಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "They have given you silk clothes too.",
+        "hi": "तुम्हें भी रेशमी कपड़े दिए हैं।"
+      },
+      "transliterations": {
+        "devanagari": "निमगू रेष्मॆबट्टॆ कॊट्टिद्दारॆ.",
+        "latin": "nimagū reṣmèbaṭṭè kòṭṭiddārè."
+      },
+      "type": "question"
+    }
+  ]
+}

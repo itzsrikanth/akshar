@@ -1,0 +1,999 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g5-fl-p1",
+    "chapterId": "ch05-gidamara",
+    "editionId": "2026-27",
+    "number": 5
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions in one sentence.",
+      "hi": "अ. निम्नलिखित प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige ondu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. केळगिन प्रश्नेगळिगे एरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions in two or three sentences.",
+      "hi": "आ. निम्नलिखित प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कोट्टिरुव पद्यद सालुगळन्नु पूर्णगोळिसिरि.",
+      "en": "C. Complete the given lines of the poem.",
+      "hi": "इ. दी गई कविता की पंक्तियाँ पूरी कीजिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "latin": "i. koṭṭiruva padyada sālugaḷannu pūrṇagoḷisiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. होंदिसि बरेयिरि.",
+      "en": "D. Match and write.",
+      "hi": "ई. मिलाकर लिखिए।",
+      "kn": "ಈ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "ī. hondisi bareyiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige uttarisi."
+    },
+    "grammar-B": {
+      "devanagari": "आ. लिंग बदलिसि बरेयिरि.",
+      "en": "B. Change the gender and write.",
+      "hi": "आ. लिंग बदलकर लिखिए।",
+      "kn": "ಆ. ಲಿಂಗ ಬದಲಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "ā. liṅga badalisi bareyiri."
+    },
+    "grammar-C": {
+      "devanagari": "इ. कोट्टिरुव पदगळल्लि पुल्लिंग, स्त्रीलिंग हागू नपुंसकलिंगगळागि आरिसि बरेयिरि.",
+      "en": "C. From the given words, sort and write masculine, feminine and neuter.",
+      "hi": "इ. दिए शब्दों में से पुल्लिंग, स्त्रीलिंग और नपुंसकलिंग छाँटकर लिखिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಪುಲ್ಲಿಂಗ, ಸ್ತ್ರೀಲಿಂಗ ಹಾಗೂ ನಪುಂಸಕಲಿಂಗಗಳಾಗಿ ಆರಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "i. koṭṭiruva padagaḷalli pulliṅga, strīliṅga hāgū napunsakaliṅgagaḷāgi ārisi bareyiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "अ. केळगे नीडिरुव वाक्यगळन्नु आवरणदल्लि नीडिरुव पदगळल्लि सूक्तवादुदन्नु आरिसि वाक्य पूर्णगोळिसि.",
+      "en": "A. Complete the sentences by choosing the suitable word from those in brackets.",
+      "hi": "अ. कोष्ठक के उपयुक्त शब्द चुनकर वाक्य पूरे कीजिए।",
+      "kn": "ಅ. ಕೆಳಗೆ ನೀಡಿರುವ ವಾಕ್ಯಗಳನ್ನು ಆವರಣದಲ್ಲಿ ನೀಡಿರುವ ಪದಗಳಲ್ಲಿ ಸೂಕ್ತವಾದುದನ್ನು ಆರಿಸಿ ವಾಕ್ಯ ಪೂರ್ಣಗೊಳಿಸಿ.",
+      "latin": "a. keḷage nīḍiruva vākyagaḷannu āvaraṇadalli nīḍiruva padagaḷalli sūktavādudannu ārisi vākya pūrṇagoḷisi."
+    },
+    "language-exercise-B": {
+      "devanagari": "आ. केळगे नीडिरुव वाक्यगळन्नु आवरणदल्लि नीडिरुव अक्षरगळल्लि सूक्तवादुदन्नु आरिसि पूर्णगोळिसि.",
+      "en": "B. Complete the sentences by choosing the suitable letter from those in brackets.",
+      "hi": "आ. कोष्ठक के उपयुक्त अक्षर चुनकर पूरे कीजिए।",
+      "kn": "ಆ. ಕೆಳಗೆ ನೀಡಿರುವ ವಾಕ್ಯಗಳನ್ನು ಆವರಣದಲ್ಲಿ ನೀಡಿರುವ ಅಕ್ಷರಗಳಲ್ಲಿ ಸೂಕ್ತವಾದುದನ್ನು ಆರಿಸಿ ಪೂರ್ಣಗೊಳಿಸಿ.",
+      "latin": "ā. keḷage nīḍiruva vākyagaḷannu āvaraṇadalli nīḍiruva akṣaragaḷalli sūktavādudannu ārisi pūrṇagoḷisi."
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಸತ್ಯಾನಂದ ಪಾತ್ರೋಟ",
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch05-gidamara",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಗಿಡ ಮರ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ನಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಐದು ಬೆರಳುಗಳೂ ಒಂದೇ ರೀತಿಯಿಲ್ಲ. ಪ್ರತಿಯೊಂದು ಬೆರಳನ್ನು ಅದರದೇ ಆದ ಕಾರ್ಯಗಳಿಗೆ ನಾವು ಬಳಸುತ್ತೇವೆ. ಏನನ್ನಾದರೂ ಹಿಡಿಯಬೇಕಾದರೆ ಐದೂ ಬೆರಳುಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬಳಸುತ್ತೇವೆ. ಬೆರಳಿನ ಆಕಾರ, ಸ್ವರೂಪ ನಮ್ಮ ಗಮನಕ್ಕೆ ಬರುವುದಿಲ್ಲ. ಒಂದು ಮರ ಕಾಯನ್ನು, ಹಣ್ಣನ್ನು, ನೆರಳನ್ನು ನೀಡಬಹುದು. ಹಾಗೆಯೇ, ಹಲವು ಹಕ್ಕಿಗಳು ಗೂಡುಕಟ್ಟಲು ಅವಕಾಶ ಮಾಡಬಲ್ಲದು. ಮನುಷ್ಯರಾದ ನಾವೂ ಸಹಕಾರಿಯಾಗಿ ಬದುಕಿದರೆ ಎಷ್ಟು ಚಂದ ಅಲ್ಲವೆ? ಪ್ರಕೃತಿಯನ್ನು ಅನುಸರಿಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನ ಅಪಾರ.",
+      "translations": {
+        "en": "The five fingers on our hand are not all alike. We use each finger for its own work. To grasp something we use all five together. We do not notice the shape and form of a finger. A tree may give fruit, shade. Likewise it can give many birds a place to nest. If we humans also live cooperatively, how lovely is that? The benefit of following nature is immense.",
+        "hi": "हमारे हाथ की पाँच उँगलियाँ एक जैसी नहीं। प्रत्येक उँगली को हम उसके अपने काम के लिए उपयोग करते हैं। कुछ पकड़ना हो तो पाँचों को साथ उपयोग करते हैं। उँगली का आकार-स्वरूप ध्यान में नहीं आता। एक पेड़ फल, छाया दे सकता है। वैसे ही कई पक्षियों को घोंसला बनाने का अवसर दे सकता है। मनुष्य होकर हम भी सहयोग से जिएँ तो कितना सुंदर, है न? प्रकृति का अनुसरण करने से लाभ अपार है।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म कैयल्लिरुव ऐदु बेरळुगळू ओंदे रीतियिल्ल. प्रतियोंदु बेरळन्नु अदरदे आद कार्यगळिगे नावु बळसुत्तेवे. एनन्नादरू हिडियबेकादरे ऐदू बेरळुगळन्नु ओट्टागि बळसुत्तेवे. बेरळिन आकार, स्वरूप नम्म गमनक्के बरुवुदिल्ल. ओंदु मर कायन्नु, हण्णन्नु, नेरळन्नु नीडबहुदु. हागेये, हलवु हक्किगळु गूडुकट्टलु अवकाश माडबल्लदु. मनुष्यराद नावू सहकारियागि बदुकिदरे एष्टु चंद अल्लवे? प्रकृतियन्नु अनुसरिसुवुदरिंद आगुव प्रयोजन अपार.",
+        "latin": "namma kaiyalliruva aidu beraḷugaḷū ondē rītiyilla. pratiyondu beraḷannu adaradē āda kāryagaḷige nāvu baḷasuttēve. ēnannādarū hiḍiyabēkādare aidū beraḷugaḷannu oṭṭāgi baḷasuttēve. beraḷina ākāra, svarūpa namma gamanakke baruvudilla. ondu mara kāyannu, haṇṇannu, neraḷannu nīḍabahudu. hāgeyē, halavu hakkigaḷu gūḍukaṭṭalu avakāśa māḍaballadu. manuṣyarāda nāvū sahakāriyāgi badukidare eṣṭu canda allave? prakr̥tiyannu anusarisuvudarinda āguva prayōjana apāra."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಬೊಡ್ಡೆ ಕರಿದು ಎಲೆ ಹಸಿರು",
+      "translations": {
+        "en": "Trunk dark and leaves green",
+        "hi": "तना काला और पत्ते हरे"
+      },
+      "transliterations": {
+        "devanagari": "बोड्डे करिदु एले हसिरु",
+        "latin": "boḍḍe karidu ele hasiru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಹೂವು ನಾನಾ ತರತರ",
+      "translations": {
+        "en": "Flowers of many kinds",
+        "hi": "फूल अनेक प्रकार के"
+      },
+      "transliterations": {
+        "devanagari": "हूवु नाना तरतर",
+        "latin": "hūvu nānā taratara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಎಂಥ ಸೊಗಸು ಏನು ಕಂಪು",
+      "translations": {
+        "en": "What beauty, what fragrance",
+        "hi": "कैसी सुंदरता, कैसी सुगंध"
+      },
+      "transliterations": {
+        "devanagari": "एंथ सोगसु एनु कंपु",
+        "latin": "entha sogasu ēnu kampu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಬೆಳೆದು ನಿಂತ ಗಿಡ ಮರ",
+      "translations": {
+        "en": "in the grown plant and tree",
+        "hi": "बढ़कर खड़े पौधे-पेड़ में"
+      },
+      "transliterations": {
+        "devanagari": "बेळेदु निंत गिड मर",
+        "latin": "beḷedu ninta giḍa mara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಯಾರೇ ಬಂದು ಏನೇ ಮಾಡಲಿ",
+      "translations": {
+        "en": "Whoever comes, whatever they do",
+        "hi": "कोई भी आए, कुछ भी करे"
+      },
+      "transliterations": {
+        "devanagari": "यारे बंदु एने माडलि",
+        "latin": "yārē bandu ēnē māḍali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಎಲ್ಲದಕ್ಕೂ ದಿವ್ಯ ಮೌನ",
+      "translations": {
+        "en": "to all of it, divine silence",
+        "hi": "सबके प्रति दिव्य मौन"
+      },
+      "transliterations": {
+        "devanagari": "एल्लदक्कू दिव्य मौन",
+        "latin": "elladakkū divya mauna"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ರೆಂಬೆ ಕೊಂಬೆ ಚಿಗುರುವಲ್ಲಿ",
+      "translations": {
+        "en": "Where branch and twig sprout",
+        "hi": "जहाँ डाल-टहनी फूटती हैं"
+      },
+      "transliterations": {
+        "devanagari": "रेंबे कोंबे चिगुरुवल्लि",
+        "latin": "rembe kombe ciguruvalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಕಡಲುಕ್ಕುವ ಚೇತನ",
+      "translations": {
+        "en": "life surges like the sea",
+        "hi": "समुद्र-सा उमड़ता चेतना"
+      },
+      "transliterations": {
+        "devanagari": "कडलुक्कुव चेतन",
+        "latin": "kaḍalukkuva cētana"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಮನುಷ್ಯನಲ್ಲಿ ಮಾತು ಉಂಟು",
+      "translations": {
+        "en": "In humans there is speech",
+        "hi": "मनुष्य में वाणी है"
+      },
+      "transliterations": {
+        "devanagari": "मनुष्यनल्लि मातु उंटु",
+        "latin": "manuṣyanalli mātu uṇṭu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಮಾತಿನಂತೆ ಇಲ್ಲ ಮನ",
+      "translations": {
+        "en": "but not a heart matching speech",
+        "hi": "वाणी जैसा मन नहीं"
+      },
+      "transliterations": {
+        "devanagari": "मातिनंते इल्ल मन",
+        "latin": "mātinante illa mana"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಲಿಂಗ ವರ್ಣ ಜಾತಿ ಧರ್ಮ",
+      "translations": {
+        "en": "Gender, colour, caste, religion",
+        "hi": "लिंग, वर्ण, जाति, धर्म"
+      },
+      "transliterations": {
+        "devanagari": "लिंग वर्ण जाति धर्म",
+        "latin": "liṅga varṇa jāti dharma"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಹಾಳು ಕೊಂಪೆ ಇವನ ಮನ",
+      "translations": {
+        "en": "have made his mind a ruined den",
+        "hi": "उसका मन खंडहर अड्डा बना दिया"
+      },
+      "transliterations": {
+        "devanagari": "हाळु कोंपे इवन मन",
+        "latin": "hāḷu kompe ivana mana"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಜಾತಿ-ಗೀತಿ, ಲಿಂಗ-ಧರ್ಮ",
+      "translations": {
+        "en": "Caste and song, gender and faith",
+        "hi": "जाति-गीत, लिंग-धर्म"
+      },
+      "transliterations": {
+        "devanagari": "जाति-गीति, लिंग-धर्म",
+        "latin": "jāti-gīti, liṅga-dharma"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಮೀರಿ ಬೆಳೆದ ಗಿಡಮರ",
+      "translations": {
+        "en": "the plant and tree that grew beyond them",
+        "hi": "पार करके बढ़ा पौधा-पेड़"
+      },
+      "transliterations": {
+        "devanagari": "मीरि बेळेद गिडमर",
+        "latin": "mīri beḷeda giḍamara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಅವನು ಇವಳು ಅದು ಇದು",
+      "translations": {
+        "en": "he, she, that, this",
+        "hi": "वह, वह स्त्री, वह, यह"
+      },
+      "transliterations": {
+        "devanagari": "अवनु इवळु अदु इदु",
+        "latin": "avanu ivaḷu adu idu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಎಣಿಸುತಿಲ್ಲ ಒಂದು ದಿನ",
+      "translations": {
+        "en": "it never counts even one day",
+        "hi": "एक दिन भी गिनती नहीं करता"
+      },
+      "transliterations": {
+        "devanagari": "एणिसुतिल्ल ओंदु दिन",
+        "latin": "eṇisutilla ondu dina"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಬೊಡ್ಡೆ ಕರಿದು ಎಲೆ ಹಸಿರು",
+      "translations": {
+        "en": "Trunk dark and leaves green",
+        "hi": "तना काला और पत्ते हरे"
+      },
+      "transliterations": {
+        "devanagari": "बोड्डे करिदु एले हसिरु",
+        "latin": "boḍḍe karidu ele hasiru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಹೂವು ನಾನಾ ತರತರ",
+      "translations": {
+        "en": "Flowers of many kinds",
+        "hi": "फूल अनेक प्रकार के"
+      },
+      "transliterations": {
+        "devanagari": "हूवु नाना तरतर",
+        "latin": "hūvu nānā taratara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ಬಿಸಿಲು ಮಳೆ ಚಳಿಯ ತಡೆದು",
+      "translations": {
+        "en": "Enduring sun, rain and cold",
+        "hi": "धूप, वर्षा, ठंड सहकर"
+      },
+      "transliterations": {
+        "devanagari": "बिसिलु मळे चळिय तडेदु",
+        "latin": "bisilu maḷe caḷiya taḍedu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಅರಳುತಿಹವು ಅನುದಿನ.",
+      "translations": {
+        "en": "they blossom every day.",
+        "hi": "प्रतिदिन खिलते रहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अरळुतिहवु अनुदिन.",
+        "latin": "araḷutihavu anudina."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-aralu",
+      "text": "ಅರಳು",
+      "translations": {
+        "en": "aralu (bloom)",
+        "hi": "अरळु"
+      },
+      "transliterations": {
+        "devanagari": "अरळु",
+        "latin": "araḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aralu-def",
+      "text": "ವಿಕಾಸವಾಗು, ಹೂಬಿಡು",
+      "translations": {
+        "en": "develop, bloom",
+        "hi": "विकसित होना, खिलना"
+      },
+      "transliterations": {
+        "devanagari": "विकासवागु, हूबिडु",
+        "latin": "vikāsavāgu, hūbiḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kampu",
+      "text": "ಕಂಪು",
+      "translations": {
+        "en": "kampu (fragrance)",
+        "hi": "कंपु"
+      },
+      "transliterations": {
+        "devanagari": "कंपु",
+        "latin": "kampu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kampu-def",
+      "text": "ಸುವಾಸನೆ",
+      "translations": {
+        "en": "fragrance",
+        "hi": "सुगंध"
+      },
+      "transliterations": {
+        "devanagari": "सुवासने",
+        "latin": "suvāsane"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kompe",
+      "text": "ಕೊಂಪೆ",
+      "translations": {
+        "en": "kompe (den)",
+        "hi": "कोंपे"
+      },
+      "transliterations": {
+        "devanagari": "कोंपे",
+        "latin": "kompe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kompe-def",
+      "text": "ಕೊಳಕು ಪ್ರದೇಶ",
+      "translations": {
+        "en": "filthy place",
+        "hi": "गंदी जगह"
+      },
+      "transliterations": {
+        "devanagari": "कोळकु प्रदेश",
+        "latin": "koḷaku pradēśa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chetana",
+      "text": "ಚೇತನ",
+      "translations": {
+        "en": "chetana (life-force)",
+        "hi": "चेतन"
+      },
+      "transliterations": {
+        "devanagari": "चेतन",
+        "latin": "cētana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chetana-def",
+      "text": "ಜೀವ, ಪ್ರಾಣ, ಶಕ್ತಿ",
+      "translations": {
+        "en": "life, vitality, strength",
+        "hi": "जीवन, प्राण, शक्ति"
+      },
+      "transliterations": {
+        "devanagari": "जीव, प्राण, शक्ति",
+        "latin": "jīva, prāṇa, śakti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-divya",
+      "text": "ದಿವ್ಯ",
+      "translations": {
+        "en": "divya (divine)",
+        "hi": "दिव्य"
+      },
+      "transliterations": {
+        "devanagari": "दिव्य",
+        "latin": "divya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-divya-def",
+      "text": "ಶ್ರೇಷ್ಠ, ಪವಿತ್ರ",
+      "translations": {
+        "en": "excellent, sacred",
+        "hi": "श्रेष्ठ, पवित्र"
+      },
+      "transliterations": {
+        "devanagari": "श्रेष्ठ, पवित्र",
+        "latin": "śrēṣṭha, pavitra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bodde",
+      "text": "ಬೊಡ್ಡೆ",
+      "translations": {
+        "en": "bodde (trunk)",
+        "hi": "बोड्डे"
+      },
+      "transliterations": {
+        "devanagari": "बोड्डे",
+        "latin": "boḍḍe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bodde-def",
+      "text": "ಮರದ ಕಾಂಡ",
+      "translations": {
+        "en": "tree trunk",
+        "hi": "पेड़ का तना"
+      },
+      "transliterations": {
+        "devanagari": "मरद कांड",
+        "latin": "marada kāṇḍa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-varna",
+      "text": "ವರ್ಣ",
+      "translations": {
+        "en": "varna (colour/caste)",
+        "hi": "वर्ण"
+      },
+      "transliterations": {
+        "devanagari": "वर्ण",
+        "latin": "varṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-varna-def",
+      "text": "ಬಣ್ಣ",
+      "translations": {
+        "en": "colour",
+        "hi": "रंग"
+      },
+      "transliterations": {
+        "devanagari": "बण्ण",
+        "latin": "baṇṇa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಗಿಡಮರಗಳ ಬೊಡ್ಡೆ ಹಾಗೂ ಎಲೆ ಯಾವ ಬಣ್ಣದಲ್ಲಿವೆ?",
+      "translations": {
+        "en": "What colour are the trunks and leaves of plants and trees?",
+        "hi": "पौधों-पेड़ों के तने और पत्ते किस रंग के हैं?"
+      },
+      "transliterations": {
+        "devanagari": "गिडमरगळ बोड्डे हागू एले याव बण्णदल्लिवे?",
+        "latin": "giḍamaragaḷa boḍḍe hāgū ele yāva baṇṇadallive?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಗಿಡಮರಗಳು ಏನನ್ನು ತಡೆದು ಬೆಳೆಯುತ್ತವೆ?",
+      "translations": {
+        "en": "What do plants and trees endure as they grow?",
+        "hi": "पौधे-पेड़ क्या सहकर बढ़ते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "गिडमरगळु एनन्नु तडेदु बेळेयुत्तवे?",
+        "latin": "giḍamaragaḷu ēnannu taḍedu beḷeyuttave?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಮನುಷ್ಯನ ಮನಸ್ಸು ಯಾವುದರಿಂದ ಹಾಳು ಕೊಂಪೆಯಾಗಿದೆ?",
+      "translations": {
+        "en": "By what has the human mind become a ruined den?",
+        "hi": "मनुष्य का मन किससे खंडहर अड्डा बन गया है?"
+      },
+      "transliterations": {
+        "devanagari": "मनुष्यन मनस्सु यावुदरिंद हाळु कोंपेयागिदे?",
+        "latin": "manuṣyana manassu yāvudarinda hāḷu kompeyāgide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಗಿಡಮರಗಳ ಸ್ವಭಾವ ಎಂಥದ್ದು?",
+      "translations": {
+        "en": "What is the nature of plants and trees?",
+        "hi": "पौधों-पेड़ों का स्वभाव कैसा है?"
+      },
+      "transliterations": {
+        "devanagari": "गिडमरगळ स्वभाव एंथद्दु?",
+        "latin": "giḍamaragaḷa svabhāva enthaddu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಗಿಡಮರಗಳು ಏನನ್ನು ಮೀರಿ ಬೆಳೆದಿವೆ?",
+      "translations": {
+        "en": "What have plants and trees grown beyond?",
+        "hi": "पौधे-पेड़ क्या पार करके बढ़े हैं?"
+      },
+      "transliterations": {
+        "devanagari": "गिडमरगळु एनन्नु मीरि बेळेदिवे?",
+        "latin": "giḍamaragaḷu ēnannu mīri beḷedive?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಬೊಡ್ಡೆ ಕರಿದು ______________\\n______________ ತರತರ\\nಎಂಥ ಸೊಗಸು ______________\\n______________ ಗಿಡ ಮರ",
+      "translations": {
+        "en": "Trunk dark ______________\n______________ many kinds\nWhat beauty ______________\n______________ plant and tree",
+        "hi": "तना काला ______________\n______________ अनेक प्रकार\nकैसी सुंदरता ______________\n______________ पौधा पेड़"
+      },
+      "transliterations": {
+        "devanagari": "बोड्डे करिदु ______________\\n______________ तरतर\\nएंथ सोगसु ______________\\n______________ गिड मर",
+        "latin": "boḍḍe karidu ______________\\n______________ taratara\\nentha sogasu ______________\\n______________ giḍa mara"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "‘ಅ’\n1. ದಿವ್ಯ\n2. ಹಾಳು\n3. ಕಡಲುಕ್ಕುವ\n\n‘ಬ’\nಚೇತನ\nಮೌನ\nಕೊಂಪೆ",
+      "translations": {
+        "en": "'A'\n1. divine\n2. ruined\n3. surging\n\n'B'\nlife-force\nsilence\nden",
+        "hi": "'अ'\n1. दिव्य\n2. खंडहर\n3. उमड़ती\n\n'ब'\nचेतना\nमौन\nकोंपे"
+      },
+      "transliterations": {
+        "devanagari": "‘अ’\n1. दिव्य\n2. हाळु\n3. कडलुक्कुव\n\n‘ब’\nचेतन\nमौन\nकोंपे",
+        "latin": "‘a’\n1. divya\n2. hāḷu\n3. kaḍalukkuva\n\n‘ba’\ncētana\nmauna\nkompe"
+      },
+      "type": "question"
+    },
+    {
+      "id": "grammar-p1",
+      "section": "grammar",
+      "text": "ಲಿಂಗಗಳು\nಪುರುಷ, ಸ್ತ್ರೀ ಮತ್ತು ಇತರ ವಸ್ತುಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ ಹೇಳುವುದಕ್ಕೆ ಲಿಂಗ ಎನ್ನುತ್ತಾರೆ.",
+      "translations": {
+        "en": "Genders\nSeparating and naming male, female and other things is called gender.",
+        "hi": "लिंग\nपुरुष, स्त्री और अन्य वस्तुओं को अलग बताने को लिंग कहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "लिंगगळु\nपुरुष, स्त्री मत्तु इतर वस्तुगळन्नु प्रत्येकिसि हेळुवुदक्के लिंग एन्नुत्तारे.",
+        "latin": "liṅgagaḷu\npuruṣa, strī mattu itara vastugaḷannu pratyēkisi hēḷuvudakke liṅga ennuttāre."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p2",
+      "section": "grammar",
+      "text": "ಲಿಂಗಗಳಲ್ಲಿ ಮೂರು ವಿಧ.\n1. ಪುಲ್ಲಿಂಗ\n2. ಸ್ತ್ರೀಲಿಂಗ\n3. ನಪುಂಸಕಲಿಂಗ",
+      "translations": {
+        "en": "There are three kinds of gender.\n1. Masculine\n2. Feminine\n3. Neuter",
+        "hi": "लिंग तीन प्रकार के होते हैं।\n1. पुल्लिंग\n2. स्त्रीलिंग\n3. नपुंसकलिंग"
+      },
+      "transliterations": {
+        "devanagari": "लिंगगळल्लि मूरु विध.\n1. पुल्लिंग\n2. स्त्रीलिंग\n3. नपुंसकलिंग",
+        "latin": "liṅgagaḷalli mūru vidha.\n1. pulliṅga\n2. strīliṅga\n3. napunsakaliṅga"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p3",
+      "section": "grammar",
+      "text": "1. ಪುಲ್ಲಿಂಗ\nಪುರುಷ ವಾಚಕ ಶಬ್ದಗಳೆಲ್ಲವೂ ಪುಲ್ಲಿಂಗಗಳು. ಅಂದರೆ ಗಂಡಸರನ್ನು ಕುರಿತು ಹೇಳುವ ಪದಗಳು ಪುಲ್ಲಿಂಗ.\nಉದಾ: ರಾಮ, ಅರಸ, ಹುಡುಗ, ತಂದೆ, ಅಣ್ಣ ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "1. Masculine\nAll words referring to males are masculine. That is, words about men are masculine.\nExamples: Rama, king, boy, father, elder brother, etc.",
+        "hi": "1. पुल्लिंग\nपुरुषवाचक शब्द सब पुल्लिंग हैं। अर्थात् पुरुषों के बारे में कहने वाले पद पुल्लिंग।\nउदा.: राम, राजा, लड़का, पिता, बड़ा भाई आदि।"
+      },
+      "transliterations": {
+        "devanagari": "1. पुल्लिंग\nपुरुष वाचक शब्दगळेल्लवू पुल्लिंगगळु. अंदरे गंडसरन्नु कुरितु हेळुव पदगळु पुल्लिंग.\nउदा: राम, अरस, हुडुग, तंदे, अण्ण इत्यादि.",
+        "latin": "1. pulliṅga\npuruṣa vācaka śabdagaḷellavū pulliṅgagaḷu. andare gaṇḍasarannu kuritu hēḷuva padagaḷu pulliṅga.\nudā: rāma, arasa, huḍuga, tande, aṇṇa ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p4",
+      "section": "grammar",
+      "text": "2. ಸ್ತ್ರೀಲಿಂಗ\nಸ್ತ್ರೀ ವಾಚಕ ಶಬ್ದಗಳೆಲ್ಲವೂ ಸ್ತ್ರೀಲಿಂಗಗಳು. ಅಂದರೆ ಹೆಂಗಸರನ್ನು ಕುರಿತು ಹೇಳುವ ಪದಗಳು ಸ್ತ್ರೀಲಿಂಗ.\nಉದಾ: ಸೀತೆ, ಅರಸಿ, ಹುಡುಗಿ, ತಾಯಿ, ಅಕ್ಕ ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "2. Feminine\nAll words referring to females are feminine. That is, words about women are feminine.\nExamples: Sita, queen, girl, mother, elder sister, etc.",
+        "hi": "2. स्त्रीलिंग\nस्त्रीवाचक शब्द सब स्त्रीलिंग हैं। अर्थात् स्त्रियों के बारे में कहने वाले पद स्त्रीलिंग।\nउदा.: सीता, रानी, लड़की, माता, बड़ी बहन आदि।"
+      },
+      "transliterations": {
+        "devanagari": "2. स्त्रीलिंग\nस्त्री वाचक शब्दगळेल्लवू स्त्रीलिंगगळु. अंदरे हेंगसरन्नु कुरितु हेळुव पदगळु स्त्रीलिंग.\nउदा: सीते, अरसि, हुडुगि, तायि, अक्क इत्यादि.",
+        "latin": "2. strīliṅga\nstrī vācaka śabdagaḷellavū strīliṅgagaḷu. andare heṅgasarannu kuritu hēḷuva padagaḷu strīliṅga.\nudā: sīte, arasi, huḍugi, tāyi, akka ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p5",
+      "section": "grammar",
+      "text": "3. ನಪುಂಸಕಲಿಂಗ\nಪುರುಷ ವಾಚಕ ಮತ್ತು ಸ್ತ್ರೀ ವಾಚಕ ಶಬ್ದಗಳನ್ನು ಬಿಟ್ಟು ಉಳಿದೆಲ್ಲ ಶಬ್ದಗಳು ನಪುಂಸಕಲಿಂಗಗಳು. (ಪ್ರಾಣಿ, ಪಕ್ಷಿ, ಮರ, ಗಿಡ, ವಸ್ತು ಇತ್ಯಾದಿ)\nಉದಾ: ಹಸು, ಗಿಳಿ, ಮರ, ಕಲ್ಲು, ಮನೆ ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "3. Neuter\nAll words other than male- and female-referring words are neuter. (animals, birds, trees, plants, objects, etc.)\nExamples: cow, parrot, tree, stone, house, etc.",
+        "hi": "3. नपुंसकलिंग\nपुरुषवाचक और स्त्रीवाचक शब्दों को छोड़कर शेष सब शब्द नपुंसकलिंग हैं। (पशु, पक्षी, पेड़, पौधा, वस्तु आदि)\nउदा.: गाय, तोता, पेड़, पत्थर, घर आदि।"
+      },
+      "transliterations": {
+        "devanagari": "3. नपुंसकलिंग\nपुरुष वाचक मत्तु स्त्री वाचक शब्दगळन्नु बिट्टु उळिदेल्ल शब्दगळु नपुंसकलिंगगळु. (प्राणि, पक्षि, मर, गिड, वस्तु इत्यादि)\nउदा: हसु, गिळि, मर, कल्लु, मने इत्यादि.",
+        "latin": "3. napunsakaliṅga\npuruṣa vācaka mattu strī vācaka śabdagaḷannu biṭṭu uḷidella śabdagaḷu napunsakaliṅgagaḷu. (prāṇi, pakṣi, mara, giḍa, vastu ityādi)\nudā: hasu, giḷi, mara, kallu, mane ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q1",
+      "text": "ಅ) ಲಿಂಗ ಎಂದರೇನು?",
+      "translations": {
+        "en": "A) What is gender?",
+        "hi": "अ) लिंग क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "अ) लिंग एंदरेनु?",
+        "latin": "a) liṅga endarēnu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q2",
+      "text": "ಆ) ಲಿಂಗಗಳಲ್ಲಿ ಎಷ್ಟು ವಿಧ? ಅವು ಯಾವುವು?",
+      "translations": {
+        "en": "B) How many kinds of gender are there? What are they?",
+        "hi": "आ) लिंग कितने प्रकार के हैं? वे कौन-से हैं?"
+      },
+      "transliterations": {
+        "devanagari": "आ) लिंगगळल्लि एष्टु विध? अवु यावुवु?",
+        "latin": "ā) liṅgagaḷalli eṣṭu vidha? avu yāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q3",
+      "text": "ಇ) ಸ್ತ್ರೀಲಿಂಗ ಎಂದರೇನು? ಉದಾಹರಣೆ ಕೊಡಿ.",
+      "translations": {
+        "en": "C) What is feminine gender? Give an example.",
+        "hi": "इ) स्त्रीलिंग क्या है? उदाहरण दीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "इ) स्त्रीलिंग एंदरेनु? उदाहरणे कोडि.",
+        "latin": "i) strīliṅga endarēnu? udāharaṇe koḍi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-B",
+      "id": "grammar-b-q1",
+      "text": "1. ಹುಡುಗ : ___________________",
+      "translations": {
+        "en": "1. boy : ___________________",
+        "hi": "1. लड़का : ___________________"
+      },
+      "transliterations": {
+        "devanagari": "1. हुडुग : ___________________",
+        "latin": "1. huḍuga : ___________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-B",
+      "id": "grammar-b-q2",
+      "text": "2. ತಂಗಿ : ___________________",
+      "translations": {
+        "en": "2. younger sister : ___________________",
+        "hi": "2. छोटी बहन : ___________________"
+      },
+      "transliterations": {
+        "devanagari": "2. तंगि : ___________________",
+        "latin": "2. taṅgi : ___________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-B",
+      "id": "grammar-b-q3",
+      "text": "3. ಗೌಡತಿ : ___________________",
+      "translations": {
+        "en": "3. Gowdati (lady) : ___________________",
+        "hi": "3. गौडति : ___________________"
+      },
+      "transliterations": {
+        "devanagari": "3. गौडति : ___________________",
+        "latin": "3. gauḍati : ___________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-B",
+      "id": "grammar-b-q4",
+      "text": "4. ಅತ್ತೆ : ___________________",
+      "translations": {
+        "en": "4. aunt : ___________________",
+        "hi": "4. चाची/मौसी : ___________________"
+      },
+      "transliterations": {
+        "devanagari": "4. अत्ते : ___________________",
+        "latin": "4. atte : ___________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-B",
+      "id": "grammar-b-q5",
+      "text": "5. ಅವನು : ___________________",
+      "translations": {
+        "en": "5. he : ___________________",
+        "hi": "5. वह (पु.) : ___________________"
+      },
+      "transliterations": {
+        "devanagari": "5. अवनु : ___________________",
+        "latin": "5. avanu : ___________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-C",
+      "id": "grammar-c-q1",
+      "text": "ಕೋಗಿಲೆ, ಆತ, ಅಣ್ಣ, ಜಿಂಕೆ, ಗಿಳಿ, ತಾತ, ಅರಸಿ, ಗಂಗೆ, ಗೆಳೆಯ, ತಾಯಿ, ಹಣ್ಣು, ರಾಧೆ",
+      "translations": {
+        "en": "cuckoo, he, elder brother, deer, parrot, grandfather, queen, Ganga, friend, mother, fruit, Radha",
+        "hi": "कोयल, वह (पु.), बड़ा भाई, हिरन, तोता, दादा, रानी, गंगा, मित्र, माता, फल, राधा"
+      },
+      "transliterations": {
+        "devanagari": "कोगिले, आत, अण्ण, जिंके, गिळि, तात, अरसि, गंगे, गेळेय, तायि, हण्णु, राधे",
+        "latin": "kōgile, āta, aṇṇa, jiṅke, giḷi, tāta, arasi, gaṅge, geḷeya, tāyi, haṇṇu, rādhe"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "1. ಬೆಳದಿಂಗಳ ರಾತ್ರಿಯಲ್ಲಿ ಚಂದ್ರನಿರುವ __________ ನೋಡುವುದೇ ಆನಂದ (ಅಗಸನನ್ನು/ಆಗಸವನ್ನು)",
+      "translations": {
+        "en": "1. On a moonlit night, looking at the __________ where the moon is, is joy (washerman / sky)",
+        "hi": "1. चाँदनी रात में चाँद वाले __________ को देखना ही आनंद है (धोबी को/आकाश को)"
+      },
+      "transliterations": {
+        "devanagari": "1. बेळदिंगळ रात्रियल्लि चंद्रनिरुव __________ नोडुवुदे आनंद (अगसनन्नु/आगसवन्नु)",
+        "latin": "1. beḷadiṅgaḷa rātriyalli candraniruva __________ nōḍuvudē ānanda (agasanannu/āgasavannu)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q2",
+      "text": "2. ನಿನಗೆ ಪೆಟ್ಟಾಗಿರುವುದನ್ನು ಕಂಡಾಗ ನನಗೆ __________ ಬಂದಿತು. (ಆಳು/ಅಳು)",
+      "translations": {
+        "en": "2. Seeing that you were hurt, __________ came to me. (person / cry)",
+        "hi": "2. तुम्हें चोट लगी देखकर मुझे __________ आया। (व्यक्ति/रोना)"
+      },
+      "transliterations": {
+        "devanagari": "2. निनगे पेट्टागिरुवुदन्नु कंडाग ननगे __________ बंदितु. (आळु/अळु)",
+        "latin": "2. ninage peṭṭāgiruvudannu kaṇḍāga nanage __________ banditu. (āḷu/aḷu)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q3",
+      "text": "3. ನನ್ನ __________ ಬೆಂಗಳೂರು. (ಉರು/ಊರು)",
+      "translations": {
+        "en": "3. My __________ is Bengaluru. (thigh / town)",
+        "hi": "3. मेरा __________ बेंगलूरु है। (जाँघ/गाँव-शहर)"
+      },
+      "transliterations": {
+        "devanagari": "3. नन्न __________ बेंगळूरु. (उरु/ऊरु)",
+        "latin": "3. nanna __________ beṅgaḷūru. (uru/ūru)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q4",
+      "text": "4. ಸಂಜೆ ಆಟ ಆಡಿ __________ ಅನಂತರ ಊಟಮಾಡುತ್ತೇನೆ. (ಓದಿದ/ಒದಿದ)",
+      "translations": {
+        "en": "4. After playing in the evening and __________, I eat. (having studied / having kicked)",
+        "hi": "4. शाम को खेलकर __________ के बाद भोजन करता हूँ। (पढ़कर/लात मारकर)"
+      },
+      "transliterations": {
+        "devanagari": "4. संजे आट आडि __________ अनंतर ऊटमाडुत्तेने. (ओदिद/ओदिद)",
+        "latin": "4. sañje āṭa āḍi __________ anantara ūṭamāḍuttēne. (ōdida/odida)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q5",
+      "text": "5. __________ ಮೇಲೆ ಹಾಲನ್ನು ಇಡಲಾಗಿದೆ. (ಒಲೆಯ/ಓಲೆಯ)",
+      "translations": {
+        "en": "5. Milk has been placed on the __________. (stove’s / earring’s)",
+        "hi": "5. __________ पर दूध रखा गया है। (चूल्हे के/कान की बाली के)"
+      },
+      "transliterations": {
+        "devanagari": "5. __________ मेले हालन्नु इडलागिदे. (ओलेय/ओलेय)",
+        "latin": "5. __________ mēle hālannu iḍalāgide. (oleya/ōleya)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "1. ಕಾ__________ವೇರಿ ಕೊ__________ಡಗಿನ ಭಾಗಮಂಡಲದ ಬೆಟ್ಟದ ಬಳಿ ಸಣ್ಣ__________ರಿದಾಗಿ ಹುಟ್ಟಿ ಕೆ__________ಳಗೆ ಹರಿಯುತ್ತದೆ. (ಕ/ಕಾ/ಕಿ/ಕೀ/ಕೆ/ಕೊ)",
+      "translations": {
+        "en": "1. Ka__________veri near the hill of Ko__________dag’s Bhagamandala is born as a small__________ and flows do__________ward. (ka/kā/ki/kī/ke/ko)",
+        "hi": "1. का__________वेरी को__________डग के भागमंडल पहाड़ के पास छोटी__________ होकर नीचे__________ बहती है। (क/का/कि/की/के/को)"
+      },
+      "transliterations": {
+        "devanagari": "1. का__________वेरि को__________डगिन भागमंडलद बेट्टद बळि सण्ण__________रिदागि हुट्टि के__________ळगे हरियुत्तदे. (क/का/कि/की/के/को)",
+        "latin": "1. kā__________vēri ko__________ḍagina bhāgamaṇḍalada beṭṭada baḷi saṇṇa__________ridāgi huṭṭi ke__________ḷage hariyuttade. (ka/kā/ki/kī/ke/ko)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q2",
+      "text": "2. ನದಿಯನ್ನು ದಾ__________ಟಿ ಆಚೆಯ ದ__________ಡ ಸೇರಿದರೆ ದೊ__________ಡ್ಡ ಆಲದ ಮರ ಕಾಣುತ್ತ__________ದೆ (ದ/ದಾ/ದೆ/ದೊ)",
+      "translations": {
+        "en": "2. If you cro__________ the river and reach the other ba__________, a bi__________ banyan tree can be see__________. (da/dā/de/do)",
+        "hi": "2. नदी __________रकर उस पार के किनारे पहुँचें तो ब__________डा बरगद का पेड़ दिखता__________ है (द/दा/दे/दो)"
+      },
+      "transliterations": {
+        "devanagari": "2. नदियन्नु दा__________टि आचेय द__________ड सेरिदरे दो__________ड्ड आलद मर काणुत्त__________दे (द/दा/दे/दो)",
+        "latin": "2. nadiyannu dā__________ṭi āceya da__________ḍa sēridare do__________ḍḍa ālada mara kāṇutta__________de (da/dā/de/do)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q3",
+      "text": "3. ಕಾವೇರಿ ಹಾ__________ವಿನಂತೆ ಹೊ__________ರಳಿ ಹ__________ರಿಯುವ ನದಿ (ಹ/ಹಾ/ಹಿ/ಹೊ)",
+      "translations": {
+        "en": "3. Kaveri is a river that twists like a sna__________ and flo__________s. (ha/hā/hi/ho)",
+        "hi": "3. कावेरी साँप__________ सी मुड़-मुड़कर बह__________ वाली नदी (ह/हा/हि/हो)"
+      },
+      "transliterations": {
+        "devanagari": "3. कावेरि हा__________विनंते हो__________रळि ह__________रियुव नदि (ह/हा/हि/हो)",
+        "latin": "3. kāvēri hā__________vinante ho__________raḷi ha__________riyuva nadi (ha/hā/hi/ho)"
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

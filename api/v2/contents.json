@@ -253,6 +253,406 @@
   ],
   "chapters": [
     {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch01-vandane",
+      "contentHash": "aed7369f97b19293",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch01-vandane.json",
+      "title": "ವಂದನೆ",
+      "titleTranslations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "titleTransliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch02-sahakara",
+      "contentHash": "79db3309d55bee63",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch02-sahakara.json",
+      "title": "ಸಹಕಾರ",
+      "titleTranslations": {
+        "en": "Cooperation",
+        "hi": "सहकार"
+      },
+      "titleTransliterations": {
+        "devanagari": "सहकार",
+        "latin": "sahakāra"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch03-ootada-aata",
+      "contentHash": "c744006c56e96572",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch03-ootada-aata.json",
+      "title": "ಊಟದ ಆಟ",
+      "titleTranslations": {
+        "en": "The Meal Game",
+        "hi": "भोजन का खेल"
+      },
+      "titleTransliterations": {
+        "devanagari": "ऊटद आट",
+        "latin": "ūṭada āṭa"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch04-hoodota",
+      "contentHash": "82bee85db6825e04",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch04-hoodota.json",
+      "title": "ಹೂದೋಟ",
+      "titleTranslations": {
+        "en": "Flower Garden",
+        "hi": "फूलों का बगीचा"
+      },
+      "titleTransliterations": {
+        "devanagari": "हूदोट",
+        "latin": "hūdoṭa"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch05-rekhabhyasa-pathagalu",
+      "contentHash": "f2b5332a666bfa78",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch05-rekhabhyasa-pathagalu.json",
+      "title": "ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು",
+      "titleTranslations": {
+        "en": "Line-drawing lessons",
+        "hi": "रेखाभ्यास पाठ"
+      },
+      "titleTransliterations": {
+        "devanagari": "रेखाभ्यास पाठगळु",
+        "latin": "rekhābhyāsa pāṭhagaḻu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch06-besige-rajeyali",
+      "contentHash": "a59b71ebc14c7824",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch06-besige-rajeyali.json",
+      "title": "ಬೇಸಿಗೆ ರಜೆಯಲಿ",
+      "titleTranslations": {
+        "en": "In the Summer Holiday",
+        "hi": "ग्रीष्म अवकाश में"
+      },
+      "titleTransliterations": {
+        "devanagari": "बेसिगॆ रजॆयलि",
+        "latin": "besigè rajèyali"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch07-koti-mattu-alilu",
+      "contentHash": "a960d6d4f2ccf1d6",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch07-koti-mattu-alilu.json",
+      "title": "ಕೋತಿ ಮತ್ತು ಅಳಿಲು",
+      "titleTranslations": {
+        "en": "The Monkey and the Squirrel",
+        "hi": "बंदर और गिलहरी"
+      },
+      "titleTransliterations": {
+        "devanagari": "कोति मत्तु अळिलु",
+        "latin": "koti mattu aḻilu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapterId": "ch08-pada-odu-akshara-kali",
+      "contentHash": "a3f1b515e0ba9d4f",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch08-pada-odu-akshara-kali.json",
+      "title": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ",
+      "titleTranslations": {
+        "en": "Read words - learn letters",
+        "hi": "शब्द पढ़ो - अक्षर सीखो"
+      },
+      "titleTransliterations": {
+        "devanagari": "पद ओदु - अक्षर कलि",
+        "latin": "pada odu - akṣara kali"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch01-bannada-hakki",
+      "contentHash": "0f3db28719e05b53",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch01-bannada-hakki.json",
+      "title": "ಬಣ್ಣದ ಹಕ್ಕಿ",
+      "titleTranslations": {
+        "en": "Colorful Bird",
+        "hi": "रंग-बिरंगी चिड़िया"
+      },
+      "titleTransliterations": {
+        "devanagari": "बण्णद हक्कि",
+        "latin": "baṇṇada hakki"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch02-ooricobba-rajanante",
+      "contentHash": "0db15d23359a4f36",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch02-ooricobba-rajanante.json",
+      "title": "ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ",
+      "titleTranslations": {
+        "en": "Like a King for a Town",
+        "hi": "गाँव के एक राजा की तरह"
+      },
+      "titleTransliterations": {
+        "devanagari": "ऊरिगोब्ब राजनन्ते",
+        "latin": "ūrigobba rājanante"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch03-geletana",
+      "contentHash": "475ad80ff2a506db",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch03-geletana.json",
+      "title": "ಗೆಳತನ",
+      "titleTranslations": {
+        "en": "Friendship",
+        "hi": "मित्रता"
+      },
+      "titleTransliterations": {
+        "devanagari": "गेळतन",
+        "latin": "geḷatana"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch04-kempegoudara-kanasu",
+      "contentHash": "529b4ac130075691",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch04-kempegoudara-kanasu.json",
+      "title": "ಕೆಂಪೇಗೌಡರ ಕನಸು",
+      "titleTranslations": {
+        "en": "Kempegowda's Dream",
+        "hi": "केम्पेगौड़ा का सपना"
+      },
+      "titleTransliterations": {
+        "devanagari": "केम्पेगौडर कनसु",
+        "latin": "kempēgauḍara kanasu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch05-halliya-dariya-badiyali",
+      "contentHash": "2fc6d35b4376eee8",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch05-halliya-dariya-badiyali.json",
+      "title": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ",
+      "titleTranslations": {
+        "en": "By the Side of the Village Path",
+        "hi": "गाँव के रास्ते के किनारे"
+      },
+      "titleTransliterations": {
+        "devanagari": "हळ्ळिय दारिय बदियलि",
+        "latin": "haḷḷiya dāriya badiyali"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch06-sante",
+      "contentHash": "bbb707aa77f5c92a",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch06-sante.json",
+      "title": "ಸಂತೆ",
+      "titleTranslations": {
+        "en": "Market",
+        "hi": "बाज़ार"
+      },
+      "titleTransliterations": {
+        "devanagari": "सन्ते",
+        "latin": "sante"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch07-arive-guru",
+      "contentHash": "8f792c624f4481a7",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch07-arive-guru.json",
+      "title": "ಅರಿವೇ ಗುರು",
+      "titleTranslations": {
+        "en": "Awareness is the Teacher",
+        "hi": "ज्ञान ही गुरु है"
+      },
+      "titleTransliterations": {
+        "devanagari": "अरिवे गुरु",
+        "latin": "arivē guru"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapterId": "ch08-nanna-devaru",
+      "contentHash": "7e2fcd1019269ed9",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch08-nanna-devaru.json",
+      "title": "ನನ್ನ ದೇವರು",
+      "titleTranslations": {
+        "en": "My God",
+        "hi": "मेरा देवता"
+      },
+      "titleTransliterations": {
+        "devanagari": "नन्न देवरु",
+        "latin": "nanna dēvaru"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
       "bookId": "ktbs-savi-kannada-g3-fl-p1",
       "chapterId": "ch01-bannada-tagadina",
       "contentHash": "38cfd1f1df92592a",
@@ -451,6 +851,895 @@
         "devanagari",
         "latin"
       ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch01-kannadammana-harake",
+      "contentHash": "38ab2d6ece16d6ae",
+      "editionId": "2026-27",
+      "number": 9,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch01-kannadammana-harake.json",
+      "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ",
+      "titleTranslations": {
+        "en": "Mother Kannada's Blessing",
+        "hi": "कन्नड़ माँ का आशीर्वाद"
+      },
+      "titleTransliterations": {
+        "devanagari": "कन्नडम्मन हरके",
+        "latin": "Kannadammana Harake"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch02-buddhivanta-ramakrishna",
+      "contentHash": "6c0d591689b12f23",
+      "editionId": "2026-27",
+      "number": 10,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch02-buddhivanta-ramakrishna.json",
+      "title": "ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ",
+      "titleTranslations": {
+        "en": "Clever Ramakrishna",
+        "hi": "बुद्धिमान रामकृष्ण"
+      },
+      "titleTransliterations": {
+        "devanagari": "बुद्धिवंत रामकृष्ण",
+        "latin": "Buddhivanta Raamakrishna"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch03-veeramate-jijabayi",
+      "contentHash": "4ca18c8a0c02f13a",
+      "editionId": "2026-27",
+      "number": 11,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch03-veeramate-jijabayi.json",
+      "title": "ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ",
+      "titleTranslations": {
+        "en": "The Heroic Mother Jijabai",
+        "hi": "वीरमाता जीजाबाई"
+      },
+      "titleTransliterations": {
+        "devanagari": "वीरमातॆ जीजाबायि",
+        "latin": "Veeramate Jijabayyi"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch04-male",
+      "contentHash": "5de756518a979dee",
+      "editionId": "2026-27",
+      "number": 12,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch04-male.json",
+      "title": "ಮಳೆ",
+      "titleTranslations": {
+        "en": "Rain",
+        "hi": "वर्षा"
+      },
+      "titleTransliterations": {
+        "devanagari": "मळॆ",
+        "latin": "Male"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+      "contentHash": "9ae851d7256f1bac",
+      "editionId": "2026-27",
+      "number": 13,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch05-ajjiya-totadalli-ondu-dina.json",
+      "title": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ",
+      "titleTranslations": {
+        "en": "A Day in Grandma's Garden",
+        "hi": "दादी के बगीचे में एक दिन"
+      },
+      "titleTransliterations": {
+        "devanagari": "अज्जिय तोटदल्लि ऒंदु दिन",
+        "latin": "Ajjiya Totadalli Ondu Dina"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch06-doddavaru-yaaru",
+      "contentHash": "3fbe4b3c8eb35b8a",
+      "editionId": "2026-27",
+      "number": 14,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch06-doddavaru-yaaru.json",
+      "title": "ದೊಡ್ಡವರು ಯಾರು?",
+      "titleTranslations": {
+        "en": "Who is Great?",
+        "hi": "महान कौन?"
+      },
+      "titleTransliterations": {
+        "devanagari": "दोड्डवरु यारु?",
+        "latin": "doddavaru yaaru?"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch07-beesokallina-pada",
+      "contentHash": "0223812fed22faf2",
+      "editionId": "2026-27",
+      "number": 15,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch07-beesokallina-pada.json",
+      "title": "ಬೀಸೋಕಲ್ಲಿನ ಪದ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g3-fl-p1",
+      "chapterId": "ch08-taayigondu-patra",
+      "contentHash": "477036073bf5b011",
+      "editionId": "2026-27",
+      "number": 16,
+      "path": "books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch08-taayigondu-patra.json",
+      "title": "ತಾಯಿಗೊಂದು ಪತ್ರ",
+      "titleTranslations": {
+        "en": "A Letter to Mother",
+        "hi": "माँ को एक पत्र"
+      },
+      "titleTransliterations": {
+        "devanagari": "तायिगॊंदु पत्र",
+        "latin": "Taayigomdu patra"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch01-ottige-baluva-ananda",
+      "contentHash": "0528f90da5a0dcc2",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch01-ottige-baluva-ananda.json",
+      "title": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch02-nadiya-alalu",
+      "contentHash": "ffc1bda70aed49b2",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch02-nadiya-alalu.json",
+      "title": "ನದಿಯ ಅಳಲು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch03-namma-matu-keli",
+      "contentHash": "2aa944521c5218c2",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch03-namma-matu-keli.json",
+      "title": "ನಮ್ಮ ಮಾತು ಕೇಳಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch04-jivada-moulya",
+      "contentHash": "4e03b7162257c05a",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch04-jivada-moulya.json",
+      "title": "ಜೀವದ ಮೌಲ್ಯ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch05-gidamara",
+      "contentHash": "292b542d3190d37f",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch05-gidamara.json",
+      "title": "ಗಿಡ ಮರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch06-swatantryada-hanate",
+      "contentHash": "3176c1cb566cb90d",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch06-swatantryada-hanate.json",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch07-vachanagalu",
+      "contentHash": "959781c4630868e1",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch07-vachanagalu.json",
+      "title": "ವಚನಗಳು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch08-kannada-kannada-barri-namma-sangada",
+      "contentHash": "c05173df45b17bbb",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch08-kannada-kannada-barri-namma-sangada.json",
+      "title": "ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch09-kamana-billu",
+      "contentHash": "5ce98e66ae8a546c",
+      "editionId": "2026-27",
+      "number": 9,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch09-kamana-billu.json",
+      "title": "ಕಾಮನ ಬಿಲ್ಲು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapterId": "ch10-nanu-mattu-hunchimara",
+      "contentHash": "d2e69e273c0cc808",
+      "editionId": "2026-27",
+      "number": 10,
+      "path": "books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch10-nanu-mattu-hunchimara.json",
+      "title": "ನಾನು ಮತ್ತು ಹುಂಚಿಮರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch01-doddavara-daari",
+      "contentHash": "e165ba5b983621cd",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch01-doddavara-daari.json",
+      "title": "ದೊಡ್ಡವರ ದಾರಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch02-gandharvasena",
+      "contentHash": "e31810d946702a58",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch02-gandharvasena.json",
+      "title": "ಗಂಧರ್ವಸೇನ!",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch03-krishna-sudhama",
+      "contentHash": "1050eb48e2cddfc8",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch03-krishna-sudhama.json",
+      "title": "ಕೃಷ್ಣ - ಸುಧಾಮ (ನಾಟಕ)",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch04-dr-rajkumar",
+      "contentHash": "d66361e50f6fa8b9",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch04-dr-rajkumar.json",
+      "title": "ಡಾ. ರಾಜಕುಮಾರ್",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch05-besige",
+      "contentHash": "063ac71989c29b59",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch05-besige.json",
+      "title": "ಬೇಸಿಗೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch06-mangala-grahadalli-putti",
+      "contentHash": "8db9e4e5fc290b8e",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch06-mangala-grahadalli-putti.json",
+      "title": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch07-ni-hoda-marudina",
+      "contentHash": "f21d6acf0a4b3902",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch07-ni-hoda-marudina.json",
+      "title": "ನೀ ಹೋದ ಮರುದಿನ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch08-magu-mattu-hannugalu",
+      "contentHash": "8657b18c28eccf94",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch08-magu-mattu-hannugalu.json",
+      "title": "ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch09-natyakala-durandhara-mahammad-peer",
+      "contentHash": "2526c944f8bc7ea9",
+      "editionId": "2026-27",
+      "number": 9,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch09-natyakala-durandhara-mahammad-peer.json",
+      "title": "ನಾಟ್ಯಕಲಾ ದುರಂಧರ ಮಹಮ್ಮದ್ ಪೀರ್",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapterId": "ch10-avva",
+      "contentHash": "8428554e40013b1e",
+      "editionId": "2026-27",
+      "number": 10,
+      "path": "books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch10-avva.json",
+      "title": "ಅವ್ವ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch01-puttajji-puttajji-kathe-helu",
+      "contentHash": "56868efdc20f01c5",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch01-puttajji-puttajji-kathe-helu.json",
+      "title": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch02-seena-settaru-namma-teacheru",
+      "contentHash": "cd601093fdbd1bf0",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch02-seena-settaru-namma-teacheru.json",
+      "title": "ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch03-hilton-head-chalavali",
+      "contentHash": "a5d58122ed4296d0",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch03-hilton-head-chalavali.json",
+      "title": "ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch04-mailara-mahadeva",
+      "contentHash": "fb9ee606ea5f5549",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch04-mailara-mahadeva.json",
+      "title": "ಮೈಲಾರ ಮಹಾದೇವ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch05-huttari-haadu",
+      "contentHash": "fea6ae1790503004",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch05-huttari-haadu.json",
+      "title": "ಹುತ್ತರಿ ಹಾಡು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch06-swatantrya-swarga",
+      "contentHash": "4e6ce397b2aec2cf",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch06-swatantrya-swarga.json",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch07-bhagyada-balegara",
+      "contentHash": "0e5f88e3676bfe53",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch07-bhagyada-balegara.json",
+      "title": "ಭಾಗ್ಯದ ಬಳೆಗಾರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch08-vachanagala-bhavasangama",
+      "contentHash": "d83bf4869440cec8",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch08-vachanagala-bhavasangama.json",
+      "title": "ವಚನಗಳ ಭಾವಸಂಗಮ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch09-basavannanavara-jeevana-darshana",
+      "contentHash": "99295498b4c5d45b",
+      "editionId": "2026-27",
+      "number": 9,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch09-basavannanavara-jeevana-darshana.json",
+      "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ದರ್ಶನ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapterId": "ch10-gombe-kalisuva-neeti",
+      "contentHash": "02eac87667d67705",
+      "editionId": "2026-27",
+      "number": 10,
+      "path": "books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch10-gombe-kalisuva-neeti.json",
+      "title": "ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch01-maggada-saheba",
+      "contentHash": "a72ab93290de823d",
+      "editionId": "2026-27",
+      "number": 1,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch01-maggada-saheba.json",
+      "title": "ಮಗ್ಗದ ಸಾಹೇಬ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch02-sarthaka-badukina-sadhaka-dvg",
+      "contentHash": "6bf73513e5c16e46",
+      "editionId": "2026-27",
+      "number": 2,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch02-sarthaka-badukina-sadhaka-dvg.json",
+      "title": "ಸಾರ್ಥಕ ಬದುಕಿನ ಸಾಧಕ-ಡಿ.ವಿ.ಜಿ.",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch03-neeru-kodada-nadinalli",
+      "contentHash": "185c6c42647f968b",
+      "editionId": "2026-27",
+      "number": 3,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch03-neeru-kodada-nadinalli.json",
+      "title": "ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch04-yashodhare",
+      "contentHash": "fbf7b13dc9eff891",
+      "editionId": "2026-27",
+      "number": 4,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch04-yashodhare.json",
+      "title": "ಯಶೋಧರೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch05-kannadigara-taayi",
+      "contentHash": "025db0289f8e5102",
+      "editionId": "2026-27",
+      "number": 5,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch05-kannadigara-taayi.json",
+      "title": "ಕನ್ನಡಿಗರ ತಾಯಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch06-bharathiyate",
+      "contentHash": "fdc3cd3b23e63aca",
+      "editionId": "2026-27",
+      "number": 6,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch06-bharathiyate.json",
+      "title": "ಭಾರತೀಯತೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch07-bevu-belladoludalenu-phala",
+      "contentHash": "d197d5b59253349d",
+      "editionId": "2026-27",
+      "number": 7,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch07-bevu-belladoludalenu-phala.json",
+      "title": "ಬೇವೂ ಬೆಲ್ಲದೊಳುದಲೆನು ಫಲ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch08-someshwara-shataka",
+      "contentHash": "24343bab927a4abd",
+      "editionId": "2026-27",
+      "number": 8,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch08-someshwara-shataka.json",
+      "title": "ಸೋಮೇಶ್ವರ ಶತಕ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch09-sarthaka",
+      "contentHash": "4318a75ac071245b",
+      "editionId": "2026-27",
+      "number": 9,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch09-sarthaka.json",
+      "title": "ಸಾರ್ಥಕ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch10-ahuti",
+      "contentHash": "ad53cae1bab5be53",
+      "editionId": "2026-27",
+      "number": 10,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch10-ahuti.json",
+      "title": "ಆಹುತಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapterId": "ch11-magalige-bareda-patra",
+      "contentHash": "8fe561ebf7a3b6c7",
+      "editionId": "2026-27",
+      "number": 11,
+      "path": "books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch11-magalige-bareda-patra.json",
+      "title": "ಮಗಳಿಗೆ ಬರೆದ ಪತ್ರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
     }
   ],
   "editions": [
@@ -461,49 +1750,49 @@
       "bookId": "ktbs-savi-kannada-g1-fl-p1",
       "chapters": [
         {
-          "held": true,
+          "held": false,
           "id": "ch01-vandane",
           "number": 1,
           "title": "ವಂದನೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-sahakara",
           "number": 2,
           "title": "ಸಹಕಾರ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-ootada-aata",
           "number": 3,
           "title": "ಊಟದ ಆಟ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-hoodota",
           "number": 4,
           "title": "ಹೂದೋಟ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-rekhabhyasa-pathagalu",
           "number": 5,
           "title": "ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-besige-rajeyali",
           "number": 6,
           "title": "ಬೇಸಿಗೆ ರಜೆಯಲಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-koti-mattu-alilu",
           "number": 7,
           "title": "ಕೋತಿ ಮತ್ತು ಅಳಿಲು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-pada-odu-akshara-kali",
           "number": 8,
           "title": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ"
@@ -512,7 +1801,7 @@
       "id": "2026-27",
       "label": "Savi Kannada Grade 1 First Language Part 1 (2026–27)",
       "languageRole": "first-language",
-      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "license": "CC BY 4.0",
       "printedGrade": 1,
       "provenance": {
         "notes": "Grade 1 FL Part 1 chapters 1–8 converted as held editorial drafts; production API excluded until rights are verified. Chapter 8 alphabet drills are structured by ಅಕ್ಷರಾಭ್ಯಾಸ units with representative sample words; page-local fill-in drills remain partial.",
@@ -531,49 +1820,49 @@
       "bookId": "ktbs-savi-kannada-g2-fl-p1",
       "chapters": [
         {
-          "held": true,
+          "held": false,
           "id": "ch01-bannada-hakki",
           "number": 1,
           "title": "ಬಣ್ಣದ ಹಕ್ಕಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-ooricobba-rajanante",
           "number": 2,
           "title": "ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-geletana",
           "number": 3,
           "title": "ಗೆಳತನ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-kempegoudara-kanasu",
           "number": 4,
           "title": "ಕೆಂಪೇಗೌಡರ ಕನಸು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-halliya-dariya-badiyali",
           "number": 5,
           "title": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-sante",
           "number": 6,
           "title": "ಸಂತೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-arive-guru",
           "number": 7,
           "title": "ಅರಿವೇ ಗುರು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-nanna-devaru",
           "number": 8,
           "title": "ನನ್ನ ದೇವರು"
@@ -582,7 +1871,7 @@
       "id": "2026-27",
       "label": "Savi Kannada Grade 2 First Language Part 1 (2026–27)",
       "languageRole": "first-language",
-      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "license": "CC BY 4.0",
       "printedGrade": 2,
       "provenance": {
         "notes": "Grade 2 FL Part 1 chapters 1–8 converted as held editorial drafts; production API excluded until rights are verified.",
@@ -649,49 +1938,49 @@
           "title": "ಸಂಕ್ರಾಂತಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch01-kannadammana-harake",
           "number": 9,
           "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-buddhivanta-ramakrishna",
           "number": 10,
           "title": "ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-veeramate-jijabayi",
           "number": 11,
           "title": "ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-male",
           "number": 12,
           "title": "ಮಳೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-ajjiya-totadalli-ondu-dina",
           "number": 13,
           "title": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-doddavaru-yaaru",
           "number": 14,
           "title": "ದೊಡ್ಡವರು ಯಾರು?"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-beesokallina-pada",
           "number": 15,
           "title": "ಬೀಸೋಕಲ್ಲಿನ ಪದ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-taayigondu-patra",
           "number": 16,
           "title": "ತಾಯಿಗೊಂದು ಪತ್ರ"
@@ -720,61 +2009,61 @@
       "bookId": "ktbs-savi-kannada-g5-fl-p1",
       "chapters": [
         {
-          "held": true,
+          "held": false,
           "id": "ch01-ottige-baluva-ananda",
           "number": 1,
           "title": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-nadiya-alalu",
           "number": 2,
           "title": "ನದಿಯ ಅಳಲು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-namma-matu-keli",
           "number": 3,
           "title": "ನಮ್ಮ ಮಾತು ಕೇಳಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-jivada-moulya",
           "number": 4,
           "title": "ಜೀವದ ಮೌಲ್ಯ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-gidamara",
           "number": 5,
           "title": "ಗಿಡ ಮರ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-swatantryada-hanate",
           "number": 6,
           "title": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-vachanagalu",
           "number": 7,
           "title": "ವಚನಗಳು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-kannada-kannada-barri-namma-sangada",
           "number": 8,
           "title": "ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch09-kamana-billu",
           "number": 9,
           "title": "ಕಾಮನ ಬಿಲ್ಲು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch10-nanu-mattu-hunchimara",
           "number": 10,
           "title": "ನಾನು ಮತ್ತು ಹುಂಚಿಮರ"
@@ -783,7 +2072,7 @@
       "id": "2026-27",
       "label": "Savi Kannada Grade 5 First Language Part 1 (2026–27)",
       "languageRole": "first-language",
-      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "license": "CC BY 4.0",
       "printedGrade": 5,
       "provenance": {
         "notes": "Partial conversion checkpoint for Grade 5 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
@@ -802,61 +2091,61 @@
       "bookId": "ktbs-savi-kannada-g6-fl-p1",
       "chapters": [
         {
-          "held": true,
+          "held": false,
           "id": "ch01-doddavara-daari",
           "number": 1,
           "title": "ದೊಡ್ಡವರ ದಾರಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-gandharvasena",
           "number": 2,
           "title": "ಗಂಧರ್ವಸೇನ!"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-krishna-sudhama",
           "number": 3,
           "title": "ಕೃಷ್ಣ - ಸುಧಾಮ (ನಾಟಕ)"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-dr-rajkumar",
           "number": 4,
           "title": "ಡಾ. ರಾಜಕುಮಾರ್"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-besige",
           "number": 5,
           "title": "ಬೇಸಿಗೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-mangala-grahadalli-putti",
           "number": 6,
           "title": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-ni-hoda-marudina",
           "number": 7,
           "title": "ನೀ ಹೋದ ಮರುದಿನ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-magu-mattu-hannugalu",
           "number": 8,
           "title": "ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch09-natyakala-durandhara-mahammad-peer",
           "number": 9,
           "title": "ನಾಟ್ಯಕಲಾ ದುರಂಧರ ಮಹಮ್ಮದ್ ಪೀರ್"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch10-avva",
           "number": 10,
           "title": "ಅವ್ವ"
@@ -865,7 +2154,7 @@
       "id": "2026-27",
       "label": "Savi Kannada Grade 6 First Language Part 1 (2026–27)",
       "languageRole": "first-language",
-      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "license": "CC BY 4.0",
       "printedGrade": 6,
       "provenance": {
         "notes": "Partial conversion checkpoint for Grade 6 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
@@ -884,61 +2173,61 @@
       "bookId": "ktbs-savi-kannada-g7-fl-p1",
       "chapters": [
         {
-          "held": true,
+          "held": false,
           "id": "ch01-puttajji-puttajji-kathe-helu",
           "number": 1,
           "title": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-seena-settaru-namma-teacheru",
           "number": 2,
           "title": "ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-hilton-head-chalavali",
           "number": 3,
           "title": "ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-mailara-mahadeva",
           "number": 4,
           "title": "ಮೈಲಾರ ಮಹಾದೇವ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-huttari-haadu",
           "number": 5,
           "title": "ಹುತ್ತರಿ ಹಾಡು"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-swatantrya-swarga",
           "number": 6,
           "title": "ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-bhagyada-balegara",
           "number": 7,
           "title": "ಭಾಗ್ಯದ ಬಳೆಗಾರ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-vachanagala-bhavasangama",
           "number": 8,
           "title": "ವಚನಗಳ ಭಾವಸಂಗಮ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch09-basavannanavara-jeevana-darshana",
           "number": 9,
           "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ದರ್ಶನ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch10-gombe-kalisuva-neeti",
           "number": 10,
           "title": "ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ"
@@ -947,7 +2236,7 @@
       "id": "2026-27",
       "label": "Savi Kannada Grade 7 First Language Part 1 (2026–27)",
       "languageRole": "first-language",
-      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "license": "CC BY 4.0",
       "printedGrade": 7,
       "provenance": {
         "notes": "Partial conversion checkpoint for Grade 7 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
@@ -966,67 +2255,67 @@
       "bookId": "ktbs-savi-kannada-g8-fl-p1",
       "chapters": [
         {
-          "held": true,
+          "held": false,
           "id": "ch01-maggada-saheba",
           "number": 1,
           "title": "ಮಗ್ಗದ ಸಾಹೇಬ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch02-sarthaka-badukina-sadhaka-dvg",
           "number": 2,
           "title": "ಸಾರ್ಥಕ ಬದುಕಿನ ಸಾಧಕ-ಡಿ.ವಿ.ಜಿ."
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch03-neeru-kodada-nadinalli",
           "number": 3,
           "title": "ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch04-yashodhare",
           "number": 4,
           "title": "ಯಶೋಧರೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch05-kannadigara-taayi",
           "number": 5,
           "title": "ಕನ್ನಡಿಗರ ತಾಯಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch06-bharathiyate",
           "number": 6,
           "title": "ಭಾರತೀಯತೆ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch07-bevu-belladoludalenu-phala",
           "number": 7,
           "title": "ಬೇವೂ ಬೆಲ್ಲದೊಳುದಲೆನು ಫಲ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch08-someshwara-shataka",
           "number": 8,
           "title": "ಸೋಮೇಶ್ವರ ಶತಕ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch09-sarthaka",
           "number": 9,
           "title": "ಸಾರ್ಥಕ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch10-ahuti",
           "number": 10,
           "title": "ಆಹುತಿ"
         },
         {
-          "held": true,
+          "held": false,
           "id": "ch11-magalige-bareda-patra",
           "number": 11,
           "title": "ಮಗಳಿಗೆ ಬರೆದ ಪತ್ರ"
@@ -1035,7 +2324,7 @@
       "id": "2026-27",
       "label": "Savi Kannada Grade 8 First Language Part 1 (2026–27)",
       "languageRole": "first-language",
-      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "license": "CC BY 4.0",
       "printedGrade": 8,
       "provenance": {
         "notes": "Partial conversion checkpoint for Grade 8 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
@@ -1048,6 +2337,6 @@
       }
     }
   ],
-  "generatedAt": "2026-09-19T07:29:34Z",
+  "generatedAt": "2026-09-19T09:18:33Z",
   "schemaVersion": "2.0"
 }

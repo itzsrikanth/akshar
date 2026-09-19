@@ -1,0 +1,1170 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g1-fl-p1",
+    "chapterId": "ch03-ootada-aata",
+    "editionId": "2026-27",
+    "number": 3
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अभ्यास अ",
+      "en": "Exercise A",
+      "hi": "अभ्यास अ",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "abhyāsa a"
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ",
+      "en": "Exercise B",
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "abhyāsa ā"
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ",
+      "en": "Exercise C",
+      "hi": "अभ्यास इ",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "abhyāsa i"
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई",
+      "en": "Exercise D",
+      "hi": "अभ्यास ई",
+      "kn": "ಅಭ್ಯಾಸ ಈ",
+      "latin": "abhyāsa ī"
+    },
+    "intro": {
+      "devanagari": "पाठ - ३ : पाठपूर्व चटुवटिकॆ",
+      "en": "Lesson - 3 : Pre-lesson activity",
+      "hi": "पाठ - ३ : पाठपूर्व गतिविधि",
+      "kn": "ಪಾಠ - ೩ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ",
+      "latin": "pāṭha - 3 : pāṭhapūrva caṭuvaṭikè"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "title": {
+      "devanagari": "ऊटद आट",
+      "en": "The Meal Game",
+      "hi": "भोजन का खेल",
+      "kn": "ಊಟದ ಆಟ",
+      "latin": "ūṭada āṭa"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने हुए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "keḻida padagaḻu"
+    }
+  },
+  "meta": {
+    "author": "ಜಿ.ಪಿ. ರಾಜರತ್ನಂ",
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch03-ootada-aata",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಊಟದ ಆಟ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ, ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the picture and have the children say the word.",
+        "hi": "अ) चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि, पद हेळिसि.",
+        "latin": "a) citra torisi, pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-moogu",
+      "section": "intro",
+      "text": "ಮೂಗು",
+      "translations": {
+        "en": "nose",
+        "hi": "नाक"
+      },
+      "transliterations": {
+        "devanagari": "मूगु",
+        "latin": "mūgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-kannugalu",
+      "section": "intro",
+      "text": "ಕಣ್ಣುಗಳು",
+      "translations": {
+        "en": "eyes",
+        "hi": "आँखें"
+      },
+      "transliterations": {
+        "devanagari": "कण्णुगळु",
+        "latin": "kaṇṇugaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-elegalu",
+      "section": "intro",
+      "text": "ಎಲೆಗಳು",
+      "translations": {
+        "en": "leaves",
+        "hi": "पत्तियाँ"
+      },
+      "transliterations": {
+        "devanagari": "ऎलॆगळु",
+        "latin": "èlègaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-hoogalu",
+      "section": "intro",
+      "text": "ಹೂಗಳು",
+      "translations": {
+        "en": "flowers",
+        "hi": "फूल"
+      },
+      "transliterations": {
+        "devanagari": "हूगळु",
+        "latin": "hūgaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-kai-beralgu",
+      "section": "intro",
+      "text": "ಕೈ ಬೆರಳುಗಳು",
+      "translations": {
+        "en": "fingers of the hand",
+        "hi": "हाथ की उंगलियाँ"
+      },
+      "transliterations": {
+        "devanagari": "कै बॆरळुगळु",
+        "latin": "kai bèraḻugaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "poem-intro",
+      "section": "poem",
+      "text": "(ಈ ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಹಾಡಿ ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)",
+      "translations": {
+        "en": "(Sing this poem tunefully and have the children say it)",
+        "hi": "(इस पद्य को राग से गाकर बच्चों से बुलवाएँ)"
+      },
+      "transliterations": {
+        "devanagari": "(ई पद्यवन्नु रागवागि हाडि मक्कळिंद हेळिसि)",
+        "latin": "(ī padyavannu rāgavāgi hāḍi makkaḻiṃda heḻisi)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಒಂದು ಎರಡು",
+      "translations": {
+        "en": "One two",
+        "hi": "एक दो"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु ऎरडु",
+        "latin": "òṃdu èraḍu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಬಾಳೆಲೆ ಹರಡು",
+      "translations": {
+        "en": "Spread the banana leaf",
+        "hi": "केले का पत्ता बिछाओ"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆलॆ हरडु",
+        "latin": "bāḻèlè haraḍu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಮೂರು ನಾಲ್ಕು",
+      "translations": {
+        "en": "Three four",
+        "hi": "तीन चार"
+      },
+      "transliterations": {
+        "devanagari": "मूरु नाल्कु",
+        "latin": "mūru nālku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಅನ್ನ ಹಾಕು",
+      "translations": {
+        "en": "Serve the rice",
+        "hi": "भात डालो"
+      },
+      "transliterations": {
+        "devanagari": "अन्न हाकु",
+        "latin": "anna hāku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಐದು ಆರು",
+      "translations": {
+        "en": "Five six",
+        "hi": "पाँच छह"
+      },
+      "transliterations": {
+        "devanagari": "ऐदु आरु",
+        "latin": "aidu āru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಬೇಳೆ ಸಾರು",
+      "translations": {
+        "en": "Lentil soup (saaru)",
+        "hi": "दाल सारु"
+      },
+      "transliterations": {
+        "devanagari": "बेळॆ सारु",
+        "latin": "beḻè sāru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಏಳು ಎಂಟು",
+      "translations": {
+        "en": "Seven eight",
+        "hi": "सात आठ"
+      },
+      "transliterations": {
+        "devanagari": "एळु ऎंटु",
+        "latin": "eḻu èṃṭu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಪಲ್ಯಕೆ ದಂಟು",
+      "translations": {
+        "en": "Greens for the side dish",
+        "hi": "सब्जी के लिए डंठल"
+      },
+      "transliterations": {
+        "devanagari": "पल्यकॆ दंटु",
+        "latin": "palyakè daṃṭu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಒಂಬತ್ತು ಹತ್ತು",
+      "translations": {
+        "en": "Nine ten",
+        "hi": "नौ दस"
+      },
+      "transliterations": {
+        "devanagari": "ऒंबत्तु हत्तु",
+        "latin": "òṃbattu hattu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಎಲೆ ಮುದಿರೆತ್ತು",
+      "translations": {
+        "en": "Fold up the leaf",
+        "hi": "पत्ता मोड़कर उठाओ"
+      },
+      "transliterations": {
+        "devanagari": "ऎलॆ मुदिरॆत्तु",
+        "latin": "èlè mudirèttu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "stanza": 6,
+      "text": "ಒಂದರಿಂದ ಹತ್ತು",
+      "translations": {
+        "en": "From one to ten",
+        "hi": "एक से दस"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदरिंद हत्तु",
+        "latin": "òṃdariṃda hattu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "stanza": 6,
+      "text": "ಹೀಗಿತ್ತು",
+      "translations": {
+        "en": "It was like this",
+        "hi": "ऐसा ही था"
+      },
+      "transliterations": {
+        "devanagari": "हीगित्तु",
+        "latin": "hīgittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "stanza": 6,
+      "text": "ಊಟದ ಆಟವು",
+      "translations": {
+        "en": "The meal game",
+        "hi": "भोजन का खेल"
+      },
+      "transliterations": {
+        "devanagari": "ऊटद आटवु",
+        "latin": "ūṭada āṭavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "stanza": 6,
+      "text": "ಮುಗಿದಿತ್ತು",
+      "translations": {
+        "en": "Was finished",
+        "hi": "समाप्त हुआ"
+      },
+      "transliterations": {
+        "devanagari": "मुगिदित्तु",
+        "latin": "mugidittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-ondu",
+      "text": "ಒಂದು",
+      "translations": {
+        "en": "one",
+        "hi": "एक"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु",
+        "latin": "òṃdu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-eradu",
+      "text": "ಎರಡು",
+      "translations": {
+        "en": "two",
+        "hi": "दो"
+      },
+      "transliterations": {
+        "devanagari": "ऎरडु",
+        "latin": "èraḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-baalele",
+      "text": "ಬಾಳೆಲೆ",
+      "translations": {
+        "en": "banana leaf",
+        "hi": "केले का पत्ता"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆलॆ",
+        "latin": "bāḻèlè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haradu",
+      "text": "ಹರಡು",
+      "translations": {
+        "en": "spread",
+        "hi": "बिछाना"
+      },
+      "transliterations": {
+        "devanagari": "हरडु",
+        "latin": "haraḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mooru",
+      "text": "ಮೂರು",
+      "translations": {
+        "en": "three",
+        "hi": "तीन"
+      },
+      "transliterations": {
+        "devanagari": "मूरु",
+        "latin": "mūru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-naalku",
+      "text": "ನಾಲ್ಕು",
+      "translations": {
+        "en": "four",
+        "hi": "चार"
+      },
+      "transliterations": {
+        "devanagari": "नाल्कु",
+        "latin": "nālku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-anna",
+      "text": "ಅನ್ನ",
+      "translations": {
+        "en": "rice/food",
+        "hi": "अन्न"
+      },
+      "transliterations": {
+        "devanagari": "अन्न",
+        "latin": "anna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haaku",
+      "text": "ಹಾಕು",
+      "translations": {
+        "en": "put/serve",
+        "hi": "डालना"
+      },
+      "transliterations": {
+        "devanagari": "हाकु",
+        "latin": "hāku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aidu",
+      "text": "ಐದು",
+      "translations": {
+        "en": "five",
+        "hi": "पाँच"
+      },
+      "transliterations": {
+        "devanagari": "ऐदु",
+        "latin": "aidu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aaru",
+      "text": "ಆರು",
+      "translations": {
+        "en": "six",
+        "hi": "छह"
+      },
+      "transliterations": {
+        "devanagari": "आरु",
+        "latin": "āru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bele",
+      "text": "ಬೇಳೆ",
+      "translations": {
+        "en": "dal/lentil",
+        "hi": "दाल"
+      },
+      "transliterations": {
+        "devanagari": "बेळॆ",
+        "latin": "beḻè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saaru",
+      "text": "ಸಾರು",
+      "translations": {
+        "en": "rasam/soup",
+        "hi": "सारु"
+      },
+      "transliterations": {
+        "devanagari": "सारु",
+        "latin": "sāru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-elu",
+      "text": "ಏಳು",
+      "translations": {
+        "en": "seven",
+        "hi": "सात"
+      },
+      "transliterations": {
+        "devanagari": "एळु",
+        "latin": "eḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-entu",
+      "text": "ಎಂಟು",
+      "translations": {
+        "en": "eight",
+        "hi": "आठ"
+      },
+      "transliterations": {
+        "devanagari": "ऎंटु",
+        "latin": "èṃṭu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-palya",
+      "text": "ಪಲ್ಯ",
+      "translations": {
+        "en": "vegetable side dish",
+        "hi": "सब्जी व्यंजन"
+      },
+      "transliterations": {
+        "devanagari": "पल्य",
+        "latin": "palya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dantu",
+      "text": "ದಂಟು",
+      "translations": {
+        "en": "a leafy vegetable",
+        "hi": "एक साग"
+      },
+      "transliterations": {
+        "devanagari": "दंटु",
+        "latin": "daṃṭu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ombattu",
+      "text": "ಒಂಬತ್ತು",
+      "translations": {
+        "en": "nine",
+        "hi": "नौ"
+      },
+      "transliterations": {
+        "devanagari": "ऒंबत्तु",
+        "latin": "òṃbattu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hattu",
+      "text": "ಹತ್ತು",
+      "translations": {
+        "en": "ten",
+        "hi": "दस"
+      },
+      "transliterations": {
+        "devanagari": "हत्तु",
+        "latin": "hattu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ele",
+      "text": "ಎಲೆ",
+      "translations": {
+        "en": "leaf",
+        "hi": "पत्ता"
+      },
+      "transliterations": {
+        "devanagari": "ऎलॆ",
+        "latin": "èlè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mudiru",
+      "text": "ಮುದಿರು",
+      "translations": {
+        "en": "fold/cover",
+        "hi": "मोड़ना"
+      },
+      "transliterations": {
+        "devanagari": "मुदिरु",
+        "latin": "mudiru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ettu",
+      "text": "ಎತ್ತು",
+      "translations": {
+        "en": "lift",
+        "hi": "उठाना"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तु",
+        "latin": "èttu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-oota",
+      "text": "ಊಟ",
+      "translations": {
+        "en": "meal",
+        "hi": "भोजन"
+      },
+      "transliterations": {
+        "devanagari": "ऊट",
+        "latin": "ūṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-palya",
+      "text": "ಪಲ್ಯ",
+      "translations": {
+        "en": "vegetable side dish",
+        "hi": "सब्जी व्यंजन"
+      },
+      "transliterations": {
+        "devanagari": "पल्य",
+        "latin": "palya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-palya-def",
+      "ref": "note-palya",
+      "text": "ತರಕಾರಿಯಿಂದ ಮಾಡಿದ ಪದಾರ್ಥ, ತಾಳದ",
+      "translations": {
+        "en": "a dish made from vegetables",
+        "hi": "सब्ज़ियों से बना पदार्थ"
+      },
+      "transliterations": {
+        "devanagari": "तरकारियिंद माडिद पदार्थ, ताळद",
+        "latin": "tarakāriyiṃda māḍida padārtha, tāḻada"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-dantu",
+      "text": "ದಂಟು",
+      "translations": {
+        "en": "dantu greens",
+        "hi": "डंठल साग"
+      },
+      "transliterations": {
+        "devanagari": "दंटु",
+        "latin": "daṃṭu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dantu-def",
+      "ref": "note-dantu",
+      "text": "ಒಂದು ಜಾತಿಯ ತರಕಾರಿ ಸೊಪ್ಪು",
+      "translations": {
+        "en": "a kind of leafy vegetable",
+        "hi": "एक प्रकार की पत्तेदार सब्जी"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु जातिय तरकारि सॊप्पु",
+        "latin": "òṃdu jātiya tarakāri sòppu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-mudiru",
+      "text": "ಮುದಿರು",
+      "translations": {
+        "en": "fold",
+        "hi": "मोड़ना"
+      },
+      "transliterations": {
+        "devanagari": "मुदिरु",
+        "latin": "mudiru"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-mudiru-def",
+      "ref": "note-mudiru",
+      "text": "ಮುಚ್ಚು, ಮಡಿಚು",
+      "translations": {
+        "en": "cover, fold",
+        "hi": "ढकना, मोड़ना"
+      },
+      "transliterations": {
+        "devanagari": "मुच्चु, मडिचु",
+        "latin": "muccu, maḍicu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-intro",
+      "text": "ಅ) ನೀಡಿರುವ ಪದಗಳನ್ನು ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Say the given words and have the children say them.",
+        "hi": "अ) दिए शब्द बोलें, बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) नीडिरुव पदगळन्नु हेळि, मक्कळिंद हेळिसि.",
+        "latin": "a) nīḍiruva padagaḻannu heḻi, makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಒಂದು",
+      "translations": {
+        "en": "one",
+        "hi": "एक"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु",
+        "latin": "òṃdu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಎರಡು",
+      "translations": {
+        "en": "two",
+        "hi": "दो"
+      },
+      "transliterations": {
+        "devanagari": "ऎरडु",
+        "latin": "èraḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಮೂರು",
+      "translations": {
+        "en": "three",
+        "hi": "तीन"
+      },
+      "transliterations": {
+        "devanagari": "मूरु",
+        "latin": "mūru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ನಾಲ್ಕು",
+      "translations": {
+        "en": "four",
+        "hi": "चार"
+      },
+      "transliterations": {
+        "devanagari": "नाल्कु",
+        "latin": "nālku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಐದು",
+      "translations": {
+        "en": "five",
+        "hi": "पाँच"
+      },
+      "transliterations": {
+        "devanagari": "ऐदु",
+        "latin": "aidu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ಆರು",
+      "translations": {
+        "en": "six",
+        "hi": "छह"
+      },
+      "transliterations": {
+        "devanagari": "आरु",
+        "latin": "āru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q7",
+      "text": "ಏಳು",
+      "translations": {
+        "en": "seven",
+        "hi": "सात"
+      },
+      "transliterations": {
+        "devanagari": "एळु",
+        "latin": "eḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q8",
+      "text": "ಎಂಟು",
+      "translations": {
+        "en": "eight",
+        "hi": "आठ"
+      },
+      "transliterations": {
+        "devanagari": "ऎंटु",
+        "latin": "èṃṭu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q9",
+      "text": "ಒಂಬತ್ತು",
+      "translations": {
+        "en": "nine",
+        "hi": "नौ"
+      },
+      "transliterations": {
+        "devanagari": "ऒंबत्तु",
+        "latin": "òṃbattu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q10",
+      "text": "ಹತ್ತು",
+      "translations": {
+        "en": "ten",
+        "hi": "दस"
+      },
+      "transliterations": {
+        "devanagari": "हत्तु",
+        "latin": "hattu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-intro",
+      "text": "ಆ) ಈ ಪ್ರಾಸ ಪದಗಳನ್ನು ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "B) Say these rhyming words and have the children say them.",
+        "hi": "आ) ये तुकबंदी शब्द बोलें, बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) ई प्रास पदगळन्नु हेळि, मक्कळिंद हेळिसि.",
+        "latin": "ā) ī prāsa padagaḻannu heḻi, makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "1) ಎರಡು-ಹರಡು",
+      "translations": {
+        "en": "1) two–spread",
+        "hi": "1) दो-बिछाओ"
+      },
+      "transliterations": {
+        "devanagari": "1) ऎरडु-हरडु",
+        "latin": "1) èraḍu-haraḍu"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "2) ಆರು-ಸಾರು",
+      "translations": {
+        "en": "2) six–soup",
+        "hi": "2) छह-सारु"
+      },
+      "transliterations": {
+        "devanagari": "2) आरु-सारु",
+        "latin": "2) āru-sāru"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "3) ಎಂಟು-ದಂಟು",
+      "translations": {
+        "en": "3) eight–greens",
+        "hi": "3) आठ-डंठल"
+      },
+      "transliterations": {
+        "devanagari": "3) ऎंटु-दंटु",
+        "latin": "3) èṃṭu-daṃṭu"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "4) ಹತ್ತು-ಎತ್ತು",
+      "translations": {
+        "en": "4) ten–lift",
+        "hi": "4) दस-उठाओ"
+      },
+      "transliterations": {
+        "devanagari": "4) हत्तु-ऎत्तु",
+        "latin": "4) hattu-èttu"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-intro",
+      "text": "ಇ) ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಕೆಳಗೆ ನೀಡಿದೆ. ಆ ಸಾಲುಗಳಲ್ಲಿ ಒಂದೊಂದು ಪದವನ್ನು ಬಿಡಲಾಗಿದೆ. ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "C) Poem lines are given below. One word is left blank in each. Have the children say the missing word.",
+        "hi": "इ) पद्य की पंक्तियाँ नीचे दी हैं। प्रत्येक में एक शब्द छोड़ा गया है। छूटे शब्द बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "इ) पद्यद सालुगळन्नु कॆळगॆ नीडिदॆ. आ सालुगळल्लि ऒंदॊंदु पदवन्नु बिडलागिदॆ. बिट्टिरुव पदवन्नु मक्कळिंद हेळिसि.",
+        "latin": "i) padyada sālugaḻannu kèḻagè nīḍidè. ā sālugaḻalli òṃdòṃdu padavannu biḍalāgidè. biṭṭiruva padavannu makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "1) ಒಂದು ಎರಡು _____ ಹರಡು.",
+      "translations": {
+        "en": "1) One two _____ spread.",
+        "hi": "1) एक दो _____ बिछाओ।"
+      },
+      "transliterations": {
+        "devanagari": "1) ऒंदु ऎरडु _____ हरडु.",
+        "latin": "1) òṃdu èraḍu _____ haraḍu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "2) ಮೂರು ನಾಲ್ಕು _____ ಹಾಕು.",
+      "translations": {
+        "en": "2) Three four _____ serve.",
+        "hi": "2) तीन चार _____ डालो।"
+      },
+      "transliterations": {
+        "devanagari": "2) मूरु नाल्कु _____ हाकु.",
+        "latin": "2) mūru nālku _____ hāku."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "3) ಐದು ಆರು _____ ಸಾರು.",
+      "translations": {
+        "en": "3) Five six _____ soup.",
+        "hi": "3) पाँच छह _____ सारु।"
+      },
+      "transliterations": {
+        "devanagari": "3) ऐदु आरु _____ सारु.",
+        "latin": "3) aidu āru _____ sāru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "4) ಏಳು ಎಂಟು ______ ದಂಟು.",
+      "translations": {
+        "en": "4) Seven eight ______ greens.",
+        "hi": "4) सात आठ ______ डंठल।"
+      },
+      "transliterations": {
+        "devanagari": "4) एळु ऎंटु ______ दंटु.",
+        "latin": "4) eḻu èṃṭu ______ daṃṭu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "text": "5) ಒಂಬತ್ತು ಹತ್ತು _____ ಮುದಿರೆತ್ತು.",
+      "translations": {
+        "en": "5) Nine ten _____ fold up.",
+        "hi": "5) नौ दस _____ मोड़कर उठाओ।"
+      },
+      "transliterations": {
+        "devanagari": "5) ऒंबत्तु हत्तु _____ मुदिरॆत्तु.",
+        "latin": "5) òṃbattu hattu _____ mudirèttu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-intro",
+      "text": "ಈ) ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಿ, ಪಕ್ಕದಲ್ಲಿರುವ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ ಮಕ್ಕಳಿಂದ ಉತ್ತರ ಪಡೆಯಿರಿ.",
+      "translations": {
+        "en": "D) Show the pictures, ask the questions beside them, and get answers from the children.",
+        "hi": "ई) चित्र दिखाकर पास के प्रश्न पूछें और बच्चों से उत्तर लें।"
+      },
+      "transliterations": {
+        "devanagari": "ई) चित्रगळन्नु तोरिसि, पक्कदल्लिरुव प्रश्नॆगळन्नु केळि मक्कळिंद उत्तर पडॆयिरि.",
+        "latin": "ī) citragaḻannu torisi, pakkadalliruva praśnègaḻannu keḻi makkaḻiṃda uttara paḍèyiri."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಈ ಹಣ್ಣಿನ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of this fruit?",
+        "hi": "इस फल का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई हण्णिन हॆसरेनु?",
+        "latin": "ī haṇṇina hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಇಲ್ಲಿ ಎಷ್ಟು ಹಣ್ಣಿದೆ?",
+      "translations": {
+        "en": "How many fruits are here?",
+        "hi": "यहाँ कितने फल हैं?"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि ऎष्टु हण्णिदॆ?",
+        "latin": "illi èṣṭu haṇṇidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಹಣ್ಣಿನ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of the fruit in this picture?",
+        "hi": "इस चित्र में फल का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई चित्रदल्लिरुव हण्णिन हॆसरेनु?",
+        "latin": "ī citradalliruva haṇṇina hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಇಲ್ಲಿ ಎಷ್ಟು ಹಣ್ಣುಗಳಿವೆ?",
+      "translations": {
+        "en": "How many fruits are here?",
+        "hi": "यहाँ कितने फल हैं?"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि ऎष्टु हण्णुगळिवॆ?",
+        "latin": "illi èṣṭu haṇṇugaḻivè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q5",
+      "text": "ಈ ಚಿತ್ರದಲ್ಲಿರುವ ಕಾಯಿಗಳ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of the vegetables in this picture?",
+        "hi": "इस चित्र में सब्जियों का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई चित्रदल्लिरुव कायिगळ हॆसरेनु?",
+        "latin": "ī citradalliruva kāyigaḻa hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q6",
+      "text": "ಇಲ್ಲಿ ಎಷ್ಟು ಕಾಯಿಗಳಿವೆ?",
+      "translations": {
+        "en": "How many vegetables are here?",
+        "hi": "यहाँ कितनी सब्जियाँ हैं?"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि ऎष्टु कायिगळिवॆ?",
+        "latin": "illi èṣṭu kāyigaḻivè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q7",
+      "text": "ಈ ಚಿತ್ರದಲ್ಲಿರುವ ತರಕಾರಿಯ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What is the name of the vegetable in this picture?",
+        "hi": "इस चित्र में सब्जी का नाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "ई चित्रदल्लिरुव तरकारिय हॆसरेनु?",
+        "latin": "ī citradalliruva tarakāriya hèsarenu?"
+      },
+      "type": "question"
+    }
+  ]
+}

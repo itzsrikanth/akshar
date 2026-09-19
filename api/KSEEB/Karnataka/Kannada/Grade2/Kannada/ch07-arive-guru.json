@@ -1,0 +1,744 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) ई प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तर बरेयिरि:",
+      "en": "A) Answer these questions in one sentence:",
+      "hi": "अ) इन प्रश्नों के उत्तर एक वाक्य में लिखें:",
+      "kn": "ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ:",
+      "latin": "a) ī praśnegaḷige ondu vākyadalli uttara bareyiri:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) आवरणदल्लिरुव सूक्त पदवन्नु आरिसि बिट्ट स्थळदल्लि बरेयिरि:",
+      "en": "B) Choose the appropriate word from the brackets and write in the blank space:",
+      "hi": "आ) कोष्ठक में दिए उपयुक्त शब्द चुनकर रिक्त स्थान में लिखें:",
+      "kn": "ಆ) ಆವರಣದಲ್ಲಿರುವ ಸೂಕ್ತ ಪದವನ್ನು ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ:",
+      "latin": "ā) āvaraṇadalliruva sūkta padavannu ārisi biṭṭa sthaḷadalli bareyiri:"
+    },
+    "exercise-C": {
+      "devanagari": "इ) ई मातुगळन्नु यारु यारिगे हेळिदरु?",
+      "en": "C) Who said these words to whom?",
+      "hi": "इ) ये बातें किसने किससे कही?",
+      "kn": "ಇ) ಈ ಮಾತುಗಳನ್ನು ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "latin": "i) ī mātugaḷannu yāru yārige hēḷidaru?"
+    },
+    "exercise-D": {
+      "devanagari": "ई) साकु प्राणिगळ हेसरन्नु बरेयिरि :",
+      "en": "D) Write the names of domestic animals:",
+      "hi": "ई) पालतू जानवरों के नाम लिखें :",
+      "kn": "ಈ) ಸಾಕು ಪ್ರಾಣಿಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ :",
+      "latin": "ī) sāku prāṇigaḷa hesarannu bareyiri :"
+    },
+    "exercise-E": {
+      "devanagari": "उ) ई भित्ति पत्रवन्नु ओदि.",
+      "en": "E) Read this poster.",
+      "hi": "उ) इस भित्ति-पत्र को पढ़ें।",
+      "kn": "ಉ) ಈ ಭಿತ್ತಿ ಪತ್ರವನ್ನು ಓದಿ.",
+      "latin": "u) ī bhitti patravannu ōdi."
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "prose": {
+      "devanagari": "गद्य",
+      "en": "Prose",
+      "hi": "गद्य",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "title": {
+      "devanagari": "अरिवे गुरु",
+      "en": "Awareness is the Teacher",
+      "hi": "ज्ञान ही गुरु है",
+      "latin": "arivē guru"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 7,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch07-arive-guru",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಅರಿವೇ ಗುರು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "prose-p1",
+      "text": "ಒಂದು ದಟ್ಟವಾದ ಕಾಡು. ಅಲ್ಲಿ ನರಿ ಮತ್ತು ಅದರ ಮರಿ ಆಹಾರಕ್ಕಾಗಿ ಅಲೆದವು. ಆದರೆ ಏನೂ ಸಿಗಲಿಲ್ಲ. ತಿರುಗುತ್ತಾ ತಿರುಗುತ್ತಾ ಕಾಡಿನಿಂದ ಹೊರಬಂದವು. ಅವುಗಳಿಗೆ ದೂರದಲ್ಲಿ ತೋಟದ ಮನೆಯೊಂದು ಕಾಣಿಸಿತು. ಕೊಕ್ಕೊ, ಕೊಕ್ಕೊ, ಕೊಕ್ಕೊ ಎಂಬ ಸದ್ದು ಸಹ ಕೇಳಿಸಿತು. ಅವು ಧ್ವನಿಯನ್ನು ಅನುಸರಿಸಿಕೊಂಡು ಹೋದವು. ಕೋಳಿಗಳು ತೋಟದ ಬೇಲಿ ಸಾಲಿನಲ್ಲಿ ಮೇವು ಆರಿಸುತ್ತಿದ್ದವು.",
+      "translations": {
+        "en": "A dense forest. There a fox and its cub wandered for food. But they didn't get anything. Wandering and wandering, they came out of the forest. They saw a farm house in the distance. They also heard a \"Kokko, kokko, kokko\" sound. They followed the sound. Chickens were pecking at feed along the farm fence.",
+        "hi": "एक घना जंगल। वहाँ एक लोमड़ी और उसका बच्चा भोजन की खोज में भटक रहे थे। लेकिन कुछ भी नहीं मिला। घूमते-घूमते वे जंगल से बाहर निकले। उन्हें दूर एक बागवाली झोंपड़ी दिखाई दी। कौक्को, कौक्को, कौक्को की आवाज़ भी सुनाई दी। वे उस ध्वनि के पीछे गए। मुर्गियाँ बाग की बाड़ की कतार में दाना चुग रही थीं।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु दट्टवाद काडु. अल्लि नरि मत्तु अदर मरि आहारक्कागि अलेदवु. आदरे एनू सिगलिल्ल. तिरुगुत्ता तिरुगुत्ता काडिनिंद होरबंदवु. अवुगळिगे दूरदल्लि तोटद मनेयोंदु काणिसितु. कोक्को, कोक्को, कोक्को एंब सद्दु सह केळिसितु. अवु ध्वनियन्नु अनुसरिसिकोंडु होदवु. कोळिगळु तोटद बेलि सालिनल्लि मेवु आरिसुत्तिद्दवु.",
+        "latin": "ondu daṭṭavāda kāḍu. alli nari mattu adara mari āhārakkāgi aledavu. ādare ēnū sigalilla. tiruguttā tiruguttā kāḍininda horabandavu. avugaḷige dūradalli tōṭada maneyondu kāṇisitu. kokko, kokko, kokko emba saddu saha kēḷisitu. avu dhvaniyannu anusarisikoṇḍu hōdavu. kōḷigaḷu tōṭada bēli sālinalli mēvu ārisuttiddavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p2",
+      "text": "ಕೋಳಿಗಳನ್ನು ಕಂಡು ನರಿಯ ಮರಿ ಮನದಲ್ಲೇ ಹಿಗ್ಗಿತು. ಆ ಸಂತೋಷದಲ್ಲಿ `ಅಮ್ಮಾ.. ಎಷ್ಟೊಂದು ಕೋಳಿಗಳು!' ಎನ್ನುತ್ತಾ ಆ ಕಡೆಗೆ ನುಗ್ಗಿತು. ಬೇಲಿ ಅಂಚಿನಲ್ಲಿದ್ದ ಬಲೆಯಲ್ಲಿ ನರಿಯ ಮರಿ ಸಿಕ್ಕಿ ಹಾಕಿಕೊಂಡಿತು. ಗಾಬರಿಯಿಂದ ಅದು ಕಿರುಚಿಕೊಳ್ಳತೊಡಗಿತು. ನರಿ ತನ್ನ ಮರಿಯನ್ನು ಬಿಡಿಸಿಕೊಳ್ಳಲು ಹತ್ತಿರ ಬಂದಿತು. ಅಷ್ಟರಲ್ಲಿ ತೋಟದ ಒಳಗಿನಿಂದ ರೈತನು ಬರುವುದು ಕಂಡಿತು. ಭಯದಿಂದ ಹಿಂದೆ ಸರಿಯಿತು. ಮರಿಯನ್ನು ಉಳಿಸಲು ಸಮಯ ಸಾಧಿಸಿ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಕುಳಿತಿತ್ತು. ಆದರೆ ಜನರ ಓಡಾಟ ಹೆಚ್ಚಾದುದರಿಂದ ಅನಿವಾರ್ಯವಾಗಿ ಅಲ್ಲಿಂದ ಅದು ಜಾಗ ಖಾಲಿ ಮಾಡಿತು.",
+      "translations": {
+        "en": "Seeing the chickens, the fox cub rejoiced in its mind. In that happiness, saying \"Mother.. so many chickens!\", it rushed towards that side. The fox cub got caught in the net at the edge of the fence. Out of fear, it started screaming. The fox came near to free its cub. Just then, it saw the farmer coming from inside the farm. Out of fear, it moved back. Biding its time to save the cub, it sat a little distance away. But because people's movement increased, it inevitably vacated the place from there.",
+        "hi": "मुर्गियों को देखकर लोमड़ी का बच्चा मन ही मन खुश हो गया। उसी खुशी में \"अम्मा.. कितनी सारी मुर्गियाँ!\" कहते हुए उस ओर झपट पड़ा। बाड़ के किनारे लगे जाल में लोमड़ी का बच्चा फँस गया। डर से वह चीखने लगा। लोमड़ी अपने बच्चे को छुड़ाने पास आई। इतने में बाग के अंदर से किसान आते दिखे। डर से वह पीछे हट गई। बच्चे को बचाने के लिए समय साधकर थोड़ी दूर बैठ गई। लेकिन लोगों की आवाजाही बढ़ जाने से उसे मजबूरन वहाँ से जगह खाली करनी पड़ी।"
+      },
+      "transliterations": {
+        "devanagari": "कोळिगळन्नु कंडु नरिय मरि मनदल्ले हिग्गितु. आ संतोषदल्लि `अम्मा.. एष्टोंदु कोळिगळु!' एन्नुत्ता आ कडेगे नुग्गितु. बेलि अंचिनल्लिद्द बलेयल्लि नरिय मरि सिक्कि हाकिकोंडितु. गाबरियिंद अदु किरुचिकोळ्ळतोडगितु. नरि तन्न मरियन्नु बिडिसिकोळ्ळलु हत्तिर बंदितु. अष्टरल्लि तोटद ओळगिनिंद रैतनु बरुवुदु कंडितु. भयदिंद हिंदे सरियितु. मरियन्नु उळिसलु समय साधिसि स्वल्प दूरदल्लि कुळितित्तु. आदरे जनर ओडाट हेच्चादुदरिंद अनिवार्यवागि अल्लिंद अदु जाग खालि माडितु.",
+        "latin": "kōḷigaḷannu kaṇḍu nariya mari manadallē higgitu. ā santōṣadalli `ammā.. eṣṭondu kōḷigaḷu!' ennuttā ā kaḍege nuggitu. bēli ancinallidda baleyalli nariya mari sikki hākikoṇḍitu. gābariyinda adu kirucikoḷḷatoḍagitu. nari tanna mariyannu biḍisikoḷḷalu hattira banditu. aṣṭaralli tōṭada oḷagininda raitanu baruvudu kaṇḍitu. bhayadinda hinde sariyitu. mariyannu uḷisalu samaya sādhisi svalpa dūradalli kuḷitittu. ādare janara ōḍāṭa heccādudarinda anivāryavāgi allinda adu jāga khāli māḍitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p3",
+      "text": "ತಾಯಿ ನರಿಗೆ ತನ್ನ ಮರಿಯನ್ನು ಅಗಲಿ ಇರಲಾಗಲಿಲ್ಲ. ಮರುದಿನ ಹೇಗಾದರೂ ಮಾಡಿ ಮರಿಯನ್ನು ಬಿಡಿಸಿಕೊಂಡು ಬರಬೇಕೆಂದು ತೋಟಕ್ಕೆ ಬಂದಿತು. ಸಂಜೆಯವರೆಗೆ ಕಾದು ಕುಳಿತಿತ್ತು. ಆದರೆ ತನ್ನ ಮರಿಯ ಸುಳಿವೇ ಕಾಣಲಿಲ್ಲ. ದುಃಖದಿಂದ ತೋಟದ ಬೇಲಿ ಸುತ್ತ ತಿರುಗಿತು. ಅಲ್ಲೊಂದು ಕಂಡಿ ಇತ್ತು. ಅದರೊಳಗೆ ಉಪಾಯವಾಗಿ ನುಸುಳಿ ತೋಟದ ಒಳಗೆ ಬಂದು ಹುಡುಕಿತು. ತನ್ನ ಮರಿಯ ಸುಳಿವು ಅಲ್ಲೂ ಸಿಗಲಿಲ್ಲ. ಆದರೆ ಮನೆಯ ಪಕ್ಕದಲ್ಲಿ ಕೋಳಿಗಳು ಅಡಗಿ ಕುಳಿತಿದ್ದವು. ಹಸಿದಿದ್ದ ನರಿಗೆ ಕೋಳಿಗಳನ್ನು ಕಂಡು ಆಸೆ ಮೂಡಿತು. ಸುಲಭವಾಗಿ ದೊರಕಿದ ಆಹಾರ ಬಿಡಲು ಅದಕ್ಕೆ ಮನಸ್ಸಾಗಲಿಲ್ಲ. ಮೆಲ್ಲನೆ ಕೋಳಿ ಹಿಡಿಯಲು ತೆವಳಿತು. ಆದರೆ ಅಲ್ಲಿ ಒಡ್ಡಿದ್ದ ಬಲೆಗೆ ತಾನೂ ಸಿಕ್ಕಿಕೊಂಡಿತು.",
+      "translations": {
+        "en": "The mother fox could not bear to be separated from its cub. The next day, it came to the farm thinking it must somehow free the cub and bring it back. It waited until evening. But there was no sign of its cub. With grief, it roamed around the farm fence. There was a small hole there. It cleverly squeezed through it and came inside the farm and searched. There was no sign of its cub there either. But the chickens were hiding next to the house. The hungry fox felt greedy seeing the chickens. It didn't feel like leaving the easily available food. It crawled slowly to catch a chicken. But it itself got caught in the net spread there.",
+        "hi": "माँ लोमड़ी अपने बच्चे से बिछुड़कर रह नहीं पाई। अगले दिन किसी तरह बच्चे को छुड़ाकर लाने के इरादे से बाग आई। शाम तक प्रतीक्षा करती रही। लेकिन अपने बच्चे का कोई सुराग नहीं मिला। दुख से बाग की बाड़ के आसपास घूमी। वहाँ एक छेद था। उसमें चतुराई से घुसकर बाग के अंदर आई और खोज की। वहाँ भी अपने बच्चे का सुराग नहीं मिला। लेकिन घर के पास मुर्गियाँ छिपी बैठी थीं। भूखी लोमड़ी को मुर्गियाँ देखकर लालच हुआ। आसानी से मिला भोजन छोड़ने का मन नहीं हुआ। धीरे से मुर्गी पकड़ने रेंगी। लेकिन वहाँ बिछाए जाल में वह स्वयं फँस गई।"
+      },
+      "transliterations": {
+        "devanagari": "तायि नरिगे तन्न मरियन्नु अगलि इरलागलिल्ल. मरुदिन हेगादरू माडि मरियन्नु बिडिसिकोंडु बरबेकेंदु तोटक्के बंदितु. संजेयवरेगे कादु कुळितित्तु. आदरे तन्न मरिय सुळिवे काणलिल्ल. दुःखदिंद तोटद बेलि सुत्त तिरुगितु. अल्लोंदु कंडि इत्तु. अदरोळगे उपायवागि नुसुळि तोटद ओळगे बंदु हुडुकितु. तन्न मरिय सुळिवु अल्लू सिगलिल्ल. आदरे मनेय पक्कदल्लि कोळिगळु अडगि कुळितिद्दवु. हसिदिद्द नरिगे कोळिगळन्नु कंडु आसे मूडितु. सुलभवागि दोरकिद आहार बिडलु अदक्के मनस्सागलिल्ल. मेल्लने कोळि हिडियलु तेवळितु. आदरे अल्लि ओड्डिद्द बलेगे तानू सिक्किकोंडितु.",
+        "latin": "tāyi narige tanna mariyannu agali iralāgalilla. marudina hēgādaru māḍi mariyannu biḍisikoṇḍu barabēkendu tōṭakke banditu. sanjeyavarege kādu kuḷitittu. ādare tanna mariya suḷivē kāṇalilla. duḥkhadinda tōṭada bēli sutta tirugitu. allondu kaṇḍi ittu. adaroḷage upāyavāgi nusuḷi tōṭada oḷage bandu huḍukitu. tanna mariya suḷivu allū sigalilla. ādare maneya pakkadalli kōḷigaḷu aḍagi kuḷitiddavu. hasididda narige kōḷigaḷannu kaṇḍu āse mūḍitu. sulabhavāgi dorakida āhāra biḍalu adakke manassāgalilla. mellane kōḷi hiḍiyalu tevaḷitu. ādare alli oḍḍidda balege tānū sikkikoṇḍitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p4",
+      "text": "ನರಿಗೆ ರೈತನ ಜಾಣತನ ಅರಿವಿಗೆ ಬಂದಿತು. ತನ್ನ ತಪ್ಪಿಗೆ ನರಿ ಸಂಕಟ ಪಡತೊಡಗಿತು. ಅಷ್ಟರಲ್ಲಿ ಅಲ್ಲೇ ಜಿಗಿದಾಡುತ್ತಿದ್ದ ಇಲಿಗಳನ್ನು ಕಂಡಿತು. ನರಿಗೆ ತಕ್ಷಣ ಉಪಾಯವೊಂದು ಹೊಳೆಯಿತು. ಮೆಲ್ಲನೆ ಇಲಿಗಳನ್ನು ಹತ್ತಿರ ಕರೆದು “ನಿಮ್ಮ ಹಲ್ಲುಗಳು ಬಲಹೀನವಾಗಿವೆಯಲ್ಲವೆ?” ಎಂದಿತು. ಇಲಿಗಳು ''ಇಲ್ಲ ನರಿಯಣ್ಣಾ, ನಮ್ಮ ಹಲ್ಲುಗಳು ಗಟ್ಟಿಯಾಗಿಯೇ ಇವೆ” ಎಂದವು. ಅದಕ್ಕೆ ನರಿಯು “ಹಾಗಾದರೆ ಈ ಬಲೆಯನ್ನು ಕತ್ತರಿಸಿ ನೋಡೋಣ” ಎಂದಿತು. ಇಲಿಗಳು ಕ್ಷಣದಲ್ಲಿ ಆ ಬಲೆಯನ್ನು ಹಲ್ಲುಗಳಿಂದ ಕತ್ತರಿಸಿ ಹಾಕಿದವು.",
+      "translations": {
+        "en": "The fox realized the farmer's cleverness. The fox started feeling distressed for its mistake. Just then, it saw mice jumping around there. A trick suddenly struck the fox. Calling the mice near slowly, it said, \"Your teeth are weak, aren't they?\". The mice said, \"No brother fox, our teeth are indeed strong.\" To that, the fox said, \"Then let's cut this net and see.\" The mice cut the net with their teeth in a moment.",
+        "hi": "लोमड़ी को किसान की चतुराई का अहसास हुआ। अपनी गलती पर वह दुखी होने लगी। इतने में वहीं कूद-फाँद करते चूहों को देखा। लोमड़ी को तुरंत एक उपाय सूझा। धीरे से चूहों को पास बुलाकर कहा, \"तुम्हारे दाँत कमज़ोर हैं, है न?\" चूहों ने कहा, \"नहीं लोमड़ी भाई, हमारे दाँत मज़बूत ही हैं।\" तब लोमड़ी ने कहा, \"तो फिर इस जाल को काटकर देखें।\" चूहों ने क्षण भर में अपने दाँतों से वह जाल काट डाला।"
+      },
+      "transliterations": {
+        "devanagari": "नरिगे रैतन जाणतन अरिविगे बंदितु. तन्न तप्पिगे नरि संकट पडतोडगितु. अष्टरल्लि अल्ले जिगिदाडुत्तिद्द इलिगळन्नु कंडितु. नरिगे तक्षण उपायवोंदु होळेयितु. मेल्लने इलिगळन्नु हत्तिर करेदु “निम्म हल्लुगळु बलहीनवागिवेयल्लवे?” एंदितु. इलिगळु ''इल्ल नरियण्णा, नम्म हल्लुगळु गट्टियागिये इवे” एंदवु. अदक्के नरियु “हागादरे ई बलेयन्नु कत्तरिसि नोडोण” एंदितु. इलिगळु क्षणदल्लि आ बलेयन्नु हल्लुगळिंद कत्तरिसि हाकिदवु.",
+        "latin": "narige raitana jāṇatana arivige banditu. tanna tappige nari saṅkaṭa paḍatoḍagitu. aṣṭaralli allē jigidāḍuttidda iligaḷannu kaṇḍitu. narige takṣaṇa upāyavondu hoḷeyitu. mellane iligaḷannu hattira karedu “nimma hallugaḷu balahīnavāgiveyallave?” enditu. iligaḷu ''illa nariyaṇṇā, namma hallugaḷu gaṭṭiyāgiyē ive” endavu. adakke nariyu “hāgādare ī baleyannu kattarisi nōḍōṇa” enditu. iligaḷu kṣaṇadalli ā baleyannu hallugaḷinda kattarisi hākidavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p5",
+      "text": "ನರಿ ಬಲೆಯಿಂದ ಹೊರ ಬಂದಿತು. ಆಗ ನರಿಯು “ಇಲಿಗಳಿರಾ, ನಿಮ್ಮ ಹಲ್ಲುಗಳು ಗಟ್ಟಿಯಾಗಿಯೇ ಇವೆ, ನಾನು ರೈತ ಒಡ್ಡಿದ್ದ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿದ್ದೆನು. ನೀವು ನನ್ನನ್ನು ಪಾರು ಮಾಡಿದಿರಿ. ನಿಮಗೆ ಧನ್ಯವಾದಗಳು” ಎಂದು ಹೇಳಿತು.",
+      "translations": {
+        "en": "The fox came out of the net. Then the fox said, \"Mice, your teeth are indeed strong, I was caught in the net spread by the farmer. You saved me. Thank you.\"",
+        "hi": "लोमड़ी जाल से बाहर आई। तब उसने कहा, \"चूहे हो, तुम्हारे दाँत मज़बूत ही हैं, मैं किसान द्वारा बिछाए जाल में फँसी थी। तुमने मुझे बचाया। तुम्हें धन्यवाद।\""
+      },
+      "transliterations": {
+        "devanagari": "नरि बलेयिंद होर बंदितु. आग नरियु “इलिगळिरा, निम्म हल्लुगळु गट्टियागिये इवे, नानु रैत ओड्डिद्द बलेयल्लि सिक्किकोंडिद्देनु. नीवु नन्नन्नु पारु माडिदिरि. निमगे धन्यवादगळु” एंदु हेळितु.",
+        "latin": "nari baleyinda hora banditu. āga nariyu “iligaḷirā, nimma hallugaḷu gaṭṭiyāgiyē ive, nānu raita oḍḍidda baleyalli sikkikoṇḍiddenu. nīvu nannannu pāru māḍidiri. nimage dhanyavādagaḷu” endu hēḷitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p6",
+      "text": "ಇಲಿಗಳು ನರಿಯ ಜಾಣತನವನ್ನು ಹೊಗಳಿದವು. ಆಗ ನರಿಯು ಇಲಿಗಳನ್ನು ಕುರಿತು “ರೈತನ ಬಲೆಗೆ ಸಿಕ್ಕಿ ಹಾಕಿಕೊಂಡ ನನ್ನ ಕಂದನನ್ನು ಪಾರು ಮಾಡಲೆಂದು ಬಂದೆ. ಆದರೆ ಕೋಳಿಯ ಆಸೆಯಿಂದ ನಾನೂ ಈ ಬಲೆಗೆ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡೆ. ನೀವು ನನಗೆ ಉಪಕಾರ ಮಾಡಿದಿರಿ. ಆದರೆ ನನ್ನ ಕಂದ ಮಾತ್ರ ಸಿಗಲಿಲ್ಲ” ಎಂದು ದುಃಖದಿಂದ ಹೇಳಿತು. ಆಗ ಇಲಿಗಳು ರೈತ ಬಚ್ಚಿಟ್ಟಿದ್ದ ನರಿಯ ಮರಿಯನ್ನು ತಾಯಿನರಿಗೆ ತೋರಿಸಿದವು. ತನ್ನ ಮರಿಯನ್ನು ನೋಡಿ ತಾಯಿನರಿಗೆ ಆನಂದವಾಯಿತು. ಅವು ಮತ್ತೊಮ್ಮೆ ಇಲಿಗಳಿಗೆ ಧನ್ಯವಾದ ಹೇಳಿದವು. ಸಂತೋಷದಿಂದ ಕಾಡಿನತ್ತ ಓಡಿಹೋದವು.",
+      "translations": {
+        "en": "The mice praised the fox's cleverness. Then the fox said to the mice with grief, \"I came to save my child who got caught in the farmer's net. But out of greed for the chicken, I too got caught in this net. You did me a favor. But I just didn't find my child.\" Then the mice showed the mother fox her cub that the farmer had hidden. The mother fox was overjoyed to see her cub. They thanked the mice once again. They happily ran towards the forest.",
+        "hi": "चूहों ने लोमड़ी की चतुराई की प्रशंसा की। तब लोमड़ी ने दुख से चूहों से कहा, \"किसान के जाल में फँसे अपने बच्चे को बचाने आई थी। लेकिन मुर्गी के लालच से मैं भी इस जाल में फँस गई। तुमने मेरा उपकार किया। लेकिन मेरा बच्चा ही नहीं मिला।\" तब चूहों ने किसान द्वारा छिपाए लोमड़ी के बच्चे को माँ लोमड़ी को दिखाया। अपने बच्चे को देखकर माँ लोमड़ी बहुत खुश हुई। उन्होंने फिर से चूहों को धन्यवाद दिया। खुशी-खुशी जंगल की ओर भाग गए।"
+      },
+      "transliterations": {
+        "devanagari": "इलिगळु नरिय जाणतनवन्नु होगळिदवु. आग नरियु इलिगळन्नु कुरितु “रैतन बलेगे सिक्कि हाकिकोंड नन्न कंदनन्नु पारु माडलेंदु बंदे. आदरे कोळिय आसेयिंद नानू ई बलेगे सिक्किहाकिकोंडे. नीवु ननगे उपकार माडिदिरि. आदरे नन्न कंद मात्र सिगलिल्ल” एंदु दुःखदिंद हेळितु. आग इलिगळु रैत बच्चिट्टिद्द नरिय मरियन्नु तायिनरिगे तोरिसिदवु. तन्न मरियन्नु नोडि तायिनरिगे आनंदवायितु. अवु मत्तोम्मे इलिगळिगे धन्यवाद हेळिदवु. संतोषदिंद काडिनत्त ओडिहोदवु.",
+        "latin": "iligaḷu nariya jāṇatanavannu hogaḷidavu. āga nariyu iligaḷannu kuritu “raitana balege sikki hākikoṇḍa nanna kandanannu pāru māḍalendu bande. ādare kōḷiya āseyinda nānū ī balege sikkihākikoṇḍe. nīvu nanage upakāra māḍidiri. ādare nanna kanda mātra sigalilla” endu duḥkhadinda hēḷitu. āga iligaḷu raita bacciṭṭidda nariya mariyannu tāyinarige tōrisidavu. tanna mariyannu nōḍi tāyinarige ānandavāyitu. avu mattomme iligaḷige dhanyavāda hēḷidavu. santōṣadinda kāḍinatta ōḍihōdavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-dhvani",
+      "text": "ಧ್ವನಿ",
+      "translations": {
+        "en": "sound",
+        "hi": "ध्वनि"
+      },
+      "transliterations": {
+        "devanagari": "ध्वनि",
+        "latin": "dhvani"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saddu",
+      "text": "ಸದ್ದು",
+      "translations": {
+        "en": "noise",
+        "hi": "शोर"
+      },
+      "transliterations": {
+        "devanagari": "सद्दु",
+        "latin": "saddu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tota",
+      "text": "ತೋಟ",
+      "translations": {
+        "en": "farm / garden",
+        "hi": "बाग / बगीचा"
+      },
+      "transliterations": {
+        "devanagari": "तोट",
+        "latin": "tōṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-koli",
+      "text": "ಕೋಳಿ",
+      "translations": {
+        "en": "chicken",
+        "hi": "मुर्गी"
+      },
+      "transliterations": {
+        "devanagari": "कोळि",
+        "latin": "kōḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-beli",
+      "text": "ಬೇಲಿ",
+      "translations": {
+        "en": "fence",
+        "hi": "बाड़"
+      },
+      "transliterations": {
+        "devanagari": "बेलि",
+        "latin": "bēli"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-svalpa",
+      "text": "ಸ್ವಲ್ಪ",
+      "translations": {
+        "en": "a little",
+        "hi": "थोड़ा"
+      },
+      "transliterations": {
+        "devanagari": "स्वल्प",
+        "latin": "svalpa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bale",
+      "text": "ಬಲೆ",
+      "translations": {
+        "en": "net",
+        "hi": "जाल"
+      },
+      "transliterations": {
+        "devanagari": "बले",
+        "latin": "bale"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aahara",
+      "text": "ಆಹಾರ",
+      "translations": {
+        "en": "food",
+        "hi": "आहार / भोजन"
+      },
+      "transliterations": {
+        "devanagari": "आहार",
+        "latin": "āhāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-higgitthu",
+      "text": "ಹಿಗ್ಗಿತು",
+      "translations": {
+        "en": "rejoiced",
+        "hi": "खुश हो गई"
+      },
+      "transliterations": {
+        "devanagari": "हिग्गितु",
+        "latin": "higgitu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nuggittu",
+      "text": "ನುಗ್ಗಿತು",
+      "translations": {
+        "en": "rushed in",
+        "hi": "झपट पड़ी"
+      },
+      "transliterations": {
+        "devanagari": "नुग्गितु",
+        "latin": "nuggitu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aathanka",
+      "text": "ಆತಂಕ",
+      "translations": {
+        "en": "anxiety",
+        "hi": "चिंता"
+      },
+      "transliterations": {
+        "devanagari": "आतंक",
+        "latin": "ātaṅka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hattira",
+      "text": "ಹತ್ತಿರ",
+      "translations": {
+        "en": "near",
+        "hi": "पास"
+      },
+      "transliterations": {
+        "devanagari": "हत्तिर",
+        "latin": "hattira"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sulivu",
+      "text": "ಸುಳಿವು",
+      "translations": {
+        "en": "clue / sign",
+        "hi": "सुराग / संकेत"
+      },
+      "transliterations": {
+        "devanagari": "सुळिवु",
+        "latin": "suḷivu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-upaya",
+      "text": "ಉಪಾಯ",
+      "translations": {
+        "en": "idea / trick",
+        "hi": "उपाय"
+      },
+      "transliterations": {
+        "devanagari": "उपाय",
+        "latin": "upāya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-adagi",
+      "text": "ಅಡಗಿ",
+      "translations": {
+        "en": "hiding",
+        "hi": "छिपकर"
+      },
+      "transliterations": {
+        "devanagari": "अडगि",
+        "latin": "aḍagi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-anivarya",
+      "text": "ಅನಿವಾರ್ಯ",
+      "translations": {
+        "en": "inevitable",
+        "hi": "अनिवार्य"
+      },
+      "transliterations": {
+        "devanagari": "अनिवार्य",
+        "latin": "anivārya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jigidaadu",
+      "text": "ಜಿಗಿದಾಡು",
+      "translations": {
+        "en": "jumping around",
+        "hi": "कूद-फाँद करना"
+      },
+      "transliterations": {
+        "devanagari": "जिगिदाडु",
+        "latin": "jigidāḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-balaheena",
+      "text": "ಬಲಹೀನ",
+      "translations": {
+        "en": "weak",
+        "hi": "कमज़ोर"
+      },
+      "transliterations": {
+        "devanagari": "बलहीन",
+        "latin": "balahīna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-saddu",
+      "text": "ಸದ್ದು",
+      "translations": {
+        "en": "noise",
+        "hi": "शोर"
+      },
+      "transliterations": {
+        "devanagari": "सद्दु",
+        "latin": "saddu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-saddu-def",
+      "text": "ಶಬ್ದ, ಗದ್ದಲ",
+      "translations": {
+        "en": "sound, noise",
+        "hi": "शब्द, हो-हल्ला"
+      },
+      "transliterations": {
+        "devanagari": "शब्द, गद्दल",
+        "latin": "śabda, gaddala"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-mevu",
+      "text": "ಮೇವು",
+      "translations": {
+        "en": "feed",
+        "hi": "चारा"
+      },
+      "transliterations": {
+        "devanagari": "मेवु",
+        "latin": "mēvu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-mevu-def",
+      "text": "ಆಹಾರ",
+      "translations": {
+        "en": "food",
+        "hi": "आहार"
+      },
+      "transliterations": {
+        "devanagari": "आहार",
+        "latin": "āhāra"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-anivarya",
+      "text": "ಅನಿವಾರ್ಯ",
+      "translations": {
+        "en": "inevitable",
+        "hi": "अनिवार्य"
+      },
+      "transliterations": {
+        "devanagari": "अनिवार्य",
+        "latin": "anivārya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-anivarya-def",
+      "text": "ತಪ್ಪಿಸಲಾಗದ",
+      "translations": {
+        "en": "unavoidable",
+        "hi": "जिसे टाला न जा सके"
+      },
+      "transliterations": {
+        "devanagari": "तप्पिसलागद",
+        "latin": "tappisalāgada"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-apaya",
+      "text": "ಅಪಾಯ",
+      "translations": {
+        "en": "danger",
+        "hi": "खतरा"
+      },
+      "transliterations": {
+        "devanagari": "अपाय",
+        "latin": "apāya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-apaya-def",
+      "text": "ಕೇಡು, ಹಾನಿ, ತೊಂದರೆ",
+      "translations": {
+        "en": "harm, damage, trouble",
+        "hi": "हानि, नुकसान, कष्ट"
+      },
+      "transliterations": {
+        "devanagari": "केडु, हानि, तोंदरे",
+        "latin": "kēḍu, hāni, tondare"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-tochade",
+      "text": "ತೋಚದೆ",
+      "translations": {
+        "en": "without a clue",
+        "hi": "समझ न आना"
+      },
+      "transliterations": {
+        "devanagari": "तोचदे",
+        "latin": "tōcade"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-tochade-def",
+      "text": "ದಿಕ್ಕು ಕಾಣದೆ",
+      "translations": {
+        "en": "without seeing a way",
+        "hi": "रास्ता न सूझना"
+      },
+      "transliterations": {
+        "devanagari": "दिक्कु काणदे",
+        "latin": "dikku kāṇade"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-sameepa",
+      "text": "ಸಮೀಪ",
+      "translations": {
+        "en": "near",
+        "hi": "समीप"
+      },
+      "transliterations": {
+        "devanagari": "समीप",
+        "latin": "samīpa"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sameepa-def",
+      "text": "ಹತ್ತಿರ",
+      "translations": {
+        "en": "close by",
+        "hi": "पास"
+      },
+      "transliterations": {
+        "devanagari": "हत्तिर",
+        "latin": "hattira"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kandi",
+      "text": "ಕಂಡಿ",
+      "translations": {
+        "en": "hole",
+        "hi": "छेद"
+      },
+      "transliterations": {
+        "devanagari": "कंडि",
+        "latin": "kaṇḍi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kandi-def",
+      "text": "ರಂಧ್ರ, ತೂತು",
+      "translations": {
+        "en": "hole, opening",
+        "hi": "छिद्र, सुराख"
+      },
+      "transliterations": {
+        "devanagari": "रंध्र, तूतु",
+        "latin": "randhra, tūtu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಕಾಡಿನಲ್ಲಿ ಆಹಾರ ಹುಡುಕುತ್ತಾ ಯಾರು ಬಂದರು?",
+      "translations": {
+        "en": "Who came wandering in the forest searching for food?",
+        "hi": "जंगल में भोजन खोजते हुए कौन आए?"
+      },
+      "transliterations": {
+        "devanagari": "काडिनल्लि आहार हुडुकुत्ता यारु बंदरु?",
+        "latin": "kāḍinalli āhāra huḍukuttā yāru bandaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ನರಿಗೆ ತೋಟದ ಕಡೆಯಿಂದ ಯಾವ ಸದ್ದು ಕೇಳಿತು?",
+      "translations": {
+        "en": "What sound did the fox hear from the farm side?",
+        "hi": "लोमड़ी को बाग की ओर से कौन-सी आवाज़ सुनाई दी?"
+      },
+      "transliterations": {
+        "devanagari": "नरिगे तोटद कडेयिंद याव सद्दु केळितु?",
+        "latin": "narige tōṭada kaḍeyinda yāva saddu kēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ನರಿಯ ಮರಿ ಎಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿತು?",
+      "translations": {
+        "en": "Where did the fox cub get caught?",
+        "hi": "लोमड़ी का बच्चा कहाँ फँस गया?"
+      },
+      "transliterations": {
+        "devanagari": "नरिय मरि एल्लि सिक्किकोंडितु?",
+        "latin": "nariya mari elli sikkikoṇḍitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ನರಿಯು ಬಲೆಯಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡಿದವರು ಯಾರು?",
+      "translations": {
+        "en": "Who helped the fox to escape from the net?",
+        "hi": "लोमड़ी को जाल से बचने में किसने मदद की?"
+      },
+      "transliterations": {
+        "devanagari": "नरियु बलेयिंद तप्पिसिकोळ्ळलु सहाय माडिदवरु यारु?",
+        "latin": "nariyu baleyinda tappisikoḷḷalu sahāya māḍidavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ನರಿಗೆ ದೂರದಲ್ಲಿ ತೋಟದ................................. ಕಾಣಿಸಿತು. (ಕೊಳವೊಂದು, ಗುಹೆಯೊಂದು, ಮನೆಯೊಂದು)",
+      "translations": {
+        "en": "The fox saw a farm _____ in the distance. (pond, cave, house)",
+        "hi": "लोमड़ी को दूर बाग की ..... दिखाई दी। (एक तालाब, एक गुफा, एक घर)"
+      },
+      "transliterations": {
+        "devanagari": "नरिगे दूरदल्लि तोटद................................. काणिसितु. (कोळवोंदु, गुहेयोंदु, मनेयोंदु)",
+        "latin": "narige dūradalli tōṭada................................. kāṇisitu. (koḷavondu, guheyondu, maneyondu)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಸಮಯ ಸಾಧಿಸಿ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ................................. (ಮಲಗಿತ್ತು, ನಿಂತಿತ್ತು, ಕುಳಿತಿತ್ತು)",
+      "translations": {
+        "en": "Biding its time, it _____ a little distance away. (slept, stood, sat)",
+        "hi": "समय साधकर थोड़ी दूर .....। (सोई थी, खड़ी थी, बैठी थी)"
+      },
+      "transliterations": {
+        "devanagari": "समय साधिसि स्वल्प दूरदल्लि ................................. (मलगित्तु, निंतित्तु, कुळितित्तु)",
+        "latin": "samaya sādhisi svalpa dūradalli ................................. (malagittu, nintittu, kuḷitittu)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಕೋಳಿಗಳನ್ನು ಕಂಡು ನರಿಯ ಮರಿಯು ಮನದಲ್ಲೇ ................................. (ಕುಗ್ಗಿತು, ಓಡಿತು, ಹಿಗ್ಗಿತು,)",
+      "translations": {
+        "en": "Seeing the chickens, the fox cub _____ in its mind. (shrank, ran, rejoiced)",
+        "hi": "मुर्गियों को देखकर लोमड़ी का बच्चा मन ही मन .....। (सिकुड़ गया, भाग गया, खुश हो गया)"
+      },
+      "transliterations": {
+        "devanagari": "कोळिगळन्नु कंडु नरिय मरियु मनदल्ले ................................. (कुग्गितु, ओडितु, हिग्गितु,)",
+        "latin": "kōḷigaḷannu kaṇḍu nariya mariyu manadallē ................................. (kuggitu, ōḍitu, higgitu,)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "“ಅಮ್ಮಾ, ಎಷ್ಟೊಂದು ಕೋಳಿಗಳು!”",
+      "translations": {
+        "en": "Mother, so many chickens!",
+        "hi": "\"अम्मा, कितनी सारी मुर्गियाँ!\""
+      },
+      "transliterations": {
+        "devanagari": "“अम्मा, एष्टोंदु कोळिगळु!”",
+        "latin": "“ammā, eṣṭondu kōḷigaḷu!”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "“ನಿಮ್ಮ ಹಲ್ಲುಗಳು ಬಲಹೀನವಾಗಿವೆಯಲ್ಲವೆ?”",
+      "translations": {
+        "en": "Your teeth are weak, aren't they?",
+        "hi": "\"तुम्हारे दाँत कमज़ोर हैं, है न?\""
+      },
+      "transliterations": {
+        "devanagari": "“निम्म हल्लुगळु बलहीनवागिवेयल्लवे?”",
+        "latin": "“nimma hallugaḷu balahīnavāgiveyallave?”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "“ನಮ್ಮ ಹಲ್ಲುಗಳು ಗಟ್ಟಿಯಾಗಿಯೇ ಇವೆ”.",
+      "translations": {
+        "en": "Our teeth are indeed strong.",
+        "hi": "\"हमारे दाँत मज़बूत ही हैं।\""
+      },
+      "transliterations": {
+        "devanagari": "“नम्म हल्लुगळु गट्टियागिये इवे”.",
+        "latin": "“namma hallugaḷu gaṭṭiyāgiyē ive”."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಸಾಕು ಪ್ರಾಣಿಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ :",
+      "translations": {
+        "en": "Write the names of domestic animals:",
+        "hi": "पालतू जानवरों के नाम लिखें :"
+      },
+      "transliterations": {
+        "devanagari": "साकु प्राणिगळ हेसरन्नु बरेयिरि :",
+        "latin": "sāku prāṇigaḷa hesarannu bareyiri :"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಮತ್ತು ಕುಟುಂಬ ಕಲ್ಯಾಣ ಇಲಾಖೆ ಏರ್ಪಡಿಸಿರುವ ಪಲ್ಸ್ ಪೋಲಿಯೋ ಲಸಿಕೆ ಹಾಕುವ ಕಾರ್ಯಕ್ರಮ ಐದು ವರ್ಷದವರೆಗಿನ ಎಲ್ಲಾ ಮಕ್ಕಳಿಗೂ ಪೋಲಿಯೋ ಹನಿ ಹಾಕಿಸಿ, ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಪೋಲಿಯೋ ರೋಗದಿಂದ ಮುಕ್ತಗೊಳಿಸಿ. ಬನ್ನಿ, ಈ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ನಾವೆಲ್ಲರೂ ಸಹಕರಿಸೋಣ.",
+      "translations": {
+        "en": "Pulse Polio vaccination program organized by Government of Karnataka, Department of Health and Family Welfare. Give Polio drops to all children up to five years of age and make your children free from Polio disease. Come, let us all cooperate in this program.",
+        "hi": "कर्नाटक सरकार स्वास्थ्य एवं परिवार कल्याण विभाग द्वारा आयोजित पल्स पोलियो टीकाकरण कार्यक्रम। पाँच वर्ष तक के सभी बच्चों को पोलियो की बूँदें पिलाकर अपने बच्चों को पोलियो रोग से मुक्त करें। आइए, हम सब इस कार्यक्रम में सहयोग करें।"
+      },
+      "transliterations": {
+        "devanagari": "कर्नाटक सर्कार आरोग्य मत्तु कुटुंब कल्याण इलाखे एर्पडिसिरुव पल्स् पोलियो लसिके हाकुव कार्यक्रम ऐदु वर्षदवरेगिन एल्ला मक्कळिगू पोलियो हनि हाकिसि, निम्म मक्कळन्नु पोलियो रोगदिंद मुक्तगोळिसि. बन्नि, ई कार्यक्रमक्के नावेल्लरू सहकरिसोण.",
+        "latin": "karnāṭaka sarkāra ārōgya mattu kuṭumba kalyāṇa ilākhe ērpaḍisiruva pals pōliyō lasike hākuva kāryakrama aidu varṣadavaregina ellā makkaḷigū pōliyō hani hākisi, nimma makkaḷannu pōliyō rōgadinda muktagoḷisi. banni, ī kāryakramakke nāvellarū sahakarisōṇa."
+      },
+      "type": "question"
+    }
+  ]
+}

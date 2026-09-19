@@ -1,0 +1,1935 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g3-fl-p1",
+    "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+    "editionId": "2026-27",
+    "number": 13
+  },
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Samarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ऒंदॊंदु वाक्यदल्लि उत्तर बरॆयिरि.",
+      "en": "Exercise A — Answer in one sentence each.",
+      "hi": "अभ्यास अ — एक-एक वाक्य में उत्तर लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "Abhyasa A — Ondondu vakyadalli uttara bareyiri."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — ऎरडु-मूरु वाक्यगळल्लि उत्तर बरॆयिरि.",
+      "en": "Exercise B — Answer in two-three sentences.",
+      "hi": "अभ्यास आ — दो-तीन वाक्यों में उत्तर लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "Abhyasa Aa — Eradu-mooru vakyagalalli uttara bareyiri."
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ — वाक्यदल्लि बिट्टिरुव स्थळक्कॆ सरियाद पद तुंबि.",
+      "en": "Exercise C — Fill in the blanks with the correct word.",
+      "hi": "अभ्यास इ — वाक्य में खाली स्थान पर सही शब्द भरिए।",
+      "kn": "ಅಭ್ಯಾಸ ಇ — ವಾಕ್ಯದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಸ್ಥಳಕ್ಕೆ ಸರಿಯಾದ ಪದ ತುಂಬಿ.",
+      "latin": "Abhyasa I — Vakyadalli bittiruva sthalakke sariyada pada tumbi."
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई — हॊंदिसि बरॆयिरि.",
+      "en": "Exercise D — Match the following.",
+      "hi": "अभ्यास ई — मिलान करके लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಈ — ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "Abhyasa Ee — Hondisi bareyiri."
+    },
+    "exercise-E": {
+      "devanagari": "भाषा चटुवटिकॆ अ — कॊट्टिरुव पदगळन्नु बळसि स्वंत वाक्य रचिसि.",
+      "en": "Language Activity A — Make your own sentences using the given words.",
+      "hi": "भाषा गतिविधि अ — दिए गए शब्दों का उपयोग करके अपने वाक्य बनाइए।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ರಚಿಸಿ.",
+      "latin": "Bhasha Chatuvatike A — Kottiruva padagalannu balasi svanta vakya rachisi."
+    },
+    "exercise-F": {
+      "devanagari": "भाषा चटुवटिकॆ आ — गुंपिगॆ सेरद पद आरिसि बरॆयिरि.",
+      "en": "Language Activity B — Choose the odd one out.",
+      "hi": "भाषा गतिविधि आ — बेमेल शब्द चुनकर लिखिए।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಆರಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "Bhasha Chatuvatike Aa — Gumpige serada pada aarisi bareyiri."
+    },
+    "exercise-G": {
+      "devanagari": "भाषा चटुवटिकॆ इ — कॆळगिनवुगळन्नु कूडिसि बरॆयिरि.",
+      "en": "Language Activity C — Join the following words and write.",
+      "hi": "भाषा गतिविधि इ — निम्नलिखित को जोड़कर लिखिए।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ — ಕೆಳಗಿನವುಗಳನ್ನು ಕೂಡಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "Bhasha Chatuvatike I — Kelaginavugalannu koodisi bareyiri."
+    },
+    "exercise-H": {
+      "devanagari": "बळकॆ चटुवटिकॆ अ — कॆळगिन मनॆगळिंद अक्षरगळन्नु आरिसि नीरिन मूलगळन्नु कंडुहिडिदु बरॆयिरि.",
+      "en": "Usage Activity A — Find the sources of water by choosing letters from the grid below and write them.",
+      "hi": "उपयोग गतिविधि अ — नीचे दिए गए ग्रिड से अक्षर चुनकर जल के स्रोतों को खोजिए और लिखिए।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ — ಕೆಳಗಿನ ಮನೆಗಳಿಂದ ಅಕ್ಷರಗಳನ್ನು ಆರಿಸಿ ನೀರಿನ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿದು ಬರೆಯಿರಿ.",
+      "latin": "Balake Chatuvatike A — Kelagina manegalinda aksharagalannu aarisi neerina moolagalannu kanduhididu bareyiri."
+    },
+    "exercise-I": {
+      "devanagari": "बळकॆ चटुवटिकॆ आ — तरगतियल्लि चर्चिसि तीर्मानवन्नु बरॆयिरि.",
+      "en": "Usage Activity B — Discuss in class and write your decision.",
+      "hi": "उपयोग गतिविधि आ — कक्षा में चर्चा करके अपना निर्णय लिखिए।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ — ತರಗತಿಯಲ್ಲಿ ಚರ್ಚಿಸಿ ತೀರ್ಮಾನವನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "Balake Chatuvatike Aa — Taragatiyalli charchisi teermanavannu bareyiri."
+    },
+    "exercise-J": {
+      "devanagari": "बळकॆ चटुवटिकॆ इ — भाषणवन्नु इल्लि बरॆ.",
+      "en": "Usage Activity C — Write the speech here.",
+      "hi": "उपयोग गतिविधि इ — अपना भाषण यहाँ लिखिए।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಇ — ಭಾಷಣವನ್ನು ಇಲ್ಲಿ ಬರೆ.",
+      "latin": "Balake Chatuvatike I — Bhashanavannu illi bare."
+    },
+    "exercise-K": {
+      "devanagari": "बळकॆ चटुवटिकॆ ई — गॆळॆयरॊंदिगॆ चर्चिसि उत्तरिसिरि.",
+      "en": "Usage Activity D — Discuss with friends and answer.",
+      "hi": "उपयोग गतिविधि ई — दोस्तों के साथ चर्चा करके उत्तर दीजिए।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಈ — ಗೆಳೆಯರೊಂದಿಗೆ ಚರ್ಚಿಸಿ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "Balake Chatuvatike Ee — Geleyarondige charchisi uttarisiri."
+    },
+    "exercise-L": {
+      "devanagari": "बळकॆ चटुवटिकॆ उ — आट आडोण बा (अनुकरणॆ आट)",
+      "en": "Usage Activity E — Come let's play (Mimicry game)",
+      "hi": "उपयोग गतिविधि उ — चलो खेलें (नकल का खेल)",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಉ — ಆಟ ಆಡೋಣ ಬಾ (ಅನುಕರಣೆ ಆಟ)",
+      "latin": "Balake Chatuvatike U — Aata aadona baa (Anukarane aata)"
+    },
+    "exercise-M": {
+      "devanagari": "बळकॆ चटुवटिकॆ ऊ — ऒगटु ओदि आनंदिसि.",
+      "en": "Usage Activity F — Read the riddles and enjoy.",
+      "hi": "उपयोग गतिविधि ऊ — पहेलियाँ पढ़िए और आनंद लीजिए।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಊ — ಒಗಟು ಓದಿ ಆನಂದಿಸಿ.",
+      "latin": "Balake Chatuvatike Uu — Ogatu odi aanandisi."
+    },
+    "intro": {
+      "devanagari": "कलिकॆगॆ दारि",
+      "en": "Path to Learning",
+      "hi": "सीखने का मार्ग",
+      "kn": "ಕಲಿಕೆಗೆ ದಾರಿ",
+      "latin": "Kalikege Daari"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Note",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "Padya"
+    },
+    "story": {
+      "devanagari": "कथॆ",
+      "en": "Story",
+      "hi": "कहानी",
+      "kn": "ಕಥೆ",
+      "latin": "Kathe"
+    },
+    "title": {
+      "devanagari": "अज्जिय तोटदल्लि ऒंदु दिन",
+      "en": "A Day in Grandma's Garden",
+      "hi": "दादी के बगीचे में एक दिन",
+      "kn": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ",
+      "latin": "Ajjiya Totadalli Ondu Dina"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Meanings of Words",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala Artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 4,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "Karnataka Textbook Society",
+    "slug": "ch05-ajjiya-totadalli-ondu-dina",
+    "source_url": "https://diksha.gov.in/dial/B5V6X7",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಪಾಠ - 5",
+      "translations": {
+        "en": "Lesson - 5",
+        "hi": "पाठ - 5"
+      },
+      "transliterations": {
+        "devanagari": "पाठ - 5",
+        "latin": "Paatha - 5"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ",
+      "translations": {
+        "en": "A Day in Grandma's Garden",
+        "hi": "दादी के बगीचे में एक दिन"
+      },
+      "transliterations": {
+        "devanagari": "अज्जिय तोटदल्लि ऒंदु दिन",
+        "latin": "Ajjiya Totadalli Ondu Dina"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-3",
+      "section": "intro",
+      "text": "ಕಲಿಕೆಗೆ ದಾರಿ:",
+      "translations": {
+        "en": "Path to Learning:",
+        "hi": "सीखने का मार्ग:"
+      },
+      "transliterations": {
+        "devanagari": "कलिकॆगॆ दारि:",
+        "latin": "Kalikege Daari"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-4",
+      "section": "intro",
+      "text": "ಈ ಬೆಳೆಗಳ ಹೆಸರೇನೆಂದು ನಿಮಗೆ ಗೊತ್ತೆ? ಗುರುತಿಸಿ ಹೇಳಿ.",
+      "translations": {
+        "en": "Do you know the names of these crops? Identify and tell.",
+        "hi": "क्या आपको इन फसलों के नाम पता हैं? पहचानकर बताइए।"
+      },
+      "transliterations": {
+        "devanagari": "ई बॆळॆगळ हॆसरेनॆंदु निमगॆ गॊत्तॆ? गुरुतिसि हेळि.",
+        "latin": "Ee belegala hesarenenndu nimage gotte? Gurutisi heli."
+      },
+      "type": "question"
+    },
+    {
+      "id": "story-p1",
+      "section": "story",
+      "text": "ಮಲೆನಾಡ ತಪ್ಪಲಿನಲ್ಲಿರುವ ಒಂದು ಊರು ಕಣಬೂರು. ಅಲ್ಲೊಂದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಆ ಶಾಲೆಯ ಮಕ್ಕಳು ಕಿಶೋರನ ಅಜ್ಜಿಯ ತೋಟಕ್ಕೆ ಗುರುಗಳೊಂದಿಗೆ ಹೊರ ಸಂಚಾರ ಹೊರಟರು. ಕಿಶೋರನ ಅಜ್ಜಿಯ ಮನೆ ಬೆಟ್ಟದ ತಪ್ಪಲಿನಲ್ಲಿದೆ. ಮನೆಯ ಹಿಂದಿನ ಗುಡ್ಡದಲ್ಲಿ ಗೇರು ಮರಗಳಿವೆ. ಅಡಿಕೆ ತೋಟ ದಾಟಿ ಮುಂದೆ ಹೋದರೆ ಭತ್ತದ ಗದ್ದೆಗಳಿವೆ. ಮಕ್ಕಳೆಲ್ಲರೂ ಗದ್ದೆಯ ಹತ್ತಿರ ಬಂದು ತಲುಪಿದರು.",
+      "translations": {
+        "en": "Kanaburu is a village at the foothills of Malenadu. There is a higher primary school there. The children of that school went on an excursion to Kishora's grandmother's garden along with their teachers. Kishora's grandmother's house is at the foothills of a mountain. There are cashew trees on the hill behind the house. If you cross the areca nut garden and go further, there are paddy fields. All the children reached near the field.",
+        "hi": "मलनाड की तलहटी में कणाबूर नामक एक गाँव है। वहाँ एक उच्च प्राथमिक विद्यालय है। उस विद्यालय के बच्चे किशोर की दादी के बगीचे में शिक्षकों के साथ भ्रमण के लिए निकले। किशोर की दादी का घर पहाड़ी की तलहटी में है। घर के पीछे की पहाड़ी पर काजू के पेड़ हैं। सुपारी के बगीचे को पार करके आगे जाने पर धान के खेत हैं। सभी बच्चे खेत के पास पहुँच गए।"
+      },
+      "transliterations": {
+        "devanagari": "मलॆनाड तप्पलिनल्लिरुव ऒंदु ऊरु कणबूरु. अल्लॊंदु हिरिय प्राथमिक शालॆ. आ शालॆय मक्कळु किशोरन अज्जिय तोटक्कॆ गुरुगळॊंदिगॆ हॊर संचार हॊरटरु. किशोरन अज्जिय मनॆ बॆट्टद तप्पलिनल्लिदॆ. मनॆय हिंदिन गुड्डदल्लि गेरु मरगळिवॆ. अडिकॆ तोट दाटि मुंदॆ होदरॆ भत्तद गद्दॆगळिवॆ. मक्कळॆल्लरू गद्दॆय हत्तिर बंदु तलुपिदरु.",
+        "latin": "Malenaada tappalinalliruva ondu ooru Kanabooru. Allondu hiriya prathamika shaale. Aa shaleya makkalu kishorana ajjiya totakke gurugalondige hora sanchara horataru. Kishorana ajjiya mane bettada tappalinallide. Maneya hindina guddadalli geru maragalive. Adike tota daati munde hodare bhattada gaddegalive. Makkalellaru gaddeya hattira bandu talupidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p2",
+      "section": "story",
+      "text": "‘‘ಇದು ಯಾವ ಬೆಳೆ?’’ ಎಂದು ಪೀಟರ್ ಪ್ರಶ್ನಿಸಿದ. ‘‘ಇದು ಭತ್ತದ ಬೆಳೆ’’ ಎಂದರು ಗುರುಗಳು. ‘‘ಓ ಇದೇನಾ! ಭತ್ತದ ಪೈರು?” ತೆನೆಗಳನ್ನು ಕೈಯಿಂದ ಮುಟ್ಟಿ ಪ್ರಶ್ನಿಸಿದ ಪೀಟರ್. ಒಂದು ಭತ್ತದ ತೆನೆಯನ್ನು ಕಿತ್ತುಕೊಟ್ಟು ‘‘ತಗೋ ಇದನ್ನು ಬಿಡಿಸಿನೋಡು’’ ಎಂದರು ಗುರುಗಳು. ಶೀಲಾ ತಾನು ಒಂದು ತೆನೆ ಕೀಳಲು ಬಾಗಿದಾಗ ಒಂದು ಕಪ್ಪೆ ಚಂಗನೆ ಕುಪ್ಪಳಿಸಿತು. ಸರಸರ ಒಂದು ಹಾವು ಹತ್ತಿರದಲ್ಲೆ ಸರಿದು ಹೋಯಿತು. ಮಕ್ಕಳು ಭಯದಿಂದ ಹಿಂದೆ ನೆಗೆದರು. ‘‘ಹೆದರಬೇಡಿ, ಅವು ನಮಗೆ ಏನು ಮಾಡುವುದಿಲ್ಲ. ಹಾವು, ಕಪ್ಪೆ, ಕೀಟ, ಹಕ್ಕಿ, ಮೊಲ, ಹಂದಿ, ಮುಂಗುಸಿ ಮುಂತಾದ ಪ್ರಾಣಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ ತೋಟದ ಸುತ್ತಮುತ್ತ ಇರುತ್ತವೆ’’ ಎಂದರು ಗುರುಗಳು.",
+      "translations": {
+        "en": "\"Which crop is this?\" asked Peter. \"This is the paddy crop,\" said the teachers. \"Oh, is this the one! Paddy seedlings?\" Peter asked, touching the ears of grain with his hand. Plucking an ear of paddy and giving it to him, the teachers said, \"Take this, peel it and see.\" When Sheela bent down to pluck an ear, a frog suddenly jumped. A snake slithered away quickly nearby. The children jumped back in fear. \"Do not be afraid, they will not do anything to us. Animals like snakes, frogs, insects, birds, rabbits, pigs, and mongooses are usually found around the garden,\" said the teachers.",
+        "hi": "\"यह कौन-सी फसल है?\" पीटर ने पूछा। \"यह धान की फसल है,\" शिक्षकों ने कहा। \"ओह, क्या यही है! धान के पौधे?\" पीटर ने अपने हाथ से बालियों को छूते हुए पूछा। धान की एक बाली तोड़कर देते हुए शिक्षकों ने कहा, \"लो, इसे छीलकर देखो।\" जब शीला एक बाली तोड़ने के लिए झुकी, तो एक मेंढक अचानक उछल पड़ा। पास में ही एक साँप तेजी से खिसक गया। बच्चे डर के मारे पीछे हट गए। \"डरो मत, वे हमें कुछ नहीं करेंगे। साँप, मेंढक, कीड़े, पक्षी, खरगोश, सुअर, और नेवले जैसे जानवर आमतौर पर बगीचे के आसपास होते हैं,\" शिक्षकों ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "‘‘इदु याव बॆळॆ?’’ ऎंदु पीटर् प्रश्निसिद. ‘‘इदु भत्तद बॆळॆ’’ ऎंदरु गुरुगळु. ‘‘ओ इदेना! भत्तद पैरु?” तॆनॆगळन्नु कैयिंद मुट्टि प्रश्निसिद पीटर्. ऒंदु भत्तद तॆनॆयन्नु कित्तुकॊट्टु ‘‘तगो इदन्नु बिडिसिनोडु’’ ऎंदरु गुरुगळु. शीला तानु ऒंदु तॆनॆ कीळलु बागिदाग ऒंदु कप्पॆ चंगनॆ कुप्पळिसितु. सरसर ऒंदु हावु हत्तिरदल्लॆ सरिदु होयितु. मक्कळु भयदिंद हिंदॆ नॆगॆदरु. ‘‘हॆदरबेडि, अवु नमगॆ एनु माडुवुदिल्ल. हावु, कप्पॆ, कीट, हक्कि, मॊल, हंदि, मुंगुसि मुंताद प्राणिगळु सामान्यवागि तोटद सुत्तमुत्त इरुत्तवॆ’’ ऎंदरु गुरुगळु.",
+        "latin": "\"Idu yaava bele?\" endu peetar prashnisida. \"Idu bhattada bele\" endaru gurugalu. \"O idenaa! Bhattada pairu?\" Tenegalannu kaiyinda mutti prashnisida peetar. Ondu bhattada teneyannu kittukottu \"Tago idannu bidisinodu\" endaru gurugalu. Sheela taanu ondu tene keelalu baagidaaga ondu kappe changane kuppalisitu. Sarasara ondu haavu hattiradalle saridu hoyitu. Makkalu bhayadinda hinde negedaru. \"Hedarabedi, avu namage enu maduvudilla. Haavu, kappe, keeta, hakki, mola, handi, mungusi muntada pranigalu samanyavagi totada suttamutta iruttave\" endaru gurugalu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p3",
+      "section": "story",
+      "text": "ಮಕ್ಕಳು ಮಾತನಾಡುತ್ತಾ ಗದ್ದೆಯ ಬದುವಿನಲ್ಲಿ ನಡೆದು ತೋಡು ದಾಟಿ ಅಡಿಕೆ ತೋಟಕ್ಕೆ ಬಂದರು. ತೋಟದ ನಡುವೆ ಬಿದ್ದಿದ್ದ ಒಂದು ಹಣ್ಣನ್ನು ಹೆಕ್ಕಿದ ಮೇರಿ ‘‘ಓ! ಇಲ್ಲಿ ನೋಡಿ ಸೌತೆ ಕಾಯಿ!” ಎಂದಳು. “ಅಲ್ಲಲ್ಲ! ಅದು ಹೀರೆಕಾಯಿ” ಎಂದನು ರಫೀಕ್. ‘‘ಎರಡೂ ಅಲ್ಲ. ಅದು ಕೊಕೊ ಹಣ್ಣು. ಇದನ್ನು ಚಾಕಲೇಟು ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ. ಯಾವುದೋ ಪ್ರಾಣಿ ಅದನ್ನು ಕಿತ್ತು ಹಾಕಿದೆ. ಬಹುಶಃ ಅಳಿಲೇ ಇರಬೇಕು’’ ಎಂದರು ಗುರುಗಳು.",
+      "translations": {
+        "en": "Talking among themselves, the children walked along the ridge of the field, crossed a stream, and came to the areca nut garden. Picking up a fruit that had fallen in the middle of the garden, Mary said, \"Oh! Look here, a cucumber!\" \"No, no! That is a ridge gourd,\" said Rafiq. \"It is neither. It is a cocoa fruit. This is used to make chocolate. Some animal has plucked and dropped it. It must probably be a squirrel,\" said the teachers.",
+        "hi": "बच्चे आपस में बात करते हुए खेत की मेड़ पर चले, नाला पार किया और सुपारी के बगीचे में आ गए। बगीचे के बीच में गिरे एक फल को उठाते हुए मैरी ने कहा, \"ओह! यहाँ देखो, ककड़ी!\" \"नहीं, नहीं! वह तोरई है,\" रफ़ीक ने कहा। \"दोनों नहीं हैं। यह कोको फल है। इसका उपयोग चॉकलेट बनाने के लिए किया जाता है। किसी जानवर ने इसे तोड़कर फेंक दिया है। शायद वह गिलहरी ही होगी,\" शिक्षकों ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु मातनाडुत्ता गद्दॆय बदुविनल्लि नडॆदु तोडु दाटि अडिकॆ तोटक्कॆ बंदरु. तोटद नडुवॆ बिद्दिद्द ऒंदु हण्णन्नु हॆक्किद मेरि ‘‘ओ! इल्लि नोडि सौतॆ कायि!” ऎंदळु. “अल्लल्ल! अदु हीरॆकायि” ऎंदनु रफीक्. ‘‘ऎरडू अल्ल. अदु कॊकॊ हण्णु. इदन्नु चाकलेटु तयारिसलु बळसुत्तारॆ. यावुदो प्राणि अदन्नु कित्तु हाकिदॆ. बहुशः अळिले इरबेकु’’ ऎंदरु गुरुगळु.",
+        "latin": "Makkalu matanadutta gaddeya baduvinalli nadedu todu daati adike totakke bandaru. Totada naduve biddidda ondu hannannu hekkida meri \"O! Illi nodi soute kaayi!\" endalu. \"Allalla! Adu heerekayi\" endanu rafeeq. \"Eradu alla. Adu koko hannu. Idannu chakletu tayarisalu balayuttare. Yavudo prani adannu kittu haakide. Bahushaha alile irabeku\" endaru gurugalu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p4",
+      "section": "story",
+      "text": "ಅಷ್ಟರಲ್ಲಿ ಅಜ್ಜಿ ತೋಟದಲ್ಲಿ ಏನೋ ಮಾಡುತ್ತಿರುವುದನ್ನು ಕಂಡ ಮಕ್ಕಳು ಅಲ್ಲಿಗೆ ಓಡಿದರು. ‘‘ನಿಧಾನವಾಗಿ ಬನ್ನಿ. ಮುಳ್ಳುಗಳು ಇರಬಹುದು’’ ಎಂದು ಎಚ್ಚರಿಸಿದರು ಅಜ್ಜಿ. ‘‘ಇದೇನು? ಇಷ್ಟೊಂದು ಗುಂಡಿ ತೋಡಿದ್ದೀರಿ?’’ ಎಂದು ಮಹೇಶ ಪ್ರಶ್ನಿಸಿದನು. ‘‘ನೀವೆಲ್ಲಾ ನಿಮ್ಮ ಕೈಯಾರೆ ಒಂದೊಂದು ಹಣ್ಣಿನ ಗಿಡ ಇದರಲ್ಲಿ ನೆಡಬೇಕು’’ ಎಂದು ಅಜ್ಜಿ ಉತ್ತರಿಸಿದರು. “ಬೇಡಪ್ಪ, ನಮ್ಮ ಕೈ ಕೊಳೆಯಾಗುತ್ತದೆ. ನನ್ನ ಅಮ್ಮ ಬೈಯ್ಯುತ್ತಾಳೆ” ಎಂದಳು ಅಶ್ವಿನಿ. “ಚೊಕ್ಕದ ಚಿಕ್ಕಮ್ಮ ಬಾರೆ” ಎಂದು ತಮಾಷೆ ಮಾಡಿದ ಮಹಮ್ಮದ್, ‘‘ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು’’ ಎಂದು ಹೇಳುತ್ತಾ ಒಂದು ಗಿಡ ತೆಗೆದುಕೊಂಡು ನೆಡಲು ಆರಂಭಿಸಿದನು. ಅಂತೆಯೇ ಎಲ್ಲಾ ಮಕ್ಕಳು ಒಂದೊಂದು ಗಿಡ ನೆಟ್ಟರು. ಕೈ ತೊಳೆದು ಅಜ್ಜಿ ಕೊಟ್ಟ ಹಣ್ಣನ್ನು ತಿಂದು ತೋಟದಲ್ಲೆಲ್ಲಾ ಸುತ್ತಾಡಿದರು. ತೋಟದಲ್ಲಿದ್ದ ಬಾಳೆ, ಅಡಿಕೆ, ತೆಂಗು, ಕಾಳುಮೆಣಸು, ಕಾಫಿ, ಏಲಕ್ಕಿ ಮೊದಲಾದ ಗಿಡಗಳನ್ನು ನೋಡಿದರು.",
+      "translations": {
+        "en": "Meanwhile, the children saw Grandma doing something in the garden and ran there. \"Come slowly. There might be thorns,\" Grandma warned. \"What is this? You have dug so many pits?\" asked Mahesha. \"All of you must plant one fruit sapling each in these with your own hands,\" Grandma replied. \"No way, our hands will get dirty. My mother will scold me,\" said Ashwini. Mohammad teased her saying, \"Come here, clean little aunt,\" and saying \"If hands get muddy, the mouth gets curd (hard work pays off),\" he took a sapling and started planting it. Similarly, all the children planted one sapling each. After washing their hands and eating the fruits given by Grandma, they wandered all around the garden. They saw plants like banana, areca nut, coconut, black pepper, coffee, and cardamom in the garden.",
+        "hi": "इतने में, बच्चों ने दादी को बगीचे में कुछ करते हुए देखा और वहाँ दौड़ पड़े। \"धीरे-धीरे आओ। काँटे हो सकते हैं,\" दादी ने चेतावनी दी। \"यह क्या है? आपने इतने सारे गड्ढे खोदे हैं?\" महेश ने पूछा। \"तुम सभी को अपने हाथों से इनमें एक-एक फलों का पौधा लगाना है,\" दादी ने उत्तर दिया। \"नहीं, हमारे हाथ गंदे हो जाएँगे। मेरी माँ मुझे डाँटेगी,\" अश्विनी ने कहा। मोहम्मद ने उसे चिढ़ाते हुए कहा, \"इधर आओ, साफ-सुथरी चाची,\" और \"अगर हाथ मिट्टी से सने हों, तो मुँह में दही (कड़ी मेहनत का फल मीठा होता है)\" कहते हुए एक पौधा लिया और उसे लगाना शुरू कर दिया। इसी तरह, सभी बच्चों ने एक-एक पौधा लगाया। हाथ धोकर और दादी द्वारा दिए गए फलों को खाकर, वे पूरे बगीचे में घूमे। उन्होंने बगीचे में केला, सुपारी, नारियल, काली मिर्च, कॉफ़ी और इलायची जैसे पौधे देखे।"
+      },
+      "transliterations": {
+        "devanagari": "अष्टरल्लि अज्जि तोटदल्लि एनो माडुत्तिरुवुदन्नु कंड मक्कळु अल्लिगॆ ओडिदरु. ‘‘निधानवागि बन्नि. मुळ्ळुगळु इरबहुदु’’ ऎंदु ऎच्चरिसिदरु अज्जि. ‘‘इदेनु? इष्टॊंदु गुंडि तोडिद्दीरि?’’ ऎंदु महेश प्रश्निसिदनु. ‘‘नीवॆल्ला निम्म कैयारॆ ऒंदॊंदु हण्णिन गिड इदरल्लि नॆडबेकु’’ ऎंदु अज्जि उत्तरिसिदरु. “बेडप्प, नम्म कै कॊळॆयागुत्तदॆ. नन्न अम्म बैय्युत्ताळॆ” ऎंदळु अश्विनि. “चॊक्कद चिक्कम्म बारॆ” ऎंदु तमाषॆ माडिद महम्मद्, ‘‘कै कॆसरादरॆ बायि मॊसरु’’ ऎंदु हेळुत्ता ऒंदु गिड तॆगॆदुकॊंडु नॆडलु आरंभिसिदनु. अंतॆये ऎल्ला मक्कळु ऒंदॊंदु गिड नॆट्टरु. कै तॊळॆदु अज्जि कॊट्ट हण्णन्नु तिंदु तोटदल्लॆल्ला सुत्ताडिदरु. तोटदल्लिद्द बाळॆ, अडिकॆ, तॆंगु, काळुमॆणसु, काफि, एलक्कि मॊदलाद गिडगळन्नु नोडिदरु.",
+        "latin": "Ashtaralli ajji totadalli eno maduttiruvudannu kanda makkalu allige odidaru. \"Nidhanavagi banni. Mullugalu irabahudu\" endu echcharisidaru ajji. \"Idenu? Ishtondu gundi todiddiri?\" endu mahesha prashnisidanu. \"Neevella nimma kaiyaare ondondu hannina gida idaralli nedabeku\" endu ajji uttarisidaru. \"Bedappa, namma kai koleyaguttade. Nanna amma baiyuttale\" endalu ashwini. \"Chokkada chikkamma baare\" endu tamashe madida mahammad, \"Kai kesaradare baayi mosaru\" endu helutta ondu gida tegedukondu nedalu aarambhisidanu. Anteye ella makkalu ondondu gida nettaru. Kai toledu ajji kotta hannannu tindu totadallella suttaadidaru. Totadallidda baale, adike, tengu, kalumenasu, kaafi, elakki modalada gidagalannu nodidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p5",
+      "section": "story",
+      "text": "“ಅಜ್ಜೀ! ಹಾವಿನಮರಿ” ಎಂದು ಕಿರುಚಿದಳು ಶೀಲಾ. ‘‘ಅದು ಹಾವಲ್ಲ, ಎರೆಹುಳು. ಇದನ್ನು ರೈತನ ಮಿತ್ರ'' ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇದರ ಸಹಾಯದಿಂದ ಎರೆ ಗೊಬ್ಬರ ತಯಾರಿಸುತ್ತಾರೆ’’ ಎಂದರು ಗುರುಗಳು. ‘‘ನಾವು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸುವುದಿಲ್ಲ. ಎರೆಗೊಬ್ಬರ, ಹಟ್ಟಿಗೊಬ್ಬರ, ಕೋಳಿಗೊಬ್ಬರ ಮೊದಲಾದ ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಸಿ ಉತ್ತಮ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುತ್ತೇವೆ’’ ಎಂದರು ಅಜ್ಜಿ. ಎಲ್ಲವನ್ನು ಗಮನಿಸುತ್ತಿದ್ದ ಶರಣಪ್ಪ ‘‘ಸರ್ ನಮ್ಮ ಊರು ಬಳ್ಳಾರಿ. ಅಲ್ಲಿ ಜೋಳ, ಮೆಣಸು, ಶೇಂಗಾ ಮತ್ತು ತೊಗರಿ ಬೆಳೆಯುತ್ತಾರೆ’’ ಎಂದನು. ‘‘ಹೌದು ಮಣ್ಣಿನ ಗುಣ ಹಾಗೂ ಹವಾಮಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಬೇರೆ ಬೇರೆ ಬೆಳೆ ಬೆಳೆಯುತ್ತಾರೆ” ಎಂದರು ಶಿಕ್ಷಕರು.",
+      "translations": {
+        "en": "\"Grandma! A baby snake,\" screamed Sheela. \"That is not a snake, it is an earthworm. It is called the farmer's friend. Vermicompost is prepared with its help,\" said the teachers. \"We do not use chemical fertilizers. We grow good crops using organic fertilizers like vermicompost, cow dung manure, and poultry manure,\" said Grandma. Observing everything, Sharanappa said, \"Sir, our town is Ballari. Sorghum, chilli, peanuts, and pigeon peas are grown there.\" \"Yes, different crops are grown according to the nature of the soil and the climate,\" said the teachers.",
+        "hi": "\"दादी! एक छोटा साँप,\" शीला चिल्लाई। \"वह साँप नहीं है, वह केंचुआ है। इसे किसान का मित्र कहा जाता है। इसकी मदद से केंचुआ खाद तैयार की जाती है,\" शिक्षकों ने कहा। \"हम रासायनिक खादों का उपयोग नहीं करते हैं। हम केंचुआ खाद, गोबर की खाद, और मुर्गी की खाद जैसी जैविक खादों का उपयोग करके अच्छी फसलें उगाते हैं,\" दादी ने कहा। सब कुछ देख रहे शरणप्पा ने कहा, \"सर, हमारा शहर बल्लारी है। वहाँ ज्वार, मिर्च, मूंगफली और अरहर उगाई जाती है।\" \"हाँ, मिट्टी की प्रकृति और जलवायु के अनुसार अलग-अलग फसलें उगाई जाती हैं,\" शिक्षकों ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "“अज्जी! हाविनमरि” ऎंदु किरुचिदळु शीला. ‘‘अदु हावल्ल, ऎरॆहुळु. इदन्नु रैतन मित्र'' ऎंदु करॆयुत्तारॆ. इदर सहायदिंद ऎरॆ गॊब्बर तयारिसुत्तारॆ’’ ऎंदरु गुरुगळु. ‘‘नावु रासायनिक गॊब्बर बळसुवुदिल्ल. ऎरॆगॊब्बर, हट्टिगॊब्बर, कोळिगॊब्बर मॊदलाद सावयव गॊब्बर बळसि उत्तम बॆळॆगळन्नु बॆळॆयुत्तेवॆ’’ ऎंदरु अज्जि. ऎल्लवन्नु गमनिसुत्तिद्द शरणप्प ‘‘सर् नम्म ऊरु बळ्ळारि. अल्लि जोळ, मॆणसु, शेंगा मत्तु तॊगरि बॆळॆयुत्तारॆ’’ ऎंदनु. ‘‘हौदु मण्णिन गुण हागू हवामानक्कॆ अनुगुणवागि बेरॆ बेरॆ बॆळॆ बॆळॆयुत्तारॆ” ऎंदरु शिक्षकरु.",
+        "latin": "\"Ajjee! Haavinamari\" endu kiruchidalu sheela. \"Adu haavalla, erehulu. Idannu raitana mitra endu kareyuttare. Idara sahayadinda ere gobbara tayarisuttare\" endaru gurugalu. \"Naavu rasayanika gobbara balasuvudilla. Eregobbara, hattigobbara, koligobbara modalada savayava gobbara balasi uttama belegalannu beleyutteve\" endaru ajji. Ellavannu gamanisuttidda sharanappa \"Sir namma ooru ballari. Alli jola, menasu, shenga mattu togari beleyuttare\" endanu. \"Houdu mannina guna hagu havamanakke anugunavagi bere bere bele beleyuttare\" endaru shikshakaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p6",
+      "section": "story",
+      "text": "‘‘ನಮ್ಮ ಊರು ಪಶ್ಚಿಮ ಘಟ್ಟದ ತಪ್ಪಲಿನಲ್ಲಿದೆ. ಬೆಟ್ಟಗುಡ್ಡ ಮರಗಳಿಂದ ಕೂಡಿರುವ ಪ್ರದೇಶವಾದುದರಿಂದ ಇಲ್ಲಿ ಹೇರಳವಾಗಿ ಮಳೆ ಬೀಳುತ್ತದೆ. ಆದುದರಿಂದ ಹೆಚ್ಚು ನೀರು ಬೇಕಾದ ಬೆಳೆಗಳನ್ನು ನಾವು ಬೆಳೆಯುತ್ತೇವೆ. ನಿಮ್ಮ ಊರಿನ ಕಡೆ ಮಳೆ ಕಡಿಮೆ ಬೀಳುವುದರಿಂದ ಆ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುತ್ತಾರೆ'' ಎಂದರು ಅಜ್ಜಿ.",
+      "translations": {
+        "en": "\"Our village is at the foothills of the Western Ghats. Since the hills and mountains are covered with trees, it rains heavily here. Therefore, we grow crops that need more water. Since it rains less towards your town, those crops are grown there,\" said Grandma.",
+        "hi": "\"हमारा गाँव पश्चिमी घाट की तलहटी में है। चूँकि पहाड़ियाँ और पहाड़ पेड़ों से ढके हुए हैं, इसलिए यहाँ भारी बारिश होती है। इसलिए, हम ऐसी फसलें उगाते हैं जिन्हें अधिक पानी की आवश्यकता होती है। चूँकि आपके शहर की ओर बारिश कम होती है, इसलिए वहाँ वे फसलें उगाई जाती हैं,\" दादी ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "‘‘नम्म ऊरु पश्चिम घट्टद तप्पलिनल्लिदॆ. बॆट्टगुड्ड मरगळिंद कूडिरुव प्रदेशवादुदरिंद इल्लि हेरळवागि मळॆ बीळुत्तदॆ. आदुदरिंद हॆच्चु नीरु बेकाद बॆळॆगळन्नु नावु बॆळॆयुत्तेवॆ. निम्म ऊरिन कडॆ मळॆ कडिमॆ बीळुवुदरिंद आ बॆळॆगळन्नु बॆळॆयुत्तारॆ'' ऎंदरु अज्जि.",
+        "latin": "\"Namma ooru pashima ghattada tappalinallide. Bettagudda maragalinda koodiruva pradeshavadudarinda illi heralavagi male beeluttade. Aadudarinda hechu neeru bekada belegalannu naavu beleyutteve. Nimma oorina kade male kadime beeluvudarinda aa belegalannu beleyuttare\" endaru ajji."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p7",
+      "section": "story",
+      "text": "ಅಷ್ಟು ಹೊತ್ತಿಗೆ ಅಜ್ಜಿಯ ಮನೆಯಲ್ಲಿ ಮಕ್ಕಳಿಗಾಗಿ ರುಚಿಯಾದ ಅಡುಗೆ ಸಿದ್ಧವಾಗಿತ್ತು. ‘‘ಕೈ ಕಾಲು ತೊಳೆದು ಊಟಕ್ಕೆ ಬನ್ನಿ’’ ಎಂದು ಅಜ್ಜಿ ಕರೆದಳು. ಮಕ್ಕಳು ಅಜ್ಜಿಯ ಜೊತೆ ಊಟಕ್ಕೆ ಹೊರಟರು.",
+      "translations": {
+        "en": "By that time, a tasty meal was ready for the children at Grandma's house. \"Wash your hands and feet and come for the meal,\" called Grandma. The children went for the meal with Grandma.",
+        "hi": "तब तक, बच्चों के लिए दादी के घर में स्वादिष्ट भोजन तैयार था। \"अपने हाथ-पैर धो लो और खाने के लिए आ जाओ,\" दादी ने बुलाया। बच्चे दादी के साथ खाने के लिए गए।"
+      },
+      "transliterations": {
+        "devanagari": "अष्टु हॊत्तिगॆ अज्जिय मनॆयल्लि मक्कळिगागि रुचियाद अडुगॆ सिद्धवागित्तु. ‘‘कै कालु तॊळॆदु ऊटक्कॆ बन्नि’’ ऎंदु अज्जि करॆदळु. मक्कळु अज्जिय जॊतॆ ऊटक्कॆ हॊरटरु.",
+        "latin": "Ashtu hottige ajjiya maneyalli makkaligagi ruchiyada aduge siddhavagittu. \"Kai kaalu toledu ootakke banni\" endu ajji karedalu. Makkalu ajjiya jote ootakke horataru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p8",
+      "section": "story",
+      "text": "ಅಜ್ಜಿಯ ಮನೆಯ ಅಂಗಳದಲ್ಲಿದ್ದ ಯಂತ್ರವನ್ನು ಕಂಡ ಶೀಲಾ ‘‘ಇದೇನು ಗುರುಗಳೇ?” ಎಂದಳು. ‘‘ಇದು ಗದ್ದೆ ಉಳುವ ಯಂತ್ರ. ಹಿಂದೆ ನೇಗಿಲು, ನೊಗ, ಎತ್ತು, ಕೋಣ ಬಳಸಿ ಹೊಲ ಉಳುತ್ತಿದ್ದರು. ಈಗ ಹೊಸ ಸಾಧನಗಳು ಬಂದಿವೆ’’ ಎಂದರು ಗುರುಗಳು.",
+      "translations": {
+        "en": "Seeing a machine in the courtyard of Grandma's house, Sheela asked, \"What is this, sir?\" \"This is a field ploughing machine. In the past, they used to plough the field using a plough, yoke, ox, and buffalo. Now new equipment has come,\" said the teachers.",
+        "hi": "दादी के घर के आँगन में एक मशीन देखकर शीला ने पूछा, \"यह क्या है, सर?\" \"यह खेत जोतने की मशीन है। अतीत में, वे खेत जोतने के लिए हल, जुआ, बैल और भैंस का उपयोग करते थे। अब नए उपकरण आ गए हैं,\" शिक्षकों ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "अज्जिय मनॆय अंगळदल्लिद्द यंत्रवन्नु कंड शीला ‘‘इदेनु गुरुगळे?” ऎंदळु. ‘‘इदु गद्दॆ उळुव यंत्र. हिंदॆ नेगिलु, नॊग, ऎत्तु, कोण बळसि हॊल उळुत्तिद्दरु. ईग हॊस साधनगळु बंदिवॆ’’ ऎंदरु गुरुगळु.",
+        "latin": "Ajjiya maneya angaladallidda yantravannu kanda sheela \"Idenu gurugale?\" endalu. \"Idu gadde uluva yantra. Hinde negilu, noga, ettu, kona balasi hola uluttiddaru. Eega hosa sadhanagalu bandive\" endaru gurugalu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p9",
+      "section": "story",
+      "text": "ಎಲ್ಲರೂ ರುಚಿ ರುಚಿಯಾದ ಊಟ ಮುಗಿಸಿದರು. ಕೈ ತೊಳೆಯಲು ಹೋದ ಅಶ್ವಿನಿ ‘‘ಇದೋ ನೋಡಿ. ಇಲ್ಲೂ ಸಣ್ಣ ಸಣ್ಣ ಗುಂಡಿಗಳು ಇವೆ’’ ಎಂದಳು. “ಇವು ಇಂಗು ಗುಂಡಿಗಳು. ಈ ಗುಂಡಿಗಳ ಮೂಲಕ ಮಳೆಯ ನೀರನ್ನು ಇಂಗಿಸುತ್ತೇವೆ. ಇದು ಅಂತರ್ಜಲ ಹೆಚ್ಚಿಸುತ್ತದೆ. ಇದರಿಂದ ನಮ್ಮ ಬಾವಿಯಲ್ಲಿ ನೀರು ಎಂದೂ ಕಡಿಮೆ ಆಗಿಲ್ಲ” ಎಂದರು ಅಜ್ಜಿ.",
+      "translations": {
+        "en": "Everyone finished the delicious meal. Ashwini, who went to wash her hands, said, \"Look here. There are small pits here too.\" \"These are percolation pits. We let the rainwater percolate through these pits. This increases the groundwater. Because of this, the water in our well has never decreased,\" said Grandma.",
+        "hi": "सभी ने स्वादिष्ट भोजन समाप्त किया। अश्विनी, जो अपने हाथ धोने गई थी, ने कहा, \"यहाँ देखो। यहाँ भी छोटे-छोटे गड्ढे हैं।\" \"ये रिसाव गड्ढे (परकोलेशन पिट्स) हैं। हम इन गड्ढों के माध्यम से वर्षा जल को रिसने देते हैं। इससे भूजल बढ़ता है। इस वजह से, हमारे कुएँ का पानी कभी कम नहीं हुआ है,\" दादी ने कहा।"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लरू रुचि रुचियाद ऊट मुगिसिदरु. कै तॊळॆयलु होद अश्विनि ‘‘इदो नोडि. इल्लू सण्ण सण्ण गुंडिगळु इवॆ’’ ऎंदळु. “इवु इंगु गुंडिगळु. ई गुंडिगळ मूलक मळॆय नीरन्नु इंगिसुत्तेवॆ. इदु अंतर्जल हॆच्चिसुत्तदॆ. इदरिंद नम्म बावियल्लि नीरु ऎंदू कडिमॆ आगिल्ल” ऎंदरु अज्जि.",
+        "latin": "Ellaru ruchi ruchiyada oota mugisidaru. Kai toleyalu hoda ashwini \"Ido nodi. Illu sanna sanna gundigalu ive\" endalu. \"Ivu ingu gundigalu. Ee gundigala moolaka maleya neerannu ingisutteve. Idu antarjala hechisuttade. Idarinda namma baaviyalli neeru endu kadime aagilla\" endaru ajji."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p10",
+      "section": "story",
+      "text": "“ಮಕ್ಕಳೇ, ನಾವು ಮಳೆ ಕೊಯ್ಲು ಮತ್ತು ಅಂತರ್ಜಲದ ಬಗ್ಗೆ ತರಗತಿಯಲ್ಲಿ ಚರ್ಚಿಸೋಣ. ಈಗ ಅಜ್ಜಿಗೆ ಧನ್ಯವಾದ ಹೇಳಿ ಹೊರಡೋಣ” ಎಂದರು ಗುರುಗಳು. ಅಷ್ಟರಲ್ಲಿ ಅಜ್ಜಿ ಎಲ್ಲರಿಗೂ ಗೋಡಂಬಿ ಹಂಚಿದರು. ಮಕ್ಕಳು ತಿನ್ನುತ್ತಾ ಶಾಲೆ ಕಡೆ ಹೆಜ್ಜೆ ಹಾಕಿದರು.",
+      "translations": {
+        "en": "\"Children, let us discuss rainwater harvesting and groundwater in the class. Now let us thank Grandma and leave,\" said the teachers. Meanwhile, Grandma distributed cashew nuts to everyone. Eating them, the children walked towards the school.",
+        "hi": "\"बच्चों, आइए हम कक्षा में वर्षा जल संचयन और भूजल के बारे में चर्चा करें। अब दादी को धन्यवाद देते हैं और चलते हैं,\" शिक्षकों ने कहा। इस बीच, दादी ने सभी को काजू बांटे। उन्हें खाते हुए, बच्चे स्कूल की ओर चल पड़े।"
+      },
+      "transliterations": {
+        "devanagari": "“मक्कळे, नावु मळॆ कॊय्लु मत्तु अंतर्जलद बग्गॆ तरगतियल्लि चर्चिसोण. ईग अज्जिगॆ धन्यवाद हेळि हॊरडोण” ऎंदरु गुरुगळु. अष्टरल्लि अज्जि ऎल्लरिगू गोडंबि हंचिदरु. मक्कळु तिन्नुत्ता शालॆ कडॆ हॆज्जॆ हाकिदरु.",
+        "latin": "\"Makkale, naavu male koylu mattu antarjalada bagge taragatiyalli charchisona. Eega ajjige dhanyavada heli horadona\" endaru gurugalu. Ashtaralli ajji ellarigu godambi hanchidaru. Makkalu tinnutta shaale kade hejje haakidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-p11",
+      "section": "story",
+      "text": "ರೈತ ನಮ್ಮೆಲ್ಲರ ಅನ್ನದಾತ",
+      "translations": {
+        "en": "The farmer is the food provider for all of us",
+        "hi": "किसान हम सभी का अन्नदाता है"
+      },
+      "transliterations": {
+        "devanagari": "रैत नम्मॆल्लर अन्नदात",
+        "latin": "Raita nammellara annadaata"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-dhanyavada",
+      "text": "ಧನ್ಯವಾದ",
+      "translations": {
+        "en": "Thank you (Dhanyavada)",
+        "hi": "धन्यवाद (धन्यवादा)"
+      },
+      "transliterations": {
+        "devanagari": "धन्यवाद",
+        "latin": "dhanyavada"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhanyavada-def",
+      "ref": "vocab-dhanyavada",
+      "text": "ಕೃತಜ್ಞತೆ ಅರ್ಪಿಸುವುದು",
+      "translations": {
+        "en": "Expressing gratitude",
+        "hi": "कृतज्ञता व्यक्त करना"
+      },
+      "transliterations": {
+        "devanagari": "कृतज्ञतॆ अर्पिसुवुदु",
+        "latin": "krutajnate arpisuvudu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-charchisu",
+      "text": "ಚರ್ಚಿಸು",
+      "translations": {
+        "en": "Discuss (Charchisu)",
+        "hi": "चर्चा करना (चर्चिसु)"
+      },
+      "transliterations": {
+        "devanagari": "चर्चिसु",
+        "latin": "charchisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-charchisu-def",
+      "ref": "vocab-charchisu",
+      "text": "ವಾದಮಾಡು, ಚರ್ಚೆಮಾಡು",
+      "translations": {
+        "en": "To argue, to discuss",
+        "hi": "तर्क करना, चर्चा करना"
+      },
+      "transliterations": {
+        "devanagari": "वादमाडु, चर्चॆमाडु",
+        "latin": "vaadamadu, charchemadu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vishala",
+      "text": "ವಿಶಾಲ",
+      "translations": {
+        "en": "Vast (Vishala)",
+        "hi": "विशाल (विशाला)"
+      },
+      "transliterations": {
+        "devanagari": "विशाल",
+        "latin": "vishala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vishala-def",
+      "ref": "vocab-vishala",
+      "text": "ವಿಸ್ತಾರ",
+      "translations": {
+        "en": "Extensive",
+        "hi": "विस्तृत"
+      },
+      "transliterations": {
+        "devanagari": "विस्तार",
+        "latin": "vistaara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-prakruti",
+      "text": "ಪ್ರಕೃತಿ",
+      "translations": {
+        "en": "Nature (Prakruti)",
+        "hi": "प्रकृति (प्रकृति)"
+      },
+      "transliterations": {
+        "devanagari": "प्रकृति",
+        "latin": "prakruti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-prakruti-def",
+      "ref": "vocab-prakruti",
+      "text": "ನಿಸರ್ಗ",
+      "translations": {
+        "en": "Nature",
+        "hi": "निसर्ग"
+      },
+      "transliterations": {
+        "devanagari": "निसर्ग",
+        "latin": "nisarga"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vidhana",
+      "text": "ವಿಧಾನ",
+      "translations": {
+        "en": "Method (Vidhana)",
+        "hi": "विधि (विधाना)"
+      },
+      "transliterations": {
+        "devanagari": "विधान",
+        "latin": "vidhana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vidhana-def",
+      "ref": "vocab-vidhana",
+      "text": "ರೀತಿ, ಮಾರ್ಗ",
+      "translations": {
+        "en": "Way, path",
+        "hi": "तरीका, मार्ग"
+      },
+      "transliterations": {
+        "devanagari": "रीति, मार्ग",
+        "latin": "reeti, maarga"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hekku",
+      "text": "ಹೆಕ್ಕು",
+      "translations": {
+        "en": "Pick (Hekku)",
+        "hi": "चुनना (हेक्कु)"
+      },
+      "transliterations": {
+        "devanagari": "हॆक्कु",
+        "latin": "hekku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hekku-def",
+      "ref": "vocab-hekku",
+      "text": "ಆರಿಸು",
+      "translations": {
+        "en": "To choose, pick up",
+        "hi": "चुनना, उठाना"
+      },
+      "transliterations": {
+        "devanagari": "आरिसु",
+        "latin": "aarisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bahushaha",
+      "text": "ಬಹುಶಃ",
+      "translations": {
+        "en": "Probably (Bahushaha)",
+        "hi": "शायद (बहुशः)"
+      },
+      "transliterations": {
+        "devanagari": "बहुशः",
+        "latin": "bahushaha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bahushaha-def",
+      "ref": "vocab-bahushaha",
+      "text": "ಬಹುತೇಕ, ಬಹಳಮಟ್ಟಿಗೆ",
+      "translations": {
+        "en": "Mostly, to a large extent",
+        "hi": "ज़्यादातर, काफी हद तक"
+      },
+      "transliterations": {
+        "devanagari": "बहुतेक, बहळमट्टिगॆ",
+        "latin": "bahuteka, bahalamattige"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-habbu",
+      "text": "ಹಬ್ಬು",
+      "translations": {
+        "en": "Spread (Habbu)",
+        "hi": "फैलना (हब्बु)"
+      },
+      "transliterations": {
+        "devanagari": "हब्बु",
+        "latin": "habbu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-habbu-def",
+      "ref": "vocab-habbu",
+      "text": "ಹರಡು, ವ್ಯಾಪಿಸು",
+      "translations": {
+        "en": "To spread, expand",
+        "hi": "फैलना, विस्तार करना"
+      },
+      "transliterations": {
+        "devanagari": "हरडु, व्यापिसु",
+        "latin": "haradu, vyapisisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-todu",
+      "text": "ತೋಡು",
+      "translations": {
+        "en": "Dig (Todu)",
+        "hi": "खोदना (तोडु)"
+      },
+      "transliterations": {
+        "devanagari": "तोडु",
+        "latin": "todu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-todu-def",
+      "ref": "vocab-todu",
+      "text": "ಅಗೆ, ಬಗಿ, ಹಳ್ಳಮಾಡು",
+      "translations": {
+        "en": "To dig, scoop, make a pit",
+        "hi": "खोदना, गड्ढा बनाना"
+      },
+      "transliterations": {
+        "devanagari": "अगॆ, बगि, हळ्ळमाडु",
+        "latin": "age, bagi, hallamadu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-malenadu",
+      "text": "ಮಲೆನಾಡು",
+      "translations": {
+        "en": "Malenadu",
+        "hi": "मलनाड"
+      },
+      "transliterations": {
+        "devanagari": "मलॆनाडु",
+        "latin": "malenadu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-malenadu-def",
+      "ref": "note-malenadu",
+      "text": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಿಂದ ಕೂಡಿದ ಕರ್ನಾಟಕದ ಭೂಭಾಗ.",
+      "translations": {
+        "en": "A land region of Karnataka covered with the Western Ghats.",
+        "hi": "पश्चिमी घाट से ढका कर्नाटक का एक भूभाग।"
+      },
+      "transliterations": {
+        "devanagari": "पश्चिम घट्टगळिंद कूडिद कर्नाटकद भूभाग.",
+        "latin": "pashima ghattagalinda koodida karnatakada bhoobhaaga."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-pairu",
+      "text": "ಪೈರು",
+      "translations": {
+        "en": "Crop",
+        "hi": "फसल"
+      },
+      "transliterations": {
+        "devanagari": "पैरु",
+        "latin": "pairu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-pairu-def",
+      "ref": "note-pairu",
+      "text": "ತೆನೆ ಕೊಡುವ ಬೆಳೆ.",
+      "translations": {
+        "en": "A crop that yields ears of grain.",
+        "hi": "एक फसल जो अनाज की बालियां देती है।"
+      },
+      "transliterations": {
+        "devanagari": "तॆनॆ कॊडुव बॆळॆ.",
+        "latin": "tene koduva bele."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-noga",
+      "text": "ನೊಗ",
+      "translations": {
+        "en": "Yoke",
+        "hi": "जुआ"
+      },
+      "transliterations": {
+        "devanagari": "नॊग",
+        "latin": "noga"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-noga-def",
+      "ref": "note-noga",
+      "text": "ನೇಗಿಲನ್ನು ಎಳೆಯಲು ಎತ್ತಿನ ಕತ್ತಿನ ಮೇಲೆ ಇಡುವ ಉದ್ದವಾದ ಮರದ ದಿಂಡು.",
+      "translations": {
+        "en": "A long wooden log placed on the ox's neck to pull the plough.",
+        "hi": "हल खींचने के लिए बैल की गर्दन पर रखा जाने वाला एक लंबा लकड़ी का लट्ठा।"
+      },
+      "transliterations": {
+        "devanagari": "नेगिलन्नु ऎळॆयलु ऎत्तिन कत्तिन मेलॆ इडुव उद्दवाद मरद दिंडु.",
+        "latin": "negilannu eleyalu ettina kattina mele iduva uddavada marada dindu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-negilu",
+      "text": "ನೇಗಿಲು",
+      "translations": {
+        "en": "Plough",
+        "hi": "हल"
+      },
+      "transliterations": {
+        "devanagari": "नेगिलु",
+        "latin": "negilu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-negilu-def",
+      "ref": "note-negilu",
+      "text": "ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ.",
+      "translations": {
+        "en": "An implement used to plough the land.",
+        "hi": "भूमि जोतने के लिए उपयोग किया जाने वाला उपकरण।"
+      },
+      "transliterations": {
+        "devanagari": "भूमियन्नु उळुव साधन.",
+        "latin": "bhoomiyannu uluva saadhana."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-yantra",
+      "text": "ಯಂತ್ರ",
+      "translations": {
+        "en": "Machine",
+        "hi": "मशीन"
+      },
+      "transliterations": {
+        "devanagari": "यंत्र",
+        "latin": "yantra"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-yantra-def",
+      "ref": "note-yantra",
+      "text": "ಕೆಲಸ ಮಾಡುವ ಸಾಧನ.",
+      "translations": {
+        "en": "An implement that does work.",
+        "hi": "काम करने वाला उपकरण।"
+      },
+      "transliterations": {
+        "devanagari": "कॆलस माडुव साधन.",
+        "latin": "kelasa maduva saadhana."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-sukshma",
+      "text": "ಸೂಕ್ಷ್ಮ",
+      "translations": {
+        "en": "Micro",
+        "hi": "सूक्ष्म"
+      },
+      "transliterations": {
+        "devanagari": "सूक्ष्म",
+        "latin": "sukshma"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sukshma-def",
+      "ref": "note-sukshma",
+      "text": "ಅತ್ಯಂತ ಚಿಕ್ಕದಾಗಿರುವಂತಹುದು.",
+      "translations": {
+        "en": "That which is extremely small.",
+        "hi": "जो अत्यंत छोटा हो।"
+      },
+      "transliterations": {
+        "devanagari": "अत्यंत चिक्कदागिरुवंतहुदु.",
+        "latin": "atyanta chikkadagiruvantahudu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-totagarike",
+      "text": "ತೋಟಗಾರಿಕೆ",
+      "translations": {
+        "en": "Gardening",
+        "hi": "बागवानी"
+      },
+      "transliterations": {
+        "devanagari": "तोटगारिकॆ",
+        "latin": "totagarike"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-totagarike-def",
+      "ref": "note-totagarike",
+      "text": "ತೋಟವನ್ನು ಬೆಳೆಸುವುದು.",
+      "translations": {
+        "en": "Cultivating a garden.",
+        "hi": "बगीचा उगाना।"
+      },
+      "transliterations": {
+        "devanagari": "तोटवन्नु बॆळॆसुवुदु.",
+        "latin": "totavannu belesuvudu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-antarjala",
+      "text": "ಅಂತರ್ಜಲ",
+      "translations": {
+        "en": "Groundwater",
+        "hi": "भूजल"
+      },
+      "transliterations": {
+        "devanagari": "अंतर्जल",
+        "latin": "antarjala"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-antarjala-def",
+      "ref": "note-antarjala",
+      "text": "ಭೂಮಿ ಒಳಗಿನ ನೀರು.",
+      "translations": {
+        "en": "Water inside the earth.",
+        "hi": "पृथ्वी के अंदर का पानी।"
+      },
+      "transliterations": {
+        "devanagari": "भूमि ऒळगिन नीरु.",
+        "latin": "bhoomi olagina neeru."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-badu",
+      "text": "ಬದು",
+      "translations": {
+        "en": "Ridge",
+        "hi": "मेड़"
+      },
+      "transliterations": {
+        "devanagari": "बदु",
+        "latin": "badu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-badu-def",
+      "ref": "note-badu",
+      "text": "ಹೊಲಗದ್ದೆಗಳ ಅಂಚಿನಲ್ಲಿ ರಚಿಸಿದ ಮಣ್ಣಿನ ದಂಡೆ.",
+      "translations": {
+        "en": "An earthen bank created at the edge of fields.",
+        "hi": "खेतों के किनारे बनाई गई मिट्टी की मेड़।"
+      },
+      "transliterations": {
+        "devanagari": "हॊलगद्दॆगळ अंचिनल्लि रचिसिद मण्णिन दंडॆ.",
+        "latin": "holagaddeghala anchinalli rachisida mannina dande."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-honda",
+      "text": "ಹೊಂಡ",
+      "translations": {
+        "en": "Pond / Pit",
+        "hi": "तालाब / गड्ढा"
+      },
+      "transliterations": {
+        "devanagari": "हॊंड",
+        "latin": "honda"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-honda-def",
+      "ref": "note-honda",
+      "text": "ನೀರು ತುಂಬಿದ ತಗ್ಗು ಪ್ರದೇಶ.",
+      "translations": {
+        "en": "A low-lying area filled with water.",
+        "hi": "पानी से भरा एक निचला क्षेत्र।"
+      },
+      "transliterations": {
+        "devanagari": "नीरु तुंबिद तग्गु प्रदेश.",
+        "latin": "neeru tumbida taggu pradesha."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಮಕ್ಕಳು ಎಲ್ಲಿಗೆ ಹೊರ ಸಂಚಾರ ಹೊರಟರು?",
+      "translations": {
+        "en": "Where did the children go on an excursion?",
+        "hi": "बच्चे भ्रमण के लिए कहाँ गए?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु ऎल्लिगॆ हॊर संचार हॊरटरु?",
+        "latin": "Makkalu ellige hora sanchara horataru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಸಾಮಾನ್ಯವಾಗಿ ಹೊಲವನ್ನು ಯಾವುದರಿಂದ ಉಳುತ್ತಾರೆ?",
+      "translations": {
+        "en": "Usually, what is used to plough the field?",
+        "hi": "आमतौर पर, खेत जोतने के लिए किसका उपयोग किया जाता है?"
+      },
+      "transliterations": {
+        "devanagari": "सामान्यवागि हॊलवन्नु यावुदरिंद उळुत्तारॆ?",
+        "latin": "Samanyavagi holavannu yavudarinda uluttare?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಎರೆಗೊಬ್ಬರವನ್ನು ಯಾವುದರಿಂದ ತಯಾರಿಸುತ್ತಾರೆ?",
+      "translations": {
+        "en": "From what is vermicompost prepared?",
+        "hi": "केंचुआ खाद किससे तैयार की जाती है?"
+      },
+      "transliterations": {
+        "devanagari": "ऎरॆगॊब्बरवन्नु यावुदरिंद तयारिसुत्तारॆ?",
+        "latin": "Eregobbaravannu yavudarinda tayarisuttare?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ತೋಟದಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಯಾವ ಗೊಬ್ಬರವನ್ನು ಬಳಸುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "Which fertilizer was mostly used in the garden?",
+        "hi": "बगीचे में ज्यादातर किस खाद का उपयोग किया जाता था?"
+      },
+      "transliterations": {
+        "devanagari": "तोटदल्लि हॆच्चागि याव गॊब्बरवन्नु बळसुत्तिद्दरु?",
+        "latin": "Totadalli hechagi yaava gobbaravannu balasuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಶೀಲಾ ಅಜ್ಜಿಯ ಮನೆಯ ಅಂಗಳದಲ್ಲಿ ಯಾವ ಯಂತ್ರವನ್ನು ನೋಡಿದಳು?",
+      "translations": {
+        "en": "Which machine did Sheela see in the courtyard of Grandma's house?",
+        "hi": "शीला ने दादी के घर के आँगन में कौन-सी मशीन देखी?"
+      },
+      "transliterations": {
+        "devanagari": "शीला अज्जिय मनॆय अंगळदल्लि याव यंत्रवन्नु नोडिदळु?",
+        "latin": "Sheela ajjiya maneya angaladalli yaava yantravannu nodidalu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಯಾವ ಯಾವ ಗಿಡಗಳಿದ್ದವು?",
+      "translations": {
+        "en": "What all plants were there in Grandma's garden?",
+        "hi": "दादी के बगीचे में कौन-कौन से पौधे थे?"
+      },
+      "transliterations": {
+        "devanagari": "अज्जिय तोटदल्लि याव याव गिडगळिद्दवु?",
+        "latin": "Ajjiya totadalli yaava yaava gidagaliddavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಉಳುಮೆಯ ಬಗ್ಗೆ ಗುರುಗಳು ನೀಡಿದ ವಿವರಣೆ ಏನು?",
+      "translations": {
+        "en": "What was the explanation given by the teachers about ploughing?",
+        "hi": "शिक्षकों द्वारा जुताई के बारे में क्या स्पष्टीकरण दिया गया था?"
+      },
+      "transliterations": {
+        "devanagari": "उळुमॆय बग्गॆ गुरुगळु नीडिद विवरणॆ एनु?",
+        "latin": "Ulumeya bagge gurugalu needida vivarane enu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಇಂಗು ಗುಂಡಿಯ ಪ್ರಯೋಜನಗಳೇನು?",
+      "translations": {
+        "en": "What are the benefits of a percolation pit?",
+        "hi": "रिसाव गड्ढे के क्या लाभ हैं?"
+      },
+      "transliterations": {
+        "devanagari": "इंगु गुंडिय प्रयोजनगळेनु?",
+        "latin": "Ingu gundiya prayojanagalenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಕಿಶೋರನ ಅಜ್ಜಿಯ ಮನೆ ________ ತಪ್ಪಲಿನಲ್ಲಿದೆ.",
+      "translations": {
+        "en": "Kishora's grandmother's house is at the foothills of ________.",
+        "hi": "किशोर की दादी का घर ________ की तलहटी में है।"
+      },
+      "transliterations": {
+        "devanagari": "किशोरन अज्जिय मनॆ ________ तप्पलिनल्लिदॆ.",
+        "latin": "Kishorana ajjiya mane ________ tappalinallide."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಮನೆಯ ಹಿಂದಿನ ಗುಡ್ಡದಲ್ಲಿ ________ ತೋಟಗಳಿವೆ.",
+      "translations": {
+        "en": "There are ________ gardens on the hill behind the house.",
+        "hi": "घर के पीछे की पहाड़ी पर ________ के बगीचे हैं।"
+      },
+      "transliterations": {
+        "devanagari": "मनॆय हिंदिन गुड्डदल्लि ________ तोटगळिवॆ.",
+        "latin": "Maneya hindina guddadalli ________ totagalive."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಮಳೆಯ ನೀರನ್ನು ________ ಮೂಲಕ ಇಂಗಿಸುತ್ತೇವೆ.",
+      "translations": {
+        "en": "We let the rainwater percolate through ________.",
+        "hi": "हम वर्षा जल को ________ के माध्यम से रिसने देते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "मळॆय नीरन्नु ________ मूलक इंगिसुत्तेवॆ.",
+        "latin": "Maleya neerannu ________ moolaka ingisutteve."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಅಜ್ಜಿ ಎಲ್ಲರಿಗೂ ________ ಹಂಚಿದರು.",
+      "translations": {
+        "en": "Grandma distributed ________ to everyone.",
+        "hi": "दादी ने सभी को ________ बांटे।"
+      },
+      "transliterations": {
+        "devanagari": "अज्जि ऎल्लरिगू ________ हंचिदरु.",
+        "latin": "Ajji ellarigu ________ hanchidaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-p1",
+      "text": "(ಹಿರೇಕಾಯಿ, ಭತ್ತ, ಚಾಕಲೇಟು, ರೈತನಮಿತ್ರ, ಅಂತರ್ಜಲ, ಸಾವಯವ ಗೊಬ್ಬರ)",
+      "translations": {
+        "en": "(ridge gourd, paddy, chocolate, farmer's friend, groundwater, organic fertilizer)",
+        "hi": "(तोरई, धान, चॉकलेट, किसान का मित्र, भूजल, जैविक खाद)"
+      },
+      "transliterations": {
+        "devanagari": "(हिरेकायि, भत्त, चाकलेटु, रैतनमित्र, अंतर्जल, सावयव गॊब्बर)",
+        "latin": "(heerekayi, bhatta, chakletu, raitanamitra, antarjala, savayava gobbara)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಎರೆಹುಳ : ________",
+      "translations": {
+        "en": "Earthworm : ________",
+        "hi": "केंचुआ : ________"
+      },
+      "transliterations": {
+        "devanagari": "ऎरॆहुळ : ________",
+        "latin": "'Erehula : ________'"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಕೊಕೊ : ________",
+      "translations": {
+        "en": "Cocoa : ________",
+        "hi": "कोको : ________"
+      },
+      "transliterations": {
+        "devanagari": "कॊकॊ : ________",
+        "latin": "Koko : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ತೆನೆ : ________",
+      "translations": {
+        "en": "Ear of grain : ________",
+        "hi": "बाली : ________"
+      },
+      "transliterations": {
+        "devanagari": "तॆनॆ : ________",
+        "latin": "Tene : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಮಳೆಕೊಯ್ಲು : ________",
+      "translations": {
+        "en": "Rainwater harvesting : ________",
+        "hi": "वर्षा जल संचयन : ________"
+      },
+      "transliterations": {
+        "devanagari": "मळॆकॊय्लु : ________",
+        "latin": "Malekoylu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q5",
+      "text": "ಹಟ್ಟಿಗೊಬ್ಬರ : ________",
+      "translations": {
+        "en": "Cow dung manure : ________",
+        "hi": "गोबर की खाद : ________"
+      },
+      "transliterations": {
+        "devanagari": "हट्टिगॊब्बर : ________",
+        "latin": "Hattigobbara : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಕಿರುಚು : ________",
+      "translations": {
+        "en": "Scream : ________",
+        "hi": "चिल्लाना : ________"
+      },
+      "transliterations": {
+        "devanagari": "किरुचु : ________",
+        "latin": "Kiruchu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಹೊರಸಂಚಾರ : ________",
+      "translations": {
+        "en": "Excursion : ________",
+        "hi": "भ्रमण : ________"
+      },
+      "transliterations": {
+        "devanagari": "हॊरसंचार : ________",
+        "latin": "Horasanchara : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಆರೈಕೆ : ________",
+      "translations": {
+        "en": "Care : ________",
+        "hi": "देखभाल : ________"
+      },
+      "transliterations": {
+        "devanagari": "आरैकॆ : ________",
+        "latin": "Aaraike : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಹುಲುಸಾಗಿ : ________",
+      "translations": {
+        "en": "Abundantly : ________",
+        "hi": "प्रचुरता से : ________"
+      },
+      "transliterations": {
+        "devanagari": "हुलुसागि : ________",
+        "latin": "Hulusagi : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ತೆಂಗು, ಅಡಿಕೆ, ಬಾಳೆ, ಭತ್ತ : ________",
+      "translations": {
+        "en": "Coconut, areca nut, banana, paddy : ________",
+        "hi": "नारियल, सुपारी, केला, धान : ________"
+      },
+      "transliterations": {
+        "devanagari": "तॆंगु, अडिकॆ, बाळॆ, भत्त : ________",
+        "latin": "Tengu, adike, baale, bhatta : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಮೊಲ, ಹಂದಿ, ಮುಂಗುಸಿ, ಚಿಟ್ಟೆ : ________",
+      "translations": {
+        "en": "Rabbit, pig, mongoose, butterfly : ________",
+        "hi": "खरगोश, सुअर, नेवला, तितली : ________"
+      },
+      "transliterations": {
+        "devanagari": "मॊल, हंदि, मुंगुसि, चिट्टॆ : ________",
+        "latin": "Mola, handi, mungusi, chitte : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ಸೀಬೆಕಾಯಿ, ಸಪೋಟ, ಅನಾನಸು, ಕೊಕೊ : ________",
+      "translations": {
+        "en": "Guava, sapota, pineapple, cocoa : ________",
+        "hi": "अमरूद, चीकू, अनानास, कोको : ________"
+      },
+      "transliterations": {
+        "devanagari": "सीबॆकायि, सपोट, अनानसु, कॊकॊ : ________",
+        "latin": "Seebekayi, sapota, ananasu, koko : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-p1",
+      "text": "ಉದಾ : ಒಂದು + ಆದ = ಒಂದಾದ",
+      "translations": {
+        "en": "Example: ondu + aada = ondaada",
+        "hi": "उदाहरण: ओंदु + आदा = ओंदादा"
+      },
+      "transliterations": {
+        "devanagari": "उदा : ऒंदु + आद = ऒंदाद",
+        "latin": "Udaa : ondu + aada = ondaada"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಇಲ್ಲಿ + ಒಂದು = ________",
+      "translations": {
+        "en": "illi + ondu = ________",
+        "hi": "इल्लि + ओंदु = ________"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि + ऒंदु = ________",
+        "latin": "illi + ondu = ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q2",
+      "text": "ಹೇರಳ + ಆಗಿ = ________",
+      "translations": {
+        "en": "herala + aagi = ________",
+        "hi": "हेरला + आगि = ________"
+      },
+      "transliterations": {
+        "devanagari": "हेरळ + आगि = ________",
+        "latin": "herala + aagi = ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q3",
+      "text": "ಹದ + ಆಗಿತ್ತು = ________",
+      "translations": {
+        "en": "hada + aagittu = ________",
+        "hi": "हदा + आगित्तु = ________"
+      },
+      "transliterations": {
+        "devanagari": "हद + आगित्तु = ________",
+        "latin": "hada + aagittu = ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-p1",
+      "text": "(ಕೊ ಳ ತೊ ಸು ರಂ ಗ ಬಿ ಳ ಕೆ ರೆ ಸ ರೋ ವ ರ ವೆ ಹೊ ಳೆ ಮು ಹ ಳ್ಳ ತೆ ಬಾ ನ ದಿ ದ್ರ ಕ ಡ ಲು ವಿ ಸಾ ಗ ರ ಟ್ಟೆ ಮ ಳೆ)",
+      "translations": {
+        "en": "(ko la to su ram ga bi la ke re sa ro va ra ve ho le mu ha lla te ba na di dra ka da lu vi sa ga ra tte ma le)",
+        "hi": "(को ळ तो सु रं ग बि ळ के रे स रो व र वे हो ळे मु ह ळ्ळ ते बा न दि द्र क ड लु वि सा ग र ट्टे म ळे)"
+      },
+      "transliterations": {
+        "devanagari": "(कॊ ळ तॊ सु रं ग बि ळ कॆ रॆ स रो व र वॆ हॊ ळॆ मु ह ळ्ळ तॆ बा न दि द्र क ड लु वि सा ग र ट्टॆ म ळॆ)",
+        "latin": "(ko la to su ram ga bi la ke re sa ro va ra ve ho le mu ha lla te ba na di dra ka da lu vi sa ga ra tte ma le)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ಕೆಳಗಿನ ಮನೆಗಳಿಂದ ಅಕ್ಷರಗಳನ್ನು ಆರಿಸಿ ನೀರಿನ ಮೂಲಗಳನ್ನು ಕಂಡುಹಿಡಿದು ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Find the sources of water by choosing letters from the below grid and write them.",
+        "hi": "नीचे दिए गए ग्रिड से अक्षर चुनकर जल के स्रोतों को खोजिए और लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "कॆळगिन मनॆगळिंद अक्षरगळन्नु आरिसि नीरिन मूलगळन्नु कंडुहिडिदु बरॆयिरि.",
+        "latin": "Kelagina manegalinda aksharagalannu aarisi neerina moolagalannu kanduhididu bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ನಿಮ್ಮ ಶಾಲಾ ಕೈತೋಟದಲ್ಲಿ ಏನೇನು ಬೆಳೆಯಬೇಕು? ಹೇಗೆ ಬೆಳೆಸಬೇಕು? ಎಂದು ತರಗತಿಯಲ್ಲಿ ಚರ್ಚಿಸಿ. ನಿಮ್ಮ ತೀರ್ಮಾನವನ್ನು ಕೆಳಗೆ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "What all should be grown in your school garden? How should it be grown? Discuss in class. Write your decision below.",
+        "hi": "आपके स्कूल के बगीचे में क्या-क्या उगाया जाना चाहिए? इसे कैसे उगाया जाना चाहिए? कक्षा में चर्चा करें। अपना निर्णय नीचे लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "निम्म शाला कैतोटदल्लि एनेनु बॆळॆयबेकु? हेगॆ बॆळॆसबेकु? ऎंदु तरगतियल्लि चर्चिसि. निम्म तीर्मानवन्नु कॆळगॆ बरॆयिरि.",
+        "latin": "Nimma shaala kaitotadalli enenu beleyabeku? Hege belesabeku? Endu taragatiyalli charchisi. Nimma teermanavannu kelage bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1",
+      "text": "ನಿಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ರೈತನೊಬ್ಬನನ್ನು ಸನ್ಮಾನಿಸುವ ಸಮಾರಂಭದ ಮುಖ್ಯ ಅತಿಥಿಯಾಗಿ ನೀನು ಮಾಡುವ ಭಾಷಣವನ್ನು ಇಲ್ಲಿ ಬರೆ. ಅನಂತರ ತರಗತಿಯಲ್ಲಿ ಶಿಕ್ಷಕರೆದುರು ಭಾಷಣ ಮಾಡು.",
+      "translations": {
+        "en": "Write a speech here that you would make as the chief guest at a ceremony felicitating a farmer in your school. Then deliver the speech in front of the teachers in class.",
+        "hi": "यहाँ एक भाषण लिखिए जो आप अपने स्कूल में एक किसान को सम्मानित करने वाले समारोह में मुख्य अतिथि के रूप में देंगे। फिर कक्षा में शिक्षकों के सामने भाषण दें।"
+      },
+      "transliterations": {
+        "devanagari": "निम्म शालॆयल्लि रैतनॊब्बनन्नु सन्मानिसुव समारंभद मुख्य अतिथियागि नीनु माडुव भाषणवन्नु इल्लि बरॆ. अनंतर तरगतियल्लि शिक्षकरॆदुरु भाषण माडु.",
+        "latin": "Nimma shaleyalli raitanobbanannu sanmanisuva samarambhada mukhya atithiyagi neenu maduva bhashanavannu illi bare. Anantara taragatiyalli shikshakareduru bhashana maadu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q1",
+      "text": "ನಿನ್ನ ಶಾಲೆಗೆ ಜಮೀನು ಕೊಟ್ಟರೆ ನೀನೇನು ಮಾಡುವಿ?",
+      "translations": {
+        "en": "If land is given to your school, what will you do?",
+        "hi": "अगर आपके स्कूल को ज़मीन दी जाए, तो आप क्या करेंगे?"
+      },
+      "transliterations": {
+        "devanagari": "निन्न शालॆगॆ जमीनु कॊट्टरॆ नीनेनु माडुवि?",
+        "latin": "Ninna shalege jameenu kottare neenenu maduvi?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q2",
+      "text": "ರೈತರು ಕೈ ಕೆಸರಾಗುತ್ತದೆ ಎಂದು ಸುಮ್ಮನೆ ಕುಳಿತರೆ ಏನಾಗಬಹುದು?",
+      "translations": {
+        "en": "What might happen if farmers sit idle thinking their hands will get dirty?",
+        "hi": "क्या होगा यदि किसान यह सोचकर खाली बैठ जाएँ कि उनके हाथ गंदे हो जाएँगे?"
+      },
+      "transliterations": {
+        "devanagari": "रैतरु कै कॆसरागुत्तदॆ ऎंदु सुम्मनॆ कुळितरॆ एनागबहुदु?",
+        "latin": "Raitaru kai kesaraguttade endu summane kulitare enagabahudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p1",
+      "text": "ಸೂಚನೆ : ಶಿಕ್ಷಕರ ಜೊತೆ ಸೇರಿ ಕೆಳಗಿನ ಆಟ ಆಡು.",
+      "translations": {
+        "en": "Note : Join the teachers and play the below game.",
+        "hi": "सूचना : शिक्षकों के साथ शामिल हों और नीचे दिया गया खेल खेलें।"
+      },
+      "transliterations": {
+        "devanagari": "सूचनॆ : शिक्षकर जॊतॆ सेरि कॆळगिन आट आडु.",
+        "latin": "Soochane : Shikshakara jote seri kelagina aata aadu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p2",
+      "text": "ಶಿಕ್ಷಕ: \"ಕಾಗೆ ಹಾರುವುದು ನೋಡಿದ್ದೀರಾ\"",
+      "translations": {
+        "en": "Teacher: \"Have you seen a crow fly?\"",
+        "hi": "शिक्षक: \"क्या आपने किसी कौवे को उड़ते हुए देखा है?\""
+      },
+      "transliterations": {
+        "devanagari": "शिक्षक: \"कागॆ हारुवुदु नोडिद्दीरा\"",
+        "latin": "Shikshaka: \"Kaage haaruvudu nodiddiraa\""
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p3",
+      "text": "ಮಕ್ಕಳು : ವೃತ್ತದಲ್ಲಿ ಕಾ ! ಕಾ ! ಎಂದು ಶಬ್ದಮಾಡುತ್ತಾ ರೆಕ್ಕೆಬಡಿದಂತೆ ನಟಿಸುತ್ತಾ ವೃತ್ತಾಕಾರದಲ್ಲಿ ಸುತ್ತುವುದು.",
+      "translations": {
+        "en": "Children : Flapping arms like wings and going around in a circle making the sound Caw ! Caw !.",
+        "hi": "बच्चे : बाहों को पंखों की तरह फड़फड़ाते हुए और काँव! काँव! की आवाज करते हुए एक घेरे में घूमना।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु : वृत्तदल्लि का ! का ! ऎंदु शब्दमाडुत्ता रॆक्कॆबडिदंतॆ नटिसुत्ता वृत्ताकारदल्लि सुत्तुवुदु.",
+        "latin": "Makkalu : Vruttadalli kaa ! kaa ! endu shabdamadutta rekkebadidante natisutta vruttakaradalli suttuvudu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p4",
+      "text": "ಶಿಕ್ಷಕ : ಕಪ್ಪೆ ಕುಪ್ಪಳಿಸುವುದನ್ನು ನೋಡಿದ್ದೀರಾ?",
+      "translations": {
+        "en": "Teacher : Have you seen a frog jump?",
+        "hi": "शिक्षक : क्या आपने मेंढक को कूदते हुए देखा है?"
+      },
+      "transliterations": {
+        "devanagari": "शिक्षक : कप्पॆ कुप्पळिसुवुदन्नु नोडिद्दीरा?",
+        "latin": "Shikshaka : Kappe kuppalisuvudannu nodiddiraa?"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p5",
+      "text": "ಮಕ್ಕಳು : ಕರಕರ, ವಟವಟ ಎಂದು ಕುಪ್ಪಳಿಸುವುದು.",
+      "translations": {
+        "en": "Children : Jumping making the sound croak croak, ribbit ribbit.",
+        "hi": "बच्चे : टर्र टर्र, टर्र टर्र की आवाज करते हुए कूदना।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु : करकर, वटवट ऎंदु कुप्पळिसुवुदु.",
+        "latin": "Makkalu : Karakara, vatavata endu kuppalisuvudu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-p6",
+      "text": "ಶಿಕ್ಷಕ: ಗೂಬೆ ಕೂಗುವುದು ಕೇಳಿದ್ದೀರಾ...? (ಹೀಗೇ ಮುಂದುವರೆಸಬಹುದು)",
+      "translations": {
+        "en": "Teacher: Have you heard an owl hoot...? (It can be continued like this)",
+        "hi": "शिक्षक: क्या आपने उल्लू को हूट करते हुए सुना है...? (इसे इस तरह जारी रखा जा सकता है)"
+      },
+      "transliterations": {
+        "devanagari": "शिक्षक: गूबॆ कूगुवुदु केळिद्दीरा...? (हीगे मुंदुवरॆसबहुदु)",
+        "latin": "Shikshaka: Goobe kooguvudu keliddiraa...? (Heege munduvaresabahudu)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-p1",
+      "text": "(ಹಲಸಿನ ಹಣ್ಣು, ತೆಂಗಿನಕಾಯಿ, ಮಲ್ಲಿಗೆ, ಏಲಕ್ಕಿ)",
+      "translations": {
+        "en": "(jackfruit, coconut, jasmine, cardamom)",
+        "hi": "(कटहल, नारियल, चमेली, इलायची)"
+      },
+      "transliterations": {
+        "devanagari": "(हलसिन हण्णु, तॆंगिनकायि, मल्लिगॆ, एलक्कि)",
+        "latin": "(halasina hannu, tenginakayi, mallige, elakki)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-q1",
+      "text": "ಅಕ್ಕ ಅಕ್ಕ ಗಿಡ ನೋಡು, ಗಿಡದ ಮೇಲೆ ಕಾಯಿ ನೋಡು. ಕಾಯಿ ತಿಂದೋರ ಬಾಯಿ ನೋಡು.",
+      "translations": {
+        "en": "Look at the sister's plant, look at the fruit on the plant. Look at the mouth of the one who ate the fruit.",
+        "hi": "बहन के पौधे को देखो, पौधे पर फल देखो। जिसने फल खाया उसका मुँह देखो।"
+      },
+      "transliterations": {
+        "devanagari": "अक्क अक्क गिड नोडु, गिडद मेलॆ कायि नोडु. कायि तिंदोर बायि नोडु.",
+        "latin": "Akka akka gida nodu, gidada mele kaayi nodu. Kaayi tindora baayi nodu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-q2",
+      "text": "ಅಡ್ಡ ಮರದಲ್ಲಿ ಬೊಡ್ಡ ಕುಳಿತಿದ್ದಾನೆ.",
+      "translations": {
+        "en": "On a horizontal tree, a stout one is sitting.",
+        "hi": "आड़े पेड़ पर एक मोटा बैठा है।"
+      },
+      "transliterations": {
+        "devanagari": "अड्ड मरदल्लि बॊड्ड कुळितिद्दानॆ.",
+        "latin": "Adda maradalli bodda kulutiddane."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-q3",
+      "text": "ಹಸಿರು ಗಿಡದಲ್ಲಿ ಮೊಸರು ಚೆಲ್ಲಿದೆ.",
+      "translations": {
+        "en": "Curd is spilled on a green plant.",
+        "hi": "हरे पौधे पर दही छलक गया है।"
+      },
+      "transliterations": {
+        "devanagari": "हसिरु गिडदल्लि मॊसरु चॆल्लिदॆ.",
+        "latin": "Hasiru gidadalli mosaru chellide."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-q4",
+      "text": "ಮಣ್ಣು ಕೊರೆದೆ ಕಲ್ಲು ಸಿಕ್ಕಿತು, ಕಲ್ಲು ಕೊರೆದೆ ಬೆಳ್ಳಿ ಸಿಕ್ಕಿತು, ಬೆಳ್ಳಿ ಕೊರೆದೆ ನೀರು ಸಿಕ್ಕಿತು.",
+      "translations": {
+        "en": "I dug the soil and found a stone, I dug the stone and found silver, I dug the silver and found water.",
+        "hi": "मैंने मिट्टी खोदी तो पत्थर मिला, मैंने पत्थर खोदा तो चाँदी मिली, मैंने चाँदी खोदी तो पानी मिला।"
+      },
+      "transliterations": {
+        "devanagari": "मण्णु कॊरॆदॆ कल्लु सिक्कितु, कल्लु कॊरॆदॆ बॆळ्ळि सिक्कितु, बॆळ्ळि कॊरॆदॆ नीरु सिक्कितु.",
+        "latin": "Mannu korede kallu sikkitu, kallu korede belli sikkitu, belli korede neeru sikkitu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-p2",
+      "text": "(ನೀವು ಸಸ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಇಂತಹ ಒಗಟುಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ)",
+      "translations": {
+        "en": "(Collect such riddles related to plants)",
+        "hi": "(पौधों से संबंधित ऐसी पहेलियाँ एकत्र करें)"
+      },
+      "transliterations": {
+        "devanagari": "(नीवु सस्यगळिगॆ संबंधिसिद इंतह ऒगटुगळन्नु संग्रहिसि)",
+        "latin": "(Neevu sasyagalige sambandhisida intaha ogatugalannu sangrahisi)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬೀಜವನ್ನು ಬಿತ್ತುವ",
+      "translations": {
+        "en": "Sowing the seeds",
+        "hi": "बीज बोना"
+      },
+      "transliterations": {
+        "devanagari": "बीजवन्नु बित्तुव",
+        "latin": "Beejavannu bittuva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಗಿಡಗಳನ್ನು ಬೆಳೆಸುವ |",
+      "translations": {
+        "en": "Growing the plants |",
+        "hi": "पौधे उगाना |"
+      },
+      "transliterations": {
+        "devanagari": "गिडगळन्नु बॆळॆसुव |",
+        "latin": "Gidagalannu belesuva |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಸುಜಲಭರಿತ ದೇಶವನ್ನು",
+      "translations": {
+        "en": "Making the country water-rich",
+        "hi": "देश को जल-समृद्ध बनाना"
+      },
+      "transliterations": {
+        "devanagari": "सुजलभरित देशवन्नु",
+        "latin": "Sujalabharita deshavannu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಸುಫಲವಾಗಿ ಮಾಡುವ ||",
+      "translations": {
+        "en": "Making it fruitful ||",
+        "hi": "इसे फलदायी बनाना ||"
+      },
+      "transliterations": {
+        "devanagari": "सुफलवागि माडुव ||",
+        "latin": "Suphalavagi maduva ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ತೆಂಗು ಕಂಗು ಸಸಿಗಳ",
+      "translations": {
+        "en": "The saplings of coconut and areca nut",
+        "hi": "नारियल और सुपारी के पौधे"
+      },
+      "transliterations": {
+        "devanagari": "तॆंगु कंगु ससिगळ",
+        "latin": "Tengu kangu sasigala"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ತಾಳೆ ಬಾಳೆ ಮರಗಳ |",
+      "translations": {
+        "en": "The trees of palm and banana |",
+        "hi": "ताड़ और केले के पेड़ |"
+      },
+      "transliterations": {
+        "devanagari": "ताळॆ बाळॆ मरगळ |",
+        "latin": "Taale baale maragala |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಭಂಗವಿಲ್ಲದಂತೆ ಬೆಳೆಸಿ",
+      "translations": {
+        "en": "Growing them without disruption",
+        "hi": "उन्हें बिना किसी बाधा के उगाना"
+      },
+      "transliterations": {
+        "devanagari": "भंगविल्लदंतॆ बॆळॆसि",
+        "latin": "Bhangavilladante belesi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅಧಿಕ ಫಲವ ಪಡೆಯುವ ||",
+      "translations": {
+        "en": "Getting abundant fruits ||",
+        "hi": "प्रचुर मात्रा में फल प्राप्त करना ||"
+      },
+      "transliterations": {
+        "devanagari": "अधिक फलव पडॆयुव ||",
+        "latin": "Adhika phalava padeyuva ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಮಾವು ಹಲಸು ನೇರಳೆ",
+      "translations": {
+        "en": "Mango, jackfruit, jamun",
+        "hi": "आम, कटहल, जामुन"
+      },
+      "transliterations": {
+        "devanagari": "मावु हलसु नेरळॆ",
+        "latin": "Maavu halasu nerale"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಲಿಂಬೆ ದ್ರಾಕ್ಷಿ ಪೇರಳೆ |",
+      "translations": {
+        "en": "Lemon, grapes, guava |",
+        "hi": "नींबू, अंगूर, अमरूद |"
+      },
+      "transliterations": {
+        "devanagari": "लिंबॆ द्राक्षि पेरळॆ |",
+        "latin": "Limbe drakshi perale |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಸೇಬು ಚಿಕ್ಕು ಕಿತ್ತಳೆಗಳ",
+      "translations": {
+        "en": "Apple, sapota, oranges",
+        "hi": "सेब, चीकू, संतरे"
+      },
+      "transliterations": {
+        "devanagari": "सेबु चिक्कु कित्तळॆगळ",
+        "latin": "Sebu chikku kittalegala"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಾವು ನಾವೆ ಬೆಳೆಸುವ ||",
+      "translations": {
+        "en": "We ourselves will grow ||",
+        "hi": "हम खुद ही उगाएँगे ||"
+      },
+      "transliterations": {
+        "devanagari": "नावु नावॆ बॆळॆसुव ||",
+        "latin": "Naavu naave belesuva ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಬದನೆ ಸೌತೆ ಕುಂಬಳ",
+      "translations": {
+        "en": "Brinjal, cucumber, pumpkin",
+        "hi": "बैंगन, ककड़ी, कद्दू"
+      },
+      "transliterations": {
+        "devanagari": "बदनॆ सौतॆ कुंबळ",
+        "latin": "Badane soute kumbala"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಹೀರೆಕಾಯಿ ಪಡುವಲ |",
+      "translations": {
+        "en": "Ridge gourd, snake gourd |",
+        "hi": "तोरई, चिचिंडा |"
+      },
+      "transliterations": {
+        "devanagari": "हीरॆकायि पडुवल |",
+        "latin": "Heerekayi paduvala |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮುದದಿ ನಾವು ಗೆಣಸು ಮೆಣಸು",
+      "translations": {
+        "en": "Happily we will grow sweet potato, chilli",
+        "hi": "खुशी से हम शकरकंद, मिर्च"
+      },
+      "transliterations": {
+        "devanagari": "मुददि नावु गॆणसु मॆणसु",
+        "latin": "Mudadi naavu genasu menasu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಹರಿವೆಗಳನು ಬೆಳೆಸುವ ||",
+      "translations": {
+        "en": "And amaranth greens ||",
+        "hi": "और चौलाई उगाएँगे ||"
+      },
+      "transliterations": {
+        "devanagari": "हरिवॆगळनु बॆळॆसुव ||",
+        "latin": "Harivegalanu belesuva ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ವಿವಿಧ ಧಾನ್ಯ ಬೆಳೆಗಳ",
+      "translations": {
+        "en": "Various grain crops",
+        "hi": "विभिन्न अनाज की फसलें"
+      },
+      "transliterations": {
+        "devanagari": "विविध धान्य बॆळॆगळ",
+        "latin": "Vividha dhanya belegala"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕಾಯಿ ಪಲ್ಲೆ ಸಸಿಗಳ |",
+      "translations": {
+        "en": "Vegetable saplings |",
+        "hi": "सब्जियों के पौधे |"
+      },
+      "transliterations": {
+        "devanagari": "कायि पल्लॆ ससिगळ |",
+        "latin": "Kaayi palle sasigala |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ವಿವಿಧ ರೀತಿಯಲ್ಲಿ ಬೆಳೆಸಿ",
+      "translations": {
+        "en": "Growing them in various ways",
+        "hi": "उन्हें विभिन्न तरीकों से उगाना"
+      },
+      "transliterations": {
+        "devanagari": "विविध रीतियल्लि बॆळॆसि",
+        "latin": "Vividha reetiyalli belesi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಅಧಿಕ ಫಲವ ಪಡೆಯುವ ||",
+      "translations": {
+        "en": "Getting abundant fruits ||",
+        "hi": "प्रचुर मात्रा में फल प्राप्त करना ||"
+      },
+      "transliterations": {
+        "devanagari": "अधिक फलव पडॆयुव ||",
+        "latin": "Adhika phalava padeyuva ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಅಧಿಕವಾಗಿ ಬಿತ್ತುವ",
+      "translations": {
+        "en": "Sowing abundantly",
+        "hi": "प्रचुर मात्रा में बोना"
+      },
+      "transliterations": {
+        "devanagari": "अधिकवागि बित्तुव",
+        "latin": "Adhikavagi bittuva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಅಧಿಕವಾಗಿ ಬೆಳೆಸುವ |",
+      "translations": {
+        "en": "Growing abundantly |",
+        "hi": "प्रचुर मात्रा में उगाना |"
+      },
+      "transliterations": {
+        "devanagari": "अधिकवागि बॆळॆसुव |",
+        "latin": "Adhikavagi belesuva |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಅಧಿಕ ಫಲವ ಪಡೆಯುತೆಲ್ಲ",
+      "translations": {
+        "en": "Getting abundant fruits",
+        "hi": "प्रचुर मात्रा में फल प्राप्त करना"
+      },
+      "transliterations": {
+        "devanagari": "अधिक फलव पडॆयुतॆल्ल",
+        "latin": "Adhika phalava padeyutella"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ತೃಪ್ತಿಯಿಂದ ಬಾಳುವ ||",
+      "translations": {
+        "en": "Living with satisfaction ||",
+        "hi": "संतोष के साथ जीना ||"
+      },
+      "transliterations": {
+        "devanagari": "तृप्तियिंद बाळुव ||",
+        "latin": "Truptiyinda baaluva ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-author",
+      "section": "poem",
+      "text": "- ಅಮ್ಮೆಂಬಳ ಅನಂತಯ್ಯ ನಾವಡ",
+      "translations": {
+        "en": "- Ammembala Ananthayya Navada",
+        "hi": "- अम्मेम्बल अनंतय्या नावडा"
+      },
+      "transliterations": {
+        "devanagari": "- अम्मॆंबळ अनंतय्य नावड",
+        "latin": "- Ammembala Ananthayya Navada"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "competency",
+      "text": "ನೀನೀಗ ತರಗತಿಯಲ್ಲಿ ನಡೆಯುವ ಎಲ್ಲ ಸರಳ ಸಂವಾದ ಮತ್ತು ವಿವಿಧ ಚರ್ಚೆಗಳಲ್ಲಿ ಭಾಗವಹಿಸುವಿಯಲ್ಲವೇ?",
+      "translations": {
+        "en": "Now, will you not participate in all the simple dialogues and various discussions that happen in the class?",
+        "hi": "क्या अब आप कक्षा में होने वाले सभी सरल संवादों और विभिन्न चर्चाओं में भाग नहीं लेंगे?"
+      },
+      "transliterations": {
+        "devanagari": "नीनीग तरगतियल्लि नडॆयुव ऎल्ल सरळ संवाद मत्तु विविध चर्चॆगळल्लि भागवहिसुवियल्लवे?",
+        "latin": "Neeneega taragatiyalli nadeyuva ella sarala samvaada mattu vividha chachegalalli bhagavahisuviyallave?"
+      },
+      "type": "competency"
+    }
+  ]
+}

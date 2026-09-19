@@ -1,0 +1,996 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g6-fl-p1",
+    "chapterId": "ch04-dr-rajkumar",
+    "editionId": "2026-27",
+    "number": 4
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the author",
+      "hi": "लेखक परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॆळगिन प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Exercises",
+      "hi": "अ. अभ्यास",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kèḻagina praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॆळगिन प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Exercises",
+      "hi": "आ. अभ्यास",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kèḻagina praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॆळगिन प्रश्नॆगळिगॆ ऐदु-आरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Exercises",
+      "hi": "इ. अभ्यास",
+      "kn": "ಇ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kèḻagina praśnègaḻigè aidu-āru vākyagaḻalli uttarisi."
+    },
+    "exercise-D": {
+      "devanagari": "ई. संदर्भ सूचिसि.",
+      "en": "D. Exercises",
+      "hi": "ई. अभ्यास",
+      "kn": "ಈ. ಸಂದರ್ಭ ಸೂಚಿಸಿ.",
+      "latin": "ī. saṃdarbha sūcisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "story": {
+      "devanagari": "पाठ",
+      "en": "Story",
+      "hi": "कथा",
+      "kn": "ಪಾಠ",
+      "latin": "pāṭha"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಡಾ. ಎಚ್.ಎಸ್. ಸತ್ಯನಾರಾಯಣ",
+    "board": "KSEEB",
+    "chapter": 4,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch04-dr-rajkumar",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಡಾ. ರಾಜಕುಮಾರ್"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಯಾವುದೇ ಬಗೆಯ ಮೂಲಭೂತ ಸೌಕರ್ಯಗಳೂ ಇಲ್ಲದೆ ಕಡುಬಡತನದಲ್ಲಿ ಅರಳಿದ ಪ್ರತಿಭೆಯೊಂದು ನಾಡಿನ ಜನರ ಕಣ್ಮಣಿಯಾಗುವುದು, ಎತ್ತರದ ಸಾಧನೆ ಮಾಡಿ ಜನಮಾನಸದಲ್ಲಿ ಶಾಶ್ವತವಾಗಿ ನೆಲೆ ನಿಲ್ಲುವುದು ಸಾಮಾನ್ಯದ ಮಾತಲ್ಲ. ನಾಡೋಜ, ನಟಸಾರ್ವಭೌಮ ಡಾ. ರಾಜಕುಮಾರ್ ಅವರ ಬದುಕು ಕೂಡ ಇಂತಹ ಅಸಾಮಾನ್ಯ ಸಾಧನೆಗೆ ಮಾದರಿಯಾಗಿದೆ. ತಮ್ಮ ಅಪೂರ್ವ ಪ್ರತಿಭೆಯ ನಟನೆ, ಗಾಯನ, ಕನ್ನಡ ಪರವಾದ ಉಜ್ವಲ ಪ್ರೀತಿ ಮತ್ತು ಸುಸಂಸ್ಕೃತ ಸಜ್ಜನಿಕೆಯ ನಡವಳಿಕೆಯಿಂದ ಡಾ. ರಾಜಕುಮಾರ್ ಅವರು ನಮ್ಮ ನಾಡು ಕಂಡ ಮೇರು ವ್ಯಕ್ತಿತ್ವವೆನಿಸಿದ್ದಾರೆ. ಅವರ ಬದುಕಿನ ಕೆಲವು ವಿವರಗಳ ಅವಲೋಕನದಿಂದ ನಾಡಿನ ಮಕ್ಕಳು ಸ್ಫೂರ್ತಿಹೊಂದಬಲ್ಲರೆಂಬುದು ಈ ಪಾಠದ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "For a talent that bloomed in extreme poverty without any basic facilities to become the apple of a nation’s eye, to achieve great heights and stand permanently in people’s hearts is no ordinary matter. The life of Nadoja, Natasarvabhauma Dr Rajkumar is also a model for such uncommon achievement. Through his rare talented acting, singing, bright love for Kannada and cultured good conduct, Dr Rajkumar is regarded as a towering personality our land has seen. The hope of this lesson is that by looking at some details of his life, the children of the land may be inspired.",
+        "hi": "बिना मूलभूत सुविधाओं के घोर गरीबी में खिली प्रतिभा राष्ट्र की आँख का तारा बने, ऊँची ऊँचाई पाकर जनमानस में स्थायी रहे—यह साधारण बात नहीं। नाडोज, नटसार्वभौम डॉ. राजकुमार का जीवन भी ऐसी असामान्य साधना का आदर्श है। दुर्लभ अभिनय, गायन, कन्नड़-प्रेम और सुसंस्कृत सज्जनता से वे हमारे नाडु की मेरू व्यक्तित्व माने जाते हैं। जीवन के कुछ विवरण देखकर नाडु के बच्चे प्रेरणा पा सकें—यही पाठ का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "यावुदे बगॆय मूलभूत सौकर्यगळू इल्लदॆ कडुबडतनदल्लि अरळिद प्रतिभॆयॊंदु नाडिन जनर कण्मणियागुवुदु, ऎत्तरद साधनॆ माडि जनमानसदल्लि शाश्वतवागि नॆलॆ निल्लुवुदु सामान्यद मातल्ल. नाडोज, नटसार्वभौम डा. राजकुमार् अवर बदुकु कूड इंतह असामान्य साधनॆगॆ मादरियागिदॆ. तम्म अपूर्व प्रतिभॆय नटनॆ, गायन, कन्नड परवाद उज्वल प्रीति मत्तु सुसंस्कृत सज्जनिकॆय नडवळिकॆयिंद डा. राजकुमार् अवरु नम्म नाडु कंड मेरु व्यक्तित्ववॆनिसिद्दारॆ. अवर बदुकिन कॆलवु विवरगळ अवलोकनदिंद नाडिन मक्कळु स्फूर्तिहॊंदबल्लरॆंबुदु ई पाठद आशयवागिदॆ.",
+        "latin": "yāvude bagèya mūlabhūta saukaryagaḻū illadè kaḍubaḍatanadalli araḻida pratibhèyòṃdu nāḍina janara kaṇmaṇiyāguvudu, èttarada sādhanè māḍi janamānasadalli śāśvatavāgi nèlè nilluvudu sāmānyada mātalla. nāḍoja, naṭasārvabhauma ḍā. rājakumār avara baduku kūḍa iṃtaha asāmānya sādhanègè mādariyāgidè. tamma apūrva pratibhèya naṭanè, gāyana, kannaḍa paravāda ujvala prīti mattu susaṃskṛta sajjanikèya naḍavaḻikèyiṃda ḍā. rājakumār avaru namma nāḍu kaṃḍa meru vyaktitvavènisiddārè. avara badukina kèlavu vivaragaḻa avalokanadiṃda nāḍina makkaḻu sphūrtihòṃdaballarèṃbudu ī pāṭhada āśayavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಡಾ. ರಾಜಕುಮಾರ್ ಅವರು ಚಾಮರಾಜನಗರ ಜಿಲ್ಲೆಗೆ ಸೇರಿದ ಗಾಜನೂರಿನಲ್ಲಿ 24 ಏಪ್ರಿಲ್ 1929ರಂದು ಜನಿಸಿದರು. ಸಿಂಗಾನಲ್ಲೂರು ಮೂಲದ ಶ್ರೀಯುತ ಪುಟ್ಟಸ್ವಾಮಯ್ಯನವರು ರಾಜಕುಮಾರ್ ಅವರ ತಂದೆ. ತಾಯಿ ಗಾಜನೂರಿನವರಾದ ಶ್ರೀಮತಿ ಲಕ್ಷ್ಮಮ್ಮನವರು. ಈ ದಂಪತಿ ಗಂಡು ಮಗುವನ್ನು ಕರುಣಿಸೆಂದು ತಮ್ಮ ಇಷ್ಟದೈವ ಮುತ್ತತ್ತಿರಾಯನಿಗೆ ಹರಕೆ ಹೊತ್ತಿದ್ದರಂತೆ. ಹಾಗಾಗಿ ಆ ದೇವರ ಹೆಸರನ್ನೇ ಮಗನಿಗೆ ಇಟ್ಟರು. ‘ರಾಜ’ ಎಂಬುದು ‘ರಾಯ’ ಎಂಬುದರ ತದ್ಭವ ರೂಪವಾಗಿರುವುದರಿಂದ ‘ಮುತ್ತುರಾಯ’ ಸ್ವಾಮಿಯ ಹೆಸರು ‘ಮುತ್ತುರಾಜ’ ಎಂದಾಗಿದ್ದು ಮಾತ್ರವಲ್ಲ ಕನ್ನಡಿಗರ ಮನಗೆದ್ದ ರಾಜಕುಮಾರನೇ ಆಗಿದ್ದು ಆಕಸ್ಮಿಕವಲ್ಲ. ಮುತ್ತುರಾಜನೊಳಗಿನ ಪ್ರತಿಭೆಯು ವಿಕಾಸಗೊಂಡ ಪರಿ ಅದು. ಮಳೆಯಿಲ್ಲದೆ ಕಂಗೆಟ್ಟಿದ್ದ ನೆಲಕ್ಕೆ ಸ್ವಾತಿಯ ಮಳೆಸುರಿದು ತಂಪೆರೆಯುವ ತೆರದಿ ಜೋರು ಮಳೆ ಸುರಿಯುವಾಗ ಹುಟ್ಟಿದ ಮುತ್ತುರಾಜರ ಜನನದಿಂದ ಮನೆಮಂದಿಯೆಲ್ಲ ಸಂಭ್ರಮಪಟ್ಟರು.",
+      "translations": {
+        "en": "Dr Rajkumar was born on 24 April 1929 in Gajanur in Chamarajanagar district. Sriyuta Puttaswamayya of Singanallur origin was Rajkumar’s father. Mother was Srimati Lakshmamma of Gajanur. This couple had vowed to their chosen deity Muttattiraya for the gift of a son. So they gave the child that god’s name. Since ‘Raja’ is a tadbhava form of ‘Raya’, the name Muttaraya becoming Muttaraja—and that becoming the Rajkumar who captured Kannadigas’ hearts—is no accident. It is how the talent within Muttaraja flowered. When rainless land was wilted and Swati rain poured coolness, when heavy rain fell, Muttaraja’s birth filled the whole household with joy.",
+        "hi": "डॉ. राजकुमार का जन्म 24 अप्रैल 1929 को चामराजनगर जिले के गाजनूर में हुआ। सिंंगानल्लूर मूल के श्रीयुत् पुट्टस्वामय्या पिता, गाजनूर की श्रीमती लक्ष्मम्मा माता। दंपति ने पुत्र के लिए इष्टदेव मुत्तत्तिराय से मन्नत मांगी थी। इसलिए देवता का नाम ही रखा। ‘राज’ ‘राय’ का तद्भव होने से मुत्तुराय से मुत्तुराज—और कन्नडिगों के मन जीतने वाले राजकुमार बनना संयोग नहीं। मुत्तुराज के भीतर की प्रतिभा का विकास वही है।"
+      },
+      "transliterations": {
+        "devanagari": "डा. राजकुमार् अवरु चामराजनगर जिल्लॆगॆ सेरिद गाजनूरिनल्लि 24 एप्रिल् 1929रंदु जनिसिदरु. सिंगानल्लूरु मूलद श्रीयुत पुट्टस्वामय्यनवरु राजकुमार् अवर तंदॆ. तायि गाजनूरिनवराद श्रीमति लक्ष्मम्मनवरु. ई दंपति गंडु मगुवन्नु करुणिसॆंदु तम्म इष्टदैव मुत्तत्तिरायनिगॆ हरकॆ हॊत्तिद्दरंतॆ. हागागि आ देवर हॆसरन्ने मगनिगॆ इट्टरु. ‘राज’ ऎंबुदु ‘राय’ ऎंबुदर तद्भव रूपवागिरुवुदरिंद ‘मुत्तुराय’ स्वामिय हॆसरु ‘मुत्तुराज’ ऎंदागिद्दु मात्रवल्ल कन्नडिगर मनगॆद्द राजकुमारने आगिद्दु आकस्मिकवल्ल. मुत्तुराजनॊळगिन प्रतिभॆयु विकासगॊंड परि अदु. मळॆयिल्लदॆ कंगॆट्टिद्द नॆलक्कॆ स्वातिय मळॆसुरिदु तंपॆरॆयुव तॆरदि जोरु मळॆ सुरियुवाग हुट्टिद मुत्तुराजर जननदिंद मनॆमंदियॆल्ल संभ्रमपट्टरु.",
+        "latin": "ḍā. rājakumār avaru cāmarājanagara jillègè serida gājanūrinalli 24 epril 1929raṃdu janisidaru. siṃgānallūru mūlada śrīyuta puṭṭasvāmayyanavaru rājakumār avara taṃdè. tāyi gājanūrinavarāda śrīmati lakṣmammanavaru. ī daṃpati gaṃḍu maguvannu karuṇisèṃdu tamma iṣṭadaiva muttattirāyanigè harakè hòttiddaraṃtè. hāgāgi ā devara hèsaranne maganigè iṭṭaru. ‘rāja’ èṃbudu ‘rāya’ èṃbudara tadbhava rūpavāgiruvudariṃda ‘mutturāya’ svāmiya hèsaru ‘mutturāja’ èṃdāgiddu mātravalla kannaḍigara managèdda rājakumārane āgiddu ākasmikavalla. mutturājanòḻagina pratibhèyu vikāsagòṃḍa pari adu. maḻèyilladè kaṃgèṭṭidda nèlakkè svātiya maḻèsuridu taṃpèrèyuva tèradi joru maḻè suriyuvāga huṭṭida mutturājara jananadiṃda manèmaṃdiyèlla saṃbhramapaṭṭaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಬಾಲ್ಯದಲ್ಲಿಯೇ ಮುತ್ತುರಾಜರಿಗೆ ಬಡವರ ಕಷ್ಟ ಕಂಡು ಮರುಗುವ ಗುಣವಿತ್ತು. ಶಾಲೆಯಲ್ಲಿ ಕೂತಿದ್ದರೂ ಅವರ ಮನಸ್ಸು ಬಡತನ, ಹಸಿವು, ಕಷ್ಟಗಳತ್ತ ಹೊರಳುತ್ತಿತ್ತು. ಇದರೊಂದಿಗೆ ಹಳ್ಳಿಗಾಡಿನ ಸುಪ್ರಸನ್ನತೆ, ಸುಂದರ ಪರಿಸರ, ಮುಗ್ಧ ಜನರ ಆಚಾರ ವಿಚಾರಗಳು, ಹಳ್ಳ ಕೊಳ್ಳ, ಕಾಡು ಮುಂತಾದವೆಲ್ಲ ಮುತ್ತುರಾಜರ ಭಾವಲೋಕವನ್ನು ಹಿಗ್ಗಿಸುತ್ತಿತ್ತು. ಶಾಲೆಯಲ್ಲಿ ಕಲಿತದ್ದು ಮೂರನೆಯ ತರಗತಿಯವರೆಗೆ ಮಾತ್ರವಾದರೂ ಆ ವಯಸ್ಸಿನಿಂದಲೇ ಆದ ಲೋಕಾನುಭವದ ಶಿಕ್ಷಣದ ಪಾತ್ರ ಇವರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ರೂಪಿಸಿತು. ಇವರ ತಂದೆ ಪುಟ್ಟಸ್ವಾಮಯ್ಯನವರು ಅದ್ಭುತ ರಂಗ ಕಲಾವಿದರಾಗಿದ್ದರು. ಸೋದರ ಮಾವಂದಿರು ಸೊಗಸಾದ ಗಾಯಕರಾಗಿದ್ದರು. ಈ ಪರಿಸರದಲ್ಲಿ ತಮ್ಮ ಬಾಲ್ಯವನ್ನು ಕಳೆದ ಮುತ್ತುರಾಜರಿಗೆ ಸಹಜವಾಗಿಯೇ ರಂಗಭೂಮಿ ಕೈಬೀಸಿ ಕರೆಯಿತು.",
+      "translations": {
+        "en": "Even in childhood Muttaraja had the nature of pitying the poor’s hardship. Though sitting in school his mind turned toward poverty, hunger and hardship. Along with that the village’s calm beauty, innocent people’s ways, streams, forests and so on expanded Muttaraja’s world of feeling. Though he studied only up to the third class, from that age the education of worldly experience shaped his personality. His father Puttaswamayya was a wonderful stage artist. Maternal uncles were fine singers. Growing in this environment, the stage naturally beckoned Muttaraja.",
+        "hi": "बचपन से ही मुत्तुराज को गरीबों का कष्ट देखकर करुणा आती थी। स्कूल में बैठे भी मन गरीबी-भूख-कष्ट की ओर जाता। गाँव की शांति, सुंदर परिवेश, भोले लोगों के आचार, नाले-जंगल आदि भावलोक को फैलाते। केवल तीसरी कक्षा तक पढ़े पर उस उम्र से लोकानुभव की शिक्षा ने व्यक्तित्व गढ़ा। पिता अद्भुत रंगकर्मी थे, मामा सुंदर गायक। इस परिवेश में रंगमंच ने स्वाभाविक रूप से बुलाया।"
+      },
+      "transliterations": {
+        "devanagari": "बाल्यदल्लिये मुत्तुराजरिगॆ बडवर कष्ट कंडु मरुगुव गुणवित्तु. शालॆयल्लि कूतिद्दरू अवर मनस्सु बडतन, हसिवु, कष्टगळत्त हॊरळुत्तित्तु. इदरॊंदिगॆ हळ्ळिगाडिन सुप्रसन्नतॆ, सुंदर परिसर, मुग्ध जनर आचार विचारगळु, हळ्ळ कॊळ्ळ, काडु मुंतादवॆल्ल मुत्तुराजर भावलोकवन्नु हिग्गिसुत्तित्तु. शालॆयल्लि कलितद्दु मूरनॆय तरगतियवरॆगॆ मात्रवादरू आ वयस्सिनिंदले आद लोकानुभवद शिक्षणद पात्र इवर व्यक्तित्ववन्नु रूपिसितु. इवर तंदॆ पुट्टस्वामय्यनवरु अद्भुत रंग कलाविदरागिद्दरु. सोदर मावंदिरु सॊगसाद गायकरागिद्दरु. ई परिसरदल्लि तम्म बाल्यवन्नु कळॆद मुत्तुराजरिगॆ सहजवागिये रंगभूमि कैबीसि करॆयितु.",
+        "latin": "bālyadalliye mutturājarigè baḍavara kaṣṭa kaṃḍu maruguva guṇavittu. śālèyalli kūtiddarū avara manassu baḍatana, hasivu, kaṣṭagaḻatta hòraḻuttittu. idaròṃdigè haḻḻigāḍina suprasannatè, suṃdara parisara, mugdha janara ācāra vicāragaḻu, haḻḻa kòḻḻa, kāḍu muṃtādavèlla mutturājara bhāvalokavannu higgisuttittu. śālèyalli kalitaddu mūranèya taragatiyavarègè mātravādarū ā vayassiniṃdale āda lokānubhavada śikṣaṇada pātra ivara vyaktitvavannu rūpisitu. ivara taṃdè puṭṭasvāmayyanavaru adbhuta raṃga kalāvidarāgiddaru. sodara māvaṃdiru sògasāda gāyakarāgiddaru. ī parisaradalli tamma bālyavannu kaḻèda mutturājarigè sahajavāgiye raṃgabhūmi kaibīsi karèyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಮುತ್ತುರಾಜ ಅವರು ಬಾಲ ನಟನಾಗಿ ಕಲಾ ಪ್ರಪಂಚಕ್ಕೆ ಕಾಲಿಟ್ಟರು. ಗುಬ್ಬಿವೀರಣ್ಣನವರ ನಾಟಕ ಕಂಪನಿಯಲ್ಲಿ ಮೊದಮೊದಲು ಸಖಿ, ಸೇವಕಿಯಂತಹ ಸಣ್ಣಪುಟ್ಟ ಪಾತ್ರಗಳನ್ನು ಮಾಡಬೇಕಾಯಿತು. ಆಮೇಲೆ ಮತ್ತೋರ್ವ ಹಿರಿಯ ರಂಗಭೂಮಿಯ ಕಲಾವಿದರಾದ ಶ್ರೀ ಸುಬ್ಬಯ್ಯನಾಯ್ಡು ಅವರ ನಾಟಕ ಕಂಪನಿಗೆ ಸೇರಿ ಅನೇಕ ಮಹತ್ವದ ಪಾತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸುತ್ತಾ ಬೆಳೆಯುತ್ತಿರುವಾಗ ತಂದೆಯವರ ಅಕಾಲಿಕ ಮರಣದ ದುಃಖ ಎದುರಾಯಿತು. ಇಡೀ ಕುಟುಂಬವನ್ನು ಕಾಪಾಡಬೇಕಾದ ಜವಾಬ್ದಾರಿಯನ್ನು ಆತ್ಮವಿಶ್ವಾಸದಿಂದ ಎದುರಿಸಿದ ಮುತ್ತುರಾಜರು, ಈ ಅನುಭವ ಮತ್ತು ಅಭಿನಯ ಎರಡರಿಂದಲೂ ಮಾಗುತ್ತ ಸಾಗಿದರು. ಕಷ್ಟದ ದಿನಗಳಲ್ಲಿಯೂ ಕಲಾವಿದನ ಕೈ ಹಿಡಿದು ಸಂಸಾರದ ಬದುಕಿಗೆ ಹೆಗಲೆಣೆಯಾದವರು ಮುತ್ತುರಾಜರ ಸೋದರ ಮಾವನ ಮಗಳಾದ ಪಾರ್ವತಮ್ಮನವರು.",
+      "translations": {
+        "en": "Muttaraja entered the world of art as a child actor. In Gubbi Veeranna’s theatre company he first had to do small roles like companion and maid. Later joining the company of senior stage artist Sri Subbayya Naidu and growing by playing many important roles, he faced the sorrow of his father’s untimely death. With self-confidence he faced the duty of protecting the whole family and matured through both experience and acting. Even in hard days, Parvathamma, daughter of Muttaraja’s maternal uncle, held the artist’s hand and became a shoulder for family life.",
+        "hi": "मुत्तुराज बाल अभिनेता बन कला जगत में आए। गुब्बि वीरप्प की कंपनी में पहले सखी-सेविका जैसे छोटे पात्र। बाद में सुब्बय्यनायडु की कंपनी में महत्वपूर्ण पात्र निभाते बढ़ते समय पिता की अकाल मृत्यु का दुख आया। पूरे परिवार की जिम्मेदारी आत्मविश्वास से निभाई। कठिन दिनों में भी कलाकार का हाथ पकड़ परिवार के कंधे बनी मामा की पुत्री पार्वतम्मा।"
+      },
+      "transliterations": {
+        "devanagari": "मुत्तुराज अवरु बाल नटनागि कला प्रपंचक्कॆ कालिट्टरु. गुब्बिवीरण्णनवर नाटक कंपनियल्लि मॊदमॊदलु सखि, सेवकियंतह सण्णपुट्ट पात्रगळन्नु माडबेकायितु. आमेलॆ मत्तोर्व हिरिय रंगभूमिय कलाविदराद श्री सुब्बय्यनाय्डु अवर नाटक कंपनिगॆ सेरि अनेक महत्वद पात्रगळन्नु निर्वहिसुत्ता बॆळॆयुत्तिरुवाग तंदॆयवर अकालिक मरणद दुःख ऎदुरायितु. इडी कुटुंबवन्नु कापाडबेकाद जवाब्दारियन्नु आत्मविश्वासदिंद ऎदुरिसिद मुत्तुराजरु, ई अनुभव मत्तु अभिनय ऎरडरिंदलू मागुत्त सागिदरु. कष्टद दिनगळल्लियू कलाविदन कै हिडिदु संसारद बदुकिगॆ हॆगलॆणॆयादवरु मुत्तुराजर सोदर मावन मगळाद पार्वतम्मनवरु.",
+        "latin": "mutturāja avaru bāla naṭanāgi kalā prapaṃcakkè kāliṭṭaru. gubbivīraṇṇanavara nāṭaka kaṃpaniyalli mòdamòdalu sakhi, sevakiyaṃtaha saṇṇapuṭṭa pātragaḻannu māḍabekāyitu. āmelè mattorva hiriya raṃgabhūmiya kalāvidarāda śrī subbayyanāyḍu avara nāṭaka kaṃpanigè seri aneka mahatvada pātragaḻannu nirvahisuttā bèḻèyuttiruvāga taṃdèyavara akālika maraṇada duḥkha èdurāyitu. iḍī kuṭuṃbavannu kāpāḍabekāda javābdāriyannu ātmaviśvāsadiṃda èdurisida mutturājaru, ī anubhava mattu abhinaya èraḍariṃdalū māgutta sāgidaru. kaṣṭada dinagaḻalliyū kalāvidana kai hiḍidu saṃsārada badukigè hègalèṇèyādavaru mutturājara sodara māvana magaḻāda pārvatammanavaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಭಕ್ತ ಪ್ರಹ್ಲಾದ, ಶ್ರೀನಿವಾಸ ಕಲ್ಯಾಣದಂತಹ ಪೌರಾಣಿಕ ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಸಣ್ಣಪುಟ್ಟ ಪಾತ್ರಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿದ್ದರೂ 1954ರಲ್ಲಿ ತೆರೆಕಂಡ ‘ಬೇಡರ ಕಣ್ಣಪ್ಪ’ ಎಂಬ ಚಿತ್ರವು ಮುತ್ತುರಾಜರ ಬದುಕಿನಲ್ಲಿ ಹೊಸ ಅಧ್ಯಾಯ ಬರೆಯಿತು. ಈ ಚಿತ್ರದ ನಿರ್ದೇಶಕರಾದ ಎಚ್.ಎಲ್.ಎನ್. ಸಿಂಹ ಅವರು ‘ಮುತ್ತುರಾಜ’ ಎಂಬ ಹೆಸರನ್ನು ‘ರಾಜಕುಮಾರ’ ಎಂದು ಬದಲಾಯಿಸಿ, ಬೆಳ್ಳಿತೆರೆಗೆ ಪರಿಚಯಿಸಿದರು. ತಮ್ಮ ಹೆಸರನ್ನು ಬದಲಾಯಿಸುವುದು ಮುತ್ತುರಾಜರಿಗೆ ಇಷ್ಟವಿರಲಿಲ್ಲವಂತೆ. ಆದರೆ ಕನ್ನಡಿಗರು ರಾಜಕುಮಾರ ಎಂಬ ಹೆಸರನ್ನೇ ತಮ್ಮ ಹೃದಯ ಸಿಂಹಾಸನದಲ್ಲಿರಿಸಿಕೊಳ್ಳುವಂತೆ ತಾವು ಅಭಿನಯಿಸಿದ ಪ್ರತಿಯೊಂದು ಪಾತ್ರಕ್ಕೂ ರಾಜಕುಮಾರ್ ಜೀವ ತುಂಬಿದರು.",
+      "translations": {
+        "en": "Though he had appeared in small roles in mythological films like Bhakta Prahlada and Srinivasa Kalyanam, the 1954 film Bedara Kannappa wrote a new chapter in Muttaraja’s life. Director H.L.N. Simha changed the name ‘Muttaraja’ to ‘Rajkumar’ and introduced him to the silver screen. Changing his name was not to Muttaraja’s liking, it is said. But as Kannadigas placed the name Rajkumar on the throne of their hearts, Rajkumar filled life into every role he played.",
+        "hi": "भक्त प्रह्लाद, श्रीनिवास कल्याण जैसे पौराणिक चित्रों में छोटे पात्रों में दिखने पर भी 1954 की बेडर कन्नप्प ने जीवन में नया अध्याय लिखा। निर्देशक एच.एल.एन. सिंह ने मुत्तुराज नाम बदलकर राजकुमार रख चांदी की पर्दे पर परिचय कराया। नाम बदलना पसंद नहीं था कहा जाता है। पर कन्नडिगों ने राजकुमार नाम हृदय-सिंहासन पर रखा तो प्रत्येक पात्र में राजकुमार ने जान डाल दी।"
+      },
+      "transliterations": {
+        "devanagari": "भक्त प्रह्लाद, श्रीनिवास कल्याणदंतह पौराणिक चलनचित्रगळल्लि सण्णपुट्ट पात्रगळल्लि काणिसिकॊंडिद्दरू 1954रल्लि तॆरॆकंड ‘बेडर कण्णप्प’ ऎंब चित्रवु मुत्तुराजर बदुकिनल्लि हॊस अध्याय बरॆयितु. ई चित्रद निर्देशकराद ऎच्.ऎल्.ऎन्. सिंह अवरु ‘मुत्तुराज’ ऎंब हॆसरन्नु ‘राजकुमार’ ऎंदु बदलायिसि, बॆळ्ळितॆरॆगॆ परिचयिसिदरु. तम्म हॆसरन्नु बदलायिसुवुदु मुत्तुराजरिगॆ इष्टविरलिल्लवंतॆ. आदरॆ कन्नडिगरु राजकुमार ऎंब हॆसरन्ने तम्म हृदय सिंहासनदल्लिरिसिकॊळ्ळुवंतॆ तावु अभिनयिसिद प्रतियॊंदु पात्रक्कू राजकुमार् जीव तुंबिदरु.",
+        "latin": "bhakta prahlāda, śrīnivāsa kalyāṇadaṃtaha paurāṇika calanacitragaḻalli saṇṇapuṭṭa pātragaḻalli kāṇisikòṃḍiddarū 1954ralli tèrèkaṃḍa ‘beḍara kaṇṇappa’ èṃba citravu mutturājara badukinalli hòsa adhyāya barèyitu. ī citrada nirdeśakarāda èc.èl.èn. siṃha avaru ‘mutturāja’ èṃba hèsarannu ‘rājakumāra’ èṃdu badalāyisi, bèḻḻitèrègè paricayisidaru. tamma hèsarannu badalāyisuvudu mutturājarigè iṣṭaviralillavaṃtè. ādarè kannaḍigaru rājakumāra èṃba hèsaranne tamma hṛdaya siṃhāsanadallirisikòḻḻuvaṃtè tāvu abhinayisida pratiyòṃdu pātrakkū rājakumār jīva tuṃbidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರು ಅಭಿನಯಿಸಿದ ಭಕ್ತಿಪ್ರಧಾನವಾದ ಭಕ್ತವಿಜಯ, ಓಹಿಲೇಶ್ವರ, ಶ್ರೀಕೃಷ್ಣ ಗಾರುಡಿ, ಭಕ್ತಕುಂಬಾರ, ಸಂತ ತುಕಾರಾಂ, ಭಕ್ತ ಕನಕದಾಸ ಮುಂತಾದ ಚಿತ್ರಗಳನ್ನು ನೋಡಿದ ಚಿತ್ರರಸಿಕರು ರಾಜಕುಮಾರ್ ಅವರ ಮನೋಜ್ಞ ಅಭಿನಯಕ್ಕೆ ಸೋತುಹೋದರು. ಅತ್ಯಂತ ಯಶಸ್ಸುಗಳಿಸಿದ ಭಕ್ತಪ್ರಹ್ಲಾದ, ಮಯೂರ, ಬಭ್ರುವಾಹನ, ಕವಿರತ್ನ ಕಾಳಿದಾಸ ಮುಂತಾದ ಚಿತ್ರಗಳಲ್ಲಿನ ಅಭಿನಯವಂತೂ ರಾಜಕುಮಾರರಿಗೆ ಅಪಾರವಾದ ಜನಪ್ರೀತಿ, ಕೀರ್ತಿ, ಪುರಸ್ಕಾರಗಳನ್ನು ಹೊತ್ತು ತಂದವು. ಸಂಧ್ಯಾರಾಗ, ಸನಾದಿ ಅಪ್ಪಣ್ಣ, ಜೀವನಚೈತ್ರ, ಕಸ್ತೂರಿ ನಿವಾಸ, ಬಂಗಾರದ ಮನುಷ್ಯ, ದೇವತಾ ಮನುಷ್ಯ ಮುಂತಾದ ಸಾಮಾಜಿಕ ಚಿತ್ರಗಳು ಕನ್ನಡ ಚಿತ್ರರಂಗದಲ್ಲಿ ಹೊಸ ದಾಖಲೆಯನ್ನು ಬರೆದವು. ಜನ ಮೆಚ್ಚಿದ ‘ರಸಿಕರ ರಾಜ’ ಎನಿಸಿದ್ದು ಹೀಗೆ.",
+      "translations": {
+        "en": "Film lovers who saw Rajkumar’s devotion-centred films such as Bhakta Vijaya, Ohileshwara, Srikrishna Garudi, Bhakta Kumbara, Santa Tukaram and Bhakta Kanakadasa were captivated by his charming acting. Acting in highly successful films such as Bhakta Prahlada, Mayura, Babhruvahana and Kavirathna Kalidasa brought him immense public love, fame and awards. Social films such as Sandhyaraga, Sanadi Appanna, Jeevana Chaitra, Kasturi Nivasa, Bangarada Manushya and Devatha Manushya set new records in Kannada cinema. Thus he came to be called ‘Rasikara Raja’, the king of connoisseurs.",
+        "hi": "भक्तिप्रधान चित्रों में उनका मनोज्ञ अभिनय देख रसिक हार गए। भक्तप्रह्लाद, मयूर, बभ्रुवाहन, कविरत्न कालिदास आदि में अपार जनप्रियता-कीर्ति-पुरस्कार आए। सामाजिक चित्रों ने कन्नड़ सिनेमा में नए रिकॉर्ड बनाए। ऐसे ‘रसिकर राज’ कहलाए।"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवरु अभिनयिसिद भक्तिप्रधानवाद भक्तविजय, ओहिलेश्वर, श्रीकृष्ण गारुडि, भक्तकुंबार, संत तुकारां, भक्त कनकदास मुंताद चित्रगळन्नु नोडिद चित्ररसिकरु राजकुमार् अवर मनोज्ञ अभिनयक्कॆ सोतुहोदरु. अत्यंत यशस्सुगळिसिद भक्तप्रह्लाद, मयूर, बभ्रुवाहन, कविरत्न काळिदास मुंताद चित्रगळल्लिन अभिनयवंतू राजकुमाररिगॆ अपारवाद जनप्रीति, कीर्ति, पुरस्कारगळन्नु हॊत्तु तंदवु. संध्याराग, सनादि अप्पण्ण, जीवनचैत्र, कस्तूरि निवास, बंगारद मनुष्य, देवता मनुष्य मुंताद सामाजिक चित्रगळु कन्नड चित्ररंगदल्लि हॊस दाखलॆयन्नु बरॆदवु. जन मॆच्चिद ‘रसिकर राज’ ऎनिसिद्दु हीगॆ.",
+        "latin": "rājakumār avaru abhinayisida bhaktipradhānavāda bhaktavijaya, ohileśvara, śrīkṛṣṇa gāruḍi, bhaktakuṃbāra, saṃta tukārāṃ, bhakta kanakadāsa muṃtāda citragaḻannu noḍida citrarasikaru rājakumār avara manojña abhinayakkè sotuhodaru. atyaṃta yaśassugaḻisida bhaktaprahlāda, mayūra, babhruvāhana, kaviratna kāḻidāsa muṃtāda citragaḻallina abhinayavaṃtū rājakumārarigè apāravāda janaprīti, kīrti, puraskāragaḻannu hòttu taṃdavu. saṃdhyārāga, sanādi appaṇṇa, jīvanacaitra, kastūri nivāsa, baṃgārada manuṣya, devatā manuṣya muṃtāda sāmājika citragaḻu kannaḍa citraraṃgadalli hòsa dākhalèyannu barèdavu. jana mèccida ‘rasikara rāja’ ènisiddu hīgè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ತಮ್ಮ ಸೊಗಸಾದ ಕಂಠ ಮತ್ತು ಹಾಡುಗಾರಿಕೆಯಿಂದಲೂ ಕನ್ನಡಿಗರ ಮನಸೂರೆಗೊಂಡ ರಾಜಕುಮಾರ್ ಅವರು ‘ಗಾನಗಂಧರ್ವ’ ಎನಿಸಿದರು. ‘ಸಂಪತ್ತಿಗೆ ಸವಾಲ್’ ಎಂಬ ಚಿತ್ರದಲ್ಲಿ ನಾಯಕ ಎಮ್ಮೆಯ ಮೇಲೆ ಕುಳಿತು ಹಾಡಿದ “ಯಾರೇ ಕೂಗಾಡಲಿ, ಊರೇ ಹೋರಾಡಲಿ” ಎಂಬ ಗೀತೆಯು ದಿನ ಬೆಳಗಾಗುವುದರೊಳಗೆ ರಾಜಕುಮಾರ್ ಅವರನ್ನು ಹಿನ್ನೆಲೆಗಾಯಕರನ್ನಾಗಿ ಪರಿಚಯಿಸಿತು. ಚಿಕ್ಕಂದಿನಿಂದಲೂ ಇವರಿಗೆ ಹಾಡಲು ಬರುತ್ತಿತ್ತು. ಜೊತೆಗೆ, ನಾಟಕಗಳಲ್ಲಿ ಹಾಡಿದ ಅನುಭವವೂ ಇತ್ತು. ಸಂಪತ್ತಿಗೆ ಸವಾಲ್ ಚಿತ್ರದಿಂದ ತಮ್ಮ ಪಾತ್ರಗಳಿಗೆ ತಾವೇ ಹಾಡಲಾರಂಭಿಸಿದ ರಾಜಕುಮಾರ್ ಅವರು ನೂರಾರು ಚಲನಚಿತ್ರ ಗೀತೆಗಳನ್ನೂ, ಸಾವಿರಾರು ಭಕ್ತಿಗೀತೆಗಳನ್ನೂ, ಅನೇಕ ಭಾವಗೀತೆಗಳನ್ನೂ ಹಾಡಿದ್ದಾರೆ. ಜೀವನ ಚೈತ್ರ ಚಿತ್ರದ “ನಾದಮಯ ಈ ಲೋಕವೆಲ್ಲಾ ನಾದಮಯ” ಎಂಬ ಅದ್ಭುತ ಗಾಯನಕ್ಕಾಗಿ ರಾಷ್ಟ್ರಪ್ರಶಸ್ತಿಯನ್ನು ಮುಡಿಗೇರಿಸಿಕೊಂಡ ಹಿರಿಮೆಯೂ ಇವರದಾಗಿದೆ.",
+      "translations": {
+        "en": "Through his fine voice and singing too Rajkumar captured Kannadigas’ hearts and was called ‘Gana Gandharva’. In the film Sampathige Saval the song “Yare Koogadali, Ure Horadali” sung by the hero sitting on a buffalo introduced Rajkumar as a playback singer before daybreak. He could sing from childhood and had stage-singing experience too. From Sampathige Saval he began singing for his own roles and has sung hundreds of film songs, thousands of devotionals and many lyric songs. For the wonderful singing of “Nadamaya Ee Lokavella Nadamaya” in Jeevana Chaitra he also earned the honour of a national award.",
+        "hi": "सुंदर कंठ और गायकी से भी मन जीते—‘गानगंधर्व’ कहलाए। संपतिगे सवाल में «यारे कूगडलि…» गीत ने उन्हें पृष्ठगायक के रूप में परिचय दिया। बचपन से गाना आता था, नाटकों में अनुभव भी। संपतिगे सवाल से स्वयं गाकर सैकड़ों चित्रगीत, हजारों भक्तिगीत गाए। जीवनचैत्र के «नादमय…» गायन के लिए राष्ट्रीय पुरस्कार भी मिला।"
+      },
+      "transliterations": {
+        "devanagari": "तम्म सॊगसाद कंठ मत्तु हाडुगारिकॆयिंदलू कन्नडिगर मनसूरॆगॊंड राजकुमार् अवरु ‘गानगंधर्व’ ऎनिसिदरु. ‘संपत्तिगॆ सवाल्’ ऎंब चित्रदल्लि नायक ऎम्मॆय मेलॆ कुळितु हाडिद “यारे कूगाडलि, ऊरे होराडलि” ऎंब गीतॆयु दिन बॆळगागुवुदरॊळगॆ राजकुमार् अवरन्नु हिन्नॆलॆगायकरन्नागि परिचयिसितु. चिक्कंदिनिंदलू इवरिगॆ हाडलु बरुत्तित्तु. जॊतॆगॆ, नाटकगळल्लि हाडिद अनुभववू इत्तु. संपत्तिगॆ सवाल् चित्रदिंद तम्म पात्रगळिगॆ तावे हाडलारंभिसिद राजकुमार् अवरु नूरारु चलनचित्र गीतॆगळन्नू, साविरारु भक्तिगीतॆगळन्नू, अनेक भावगीतॆगळन्नू हाडिद्दारॆ. जीवन चैत्र चित्रद “नादमय ई लोकवॆल्ला नादमय” ऎंब अद्भुत गायनक्कागि राष्ट्रप्रशस्तियन्नु मुडिगेरिसिकॊंड हिरिमॆयू इवरदागिदॆ.",
+        "latin": "tamma sògasāda kaṃṭha mattu hāḍugārikèyiṃdalū kannaḍigara manasūrègòṃḍa rājakumār avaru ‘gānagaṃdharva’ ènisidaru. ‘saṃpattigè savāl’ èṃba citradalli nāyaka èmmèya melè kuḻitu hāḍida “yāre kūgāḍali, ūre horāḍali” èṃba gītèyu dina bèḻagāguvudaròḻagè rājakumār avarannu hinnèlègāyakarannāgi paricayisitu. cikkaṃdiniṃdalū ivarigè hāḍalu baruttittu. jòtègè, nāṭakagaḻalli hāḍida anubhavavū ittu. saṃpattigè savāl citradiṃda tamma pātragaḻigè tāve hāḍalāraṃbhisida rājakumār avaru nūrāru calanacitra gītègaḻannū, sāvirāru bhaktigītègaḻannū, aneka bhāvagītègaḻannū hāḍiddārè. jīvana caitra citrada “nādamaya ī lokavèllā nādamaya” èṃba adbhuta gāyanakkāgi rāṣṭrapraśastiyannu muḍigerisikòṃḍa hirimèyū ivaradāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ನಟರಾಗಿ ಮಾತ್ರವಲ್ಲದೆ ಅನನ್ಯ ಕನ್ನಡ ಪ್ರೀತಿಗಾಗಿಯೂ ನಾಡು ರಾಜಕುಮಾರ್ ಅವರನ್ನು ಸದಾ ಸ್ಮರಿಸುತ್ತದೆ. ಎಂತಹ ಆಮಿಷವೊಡ್ಡಿದರೂ ರಾಜಕುಮಾರ್ ಅವರು ಕನ್ನಡ ಬಿಟ್ಟು ಬೇರೆ ಭಾಷೆಯ ಚಿತ್ರಗಳಲ್ಲಿ ನಟಿಸಲು ಒಪ್ಪಲಿಲ್ಲ. ಅಂತಹ ಕನ್ನಡ ಪ್ರೀತಿ ಅವರದು. ಕರ್ನಾಟಕದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಗೆ ಆದ್ಯತೆ, ಮಾನ್ಯತೆಗಳು ದೊರಕಬೇಕೆಂಬ ಸಂಕಲ್ಪದಿಂದಾರಂಭಿಸಿದ ಗೋಕಾಕ್ ಚಳುವಳಿಗೆ ಧುಮುಕಿದ ರಾಜಕುಮಾರ್ ಅವರು ಕನ್ನಡಿಗರ ಭಾವನೆಯ ಸ್ವರೂಪದ ಪ್ರತಿರೂಪದಂತೆ ಕಾಣಿಸಿಕೊಂಡು ಕನ್ನಡದ ಹೋರಾಟಕ್ಕೆ ಬಲ ತಂದರು. ತಾವು ಅಭಿನಯಿಸಿದ ಎಲ್ಲ ಪಾತ್ರಗಳು ಆಡುವ ಸರಳ, ಸೊಗಸಾದ ಕನ್ನಡದ ನುಡಿಗಳಿಂದ ಅವರು ಕನ್ನಡಿಗರ ಎದೆಗಳಲ್ಲಿ ಸವಿಗನ್ನಡದ ಕಂಪು ತುಂಬಿದ್ದನ್ನು ನಾವು ಎಂದಿಗೂ ಮರೆಯುವಂತಿಲ್ಲ.",
+      "translations": {
+        "en": "Not only as an actor but for unmatched love of Kannada the land always remembers Rajkumar. Whatever temptation was offered, Rajkumar would not agree to act in films of other languages leaving Kannada. Such was his love of Kannada. Joining the Gokak movement begun with the resolve that Kannada should get priority and recognition in Karnataka, Rajkumar appeared as the embodiment of Kannadigas’ feeling and gave strength to the Kannada struggle. Through the simple elegant Kannada spoken by all the roles he played he filled Kannadigas’ hearts with the fragrance of sweet Kannada—something we can never forget.",
+        "hi": "केवल अभिनेता नहीं—अनन्य कन्नड़ प्रेम के लिए भी नाडु याद करता है। कोई लालच हो, कन्नड़ छोड़कर अन्य भाषा की फिल्मों में अभिनय को सहमत नहीं हुए। गोकक आंदोलन में कूदकर कन्नडिगों की भावना का स्वरूप बने और संघर्ष को बल दिया। सरल सुंदर कन्नड़ संवादों से हृदयों में सविगन्नड़ की खुशबू भरी—यह कभी नहीं भूलते।"
+      },
+      "transliterations": {
+        "devanagari": "नटरागि मात्रवल्लदॆ अनन्य कन्नड प्रीतिगागियू नाडु राजकुमार् अवरन्नु सदा स्मरिसुत्तदॆ. ऎंतह आमिषवॊड्डिदरू राजकुमार् अवरु कन्नड बिट्टु बेरॆ भाषॆय चित्रगळल्लि नटिसलु ऒप्पलिल्ल. अंतह कन्नड प्रीति अवरदु. कर्नाटकदल्लि कन्नड भाषॆगॆ आद्यतॆ, मान्यतॆगळु दॊरकबेकॆंब संकल्पदिंदारंभिसिद गोकाक् चळुवळिगॆ धुमुकिद राजकुमार् अवरु कन्नडिगर भावनॆय स्वरूपद प्रतिरूपदंतॆ काणिसिकॊंडु कन्नडद होराटक्कॆ बल तंदरु. तावु अभिनयिसिद ऎल्ल पात्रगळु आडुव सरळ, सॊगसाद कन्नडद नुडिगळिंद अवरु कन्नडिगर ऎदॆगळल्लि सविगन्नडद कंपु तुंबिद्दन्नु नावु ऎंदिगू मरॆयुवंतिल्ल.",
+        "latin": "naṭarāgi mātravalladè ananya kannaḍa prītigāgiyū nāḍu rājakumār avarannu sadā smarisuttadè. èṃtaha āmiṣavòḍḍidarū rājakumār avaru kannaḍa biṭṭu berè bhāṣèya citragaḻalli naṭisalu òppalilla. aṃtaha kannaḍa prīti avaradu. karnāṭakadalli kannaḍa bhāṣègè ādyatè, mānyatègaḻu dòrakabekèṃba saṃkalpadiṃdāraṃbhisida gokāk caḻuvaḻigè dhumukida rājakumār avaru kannaḍigara bhāvanèya svarūpada pratirūpadaṃtè kāṇisikòṃḍu kannaḍada horāṭakkè bala taṃdaru. tāvu abhinayisida èlla pātragaḻu āḍuva saraḻa, sògasāda kannaḍada nuḍigaḻiṃda avaru kannaḍigara èdègaḻalli savigannaḍada kaṃpu tuṃbiddannu nāvu èṃdigū marèyuvaṃtilla."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಅಶಕ್ತ ಕಲಾವಿದರ ನೆರವಿಗಾಗಿ ರಾಜಕುಮಾರ್ ಅವರು ಅನೇಕ ರಸಸಂಜೆ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಡೆಸಿ ನೆರವಿಗೆ ಬಂದಿದ್ದಾರೆ. ಬಡತನದಲ್ಲಿ ಬೆಳೆದು ಬಂದ ಅವರಿಗೆ ಹಸಿವಿನ, ಅನ್ನದ ಬೆಲೆ ಚೆನ್ನಾಗಿ ತಿಳಿದಿತ್ತು. ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಸಹ ಕಲಾವಿದರು, ತಂತ್ರಜ್ಞರು, ಚಲನಚಿತ್ರ ಕಾರ್ಮಿಕರು, ಸಂಘ ಸಂಸ್ಥೆಗಳು ರಾಜಕುಮಾರ್ ಅವರಿಂದ ಆರ್ಥಿಕ ನೆರವು ಪಡೆದ ಉದಾಹರಣೆಗಳಿವೆ. ರಾಜಕುಮಾರ್ ಅವರ ಕರುಣಾಮಯಿ ಹೃದಯ ಸಂಪನ್ನತೆಗೆ ಇವು ಕೆಲವು ಉದಾಹರಣೆಗಳು ಮಾತ್ರ.",
+      "translations": {
+        "en": "To help weak artists Rajkumar conducted many evening programmes of art. Having grown in poverty he knew well the value of hunger and food. Countless artists, technicians, film workers and organisations have received financial help from him. These are only a few examples of Rajkumar’s compassionate rich heart.",
+        "hi": "अशक्त कलाकारों की मदद को अनेक रससंझ्या कार्यक्रम किए। गरीबी में पले होने से भूख-अन्न का मूल्य अच्छी तरह जानते थे। अनगिनत कलाकार, तकनीशियन, फिल्म मजदूर, संघ संस्थाएँ आर्थिक मदद पाईं। करुणामय हृदय संपन्नता के ये कुछ ही उदाहरण हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अशक्त कलाविदर नॆरविगागि राजकुमार् अवरु अनेक रससंजॆ कार्यक्रमगळन्नु नडॆसि नॆरविगॆ बंदिद्दारॆ. बडतनदल्लि बॆळॆदु बंद अवरिगॆ हसिविन, अन्नद बॆलॆ चॆन्नागि तिळिदित्तु. लॆक्कविल्लदष्टु सह कलाविदरु, तंत्रज्ञरु, चलनचित्र कार्मिकरु, संघ संस्थॆगळु राजकुमार् अवरिंद आर्थिक नॆरवु पडॆद उदाहरणॆगळिवॆ. राजकुमार् अवर करुणामयि हृदय संपन्नतॆगॆ इवु कॆलवु उदाहरणॆगळु मात्र.",
+        "latin": "aśakta kalāvidara nèravigāgi rājakumār avaru aneka rasasaṃjè kāryakramagaḻannu naḍèsi nèravigè baṃdiddārè. baḍatanadalli bèḻèdu baṃda avarigè hasivina, annada bèlè cènnāgi tiḻidittu. lèkkavilladaṣṭu saha kalāvidaru, taṃtrajñaru, calanacitra kārmikaru, saṃgha saṃsthègaḻu rājakumār avariṃda ārthika nèravu paḍèda udāharaṇègaḻivè. rājakumār avara karuṇāmayi hṛdaya saṃpannatègè ivu kèlavu udāharaṇègaḻu mātra."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n9",
+      "section": "story",
+      "text": "ರಾಜಕುಮಾರರ ಕುಟುಂಬವೇ ಕನ್ನಡ ಚಿತ್ರರಂಗದ ದೊಡ್ಡ ಮನೆಯೆನಿಸಿದೆ. ಶ್ರೀಮತಿ ಪಾರ್ವತಮ್ಮನವರು ಚಿತ್ರ ನಿರ್ಮಾಪಕರಾಗಿ ವಿತರಕರಾಗಿ ದೊಡ್ಡ ಸಾಧನೆಗೈದರೆ, ಮಕ್ಕಳಾದ ರಾಘವೇಂದ್ರ ರಾಜಕುಮಾರ್, ಶಿವರಾಜಕುಮಾರ್, ಪುನೀತ್ ರಾಜಕುಮಾರ್ ನಟರಾಗಿ, ಗಾಯಕರಾಗಿ ನಾಡಿನ ಜನರ ಮನಗೆದ್ದವರು. ಪುನೀತ್ ರಾಜಕುಮಾರ್ ತಮ್ಮ ಬಾಲ್ಯದಲ್ಲಿಯೇ ‘ಬೆಟ್ಟದ ಹೂ’ ಚಿತ್ರದ ಅಮೋಘ ಅಭಿನಯಕ್ಕಾಗಿ ರಾಷ್ಟ್ರಪ್ರಶಸ್ತಿ ಪಡೆದಿದ್ದರು. ಅವರು ತಂದೆಯಂತೆಯೇ ‘ಕರ್ನಾಟಕ ರತ್ನ’ ಎನ್ನಿಸಿದ ಸಾಹಸಗಾಥೆ ಬೇರೆಯದೇ ಇದೆ. ರಾಜಕುಮಾರ್ ಅವರ ಮೊಮ್ಮಕ್ಕಳೂ ಸಿನಿಮಾ ನಾಯಕರಾಗಿರುವುದು ಈ ಕಲಾಸಂಪನ್ನತೆಯು ಮೂರನೇ ತಲೆಮಾರಿಗೂ ಹರಿದು ಬಂದಿರುವುದರ ಪ್ರತೀಕವಾಗಿದೆ.",
+      "translations": {
+        "en": "Rajkumar’s family itself is called a great house of Kannada cinema. Srimati Parvathamma achieved much as producer and distributor; sons Raghavendra Rajkumar, Shivarajkumar and Puneeth Rajkumar won the land’s hearts as actors and singers. Puneeth Rajkumar in childhood itself received a national award for his wonderful acting in Bettada Hoo. His saga of being called ‘Karnataka Ratna’ like his father is another story. That Rajkumar’s grandchildren too are film heroes is a sign that this artistic richness has flowed to the third generation.",
+        "hi": "राजकुमार परिवार ही कन्नड़ सिनेमा का बड़ा घर माना जाता है। श्रीमती पार्वतम्मा निर्मात्री-वितरक बन बड़ी साधना कीं; पुत्र राघवेंद्र, शिवराजकुमार, पुनीत राजकुमार अभिनेता-गायक बन मन जीते। पुनीत ने बचपन में बेट्टद हू के लिए राष्ट्रीय पुरस्कार पाया। कर्नाटक रत्न कहलाने की गाथा अलग है। पोते भी नायक हैं—यह कला संपन्नता तीसरी पीढ़ी तक बहने का प्रतीक है।"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमारर कुटुंबवे कन्नड चित्ररंगद दॊड्ड मनॆयॆनिसिदॆ. श्रीमति पार्वतम्मनवरु चित्र निर्मापकरागि वितरकरागि दॊड्ड साधनॆगैदरॆ, मक्कळाद राघवेंद्र राजकुमार्, शिवराजकुमार्, पुनीत् राजकुमार् नटरागि, गायकरागि नाडिन जनर मनगॆद्दवरु. पुनीत् राजकुमार् तम्म बाल्यदल्लिये ‘बॆट्टद हू’ चित्रद अमोघ अभिनयक्कागि राष्ट्रप्रशस्ति पडॆदिद्दरु. अवरु तंदॆयंतॆये ‘कर्नाटक रत्न’ ऎन्निसिद साहसगाथॆ बेरॆयदे इदॆ. राजकुमार् अवर मॊम्मक्कळू सिनिमा नायकरागिरुवुदु ई कलासंपन्नतॆयु मूरने तलॆमारिगू हरिदु बंदिरुवुदर प्रतीकवागिदॆ.",
+        "latin": "rājakumārara kuṭuṃbave kannaḍa citraraṃgada dòḍḍa manèyènisidè. śrīmati pārvatammanavaru citra nirmāpakarāgi vitarakarāgi dòḍḍa sādhanègaidarè, makkaḻāda rāghaveṃdra rājakumār, śivarājakumār, punīt rājakumār naṭarāgi, gāyakarāgi nāḍina janara managèddavaru. punīt rājakumār tamma bālyadalliye ‘bèṭṭada hū’ citrada amogha abhinayakkāgi rāṣṭrapraśasti paḍèdiddaru. avaru taṃdèyaṃtèye ‘karnāṭaka ratna’ ènnisida sāhasagāthè berèyade idè. rājakumār avara mòmmakkaḻū sinimā nāyakarāgiruvudu ī kalāsaṃpannatèyu mūrane talèmārigū haridu baṃdiruvudara pratīkavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n10",
+      "section": "story",
+      "text": "ರಾಜಕುಮಾರ್ ಎಂಬ ಸಮ್ಮೋಹಕ ಪ್ರತಿಭೆಗೆ ಮನಸೋತ ಕನ್ನಡಿಗರು ಅವರನ್ನು ನಟ ಸಾರ್ವಭೌಮ, ಕಲಾ ಕೌಸ್ತುಭ, ಕಲಾ ಕೇಸರಿ, ವರನಟ, ರಸಿಕರ ರಾಜ, ಗಾನಗಂಧರ್ವ, ಕನ್ನಡದ ಕಣ್ಮಣಿ ಮುಂತಾದ ವಿಶೇಷಣಗಳಿಂದ ಕರೆದು ಸಂತೋಷಪಟ್ಟರೆ, 1979ರಲ್ಲಿ ಮೈಸೂರು ವಿಶ್ವ ವಿದ್ಯಾಲಯವು ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪದವಿ ನೀಡಿ ಪುರಸ್ಕರಿಸಿತು. ಅಂದಿನಿಂದ ಇವರು ಎಲ್ಲರ ಪ್ರೀತಿಯ ‘ಡಾಕ್ಟರ್ ರಾಜಕುಮಾರ್’ ಎನಿಸಿದರು. ಕೇಂದ್ರ ಸರ್ಕಾರ ಇವರ ಕಲಾಸೇವೆಗೆ ‘ಪದ್ಮಭೂಷಣ’ ಪ್ರಶಸ್ತಿಯನ್ನಿತ್ತು ಗೌರವಿಸಿತು. ಜೀವಮಾನದ ಸಾಧನೆಗಾಗಿ ಭಾರತ ಸರ್ಕಾರದ ಅತ್ಯುಚ್ಚ ಪ್ರಶಸ್ತಿಯಾದ ‘ದಾದಾ ಸಾಹೇಬ್ ಫಾಲ್ಕೆ ಪ್ರಶಸ್ತಿ’ಯೂ ದೊರೆಯಿತು. ಕರ್ನಾಟಕ ಸರ್ಕಾರವು “ಕರ್ನಾಟಕ ರತ್ನ ಪ್ರಶಸ್ತಿ” ನೀಡಿತು.",
+      "translations": {
+        "en": "Kannadigas captivated by the magnetic talent called Rajkumar happily called him Natasarvabhauma, Kala Kaustubha, Kala Kesari, Varanata, Rasikara Raja, Gana Gandharva, Kannada’s apple of the eye and other epithets; in 1979 the University of Mysore honoured him with an honorary doctorate. From then he became everyone’s beloved ‘Doctor Rajkumar’. The central government honoured his art service with the Padma Bhushan. For lifetime achievement he also received the nation’s highest cinema honour, the Dadasaheb Phalke Award. The Karnataka government gave the Karnataka Ratna award.",
+        "hi": "राजकुमार नाम की सम्मोहक प्रतिभा पर मोहित कन्नडिग उन्हें नटसार्वभौम, कला कौस्तुभ आदि विशेषणों से पुकारे; 1979 में मैसूर विश्वविद्यालय ने मानद डॉक्टरेट दी। तब से सबके प्रिय ‘डॉक्टर राजकुमार’। केंद्र ने पद्मभूषण दिया। जीवनकाल साधना के लिए दादासाहेब फाल्के पुरस्कार भी मिला। कर्नाटक सरकार ने कर्नाटक रत्न दिया।"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् ऎंब सम्मोहक प्रतिभॆगॆ मनसोत कन्नडिगरु अवरन्नु नट सार्वभौम, कला कौस्तुभ, कला केसरि, वरनट, रसिकर राज, गानगंधर्व, कन्नडद कण्मणि मुंताद विशेषणगळिंद करॆदु संतोषपट्टरॆ, 1979रल्लि मैसूरु विश्व विद्यालयवु गौरव डाक्टरेट् पदवि नीडि पुरस्करिसितु. अंदिनिंद इवरु ऎल्लर प्रीतिय ‘डाक्टर् राजकुमार्’ ऎनिसिदरु. केंद्र सर्कार इवर कलासेवॆगॆ ‘पद्मभूषण’ प्रशस्तियन्नित्तु गौरविसितु. जीवमानद साधनॆगागि भारत सर्कारद अत्युच्च प्रशस्तियाद ‘दादा साहेब् फाल्कॆ प्रशस्ति’यू दॊरॆयितु. कर्नाटक सर्कारवु “कर्नाटक रत्न प्रशस्ति” नीडितु.",
+        "latin": "rājakumār èṃba sammohaka pratibhègè manasota kannaḍigaru avarannu naṭa sārvabhauma, kalā kaustubha, kalā kesari, varanaṭa, rasikara rāja, gānagaṃdharva, kannaḍada kaṇmaṇi muṃtāda viśeṣaṇagaḻiṃda karèdu saṃtoṣapaṭṭarè, 1979ralli maisūru viśva vidyālayavu gaurava ḍākṭareṭ padavi nīḍi puraskarisitu. aṃdiniṃda ivaru èllara prītiya ‘ḍākṭar rājakumār’ ènisidaru. keṃdra sarkāra ivara kalāsevègè ‘padmabhūṣaṇa’ praśastiyannittu gauravisitu. jīvamānada sādhanègāgi bhārata sarkārada atyucca praśastiyāda ‘dādā sāheb phālkè praśasti’yū dòrèyitu. karnāṭaka sarkāravu “karnāṭaka ratna praśasti” nīḍitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n11",
+      "section": "story",
+      "text": "ಈ ಮೊದಲೇ ಹೇಳಿದಂತೆ ಬಡತನದ ಪರಿಸರದಲ್ಲಿ ಹುಟ್ಟಿದರೂ ಸಾಧನೆಯ ತಪಸ್ಸಿನಲ್ಲಿ ಶ್ರದ್ಧೆಯಿದ್ದರೆ ಯಾವುದೂ ತೊಡಕಲ್ಲವೆಂಬುದಕ್ಕೆ ರಾಜಕುಮಾರ್ ಅವರ ಬದುಕು ದೊಡ್ಡ ಮಾದರಿಯಾಗಿದೆ. ಅದೇ ಬಗೆಯ ಪರಿಸರದಲ್ಲಿ ಹುಟ್ಟಿದ ನಮ್ಮ ನಾಡ ಮಕ್ಕಳಿಗೆ ಅನುಕರಣೀಯವೂ ಅನುಸರಣೀಯವೂ ಆಗಿದೆ.",
+      "translations": {
+        "en": "As said earlier, Rajkumar’s life is a great model that if there is faith in the austerity of achievement, nothing is an obstacle even if one is born in poverty. For the children of our land born in similar surroundings it is both worthy of imitation and of following.",
+        "hi": "जैसा पहले कहा—गरीबी में जन्म लेकर भी साधना की तपस्या में श्रद्धा हो तो कोई अड़चन नहीं—इसका बड़ा आदर्श राजकुमार का जीवन है। उसी परिवेश में जन्मे नाडु के बच्चों के लिए अनुकरणीय और अनुसरणीय है।"
+      },
+      "transliterations": {
+        "devanagari": "ई मॊदले हेळिदंतॆ बडतनद परिसरदल्लि हुट्टिदरू साधनॆय तपस्सिनल्लि श्रद्धॆयिद्दरॆ यावुदू तॊडकल्लवॆंबुदक्कॆ राजकुमार् अवर बदुकु दॊड्ड मादरियागिदॆ. अदे बगॆय परिसरदल्लि हुट्टिद नम्म नाड मक्कळिगॆ अनुकरणीयवू अनुसरणीयवू आगिदॆ.",
+        "latin": "ī mòdale heḻidaṃtè baḍatanada parisaradalli huṭṭidarū sādhanèya tapassinalli śraddhèyiddarè yāvudū tòḍakallavèṃbudakkè rājakumār avara baduku dòḍḍa mādariyāgidè. ade bagèya parisaradalli huṭṭida namma nāḍa makkaḻigè anukaraṇīyavū anusaraṇīyavū āgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಡಾ. ಎಚ್.ಎಸ್. ಸತ್ಯನಾರಾಯಣ ಅವರು ಚಿಕ್ಕಮಗಳೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ, ಲಲಿತ ಪ್ರಬಂಧ, ಅಂಕಣ ಬರಹಗಳಲ್ಲಿ ಕೃಷಿ ಮಾಡಿ ಅನೇಕ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಚಿಕ್ಕಮಗಳೂರಿನ ಬಸವನಹಳ್ಳಿ ಬಾಲಿಕಾ ಸರ್ಕಾರಿ ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜಿನಲ್ಲಿ ಕನ್ನಡ ಉಪನ್ಯಾಸಕರಾಗಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Dr H.S. Satyanarayana was born in Chikkamagaluru. He has worked in literary criticism, light essays and columns and written many works. At present he is a Kannada lecturer at Basavanahalli Balika Government Pre-University College, Chikkamagaluru.",
+        "hi": "डॉ. एच.एस. सत्यनारायण का जन्म चिक्कमगलूर में हुआ। साहित्य आलोचना, ललित निबंध, कॉलम लेखन में कृतियाँ रचीं। वर्तमान में चिक्कमगलूर के बसवनहळ्ळि बालिका सरकारी पूर्वस्नातक महाविद्यालय में कन्नड़ व्याख्याता हैं।"
+      },
+      "transliterations": {
+        "devanagari": "डा. ऎच्.ऎस्. सत्यनारायण अवरु चिक्कमगळूरिनल्लि जनिसिदरु. साहित्य विमर्शॆ, ललित प्रबंध, अंकण बरहगळल्लि कृषि माडि अनेक कृतिगळन्नु रचिसिद्दारॆ. प्रस्तुत चिक्कमगळूरिन बसवनहळ्ळि बालिका सर्कारि पदवि पूर्व कालेजिनल्लि कन्नड उपन्यासकरागिद्दारॆ.",
+        "latin": "ḍā. èc.ès. satyanārāyaṇa avaru cikkamagaḻūrinalli janisidaru. sāhitya vimarśè, lalita prabaṃdha, aṃkaṇa barahagaḻalli kṛṣi māḍi aneka kṛtigaḻannu racisiddārè. prastuta cikkamagaḻūrina basavanahaḻḻi bālikā sarkāri padavi pūrva kālejinalli kannaḍa upanyāsakarāgiddārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-saukaryya",
+      "section": "vocab",
+      "text": "ಸೌಕರ್ಯ",
+      "translations": {
+        "en": "saukarya",
+        "hi": "सौकर्य"
+      },
+      "transliterations": {
+        "devanagari": "सौकर्य",
+        "latin": "saukarya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saukaryya-def",
+      "section": "vocab",
+      "text": "ಅನುಕೂಲ",
+      "translations": {
+        "en": "convenience",
+        "hi": "अनुकूल"
+      },
+      "transliterations": {
+        "devanagari": "अनुकूल",
+        "latin": "anukūla"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-janamanasa",
+      "section": "vocab",
+      "text": "ಜನಮಾನಸ",
+      "translations": {
+        "en": "janamānasa",
+        "hi": "जनमानस"
+      },
+      "transliterations": {
+        "devanagari": "जनमानस",
+        "latin": "janamānasa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-janamanasa-def",
+      "section": "vocab",
+      "text": "ಜನರ ಮನಸ್ಸು",
+      "translations": {
+        "en": "people’s minds",
+        "hi": "जनर मनस्सु"
+      },
+      "transliterations": {
+        "devanagari": "जनर मनस्सु",
+        "latin": "janara manassu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nadoja",
+      "section": "vocab",
+      "text": "ನಾಡೋಜ",
+      "translations": {
+        "en": "nāḍoja",
+        "hi": "नाडोज"
+      },
+      "transliterations": {
+        "devanagari": "नाडोज",
+        "latin": "nāḍoja"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nadoja-def",
+      "section": "vocab",
+      "text": "ನಾಡಿಗೆ ಗುರು",
+      "translations": {
+        "en": "teacher of the land",
+        "hi": "नाडिगॆ गुरु"
+      },
+      "transliterations": {
+        "devanagari": "नाडिगॆ गुरु",
+        "latin": "nāḍigè guru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ujvala",
+      "section": "vocab",
+      "text": "ಉಜ್ವಲ",
+      "translations": {
+        "en": "ujvala",
+        "hi": "उज्वल"
+      },
+      "transliterations": {
+        "devanagari": "उज्वल",
+        "latin": "ujvala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ujvala-def",
+      "section": "vocab",
+      "text": "ಬೆಳಗುವ",
+      "translations": {
+        "en": "shining",
+        "hi": "बॆळगुव"
+      },
+      "transliterations": {
+        "devanagari": "बॆळगुव",
+        "latin": "bèḻaguva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sajjanike",
+      "section": "vocab",
+      "text": "ಸಜ್ಜನಿಕೆ",
+      "translations": {
+        "en": "sajjanikè",
+        "hi": "सज्जनिकॆ"
+      },
+      "transliterations": {
+        "devanagari": "सज्जनिकॆ",
+        "latin": "sajjanikè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sajjanike-def",
+      "section": "vocab",
+      "text": "ಒಳ್ಳೆಯ ನಡವಳಿಕೆ",
+      "translations": {
+        "en": "good conduct",
+        "hi": "ऒळ्ळॆय नडवळिकॆ"
+      },
+      "transliterations": {
+        "devanagari": "ऒळ्ळॆय नडवळिकॆ",
+        "latin": "òḻḻèya naḍavaḻikè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-meru-vyaktitva",
+      "section": "vocab",
+      "text": "ಮೇರುವ್ಯಕ್ತಿತ್ವ",
+      "translations": {
+        "en": "meruvyaktitva",
+        "hi": "मेरुव्यक्तित्व"
+      },
+      "transliterations": {
+        "devanagari": "मेरुव्यक्तित्व",
+        "latin": "meruvyaktitva"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-meru-vyaktitva-def",
+      "section": "vocab",
+      "text": "ಎತ್ತರದ ವ್ಯಕ್ತಿತ್ವ",
+      "translations": {
+        "en": "towering personality",
+        "hi": "ऎत्तरद व्यक्तित्व"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तरद व्यक्तित्व",
+        "latin": "èttarada vyaktitva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vikasa",
+      "section": "vocab",
+      "text": "ವಿಕಾಸ",
+      "translations": {
+        "en": "vikāsa",
+        "hi": "विकास"
+      },
+      "transliterations": {
+        "devanagari": "विकास",
+        "latin": "vikāsa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vikasa-def",
+      "section": "vocab",
+      "text": "ಹರಡಿಕೊಳ್ಳು",
+      "translations": {
+        "en": "to spread",
+        "hi": "हरडिकॊळ्ळु"
+      },
+      "transliterations": {
+        "devanagari": "हरडिकॊळ्ळु",
+        "latin": "haraḍikòḻḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-higgisu",
+      "section": "vocab",
+      "text": "ಹಿಗ್ಗಿಸು",
+      "translations": {
+        "en": "higgisu",
+        "hi": "हिग्गिसु"
+      },
+      "transliterations": {
+        "devanagari": "हिग्गिसु",
+        "latin": "higgisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-higgisu-def",
+      "section": "vocab",
+      "text": "ಹಿರಿದಾಗಿಸು",
+      "translations": {
+        "en": "to enlarge",
+        "hi": "हिरिदागिसु"
+      },
+      "transliterations": {
+        "devanagari": "हिरिदागिसु",
+        "latin": "hiridāgisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-rangabhumi",
+      "section": "vocab",
+      "text": "ರಂಗಭೂಮಿ",
+      "translations": {
+        "en": "raṃgabhūmi",
+        "hi": "रंगभूमि"
+      },
+      "transliterations": {
+        "devanagari": "रंगभूमि",
+        "latin": "raṃgabhūmi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rangabhumi-def",
+      "section": "vocab",
+      "text": "ನಾಟಕವಾಡುವ ಸ್ಥಳ",
+      "translations": {
+        "en": "place where plays are performed",
+        "hi": "नाटकवाडुव स्थळ"
+      },
+      "transliterations": {
+        "devanagari": "नाटकवाडुव स्थळ",
+        "latin": "nāṭakavāḍuva sthaḻa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-akalika",
+      "section": "vocab",
+      "text": "ಅಕಾಲಿಕ",
+      "translations": {
+        "en": "akālika",
+        "hi": "अकालिक"
+      },
+      "transliterations": {
+        "devanagari": "अकालिक",
+        "latin": "akālika"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-akalika-def",
+      "section": "vocab",
+      "text": "ಕಾಲವಲ್ಲದ",
+      "translations": {
+        "en": "untimely",
+        "hi": "कालवल्लद"
+      },
+      "transliterations": {
+        "devanagari": "कालवल्लद",
+        "latin": "kālavallada"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-magu",
+      "section": "vocab",
+      "text": "ಮಾಗು",
+      "translations": {
+        "en": "māgu",
+        "hi": "मागु"
+      },
+      "transliterations": {
+        "devanagari": "मागु",
+        "latin": "māgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-magu-def",
+      "section": "vocab",
+      "text": "ಪಕ್ವಗೊಳ್ಳು",
+      "translations": {
+        "en": "to ripen",
+        "hi": "पक्वगॊळ्ळु"
+      },
+      "transliterations": {
+        "devanagari": "पक्वगॊळ्ळु",
+        "latin": "pakvagòḻḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hegalene",
+      "section": "vocab",
+      "text": "ಹೆಗಲೆಣೆ",
+      "translations": {
+        "en": "hègalèṇè",
+        "hi": "हॆगलॆणॆ"
+      },
+      "transliterations": {
+        "devanagari": "हॆगलॆणॆ",
+        "latin": "hègalèṇè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hegalene-def",
+      "section": "vocab",
+      "text": "ನೆರವು ನೀಡು",
+      "translations": {
+        "en": "to give support",
+        "hi": "नॆरवु नीडु"
+      },
+      "transliterations": {
+        "devanagari": "नॆरवु नीडु",
+        "latin": "nèravu nīḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bellitere",
+      "section": "vocab",
+      "text": "ಬೆಳ್ಳಿತೆರೆ",
+      "translations": {
+        "en": "bèḻḻitèrè",
+        "hi": "बॆळ्ळितॆरॆ"
+      },
+      "transliterations": {
+        "devanagari": "बॆळ्ळितॆरॆ",
+        "latin": "bèḻḻitèrè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bellitere-def",
+      "section": "vocab",
+      "text": "ಚಲನಚಿತ್ರ ತೋರುವ ಪರದೆ",
+      "translations": {
+        "en": "cinema screen",
+        "hi": "चलनचित्र तोरुव परदॆ"
+      },
+      "transliterations": {
+        "devanagari": "चलनचित्र तोरुव परदॆ",
+        "latin": "calanacitra toruva paradè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-manojna",
+      "section": "vocab",
+      "text": "ಮನೋಜ್ಞ",
+      "translations": {
+        "en": "manojña",
+        "hi": "मनोज्ञ"
+      },
+      "transliterations": {
+        "devanagari": "मनोज्ञ",
+        "latin": "manojña"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-manojna-def",
+      "section": "vocab",
+      "text": "ಮನಮೆಚ್ಚುವ",
+      "translations": {
+        "en": "pleasing to the mind",
+        "hi": "मनमॆच्चुव"
+      },
+      "transliterations": {
+        "devanagari": "मनमॆच्चुव",
+        "latin": "manamèccuva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sampannate",
+      "section": "vocab",
+      "text": "ಸಂಪನ್ನತೆ",
+      "translations": {
+        "en": "saṃpannatè",
+        "hi": "संपन्नतॆ"
+      },
+      "transliterations": {
+        "devanagari": "संपन्नतॆ",
+        "latin": "saṃpannatè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sampannate-def",
+      "section": "vocab",
+      "text": "ಸಿರಿವಂತಿಕೆ; ಸಮೃದ್ಧತೆ",
+      "translations": {
+        "en": "richness; abundance",
+        "hi": "सिरिवंतिकॆ; समृद्धतॆ"
+      },
+      "transliterations": {
+        "devanagari": "सिरिवंतिकॆ; समृद्धतॆ",
+        "latin": "sirivaṃtikè; samṛddhatè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pratika",
+      "section": "vocab",
+      "text": "ಪ್ರತೀಕ",
+      "translations": {
+        "en": "pratīka",
+        "hi": "प्रतीक"
+      },
+      "transliterations": {
+        "devanagari": "प्रतीक",
+        "latin": "pratīka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pratika-def",
+      "section": "vocab",
+      "text": "ಸಂಕೇತ",
+      "translations": {
+        "en": "symbol",
+        "hi": "संकेत"
+      },
+      "transliterations": {
+        "devanagari": "संकेत",
+        "latin": "saṃketa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-todaku",
+      "section": "vocab",
+      "text": "ತೊಡಕು",
+      "translations": {
+        "en": "tòḍaku",
+        "hi": "तॊडकु"
+      },
+      "transliterations": {
+        "devanagari": "तॊडकु",
+        "latin": "tòḍaku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-todaku-def",
+      "section": "vocab",
+      "text": "ಅಡ್ಡಿ",
+      "translations": {
+        "en": "obstacle",
+        "hi": "अड्डि"
+      },
+      "transliterations": {
+        "devanagari": "अड्डि",
+        "latin": "aḍḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರ ಮೊದಲ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What was Rajkumar’s first name?",
+        "hi": "राजकुमार का पहला नाम क्या था?"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवर मॊदल हॆसरेनु?",
+        "latin": "rājakumār avara mòdala hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರ ಜನ್ಮಸ್ಥಳ ಯಾವುದು?",
+      "translations": {
+        "en": "What is Rajkumar’s birthplace?",
+        "hi": "राजकुमार का जन्मस्थान कौन सा है?"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवर जन्मस्थळ यावुदु?",
+        "latin": "rājakumār avara janmasthaḻa yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರ ತಂದೆ-ತಾಯಿ ಯಾರು?",
+      "translations": {
+        "en": "Who were Rajkumar’s parents?",
+        "hi": "राजकुमार के माता-पिता कौन थे?"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवर तंदॆ-तायि यारु?",
+        "latin": "rājakumār avara taṃdè-tāyi yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ನಾಯಕ ನಟರಾಗಿ ರಾಜಕುಮಾರ್ರವರು ನಟಿಸಿದ ಮೊದಲ ಚಿತ್ರ ಯಾವುದು?",
+      "translations": {
+        "en": "What was the first film in which Rajkumar acted as hero?",
+        "hi": "नायक अभिनेता के रूप में पहली फिल्म कौन सी?"
+      },
+      "transliterations": {
+        "devanagari": "नायक नटरागि राजकुमार्रवरु नटिसिद मॊदल चित्र यावुदु?",
+        "latin": "nāyaka naṭarāgi rājakumārravaru naṭisida mòdala citra yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಯಾವ ಚಿತ್ರದ ಗಾಯನಕ್ಕೆ ರಾಜಕುಮಾರ್ ಅವರಿಗೆ ರಾಷ್ಟ್ರ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ?",
+      "translations": {
+        "en": "For the singing of which film did Rajkumar receive a national award?",
+        "hi": "किस फिल्म के गायन पर राष्ट्रीय पुरस्कार मिला?"
+      },
+      "transliterations": {
+        "devanagari": "याव चित्रद गायनक्कॆ राजकुमार् अवरिगॆ राष्ट्र प्रशस्ति दॊरॆतिदॆ?",
+        "latin": "yāva citrada gāyanakkè rājakumār avarigè rāṣṭra praśasti dòrètidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "section": "exercise-A",
+      "text": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಜಕುಮಾರ್ ಅವರಿಗೆ ನೀಡಿದ ಅತ್ಯುಚ್ಚ ಪುರಸ್ಕಾರ ಯಾವುದು?",
+      "translations": {
+        "en": "What is the highest honour Karnataka government gave Rajkumar?",
+        "hi": "कर्नाटक सरकार का सर्वोच्च पुरस्कार कौन सा?"
+      },
+      "transliterations": {
+        "devanagari": "कर्नाटक सर्कार राजकुमार् अवरिगॆ नीडिद अत्युच्च पुरस्कार यावुदु?",
+        "latin": "karnāṭaka sarkāra rājakumār avarigè nīḍida atyucca puraskāra yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಯಾವ ನಾಟಕ ಕಂಪನಿಗಳಲ್ಲಿ ರಾಜಕುಮಾರ್ರವರು ಅಭಿನಯಿಸಿದರು?",
+      "translations": {
+        "en": "In which theatre companies did Rajkumar act?",
+        "hi": "किन नाटक कंपनियों में अभिनय किया?"
+      },
+      "transliterations": {
+        "devanagari": "याव नाटक कंपनिगळल्लि राजकुमार्रवरु अभिनयिसिदरु?",
+        "latin": "yāva nāṭaka kaṃpanigaḻalli rājakumārravaru abhinayisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರು ಅಭಿನಯಿಸಿದ ಭಕ್ತಿ ಪ್ರಧಾನವಾದ ಚಿತ್ರಗಳಾವುವು?",
+      "translations": {
+        "en": "What were Rajkumar’s devotion-centred films?",
+        "hi": "भक्ति प्रधान चित्र कौन से?"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवरु अभिनयिसिद भक्ति प्रधानवाद चित्रगळावुवु?",
+        "latin": "rājakumār avaru abhinayisida bhakti pradhānavāda citragaḻāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಅಭಿಮಾನಿಗಳು ರಾಜಕುಮಾರ್ರವರಿಗೆ ನೀಡಿದ ವಿಶೇಷಣ-ಬಿರುದುಗಳು ಯಾವುವು?",
+      "translations": {
+        "en": "What epithets and titles did fans give Rajkumar?",
+        "hi": "प्रशंसकों ने कौन से विशेषण-बिरुद दिए?"
+      },
+      "transliterations": {
+        "devanagari": "अभिमानिगळु राजकुमार्रवरिगॆ नीडिद विशेषण-बिरुदुगळु यावुवु?",
+        "latin": "abhimānigaḻu rājakumārravarigè nīḍida viśeṣaṇa-birudugaḻu yāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರ ಹೃದಯ ಸಂಪನ್ನತೆಗೆ ಒಂದೆರಡು ಉದಾಹರಣೆ ನೀಡಿ.",
+      "translations": {
+        "en": "Give one or two examples of Rajkumar’s richness of heart.",
+        "hi": "हृदय संपन्नता के एक-दो उदाहरण दीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवर हृदय संपन्नतॆगॆ ऒंदॆरडु उदाहरणॆ नीडि.",
+        "latin": "rājakumār avara hṛdaya saṃpannatègè òṃdèraḍu udāharaṇè nīḍi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ರಾಜಕುಮಾರ್ ಅವರ ಬಾಲ್ಯ ಜೀವನವನ್ನು ಪರಿಚಯಿಸಿ.",
+      "translations": {
+        "en": "Introduce Rajkumar’s childhood life.",
+        "hi": "राजकुमार के बाल जीवन का परिचय दीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार् अवर बाल्य जीवनवन्नु परिचयिसि.",
+        "latin": "rājakumār avara bālya jīvanavannu paricayisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ರಾಜಕುಮಾರ್ರವರ ಕುಟುಂಬವು ಚಲನಚಿತ್ರ ಕ್ಷೇತ್ರಕ್ಕೆ ಕೊಟ್ಟ ಕೊಡುಗೆಯನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ವಿವರಿಸಿ.",
+      "translations": {
+        "en": "Briefly describe his family’s contribution to cinema.",
+        "hi": "परिवार का सिनेमा को योगदान संक्षेप में बताइए।"
+      },
+      "transliterations": {
+        "devanagari": "राजकुमार्रवर कुटुंबवु चलनचित्र क्षेत्रक्कॆ कॊट्ट कॊडुगॆयन्नु संक्षिप्तवागि विवरिसि.",
+        "latin": "rājakumārravara kuṭuṃbavu calanacitra kṣetrakkè kòṭṭa kòḍugèyannu saṃkṣiptavāgi vivarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "ಯಾವ ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ರಾಜಕುಮಾರ್ ಅವರ ಕೊಡುಗೆಗಳು ಸಂದಿವೆಯೆಂಬುದನ್ನು ಸಂಗ್ರಹಿಸಿ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Collect and write to which fields Rajkumar’s contributions belong.",
+        "hi": "किन-किन क्षेत्रों में योगदान—संग्रह कर लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "याव याव क्षेत्रक्कॆ राजकुमार् अवर कॊडुगॆगळु संदिवॆयॆंबुदन्नु संग्रहिसि बरॆयिरि.",
+        "latin": "yāva yāva kṣetrakkè rājakumār avara kòḍugègaḻu saṃdivèyèṃbudannu saṃgrahisi barèyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ಮುತ್ತುರಾಯ ಸ್ವಾಮಿಯ ಹೆಸರೇ ಮುತ್ತುರಾಜ ಆಯಿತು.",
+      "translations": {
+        "en": "Muttaraya Swami’s name itself became Muttaraja.",
+        "hi": "मुत्तुराय स्वामी का नाम ही मुत्तुराज हुआ।"
+      },
+      "transliterations": {
+        "devanagari": "मुत्तुराय स्वामिय हॆसरे मुत्तुराज आयितु.",
+        "latin": "mutturāya svāmiya hèsare mutturāja āyitu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "section": "exercise-D",
+      "text": "ರಂಗಭೂಮಿ ಕೈ ಬೀಸಿ ಕರೆಯಿತು.",
+      "translations": {
+        "en": "The stage beckoned with a wave of the hand.",
+        "hi": "रंगमंच ने हाथ हिलाकर बुलाया।"
+      },
+      "transliterations": {
+        "devanagari": "रंगभूमि कै बीसि करॆयितु.",
+        "latin": "raṃgabhūmi kai bīsi karèyitu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "section": "exercise-D",
+      "text": "ಬೇರೆ ಭಾಷೆಯ ಚಿತ್ರಗಳಲ್ಲಿ ನಟಿಸಲು ಒಪ್ಪಲಿಲ್ಲ.",
+      "translations": {
+        "en": "He would not agree to act in films of other languages.",
+        "hi": "अन्य भाषा की फिल्मों में अभिनय को सहमत नहीं हुए।"
+      },
+      "transliterations": {
+        "devanagari": "बेरॆ भाषॆय चित्रगळल्लि नटिसलु ऒप्पलिल्ल.",
+        "latin": "berè bhāṣèya citragaḻalli naṭisalu òppalilla."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "section": "exercise-D",
+      "text": "ಶ್ರದ್ಧೆಯಿದ್ದರೆ ಯಾವುದೂ ತೊಡಕಲ್ಲ.",
+      "translations": {
+        "en": "If there is faith, nothing is an obstacle.",
+        "hi": "श्रद्धा हो तो कोई अड़चन नहीं।"
+      },
+      "transliterations": {
+        "devanagari": "श्रद्धॆयिद्दरॆ यावुदू तॊडकल्ल.",
+        "latin": "śraddhèyiddarè yāvudū tòḍakalla."
+      },
+      "type": "question"
+    }
+  ]
+}

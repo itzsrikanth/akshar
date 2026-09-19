@@ -1,0 +1,1064 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) 'नन्न देवरु' पद्यवन्नु रागवागि हाडि:",
+      "en": "A) Sing the poem 'My God' melodiously:",
+      "hi": "अ) 'मेरा देवता' कविता को राग के साथ गाओ:",
+      "kn": "ಅ) 'ನನ್ನ ದೇವರು' ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಹಾಡಿ:",
+      "latin": "a) 'nanna dēvaru' padyavannu rāgavāgi hāḍi:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) ओंदु वाक्यदल्लि उत्तर हेळिरि:",
+      "en": "B) Answer in one sentence:",
+      "hi": "आ) एक वाक्य में उत्तर कहो:",
+      "kn": "ಆ) ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಹೇಳಿರಿ:",
+      "latin": "ā) ondu vākyadalli uttara hēḷiri:"
+    },
+    "exercise-C": {
+      "devanagari": "इ) प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तरिसि:",
+      "en": "C) Answer the questions in one sentence:",
+      "hi": "इ) प्रश्नों के उत्तर एक वाक्य में दो:",
+      "kn": "ಇ) ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ:",
+      "latin": "i) praśnegaḷige ondu vākyadalli uttarisi:"
+    },
+    "exercise-D": {
+      "devanagari": "ई) गुंपिगे सेरद पद गुरुतिसि बरेयिरि :",
+      "en": "D) Identify and write the word that does not belong to the group:",
+      "hi": "ई) समूह में न आने वाले शब्द को पहचानकर लिखो :",
+      "kn": "ಈ) ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಗುರುತಿಸಿ ಬರೆಯಿರಿ :",
+      "latin": "ī) gumpige sērada pada gurutisi bareyiri :"
+    },
+    "exercise-E": {
+      "devanagari": "उ) मादरियंते पद बरे :",
+      "en": "E) Write words as in the model:",
+      "hi": "उ) नमूने के अनुसार शब्द लिखो :",
+      "kn": "ಉ) ಮಾದರಿಯಂತೆ ಪದ ಬರೆ :",
+      "latin": "u) mādariyante pada bare :"
+    },
+    "exercise-F": {
+      "devanagari": "ऊ) ई कथेयन्नु ओदि कोट्टिरुव प्रश्नेगळिगे उत्तर बरेयिरि :",
+      "en": "F) Read this story and write answers to the given questions:",
+      "hi": "ऊ) इस कहानी को पढ़कर दिए गए प्रश्नों के उत्तर लिखो :",
+      "kn": "ಊ) ಈ ಕಥೆಯನ್ನು ಓದಿ ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಬರೆಯಿರಿ :",
+      "latin": "ū) ī katheyannu ōdi koṭṭiruva praśnegaḷige uttara bareyiri :"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "title": {
+      "devanagari": "नन्न देवरु",
+      "en": "My God",
+      "hi": "मेरा देवता",
+      "latin": "nanna dēvaru"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch08-nanna-devaru",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ನನ್ನ ದೇವರು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ನಿತ್ಯ ನಮಗೆ ಬೆಳಕು ಕೊಡುವ",
+      "translations": {
+        "en": "Who gives us light every day",
+        "hi": "नित्य हमें प्रकाश देने वाला"
+      },
+      "transliterations": {
+        "devanagari": "नित्य नमगे बेळकु कोडुव",
+        "latin": "nitya namage beḷaku koḍuva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಸೂರ್ಯ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the sun is my God",
+        "hi": "सूर्य मेरा देवता है"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य नन्न देवरु",
+        "latin": "sūrya nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ರಾತ್ರಿ ಹಾಲು ಬೆಳಕು ಕೊಡುವ",
+      "translations": {
+        "en": "Who gives milky light at night",
+        "hi": "रात में दूध-सा प्रकाश देने वाला"
+      },
+      "transliterations": {
+        "devanagari": "रात्रि हालु बेळकु कोडुव",
+        "latin": "rātri hālu beḷaku koḍuva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಚಂದ್ರ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the moon is my God",
+        "hi": "चंद्र मेरा देवता है"
+      },
+      "transliterations": {
+        "devanagari": "चंद्र नन्न देवरु",
+        "latin": "caṁdra nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಕೋಟಿ ತಾರೆ ಬೆಳ್ಳಿ ಚುಕ್ಕಿ",
+      "translations": {
+        "en": "Crores of stars, silver dots",
+        "hi": "करोड़ों तारे चाँदी की बिंदियाँ"
+      },
+      "transliterations": {
+        "devanagari": "कोटि तारे बेळ्ळि चुक्कि",
+        "latin": "kōṭi tāre beḷḷi cukki"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಉಲ್ಕೆ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the meteor is my God",
+        "hi": "उल्का मेरा देवता है"
+      },
+      "transliterations": {
+        "devanagari": "उल्के नन्न देवरु",
+        "latin": "ulke nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಬೆಂಕಿ ಗಾಳಿ ನೀರು ಗಗನ",
+      "translations": {
+        "en": "Fire, wind, water, sky",
+        "hi": "आग, हवा, जल, आकाश"
+      },
+      "transliterations": {
+        "devanagari": "बेंकि गाळि नीरु गगन",
+        "latin": "beṁki gāḷi nīru gagana"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಎಲ್ಲ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "all are my God",
+        "hi": "सब मेरे देवता हैं"
+      },
+      "transliterations": {
+        "devanagari": "एल्ल नन्न देवरु",
+        "latin": "ella nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಹಚ್ಚ ಹಸಿರು ಹೊದ್ದು ನಿಂತ",
+      "translations": {
+        "en": "Standing wrapped in deep green",
+        "hi": "गहरा हरा ओढ़कर खड़ी"
+      },
+      "transliterations": {
+        "devanagari": "हच्च हसिरु होद्दु निंत",
+        "latin": "hacca hasiru hoddu niṁta"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಭೂಮಿ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the earth is my God",
+        "hi": "भूमि मेरा देवता है"
+      },
+      "transliterations": {
+        "devanagari": "भूमि नन्न देवरु",
+        "latin": "bhūmi nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಗುಡ್ಡ - ಬೆಟ್ಟ ಕಾಡು ಮೇಡು",
+      "translations": {
+        "en": "Hills - mountains, forests, plains",
+        "hi": "पहाड़ - पर्वत, वन, मैदान"
+      },
+      "transliterations": {
+        "devanagari": "गुड्ड - बेट्ट काडु मेडु",
+        "latin": "guḍḍa - beṭṭa kāḍu mēḍu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಹೊಳೆಗಳೆನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the streams are my God",
+        "hi": "नदियाँ मेरे देवता हैं"
+      },
+      "transliterations": {
+        "devanagari": "होळेगळेन्न देवरु",
+        "latin": "hoḷegaḷenna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಹೊಲದಿ ಬೆವರು ಸುರಿಸಿ ದುಡಿವ",
+      "translations": {
+        "en": "Who toils shedding sweat in the field",
+        "hi": "खेत में पसीना बहाकर मेहनत करने वाला"
+      },
+      "transliterations": {
+        "devanagari": "होलदि बेवरु सुरिसि दुडिव",
+        "latin": "holadi bevaru surisi duḍiva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ರೈತ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the farmer is my God",
+        "hi": "किसान मेरा देवता है"
+      },
+      "transliterations": {
+        "devanagari": "रैत नन्न देवरु",
+        "latin": "raita nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ದೇಶಕಾಗಿ ಶ್ರಮಿಸುತಿರುವ",
+      "translations": {
+        "en": "Who strives for the country",
+        "hi": "देश के लिए परिश्रम करने वाला"
+      },
+      "transliterations": {
+        "devanagari": "देशकागि श्रमिसुतिरुव",
+        "latin": "dēśakāgi śramisutiruva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಯೋಧ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the soldier is my God",
+        "hi": "योद्धा मेरा देवता है"
+      },
+      "transliterations": {
+        "devanagari": "योध नन्न देवरु",
+        "latin": "yōdha nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ತಂದೆ - ತಾಯಿ ಬಂಧು ಬಳಗ-",
+      "translations": {
+        "en": "Father - mother, kin and clan-",
+        "hi": "पिता - माता, बंधु-बांधव-"
+      },
+      "transliterations": {
+        "devanagari": "तंदे - तायि बंधु बळग-",
+        "latin": "taṁde - tāyi baṁdhu baḷaga-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ವೆಲ್ಲ ನನ್ನ ದೇವರು",
+      "translations": {
+        "en": "all are my God",
+        "hi": "सब मेरे देवता हैं"
+      },
+      "transliterations": {
+        "devanagari": "वेल्ल नन्न देवरु",
+        "latin": "vella nanna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ವಿದ್ಯೆ ಕಲಿಸಿ ಹಿತವ ನುಡಿವ",
+      "translations": {
+        "en": "Who teach knowledge and speak kindly",
+        "hi": "विद्या सिखाकर हित की बात कहने वाले"
+      },
+      "transliterations": {
+        "devanagari": "विद्ये कलिसि हितव नुडिव",
+        "latin": "vidye kalisi hitava nuḍiva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಗುರುಗಳೆನ್ನ ದೇವರು",
+      "translations": {
+        "en": "the teachers are my God",
+        "hi": "गुरुजन मेरे देवता हैं"
+      },
+      "transliterations": {
+        "devanagari": "गुरुगळेन्न देवरु",
+        "latin": "gurugaḷenna dēvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "stanza": 6,
+      "text": "ನನ್ನ ದೇವರಿವರು ನಿತ್ಯ",
+      "translations": {
+        "en": "These gods of mine always",
+        "hi": "मेरे ये देवता नित्य"
+      },
+      "transliterations": {
+        "devanagari": "नन्न देवरिवरु नित्य",
+        "latin": "nanna dēvarivaru nitya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "stanza": 6,
+      "text": "ನನಗೆ ಕಾಣುತಿರುವರು",
+      "translations": {
+        "en": "are visible to me",
+        "hi": "मुझे दिखाई देते हैं"
+      },
+      "transliterations": {
+        "devanagari": "ननगे काणुतिरुवरु",
+        "latin": "nanage kāṇutiruvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "stanza": 6,
+      "text": "ಶುದ್ಧ ಮನದಿ ಬೇಡಿದುದನು",
+      "translations": {
+        "en": "What is asked with a pure mind",
+        "hi": "शुद्ध मन से जो माँगा"
+      },
+      "transliterations": {
+        "devanagari": "शुद्ध मनदि बेडिदुदनु",
+        "latin": "śuddha manadi bēḍidudanu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "stanza": 6,
+      "text": "ನೀಡಿ ಪೊರೆಯುತಿರುವರು",
+      "translations": {
+        "en": "they give and protect",
+        "hi": "देकर मेरी रक्षा करते हैं"
+      },
+      "transliterations": {
+        "devanagari": "नीडि पोरेयुतिरुवरु",
+        "latin": "nīḍi poreyutiruvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-nitya",
+      "text": "ನಿತ್ಯ",
+      "translations": {
+        "en": "always / daily",
+        "hi": "नित्य"
+      },
+      "transliterations": {
+        "devanagari": "नित्य",
+        "latin": "nitya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-surya",
+      "text": "ಸೂರ್ಯ",
+      "translations": {
+        "en": "sun",
+        "hi": "सूर्य"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य",
+        "latin": "sūrya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-belaku",
+      "text": "ಬೆಳಕು",
+      "translations": {
+        "en": "light",
+        "hi": "प्रकाश"
+      },
+      "transliterations": {
+        "devanagari": "बेळकु",
+        "latin": "beḷaku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-taare",
+      "text": "ತಾರೆ",
+      "translations": {
+        "en": "star",
+        "hi": "तारा"
+      },
+      "transliterations": {
+        "devanagari": "तारे",
+        "latin": "tāre"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-belli",
+      "text": "ಬೆಳ್ಳಿ",
+      "translations": {
+        "en": "silver",
+        "hi": "चाँदी"
+      },
+      "transliterations": {
+        "devanagari": "बेळ्ळि",
+        "latin": "beḷḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-benki",
+      "text": "ಬೆಂಕಿ",
+      "translations": {
+        "en": "fire",
+        "hi": "आग"
+      },
+      "transliterations": {
+        "devanagari": "बेंकि",
+        "latin": "beṁki"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ulke",
+      "text": "ಉಲ್ಕೆ",
+      "translations": {
+        "en": "meteor",
+        "hi": "उल्का"
+      },
+      "transliterations": {
+        "devanagari": "उल्के",
+        "latin": "ulke"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gaali",
+      "text": "ಗಾಳಿ",
+      "translations": {
+        "en": "wind",
+        "hi": "हवा"
+      },
+      "transliterations": {
+        "devanagari": "गाळि",
+        "latin": "gāḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gagana",
+      "text": "ಗಗನ",
+      "translations": {
+        "en": "sky",
+        "hi": "आकाश"
+      },
+      "transliterations": {
+        "devanagari": "गगन",
+        "latin": "gagana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-neeru",
+      "text": "ನೀರು",
+      "translations": {
+        "en": "water",
+        "hi": "जल"
+      },
+      "transliterations": {
+        "devanagari": "नीरु",
+        "latin": "nīru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hasiru",
+      "text": "ಹಸಿರು",
+      "translations": {
+        "en": "green",
+        "hi": "हरा"
+      },
+      "transliterations": {
+        "devanagari": "हसिरु",
+        "latin": "hasiru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hoddu",
+      "text": "ಹೊದ್ದು",
+      "translations": {
+        "en": "having covered / wrapped",
+        "hi": "ओढ़कर"
+      },
+      "transliterations": {
+        "devanagari": "होद्दु",
+        "latin": "hoddu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhumi",
+      "text": "ಭೂಮಿ",
+      "translations": {
+        "en": "earth",
+        "hi": "भूमि"
+      },
+      "transliterations": {
+        "devanagari": "भूमि",
+        "latin": "bhūmi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-guddabetta",
+      "text": "ಗುಡ್ಡಬೆಟ್ಟ",
+      "translations": {
+        "en": "hills and mountains",
+        "hi": "पहाड़-पर्वत"
+      },
+      "transliterations": {
+        "devanagari": "गुड्डबेट्ट",
+        "latin": "guḍḍabeṭṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raita",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "farmer",
+        "hi": "किसान"
+      },
+      "transliterations": {
+        "devanagari": "रैत",
+        "latin": "raita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaadumedu",
+      "text": "ಕಾಡುಮೇಡು",
+      "translations": {
+        "en": "forest and plain",
+        "hi": "वन-मैदान"
+      },
+      "transliterations": {
+        "devanagari": "काडुमेडु",
+        "latin": "kāḍumēḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hole",
+      "text": "ಹೊಳೆ",
+      "translations": {
+        "en": "stream",
+        "hi": "नदी / नाला"
+      },
+      "transliterations": {
+        "devanagari": "होळे",
+        "latin": "hoḷe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hola",
+      "text": "ಹೊಲ",
+      "translations": {
+        "en": "field",
+        "hi": "खेत"
+      },
+      "transliterations": {
+        "devanagari": "होल",
+        "latin": "hola"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bevaru",
+      "text": "ಬೆವರು",
+      "translations": {
+        "en": "sweat",
+        "hi": "पसीना"
+      },
+      "transliterations": {
+        "devanagari": "बेवरु",
+        "latin": "bevaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hita",
+      "text": "ಹಿತ",
+      "translations": {
+        "en": "welfare / kindness",
+        "hi": "हित"
+      },
+      "transliterations": {
+        "devanagari": "हित",
+        "latin": "hita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-desha",
+      "text": "ದೇಶ",
+      "translations": {
+        "en": "country",
+        "hi": "देश"
+      },
+      "transliterations": {
+        "devanagari": "देश",
+        "latin": "dēśa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shramisu",
+      "text": "ಶ್ರಮಿಸು",
+      "translations": {
+        "en": "to strive",
+        "hi": "परिश्रम करना"
+      },
+      "transliterations": {
+        "devanagari": "श्रमिसु",
+        "latin": "śramisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-yodha",
+      "text": "ಯೋಧ",
+      "translations": {
+        "en": "soldier",
+        "hi": "योद्धा"
+      },
+      "transliterations": {
+        "devanagari": "योध",
+        "latin": "yōdha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vidye",
+      "text": "ವಿದ್ಯೆ",
+      "translations": {
+        "en": "knowledge / learning",
+        "hi": "विद्या"
+      },
+      "transliterations": {
+        "devanagari": "विद्ये",
+        "latin": "vidye"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-nitya",
+      "text": "ನಿತ್ಯ",
+      "translations": {
+        "en": "always / daily",
+        "hi": "नित्य"
+      },
+      "transliterations": {
+        "devanagari": "नित्य",
+        "latin": "nitya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-nitya-def",
+      "text": "ಪ್ರತಿದಿನ, ಯಾವಾಗಲೂ",
+      "translations": {
+        "en": "every day, always",
+        "hi": "प्रतिदिन, हमेशा"
+      },
+      "transliterations": {
+        "devanagari": "प्रतिदिन, यावागलू",
+        "latin": "pratidina, yāvāgalū"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-taare",
+      "text": "ತಾರೆ",
+      "translations": {
+        "en": "star",
+        "hi": "तारा"
+      },
+      "transliterations": {
+        "devanagari": "तारे",
+        "latin": "tāre"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-taare-def",
+      "text": "ನಕ್ಷತ್ರ, ಚುಕ್ಕೆ",
+      "translations": {
+        "en": "star, speck",
+        "hi": "नक्षत्र, बिंदी"
+      },
+      "transliterations": {
+        "devanagari": "नक्षत्र, चुक्के",
+        "latin": "nakṣatra, cukke"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-gagana",
+      "text": "ಗಗನ",
+      "translations": {
+        "en": "sky",
+        "hi": "गगन"
+      },
+      "transliterations": {
+        "devanagari": "गगन",
+        "latin": "gagana"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-gagana-def",
+      "text": "ಆಕಾಶ",
+      "translations": {
+        "en": "sky / heavens",
+        "hi": "आकाश"
+      },
+      "transliterations": {
+        "devanagari": "आकाश",
+        "latin": "ākāśa"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-ulke",
+      "text": "ಉಲ್ಕೆ",
+      "translations": {
+        "en": "meteor",
+        "hi": "उल्का"
+      },
+      "transliterations": {
+        "devanagari": "उल्के",
+        "latin": "ulke"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ulke-def",
+      "text": "ಆಕಾಶಕಾಯ",
+      "translations": {
+        "en": "celestial body / meteor",
+        "hi": "आकाशकाय"
+      },
+      "transliterations": {
+        "devanagari": "आकाशकाय",
+        "latin": "ākāśakāya"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "'ನನ್ನ ದೇವರು' ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಹಾಡಿ:",
+      "translations": {
+        "en": "Sing the poem 'My God' melodiously:",
+        "hi": "कविता 'मेरा देवता' को राग के साथ गाओ:"
+      },
+      "transliterations": {
+        "devanagari": "'नन्न देवरु' पद्यवन्नु रागवागि हाडि:",
+        "latin": "'nanna dēvaru' padyavannu rāgavāgi hāḍi:"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ನಮಗೆ ಹಗಲಿನಲ್ಲಿ ಬೆಳಕನ್ನು ಕೊಡುವವನು ಯಾರು?",
+      "translations": {
+        "en": "Who gives us light during the day?",
+        "hi": "हमें दिन में प्रकाश कौन देता है?"
+      },
+      "transliterations": {
+        "devanagari": "नमगे हगलिनल्लि बेळकन्नु कोडुववनु यारु?",
+        "latin": "namage hagalinalli beḷakannu koḍuvavanu yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ರೈತ ಎಲ್ಲಿ ದುಡಿಯುತ್ತಾನೆ?",
+      "translations": {
+        "en": "Where does the farmer work?",
+        "hi": "किसान कहाँ मेहनत करता है?"
+      },
+      "transliterations": {
+        "devanagari": "रैत एल्लि दुडियुत्ताने?",
+        "latin": "raita elli duḍiyuttāne?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಯೋಧ ಏತಕ್ಕಾಗಿ ಶ್ರಮಿಸುತ್ತಿದ್ದಾನೆ?",
+      "translations": {
+        "en": "For what is the soldier striving?",
+        "hi": "योद्धा किसके लिए परिश्रम कर रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "योध एतक्कागि श्रमिसुत्तिद्दाने?",
+        "latin": "yōdha ētakkāgi śramisuttiddāne?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ರಾತ್ರಿವೇಳೆ ಬೆಳಕು ಕೊಡುವವನು ಯಾರು?",
+      "translations": {
+        "en": "Who gives light at night?",
+        "hi": "रात के समय प्रकाश कौन देता है?"
+      },
+      "transliterations": {
+        "devanagari": "रात्रिवेळे बेळकु कोडुववनु यारु?",
+        "latin": "rātrivēḷe beḷaku koḍuvavanu yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಭೂಮಿ ಏನನ್ನು ಹೊದ್ದು ನಿಂತಿದೆ?",
+      "translations": {
+        "en": "What has the earth wrapped itself in?",
+        "hi": "भूमि ने क्या ओढ़ रखा है?"
+      },
+      "transliterations": {
+        "devanagari": "भूमि एनन्नु होद्दु निंतिदे?",
+        "latin": "bhūmi ēnannu hoddu niṁtide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ವಿದ್ಯೆ ಕಲಿಸಿ ಯಾರು ಹಿತವ ನುಡಿವರು?",
+      "translations": {
+        "en": "Who teaches knowledge and speaks kindly?",
+        "hi": "विद्या सिखाकर हित की बात कौन कहते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "विद्ये कलिसि यारु हितव नुडिवरु?",
+        "latin": "vidye kalisi yāru hitava nuḍivaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಸೂರ್ಯ, ಚಂದ್ರ, ಗುಡ್ಡ, ನಕ್ಷತ್ರ .........................",
+      "translations": {
+        "en": "sun, moon, hill, star .........................",
+        "hi": "सूर्य, चंद्र, पहाड़, नक्षत्र ........................."
+      },
+      "transliterations": {
+        "devanagari": "सूर्य, चंद्र, गुड्ड, नक्षत्र .........................",
+        "latin": "sūrya, caṁdra, guḍḍa, nakṣatra ........................."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಬೆಳಕು, ಗಾಳಿ, ನೀರು, ರೈತ .........................",
+      "translations": {
+        "en": "light, wind, water, farmer .........................",
+        "hi": "प्रकाश, हवा, जल, किसान ........................."
+      },
+      "transliterations": {
+        "devanagari": "बेळकु, गाळि, नीरु, रैत .........................",
+        "latin": "beḷaku, gāḷi, nīru, raita ........................."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಮಾದರಿ: ಬೆಟ್ಟ - ಗುಡ್ಡ",
+      "translations": {
+        "en": "Model: mountain - hill",
+        "hi": "नमूना: पहाड़ - टीला"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: बेट्ट - गुड्ड",
+        "latin": "mādari: beṭṭa - guḍḍa"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ತಂದೆ - .........................",
+      "translations": {
+        "en": "father - .........................",
+        "hi": "पिता - ........................."
+      },
+      "transliterations": {
+        "devanagari": "तंदे - .........................",
+        "latin": "taṁde - ........................."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಕಾಡು - ........................",
+      "translations": {
+        "en": "forest - ........................",
+        "hi": "वन - ........................"
+      },
+      "transliterations": {
+        "devanagari": "काडु - ........................",
+        "latin": "kāḍu - ........................"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಬಂಧು - .........................",
+      "translations": {
+        "en": "relative - .........................",
+        "hi": "बंधु - ........................."
+      },
+      "transliterations": {
+        "devanagari": "बंधु - .........................",
+        "latin": "baṁdhu - ........................."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "story-n1",
+      "text": "ಒಬ್ಬ ಬೇಟೆಗಾರ ಹಕ್ಕಿಗಳಿಗಾಗಿ ಕಾಳು ಚೆಲ್ಲಿ ಬಲೆ ಬೀಸಿದನು. ಹಕ್ಕಿಗಳು ಕಾಳುಗಳನ್ನು ನೋಡಿದವು. ಆಸೆಯಿಂದ ಕಾಳು ತಿನ್ನಲು ಹೋದವು. ಕೆಲವು ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡವು. \"ಚಿಂವ್ ಚಿಂವ್\" ಎಂದು ಕೂಗಿಕೊಂಡವು. ಕೂಡಲೇ ಒಂದು ಉಪಾಯ ಮಾಡಿದವು. ಎಲ್ಲಾ ಹಕ್ಕಿಗಳು ಸೇರಿ ಬಲೆಯನ್ನು ಎತ್ತಿಕೊಂಡು ಮೇಲಕ್ಕೆ ಹಾರಿದವು. ಅನಂತರ ಬೇರೆಡೆಗೆ ಹೋಗಿ ಉಪಾಯವಾಗಿ ಬಲೆಯಿಂದ ಹೊರಬಂದವು.",
+      "translations": {
+        "en": "A hunter scattered grain and cast a net for birds. The birds saw the grains. Eagerly they went to eat the grain. Some got caught in the net. They cried \"chinw chinw\". At once they made a plan. All the birds together lifted the net and flew up. Afterwards they went elsewhere and cleverly came out of the net.",
+        "hi": "एक शिकारी पक्षियों के लिए अनाज बिखेरकर जाल बिछाया। पक्षियों ने अनाज देखा। लालच से अनाज खाने गए। कुछ जाल में फँस गए। \"चिंव् चिंव्\" कहकर चिल्लाए। तुरंत उन्होंने एक उपाय किया। सभी पक्षी मिलकर जाल उठाकर ऊपर उड़ गए। इसके बाद दूसरी जगह जाकर चतुराई से जाल से बाहर निकल आए।"
+      },
+      "transliterations": {
+        "devanagari": "ओब्ब बेटेगार हक्किगळिगागि काळु चेल्लि बले बीसिदनु. हक्किगळु काळुगळन्नु नोडिदवु. आसेयिंद काळु तिन्नलु होदवु. केलवु बलेयल्लि सिक्किकोंडवु. \"चिंव् चिंव्\" एंदु कूगिकोंडवु. कूडले ओंदु उपाय माडिदवु. एल्ला हक्किगळु सेरि बलेयन्नु एत्तिकोंडु मेलक्के हारिदवु. अनंतर बेरेडेगे होगि उपायवागि बलेयिंद होरबंदवु.",
+        "latin": "obba bēṭegāra hakkigaḷigāgi kāḷu celli bale bīsidanu. hakkigaḷu kāḷugaḷannu nōḍidavu. āseyiṁda kāḷu tinnalu hōdavu. kelavu baleyalli sikkikoṁḍavu. \"ciṁv ciṁv\" eṁdu kūgikoṁḍavu. kūḍalē oṁdu upāya māḍidavu. ellā hakkigaḷu sēri baleyannu ettikoṁḍu mēlakke hāridavu. anaṁtara bēreḍege hōgi upāyavāgi baleyiṁda horabaṁdavu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಬೇಟೆಗಾರ ಯಾವುದಕ್ಕಾಗಿ ಬಲೆ ಬೀಸಿದನು?",
+      "translations": {
+        "en": "For what did the hunter cast the net?",
+        "hi": "शिकारी ने किसके लिए जाल बिछाया?"
+      },
+      "transliterations": {
+        "devanagari": "बेटेगार यावुदक्कागि बले बीसिदनु?",
+        "latin": "bēṭegāra yāvudakkāgi bale bīsidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಎಲ್ಲಾ ಹಕ್ಕಿಗಳು ಸೇರಿ ಏನು ಮಾಡಿದವು?",
+      "translations": {
+        "en": "What did all the birds do together?",
+        "hi": "सभी पक्षियों ने मिलकर क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "एल्ला हक्किगळु सेरि एनु माडिदवु?",
+        "latin": "ellā hakkigaḷu sēri ēnu māḍidavu?"
+      },
+      "type": "question"
+    }
+  ]
+}

@@ -1,0 +1,1371 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "Saamarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ऒंदॊंदु वाक्यदल्लि उत्तर बरॆयिरि.",
+      "en": "Exercise A — Answer in a single sentence each.",
+      "hi": "अभ्यास अ — एक-एक वाक्य में उत्तर लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa a — omdomdu vaakyadalli uttara bareyiri."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — ऎरडु - मूरु वाक्यगळल्लि उत्तर बरॆयिरि.",
+      "en": "Exercise B — Answer in two to three sentences.",
+      "hi": "अभ्यास आ — दो-तीन वाक्यों में उत्तर लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಎರಡು - ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa aa — eradu - mooru vaakyagalalli uttara bareyiri."
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ — खालि बिट्टिरुव जागदल्लि सरियाद पद तुंबि.",
+      "en": "Exercise C — Fill in the blanks with the correct word.",
+      "hi": "अभ्यास इ — खाली जगह में सही शब्द भरिए।",
+      "kn": "ಅಭ್ಯಾಸ ಇ — ಖಾಲಿ ಬಿಟ್ಟಿರುವ ಜಾಗದಲ್ಲಿ ಸರಿಯಾದ ಪದ ತುಂಬಿ.",
+      "latin": "Abhyaasa i — khaali bittiruva jaagadalli sariyaada pada tumbi."
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई — कॊट्टिरुव वाक्यगळु सरि इद्दरॆ ✓ तप्पु इद्दरॆ ✗ गुरुतु हाकि.",
+      "en": "Exercise D — Mark ✓ if the given sentences are correct and ✗ if wrong.",
+      "hi": "अभ्यास ई — दिए गए वाक्य सही हों तो ✓ और गलत हों तो ✗ का निशान लगाइए।",
+      "kn": "ಅಭ್ಯಾಸ ಈ — ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳು ಸರಿ ಇದ್ದರೆ ✓ ತಪ್ಪು ಇದ್ದರೆ ✗ ಗುರುತು ಹಾಕಿ.",
+      "latin": "Abhyaasa ee — kottiruva vaakyagalu sari iddare ✓ tappu iddare ✗ gurutu haaki."
+    },
+    "exercise-E": {
+      "devanagari": "भाषाभ्यास अ — मादरियंतॆ लिंग बदलिसि बरॆयिरि.",
+      "en": "Language Exercise A — Change the gender and write as shown in the example.",
+      "hi": "भाषाभ्यास अ — उदाहरण के अनुसार लिंग बदलकर लिखिए।",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಅ — ಮಾದರಿಯಂತೆ ಲಿಂಗ ಬದಲಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "Bhaashaabhyaasa a — maadariyamte limga badalisi bareyiri."
+    },
+    "exercise-F": {
+      "devanagari": "भाषाभ्यास आ — मादरियल्लि सूचिसिरुवंतॆ सूक्त पद बरॆयिरि.",
+      "en": "Language Exercise B — Write the appropriate word as indicated in the example.",
+      "hi": "भाषाभ्यास आ — उदाहरण में बताए अनुसार उचित शब्द लिखिए।",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಆ — ಮಾದರಿಯಲ್ಲಿ ಸೂಚಿಸಿರುವಂತೆ ಸೂಕ್ತ ಪದ ಬರೆಯಿರಿ.",
+      "latin": "Bhaashaabhyaasa aa — maadariyalli soochisiruvamte sookta pada bareyiri."
+    },
+    "exercise-G": {
+      "devanagari": "भाषाभ्यास इ — गुंपिगॆ सेरद पद आरिसि बरॆ.",
+      "en": "Language Exercise C — Choose and write the word that does not belong to the group.",
+      "hi": "भाषाभ्यास इ — समूह से अलग शब्द चुनकर लिखिए।",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಇ — ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಆರಿಸಿ ಬರೆ.",
+      "latin": "Bhaashaabhyaasa i — gumpige serada pada aarisi bare."
+    },
+    "exercise-H": {
+      "devanagari": "भाषाभ्यास ई — ई पदगळन्नु उपयोगिसि स्वंत वाक्य रचिसु.",
+      "en": "Language Exercise D — Construct your own sentences using these words.",
+      "hi": "भाषाभ्यास ई — इन शब्दों का प्रयोग कर अपने वाक्य बनाइए।",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ ಈ — ಈ ಪದಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಸ್ವಂತ ವಾಕ್ಯ ರಚಿಸು.",
+      "latin": "Bhaashaabhyaasa ee — ee padagalannu upayoogisi svamta vaakya rachisu."
+    },
+    "exercise-I": {
+      "devanagari": "बळकॆ चटुवटिकॆ",
+      "en": "Usage Activity",
+      "hi": "उपयोग गतिविधि",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ",
+      "latin": "Balake chatuvatike"
+    },
+    "intro": {
+      "devanagari": "कलिकॆगॆ दारि",
+      "en": "Path to Learning",
+      "hi": "सीखने का मार्ग",
+      "kn": "ಕಲಿಕೆಗೆ ದಾರಿ",
+      "latin": "Kalikege daari"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "story": {
+      "devanagari": "पत्र",
+      "en": "Letter",
+      "hi": "पत्र",
+      "kn": "ಪತ್ರ",
+      "latin": "Patra"
+    },
+    "title": {
+      "devanagari": "तायिगॊंदु पत्र",
+      "en": "A Letter to Mother",
+      "hi": "माँ को एक पत्र",
+      "kn": "ತಾಯಿಗೊಂದು ಪತ್ರ",
+      "latin": "Taayigomdu patra"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Meanings of Words",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 4,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "Karnataka Textbook Society",
+    "slug": "ch08-taayigondu-patra",
+    "source_url": "https://diksha.gov.in/dial/B5V6X7",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ತಾಯಿಗೊಂದು ಪತ್ರ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ನಿನಗಿಷ್ಟವಾದ ಒಂದು ಪ್ರಾಣಿಯ ಬಗ್ಗೆ ನಾಲ್ಕೈದು ವಾಕ್ಯ ಬರೆದು ಸ್ನೇಹಿತನಿಂದ ಓದಿಸು.",
+      "translations": {
+        "en": "Write four or five sentences about an animal you like and have a friend read it.",
+        "hi": "अपने किसी पसंदीदा जानवर के बारे में चार-पाँच वाक्य लिखकर अपने दोस्त से पढ़वाओ।"
+      },
+      "transliterations": {
+        "devanagari": "निनगिष्टवाद ऒंदु प्राणिय बग्गॆ नाल्कैदु वाक्य बरॆदु स्नेहितनिंद ओदिसु.",
+        "latin": "Ninagishtavaada omdu praaniya bagge naalkaidu vaakya baredu snehitanimda oodisu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಕ್ಷೇಮ",
+      "translations": {
+        "en": "Safe",
+        "hi": "कुशल"
+      },
+      "transliterations": {
+        "devanagari": "क्षेम",
+        "latin": "Kshema"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಶ್ರೀ",
+      "translations": {
+        "en": "Shri",
+        "hi": "श्री"
+      },
+      "transliterations": {
+        "devanagari": "श्री",
+        "latin": "Shree"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "9ನೆಯ ಅಕ್ಟೋಬರ್-2024",
+      "translations": {
+        "en": "9th October-2024",
+        "hi": "9 अक्टूबर-2024"
+      },
+      "transliterations": {
+        "devanagari": "9नॆय अक्टोबर्-2024",
+        "latin": "9neya aktoobar-2024"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಬಸವನ ಬಾಗೇವಾಡಿ",
+      "translations": {
+        "en": "Basavana Bagewadi",
+        "hi": "बसवना बागेवाड़ी"
+      },
+      "transliterations": {
+        "devanagari": "बसवन बागेवाडि",
+        "latin": "Basavana baagevaadi"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಪ್ರೀತಿಯ ಅಮ್ಮನಿಗೆ ನಿಮ್ಮ ಮಗನಾದ ಉಲ್ಲಾಸ ಬೇಡುವ ಆಶೀರ್ವಾದಗಳು. ನಾನು, ಅಜ್ಜ, ಅಜ್ಜಿ, ಮಾವಂದಿರು, ತೇಜಸ್ವಿನಿ ಹಾಗೂ ಧನುಷ ಎಲ್ಲರೂ ಕ್ಷೇಮವಾಗಿದ್ದೇವೆ. ನಿಮ್ಮೆಲ್ಲರ ಕ್ಷೇಮ ಸಮಾಚಾರಕ್ಕಾಗಿ ಈ ಕಾಗದ ತಲುಪಿದ ಕೂಡಲೇ ಕಾಗದ ಬರೆಯುತ್ತೀರೆಂದು ನಂಬಿರುತ್ತೇನೆ.",
+      "translations": {
+        "en": "To dear mother, your son Ullasa seeks your blessings. I, grandfather, grandmother, uncles, Tejaswini, and Dhanusha are all doing well. I hope you will write a letter as soon as this letter reaches you to let us know that you all are well.",
+        "hi": "प्यारी माँ को आपके बेटे उल्लास का प्रणाम। मैं, दादाजी, दादीजी, मामाजी, तेजस्विनी और धनुष सभी यहाँ कुशल-मंगल हैं। आप सभी की कुशलता जानने के लिए, मुझे विश्वास है कि यह पत्र मिलते ही आप पत्र लिखेंगी।"
+      },
+      "transliterations": {
+        "devanagari": "प्रीतिय अम्मनिगॆ निम्म मगनाद उल्लास बेडुव आशीर्वादगळु. नानु, अज्ज, अज्जि, मावंदिरु, तेजस्विनि हागू धनुष ऎल्लरू क्षेमवागिद्देवॆ. निम्मॆल्लर क्षेम समाचारक्कागि ई कागद तलुपिद कूडले कागद बरॆयुत्तीरॆंदु नंबिरुत्तेनॆ.",
+        "latin": "Preetiya ammanige nimma maganaada ullaasa beduva aasheervaadagalu. naanu, ajja, ajji, maavamdiru, tejasvini haagoo dhanusha ellaroo kshemavaagiddeve. nimmellara kshema samaachaarakkaagi ee kaagada talupida koodale kaagada bareyutteeremdu nambiruttene."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಅಮ್ಮ, ಈ ದಸರೆ ರಜೆಯಲ್ಲಿ ಅಜ್ಜ ನಮ್ಮನ್ನು ಮೈಸೂರು ದಸರೆಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದರು. ದಸರೆ ಮೆರವಣಿಗೆಯಲ್ಲಿನ ಸ್ತಬ್ಧ ಚಿತ್ರಗಳು, ಕಲಾ ತಂಡಗಳ ಪ್ರದರ್ಶನಗಳು ಆಕರ್ಷಕವಾಗಿದ್ದವು. ಆನೆ ಮೇಲೆ ಅಂಬಾರಿಯಲ್ಲಿದ್ದ ಚಾಮುಂಡೇಶ್ವರಿ ದೇವಿ ನೋಡಿ ತುಂಬಾ ಸಂತೋಷವಾಯಿತು. ಸಂಜೆ ನೋಡಿದ ಪಂಜಿನ ಕವಾಯತು ಈಗಲೂ ಕಣ್ಣಿಗೆ ಕಟ್ಟಿದಂತಿದೆ.",
+      "translations": {
+        "en": "Mother, during these Dasara holidays, grandfather took us to the Mysore Dasara. The tableaux in the Dasara procession and the performances by art troupes were attractive. I was very happy to see Goddess Chamundeshwari in the howdah on the elephant. The torchlight parade we saw in the evening is still fresh in my eyes.",
+        "hi": "माँ, इस दशहरा की छुट्टियों में दादाजी हमें मैसूर दशहरा दिखाने ले गए थे। दशहरा जुलूस में झांकियाँ और कला मंडलियों के प्रदर्शन बहुत आकर्षक थे। हाथी पर हौदे में विराजमान चामुंडेश्वरी देवी को देखकर बहुत खुशी हुई। शाम को देखी गई मशाल परेड अब भी आँखों के सामने है।"
+      },
+      "transliterations": {
+        "devanagari": "अम्म, ई दसरॆ रजॆयल्लि अज्ज नम्मन्नु मैसूरु दसरॆगॆ करॆदुकॊंडु होगिद्दरु. दसरॆ मॆरवणिगॆयल्लिन स्तब्ध चित्रगळु, कला तंडगळ प्रदर्शनगळु आकर्षकवागिद्दवु. आनॆ मेलॆ अंबारियल्लिद्द चामुंडेश्वरि देवि नोडि तुंबा संतोषवायितु. संजॆ नोडिद पंजिन कवायतु ईगलू कण्णिगॆ कट्टिदंतिदॆ.",
+        "latin": "Amma, ee dasare rajeyalli ajja nammannu maisooru dasarege karedukomdu hoogiddaru. dasare meravanigeyallina stabdha chitragalu, kalaa tamdagala pradarshanagalu aakarshakavaagiddavu. aane mele ambaariyallidda chaamumdeshvari devi noodi tumbaa samtooshavaayitu. samje noodida pamjina kavaayatu eegaloo kannige kattidamtide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ದಸರೆ ಮುಗಿದ ಮರುದಿನ ಚಾಮುಂಡಿಬೆಟ್ಟಕ್ಕೆ ಹೋಗಿ ದೇವಿಗೆ ಪೂಜೆ ಮಾಡಿಸಿದೆವು. ಅಜ್ಜಿ ನನಗೆ ಮತ್ತು ಧನುಷನಿಗೆ ಆಟದ ಸಾಮಾನು ಕೊಡಿಸಿದರು. ತೇಜಸ್ವಿನಿ ಅಕ್ಕನಿಗೆ ಸರ, ಬಳೆ ಕೊಡಿಸಿದರು. ಅಲ್ಲಿಂದ ನಗರ ಸಾರಿಗೆ ಬಸ್ಸು ಹತ್ತಿ ಪ್ರಾಣಿ ಸಂಗ್ರಹಾಲಯಕ್ಕೆ ಬಂದೆವು.",
+      "translations": {
+        "en": "The day after Dasara, we went to Chamundi Hill and offered prayers to the Goddess. Grandmother bought toys for me and Dhanusha. She bought a necklace and bangles for sister Tejaswini. From there, we boarded a city bus and came to the zoo.",
+        "hi": "दशहरा खत्म होने के अगले दिन हम चामुंडी पहाड़ी गए और देवी की पूजा की। दादीजी ने मेरे और धनुष के लिए खिलौने खरीदे। तेजस्विनी दीदी के लिए हार और चूड़ियाँ खरीदीं। वहाँ से हम सिटी बस में चढ़कर चिड़ियाघर आ गए।"
+      },
+      "transliterations": {
+        "devanagari": "दसरॆ मुगिद मरुदिन चामुंडिबॆट्टक्कॆ होगि देविगॆ पूजॆ माडिसिदॆवु. अज्जि ननगॆ मत्तु धनुषनिगॆ आटद सामानु कॊडिसिदरु. तेजस्विनि अक्कनिगॆ सर, बळॆ कॊडिसिदरु. अल्लिंद नगर सारिगॆ बस्सु हत्ति प्राणि संग्रहालयक्कॆ बंदॆवु.",
+        "latin": "Dasare mugida marudina chaamumdibettakke hoogi devige pooje maadisidevu. ajji nanage mattu dhanushanige aatada saamaanu kodisidaru. tejasvini akkanige sara, bale kodisidaru. allimda nagara saarige bassu hatti praani samgrahaalayakke bamdevu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಶ್ರೀ ಜಯಚಾಮರಾಜೇಂದ್ರ ಮೃಗಾಲಯದಲ್ಲಿ ವಿವಿಧ ರೀತಿಯ ಪಕ್ಷಿಗಳನ್ನು ನೋಡಿದೆವು. ಬಣ್ಣ ಬಣ್ಣದ ಹಕ್ಕಿಗಳು ಅವುಗಳ 'ಚಿಂವ್ ಚಿಂವ್' ಧ್ವನಿ ಕೇಳಲು ಸುಮಧುರವಾಗಿತ್ತು. ಅಲ್ಲಿಂದ ಮುಂದೆ ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಮುಖದ ಕೋತಿಗಳನ್ನು ಕಂಡೆವು. ಧನುಷನು ಅವುಗಳಿಗೆ ತಿಂಡಿ ಪದಾರ್ಥ ಕೊಡುವುದನ್ನು ನೋಡಿದ ಕಾವಲುಗಾರ 'ಹಾಗೆ ಮಾಡಬಾರದು' ಎಂದನು. ಅಲ್ಲಲ್ಲಿ ಬರೆದು ಹಾಕಿರುವ 'ಮುಟ್ಟಬೇಡಿ', 'ಪ್ರಾಣಿಗಳಿಗೆ ತಿಂಡಿ ಪದಾರ್ಥ ಕೊಡಬೇಡಿ' ಎಂಬ ಸೂಚನಾ ಫಲಕಗಳನ್ನು ನೋಡಿ ಎಂದು ತೋರಿಸಿದನು. ಅದೇ ಸಮಯದಲ್ಲಿ ಸಿಂಹ ಘರ್ಜಿಸಿ ನಮ್ಮನ್ನು ಆ ಕಡೆಗೆ ಸೆಳೆಯಿತು. ಮಾವನವರು 'ಗಲಾಟೆ ಮಾಡದೆ ಮೌನವಾಗಿ ಬನ್ನಿ' ಎಂದರು.",
+      "translations": {
+        "en": "We saw various kinds of birds at the Sri Chamarajendra Zoological Gardens. The colorful birds and their 'chirp chirp' sounds were very sweet to hear. Moving forward from there, we saw red and black-faced monkeys. Seeing Dhanusha offering snacks to them, the guard said, 'You should not do that.' He pointed to the signboards put up here and there saying, 'Do not touch', 'Do not feed the animals', and told us to read them. At the same time, a lion roared and drew our attention towards it. Uncle said, 'Come quietly without making noise.'",
+        "hi": "श्री जयचामराजेंद्र चिड़ियाघर में हमने विभिन्न प्रकार के पक्षी देखे। रंग-बिरंगे पक्षियों की 'चीं-चीं' की आवाज़ सुनने में बहुत मीठी लग रही थी। वहाँ से आगे हमने लाल और काले मुँह वाले बंदर देखे। धनुष को उन्हें खाने की चीज़ें देते देख गार्ड ने कहा, 'ऐसा नहीं करना चाहिए।' उसने जगह-जगह लगे 'छूना मना है', 'जानवरों को खाने की चीज़ें न दें' जैसे सूचना बोर्ड दिखाए और पढ़ने को कहा। उसी समय एक शेर दहाड़ा और हमारा ध्यान अपनी ओर खींचा। मामाजी ने कहा, 'शोर किए बिना चुपचाप आओ।'"
+      },
+      "transliterations": {
+        "devanagari": "श्री जयचामराजेंद्र मृगालयदल्लि विविध रीतिय पक्षिगळन्नु नोडिदॆवु. बण्ण बण्णद हक्किगळु अवुगळ 'चिंव् चिंव्' ध्वनि केळलु सुमधुरवागित्तु. अल्लिंद मुंदॆ कॆंपु मत्तु कप्पु मुखद कोतिगळन्नु कंडॆवु. धनुषनु अवुगळिगॆ तिंडि पदार्थ कॊडुवुदन्नु नोडिद कावलुगार 'हागॆ माडबारदु' ऎंदनु. अल्लल्लि बरॆदु हाकिरुव 'मुट्टबेडि', 'प्राणिगळिगॆ तिंडि पदार्थ कॊडबेडि' ऎंब सूचना फलकगळन्नु नोडि ऎंदु तोरिसिदनु. अदे समयदल्लि सिंह घर्जिसि नम्मन्नु आ कडॆगॆ सॆळॆयितु. मावनवरु 'गलाटॆ माडदॆ मौनवागि बन्नि' ऎंदरु.",
+        "latin": "Shree jayachaamaraajemdra mrugaalayadalli vividha reetiya pakshigalannu noodidevu. banna bannada hakkigalu avugala 'chimv chimv' dhvani kelalu sumadhuravaagittu. allimda mumde kempu mattu kappu mukhada kootigalannu kamdevu. dhanushanu avugalige timdi padaartha koduvudannu noodida kaavalugaara 'haage maadabaaradu' emdanu. allalli baredu haakiruva 'muttabedi', 'praanigalige timdi padaartha kodabedi' emba soochanaa phalakagalannu noodi emdu toorisidanu. ade samayadalli simha gharjisi nammannu aa kadege seleyitu. maavanavaru 'galaate maadade maunavaagi banni' emdaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n9",
+      "section": "story",
+      "text": "ನಾವು ಶೇಂಗಾ ತಿನ್ನುತ್ತಾ ಒಂದು ಕಡೆಯಿಂದ ಆನೆ, ಜಿಂಕೆ ಹಿಂಡು, ಹುಲಿ, ಚಿರತೆ, ಸಿಂಹ, ಘೇಂಡಾಮೃಗ ನೋಡಿ ಖುಷಿಪಟ್ಟೆವು. ಪಕ್ಕದ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಕಾಡು ಮನುಷ್ಯ ನಮ್ಮ ಹಾಗೇ ನಡೆದಾಡುತ್ತಿತ್ತು. ಮುಂದೆ ಹಾವುಗಳ ಸಾಮ್ರಾಜ್ಯ. ಅಲ್ಲಿ ಕಾಳಿಂಗ ಸರ್ಪ, ಹೆಬ್ಬಾವು ಮುಂತಾದ ಬೇರೆಬೇರೆ ಜಾತಿಯ ಹಾವುಗಳನ್ನು ಕಂಡು ಮೈ ಜುಮ್! ಎಂದಿತು. 'ಈ ಹಾವುಗಳನ್ನು ಎಲ್ಲಿಂದ ತಂದದ್ದು?' ಎಂದಾಗ, ಅಲ್ಲಿದ್ದ ಕಾವಲುಗಾರ 'ಬಂಡೀಪುರದ ಕಾಡಿನಿಂದ' ಎಂದನು. ಅಲ್ಲಿಂದ ಮುಂದೆ ಜಿರಾಫೆ ನೋಡಿದೆವು. ಅದು ತನ್ನ ಮರಿಗೆ ಹಾಲು ಉಣಿಸುತ್ತಿತ್ತು. ಜಿರಾಫೆಯ ಕತ್ತು ನೋಡಿ ಆಶ್ಚರ್ಯವಾಯಿತು. ಅಲ್ಲಿಯೇ ಇದ್ದ ವಸ್ತು ಸಂಗ್ರಹಾಲಯಕ್ಕೆ ಭೇಟಿ ನೀಡಿದೆವು. ಅಲ್ಲಿಟ್ಟಿದ್ದ ಪ್ರಾಣಿಗಳ ಮಾದರಿಗಳು ನಿಜವಾದ ಪ್ರಾಣಿಗಳೇ ಎಂಬಂತಿದ್ದವು. ಇವೆಲ್ಲವನ್ನು ನೋಡುವಷ್ಟರಲ್ಲಿ ಸಂಜೆ ಆಯಿತು.",
+      "translations": {
+        "en": "Eating peanuts, we happily saw the elephant, herd of deer, tiger, leopard, lion, and rhinoceros one by one. On the branch of a nearby tree, an ape was walking just like us. Next was the kingdom of snakes. Seeing different species of snakes like the king cobra and python there gave us goosebumps! When asked, 'Where were these snakes brought from?', the guard there said, 'From the Bandipur forest.' Moving forward from there, we saw a giraffe. It was feeding milk to its calf. We were surprised to see the giraffe's neck. We visited the museum located right there. The animal models kept there looked like real animals. By the time we saw all this, it was evening.",
+        "hi": "हम मूंगफली खाते हुए एक तरफ से हाथी, हिरणों का झुंड, बाघ, तेंदुआ, शेर और गैंडा देखकर बहुत खुश हुए। पास के एक पेड़ की डाल पर एक वनमानुष हमारी तरह ही चल रहा था। आगे साँपों का साम्राज्य था। वहाँ किंग कोबरा, अजगर जैसे अलग-अलग प्रजातियों के साँपों को देखकर रोंगटे खड़े हो गए! जब पूछा, 'इन साँपों को कहाँ से लाया गया है?', तो वहाँ मौजूद गार्ड ने कहा, 'बांदीपुर के जंगल से।' वहाँ से आगे हमने जिराफ़ देखा। वह अपने बच्चे को दूध पिला रहा था। जिराफ़ की गर्दन देखकर आश्चर्य हुआ। हम वहीं स्थित संग्रहालय भी गए। वहाँ रखे जानवरों के मॉडल असली जानवरों जैसे ही लग रहे थे। यह सब देखते-देखते शाम हो गई।"
+      },
+      "transliterations": {
+        "devanagari": "नावु शेंगा तिन्नुत्ता ऒंदु कडॆयिंद आनॆ, जिंकॆ हिंडु, हुलि, चिरतॆ, सिंह, घेंडामृग नोडि खुषिपट्टॆवु. पक्कद मरद कॊंबॆय मेलॆ काडु मनुष्य नम्म हागे नडॆदाडुत्तित्तु. मुंदॆ हावुगळ साम्राज्य. अल्लि काळिंग सर्प, हॆब्बावु मुंताद बेरॆबेरॆ जातिय हावुगळन्नु कंडु मै जुम्! ऎंदितु. 'ई हावुगळन्नु ऎल्लिंद तंदद्दु?' ऎंदाग, अल्लिद्द कावलुगार 'बंडीपुरद काडिनिंद' ऎंदनु. अल्लिंद मुंदॆ जिराफॆ नोडिदॆवु. अदु तन्न मरिगॆ हालु उणिसुत्तित्तु. जिराफॆय कत्तु नोडि आश्चर्यवायितु. अल्लिये इद्द वस्तु संग्रहालयक्कॆ भेटि नीडिदॆवु. अल्लिट्टिद्द प्राणिगळ मादरिगळु निजवाद प्राणिगळे ऎंबंतिद्दवु. इवॆल्लवन्नु नोडुवष्टरल्लि संजॆ आयितु.",
+        "latin": "Naavu shemgaa tinnuttaa omdu kadeyimda aane, jimke himdu, huli, chirate, simha, ghemdaamruga noodi khushipattevu. pakkada marada kombeya mele kaadu manushya namma haage nadedaaduttittu. mumde haavugala saamraajya. alli kaalimga sarpa, hebbaavu mumtaada berebere jaatiya haavugalannu kamdu mai jum! emditu. 'ee haavugalannu ellimda tamdaddu?' emdaaga, allidda kaavalugaara 'bamdeepurada kaadinimda' emdanu. allimda mumde jiraaphe noodidevu. adu tanna marige haalu unisuttittu. jiraapheya kattu noodi aashcharyavaayitu. alliye idda vastu samgrahaalayakke bheti needidevu. allittidda praanigala maadarigalu nijavaada praanigale embamtiddavu. ivellavannu nooduvashtaralli samje aayitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n10",
+      "section": "story",
+      "text": "ಆಮೇಲೆ ಅರಮನೆಯನ್ನು ನೋಡಿಕೊಂಡು ಊರಿಗೆ ಹಿಂದಿರುಗಿದೆವು.",
+      "translations": {
+        "en": "Afterwards, we saw the palace and returned to our town.",
+        "hi": "उसके बाद हमने महल देखा और अपने शहर लौट आए।"
+      },
+      "transliterations": {
+        "devanagari": "आमेलॆ अरमनॆयन्नु नोडिकॊंडु ऊरिगॆ हिंदिरुगिदॆवु.",
+        "latin": "Aamele aramaneyannu noodikomdu oorige himdirugidevu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n11",
+      "section": "story",
+      "text": "ಅಮ್ಮ, ಬಹಳ ಸಂತೋಷವಾಯಿತು. ನಾನು ಊರಿಗೆ ಬಂದಾಗ ಎಲ್ಲರೂ ಮತ್ತೊಮ್ಮೆ ಮೈಸೂರಿಗೆ ಹೋಗೋಣ.",
+      "translations": {
+        "en": "Mother, I was very happy. When I come to our town, let's all go to Mysore once again.",
+        "hi": "माँ, बहुत खुशी हुई। जब मैं शहर आऊँगा, तो हम सब एक बार फिर मैसूर चलेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "अम्म, बहळ संतोषवायितु. नानु ऊरिगॆ बंदाग ऎल्लरू मत्तॊम्मॆ मैसूरिगॆ होगोण.",
+        "latin": "Amma, bahala samtooshavaayitu. naanu oorige bamdaaga ellaroo mattomme maisoorige hoogoona."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n12",
+      "section": "story",
+      "text": "ತುಂಬಾ ಖುಷಿಯಿಂದ ಈ ಕಾಗದ ಬರೆದಿರುತ್ತೇನೆ. ಎಲ್ಲರಿಗೂ ನನ್ನ ನಮಸ್ಕಾರಗಳನ್ನು ತಿಳಿಸಿ.",
+      "translations": {
+        "en": "I am writing this letter with great joy. Convey my regards to everyone.",
+        "hi": "मैं बहुत खुशी से यह पत्र लिख रहा हूँ। सभी को मेरा नमस्कार कहिएगा।"
+      },
+      "transliterations": {
+        "devanagari": "तुंबा खुषियिंद ई कागद बरॆदिरुत्तेनॆ. ऎल्लरिगू नन्न नमस्कारगळन्नु तिळिसि.",
+        "latin": "Tumbaa khushiyimda ee kaagada barediruttene. ellarigoo nanna namaskaaragalannu tilisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n13",
+      "section": "story",
+      "text": "ಇತಿ ನಿಮ್ಮ ಪ್ರೀತಿಯ ಮಗ",
+      "translations": {
+        "en": "Yours lovingly, your son",
+        "hi": "आपका प्यारा बेटा"
+      },
+      "transliterations": {
+        "devanagari": "इति निम्म प्रीतिय मग",
+        "latin": "Iti nimma preetiya maga"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n14",
+      "section": "story",
+      "text": "ಉಲ್ಲಾಸ",
+      "translations": {
+        "en": "Ullasa",
+        "hi": "उल्लास"
+      },
+      "transliterations": {
+        "devanagari": "उल्लास",
+        "latin": "Ullaasa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n15",
+      "section": "story",
+      "text": "ಇವರಿಗೆ,",
+      "translations": {
+        "en": "To,",
+        "hi": "सेवा में,"
+      },
+      "transliterations": {
+        "devanagari": "इवरिगॆ,",
+        "latin": "Ivarige,"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n16",
+      "section": "story",
+      "text": "ಶ್ರೀಮತಿ ಸಂಪಿಗೆ",
+      "translations": {
+        "en": "Mrs. Sampige",
+        "hi": "श्रीमती संपिगे"
+      },
+      "transliterations": {
+        "devanagari": "श्रीमति संपिगॆ",
+        "latin": "Shreemati sampige"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n17",
+      "section": "story",
+      "text": "ಕಸ್ತೂರಿ ನಿವಾಸ",
+      "translations": {
+        "en": "Kasturi Nivas",
+        "hi": "कस्तूरी निवास"
+      },
+      "transliterations": {
+        "devanagari": "कस्तूरि निवास",
+        "latin": "Kastoori nivaasa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n18",
+      "section": "story",
+      "text": "ಯಳಂದೂರು ತಾಲೂಕು-571441",
+      "translations": {
+        "en": "Yelandur Taluk-571441",
+        "hi": "यलंदूर तालुक-571441"
+      },
+      "transliterations": {
+        "devanagari": "यळंदूरु तालूकु-571441",
+        "latin": "Yalamdooru taalooku-571441"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-samachara",
+      "text": "ಸಮಾಚಾರ",
+      "translations": {
+        "en": "Samachara",
+        "hi": "समाचार"
+      },
+      "transliterations": {
+        "devanagari": "समाचार",
+        "latin": "Samaachaara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-samachara-def",
+      "ref": "vocab-samachara",
+      "text": "ವಿಷಯ, ಸಂಗತಿ",
+      "translations": {
+        "en": "News, matter",
+        "hi": "विषय, बात"
+      },
+      "transliterations": {
+        "devanagari": "विषय, संगति",
+        "latin": "Vishaya, samgati"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-stabdachitra",
+      "text": "ಸ್ತಬ್ಧಚಿತ್ರ",
+      "translations": {
+        "en": "Stabdachitra",
+        "hi": "स्तब्धचित्र"
+      },
+      "transliterations": {
+        "devanagari": "स्तब्धचित्र",
+        "latin": "Stabdhachitra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-stabdachitra-def",
+      "ref": "vocab-stabdachitra",
+      "text": "ನಿಶ್ಚಲವಾದ ಚಿತ್ರ, ಆಕೃತಿ",
+      "translations": {
+        "en": "Still picture, figure (tableau)",
+        "hi": "स्थिर चित्र, झाँकी"
+      },
+      "transliterations": {
+        "devanagari": "निश्चलवाद चित्र, आकृति",
+        "latin": "Nishchalavaada chitra, aakruti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tanda",
+      "text": "ತಂಡ",
+      "translations": {
+        "en": "Tanda",
+        "hi": "तंड"
+      },
+      "transliterations": {
+        "devanagari": "तंड",
+        "latin": "Tamda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tanda-def",
+      "ref": "vocab-tanda",
+      "text": "ಗುಂಪು, ಸಮೂಹ",
+      "translations": {
+        "en": "Group, crowd",
+        "hi": "समूह, मंडली"
+      },
+      "transliterations": {
+        "devanagari": "गुंपु, समूह",
+        "latin": "Gumpu, samooha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhvani",
+      "text": "ಧ್ವನಿ",
+      "translations": {
+        "en": "Dhvani",
+        "hi": "ध्वनि"
+      },
+      "transliterations": {
+        "devanagari": "ध्वनि",
+        "latin": "Dhvani"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhvani-def",
+      "ref": "vocab-dhvani",
+      "text": "ದನಿ, ಸ್ವರ",
+      "translations": {
+        "en": "Voice, tone",
+        "hi": "आवाज़, स्वर"
+      },
+      "transliterations": {
+        "devanagari": "दनि, स्वर",
+        "latin": "Dani, svara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sumadhura",
+      "text": "ಸುಮಧುರ",
+      "translations": {
+        "en": "Sumadhura",
+        "hi": "सुमधुर"
+      },
+      "transliterations": {
+        "devanagari": "सुमधुर",
+        "latin": "Sumadhura"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sumadhura-def",
+      "ref": "vocab-sumadhura",
+      "text": "ಇಂಪಾದ",
+      "translations": {
+        "en": "Melodious",
+        "hi": "मीठा, सुरीला"
+      },
+      "transliterations": {
+        "devanagari": "इंपाद",
+        "latin": "Impaada"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-udyanavana",
+      "text": "ಉದ್ಯಾನವನ",
+      "translations": {
+        "en": "Udyanavana",
+        "hi": "उद्यानवन"
+      },
+      "transliterations": {
+        "devanagari": "उद्यानवन",
+        "latin": "Udyaanavana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-udyanavana-def",
+      "ref": "vocab-udyanavana",
+      "text": "ಕೈತೋಟ",
+      "translations": {
+        "en": "Garden",
+        "hi": "बगीचा"
+      },
+      "transliterations": {
+        "devanagari": "कैतोट",
+        "latin": "Kaitoota"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-garjane",
+      "text": "ಗರ್ಜನೆ",
+      "translations": {
+        "en": "Garjane",
+        "hi": "गर्जना"
+      },
+      "transliterations": {
+        "devanagari": "गर्जनॆ",
+        "latin": "Garjane"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-garjane-def",
+      "ref": "vocab-garjane",
+      "text": "ಗಟ್ಟಿಯಾಗಿ ಕೂಗು, ಆರ್ಭಟಿಸು",
+      "translations": {
+        "en": "Loud cry, roar",
+        "hi": "ज़ोर से चिल्लाना, दहाड़ना"
+      },
+      "transliterations": {
+        "devanagari": "गट्टियागि कूगु, आर्भटिसु",
+        "latin": "Gattiyaagi koogu, aarbhatisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-shenga",
+      "text": "ಶೇಂಗಾ",
+      "translations": {
+        "en": "Shenga",
+        "hi": "शेंगा"
+      },
+      "transliterations": {
+        "devanagari": "शेंगा",
+        "latin": "Shemgaa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shenga-def",
+      "ref": "vocab-shenga",
+      "text": "ಕಡ್ಲೆಕಾಯಿ, ನೆಲಗಡಲೆ",
+      "translations": {
+        "en": "Groundnut, peanut",
+        "hi": "मूंगफली"
+      },
+      "transliterations": {
+        "devanagari": "कड्लॆकायि, नॆलगडलॆ",
+        "latin": "Kadlekaayi, nelagadale"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-dasare",
+      "text": "ದಸರೆ",
+      "translations": {
+        "en": "Dasara",
+        "hi": "दशहरा"
+      },
+      "transliterations": {
+        "devanagari": "दसरॆ",
+        "latin": "Dasare"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dasare-def",
+      "ref": "note-dasare",
+      "text": "ಶುಕ್ಲಪಕ್ಷ ಪಾಡ್ಯದಿಂದ ದಶಮಿಯವರೆಗಿನ ಹತ್ತು ದಿನಗಳ ಹಬ್ಬ.",
+      "translations": {
+        "en": "A ten-day festival from the first day to the tenth day of the bright fortnight.",
+        "hi": "शुक्ल पक्ष की प्रतिपदा से दशमी तक का दस दिनों का त्योहार।"
+      },
+      "transliterations": {
+        "devanagari": "शुक्लपक्ष पाड्यदिंद दशमियवरॆगिन हत्तु दिनगळ हब्ब.",
+        "latin": "Shuklapaksha paadyadimda dashamiyavaregina hattu dinagala habba."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-ambari",
+      "text": "ಅಂಬಾರಿ",
+      "translations": {
+        "en": "Ambari (Howdah)",
+        "hi": "अंबारी (हौदा)"
+      },
+      "transliterations": {
+        "devanagari": "अंबारि",
+        "latin": "Ambaari"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ambari-def",
+      "ref": "note-ambari",
+      "text": "ಆನೆಯ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳಲು ಹಾಕುವ ಮಂಟಪದಂತಹ ಭದ್ರಾಸನ.",
+      "translations": {
+        "en": "A pavilion-like secure seat placed on an elephant for sitting.",
+        "hi": "हाथी पर बैठने के लिए रखा जाने वाला मंडप जैसा सुरक्षित आसन।"
+      },
+      "transliterations": {
+        "devanagari": "आनॆय मेलॆ कुळितुकॊळ्ळलु हाकुव मंटपदंतह भद्रासन.",
+        "latin": "Aaneya mele kulitukollalu haakuva mamtapadamtaha bhadraasana."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-panju",
+      "text": "ಪಂಜು",
+      "translations": {
+        "en": "Panju (Torch)",
+        "hi": "पंजु (मशाल)"
+      },
+      "transliterations": {
+        "devanagari": "पंजु",
+        "latin": "Pamju"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-panju-def",
+      "ref": "note-panju",
+      "text": "ಕೋಲಿಗೆ ದಪ್ಪ ಬಟ್ಟೆ ಸುತ್ತಿ ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ ಸುರಿದು ಉರಿಸುವ ದೀಪ.",
+      "translations": {
+        "en": "A lamp made by wrapping thick cloth around a stick, pouring oil or ghee, and lighting it.",
+        "hi": "डंडे पर मोटा कपड़ा लपेटकर तेल या घी डालकर जलाई जाने वाली बत्ती।"
+      },
+      "transliterations": {
+        "devanagari": "कोलिगॆ दप्प बट्टॆ सुत्ति ऎण्णॆ अथवा तुप्प सुरिदु उरिसुव दीप.",
+        "latin": "Koolige dappa batte sutti enne athavaa tuppa suridu urisuva deepa."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kavayatu",
+      "text": "ಕವಾಯತು",
+      "translations": {
+        "en": "Kavayatu (Parade/Drill)",
+        "hi": "कवायत (परेड)"
+      },
+      "transliterations": {
+        "devanagari": "कवायतु",
+        "latin": "Kavaayatu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kavayatu-def",
+      "ref": "note-kavayatu",
+      "text": "ಸೈನಿಕರು, ಪೊಲೀಸರು, ಗೃಹರಕ್ಷಕರು ಮಾಡುವ ಕಸರತ್ತು.",
+      "translations": {
+        "en": "Drill performed by soldiers, police, and home guards.",
+        "hi": "सैनिकों, पुलिस और होमगार्ड द्वारा किया जाने वाला अभ्यास।"
+      },
+      "transliterations": {
+        "devanagari": "सैनिकरु, पॊलीसरु, गृहरक्षकरु माडुव कसरत्तु.",
+        "latin": "Sainikaru, poleesaru, gruharakshakaru maaduva kasarattu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-phalaka",
+      "text": "ಫಲಕ",
+      "translations": {
+        "en": "Phalaka (Board/Plaque)",
+        "hi": "फलक (बोर्ड)"
+      },
+      "transliterations": {
+        "devanagari": "फलक",
+        "latin": "Phalaka"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-phalaka-def",
+      "ref": "note-phalaka",
+      "text": "ಲೋಹ, ಮರ, ಗಾಜು ಮುಂತಾದವುಗಳ ತೆಳುವಾದ ಹಾಳೆ.",
+      "translations": {
+        "en": "A thin sheet of metal, wood, glass, etc.",
+        "hi": "धातु, लकड़ी, कांच आदि की पतली चादर।"
+      },
+      "transliterations": {
+        "devanagari": "लोह, मर, गाजु मुंतादवुगळ तॆळुवाद हाळॆ.",
+        "latin": "Looha, mara, gaaju mumtaadavugala teluvaada haale."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-panjara",
+      "text": "ಪಂಜರ",
+      "translations": {
+        "en": "Panjara (Cage)",
+        "hi": "पिंजरा"
+      },
+      "transliterations": {
+        "devanagari": "पंजर",
+        "latin": "Pamjara"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-panjara-def",
+      "ref": "note-panjara",
+      "text": "ಹಕ್ಕಿ, ಪ್ರಾಣಿ ಮುಂತಾದವುಗಳನ್ನು ಇಡುವ ಗೂಡು.",
+      "translations": {
+        "en": "An enclosure for keeping birds, animals, etc.",
+        "hi": "पक्षियों, जानवरों आदि को रखने का बाड़ा।"
+      },
+      "transliterations": {
+        "devanagari": "हक्कि, प्राणि मुंतादवुगळन्नु इडुव गूडु.",
+        "latin": "Hakki, praani mumtaadavugalannu iduva goodu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಅಜ್ಜ ಮಕ್ಕಳನ್ನು ಎಲ್ಲಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದರು?",
+      "translations": {
+        "en": "Where did grandfather take the children?",
+        "hi": "दादाजी बच्चों को कहाँ ले गए थे?"
+      },
+      "transliterations": {
+        "devanagari": "अज्ज मक्कळन्नु ऎल्लिगॆ करॆदुकॊंडु होगिद्दरु?",
+        "latin": "Ajja makkalannu ellige karedukomdu hoogiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಅಜ್ಜಿ ಮಕ್ಕಳಿಗೆ ಏನೇನು ಕೊಡಿಸಿದರು?",
+      "translations": {
+        "en": "What all did grandmother buy for the children?",
+        "hi": "दादीजी ने बच्चों को क्या-क्या दिलाया?"
+      },
+      "transliterations": {
+        "devanagari": "अज्जि मक्कळिगॆ एनेनु कॊडिसिदरु?",
+        "latin": "Ajji makkalige enenu kodisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಮಕ್ಕಳು ಏನು ನೋಡಿ ಆಶ್ಚರ್ಯಪಟ್ಟರು?",
+      "translations": {
+        "en": "What were the children surprised to see?",
+        "hi": "बच्चे क्या देखकर आश्चर्यचकित हुए?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु एनु नोडि आश्चर्यपट्टरु?",
+        "latin": "Makkalu enu noodi aashcharyapattaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಅಮ್ಮನಿಗೆ ಕಾಗದ ಬರೆದವರು ಯಾರು?",
+      "translations": {
+        "en": "Who wrote the letter to mother?",
+        "hi": "माँ को पत्र किसने लिखा?"
+      },
+      "transliterations": {
+        "devanagari": "अम्मनिगॆ कागद बरॆदवरु यारु?",
+        "latin": "Ammanige kaagada baredavaru yaaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಮೈಸೂರು ದಸರೆಯಲ್ಲಿ ಉಲ್ಲಾಸನು ಏನೇನು ನೋಡಿದನು?",
+      "translations": {
+        "en": "What all did Ullasa see in the Mysore Dasara?",
+        "hi": "मैसूर दशहरा में उल्लास ने क्या-क्या देखा?"
+      },
+      "transliterations": {
+        "devanagari": "मैसूरु दसरॆयल्लि उल्लासनु एनेनु नोडिदनु?",
+        "latin": "Maisooru dasareyalli ullaasanu enenu noodidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಪ್ರಾಣಿ ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಯಾವ ಯಾವ ಪ್ರಾಣಿಗಳು ಇದ್ದವು?",
+      "translations": {
+        "en": "Which animals were there in the zoo?",
+        "hi": "चिड़ियाघर में कौन-कौन से जानवर थे?"
+      },
+      "transliterations": {
+        "devanagari": "प्राणि संग्रहालयदल्लि याव याव प्राणिगळु इद्दवु?",
+        "latin": "Praani samgrahaalayadalli yaava yaava praanigalu iddavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಉಲ್ಲಾಸನಿಗೆ ಸಂತೋಷವಾಗಲು ಕಾರಣವೇನು?",
+      "translations": {
+        "en": "What was the reason for Ullasa's happiness?",
+        "hi": "उल्लास की खुशी का क्या कारण था?"
+      },
+      "transliterations": {
+        "devanagari": "उल्लासनिगॆ संतोषवागलु कारणवेनु?",
+        "latin": "Ullaasanige samtooshavaagalu kaaranavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಅಜ್ಜ ನಮ್ಮನ್ನು ಮೈಸೂರು ________ ಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದರು.",
+      "translations": {
+        "en": "Grandfather took us to the Mysore ________.",
+        "hi": "दादाजी हमें मैसूर ________ ले गए थे।"
+      },
+      "transliterations": {
+        "devanagari": "अज्ज नम्मन्नु मैसूरु ________ गॆ करॆदुकॊंडु होगिद्दरु.",
+        "latin": "Ajja nammannu maisooru ________ ge karedukomdu hoogiddaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಆನೆಯ ಮೇಲಿನ ಅಂಬಾರಿಯಲ್ಲಿ ________ ಇಟ್ಟಿದ್ದರು.",
+      "translations": {
+        "en": "They had placed ________ in the howdah on the elephant.",
+        "hi": "हाथी पर हौदे में ________ विराजमान थीं।"
+      },
+      "transliterations": {
+        "devanagari": "आनॆय मेलिन अंबारियल्लि ________ इट्टिद्दरु.",
+        "latin": "Aaneya melina ambaariyalli ________ ittiddaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಮೈಸೂರಿನಲ್ಲಿ ________ ಮೃಗಾಲಯವಿದೆ.",
+      "translations": {
+        "en": "There is the ________ zoo in Mysore.",
+        "hi": "मैसूर में ________ चिड़ियाघर है।"
+      },
+      "transliterations": {
+        "devanagari": "मैसूरिनल्लि ________ मृगालयविदॆ.",
+        "latin": "Maisoorinalli ________ mrugaalayavide."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಸಿಂಹದ ________ ನಮ್ಮ ಗಮನ ಸೆಳೆಯಿತು.",
+      "translations": {
+        "en": "The lion's ________ drew our attention.",
+        "hi": "शेर की ________ ने हमारा ध्यान खींचा।"
+      },
+      "transliterations": {
+        "devanagari": "सिंहद ________ नम्म गमन सॆळॆयितु.",
+        "latin": "Simhada ________ namma gamana seleyitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "text": "ಕೊಂಬೆಯ ಮೇಲೆ ________ ನಮ್ಮ ಹಾಗೆಯೇ ನಡೆಯುತ್ತಿತ್ತು.",
+      "translations": {
+        "en": "On the branch, an ________ was walking just like us.",
+        "hi": "पेड़ की डाल पर एक ________ हमारी तरह ही चल रहा था।"
+      },
+      "transliterations": {
+        "devanagari": "कॊंबॆय मेलॆ ________ नम्म हागॆये नडॆयुत्तित्तु.",
+        "latin": "Kombeya mele ________ namma haageye nadeyuttittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಉಲ್ಲಾಸನು ತನ್ನ ತಂದೆಗೆ ಕಾಗದ ಬರೆದನು.",
+      "translations": {
+        "en": "Ullasa wrote a letter to his father.",
+        "hi": "उल्लास ने अपने पिता को पत्र लिखा।"
+      },
+      "transliterations": {
+        "devanagari": "उल्लासनु तन्न तंदॆगॆ कागद बरॆदनु.",
+        "latin": "Ullaasanu tanna tamdege kaagada baredanu."
+      },
+      "type": "true_false"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಬಣ್ಣದ ಕೋತಿಗಳು 'ಚಿಂವ್ ಚಿಂವ್' ಎಂದು ಶಬ್ದ ಮಾಡುತ್ತಿದ್ದವು.",
+      "translations": {
+        "en": "The red and black monkeys were making 'chirp chirp' sounds.",
+        "hi": "लाल और काले मुँह वाले बंदर 'चीं-चीं' की आवाज़ कर रहे थे।"
+      },
+      "transliterations": {
+        "devanagari": "कॆंपु मत्तु कप्पु बण्णद कोतिगळु 'चिंव् चिंव्' ऎंदु शब्द माडुत्तिद्दवु.",
+        "latin": "Kempu mattu kappu bannada kootigalu 'chimv chimv' emdu shabda maaduttiddavu."
+      },
+      "type": "true_false"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ದಸರೆ ಮುಗಿದ ಮರುದಿನ ಚಾಮುಂಡಿಬೆಟ್ಟಕ್ಕೆ ಹೋದೆವು.",
+      "translations": {
+        "en": "The day after Dasara, we went to Chamundi Hill.",
+        "hi": "दशहरा खत्म होने के अगले दिन हम चामुंडी पहाड़ी गए।"
+      },
+      "transliterations": {
+        "devanagari": "दसरॆ मुगिद मरुदिन चामुंडिबॆट्टक्कॆ होदॆवु.",
+        "latin": "Dasare mugida marudina chaamumdibettakke hoodevu."
+      },
+      "type": "true_false"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಜಿರಾಫೆ ತನ್ನ ಮರಿಗೆ ಹಾಲು ಉಣಿಸುತ್ತಿತ್ತು.",
+      "translations": {
+        "en": "The giraffe was feeding milk to its calf.",
+        "hi": "जिराफ़ अपने बच्चे को दूध पिला रहा था।"
+      },
+      "transliterations": {
+        "devanagari": "जिराफॆ तन्न मरिगॆ हालु उणिसुत्तित्तु.",
+        "latin": "Jiraaphe tanna marige haalu unisuttittu."
+      },
+      "type": "true_false"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q5",
+      "text": "ಮೃಗಾಲಯದಲ್ಲಿದ್ದ ಹಾವುಗಳನ್ನು ಬಂಡೀಪುರದ ಕಾಡಿನಿಂದ ತರಲಾಗಿದೆ.",
+      "translations": {
+        "en": "The snakes in the zoo were brought from the Bandipur forest.",
+        "hi": "चिड़ियाघर में मौजूद साँपों को बांदीपुर के जंगल से लाया गया था।"
+      },
+      "transliterations": {
+        "devanagari": "मृगालयदल्लिद्द हावुगळन्नु बंडीपुरद काडिनिंद तरलागिदॆ.",
+        "latin": "Mrugaalayadallidda haavugalannu bamdeepurada kaadinimda taralaagide."
+      },
+      "type": "true_false"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q6",
+      "text": "ದಸರೆ ಹಬ್ಬ ಆರು ದಿನ ನಡೆಯುತ್ತದೆ.",
+      "translations": {
+        "en": "The Dasara festival lasts for six days.",
+        "hi": "दशहरा का त्योहार छह दिनों तक चलता है।"
+      },
+      "transliterations": {
+        "devanagari": "दसरॆ हब्ब आरु दिन नडॆयुत्तदॆ.",
+        "latin": "Dasare habba aaru dina nadeyuttade."
+      },
+      "type": "true_false"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-p1",
+      "text": "ಮಾದರಿ: ಅಜ್ಜ - ಅಜ್ಜಿ",
+      "translations": {
+        "en": "'Example: Grandfather - Grandmother'",
+        "hi": "'उदाहरण: दादा - दादी'"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: अज्ज - अज्जि",
+        "latin": "Maadari: ajja - ajji"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ತಂದೆ : ________",
+      "translations": {
+        "en": "'Father : ________'",
+        "hi": "'पिता : ________'"
+      },
+      "transliterations": {
+        "devanagari": "तंदॆ : ________",
+        "latin": "Tamde : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಮಾವ : ________",
+      "translations": {
+        "en": "'Uncle : ________'",
+        "hi": "'मामा : ________'"
+      },
+      "transliterations": {
+        "devanagari": "माव : ________",
+        "latin": "Maava : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಚಿಕ್ಕಪ್ಪ : ________",
+      "translations": {
+        "en": "'Paternal uncle : ________'",
+        "hi": "'चाचा : ________'"
+      },
+      "transliterations": {
+        "devanagari": "चिक्कप्प : ________",
+        "latin": "Chikkappa : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಮಗಳು : ________",
+      "translations": {
+        "en": "'Daughter : ________'",
+        "hi": "'बेटी : ________'"
+      },
+      "transliterations": {
+        "devanagari": "मगळु : ________",
+        "latin": "Magalu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q5",
+      "text": "ತಮ್ಮ : ________",
+      "translations": {
+        "en": "'Younger brother : ________'",
+        "hi": "'छोटा भाई : ________'"
+      },
+      "transliterations": {
+        "devanagari": "तम्म : ________",
+        "latin": "Tamma : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-p1",
+      "text": "ಮಾದರಿ : ನಮ್ಮ - ನಮ್ಮದು - ನಮ್ಮವರು",
+      "translations": {
+        "en": "'Example : Our - Ours - Our people'",
+        "hi": "'उदाहरण : हमारा - हमारा - हमारे लोग'"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : नम्म - नम्मदु - नम्मवरु",
+        "latin": "Maadari : namma - nammadu - nammavaru"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ನನ್ನ : ________ - ________",
+      "translations": {
+        "en": "'My : ________ - ________'",
+        "hi": "'मेरा : ________ - ________'"
+      },
+      "transliterations": {
+        "devanagari": "नन्न : ________ - ________",
+        "latin": "Nanna : ________ - ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ನಿನ್ನ : ________ - ________",
+      "translations": {
+        "en": "'Your : ________ - ________'",
+        "hi": "'तेरा : ________ - ________'"
+      },
+      "transliterations": {
+        "devanagari": "निन्न : ________ - ________",
+        "latin": "Ninna : ________ - ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ನಿಮ್ಮ : ________ - ________",
+      "translations": {
+        "en": "'Your (plural/respectful) : ________ - ________'",
+        "hi": "'आपका : ________ - ________'"
+      },
+      "transliterations": {
+        "devanagari": "निम्म : ________ - ________",
+        "latin": "Nimma : ________ - ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q4",
+      "text": "ತಮ್ಮ : ________ - ________",
+      "translations": {
+        "en": "'Their/Your (respectful) : ________ - ________'",
+        "hi": "'उनका/आपका (आदरसूचक) : ________ - ________'"
+      },
+      "transliterations": {
+        "devanagari": "तम्म : ________ - ________",
+        "latin": "Tamma : ________ - ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಶೇಂಗಾ, ಮಾವು, ಗೆಣಸು, ಆಲೂಗಡ್ಡೆ : ________",
+      "translations": {
+        "en": "'Peanut, mango, sweet potato, potato : ________'",
+        "hi": "'मूंगफली, आम, शकरकंद, आलू : ________'"
+      },
+      "transliterations": {
+        "devanagari": "शेंगा, मावु, गॆणसु, आलूगड्डॆ : ________",
+        "latin": "Shemgaa, maavu, genasu, aaloogadde : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q2",
+      "text": "ಕಾಗೆ, ಗೂಬೆ, ಕೋಗಿಲೆ, ಘೇಂಡಾಮೃಗ : ________",
+      "translations": {
+        "en": "'Crow, owl, cuckoo, rhinoceros : ________'",
+        "hi": "'कौवा, उल्लू, कोयल, गैंडा : ________'"
+      },
+      "transliterations": {
+        "devanagari": "कागॆ, गूबॆ, कोगिलॆ, घेंडामृग : ________",
+        "latin": "Kaage, goobe, koogile, ghemdaamruga : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q3",
+      "text": "ಬಾಳೆಹಣ್ಣು, ಇಡ್ಲಿ, ವಡೆ, ದೋಸೆ : ________",
+      "translations": {
+        "en": "'Banana, idli, vada, dosa : ________'",
+        "hi": "'केला, इडली, वड़ा, डोसा : ________'"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆहण्णु, इड्लि, वडॆ, दोसॆ : ________",
+        "latin": "Baalehannu, idli, vade, doose : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q4",
+      "text": "ಚಿರತೆ, ಗಿಳಿ, ಸಿಂಹ, ಹುಲಿ : ________",
+      "translations": {
+        "en": "'Leopard, parrot, lion, tiger : ________'",
+        "hi": "'तेंदुआ, तोता, शेर, बाघ : ________'"
+      },
+      "transliterations": {
+        "devanagari": "चिरतॆ, गिळि, सिंह, हुलि : ________",
+        "latin": "Chirate, gili, simha, huli : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ಕ್ಷೇಮ : ________",
+      "translations": {
+        "en": "'Safe/Well : ________'",
+        "hi": "'कुशल : ________'"
+      },
+      "transliterations": {
+        "devanagari": "क्षेम : ________",
+        "latin": "Kshema : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q2",
+      "text": "ಪ್ರಾಣಿ ಸಂಗ್ರಹಾಲಯ : ________",
+      "translations": {
+        "en": "'Zoo : ________'",
+        "hi": "'चिड़ियाघर : ________'"
+      },
+      "transliterations": {
+        "devanagari": "प्राणि संग्रहालय : ________",
+        "latin": "Praani samgrahaalaya : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q3",
+      "text": "ಉದ್ಯಾನವನ : ________",
+      "translations": {
+        "en": "'Garden : ________'",
+        "hi": "'बगीचा : ________'"
+      },
+      "transliterations": {
+        "devanagari": "उद्यानवन : ________",
+        "latin": "Udyaanavana : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q4",
+      "text": "ಸೂಚನಾ ಫಲಕ : ________",
+      "translations": {
+        "en": "'Signboard : ________'",
+        "hi": "'सूचना बोर्ड : ________'"
+      },
+      "transliterations": {
+        "devanagari": "सूचना फलक : ________",
+        "latin": "Soochanaa phalaka : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ನಿನಗೆ ಇಷ್ಟವಾದ ಒಂದು ವಿಷಯ ಕುರಿತು ನಿಮ್ಮ ಗೆಳೆಯ/ಗೆಳತಿಗೆ ಪತ್ರವನ್ನು (ನಿನ್ನ ಬರೆವಣಿಗೆ ಪುಸ್ತಕದಲ್ಲಿ) ಬರೆದು, ನಿನ್ನ ಗೆಳೆಯ / ಗೆಳತಿಗೆ ಓದಲು ಕೊಡು.",
+      "translations": {
+        "en": "Write a letter to your friend about a topic you like (in your writing book) and give it to your friend to read.",
+        "hi": "अपने किसी पसंदीदा विषय पर अपने दोस्त/सहेली को पत्र (अपनी लेखन पुस्तिका में) लिखो और उसे पढ़ने को दो।"
+      },
+      "transliterations": {
+        "devanagari": "निनगॆ इष्टवाद ऒंदु विषय कुरितु निम्म गॆळॆय/गॆळतिगॆ पत्रवन्नु (निन्न बरॆवणिगॆ पुस्तकदल्लि) बरॆदु, निन्न गॆळॆय / गॆळतिगॆ ओदलु कॊडु.",
+        "latin": "Ninage ishtavaada omdu vishaya kuritu nimma geleya/gelatige patravannu (ninna barevanige pustakadalli) baredu, ninna geleya / gelatige oodalu kodu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q2",
+      "text": "ನಿನಗೆ ತಿಳಿದಿರುವ ಕವಿಗಳ ಕೈಬರೆಹಗಳನ್ನು ಸಂಗ್ರಹಿಸು.",
+      "translations": {
+        "en": "Collect the handwriting of poets you know.",
+        "hi": "तुम्हें ज्ञात कवियों की लिखावट इकट्ठा करो।"
+      },
+      "transliterations": {
+        "devanagari": "निनगॆ तिळिदिरुव कविगळ कैबरॆहगळन्नु संग्रहिसु.",
+        "latin": "Ninage tilidiruva kavigala kaibarehagalannu samgrahisu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q3",
+      "text": "ನಿನಗೆ ಗೊತ್ತಿರುವ ವ್ಯಕ್ತಿಗಳ ಕೈಬರೆಹಗಳನ್ನು ಸಂಗ್ರಹಿಸು.",
+      "translations": {
+        "en": "Collect the handwriting of people you know.",
+        "hi": "तुम्हें ज्ञात व्यक्तियों की लिखावट इकट्ठा करो।"
+      },
+      "transliterations": {
+        "devanagari": "निनगॆ गॊत्तिरुव व्यक्तिगळ कैबरॆहगळन्नु संग्रहिसु.",
+        "latin": "Ninage gottiruva vyaktigala kaibarehagalannu samgrahisu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q4",
+      "text": "ಶಿಕ್ಷಕರ ಸಹಾಯ ಪಡೆದು ದೊಡ್ಡ/ಸಣ್ಣ ಲಕೋಟೆಗಳನ್ನು ತಯಾರಿಸು.",
+      "translations": {
+        "en": "With the help of your teacher, make large/small envelopes.",
+        "hi": "शिक्षक की मदद से बड़े/छोटे लिफ़ाफ़े बनाओ।"
+      },
+      "transliterations": {
+        "devanagari": "शिक्षकर सहाय पडॆदु दॊड्ड/सण्ण लकोटॆगळन्नु तयारिसु.",
+        "latin": "Shikshakara sahaaya padedu dodda/sanna lakootegalannu tayaarisu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q5",
+      "text": "ವಿವಿಧ ಪತ್ರಗಳ ಬಗ್ಗೆ ಶಿಕ್ಷಕರ ಹತ್ತಿರ ಕೇಳಿ ತಿಳಿದುಕೊ.",
+      "translations": {
+        "en": "Ask your teacher and learn about different types of letters.",
+        "hi": "विभिन्न प्रकार के पत्रों के बारे में शिक्षक से पूछकर जानो।"
+      },
+      "transliterations": {
+        "devanagari": "विविध पत्रगळ बग्गॆ शिक्षकर हत्तिर केळि तिळिदुकॊ.",
+        "latin": "Vividha patragala bagge shikshakara hattira keli tiliduko."
+      },
+      "type": "question"
+    },
+    {
+      "id": "competency",
+      "text": "ನೀನೀಗ ಕೈಬರೆಹದ ಪತ್ರಗಳನ್ನು ಮತ್ತು ಇತರರ ಬರೆವಣಿಗೆಯನ್ನು ಓದಿ ಅರ್ಥೈಸಿಕೊಳ್ಳುವಿಯಲ್ಲವೆ?",
+      "translations": {
+        "en": "Now you can read and understand handwritten letters and others' writing, can't you?",
+        "hi": "अब तुम हस्तलिखित पत्रों और दूसरों की लिखावट को पढ़कर समझ सकते हो, है ना?"
+      },
+      "transliterations": {
+        "devanagari": "नीनीग कैबरॆहद पत्रगळन्नु मत्तु इतरर बरॆवणिगॆयन्नु ओदि अर्थैसिकॊळ्ळुवियल्लवॆ?",
+        "latin": "Neeneega kaibarehada patragalannu mattu itarara barevanigeyannu oodi arthaisikolluviyallave?"
+      },
+      "type": "competency"
+    }
+  ]
+}

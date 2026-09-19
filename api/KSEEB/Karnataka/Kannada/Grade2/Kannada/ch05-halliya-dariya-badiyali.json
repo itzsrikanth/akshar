@@ -1,0 +1,876 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) ई प्रश्नेगळिगे ओन्दु वाक्यदल्लि उत्तर हेळि:",
+      "en": "A) Answer these questions in one sentence:",
+      "hi": "अ) इन प्रश्नों के उत्तर एक वाक्य में दें:",
+      "kn": "ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಹೇಳಿ:",
+      "latin": "a) ī praśnegaḷige ondu vākyadalli uttara hēḷi:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) खालि बिट्टिरुव जागगळल्लि सरियाद पद बरेयिरि:",
+      "en": "B) Write the correct word in the blank spaces:",
+      "hi": "आ) खाली जगहों में सही शब्द लिखें:",
+      "kn": "ಆ) ಖಾಲಿ ಬಿಟ್ಟಿರುವ ಜಾಗಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಬರೆಯಿರಿ:",
+      "latin": "ā) khāli biṭṭiruva jāgagaḷalli sariyāda pada bareyiri:"
+    },
+    "exercise-C": {
+      "devanagari": "इ) कोट्टिरुव पदगळिगे प्रास पद हेळि बरेयिरि :",
+      "en": "C) Say and write rhyming words for the given words:",
+      "hi": "इ) दिए गए शब्दों के लिए तुकांत शब्द बताएँ और लिखें:",
+      "kn": "ಇ) ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಪ್ರಾಸ ಪದ ಹೇಳಿ ಬರೆಯಿರಿ :",
+      "latin": "i) koṭṭiruva padagaḷige prāsa pada hēḷi bareyiri :"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "title": {
+      "devanagari": "हळ्ळिय दारिय बदियलि",
+      "en": "By the Side of the Village Path",
+      "hi": "गाँव के रास्ते के किनारे",
+      "latin": "haḷḷiya dāriya badiyali"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch05-halliya-dariya-badiyali",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ ಒಂದು",
+      "translations": {
+        "en": "By the side of the village path, there was a",
+        "hi": "गाँव के रास्ते के किनारे एक"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळिय दारिय बदियलि ओन्दु",
+        "latin": "haḷḷiya dāriya badiyali ondu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಮಾವಿನ ಮರವಿತ್ತು",
+      "translations": {
+        "en": "Mango tree",
+        "hi": "आम का पेड़ था"
+      },
+      "transliterations": {
+        "devanagari": "माविन मरवित्तु",
+        "latin": "māvina maravittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಹಲವು ಕೊಂಬೆಗಳನು ಚಾಚಿ",
+      "translations": {
+        "en": "Spreading its many branches",
+        "hi": "अपनी कई शाखाएँ फैलाकर"
+      },
+      "transliterations": {
+        "devanagari": "हलवु कोम्बेगळनु चाचि",
+        "latin": "halavu kombegaḷanu cāci"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ತಣ್ಣೆಳಲನು ಹರಡಿತ್ತು",
+      "translations": {
+        "en": "It spread cool shade",
+        "hi": "उसने ठंडी छाया फैलाई थी"
+      },
+      "transliterations": {
+        "devanagari": "तण्णेळलनु हरडित्तु",
+        "latin": "taṇṇeḷalanu haraḍittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಹಕ್ಕಿ ಪಕ್ಷಿಗಳು ಗೂಡನು ಕಟ್ಟಿದೆ",
+      "translations": {
+        "en": "Birds have built a nest",
+        "hi": "पक्षियों ने घोंसला बनाया है"
+      },
+      "transliterations": {
+        "devanagari": "हक्कि पक्षिगळु गूडनु कट्टिदे",
+        "latin": "hakki pakṣigaḷu gūḍanu kaṭṭide"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಮರಿಗಳ ಚಿಲಿಪಿಲಿ ಹಾಡಿತ್ತು",
+      "translations": {
+        "en": "The chicks sang tweet-tweet",
+        "hi": "बच्चे चीं-चीं गा रहे थे"
+      },
+      "transliterations": {
+        "devanagari": "मरिगळ चिलिपिलि हाडित्तु",
+        "latin": "marigaḷa cilipili hāḍittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಎಲೆಗಳ ಜೊತೆಗೆ ಕಾಯಿ ತೂಗಿ",
+      "translations": {
+        "en": "Mangoes swaying along with the leaves",
+        "hi": "पत्तों के साथ कच्चे आम झूलते हुए"
+      },
+      "transliterations": {
+        "devanagari": "एलेगळ जोतेगे कायि तूगि",
+        "latin": "elegaḷa jotege kāyi tūgi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಬಾಯಲಿ ನೀರನು ತಂದಿತ್ತು",
+      "translations": {
+        "en": "Brought water to the mouth",
+        "hi": "मुँह में पानी लाते थे"
+      },
+      "transliterations": {
+        "devanagari": "बायलि नीरनु तन्दित्तु",
+        "latin": "bāyali nīranu tandittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಮಾವಿನ ಮರದಡಿ ಕಮ್ಮಿನ ಪರಿಮಳ",
+      "translations": {
+        "en": "The sweet fragrance under the mango tree",
+        "hi": "आम के पेड़ के नीचे की मीठी महक"
+      },
+      "transliterations": {
+        "devanagari": "माविन मरदडि कम्मिंन परिमळ",
+        "latin": "māvina maradaḍi kammina parimaḷa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಜನರ ಮನವನು ಸೆಳೆದಿತ್ತು",
+      "translations": {
+        "en": "Attracted people's minds",
+        "hi": "लोगों के मन को लुभाती थी"
+      },
+      "transliterations": {
+        "devanagari": "जनर मनवनु सेळेदित्तु",
+        "latin": "janara manavanu seḷedittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಮರವೊಂದಾದರು ಉಪಕಾರವು ನೂರು",
+      "translations": {
+        "en": "Even though it is one tree, it does a hundred favors",
+        "hi": "भले ही यह एक पेड़ है, इसके उपकार सौ हैं"
+      },
+      "transliterations": {
+        "devanagari": "मरवोन्दादरु उपकारवु नूरु",
+        "latin": "maravondādaru upakāravu nūru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಹಿರಿಮೆಯ ತೋರಿತ್ತು",
+      "translations": {
+        "en": "It showed its greatness",
+        "hi": "इसने अपनी महानता दिखाई"
+      },
+      "transliterations": {
+        "devanagari": "हिरिमेय तोरित्तु",
+        "latin": "hirimeya tōrittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಶುದ್ಧ ಗಾಳಿ ಮಳೆ ನಂದನವೇ ಇಳೆ",
+      "translations": {
+        "en": "Pure air, rain, the earth is a garden",
+        "hi": "शुद्ध हवा, बारिश, यह धरती ही नंदनवन (स्वर्ग) है"
+      },
+      "transliterations": {
+        "devanagari": "शुद्ध गाळि मळे नन्दनवे इळे",
+        "latin": "śuddha gāḷi maḷe nandanavē iḷe"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಹೂ ಹಸಿರಿನ ತಾಕತ್ತು",
+      "translations": {
+        "en": "The power of flowers and greenery",
+        "hi": "फूलों और हरियाली की ताकत"
+      },
+      "transliterations": {
+        "devanagari": "हू हसिरिन ताकत्तु",
+        "latin": "hū hasirina tākattu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಹಸಿರಿದ್ದರೆ ಉಸಿರು ನಿಲ್ಲುವುದು",
+      "translations": {
+        "en": "If there is greenery, there will be breath",
+        "hi": "हरियाली होगी तभी साँस चलेगी"
+      },
+      "transliterations": {
+        "devanagari": "हसिरिद्दरे उसिरु निल्लुवुदु",
+        "latin": "hasiriddare usiru nilluvudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ತಿಳಿದುಕೊ ಈ ಹೊತ್ತು",
+      "translations": {
+        "en": "Know this today",
+        "hi": "यह आज ही जान लो"
+      },
+      "transliterations": {
+        "devanagari": "तिळिदुको ई होत्तु",
+        "latin": "tiḷiduko ī hottu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-halli",
+      "text": "ಹಳ್ಳಿ",
+      "translations": {
+        "en": "village",
+        "hi": "गाँव"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळि",
+        "latin": "haḷḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-daari",
+      "text": "ದಾರಿ",
+      "translations": {
+        "en": "path",
+        "hi": "रास्ता"
+      },
+      "transliterations": {
+        "devanagari": "दारि",
+        "latin": "dāri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mavina-mara",
+      "text": "ಮಾವಿನ ಮರ",
+      "translations": {
+        "en": "mango tree",
+        "hi": "आम का पेड़"
+      },
+      "transliterations": {
+        "devanagari": "माविन मर",
+        "latin": "māvina mara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kombe",
+      "text": "ಕೊಂಬೆ",
+      "translations": {
+        "en": "branch",
+        "hi": "शाखा"
+      },
+      "transliterations": {
+        "devanagari": "कोम्बे",
+        "latin": "kombe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tannelalu",
+      "text": "ತಣ್ಣೆಳಲು",
+      "translations": {
+        "en": "cool shade",
+        "hi": "ठंडी छाया"
+      },
+      "transliterations": {
+        "devanagari": "तण्णेळलु",
+        "latin": "taṇṇeḷalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pakshigalu",
+      "text": "ಪಕ್ಷಿಗಳು",
+      "translations": {
+        "en": "birds",
+        "hi": "पक्षी"
+      },
+      "transliterations": {
+        "devanagari": "पक्षिगळु",
+        "latin": "pakṣigaḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chilipili",
+      "text": "ಚಿಲಿಪಿಲಿ",
+      "translations": {
+        "en": "tweet-tweet",
+        "hi": "चीं-चीं (पक्षियों की आवाज़)"
+      },
+      "transliterations": {
+        "devanagari": "चिलिपिलि",
+        "latin": "cilipili"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-marigalu",
+      "text": "ಮರಿಗಳು",
+      "translations": {
+        "en": "chicks",
+        "hi": "बच्चे (पक्षियों या जानवरों के)"
+      },
+      "transliterations": {
+        "devanagari": "मरिगळु",
+        "latin": "marigaḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-elegalu",
+      "text": "ಎಲೆಗಳು",
+      "translations": {
+        "en": "leaves",
+        "hi": "पत्ते"
+      },
+      "transliterations": {
+        "devanagari": "एलेगळु",
+        "latin": "elegaḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-neeru",
+      "text": "ನೀರು",
+      "translations": {
+        "en": "water",
+        "hi": "पानी"
+      },
+      "transliterations": {
+        "devanagari": "नीरु",
+        "latin": "nīru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-parimala",
+      "text": "ಪರಿಮಳ",
+      "translations": {
+        "en": "fragrance",
+        "hi": "महक"
+      },
+      "transliterations": {
+        "devanagari": "परिमळ",
+        "latin": "parimaḷa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jana",
+      "text": "ಜನ",
+      "translations": {
+        "en": "people",
+        "hi": "लोग"
+      },
+      "transliterations": {
+        "devanagari": "जन",
+        "latin": "jana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-upakara",
+      "text": "ಉಪಕಾರ",
+      "translations": {
+        "en": "favor / help",
+        "hi": "उपकार / भलाई"
+      },
+      "transliterations": {
+        "devanagari": "उपकार",
+        "latin": "upakāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nooru",
+      "text": "ನೂರು",
+      "translations": {
+        "en": "hundred",
+        "hi": "सौ"
+      },
+      "transliterations": {
+        "devanagari": "नूरु",
+        "latin": "nūru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hirime",
+      "text": "ಹಿರಿಮೆ",
+      "translations": {
+        "en": "greatness",
+        "hi": "महानता"
+      },
+      "transliterations": {
+        "devanagari": "हिरिमे",
+        "latin": "hirime"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shuddha",
+      "text": "ಶುದ್ಧ",
+      "translations": {
+        "en": "pure",
+        "hi": "शुद्ध"
+      },
+      "transliterations": {
+        "devanagari": "शुद्ध",
+        "latin": "śuddha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gaali",
+      "text": "ಗಾಳಿ",
+      "translations": {
+        "en": "air / wind",
+        "hi": "हवा"
+      },
+      "transliterations": {
+        "devanagari": "गाळि",
+        "latin": "gāḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hasiru",
+      "text": "ಹಸಿರು",
+      "translations": {
+        "en": "green / greenery",
+        "hi": "हरियाली"
+      },
+      "transliterations": {
+        "devanagari": "हसिरु",
+        "latin": "hasiru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-usiru",
+      "text": "ಉಸಿರು",
+      "translations": {
+        "en": "breath",
+        "hi": "साँस"
+      },
+      "transliterations": {
+        "devanagari": "उसिरु",
+        "latin": "usiru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hottu",
+      "text": "ಹೊತ್ತು",
+      "translations": {
+        "en": "time / today",
+        "hi": "समय / आज"
+      },
+      "transliterations": {
+        "devanagari": "होत्तु",
+        "latin": "hottu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-badi",
+      "text": "ಬದಿ",
+      "translations": {
+        "en": "side",
+        "hi": "किनारा"
+      },
+      "transliterations": {
+        "devanagari": "बदि",
+        "latin": "badi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-badi-def",
+      "text": "ಪಕ್ಕ",
+      "translations": {
+        "en": "next to",
+        "hi": "बगल में"
+      },
+      "transliterations": {
+        "devanagari": "पक्क",
+        "latin": "pakka"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-tannelalu",
+      "text": "ತಣ್ಣೆಳಲು",
+      "translations": {
+        "en": "cool shade",
+        "hi": "ठंडी छाया"
+      },
+      "transliterations": {
+        "devanagari": "तण्णेळलु",
+        "latin": "taṇṇeḷalu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-tannelalu-def",
+      "text": "ತಂಪಾದ ನೆರಳು",
+      "translations": {
+        "en": "cool shade",
+        "hi": "ठंडी छाया"
+      },
+      "transliterations": {
+        "devanagari": "तम्पाद नेरळु",
+        "latin": "tampāda neraḷu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kammina",
+      "text": "ಕಮ್ಮಿನ",
+      "translations": {
+        "en": "sweet-smelling",
+        "hi": "मीठी महक वाली"
+      },
+      "transliterations": {
+        "devanagari": "कम्मिंन",
+        "latin": "kammina"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kammina-def",
+      "text": "ಸುಗಂಧ",
+      "translations": {
+        "en": "fragrance",
+        "hi": "सुगंध"
+      },
+      "transliterations": {
+        "devanagari": "सुगन्ध",
+        "latin": "sugandha"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-parimala",
+      "text": "ಪರಿಮಳ",
+      "translations": {
+        "en": "fragrance",
+        "hi": "महक"
+      },
+      "transliterations": {
+        "devanagari": "परिमळ",
+        "latin": "parimaḷa"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-parimala-def",
+      "text": "ಸುವಾಸನೆ",
+      "translations": {
+        "en": "good smell",
+        "hi": "अच्छी खुशबू"
+      },
+      "transliterations": {
+        "devanagari": "सुवासने",
+        "latin": "suvāsane"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-usiru",
+      "text": "ಉಸಿರು",
+      "translations": {
+        "en": "breath",
+        "hi": "साँस"
+      },
+      "transliterations": {
+        "devanagari": "उसिरु",
+        "latin": "usiru"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-usiru-def",
+      "text": "ಪ್ರಾಣ (ದೇಹದ ಒಳಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳುವ ಹಾಗೂ ಹೊರಗೆ ಬಿಡುವ ಗಾಳಿ)",
+      "translations": {
+        "en": "life (the air taken into and let out of the body)",
+        "hi": "प्राण (शरीर के अंदर ली जाने वाली और बाहर छोड़ी जाने वाली हवा)"
+      },
+      "transliterations": {
+        "devanagari": "प्राण (देहद ओळक्के तेगेदुकोळ्ळुव हागू होरगे बिडुव गाळि)",
+        "latin": "prāṇa (dēhada oḷakke tegedukoḷḷuva hāgū horage biḍuva gāḷi)"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-ile",
+      "text": "ಇಳೆ",
+      "translations": {
+        "en": "earth",
+        "hi": "धरती"
+      },
+      "transliterations": {
+        "devanagari": "इळे",
+        "latin": "iḷe"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ile-def",
+      "text": "ಭೂಮಿ",
+      "translations": {
+        "en": "earth / ground",
+        "hi": "भूमि"
+      },
+      "transliterations": {
+        "devanagari": "भूमि",
+        "latin": "bhūmi"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ ಏನಿತ್ತು?",
+      "translations": {
+        "en": "What was by the side of the village path?",
+        "hi": "गाँव के रास्ते के किनारे क्या था?"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळिय दारिय बदियलि एनित्तु?",
+        "latin": "haḷḷiya dāriya badiyali ēnittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಹಕ್ಕಿಗಳು ಗೂಡನು ಎಲ್ಲಿ ಕಟ್ಟಿದ್ದವು?",
+      "translations": {
+        "en": "Where had the birds built the nest?",
+        "hi": "पक्षियों ने घोंसला कहाँ बनाया था?"
+      },
+      "transliterations": {
+        "devanagari": "हक्किगळु गूडनु एल्लि कट्टिद्दवु?",
+        "latin": "hakkigaḷu gūḍanu elli kaṭṭiddavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಹಕ್ಕಿಯ ಮರಿಗಳು ಏನೆಂದು ಹಾಡಿದವು?",
+      "translations": {
+        "en": "What did the chicks sing?",
+        "hi": "पक्षियों के बच्चे क्या गा रहे थे?"
+      },
+      "transliterations": {
+        "devanagari": "हक्किय मरिगळु एनेन्दु हाडिदवु?",
+        "latin": "hakkiya marigaḷu ēnendu hāḍidavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಜನರ ಮನವನ್ನು ಯಾವುದು ಸೆಳೆದಿತ್ತು?",
+      "translations": {
+        "en": "What attracted the people's minds?",
+        "hi": "लोगों के मन को किसने लुभाया?"
+      },
+      "transliterations": {
+        "devanagari": "जनर मनवन्नु यावुदु सेळेदित्तु?",
+        "latin": "janara manavannu yāvudu seḷedittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಹಲವು ಕೊಂಬೆಗಳನ್ನು _____ ತಣ್ಣೆಳಲನು ಹರಡಿತ್ತು.",
+      "translations": {
+        "en": "Spreading its many branches _____ it spread cool shade.",
+        "hi": "कई शाखाएँ फैलाकर _____ ठंडी छाया फैलाई थी।"
+      },
+      "transliterations": {
+        "devanagari": "हलवु कोम्बेगळन्नु _____ तण्णेळलनु हरडित्तु.",
+        "latin": "halavu kombegaḷannu _____ taṇṇeḷalanu haraḍittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಬಾಯಲಿ _____ ತಂದಿತ್ತು.",
+      "translations": {
+        "en": "It brought _____ to the mouth.",
+        "hi": "मुँह में _____ लाया था।"
+      },
+      "transliterations": {
+        "devanagari": "बायलि _____ तन्दित्तु.",
+        "latin": "bāyali _____ tandittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಮರವೊಂದಾದರು _____ ನೂರು.",
+      "translations": {
+        "en": "Even though it is one tree _____ a hundred.",
+        "hi": "भले ही एक पेड़ है _____ सौ।"
+      },
+      "transliterations": {
+        "devanagari": "मरवोन्दादरु _____ नूरु.",
+        "latin": "maravondādaru _____ nūru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಶುದ್ಧ _____ ನಂದನವೇ ಇಳೆ.",
+      "translations": {
+        "en": "Pure _____ the earth is a garden.",
+        "hi": "शुद्ध _____ यह धरती ही नंदनवन है।"
+      },
+      "transliterations": {
+        "devanagari": "शुद्ध _____ नन्दनवे इळे.",
+        "latin": "śuddha _____ nandanavē iḷe."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಮರವಿತ್ತು : __________",
+      "translations": {
+        "en": "maravittu : __________",
+        "hi": "मरवित्तु (पेड़ था) : __________"
+      },
+      "transliterations": {
+        "devanagari": "मरवित्तु : __________",
+        "latin": "maravittu : __________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಹಾಡಿತ್ತು : __________",
+      "translations": {
+        "en": "haadittu : __________",
+        "hi": "हाडित्तु (गा रहे थे) : __________"
+      },
+      "transliterations": {
+        "devanagari": "हाडित्तु : __________",
+        "latin": "hāḍittu : __________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಸೆಳೆದಿತ್ತು : __________",
+      "translations": {
+        "en": "seledittu : __________",
+        "hi": "सेळेदित्तु (लुभाया था) : __________"
+      },
+      "transliterations": {
+        "devanagari": "सेळेदित्तु : __________",
+        "latin": "seḷedittu : __________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ತಾಕತ್ತು : __________",
+      "translations": {
+        "en": "taakattu : __________",
+        "hi": "ताकत्तु (ताकत) : __________"
+      },
+      "transliterations": {
+        "devanagari": "ताकत्तु : __________",
+        "latin": "tākattu : __________"
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

@@ -227,6 +227,454 @@
     {
       "board": "KSEEB",
       "chapter": 1,
+      "contentHash": "ef70f12d6f710c49",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch01-vandane.json",
+      "slug": "ch01-vandane",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ವಂದನೆ",
+      "titleTranslations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "titleTransliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "415c5c5c3c723468",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch02-sahakara.json",
+      "slug": "ch02-sahakara",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸಹಕಾರ",
+      "titleTranslations": {
+        "en": "Cooperation",
+        "hi": "सहकार"
+      },
+      "titleTransliterations": {
+        "devanagari": "सहकार",
+        "latin": "sahakāra"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "d2a190a76a9f637b",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch03-ootada-aata.json",
+      "slug": "ch03-ootada-aata",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಊಟದ ಆಟ",
+      "titleTranslations": {
+        "en": "The Meal Game",
+        "hi": "भोजन का खेल"
+      },
+      "titleTransliterations": {
+        "devanagari": "ऊटद आट",
+        "latin": "ūṭada āṭa"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "0b07ab6cfd0829c8",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch04-hoodota.json",
+      "slug": "ch04-hoodota",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಹೂದೋಟ",
+      "titleTranslations": {
+        "en": "Flower Garden",
+        "hi": "फूलों का बगीचा"
+      },
+      "titleTransliterations": {
+        "devanagari": "हूदोट",
+        "latin": "hūdoṭa"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "46905a70bb6a9f53",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch05-rekhabhyasa-pathagalu.json",
+      "slug": "ch05-rekhabhyasa-pathagalu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು",
+      "titleTranslations": {
+        "en": "Line-drawing lessons",
+        "hi": "रेखाभ्यास पाठ"
+      },
+      "titleTransliterations": {
+        "devanagari": "रेखाभ्यास पाठगळु",
+        "latin": "rekhābhyāsa pāṭhagaḻu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "3c18b3c09a623b39",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch06-besige-rajeyali.json",
+      "slug": "ch06-besige-rajeyali",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬೇಸಿಗೆ ರಜೆಯಲಿ",
+      "titleTranslations": {
+        "en": "In the Summer Holiday",
+        "hi": "ग्रीष्म अवकाश में"
+      },
+      "titleTransliterations": {
+        "devanagari": "बेसिगॆ रजॆयलि",
+        "latin": "besigè rajèyali"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "64a780c19d336f5f",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch07-koti-mattu-alilu.json",
+      "slug": "ch07-koti-mattu-alilu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕೋತಿ ಮತ್ತು ಅಳಿಲು",
+      "titleTranslations": {
+        "en": "The Monkey and the Squirrel",
+        "hi": "बंदर और गिलहरी"
+      },
+      "titleTransliterations": {
+        "devanagari": "कोति मत्तु अळिलु",
+        "latin": "koti mattu aḻilu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "923893e6c48965aa",
+      "grade": 1,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade1/Kannada/ch08-pada-odu-akshara-kali.json",
+      "slug": "ch08-pada-odu-akshara-kali",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ",
+      "titleTranslations": {
+        "en": "Read words - learn letters",
+        "hi": "शब्द पढ़ो - अक्षर सीखो"
+      },
+      "titleTransliterations": {
+        "devanagari": "पद ओदु - अक्षर कलि",
+        "latin": "pada odu - akṣara kali"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "aecca42d51119855",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch01-bannada-hakki.json",
+      "slug": "ch01-bannada-hakki",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬಣ್ಣದ ಹಕ್ಕಿ",
+      "titleTranslations": {
+        "en": "Colorful Bird",
+        "hi": "रंग-बिरंगी चिड़िया"
+      },
+      "titleTransliterations": {
+        "devanagari": "बण्णद हक्कि",
+        "latin": "baṇṇada hakki"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "195cb220e857b1a3",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch02-ooricobba-rajanante.json",
+      "slug": "ch02-ooricobba-rajanante",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ",
+      "titleTranslations": {
+        "en": "Like a King for a Town",
+        "hi": "गाँव के एक राजा की तरह"
+      },
+      "titleTransliterations": {
+        "devanagari": "ऊरिगोब्ब राजनन्ते",
+        "latin": "ūrigobba rājanante"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "3eb6adba4d515d06",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch03-geletana.json",
+      "slug": "ch03-geletana",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಗೆಳತನ",
+      "titleTranslations": {
+        "en": "Friendship",
+        "hi": "मित्रता"
+      },
+      "titleTransliterations": {
+        "devanagari": "गेळतन",
+        "latin": "geḷatana"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "b4ef609e6252e6e1",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch04-kempegoudara-kanasu.json",
+      "slug": "ch04-kempegoudara-kanasu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕೆಂಪೇಗೌಡರ ಕನಸು",
+      "titleTranslations": {
+        "en": "Kempegowda's Dream",
+        "hi": "केम्पेगौड़ा का सपना"
+      },
+      "titleTransliterations": {
+        "devanagari": "केम्पेगौडर कनसु",
+        "latin": "kempēgauḍara kanasu"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "7124cf14afe4287e",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch05-halliya-dariya-badiyali.json",
+      "slug": "ch05-halliya-dariya-badiyali",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ",
+      "titleTranslations": {
+        "en": "By the Side of the Village Path",
+        "hi": "गाँव के रास्ते के किनारे"
+      },
+      "titleTransliterations": {
+        "devanagari": "हळ्ळिय दारिय बदियलि",
+        "latin": "haḷḷiya dāriya badiyali"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "0536baa184d28f09",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch06-sante.json",
+      "slug": "ch06-sante",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸಂತೆ",
+      "titleTranslations": {
+        "en": "Market",
+        "hi": "बाज़ार"
+      },
+      "titleTransliterations": {
+        "devanagari": "सन्ते",
+        "latin": "sante"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "cb70f6441a0ae590",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch07-arive-guru.json",
+      "slug": "ch07-arive-guru",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಅರಿವೇ ಗುರು",
+      "titleTranslations": {
+        "en": "Awareness is the Teacher",
+        "hi": "ज्ञान ही गुरु है"
+      },
+      "titleTransliterations": {
+        "devanagari": "अरिवे गुरु",
+        "latin": "arivē guru"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "1b7bca041864661d",
+      "grade": 2,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade2/Kannada/ch08-nanna-devaru.json",
+      "slug": "ch08-nanna-devaru",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನನ್ನ ದೇವರು",
+      "titleTranslations": {
+        "en": "My God",
+        "hi": "मेरा देवता"
+      },
+      "titleTransliterations": {
+        "devanagari": "नन्न देवरु",
+        "latin": "nanna dēvaru"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
       "contentHash": "f827f95dc7ffe16c",
       "grade": 3,
       "medium": "Kannada",
@@ -447,8 +895,1044 @@
         "devanagari",
         "latin"
       ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "5bad43839f4093ad",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch01-kannadammana-harake.json",
+      "slug": "ch01-kannadammana-harake",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ",
+      "titleTranslations": {
+        "en": "Mother Kannada's Blessing",
+        "hi": "कन्नड़ माँ का आशीर्वाद"
+      },
+      "titleTransliterations": {
+        "devanagari": "कन्नडम्मन हरके",
+        "latin": "Kannadammana Harake"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "3cf5d81393a0b3ab",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch02-buddhivanta-ramakrishna.json",
+      "slug": "ch02-buddhivanta-ramakrishna",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ",
+      "titleTranslations": {
+        "en": "Clever Ramakrishna",
+        "hi": "बुद्धिमान रामकृष्ण"
+      },
+      "titleTransliterations": {
+        "devanagari": "बुद्धिवंत रामकृष्ण",
+        "latin": "Buddhivanta Raamakrishna"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "e638982a0ffc5a71",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch03-veeramate-jijabayi.json",
+      "slug": "ch03-veeramate-jijabayi",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ",
+      "titleTranslations": {
+        "en": "The Heroic Mother Jijabai",
+        "hi": "वीरमाता जीजाबाई"
+      },
+      "titleTransliterations": {
+        "devanagari": "वीरमातॆ जीजाबायि",
+        "latin": "Veeramate Jijabayyi"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "68458a0d54215659",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch04-male.json",
+      "slug": "ch04-male",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಮಳೆ",
+      "titleTranslations": {
+        "en": "Rain",
+        "hi": "वर्षा"
+      },
+      "titleTransliterations": {
+        "devanagari": "मळॆ",
+        "latin": "Male"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "beb30bc3c0f4ea11",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch05-ajjiya-totadalli-ondu-dina.json",
+      "slug": "ch05-ajjiya-totadalli-ondu-dina",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ",
+      "titleTranslations": {
+        "en": "A Day in Grandma's Garden",
+        "hi": "दादी के बगीचे में एक दिन"
+      },
+      "titleTransliterations": {
+        "devanagari": "अज्जिय तोटदल्लि ऒंदु दिन",
+        "latin": "Ajjiya Totadalli Ondu Dina"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "735088323e6914f0",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch06-doddavaru-yaaru.json",
+      "slug": "ch06-doddavaru-yaaru",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ದೊಡ್ಡವರು ಯಾರು?",
+      "titleTranslations": {
+        "en": "Who is Great?",
+        "hi": "महान कौन?"
+      },
+      "titleTransliterations": {
+        "devanagari": "दोड्डवरु यारु?",
+        "latin": "doddavaru yaaru?"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "4782e9314144b230",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch07-beesokallina-pada.json",
+      "slug": "ch07-beesokallina-pada",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬೀಸೋಕಲ್ಲಿನ ಪದ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "0b272a7310488e05",
+      "grade": 4,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade4/Kannada/ch08-taayigondu-patra.json",
+      "slug": "ch08-taayigondu-patra",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ತಾಯಿಗೊಂದು ಪತ್ರ",
+      "titleTranslations": {
+        "en": "A Letter to Mother",
+        "hi": "माँ को एक पत्र"
+      },
+      "titleTransliterations": {
+        "devanagari": "तायिगॊंदु पत्र",
+        "latin": "Taayigomdu patra"
+      },
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "e19554b7680b777d",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch01-ottige-baluva-ananda.json",
+      "slug": "ch01-ottige-baluva-ananda",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "031c00e60c7662ef",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch02-nadiya-alalu.json",
+      "slug": "ch02-nadiya-alalu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನದಿಯ ಅಳಲು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "2856658f4ae723a8",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch03-namma-matu-keli.json",
+      "slug": "ch03-namma-matu-keli",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನಮ್ಮ ಮಾತು ಕೇಳಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "561aaefde44239f0",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch04-jivada-moulya.json",
+      "slug": "ch04-jivada-moulya",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಜೀವದ ಮೌಲ್ಯ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "097777be25248f2f",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch05-gidamara.json",
+      "slug": "ch05-gidamara",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಗಿಡ ಮರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "a824d66fe77dacdd",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch06-swatantryada-hanate.json",
+      "slug": "ch06-swatantryada-hanate",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "fb209a4722de843d",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch07-vachanagalu.json",
+      "slug": "ch07-vachanagalu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ವಚನಗಳು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "dcaaf0d6f16fffac",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch08-kannada-kannada-barri-namma-sangada.json",
+      "slug": "ch08-kannada-kannada-barri-namma-sangada",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 9,
+      "contentHash": "049c33beb9e42543",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch09-kamana-billu.json",
+      "slug": "ch09-kamana-billu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕಾಮನ ಬಿಲ್ಲು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 10,
+      "contentHash": "e1d183fe80acd77a",
+      "grade": 5,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade5/Kannada/ch10-nanu-mattu-hunchimara.json",
+      "slug": "ch10-nanu-mattu-hunchimara",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನಾನು ಮತ್ತು ಹುಂಚಿಮರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "e5afc87c6a861f9d",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch01-doddavara-daari.json",
+      "slug": "ch01-doddavara-daari",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ದೊಡ್ಡವರ ದಾರಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "5bbf3143b8eb3f9c",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch02-gandharvasena.json",
+      "slug": "ch02-gandharvasena",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಗಂಧರ್ವಸೇನ!",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "3110d40617f9c86d",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch03-krishna-sudhama.json",
+      "slug": "ch03-krishna-sudhama",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕೃಷ್ಣ - ಸುಧಾಮ (ನಾಟಕ)",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "078518ff86b8b056",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch04-dr-rajkumar.json",
+      "slug": "ch04-dr-rajkumar",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಡಾ. ರಾಜಕುಮಾರ್",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "ba6fdbad5113e9f1",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch05-besige.json",
+      "slug": "ch05-besige",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬೇಸಿಗೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "1ba6344a43a93edb",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch06-mangala-grahadalli-putti.json",
+      "slug": "ch06-mangala-grahadalli-putti",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "d949d1cae0796d3b",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch07-ni-hoda-marudina.json",
+      "slug": "ch07-ni-hoda-marudina",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನೀ ಹೋದ ಮರುದಿನ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "3aa8e0e472f13453",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch08-magu-mattu-hannugalu.json",
+      "slug": "ch08-magu-mattu-hannugalu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 9,
+      "contentHash": "577154d73f2ab945",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch09-natyakala-durandhara-mahammad-peer.json",
+      "slug": "ch09-natyakala-durandhara-mahammad-peer",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನಾಟ್ಯಕಲಾ ದುರಂಧರ ಮಹಮ್ಮದ್ ಪೀರ್",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 10,
+      "contentHash": "f85180398a02fdfc",
+      "grade": 6,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade6/Kannada/ch10-avva.json",
+      "slug": "ch10-avva",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಅವ್ವ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "c5aa8a7d177de2b5",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch01-puttajji-puttajji-kathe-helu.json",
+      "slug": "ch01-puttajji-puttajji-kathe-helu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "68347ab58a3b23ee",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch02-seena-settaru-namma-teacheru.json",
+      "slug": "ch02-seena-settaru-namma-teacheru",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "4f30f8292ced0631",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch03-hilton-head-chalavali.json",
+      "slug": "ch03-hilton-head-chalavali",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "07b3548a648ea4e0",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch04-mailara-mahadeva.json",
+      "slug": "ch04-mailara-mahadeva",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಮೈಲಾರ ಮಹಾದೇವ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "9707914f2e46be2a",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch05-huttari-haadu.json",
+      "slug": "ch05-huttari-haadu",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಹುತ್ತರಿ ಹಾಡು",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "c318ed1f2421545f",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch06-swatantrya-swarga.json",
+      "slug": "ch06-swatantrya-swarga",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "0db939d899fd6af6",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch07-bhagyada-balegara.json",
+      "slug": "ch07-bhagyada-balegara",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಭಾಗ್ಯದ ಬಳೆಗಾರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "4209ed7054de7022",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch08-vachanagala-bhavasangama.json",
+      "slug": "ch08-vachanagala-bhavasangama",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ವಚನಗಳ ಭಾವಸಂಗಮ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 9,
+      "contentHash": "953c2cc2bb3c4042",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch09-basavannanavara-jeevana-darshana.json",
+      "slug": "ch09-basavannanavara-jeevana-darshana",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ದರ್ಶನ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 10,
+      "contentHash": "a1a292a5407ddf25",
+      "grade": 7,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade7/Kannada/ch10-gombe-kalisuva-neeti.json",
+      "slug": "ch10-gombe-kalisuva-neeti",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 1,
+      "contentHash": "3030ab468fd84cfa",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch01-maggada-saheba.json",
+      "slug": "ch01-maggada-saheba",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಮಗ್ಗದ ಸಾಹೇಬ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 2,
+      "contentHash": "e37da1c9dec638ca",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch02-sarthaka-badukina-sadhaka-dvg.json",
+      "slug": "ch02-sarthaka-badukina-sadhaka-dvg",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸಾರ್ಥಕ ಬದುಕಿನ ಸಾಧಕ-ಡಿ.ವಿ.ಜಿ.",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 3,
+      "contentHash": "f3ed14e46a6952fc",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch03-neeru-kodada-nadinalli.json",
+      "slug": "ch03-neeru-kodada-nadinalli",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 4,
+      "contentHash": "1fcb044f839d6684",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch04-yashodhare.json",
+      "slug": "ch04-yashodhare",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಯಶೋಧರೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 5,
+      "contentHash": "a686cdcd94b7d96f",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch05-kannadigara-taayi.json",
+      "slug": "ch05-kannadigara-taayi",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಕನ್ನಡಿಗರ ತಾಯಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 6,
+      "contentHash": "b17350e8562cee89",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch06-bharathiyate.json",
+      "slug": "ch06-bharathiyate",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಭಾರತೀಯತೆ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 7,
+      "contentHash": "8ef0639f32307c57",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch07-bevu-belladoludalenu-phala.json",
+      "slug": "ch07-bevu-belladoludalenu-phala",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಬೇವೂ ಬೆಲ್ಲದೊಳುದಲೆನು ಫಲ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 8,
+      "contentHash": "1c46a9b4ee7e267b",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch08-someshwara-shataka.json",
+      "slug": "ch08-someshwara-shataka",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸೋಮೇಶ್ವರ ಶತಕ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 9,
+      "contentHash": "e70db6f000273bde",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch09-sarthaka.json",
+      "slug": "ch09-sarthaka",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಸಾರ್ಥಕ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 10,
+      "contentHash": "6ef5f933fb7f5719",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch10-ahuti.json",
+      "slug": "ch10-ahuti",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಆಹುತಿ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
+    },
+    {
+      "board": "KSEEB",
+      "chapter": 11,
+      "contentHash": "41dfd1d23d466f52",
+      "grade": 8,
+      "medium": "Kannada",
+      "path": "KSEEB/Karnataka/Kannada/Grade8/Kannada/ch11-magalige-bareda-patra.json",
+      "slug": "ch11-magalige-bareda-patra",
+      "state": "Karnataka",
+      "subject": "Kannada",
+      "title": "ಮಗಳಿಗೆ ಬರೆದ ಪತ್ರ",
+      "translations": [
+        "en",
+        "hi"
+      ],
+      "transliterations": [
+        "devanagari",
+        "latin"
+      ]
     }
   ],
-  "generatedAt": "2026-09-13T15:55:50Z",
+  "generatedAt": "2026-09-19T09:18:30Z",
   "schemaVersion": "1.0"
 }

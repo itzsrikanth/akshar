@@ -1,0 +1,823 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g5-fl-p1",
+    "chapterId": "ch06-swatantryada-hanate",
+    "editionId": "2026-27",
+    "number": 6
+  },
+  "labels": {
+    "author_intro": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार का परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kr̥tikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions in one sentence.",
+      "hi": "अ. निम्नलिखित प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige ondu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. केळगिन पद्यभागवन्नु पूर्णगोळिसि, कंठपाठ माडिरि.",
+      "en": "B. Complete the following stanza parts and memorize them.",
+      "hi": "आ. निम्नलिखित पद्यांश पूरा कीजिए और कंठस्थ कीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ, ಕಂಠಪಾಠ ಮಾಡಿರಿ.",
+      "latin": "ā. keḷagina padyabhāgavannu pūrṇagoḷisi, kaṇṭhapāṭha māḍiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ. गुण विशेषण.",
+      "en": "A. Qualitative adjective.",
+      "hi": "अ. गुण विशेषण।",
+      "kn": "ಅ. ಗುಣ ವಿಶೇಷಣ.",
+      "latin": "a. guṇa viśēṣaṇa."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige uttarisi."
+    },
+    "language-exercise-B": {
+      "devanagari": "ई. ओदिगे मन्नणे",
+      "en": "E. Recognition for reading",
+      "hi": "ई. पढ़ने की मान्यता",
+      "kn": "ಈ. ಓದಿಗೆ ಮನ್ನಣೆ",
+      "latin": "ī. ōdige mannaṇe"
+    },
+    "language-exercise-C": {
+      "devanagari": "उ. शुभनुडि",
+      "en": "U. Good sayings",
+      "hi": "उ. शुभ वचन",
+      "kn": "ಉ. ಶುಭನುಡಿ",
+      "latin": "u. śubhanuḍi"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್",
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch06-swatantryada-hanate",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ನಮಗೆ ಬಂದಿರುವ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಸದಾ ರಕ್ಷಣೆ ಮಾಡಿಕೊಳ್ಳಬೇಕು. ನಮ್ಮ ದೇಶದ ಅಭಿವೃದ್ಧಿಗಾಗಿ ಸದಾ ದುಡಿಯುತ್ತಿರಬೇಕು. ಧೀರತನದಿಂದ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಬೇಕು. ನಮ್ಮ ಸಾಧನೆಯ ಕಡೆಗೆ ಗಮನವಿರಬೇಕು. ದೇಶಕ್ಕಾಗಿ ಹೋರಾಡಿದ ಹುತಾತ್ಮರಿಗೆ ಗೌರವವನ್ನು ಸದಾ ಸಲ್ಲಿಸಬೇಕು ಎಂಬುದು ಈ ಪದ್ಯದ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "We must always protect the freedom we have received. We must always work for our country’s progress. We must guard the nation’s freedom with courage. Our attention must stay on achievement. We must always honour the martyrs who fought for the country—this is the aim of this poem.",
+        "hi": "हमें मिला स्वतंत्रता सदैव रक्षा करनी चाहिए। देश की उन्नति के लिए सदैव परिश्रम करते रहना चाहिए। वीरता से देश की स्वतंत्रता की रक्षा करनी चाहिए। हमारी दृष्टि उपलब्धि की ओर रहनी चाहिए। देश के लिए लड़े शहीदों को सदैव सम्मान देना चाहिए—यह इस कविता का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "नमगे बंदिरुव स्वातंत्र्यवन्नु सदा रक्षणे माडिकोळ्ळबेकु. नम्म देशद अभिवृद्धिगागि सदा दुडियुत्तिरबेकु. धीरतनदिंद देशद स्वातंत्र्यवन्नु कापाडिकोळ्ळबेकु. नम्म साधनेय कडेगे गमनविरबेकु. देशक्कागि होराडिद हुतात्मरिगे गौरववन्नु सदा सल्लिसबेकु एंबुदु ई पद्यद आशयवागिदे.",
+        "latin": "namage bandiruva svātantryavannu sadā rakṣaṇe māḍikoḷḷabēku. namma dēśada abhivr̥ddhigāgi sadā duḍiyuttirabēku. dhīratanadinda dēśada svātantryavannu kāpāḍikoḷḷabēku. namma sādhaneya kaḍege gamanavirabēku. dēśakkāgi hōrāḍida hutātmarige gauravavannu sadā sallisabēku embudu ī padyada āśayavāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಸದಾ ಉರಿಯುತಿರುವ ಹಾಗೆ ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ",
+      "translations": {
+        "en": "May the lamp of freedom keep burning always",
+        "hi": "सदैव जलती रहे स्वतंत्रता की दीपिका"
+      },
+      "transliterations": {
+        "devanagari": "सदा उरियुतिरुव हागे स्वातंत्र्यद हणते",
+        "latin": "sadā uriyutiruva hāge svātantryada haṇate"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ದುಡಿಮೆ ತೈಲವೆರೆಯುತಿರಲು ಬಿಡುವಿಲ್ಲದೆ ಜನತೆ",
+      "translations": {
+        "en": "as the people ceaselessly pour the oil of labour",
+        "hi": "जनता बिना विश्राम श्रम का तेल डालती रहे"
+      },
+      "transliterations": {
+        "devanagari": "दुडिमे तैलवेरेयुतिरलु बिडुविल्लदे जनते",
+        "latin": "duḍime tailavereyutiralu biḍuvillade janate"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಎಂತು ಕುಂದಬಹುದು ಎಮ್ಮ ತಾಯ್ನಾಡಿನ ಘನತೆ || ಸದಾ ||",
+      "translations": {
+        "en": "How can the dignity of our motherland diminish? || always ||",
+        "hi": "कैसे घट सकती है हमारी मातृभूमि की गरिमा || सदैव ||"
+      },
+      "transliterations": {
+        "devanagari": "एंतु कुंदबहुदु एम्म ताय्नाडिन घनते || सदा ||",
+        "latin": "entu kundabahudu emma tāynāḍina ghanate || sadā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಮುಳ್ಳಿನಿಂದ ಅರಿವೆ ಬಿಡಿಸಿದಂತೆ ಬಂತೆ ಮುಕ್ತಿ?",
+      "translations": {
+        "en": "Did freedom come as easily as pulling a thorn from cloth?",
+        "hi": "क्या स्वतंत्रता काँटे से कपड़ा निकालने जैसी सहज आई?"
+      },
+      "transliterations": {
+        "devanagari": "मुळ्ळिनिंद अरिवे बिडिसिदंते बंते मुक्ति?",
+        "latin": "muḷḷininda arive biḍisidante bante mukti?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಹುಲಿಯ ಬಾಯ ಮೇವ ಕಸಿಯುವಂತೆ ಧೀರಶಕ್ತಿ",
+      "translations": {
+        "en": "Like snatching food from a tiger’s mouth—heroic strength",
+        "hi": "बाघ के मुँह से चारा छीनने जैसी वीर शक्ति"
+      },
+      "transliterations": {
+        "devanagari": "हुलिय बाय मेव कसियुवंते धीरशक्ति",
+        "latin": "huliya bāya mēva kasiyuvante dhīraśakti"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಪಡೆಯಿತದನು ಜನತೆ, ಬಾಳ ಬೆಸೆಯೆ ನಾಡ ಭಕ್ತಿ || ಸದಾ ||",
+      "translations": {
+        "en": "The people obtained it; let love of the land bind our lives || always ||",
+        "hi": "जनता ने उसे पाया; जीवन में जुड़ जाए देशभक्ति || सदैव ||"
+      },
+      "transliterations": {
+        "devanagari": "पडेयितदनु जनते, बाळ बेसेये नाड भक्ति || सदा ||",
+        "latin": "paḍeyitadanu janate, bāḷa beseye nāḍa bhakti || sadā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಸ್ವಾತಂತ್ರ್ಯದ ಜೊತೆಗೆ ಬಂದು ಕೂಡಲಿಲ್ಲ ಗಳಿಕೆ",
+      "translations": {
+        "en": "Gain did not come along with freedom",
+        "hi": "स्वतंत्रता के साथ कमाई नहीं आई"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्यद जोतेगे बंदु कूडलिल्ल गळिके",
+        "latin": "svātantryada jotege bandu kūḍalilla gaḷike"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ವ್ಯಕ್ತಿ ವ್ಯಕ್ತಿ ಬೆವರ ಹೀರಿ ಮರವಾಗಿದೆ ಮೊಳಕೆ,",
+      "translations": {
+        "en": "Absorbing each person’s sweat, the sprout has become a tree,",
+        "hi": "व्यक्ति-व्यक्ति का पसीना सोखकर अंकुर वृक्ष बन गया,"
+      },
+      "transliterations": {
+        "devanagari": "व्यक्ति व्यक्ति बेवर हीरि मरवागिदे मोळके,",
+        "latin": "vyakti vyakti bevara hīri maravāgide moḷake,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಮೇಲೇರಿದ ಹಾಗೆ ಭದ್ರ ಪಾಯವುಂಟು ಗೃಹಕೆ || ಸದಾ ||",
+      "translations": {
+        "en": "As it rises higher, the house has a firm foundation || always ||",
+        "hi": "जैसे ऊपर चढ़े, घर को दृढ़ नींव मिलती है || सदैव ||"
+      },
+      "transliterations": {
+        "devanagari": "मेलेरिद हागे भद्र पायवुंटु गृहके || सदा ||",
+        "latin": "mēlērida hāge bhadra pāyavuṇṭu gr̥hake || sadā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಸಾಗಿದಂತೆ ಸಲ್ಲುತ್ತಿರಲಿ ಸಾಧನೆಯೆಡೆ ಗಮನ",
+      "translations": {
+        "en": "As we go on, let attention keep falling toward achievement",
+        "hi": "आगे बढ़ते हुए उपलब्धि की ओर ध्यान बना रहे"
+      },
+      "transliterations": {
+        "devanagari": "सागिदंते सल्लुत्तिरलि साधनेयेडे गमन",
+        "latin": "sāgidante salluttirali sādhaneyeḍe gamana"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಪ್ರಾಣವನ್ನೆ ಪಗಡೆಯಾಡಿದವರಿಗೆಮ್ಮ ನಮನ,",
+      "translations": {
+        "en": "Our salute to those who staked their very lives,",
+        "hi": "प्राणों को दाँव पर लगाने वालों को हमारा नमन,"
+      },
+      "transliterations": {
+        "devanagari": "प्राणवन्ने पगडेयाडिदवरिगेम्म नमन,",
+        "latin": "prāṇavanne pagaḍeyāḍidavarigemma namana,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ತಾಯ ಮುಡಿಗೆ ದಿನವು ಏರುತಿರಲಿ ಹೂವು ದವನ || ಸದಾ ||",
+      "translations": {
+        "en": "May flowers and fragrant davana rise each day on mother’s hair || always ||",
+        "hi": "माँ की जूड़े पर प्रतिदिन फूल और दवना चढ़ते रहें || सदैव ||"
+      },
+      "transliterations": {
+        "devanagari": "ताय मुडिगे दिनवु एरुतिरलि हूवु दवन || सदा ||",
+        "latin": "tāya muḍige dinavu ērutirali hūvu davana || sadā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-intro-1",
+      "section": "author_intro",
+      "text": "ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್ : ಕವಿ ಕೊಕ್ಕರೆಹೊಸಹಳ್ಳಿ ಷೇಕ್ ಹೈದರ್ ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಅವರು 05-02-1936 ರಲ್ಲಿ ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲೆಯ ದೇವನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಷೇಕ್ ಹೈದರ್, ತಾಯಿ ಹಮೀದಾ ಬೇಗಂ. ಭೂಗರ್ಭಶಾಸ್ತ್ರದಲ್ಲಿ ಪದವಿಯನ್ನು ಪಡೆದು ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಅಧ್ಯಾಪಕರಾಗಿ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಇವರು ಮನಸು ಗಾಂಧಿಬಜಾರು, ನೆನೆದವರ ಮನದಲ್ಲಿ, ನಿತ್ಯೋತ್ಸವ, ಸುಮೂರ್ತ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರಿಗೆ ಪಂಪ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಪ್ರಶಸ್ತಿ, ಕೇಂದ್ರ ಮತ್ತು ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.",
+      "translations": {
+        "en": "K. S. Nisar Ahmed: Poet Kokkarehosahalli Sheikh Haider Nisar Ahmed was born on 05-02-1936 in Devanahalli of Bengaluru Rural district. Father Sheikh Haider, mother Hameeda Begum. After graduating in geology he began service as a teacher at Bangalore University. He has written works such as Manasu Gandhibazaaru, Nenedavara Manadalli, Nityotsava and Sumurta. He has been honoured with the Pampa Award, Nadoja Award, and Central and State Sahitya Akademi awards.",
+        "hi": "के. एस. निसार अहमद : कवि कोक्करेहोसहळ्ळि शेख हैदर निसार अहमद का जन्म 05-02-1936 को बेंगलूरु ग्रामीण जिले के देवनहळ्ळि में हुआ। पिता शेख हैदर, माता हमीदा बेगम। भूगर्भशास्त्र में उपाधि लेकर बेंगलूरु विश्वविद्यालय में अध्यापक के रूप में सेवा आरंभ की। उन्होंने मनसु गांधीबाजारु, नेनेदवर मनदल्लि, नित्योत्सव, सुमूर्त आदि कृतियाँ रची हैं। उन्हें पंप पुरस्कार, नादोज पुरस्कार, केंद्रीय एवं राज्य साहित्य अकादमी पुरस्कार देकर सम्मानित किया गया है।"
+      },
+      "transliterations": {
+        "devanagari": "के. एस्. निसार् अहम्मद् : कवि कोक्करेहोसहळ्ळि षेक् हैदर् निसार् अहम्मद् अवरु 05-02-1936 रल्लि बेंगळूरु ग्रामांतर जिल्लेय देवनहळ्ळियल्लि जनिसिदरु. तंदे षेक् हैदर्, तायि हमीदा बेगं. भूगर्भशास्त्रदल्लि पदवियन्नु पडेदु बेंगळूरु विश्वविद्यालयदल्लि अध्यापकरागि सेवेयन्नु प्रारंभिसिदरु. इवरु मनसु गांधिबजारु, नेनेदवर मनदल्लि, नित्योत्सव, सुमूर्त मोदलाद कृतिगळन्नु रचिसिद्दारे. इवरिगे पंप प्रशस्ति, नाडोज प्रशस्ति, केंद्र मत्तु राज्य साहित्य अकाडेमि प्रशस्तिगळन्नु नीडि गौरविसलागिदे.",
+        "latin": "ke. es. nisār ahammad : kavi kokkarehosahaḷḷi ṣēk haidar nisār ahammad avaru 05-02-1936 ralli beṅgaḷūru grāmāntara jilleya dēvanahaḷḷiyalli janisidaru. tande ṣēk haidar, tāyi hamīdā bēgaṁ. bhūgarbhaśāstradalli padaviyannu paḍedu beṅgaḷūru viśvavidyālayadalli adhyāpakarāgi sēveyannu prārambhisidaru. ivaru manasu gāndhibajāru, nenedavara manadalli, nityōtsava, sumūrta modalāda kr̥tigaḷannu racisiddāre. ivarige pampa praśasti, nāḍōja praśasti, kēndra mattu rājya sāhitya akāḍemi praśastigaḷannu nīḍi gauravisalāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-arive",
+      "text": "ಅರಿವೆ",
+      "translations": {
+        "en": "arive (cloth)",
+        "hi": "अरिवे"
+      },
+      "transliterations": {
+        "devanagari": "अरिवे",
+        "latin": "arive"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-arive-def",
+      "text": "ಬಟ್ಟೆ, ವಸ್ತ್ರ",
+      "translations": {
+        "en": "cloth, garment",
+        "hi": "कपड़ा, वस्त्र"
+      },
+      "transliterations": {
+        "devanagari": "बट्टे, वस्त्र",
+        "latin": "baṭṭe, vastra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kasi",
+      "text": "ಕಸಿ",
+      "translations": {
+        "en": "kasi (snatch)",
+        "hi": "कसि"
+      },
+      "transliterations": {
+        "devanagari": "कसि",
+        "latin": "kasi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kasi-def",
+      "text": "ಕಿತ್ತುಕೊಳ್ಳು",
+      "translations": {
+        "en": "snatch away, pull out",
+        "hi": "छीन लेना"
+      },
+      "transliterations": {
+        "devanagari": "कित्तुकोळ्ळु",
+        "latin": "kittukoḷḷu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kundu",
+      "text": "ಕುಂದು",
+      "translations": {
+        "en": "kundu (diminish)",
+        "hi": "कुंदु"
+      },
+      "transliterations": {
+        "devanagari": "कुंदु",
+        "latin": "kundu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kundu-def",
+      "text": "ಕೊರತೆ, ಕಡಿಮೆ",
+      "translations": {
+        "en": "shortage, decrease",
+        "hi": "कमी, घट जाना"
+      },
+      "transliterations": {
+        "devanagari": "कोरते, कडिमे",
+        "latin": "korate, kaḍime"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ghanate",
+      "text": "ಘನತೆ",
+      "translations": {
+        "en": "ghanate (dignity)",
+        "hi": "घनते"
+      },
+      "transliterations": {
+        "devanagari": "घनते",
+        "latin": "ghanate"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ghanate-def",
+      "text": "ಗೌರವ, ಹಿರಿಮೆ",
+      "translations": {
+        "en": "honour, greatness",
+        "hi": "सम्मान, गरिमा"
+      },
+      "transliterations": {
+        "devanagari": "गौरव, हिरिमे",
+        "latin": "gaurava, hirime"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-taila",
+      "text": "ತೈಲ",
+      "translations": {
+        "en": "taila (oil)",
+        "hi": "तैल"
+      },
+      "transliterations": {
+        "devanagari": "तैल",
+        "latin": "taila"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-taila-def",
+      "text": "ಎಣ್ಣೆ",
+      "translations": {
+        "en": "oil",
+        "hi": "तेल"
+      },
+      "transliterations": {
+        "devanagari": "एण्णे",
+        "latin": "eṇṇe"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-davana",
+      "text": "ದವನ",
+      "translations": {
+        "en": "davana",
+        "hi": "दवन"
+      },
+      "transliterations": {
+        "devanagari": "दवन",
+        "latin": "davana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-davana-def",
+      "text": "ಸುವಾಸನೆಯುಳ್ಳ ಒಂದು ಗಿಡ",
+      "translations": {
+        "en": "a fragrant plant",
+        "hi": "सुगंधित एक पौधा"
+      },
+      "transliterations": {
+        "devanagari": "सुवासनेयुळ्ळ ओंदु गिड",
+        "latin": "suvāsaneyuḷḷa ondu giḍa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-paya",
+      "text": "ಪಾಯ",
+      "translations": {
+        "en": "paya (foundation)",
+        "hi": "पाय"
+      },
+      "transliterations": {
+        "devanagari": "पाय",
+        "latin": "pāya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-paya-def",
+      "text": "ತಳಪಾಯ, ಅಡಿಪಾಯ",
+      "translations": {
+        "en": "foundation, base",
+        "hi": "नींव, आधार"
+      },
+      "transliterations": {
+        "devanagari": "तळपाय, अडिपाय",
+        "latin": "taḷapāya, aḍipāya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-mukti",
+      "text": "ಮುಕ್ತಿ",
+      "translations": {
+        "en": "mukti (freedom)",
+        "hi": "मुक्ति"
+      },
+      "transliterations": {
+        "devanagari": "मुक्ति",
+        "latin": "mukti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mukti-def",
+      "text": "ಬಿಡುಗಡೆ",
+      "translations": {
+        "en": "release, liberation",
+        "hi": "रिहाई"
+      },
+      "transliterations": {
+        "devanagari": "बिडुगडे",
+        "latin": "biḍugaḍe"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-mudi",
+      "text": "ಮುಡಿ",
+      "translations": {
+        "en": "mudi (hair/head)",
+        "hi": "मुडि"
+      },
+      "transliterations": {
+        "devanagari": "मुडि",
+        "latin": "muḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mudi-def",
+      "text": "ತಲೆ, ಕೂದಲು",
+      "translations": {
+        "en": "head, hair",
+        "hi": "सिर, बाल"
+      },
+      "transliterations": {
+        "devanagari": "तले, कूदलु",
+        "latin": "tale, kūdalu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-mevu",
+      "text": "ಮೇವು",
+      "translations": {
+        "en": "mevu (fodder)",
+        "hi": "मेवु"
+      },
+      "transliterations": {
+        "devanagari": "मेवु",
+        "latin": "mēvu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mevu-def",
+      "text": "ಆಹಾರ, ಗ್ರಾಸ",
+      "translations": {
+        "en": "food, fodder",
+        "hi": "आहार, चारा"
+      },
+      "transliterations": {
+        "devanagari": "आहार, ग्रास",
+        "latin": "āhāra, grāsa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hanate",
+      "text": "ಹಣತೆ",
+      "translations": {
+        "en": "hanate (lamp)",
+        "hi": "हणते"
+      },
+      "transliterations": {
+        "devanagari": "हणते",
+        "latin": "haṇate"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hanate-def",
+      "text": "ಮಣ್ಣಿನ ದೀಪ",
+      "translations": {
+        "en": "earthen lamp",
+        "hi": "मिट्टी का दीपक"
+      },
+      "transliterations": {
+        "devanagari": "मण्णिन दीप",
+        "latin": "maṇṇina dīpa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ನಮ್ಮ ತಾಯ್ನಾಡಿನ ಘನತೆ ಹೇಗೆ ಕುಂದಬಾರದು?",
+      "translations": {
+        "en": "How should the dignity of our motherland not diminish?",
+        "hi": "हमारी मातृभूमि की गरिमा कैसे नहीं घटनी चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म ताय्नाडिन घनते हेगे कुंदबारदु?",
+        "latin": "namma tāynāḍina ghanate hēge kundabāradu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಧೀರಶಕ್ತಿ ಉಳ್ಳವರು ಏನು ಮಾಡಬಲ್ಲರು?",
+      "translations": {
+        "en": "What can those with heroic strength do?",
+        "hi": "वीर शक्ति वाले क्या कर सकते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "धीरशक्ति उळ्ळवरु एनु माडबल्लरु?",
+        "latin": "dhīraśakti uḷḷavaru ēnu māḍaballaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಮೊಳಕೆ ಉಂಟಾದುದು ಹೇಗೆ?",
+      "translations": {
+        "en": "How did the sprout come into being?",
+        "hi": "अंकुर कैसे उत्पन्न हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "मोळके उंटादुदु हेगे?",
+        "latin": "moḷake uṇṭādudu hēge?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ನಮ್ಮ ಗಮನ ಯಾವುದರ ಕಡೆಗೆ ಸಲ್ಲಬೇಕು?",
+      "translations": {
+        "en": "Toward what should our attention go?",
+        "hi": "हमारा ध्यान किस ओर होना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म गमन यावुदर कडेगे सल्लबेकु?",
+        "latin": "namma gamana yāvudara kaḍege sallabēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಸದಾ ________________________________\\n____________________________________\\n________________________ ಘನತೆ || ಸದಾ ||",
+      "translations": {
+        "en": "Always ________________________________\n____________________________________\n________________________ dignity || always ||",
+        "hi": "सदैव ________________________________\n____________________________________\n________________________ गरिमा || सदैव ||"
+      },
+      "transliterations": {
+        "devanagari": "सदा ________________________________\\n____________________________________\\n________________________ घनते || सदा ||",
+        "latin": "sadā ________________________________\\n____________________________________\\n________________________ ghanate || sadā ||"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಸಾಗಿದಂತೆ ____________________________\\n____________________________________\\n________________________ ದವನ || ಸದಾ ||",
+      "translations": {
+        "en": "As we go on ____________________________\n____________________________________\n________________________ davana || always ||",
+        "hi": "आगे बढ़ते ____________________________\n____________________________________\n________________________ दवन || सदैव ||"
+      },
+      "transliterations": {
+        "devanagari": "सागिदंते ____________________________\\n____________________________________\\n________________________ दवन || सदा ||",
+        "latin": "sāgidante ____________________________\\n____________________________________\\n________________________ davana || sadā ||"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "grammar-a-p1",
+      "section": "grammar-A",
+      "text": "ನಾಮಪದದ ವಿಶೇಷ ಗುಣವನ್ನು ತಿಳಿಸುವ ಅಥವಾ ಸೂಚಿಸುವ ಪದವೇ `ಗುಣ ವಿಶೇಷಣ'. ಉದಾ : ರಿತೇಶನ ಬಳಿ ಕರಿಯ ಮೊಲವಿದೆ. ಇಲ್ಲಿ ‘ಕರಿಯ’ ಎಂಬುದು ಮೊಲದ ಬಣ್ಣವನ್ನು ತಿಳಿಸುತ್ತದೆ.",
+      "translations": {
+        "en": "A word that tells or indicates a special quality of a noun is a “qualitative adjective”. Example: Ritesh has a black rabbit. Here “black” tells the colour of the rabbit.",
+        "hi": "संज्ञा के विशेष गुण को बताने या सूचित करने वाला पद ही «गुण विशेषण» है। उदा.: रितेश के पास काला खरगोश है। यहाँ «काला» खरगोश का रंग बताता है।"
+      },
+      "transliterations": {
+        "devanagari": "नामपदद विशेष गुणवन्नु तिळिसुव अथवा सूचिसुव पदवे `गुण विशेषण'. उदा : रितेशन बळि करिय मोलविदे. इल्लि ‘करिय’ एंबुदु मोलद बण्णवन्नु तिळिसुत्तदे.",
+        "latin": "nāmapadada viśēṣa guṇavannu tiḷisuva athavā sūcisuva padavē `guṇa viśēṣaṇa'. udā : ritēśana baḷi kariya molavide. illi ‘kariya’ embudu molada baṇṇavannu tiḷisuttade."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-a-p2",
+      "section": "grammar-A",
+      "text": "1. ಕಾಂಚನಾ ಸುಂದರ ಹುಡುಗಿ.",
+      "translations": {
+        "en": "1. Kanchana is a beautiful girl.",
+        "hi": "1. कांचना सुंदर लड़की है।"
+      },
+      "transliterations": {
+        "devanagari": "1. कांचना सुंदर हुडुगि.",
+        "latin": "1. kāñcanā sundara huḍugi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-a-p3",
+      "section": "grammar-A",
+      "text": "2. ದರ್ಶಿನಿ ಕೆಂಪು ಲಂಗವನ್ನು ತೊಟ್ಟಿದ್ದಾಳೆ.",
+      "translations": {
+        "en": "2. Darshini is wearing a red skirt.",
+        "hi": "2. दर्शिनी ने लाल घागरा पहना है।"
+      },
+      "transliterations": {
+        "devanagari": "2. दर्शिनि केंपु लंगवन्नु तोट्टिद्दाळे.",
+        "latin": "2. darśini kempu laṅgavannu toṭṭiddāḷe."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-a-p4",
+      "section": "grammar-A",
+      "text": "3. ರಾಘುವಿನ ಹತ್ತಿರ ದೊಡ್ಡ ವಿಮಾನವಿದೆ.",
+      "translations": {
+        "en": "3. Raghu has a big aeroplane.",
+        "hi": "3. राघु के पास बड़ा विमान है।"
+      },
+      "transliterations": {
+        "devanagari": "3. राघुविन हत्तिर दोड्ड विमानविदे.",
+        "latin": "3. rāghuvina hattira doḍḍa vimānavide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-a-p5",
+      "section": "grammar-A",
+      "text": "ಇಲ್ಲಿ ಅಡಿಗೆರೆ ಎಳೆಯಲಾದ ‘ಸುಂದರ’, ‘ಕೆಂಪು’, ‘ದೊಡ್ಡ’ ಈ ಪದಗಳನ್ನು ಗಮನಿಸಿರಿ. ಬಣ್ಣ, ಗುಣ, ರೀತಿ, ಸ್ವಭಾವಗಳನ್ನು ತಿಳಿಸುವ ವಿಶೇಷಣಗಳಾಗಿವೆ. ಇವುಗಳನ್ನು ‘ಗುಣ ವಿಶೇಷಣ’ಗಳೆನ್ನುವರು.",
+      "translations": {
+        "en": "Notice the underlined words “beautiful”, “red”, and “big”. They are adjectives that tell colour, quality, manner, or nature. They are called “qualitative adjectives”.",
+        "hi": "यहाँ रेखांकित «सुंदर», «लाल», «बड़ा» पदों पर ध्यान दीजिए। ये रंग, गुण, रीति, स्वभाव बताने वाले विशेषण हैं। इन्हें «गुण विशेषण» कहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि अडिगेरे एळेयलाद ‘सुंदर’, ‘केंपु’, ‘दोड्ड’ ई पदगळन्नु गमनिसिरि. बण्ण, गुण, रीति, स्वभावगळन्नु तिळिसुव विशेषणगळागिवे. इवुगळन्नु ‘गुण विशेषण’गळेन्नुवरु.",
+        "latin": "illi aḍigere eḷeyalāda ‘sundara’, ‘kempu’, ‘doḍḍa’ ī padagaḷannu gamanisiri. baṇṇa, guṇa, rīti, svabhāvagaḷannu tiḷisuva viśēṣaṇagaḷāgive. ivugaḷannu ‘guṇa viśēṣaṇa’gaḷennuvaru."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "ಅ) ಗುಣವಿಶೇಷಣ ಎಂದರೇನು? ಉದಾಹರಣೆಯೊಂದಿಗೆ ವಿವರಿಸಿರಿ.",
+      "translations": {
+        "en": "A) What is a qualitative adjective? Explain with an example.",
+        "hi": "अ) गुणविशेषण क्या है? उदाहरण सहित समझाइए।"
+      },
+      "transliterations": {
+        "devanagari": "अ) गुणविशेषण एंदरेनु? उदाहरणेयोंदिगे विवरिसिरि.",
+        "latin": "a) guṇaviśēṣaṇa endarēnu? udāharaṇeyondige vivarisiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q2",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳಲ್ಲಿ ಗುಣವಿಶೇಷಣವನ್ನು ಗುರುತಿಸಿ ಅಡಿ ಗೆರೆ ಹಾಕಿರಿ. 1. ಲಾರಿಯು ತುಂಬಾ ಲಗೇಜನ್ನು ಹೊರಬಲ್ಲದು. 2. ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ವಿಶೇಷ ಅತಿಥಿಗಳ ಕೊಠಡಿಗಳಿರುತ್ತವೆ. 3. ವಿಮಾನ ನಿಲ್ದಾಣ ತುಂಬಾ ಸುಂದರವಾಗಿದೆ. 4. ಹಡಗು ಬಹಳ ದೊಡ್ಡದಾಗಿದೆ. 5. ಪ್ರಿಯಾಳ ಲಂಗ ಹಚ್ಚ ಹಸುರಾಗಿದೆ.",
+      "translations": {
+        "en": "B) In the given sentences, identify the qualitative adjective and underline it. 1. The lorry can carry a lot of luggage. 2. There are rooms for special guests at the airport. 3. The airport is very beautiful. 4. The ship is very big. 5. Priya’s skirt is bright green.",
+        "hi": "आ) दिए वाक्यों में गुणविशेषण पहचानकर रेखा खींचिए। 1. लॉरी बहुत सामान ढो सकती है। 2. विमान अड्डे में विशेष अतिथियों के कमरे होते हैं। 3. विमान अड्डा बहुत सुंदर है। 4. जहाज बहुत बड़ा है। 5. प्रिया का घागरा चटख हरा है।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कोट्टिरुव वाक्यगळल्लि गुणविशेषणवन्नु गुरुतिसि अडि गेरे हाकिरि. 1. लारियु तुंबा लगेजन्नु होरबल्लदु. 2. विमान निल्दाणदल्लि विशेष अतिथिगळ कोठडिगळिरुत्तवे. 3. विमान निल्दाण तुंबा सुंदरवागिदे. 4. हडगु बहळ दोड्डदागिदे. 5. प्रियाळ लंग हच्च हसुरागिदे.",
+        "latin": "ā) koṭṭiruva vākyagaḷalli guṇaviśēṣaṇavannu gurutisi aḍi gere hākiri. 1. lāriyu tumbā lagējannu horaballadu. 2. vimāna nildāṇadalli viśēṣa atithigaḷa koṭhaḍigaḷiruttave. 3. vimāna nildāṇa tumbā sundaravāgide. 4. haḍagu bahaḷa doḍḍadāgide. 5. priyāḷa laṅga hacca hasurāgide."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "1. ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಅವರ ಬಗೆಗೆ ಹೆಚ್ಚಿನ ವಿವರವನ್ನು ತಿಳಿಯಿರಿ.",
+      "translations": {
+        "en": "1. Learn more details about K. S. Nisar Ahmed.",
+        "hi": "1. के. एस. निसार अहमद के बारे में अधिक विवरण जानिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. के. एस्. निसार् अहम्मद् अवर बगेगे हेच्चिन विवरवन्नु तिळियिरि.",
+        "latin": "1. ke. es. nisār ahammad avara bagege heccina vivaravannu tiḷiyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q2",
+      "text": "2. ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಅವರ ‘ನಿತ್ಯೋತ್ಸವ’ ಕವನವನ್ನು ಸಂಗ್ರಹಿಸಿ, ಹಾಡಿರಿ.",
+      "translations": {
+        "en": "2. Collect and sing K. S. Nisar Ahmed’s poem “Nityotsava”.",
+        "hi": "2. के. एस. निसार अहमद की कविता «नित्योत्सव» संगृहीत कर गाइए।"
+      },
+      "transliterations": {
+        "devanagari": "2. के. एस्. निसार् अहम्मद् अवर ‘नित्योत्सव’ कवनवन्नु संग्रहिसि, हाडिरि.",
+        "latin": "2. ke. es. nisār ahammad avara ‘nityōtsava’ kavanavannu saṅgrahisi, hāḍiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q1",
+      "text": "1. ದೇಶಕ್ಕಾಗಿ ದುಡಿ; ದೇಶಕ್ಕಾಗಿ ಮಡಿ.",
+      "translations": {
+        "en": "1. Work for the country; die for the country.",
+        "hi": "1. देश के लिए परिश्रम करो; देश के लिए प्राण दो।"
+      },
+      "transliterations": {
+        "devanagari": "1. देशक्कागि दुडि; देशक्कागि मडि.",
+        "latin": "1. dēśakkāgi duḍi; dēśakkāgi maḍi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q2",
+      "text": "2. ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ.",
+      "translations": {
+        "en": "2. There is strength in unity.",
+        "hi": "2. एकता में बल है।"
+      },
+      "transliterations": {
+        "devanagari": "2. ओग्गट्टिनल्लि बलविदे.",
+        "latin": "2. oggaṭṭinalli balavide."
+      },
+      "type": "question"
+    }
+  ]
+}

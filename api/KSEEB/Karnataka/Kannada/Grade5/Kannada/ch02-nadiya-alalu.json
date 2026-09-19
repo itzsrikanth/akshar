@@ -1,0 +1,1349 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ. कोट्टिरुव प्रश्नेगळिगे ओंदोंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the given questions in one sentence each.",
+      "hi": "अ. दिए प्रश्नों के एक-एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. koṭṭiruva praśnegaḷige ondondu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कोट्टिरुव प्रश्नेगळिगे एरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the given questions in two or three sentences.",
+      "hi": "आ. दिए प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. koṭṭiruva praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. यारु, यारिगे, एके हेळिदरु?",
+      "en": "C. Who said it, to whom, and why?",
+      "hi": "इ. किसने, किसे, क्यों कहा?",
+      "kn": "ಇ. ಯಾರು, ಯಾರಿಗೆ, ಏಕೆ ಹೇಳಿದರು?",
+      "latin": "i. yāru, yārige, ēke hēḷidaru?"
+    },
+    "exercise-D": {
+      "devanagari": "ई. होंदिसि बरेयिरि.",
+      "en": "D. Match and write.",
+      "hi": "ई. मिलाकर लिखिए।",
+      "kn": "ಈ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "ī. hondisi bareyiri."
+    },
+    "exercise-E": {
+      "devanagari": "उ. बिट्ट स्थळगळन्नु तुंबिरि.",
+      "en": "U. Fill in the blanks.",
+      "hi": "उ. रिक्त स्थान भरिए।",
+      "kn": "ಉ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.",
+      "latin": "u. biṭṭa sthaḷagaḷannu tumbiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे उत्तरिसि",
+      "en": "A. Answer the following questions",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ",
+      "latin": "a. keḷagina praśnegaḷige uttarisi"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "आ. योजने",
+      "en": "B. Project",
+      "hi": "आ. परियोजना",
+      "kn": "ಆ. ಯೋಜನೆ",
+      "latin": "ā. yōjane"
+    },
+    "language-exercise-B": {
+      "devanagari": "इ. ओदिगे मन्नणे",
+      "en": "C. Recognition for reading",
+      "hi": "इ. पढ़ने की मान्यता",
+      "kn": "ಇ. ಓದಿಗೆ ಮನ್ನಣೆ",
+      "latin": "i. ōdige mannaṇe"
+    },
+    "language-exercise-C": {
+      "devanagari": "ई. शुभनुडि",
+      "en": "D. Good sayings",
+      "hi": "ई. शुभ वचन",
+      "kn": "ಈ. ಶುಭನುಡಿ",
+      "latin": "ī. śubhanuḍi"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 2,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch02-nadiya-alalu",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ನದಿಯ ಅಳಲು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ನಾವು ಇಂದು ನೀರಿನ ಮೂಲಗಳಾದ ಕೆರೆ, ಬಾವಿ, ನದಿ ಮೊದಲಾದವುಗಳನ್ನು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ರಕ್ಷಿಸದೆ ಅವುಗಳನ್ನು ಕಲುಷಿತಗೊಳಿಸುತ್ತಿದ್ದೇವೆ. ಇದರಿಂದಾಗಿ ನಮ್ಮ ಬದುಕಿಗೆ ಸಂಚಕಾರ ಎದುರಾಗುತ್ತಿದೆ. ನಮ್ಮ ಸುತ್ತಲಿನ ನೀರಿನ ಮೂಲಗಳನ್ನು ಶುದ್ಧವಾಗಿಡುವುದು ಅತ್ಯಗತ್ಯ.",
+      "translations": {
+        "en": "Today we are not protecting water sources such as lakes, wells and rivers properly; we are polluting them. Because of this, danger faces our lives. Keeping the water sources around us clean is essential.",
+        "hi": "आज हम तालाब, कुआँ, नदी आदि जल स्रोतों की सही रक्षा न कर उन्हें प्रदूषित कर रहे हैं। इससे हमारे जीवन के सामने संकट आ रहा है। आसपास के जल स्रोतों को शुद्ध रखना अत्यंत आवश्यक है।"
+      },
+      "transliterations": {
+        "devanagari": "नावु इंदु नीरिन मूलगळाद केरे, बावि, नदि मोदलादवुगळन्नु सरियाद रीतियल्लि रक्षिसदे अवुगळन्नु कलुषितगोळिसुत्तिद्देवे. इदरिंदागि नम्म बदुकिगे संचकार एदुरागुत्तिदे. नम्म सुत्तलिन नीरिन मूलगळन्नु शुद्धवागिडुवुदु अत्यगत्य.",
+        "latin": "nāvu indu nīrina mūlagaḷāda kere, bāvi, nadi modalādavugaḷannu sariyāda rītiyalli rakṣisade avugaḷannu kaluṣitagoḷisuttiddēve. idarindāgi namma badukige sañcakāra edurāguttide. namma suttalina nīrina mūlagaḷannu śuddhavāgiḍuvudu atyagatya."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "[ಶಾಲಾ ಮಕ್ಕಳು ಗುಂಪುಗುಂಪಾಗಿ ಸೇರಿದ್ದಾರೆ. ಎಲ್ಲರ ಮುಖದಲ್ಲೂ ಆತಂಕ. ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ದಾಖಲಾಗಿರುವ ಸಹಪಾಠಿಗಳ ಆರೋಗ್ಯವನ್ನು ತಿಳಿಯುವ ತವಕ. ಮಕ್ಕಳು ತಮ್ಮ ತಮ್ಮಲ್ಲಿಯೇ ಸಂಭಾಷಿಸುತ್ತಿದ್ದಾರೆ.]",
+      "translations": {
+        "en": "[School children have gathered in groups. Anxiety is on every face. They are eager to know the health of classmates admitted to hospital. The children are talking among themselves.]",
+        "hi": "[विद्यालय के बच्चे समूहों में इकट्ठे हैं। सबके चेहरे पर चिंता। अस्पताल में भर्ती सहपाठियों के स्वास्थ्य की उत्सुकता। बच्चे आपस में बात कर रहे हैं।]"
+      },
+      "transliterations": {
+        "devanagari": "[शाला मक्कळु गुंपुगुंपागि सेरिद्दारे. एल्लर मुखदल्लू आतंक. आस्पत्रेयल्लि दाखलागिरुव सहपाठिगळ आरोग्यवन्नु तिळियुव तवक. मक्कळु तम्म तम्मल्लिये संभाषिसुत्तिद्दारे.]",
+        "latin": "[śālā makkaḷu gumpugumpāgi sēriddāre. ellara mukhadallū ātaṅka. āspatreyalli dākhalāgiruva sahapāṭhigaḷa ārōgyavannu tiḷiyuva tavaka. makkaḷu tamma tammalliyē sambhāṣisuttiddāre.]"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ಕಲಾವತಿ",
+      "text": "ಎಂಥ ಅನಾಹುತ ನಡೆದುಹೋಯಿತು! ನಮ್ಮ ಗೆಳೆಯ ಗೆಳತಿಯರಿಗೆ ಹೀಗೆ ಆಗಬಾರದಿತ್ತು.",
+      "translations": {
+        "en": "What a disaster happened! This should not have happened to our friends.",
+        "hi": "क्या अनर्थ हो गया! हमारे मित्रों के साथ ऐसा नहीं होना चाहिए था।"
+      },
+      "transliterations": {
+        "devanagari": "एंथ अनाहुत नडेदुहोयितु! नम्म गेळेय गेळतियरिगे हीगे आगबारदित्तु.",
+        "latin": "entha anāhuta naḍeduhōyitu! namma geḷeya geḷatiyarige hīge āgabāradittu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ಸ್ನೇಹ",
+      "text": "ಅವರಿಗೆ ಏನಾಯಿತು?",
+      "translations": {
+        "en": "What happened to them?",
+        "hi": "उन्हें क्या हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "अवरिगे एनायितु?",
+        "latin": "avarige ēnāyitu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ಮನು",
+      "text": "ಅಯ್ಯೋ! ನಿನಗೆ ತಿಳಿದಿಲ್ಲವೆ? ಈಜಲು ಹೋದ ಅವರೆಲ್ಲರೂ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Oh! Don’t you know? All who went swimming have been admitted to hospital.",
+        "hi": "अरे! तुम्हें पता नहीं? तैरने गए वे सब अस्पताल में भर्ती हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अय्यो! निनगे तिळिदिल्लवे? ईजलु होद अवरेल्लरू आस्पत्रेगे दाखलागिद्दारे.",
+        "latin": "ayyō! ninage tiḷidillave? ījalu hōda avarellarū āspatrege dākhalāgiddāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ಶಾಂತಲೆ",
+      "text": "ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಲು ಅವರಿಗೆ ಏನಾಗಿತ್ತು?",
+      "translations": {
+        "en": "What happened to them that they were admitted to hospital?",
+        "hi": "अस्पताल भर्ती होने के लिए उन्हें क्या हुआ था?"
+      },
+      "transliterations": {
+        "devanagari": "आस्पत्रेगे दाखलागलु अवरिगे एनागित्तु?",
+        "latin": "āspatrege dākhalāgalu avarige ēnāgittu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "story",
+      "speaker": "ಸಲೀಮುಲ್ಲಾ",
+      "text": "ನಿನ್ನೆ ಭಾನುವಾರ ಶಾಲೆಗೆ ರಜೆ ಇತ್ತಲ್ಲವೇ? ಅವರೆಲ್ಲರೂ ಬೆಳಗ್ಗೆ ಆಟವಾಡಲು ಹೋಗಿದ್ದರು. ಮಧ್ಯಾಹ್ನದವರೆಗೂ ಆಟವಾಡಿ ಅನಂತರ ಸೆಕೆಯನ್ನು ತಾಳಲಾರದೆ ಊರಿನ ಪಕ್ಕದ ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡಿದರು.",
+      "translations": {
+        "en": "Yesterday was Sunday and school was off, wasn’t it? They all went to play in the morning. They played till noon and then, unable to bear the heat, bathed in the river beside the village.",
+        "hi": "कल रविवार को विद्यालय की छुट्टी थी न? वे सब सुबह खेलने गए थे। दोपहर तक खेलकर फिर गर्मी न सह सकने पर गाँव के किनारे नदी में नहाए।"
+      },
+      "transliterations": {
+        "devanagari": "निन्ने भानुवार शालेगे रजे इत्तल्लवे? अवरेल्लरू बेळग्गे आटवाडलु होगिद्दरु. मध्याह्नदवरेगू आटवाडि अनंतर सेकेयन्नु ताळलारदे ऊरिन पक्कद नदियल्लि स्नान माडिदरु.",
+        "latin": "ninne bhānuvāra śālege raje ittallavē? avarellarū beḷagge āṭavāḍalu hōgiddaru. madhyāhnadavaregū āṭavāḍi anantara sekeyannu tāḷalārade ūrina pakkada nadiyalli snāna māḍidaru."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "story",
+      "speaker": "ಸಲೀಮುಲ್ಲಾ",
+      "text": "ಪರಿಣಾಮವಾಗಿ ಅವರ ಮೈಮೇಲೆಲ್ಲಾ ದಪ್ಪ ದಪ್ಪ ಗುಳ್ಳೆಗಳು ಎದ್ದು ವಿಪರೀತ ತುರಿಕೆ ಪ್ರಾರಂಭವಾಯಿತು. ನೋವು ತಾಳಲಾರದೆ ದಂಡೆಯಲ್ಲಿ ಬಿದ್ದು ಹೊರಳಾಡಿದರು. ಯಾರೋ ದಾರಿಹೋಕರು ನರಳಾಟ ಕಂಡು ಅವರನ್ನು ಎತ್ತಿಕೊಂಡು ಹೋಗಿ ಆಸ್ಪತ್ರೆಗೆ ಸೇರಿಸಿದರು. ಅವರ ಆರೋಗ್ಯ ತೀರ ಹದಗೆಟ್ಟಿತ್ತು.",
+      "translations": {
+        "en": "As a result thick blisters rose all over their bodies and terrible itching began. Unable to bear the pain they rolled on the bank. Some passers-by saw their groaning, lifted them and took them to hospital. Their health had become very bad.",
+        "hi": "परिणामस्वरूप शरीर पर मोटे-मोटे छाले उठे और भयंकर खुजली शुरू हुई। दर्द न सह सककर किनारे पर लोटने लगे। राहगीरों ने कराह देखकर उन्हें उठाकर अस्पताल पहुँचाया। उनका स्वास्थ्य बहुत बिगड़ गया था।"
+      },
+      "transliterations": {
+        "devanagari": "परिणामवागि अवर मैमेलेल्ला दप्प दप्प गुळ्ळेगळु एद्दु विपरीत तुरिके प्रारंभवायितु. नोवु ताळलारदे दंडेयल्लि बिद्दु होरळाडिदरु. यारो दारिहोकरु नरळाट कंडु अवरन्नु एत्तिकोंडु होगि आस्पत्रेगे सेरिसिदरु. अवर आरोग्य तीर हदगेट्टित्तु.",
+        "latin": "pariṇāmavāgi avara maimēlellā dappa dappa guḷḷegaḷu eddu viparīta turike prārambhavāyitu. nōvu tāḷalārade daṇḍeyalli biddu horaḷāḍidaru. yārō dārihōkaru naraḷāṭa kaṇḍu avarannu ettikoṇḍu hōgi āspatrege sērisidaru. avara ārōgya tīra hadageṭṭittu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "(ಮಕ್ಕಳು ಆಸ್ಪತ್ರೆಗೆ ಬರುತ್ತಾರೆ. ವೈದ್ಯರು ಪರೀಕ್ಷಾ ಕೊಠಡಿಯಿಂದ ಹೊರಬರುತ್ತಾರೆ.)",
+      "translations": {
+        "en": "(The children come to the hospital. The doctor comes out of the examination room.)",
+        "hi": "(बच्चे अस्पताल आते हैं। डॉक्टर जाँच कक्ष से बाहर आते हैं।)"
+      },
+      "transliterations": {
+        "devanagari": "(मक्कळु आस्पत्रेगे बरुत्तारे. वैद्यरु परीक्षा कोठडियिंद होरबरुत्तारे.)",
+        "latin": "(makkaḷu āspatrege baruttāre. vaidyaru parīkṣā koṭhaḍiyinda horabaruttāre.)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d7",
+      "section": "story",
+      "speaker": "ದಿಲೀಪ್",
+      "text": "ನಮ್ಮ ಗೆಳೆಯರ ಸ್ಥಿತಿ ಹೇಗಿದೆ ಡಾಕ್ಟರ್?",
+      "translations": {
+        "en": "Doctor, how are our friends?",
+        "hi": "डॉक्टर, हमारे मित्रों की स्थिति कैसी है?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म गेळेयर स्थिति हेगिदे डाक्टर्?",
+        "latin": "namma geḷeyara sthiti hēgide ḍākṭar?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d8",
+      "section": "story",
+      "speaker": "ವೈದ್ಯರು",
+      "text": "ಇನ್ನೂ ಏನನ್ನು ಹೇಳುವಂತಿಲ್ಲ ಮಕ್ಕಳೆ! ಆದರೆ ಚಿಂತೆಗೆ ಕಾರಣವಿಲ್ಲ ಅಂತ ತೋರುತ್ತದೆ.",
+      "translations": {
+        "en": "I cannot say anything yet, children! But there seems no cause for worry.",
+        "hi": "अभी कुछ कहने जैसा नहीं, बच्चों! पर चिंता का कारण नहीं लगता।"
+      },
+      "transliterations": {
+        "devanagari": "इन्नू एनन्नु हेळुवंतिल्ल मक्कळे! आदरे चिंतेगे कारणविल्ल अंत तोरुत्तदे.",
+        "latin": "innū ēnannu hēḷuvantilla makkaḷe! ādare cintege kāraṇavilla anta tōruttade."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d9",
+      "section": "story",
+      "speaker": "ರಮ್ಯ",
+      "text": "ಅವರಿಗೆ ಏನಾಗಿತ್ತು ಡಾಕ್ಟರ್?",
+      "translations": {
+        "en": "What happened to them, Doctor?",
+        "hi": "उन्हें क्या हुआ था डॉक्टर?"
+      },
+      "transliterations": {
+        "devanagari": "अवरिगे एनागित्तु डाक्टर्?",
+        "latin": "avarige ēnāgittu ḍākṭar?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d10",
+      "section": "story",
+      "speaker": "ವೈದ್ಯರು",
+      "text": "ಅವರಿಗೆ ನದಿಯ ನೀರಿನ ಮಾಲಿನ್ಯದ ಸೋಂಕು ತಗುಲಿದೆ. ಪರಿಣಾಮವಾಗಿ ಇಡೀ ದೇಹದಲ್ಲಿ ಗುಳ್ಳೆಗಳೆದ್ದಿವೆ. ತುರಿಕೆ ತಡೆಯಲಾರದೆ ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "They have an infection from the river’s polluted water. As a result blisters have risen all over the body. Unable to bear the itch they have fainted.",
+        "hi": "उन्हें नदी के प्रदूषित जल का संक्रमण लगा है। परिणामस्वरूप पूरे शरीर पर छाले उठे हैं। खुजली न सह सककर बेहोश हो गए हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अवरिगे नदिय नीरिन मालिन्यद सोंकु तगुलिदे. परिणामवागि इडी देहदल्लि गुळ्ळेगळेद्दिवे. तुरिके तडेयलारदे मूर्छे होगिद्दारे.",
+        "latin": "avarige nadiya nīrina mālinyada sōṅku tagulide. pariṇāmavāgi iḍī dēhadalli guḷḷegaḷeddive. turike taḍeyalārade mūrche hōgiddāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d11",
+      "section": "story",
+      "speaker": "ದೀಪಕ್",
+      "text": "ಹಾಗಾದರೆ ನದಿಯ ನೀರು ಮಲಿನವಾಗಲು ಕಾರಣವೇನು?",
+      "translations": {
+        "en": "Then what is the reason the river water became dirty?",
+        "hi": "तो नदी का जल गंदा होने का कारण क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "हागादरे नदिय नीरु मलिनवागलु कारणवेनु?",
+        "latin": "hāgādare nadiya nīru malinavāgalu kāraṇavēnu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d12",
+      "section": "story",
+      "speaker": "ವೈದ್ಯರು",
+      "text": "ಮನುಷ್ಯರ ಸ್ವಾರ್ಥವೇ ಇದಕ್ಕೆ ಕಾರಣ.",
+      "translations": {
+        "en": "Human selfishness itself is the reason for this.",
+        "hi": "मनुष्यों का स्वार्थ ही इसका कारण है।"
+      },
+      "transliterations": {
+        "devanagari": "मनुष्यर स्वार्थवे इदक्के कारण.",
+        "latin": "manuṣyara svārthavē idakke kāraṇa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d13",
+      "section": "story",
+      "speaker": "ದಿಲೀಪ್",
+      "text": "ಡಾಕ್ಟರ್, ನಾವು ನದಿಯ ಹತ್ತಿರ ಹೋಗಿ ಬರೋಣವೆ?",
+      "translations": {
+        "en": "Doctor, shall we go to the river and come back?",
+        "hi": "डॉक्टर, हम नदी के पास जाकर आएँ?"
+      },
+      "transliterations": {
+        "devanagari": "डाक्टर्, नावु नदिय हत्तिर होगि बरोणवे?",
+        "latin": "ḍākṭar, nāvu nadiya hattira hōgi barōṇave?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d14",
+      "section": "story",
+      "speaker": "ವೈದ್ಯರು",
+      "text": "ಆಗಬಹುದು, ಹೋಗಿ ಬನ್ನಿ.",
+      "translations": {
+        "en": "You may; go and come.",
+        "hi": "हो सकता है, जाकर आओ।"
+      },
+      "transliterations": {
+        "devanagari": "आगबहुदु, होगि बन्नि.",
+        "latin": "āgabahudu, hōgi banni."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "(ಮಕ್ಕಳೆಲ್ಲರೂ ನದಿಯ ಹತ್ತಿರ ಬರುತ್ತಾರೆ. ನದಿಯ ದಡದಲ್ಲಿ ನಿಂತು ನೋಡುತ್ತಾರೆ.)",
+      "translations": {
+        "en": "(All the children come near the river. They stand on the bank and look.)",
+        "hi": "(सभी बच्चे नदी के पास आते हैं। किनारे खड़े देख रहे हैं।)"
+      },
+      "transliterations": {
+        "devanagari": "(मक्कळेल्लरू नदिय हत्तिर बरुत्तारे. नदिय दडदल्लि निंतु नोडुत्तारे.)",
+        "latin": "(makkaḷellarū nadiya hattira baruttāre. nadiya daḍadalli nintu nōḍuttāre.)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d15",
+      "section": "story",
+      "speaker": "ಶಾಂತಲೆ",
+      "text": "ಛೇ! ಎಂಥ ವಾಸನೆ! ಇಲ್ಲಿ ನಿಲ್ಲಲು ಆಗುತ್ತಿಲ್ಲ.",
+      "translations": {
+        "en": "Ugh! What a smell! One cannot stand here.",
+        "hi": "छिः! कैसी बदबू! यहाँ खड़ा नहीं रहा जाता।"
+      },
+      "transliterations": {
+        "devanagari": "छे! एंथ वासने! इल्लि निल्ललु आगुत्तिल्ल.",
+        "latin": "chē! entha vāsane! illi nillalu āguttilla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d16",
+      "section": "story",
+      "speaker": "ದೀಪಕ್",
+      "text": "ಹೌದು, ಈ ನದಿಯ ನೀರು ಎಷ್ಟು ಕಲುಷಿತವಾಗಿದೆ.",
+      "translations": {
+        "en": "Yes, how polluted this river’s water is.",
+        "hi": "हाँ, इस नदी का जल कितना प्रदूषित है।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, ई नदिय नीरु एष्टु कलुषितवागिदे.",
+        "latin": "haudu, ī nadiya nīru eṣṭu kaluṣitavāgide."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d17",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "(ಅಳುತ್ತಾ) ಮಕ್ಕಳೇ, ನೀವು ಹೇಳುತ್ತಿರುವುದು ನಿಜ.",
+      "translations": {
+        "en": "(weeping) Children, what you are saying is true.",
+        "hi": "(रोते हुए) बच्चों, तुम जो कह रहे हो सत्य है।"
+      },
+      "transliterations": {
+        "devanagari": "(अळुत्ता) मक्कळे, नीवु हेळुत्तिरुवुदु निज.",
+        "latin": "(aḷuttā) makkaḷē, nīvu hēḷuttiruvudu nija."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d18",
+      "section": "story",
+      "speaker": "ದಿಲೀಪ್",
+      "text": "(ಆಶ್ಚರ್ಯದಿಂದ) ಯಾರು ಮಾತನಾಡುತ್ತಿರುವುದು?",
+      "translations": {
+        "en": "(in surprise) Who is speaking?",
+        "hi": "(आश्चर्य से) कौन बोल रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "(आश्चर्यदिंद) यारु मातनाडुत्तिरुवुदु?",
+        "latin": "(āścaryadinda) yāru mātanāḍuttiruvudu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d19",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "ನಾನೇ ನದಿ ಮಾತನಾಡುತ್ತಿರುವುದು.",
+      "translations": {
+        "en": "It is I, the river, speaking.",
+        "hi": "मैं ही नदी बोल रही हूँ।"
+      },
+      "transliterations": {
+        "devanagari": "नाने नदि मातनाडुत्तिरुवुदु.",
+        "latin": "nānē nadi mātanāḍuttiruvudu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d20",
+      "section": "story",
+      "speaker": "ರಮ್ಯ",
+      "text": "ಅಯ್ಯೋ ನದಿಯೇ, ನೀನೇಕೆ ಅಳುತ್ತಿದ್ದೀಯೆ? ನಿನಗೇನಾಗಿದೆ?",
+      "translations": {
+        "en": "Oh river, why are you crying? What has happened to you?",
+        "hi": "अरे नदी, तू क्यों रो रही है? तुझे क्या हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "अय्यो नदिये, नीनेके अळुत्तिद्दीये? निनगेनागिदे?",
+        "latin": "ayyō nadiyē, nīnēke aḷuttiddīye? ninagēnāgide?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d21",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "ನನ್ನ ಅಳಲನ್ನು ಯಾರ ಬಳಿ ಹೇಳಿಕೊಳ್ಳಲಿ? ನನ್ನ ಈ ದುಸ್ಥಿತಿಗೆ ಮನುಷ್ಯರೇ ಕಾರಣ.",
+      "translations": {
+        "en": "To whom shall I tell my sorrow? Humans themselves are the cause of this wretched state of mine.",
+        "hi": "अपना दुख किससे कहूँ? मेरी इस दुर्दशा का कारण मनुष्य ही हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नन्न अळलन्नु यार बळि हेळिकोळ्ळलि? नन्न ई दुस्थितिगे मनुष्यरे कारण.",
+        "latin": "nanna aḷalannu yāra baḷi hēḷikoḷḷali? nanna ī dusthitige manuṣyarē kāraṇa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d22",
+      "section": "story",
+      "speaker": "ದಿಲೀಪ್",
+      "text": "ಮನುಷ್ಯರು ನಿನಗೇನು ಮಾಡಿದರು?",
+      "translations": {
+        "en": "What did humans do to you?",
+        "hi": "मनुष्यों ने तुझे क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "मनुष्यरु निनगेनु माडिदरु?",
+        "latin": "manuṣyaru ninagēnu māḍidaru?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d23",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "ಹಿಂದೆ ನಾನು ಎಷ್ಟು ಶುದ್ಧವಾಗಿದ್ದೆ ಗೊತ್ತೆ? ನನ್ನ ನೀರು ಗಾಜಿನಂತೆ ಸ್ವಚ್ಛವಾಗಿತ್ತು. ನನ್ನ ಒಡಲಲ್ಲಿ ಜಲಚರಗಳು ನಿರ್ಭಯವಾಗಿ ಜೀವಿಸುತ್ತಿದ್ದವು. ಪ್ರಾಣಿ, ಪಕ್ಷಿಗಳು, ಮನುಷ್ಯರು ನನ್ನ ನೀರನ್ನು ಕುಡಿದು ಸಂತೋಷದಿಂದ ಬದುಕುತ್ತಿದ್ದರು. ಆದರೆ, ಈಗ ನನ್ನ ನೀರು ವಿಷವಾಗಿದೆ.",
+      "translations": {
+        "en": "Do you know how pure I once was? My water was clean as glass. Aquatic creatures lived fearlessly in my belly. Animals, birds and humans drank my water and lived happily. But now my water has become poison.",
+        "hi": "पहले मैं कितनी शुद्ध थी, पता है? मेरा जल काँच जैसा स्वच्छ था। मेरे उदर में जलचर निर्भय जीते थे। पशु, पक्षी, मनुष्य मेरा जल पीकर प्रसन्न रहते थे। पर अब मेरा जल विष बन गया है।"
+      },
+      "transliterations": {
+        "devanagari": "हिंदे नानु एष्टु शुद्धवागिद्दे गोत्ते? नन्न नीरु गाजिनंते स्वच्छवागित्तु. नन्न ओडलल्लि जलचरगळु निर्भयवागि जीविसुत्तिद्दवु. प्राणि, पक्षिगळु, मनुष्यरु नन्न नीरन्नु कुडिदु संतोषदिंद बदुकुत्तिद्दरु. आदरे, ईग नन्न नीरु विषवागिदे.",
+        "latin": "hinde nānu eṣṭu śuddhavāgidde gotte? nanna nīru gājinante svacchavāgittu. nanna oḍalalli jalacaragaḷu nirbhayavāgi jīvisuttiddavu. prāṇi, pakṣigaḷu, manuṣyaru nanna nīrannu kuḍidu santōṣadinda badukuttiddaru. ādare, īga nanna nīru viṣavāgide."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d24",
+      "section": "story",
+      "speaker": "ಶಾಂತಲೆ",
+      "text": "ನಿನ್ನ ನೀರು ವಿಷವಾಗಲು ಕಾರಣವೇನು?",
+      "translations": {
+        "en": "What is the reason your water became poison?",
+        "hi": "तेरा जल विष होने का कारण क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "निन्न नीरु विषवागलु कारणवेनु?",
+        "latin": "ninna nīru viṣavāgalu kāraṇavēnu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d25",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "ಕಾರ್ಖಾನೆಗಳಿಂದ ಹೊರಬರುವ ರಾಸಾಯನಿಕ ವಸ್ತುಗಳು, ಊರಿನ ಚರಂಡಿ ನೀರು, ಕಸಕಡ್ಡಿ, ಪ್ಲಾಸ್ಟಿಕ್ ಎಲ್ಲವೂ ನನ್ನ ಒಡಲು ಸೇರುತ್ತಿವೆ. ಇದರಿಂದ ನನ್ನ ನೀರು ಕಲುಷಿತಗೊಂಡು ವಿಷವಾಗಿದೆ.",
+      "translations": {
+        "en": "Chemical substances from factories, town sewage, rubbish and plastic all enter my belly. Because of this my water has become polluted and poisonous.",
+        "hi": "कारखानों से निकलने वाले रासायनिक पदार्थ, नगर का नाला जल, कचरा, प्लास्टिक—सब मेरे उदर में आ रहे हैं। इससे मेरा जल प्रदूषित होकर विष हो गया है।"
+      },
+      "transliterations": {
+        "devanagari": "कार्खानेगळिंद होरबरुव रासायनिक वस्तुगळु, ऊरिन चरंडि नीरु, कसकड्डि, प्लास्टिक् एल्लवू नन्न ओडलु सेरुत्तिवे. इदरिंद नन्न नीरु कलुषितगोंडु विषवागिदे.",
+        "latin": "kārkhānegaḷinda horabaruva rāsāyanika vastugaḷu, ūrina caraṇḍi nīru, kasakaḍḍi, plāsṭik ellavū nanna oḍalu sēruttive. idarinda nanna nīru kaluṣitagoṇḍu viṣavāgide."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d26",
+      "section": "story",
+      "speaker": "ದೀಪಕ್",
+      "text": "ಹೌದು, ನಿನ್ನ ನೀರನ್ನು ಕುಡಿದು ಎಷ್ಟೋ ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳು ಸತ್ತಿವೆ. ನಮ್ಮ ಗೆಳೆಯರು ನಿನ್ನ ನೀರಿನಲ್ಲಿ ಈಜಿದ್ದರಿಂದಲೇ ಆಸ್ಪತ್ರೆ ಸೇರಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Yes, so many animals and birds have died drinking your water. Our friends are in hospital only because they swam in your water.",
+        "hi": "हाँ, तेरा जल पीकर कितने पशु-पक्षी मर चुके। हमारे मित्र तेरे जल में तैरने से ही अस्पताल पहुँचे हैं।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, निन्न नीरन्नु कुडिदु एष्टो प्राणि पक्षिगळु सत्तिवे. नम्म गेळेयरु निन्न नीरिनल्लि ईजिद्दरिंदले आस्पत्रे सेरिद्दारे.",
+        "latin": "haudu, ninna nīrannu kuḍidu eṣṭō prāṇi pakṣigaḷu sattive. namma geḷeyaru ninna nīrinalli ījiddarindalē āspatre sēriddāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d27",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "(ದುಃಖದಿಂದ) ನನ್ನಿಂದ ಯಾರಿಗೂ ತೊಂದರೆಯಾಗಬಾರದು ಎಂಬುದು ನನ್ನ ಆಸೆ. ಆದರೆ, ಮನುಷ್ಯರು ನನ್ನನ್ನು ಹಾಳುಮಾಡುತ್ತಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "(sadly) My wish is that no one should be troubled because of me. But humans are destroying me.",
+        "hi": "(दुख से) मेरी इच्छा है कि मुझसे किसी को कष्ट न हो। पर मनुष्य मुझे नष्ट कर रहे हैं।"
+      },
+      "transliterations": {
+        "devanagari": "(दुःखदिंद) नन्निंद यारिगू तोंदरेयागबारदु एंबुदु नन्न आसे. आदरे, मनुष्यरु नन्नन्नु हाळुमाडुत्तिद्दारे.",
+        "latin": "(duḥkhadinda) nanninda yārigū tondareyāgabāradu embudu nanna āse. ādare, manuṣyaru nannannu hāḷumāḍuttiddāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d28",
+      "section": "story",
+      "speaker": "ಕಲಾವತಿ",
+      "text": "ನದಿಯೇ, ಅಳಬೇಡ. ನಿನ್ನನ್ನು ರಕ್ಷಿಸುವ ಜವಾಬ್ದಾರಿ ನಮ್ಮದು. ನಾವು ಇನ್ನು ಮುಂದೆ ನಿನ್ನನ್ನು ಕಲುಷಿತಗೊಳಿಸುವುದಿಲ್ಲ.",
+      "translations": {
+        "en": "River, do not cry. The responsibility of protecting you is ours. From now on we will not pollute you.",
+        "hi": "नदी, मत रो। तेरी रक्षा का दायित्व हमारा है। अब आगे हम तुझे प्रदूषित नहीं करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "नदिये, अळबेड. निन्नन्नु रक्षिसुव जवाब्दारि नम्मदु. नावु इन्नु मुंदे निन्नन्नु कलुषितगोळिसुवुदिल्ल.",
+        "latin": "nadiyē, aḷabēḍa. ninnannu rakṣisuva javābdāri nammadu. nāvu innu munde ninnannu kaluṣitagoḷisuvudilla."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d29",
+      "section": "story",
+      "speaker": "ನದಿ",
+      "text": "(ಸಂತೋಷದಿಂದ) ಮಕ್ಕಳೇ, ನಿಮ್ಮ ಮಾತು ಕೇಳಿ ನನಗೆ ತುಂಬಾ ಸಂತೋಷವಾಯಿತು. ನೀವು ಹೇಳಿದಂತೆ ನಡೆದರೆ ನನ್ನ ಬದುಕು ಸಾರ್ಥಕವಾಗುತ್ತದೆ.",
+      "translations": {
+        "en": "(happily) Children, hearing your words I am very happy. If you act as you said, my life will be meaningful.",
+        "hi": "(प्रसन्नता से) बच्चों, तुम्हारी बात सुनकर मुझे बहुत खुशी हुई। जैसा कहा वैसा करो तो मेरा जीवन सार्थक होगा।"
+      },
+      "transliterations": {
+        "devanagari": "(संतोषदिंद) मक्कळे, निम्म मातु केळि ननगे तुंबा संतोषवायितु. नीवु हेळिदंते नडेदरे नन्न बदुकु सार्थकवागुत्तदे.",
+        "latin": "(santōṣadinda) makkaḷē, nimma mātu kēḷi nanage tumbā santōṣavāyitu. nīvu hēḷidante naḍedare nanna baduku sārthakavāguttade."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d30",
+      "section": "story",
+      "speaker": "ಎಲ್ಲರೂ",
+      "text": "ಖಂಡಿತವಾಗಿಯೂ ನಾವು ನಿನ್ನನ್ನು ರಕ್ಷಿಸುತ್ತೇವೆ.",
+      "translations": {
+        "en": "We will certainly protect you.",
+        "hi": "निश्चित रूप से हम तेरी रक्षा करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "खंडितवागियू नावु निन्नन्नु रक्षिसुत्तेवे.",
+        "latin": "khaṇḍitavāgiyū nāvu ninnannu rakṣisuttēve."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "vocab-alal",
+      "text": "ಅಳಲು",
+      "translations": {
+        "en": "alalu (lament)",
+        "hi": "अळलु"
+      },
+      "transliterations": {
+        "devanagari": "अळलु",
+        "latin": "aḷalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-alal-def",
+      "text": "ದುಃಖ, ಸಂಕಟ",
+      "translations": {
+        "en": "sorrow, distress",
+        "hi": "दुख, संकट"
+      },
+      "transliterations": {
+        "devanagari": "दुःख, संकट",
+        "latin": "duḥkha, saṅkaṭa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-anahutha",
+      "text": "ಅನಾಹುತ",
+      "translations": {
+        "en": "anahuta (disaster)",
+        "hi": "अनाहुत"
+      },
+      "transliterations": {
+        "devanagari": "अनाहुत",
+        "latin": "anāhuta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-anahutha-def",
+      "text": "ಆಪತ್ತು, ತೊಂದರೆ",
+      "translations": {
+        "en": "calamity, trouble",
+        "hi": "आपदा, परेशानी"
+      },
+      "transliterations": {
+        "devanagari": "आपत्तु, तोंदरे",
+        "latin": "āpattu, tondare"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kalushita",
+      "text": "ಕಲುಷಿತ",
+      "translations": {
+        "en": "kalushita (polluted)",
+        "hi": "कलुषित"
+      },
+      "transliterations": {
+        "devanagari": "कलुषित",
+        "latin": "kaluṣita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kalushita-def",
+      "text": "ಮಲಿನ, ಹೊಲಸು",
+      "translations": {
+        "en": "dirty, filthy",
+        "hi": "मलिन, गंदा"
+      },
+      "transliterations": {
+        "devanagari": "मलिन, होलसु",
+        "latin": "malina, holasu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jalachara",
+      "text": "ಜಲಚರ",
+      "translations": {
+        "en": "jalachara (aquatic)",
+        "hi": "जलचर"
+      },
+      "transliterations": {
+        "devanagari": "जलचर",
+        "latin": "jalacara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jalachara-def",
+      "text": "ನೀರಿನಲ್ಲಿ ವಾಸಿಸುವ ಪ್ರಾಣಿಗಳು",
+      "translations": {
+        "en": "creatures that live in water",
+        "hi": "जल में रहने वाले प्राणी"
+      },
+      "transliterations": {
+        "devanagari": "नीरिनल्लि वासिसुव प्राणिगळु",
+        "latin": "nīrinalli vāsisuva prāṇigaḷu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tavaka",
+      "text": "ತವಕ",
+      "translations": {
+        "en": "tavaka (eagerness)",
+        "hi": "तवक"
+      },
+      "transliterations": {
+        "devanagari": "तवक",
+        "latin": "tavaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tavaka-def",
+      "text": "ಆತುರ, ಅವಸರ",
+      "translations": {
+        "en": "urgency, haste",
+        "hi": "आतुरता, जल्दी"
+      },
+      "transliterations": {
+        "devanagari": "आतुर, अवसर",
+        "latin": "ātura, avasara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dusthiti",
+      "text": "ದುಸ್ಥಿತಿ",
+      "translations": {
+        "en": "dusthiti (wretched state)",
+        "hi": "दुस्थिति"
+      },
+      "transliterations": {
+        "devanagari": "दुस्थिति",
+        "latin": "dusthiti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dusthiti-def",
+      "text": "ಕೆಟ್ಟ ಸ್ಥಿತಿ",
+      "translations": {
+        "en": "bad condition",
+        "hi": "बुरी स्थिति"
+      },
+      "transliterations": {
+        "devanagari": "केट्ट स्थिति",
+        "latin": "keṭṭa sthiti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nirbhaya",
+      "text": "ನಿರ್ಭಯ",
+      "translations": {
+        "en": "nirbhaya (fearless)",
+        "hi": "निर्भय"
+      },
+      "transliterations": {
+        "devanagari": "निर्भय",
+        "latin": "nirbhaya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nirbhaya-def",
+      "text": "ಭಯವಿಲ್ಲದೆ",
+      "translations": {
+        "en": "without fear",
+        "hi": "बिना भय"
+      },
+      "transliterations": {
+        "devanagari": "भयविल्लदे",
+        "latin": "bhayavillade"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-murche",
+      "text": "ಮೂರ್ಛೆ",
+      "translations": {
+        "en": "murche (faint)",
+        "hi": "मूर्छा"
+      },
+      "transliterations": {
+        "devanagari": "मूर्छे",
+        "latin": "mūrche"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-murche-def",
+      "text": "ಪ್ರಜ್ಞೆತಪ್ಪು, ಎಚ್ಚರತಪ್ಪು",
+      "translations": {
+        "en": "loss of consciousness",
+        "hi": "होश खोना"
+      },
+      "transliterations": {
+        "devanagari": "प्रज्ञेतप्पु, एच्चरतप्पु",
+        "latin": "prajñetappu, eccaratappu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-rasayanika",
+      "text": "ರಾಸಾಯನಿಕ",
+      "translations": {
+        "en": "rasayanika (chemical)",
+        "hi": "रासायनिक"
+      },
+      "transliterations": {
+        "devanagari": "रासायनिक",
+        "latin": "rāsāyanika"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rasayanika-def",
+      "text": "ರಸಾಯನಶಾಸ್ತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ",
+      "translations": {
+        "en": "related to chemistry",
+        "hi": "रसायन से संबंधित"
+      },
+      "transliterations": {
+        "devanagari": "रसायनशास्त्रक्के संबंधिसिद",
+        "latin": "rasāyanaśāstrakke sambandhisida"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sanchakara",
+      "text": "ಸಂಚಕಾರ",
+      "translations": {
+        "en": "sanchakara (danger)",
+        "hi": "संचकार"
+      },
+      "transliterations": {
+        "devanagari": "संचकार",
+        "latin": "sañcakāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sanchakara-def",
+      "text": "ಕೇಡು, ನಾಶ",
+      "translations": {
+        "en": "harm, destruction",
+        "hi": "अनिष्ट, नाश"
+      },
+      "transliterations": {
+        "devanagari": "केडु, नाश",
+        "latin": "kēḍu, nāśa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sahapathi",
+      "text": "ಸಹಪಾಠಿ",
+      "translations": {
+        "en": "sahapathi (classmate)",
+        "hi": "सहपाठी"
+      },
+      "transliterations": {
+        "devanagari": "सहपाठि",
+        "latin": "sahapāṭhi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sahapathi-def",
+      "text": "ಜೊತೆಯಲ್ಲಿ ಓದುವವನು",
+      "translations": {
+        "en": "one who studies together",
+        "hi": "साथ पढ़ने वाला"
+      },
+      "transliterations": {
+        "devanagari": "जोतेयल्लि ओदुववनु",
+        "latin": "joteyalli ōduvavanu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sonku",
+      "text": "ಸೋಂಕು",
+      "translations": {
+        "en": "sonku (infection)",
+        "hi": "सोंकु"
+      },
+      "transliterations": {
+        "devanagari": "सोंकु",
+        "latin": "sōṅku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sonku-def",
+      "text": "ಅಂಟು, ತಗುಲು",
+      "translations": {
+        "en": "contagion, catching",
+        "hi": "संक्रमण"
+      },
+      "transliterations": {
+        "devanagari": "अंटु, तगुलु",
+        "latin": "aṇṭu, tagulu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಮಕ್ಕಳೆಲ್ಲರೂ ಆಸ್ಪತ್ರೆಗೆ ಏಕೆ ದಾಖಲಾಗಿದ್ದರು?",
+      "translations": {
+        "en": "Why had all the children been admitted to hospital?",
+        "hi": "सभी बच्चे अस्पताल में क्यों भर्ती हुए थे?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळेल्लरू आस्पत्रेगे एके दाखलागिद्दरु?",
+        "latin": "makkaḷellarū āspatrege ēke dākhalāgiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಮಕ್ಕಳಿಗೆ ಯಾವ ಸೋಂಕು ತಗುಲಿತ್ತು?",
+      "translations": {
+        "en": "What infection had the children caught?",
+        "hi": "बच्चों को कौन-सा संक्रमण लगा था?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळिगे याव सोंकु तगुलित्तु?",
+        "latin": "makkaḷige yāva sōṅku tagulittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ನದಿಯ ನೀರು ಮಲಿನವಾಗಲು ಕಾರಣವೇನು?",
+      "translations": {
+        "en": "What is the reason the river water became dirty?",
+        "hi": "नदी का जल गंदा होने का कारण क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "नदिय नीरु मलिनवागलु कारणवेनु?",
+        "latin": "nadiya nīru malinavāgalu kāraṇavēnu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ನದಿಯ ಒಡಲಿನಲ್ಲಿ ಯಾರು ನಿರ್ಭಯವಾಗಿ ಜೀವಿಸುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "Who lived fearlessly in the river’s belly?",
+        "hi": "नदी के उदर में कौन निर्भय जीते थे?"
+      },
+      "transliterations": {
+        "devanagari": "नदिय ओडलिनल्लि यारु निर्भयवागि जीविसुत्तिद्दरु?",
+        "latin": "nadiya oḍalinalli yāru nirbhayavāgi jīvisuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ನದಿಯ ನೀರು ಯಾವುದರಿಂದ ಕಲುಷಿತಗೊಂಡು ವಿಷವಾಗಿದೆ?",
+      "translations": {
+        "en": "By what has the river water become polluted and poisonous?",
+        "hi": "नदी का जल किससे प्रदूषित होकर विष हो गया है?"
+      },
+      "transliterations": {
+        "devanagari": "नदिय नीरु यावुदरिंद कलुषितगोंडु विषवागिदे?",
+        "latin": "nadiya nīru yāvudarinda kaluṣitagoṇḍu viṣavāgide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡಿದ ಮಕ್ಕಳಿಗೆ ಏನಾಯಿತು?",
+      "translations": {
+        "en": "What happened to the children who bathed in the river?",
+        "hi": "नदी में नहाने वाले बच्चों को क्या हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "नदियल्लि स्नान माडिद मक्कळिगे एनायितु?",
+        "latin": "nadiyalli snāna māḍida makkaḷige ēnāyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಹಿಂದೆ ನದಿ ಹೇಗಿತ್ತು?",
+      "translations": {
+        "en": "How was the river earlier?",
+        "hi": "पहले नदी कैसी थी?"
+      },
+      "transliterations": {
+        "devanagari": "हिंदे नदि हेगित्तु?",
+        "latin": "hinde nadi hēgittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ನದಿಯು ತನ್ನ ದುಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಮಕ್ಕಳ ಬಳಿ ಏನೆಂದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "What did the river say to the children about its wretched state?",
+        "hi": "नदी ने अपनी दुर्दशा के बारे में बच्चों से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "नदियु तन्न दुस्थितिय बग्गे मक्कळ बळि एनेंदु हेळितु?",
+        "latin": "nadiyu tanna dusthitiya bagge makkaḷa baḷi ēnendu hēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಅವರಿಗೆ ನದಿಯ ನೀರಿನ ಮಾಲಿನ್ಯದ ಸೋಂಕು ತಗುಲಿದೆ.",
+      "translations": {
+        "en": "They have an infection from the river’s polluted water.",
+        "hi": "उन्हें नदी के प्रदूषित जल का संक्रमण लगा है।"
+      },
+      "transliterations": {
+        "devanagari": "अवरिगे नदिय नीरिन मालिन्यद सोंकु तगुलिदे.",
+        "latin": "avarige nadiya nīrina mālinyada sōṅku tagulide."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಛೇ! ಎಂಥ ವಾಸನೆ! ಇಲ್ಲಿ ನಿಲ್ಲಲು ಆಗುತ್ತಿಲ್ಲ.",
+      "translations": {
+        "en": "Ugh! What a smell! One cannot stand here.",
+        "hi": "छिः! कैसी बदबू! यहाँ खड़ा नहीं रहा जाता।"
+      },
+      "transliterations": {
+        "devanagari": "छे! एंथ वासने! इल्लि निल्ललु आगुत्तिल्ल.",
+        "latin": "chē! entha vāsane! illi nillalu āguttilla."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ನನ್ನ ಅಳಲನ್ನು ಯಾರ ಬಳಿ ಹೇಳಿಕೊಳ್ಳಲಿ?",
+      "translations": {
+        "en": "To whom shall I tell my sorrow?",
+        "hi": "अपना दुख किससे कहूँ?"
+      },
+      "transliterations": {
+        "devanagari": "नन्न अळलन्नु यार बळि हेळिकोळ्ळलि?",
+        "latin": "nanna aḷalannu yāra baḷi hēḷikoḷḷali?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "೧. ನದಿ\n೨. ಆಸ್ಪತ್ರೆ\n೩. ನೀರು\n೪. ಕಾರ್ಖಾನೆ\n\nಅ. ಗುಳ್ಳೆ\nಆ. ರಾಸಾಯನಿಕ\nಇ. ಅಳಲು\nಈ. ವೈದ್ಯರು\nಉ. ಕಲುಷಿತ",
+      "translations": {
+        "en": "1. river\n2. hospital\n3. water\n4. factory\n\nA. blister\nB. chemical\nC. lament\nD. doctors\nE. polluted",
+        "hi": "१. नदी\n२. अस्पताल\n३. जल\n४. कारखाना\n\nअ. छाला\nआ. रासायनिक\nइ. अळलु\nई. डॉक्टर\nउ. प्रदूषित"
+      },
+      "transliterations": {
+        "devanagari": "१. नदि\n२. आस्पत्रे\n३. नीरु\n४. कार्खाने\n\nअ. गुळ्ळे\nआ. रासायनिक\nइ. अळलु\nई. वैद्यरु\nउ. कलुषित",
+        "latin": "1. nadi\n2. āspatre\n3. nīru\n4. kārkhāne\n\na. guḷḷe\nā. rāsāyanika\ni. aḷalu\nī. vaidyaru\nu. kaluṣita"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಎಂಥ __________ ನಡೆದುಹೋಯಿತು!",
+      "translations": {
+        "en": "What a __________ happened!",
+        "hi": "क्या __________ हो गया!"
+      },
+      "transliterations": {
+        "devanagari": "एंथ __________ नडेदुहोयितु!",
+        "latin": "entha __________ naḍeduhōyitu!"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ತುರಿಕೆ ತಡೆಯಲಾರದೆ __________ ಹೋಗಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Unable to bear the itch they have __________.",
+        "hi": "खुजली न सह सककर __________ हो गए हैं।"
+      },
+      "transliterations": {
+        "devanagari": "तुरिके तडेयलारदे __________ होगिद्दारे.",
+        "latin": "turike taḍeyalārade __________ hōgiddāre."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ನನ್ನ ಈ ದುಸ್ಥಿತಿಗೆ __________ ಕಾರಣ.",
+      "translations": {
+        "en": "__________ are the cause of this wretched state of mine.",
+        "hi": "मेरी इस दुर्दशा का कारण __________ हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नन्न ई दुस्थितिगे __________ कारण.",
+        "latin": "nanna ī dusthitige __________ kāraṇa."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ನನ್ನ ನೀರು __________ ಸ್ವಚ್ಛವಾಗಿತ್ತು.",
+      "translations": {
+        "en": "My water was clean as __________.",
+        "hi": "मेरा जल __________ जैसा स्वच्छ था।"
+      },
+      "transliterations": {
+        "devanagari": "नन्न नीरु __________ स्वच्छवागित्तु.",
+        "latin": "nanna nīru __________ svacchavāgittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q5",
+      "text": "ನಿನ್ನನ್ನು ರಕ್ಷಿಸುವ __________ ನಮ್ಮದು.",
+      "translations": {
+        "en": "The __________ of protecting you is ours.",
+        "hi": "तेरी रक्षा का __________ हमारा है।"
+      },
+      "transliterations": {
+        "devanagari": "निन्नन्नु रक्षिसुव __________ नम्मदु.",
+        "latin": "ninnannu rakṣisuva __________ nammadu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "grammar-p1",
+      "section": "grammar",
+      "text": "ಸಂಯುಕ್ತಾಕ್ಷರಗಳು (ಒತ್ತಕ್ಷರಗಳು)\nಎರಡು ಅಥವಾ ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳಿಗೆ ಒಂದು ಸ್ವರ ಸೇರಿ ಆಗುವ ಅಕ್ಷರವೇ ಸಂಯುಕ್ತಾಕ್ಷರ ಅಥವಾ ಒತ್ತಕ್ಷರ. (ವ್ಯಂಜನ + ವ್ಯಂಜನ + ಸ್ವರ = ಸಂಯುಕ್ತಾಕ್ಷರ)",
+      "translations": {
+        "en": "Conjunct letters (ottakshara)\nA letter formed when one vowel joins two or more consonants is a conjunct letter or ottakshara. (consonant + consonant + vowel = conjunct letter)",
+        "hi": "संयुक्ताक्षर (ओत्तक्षर)\nदो या अधिक व्यंजनों से एक स्वर जुड़कर बना अक्षर संयुक्ताक्षर या ओत्तक्षर। (व्यंजन + व्यंजन + स्वर = संयुक्ताक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "संयुक्ताक्षरगळु (ओत्तक्षरगळु)\nएरडु अथवा एरडक्किंत हेच्चु व्यंजनगळिगे ओंदु स्वर सेरि आगुव अक्षरवे संयुक्ताक्षर अथवा ओत्तक्षर. (व्यंजन + व्यंजन + स्वर = संयुक्ताक्षर)",
+        "latin": "sanyuktākṣaragaḷu (ottakṣaragaḷu)\neraḍu athavā eraḍakkinta heccu vyañjanagaḷige ondu svara sēri āguva akṣaravē sanyuktākṣara athavā ottakṣara. (vyañjana + vyañjana + svara = sanyuktākṣara)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p2",
+      "section": "grammar",
+      "text": "ಸಂಯುಕ್ತಾಕ್ಷರಗಳಲ್ಲಿ ಎರಡು ವಿಭಾಗಗಳಿವೆ. 1) ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು 2) ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು",
+      "translations": {
+        "en": "There are two divisions of conjunct letters. 1) Homogeneous conjunct letters 2) Heterogeneous conjunct letters",
+        "hi": "संयुक्ताक्षर दो विभागों में। 1) सजातीय संयुक्ताक्षर 2) विजातीय संयुक्ताक्षर"
+      },
+      "transliterations": {
+        "devanagari": "संयुक्ताक्षरगळल्लि एरडु विभागगळिवे. 1) सजातीय संयुक्ताक्षरगळु 2) विजातीय संयुक्ताक्षरगळु",
+        "latin": "sanyuktākṣaragaḷalli eraḍu vibhāgagaḷive. 1) sajātīya sanyuktākṣaragaḷu 2) vijātīya sanyuktākṣaragaḷu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p3",
+      "section": "grammar",
+      "text": "ಒಂದೇ ಜಾತಿಯ ಎರಡು ವ್ಯಂಜನಗಳು (ಸ್ವರದ ಸಹಾಯದಿಂದ) ಒಂದಕ್ಕೊಂದು ಸೇರಿದರೆ ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳಾಗುವುವು. ಉದಾ :- ಅ + ಕ್ + ಕ್ + ಅ = ಅಕ್ಕ. ಇಲ್ಲಿ ಕ್ + ಕ್ (+ಅ) ಇವು ಸಜಾತೀಯ ವ್ಯಂಜನಗಳಾಗಿದ್ದು, ಇವು ಒಂದಕ್ಕೊಂದು ಕೂಡಿ ‘ಕ್ಕ’ ಎಂಬ ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರವಾಗಿದೆ. ಉದಾ :- ಅಪ್ಪ, ಅಮ್ಮ, ಅಣ್ಣ, ಅಕ್ಕರ, ಅಕ್ಕಪಕ್ಕ, ರಕ್ಕಸ ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "When two consonants of the same class join (with help of a vowel), they become homogeneous conjunct letters. Example: a + k + k + a = akka. Here k + k (+a) are homogeneous consonants and together form the homogeneous conjunct “kka”. Examples: appa, amma, anna, akkara, akkapakka, rakkasa, etc.",
+        "hi": "एक ही जाति के दो व्यंजन (स्वर की सहायता से) जुड़ें तो सजातीय संयुक्ताक्षर। उदा.: अ + क् + क् + अ = अक्क। यहाँ क् + क् (+अ) सजातीय व्यंजन हैं और «क्क» सजातीय संयुक्ताक्षर बना। उदा.: अप्प, अम्म, अण्ण, अक्कर, अक्कपक्क, रक्कस आदि।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदे जातिय एरडु व्यंजनगळु (स्वरद सहायदिंद) ओंदक्कोंदु सेरिदरे सजातीय संयुक्ताक्षरगळागुवुवु. उदा :- अ + क् + क् + अ = अक्क. इल्लि क् + क् (+अ) इवु सजातीय व्यंजनगळागिद्दु, इवु ओंदक्कोंदु कूडि ‘क्क’ एंब सजातीय संयुक्ताक्षरवागिदे. उदा :- अप्प, अम्म, अण्ण, अक्कर, अक्कपक्क, रक्कस इत्यादि.",
+        "latin": "ondē jātiya eraḍu vyañjanagaḷu (svarada sahāyadinda) ondakkondu sēridare sajātīya sanyuktākṣaragaḷāguvuvu. udā :- a + k + k + a = akka. illi k + k (+a) ivu sajātīya vyañjanagaḷāgiddu, ivu ondakkondu kūḍi ‘kka’ emba sajātīya sanyuktākṣaravāgide. udā :- appa, amma, aṇṇa, akkara, akkapakka, rakkasa ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p4",
+      "section": "grammar",
+      "text": "ಬೇರೆ ಬೇರೆ ಜಾತಿಯ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳು (ಸ್ವರದ ಸಹಾಯದಿಂದ) ಒಂದಕ್ಕೊಂದು ಕೂಡಿಕೊಂಡು ಉಂಟಾಗುವ ಅಕ್ಷರವು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ವೆನಿಸುವುದು. ಉದಾ : ಭ್ + ಅ + ಕ್ + ತ್ + ಅ = ಭಕ್ತ. ಇಲ್ಲಿ ಕ್ + ತ್ (+ ಅ).ಇವು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ವ್ಯಂಜನಗಳಾಗಿದ್ದು, ಇವೆರಡು ಕೂಡಿ ‘ಕ್ತ’ ಎಂಬ ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರವಾಗಿದೆ. ಉದಾ:- ಚಕ್ರ, ಆಜ್ಞೆ, ಸ್ತ್ರೀ, ವಸ್ತ್ರ ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "When two or more consonants of different classes join (with help of a vowel), the letter formed is called a heterogeneous conjunct letter. Example: bh + a + k + t + a = bhakta. Here k + t (+a) are heterogeneous consonants and together form the heterogeneous conjunct “kta”. Examples: chakra, ajne, stri, vastra, etc.",
+        "hi": "भिन्न जाति के दो या अधिक व्यंजन (स्वर की सहायता से) जुड़कर बना अक्षर विजातीय संयुक्ताक्षर कहलाता है। उदा.: भ् + अ + क् + त् + अ = भक्त। यहाँ क् + त् (+अ) विजातीय हैं और «क्त» विजातीय संयुक्ताक्षर बना। उदा.: चक्र, आज्ञे, स्त्री, वस्त्र आदि।"
+      },
+      "transliterations": {
+        "devanagari": "बेरे बेरे जातिय एरडु अथवा हेच्चु व्यंजनगळु (स्वरद सहायदिंद) ओंदक्कोंदु कूडिकोंडु उंटागुव अक्षरवु विजातीय संयुक्ताक्षर वेनिसुवुदु. उदा : भ् + अ + क् + त् + अ = भक्त. इल्लि क् + त् (+ अ).इवु विजातीय संयुक्ताक्षर व्यंजनगळागिद्दु, इवेरडु कूडि ‘क्त’ एंब विजातीय संयुक्ताक्षरवागिदे. उदा:- चक्र, आज्ञे, स्त्री, वस्त्र इत्यादि.",
+        "latin": "bēre bēre jātiya eraḍu athavā heccu vyañjanagaḷu (svarada sahāyadinda) ondakkondu kūḍikoṇḍu uṇṭāguva akṣaravu vijātīya sanyuktākṣara venisuvudu. udā : bh + a + k + t + a = bhakta. illi k + t (+ a).ivu vijātīya sanyuktākṣara vyañjanagaḷāgiddu, iveraḍu kūḍi ‘kta’ emba vijātīya sanyuktākṣaravāgide. udā:- cakra, ājñe, strī, vastra ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q1",
+      "text": "1. ಸಂಯುಕ್ತಾಕ್ಷರಗಳು ಎಂದರೇನು ?",
+      "translations": {
+        "en": "1. What are conjunct letters?",
+        "hi": "1. संयुक्ताक्षर क्या हैं?"
+      },
+      "transliterations": {
+        "devanagari": "1. संयुक्ताक्षरगळु एंदरेनु ?",
+        "latin": "1. sanyuktākṣaragaḷu endarēnu ?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q2",
+      "text": "2. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನು ಸಜಾತೀಯ, ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನಾಗಿ ವಿಂಗಡಿಸಿ ಬರೆಯಿರಿ. ಕ್ಕ, ಪ್ತ, ಸ್ವ, ರ್ರ, ಜ್ಜ, ಸ್ವ, ಸ್ಥ, ರ್ಯ, ಡ್ಗ, ಮ್ಮ",
+      "translations": {
+        "en": "2. Sort the conjunct letters given below into homogeneous and heterogeneous: kka, pta, sva, rra, jja, sva, stha, rya, ḍga, mma",
+        "hi": "2. नीचे दिए संयुक्ताक्षरों को सजातीय, विजातीय में बाँटकर लिखिए। क्क, प्त, स्व, र्र, ज्ज, स्व, स्थ, र्य, ड्ग, म्म"
+      },
+      "transliterations": {
+        "devanagari": "2. केळगे कोट्टिरुव संयुक्ताक्षरगळन्नु सजातीय, विजातीय संयुक्ताक्षरगळन्नागि विंगडिसि बरेयिरि. क्क, प्त, स्व, र्र, ज्ज, स्व, स्थ, र्य, ड्ग, म्म",
+        "latin": "2. keḷage koṭṭiruva sanyuktākṣaragaḷannu sajātīya, vijātīya sanyuktākṣaragaḷannāgi viṅgaḍisi bareyiri. kka, pta, sva, rra, jja, sva, stha, rya, ḍga, mma"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q3",
+      "text": "3. ಐದು ಸಜಾತೀಯ ಹಾಗೂ ಐದು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ಶಬ್ದಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "3. Write words containing five homogeneous and five heterogeneous conjunct letters.",
+        "hi": "3. पाँच सजातीय और पाँच विजातीय संयुक्ताक्षर वाले शब्द लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "3. ऐदु सजातीय हागू ऐदु विजातीय संयुक्ताक्षरगळन्नु होंदिरुव शब्दगळन्नु बरेयिरि.",
+        "latin": "3. aidu sajātīya hāgū aidu vijātīya sanyuktākṣaragaḷannu hondiruva śabdagaḷannu bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "1. ನದಿಗಳ ಮಾಲಿನ್ಯವನ್ನು ತಡೆಗಟ್ಟುವ ಅಂಶಗಳನ್ನು ಪಟ್ಟಿಮಾಡಿ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "1. List and write points that prevent river pollution.",
+        "hi": "1. नदी प्रदूषण रोकने वाले बिंदु सूचीबद्ध कर लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. नदिगळ मालिन्यवन्नु तडेगट्टुव अंशगळन्नु पट्टिमाडि बरेयिरि.",
+        "latin": "1. nadigaḷa mālinyavannu taḍegaṭṭuva anśagaḷannu paṭṭimāḍi bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "1. ನದಿಗಳ ಮಾಲಿನ್ಯ ಯಾವ ಕಾರಣಗಳಿಂದಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಓದಿ ತಿಳಿಯಿರಿ ಹಾಗೂ ಹಿರಿಯರಿಂದ ಕೇಳಿ ತಿಳಿಯಿರಿ.",
+      "translations": {
+        "en": "1. Read and learn for what reasons river pollution happens, and also ask elders and learn.",
+        "hi": "1. नदी प्रदूषण किन कारणों से होता है पढ़कर जानिए तथा बड़ों से पूछकर जानिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. नदिगळ मालिन्य याव कारणगळिंदागुत्तदे एंबुदन्नु ओदि तिळियिरि हागू हिरियरिंद केळि तिळियिरि.",
+        "latin": "1. nadigaḷa mālinya yāva kāraṇagaḷindāguttade embudannu ōdi tiḷiyiri hāgū hiriyarinda kēḷi tiḷiyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q2",
+      "text": "2. ದಿನಪತ್ರಿಕೆಯಲ್ಲಿ ಬರುವ ನದಿಗಳ ಮಾಲಿನ್ಯ ಕುರಿತಾದ ಲೇಖನಗಳನ್ನು ಓದಿ ತಿಳಿಯಿರಿ ಹಾಗೂ ನಿಮ್ಮ ಸಹಪಾಠಿಗಳೊಂದಿಗೆ ಚರ್ಚಿಸಿರಿ.",
+      "translations": {
+        "en": "2. Read newspaper articles on river pollution and discuss with your classmates.",
+        "hi": "2. दैनिक पत्र में आने वाले नदी प्रदूषण लेख पढ़िए और सहपाठियों से चर्चा कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "2. दिनपत्रिकेयल्लि बरुव नदिगळ मालिन्य कुरिताद लेखनगळन्नु ओदि तिळियिरि हागू निम्म सहपाठिगळोंदिगे चर्चिसिरि.",
+        "latin": "2. dinapatrikeyalli baruva nadigaḷa mālinya kuritāda lēkhanagaḷannu ōdi tiḷiyiri hāgū nimma sahapāṭhigaḷondige carcisiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q1",
+      "text": "1. ಮಾಲಿನ್ಯರಹಿತ ನದಿ ಮನುಕುಲದ ಭದ್ರತೆಗೆ ಬುನಾದಿ.",
+      "translations": {
+        "en": "1. A pollution-free river is the foundation of human security.",
+        "hi": "1. प्रदूषण-रहित नदी मानव सुरक्षा की नींव है।"
+      },
+      "transliterations": {
+        "devanagari": "1. मालिन्यरहित नदि मनुकुलद भद्रतेगे बुनादि.",
+        "latin": "1. mālinyarahita nadi manukulada bhadratege bunādi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q2",
+      "text": "2. ಅಶುದ್ಧ ನೀರು ಅನಾರೋಗ್ಯಕ್ಕೆ ಆಹ್ವಾನ.",
+      "translations": {
+        "en": "2. Impure water is an invitation to ill health.",
+        "hi": "2. अशुद्ध जल अस्वास्थ्य का निमंत्रण है।"
+      },
+      "transliterations": {
+        "devanagari": "2. अशुद्ध नीरु अनारोग्यक्के आह्वान.",
+        "latin": "2. aśuddha nīru anārōgyakke āhvāna."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q3",
+      "text": "3. ನೀರಿನಿಂದ ಉಸಿರು ನೀರಿನಿಂದ ಹಸಿರು.",
+      "translations": {
+        "en": "3. From water, breath; from water, greenery.",
+        "hi": "3. जल से श्वास, जल से हरियाली।"
+      },
+      "transliterations": {
+        "devanagari": "3. नीरिनिंद उसिरु नीरिनिंद हसिरु.",
+        "latin": "3. nīrininda usiru nīrininda hasiru."
+      },
+      "type": "question"
+    }
+  ]
+}

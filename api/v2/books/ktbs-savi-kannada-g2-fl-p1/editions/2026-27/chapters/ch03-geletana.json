@@ -1,0 +1,777 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g2-fl-p1",
+    "chapterId": "ch03-geletana",
+    "editionId": "2026-27",
+    "number": 3
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) ई प्रश्नेगळिगे ओन्दु वाक्यदल्लि उत्तर बरे :",
+      "en": "A) Answer these questions in one sentence:",
+      "hi": "अ) इन प्रश्नों के उत्तर एक वाक्य में लिखें:",
+      "kn": "ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆ :",
+      "latin": "a) ī praśnegaḷige ondu vākyadalli uttara bare:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) ई मातन्नु यारु यार्रिगे हेळिदरु :",
+      "en": "B) Who said this to whom:",
+      "hi": "आ) यह बात किसने किससे कही:",
+      "kn": "ಆ) ಈ ಮಾತನ್ನು ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು :",
+      "latin": "ā) ī mātannu yāru yārige hēḷidaru :"
+    },
+    "exercise-C": {
+      "devanagari": "इ) पाठदल्लि ओत्तक्षरविरुव पदगळन्नु गुरुतिसि खालि जागगळल्लि बरेयिरि:",
+      "en": "C) Identify the words with conjunct consonants in the lesson and write them in the blanks:",
+      "hi": "इ) पाठ में संयुक्त अक्षर वाले शब्दों को पहचानकर खाली जगहों में लिखें:",
+      "kn": "ಇ) ಪಾಠದಲ್ಲಿ ಒತ್ತಕ್ಷರವಿರುವ ಪದಗಳನ್ನು ಗುರುತಿಸಿ ಖಾಲಿ ಜಾಗಗಳಲ್ಲಿ ಬರೆಯಿರಿ:",
+      "latin": "i) pāṭhadalli ottakṣaraviruva padagaḷannu gurutisi khāli jāgagaḷalli bareyiri:"
+    },
+    "exercise-D": {
+      "devanagari": "ई) कोट्टिरुव अक्षरगळन्नु स्पष्टवागि उच्चरिसि :",
+      "en": "D) Pronounce the given letters clearly:",
+      "hi": "ई) दिए गए अक्षरों का स्पष्ट उच्चारण करें:",
+      "kn": "ಈ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಉಚ್ಚರಿಸಿ :",
+      "latin": "ī) koṭṭiruva akṣaragaḷannu spaṣṭavāgi uccarisi :"
+    },
+    "exercise-E": {
+      "devanagari": "उ) कोट्टिरुव अक्षरगळन्नु सरियागि जोडिसि बरेयिरि :",
+      "en": "E) Arrange the given letters correctly and write:",
+      "hi": "उ) दिए गए अक्षरों को सही क्रम में जोड़कर लिखें:",
+      "kn": "ಉ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿ ಬರೆಯಿರಿ :",
+      "latin": "u) koṭṭiruva akṣaragaḷannu sariyāgi jōḍisi bareyiri :"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "prose": {
+      "devanagari": "गद्य",
+      "en": "Prose",
+      "hi": "गद्य",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "title": {
+      "devanagari": "गेळतन",
+      "en": "Friendship",
+      "hi": "मित्रता",
+      "latin": "geḷatana"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch03-geletana",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಗೆಳತನ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "prose-p1",
+      "text": "ಕುದುರೆ ಮತ್ತು ಒಂಟೆ ಒಳ್ಳೆಯ ಗೆಳೆಯರಾಗಿದ್ದವು. ಒಂದೇ ಕಡೆ ವಾಸಿಸುತ್ತಿದ್ದವು. ಜೊತೆಯಾಗಿಯೇ ಆಹಾರ ಹುಡುಕಿ ತಿನ್ನುತ್ತಿದ್ದವು. ಒಮ್ಮೆ ಕುದುರೆಗೆ ಒಂದು ಆಲೋಚನೆ ಬಂದಿತು. “ನಮ್ಮಿಬ್ಬರಲ್ಲಿ ಯಾರು ಹೆಚ್ಚು”? ಎಂದು ಒಂಟೆಯನ್ನು ಕೇಳಿತು. ಅದಕ್ಕೆ ಒಂಟೆ “ಕುದುರೆಯಣ್ಣ, ನಾವಿಬ್ಬರೂ ಸಮಾನರು ಅಲ್ಲವೆ?” ಎಂದು ಹೇಳಿತು. ಆ ಮಾತಿನಿಂದ ಕುದುರೆಗೆ ಸಮಾಧಾನವಾಗಲಿಲ್ಲ. ಆಗ ಅದು “ಆನೆಯಣ್ಣ ಅಲ್ಲಿದ್ದಾನೆ, ಅವನನ್ನೇ ಕೇಳೋಣ ಬಾ'' ಎಂದಿತು. ಒಂಟೆ ಒಪ್ಪಿಕೊಂಡಿತು.",
+      "translations": {
+        "en": "The horse and the camel were good friends. They lived in the same place. They would find food and eat together. Once, the horse had an idea. It asked the camel, \"Who is greater among us both?\". To that, the camel replied, \"Brother horse, aren't we both equal?\". The horse was not satisfied with those words. Then it said, \"Brother elephant is there, let's go ask him.\" The camel agreed.",
+        "hi": "घोड़ा और ऊँट अच्छे दोस्त थे। वे एक ही जगह रहते थे। वे साथ ही भोजन ढूँढकर खाते थे। एक बार घोड़े को एक विचार आया। उसने ऊँट से पूछा, \"हम दोनों में कौन बड़ा है?\" इस पर ऊँट ने कहा, \"भाई घोड़े, क्या हम दोनों समान नहीं हैं?\" इस बात से घोड़े को संतुष्टि नहीं हुई। तब उसने कहा, \"हाथी भाई वहाँ है, चलो उसी से पूछते हैं।\" ऊँट मान गया।"
+      },
+      "transliterations": {
+        "devanagari": "कुदुरे मत्तु ओण्टे ओळ्ळेय गेळेयरागिद्दवु. ओन्दे कडे वासिसुत्तिद्दवु. जोतेयागिये आहार हुडुकि तिन्नुत्तिद्दवु. ओम्मे कुदुरेगे ओन्दु आलोचने बन्दितु. \"नम्मिब्बरल्लि यारु हेच्चु\"? एन्दु ओण्टेयन्नु केळितु. अदक्के ओण्टे \"कुदुरेयण्ण, नाविब्बरू समानरु अल्लवे?\" एन्दु हेळितु. आ मातिनिन्द कुदुरेगे समाधानवागलिल्ल. आग अदु \"आनेयण्ण अल्लिद्दाने, अवनन्ने केळोण बा'' एन्दितु. ओण्टे ओप्पिकोण्डितु.",
+        "latin": "kudure mattu oṇṭe oḷḷeya geḷeyarāgiddavu. ondē kaḍe vāsisuttiddavu. joteyāgiyē āhāra huḍuki tinnuttiddavu. omme kudurege ondu ālōcane banditu. \"nammibbaralli yāru heccu\"? endu oṇṭeyannu kēḷitu. adakke oṇṭe \"kudureyaṇṇa, nāvibbarū samānaru allave?\" endu hēḷitu. ā mātininda kudurege samādhānavāgalilla. āga adu \"āneyaṇṇa alliddāne, avanannē kēḷōṇa bā'' enditu. oṇṭe oppikoṇḍitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p2",
+      "text": "ಅವು ಆನೆಯ ಬಳಿಗೆ ಹೋದವು. ಕುದುರೆಯು “ಆನೆಯಣ್ಣ, ನಮ್ಮಿಬ್ಬರಲ್ಲಿ ಯಾರು ಹೆಚ್ಚು ಎಂದು ನೀನು ಹೇಳಬೇಕು” ಎಂದು ಕೇಳಿತು. ಆನೆಯು ಸ್ವಲ್ಪ ಹೊತ್ತು ಆಲೋಚಿಸಿ “ತಮ್ಮಂದಿರಾ, ಯಾರು ಹೆಚ್ಚು ಎಂದು ಸುಮ್ಮನೆ ಹೇಳುವುದು ಸರಿಯಲ್ಲ. ನಿಮ್ಮಿಬ್ಬರಿಗೆ ಓಟದ ಸ್ಪರ್ಧೆ ಏರ್ಪಡಿಸೋಣ. ಆದರೆ ಸ್ಪರ್ಧೆಯು ಎರಡು ಸಲ ಇರಲಿ, ಅನಂತರ ತೀರ್ಮಾನಿಸೋಣ” ಎಂಬ ಸಲಹೆಯನ್ನು ನೀಡಿತು. ಸ್ನೇಹಿತರಿಬ್ಬರೂ ಒಪ್ಪಿಕೊಂಡರು.",
+      "translations": {
+        "en": "They went to the elephant. The horse asked, \"Brother elephant, you should tell us who is greater among us both.\" The elephant thought for a while and gave this advice: \"Younger brothers, it is not right to simply say who is greater. Let's arrange a running race for you both. But let the race be held twice, and then we'll decide.\" Both friends agreed.",
+        "hi": "वे हाथी के पास गए। घोड़े ने पूछा, \"हाथी भाई, तुम्हें बताना है कि हम दोनों में कौन बड़ा है।\" हाथी ने थोड़ी देर सोचकर यह सलाह दी: \"भाइयो, यूँ ही यह कहना सही नहीं है कि कौन बड़ा है। हम तुम दोनों के लिए दौड़ की प्रतियोगिता आयोजित करते हैं। लेकिन प्रतियोगिता दो बार हो, उसके बाद फैसला करेंगे।\" दोनों दोस्त मान गए।"
+      },
+      "transliterations": {
+        "devanagari": "अवु आनेय बळिगे होदवु. कुदुरेयु \"आनेयण्ण, नम्मिब्बरल्लि यारु हेच्चु एन्दु नीनु हेळबेकु\" एन्दु केळितु. आनेयु स्वल्प होत्तु आलोचिसि \"तम्मन्दिरा, यारु हेच्चु एन्दु सुम्मने हेळुवुदु सरियल्ल. निम्मिब्बरिगे ओटद स्पर्धे एर्पडिसोण. आदरे स्पर्धेयु एरडु सल इरलि, अनन्तर तीर्मानिसोण\" एम्ब सलहेयन्नु नीडितु. स्नेहितरिब्बरू ओप्पिकोण्डरु.",
+        "latin": "avu āneya baḷige hōdavu. kudureyu \"āneyaṇṇa, nammibbaralli yāru heccu endu nīnu hēḷabēku\" endu kēḷitu. āneyu svalpa hottu ālōcisi \"tammandirā, yāru heccu endu summane hēḷuvudu sariyalla. nimmibbarige ōṭada spardhe ērpaḍisōṇa. ādare spardheyu eraḍu sala irali, anantara tīrmānisōṇa\" emba salaheyannu nīḍitu. snēhitaribbarū oppikoṇḍaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p3",
+      "text": "ಆನೆಯು ಸ್ಪರ್ಧೆಯ ಜಾಗ ಮತ್ತು ಸಮಯವನ್ನು ನಿರ್ಧರಿಸಿತು. “ನೀವು ಈ ಬೇವಿನ ಮರದಿಂದ ಆರಂಭಿಸಿ, ಆ ಕೊಳದವರೆಗೆ ಓಡಿ. ನಾನು ಕೊಳದ ಹತ್ತಿರ ಇರುತ್ತೇನೆ” ಎಂಬ ಸೂಚನೆ ನೀಡಿತು.",
+      "translations": {
+        "en": "The elephant decided the place and time for the race. It gave the instruction, \"Start from this neem tree and run up to that pond. I will be near the pond.\"",
+        "hi": "हाथी ने प्रतियोगिता की जगह और समय तय किया। उसने निर्देश दिया, \"तुम इस नीम के पेड़ से शुरू करके, उस तालाब तक दौड़ो। मैं तालाब के पास रहूँगा।\""
+      },
+      "transliterations": {
+        "devanagari": "आनेयु स्पर्धेय जाग मत्तु समयवन्नु निर्धारिसितु. \"नीवु ई बेविन मरदिन्द आरम्भिसि, आ कोळदवरेगे ओडि. नानु कोळद हत्तिर इरुत्तेने\" एम्ब सूचने नीडितु.",
+        "latin": "āneyu spardheya jāga mattu samayavannu nirdharisitu. \"nīvu ī bēvina maradinda ārambhisi, ā koḷadavarege ōḍi. nānu koḷada hattira iruttēne\" emba sūcane nīḍitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p4",
+      "text": "ಆನೆಯು ಅಲ್ಲಿಗೆ ಹೋಯಿತು. ಕುದುರೆ ಮತ್ತು ಒಂಟೆ ಓಡಲು ಶುರು ಮಾಡಿದವು. ಕುದುರೆಯೇ ವೇಗವಾಗಿ ಓಡಿ ಮೊದಲು ಗುರಿ ಮುಟ್ಟಿತು. ಗೆದ್ದ ಕುದುರೆ “ನೋಡಿದಿರಾ! ನಾನೇ ಹೆಚ್ಚು ಅಂತ ಗೊತ್ತಾಯಿತೆ?” ಎಂದು ಜಂಬದಿಂದ ಹೇಳಿತು. ಆನೆಯು “ಕುದುರೆಯೇ, ನಮ್ಮ ಒಪ್ಪಂದದಂತೆ ಇನ್ನೊಂದು ಕಡೆ ಸ್ಪರ್ಧೆ ಇದೆ. ಅದೂ ಆಗಲಿ, ಅನಂತರ ಯಾರು ಹೆಚ್ಚು ಎಂಬುದನ್ನು ತೀರ್ಮಾನಿಸಬಹುದು” ಎಂದಿತು. “ಓಹೋ! ಹಾಗೆಯೇ ಆಗಲಿ, ನಾನು ಸಿದ್ಧ” ಎಂದು ಕುದುರೆ ಹೆಮ್ಮೆಯಿಂದ ಹೇಳಿತು.",
+      "translations": {
+        "en": "The elephant went there. The horse and the camel started to run. The horse itself ran fast and reached the goal first. The winning horse proudly said, \"Did you see! Now do you know that I am greater?\". The elephant said, \"Horse, according to our agreement, there is a race at another place. Let that also happen, then we can decide who is greater.\" The horse proudly said, \"Oho! Let it be so, I am ready.\"",
+        "hi": "हाथी वहाँ चला गया। घोड़े और ऊँट ने दौड़ना शुरू किया। घोड़े ने ही तेज़ दौड़कर पहले लक्ष्य छुआ। जीते हुए घोड़े ने घमंड से कहा, \"देखा! अब पता चला न कि मैं ही बड़ा हूँ?\" हाथी ने कहा, \"घोड़े, हमारे समझौते के अनुसार एक और जगह प्रतियोगिता है। वह भी हो जाने दो, उसके बाद फैसला कर सकते हैं कि कौन बड़ा है।\" घोड़े ने गर्व से कहा, \"ओहो! ऐसा ही हो, मैं तैयार हूँ।\""
+      },
+      "transliterations": {
+        "devanagari": "आनेयु अल्लिगे होयितु. कुदुरे मत्तु ओण्टे ओडलु शुरु माडिदवु. कुदुरेये वेगवागि ओडि मोदलु गुरि मुट्टितु. गेद्द कुदुरे \"नोडिदिरा! नाने हेच्चु अन्त गोत्तायिते?\" एन्दु जम्बदिन्द हेळितु. आनेयु \"कुदुरेये, नम्म ओप्पन्ददन्ते इन्नोन्दु कडे स्पर्धे इदे. अदू आगलि, अनन्तर यारु हेच्चु एम्बुदन्नु तीर्मानिसबहुदु\" एन्दितु. \"ओहो! हागेये आगलि, नानु सिद्ध\" एन्दु कुदुरे हेम्मेयिन्द हेळितु.",
+        "latin": "āneyu allige hōyitu. kudure mattu oṇṭe ōḍalu śuru māḍidavu. kudureyē vēgavāgi ōḍi modalu guri muṭṭitu. gedda kudure \"nōḍidirā! nānē heccu anta gottāyite?\" endu jambadinda hēḷitu. āneyu \"kudureyē, namma oppandadante innondu kaḍe spardhe ide. adū āgali, anantara yāru heccu embudannu tīrmānisabahudu\" enditu. \"ōhō! hāgeyē āgali, nānu siddha\" endu kudure hemmeyinda hēḷitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p5",
+      "text": "ಆನೆಯು ಎರಡನೆಯ ಸಲದ ಓಟದ ಸ್ಪರ್ಧೆಯನ್ನು ಹೆಚ್ಚು ಮರಳು ಇರುವ ಜಾಗದಲ್ಲಿ ಏರ್ಪಡಿಸಿತು. ಅಲ್ಲಿ ಸ್ಪರ್ಧೆಯ ಆರಂಭ ಮತ್ತು ಗುರಿ ಮುಟ್ಟುವ ಜಾಗಗಳನ್ನು ಗುರುತಿಸಿತು. ಗುರಿ ಮುಟ್ಟಬೇಕಾದ ಸ್ಥಳದಲ್ಲಿ ಆನೆಯು ನಿಂತಿತು. ಓಟದ ಸ್ಪರ್ಧೆ ಪ್ರಾರಂಭವಾಯಿತು. ಮರಳಿನ ಮೇಲೆ ಒಂಟೆ ಸರಾಗವಾಗಿ ಓಡಿತು. ಆದರೆ ಅಲ್ಲಿ ಕುದುರೆಗೆ ಓಡಲು ಕಷ್ಟವಾಯಿತು.",
+      "translations": {
+        "en": "The elephant arranged the second running race in a place with more sand. It marked the starting point and the goal point of the race there. The elephant stood at the place where the goal was to be reached. The running race started. The camel ran smoothly on the sand. But it was difficult for the horse to run there.",
+        "hi": "हाथी ने दूसरी बार की दौड़ प्रतियोगिता अधिक रेत वाली जगह पर आयोजित की। उसने वहाँ प्रतियोगिता के शुरू होने और लक्ष्य छूने की जगहें चिह्नित कीं। हाथी लक्ष्य वाले स्थान पर खड़ा हो गया। दौड़ प्रतियोगिता शुरू हुई। ऊँट रेत पर आसानी से दौड़ा। लेकिन घोड़े को वहाँ दौड़ने में मुश्किल हुई।"
+      },
+      "transliterations": {
+        "devanagari": "आनेयु एरडनेय सलद ओटद स्पर्धेयन्नु हेच्चु मरळु इरुव जागदल्लि एर्पडिसितु. अल्लि स्पर्धेय आरम्भ मत्तु गुरि मुट्टुव जागगळन्नु गुरुतिसितु. गुरि मुट्टबेकाद स्थळदल्लि आनेयु निन्तितु. ओटद स्पर्धे प्रारम्भवायितु. मरळिन मेले ओण्टे सरागवागि ओडितु. आदरे अल्लि कुदुरेगे ओडलु कष्टवायितु.",
+        "latin": "āneyu eraḍaneya salada ōṭada spardheyannu heccu maraḷu iruva jāgadalli ērpaḍisitu. alli spardheya ārambha mattu guri muṭṭuva jāgagaḷannu gurutisitu. guri muṭṭabēkāda sthaḷadalli āneyu nintitu. ōṭada spardhe prārambhavāyitu. maraḷina mēle oṇṭe sarāgavāgi ōḍitu. ādare alli kudurege ōḍalu kaṣṭavāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p6",
+      "text": "ಎರಡನೆಯ ಸಲ ಓಟದ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಒಂಟೆ ಗೆದ್ದಿತು. ಆಗ ಸೋತ ಕುದುರೆಗೆ ತನ್ನ ತಪ್ಪಿನ ಅರಿವಾಯಿತು. ಆನೆ ಮತ್ತು ಒಂಟೆಯ ಹತ್ತಿರ ಕ್ಷಮೆ ಕೇಳಿತು. ಆನೆಯು “ತಮ್ಮಂದಿರಾ, ನಿಮ್ಮಲ್ಲಿ ಯಾರು ಹೆಚ್ಚೂ ಅಲ್ಲ, ಕಡಿಮೆಯೂ ಅಲ್ಲ. ಪ್ರತಿಯೊಬ್ಬರಲ್ಲಿಯೂ ಅವರದೇ ಆದ ವಿಶೇಷತೆ ಇರುತ್ತದೆ. ನೀವಿಬ್ಬರೂ ಒಳ್ಳೆಯ ಗೆಳೆಯರಾಗಿದ್ದವರು. ಮುಂದೆಯೂ ಹಾಗೆಯೇ ಇರಿ. ಗೆಳತನದ ಆನಂದವನ್ನು ಹಂಚಿಕೊಂಡು ಬಾಳಿರಿ” ಎಂದು ಹೇಳಿತು. ಕುದುರೆ ಮತ್ತು ಒಂಟೆ ಆನೆಗೆ ಧನ್ಯವಾದಗಳನ್ನು ತಿಳಿಸಿದವು. ಎಂದಿನಂತೆ ಗೆಳೆಯರಾಗಿ ಖುಷಿಯಾಗಿದ್ದವು.",
+      "translations": {
+        "en": "The camel won the second running race. Then the defeated horse realized its mistake. It apologized to the elephant and the camel. The elephant said, \"Younger brothers, neither of you is greater, nor lesser. Everyone has their own special quality. You both were good friends. Remain the same in the future too. Share the joy of friendship and live.\" The horse and the camel thanked the elephant. They remained happy as friends as usual.",
+        "hi": "ऊँट दूसरी बार की दौड़ प्रतियोगिता जीत गया। तब हारे हुए घोड़े को अपनी गलती का एहसास हुआ। उसने हाथी और ऊँट से माफ़ी माँगी। हाथी ने कहा, \"भाइयो, तुममें से न कोई बड़ा है, न छोटा। हर किसी में अपनी ही खासियत होती है। तुम दोनों अच्छे दोस्त रहे हो। आगे भी ऐसे ही रहना। दोस्ती की खुशी बाँटकर जियो।\" घोड़े और ऊँट ने हाथी को धन्यवाद दिया। वे हमेशा की तरह दोस्त बनकर खुश रहे।"
+      },
+      "transliterations": {
+        "devanagari": "एरडनेय सल ओटद स्पर्धेयल्लि ओण्टे गेद्देतु. आग सोत कुदुरेगे तन्न तप्पिन अरिवायितु. आने मत्तु ओण्टेय हत्तिर क्षमे केळितु. आनेयु \"तम्मन्दिरा, निम्मल्लि यारु हेच्चू अल्ल, कडिमेयू अल्ल. प्रतियोब्बरल्लियू अवरदे आद विशेषते इरुत्तदे. नीविब्बरू ओळ्ळेय गेळेयरागिद्दवरु. मुन्देयू हागेये इरि. गेळतनद आनन्दवन्नु हञ्चिकोण्डु बाळिरि\" एन्दु हेळितु. कुदुरे मत्तु ओण्टे आनेगे धन्यवादगळन्नु तिळिसिदवु. एन्दिनन्ते गेळेयरागि खुषियागिद्दवु.",
+        "latin": "eraḍaneya sala ōṭada spardheyalli oṇṭe gedditu. āga sōta kudurege tanna tappina arivāyitu. āne mattu oṇṭeya hattira kṣame kēḷitu. āneyu \"tammandirā, nimmalli yāru heccū alla, kaḍimeyū alla. pratiyobbaralliyū avaradē āda viśēṣate iruttade. nīvibbarū oḷḷeya geḷeyarāgiddavaru. mundeyū hāgeyē iri. geḷatanada ānandavannu hancikoṇḍu bāḷiri\" endu hēḷitu. kudure mattu oṇṭe ānege dhanyavādagaḷannu tiḷisidavu. endinante geḷeyarāgi khuṣiyāgiddavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-olleya",
+      "text": "ಒಳ್ಳೆಯ",
+      "translations": {
+        "en": "good",
+        "hi": "अच्छे"
+      },
+      "transliterations": {
+        "devanagari": "ओळ्ळेय",
+        "latin": "oḷḷeya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-huduku",
+      "text": "ಹುಡುಕು",
+      "translations": {
+        "en": "search",
+        "hi": "ढूँढो"
+      },
+      "transliterations": {
+        "devanagari": "हुडुकु",
+        "latin": "huḍuku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-alochane",
+      "text": "ಆಲೋಚನೆ",
+      "translations": {
+        "en": "thought / idea",
+        "hi": "विचार"
+      },
+      "transliterations": {
+        "devanagari": "आलोचने",
+        "latin": "ālōcane"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-geleya",
+      "text": "ಗೆಳೆಯ",
+      "translations": {
+        "en": "friend",
+        "hi": "दोस्त"
+      },
+      "transliterations": {
+        "devanagari": "गेळेय",
+        "latin": "geḷeya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nammibbaru",
+      "text": "ನಮ್ಮಿಬ್ಬರು",
+      "translations": {
+        "en": "we both",
+        "hi": "हम दोनों"
+      },
+      "transliterations": {
+        "devanagari": "नम्मिब्बरु",
+        "latin": "nammibbaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hecchu",
+      "text": "ಹೆಚ್ಚು",
+      "translations": {
+        "en": "more / greater",
+        "hi": "अधिक / बड़ा"
+      },
+      "transliterations": {
+        "devanagari": "हेच्चु",
+        "latin": "heccu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-spardhe",
+      "text": "ಸ್ಪರ್ಧೆ",
+      "translations": {
+        "en": "competition / race",
+        "hi": "प्रतियोगिता / दौड़"
+      },
+      "transliterations": {
+        "devanagari": "स्पर्धे",
+        "latin": "spardhe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-erpadisu",
+      "text": "ಏರ್ಪಡಿಸು",
+      "translations": {
+        "en": "arrange",
+        "hi": "आयोजित करो"
+      },
+      "transliterations": {
+        "devanagari": "एर्पडिसु",
+        "latin": "ērpaḍisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-salahe",
+      "text": "ಸಲಹೆ",
+      "translations": {
+        "en": "advice",
+        "hi": "सलाह"
+      },
+      "transliterations": {
+        "devanagari": "सलहे",
+        "latin": "salahe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-teermanisu",
+      "text": "ತೀರ್ಮಾನಿಸು",
+      "translations": {
+        "en": "decide",
+        "hi": "फैसला करो"
+      },
+      "transliterations": {
+        "devanagari": "तीर्मानिसु",
+        "latin": "tīrmānisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-arambha",
+      "text": "ಆರಂಭ",
+      "translations": {
+        "en": "start / beginning",
+        "hi": "शुरुआत"
+      },
+      "transliterations": {
+        "devanagari": "आरम्भ",
+        "latin": "ārambha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jamba",
+      "text": "ಜಂಬ",
+      "translations": {
+        "en": "pride / boast",
+        "hi": "घमंड"
+      },
+      "transliterations": {
+        "devanagari": "जम्ब",
+        "latin": "jamba"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-soochane",
+      "text": "ಸೂಚನೆ",
+      "translations": {
+        "en": "instruction",
+        "hi": "निर्देश"
+      },
+      "transliterations": {
+        "devanagari": "सूचने",
+        "latin": "sūcane"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shuru",
+      "text": "ಶುರು",
+      "translations": {
+        "en": "start",
+        "hi": "शुरू"
+      },
+      "transliterations": {
+        "devanagari": "शुरु",
+        "latin": "śuru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-praramhba",
+      "text": "ಪ್ರಾರಂಭ",
+      "translations": {
+        "en": "start / beginning",
+        "hi": "शुरुआत"
+      },
+      "transliterations": {
+        "devanagari": "प्रारम्भ",
+        "latin": "prārambha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-maralu",
+      "text": "ಮರಳು",
+      "translations": {
+        "en": "sand",
+        "hi": "रेत"
+      },
+      "transliterations": {
+        "devanagari": "मरळु",
+        "latin": "maraḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-arivu",
+      "text": "ಅರಿವು",
+      "translations": {
+        "en": "realization / awareness",
+        "hi": "एहसास / समझ"
+      },
+      "transliterations": {
+        "devanagari": "अरिवु",
+        "latin": "arivu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-visheshate",
+      "text": "ವಿಶೇಷತೆ",
+      "translations": {
+        "en": "specialty",
+        "hi": "खासियत"
+      },
+      "transliterations": {
+        "devanagari": "विशेषते",
+        "latin": "viśēṣate"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ananda",
+      "text": "ಆನಂದ",
+      "translations": {
+        "en": "joy",
+        "hi": "खुशी"
+      },
+      "transliterations": {
+        "devanagari": "आनन्द",
+        "latin": "ānanda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-geleya",
+      "text": "ಗೆಳೆಯ",
+      "translations": {
+        "en": "friend",
+        "hi": "दोस्त"
+      },
+      "transliterations": {
+        "devanagari": "गेळेय",
+        "latin": "geḷeya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-geleya-def",
+      "text": "ಸ್ನೇಹಿತ",
+      "translations": {
+        "en": "friend",
+        "hi": "मित्र"
+      },
+      "transliterations": {
+        "devanagari": "स्नेहित",
+        "latin": "snēhita"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-jamba",
+      "text": "ಜಂಬ",
+      "translations": {
+        "en": "pride",
+        "hi": "घमंड"
+      },
+      "transliterations": {
+        "devanagari": "जम्ब",
+        "latin": "jamba"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-jamba-def",
+      "text": "ಗರ್ವ",
+      "translations": {
+        "en": "pride / arrogance",
+        "hi": "गर्व"
+      },
+      "transliterations": {
+        "devanagari": "गर्व",
+        "latin": "garva"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-teermana",
+      "text": "ತೀರ್ಮಾನ",
+      "translations": {
+        "en": "decision",
+        "hi": "फैसला"
+      },
+      "transliterations": {
+        "devanagari": "तीर्मान",
+        "latin": "tīrmāna"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-teermana-def",
+      "text": "ತೀರ್ಪು",
+      "translations": {
+        "en": "judgment",
+        "hi": "निर्णय"
+      },
+      "transliterations": {
+        "devanagari": "तीर्पु",
+        "latin": "tīrpu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-spardhe",
+      "text": "ಸ್ಪರ್ಧೆ",
+      "translations": {
+        "en": "competition",
+        "hi": "प्रतियोगिता"
+      },
+      "transliterations": {
+        "devanagari": "स्पर्धे",
+        "latin": "spardhe"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-spardhe-def",
+      "text": "ಪೈಪೋಟಿ",
+      "translations": {
+        "en": "rivalry",
+        "hi": "प्रतिस्पर्धा"
+      },
+      "transliterations": {
+        "devanagari": "पैपोटि",
+        "latin": "paipōṭi"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-oppanda",
+      "text": "ಒಪ್ಪಂದ",
+      "translations": {
+        "en": "agreement",
+        "hi": "समझौता"
+      },
+      "transliterations": {
+        "devanagari": "ओप्पन्द",
+        "latin": "oppanda"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-oppanda-def",
+      "text": "ಸಮ್ಮತಿ, ಒಮ್ಮತ",
+      "translations": {
+        "en": "consent, consensus",
+        "hi": "सहमति, एकमत"
+      },
+      "transliterations": {
+        "devanagari": "सम्मति, ओम्मत",
+        "latin": "sammati, ommata"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-arivu",
+      "text": "ಅರಿವು",
+      "translations": {
+        "en": "realization",
+        "hi": "एहसास"
+      },
+      "transliterations": {
+        "devanagari": "अरिवु",
+        "latin": "arivu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-arivu-def",
+      "text": "ತಿಳಿವಳಿಕೆ",
+      "translations": {
+        "en": "understanding",
+        "hi": "समझ"
+      },
+      "transliterations": {
+        "devanagari": "तिळिवळिके",
+        "latin": "tiḷivaḷike"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-alochane",
+      "text": "ಆಲೋಚನೆ",
+      "translations": {
+        "en": "thought",
+        "hi": "विचार"
+      },
+      "transliterations": {
+        "devanagari": "आलोचने",
+        "latin": "ālōcane"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-alochane-def",
+      "text": "ಯೋಚಿಸುವುದು",
+      "translations": {
+        "en": "thinking",
+        "hi": "सोचना"
+      },
+      "transliterations": {
+        "devanagari": "योचिसुवुदु",
+        "latin": "yōcisuvudu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಯಾರು ಯಾರು ಒಳ್ಳೆಯ ಗೆಳೆಯರಾಗಿದ್ದರು?",
+      "translations": {
+        "en": "Who were good friends?",
+        "hi": "कौन-कौन अच्छे दोस्त थे?"
+      },
+      "transliterations": {
+        "devanagari": "यारु यारु ओळ्ळेय गेळेयरागिद्दरु?",
+        "latin": "yāru yāru oḷḷeya geḷeyarāgiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಓಟದ ಸ್ಪರ್ಧೆಗೆ ಗೆಳೆಯರು ಯಾರನ್ನು ತೀರ್ಪುಗಾರರನ್ನಾಗಿ ನೇಮಿಸಿದವು?",
+      "translations": {
+        "en": "Who did the friends appoint as the judge for the running race?",
+        "hi": "दोस्तों ने दौड़ प्रतियोगिता के लिए किसे जज नियुक्त किया?"
+      },
+      "transliterations": {
+        "devanagari": "ओटद स्पर्धेगे गेळेयरु यारन्नु तीर्पुगाररन्नागि नेमिसिदवु?",
+        "latin": "ōṭada spardhege geḷeyaru yārannu tīrpugārarannāgi nēmisidavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಓಟದ ಸ್ಪರ್ಧೆಯಲ್ಲಿ ಮೊದಲ ಸಲ ಯಾರು ಬೇಗ ಗುರಿ ಮುಟ್ಟಿದರು?",
+      "translations": {
+        "en": "Who reached the goal first in the first running race?",
+        "hi": "दौड़ प्रतियोगिता में पहली बार किसने जल्दी लक्ष्य छुआ?"
+      },
+      "transliterations": {
+        "devanagari": "ओटद स्पर्धेयल्लि मोदल सल यारु बेग गुरि मुट्टिदरु?",
+        "latin": "ōṭada spardheyalli modala sala yāru bēga guri muṭṭidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಆನೆಯು ಎರಡನೆಯ ಸಲ ಓಟದ ಆಟವನ್ನು ಎಲ್ಲಿ ಏರ್ಪಡಿಸಿತು?",
+      "translations": {
+        "en": "Where did the elephant arrange the second running race?",
+        "hi": "हाथी ने दूसरी बार दौड़ का खेल कहाँ आयोजित किया?"
+      },
+      "transliterations": {
+        "devanagari": "आनेयु एरडनेय सल ओटद आटवन्नु एल्लि एर्पडिसितु?",
+        "latin": "āneyu eraḍaneya sala ōṭada āṭavannu elli ērpaḍisitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "“ನಾವಿಬ್ಬರೂ ಸಮಾನರು ಅಲ್ಲವೇ?''",
+      "translations": {
+        "en": "Aren't we both equal?",
+        "hi": "क्या हम दोनों समान नहीं हैं?"
+      },
+      "transliterations": {
+        "devanagari": "नाविब्बरू समानरु अल्लवे?''",
+        "latin": "nāvibbarū samānaru allavē?''"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "“ಆನೆಯಣ್ಣ ಅಲ್ಲಿದ್ದಾನೆ. ಅವನನ್ನೇ ಕೇಳೋಣ ಬಾ''",
+      "translations": {
+        "en": "Brother elephant is there. Let's go ask him",
+        "hi": "हाथी भाई वहाँ है। चलो उसी से पूछते हैं"
+      },
+      "transliterations": {
+        "devanagari": "आनेयण्ण अल्लिद्दाने. अवनन्ने केळोण बा''",
+        "latin": "āneyaṇṇa alliddāne. avanannē kēḷōṇa bā''"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "“ಪ್ರತಿಯೊಬ್ಬರಲ್ಲಿಯೂ ಅವರದೇ ಆದ ವಿಶೇಷತೆ ಇರುತ್ತದೆ.”",
+      "translations": {
+        "en": "Everyone has their own special quality.",
+        "hi": "हर किसी में अपनी ही खासियत होती है।"
+      },
+      "transliterations": {
+        "devanagari": "प्रतियोब्बरल्लियू अवरदे आद विशेषते इरुत्तदे.",
+        "latin": "pratiyobbaralliyū avaradē āda viśēṣate iruttade."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಪಾಠದಲ್ಲಿ ಒತ್ತಕ್ಷರವಿರುವ ಪದಗಳನ್ನು ಗುರುತಿಸಿ ಖಾಲಿ ಜಾಗಗಳಲ್ಲಿ ಬರೆಯಿರಿ:",
+      "translations": {
+        "en": "Identify the words with conjunct consonants in the lesson and write them in the blanks:",
+        "hi": "पाठ में संयुक्त अक्षर वाले शब्दों को पहचानकर खाली जगहों में लिखें:"
+      },
+      "transliterations": {
+        "devanagari": "पाठदल्लि ओत्तक्षरविरुव पदगळन्नु गुरुतिसि खालि जागगळल्लि बरेयिरि:",
+        "latin": "pāṭhadalli ottakṣaraviruva padagaḷannu gurutisi khāli jāgagaḷalli bareyiri:"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ಉಚ್ಚರಿಸಿ : ಈ, ಐ, ಔ, ಖ, ಘ, ಶ, ಷ, ಛ, ಝ, ಣ, ಠ, ಢ, ಫ",
+      "translations": {
+        "en": "Pronounce the given letters clearly: Ī, Ai, Au, Kha, Gha, Śa, Ṣa, Cha, Jha, Ṇa, Ṭha, Ḍha, Pha",
+        "hi": "दिए गए अक्षरों का स्पष्ट उच्चारण करें : ई, ऐ, औ, ख, घ, श, ष, छ, झ, ण, ठ, ढ, फ"
+      },
+      "transliterations": {
+        "devanagari": "कोट्टिरुव अक्षरगळन्नु स्पष्टवागि उच्चरिसि : ई, ऐ, औ, ख, घ, श, ष, छ, झ, ण, ठ, ढ, फ",
+        "latin": "koṭṭiruva akṣaragaḷannu spaṣṭavāgi uccarisi : ī, ai, au, kha, gha, śa, ṣa, cha, jha, ṇa, ṭha, ḍha, pha"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ರೆಕುದು",
+      "translations": {
+        "en": "rekudu",
+        "hi": "रेकुदु"
+      },
+      "transliterations": {
+        "devanagari": "रेकुदु",
+        "latin": "rekudu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಲಸಹೆ",
+      "translations": {
+        "en": "lasahe",
+        "hi": "लसहे"
+      },
+      "transliterations": {
+        "devanagari": "लसहे",
+        "latin": "lasahe"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಕುಹುಡು",
+      "translations": {
+        "en": "kuhuḍu",
+        "hi": "कुहुडु"
+      },
+      "transliterations": {
+        "devanagari": "कुहुडु",
+        "latin": "kuhuḍu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಯಒಳ್ಳೆ",
+      "translations": {
+        "en": "yaoḷḷe",
+        "hi": "यओळ्ळे"
+      },
+      "transliterations": {
+        "devanagari": "यओळ्ळे",
+        "latin": "yaoḷḷe"
+      },
+      "type": "question"
+    }
+  ]
+}

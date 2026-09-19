@@ -1,0 +1,974 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "competency": {
+      "devanagari": "कौशल / सामर्थ्य",
+      "en": "Skill / ability",
+      "hi": "कौशल / सामर्थ्य",
+      "kn": "ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ",
+      "latin": "kauśala / sāmarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॆळगिन प्रश्नॆगळिगॆ उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kèḻagina praśnègaḻigè uttarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಪಂಜೆ ಮಂಗೇಶರಾವ್",
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch05-huttari-haadu",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಹುತ್ತರಿ ಹಾಡು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕೊಡವರ ಹಾಗೂ ಕೊಡಗಿನ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಹುತ್ತರಿ ಹಾಡು ಒಂದು. ಕೊಡವರು ಸುಗ್ಗಿಯ ಹಬ್ಬದ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಹಾಡು ಇದಾಗಿದೆ. ಇದು ಕೊಡಗಿನ ಪ್ರಾಕೃತಿಕ ಸೌಂದರ್ಯವನ್ನು, ವೀರಶ್ರೀಯನ್ನು ವರ್ಣಿಸುವುದು. ಕೊಡಗಿನ ಸಂಸ್ಕೃತಿ, ಸಂಪ್ರದಾಯದ ಲೇಪನ ಹಾಗೂ ಜನಪದ ಹಿನ್ನೆಲೆಯನ್ನು ಇದು ಒಳಗೊಂಡಿದೆ.",
+      "translations": {
+        "en": "Huttari song is one that reflects Kodava and Kodagu life. It is the song Kodavas sing at the harvest festival. It describes Kodagu’s natural beauty and heroic glory. It includes the coating of Kodagu culture and tradition and a folk background.",
+        "hi": "हुत्तरी गीत कोडव और कोडगु जीवन को प्रतिबिंबित करता है। कोडव कटाई के उत्सव में गाते हैं। यह कोडगु की प्राकृतिक सुंदरता और वीरता का वर्णन करता है।"
+      },
+      "transliterations": {
+        "devanagari": "कॊडवर हागू कॊडगिन जीवनवन्नु प्रतिबिंबिसुव हुत्तरि हाडु ऒंदु. कॊडवरु सुग्गिय हब्बद संदर्भदल्लि हाडुव हाडु इदागिदॆ. इदु कॊडगिन प्राकृतिक सौंदर्यवन्नु, वीरश्रीयन्नु वर्णिसुवुदु. कॊडगिन संस्कृति, संप्रदायद लेपन हागू जनपद हिन्नॆलॆयन्नु इदु ऒळगॊंडिदॆ.",
+        "latin": "kòḍavara hāgū kòḍagina jīvanavannu pratibiṃbisuva huttari hāḍu òṃdu. kòḍavaru suggiya habbada saṃdarbhadalli hāḍuva hāḍu idāgidè. idu kòḍagina prākṛtika sauṃdaryavannu, vīraśrīyannu varṇisuvudu. kòḍagina saṃskṛti, saṃpradāyada lepana hāgū janapada hinnèlèyannu idu òḻagòṃḍidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಎಲ್ಲಿ ಭೂರಮೆ ದೇವ ಸನ್ನಿಧಿ ಬಯಸಿ ಬಿಮ್ಮನೆ ಬಂದಳೋ?",
+      "translations": {
+        "en": "Where did Earth-goddess, wishing the god’s presence, suddenly come?"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लि भूरमॆ देव सन्निधि बयसि बिम्मनॆ बंदळो?",
+        "latin": "èlli bhūramè deva sannidhi bayasi bimmanè baṃdaḻo?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಎಲ್ಲಿ ಮೋಹನ ಗಿರಿಯ ಬೆರಗಿನ ರೂಪಿನಿಂದಲಿ ನಿಂದಳೋ?",
+      "translations": {
+        "en": "Where did she stand in the wondrous form of the charming hill?"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लि मोहन गिरिय बॆरगिन रूपिनिंदलि निंदळो?",
+        "latin": "èlli mohana giriya bèragina rūpiniṃdali niṃdaḻo?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಎಲ್ಲಿ ಮುಗಿಲಲಿ ಮಿಂಚಿನೋಲ್ ಕಾವೇರಿ ಹೊಳೆ ಹೊಳೆ ಹೊಳೆವಳೋ?",
+      "translations": {
+        "en": "Where in the sky like lightning does Kaveri gleam and gleam?"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लि मुगिललि मिंचिनोल् कावेरि हॊळॆ हॊळॆ हॊळॆवळो?",
+        "latin": "èlli mugilali miṃcinol kāveri hòḻè hòḻè hòḻèvaḻo?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಎಲ್ಲಿ ನೆಲವನು ತಣಿಸಿ ಜನಮನ ಹೊಲದ ಕಳೆಕಳೆ ಕಳೆವಳೋ?",
+      "translations": {
+        "en": "Where cooling the land does she clear the weeds of people’s fields?"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लि नॆलवनु तणिसि जनमन हॊलद कळॆकळॆ कळॆवळो?",
+        "latin": "èlli nèlavanu taṇisi janamana hòlada kaḻèkaḻè kaḻèvaḻo?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಅಲ್ಲೆ ಆ ಕಡೆ ನೋಡಲಾ!",
+      "translations": {
+        "en": "Look that way there!",
+        "hi": "वहाँ उस ओर देखो!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लॆ आ कडॆ नोडला!",
+        "latin": "allè ā kaḍè noḍalā!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l6",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಅಲ್ಲೆ ಕೊಡಗರ ನಾಡಲಾ",
+      "translations": {
+        "en": "There is the Kodaga land",
+        "hi": "वहाँ कोडग भूमि है"
+      },
+      "transliterations": {
+        "devanagari": "अल्लॆ कॊडगर नाडला",
+        "latin": "allè kòḍagara nāḍalā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l7",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಅಲ್ಲೆ ಕೊಡವರ ಬೀಡಲಾ!",
+      "translations": {
+        "en": "There is the Kodava home!",
+        "hi": "वहाँ कोडव का घर है!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लॆ कॊडवर बीडला!",
+        "latin": "allè kòḍavara bīḍalā!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಸವಿದು ಮೆದ್ದರೊ ಯಾರು ಪೂರ್ವದಿ ಹುಲಿಯ ಹಾಲಿನ ಮೇವನು?",
+      "translations": {
+        "en": "Who in the east tasted the tiger’s milk-feed?"
+      },
+      "transliterations": {
+        "devanagari": "सविदु मॆद्दरॊ यारु पूर्वदि हुलिय हालिन मेवनु?",
+        "latin": "savidu mèddarò yāru pūrvadi huliya hālina mevanu?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಕವಣೆ ತಿರಿಕಲ್ಲಾಟ ಹಗ್ಗಕೆ ಸೆಳೆದರೋ ಹೆಬ್ಬಾವನು?",
+      "translations": {
+        "en": "Who pulled the great snake to the rope in the game of stones?"
+      },
+      "transliterations": {
+        "devanagari": "कवणॆ तिरिकल्लाट हग्गकॆ सॆळॆदरो हॆब्बावनु?",
+        "latin": "kavaṇè tirikallāṭa haggakè sèḻèdaro hèbbāvanu?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಸವರಿ ಆನೆಯ ಸೊಂಡಲಿನ ರಣಕೊಂಬನಾರ್ ಭೋರ್ಗರೆದರೋ?",
+      "translations": {
+        "en": "Who stroked the elephant’s trunk and made the war-horn roar?"
+      },
+      "transliterations": {
+        "devanagari": "सवरि आनॆय सॊंडलिन रणकॊंबनार् भोर्गरॆदरो?",
+        "latin": "savari ānèya sòṃḍalina raṇakòṃbanār bhorgarèdaro?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಸವೆದು ಸವೆಯದ ಸಾಹಸತ್ವದ ಕ್ಷಾತ್ರ ಬೇಟೆಯ ಮೆರೆದರೋ?",
+      "translations": {
+        "en": "Who displayed the undiminished daring of kshatriya hunt?"
+      },
+      "transliterations": {
+        "devanagari": "सवॆदु सवॆयद साहसत्वद क्षात्र बेटॆय मॆरॆदरो?",
+        "latin": "savèdu savèyada sāhasatvada kṣātra beṭèya mèrèdaro?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅವರು ಸೋಲ್ ಸಾವರಿಯರು!",
+      "translations": {
+        "en": "They are the unbeaten saviors!"
+      },
+      "transliterations": {
+        "devanagari": "अवरु सोल् सावरियरु!",
+        "latin": "avaru sol sāvariyaru!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅವರು ಕಡುಗಲಿ ಗರಿಯರು!",
+      "translations": {
+        "en": "They are the fierce great ones!"
+      },
+      "transliterations": {
+        "devanagari": "अवरु कडुगलि गरियरु!",
+        "latin": "avaru kaḍugali gariyaru!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l7",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅವರೆ ಕೊಡಗಿನ ಹಿರಿಯರು!",
+      "translations": {
+        "en": "They are the elders of Kodagu!"
+      },
+      "transliterations": {
+        "devanagari": "अवरॆ कॊडगिन हिरियरु!",
+        "latin": "avarè kòḍagina hiriyaru!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತಮ್ಮ ನಾಡಿನ ಕೊರಳು ದಾಸ್ಯದ ನೊಗದ ಭಾರಕೆ ಬಗ್ಗದೋಲ್",
+      "translations": {
+        "en": "As if the neck of their land would not bend to the yoke-weight of slavery"
+      },
+      "transliterations": {
+        "devanagari": "तम्म नाडिन कॊरळु दास्यद नॊगद भारकॆ बग्गदोल्",
+        "latin": "tamma nāḍina kòraḻu dāsyada nògada bhārakè baggadol"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹೆಮ್ಮೆಹಗೆಗಳ ಹೊಡೆದು ಹಿರಿಯರು ಹಸಿದು ಹಾರುವ ಬಗ್ಗದೋಲ್",
+      "translations": {
+        "en": "As elders who struck pride and foes would not bow hungry and leaping"
+      },
+      "transliterations": {
+        "devanagari": "हॆम्मॆहगॆगळ हॊडॆदु हिरियरु हसिदु हारुव बग्गदोल्",
+        "latin": "hèmmèhagègaḻa hòḍèdu hiriyaru hasidu hāruva baggadol"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಬೊಮ್ಮಗಿರಿಯಿಂ ಪುಷ್ಪಗಿರಿ ಪರ್ಯಂತ ಬೆಳೆದೀ ದೇಶವು",
+      "translations": {
+        "en": "This country grown from Bommagiri to Pushpagiri"
+      },
+      "transliterations": {
+        "devanagari": "बॊम्मगिरियिं पुष्पगिरि पर्यंत बॆळॆदी देशवु",
+        "latin": "bòmmagiriyiṃ puṣpagiri paryaṃta bèḻèdī deśavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಧರ್ಮದಾನವ ಕಟ್ಟು ಕಟ್ಟಳೆ ರೀತಿ ನೀತಿಯ ಕೋಶವು",
+      "translations": {
+        "en": "A treasury of dharma-gift, bonds, rules, ways and ethics"
+      },
+      "transliterations": {
+        "devanagari": "धर्मदानव कट्टु कट्टळॆ रीति नीतिय कोशवु",
+        "latin": "dharmadānava kaṭṭu kaṭṭaḻè rīti nītiya kośavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಮ್ಮ ಕೊಡಗಿದು ಜಮ್ಮದು;",
+      "translations": {
+        "en": "Our Kodagu is jammu;"
+      },
+      "transliterations": {
+        "devanagari": "नम्म कॊडगिदु जम्मदु;",
+        "latin": "namma kòḍagidu jammadu;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l6",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಜಮ್ಮ ಕೊಡಗಿದು ನಮ್ಮದು;",
+      "translations": {
+        "en": "Jammu Kodagu is ours;"
+      },
+      "transliterations": {
+        "devanagari": "जम्म कॊडगिदु नम्मदु;",
+        "latin": "jamma kòḍagidu nammadu;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l7",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಮ್ಮೊಡಲ್ ಬಿಡಲಮ್ಮದು !",
+      "translations": {
+        "en": "Our body will not leave it!"
+      },
+      "transliterations": {
+        "devanagari": "नम्मॊडल् बिडलम्मदु !",
+        "latin": "nammòḍal biḍalammadu !"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇದು ಅಗಸ್ತ್ಯನ ತಪದ ಮನೆ, ಕಾವೇರಿ ತಾಯ ತವರ್ಮನೆ,",
+      "translations": {
+        "en": "This is Agastya’s house of penance, Kaveri mother’s parental home,"
+      },
+      "transliterations": {
+        "devanagari": "इदु अगस्त्यन तपद मनॆ, कावेरि ताय तवर्मनॆ,",
+        "latin": "idu agastyana tapada manè, kāveri tāya tavarmanè,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕದನ ಸಿರಿಗುಯ್ಯಾಲೆ ತೂಗಿದನಿಲ್ಲಿ ಚಂದರವರ್ಮನೆ!",
+      "translations": {
+        "en": "Here Chandravarma rocked the cradle of battle fortune!"
+      },
+      "transliterations": {
+        "devanagari": "कदन सिरिगुय्यालॆ तूगिदनिल्लि चंदरवर्मनॆ!",
+        "latin": "kadana siriguyyālè tūgidanilli caṃdaravarmanè!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇದಕೊ! ಚೆಂಗಾಳ್ವರಸರಾಡಂಬರವು ಕುಣಿದ ಶ್ರೀರಂಗವು",
+      "translations": {
+        "en": "Look! the splendour of Chengalva kings, dancing Sriranga"
+      },
+      "transliterations": {
+        "devanagari": "इदकॊ! चॆंगाळ्वरसराडंबरवु कुणिद श्रीरंगवु",
+        "latin": "idakò! cèṃgāḻvarasarāḍaṃbaravu kuṇida śrīraṃgavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇದೊ! ಇದೊ! ಇಲ್ಲರುಳ್ದ ಹಾಲೇರಿಯರ ಬಲಗಿರಿಶೃಂಗವು",
+      "translations": {
+        "en": "Look! look! the right-side peak of the Haleri who ruled here"
+      },
+      "transliterations": {
+        "devanagari": "इदॊ! इदॊ! इल्लरुळ्द हालेरियर बलगिरिशृंगवु",
+        "latin": "idò! idò! illaruḻda hāleriyara balagiriśṛṃgavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ವಿಧಿಯ ಮಾಟದ ಕೊಡಗಿದು",
+      "translations": {
+        "en": "Kodagu of fate’s craft"
+      },
+      "transliterations": {
+        "devanagari": "विधिय माटद कॊडगिदु",
+        "latin": "vidhiya māṭada kòḍagidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l6",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮೊದಲೆ ನಮ್ಮದು, ಕಡೆಗಿದು",
+      "translations": {
+        "en": "First ours, at the end this"
+      },
+      "transliterations": {
+        "devanagari": "मॊदलॆ नम्मदु, कडॆगिदु",
+        "latin": "mòdalè nammadu, kaḍègidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l7",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕದಲದೆಮ್ಮನು; ಬೆಡಗಿದು.",
+      "translations": {
+        "en": "Does not shake us; it is charm."
+      },
+      "transliterations": {
+        "devanagari": "कदलदॆम्मनु; बॆडगिदु.",
+        "latin": "kadaladèmmanu; bèḍagidu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಒಮ್ಮತವು ಒಗ್ಗಟ್ಟು ಒಂದೇ ಮನವು ಎಲ್ಲಿದೆ ಹೇಳಿರಿ?",
+      "translations": {
+        "en": "Where is one mind, unity, one heart—tell!"
+      },
+      "transliterations": {
+        "devanagari": "ऒम्मतवु ऒग्गट्टु ऒंदे मनवु ऎल्लिदॆ हेळिरि?",
+        "latin": "òmmatavu òggaṭṭu òṃde manavu èllidè heḻiri?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಸುಮ್ಮನಿತ್ತರೊ ದಟ್ಟಿಕುಪ್ಪಸ? ಹಾಡುಹುತ್ತರಿಗೇಳಿರಿ!",
+      "translations": {
+        "en": "Did they quietly give the waist-cloth? Listen to the Huttari song!"
+      },
+      "transliterations": {
+        "devanagari": "सुम्मनित्तरॊ दट्टिकुप्पस? हाडुहुत्तरिगेळिरि!",
+        "latin": "summanittarò daṭṭikuppasa? hāḍuhuttarigeḻiri!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಚಿಮ್ಮಿ ಪಾತುರೆಕೋಲ ಹೊಯ್ಲಿಗೆ ಕುಣಿವ ಪದ ಹೊರ ಹೊಮ್ಮಲಿ!",
+      "translations": {
+        "en": "Let the dancing verse ring out to the leaping paturakolu beat!"
+      },
+      "transliterations": {
+        "devanagari": "चिम्मि पातुरॆकोल हॊय्लिगॆ कुणिव पद हॊर हॊम्मलि!",
+        "latin": "cimmi pāturèkola hòyligè kuṇiva pada hòra hòmmali!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಅಮ್ಮೆ ಹರಸಿದ ಸೀಮೆ ನಮಗಿದು ಇರಲಿ ನಮ್ಮದೆ ನಮ್ಮಲಿ!",
+      "translations": {
+        "en": "This land mother blessed—let it stay ours among us!"
+      },
+      "transliterations": {
+        "devanagari": "अम्मॆ हरसिद सीमॆ नमगिदु इरलि नम्मदॆ नम्मलि!",
+        "latin": "ammè harasida sīmè namagidu irali nammadè nammali!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l5",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನೆಮ್ಮದಿಯನಿದು ತಾಳಲಿ",
+      "translations": {
+        "en": "Let this hold peace"
+      },
+      "transliterations": {
+        "devanagari": "नॆम्मदियनिदु ताळलि",
+        "latin": "nèmmadiyanidu tāḻali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l6",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಅಮ್ಮೆಯಾ ಬಲತೋಳಲಿ",
+      "translations": {
+        "en": "Under mother’s strong arm"
+      },
+      "transliterations": {
+        "devanagari": "अम्मॆया बलतोळलि",
+        "latin": "ammèyā balatoḻali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l7",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನಮ್ಮ ಕೊಡಗಿದು ಬಾಳಲಿ",
+      "translations": {
+        "en": "Let our Kodagu live",
+        "hi": "हमारा कोडगु जिए"
+      },
+      "transliterations": {
+        "devanagari": "नम्म कॊडगिदु बाळलि",
+        "latin": "namma kòḍagidu bāḻali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "competency",
+      "section": "competency",
+      "text": "ಕೌಶಲ: ಮಾತನಾಡುವುದು. ಸಾಮರ್ಥ್ಯ: ಸನ್ನಿವೇಶ ಘಟನೆಗಳನ್ನು ವಿವರಿಸುವುದು.",
+      "translations": {
+        "en": "Skill: speaking. Ability: describing situational events.",
+        "hi": "कौशल: बोलना। सामर्थ्य: परिस्थिति-घटनाओं का वर्णन करना।"
+      },
+      "transliterations": {
+        "devanagari": "कौशल: मातनाडुवुदु. सामर्थ्य: सन्निवेश घटनॆगळन्नु विवरिसुवुदु.",
+        "latin": "kauśala: mātanāḍuvudu. sāmarthya: sanniveśa ghaṭanègaḻannu vivarisuvudu."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಶ್ರೀ ಪಂಜೆ ಮಂಗೇಶರಾವ್: ‘ಕವಿಶಿಷ್ಯ’ ಎಂಬ ಕಾವ್ಯನಾಮದಿಂದ ಪ್ರಸಿದ್ಧರಾದ ಶ್ರೀ ಪಂಜೆ ಮಂಗೇಶರಾವ್ ಅವರು ಸಾ. ಶ. 1874 ರಲ್ಲಿ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆ ಬಂಟ್ವಾಳದಲ್ಲಿ ಜನಿಸಿದರು. ಮಕ್ಕಳ ಕವಿತೆಗಳ ಕಣ್ಮಣಿ ಎಂದು ಪ್ರಸಿದ್ಧರಾದ ಇವರು ಹುತ್ತರಿಯ ಹಾಡು, ನಾಗರ ಹಾವೇ, ಕೋಟಿ ಚೆನ್ನಯ್ಯ, ಗುಡುಗುಡು ಗುಮ್ಮಟ ದೇವರು, ಮಾತಾಡೋ ರಾಮಪ್ಪ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರು ಸಾ. ಶ. 1934 ರಲ್ಲಿ ನಡೆದ 20 ನೆಯ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು.",
+      "translations": {
+        "en": "Sri Panje Mangesh Rao, famous by the pen-name ‘Kavishishya’, was born in 1874 at Bantwal in Dakshina Kannada district. Famous as the jewel of children’s poems, he composed Huttari Haadu, Nagara Have, Koti Chennayya, Gudugudu Gummatadevaru, Matado Ramappa and others. He was president of the 20th All India Kannada Literary Conference in 1934.",
+        "hi": "श्री पंजे मंगेशराव ‘कविशिश्य’ काव्यनाम से प्रसिद्ध। 1874 में दक्षिण कन्नड़ के बंटवाल में जन्म। 1934 में 20वें अखिल भारत कन्नड़ साहित्य सम्मेलन के अध्यक्ष रहे।"
+      },
+      "transliterations": {
+        "devanagari": "श्री पंजॆ मंगेशराव्: ‘कविशिष्य’ ऎंब काव्यनामदिंद प्रसिद्धराद श्री पंजॆ मंगेशराव् अवरु सा. श. 1874 रल्लि दक्षिण कन्नड जिल्लॆ बंट्वाळदल्लि जनिसिदरु. मक्कळ कवितॆगळ कण्मणि ऎंदु प्रसिद्धराद इवरु हुत्तरिय हाडु, नागर हावे, कोटि चॆन्नय्य, गुडुगुडु गुम्मट देवरु, माताडो रामप्प मॊदलाद कृतिगळन्नु रचिसिद्दारॆ. इवरु सा. श. 1934 रल्लि नडॆद 20 नॆय अखिल भारत कन्नड साहित्य सम्मेळनद अध्यक्षरागिद्दरु.",
+        "latin": "śrī paṃjè maṃgeśarāv: ‘kaviśiṣya’ èṃba kāvyanāmadiṃda prasiddharāda śrī paṃjè maṃgeśarāv avaru sā. śa. 1874 ralli dakṣiṇa kannaḍa jillè baṃṭvāḻadalli janisidaru. makkaḻa kavitègaḻa kaṇmaṇi èṃdu prasiddharāda ivaru huttariya hāḍu, nāgara hāve, koṭi cènnayya, guḍuguḍu gummaṭa devaru, mātāḍo rāmappa mòdalāda kṛtigaḻannu racisiddārè. ivaru sā. śa. 1934 ralli naḍèda 20 nèya akhila bhārata kannaḍa sāhitya sammeḻanada adhyakṣarāgiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-odal",
+      "section": "vocab",
+      "text": "ಒಡಲ್",
+      "translations": {
+        "en": "ಒಡಲ್",
+        "hi": "ಒಡಲ್"
+      },
+      "transliterations": {
+        "devanagari": "ऒडल्",
+        "latin": "òḍal"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-odal-def",
+      "section": "vocab",
+      "text": "ಶರೀರ, ದೇಹ",
+      "translations": {
+        "en": "body"
+      },
+      "transliterations": {
+        "devanagari": "शरीर, देह",
+        "latin": "śarīra, deha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kadugali",
+      "section": "vocab",
+      "text": "ಕಡುಗಲಿ",
+      "translations": {
+        "en": "ಕಡುಗಲಿ",
+        "hi": "ಕಡುಗಲಿ"
+      },
+      "transliterations": {
+        "devanagari": "कडुगलि",
+        "latin": "kaḍugali"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kadugali-def",
+      "section": "vocab",
+      "text": "ಮಹಾಶೂರ",
+      "translations": {
+        "en": "great warrior",
+        "hi": "महाशूर"
+      },
+      "transliterations": {
+        "devanagari": "महाशूर",
+        "latin": "mahāśūra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kshatra",
+      "section": "vocab",
+      "text": "ಕ್ಷಾತ್ರ",
+      "translations": {
+        "en": "ಕ್ಷಾತ್ರ",
+        "hi": "ಕ್ಷಾತ್ರ"
+      },
+      "transliterations": {
+        "devanagari": "क्षात्र",
+        "latin": "kṣātra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kshatra-def",
+      "section": "vocab",
+      "text": "ಕ್ಷತ್ರಿಯ ಕುಲ, ಕ್ಷತ್ರಿಯನ ತೇಜಸ್ಸು",
+      "translations": {
+        "en": "kshatriya clan, kshatriya splendour"
+      },
+      "transliterations": {
+        "devanagari": "क्षत्रिय कुल, क्षत्रियन तेजस्सु",
+        "latin": "kṣatriya kula, kṣatriyana tejassu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-gariyaru",
+      "section": "vocab",
+      "text": "ಗರಿಯರು",
+      "translations": {
+        "en": "ಗರಿಯರು",
+        "hi": "ಗರಿಯರು"
+      },
+      "transliterations": {
+        "devanagari": "गरियरु",
+        "latin": "gariyaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gariyaru-def",
+      "section": "vocab",
+      "text": "ಹಿರಿಮೆಯುಳ್ಳವರು",
+      "translations": {
+        "en": "those of greatness"
+      },
+      "transliterations": {
+        "devanagari": "हिरिमॆयुळ्ळवरु",
+        "latin": "hirimèyuḻḻavaru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jammadu",
+      "section": "vocab",
+      "text": "ಜಮ್ಮದು",
+      "translations": {
+        "en": "ಜಮ್ಮದು",
+        "hi": "ಜಮ್ಮದು"
+      },
+      "transliterations": {
+        "devanagari": "जम्मदु",
+        "latin": "jammadu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jammadu-def",
+      "section": "vocab",
+      "text": "ಅರಸನು ಇನಾಮಾಗಿ ಕೊಟ್ಟ ಭೂಮಿ",
+      "translations": {
+        "en": "land given by a king as inam"
+      },
+      "transliterations": {
+        "devanagari": "अरसनु इनामागि कॊट्ट भूमि",
+        "latin": "arasanu ināmāgi kòṭṭa bhūmi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dattikuppas",
+      "section": "vocab",
+      "text": "ದಟ್ಟಿಕುಪ್ಪಸ",
+      "translations": {
+        "en": "ದಟ್ಟಿಕುಪ್ಪಸ",
+        "hi": "ದಟ್ಟಿಕುಪ್ಪಸ"
+      },
+      "transliterations": {
+        "devanagari": "दट्टिकुप्पस",
+        "latin": "daṭṭikuppasa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dattikuppas-def",
+      "section": "vocab",
+      "text": "ಸೊಂಟಕ್ಕೆ ಕಟ್ಟುವ ವಸ್ತ್ರ",
+      "translations": {
+        "en": "cloth tied at the waist"
+      },
+      "transliterations": {
+        "devanagari": "सॊंटक्कॆ कट्टुव वस्त्र",
+        "latin": "sòṃṭakkè kaṭṭuva vastra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bagga",
+      "section": "vocab",
+      "text": "ಬಗ್ಗ",
+      "translations": {
+        "en": "ಬಗ್ಗ",
+        "hi": "ಬಗ್ಗ"
+      },
+      "transliterations": {
+        "devanagari": "बग्ग",
+        "latin": "bagga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bagga-def",
+      "section": "vocab",
+      "text": "ಹುಲಿ, ವ್ಯಾಘ್ರ",
+      "translations": {
+        "en": "tiger"
+      },
+      "transliterations": {
+        "devanagari": "हुलि, व्याघ्र",
+        "latin": "huli, vyāghra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bimmane",
+      "section": "vocab",
+      "text": "ಬಿಮ್ಮನೆ",
+      "translations": {
+        "en": "ಬಿಮ್ಮನೆ",
+        "hi": "ಬಿಮ್ಮನೆ"
+      },
+      "transliterations": {
+        "devanagari": "बिम्मनॆ",
+        "latin": "bimmanè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bimmane-def",
+      "section": "vocab",
+      "text": "ವೇಗವಾಗಿ, ಸುಮ್ಮನೆ",
+      "translations": {
+        "en": "swiftly, simply"
+      },
+      "transliterations": {
+        "devanagari": "वेगवागि, सुम्मनॆ",
+        "latin": "vegavāgi, summanè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhurame",
+      "section": "vocab",
+      "text": "ಭೂರಮೆ",
+      "translations": {
+        "en": "ಭೂರಮೆ",
+        "hi": "ಭೂರಮೆ"
+      },
+      "transliterations": {
+        "devanagari": "भूरमॆ",
+        "latin": "bhūramè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhurame-def",
+      "section": "vocab",
+      "text": "ಭೂದೇವಿ",
+      "translations": {
+        "en": "Earth goddess",
+        "hi": "भूदेवी"
+      },
+      "transliterations": {
+        "devanagari": "भूदेवि",
+        "latin": "bhūdevi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-huttari",
+      "section": "vocab",
+      "text": "ಹುತ್ತರಿ",
+      "translations": {
+        "en": "ಹುತ್ತರಿ",
+        "hi": "ಹುತ್ತರಿ"
+      },
+      "transliterations": {
+        "devanagari": "हुत्तरि",
+        "latin": "huttari"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-huttari-def",
+      "section": "vocab",
+      "text": "ಕೊಡಗರು ಹೊಸ ಅಕ್ಕಿಯನ್ನು ಮನೆಗೆ ತರುವಾಗ ಆಚರಿಸುವ ಹಬ್ಬ, ಕೊಡಗಿನ ಸುಗ್ಗಿ ಹಬ್ಬ",
+      "translations": {
+        "en": "festival when Kodavas bring new rice home; Kodagu harvest festival",
+        "hi": "कोडव नए चावल घर लाते समय का त्योहार; कोडगु की फसलोत्सव"
+      },
+      "transliterations": {
+        "devanagari": "कॊडगरु हॊस अक्कियन्नु मनॆगॆ तरुवाग आचरिसुव हब्ब, कॊडगिन सुग्गि हब्ब",
+        "latin": "kòḍagaru hòsa akkiyannu manègè taruvāga ācarisuva habba, kòḍagina suggi habba"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hoylu",
+      "section": "vocab",
+      "text": "ಹೊಯ್ಲು",
+      "translations": {
+        "en": "ಹೊಯ್ಲು",
+        "hi": "ಹೊಯ್ಲು"
+      },
+      "transliterations": {
+        "devanagari": "हॊय्लु",
+        "latin": "hòylu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hoylu-def",
+      "section": "vocab",
+      "text": "ಹೊಡೆತ",
+      "translations": {
+        "en": "strike, beat"
+      },
+      "transliterations": {
+        "devanagari": "हॊडॆत",
+        "latin": "hòḍèta"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಕಾವೇರಿಯು ಹೇಗೆ ಹೊಳೆಯುತ್ತಾಳೆ?",
+      "translations": {
+        "en": "How does the Kaveri shine?",
+        "hi": "कावेरी कैसे चमकती है?"
+      },
+      "transliterations": {
+        "devanagari": "कावेरियु हेगॆ हॊळॆयुत्ताळॆ?",
+        "latin": "kāveriyu hegè hòḻèyuttāḻè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಸೋಲು ಸಾವರಿಯದವರು ಯಾರು?",
+      "translations": {
+        "en": "Who are the unbeaten saviors?",
+        "hi": "सोल सावरियद कौन हैं?"
+      },
+      "transliterations": {
+        "devanagari": "सोलु सावरियदवरु यारु?",
+        "latin": "solu sāvariyadavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಕೊಡಗು ಯಾವ ಗಿರಿಯಿಂದ ಯಾವ ಗಿರಿಯ ಪರ್ಯಂತ ಬೆಳೆದಿದೆ?",
+      "translations": {
+        "en": "From which hill to which hill has Kodagu grown?",
+        "hi": "कोडगु किस पहाड़ से किस पहाड़ तक फैला है?"
+      },
+      "transliterations": {
+        "devanagari": "कॊडगु याव गिरियिंद याव गिरिय पर्यंत बॆळॆदिदॆ?",
+        "latin": "kòḍagu yāva giriyiṃda yāva giriya paryaṃta bèḻèdidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಕಾವೇರಿಯ ತವರ್ಮನೆ ಯಾವುದು?",
+      "translations": {
+        "en": "What is Kaveri’s maternal home?",
+        "hi": "कावेरी का मायका कौन-सा है?"
+      },
+      "transliterations": {
+        "devanagari": "कावेरिय तवर्मनॆ यावुदु?",
+        "latin": "kāveriya tavarmanè yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಯಾವ ಹೊಯ್ಲಿಗೆ ಕುಣಿವ ಪದ ಹೊರ ಹೊಮ್ಮಬೇಕು?",
+      "translations": {
+        "en": "To which beat should the dancing verse ring out?",
+        "hi": "किस ठेके पर नाच का पद बाहर गूंजे?"
+      },
+      "transliterations": {
+        "devanagari": "याव हॊय्लिगॆ कुणिव पद हॊर हॊम्मबेकु?",
+        "latin": "yāva hòyligè kuṇiva pada hòra hòmmabeku?"
+      },
+      "type": "question"
+    }
+  ]
+}

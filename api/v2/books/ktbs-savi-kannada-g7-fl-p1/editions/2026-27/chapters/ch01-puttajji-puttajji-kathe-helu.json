@@ -1,0 +1,1853 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g7-fl-p1",
+    "chapterId": "ch01-puttajji-puttajji-kathe-helu",
+    "editionId": "2026-27",
+    "number": 1
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "competency": {
+      "devanagari": "कौशल / सामर्थ्य / आशय",
+      "en": "Skill / ability / intent",
+      "hi": "कौशल / सामर्थ्य / आशय",
+      "kn": "ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ",
+      "latin": "kauśala / sāmarthya / āśaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the given questions in one sentence.",
+      "hi": "अ. दिए गए प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the given questions in two or three sentences.",
+      "hi": "आ. दिए गए प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. ई वाक्यगळन्नु यारु-यारिगॆ? हेळिदरु ऎंबुदन्नु बरॆयिरि.",
+      "en": "C. Who said these sentences to whom? Write.",
+      "hi": "इ. ये वाक्य किसने-किससे कहा? लिखिए।",
+      "kn": "ಇ. ಈ ವಾಕ್ಯಗಳನ್ನು ಯಾರು-ಯಾರಿಗೆ? ಹೇಳಿದರು ಎಂಬುದನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "i. ī vākyagaḻannu yāru-yārigè? heḻidaru èṃbudannu barèyiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. कॆळगॆ नीडिरुव सूचनॆयंतॆ उत्तर बरॆयिरि.",
+      "en": "D. Answer as directed below.",
+      "hi": "ई. नीचे दी गई सूचना के अनुसार उत्तर लिखिए।",
+      "kn": "ಈ. ಕೆಳಗೆ ನೀಡಿರುವ ಸೂಚನೆಯಂತೆ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "ī. kèḻagè nīḍiruva sūcanèyaṃtè uttara barèyiri."
+    },
+    "exercise-E": {
+      "devanagari": "उ. कॆळगिन पदगळिगॆ अर्थ बरॆयिरि.",
+      "en": "E. Write the meanings of the following words.",
+      "hi": "उ. नीचे दिए शब्दों के अर्थ लिखिए।",
+      "kn": "ಉ. ಕೆಳಗಿನ ಪದಗಳಿಗೆ ಅರ್ಥ ಬರೆಯಿರಿ.",
+      "latin": "u. kèḻagina padagaḻigè artha barèyiri."
+    },
+    "exercise-F": {
+      "devanagari": "ऊ. हॊंदिसि बरॆयिरि.",
+      "en": "F. Match and write.",
+      "hi": "ऊ. मिलाकर लिखिए।",
+      "kn": "ಊ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "ū. hòṃdisi barèyiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "story": {
+      "devanagari": "कतॆ",
+      "en": "Story",
+      "hi": "कथा",
+      "kn": "ಕತೆ",
+      "latin": "katè"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ನಾ. ಡಿಸೋಜ",
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch01-puttajji-puttajji-kathe-helu",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಬೆಳಗ್ಗೆ ಶಾಲೆಗೆ ಬಂದ ವಿದ್ಯಾರ್ಥಿನಿಯರು ಶಾಲಾ ಆವರಣದಲ್ಲಿ ಕುಳಿತು ಮಾತಿಗಿಳಿಯುತ್ತಾರೆ.",
+      "translations": {
+        "en": "In the morning, girls who have come to school sit in the school grounds and start talking.",
+        "hi": "सुबह स्कूल आई छात्राएँ स्कूल प्रांगण में बैठकर बात करने लगती हैं।"
+      },
+      "transliterations": {
+        "devanagari": "बॆळग्गॆ शालॆगॆ बंद विद्यार्थिनियरु शाला आवरणदल्लि कुळितु मातिगिळियुत्तारॆ.",
+        "latin": "bèḻaggè śālègè baṃda vidyārthiniyaru śālā āvaraṇadalli kuḻitu mātigiḻiyuttārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "intro",
+      "speaker": "ಮಾಲಾ",
+      "text": "ನಿನ್ನೆ ನಮ್ಮ ಮನೆಯ ಸಮೀಪದ ದೇವಸ್ಥಾನದಲ್ಲಿ ಪುರಾಣದ ಕತೆ ಹೇಳುವ ಕಾರ್ಯಕ್ರಮ ಇತ್ತು. ನಾನು ನಮ್ಮಮ್ಮ ಹೋಗಿದ್ದೆವು. ತುಂಬಾ ಚೆನ್ನಾಗಿತ್ತು.",
+      "translations": {
+        "en": "Yesterday near our house there was a programme of telling a puranic story at the temple. My mother and I went. It was very nice.",
+        "hi": "कल हमारे घर के पास मंदिर में पुराण की कथा सुनाने का कार्यक्रम था। मैं और मेरी अम्मा गई थीं। बहुत अच्छा था।"
+      },
+      "transliterations": {
+        "devanagari": "निन्नॆ नम्म मनॆय समीपद देवस्थानदल्लि पुराणद कतॆ हेळुव कार्यक्रम इत्तु. नानु नम्मम्म होगिद्दॆवु. तुंबा चॆन्नागित्तु.",
+        "latin": "ninnè namma manèya samīpada devasthānadalli purāṇada katè heḻuva kāryakrama ittu. nānu nammamma hogiddèvu. tuṃbā cènnāgittu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "intro",
+      "speaker": "ರೇಖಾ",
+      "text": "ಪುರಾಣದ ಕತೆ ಹೇಳುವಾಗ ಮಧ್ಯೆ ಮಧ್ಯೆ ದೇವರನಾಮಗಳನ್ನು ಹಾಡುತ್ತಾರೆ. ನನಗದು ತುಂಬಾ ಇಷ್ಟ.",
+      "translations": {
+        "en": "When they tell a puranic story they sing God’s names in between. I like that a lot.",
+        "hi": "पुराण की कथा सुनाते समय बीच-बीच में भगवान के नाम गाते हैं। मुझे वह बहुत पसंद है।"
+      },
+      "transliterations": {
+        "devanagari": "पुराणद कतॆ हेळुवाग मध्यॆ मध्यॆ देवरनामगळन्नु हाडुत्तारॆ. ननगदु तुंबा इष्ट.",
+        "latin": "purāṇada katè heḻuvāga madhyè madhyè devaranāmagaḻannu hāḍuttārè. nanagadu tuṃbā iṣṭa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "intro",
+      "speaker": "ಮೇರಿ",
+      "text": "ರೇಖಾ.... ನನಗೆ ನೀತಿಕತೆಗಳು ಎಂದರೆ ಇಷ್ಟ. ನನ್ನ ಬಳಿ ಕೆಲವು ನೀತಿಕತೆಗಳ ಪುಸ್ತಕಗಳು ಇವೆ.",
+      "translations": {
+        "en": "Rekha.... I like moral stories. I have some books of moral stories with me.",
+        "hi": "रेखा.... मुझे नीति-कथाएँ पसंद हैं। मेरे पास कुछ नीति-कथाओं की पुस्तकें हैं।"
+      },
+      "transliterations": {
+        "devanagari": "रेखा.... ननगॆ नीतिकतॆगळु ऎंदरॆ इष्ट. नन्न बळि कॆलवु नीतिकतॆगळ पुस्तकगळु इवॆ.",
+        "latin": "rekhā.... nanagè nītikatègaḻu èṃdarè iṣṭa. nanna baḻi kèlavu nītikatègaḻa pustakagaḻu ivè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "intro",
+      "speaker": "ಫಾತಿಮಾ",
+      "text": "ಮಾಲಾ.... ಕೆಲವು ಕತೆಗಳನ್ನು ಹಾಡಿನ ರೂಪದಲ್ಲಿ ಹೇಳುತ್ತಾರಲ್ಲಾ....",
+      "translations": {
+        "en": "Mala.... Some stories are told in the form of song, aren’t they....",
+        "hi": "माला.... कुछ कथाएँ गीत के रूप में सुनाई जाती हैं ना...."
+      },
+      "transliterations": {
+        "devanagari": "माला.... कॆलवु कतॆगळन्नु हाडिन रूपदल्लि हेळुत्तारल्ला....",
+        "latin": "mālā.... kèlavu katègaḻannu hāḍina rūpadalli heḻuttārallā...."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "intro",
+      "speaker": "ಮಾಲಾ",
+      "text": "ಹೌದು, ಇದನ್ನು ಕಥನ-ಕವನ ಎನ್ನುತ್ತಾರೆ.",
+      "translations": {
+        "en": "Yes, that is called kathana-kavana (story-poem).",
+        "hi": "हाँ, इसे कथन-कवन कहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, इदन्नु कथन-कवन ऎन्नुत्तारॆ.",
+        "latin": "haudu, idannu kathana-kavana ènnuttārè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "intro",
+      "speaker": "ರೇಖಾ",
+      "text": "ಕೆಲವು ಕಡೆಗಳಲ್ಲಿ ಜಾನಪದ ಹಾಡುಗಳ ರೂಪದಲ್ಲಿ ಕತೆ ಹೇಳುತ್ತಾರೆ. ಇವು ತುಂಬಾ ಚೆನ್ನಾಗಿರುತ್ತವೆ.",
+      "translations": {
+        "en": "In some places they tell stories in the form of folk songs. These are very nice.",
+        "hi": "कुछ जगहों पर लोकगीतों के रूप में कथा सुनाई जाती है। ये बहुत अच्छी होती हैं।"
+      },
+      "transliterations": {
+        "devanagari": "कॆलवु कडॆगळल्लि जानपद हाडुगळ रूपदल्लि कतॆ हेळुत्तारॆ. इवु तुंबा चॆन्नागिरुत्तवॆ.",
+        "latin": "kèlavu kaḍègaḻalli jānapada hāḍugaḻa rūpadalli katè heḻuttārè. ivu tuṃbā cènnāgiruttavè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d7",
+      "section": "intro",
+      "speaker": "ಮಾಲಾ",
+      "text": "ನಾನು ಚಿಕ್ಕವಳಿರುವಾಗ ನಮ್ಮಜ್ಜ ನನಗೆ ರಾಮಾಯಣ, ಮಹಾಭಾರತದ ಕತೆ ಹೇಳುತ್ತಿದ್ದರು. ಬೇರೆ ಬೇರೆ ಕತೆ ಪುಸ್ತಕಗಳನ್ನೆಲ್ಲಾ ತಂದುಕೊಟ್ಟು ಓದಿಸುತ್ತಿದ್ದರು.",
+      "translations": {
+        "en": "When I was little my grandfather used to tell me Ramayana and Mahabharata stories. He would bring all kinds of story books and make me read them.",
+        "hi": "जब मैं छोटी थी तो हमारे अज्ज मुझे रामायण, महाभारत की कथाएँ सुनाते थे। अलग-अलग कथा पुस्तकें लाकर पढ़ाते थे।"
+      },
+      "transliterations": {
+        "devanagari": "नानु चिक्कवळिरुवाग नम्मज्ज ननगॆ रामायण, महाभारतद कतॆ हेळुत्तिद्दरु. बेरॆ बेरॆ कतॆ पुस्तकगळन्नॆल्ला तंदुकॊट्टु ओदिसुत्तिद्दरु.",
+        "latin": "nānu cikkavaḻiruvāga nammajja nanagè rāmāyaṇa, mahābhāratada katè heḻuttiddaru. berè berè katè pustakagaḻannèllā taṃdukòṭṭu odisuttiddaru."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d8",
+      "section": "intro",
+      "speaker": "ಫಾತಿಮಾ",
+      "text": "ನನಗಂತೂ ಕತೆಗಳೆಂದರೆ ತುಂಬಾ ಇಷ್ಟ.",
+      "translations": {
+        "en": "I really like stories a lot.",
+        "hi": "मुझे तो कथाएँ बहुत पसंद हैं।"
+      },
+      "transliterations": {
+        "devanagari": "ननगंतू कतॆगळॆंदरॆ तुंबा इष्ट.",
+        "latin": "nanagaṃtū katègaḻèṃdarè tuṃbā iṣṭa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d9",
+      "section": "intro",
+      "speaker": "ಮೇರಿ",
+      "text": "ನನಗೂ ಅಷ್ಟೆ.",
+      "translations": {
+        "en": "Same with me.",
+        "hi": "मुझे भी वैसा ही।"
+      },
+      "transliterations": {
+        "devanagari": "ननगू अष्टॆ.",
+        "latin": "nanagū aṣṭè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ವಿದ್ಯಾರ್ಥಿನಿಯರು ಮಾತಾಡುತ್ತಿರುವಾಗ ಅಲ್ಲಿಗೆ ಬಂದ ತರಗತಿ ಶಿಕ್ಷಕಿಯ ಕಿವಿಗೆ ವಿದ್ಯಾರ್ಥಿನಿಯರ ಮಾತುಗಳು ಕೇಳಿದವು.",
+      "translations": {
+        "en": "While the girls were talking, the class teacher who had come there overheard their words.",
+        "hi": "छात्राएँ बात कर रही थीं तब वहाँ आई कक्षा शिक्षिका के कान में छात्राओं की बातें पड़ीं।"
+      },
+      "transliterations": {
+        "devanagari": "विद्यार्थिनियरु माताडुत्तिरुवाग अल्लिगॆ बंद तरगति शिक्षकिय किविगॆ विद्यार्थिनियर मातुगळु केळिदवु.",
+        "latin": "vidyārthiniyaru mātāḍuttiruvāga alligè baṃda taragati śikṣakiya kivigè vidyārthiniyara mātugaḻu keḻidavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d10",
+      "section": "intro",
+      "speaker": "ಶಿಕ್ಷಕಿ",
+      "text": "ನಿಮಗೆಲ್ಲಾ ಕತೆಗಳೆಂದರೆ ಅಷ್ಟೊಂದು ಇಷ್ಟವೇ? ಇವತ್ತಿನ ನಮ್ಮ ಪಾಠ ಕೂಡಾ ಸ್ವಾರಸ್ಯಕರವಾದ ಕತೆಯೇ; ಪುಟ್ಟಜ್ಜಿ ಹೇಳುವ ಕತೆ ಕೇಳುವ ಆಯ್ತೇ?",
+      "translations": {
+        "en": "Do you all like stories that much? Today’s lesson of ours is also an interesting story; shall we listen to the story Puttajji tells?",
+        "hi": "तुम सबको कथाएँ इतनी पसंद हैं? आज का हमारा पाठ भी एक रोचक कथा ही है; पुट्टज्जि की कथा सुनने को तैयार हो?"
+      },
+      "transliterations": {
+        "devanagari": "निमगॆल्ला कतॆगळॆंदरॆ अष्टॊंदु इष्टवे? इवत्तिन नम्म पाठ कूडा स्वारस्यकरवाद कतॆये; पुट्टज्जि हेळुव कतॆ केळुव आय्ते?",
+        "latin": "nimagèllā katègaḻèṃdarè aṣṭòṃdu iṣṭave? ivattina namma pāṭha kūḍā svārasyakaravāda katèye; puṭṭajji heḻuva katè keḻuva āyte?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "intro-3",
+      "section": "intro",
+      "text": "ಇದನ್ನು ಕೇಳಿದ ಮಕ್ಕಳ ಮುಖ ಅರಳಿತು.",
+      "translations": {
+        "en": "Hearing this, the children’s faces lit up.",
+        "hi": "यह सुनकर बच्चों के चेहरे खिल उठे।"
+      },
+      "transliterations": {
+        "devanagari": "इदन्नु केळिद मक्कळ मुख अरळितु.",
+        "latin": "idannu keḻida makkaḻa mukha araḻitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು ಅಂದರೆ, ‘ಬಾ ಮಗ ಹೇಳ್ತೀನಿ ಒಳ್ಳೇದೊಂದು ಕತೆಯ’ ಅಂತಾಳೆ ಪುಟ್ಟಜ್ಜಿ. ಕತೆಹೇಳುವುದರಲ್ಲಿ ನಮ್ಮ ಪುಟ್ಟಜ್ಜಿ ಯಾವಾಗಲೂ ಫಷ್ಟು. ದೊಡ್ಡ ಕತೆ, ಸಣ್ಣ ಕತೆ, ಪುಟಾಣಿ ಕತೆ, ತಮಾಷೆ ಕತೆ, ಹಾಡ್ಗತೆ ಹೀಗೆ ತರಾವರಿ ಕತೆ ಹೇಳುತ್ತಾಳೆ ಪುಟ್ಟಜ್ಜಿ. ಮೊನ್ನೆ ನಾನು ಪುಟ್ಟಜ್ಜಿ ಮನೆ ಕಡೆ ಹೋಗಿದ್ದೆ.",
+      "translations": {
+        "en": "When you say “Puttajji, Puttajji, tell a story,” Puttajji says, “Come, child, I’ll tell you a good story.” Our Puttajji is always first-rate at storytelling. Big stories, small stories, tiny stories, funny stories, song-stories—Puttajji tells all kinds of stories. The other day I went towards Puttajji’s house.",
+        "hi": "पुट्टज्जि पुट्टज्जि कथा सुनाओ कहने पर पुट्टज्जि कहती है, ‘आओ बेटा, एक अच्छी कथा सुनाती हूँ।’ कथा सुनाने में हमारी पुट्टज्जि हमेशा प्रथम। बड़ी कथा, छोटी कथा, नन्ही कथा, मज़ेदार कथा, गीत-कथा—ऐसे तरह-तरह की कथाएँ सुनाती हैं पुट्टज्जि। परसों मैं पुट्टज्जि के घर की ओर गया था।"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टज्जि पुट्टज्जि कतॆ हेळु अंदरॆ, ‘बा मग हेळ्तीनि ऒळ्ळेदॊंदु कतॆय’ अंताळॆ पुट्टज्जि. कतॆहेळुवुदरल्लि नम्म पुट्टज्जि यावागलू फष्टु. दॊड्ड कतॆ, सण्ण कतॆ, पुटाणि कतॆ, तमाषॆ कतॆ, हाड्गतॆ हीगॆ तरावरि कतॆ हेळुत्ताळॆ पुट्टज्जि. मॊन्नॆ नानु पुट्टज्जि मनॆ कडॆ होगिद्दॆ.",
+        "latin": "puṭṭajji puṭṭajji katè heḻu aṃdarè, ‘bā maga heḻtīni òḻḻedòṃdu katèya’ aṃtāḻè puṭṭajji. katèheḻuvudaralli namma puṭṭajji yāvāgalū phaṣṭu. dòḍḍa katè, saṇṇa katè, puṭāṇi katè, tamāṣè katè, hāḍgatè hīgè tarāvari katè heḻuttāḻè puṭṭajji. mònnè nānu puṭṭajji manè kaḍè hogiddè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಪುಟ್ಟಜ್ಜಿ ಮನೆ ಜಗಲಿ ಮೇಲೆ ಕೂತಿದ್ದಳು. ಅವಳು ಸಂತಸದಿಂದ ಇದ್ದಾಳೆ ಅಂತ ಅವಳ ಮುಖವೇ ಹೇಳುತ್ತಿತ್ತು.",
+      "translations": {
+        "en": "Puttajji was sitting on the house veranda. Her face itself said she was happy.",
+        "hi": "पुट्टज्जि घर की जगली पर बैठी थीं। उनके चेहरे से ही पता चल रहा था कि वे खुश हैं।"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टज्जि मनॆ जगलि मेलॆ कूतिद्दळु. अवळु संतसदिंद इद्दाळॆ अंत अवळ मुखवे हेळुत्तित्तु.",
+        "latin": "puṭṭajji manè jagali melè kūtiddaḻu. avaḻu saṃtasadiṃda iddāḻè aṃta avaḻa mukhave heḻuttittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d11",
+      "section": "story",
+      "speaker": "ಹುಡುಗ",
+      "text": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳುತೀಯಾ?",
+      "translations": {
+        "en": "Puttajji, Puttajji, will you tell a story?",
+        "hi": "पुट्टज्जि पुट्टज्जि, कथा सुनाओगी?"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टज्जि पुट्टज्जि कतॆ हेळुतीया?",
+        "latin": "puṭṭajji puṭṭajji katè heḻutīyā?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d12",
+      "section": "story",
+      "speaker": "ಪುಟ್ಟಜ್ಜಿ",
+      "text": "ಬಾ ಮಗ ಹೇಳ್ತೀನಿ ಒಳ್ಳೇದೊಂದು ಕತೆಯಾ",
+      "translations": {
+        "en": "Come, child, I’ll tell you a good story.",
+        "hi": "आओ बेटा, एक अच्छी कथा सुनाती हूँ।"
+      },
+      "transliterations": {
+        "devanagari": "बा मग हेळ्तीनि ऒळ्ळेदॊंदु कतॆया",
+        "latin": "bā maga heḻtīni òḻḻedòṃdu katèyā"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಅವಳ ಮನೆ ಜಗಲಿ ಹತ್ತಿ ಕಂಬಕ್ಕೆ ಒರಗಿ ಕೂತು ಅವಳ ಮುಖ ನೋಡಿದೆ.",
+      "translations": {
+        "en": "I climbed onto her house veranda, leaned against the pillar, sat down and looked at her face.",
+        "hi": "उनके घर की जगली पर चढ़कर खंभे से टेक लगा बैठा और उनका मुँह देखा।"
+      },
+      "transliterations": {
+        "devanagari": "अवळ मनॆ जगलि हत्ति कंबक्कॆ ऒरगि कूतु अवळ मुख नोडिदॆ.",
+        "latin": "avaḻa manè jagali hatti kaṃbakkè òragi kūtu avaḻa mukha noḍidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d13",
+      "section": "story",
+      "speaker": "ಪುಟ್ಟಜ್ಜಿ",
+      "text": "ಯಾವ ಕತೆ ಹೇಳಲಿ?",
+      "translations": {
+        "en": "Which story shall I tell?",
+        "hi": "कौन-सी कथा सुनाऊँ?"
+      },
+      "transliterations": {
+        "devanagari": "याव कतॆ हेळलि?",
+        "latin": "yāva katè heḻali?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d14",
+      "section": "story",
+      "speaker": "ಹುಡುಗ",
+      "text": "ಯಾವುದಾದರೂ ಒಂದು ಹಾಡ್ಗತೆ ಹೇಳು",
+      "translations": {
+        "en": "Tell any song-story.",
+        "hi": "कोई भी गीत-कथा सुनाओ।"
+      },
+      "transliterations": {
+        "devanagari": "यावुदादरू ऒंदु हाड्गतॆ हेळु",
+        "latin": "yāvudādarū òṃdu hāḍgatè heḻu"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಪುಟ್ಟಜ್ಜಿ ಸ್ಪೆಷಾಲಿಟಿ ಅಂದರೆ ಹಾಡ್ಗತೆ. ಅದರಲ್ಲಿ ಹಾಡೂ ಇರುತ್ತೆ, ಕತೇನೂ ಇರುತ್ತೆ. ಪುಟ್ಟಜ್ಜಿ ಗಂಟಲು ಸರಿಪಡಿಸಿಕೊಂಡಳು. ಹಾಗೇ ತಣ್ಣನೆ ಗಾಳಿ ಬೀಸಿದ ಹಾಗೆ ಹೇಳಲಿಕ್ಕೆ ಪ್ರಾರಂಭ ಮಾಡಿದಳು.",
+      "translations": {
+        "en": "Puttajji’s specialty is the song-story. In it there is both song and story. Puttajji cleared her throat. Then, as if a cool breeze were blowing, she began to tell.",
+        "hi": "पुट्टज्जि की विशेषता यानी गीत-कथा। उसमें गीत भी होता है, कथा भी। पुट्टज्जि ने गला साफ़ किया। फिर ठंडी हवा बहने जैसी सहजता से सुनाना शुरू किया।"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टज्जि स्पॆषालिटि अंदरॆ हाड्गतॆ. अदरल्लि हाडू इरुत्तॆ, कतेनू इरुत्तॆ. पुट्टज्जि गंटलु सरिपडिसिकॊंडळु. हागे तण्णनॆ गाळि बीसिद हागॆ हेळलिक्कॆ प्रारंभ माडिदळु.",
+        "latin": "puṭṭajji spèṣāliṭi aṃdarè hāḍgatè. adaralli hāḍū iruttè, katenū iruttè. puṭṭajji gaṃṭalu saripaḍisikòṃḍaḻu. hāge taṇṇanè gāḻi bīsida hāgè heḻalikkè prāraṃbha māḍidaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಪುಟ್ಟದೊಂದು ಊರ ಹೊರಗೆ",
+      "translations": {
+        "en": "Outside a tiny village",
+        "hi": "एक छोटे गाँव के बाहर"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टदॊंदु ऊर हॊरगॆ",
+        "latin": "puṭṭadòṃdu ūra hòragè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಒಂದು ಹಳ್ಳ ಹರಿದಿದೆ",
+      "translations": {
+        "en": "a stream is flowing",
+        "hi": "एक नाला बह रहा है"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु हळ्ळ हरिदिदॆ",
+        "latin": "òṃdu haḻḻa harididè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಹಳ್ಳ ಅಲ್ಲಿ ಹರಿದು ಹರಿದು",
+      "translations": {
+        "en": "The stream flowing and flowing there"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळ अल्लि हरिदु हरिदु",
+        "latin": "haḻḻa alli haridu haridu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಊರ ಜನರ ಪೆರೆದಿದೆ",
+      "translations": {
+        "en": "has nourished the village people"
+      },
+      "transliterations": {
+        "devanagari": "ऊर जनर पॆरॆदिदॆ",
+        "latin": "ūra janara pèrèdidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಹರಿವ ಹಳ್ಳ ಊರಿಗೊಂದು",
+      "translations": {
+        "en": "The flowing stream has brought"
+      },
+      "transliterations": {
+        "devanagari": "हरिव हळ्ळ ऊरिगॊंदु",
+        "latin": "hariva haḻḻa ūrigòṃdu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l6",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಸೊಬಗ ತಂದು ಕೊಟ್ಟಿದೆ",
+      "translations": {
+        "en": "beauty to the village"
+      },
+      "transliterations": {
+        "devanagari": "सॊबग तंदु कॊट्टिदॆ",
+        "latin": "sòbaga taṃdu kòṭṭidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l7",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಹಸಿರು ಕಾಡು ಮರಗಳಲ್ಲಿ",
+      "translations": {
+        "en": "In the green forest among the trees"
+      },
+      "transliterations": {
+        "devanagari": "हसिरु काडु मरगळल्लि",
+        "latin": "hasiru kāḍu maragaḻalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l8",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಹಕ್ಕಿ ಹಾಡು ಕೇಳಿದೆ",
+      "translations": {
+        "en": "birdsong is heard"
+      },
+      "transliterations": {
+        "devanagari": "हक्कि हाडु केळिदॆ",
+        "latin": "hakki hāḍu keḻidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಇಂತಹ ಒಂದು ಸೊಗಸಾದ ಸ್ಥಳದಲ್ಲಿ ಒಂದು ಕಾಲದಲ್ಲಿ ಜನ ಇರಲಿಲ್ಲ. ಹಳ್ಳ ತನ್ನ ಪಾಡಿಗೆ ತಾನು ಹರಿದು ಹೋಗುತ್ತಾ ಇತ್ತು. ಹಕ್ಕಿಗಳು ಹಾಡಿಕೊಂಡಿದ್ದವು. ಒಂದು ದಿನ ಬಹಳ ದೂರದಿಂದ ಒಬ್ಬ ಯುವಕ ಅಲ್ಲಿಗೆ ಬಂದ. ಇಲ್ಲಿ ಇಷ್ಟೊಂದು ಚೆನ್ನಾಗಿದೆಯಲ್ಲ ಅಂತ ಅಲ್ಲಿ ಉಳಿಯೋ ಯೋಚನೆ ಮಾಡಿದ. ಒಂದು ಮನೆ ಕಟ್ಟಿದ. ಮನೆ ಮುಂದೆ ತೋಟ ಮಾಡಿದ. ತನಗೆ ಏನು ಬೇಕೋ ಅದನ್ನು ಬೆಳೆಸಿಕೊಂಡು ಅಲ್ಲಿ ಉಳಿದ. ಹಳ್ಳ, ಹಳ್ಳದ ದಡದಲ್ಲಿ ಇವನ ಮನೆ. ಮನೆಯ ಹಿಂದೆಯೇ ಭಾರೀ ಕಾಡು. ಅಲ್ಲಿ ಹುಲಿ, ಚಿರತೆ, ಕಾಡುಕೋಣ, ಆನೆ ಎಂದೆಲ್ಲ ಕಾಡುಪ್ರಾಣಿಗಳು. ಈ ಯುವಕನಿಗೆ ಯಾವುದೇ ಭೀತಿ ಇರಲಿಲ್ಲ. ಏಕೆಂದರೆ ಇವನು ಅವುಗಳ ಸುದ್ದಿಗೇ ಹೋಗುತ್ತಿರಲಿಲ್ಲ. ಅವೂ ಇವನ ಸುದ್ದಿಗೆ ಬರುತ್ತಿರಲಿಲ್ಲ. ಅವರವರ ಪಾಡಿಗೆ ಅವರೆಲ್ಲ ಸುಖವಾಗಿ ಇದ್ದರು. ಇವನ ಮನೆಯ ಹತ್ತಿರವೇ ಪ್ರಾಣಿಗಿಂಡಿ ಇದ್ದಿತು. ಅಲ್ಲಿಗೆ ಬಂದು ಪ್ರಾಣಿಗಳೆಲ್ಲ ನೀರು ಕುಡಿದು ಹೋಗುತ್ತಿದ್ದವು. ಒಂದು ದಿನ ಯುವಕ ಮನೆ ಜಗಲಿ ಮೇಲೆ ಕುಳಿತಿದ್ದಾನೆ. ಆಗ ಹೆದರಿ ಗಾಬರಿಯಾದ ಒಂದು ಜಿಂಕೆ ಅಂಗಳಕ್ಕೆ ಧಾವಿಸಿ ಬಂದಿತು. ಆ ಜಿಂಕೆಯ ಕುತ್ತಿಗೆಯಲ್ಲಿ ಒಂದು ಗೆಜ್ಜೆ ಬೇರೆ ಇತ್ತು. ಜಿಂಕೆಯ ಮೈ ನಡುಗುತ್ತಿತ್ತು. ಈ ಜಿಂಕೆ ಹೀಗೆ ಓಡಿ ಬರಲು ಒಂದು ಕಾರಣವಿತ್ತು.",
+      "translations": {
+        "en": "In such a lovely place, once there were no people. The stream was flowing along on its own. Birds were singing. One day a youth came there from far away. Thinking how nice it was here, he decided to stay. He built a house. In front of the house he made a garden. He grew whatever he needed and stayed there. The stream—his house on the bank of the stream. Right behind the house was a thick forest. There were wild animals—tiger, leopard, wild buffalo, elephant and all. This youth had no fear. Because he never went after their affairs. And they never came after his. Each lived happily in their own way. Near his house itself there was an animal watering hole. Animals would come there, drink water and go. One day the youth is sitting on the house veranda. Then a frightened startled deer rushed into the courtyard. Around that deer’s neck there was also a bell. The deer’s body was trembling. There was a reason this deer had come running like this."
+      },
+      "transliterations": {
+        "devanagari": "इंतह ऒंदु सॊगसाद स्थळदल्लि ऒंदु कालदल्लि जन इरलिल्ल. हळ्ळ तन्न पाडिगॆ तानु हरिदु होगुत्ता इत्तु. हक्किगळु हाडिकॊंडिद्दवु. ऒंदु दिन बहळ दूरदिंद ऒब्ब युवक अल्लिगॆ बंद. इल्लि इष्टॊंदु चॆन्नागिदॆयल्ल अंत अल्लि उळियो योचनॆ माडिद. ऒंदु मनॆ कट्टिद. मनॆ मुंदॆ तोट माडिद. तनगॆ एनु बेको अदन्नु बॆळॆसिकॊंडु अल्लि उळिद. हळ्ळ, हळ्ळद दडदल्लि इवन मनॆ. मनॆय हिंदॆये भारी काडु. अल्लि हुलि, चिरतॆ, काडुकोण, आनॆ ऎंदॆल्ल काडुप्राणिगळु. ई युवकनिगॆ यावुदे भीति इरलिल्ल. एकॆंदरॆ इवनु अवुगळ सुद्दिगे होगुत्तिरलिल्ल. अवू इवन सुद्दिगॆ बरुत्तिरलिल्ल. अवरवर पाडिगॆ अवरॆल्ल सुखवागि इद्दरु. इवन मनॆय हत्तिरवे प्राणिगिंडि इद्दितु. अल्लिगॆ बंदु प्राणिगळॆल्ल नीरु कुडिदु होगुत्तिद्दवु. ऒंदु दिन युवक मनॆ जगलि मेलॆ कुळितिद्दानॆ. आग हॆदरि गाबरियाद ऒंदु जिंकॆ अंगळक्कॆ धाविसि बंदितु. आ जिंकॆय कुत्तिगॆयल्लि ऒंदु गॆज्जॆ बेरॆ इत्तु. जिंकॆय मै नडुगुत्तित्तु. ई जिंकॆ हीगॆ ओडि बरलु ऒंदु कारणवित्तु.",
+        "latin": "iṃtaha òṃdu sògasāda sthaḻadalli òṃdu kāladalli jana iralilla. haḻḻa tanna pāḍigè tānu haridu hoguttā ittu. hakkigaḻu hāḍikòṃḍiddavu. òṃdu dina bahaḻa dūradiṃda òbba yuvaka alligè baṃda. illi iṣṭòṃdu cènnāgidèyalla aṃta alli uḻiyo yocanè māḍida. òṃdu manè kaṭṭida. manè muṃdè toṭa māḍida. tanagè enu beko adannu bèḻèsikòṃḍu alli uḻida. haḻḻa, haḻḻada daḍadalli ivana manè. manèya hiṃdèye bhārī kāḍu. alli huli, ciratè, kāḍukoṇa, ānè èṃdèlla kāḍuprāṇigaḻu. ī yuvakanigè yāvude bhīti iralilla. ekèṃdarè ivanu avugaḻa suddige hoguttiralilla. avū ivana suddigè baruttiralilla. avaravara pāḍigè avarèlla sukhavāgi iddaru. ivana manèya hattirave prāṇigiṃḍi idditu. alligè baṃdu prāṇigaḻèlla nīru kuḍidu hoguttiddavu. òṃdu dina yuvaka manè jagali melè kuḻitiddānè. āga hèdari gābariyāda òṃdu jiṃkè aṃgaḻakkè dhāvisi baṃditu. ā jiṃkèya kuttigèyalli òṃdu gèjjè berè ittu. jiṃkèya mai naḍuguttittu. ī jiṃkè hīgè oḍi baralu òṃdu kāraṇavittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಕಾಡಿನಲ್ಲಿ ಒಂದು ಹುಲಿ",
+      "translations": {
+        "en": "In the forest a tiger",
+        "hi": "जंगल में एक बाघ"
+      },
+      "transliterations": {
+        "devanagari": "काडिनल्लि ऒंदु हुलि",
+        "latin": "kāḍinalli òṃdu huli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಜಿಂಕೆಯನ್ನು ಕಂಡಿತು",
+      "translations": {
+        "en": "saw the deer",
+        "hi": "हिरन को देखा"
+      },
+      "transliterations": {
+        "devanagari": "जिंकॆयन्नु कंडितु",
+        "latin": "jiṃkèyannu kaṃḍitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಅದರ ಬೆನ್ನು ಹತ್ತಿ ಹುಲಿ",
+      "translations": {
+        "en": "Chasing after it the tiger"
+      },
+      "transliterations": {
+        "devanagari": "अदर बॆन्नु हत्ति हुलि",
+        "latin": "adara bènnu hatti huli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಹಳ್ಳದೆಡೆಗೆ ಬಂದಿತು",
+      "translations": {
+        "en": "came towards the stream"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळदॆडॆगॆ बंदितु",
+        "latin": "haḻḻadèḍègè baṃditu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಪ್ರಾಣಭಯದಿ ಜಿಂಕೆ ಬಂದು",
+      "translations": {
+        "en": "In fear for its life the deer came"
+      },
+      "transliterations": {
+        "devanagari": "प्राणभयदि जिंकॆ बंदु",
+        "latin": "prāṇabhayadi jiṃkè baṃdu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಮನೆಯನೊಂದ ಹೊಕ್ಕಿತು",
+      "translations": {
+        "en": "and entered a house"
+      },
+      "transliterations": {
+        "devanagari": "मनॆयनॊंद हॊक्कितु",
+        "latin": "manèyanòṃda hòkkitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l7",
+      "section": "story",
+      "stanza": 2,
+      "text": "ನನ್ನ ಪ್ರಾಣ ಉಳಿಸು ಎಂದು",
+      "translations": {
+        "en": "Save my life, it said"
+      },
+      "transliterations": {
+        "devanagari": "नन्न प्राण उळिसु ऎंदु",
+        "latin": "nanna prāṇa uḻisu èṃdu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l8",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಮನೆಯೊಡೆಯನ ಕೇಳಿತು.",
+      "translations": {
+        "en": "and asked the master of the house."
+      },
+      "transliterations": {
+        "devanagari": "मनॆयॊडॆयन केळितु.",
+        "latin": "manèyòḍèyana keḻitu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಈ ಯುವಕನಿಗೆ ಜಿಂಕೆ ಹುಲಿಗೆ ಹೆದರಿ ಇಲ್ಲಿ ಬಂದಿದೆ ಅನ್ನುವುದು ತಿಳಿಯಿತು. ಅವನು ಎದ್ದು ಅದನ್ನ ಅಪ್ಪಿಕೊಂಡು ಅದಕ್ಕೆ ಸಾಂತ್ವನ ನೀಡಿದ. ಅದೇ ಸಮಯಕ್ಕೆ ಒಂದು ಹುಲಿ ಬಂದು ಯುವಕನ ಮನೆಯ ಮುಂದೆ ನಿಂತಿತು.",
+      "translations": {
+        "en": "The youth understood that the deer had come here fearing the tiger. He got up, hugged it and comforted it. At that very time a tiger came and stood in front of the youth’s house."
+      },
+      "transliterations": {
+        "devanagari": "ई युवकनिगॆ जिंकॆ हुलिगॆ हॆदरि इल्लि बंदिदॆ अन्नुवुदु तिळियितु. अवनु ऎद्दु अदन्न अप्पिकॊंडु अदक्कॆ सांत्वन नीडिद. अदे समयक्कॆ ऒंदु हुलि बंदु युवकन मनॆय मुंदॆ निंतितु.",
+        "latin": "ī yuvakanigè jiṃkè huligè hèdari illi baṃdidè annuvudu tiḻiyitu. avanu èddu adanna appikòṃḍu adakkè sāṃtvana nīḍida. ade samayakkè òṃdu huli baṃdu yuvakana manèya muṃdè niṃtitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d15",
+      "section": "story",
+      "speaker": "ಹುಲಿ",
+      "text": "ಏಯ್! ಯುವಕ, ಈ ಜಿಂಕೆ ನನ್ನ ಆಹಾರ. ನೀನು ಇದಕ್ಕೆ ರಕ್ಷಣೆ ನೀಡಿದರೆ ಅದು ಅರಣ್ಯ ನಿಯಮಕ್ಕೆ ವಿರೋಧವಾಗುತ್ತದೆ. ಜಿಂಕೆಯನ್ನ ಬಿಟ್ಟುಕೊಡು",
+      "translations": {
+        "en": "Hey! Youth, this deer is my food. If you give it protection, that goes against the law of the forest. Let the deer go."
+      },
+      "transliterations": {
+        "devanagari": "एय्! युवक, ई जिंकॆ नन्न आहार. नीनु इदक्कॆ रक्षणॆ नीडिदरॆ अदु अरण्य नियमक्कॆ विरोधवागुत्तदॆ. जिंकॆयन्न बिट्टुकॊडु",
+        "latin": "ey! yuvaka, ī jiṃkè nanna āhāra. nīnu idakkè rakṣaṇè nīḍidarè adu araṇya niyamakkè virodhavāguttadè. jiṃkèyanna biṭṭukòḍu"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d16",
+      "section": "story",
+      "speaker": "ಯುವಕ",
+      "text": "ನೋಡು, ಇದು ಅರಣ್ಯದ ಜಿಂಕೆಯಲ್ಲ. ಯಾರೋ ಸಾಕಿದ ಪ್ರಾಣಿ. ಇದರ ಕುತ್ತಿಗೆಯಲ್ಲಿ ಗೆಜ್ಜೆ ಇದೆ. ಅರಣ್ಯದ ಪ್ರಾಣಿಯನ್ನು ಕೊಂದು ತಿನ್ನಲು ನಿನಗೆ ಅಧಿಕಾರವಿದೆ. ಆದರೆ ಹೀಗೆ ಯಾರೋ ಸಾಕಿದ ಪ್ರಾಣಿಯನ್ನು ಕೊಲ್ಲಲು ನಿನಗೆ ಅಧಿಕಾರವಿಲ್ಲ. ನಾನು ಇದನ್ನ ಬಿಟ್ಟು ಕೊಡುವುದಿಲ್ಲ",
+      "translations": {
+        "en": "Look, this is not a forest deer. It is someone’s pet. There is a bell on its neck. You have the right to kill and eat a forest animal. But you have no right to kill an animal someone has raised like this. I will not let this one go."
+      },
+      "transliterations": {
+        "devanagari": "नोडु, इदु अरण्यद जिंकॆयल्ल. यारो साकिद प्राणि. इदर कुत्तिगॆयल्लि गॆज्जॆ इदॆ. अरण्यद प्राणियन्नु कॊंदु तिन्नलु निनगॆ अधिकारविदॆ. आदरॆ हीगॆ यारो साकिद प्राणियन्नु कॊल्ललु निनगॆ अधिकारविल्ल. नानु इदन्न बिट्टु कॊडुवुदिल्ल",
+        "latin": "noḍu, idu araṇyada jiṃkèyalla. yāro sākida prāṇi. idara kuttigèyalli gèjjè idè. araṇyada prāṇiyannu kòṃdu tinnalu ninagè adhikāravidè. ādarè hīgè yāro sākida prāṇiyannu kòllalu ninagè adhikāravilla. nānu idanna biṭṭu kòḍuvudilla"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಈ ಮಾತು ಕೇಳಿ ಹುಲಿಗೆ ಸಿಟ್ಟು ಬಂದಿತು. ಆ ಸಿಟ್ಟಿನಲ್ಲಿ ಅದು ಅಬ್ಬರಿಸಿತು. ಯುವಕ ಜಿಂಕೆಗೆ ತನ್ನ ಮನೆಯೊಳಗೆ ಆಶ್ರಯ ನೀಡಿ ಹುಲಿಯನ್ನ ಎದುರಿಸಿದ. ತನ್ನಲ್ಲಿ ರಕ್ಷಣೆ ಬೇಡಿ ಬಂದವರನ್ನು ತಾನು ಬಿಟ್ಟುಕೊಡಲಾರೆ! ಎಂದ.",
+      "translations": {
+        "en": "Hearing these words the tiger got angry. In that anger it roared. The youth gave the deer shelter inside his house and faced the tiger. He would not abandon those who had come seeking his protection!"
+      },
+      "transliterations": {
+        "devanagari": "ई मातु केळि हुलिगॆ सिट्टु बंदितु. आ सिट्टिनल्लि अदु अब्बरिसितु. युवक जिंकॆगॆ तन्न मनॆयॊळगॆ आश्रय नीडि हुलियन्न ऎदुरिसिद. तन्नल्लि रक्षणॆ बेडि बंदवरन्नु तानु बिट्टुकॊडलारॆ! ऎंद.",
+        "latin": "ī mātu keḻi huligè siṭṭu baṃditu. ā siṭṭinalli adu abbarisitu. yuvaka jiṃkègè tanna manèyòḻagè āśraya nīḍi huliyanna èdurisida. tannalli rakṣaṇè beḍi baṃdavarannu tānu biṭṭukòḍalārè! èṃda."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಹುಲಿಗೂ ಆ ಯುವಕನಿಗೂ ಜಗಳವಾಯಿತು. ಹುಲಿ ಯುವಕನನ್ನು ಸಿಕ್ಕಲ್ಲಿ ಕಚ್ಚಿತು. ಗಾಯ ಮಾಡಿತು. ಕಷ್ಟಪಟ್ಟು ಬದುಕು ಸಾಗಿಸುತ್ತಿದ್ದ ಯುವಕ ಸೋಲಲಿಲ್ಲ. ಹುಲಿ ಕೊನೆಗೆ ಸೋತು ಪಲಾಯನ ಪಠಿಸಿತು. ಮತ್ತೆ ನಾನು ನಿನ್ನ ಸಹವಾಸಕ್ಕೆ ಬರುವುದಿಲ್ಲ ಅಂದಿತು ಹುಲಿ. ಅದಕ್ಕೂ ಹೊಡೆದು ಬಡಿದು ಗಾಯ ಮಾಡಿದ್ದ ಯುವಕ. ಜಿಂಕೆ ಯುವಕನ ಸ್ಥಿತಿಯನ್ನು ನೋಡಿತು. ಪಾಪ ಎಂದು ಮರುಗಿತು.",
+      "translations": {
+        "en": "There was a fight between the tiger and that youth. The tiger bit the youth wherever it could. It wounded him. The youth who had been struggling to make a living did not lose. At last the tiger was defeated and fled. “I will not come into your company again,” said the tiger. The youth too had beaten and wounded it. The deer saw the youth’s condition. It felt pity."
+      },
+      "transliterations": {
+        "devanagari": "हुलिगू आ युवकनिगू जगळवायितु. हुलि युवकनन्नु सिक्कल्लि कच्चितु. गाय माडितु. कष्टपट्टु बदुकु सागिसुत्तिद्द युवक सोललिल्ल. हुलि कॊनॆगॆ सोतु पलायन पठिसितु. मत्तॆ नानु निन्न सहवासक्कॆ बरुवुदिल्ल अंदितु हुलि. अदक्कू हॊडॆदु बडिदु गाय माडिद्द युवक. जिंकॆ युवकन स्थितियन्नु नोडितु. पाप ऎंदु मरुगितु.",
+        "latin": "huligū ā yuvakanigū jagaḻavāyitu. huli yuvakanannu sikkalli kaccitu. gāya māḍitu. kaṣṭapaṭṭu baduku sāgisuttidda yuvaka solalilla. huli kònègè sotu palāyana paṭhisitu. mattè nānu ninna sahavāsakkè baruvudilla aṃditu huli. adakkū hòḍèdu baḍidu gāya māḍidda yuvaka. jiṃkè yuvakana sthitiyannu noḍitu. pāpa èṃdu marugitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d17",
+      "section": "story",
+      "speaker": "ಜಿಂಕೆ",
+      "text": "ನನ್ನನ್ನು ಉಳಿಸಲು ಹೋಗಿ ನಿನಗೆ ಹೀಗಾಯಿತೇ!",
+      "translations": {
+        "en": "Was it for saving me that this happened to you!"
+      },
+      "transliterations": {
+        "devanagari": "नन्नन्नु उळिसलु होगि निनगॆ हीगायिते!",
+        "latin": "nannannu uḻisalu hogi ninagè hīgāyite!"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n9",
+      "section": "story",
+      "text": "ಎಂದು ಕಣ್ಣೀರು ಸುರಿಸಿತು. ಹಾಗೆಯೇ ಕಾಡಿಗೆ ಹೋಗಿ -",
+      "translations": {
+        "en": "it said, shedding tears. Then going to the forest—"
+      },
+      "transliterations": {
+        "devanagari": "ऎंदु कण्णीरु सुरिसितु. हागॆये काडिगॆ होगि -",
+        "latin": "èṃdu kaṇṇīru surisitu. hāgèye kāḍigè hogi -"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಸೊಪ್ಪು ಸದೆ ಬೇರು ತೊಗಟೆ",
+      "translations": {
+        "en": "Leaves, twigs, roots, bark"
+      },
+      "transliterations": {
+        "devanagari": "सॊप्पु सदॆ बेरु तॊगटॆ",
+        "latin": "sòppu sadè beru tògaṭè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಎಲ್ಲವನ್ನ ತಂದಿತು",
+      "translations": {
+        "en": "it brought them all"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लवन्न तंदितु",
+        "latin": "èllavanna taṃditu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಅರೆದು ಕುಟ್ಟಿ ಮದ್ದುಮಾಡಿ",
+      "translations": {
+        "en": "Ground and crushed them into medicine"
+      },
+      "transliterations": {
+        "devanagari": "अरॆदु कुट्टि मद्दुमाडि",
+        "latin": "arèdu kuṭṭi maddumāḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಗಾಯಗಳಿಗೆ ಹಚ್ಚಿತು",
+      "translations": {
+        "en": "and applied it to the wounds"
+      },
+      "transliterations": {
+        "devanagari": "गायगळिगॆ हच्चितु",
+        "latin": "gāyagaḻigè haccitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಗಾಯ ಮಾಗಿ ಅವನು ಮತ್ತೆ",
+      "translations": {
+        "en": "The wounds healed and he again"
+      },
+      "transliterations": {
+        "devanagari": "गाय मागि अवनु मत्तॆ",
+        "latin": "gāya māgi avanu mattè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l6",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಎದ್ದು ನಡೆಯತೊಡಗಿದ",
+      "translations": {
+        "en": "got up and began to walk"
+      },
+      "transliterations": {
+        "devanagari": "ऎद्दु नडॆयतॊडगिद",
+        "latin": "èddu naḍèyatòḍagida"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l7",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಇದನ್ನು ಕಂಡು ಜಿಂಕೆಗಾಯ್ತು",
+      "translations": {
+        "en": "Seeing this the deer felt"
+      },
+      "transliterations": {
+        "devanagari": "इदन्नु कंडु जिंकॆगाय्तु",
+        "latin": "idannu kaṃḍu jiṃkègāytu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l8",
+      "section": "story",
+      "stanza": 3,
+      "text": "ಅಪರಿಮಿತ ಆನಂದ",
+      "translations": {
+        "en": "boundless joy"
+      },
+      "transliterations": {
+        "devanagari": "अपरिमित आनंद",
+        "latin": "aparimita ānaṃda"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n10",
+      "section": "story",
+      "text": "ಹೀಗೆ ಆ ಜಿಂಕೆಗೂ ಆ ಯುವಕನಿಗೂ ಏನೋ ಸಂಬಂಧಕೂಡಿ ಬಂದಿತು. ಆದರೂ ಜಿಂಕೆಯ ಮನಸ್ಸಿನಲ್ಲಿ ಏನೋ ಚಿಂತೆ ಇರುವುದನ್ನು ಯುವಕ ಗಮನಿಸಿದ. ಒಂದು ದಿನ ಯುವಕ ಏನೋ ಮಾಡುತ್ತ ಅಂಗಳದಲ್ಲಿ ಕುಳಿತಿದ್ದಾನೆ. ಅಷ್ಟು ದೂರದಲ್ಲಿ ಮಲಗಿದ್ದ ಜಿಂಕೆ ತಟ್ಟನೆ ಎದ್ದು ನಿಂತಿದೆ. ಹೊರಗೆ ಕಿವಿಗೊಟ್ಟು ಏನನ್ನೋ ಕೇಳುತ್ತಿದೆ. ಆಗ ಯುವಕನ ಮನೆಯ ಹತ್ತಿರವೇ ಒಂದು ಇಂಪಾದ ದನಿ ಕೇಳಿಸುತ್ತಿದೆ. ಜಿಂಕೆ ಮತ್ತೂ ಸಂಭ್ರಮದಿಂದ ಎದ್ದು ನಿಲ್ಲುತ್ತದೆ.",
+      "translations": {
+        "en": "Thus some bond formed between that deer and that youth. Even so the youth noticed that there was some worry in the deer’s mind. One day the youth is sitting in the courtyard doing something. The deer lying a little away suddenly stands up. Listening outside, it is hearing something. Then near the youth’s house itself a sweet voice is heard. The deer stands up even more excitedly."
+      },
+      "transliterations": {
+        "devanagari": "हीगॆ आ जिंकॆगू आ युवकनिगू एनो संबंधकूडि बंदितु. आदरू जिंकॆय मनस्सिनल्लि एनो चिंतॆ इरुवुदन्नु युवक गमनिसिद. ऒंदु दिन युवक एनो माडुत्त अंगळदल्लि कुळितिद्दानॆ. अष्टु दूरदल्लि मलगिद्द जिंकॆ तट्टनॆ ऎद्दु निंतिदॆ. हॊरगॆ किविगॊट्टु एनन्नो केळुत्तिदॆ. आग युवकन मनॆय हत्तिरवे ऒंदु इंपाद दनि केळिसुत्तिदॆ. जिंकॆ मत्तू संभ्रमदिंद ऎद्दु निल्लुत्तदॆ.",
+        "latin": "hīgè ā jiṃkègū ā yuvakanigū eno saṃbaṃdhakūḍi baṃditu. ādarū jiṃkèya manassinalli eno ciṃtè iruvudannu yuvaka gamanisida. òṃdu dina yuvaka eno māḍutta aṃgaḻadalli kuḻitiddānè. aṣṭu dūradalli malagidda jiṃkè taṭṭanè èddu niṃtidè. hòragè kivigòṭṭu enanno keḻuttidè. āga yuvakana manèya hattirave òṃdu iṃpāda dani keḻisuttidè. jiṃkè mattū saṃbhramadiṃda èddu nilluttadè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d18",
+      "section": "story",
+      "speaker": "ಯುವತಿ",
+      "text": "ಚುಕ್ಕಿ ಎಲ್ಲಿದ್ದಿಯಾ..... ಚುಕ್ಕಿ ಎಲ್ಲಿದ್ದಿಯಾ?",
+      "translations": {
+        "en": "Chukki, where are you..... Chukki, where are you?"
+      },
+      "transliterations": {
+        "devanagari": "चुक्कि ऎल्लिद्दिया..... चुक्कि ऎल्लिद्दिया?",
+        "latin": "cukki èlliddiyā..... cukki èlliddiyā?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n11",
+      "section": "story",
+      "text": "ಜಿಂಕೆ ಹೊರ ಓಡುತ್ತದೆ. ಯುವಕ ಗಾಬರಿಯಿಂದ ಅದರ ಹಿಂದೆ ಓಡುತ್ತಾನೆ. ಅಲ್ಲಿ ಓರ್ವ ಯುವತಿ ಜಿಂಕೆಯನ್ನು ತಬ್ಬಿ ಹಿಡಿದಿದ್ದಾಳೆ. ಜಿಂಕೆ ಅವಳ ಕೈ ನೆಕ್ಕುತ್ತಿದೆ. ಅವಳ ಮೈಗೆ ತನ್ನ ಮೈ ತಿಕ್ಕುತ್ತಿದೆ. ಆಕೆ ಜಿಂಕೆಯ ಮುಖಕ್ಕೆ ತನ್ನ ಮುಖ ತಾಗಿಸಿ ಅಳುತ್ತಿದ್ದಾಳೆ. ಆ ಯುವತಿ ಈ ಯುವಕನನ್ನು ನೋಡಿದ ಕೂಡಲೇ ತನ್ನ ಪರಿಚಯ ಹೇಳಿಕೊಂಡಳು.",
+      "translations": {
+        "en": "The deer runs out. The youth runs after it in alarm. There a young woman has clasped the deer in her arms. The deer is licking her hand. It is rubbing its body against hers. She is crying with her face against the deer’s face. As soon as that young woman saw this youth she introduced herself."
+      },
+      "transliterations": {
+        "devanagari": "जिंकॆ हॊर ओडुत्तदॆ. युवक गाबरियिंद अदर हिंदॆ ओडुत्तानॆ. अल्लि ओर्व युवति जिंकॆयन्नु तब्बि हिडिदिद्दाळॆ. जिंकॆ अवळ कै नॆक्कुत्तिदॆ. अवळ मैगॆ तन्न मै तिक्कुत्तिदॆ. आकॆ जिंकॆय मुखक्कॆ तन्न मुख तागिसि अळुत्तिद्दाळॆ. आ युवति ई युवकनन्नु नोडिद कूडले तन्न परिचय हेळिकॊंडळु.",
+        "latin": "jiṃkè hòra oḍuttadè. yuvaka gābariyiṃda adara hiṃdè oḍuttānè. alli orva yuvati jiṃkèyannu tabbi hiḍididdāḻè. jiṃkè avaḻa kai nèkkuttidè. avaḻa maigè tanna mai tikkuttidè. ākè jiṃkèya mukhakkè tanna mukha tāgisi aḻuttiddāḻè. ā yuvati ī yuvakanannu noḍida kūḍale tanna paricaya heḻikòṃḍaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d19",
+      "section": "story",
+      "speaker": "ಯುವತಿ",
+      "text": "ಇದು ನಾವು ಸಾಕಿಕೊಂಡ ಜಿಂಕೆ.... ಇದರ ಮೇಲಿನ ಈ ಚುಕ್ಕೆಯ ಗುರುತಿಗೆ ಇದಕ್ಕೆ ನಾವು ಚುಕ್ಕಿ ಎಂದು ಕರೆದೆವು.... ಇದು ಕೆಲ ದಿನಗಳ ಹಿಂದೆ ಕಾಡಿಗೆ ಬಂದುಬಿಟ್ಟಿತು..... ಇದನ್ನ ಒಂದು ಹುಲಿ ಅಟ್ಟಿಸಿಕೊಂಡು ಬಂದುದನ್ನ ಕೆಲ ಹಳ್ಳಿ ಜನ ನೋಡಿದರು... ಚುಕ್ಕಿಯ ಕತೆ ಮುಗಿಯಿತು ಅಂತ ನಾವು ತಿಳಿದೆವು..... ಆದರೂ ನನಗೆ ಏನೋ ನಂಬಿಕೆ ..... ಚುಕ್ಕಿ ಬದುಕಿದೆ ಎಂದು.... ನಾನು ಆವತ್ತಿನಿಂದ ಅದನ್ನ ಹುಡುಕುತ್ತಿದ್ದೆ. ಇಂದು ಇದು ಸಿಕ್ಕಿದೆ....",
+      "translations": {
+        "en": "This is the deer we raised.... Because of this spot mark on it we called it Chukki.... A few days ago it went into the forest..... Some village people saw a tiger chasing it... We thought Chukki’s story was over..... Even so I had some faith ..... that Chukki was alive.... From that day I had been searching for it. Today I have found it...."
+      },
+      "transliterations": {
+        "devanagari": "इदु नावु साकिकॊंड जिंकॆ.... इदर मेलिन ई चुक्कॆय गुरुतिगॆ इदक्कॆ नावु चुक्कि ऎंदु करॆदॆवु.... इदु कॆल दिनगळ हिंदॆ काडिगॆ बंदुबिट्टितु..... इदन्न ऒंदु हुलि अट्टिसिकॊंडु बंदुदन्न कॆल हळ्ळि जन नोडिदरु... चुक्किय कतॆ मुगियितु अंत नावु तिळिदॆवु..... आदरू ननगॆ एनो नंबिकॆ ..... चुक्कि बदुकिदॆ ऎंदु.... नानु आवत्तिनिंद अदन्न हुडुकुत्तिद्दॆ. इंदु इदु सिक्किदॆ....",
+        "latin": "idu nāvu sākikòṃḍa jiṃkè.... idara melina ī cukkèya gurutigè idakkè nāvu cukki èṃdu karèdèvu.... idu kèla dinagaḻa hiṃdè kāḍigè baṃdubiṭṭitu..... idanna òṃdu huli aṭṭisikòṃḍu baṃdudanna kèla haḻḻi jana noḍidaru... cukkiya katè mugiyitu aṃta nāvu tiḻidèvu..... ādarū nanagè eno naṃbikè ..... cukki badukidè èṃdu.... nānu āvattiniṃda adanna huḍukuttiddè. iṃdu idu sikkidè...."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n12",
+      "section": "story",
+      "text": "ಆ ಯುವತಿ ಸಂತಸದಿಂದಲೇ ಇದೆಲ್ಲವನ್ನು ನುಡಿದಳು. ಆ ಯುವಕ ತಾನು ಚುಕ್ಕಿಯನ್ನ ಉಳಿಸಿದ ಕತೆ ಹೇಳಿದ. ಹುಲಿಗೂ ತನಗೂ ನಡೆದ ಹೋರಾಟದಲ್ಲಿ ತನಗಾದ ಗಾಯಗಳನ್ನು ತೋರಿಸಿದ. ಚುಕ್ಕಿಯು ಕಾಡಿನಲ್ಲಿ ಮದ್ದು ಮಾಡಿದ್ದನ್ನು ಹೇಳಿದ.",
+      "translations": {
+        "en": "The young woman said all this with joy. The youth told how he had saved Chukki. He showed the wounds he got in the fight with the tiger. He told how Chukki had made medicine in the forest."
+      },
+      "transliterations": {
+        "devanagari": "आ युवति संतसदिंदले इदॆल्लवन्नु नुडिदळु. आ युवक तानु चुक्कियन्न उळिसिद कतॆ हेळिद. हुलिगू तनगू नडॆद होराटदल्लि तनगाद गायगळन्नु तोरिसिद. चुक्कियु काडिनल्लि मद्दु माडिद्दन्नु हेळिद.",
+        "latin": "ā yuvati saṃtasadiṃdale idèllavannu nuḍidaḻu. ā yuvaka tānu cukkiyanna uḻisida katè heḻida. huligū tanagū naḍèda horāṭadalli tanagāda gāyagaḻannu torisida. cukkiyu kāḍinalli maddu māḍiddannu heḻida."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d20",
+      "section": "story",
+      "speaker": "ಯುವತಿ",
+      "text": "ಚಿಕ್ಕಂದಿನಿಂದ ಚುಕ್ಕಿ ನಮ್ಮ ಮನೆಯಲ್ಲಿಯೇ ದೊಡ್ಡದಾಗಿದೆ. ನಾನು ಚುಕ್ಕಿಯನ್ನು ಬಿಟ್ಟು ಇರಲಾರೆ.... ಇದನ್ನ ಮನೆಗೆ ಕರೆದೊಯ್ಯುತ್ತೇನೆ",
+      "translations": {
+        "en": "From childhood Chukki has grown up in our house itself. I cannot live without Chukki.... I will take it home."
+      },
+      "transliterations": {
+        "devanagari": "चिक्कंदिनिंद चुक्कि नम्म मनॆयल्लिये दॊड्डदागिदॆ. नानु चुक्कियन्नु बिट्टु इरलारॆ.... इदन्न मनॆगॆ करॆदॊय्युत्तेनॆ",
+        "latin": "cikkaṃdiniṃda cukki namma manèyalliye dòḍḍadāgidè. nānu cukkiyannu biṭṭu iralārè.... idanna manègè karèdòyyuttenè"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n13",
+      "section": "story",
+      "text": "ಅವಳು ಹಾಗೆ ಹೇಳುವಾಗ ಚುಕ್ಕಿಗೆ ವಿಷಯ ತಿಳಿದುಹೋಯಿತು. ಅದು ಹೋಗಿ ಆ ಯುವಕನ ಮನೆಯೊಳಗೆ ಅವಿತುಕೊಂಡಿತು.",
+      "translations": {
+        "en": "When she said that, Chukki understood the matter. It went and hid inside that youth’s house."
+      },
+      "transliterations": {
+        "devanagari": "अवळु हागॆ हेळुवाग चुक्किगॆ विषय तिळिदुहोयितु. अदु होगि आ युवकन मनॆयॊळगॆ अवितुकॊंडितु.",
+        "latin": "avaḻu hāgè heḻuvāga cukkigè viṣaya tiḻiduhoyitu. adu hogi ā yuvakana manèyòḻagè avitukòṃḍitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d21",
+      "section": "story",
+      "speaker": "ಯುವಕ",
+      "text": "ನಾನೂ ಅದನ್ನ ಬಿಟ್ಟು ಇರಲಾರೆ ..... ಹುಲಿ ಬಾಯಿಂದ ಅದನ್ನು ಕಾಪಾಡಿದ್ದೇನೆ..... ಈಗ ನಿನಗೆ ಇದನ್ನ ಕೊಡಲಾರೆ....",
+      "translations": {
+        "en": "I too cannot live without it ..... I have protected it from the tiger’s mouth..... Now I cannot give it to you...."
+      },
+      "transliterations": {
+        "devanagari": "नानू अदन्न बिट्टु इरलारॆ ..... हुलि बायिंद अदन्नु कापाडिद्देनॆ..... ईग निनगॆ इदन्न कॊडलारॆ....",
+        "latin": "nānū adanna biṭṭu iralārè ..... huli bāyiṃda adannu kāpāḍiddenè..... īga ninagè idanna kòḍalārè...."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d22",
+      "section": "story",
+      "speaker": "ಯುವತಿ",
+      "text": "ಹಾಗಾದರೆ ನಾನೂ ಇಲ್ಲಿಯೇ ಇರುತ್ತೇನೆ.. ಚುಕ್ಕಿಯ ಜೊತೆಯಲ್ಲಿ",
+      "translations": {
+        "en": "Then I too will stay right here.. with Chukki"
+      },
+      "transliterations": {
+        "devanagari": "हागादरॆ नानू इल्लिये इरुत्तेनॆ.. चुक्किय जॊतॆयल्लि",
+        "latin": "hāgādarè nānū illiye iruttenè.. cukkiya jòtèyalli"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n14",
+      "section": "story",
+      "text": "ಯುವತಿ ಯುವಕನ ಮನೆಯೊಳಗೆ ಹೋಗಿ ಚುಕ್ಕಿಯನ್ನ ಅಪ್ಪಿಕೊಂಡಳು.",
+      "translations": {
+        "en": "The young woman went inside the youth’s house and hugged Chukki."
+      },
+      "transliterations": {
+        "devanagari": "युवति युवकन मनॆयॊळगॆ होगि चुक्कियन्न अप्पिकॊंडळु.",
+        "latin": "yuvati yuvakana manèyòḻagè hogi cukkiyanna appikòṃḍaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಚುಕ್ಕಿಯೆಂಬ ಜಿಂಕೆ ಪಾಪ",
+      "translations": {
+        "en": "The deer named Chukki, poor thing"
+      },
+      "transliterations": {
+        "devanagari": "चुक्कियॆंब जिंकॆ पाप",
+        "latin": "cukkiyèṃba jiṃkè pāpa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಹುಲಿಯ ಕಣ್ಗೆ ಬಿದ್ದಿತು",
+      "translations": {
+        "en": "fell into the tiger’s eye"
+      },
+      "transliterations": {
+        "devanagari": "हुलिय कण्गॆ बिद्दितु",
+        "latin": "huliya kaṇgè bidditu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಯುವಕನೊಬ್ಬ ಅದನು ಉಳಿಸಿ",
+      "translations": {
+        "en": "A youth saved it"
+      },
+      "transliterations": {
+        "devanagari": "युवकनॊब्ब अदनु उळिसि",
+        "latin": "yuvakanòbba adanu uḻisi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಮನೆಯಲಿರಿಸಿ ಸಾಕಿದ",
+      "translations": {
+        "en": "kept it in the house and raised it"
+      },
+      "transliterations": {
+        "devanagari": "मनॆयलिरिसि साकिद",
+        "latin": "manèyalirisi sākida"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಹುಡುಕಿಕೊಂಡು ಬಂದ ಹುಡುಗಿ",
+      "translations": {
+        "en": "The girl who came searching"
+      },
+      "transliterations": {
+        "devanagari": "हुडुकिकॊंडु बंद हुडुगि",
+        "latin": "huḍukikòṃḍu baṃda huḍugi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l6",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಅದನು ಬಿಡೆ ಎಂದಳು",
+      "translations": {
+        "en": "said she would not let it go"
+      },
+      "transliterations": {
+        "devanagari": "अदनु बिडॆ ऎंदळु",
+        "latin": "adanu biḍè èṃdaḻu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l7",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಹುಡುಗ ಹುಡುಗಿ ಒಂದಾಗಲು",
+      "translations": {
+        "en": "For the boy and girl to become one"
+      },
+      "transliterations": {
+        "devanagari": "हुडुग हुडुगि ऒंदागलु",
+        "latin": "huḍuga huḍugi òṃdāgalu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l8",
+      "section": "story",
+      "stanza": 4,
+      "text": "ಚುಕ್ಕಿಯೇ ಮುಂದಾಯಿತು",
+      "translations": {
+        "en": "Chukki herself led the way",
+        "hi": "चुक्कि ही आगे आई"
+      },
+      "transliterations": {
+        "devanagari": "चुक्किये मुंदायितु",
+        "latin": "cukkiye muṃdāyitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n15",
+      "section": "story",
+      "text": "ಹೀಗೆ ಹಳ್ಳದ ದಂಡೆಯ ಮೇಲಿನ ಊರು ಬೆಳೆಯಿತು. ಅನಂತರ ಇಲ್ಲಿ ಎಲ್ಲ ಸುಖವಾಗಿದ್ದರು. ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಮುಗಿಸಿ ಎದ್ದಳು.",
+      "translations": {
+        "en": "Thus the village on the bank of the stream grew. Afterwards everyone lived happily here. Puttajji finished the story and got up."
+      },
+      "transliterations": {
+        "devanagari": "हीगॆ हळ्ळद दंडॆय मेलिन ऊरु बॆळॆयितु. अनंतर इल्लि ऎल्ल सुखवागिद्दरु. पुट्टज्जि कतॆ मुगिसि ऎद्दळु.",
+        "latin": "hīgè haḻḻada daṃḍèya melina ūru bèḻèyitu. anaṃtara illi èlla sukhavāgiddaru. puṭṭajji katè mugisi èddaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d23",
+      "section": "story",
+      "speaker": "ಪುಟ್ಟಜ್ಜಿ",
+      "text": "ಮತ್ತೆ ಯಾವತ್ತಾರ ಬಾ. ಬೇರೆ ಬೇರೆ ಕತೆ ಹೇಳತೇನೆ",
+      "translations": {
+        "en": "Come again sometime. I’ll tell different stories."
+      },
+      "transliterations": {
+        "devanagari": "मत्तॆ यावत्तार बा. बेरॆ बेरॆ कतॆ हेळतेनॆ",
+        "latin": "mattè yāvattāra bā. berè berè katè heḻatenè"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n16",
+      "section": "story",
+      "text": "ನಾನು ಸಂತಸದಿಂದ ಅಲ್ಲಿಂದ ಹೊರಟೆ.",
+      "translations": {
+        "en": "I left from there happily."
+      },
+      "transliterations": {
+        "devanagari": "नानु संतसदिंद अल्लिंद हॊरटॆ.",
+        "latin": "nānu saṃtasadiṃda alliṃda hòraṭè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "competency",
+      "section": "competency",
+      "text": "ಕೌಶಲ: ಆಲಿಸುವುದು. ಸಾಮರ್ಥ್ಯ: ಅಪರಿಚಿತ ಸನ್ನಿವೇಶದ ಘಟನೆಗಳನ್ನು ಆಲಿಸಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು. ಆಶಯ: ಕತೆ ಹೇಳುವುದು ಎಂದಾಗ- ಅಜ್ಜಿಯ ನೆನಪಾಗುತ್ತದೆ. ಅನಾದಿಯಿಂದಲೂ ಸುತ್ತಲೂ ಮಕ್ಕಳನ್ನು ಕುಳ್ಳಿರಿಸಿಕೊಂಡು ಹಾವ-ಭಾವದಿಂದ ಕೂಡಿ, ಅಭಿನಯ ಸಹಿತ ಅಜ್ಜಿ ಹೇಳುವ ಕತೆಯ ಗಮ್ಮತ್ತೇ ಗಮ್ಮತ್ತು. ಹೊಟ್ಟೆ ಹುಣ್ಣಾಗುವಂತೆ ನಗುತ್ತಾ, ಕತೆಯ ಪಾತ್ರದ ದುಃಖ ಸನ್ನಿವೇಶಕ್ಕೆ ಕಣ್ಣೀರಿಡುತ್ತ, ಹೆದರಿಕೆಯಿಂದ ನಡುಗುತ್ತ ಕತೆ ಕೇಳುವುದೆಂದರೆ ಮಕ್ಕಳಿಗೆ ನಿದ್ದೆಯೂ ಬಾರದು; ಹಸಿವೆಯೂ ಕಾಣಿಸದು. ಇಂತಹ ಕತೆಗಳು ಮಕ್ಕಳ ಜೀವನದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚಾಗಿದೆ. ಹಾಗಾಗಿ ಉದಾತ್ತ ಭಾವನೆಗಳನ್ನೊಳಗೊಂಡ, ಧೈರ್ಯ ಸಾಹಸ ಪ್ರಧಾನವಾದ, ನೀತಿ ಬೋಧನೆಯ ಕಥೆಗಳು ಬಳಕೆಗೆ ಬಂದಲ್ಲಿ ಮುಂದೆ ಉತ್ತಮ ಗುಣನಡತೆಯ ಜನಾಂಗವನ್ನು ನಿರೀಕ್ಷಿಸಲು ಸಾಧ್ಯ.",
+      "translations": {
+        "en": "Skill: listening. Ability: listening to events in unfamiliar situations and understanding them. Intent: When we say storytelling, we remember grandmother. From time immemorial the fun of grandmother telling stories with expression and acting, seating children around her, is unmatched. Laughing till the stomach hurts, shedding tears at sad situations in the story, trembling with fear while listening—children feel neither sleep nor hunger. Such stories are more likely to influence children’s lives. So if stories that contain noble feelings, courage and adventure, and moral teaching come into use, we can hope for a people of good character ahead.",
+        "hi": "कौशल: सुनना। सामर्थ्य: अपरिचित परिस्थिति की घटनाएँ सुनकर समझना। आशय: कथा सुनाना कहने पर अज्जि याद आती है। अनादि काल से बच्चों को बैठाकर हाव-भाव और अभिनय सहित अज्जि की कथा का मज़ा ही निराला है। ऐसी कथाएँ बच्चों के जीवन पर प्रभाव डालने की संभावना अधिक रखती हैं।"
+      },
+      "transliterations": {
+        "devanagari": "कौशल: आलिसुवुदु. सामर्थ्य: अपरिचित सन्निवेशद घटनॆगळन्नु आलिसि अर्थमाडिकॊळ्ळुवुदु. आशय: कतॆ हेळुवुदु ऎंदाग- अज्जिय नॆनपागुत्तदॆ. अनादियिंदलू सुत्तलू मक्कळन्नु कुळ्ळिरिसिकॊंडु हाव-भावदिंद कूडि, अभिनय सहित अज्जि हेळुव कतॆय गम्मत्ते गम्मत्तु. हॊट्टॆ हुण्णागुवंतॆ नगुत्ता, कतॆय पात्रद दुःख सन्निवेशक्कॆ कण्णीरिडुत्त, हॆदरिकॆयिंद नडुगुत्त कतॆ केळुवुदॆंदरॆ मक्कळिगॆ निद्दॆयू बारदु; हसिवॆयू काणिसदु. इंतह कतॆगळु मक्कळ जीवनद मेलॆ प्रभाव बीरुव साध्यतॆ हॆच्चागिदॆ. हागागि उदात्त भावनॆगळन्नॊळगॊंड, धैर्य साहस प्रधानवाद, नीति बोधनॆय कथॆगळु बळकॆगॆ बंदल्लि मुंदॆ उत्तम गुणनडतॆय जनांगवन्नु निरीक्षिसलु साध्य.",
+        "latin": "kauśala: ālisuvudu. sāmarthya: aparicita sanniveśada ghaṭanègaḻannu ālisi arthamāḍikòḻḻuvudu. āśaya: katè heḻuvudu èṃdāga- ajjiya nènapāguttadè. anādiyiṃdalū suttalū makkaḻannu kuḻḻirisikòṃḍu hāva-bhāvadiṃda kūḍi, abhinaya sahita ajji heḻuva katèya gammatte gammattu. hòṭṭè huṇṇāguvaṃtè naguttā, katèya pātrada duḥkha sanniveśakkè kaṇṇīriḍutta, hèdarikèyiṃda naḍugutta katè keḻuvudèṃdarè makkaḻigè niddèyū bāradu; hasivèyū kāṇisadu. iṃtaha katègaḻu makkaḻa jīvanada melè prabhāva bīruva sādhyatè hèccāgidè. hāgāgi udātta bhāvanègaḻannòḻagòṃḍa, dhairya sāhasa pradhānavāda, nīti bodhanèya kathègaḻu baḻakègè baṃdalli muṃdè uttama guṇanaḍatèya janāṃgavannu nirīkṣisalu sādhya."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಡಾ. ನಾರ್ಬಟ್ ಡಿಸೋಜರವರು 1937 ಜೂನ್ 6ರಂದು ಜನಿಸಿದರು. ತಂದೆ ಎಫ್.ಪಿ.ಡಿಸೋಜ ತಾಯಿ ರೂಪಿನಾ ಡಿಸೋಜ. ನಾ.ಡಿಸೋಜರವರು ಈವರೆಗೆ 37 ಕಾದಂಬರಿಗಳನ್ನು, ನಾಲ್ಕು ನಾಟಕಗಳನ್ನು, ಇಪ್ಪತ್ತೆಂಟು ಮಕ್ಕಳ ಕೃತಿಗಳನ್ನು ನೂರಾರು ಕತೆಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ. ಇವರ ಕಾದಂಬರಿ ‘ಕಾಡಿನ ಬೆಂಕಿ’ ಹಾಗೂ ‘ದ್ವೀಪ’ ಚಲನಚಿತ್ರಗಳಾಗಿ ‘ರಜತಕಮಲ’ ಹಾಗೂ ‘ಸ್ವರ್ಣಕಮಲ’ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಪಡೆದಿವೆ.",
+      "translations": {
+        "en": "Dr Norbert D’Souza was born on 6 June 1937. Father F.P. D’Souza, mother Rupina D’Souza. Na. D’Souza has so far written 37 novels, four plays, twenty-eight children’s works and hundreds of stories. His novels ‘Kadina Benki’ and ‘Dweepa’ became films and received the Rajat Kamal and Swarna Kamal awards.",
+        "hi": "डॉ. नॉर्बर्ट डिसोज़ा 6 जून 1937 को जन्म हुए। पिता एफ.पी. डिसोज़ा, माता रूपिना डिसोज़ा। ना. डिसोज़ा अब तक 37 उपन्यास, चार नाटक, अट्ठाईस बाल कृतियाँ और सैकड़ों कथाएँ लिख चुके हैं।"
+      },
+      "transliterations": {
+        "devanagari": "डा. नार्बट् डिसोजरवरु 1937 जून् 6रंदु जनिसिदरु. तंदॆ ऎफ्.पि.डिसोज तायि रूपिना डिसोज. ना.डिसोजरवरु ईवरॆगॆ 37 कादंबरिगळन्नु, नाल्कु नाटकगळन्नु, इप्पत्तॆंटु मक्कळ कृतिगळन्नु नूरारु कतॆगळन्नु बरॆदिद्दारॆ. इवर कादंबरि ‘काडिन बॆंकि’ हागू ‘द्वीप’ चलनचित्रगळागि ‘रजतकमल’ हागू ‘स्वर्णकमल’ प्रशस्तिगळन्नु पडॆदिवॆ.",
+        "latin": "ḍā. nārbaṭ ḍisojaravaru 1937 jūn 6raṃdu janisidaru. taṃdè èph.pi.ḍisoja tāyi rūpinā ḍisoja. nā.ḍisojaravaru īvarègè 37 kādaṃbarigaḻannu, nālku nāṭakagaḻannu, ippattèṃṭu makkaḻa kṛtigaḻannu nūrāru katègaḻannu barèdiddārè. ivara kādaṃbari ‘kāḍina bèṃki’ hāgū ‘dvīpa’ calanacitragaḻāgi ‘rajatakamala’ hāgū ‘svarṇakamala’ praśastigaḻannu paḍèdivè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-2",
+      "section": "author",
+      "text": "‘ಬಳುವಳಿ’ ಕಾದಂಬರಿ ಕೊಂಕಣಿಯಲ್ಲಿ ಚಲನಚಿತ್ರವಾಗಿದೆ. ‘ಸಾರ್ಕ್’ ದೇಶಗಳ ಸಾಹಿತಿಗಳ ಸಮ್ಮೇಳನದಲ್ಲಿ ಸ್ವಂತ ಕಥಾವಾಚನ ಮಾಡಿದ್ದರು. ಇವರ ‘ಮುಳುಗಡೆಯ ಊರಿಗೆ ಬಂದವರು’ ಕಿರು ಕಾದಂಬರಿಗೆ 2011ರ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಬಾಲ ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ ದೊರೆತಿದೆ. ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಗುಲ್ವಾಡಿ ವೆಂಕಟರಾವ್ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ಮಂಗಳೂರು ಸಂದೇಶ ಪ್ರಶಸ್ತಿ, ನವದೆಹಲಿ ಕಥಾ ಪ್ರಶಸ್ತಿ, ಪುತ್ತೂರು ನಿರಂಜನ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ ಮುಂತಾದವುಗಳಿಂದ ಪುರಸ್ಕೃತರಾಗಿದ್ದಾರೆ. ಜನವರಿ 2014ರಲ್ಲಿ ಮಡಿಕೇರಿಯಲ್ಲಿ ನಡೆದ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು.",
+      "translations": {
+        "en": "The novel ‘Baluvali’ became a film in Konkani. He did his own story-reading at the SAARC writers’ conference. His short novel ‘Mulugadeya Ourige Bandavaru’ received the 2011 Central Sahitya Akademi Bal Sahitya Puraskar. He has been honoured with the Karnataka Sahitya Academy award, Gulvadi Venkatarao award, Karnataka Rajyotsava award, Mangaluru Sandesh award, New Delhi Katha award, Puttur Niranjana Sahitya award and others. In January 2014 he was president of the All India Kannada Literary Conference held at Madikeri.",
+        "hi": "‘बळुवळि’ उपन्यास कोंकणी में फ़िल्म बना। उनके लघु उपन्यास ‘मुळुगडेय ऊरिगे बंदवरु’ को 2011 का केन्द्रीय साहित्य अकादमी बाल साहित्य पुरस्कार मिला। जनवरी 2014 में मडिकेरी में हुए अखिल भारत कन्नड़ साहित्य सम्मेलन के अध्यक्ष रहे।"
+      },
+      "transliterations": {
+        "devanagari": "‘बळुवळि’ कादंबरि कॊंकणियल्लि चलनचित्रवागिदॆ. ‘सार्क्’ देशगळ साहितिगळ सम्मेळनदल्लि स्वंत कथावाचन माडिद्दरु. इवर ‘मुळुगडॆय ऊरिगॆ बंदवरु’ किरु कादंबरिगॆ 2011र केंद्र साहित्य अकाडॆमिय बाल साहित्य पुरस्कार दॊरॆतिदॆ. कर्नाटक साहित्य अकाडॆमि प्रशस्ति, गुल्वाडि वॆंकटराव् प्रशस्ति, कर्नाटक राज्योत्सव प्रशस्ति, मंगळूरु संदेश प्रशस्ति, नवदॆहलि कथा प्रशस्ति, पुत्तूरु निरंजन साहित्य प्रशस्ति मुंतादवुगळिंद पुरस्कृतरागिद्दारॆ. जनवरि 2014रल्लि मडिकेरियल्लि नडॆद अखिल भारत कन्नड साहित्य सम्मेळनद अध्यक्षरागिद्दरु.",
+        "latin": "‘baḻuvaḻi’ kādaṃbari kòṃkaṇiyalli calanacitravāgidè. ‘sārk’ deśagaḻa sāhitigaḻa sammeḻanadalli svaṃta kathāvācana māḍiddaru. ivara ‘muḻugaḍèya ūrigè baṃdavaru’ kiru kādaṃbarigè 2011ra keṃdra sāhitya akāḍèmiya bāla sāhitya puraskāra dòrètidè. karnāṭaka sāhitya akāḍèmi praśasti, gulvāḍi vèṃkaṭarāv praśasti, karnāṭaka rājyotsava praśasti, maṃgaḻūru saṃdeśa praśasti, navadèhali kathā praśasti, puttūru niraṃjana sāhitya praśasti muṃtādavugaḻiṃda puraskṛtarāgiddārè. janavari 2014ralli maḍikeriyalli naḍèda akhila bhārata kannaḍa sāhitya sammeḻanada adhyakṣarāgiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-hadgate",
+      "section": "vocab",
+      "text": "ಹಾಡ್ಗತೆ",
+      "translations": {
+        "en": "ಹಾಡ್ಗತೆ",
+        "hi": "ಹಾಡ್ಗತೆ"
+      },
+      "transliterations": {
+        "devanagari": "हाड्गतॆ",
+        "latin": "hāḍgatè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hadgate-def",
+      "section": "vocab",
+      "text": "ಹಾಡು ಸೇರಿರುವ ಕತೆ",
+      "translations": {
+        "en": "a story that includes song",
+        "hi": "गीत सहित कथा"
+      },
+      "transliterations": {
+        "devanagari": "हाडु सेरिरुव कतॆ",
+        "latin": "hāḍu seriruva katè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-taravari",
+      "section": "vocab",
+      "text": "ತರಾವರಿ",
+      "translations": {
+        "en": "ತರಾವರಿ",
+        "hi": "ತರಾವರಿ"
+      },
+      "transliterations": {
+        "devanagari": "तरावरि",
+        "latin": "tarāvari"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-taravari-def",
+      "section": "vocab",
+      "text": "ವಿಧವಿಧವಾದ",
+      "translations": {
+        "en": "of various kinds",
+        "hi": "तरह-तरह की"
+      },
+      "transliterations": {
+        "devanagari": "विधविधवाद",
+        "latin": "vidhavidhavāda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhiti",
+      "section": "vocab",
+      "text": "ಭೀತಿ",
+      "translations": {
+        "en": "ಭೀತಿ",
+        "hi": "ಭೀತಿ"
+      },
+      "transliterations": {
+        "devanagari": "भीति",
+        "latin": "bhīti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhiti-def",
+      "section": "vocab",
+      "text": "ಭಯ, ಹೆದರಿಕೆ",
+      "translations": {
+        "en": "fear, fright",
+        "hi": "भय, डर"
+      },
+      "transliterations": {
+        "devanagari": "भय, हॆदरिकॆ",
+        "latin": "bhaya, hèdarikè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pranigindi",
+      "section": "vocab",
+      "text": "ಪ್ರಾಣಿಗಿಂಡಿ",
+      "translations": {
+        "en": "ಪ್ರಾಣಿಗಿಂಡಿ",
+        "hi": "ಪ್ರಾಣಿಗಿಂಡಿ"
+      },
+      "transliterations": {
+        "devanagari": "प्राणिगिंडि",
+        "latin": "prāṇigiṃḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pranigindi-def",
+      "section": "vocab",
+      "text": "ಕಾಡಿನಲ್ಲಿರುವ ಪ್ರಾಣಿಗಳು ನೀರನ್ನು ಕುಡಿಯುವುದಕ್ಕಾಗಿ ಹೋಗಲು ಮಾಡಿಕೊಂಡ ಕಿಂಡಿ",
+      "translations": {
+        "en": "a hollow made in the forest for animals to drink water",
+        "hi": "जंगल में पशुओं के पानी पीने के लिए बना खोखला"
+      },
+      "transliterations": {
+        "devanagari": "काडिनल्लिरुव प्राणिगळु नीरन्नु कुडियुवुदक्कागि होगलु माडिकॊंड किंडि",
+        "latin": "kāḍinalliruva prāṇigaḻu nīrannu kuḍiyuvudakkāgi hogalu māḍikòṃḍa kiṃḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-angala",
+      "section": "vocab",
+      "text": "ಅಂಗಳ",
+      "translations": {
+        "en": "ಅಂಗಳ",
+        "hi": "ಅಂಗಳ"
+      },
+      "transliterations": {
+        "devanagari": "अंगळ",
+        "latin": "aṃgaḻa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-angala-def",
+      "section": "vocab",
+      "text": "ಅಂಗಣ, ಮನೆಯ ಮುಂದಿನ ಅಥವಾ ಹಿಂದಿನ ಬಯಲು ಭಾಗ",
+      "translations": {
+        "en": "courtyard, the open space in front of or behind the house",
+        "hi": "आँगन"
+      },
+      "transliterations": {
+        "devanagari": "अंगण, मनॆय मुंदिन अथवा हिंदिन बयलु भाग",
+        "latin": "aṃgaṇa, manèya muṃdina athavā hiṃdina bayalu bhāga"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-santvana",
+      "section": "vocab",
+      "text": "ಸಾಂತ್ವನ",
+      "translations": {
+        "en": "ಸಾಂತ್ವನ",
+        "hi": "ಸಾಂತ್ವನ"
+      },
+      "transliterations": {
+        "devanagari": "सांत्वन",
+        "latin": "sāṃtvana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-santvana-def",
+      "section": "vocab",
+      "text": "ಸಮಾಧಾನ, ಸಂತೈಸುವಿಕೆಯ ನುಡಿ",
+      "translations": {
+        "en": "consolation, comforting words",
+        "hi": "समाधान, सांत्वना के शब्द"
+      },
+      "transliterations": {
+        "devanagari": "समाधान, संतैसुविकॆय नुडि",
+        "latin": "samādhāna, saṃtaisuvikèya nuḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ashraya",
+      "section": "vocab",
+      "text": "ಆಶ್ರಯ",
+      "translations": {
+        "en": "ಆಶ್ರಯ",
+        "hi": "ಆಶ್ರಯ"
+      },
+      "transliterations": {
+        "devanagari": "आश्रय",
+        "latin": "āśraya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ashraya-def",
+      "section": "vocab",
+      "text": "ಆಸರೆ, ಸಹಾಯ, ರಕ್ಷಣೆ",
+      "translations": {
+        "en": "support, help, protection",
+        "hi": "आसरा, सहायता, रक्षा"
+      },
+      "transliterations": {
+        "devanagari": "आसरॆ, सहाय, रक्षणॆ",
+        "latin": "āsarè, sahāya, rakṣaṇè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-maddu",
+      "section": "vocab",
+      "text": "ಮದ್ದು",
+      "translations": {
+        "en": "ಮದ್ದು",
+        "hi": "ಮದ್ದು"
+      },
+      "transliterations": {
+        "devanagari": "मद्दु",
+        "latin": "maddu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-maddu-def",
+      "section": "vocab",
+      "text": "ಔಷಧ",
+      "translations": {
+        "en": "medicine",
+        "hi": "औषध"
+      },
+      "transliterations": {
+        "devanagari": "औषध",
+        "latin": "auṣadha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-palayana",
+      "section": "vocab",
+      "text": "ಪಲಾಯನ ಪಠಿಸು",
+      "translations": {
+        "en": "ಪಲಾಯನ ಪಠಿಸು",
+        "hi": "ಪಲಾಯನ ಪಠಿಸು"
+      },
+      "transliterations": {
+        "devanagari": "पलायन पठिसु",
+        "latin": "palāyana paṭhisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-palayana-def",
+      "section": "vocab",
+      "text": "ಓಡಿಹೋಗು",
+      "translations": {
+        "en": "to flee, run away",
+        "hi": "भाग जाना"
+      },
+      "transliterations": {
+        "devanagari": "ओडिहोगु",
+        "latin": "oḍihogu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-magu",
+      "section": "vocab",
+      "text": "ಮಾಗು",
+      "translations": {
+        "en": "ಮಾಗು",
+        "hi": "ಮಾಗು"
+      },
+      "transliterations": {
+        "devanagari": "मागु",
+        "latin": "māgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-magu-def",
+      "section": "vocab",
+      "text": "ಒಣಗು, ವಾಸಿಯಾಗು",
+      "translations": {
+        "en": "to dry, to heal",
+        "hi": "सूखना, अच्छा होना"
+      },
+      "transliterations": {
+        "devanagari": "ऒणगु, वासियागु",
+        "latin": "òṇagu, vāsiyāgu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sambhrama",
+      "section": "vocab",
+      "text": "ಸಂಭ್ರಮ",
+      "translations": {
+        "en": "ಸಂಭ್ರಮ",
+        "hi": "ಸಂಭ್ರಮ"
+      },
+      "transliterations": {
+        "devanagari": "संभ्रम",
+        "latin": "saṃbhrama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sambhrama-def",
+      "section": "vocab",
+      "text": "ಉತ್ಸಾಹ, ಸಡಗರ, ಸಂತೋಷ",
+      "translations": {
+        "en": "enthusiasm, excitement, joy",
+        "hi": "उत्साह, हर्ष"
+      },
+      "transliterations": {
+        "devanagari": "उत्साह, सडगर, संतोष",
+        "latin": "utsāha, saḍagara, saṃtoṣa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bide",
+      "section": "vocab",
+      "text": "ಬಿಡೆ",
+      "translations": {
+        "en": "ಬಿಡೆ",
+        "hi": "ಬಿಡೆ"
+      },
+      "transliterations": {
+        "devanagari": "बिडॆ",
+        "latin": "biḍè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bide-def",
+      "section": "vocab",
+      "text": "ಬಿಡುವುದಿಲ್ಲ",
+      "translations": {
+        "en": "will not let go",
+        "hi": "नहीं छोड़ूँगी/छोड़ूँगा"
+      },
+      "transliterations": {
+        "devanagari": "बिडुवुदिल्ल",
+        "latin": "biḍuvudilla"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-yavattara",
+      "section": "vocab",
+      "text": "ಯಾವತ್ತಾರ",
+      "translations": {
+        "en": "ಯಾವತ್ತಾರ",
+        "hi": "ಯಾವತ್ತಾರ"
+      },
+      "transliterations": {
+        "devanagari": "यावत्तार",
+        "latin": "yāvattāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-yavattara-def",
+      "section": "vocab",
+      "text": "ಯಾವತ್ತಾದರೂ, ಇನ್ನೊಂದು ದಿನ",
+      "translations": {
+        "en": "sometime, another day",
+        "hi": "कभी भी, किसी और दिन"
+      },
+      "transliterations": {
+        "devanagari": "यावत्तादरू, इन्नॊंदु दिन",
+        "latin": "yāvattādarū, innòṃdu dina"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಪುಟ್ಟಜ್ಜಿಯ ಬಳಿ ಹುಡುಗ ಯಾವ ಕತೆ ಹೇಳಬೇಕೆಂದು ಕೇಳಿದನು?",
+      "translations": {
+        "en": "What story did the boy ask Puttajji to tell?",
+        "hi": "पुट्टज्जि के पास लड़के ने कौन-सी कथा सुनाने को कहा?"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टज्जिय बळि हुडुग याव कतॆ हेळबेकॆंदु केळिदनु?",
+        "latin": "puṭṭajjiya baḻi huḍuga yāva katè heḻabekèṃdu keḻidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಯುವಕ ಮನೆಯ ಮುಂದೆ ಏನು ಮಾಡಿದನು?",
+      "translations": {
+        "en": "What did the youth do in front of the house?",
+        "hi": "युवक ने घर के सामने क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "युवक मनॆय मुंदॆ एनु माडिदनु?",
+        "latin": "yuvaka manèya muṃdè enu māḍidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಜಿಂಕೆಯ ಕುತ್ತಿಗೆಯಲ್ಲಿ ಏನಿತ್ತು?",
+      "translations": {
+        "en": "What was around the deer’s neck?",
+        "hi": "हिरन की गर्दन में क्या था?"
+      },
+      "transliterations": {
+        "devanagari": "जिंकॆय कुत्तिगॆयल्लि एनित्तु?",
+        "latin": "jiṃkèya kuttigèyalli enittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಹುಲಿ ಸೋತು ಏನು ಮಾಡಿತು?",
+      "translations": {
+        "en": "What did the tiger do when it lost?",
+        "hi": "बाघ हारकर क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "हुलि सोतु एनु माडितु?",
+        "latin": "huli sotu enu māḍitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಯುವತಿ ಕರೆದುಕೊಂಡು ಹೋಗುತ್ತೇನೆ ಎಂದಾಗ ಚುಕ್ಕಿ ಏನು ಮಾಡಿತು?",
+      "translations": {
+        "en": "When the young woman said she would take it away, what did Chukki do?",
+        "hi": "युवती के ले चलने कहने पर चुक्कि ने क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "युवति करॆदुकॊंडु होगुत्तेनॆ ऎंदाग चुक्कि एनु माडितु?",
+        "latin": "yuvati karèdukòṃḍu hoguttenè èṃdāga cukki enu māḍitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "section": "exercise-A",
+      "text": "ಹಳ್ಳದ ದಂಡೆಯ ಮೇಲಿನ ಊರು ಏನಾಯಿತು?",
+      "translations": {
+        "en": "What happened to the village on the bank of the stream?",
+        "hi": "नाले के किनारे का गाँव क्या हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळद दंडॆय मेलिन ऊरु एनायितु?",
+        "latin": "haḻḻada daṃḍèya melina ūru enāyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಹಳ್ಳ ಹರಿದು ಊರ ಜನರಿಗೆ ಏನು ಮಾಡಿದೆ?",
+      "translations": {
+        "en": "What did the flowing stream do for the village people?"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळ हरिदु ऊर जनरिगॆ एनु माडिदॆ?",
+        "latin": "haḻḻa haridu ūra janarigè enu māḍidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಯುವಕ ಹಳ್ಳದ ಬಳಿಗೆ ಬಂದು ಏನು ಮಾಡಿದನು?",
+      "translations": {
+        "en": "What did the youth do when he came near the stream?"
+      },
+      "transliterations": {
+        "devanagari": "युवक हळ्ळद बळिगॆ बंदु एनु माडिदनु?",
+        "latin": "yuvaka haḻḻada baḻigè baṃdu enu māḍidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಹುಲಿ ಮತ್ತು ಯುವಕನ ನಡುವೆ ನಡೆದ ಸಂಭಾಷಣೆ ಏನು?",
+      "translations": {
+        "en": "What was the conversation between the tiger and the youth?"
+      },
+      "transliterations": {
+        "devanagari": "हुलि मत्तु युवकन नडुवॆ नडॆद संभाषणॆ एनु?",
+        "latin": "huli mattu yuvakana naḍuvè naḍèda saṃbhāṣaṇè enu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಜಿಂಕೆಯನ್ನು ನೋಡಿದ ಯುವತಿ ಏನು ಮಾಡಿದಳು?",
+      "translations": {
+        "en": "What did the young woman do when she saw the deer?"
+      },
+      "transliterations": {
+        "devanagari": "जिंकॆयन्नु नोडिद युवति एनु माडिदळु?",
+        "latin": "jiṃkèyannu noḍida yuvati enu māḍidaḻu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "section": "exercise-B",
+      "text": "ಯುವಕ ಚುಕ್ಕಿಯ ಬಗೆಗೆ ಯುವತಿಗೆ ಏನು ಹೇಳಿದನು?",
+      "translations": {
+        "en": "What did the youth tell the young woman about Chukki?"
+      },
+      "transliterations": {
+        "devanagari": "युवक चुक्किय बगॆगॆ युवतिगॆ एनु हेळिदनु?",
+        "latin": "yuvaka cukkiya bagègè yuvatigè enu heḻidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "“ಯಾವುದಾದರೊಂದು ಹಾಡ್ಗತೆ ಹೇಳು.”",
+      "translations": {
+        "en": "\"Tell any song-story.\""
+      },
+      "transliterations": {
+        "devanagari": "“यावुदादरॊंदु हाड्गतॆ हेळु.”",
+        "latin": "“yāvudādaròṃdu hāḍgatè heḻu.”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "“ಏಯ್! ಯುವಕ, ಈ ಜಿಂಕೆ ನನ್ನ ಆಹಾರ.”",
+      "translations": {
+        "en": "\"Hey! Youth, this deer is my food.\""
+      },
+      "transliterations": {
+        "devanagari": "“एय्! युवक, ई जिंकॆ नन्न आहार.”",
+        "latin": "“ey! yuvaka, ī jiṃkè nanna āhāra.”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "“ಇದು ನಾವು ಸಾಕಿಕೊಂಡ ಜಿಂಕೆ.”",
+      "translations": {
+        "en": "\"This is the deer we raised.\""
+      },
+      "transliterations": {
+        "devanagari": "“इदु नावु साकिकॊंड जिंकॆ.”",
+        "latin": "“idu nāvu sākikòṃḍa jiṃkè.”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "section": "exercise-C",
+      "text": "“ನಾನು ಚುಕ್ಕಿಯನ್ನು ಬಿಟ್ಟು ಇರಲಾರೆ.”",
+      "translations": {
+        "en": "\"I cannot live without Chukki.\""
+      },
+      "transliterations": {
+        "devanagari": "“नानु चुक्कियन्नु बिट्टु इरलारॆ.”",
+        "latin": "“nānu cukkiyannu biṭṭu iralārè.”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ಈ ಪಾಠದಲ್ಲಿ ಬಂದಿರುವ ಪ್ರಾಣಿಗಳ ಹೆಸರನ್ನು ಪಟ್ಟಿಮಾಡಿ.",
+      "translations": {
+        "en": "List the names of the animals that appear in this lesson."
+      },
+      "transliterations": {
+        "devanagari": "ई पाठदल्लि बंदिरुव प्राणिगळ हॆसरन्नु पट्टिमाडि.",
+        "latin": "ī pāṭhadalli baṃdiruva prāṇigaḻa hèsarannu paṭṭimāḍi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "section": "exercise-D",
+      "text": "ಈ ಪಾಠದಲ್ಲಿ ಬಂದಿರುವ ವ್ಯಕ್ತಿಗಳ ಹೆಸರನ್ನು ಪಟ್ಟಿಮಾಡಿ.",
+      "translations": {
+        "en": "List the names of the people that appear in this lesson."
+      },
+      "transliterations": {
+        "devanagari": "ई पाठदल्लि बंदिरुव व्यक्तिगळ हॆसरन्नु पट्टिमाडि.",
+        "latin": "ī pāṭhadalli baṃdiruva vyaktigaḻa hèsarannu paṭṭimāḍi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "section": "exercise-D",
+      "text": "ಅಜ್ಜಿ ಮತ್ತು ಕತೆ ಕೇಳುವ ಹುಡುಗನ ಸಂಭಾಷಣೆ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Write the conversation between the grandmother and the boy listening to the story."
+      },
+      "transliterations": {
+        "devanagari": "अज्जि मत्तु कतॆ केळुव हुडुगन संभाषणॆ बरॆयिरि.",
+        "latin": "ajji mattu katè keḻuva huḍugana saṃbhāṣaṇè barèyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "section": "exercise-D",
+      "text": "ಯುವಕ ಮತ್ತು ಯುವತಿಯ ನಡುವೆ ನಡೆದ ಸಂಭಾಷಣೆಯನ್ನು ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Write the conversation that took place between the youth and the young woman."
+      },
+      "transliterations": {
+        "devanagari": "युवक मत्तु युवतिय नडुवॆ नडॆद संभाषणॆयन्नु बरॆयिरि.",
+        "latin": "yuvaka mattu yuvatiya naḍuvè naḍèda saṃbhāṣaṇèyannu barèyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "section": "exercise-E",
+      "text": "ಕೆಳಗಿನ ಪದಗಳಿಗೆ ಅರ್ಥ ಬರೆಯಿರಿ: ಪೆರೆ, ಪ್ರಾಣಿಗಿಂಡಿ, ಭಯ, ತೊಗಟೆ, ಮದ್ದು, ಯಾವತ್ತಾರ.",
+      "translations": {
+        "en": "Write the meanings of the following words: pere, pranigindi, bhaya, togatte, maddu, yavattara."
+      },
+      "transliterations": {
+        "devanagari": "कॆळगिन पदगळिगॆ अर्थ बरॆयिरि: पॆरॆ, प्राणिगिंडि, भय, तॊगटॆ, मद्दु, यावत्तार.",
+        "latin": "kèḻagina padagaḻigè artha barèyiri: pèrè, prāṇigiṃḍi, bhaya, tògaṭè, maddu, yāvattāra."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "section": "exercise-F",
+      "text": "ಹೊಂದಿಸಿ ಬರೆಯಿರಿ: ಪುಟ್ಟಜ್ಜಿ / ಕತೆ; ಕಾಡು / ಹುಲಿ, ಚಿರತೆ, ಕಾಡುಕೋಣ; ಚುಕ್ಕಿ / ಜಿಂಕೆ; ಮದ್ದು / ಸೊಪ್ಪುಸದೆ, ಬೇರು, ತೊಗಟೆ; ಹಳ್ಳದ ದಂಡೆ / ಊರು ಬೆಳೆಯಿತು; ಜಗಳ / ಹುಲಿಗೂ ಯುವಕನಿಗೂ.",
+      "translations": {
+        "en": "Match: Puttajji / story; forest / tiger, leopard, wild buffalo; Chukki / deer; medicine / leaves twigs roots bark; stream bank / village grew; quarrel / between tiger and youth."
+      },
+      "transliterations": {
+        "devanagari": "हॊंदिसि बरॆयिरि: पुट्टज्जि / कतॆ; काडु / हुलि, चिरतॆ, काडुकोण; चुक्कि / जिंकॆ; मद्दु / सॊप्पुसदॆ, बेरु, तॊगटॆ; हळ्ळद दंडॆ / ऊरु बॆळॆयितु; जगळ / हुलिगू युवकनिगू.",
+        "latin": "hòṃdisi barèyiri: puṭṭajji / katè; kāḍu / huli, ciratè, kāḍukoṇa; cukki / jiṃkè; maddu / sòppusadè, beru, tògaṭè; haḻḻada daṃḍè / ūru bèḻèyitu; jagaḻa / huligū yuvakanigū."
+      },
+      "type": "question"
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. केळगिन प्रश्नेगळिगे एरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions in two or three sentences.",
+      "hi": "आ. निम्नलिखित प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. खालि बिट्ट स्थळगळन्नु सूक्त पदगळिंद तुंबिरि.",
+      "en": "C. Fill in the blanks with suitable words.",
+      "hi": "इ. रिक्त स्थान उपयुक्त पदों से भरिए।",
+      "kn": "ಇ. ಖಾಲಿ ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ಸೂಕ್ತ ಪದಗಳಿಂದ ತುಂಬಿರಿ.",
+      "latin": "i. khāli biṭṭa sthaḷagaḷannu sūkta padagaḷinda tumbiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ.वर्णमाले",
+      "en": "A. Alphabet",
+      "hi": "अ. वर्णमाला",
+      "kn": "ಅ.ವರ್ಣಮಾಲೆ",
+      "latin": "a.varṇamāle"
+    },
+    "grammar-B": {
+      "devanagari": "आ.स्वराक्षरगळु",
+      "en": "B. Vowels",
+      "hi": "आ. स्वराक्षर",
+      "kn": "ಆ.ಸ್ವರಾಕ್ಷರಗಳು",
+      "latin": "ā.svarākṣaragaḷu"
+    },
+    "grammar-C": {
+      "devanagari": "इ.व्यंजनाक्षरगळु",
+      "en": "C. Consonants",
+      "hi": "इ. व्यंजनाक्षर",
+      "kn": "ಇ.ವ್ಯಂಜನಾಕ್ಷರಗಳು",
+      "latin": "i.vyañjanākṣaragaḷu"
+    },
+    "grammar-D": {
+      "devanagari": "ई. योगवाहगळु",
+      "en": "D. Yogavahas",
+      "hi": "ई. योगवाह",
+      "kn": "ಈ. ಯೋಗವಾಹಗಳು",
+      "latin": "ī. yōgavāhagaḷu"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "अ.बिट्ट स्थळगळन्नु भर्तिमाडिरि.",
+      "en": "A. Fill in the blanks.",
+      "hi": "अ. रिक्त स्थान भरिए।",
+      "kn": "ಅ.ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ಭರ್ತಿಮಾಡಿರಿ.",
+      "latin": "a.biṭṭa sthaḷagaḷannu bhartimāḍiri."
+    },
+    "language-exercise-B": {
+      "devanagari": "आ.व्यंजनाक्षरगळ कोष्टक पूर्णगोळिसिरि.",
+      "en": "B. Complete the consonant chart.",
+      "hi": "आ. व्यंजन तालिका पूरी कीजिए।",
+      "kn": "ಆ.ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "latin": "ā.vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri."
+    },
+    "language-exercise-C": {
+      "devanagari": "इ. अवर्गीय व्यंजनाक्षरगळ कोष्टक पूर्णगोळिसिरि.",
+      "en": "C. Complete the unclassified consonant chart.",
+      "hi": "इ. अवर्गीय व्यंजन तालिका पूरी कीजिए।",
+      "kn": "ಇ. ಅವರ್ಗೀಯ ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "latin": "i. avargīya vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri."
+    },
+    "language-exercise-D": {
+      "devanagari": "ई. योजने",
+      "en": "D. Project",
+      "hi": "ई. परियोजना",
+      "kn": "ಈ. ಯೋಜನೆ",
+      "latin": "ī. yōjane"
+    },
+    "language-exercise-E": {
+      "devanagari": "उ. ओदिगे मन्नणे",
+      "en": "U. Recognition for reading",
+      "hi": "उ. पढ़ने की मान्यता",
+      "kn": "ಉ. ಓದಿಗೆ ಮನ್ನಣೆ",
+      "latin": "u. ōdige mannaṇe"
+    },
+    "language-exercise-F": {
+      "devanagari": "ऊ. शुभनुडि",
+      "en": "Uu. Good sayings",
+      "hi": "ऊ. शुभ वचन",
+      "kn": "ಊ. ಶುಭನುಡಿ",
+      "latin": "ū. śubhanuḍi"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಜನಪದ ಕಥೆ",
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch01-ottige-baluva-ananda",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "‘ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ’. ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಬಾಳಿದರೆ ಎಲ್ಲರೂ ಸುಖವಾಗಿ ಇರಬಹುದು. ನಮ್ಮ ನಮ್ಮ ನಡುವೆ ಇರುವ ದ್ವೇಷ ಅಸೂಯೆಗಳನ್ನು ಮರೆತು ಎಲ್ಲರನ್ನು ಪ್ರೀತಿಸುತ್ತಾ ಬಾಳಿದರೆ ನಮ್ಮ ಬದುಕು ಸುಖಮಯವಾಗಿರುತ್ತದೆ.",
+      "translations": {
+        "en": "“There is strength in unity.” If everyone lives together, everyone can be happy. If we forget the hatred and jealousy among us and live loving everyone, our life becomes joyful.",
+        "hi": "«एकता में बल है»। सब साथ रहें तो सब सुखी रह सकते हैं। आपस के द्वेष-असूया भूलकर सबको प्रेम करते हुए जिएँ तो हमारा जीवन सुखमय रहता है।"
+      },
+      "transliterations": {
+        "devanagari": "‘ओग्गट्टिनल्लि बलविदे’. एल्लरू ओट्टागि बाळिदरे एल्लरू सुखवागि इरबहुदु. नम्म नम्म नडुवे इरुव द्वेष असूयेगळन्नु मरेतु एल्लरन्नु प्रीतिसुत्ता बाळिदरे नम्म बदुकु सुखमयवागिरुत्तदे.",
+        "latin": "‘oggaṭṭinalli balavide’. ellarū oṭṭāgi bāḷidare ellarū sukhavāgi irabahudu. namma namma naḍuve iruva dvēṣa asūyegaḷannu maretu ellarannu prītisuttā bāḷidare namma baduku sukhamayavāgiruttade."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಒಂದು ಹಳ್ಳಿ, ಅಲ್ಲಿ ರೈತನೊಬ್ಬನ ಹೊಲ ಇತ್ತು. ಅಲ್ಲಿ ಒಂದು ಬೇವಿನ ಮರವಿತ್ತು. ಹೇಗೋ ಏನೋ ಅದರ ಕೆಳಗೆ ಒಂದು ಗುಂಡನೆಯ ಕಲ್ಲು ಬಂದು ನಿಂತುಕೊಂಡಿತು. ಮರದ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳುತ್ತಿದ್ದ ಹಕ್ಕಿಗಳ ಹಿಕ್ಕೆ ಕಲ್ಲಿನ ಮೇಲೆ ಬಿದ್ದು ಬಿದ್ದು, ಆ ಕಲ್ಲು ಬೆಳ್ಳಗಾಗಿ, ವಿಭೂತಿ ಬಳಿದಂತೆ ಕಾಣಿಸುತ್ತಿತ್ತು. ಇದರಿಂದಾಗಿ ಆ ಬಿಳಿಯ ಕಲ್ಲು ಎಲ್ಲರಿಗೂ ಅಮ್ಮನ ಕಲ್ಲಿನಂತೆ ಕಾಣಿಸುತ್ತಿತ್ತು. ಆದ್ದರಿಂದ, ಬೇವಿನ ಮರವನ್ನು ಜನ ‘ಅಮ್ಮನ ಮರ’ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು. ಆ ಕಲ್ಲು ಬೇವಿನ ಮರದ ಕೆಳಗಿದ್ದುದರಿಂದ ಅದಕ್ಕೆ ‘ಅಮ್ಮನ ಕಲ್ಲು’ ಎಂಬ ಹೆಸರು ರೂಢಿಗೆ ಬಂದಿತ್ತು. ಹೀಗೆ ಒಂದರಿಂದ ಇನ್ನೊಂದು ಹೆಸರು ಪಡೆದುಕೊಂಡು ಎರಡೂ ಸುಖವಾಗಿದ್ದವು. ‘ಅಮ್ಮನ ಮರ’, ‘ಅಮ್ಮನ ಕಲ್ಲು’ ಎಂದು ಊರಿನ ಜನಗಳು ಅವುಗಳ ತಂಟೆಗೆ ಹೋಗುತ್ತಿರಲಿಲ್ಲ.",
+      "translations": {
+        "en": "There was a village, and there a farmer had a field. In it stood a neem tree. Somehow a round stone came and settled under it. Droppings from birds sitting on the tree fell again and again on the stone, and the stone turned white, looking as if vibhuti had been smeared on it. Because of this, that white stone looked to everyone like the Mother’s stone. So people called the neem tree “Mother’s tree.” Since the stone lay under the neem, the name “Mother’s stone” became common for it. Thus each took a name from the other, and both were happy. Calling them “Mother’s tree” and “Mother’s stone,” the village people did not trouble them.",
+        "hi": "एक गाँव था, वहाँ एक किसान का खेत था। वहाँ एक नीम का पेड़ था। कैसे-कैसे उसके नीचे एक गोल पत्थर आकर ठहर गया। पेड़ पर बैठने वाले पक्षियों की बीट पत्थर पर बार-बार गिरकर वह पत्थर सफ़ेद हो गया, जैसे विभूति लगाई हो। इससे वह सफ़ेद पत्थर सबको अम्मा का पत्थर जैसा लगता था। इसलिए लोग नीम को «अम्मा का पेड़» कहते थे। पत्थर नीम के नीचे होने से उसे «अम्मा का पत्थर» नाम पड़ गया। इस तरह एक से दूसरे ने नाम पाकर दोनों सुखी थे। «अम्मा का पेड़», «अम्मा का पत्थर» कहकर गाँव वाले उन्हें छेड़ते नहीं थे।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु हळ्ळि, अल्लि रैतनोब्बन होल इत्तु. अल्लि ओंदु बेविन मरवित्तु. हेगो एनो अदर केळगे ओंदु गुंडनेय कल्लु बंदु निंतुकोंडितु. मरद मेले कुळितुकोळ्ळुत्तिद्द हक्किगळ हिक्के कल्लिन मेले बिद्दु बिद्दु, आ कल्लु बेळ्ळगागि, विभूति बळिदंते काणिसुत्तित्तु. इदरिंदागि आ बिळिय कल्लु एल्लरिगू अम्मन कल्लिनंते काणिसुत्तित्तु. आद्दरिंद, बेविन मरवन्नु जन ‘अम्मन मर’ एंदु करेयुत्तिद्दरु. आ कल्लु बेविन मरद केळगिद्दुदरिंद अदक्के ‘अम्मन कल्लु’ एंब हेसरु रूढिगे बंदित्तु. हीगे ओंदरिंद इन्नोंदु हेसरु पडेदुकोंडु एरडू सुखवागिद्दवु. ‘अम्मन मर’, ‘अम्मन कल्लु’ एंदु ऊरिन जनगळु अवुगळ तंटेगे होगुत्तिरलिल्ल.",
+        "latin": "ondu haḷḷi, alli raitanobbana hola ittu. alli ondu bēvina maravittu. hēgō ēnō adara keḷage ondu guṇḍaneya kallu bandu nintukoṇḍitu. marada mēle kuḷitukoḷḷuttidda hakkigaḷa hikke kallina mēle biddu biddu, ā kallu beḷḷagāgi, vibhūti baḷidante kāṇisuttittu. idarindāgi ā biḷiya kallu ellarigū ammana kallinante kāṇisuttittu. āddarinda, bēvina maravannu jana ‘ammana mara’ endu kareyuttiddaru. ā kallu bēvina marada keḷagiddudarinda adakke ‘ammana kallu’ emba hesaru rūḍhige bandittu. hīge ondarinda innondu hesaru paḍedukoṇḍu eraḍū sukhavāgiddavu. ‘ammana mara’, ‘ammana kallu’ endu ūrina janagaḷu avugaḷa taṇṭege hōguttiralilla."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಒಂದು ಸಲ, ತನ್ನಿಂದ ಇನ್ನೊಂದು ಸುಖವಾಗಿದೆ ಎಂದು ಎರಡಕ್ಕೂ ಜಂಬ ಬಂತು. ಬೇವಿನ ಮರ “ನಾನು ಅಮ್ಮನ ಮರ, ನೀನು ನನ್ನ ಕೆಳಗಿರುವುದರಿಂದ ನಿನ್ನನ್ನು ಅಮ್ಮನ ಕಲ್ಲು, ಎಂದು ಜನ ಕರೆಯುತ್ತಾರೆ” ಎಂದು ಹೇಳಿತು. ಅದಕ್ಕೆ ಕಲ್ಲು “ನಾನು ಅಮ್ಮನ ಕಲ್ಲು, ನನ್ನ ಪಕ್ಕದಲ್ಲಿ ನೀನಿರುವುದರಿಂದ ನಿನ್ನನ್ನು ಅಮ್ಮನ ಮರ ಎಂದು ಕರೆಯುತ್ತಾರೆ” ಎಂದಿತು. ಹೀಗೆ ಎರಡೂ ಜಗಳ ಮಾಡಿದವು. ಕೊನೆಗೆ ಕಲ್ಲು ಕೋಪದಿಂದ ಉರುಳಿ ಉರುಳಿ ಬೇವಿನ ಮರದಿಂದ ದೂರ ಹೋಗಿ ನಿಂತಿತು. “ನಾನಿಲ್ಲದಿದ್ದರೆ ಮರವನ್ನು ಕಡಿದುಹಾಕುತ್ತಾರೆ” ಎಂದು ಕಲ್ಲು, “ನನ್ನ ಕೆಳಗಿರದಿದ್ದರೆ ಕಲ್ಲನ್ನು ಒಡೆದು ಹಾಕುತ್ತಾರೆ” ಎಂದು ಮರ-ಹೀಗೆ ಎರಡೂ ತಮ್ಮೊಳಗೆ ಆಲೋಚಿಸುತ್ತಿದ್ದವು.",
+      "translations": {
+        "en": "Once, thinking that one was happy because of the other, both grew proud. The neem tree said, “I am Mother’s tree; because you are under me, people call you Mother’s stone.” The stone said, “I am Mother’s stone; because you are beside me, people call you Mother’s tree.” Thus they quarrelled. At last the stone, in anger, rolled away from the neem and stood far off. “If I am not here they will cut the tree,” thought the stone; “If you are not under me they will break the stone,” thought the tree—so both thought within themselves.",
+        "hi": "एक बार, एक के कारण दूसरा सुखी है सोचकर दोनों को घमंड आया। नीम ने कहा, «मैं अम्मा का पेड़ हूँ; तू मेरे नीचे है इसलिए लोग तुझे अम्मा का पत्थर कहते हैं।» पत्थर ने कहा, «मैं अम्मा का पत्थर हूँ; तू मेरे पास है इसलिए लोग तुझे अम्मा का पेड़ कहते हैं।» इस तरह दोनों झगड़े। अंत में पत्थर गुस्से में लुढ़क-लुढ़क नीम से दूर जाकर ठहर गया। «मैं न रहूँ तो पेड़ काट डालेंगे» सोचा पत्थर ने, «मेरे नीचे न रहे तो पत्थर तोड़ डालेंगे» सोचा पेड़ ने—दोनों मन में सोचते रहे।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु सल, तन्निंद इन्नोंदु सुखवागिदे एंदु एरडक्कू जंब बंतु. बेविन मर “नानु अम्मन मर, नीनु नन्न केळगिरुवुदरिंद निन्नन्नु अम्मन कल्लु, एंदु जन करेयुत्तारे” एंदु हेळितु. अदक्के कल्लु “नानु अम्मन कल्लु, नन्न पक्कदल्लि नीनिरुवुदरिंद निन्नन्नु अम्मन मर एंदु करेयुत्तारे” एंदितु. हीगे एरडू जगळ माडिदवु. कोनेगे कल्लु कोपदिंद उरुळि उरुळि बेविन मरदिंद दूर होगि निंतितु. “नानिल्लदिद्दरे मरवन्नु कडिदुहाकुत्तारे” एंदु कल्लु, “नन्न केळगिरदिद्दरे कल्लन्नु ओडेदु हाकुत्तारे” एंदु मर-हीगे एरडू तम्मोळगे आलोचिसुत्तिद्दवु.",
+        "latin": "ondu sala, tanninda innondu sukhavāgide endu eraḍakkū jamba bantu. bēvina mara “nānu ammana mara, nīnu nanna keḷagiruvudarinda ninnannu ammana kallu, endu jana kareyuttāre” endu hēḷitu. adakke kallu “nānu ammana kallu, nanna pakkadalli nīniruvudarinda ninnannu ammana mara endu kareyuttāre” enditu. hīge eraḍū jagaḷa māḍidavu. konege kallu kōpadinda uruḷi uruḷi bēvina maradinda dūra hōgi nintitu. “nānilladiddare maravannu kaḍiduhākuttāre” endu kallu, “nanna keḷagiradiddare kallannu oḍedu hākuttāre” endu mara-hīge eraḍū tammoḷage ālōcisuttiddavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಒಂದು ದಿನ ಹೊಲವನ್ನು ಉಳಲಿಕ್ಕೆ ಆ ಹಳ್ಳಿಯ ರೈತ ತನ್ನ ಮಕ್ಕಳ ಜೊತೆ ಬಂದನು. ಅಮ್ಮನ ಕಲ್ಲು ಇಲ್ಲದ ಆ ಬೇವಿನ ಮರವನ್ನು ನೋಡಿ “ಇದನ್ನು ನಾಳೆ ಕಡಿಸಿ, ನೇಗಿಲು, ಚಕ್ರ ಮಾಡಿಸಿ” ಎಂದು ತನ್ನ ಮಕ್ಕಳಿಗೆ ಹೇಳಿದ. ಬೇವಿನ ಮರದಿಂದ ದೂರ ಬಿದ್ದಿದ್ದ ಕಲ್ಲನ್ನು ನೋಡಿ “ಈ ಕಲ್ಲನ್ನು ನಾಳೆ ಕಲ್ಲು ಒಡೆಯುವವರಿಂದ ಒಡೆಸಿದರೆ ನೇಗಿಲನ್ನು ಕಟ್ಟಿ ಉಳಲು ಬರುತ್ತದೆ” ಎಂದು ತನ್ನ ಮಕ್ಕಳಿಗೆ ಹೇಳಿದ. ಇದನ್ನು ಕೇಳಿ ಮರ ಮತ್ತು ಕಲ್ಲು ಎರಡೂ ಭಯದಿಂದ ನಡುಗಿದವು. ನಾವಿಬ್ಬರೂ ಒಬ್ಬರಿಂದ ಒಬ್ಬರು ದೂರವಾಗಿದ್ದರೆ ಜನರು ನಮ್ಮಿಬ್ಬರನ್ನು ನಾಶಮಾಡುತ್ತಾರೆ. ಆದ್ದರಿಂದ ನಾವಿಬ್ಬರೂ ಉಳಿಯುವುದಿಲ್ಲ ಎಂಬ ತಿಳಿವಳಿಕೆ ಮರ ಮತ್ತು ಕಲ್ಲಿಗೆ ಬಂದಿತು. ರೈತ ಮತ್ತು ರೈತನ ಮಕ್ಕಳು ಅತ್ತ ಹೋಗುವುದನ್ನೇ ಕಾದಿದ್ದು, ಕಲ್ಲು “ಬರಲಾ” ಎಂದು ಬೇವಿನ ಮರವನ್ನು ಕೇಳಿತು. ಮರ “ಬೇಗ ಬಾ” ಎಂದು ಕಲ್ಲಿಗೆ ಹೇಳಿತು. ತಾನು ಇನ್ನೊಂದರಿಂದ ಸುಖವಾಗಿರುವುದು ಎಂದು ಈಗ ಎರಡಕ್ಕೂ ತಿಳಿಯಿತು. ಬೇವಿನ ಮರ ಮತ್ತು ಕಲ್ಲು ಮತ್ತೆ ಸ್ನೇಹಿತರಾದವು.",
+      "translations": {
+        "en": "One day the village farmer came with his children to plough the field. Seeing the neem without Mother’s stone he told his children, “Cut this tomorrow and make a plough and a wheel.” Seeing the stone lying far from the neem he said, “If we get stone-breakers to break this stone tomorrow, we can fix the plough and plough.” Hearing this, both tree and stone trembled with fear. The understanding came to them that if the two of us stay apart from each other, people will destroy us both, so neither of us will survive. Waiting until the farmer and his children went away, the stone asked the neem, “May I come?” The tree said to the stone, “Come quickly.” Now both understood that each was happy because of the other. The neem tree and the stone became friends again.",
+        "hi": "एक दिन खेत जोतने गाँव का किसान बच्चों के साथ आया। अम्मा के पत्थर के बिना नीम देखकर बच्चों से कहा, «इसे कल काटना, हल और पहिया बनवाना।» नीम से दूर पड़े पत्थर को देखकर कहा, «इस पत्थर को कल पत्थर तोड़ने वालों से तोड़वाएँ तो हल बाँधकर जोत सकेंगे।» यह सुन दोनों डर से काँपे। समझ आई कि हम दोनों एक-दूसरे से अलग रहें तो लोग हमें नष्ट कर देंगे, इसलिए हम दोनों नहीं बचेंगे। किसान और बच्चे उधर जाने की प्रतीक्षा कर पत्थर ने नीम से पूछा, «आऊँ?» पेड़ ने कहा, «जल्दी आ।» अब दोनों समझ गए कि एक दूसरे से सुखी हैं। नीम और पत्थर फिर मित्र बन गए।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु दिन होलवन्नु उळलिक्के आ हळ्ळिय रैत तन्न मक्कळ जोते बंदनु. अम्मन कल्लु इल्लद आ बेविन मरवन्नु नोडि “इदन्नु नाळे कडिसि, नेगिलु, चक्र माडिसि” एंदु तन्न मक्कळिगे हेळिद. बेविन मरदिंद दूर बिद्दिद्द कल्लन्नु नोडि “ई कल्लन्नु नाळे कल्लु ओडेयुववरिंद ओडेसिदरे नेगिलन्नु कट्टि उळलु बरुत्तदे” एंदु तन्न मक्कळिगे हेळिद. इदन्नु केळि मर मत्तु कल्लु एरडू भयदिंद नडुगिदवु. नाविब्बरू ओब्बरिंद ओब्बरु दूरवागिद्दरे जनरु नम्मिब्बरन्नु नाशमाडुत्तारे. आद्दरिंद नाविब्बरू उळियुवुदिल्ल एंब तिळिवळिके मर मत्तु कल्लिगे बंदितु. रैत मत्तु रैतन मक्कळु अत्त होगुवुदन्ने कादिद्दु, कल्लु “बरला” एंदु बेविन मरवन्नु केळितु. मर “बेग बा” एंदु कल्लिगे हेळितु. तानु इन्नोंदरिंद सुखवागिरुवुदु एंदु ईग एरडक्कू तिळियितु. बेविन मर मत्तु कल्लु मत्ते स्नेहितरादवु.",
+        "latin": "ondu dina holavannu uḷalikke ā haḷḷiya raita tanna makkaḷa jote bandanu. ammana kallu illada ā bēvina maravannu nōḍi “idannu nāḷe kaḍisi, nēgilu, cakra māḍisi” endu tanna makkaḷige hēḷida. bēvina maradinda dūra biddidda kallannu nōḍi “ī kallannu nāḷe kallu oḍeyuvavarinda oḍesidare nēgilannu kaṭṭi uḷalu baruttade” endu tanna makkaḷige hēḷida. idannu kēḷi mara mattu kallu eraḍū bhayadinda naḍugidavu. nāvibbarū obbarinda obbaru dūravāgiddare janaru nammibbarannu nāśamāḍuttāre. āddarinda nāvibbarū uḷiyuvudilla emba tiḷivaḷike mara mattu kallige banditu. raita mattu raitana makkaḷu atta hōguvudannē kādiddu, kallu “baralā” endu bēvina maravannu kēḷitu. mara “bēga bā” endu kallige hēḷitu. tānu innondarinda sukhavāgiruvudu endu īga eraḍakkū tiḷiyitu. bēvina mara mattu kallu matte snēhitarādavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಮಾರನೆಯ ದಿನ ಮರಕಡಿಯುವವರು ಬಂದು ನೋಡಿದರು. ಕಲ್ಲು ಮರದ ಕೆಳಗೆ ಮೊದಲಿನಂತೆ ನಿಂತಿತ್ತು. ಅವರಿಗೆ ಮರ ಮತ್ತು ಕಲ್ಲಿನ ಬಗೆಗೆ ಭಯ-ಭಕ್ತಿ ಉಂಟಾಯಿತು. “ಇದು ಅಮ್ಮನ ಮರ, ಕಡಿಯುವುದು ಬೇಡ” ಎಂದು ಹೊರಟು ಹೋದರು. ಕಲ್ಲು ಒಡೆಯುವವರು ಬಂದು “ಇದು ಅಮ್ಮನ ಕಲ್ಲು, ಒಡೆಯುವುದು ಬೇಡ” ಎಂದು ಅವರೂ ಹೊರಟು ಹೋದರು.",
+      "translations": {
+        "en": "The next day the tree-cutters came and looked. The stone stood under the tree as before. Fear and devotion toward the tree and stone arose in them. “This is Mother’s tree; do not cut it,” they said and went away. The stone-breakers came and said, “This is Mother’s stone; do not break it,” and they too went away.",
+        "hi": "अगले दिन पेड़ काटने वाले आए और देखा। पत्थर पहले की तरह पेड़ के नीचे था। उन्हें पेड़ और पत्थर के प्रति भय-भक्ति हुई। «यह अम्मा का पेड़ है, मत काटो» कहकर चले गए। पत्थर तोड़ने वाले आए और «यह अम्मा का पत्थर है, मत तोड़ो» कहकर वे भी चले गए।"
+      },
+      "transliterations": {
+        "devanagari": "मारनेय दिन मरकडियुववरु बंदु नोडिदरु. कल्लु मरद केळगे मोदलिनंते निंतित्तु. अवरिगे मर मत्तु कल्लिन बगेगे भय-भक्ति उंटायितु. “इदु अम्मन मर, कडियुवुदु बेड” एंदु होरटु होदरु. कल्लु ओडेयुववरु बंदु “इदु अम्मन कल्लु, ओडेयुवुदु बेड” एंदु अवरू होरटु होदरु.",
+        "latin": "māraneya dina marakaḍiyuvavaru bandu nōḍidaru. kallu marada keḷage modalinante nintittu. avarige mara mattu kallina bagege bhaya-bhakti uṇṭāyitu. “idu ammana mara, kaḍiyuvudu bēḍa” endu horaṭu hōdaru. kallu oḍeyuvavaru bandu “idu ammana kallu, oḍeyuvudu bēḍa” endu avarū horaṭu hōdaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಬೇವಿನ ಮರ ಮತ್ತು ಕಲ್ಲು ಕಂಟಕದಿಂದ ಪಾರಾದವು. ಈಗ ಎರಡೂ ಸಹ ಯಾರ ಭಯವಿಲ್ಲದೆ ಸುಖವಾಗಿದ್ದವು.",
+      "translations": {
+        "en": "The neem tree and the stone escaped danger. Now both lived happily without fear of anyone.",
+        "hi": "नीम और पत्थर विपत्ति से बच गए। अब दोनों बिना किसी के भय सुखी थे।"
+      },
+      "transliterations": {
+        "devanagari": "बेविन मर मत्तु कल्लु कंटकदिंद पारादवु. ईग एरडू सह यार भयविल्लदे सुखवागिद्दवु.",
+        "latin": "bēvina mara mattu kallu kaṇṭakadinda pārādavu. īga eraḍū saha yāra bhayavillade sukhavāgiddavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಹೀಗೆ ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಬಾಳಿದರೆ, ಎಲ್ಲರೂ ಸುಖವಾಗಿ ಇರಬಹುದು.",
+      "translations": {
+        "en": "Thus if everyone lives together, everyone can be happy.",
+        "hi": "इस तरह सब साथ रहें तो सब सुखी रह सकते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "हीगे एल्लरू ओट्टागि बाळिदरे, एल्लरू सुखवागि इरबहुदु.",
+        "latin": "hīge ellarū oṭṭāgi bāḷidare, ellarū sukhavāgi irabahudu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-kantaka",
+      "text": "ಕಂಟಕ",
+      "translations": {
+        "en": "kantaka (obstacle)",
+        "hi": "कंटक"
+      },
+      "transliterations": {
+        "devanagari": "कंटक",
+        "latin": "kaṇṭaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kantaka-def",
+      "text": "ಕೇಡು, ವಿಪತ್ತು",
+      "translations": {
+        "en": "harm, calamity",
+        "hi": "अनिष्ट, विपत्ति"
+      },
+      "transliterations": {
+        "devanagari": "केडु, विपत्तु",
+        "latin": "kēḍu, vipattu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jagala",
+      "text": "ಜಗಳ",
+      "translations": {
+        "en": "jagala (quarrel)",
+        "hi": "झगड़ा"
+      },
+      "transliterations": {
+        "devanagari": "जगळ",
+        "latin": "jagaḷa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jagala-def",
+      "text": "ಕಲಹ",
+      "translations": {
+        "en": "conflict",
+        "hi": "कलह"
+      },
+      "transliterations": {
+        "devanagari": "कलह",
+        "latin": "kalaha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jamba",
+      "text": "ಜಂಬ",
+      "translations": {
+        "en": "jamba (pride)",
+        "hi": "जंब"
+      },
+      "transliterations": {
+        "devanagari": "जंब",
+        "latin": "jamba"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jamba-def",
+      "text": "ಗರ್ವ, ಒಣ ಆಡಂಬರ",
+      "translations": {
+        "en": "pride, empty show",
+        "hi": "गर्व, खोखा आडंबर"
+      },
+      "transliterations": {
+        "devanagari": "गर्व, ओण आडंबर",
+        "latin": "garva, oṇa āḍambara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-negilu",
+      "text": "ನೇಗಿಲು",
+      "translations": {
+        "en": "negilu (plough)",
+        "hi": "नेगिलु"
+      },
+      "transliterations": {
+        "devanagari": "नेगिलु",
+        "latin": "nēgilu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-negilu-def",
+      "text": "ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ",
+      "translations": {
+        "en": "a tool for ploughing the land",
+        "hi": "भूमि जोतने का साधन"
+      },
+      "transliterations": {
+        "devanagari": "भूमियन्नु उळुव साधन",
+        "latin": "bhūmiyannu uḷuva sādhana"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-raitha",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "raitha (farmer)",
+        "hi": "रैत"
+      },
+      "transliterations": {
+        "devanagari": "रैत",
+        "latin": "raita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raitha-def",
+      "text": "ಬೇಸಾಯ ಮಾಡುವವನು",
+      "translations": {
+        "en": "one who farms",
+        "hi": "खेती करने वाला"
+      },
+      "transliterations": {
+        "devanagari": "बेसाय माडुववनु",
+        "latin": "bēsāya māḍuvavanu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vibhuthi",
+      "text": "ವಿಭೂತಿ",
+      "translations": {
+        "en": "vibhuti",
+        "hi": "विभूति"
+      },
+      "transliterations": {
+        "devanagari": "विभूति",
+        "latin": "vibhūti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vibhuthi-def",
+      "text": "ಭಸ್ಮ, ಬೂದಿ",
+      "translations": {
+        "en": "sacred ash, ash",
+        "hi": "भस्म, राख"
+      },
+      "transliterations": {
+        "devanagari": "भस्म, बूदि",
+        "latin": "bhasma, būdi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hikke",
+      "text": "ಹಿಕ್ಕೆ",
+      "translations": {
+        "en": "hikke (droppings)",
+        "hi": "हिक्के"
+      },
+      "transliterations": {
+        "devanagari": "हिक्के",
+        "latin": "hikke"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hikke-def",
+      "text": "ಹಕ್ಕಿಗಳ ಮಲ",
+      "translations": {
+        "en": "bird droppings",
+        "hi": "पक्षियों की बीट"
+      },
+      "transliterations": {
+        "devanagari": "हक्किगळ मल",
+        "latin": "hakkigaḷa mala"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಗುಂಡನೆಯ ಕಲ್ಲು ಎಲ್ಲಿತ್ತು?",
+      "translations": {
+        "en": "Where was the round stone?",
+        "hi": "गोल पत्थर कहाँ था?"
+      },
+      "transliterations": {
+        "devanagari": "गुंडनेय कल्लु एल्लित्तु?",
+        "latin": "guṇḍaneya kallu ellittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಬೇವಿನ ಮರವನ್ನು ಜನ ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "What did people call the neem tree?",
+        "hi": "लोग नीम को क्या कहते थे?"
+      },
+      "transliterations": {
+        "devanagari": "बेविन मरवन्नु जन एनेंदु करेयुत्तिद्दरु?",
+        "latin": "bēvina maravannu jana ēnendu kareyuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಕಲ್ಲು ಕೋಪದಿಂದ ಏನು ಮಾಡಿತು?",
+      "translations": {
+        "en": "What did the stone do in anger?",
+        "hi": "पत्थर ने गुस्से में क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "कल्लु कोपदिंद एनु माडितु?",
+        "latin": "kallu kōpadinda ēnu māḍitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಮರ ಕಡಿಯುವವರು ಏನೆಂದು ಹೇಳಿ ಹೊರಟು ಹೋದರು?",
+      "translations": {
+        "en": "What did the tree-cutters say and leave?",
+        "hi": "पेड़ काटने वाले क्या कहकर चले गए?"
+      },
+      "transliterations": {
+        "devanagari": "मर कडियुववरु एनेंदु हेळि होरटु होदरु?",
+        "latin": "mara kaḍiyuvavaru ēnendu hēḷi horaṭu hōdaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಕಲ್ಲು ಹೊಡೆಯುವವರು ಏನೆಂದು ಹೇಳಿ ಹೊರಟು ಹೋದರು?",
+      "translations": {
+        "en": "What did the stone-breakers say and leave?",
+        "hi": "पत्थर तोड़ने वाले क्या कहकर चले गए?"
+      },
+      "transliterations": {
+        "devanagari": "कल्लु होडेयुववरु एनेंदु हेळि होरटु होदरु?",
+        "latin": "kallu hoḍeyuvavaru ēnendu hēḷi horaṭu hōdaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಜಂಬದಿಂದ ಬೇವಿನ ಮರ ಅಮ್ಮನ ಕಲ್ಲಿಗೆ ಏನೆಂದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "In pride, what did the neem tree say to Mother’s stone?",
+        "hi": "घमंड में नीम ने अम्मा के पत्थर से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "जंबदिंद बेविन मर अम्मन कल्लिगे एनेंदु हेळितु?",
+        "latin": "jambadinda bēvina mara ammana kallige ēnendu hēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಜಂಬದಿಂದ ಅಮ್ಮನ ಕಲ್ಲು ಬೇವಿನ ಮರಕ್ಕೆ ಏನೆಂದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "In pride, what did Mother’s stone say to the neem tree?",
+        "hi": "घमंड में अम्मा के पत्थर ने नीम से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "जंबदिंद अम्मन कल्लु बेविन मरक्के एनेंदु हेळितु?",
+        "latin": "jambadinda ammana kallu bēvina marakke ēnendu hēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಬೇರೆ ಬೇರೆಯಾಗಿದ್ದ ಬೇವಿನ ಮರ ಮತ್ತು ಕಲ್ಲನ್ನು ನೋಡಿ ರೈತನು ತನ್ನ ಮಕ್ಕಳಿಗೆ ಏನು ಹೇಳಿದನು?",
+      "translations": {
+        "en": "Seeing the neem and the stone apart, what did the farmer tell his children?",
+        "hi": "अलग पड़े नीम और पत्थर देख किसान ने बच्चों से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "बेरे बेरेयागिद्द बेविन मर मत्तु कल्लन्नु नोडि रैतनु तन्न मक्कळिगे एनु हेळिदनु?",
+        "latin": "bēre bēreyāgidda bēvina mara mattu kallannu nōḍi raitanu tanna makkaḷige ēnu hēḷidanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಬೇವಿನ ಮರ ಮತ್ತು ಅಮ್ಮನ ಕಲ್ಲು ಮತ್ತೆ ಹೇಗೆ ಸ್ನೇಹಿತರಾದವು?",
+      "translations": {
+        "en": "How did the neem tree and Mother’s stone become friends again?",
+        "hi": "नीम और अम्मा का पत्थर फिर कैसे मित्र बने?"
+      },
+      "transliterations": {
+        "devanagari": "बेविन मर मत्तु अम्मन कल्लु मत्ते हेगे स्नेहितरादवु?",
+        "latin": "bēvina mara mattu ammana kallu matte hēge snēhitarādavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಬೇವಿನ ಮರವನ್ನು ಜನ __________ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು.",
+      "translations": {
+        "en": "People used to call the neem tree __________.",
+        "hi": "लोग नीम को __________ कहते थे।"
+      },
+      "transliterations": {
+        "devanagari": "बेविन मरवन्नु जन __________ एंदु करेयुत्तिद्दरु.",
+        "latin": "bēvina maravannu jana __________ endu kareyuttiddaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ನಾವಿಬ್ಬರೂ ಒಬ್ಬರಿಂದ ಒಬ್ಬರು __________ ಜನರು ನಮ್ಮಿಬ್ಬರನ್ನು ನಾಶಮಾಡುತ್ತಾರೆ.",
+      "translations": {
+        "en": "If we two stay __________ from each other, people will destroy us both.",
+        "hi": "हम दोनों एक-दूसरे से __________ रहें तो लोग हमें नष्ट करेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "नाविब्बरू ओब्बरिंद ओब्बरु __________ जनरु नम्मिब्बरन्नु नाशमाडुत्तारे.",
+        "latin": "nāvibbarū obbarinda obbaru __________ janaru nammibbarannu nāśamāḍuttāre."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಇದು ಅಮ್ಮನ ಮರ ___________ ಬೇಡ\" ಎಂದು ಹೊರಟುಹೋದರು.",
+      "translations": {
+        "en": "“This is Mother’s tree; do not ___________,” they said and left.",
+        "hi": "«यह अम्मा का पेड़ है; ___________ मत» कहकर चले गए।"
+      },
+      "transliterations": {
+        "devanagari": "इदु अम्मन मर ___________ बेड\" एंदु होरटुहोदरु.",
+        "latin": "idu ammana mara ___________ bēḍa\" endu horaṭuhōdaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಕಲ್ಲು ಒಡೆಯುವವರು ಬಂದು \"ಇದು ಅಮ್ಮನ ಕಲ್ಲು, _________ ಬೇಡ ಎಂದು ಅವರೂ ಹೊರಟುಹೋದರು.",
+      "translations": {
+        "en": "The stone-breakers came and said, “This is Mother’s stone; do not _________,” and they too left.",
+        "hi": "पत्थर तोड़ने वाले आए और «यह अम्मा का पत्थर है, _________ मत» कहकर चले गए।"
+      },
+      "transliterations": {
+        "devanagari": "कल्लु ओडेयुववरु बंदु \"इदु अम्मन कल्लु, _________ बेड एंदु अवरू होरटुहोदरु.",
+        "latin": "kallu oḍeyuvavaru bandu \"idu ammana kallu, _________ bēḍa endu avarū horaṭuhōdaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "text": "ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಬಾಳಿದರೆ, ಎಲ್ಲರೂ _________ ಇರಬಹುದು.",
+      "translations": {
+        "en": "If everyone lives together, everyone can live _________.",
+        "hi": "सब साथ रहें तो सब _________ रह सकते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "एल्लरू ओट्टागि बाळिदरे, एल्लरू _________ इरबहुदु.",
+        "latin": "ellarū oṭṭāgi bāḷidare, ellarū _________ irabahudu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "grammar-a-p1",
+      "section": "grammar-A",
+      "text": "ಕನ್ನಡದಲ್ಲಿ ಒಟ್ಟು 49 ಅಕ್ಷರಗಳಿವೆ. ಇವುಗಳನ್ನು ವರ್ಣಗಳೆಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಅಕ್ಷರಗಳ ಕ್ರಮಬದ್ಧ ಜೋಡಣೆಗೆ ‘ವರ್ಣಮಾಲೆ’ ಅಥವಾ ‘ಅಕ್ಷರಮಾಲೆ’ ಎಂದು ಹೆಸರು.",
+      "translations": {
+        "en": "In Kannada there are 49 letters in all. They are called varnas (phonemes). The ordered arrangement of these letters is called the varnamale or aksharamale (alphabet).",
+        "hi": "कन्नड़ में कुल 49 अक्षर हैं। इन्हें वर्ण कहते हैं। इन अक्षरों की क्रमबद्ध व्यवस्था को «वर्णमाला» या «अक्षरमाला» कहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडदल्लि ओट्टु 49 अक्षरगळिवे. इवुगळन्नु वर्णगळेंदु करेयुत्तारे. ई अक्षरगळ क्रमबद्ध जोडणेगे ‘वर्णमाले’ अथवा ‘अक्षरमाले’ एंदु हेसरु.",
+        "latin": "kannaḍadalli oṭṭu 49 akṣaragaḷive. ivugaḷannu varṇagaḷendu kareyuttāre. ī akṣaragaḷa kramabaddha jōḍaṇege ‘varṇamāle’ athavā ‘akṣaramāle’ endu hesaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-a-p2",
+      "section": "grammar-A",
+      "text": "ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಮೂರು ವಿಧಗಳು ಅ) ಸ್ವರಾಕ್ಷರಗಳು ಆ) ವ್ಯಂಜನಾಕ್ಷರಗಳು ಇ) ಯೋಗವಾಹಗಳು",
+      "translations": {
+        "en": "There are three kinds in the alphabet: A) vowels B) consonants C) yogavahas",
+        "hi": "वर्णमाला में तीन भेद हैं—अ) स्वराक्षर आ) व्यंजनाक्षर इ) योगवाह"
+      },
+      "transliterations": {
+        "devanagari": "वर्णमालेयल्लि मूरु विधगळु अ) स्वराक्षरगळु आ) व्यंजनाक्षरगळु इ) योगवाहगळु",
+        "latin": "varṇamāleyalli mūru vidhagaḷu a) svarākṣaragaḷu ā) vyañjanākṣaragaḷu i) yōgavāhagaḷu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-b-p1",
+      "section": "grammar-B",
+      "text": "ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಲಾಗುವ ಅಕ್ಷರಗಳು ಸ್ವರಾಕ್ಷರಗಳು. ಒಟ್ಟು ಸ್ವರಾಕ್ಷರಗಳು 13.",
+      "translations": {
+        "en": "Letters that can be pronounced independently are vowels. There are 13 vowels in all.",
+        "hi": "स्वतंत्र रूप से उच्चरित होने वाले अक्षर स्वराक्षर हैं। कुल स्वराक्षर 13।"
+      },
+      "transliterations": {
+        "devanagari": "स्वतंत्रवागि उच्चरिसलागुव अक्षरगळु स्वराक्षरगळु. ओट्टु स्वराक्षरगळु 13.",
+        "latin": "svatantravāgi uccarisalāguva akṣaragaḷu svarākṣaragaḷu. oṭṭu svarākṣaragaḷu 13."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-b-p2",
+      "section": "grammar-B",
+      "text": "ಸ್ವರಾಕ್ಷರಗಳಲ್ಲಿ ಎರಡು ವಿಧ.: 1) ಹ್ರಸ್ವಸ್ವರಗಳು 2) ದೀರ್ಘಸ್ವರಗಳು",
+      "translations": {
+        "en": "There are two kinds of vowels: 1) short vowels 2) long vowels",
+        "hi": "स्वराक्षर दो प्रकार के—1) ह्रस्वस्वर 2) दीर्घस्वर"
+      },
+      "transliterations": {
+        "devanagari": "स्वराक्षरगळल्लि एरडु विध.: 1) ह्रस्वस्वरगळु 2) दीर्घस्वरगळु",
+        "latin": "svarākṣaragaḷalli eraḍu vidha.: 1) hrasvasvaragaḷu 2) dīrghasvaragaḷu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-b-p3",
+      "section": "grammar-B",
+      "text": "1) ಹ್ರಸ್ವಸ್ವರ - ಒಂದು ಮಾತ್ರಾ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುವ (ಅ, ಇ, ಉ, ಋ, ಎ, ಒ) ಅಕ್ಷರಗಳು ಹ್ರಸ್ವಸ್ವರಗಳು.",
+      "translations": {
+        "en": "1) Short vowels — letters pronounced in one matra of time (a, i, u, ṛ, e, o) are short vowels.",
+        "hi": "1) ह्रस्वस्वर — एक मात्रा काल में उच्चरित (अ, इ, उ, ऋ, ए, ओ) अक्षर ह्रस्वस्वर हैं।"
+      },
+      "transliterations": {
+        "devanagari": "1) ह्रस्वस्वर - ओंदु मात्रा कालदल्लि उच्चरिसलागुव (अ, इ, उ, ऋ, ए, ओ) अक्षरगळु ह्रस्वस्वरगळु.",
+        "latin": "1) hrasvasvara - ondu mātrā kāladalli uccarisalāguva (a, i, u, r̥, e, o) akṣaragaḷu hrasvasvaragaḷu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-b-p4",
+      "section": "grammar-B",
+      "text": "2) ದೀರ್ಘಸ್ವರ - ಎರಡು ಮಾತ್ರಾ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುವ (ಆ, ಈ, ಊ, ಏ, ಐ, ಓ, ಔ) ಅಕ್ಷರಗಳು ದೀರ್ಘಸ್ವರಗಳು.",
+      "translations": {
+        "en": "2) Long vowels — letters pronounced in two matras of time (ā, ī, ū, ē, ai, ō, au) are long vowels.",
+        "hi": "2) दीर्घस्वर — दो मात्रा काल में उच्चरित (आ, ई, ऊ, ए, ऐ, ओ, औ) अक्षर दीर्घस्वर हैं।"
+      },
+      "transliterations": {
+        "devanagari": "2) दीर्घस्वर - एरडु मात्रा कालदल्लि उच्चरिसलागुव (आ, ई, ऊ, ए, ऐ, ओ, औ) अक्षरगळु दीर्घस्वरगळु.",
+        "latin": "2) dīrghasvara - eraḍu mātrā kāladalli uccarisalāguva (ā, ī, ū, ē, ai, ō, au) akṣaragaḷu dīrghasvaragaḷu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p1",
+      "section": "grammar-C",
+      "text": "ಸ್ವರಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ಅಕ್ಷರಗಳು ವ್ಯಂಜನಾಕ್ಷರಗಳು. (ಉದಾ : ಕ್ + ಅ = ಕ ; ಚ್ + ಅ = ಚ) ಒಟ್ಟು ವ್ಯಂಜನಾಕ್ಷರಗಳು = 34",
+      "translations": {
+        "en": "Letters pronounced with the help of vowels are consonants. (Example: k + a = ka; c + a = ca) Total consonants = 34",
+        "hi": "स्वरों की सहायता से उच्चरित अक्षर व्यंजनाक्षर हैं। (उदा.: क् + अ = क; च् + अ = च) कुल व्यंजनाक्षर = 34"
+      },
+      "transliterations": {
+        "devanagari": "स्वरगळ सहायदिंद उच्चरिसलागुव अक्षरगळु व्यंजनाक्षरगळु. (उदा : क् + अ = क ; च् + अ = च) ओट्टु व्यंजनाक्षरगळु = 34",
+        "latin": "svaragaḷa sahāyadinda uccarisalāguva akṣaragaḷu vyañjanākṣaragaḷu. (udā : k + a = ka ; c + a = ca) oṭṭu vyañjanākṣaragaḷu = 34"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p2",
+      "section": "grammar-C",
+      "text": "ವ್ಯಂಜನಾಕ್ಷರಗಳಲ್ಲಿ ಎರಡು ವಿಧ : 1) ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು 2) ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು",
+      "translations": {
+        "en": "There are two kinds of consonants: 1) classified consonants 2) unclassified consonants",
+        "hi": "व्यंजनाक्षर दो प्रकार के—1) वर्गीय व्यंजन 2) अवर्गीय व्यंजन"
+      },
+      "transliterations": {
+        "devanagari": "व्यंजनाक्षरगळल्लि एरडु विध : 1) वर्गीय व्यंजनगळु 2) अवर्गीय व्यंजनगळु",
+        "latin": "vyañjanākṣaragaḷalli eraḍu vidha : 1) vargīya vyañjanagaḷu 2) avargīya vyañjanagaḷu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p3",
+      "section": "grammar-C",
+      "text": "1. ವರ್ಗೀಯ ವ್ಯಂಜನ ಕೋಷ್ಟಕ. ಕ್ ವರ್ಗ: ಕ್ ಖ್ ಗ್ ಘ್ ಙ. ಚ್ ವರ್ಗ: ಚ್ ಛ್ ಜ್ ಝ್ ಞ. ಟ್ ವರ್ಗ: ಟ್ ಠ್ ಡ್ ಢ್ ಣ್. ತ್ ವರ್ಗ: ತ್ ಥ್ ದ್ ಧ್ ನ್. ಪ್ ವರ್ಗ: ಪ್ ಫ್ ಬ್ ಭ್ ಮ್. ಒಟ್ಟು 25. ಇವು ಉತ್ಪತ್ತಿಯಾಗುವ ಸ್ಥಾನಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ವರ್ಗ ಮಾಡಿರುವುದರಿಂದ ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು.",
+      "translations": {
+        "en": "1. Classified consonant chart. k-group: k kh g gh ṅ. c-group: c ch j jh ñ. ṭ-group: ṭ ṭh ḍ ḍh ṇ. t-group: t th d dh n. p-group: p ph b bh m. Total 25. Because they are grouped according to place of articulation, they are classified consonants.",
+        "hi": "1. वर्गीय व्यंजन तालिका। क् वर्ग: क् ख् ग् घ् ङ्। च् वर्ग: च् छ् ज् झ् ञ्। ट् वर्ग: ट् ठ् ड् ढ् ण्। त् वर्ग: त् थ् द् ध् न्। प् वर्ग: प् फ् ब् भ् म्। कुल 25। उत्पत्ति-स्थान के अनुसार वर्ग होने से वर्गीय व्यंजन।"
+      },
+      "transliterations": {
+        "devanagari": "1. वर्गीय व्यंजन कोष्टक. क् वर्ग: क् ख् ग् घ् ङ. च् वर्ग: च् छ् ज् झ् ञ. ट् वर्ग: ट् ठ् ड् ढ् ण्. त् वर्ग: त् थ् द् ध् न्. प् वर्ग: प् फ् ब् भ् म्. ओट्टु 25. इवु उत्पत्तियागुव स्थानगळिगे अनुगुणवागि वर्ग माडिरुवुदरिंद वर्गीय व्यंजनगळु.",
+        "latin": "1. vargīya vyañjana kōṣṭaka. k varga: k kh g gh ṅa. c varga: c ch j jh ña. ṭ varga: ṭ ṭh ḍ ḍh ṇ. t varga: t th d dh n. p varga: p ph b bh m. oṭṭu 25. ivu utpattiyāguva sthānagaḷige anuguṇavāgi varga māḍiruvudarinda vargīya vyañjanagaḷu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p4",
+      "section": "grammar-C",
+      "text": "ಅಲ್ಪಪ್ರಾಣಾಕ್ಷರಗಳು = ಕಡಿಮೆ ಉಸಿರಿನಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ವ್ಯಂಜನಗಳು ಅಲ್ಪಪ್ರಾಣಾಕ್ಷರಗಳು. ಉದಾ : ಕ್, ಚ್, ಟ್, ತ್, ಪ್, ಗ್, ಜ್, ಡ್, ದ್, ಬ್.",
+      "translations": {
+        "en": "Alpaprana letters = consonants pronounced with less breath. Examples: k, c, ṭ, t, p, g, j, ḍ, d, b.",
+        "hi": "अल्पप्राणाक्षर = कम श्वास से उच्चरित व्यंजन। उदा.: क्, च्, ट्, त्, प्, ग्, ज्, ड्, द्, ब्।"
+      },
+      "transliterations": {
+        "devanagari": "अल्पप्राणाक्षरगळु = कडिमे उसिरिनिंद उच्चरिसलागुव व्यंजनगळु अल्पप्राणाक्षरगळु. उदा : क्, च्, ट्, त्, प्, ग्, ज्, ड्, द्, ब्.",
+        "latin": "alpaprāṇākṣaragaḷu = kaḍime usirininda uccarisalāguva vyañjanagaḷu alpaprāṇākṣaragaḷu. udā : k, c, ṭ, t, p, g, j, ḍ, d, b."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p5",
+      "section": "grammar-C",
+      "text": "ಮಹಾಪ್ರಾಣಾಕ್ಷರಗಳು = ಹೆಚ್ಚು ಉಸಿರಿನಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ವ್ಯಂಜನಗಳು ಮಹಾಪ್ರಾಣಾಕ್ಷರಗಳು. ಉದಾ : ಖ್, ಛ್, ಠ್, ಥ್, ಫ್. ಘ್, ಝ್, ಢ್, ಧ್, ಭ್.",
+      "translations": {
+        "en": "Mahaprana letters = consonants pronounced with more breath. Examples: kh, ch, ṭh, th, ph, gh, jh, ḍh, dh, bh.",
+        "hi": "महाप्राणाक्षर = अधिक श्वास से उच्चरित व्यंजन। उदा.: ख्, छ्, ठ्, थ्, फ्, घ्, झ्, ढ्, ध्, भ्।"
+      },
+      "transliterations": {
+        "devanagari": "महाप्राणाक्षरगळु = हेच्चु उसिरिनिंद उच्चरिसलागुव व्यंजनगळु महाप्राणाक्षरगळु. उदा : ख्, छ्, ठ्, थ्, फ्. घ्, झ्, ढ्, ध्, भ्.",
+        "latin": "mahāprāṇākṣaragaḷu = heccu usirininda uccarisalāguva vyañjanagaḷu mahāprāṇākṣaragaḷu. udā : kh, ch, ṭh, th, ph. gh, jh, ḍh, dh, bh."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p6",
+      "section": "grammar-C",
+      "text": "ಅನುನಾಸಿಕಾಕ್ಷರಗಳು = ಮೂಗಿನ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ವ್ಯಂಜನಗಳು ಅನುನಾಸಿಕಾಕ್ಷರಗಳು. ಉದಾ : ಙ, ಞ, ಣ್, ನ್, ಮ್.",
+      "translations": {
+        "en": "Anunasika letters = consonants pronounced with help of the nose. Examples: ṅ, ñ, ṇ, n, m.",
+        "hi": "अनुनासिकाक्षर = नाक की सहायता से उच्चरित व्यंजन। उदा.: ङ्, ञ्, ण्, न्, म्।"
+      },
+      "transliterations": {
+        "devanagari": "अनुनासिकाक्षरगळु = मूगिन सहायदिंद उच्चरिसलागुव व्यंजनगळु अनुनासिकाक्षरगळु. उदा : ङ, ञ, ण्, न्, म्.",
+        "latin": "anunāsikākṣaragaḷu = mūgina sahāyadinda uccarisalāguva vyañjanagaḷu anunāsikākṣaragaḷu. udā : ṅa, ña, ṇ, n, m."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-c-p7",
+      "section": "grammar-C",
+      "text": "2. ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು. ‘ಯ್’ ಕಾರದಿಂದ ‘ಳ್’ ಕಾರದವರೆಗಿನ 9 ಅಕ್ಷರಗಳು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು. ಉದಾ : ಯ್, ರ್, ಲ್, ವ್, ಶ್, ಷ್, ಸ್, ಹ್, ಳ್. ಇವು ಉತ್ಪತ್ತಿಯಾಗುವ ಸ್ಥಾನಗಳು ಬೇರೆಬೇರೆಯಾಗಿರುವುದರಿಂದ, ಇವುಗಳನ್ನು ನಿರ್ದಿಷ್ಟವಾದ ವರ್ಗಗಳಲ್ಲಿ ಸೇರಿಸಿ ಹೇಳಲು ಬರುವುದಿಲ್ಲವಾದ್ದರಿಂದ ಇವನ್ನು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಎಂದು ಕರೆಯುವರು.",
+      "translations": {
+        "en": "2. Unclassified consonants. The 9 letters from “y” to “ḷ” are unclassified consonants. Examples: y, r, l, v, ś, ṣ, s, h, ḷ. Because their places of articulation differ and they cannot be put in specific groups, they are called unclassified consonants.",
+        "hi": "2. अवर्गीय व्यंजन। «य्» से «ळ्» तक 9 अक्षर अवर्गीय व्यंजन हैं। उदा.: य्, र्, ल्, व्, श्, ष्, स्, ह्, ळ्। उत्पत्ति-स्थान अलग-अलग होने से निश्चित वर्गों में नहीं रखे जा सकते, इसलिए अवर्गीय व्यंजन कहलाते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "2. अवर्गीय व्यंजनगळु. ‘य्’ कारदिंद ‘ळ्’ कारदवरेगिन 9 अक्षरगळु अवर्गीय व्यंजनगळु. उदा : य्, र्, ल्, व्, श्, ष्, स्, ह्, ळ्. इवु उत्पत्तियागुव स्थानगळु बेरेबेरेयागिरुवुदरिंद, इवुगळन्नु निर्दिष्टवाद वर्गगळल्लि सेरिसि हेळलु बरुवुदिल्लवाद्दरिंद इवन्नु अवर्गीय व्यंजनगळु एंदु करेयुवरु.",
+        "latin": "2. avargīya vyañjanagaḷu. ‘y’ kāradinda ‘ḷ’ kāradavaregina 9 akṣaragaḷu avargīya vyañjanagaḷu. udā : y, r, l, v, ś, ṣ, s, h, ḷ. ivu utpattiyāguva sthānagaḷu bērebēreyāgiruvudarinda, ivugaḷannu nirdiṣṭavāda vargagaḷalli sērisi hēḷalu baruvudillavāddarinda ivannu avargīya vyañjanagaḷu endu kareyuvaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-d-p1",
+      "section": "grammar-D",
+      "text": "‘ಯೋಗ’ ಎಂದರೆ ‘ಕೂಡು, ‘ವಾಹ’ ಎಂದರೆ ಹೋಗುವ ಎಂದರ್ಥ. ‘ಯೋಗವಾಹ' ಎಂದರೆ ಕೂಡಿಹೋಗುವ (ಕೂಡಿಕೊಂಡಿರುವ) ಅಂದರೆ ಬೇರೆ ಅಕ್ಷರಗಳ ಜೊತೆಯಲ್ಲಿ ಮಾತ್ರ ಉಚ್ಚರಿಸಬಹುದಾದ ಅಕ್ಷರ ಎಂದರ್ಥ.",
+      "translations": {
+        "en": "“Yoga” means “join,” and “vaha” means “that which goes.” “Yogavaha” means that which goes joined—that is, a letter that can be pronounced only together with other letters.",
+        "hi": "«योग» का अर्थ «जुड़ना», «वाह» का अर्थ «जाने वाला»। «योगवाह» अर्थात् जुड़कर जाने वाला—अन्य अक्षरों के साथ ही उच्चरित होने वाला अक्षर।"
+      },
+      "transliterations": {
+        "devanagari": "‘योग’ एंदरे ‘कूडु, ‘वाह’ एंदरे होगुव एंदर्थ. ‘योगवाह' एंदरे कूडिहोगुव (कूडिकोंडिरुव) अंदरे बेरे अक्षरगळ जोतेयल्लि मात्र उच्चरिसबहुदाद अक्षर एंदर्थ.",
+        "latin": "‘yōga’ endare ‘kūḍu, ‘vāha’ endare hōguva endartha. ‘yōgavāha' endare kūḍihōguva (kūḍikoṇḍiruva) andare bēre akṣaragaḷa joteyalli mātra uccarisabahudāda akṣara endartha."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-d-p2",
+      "section": "grammar-D",
+      "text": "ಯೋಗವಾಹಗಳಲ್ಲಿ ಎರಡು ವಿಧ: 1) ಅನುಸ್ವಾರ (ಂ) 2) ವಿಸರ್ಗ (ಃ) ಉದಾ : ಸಿಂಹ, ದುಃಖ",
+      "translations": {
+        "en": "There are two kinds of yogavahas: 1) anusvara (ṁ) 2) visarga (ḥ) Examples: simha, duḥkha",
+        "hi": "योगवाह दो प्रकार के—1) अनुस्वार (ं) 2) विसर्ग (ः) उदा.: सिंह, दुःख"
+      },
+      "transliterations": {
+        "devanagari": "योगवाहगळल्लि एरडु विध: 1) अनुस्वार (ं) 2) विसर्ग (ः) उदा : सिंह, दुःख",
+        "latin": "yōgavāhagaḷalli eraḍu vidha: 1) anusvāra (ṁ) 2) visarga (ḥ) udā : sinha, duḥkha"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "ಸ್ವರಾಕ್ಷರಗಳ ಸಂಖ್ಯೆ _________",
+      "translations": {
+        "en": "Number of vowels _________",
+        "hi": "स्वराक्षरों की संख्या _________"
+      },
+      "transliterations": {
+        "devanagari": "स्वराक्षरगळ संख्ये _________",
+        "latin": "svarākṣaragaḷa saṅkhye _________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q2",
+      "text": "ವ್ಯಂಜನಗಳ ಸಂಖ್ಯೆ _________",
+      "translations": {
+        "en": "Number of consonants _________",
+        "hi": "व्यंजनों की संख्या _________"
+      },
+      "transliterations": {
+        "devanagari": "व्यंजनगळ संख्ये _________",
+        "latin": "vyañjanagaḷa saṅkhye _________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q3",
+      "text": "ಯೋಗವಾಹಗಳ ಸಂಖ್ಯೆ _________",
+      "translations": {
+        "en": "Number of yogavahas _________",
+        "hi": "योगवाहों की संख्या _________"
+      },
+      "transliterations": {
+        "devanagari": "योगवाहगळ संख्ये _________",
+        "latin": "yōgavāhagaḷa saṅkhye _________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q4",
+      "text": "1. ಹ್ರಸ್ವ ಸ್ವರಾಕ್ಷರಗಳು = _________",
+      "translations": {
+        "en": "1. Short vowels = _________",
+        "hi": "1. ह्रस्व स्वराक्षर = _________"
+      },
+      "transliterations": {
+        "devanagari": "1. ह्रस्व स्वराक्षरगळु = _________",
+        "latin": "1. hrasva svarākṣaragaḷu = _________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q5",
+      "text": "2. ದೀರ್ಘ ಸ್ವರಾಕ್ಷರಗಳು = _________",
+      "translations": {
+        "en": "2. Long vowels = _________",
+        "hi": "2. दीर्घ स्वराक्षर = _________"
+      },
+      "transliterations": {
+        "devanagari": "2. दीर्घ स्वराक्षरगळु = _________",
+        "latin": "2. dīrgha svarākṣaragaḷu = _________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "translations": {
+        "en": "Complete the consonant chart.",
+        "hi": "व्यंजनाक्षर तालिका पूरी कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "व्यंजनाक्षरगळ कोष्टक पूर्णगोळिसिरि.",
+        "latin": "vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q1",
+      "text": "ಅವರ್ಗೀಯ ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "translations": {
+        "en": "Complete the unclassified consonant chart.",
+        "hi": "अवर्गीय व्यंजनाक्षर तालिका पूरी कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "अवर्गीय व्यंजनाक्षरगळ कोष्टक पूर्णगोळिसिरि.",
+        "latin": "avargīya vyañjanākṣaragaḷa kōṣṭaka pūrṇagoḷisiri."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-D",
+      "id": "lang-ex-d-q1",
+      "text": "1. ದಿನಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬರುವ ನಾಲ್ಕು ಮಕ್ಕಳ ಕಥೆಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ, ತೂಗುಪಟದಲ್ಲಿ ಅಂಟಿಸಿ.",
+      "translations": {
+        "en": "1. Collect four children’s stories from newspapers and stick them on a hanging board.",
+        "hi": "1. दैनिक पत्रों से चार बाल कहानियाँ संगृहीत कर लटकते बोर्ड पर चिपकाइए।"
+      },
+      "transliterations": {
+        "devanagari": "1. दिनपत्रिकेगळल्लि बरुव नाल्कु मक्कळ कथेगळन्नु संग्रहिसि, तूगुपटदल्लि अंटिसि.",
+        "latin": "1. dinapatrikegaḷalli baruva nālku makkaḷa kathegaḷannu saṅgrahisi, tūgupaṭadalli aṇṭisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-E",
+      "id": "lang-ex-e-q1",
+      "text": "1. ಗ್ರಂಥಾಲಯದಲ್ಲಿ ದೊರಕುವ ಪರಿಚಿತ ವಿಷಯಗಳ ಕುರಿತ ಕಥೆಗಳನ್ನು ಓದಿರಿ.",
+      "translations": {
+        "en": "1. Read stories on familiar topics available in the library.",
+        "hi": "1. पुस्तकालय में उपलब्ध परिचित विषयों की कहानियाँ पढ़िए।"
+      },
+      "transliterations": {
+        "devanagari": "1. ग्रंथालयदल्लि दोरकुव परिचित विषयगळ कुरित कथेगळन्नु ओदिरि.",
+        "latin": "1. granthālayadalli dorakuva paricita viṣayagaḷa kurita kathegaḷannu ōdiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-F",
+      "id": "lang-ex-f-q1",
+      "text": "1. ಸದ್ಗುಣಗಳಿರುವಲ್ಲಿ ಸದ್ಗತಿಯಿದೆ.",
+      "translations": {
+        "en": "1. Where there are good qualities, there is a good destiny.",
+        "hi": "1. सद्गुण जहाँ, सद्गति वहाँ।"
+      },
+      "transliterations": {
+        "devanagari": "1. सद्गुणगळिरुवल्लि सद्गतियिदे.",
+        "latin": "1. sadguṇagaḷiruvalli sadgatiyide."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-F",
+      "id": "lang-ex-f-q2",
+      "text": "2. ನಿಸ್ವಾರ್ಥ ಸೇವೆಗೆ ಅಗ್ರಪೂಜೆ.",
+      "translations": {
+        "en": "2. Selfless service deserves the highest honour.",
+        "hi": "2. निःस्वार्थ सेवा को अग्रपूजा।"
+      },
+      "transliterations": {
+        "devanagari": "2. निस्वार्थ सेवेगे अग्रपूजे.",
+        "latin": "2. nisvārtha sēvege agrapūje."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-F",
+      "id": "lang-ex-f-q3",
+      "text": "3. ಪರೋಪಕಾರವೇ ಪರಮ ಶ್ರೇಷ್ಠ ಗುಣ.",
+      "translations": {
+        "en": "3. Helping others is the highest virtue.",
+        "hi": "3. परोपकार ही परम श्रेष्ठ गुण।"
+      },
+      "transliterations": {
+        "devanagari": "3. परोपकारवे परम श्रेष्ठ गुण.",
+        "latin": "3. parōpakāravē parama śrēṣṭha guṇa."
+      },
+      "type": "question"
+    }
+  ]
+}

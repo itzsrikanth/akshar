@@ -1,0 +1,1511 @@
+{
+  "labels": {
+    "akshara-1": {
+      "devanagari": "अक्षराभ्यास-1",
+      "en": "Letter practice-1",
+      "hi": "अक्षराभ्यास-1",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-1",
+      "latin": "akṣarābhyāsa-1"
+    },
+    "akshara-10": {
+      "devanagari": "अक्षराभ्यास-10",
+      "en": "Letter practice-10",
+      "hi": "अक्षराभ्यास-10",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-10",
+      "latin": "akṣarābhyāsa-10"
+    },
+    "akshara-2": {
+      "devanagari": "अक्षराभ्यास-2",
+      "en": "Letter practice-2",
+      "hi": "अक्षराभ्यास-2",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-2",
+      "latin": "akṣarābhyāsa-2"
+    },
+    "akshara-3": {
+      "devanagari": "अक्षराभ्यास-3",
+      "en": "Letter practice-3",
+      "hi": "अक्षराभ्यास-3",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-3",
+      "latin": "akṣarābhyāsa-3"
+    },
+    "akshara-4": {
+      "devanagari": "अक्षराभ्यास-4",
+      "en": "Letter practice-4",
+      "hi": "अक्षराभ्यास-4",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-4",
+      "latin": "akṣarābhyāsa-4"
+    },
+    "akshara-5": {
+      "devanagari": "अक्षराभ्यास-5",
+      "en": "Letter practice-5",
+      "hi": "अक्षराभ्यास-5",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-5",
+      "latin": "akṣarābhyāsa-5"
+    },
+    "akshara-6": {
+      "devanagari": "अक्षराभ्यास-6",
+      "en": "Letter practice-6",
+      "hi": "अक्षराभ्यास-6",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-6",
+      "latin": "akṣarābhyāsa-6"
+    },
+    "akshara-7": {
+      "devanagari": "अक्षराभ्यास-7",
+      "en": "Letter practice-7",
+      "hi": "अक्षराभ्यास-7",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-7",
+      "latin": "akṣarābhyāsa-7"
+    },
+    "akshara-8": {
+      "devanagari": "अक्षराभ्यास-8",
+      "en": "Letter practice-8",
+      "hi": "अक्षराभ्यास-8",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-8",
+      "latin": "akṣarābhyāsa-8"
+    },
+    "akshara-9": {
+      "devanagari": "अक्षराभ्यास-9",
+      "en": "Letter practice-9",
+      "hi": "अक्षराभ्यास-9",
+      "kn": "ಅಕ್ಷರಾಭ್ಯಾಸ-9",
+      "latin": "akṣarābhyāsa-9"
+    },
+    "alphabet": {
+      "devanagari": "वर्णमालॆ",
+      "en": "Alphabet",
+      "hi": "वर्णमाला",
+      "kn": "ವರ್ಣಮಾಲೆ",
+      "latin": "varṇamālè"
+    },
+    "learned": {
+      "devanagari": "कलित अक्षरगळु",
+      "en": "Letters learned",
+      "hi": "सीखे हुए अक्षर",
+      "kn": "ಕಲಿತ ಅಕ್ಷರಗಳು",
+      "latin": "kalita akṣaragaḻu"
+    },
+    "title": {
+      "devanagari": "पद ओदु - अक्षर कलि",
+      "en": "Read words - learn letters",
+      "hi": "शब्द पढ़ो - अक्षर सीखो",
+      "kn": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ",
+      "latin": "pada odu - akṣara kali"
+    },
+    "word-practice": {
+      "devanagari": "पदगळ अभ्यास",
+      "en": "Word practice",
+      "hi": "शब्द अभ्यास",
+      "kn": "ಪದಗಳ ಅಭ್ಯಾಸ",
+      "latin": "padagaḻa abhyāsa"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch08-pada-odu-akshara-kali",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "text": "ಓದಿಸಿ-ಬರೆಯಿಸಿ",
+      "translations": {
+        "en": "Have them read and write",
+        "hi": "पढ़वाएँ-लिखवाएँ"
+      },
+      "transliterations": {
+        "devanagari": "ओदिसि-बरॆयिसि",
+        "latin": "odisi-barèyisi"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "text": "ಅಕ್ಷರ ಪಾಠ",
+      "translations": {
+        "en": "Letter lesson",
+        "hi": "अक्षर पाठ"
+      },
+      "transliterations": {
+        "devanagari": "अक्षर पाठ",
+        "latin": "akṣara pāṭha"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-3",
+      "text": "ಪದ ಓದು - ಅಕ್ಷರ ಕಲಿ",
+      "translations": {
+        "en": "Read words - learn letters",
+        "hi": "शब्द पढ़ो - अक्षर सीखो"
+      },
+      "transliterations": {
+        "devanagari": "पद ओदु - अक्षर कलि",
+        "latin": "pada odu - akṣara kali"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-1-title",
+      "section": "akshara-1",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-1",
+      "translations": {
+        "en": "Letter practice-1",
+        "hi": "अक्षराभ्यास-1"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-1",
+        "latin": "akṣarābhyāsa-1"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-1-letters",
+      "section": "akshara-1",
+      "text": "ರ ಗ ಸ ದ ಅ",
+      "translations": {
+        "en": "ರ ಗ ಸ ದ ಅ",
+        "hi": "ರ ಗ ಸ ದ ಅ"
+      },
+      "transliterations": {
+        "devanagari": "र ग स द अ",
+        "latin": "ra ga sa da a"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-1-intro",
+      "section": "akshara-1",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-1-w1",
+      "section": "akshara-1",
+      "text": "ರಸ",
+      "translations": {
+        "en": "ರಸ",
+        "hi": "ರಸ"
+      },
+      "transliterations": {
+        "devanagari": "रस",
+        "latin": "rasa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-1-w2",
+      "section": "akshara-1",
+      "text": "ಗರಗಸ",
+      "translations": {
+        "en": "ಗರಗಸ",
+        "hi": "ಗರಗಸ"
+      },
+      "transliterations": {
+        "devanagari": "गरगस",
+        "latin": "garagasa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-1-w3",
+      "section": "akshara-1",
+      "text": "ಸರ",
+      "translations": {
+        "en": "ಸರ",
+        "hi": "ಸರ"
+      },
+      "transliterations": {
+        "devanagari": "सर",
+        "latin": "sara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-1-w4",
+      "section": "akshara-1",
+      "text": "ದಸರ",
+      "translations": {
+        "en": "ದಸರ",
+        "hi": "ದಸರ"
+      },
+      "transliterations": {
+        "devanagari": "दसर",
+        "latin": "dasara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-1-w5",
+      "section": "akshara-1",
+      "text": "ಅರ",
+      "translations": {
+        "en": "ಅರ",
+        "hi": "ಅರ"
+      },
+      "transliterations": {
+        "devanagari": "अर",
+        "latin": "ara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "1",
+      "id": "akshara-1-copy",
+      "section": "akshara-1",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-2-title",
+      "section": "akshara-2",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-2",
+      "translations": {
+        "en": "Letter practice-2",
+        "hi": "अक्षराभ्यास-2"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-2",
+        "latin": "akṣarābhyāsa-2"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-2-letters",
+      "section": "akshara-2",
+      "text": "ಜ ವ ಮ ಬ ನ",
+      "translations": {
+        "en": "ಜ ವ ಮ ಬ ನ",
+        "hi": "ಜ ವ ಮ ಬ ನ"
+      },
+      "transliterations": {
+        "devanagari": "ज व म ब न",
+        "latin": "ja va ma ba na"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-2-intro",
+      "section": "akshara-2",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-2-w1",
+      "section": "akshara-2",
+      "text": "ಜನ",
+      "translations": {
+        "en": "ಜನ",
+        "hi": "ಜನ"
+      },
+      "transliterations": {
+        "devanagari": "जन",
+        "latin": "jana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-2-w2",
+      "section": "akshara-2",
+      "text": "ವನ",
+      "translations": {
+        "en": "ವನ",
+        "hi": "ವನ"
+      },
+      "transliterations": {
+        "devanagari": "वन",
+        "latin": "vana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-2-w3",
+      "section": "akshara-2",
+      "text": "ಮರ",
+      "translations": {
+        "en": "ಮರ",
+        "hi": "ಮರ"
+      },
+      "transliterations": {
+        "devanagari": "मर",
+        "latin": "mara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-2-w4",
+      "section": "akshara-2",
+      "text": "ಬಸವ",
+      "translations": {
+        "en": "ಬಸವ",
+        "hi": "ಬಸವ"
+      },
+      "transliterations": {
+        "devanagari": "बसव",
+        "latin": "basava"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-2-w5",
+      "section": "akshara-2",
+      "text": "ನಗರ",
+      "translations": {
+        "en": "ನಗರ",
+        "hi": "ನಗರ"
+      },
+      "transliterations": {
+        "devanagari": "नगर",
+        "latin": "nagara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "2",
+      "id": "akshara-2-copy",
+      "section": "akshara-2",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-3-title",
+      "section": "akshara-3",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-3",
+      "translations": {
+        "en": "Letter practice-3",
+        "hi": "अक्षराभ्यास-3"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-3",
+        "latin": "akṣarābhyāsa-3"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-3-letters",
+      "section": "akshara-3",
+      "text": "ಪ ಯ ಉ ಡ ಟ ಚ",
+      "translations": {
+        "en": "ಪ ಯ ಉ ಡ ಟ ಚ",
+        "hi": "ಪ ಯ ಉ ಡ ಟ ಚ"
+      },
+      "transliterations": {
+        "devanagari": "प य उ ड ट च",
+        "latin": "pa ya u ḍa ṭa ca"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-3-intro",
+      "section": "akshara-3",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-3-w1",
+      "section": "akshara-3",
+      "text": "ಪಟ",
+      "translations": {
+        "en": "ಪಟ",
+        "hi": "ಪಟ"
+      },
+      "transliterations": {
+        "devanagari": "पट",
+        "latin": "paṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-3-w2",
+      "section": "akshara-3",
+      "text": "ಯಮ",
+      "translations": {
+        "en": "ಯಮ",
+        "hi": "ಯಮ"
+      },
+      "transliterations": {
+        "devanagari": "यम",
+        "latin": "yama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-3-w3",
+      "section": "akshara-3",
+      "text": "ಉಡ",
+      "translations": {
+        "en": "ಉಡ",
+        "hi": "ಉಡ"
+      },
+      "transliterations": {
+        "devanagari": "उड",
+        "latin": "uḍa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-3-w4",
+      "section": "akshara-3",
+      "text": "ಡಮಡಮ",
+      "translations": {
+        "en": "ಡಮಡಮ",
+        "hi": "ಡಮಡಮ"
+      },
+      "transliterations": {
+        "devanagari": "डमडम",
+        "latin": "ḍamaḍama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-3-w5",
+      "section": "akshara-3",
+      "text": "ಟಪಟಪ",
+      "translations": {
+        "en": "ಟಪಟಪ",
+        "hi": "ಟಪಟಪ"
+      },
+      "transliterations": {
+        "devanagari": "टपटप",
+        "latin": "ṭapaṭapa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-3-w6",
+      "section": "akshara-3",
+      "text": "ಚಮಚ",
+      "translations": {
+        "en": "ಚಮಚ",
+        "hi": "ಚಮಚ"
+      },
+      "transliterations": {
+        "devanagari": "चमच",
+        "latin": "camaca"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "3",
+      "id": "akshara-3-copy",
+      "section": "akshara-3",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-4-title",
+      "section": "akshara-4",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-4",
+      "translations": {
+        "en": "Letter practice-4",
+        "hi": "अक्षराभ्यास-4"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-4",
+        "latin": "akṣarābhyāsa-4"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-4-letters",
+      "section": "akshara-4",
+      "text": "ಲ ಈ ಊ ಕ",
+      "translations": {
+        "en": "ಲ ಈ ಊ ಕ",
+        "hi": "ಲ ಈ ಊ ಕ"
+      },
+      "transliterations": {
+        "devanagari": "ल ई ऊ क",
+        "latin": "la ī ū ka"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-4-intro",
+      "section": "akshara-4",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-4-w1",
+      "section": "akshara-4",
+      "text": "ಈಚಲ",
+      "translations": {
+        "en": "ಈಚಲ",
+        "hi": "ಈಚಲ"
+      },
+      "transliterations": {
+        "devanagari": "ईचल",
+        "latin": "īcala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-4-w2",
+      "section": "akshara-4",
+      "text": "ಊಟ",
+      "translations": {
+        "en": "ಊಟ",
+        "hi": "ಊಟ"
+      },
+      "transliterations": {
+        "devanagari": "ऊट",
+        "latin": "ūṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-4-w3",
+      "section": "akshara-4",
+      "text": "ಕಡಗ",
+      "translations": {
+        "en": "ಕಡಗ",
+        "hi": "ಕಡಗ"
+      },
+      "transliterations": {
+        "devanagari": "कडग",
+        "latin": "kaḍaga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "4",
+      "id": "akshara-4-copy",
+      "section": "akshara-4",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-5-title",
+      "section": "akshara-5",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-5",
+      "translations": {
+        "en": "Letter practice-5",
+        "hi": "अक्षराभ्यास-5"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-5",
+        "latin": "akṣarābhyāsa-5"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-5-letters",
+      "section": "akshara-5",
+      "text": "ಎ ಏ ಇ ಆ ತ ಳ",
+      "translations": {
+        "en": "ಎ ಏ ಇ ಆ ತ ಳ",
+        "hi": "ಎ ಏ ಇ ಆ ತ ಳ"
+      },
+      "transliterations": {
+        "devanagari": "ऎ ए इ आ त ळ",
+        "latin": "è e i ā ta ḻa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-5-intro",
+      "section": "akshara-5",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-5-w1",
+      "section": "akshara-5",
+      "text": "ಎರಕ",
+      "translations": {
+        "en": "ಎರಕ",
+        "hi": "ಎರಕ"
+      },
+      "transliterations": {
+        "devanagari": "ऎरक",
+        "latin": "èraka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-5-w2",
+      "section": "akshara-5",
+      "text": "ಏತ",
+      "translations": {
+        "en": "ಏತ",
+        "hi": "ಏತ"
+      },
+      "transliterations": {
+        "devanagari": "एत",
+        "latin": "eta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-5-w3",
+      "section": "akshara-5",
+      "text": "ಇನ",
+      "translations": {
+        "en": "ಇನ",
+        "hi": "ಇನ"
+      },
+      "transliterations": {
+        "devanagari": "इन",
+        "latin": "ina"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-5-w4",
+      "section": "akshara-5",
+      "text": "ಆಲ",
+      "translations": {
+        "en": "ಆಲ",
+        "hi": "ಆಲ"
+      },
+      "transliterations": {
+        "devanagari": "आल",
+        "latin": "āla"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-5-w5",
+      "section": "akshara-5",
+      "text": "ತಬಲ",
+      "translations": {
+        "en": "ತಬಲ",
+        "hi": "ತಬಲ"
+      },
+      "transliterations": {
+        "devanagari": "तबल",
+        "latin": "tabala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-5-w6",
+      "section": "akshara-5",
+      "text": "ನಳ",
+      "translations": {
+        "en": "ನಳ",
+        "hi": "ನಳ"
+      },
+      "transliterations": {
+        "devanagari": "नळ",
+        "latin": "naḻa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "5",
+      "id": "akshara-5-copy",
+      "section": "akshara-5",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-6-title",
+      "section": "akshara-6",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-6",
+      "translations": {
+        "en": "Letter practice-6",
+        "hi": "अक्षराभ्यास-6"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-6",
+        "latin": "akṣarābhyāsa-6"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-6-letters",
+      "section": "akshara-6",
+      "text": "ಓ ಔ ಹ ಶ ಷ",
+      "translations": {
+        "en": "ಓ ಔ ಹ ಶ ಷ",
+        "hi": "ಓ ಔ ಹ ಶ ಷ"
+      },
+      "transliterations": {
+        "devanagari": "ओ औ ह श ष",
+        "latin": "o au ha śa ṣa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-6-intro",
+      "section": "akshara-6",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-6-w1",
+      "section": "akshara-6",
+      "text": "ಓಟ",
+      "translations": {
+        "en": "ಓಟ",
+        "hi": "ಓಟ"
+      },
+      "transliterations": {
+        "devanagari": "ओट",
+        "latin": "oṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-6-w2",
+      "section": "akshara-6",
+      "text": "ಔಡಲ",
+      "translations": {
+        "en": "ಔಡಲ",
+        "hi": "ಔಡಲ"
+      },
+      "transliterations": {
+        "devanagari": "औडल",
+        "latin": "auḍala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-6-w3",
+      "section": "akshara-6",
+      "text": "ಹಯ",
+      "translations": {
+        "en": "ಹಯ",
+        "hi": "ಹಯ"
+      },
+      "transliterations": {
+        "devanagari": "हय",
+        "latin": "haya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-6-w4",
+      "section": "akshara-6",
+      "text": "ಶರ",
+      "translations": {
+        "en": "ಶರ",
+        "hi": "ಶರ"
+      },
+      "transliterations": {
+        "devanagari": "शर",
+        "latin": "śara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "6",
+      "id": "akshara-6-copy",
+      "section": "akshara-6",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-7-title",
+      "section": "akshara-7",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-7",
+      "translations": {
+        "en": "Letter practice-7",
+        "hi": "अक्षराभ्यास-7"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-7",
+        "latin": "akṣarābhyāsa-7"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-7-letters",
+      "section": "akshara-7",
+      "text": "ಐ ಋ ಣ ಛ ಒ",
+      "translations": {
+        "en": "ಐ ಋ ಣ ಛ ಒ",
+        "hi": "ಐ ಋ ಣ ಛ ಒ"
+      },
+      "transliterations": {
+        "devanagari": "ऐ ऋ ण छ ऒ",
+        "latin": "ai ṛ ṇa cha ò"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-7-intro",
+      "section": "akshara-7",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-7-w1",
+      "section": "akshara-7",
+      "text": "ಐದಳ",
+      "translations": {
+        "en": "ಐದಳ",
+        "hi": "ಐದಳ"
+      },
+      "transliterations": {
+        "devanagari": "ऐदळ",
+        "latin": "aidaḻa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-7-w2",
+      "section": "akshara-7",
+      "text": "ಕಣ",
+      "translations": {
+        "en": "ಕಣ",
+        "hi": "ಕಣ"
+      },
+      "transliterations": {
+        "devanagari": "कण",
+        "latin": "kaṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-7-w3",
+      "section": "akshara-7",
+      "text": "ಒಣಮರ",
+      "translations": {
+        "en": "ಒಣಮರ",
+        "hi": "ಒಣಮರ"
+      },
+      "transliterations": {
+        "devanagari": "ऒणमर",
+        "latin": "òṇamara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "7",
+      "id": "akshara-7-copy",
+      "section": "akshara-7",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-8-title",
+      "section": "akshara-8",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-8",
+      "translations": {
+        "en": "Letter practice-8",
+        "hi": "अक्षराभ्यास-8"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-8",
+        "latin": "akṣarābhyāsa-8"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-8-letters",
+      "section": "akshara-8",
+      "text": "ಧ ಥ ಢ ಭ",
+      "translations": {
+        "en": "ಧ ಥ ಢ ಭ",
+        "hi": "ಧ ಥ ಢ ಭ"
+      },
+      "transliterations": {
+        "devanagari": "ध थ ढ भ",
+        "latin": "dha tha ḍha bha"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-8-intro",
+      "section": "akshara-8",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-8-w1",
+      "section": "akshara-8",
+      "text": "ಧನ",
+      "translations": {
+        "en": "ಧನ",
+        "hi": "ಧನ"
+      },
+      "transliterations": {
+        "devanagari": "धन",
+        "latin": "dhana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-8-w2",
+      "section": "akshara-8",
+      "text": "ರಥ",
+      "translations": {
+        "en": "ರಥ",
+        "hi": "ರಥ"
+      },
+      "transliterations": {
+        "devanagari": "रथ",
+        "latin": "ratha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-8-w3",
+      "section": "akshara-8",
+      "text": "ಢಣಢಣ",
+      "translations": {
+        "en": "ಢಣಢಣ",
+        "hi": "ಢಣಢಣ"
+      },
+      "transliterations": {
+        "devanagari": "ढणढण",
+        "latin": "ḍhaṇaḍhaṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-8-w4",
+      "section": "akshara-8",
+      "text": "ಭಟ",
+      "translations": {
+        "en": "ಭಟ",
+        "hi": "ಭಟ"
+      },
+      "transliterations": {
+        "devanagari": "भट",
+        "latin": "bhaṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "8",
+      "id": "akshara-8-copy",
+      "section": "akshara-8",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-9-title",
+      "section": "akshara-9",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-9",
+      "translations": {
+        "en": "Letter practice-9",
+        "hi": "अक्षराभ्यास-9"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-9",
+        "latin": "akṣarābhyāsa-9"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-9-letters",
+      "section": "akshara-9",
+      "text": "ಘ ಠ ಫ ಝ ಖ",
+      "translations": {
+        "en": "ಘ ಠ ಫ ಝ ಖ",
+        "hi": "ಘ ಠ ಫ ಝ ಖ"
+      },
+      "transliterations": {
+        "devanagari": "घ ठ फ झ ख",
+        "latin": "gha ṭha pha jha kha"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-9-intro",
+      "section": "akshara-9",
+      "text": "ಅ) ಚಿತ್ರ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter/picture and have the children say the word.",
+        "hi": "अ) अक्षर/चित्र दिखाकर शब्द बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्र तोरिसि पद हेळिसि.",
+        "latin": "a) citra torisi pada heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-9-w1",
+      "section": "akshara-9",
+      "text": "ಘಟ",
+      "translations": {
+        "en": "ಘಟ",
+        "hi": "ಘಟ"
+      },
+      "transliterations": {
+        "devanagari": "घट",
+        "latin": "ghaṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-9-w2",
+      "section": "akshara-9",
+      "text": "ಜಠರ",
+      "translations": {
+        "en": "ಜಠರ",
+        "hi": "ಜಠರ"
+      },
+      "transliterations": {
+        "devanagari": "जठर",
+        "latin": "jaṭhara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-9-w3",
+      "section": "akshara-9",
+      "text": "ಫಲ",
+      "translations": {
+        "en": "ಫಲ",
+        "hi": "ಫಲ"
+      },
+      "transliterations": {
+        "devanagari": "फल",
+        "latin": "phala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-9-w4",
+      "section": "akshara-9",
+      "text": "ಝಣಝಣ",
+      "translations": {
+        "en": "ಝಣಝಣ",
+        "hi": "ಝಣಝಣ"
+      },
+      "transliterations": {
+        "devanagari": "झणझण",
+        "latin": "jhaṇajhaṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-9-w5",
+      "section": "akshara-9",
+      "text": "ಖಗ",
+      "translations": {
+        "en": "ಖಗ",
+        "hi": "ಖಗ"
+      },
+      "transliterations": {
+        "devanagari": "खग",
+        "latin": "khaga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "9",
+      "id": "akshara-9-copy",
+      "section": "akshara-9",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-10-title",
+      "section": "akshara-10",
+      "text": "ಅಕ್ಷರಾಭ್ಯಾಸ-10",
+      "translations": {
+        "en": "Letter practice-10",
+        "hi": "अक्षराभ्यास-10"
+      },
+      "transliterations": {
+        "devanagari": "अक्षराभ्यास-10",
+        "latin": "akṣarābhyāsa-10"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-10-letters",
+      "section": "akshara-10",
+      "text": "ಅಂ ಅಃ ಙ ಞ",
+      "translations": {
+        "en": "ಅಂ ಅಃ ಙ ಞ",
+        "hi": "ಅಂ ಅಃ ಙ ಞ"
+      },
+      "transliterations": {
+        "devanagari": "अं अः ङ ञ",
+        "latin": "aṃ aḥ ṅa ña"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-10-intro",
+      "section": "akshara-10",
+      "text": "ಅ) ಅಕ್ಷರ ತೋರಿಸಿ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Show the letter and have them say it.",
+        "hi": "अ) अक्षर दिखाकर बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) अक्षर तोरिसि हेळिसि.",
+        "latin": "a) akṣara torisi heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "akshara-10-w1",
+      "section": "akshara-10",
+      "text": "ಅಂಕ",
+      "translations": {
+        "en": "ಅಂಕ",
+        "hi": "ಅಂಕ"
+      },
+      "transliterations": {
+        "devanagari": "अंक",
+        "latin": "aṃka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w2",
+      "section": "akshara-10",
+      "text": "ಅಂಗ",
+      "translations": {
+        "en": "ಅಂಗ",
+        "hi": "ಅಂಗ"
+      },
+      "transliterations": {
+        "devanagari": "अंग",
+        "latin": "aṃga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w3",
+      "section": "akshara-10",
+      "text": "ಅಂಡ",
+      "translations": {
+        "en": "ಅಂಡ",
+        "hi": "ಅಂಡ"
+      },
+      "transliterations": {
+        "devanagari": "अंड",
+        "latin": "aṃḍa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w4",
+      "section": "akshara-10",
+      "text": "ಅಂದ",
+      "translations": {
+        "en": "ಅಂದ",
+        "hi": "ಅಂದ"
+      },
+      "transliterations": {
+        "devanagari": "अंद",
+        "latin": "aṃda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w5",
+      "section": "akshara-10",
+      "text": "ಅಂತ",
+      "translations": {
+        "en": "ಅಂತ",
+        "hi": "ಅಂತ"
+      },
+      "transliterations": {
+        "devanagari": "अंत",
+        "latin": "aṃta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w6",
+      "section": "akshara-10",
+      "text": "ಅಂಚಲ",
+      "translations": {
+        "en": "ಅಂಚಲ",
+        "hi": "ಅಂಚಲ"
+      },
+      "transliterations": {
+        "devanagari": "अंचल",
+        "latin": "aṃcala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w7",
+      "section": "akshara-10",
+      "text": "ಅಂಗಳ",
+      "translations": {
+        "en": "ಅಂಗಳ",
+        "hi": "ಅಂಗಳ"
+      },
+      "transliterations": {
+        "devanagari": "अंगळ",
+        "latin": "aṃgaḻa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "akshara-10-w8",
+      "section": "akshara-10",
+      "text": "ಅಂಜನ",
+      "translations": {
+        "en": "ಅಂಜನ",
+        "hi": "ಅಂಜನ"
+      },
+      "transliterations": {
+        "devanagari": "अंजन",
+        "latin": "aṃjana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "exercise": "10",
+      "id": "akshara-10-copy",
+      "section": "akshara-10",
+      "text": "ಆ) ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಗುಂಡಾಗಿ ನಕಲು ಮಾಡಿಸಿ.",
+      "translations": {
+        "en": "B) Have them copy the given letters neatly.",
+        "hi": "आ) दिए अक्षर साफ़-साफ़ नकल करवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) कॊट्टिरुव अक्षरगळन्नु गुंडागि नकलु माडिसि.",
+        "latin": "ā) kòṭṭiruva akṣaragaḻannu guṃḍāgi nakalu māḍisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "learned-title",
+      "section": "learned",
+      "text": "ಕಲಿತ ಅಕ್ಷರಗಳು",
+      "translations": {
+        "en": "Letters learned",
+        "hi": "सीखे हुए अक्षर"
+      },
+      "transliterations": {
+        "devanagari": "कलित अक्षरगळु",
+        "latin": "kalita akṣaragaḻu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "learned-list",
+      "section": "learned",
+      "text": "ರ ಗ ಸ ದ ಅ · ಜ ವ ಮ ಬ ನ · ಪ ಯ ಉ ಡ ಟ ಚ · ಲ ಈ ಊ ಕ · ಎ ಏ ಇ ಆ ತ ಳ · ಓ ಔ ಹ ಶ ಷ · ಐ ಋ ಣ ಛ ಒ · ಧ ಥ ಢ ಭ · ಘ ಠ ಫ ಝ ಖ · ಅಂ ಅಃ ಙ ಞ",
+      "translations": {
+        "en": "ರ ಗ ಸ ದ ಅ · ಜ ವ ಮ ಬ ನ · ಪ ಯ ಉ ಡ ಟ ಚ · ಲ ಈ ಊ ಕ · ಎ ಏ ಇ ಆ ತ ಳ · ಓ ಔ ಹ ಶ ಷ · ಐ ಋ ಣ ಛ ಒ · ಧ ಥ ಢ ಭ · ಘ ಠ ಫ ಝ ಖ · ಅಂ ಅಃ ಙ ಞ",
+        "hi": "ರ ಗ ಸ ದ ಅ · ಜ ವ ಮ ಬ ನ · ಪ ಯ ಉ ಡ ಟ ಚ · ಲ ಈ ಊ ಕ · ಎ ಏ ಇ ಆ ತ ಳ · ಓ ಔ ಹ ಶ ಷ · ಐ ಋ ಣ ಛ ಒ · ಧ ಥ ಢ ಭ · ಘ ಠ ಫ ಝ ಖ · ಅಂ ಅಃ ಙ ಞ"
+      },
+      "transliterations": {
+        "devanagari": "र ग स द अ · ज व म ब न · प य उ ड ट च · ल ई ऊ क · ऎ ए इ आ त ळ · ओ औ ह श ष · ऐ ऋ ण छ ऒ · ध थ ढ भ · घ ठ फ झ ख · अं अः ङ ञ",
+        "latin": "ra ga sa da a · ja va ma ba na · pa ya u ḍa ṭa ca · la ī ū ka · è e i ā ta ḻa · o au ha śa ṣa · ai ṛ ṇa cha ò · dha tha ḍha bha · gha ṭha pha jha kha · aṃ aḥ ṅa ña"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "word-practice-title",
+      "section": "word-practice",
+      "text": "ಪದಗಳ ಅಭ್ಯಾಸ",
+      "translations": {
+        "en": "Word practice",
+        "hi": "शब्द अभ्यास"
+      },
+      "transliterations": {
+        "devanagari": "पदगळ अभ्यास",
+        "latin": "padagaḻa abhyāsa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "word-practice-intro",
+      "section": "word-practice",
+      "text": "ಮಕ್ಕಳಿಂದ ಓದಿಸಿ, ನಕಲು ಮಾಡಿಸಿ",
+      "translations": {
+        "en": "Have the children read and copy",
+        "hi": "बच्चों से पढ़वाएँ, नकल करवाएँ"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळिंद ओदिसि, नकलु माडिसि",
+        "latin": "makkaḻiṃda odisi, nakalu māḍisi"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "alphabet-title",
+      "section": "alphabet",
+      "text": "ವರ್ಣಮಾಲೆ",
+      "translations": {
+        "en": "Alphabet",
+        "hi": "वर्णमाला"
+      },
+      "transliterations": {
+        "devanagari": "वर्णमालॆ",
+        "latin": "varṇamālè"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "alphabet-vowels",
+      "section": "alphabet",
+      "text": "ಅ ಆ ಇ ಈ ಉ ಊ ಋ ಎ ಏ ಐ ಒ ಓ ಔ ಅಂ ಅಃ",
+      "translations": {
+        "en": "ಅ ಆ ಇ ಈ ಉ ಊ ಋ ಎ ಏ ಐ ಒ ಓ ಔ ಅಂ ಅಃ",
+        "hi": "ಅ ಆ ಇ ಈ ಉ ಊ ಋ ಎ ಏ ಐ ಒ ಓ ಔ ಅಂ ಅಃ"
+      },
+      "transliterations": {
+        "devanagari": "अ आ इ ई उ ऊ ऋ ऎ ए ऐ ऒ ओ औ अं अः",
+        "latin": "a ā i ī u ū ṛ è e ai ò o au aṃ aḥ"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "alphabet-consonants",
+      "section": "alphabet",
+      "text": "ಕ ಖ ಗ ಘ ಙ ಚ ಛ ಜ ಝ ಞ ಟ ಠ ಡ ಢ ಣ ತ ಥ ದ ಧ ನ ಪ ಫ ಬ ಭ ಮ ಯ ರ ಲ ವ ಶ ಷ ಸ ಹ ಳ",
+      "translations": {
+        "en": "ಕ ಖ ಗ ಘ ಙ ಚ ಛ ಜ ಝ ಞ ಟ ಠ ಡ ಢ ಣ ತ ಥ ದ ಧ ನ ಪ ಫ ಬ ಭ ಮ ಯ ರ ಲ ವ ಶ ಷ ಸ ಹ ಳ",
+        "hi": "ಕ ಖ ಗ ಘ ಙ ಚ ಛ ಜ ಝ ಞ ಟ ಠ ಡ ಢ ಣ ತ ಥ ದ ಧ ನ ಪ ಫ ಬ ಭ ಮ ಯ ರ ಲ ವ ಶ ಷ ಸ ಹ ಳ"
+      },
+      "transliterations": {
+        "devanagari": "क ख ग घ ङ च छ ज झ ञ ट ठ ड ढ ण त थ द ध न प फ ब भ म य र ल व श ष स ह ळ",
+        "latin": "ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va śa ṣa sa ha ḻa"
+      },
+      "type": "prose"
+    }
+  ]
+}

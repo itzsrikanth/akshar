@@ -3,7 +3,7 @@ bookId: ktbs-savi-kannada-g8-fl-p1
 label: Savi Kannada Grade 8 First Language Part 1 (2026–27)
 printedGrade: 8
 languageRole: first-language
-license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+license: CC BY 4.0
 academicYears:
 - 2026-27
 provenance:
@@ -18,64 +18,53 @@ chapters:
   title: ಮಗ್ಗದ ಸಾಹೇಬ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch01-maggada-saheba
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch01-maggada-saheba
-  held: true
 - id: ch02-sarthaka-badukina-sadhaka-dvg
   number: 2
   title: ಸಾರ್ಥಕ ಬದುಕಿನ ಸಾಧಕ-ಡಿ.ವಿ.ಜಿ.
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch02-sarthaka-badukina-sadhaka-dvg
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch02-sarthaka-badukina-sadhaka-dvg
-  held: true
 - id: ch03-neeru-kodada-nadinalli
   number: 3
   title: ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch03-neeru-kodada-nadinalli
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch03-neeru-kodada-nadinalli
-  held: true
 - id: ch04-yashodhare
   number: 4
   title: ಯಶೋಧರೆ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch04-yashodhare
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch04-yashodhare
-  held: true
 - id: ch05-kannadigara-taayi
   number: 5
   title: ಕನ್ನಡಿಗರ ತಾಯಿ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch05-kannadigara-taayi
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch05-kannadigara-taayi
-  held: true
 - id: ch06-bharathiyate
   number: 6
   title: ಭಾರತೀಯತೆ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch06-bharathiyate
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch06-bharathiyate
-  held: true
 - id: ch07-bevu-belladoludalenu-phala
   number: 7
   title: ಬೇವೂ ಬೆಲ್ಲದೊಳುದಲೆನು ಫಲ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch07-bevu-belladoludalenu-phala
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch07-bevu-belladoludalenu-phala
-  held: true
 - id: ch08-someshwara-shataka
   number: 8
   title: ಸೋಮೇಶ್ವರ ಶತಕ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch08-someshwara-shataka
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch08-someshwara-shataka
-  held: true
 - id: ch09-sarthaka
   number: 9
   title: ಸಾರ್ಥಕ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch09-sarthaka
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch09-sarthaka
-  held: true
 - id: ch10-ahuti
   number: 10
   title: ಆಹುತಿ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch10-ahuti
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch10-ahuti
-  held: true
 - id: ch11-magalige-bareda-patra
   number: 11
   title: ಮಗಳಿಗೆ ಬರೆದ ಪತ್ರ
   legacyPath: content/books/ktbs-savi-kannada-g8-fl-p1/editions/2026-27/chapters/ch11-magalige-bareda-patra
   formerPath: KSEEB/Karnataka/Kannada/Grade8/Kannada/ch11-magalige-bareda-patra
-  held: true

@@ -1,0 +1,372 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g8-fl-p1",
+    "chapterId": "ch09-sarthaka",
+    "editionId": "2026-27",
+    "number": 9
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè uttarisi."
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    }
+  },
+  "meta": {
+    "author": "ದಿನಕರ ದೇಸಾಯಿ",
+    "board": "KSEEB",
+    "chapter": 9,
+    "grade": 8,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch09-sarthaka",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸಾರ್ಥಕ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನನ್ನ ದೇಹದ ಬೂದಿ - ಗಾಳಿಯಲಿ ತೂರಿಬಿಡಿ,",
+      "translations": {
+        "en": "Scatter the ash of my body in the wind,",
+        "hi": "मेरे शरीर की राख हवा में बिखेर दो,"
+      },
+      "transliterations": {
+        "devanagari": "नन्न देहद बूदि - गाळियलि तूरिबिडि,",
+        "latin": "nanna dehada būdi - gāḻiyali tūribiḍi,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಹೋಗಿ ಬೀಳಲಿ ಭತ್ತ ಬೆಳೆಯುವಲ್ಲಿ:",
+      "translations": {
+        "en": "Let it fall where paddy grows:",
+        "hi": "जहाँ धान उगता है वहाँ गिरने दो:"
+      },
+      "transliterations": {
+        "devanagari": "होगि बीळलि भत्त बॆळॆयुवल्लि:",
+        "latin": "hogi bīḻali bhatta bèḻèyuvalli:"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬೂದಿ-ಗೊಬ್ಬರದಿಂದ ತೆನೆಯೊಂದು ನೆಗೆದುಬರೆ,",
+      "translations": {
+        "en": "When from ash-manure an ear of grain springs up,",
+        "hi": "राख-खाद से जब एक बाल उगे,"
+      },
+      "transliterations": {
+        "devanagari": "बूदि-गॊब्बरदिंद तॆनॆयॊंदु नॆगॆदुबरॆ,",
+        "latin": "būdi-gòbbaradiṃda tènèyòṃdu nègèdubarè,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಧನ್ಯವಾಯಿತು ಹುಟ್ಟು ಸಾವಿನಲ್ಲಿ",
+      "translations": {
+        "en": "Birth is blessed even in death",
+        "hi": "मृत्यु में भी जन्म धन्य हो गया"
+      },
+      "transliterations": {
+        "devanagari": "धन्यवायितु हुट्टु साविनल्लि",
+        "latin": "dhanyavāyitu huṭṭu sāvinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನನ್ನ ದೇಹದ ಬೂದಿ-ಹೊಳೆಯಲ್ಲಿ ಹರಿಯ ಬಿಡಿ",
+      "translations": {
+        "en": "Let the ash of my body flow in the stream",
+        "hi": "मेरे शरीर की राख को नदी में बहने दो"
+      },
+      "transliterations": {
+        "devanagari": "नन्न देहद बूदि-हॊळॆयल्लि हरिय बिडि",
+        "latin": "nanna dehada būdi-hòḻèyalli hariya biḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ತೇಲಿ ಬೀಳಲಿ ಮೀನ ಬಾಯಿಯಲ್ಲಿ;",
+      "translations": {
+        "en": "Let it float into a fish's mouth;",
+        "hi": "मछली के मुँह में तैरकर गिरे;"
+      },
+      "transliterations": {
+        "devanagari": "तेलि बीळलि मीन बायियल्लि;",
+        "latin": "teli bīḻali mīna bāyiyalli;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಮುಷ್ಟಿ ಬೂದಿಯ ತಿಂದು - ಪುಷ್ಟವಾಗಲು ಮೀನು",
+      "translations": {
+        "en": "When the fish eats a fistful of ash and grows strong",
+        "hi": "मुट्ठी भर राख खाकर मछली पुष्ट हो"
+      },
+      "transliterations": {
+        "devanagari": "मुष्टि बूदिय तिंदु - पुष्टवागलु मीनु",
+        "latin": "muṣṭi būdiya tiṃdu - puṣṭavāgalu mīnu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಧನ್ಯವಾಯಿತು ಹುಟ್ಟು ಸಾವಿನಲ್ಲಿ",
+      "translations": {
+        "en": "Birth is blessed even in death",
+        "hi": "मृत्यु में भी जन्म धन्य हो गया"
+      },
+      "transliterations": {
+        "devanagari": "धन्यवायितु हुट्टु साविनल्लि",
+        "latin": "dhanyavāyitu huṭṭu sāvinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನನ್ನ ದೇಹದ ಬೂದಿ-ಕೊಳದಲ್ಲಿ ಬೀಗಿ ಬಿಡಿ",
+      "translations": {
+        "en": "Let the ash of my body settle in the pond",
+        "hi": "मेरे शरीर की राख को तालाब में जमने दो"
+      },
+      "transliterations": {
+        "devanagari": "नन्न देहद बूदि-कॊळदल्लि बीगि बिडि",
+        "latin": "nanna dehada būdi-kòḻadalli bīgi biḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತಾವರೆಯು ದಿನದಿನವೂ ಅರಳುವಲ್ಲಿ;",
+      "translations": {
+        "en": "Where the lotus blossoms day by day;",
+        "hi": "जहाँ कमल प्रतिदिन खिलता है;"
+      },
+      "transliterations": {
+        "devanagari": "तावरॆयु दिनदिनवू अरळुवल्लि;",
+        "latin": "tāvarèyu dinadinavū araḻuvalli;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಬೂದಿ ಕೆಸರನು ಕೂಡಿ ಹೊಸ ಪಂಕಜವು ಮೂಡೆ,",
+      "translations": {
+        "en": "When ash mixes with mud and a new lotus appears,",
+        "hi": "राख कीचड़ से मिलकर नया पंकज खिले,"
+      },
+      "transliterations": {
+        "devanagari": "बूदि कॆसरनु कूडि हॊस पंकजवु मूडॆ,",
+        "latin": "būdi kèsaranu kūḍi hòsa paṃkajavu mūḍè,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಧನ್ಯವಾಯಿತು ಹುಟ್ಟು ಸಾವಿನಲ್ಲಿ",
+      "translations": {
+        "en": "Birth is blessed even in death",
+        "hi": "मृत्यु में भी जन्म धन्य हो गया"
+      },
+      "transliterations": {
+        "devanagari": "धन्यवायितु हुट्टु साविनल्लि",
+        "latin": "dhanyavāyitu huṭṭu sāvinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಸತ್ತಮೇಲಾದರೂ ದೇಹ ಸೇವೆಗೆ ನಿಲಲಿ,",
+      "translations": {
+        "en": "Even after death let the body stand for service,",
+        "hi": "मरने के बाद भी शरीर सेवा के लिए खड़ा रहे,"
+      },
+      "transliterations": {
+        "devanagari": "सत्तमेलादरू देह सेवॆगॆ निललि,",
+        "latin": "sattamelādarū deha sevègè nilali,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇಂದಿಗೀ ನರಜನ್ಮ ಸೇವೆಯೆಂದು",
+      "translations": {
+        "en": "This human birth is for service today",
+        "hi": "आज यह नरजन्म सेवा ही है"
+      },
+      "transliterations": {
+        "devanagari": "इंदिगी नरजन्म सेवॆयॆंदु",
+        "latin": "iṃdigī narajanma sevèyèṃdu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ತನ್ನ ಸ್ವಾರ್ಥವ ನೆನೆದು ವ್ಯರ್ಥವಾಗಿದೆ ದೇಹ,",
+      "translations": {
+        "en": "Remembering its selfishness the body has become useless,",
+        "hi": "अपने स्वार्थ को याद कर शरीर व्यर्थ हो गया,"
+      },
+      "transliterations": {
+        "devanagari": "तन्न स्वार्थव नॆनॆदु व्यर्थवागिदॆ देह,",
+        "latin": "tanna svārthava nènèdu vyarthavāgidè deha,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನಿಜಸೇವೆ ಗೈಯಲಿಕೆ ಬರಲಿ ಮುಂದು.",
+      "translations": {
+        "en": "May true service come forward to be done.",
+        "hi": "सच्ची सेवा करने के लिए आगे आए।"
+      },
+      "transliterations": {
+        "devanagari": "निजसेवॆ गैयलिकॆ बरलि मुंदु.",
+        "latin": "nijasevè gaiyalikè barali muṃdu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಚುಟುಕು ಬ್ರಹ್ಮನೆಂದು ಪ್ರಖ್ಯಾತರಾದವರು ದಿನಕರ ದೇಸಾಯಿಯವರು (1909). ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆಯ ಅಂಕೋಲ ತಾಲ್ಲೂಕಿನ ಅಲಗೇರಿ ಎಂಬ ಪುಟ್ಟ ಹಳ್ಳಿಯವರು. ತಂದೆ ದತ್ತಾತ್ರೇಯ ದೇಸಾಯಿ ಶಾಲಾ ಮಾಸ್ತರು. ತಾಯಿ ಅಂಬಿಕಾ. ಮೈಸೂರಿನಲ್ಲಿ ಬಿ.ಎ. ಪದವಿಯನ್ನು ಪಡೆದ ಇವರು ಮುಂಬೈನ ಸೈಂಟ್ ಝೇವಿಯರ್ ಕಾಲೇಜಿನಲ್ಲಿ ಎಂ.ಎ. ಪದವಿಯನ್ನು ಪಡೆದರು. ವಿವಿಧ ಸಂಘಟನೆಗಳ ಸಂಘಟಕರಾಗಿ, ಪತ್ರಿಕಾ ವರದಿಗಾರರಾಗಿ, ಸಂಸದರಾಗಿ ದುಡಿದು ನವೆಂಬರ್ 6, 1982 ರಲ್ಲಿ ಇಹಲೋಕ ತ್ಯಜಿಸಿದರು. ಇವರ ಪ್ರಮುಖ ಕೃತಿಗಳು ಹೂಗೊಂಚಲು, ತರುಣರ ದಸರೆ, ಕಡಲ ಕನ್ನಡ, ದಿನಕರನ ಚೌಪದಿ, ನಾಕಂಡ ಪಡುವಣ (ಪ್ರವಾಸ ಸಾಹಿತ್ಯ) ಹೀಗೆ 12 ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರ ದಿನಕರನ ಚೌಪದಿ ಕೃತಿಗೆ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪುರಸ್ಕಾರ ದೊರೆತಿದೆ.",
+      "translations": {
+        "en": "Dinakara Desai (1909), famed as the master of short verse in modern Kannada literature, was from Alageri village in Ankola taluk of Uttara Kannada. He earned a B.A. in Mysore and an M.A. at St. Xavier's College, Mumbai. He worked as an organiser, journalist and parliamentarian, and passed away on 6 November 1982. Among about twelve works are Hoogonchalu, Tarunara Dasara, Kadala Kannada and Dinakarana Chaupadi, which received a Karnataka Sahitya Akademi award.",
+        "hi": "दिनकर देसाई (1909), आधुनिक कन्नड़ साहित्य में चुटुकु ब्रह्म कहे जाने वाले कवि, उत्तर कन्नड़ ज़िले के अंकोला तालुक के अलगेरी गाँव के थे। उन्होंने मैसूर में बी.ए. और मुंबई के सेंट ज़ेवियर कॉलेज में एम.ए. किया। संगठनकर्ता, पत्रकार और सांसद रहे; 6 नवंबर 1982 को निधन हुआ।"
+      },
+      "transliterations": {
+        "devanagari": "हॊसगन्नड साहित्यदल्लि चुटुकु ब्रह्मनॆंदु प्रख्यातरादवरु दिनकर देसायियवरु (1909). उत्तर कन्नड जिल्लॆय अंकोल ताल्लूकिन अलगेरि ऎंब पुट्ट हळ्ळियवरु. तंदॆ दत्तात्रेय देसायि शाला मास्तरु. तायि अंबिका. मैसूरिनल्लि बि.ऎ. पदवियन्नु पडॆद इवरु मुंबैन सैंट् झेवियर् कालेजिनल्लि ऎं.ऎ. पदवियन्नु पडॆदरु. विविध संघटनॆगळ संघटकरागि, पत्रिका वरदिगाररागि, संसदरागि दुडिदु नवॆंबर् 6, 1982 रल्लि इहलोक त्यजिसिदरु. इवर प्रमुख कृतिगळु हूगॊंचलु, तरुणर दसरॆ, कडल कन्नड, दिनकरन चौपदि, नाकंड पडुवण (प्रवास साहित्य) हीगॆ 12 कृतिगळन्नु रचिसिद्दारॆ. इवर दिनकरन चौपदि कृतिगॆ कर्नाटक साहित्य अकाडॆमि पुरस्कार दॊरॆतिदॆ.",
+        "latin": "hòsagannaḍa sāhityadalli cuṭuku brahmanèṃdu prakhyātarādavaru dinakara desāyiyavaru (1909). uttara kannaḍa jillèya aṃkola tāllūkina alageri èṃba puṭṭa haḻḻiyavaru. taṃdè dattātreya desāyi śālā māstaru. tāyi aṃbikā. maisūrinalli bi.è. padaviyannu paḍèda ivaru muṃbaina saiṃṭ jheviyar kālejinalli èṃ.è. padaviyannu paḍèdaru. vividha saṃghaṭanègaḻa saṃghaṭakarāgi, patrikā varadigārarāgi, saṃsadarāgi duḍidu navèṃbar 6, 1982 ralli ihaloka tyajisidaru. ivara pramukha kṛtigaḻu hūgòṃcalu, taruṇara dasarè, kaḍala kannaḍa, dinakarana caupadi, nākaṃḍa paḍuvaṇa (pravāsa sāhitya) hīgè 12 kṛtigaḻannu racisiddārè. ivara dinakarana caupadi kṛtigè karnāṭaka sāhitya akāḍèmi puraskāra dòrètidè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಗಾಳಿಯಲ್ಲಿ ಬೂದಿಯನ್ನು ತೂರಿದಾಗ ಎಲ್ಲಿ ಬೀಳುತ್ತದೆ?",
+      "translations": {
+        "en": "Where does the ash fall when scattered in the wind?",
+        "hi": "हवा में राख बिखेरने पर वह कहाँ गिरती है?"
+      },
+      "transliterations": {
+        "devanagari": "गाळियल्लि बूदियन्नु तूरिदाग ऎल्लि बीळुत्तदॆ?",
+        "latin": "gāḻiyalli būdiyannu tūridāga èlli bīḻuttadè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಬೂದಿಯನ್ನು ಹೊಳೆಯಲ್ಲಿ ಹರಿಯಬಿಟ್ಟಾಗ ಯಾರಿಗೆ ಸಿಗುತ್ತದೆ?",
+      "translations": {
+        "en": "When ash is released in the stream, who receives it?",
+        "hi": "राख को नदी में बहाने पर वह किसे मिलती है?"
+      },
+      "transliterations": {
+        "devanagari": "बूदियन्नु हॊळॆयल्लि हरियबिट्टाग यारिगॆ सिगुत्तदॆ?",
+        "latin": "būdiyannu hòḻèyalli hariyabiṭṭāga yārigè siguttadè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ದೇಹ ಏಕೆ ವ್ಯರ್ಥವಾಗಿದೆ?",
+      "translations": {
+        "en": "Why has the body become useless?",
+        "hi": "शरीर व्यर्थ क्यों हो गया है?"
+      },
+      "transliterations": {
+        "devanagari": "देह एकॆ व्यर्थवागिदॆ?",
+        "latin": "deha ekè vyarthavāgidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಬೂದಿಯನ್ನು ಕೊಳದಲ್ಲಿ ಬಿಡುವುದರಿಂದ ಬದುಕು ಧನ್ಯವಾಗುವುದು ಹೇಗೆ? ವಿವರಿಸಿ.",
+      "translations": {
+        "en": "How does life become blessed by leaving ash in the pond? Explain.",
+        "hi": "तालाब में राख छोड़ने से जीवन कैसे धन्य होता है? समझाइए।"
+      },
+      "transliterations": {
+        "devanagari": "बूदियन्नु कॊळदल्लि बिडुवुदरिंद बदुकु धन्यवागुवुदु हेगॆ? विवरिसि.",
+        "latin": "būdiyannu kòḻadalli biḍuvudariṃda baduku dhanyavāguvudu hegè? vivarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಸಾರ್ಥಕ ಪದ್ಯದ ಯಾವ ಅಂಶಗಳನ್ನು ನೀವು ಮೆಚ್ಚುವಿರಿ?",
+      "translations": {
+        "en": "Which aspects of the poem Sarthaka do you admire?",
+        "hi": "सार्थक कविता के किन अंशों की आप प्रशंसा करते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "सार्थक पद्यद याव अंशगळन्नु नीवु मॆच्चुविरि?",
+        "latin": "sārthaka padyada yāva aṃśagaḻannu nīvu mèccuviri?"
+      },
+      "type": "question"
+    }
+  ]
+}

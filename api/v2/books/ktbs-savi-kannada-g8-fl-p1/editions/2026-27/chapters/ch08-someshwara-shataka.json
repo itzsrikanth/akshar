@@ -1,0 +1,856 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g8-fl-p1",
+    "chapterId": "ch08-someshwara-shataka",
+    "editionId": "2026-27",
+    "number": 8
+  },
+  "labels": {
+    "ashaya": {
+      "devanagari": "आशय",
+      "en": "Theme",
+      "hi": "आशय",
+      "kn": "ಆಶಯ",
+      "latin": "āśaya"
+    },
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions.",
+      "hi": "आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॊट्टिरुव प्रश्नॆगळिगॆ ऐदु-आरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Answer the following questions.",
+      "hi": "इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kòṭṭiruva praśnègaḻigè aidu-āru vākyagaḻalli uttarisi."
+    },
+    "exercise-D": {
+      "devanagari": "ई. संदर्भसहित स्वारस्यवन्नु विवरिसि.",
+      "en": "D. Answer the following questions.",
+      "hi": "ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಈ. ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ.",
+      "latin": "ī. saṃdarbhasahita svārasyavannu vivarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಪುಲಿಗೆರೆ ಸೋಮನಾಥ",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 8,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch08-someshwara-shataka",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸೋಮೇಶ್ವರ ಶತಕ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ ಶತಕ ಸಾಹಿತ್ಯ ವಿಶೇಷತೆಯಿಂದ ಕೂಡಿದ್ದು. ಈ ಪ್ರಕಾರದಲ್ಲಿ ಕೃತಿ ರಚನೆ ಮಾಡಿರುವ ಕವಿ ಸೋಮನಾಥ. ಈತನ ಕೃತಿ ಸೋಮೇಶ್ವರ ಶತಕವೆಂದೇ ಪ್ರಸಿದ್ಧಿಪಡೆದಿದೆ. ಸೋಮೇಶ್ವರ ಶತಕವು ಕನ್ನಡ ನಾಡಿನ ಜನಪದ ಕಾವ್ಯವೆಂಬಂತೆ ಜನಮನದಲ್ಲಿ ನೆಲೆಸಿರುವ ಕಾವ್ಯ. ನೀತಿ ಬೋಧಕವಾದ ಈ ಕಾವ್ಯವು ಇಂದಿಗೂ ಅನುಕರಣೀಯವಾದುದಾಗಿದೆ. “ಮಾತೃದೇವೋಭವ, ಪಿತೃದೇವೋಭವ, ಆಚಾರ್ಯ ದೇವೋಭವ” ಎಂಬುದು ನಮ್ಮೆಲ್ಲ ಧರ್ಮಗಳ ಮೂಲ ಮಂತ್ರ.",
+      "translations": {
+        "en": "In Kannada literary history, shataka literature is distinctive. The poet Somanatha composed Someshwara Shataka, which lives in people's minds like folk poetry. This didactic work is still worthy of imitation. 'Matru-devo bhava, pitru-devo bhava, acharya-devo bhava' is a root mantra of all our faiths.",
+        "hi": "कन्नड़ साहित्य इतिहास में शतक साहित्य विशेष है। सोमनाथ की कृति सोमेश्वर शतक जनमन में बसी है।"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड साहित्य चरित्रॆयल्लि शतक साहित्य विशेषतॆयिंद कूडिद्दु. ई प्रकारदल्लि कृति रचनॆ माडिरुव कवि सोमनाथ. ईतन कृति सोमेश्वर शतकवॆंदे प्रसिद्धिपडॆदिदॆ. सोमेश्वर शतकवु कन्नड नाडिन जनपद काव्यवॆंबंतॆ जनमनदल्लि नॆलॆसिरुव काव्य. नीति बोधकवाद ई काव्यवु इंदिगू अनुकरणीयवादुदागिदॆ. “मातृदेवोभव, पितृदेवोभव, आचार्य देवोभव” ऎंबुदु नम्मॆल्ल धर्मगळ मूल मंत्र.",
+        "latin": "kannaḍa sāhitya caritrèyalli śataka sāhitya viśeṣatèyiṃda kūḍiddu. ī prakāradalli kṛti racanè māḍiruva kavi somanātha. ītana kṛti someśvara śatakavèṃde prasiddhipaḍèdidè. someśvara śatakavu kannaḍa nāḍina janapada kāvyavèṃbaṃtè janamanadalli nèlèsiruva kāvya. nīti bodhakavāda ī kāvyavu iṃdigū anukaraṇīyavādudāgidè. “mātṛdevobhava, pitṛdevobhava, ācārya devobhava” èṃbudu nammèlla dharmagaḻa mūla maṃtra."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಇವರೆಲ್ಲರೂ ತಮ್ಮ ತಮ್ಮ ಕರ್ತವ್ಯಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ತಮ್ಮ ಜವಾಬ್ದಾರಿಗಳನ್ನು ಪ್ರಾಮಾಣಿಕವಾಗಿ ನಿಷ್ಠೆಯಿಂದ ಮಾಡಲೇಬೇಕು. ರಾಜ್ಯವಾಳುವ ರಾಜನಾಗಲಿ, ಮಂತ್ರಿಯಾಗಲಿ, ರಕ್ಷಕರಾದ ಭಟರಾಗಲಿ ಇದರಿಂದ ಹೊರತಾಗುವುದಿಲ್ಲ. ಈ ಕರ್ತವ್ಯ ಪ್ರಜ್ಞೆಯೇ ದೈವತ್ವದ ಸ್ಥಾನ-ಮಾನ ಪಡೆಯಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ದೈವದ ಅನುಗ್ರಹವು ಸ್ವಾಭಾವಿಕವಾಗಿ ಏನೆಲ್ಲ ಪರಿವರ್ತನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಮನೋಜ್ಞವಾಗಿ ಈ ಶತಕದಲ್ಲಿ ವಿವರಿಸಲಾಗಿರುವುದರಿಂದ ಇಂದಿಗೂ ಪ್ರಸ್ತುತವಾಗಿದೆ.",
+      "transliterations": {
+        "devanagari": "इवरॆल्लरू तम्म तम्म कर्तव्यगळिंद तप्पिसिकॊळ्ळलु साध्यविल्ल. प्रतियॊब्बरू तम्म तम्म जवाब्दारिगळन्नु प्रामाणिकवागि निष्ठॆयिंद माडलेबेकु. राज्यवाळुव राजनागलि, मंत्रियागलि, रक्षकराद भटरागलि इदरिंद हॊरतागुवुदिल्ल. ई कर्तव्य प्रज्ञॆये दैवत्वद स्थान-मान पडॆयलु साध्यवागुत्तदॆ. दैवद अनुग्रहवु स्वाभाविकवागि एनॆल्ल परिवर्तनॆगॆ कारणवागुत्तदॆ ऎंबुदन्नु मनोज्ञवागि ई शतकदल्लि विवरिसलागिरुवुदरिंद इंदिगू प्रस्तुतवागिदॆ.",
+        "latin": "ivarèllarū tamma tamma kartavyagaḻiṃda tappisikòḻḻalu sādhyavilla. pratiyòbbarū tamma tamma javābdārigaḻannu prāmāṇikavāgi niṣṭhèyiṃda māḍalebeku. rājyavāḻuva rājanāgali, maṃtriyāgali, rakṣakarāda bhaṭarāgali idariṃda hòratāguvudilla. ī kartavya prajñèye daivatvada sthāna-māna paḍèyalu sādhyavāguttadè. daivada anugrahavu svābhāvikavāgi enèlla parivartanègè kāraṇavāguttadè èṃbudannu manojñavāgi ī śatakadalli vivarisalāgiruvudariṃda iṃdigū prastutavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಹಿತವಂ ತೋರುವನಾತ್ಮಬಂಧು ಪೊರೆವಾತಂ ತಂದೆ ಸದ್ಧರ್ಮದಾ |",
+      "transliterations": {
+        "devanagari": "हितवं तोरुवनात्मबंधु पॊरॆवातं तंदॆ सद्धर्मदा |",
+        "latin": "hitavaṃ toruvanātmabaṃdhu pòrèvātaṃ taṃdè saddharmadā |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಸತಿಯೇ ಸರ್ವಕೆ ಸಾಧನಂ ಕಲಿಸಿದಾತಂ ವರ್ಣಮಾತ್ರಂ ಗುರು ||",
+      "transliterations": {
+        "devanagari": "सतिये सर्वकॆ साधनं कलिसिदातं वर्णमात्रं गुरु ||",
+        "latin": "satiye sarvakè sādhanaṃ kalisidātaṃ varṇamātraṃ guru ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಶ್ರುತಿಮಾರ್ಗಂ ಬಿಡದಾತ ಸುವ್ರತಿ ಮಹಾ ಸದ್ವಿದ್ಯೆಯೇ ಪುಣ್ಯದಂ |",
+      "transliterations": {
+        "devanagari": "श्रुतिमार्गं बिडदात सुव्रति महा सद्विद्यॆये पुण्यदं |",
+        "latin": "śrutimārgaṃ biḍadāta suvrati mahā sadvidyèye puṇyadaṃ |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಸುತನೇ ಸದ್ಗತಿದಾತನೈ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ ||",
+      "translations": {
+        "en": "The son who grants a good path — Hara Hara Shri Chennasomeshwara",
+        "hi": "सद्गति देने वाला पुत्र — हरहरा श्री चेन्नसोमेश्वर"
+      },
+      "transliterations": {
+        "devanagari": "सुतने सद्गतिदातनै हरहरा श्रीचॆन्नसोमेश्वरा ||",
+        "latin": "sutane sadgatidātanai haraharā śrīcènnasomeśvarā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಪ್ರಜೆಯಂ ಪಾಲಿಸಬಲ್ಲೊಡಾತನರಸಂ ಕೈಯಾಸೆಯಂ ಮಾಡದಂ |",
+      "transliterations": {
+        "devanagari": "प्रजॆयं पालिसबल्लॊडातनरसं कैयासॆयं माडदं |",
+        "latin": "prajèyaṃ pālisaballòḍātanarasaṃ kaiyāsèyaṃ māḍadaṃ |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಿಜ ಮಂತ್ರೀಶ್ವರ ತಂದೆ ತಾಯ ಸಲಹಲ್ ಬಲ್ಲಾತನೇ ಧಾರ್ಮಿಕಂ ||",
+      "transliterations": {
+        "devanagari": "निज मंत्रीश्वर तंदॆ ताय सलहल् बल्लातने धार्मिकं ||",
+        "latin": "nija maṃtrīśvara taṃdè tāya salahal ballātane dhārmikaṃ ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಭಜಕಂ ದೈವದ ಭಕ್ತಿಯುಳ್ಳೊಡೆ ಭಟಂ ನಿರ್ಭೀತ ತಾನಾದವಂ |",
+      "transliterations": {
+        "devanagari": "भजकं दैवद भक्तियुळ्ळॊडॆ भटं निर्भीत तानादवं |",
+        "latin": "bhajakaṃ daivada bhaktiyuḻḻòḍè bhaṭaṃ nirbhīta tānādavaṃ |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ದ್ವಿಜನಾಚಾರತೆಯುಳ್ಳವಂ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ||",
+      "transliterations": {
+        "devanagari": "द्विजनाचारतॆयुळ्ळवं हरहरा श्रीचॆन्नसोमेश्वरा||",
+        "latin": "dvijanācāratèyuḻḻavaṃ haraharā śrīcènnasomeśvarā||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಅತಿ ಗಂಭೀರನುದಾರ ಧೀರನು ಮಹಾ ಸಂಪನ್ನ ಸತ್ಯಾತ್ಮನೂ |",
+      "transliterations": {
+        "devanagari": "अति गंभीरनुदार धीरनु महा संपन्न सत्यात्मनू |",
+        "latin": "ati gaṃbhīranudāra dhīranu mahā saṃpanna satyātmanū |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ರ್ಜಿತ ನಾನಾಲಿಪಿಭಾಷೆಯೊಳ್ ಪರಿಚಿತಂ ಲಂಚಕ್ಕೆ ಕೈನೀಡದಂ ||",
+      "transliterations": {
+        "devanagari": "र्जित नानालिपिभाषॆयॊळ् परिचितं लंचक्कॆ कैनीडदं ||",
+        "latin": "rjita nānālipibhāṣèyòḻ paricitaṃ laṃcakkè kainīḍadaṃ ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ವ್ರತ ಸದ್ಧರ್ಮ ವಿಚಾರಶಾಲಿ ಚತುರೋಪಾಯಂಗಳಂ ಬಲ್ಲವಂ |",
+      "transliterations": {
+        "devanagari": "व्रत सद्धर्म विचारशालि चतुरोपायंगळं बल्लवं |",
+        "latin": "vrata saddharma vicāraśāli caturopāyaṃgaḻaṃ ballavaṃ |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಪತಿಕಾರ್ಯಂ ವರ ಮಂತ್ರಿಯೈ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ ||",
+      "transliterations": {
+        "devanagari": "पतिकार्यं वर मंत्रियै हरहरा श्रीचॆन्नसोमेश्वरा ||",
+        "latin": "patikāryaṃ vara maṃtriyai haraharā śrīcènnasomeśvarā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಉಡುರಾಜಂ ಕಳೆಗುಂದಿ ಪೆರ್ಚದಿಹನೇ ನೃಗ್ರೋಧಬೀಜಂ ಕೆಲಂ |",
+      "transliterations": {
+        "devanagari": "उडुराजं कळॆगुंदि पॆर्चदिहने नृग्रोधबीजं कॆलं |",
+        "latin": "uḍurājaṃ kaḻèguṃdi pèrcadihane nṛgrodhabījaṃ kèlaṃ |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಸಿಡಿದುಂ ಪೆರ್ಮರನಾಗದೇ ಎಳಗರುಂ ಎತ್ತಾಗದೇ ಲೋಕದೊಳ್ ||",
+      "transliterations": {
+        "devanagari": "सिडिदुं पॆर्मरनागदे ऎळगरुं ऎत्तागदे लोकदॊळ् ||",
+        "latin": "siḍiduṃ pèrmaranāgade èḻagaruṃ èttāgade lokadòḻ ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮಿಡಿ ಪಣ್ಣಾಗದೆ ದೈವನೊಲ್ಮೆಯಿರಲಾ ಕಾಲಾನುಕಾಲಕ್ಕೆ ತಾಂ |",
+      "transliterations": {
+        "devanagari": "मिडि पण्णागदॆ दैवनॊल्मॆयिरला कालानुकालक्कॆ तां |",
+        "latin": "miḍi paṇṇāgadè daivanòlmèyiralā kālānukālakkè tāṃ |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಬಡವಂ ಬಲ್ಲಿದನಾಗನೇ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ ||",
+      "transliterations": {
+        "devanagari": "बडवं बल्लिदनागने हरहरा श्रीचॆन्नसोमेश्वरा ||",
+        "latin": "baḍavaṃ ballidanāgane haraharā śrīcènnasomeśvarā ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಪುಲಿಗೆರೆ ಸೋಮನಾಥ ಸಾ.ಶ. ಸುಮಾರು 1299ರಲ್ಲಿ ಧಾರವಾಡ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಪುಲಿಗೆರೆಯವನು. ಪುಲಿಗೆರೆ ಸೋಮನಾಥನೆಂದೇ ಪ್ರಸಿದ್ಧಿ. ಕನ್ನಡ, ಸಂಸ್ಕೃತ ಭಾಷಾಪಂಡಿತನಾದ ಈತನ ಅಂಕಿತ ಹರಹರಾ ಶ್ರೀ ಚನ್ನಸೋಮೇಶ್ವರಾ. ಕನ್ನಡ ರತ್ನಕರಂಡಕ ಕಾವ್ಯವನ್ನು ಚಂಪುವಿನಲ್ಲಿಯೂ ಸೋಮೇಶ್ವರ ಶತಕವನ್ನು ವೃತ್ತ ಛಂದಸ್ಸಿನಲ್ಲಿಯೂ ರಚಿಸಿದ್ದಾನೆ. ಪ್ರಕೃತ ಚೌಪದಿಗಳನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಸಂಪಾದಿಸಿರುವ ಸೋಮೇಶ್ವರ ಶತಕ ಕೃತಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಲಾಗಿದೆ.",
+      "transliterations": {
+        "devanagari": "पुलिगॆरॆ सोमनाथ सा.श. सुमारु 1299रल्लि धारवाड जिल्लॆय शिरहट्टि ताल्लूकिन पुलिगॆरॆयवनु. पुलिगॆरॆ सोमनाथनॆंदे प्रसिद्धि. कन्नड, संस्कृत भाषापंडितनाद ईतन अंकित हरहरा श्री चन्नसोमेश्वरा. कन्नड रत्नकरंडक काव्यवन्नु चंपुविनल्लियू सोमेश्वर शतकवन्नु वृत्त छंदस्सिनल्लियू रचिसिद्दानॆ. प्रकृत चौपदिगळन्नु कन्नड साहित्य परिषत्तु संपादिसिरुव सोमेश्वर शतक कृतियिंद आय्कॆमाडिकॊळ्ळलागिदॆ.",
+        "latin": "puligèrè somanātha sā.śa. sumāru 1299ralli dhāravāḍa jillèya śirahaṭṭi tāllūkina puligèrèyavanu. puligèrè somanāthanèṃde prasiddhi. kannaḍa, saṃskṛta bhāṣāpaṃḍitanāda ītana aṃkita haraharā śrī cannasomeśvarā. kannaḍa ratnakaraṃḍaka kāvyavannu caṃpuvinalliyū someśvara śatakavannu vṛtta chaṃdassinalliyū racisiddānè. prakṛta caupadigaḻannu kannaḍa sāhitya pariṣattu saṃpādisiruva someśvara śataka kṛtiyiṃda āykèmāḍikòḻḻalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ashaya-1",
+      "section": "ashaya",
+      "text": "ಸಮಾಜದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾದ ತಂದೆ, ತಾಯಿ, ಮಗ, ಪತ್ನಿ, ಗುರುಗಳ ಜವಾಬ್ದಾರಿಗಳನ್ನು, ದ್ವಿಜ, ರಾಜ, ಮಂತ್ರಿ, ಭಟ ಮೊದಲಾದವರ ಕರ್ತವ್ಯಗಳನ್ನು ಈ ನೀತಿ ಶತಕದಲ್ಲಿ ಮಾರ್ಮಿಕವಾಗಿ ಹೇಳಲಾಗಿದೆ. ನಿಜವಾದ ಮಂತ್ರಿಗೆ ಇರಬೇಕಾದ ಲಕ್ಷಣ, ದೇವರ ಅನುಗ್ರಹದಿಂದ ಕಾಲಾನುಕ್ರಮದಲ್ಲಿ ಸ್ವಾಭಾವಿಕವಾಗಿ ಆಗುವ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆಯೂ ವಿವರಿಸಲಾಗಿದೆ. ಈ ಮೂಲಕ ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ತಮ್ಮ ಜವಾಬ್ದಾರಿಗಳನ್ನರಿತಾಗ ಸುಖೀಸಮಾಜದ ನಿರ್ಮಾಣವಾಗುತ್ತದೆಂಬುದು ಈ ನೀತಿ ಶತಕದ ಆಶಯ.",
+      "transliterations": {
+        "devanagari": "समाजद अविभाज्य अंगवाद तंदॆ, तायि, मग, पत्नि, गुरुगळ जवाब्दारिगळन्नु, द्विज, राज, मंत्रि, भट मॊदलादवर कर्तव्यगळन्नु ई नीति शतकदल्लि मार्मिकवागि हेळलागिदॆ. निजवाद मंत्रिगॆ इरबेकाद लक्षण, देवर अनुग्रहदिंद कालानुक्रमदल्लि स्वाभाविकवागि आगुव बदलावणॆगळ बग्गॆयू विवरिसलागिदॆ. ई मूलक प्रतियॊब्बरू तम्म तम्म जवाब्दारिगळन्नरिताग सुखीसमाजद निर्माणवागुत्तदॆंबुदु ई नीति शतकद आशय.",
+        "latin": "samājada avibhājya aṃgavāda taṃdè, tāyi, maga, patni, gurugaḻa javābdārigaḻannu, dvija, rāja, maṃtri, bhaṭa mòdalādavara kartavyagaḻannu ī nīti śatakadalli mārmikavāgi heḻalāgidè. nijavāda maṃtrigè irabekāda lakṣaṇa, devara anugrahadiṃda kālānukramadalli svābhāvikavāgi āguva badalāvaṇègaḻa baggèyū vivarisalāgidè. ī mūlaka pratiyòbbarū tamma tamma javābdārigaḻannaritāga sukhīsamājada nirmāṇavāguttadèṃbudu ī nīti śatakada āśaya."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-atma",
+      "text": "ಆತ್ಮ",
+      "transliterations": {
+        "devanagari": "आत्म",
+        "latin": "ātma"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-atma-def",
+      "text": "ತನ್ನ",
+      "transliterations": {
+        "devanagari": "तन्न",
+        "latin": "tanna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-uduraja",
+      "text": "ಉಡುರಾಜ",
+      "transliterations": {
+        "devanagari": "उडुराज",
+        "latin": "uḍurāja"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-uduraja-def",
+      "text": "ನಕ್ಷತ್ರಾಧಿಪತಿ, ಚಂದ್ರ",
+      "transliterations": {
+        "devanagari": "नक्षत्राधिपति, चंद्र",
+        "latin": "nakṣatrādhipati, caṃdra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-urjita",
+      "text": "ಊರ್ಜಿತ",
+      "transliterations": {
+        "devanagari": "ऊर्जित",
+        "latin": "ūrjita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-urjita-def",
+      "text": "ರೂಢಿಯಲ್ಲಿರುವ",
+      "transliterations": {
+        "devanagari": "रूढियल्लिरुव",
+        "latin": "rūḍhiyalliruva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-olme",
+      "text": "ಒಲ್ಮೆ",
+      "transliterations": {
+        "devanagari": "ऒल्मॆ",
+        "latin": "òlmè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-olme-def",
+      "text": "ಪ್ರೀತಿ",
+      "transliterations": {
+        "devanagari": "प्रीति",
+        "latin": "prīti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kele",
+      "text": "ಕೆಲ",
+      "transliterations": {
+        "devanagari": "कॆल",
+        "latin": "kèla"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kele-def",
+      "text": "ಕೆಲವು",
+      "transliterations": {
+        "devanagari": "कॆलवु",
+        "latin": "kèlavu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kaiyase",
+      "text": "ಕೈಯಾಸೆ",
+      "transliterations": {
+        "devanagari": "कैयासॆ",
+        "latin": "kaiyāsè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaiyase-def",
+      "text": "ಲಂಚ, ಆಮಿಷ",
+      "transliterations": {
+        "devanagari": "लंच, आमिष",
+        "latin": "laṃca, āmiṣa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chaturopaya",
+      "text": "ಚತುರೋಪಾಯ",
+      "transliterations": {
+        "devanagari": "चतुरोपाय",
+        "latin": "caturopāya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chaturopaya-def",
+      "text": "ಸಾಮ, ದಾನ ಮೊದಲಾದ ಉಪಾಯಗಳು",
+      "transliterations": {
+        "devanagari": "साम, दान मॊदलाद उपायगळु",
+        "latin": "sāma, dāna mòdalāda upāyagaḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dvija",
+      "text": "ದ್ವಿಜ",
+      "transliterations": {
+        "devanagari": "द्विज",
+        "latin": "dvija"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dvija-def",
+      "text": "ಬ್ರಾಹ್ಮಣ",
+      "transliterations": {
+        "devanagari": "ब्राह्मण",
+        "latin": "brāhmaṇa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nrugrodha",
+      "text": "ನೃಗ್ರೋಧ",
+      "transliterations": {
+        "devanagari": "नृग्रोध",
+        "latin": "nṛgrodha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nrugrodha-def",
+      "text": "ಆಲದಮರ",
+      "transliterations": {
+        "devanagari": "आलदमर",
+        "latin": "āladamara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-patikarya",
+      "text": "ಪತಿಕಾರ್ಯ",
+      "transliterations": {
+        "devanagari": "पतिकार्य",
+        "latin": "patikārya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-patikarya-def",
+      "text": "ಸ್ವಾಮಿಕಾರ್ಯ",
+      "transliterations": {
+        "devanagari": "स्वामिकार्य",
+        "latin": "svāmikārya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-palisu",
+      "text": "ಪಾಲಿಸು",
+      "transliterations": {
+        "devanagari": "पालिसु",
+        "latin": "pālisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-palisu-def",
+      "text": "ಕಾಪಾಡು, ಸಲಹು",
+      "transliterations": {
+        "devanagari": "कापाडु, सलहु",
+        "latin": "kāpāḍu, salahu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-perchu",
+      "text": "ಪೆರ್ಚು",
+      "transliterations": {
+        "devanagari": "पॆर्चु",
+        "latin": "pèrcu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-perchu-def",
+      "text": "ಹೆಚ್ಚು, ವೃದ್ಧಿಸು",
+      "transliterations": {
+        "devanagari": "हॆच्चु, वृद्धिसु",
+        "latin": "hèccu, vṛddhisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-permera",
+      "text": "ಪೆರ್ಮರ",
+      "transliterations": {
+        "devanagari": "पॆर्मर",
+        "latin": "pèrmara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-permera-def",
+      "text": "ದೊಡ್ಡಮರ",
+      "transliterations": {
+        "devanagari": "दॊड्डमर",
+        "latin": "dòḍḍamara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pore",
+      "text": "ಪೊರೆ",
+      "transliterations": {
+        "devanagari": "पॊरॆ",
+        "latin": "pòrè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pore-def",
+      "text": "ಕಾಪಾಡು",
+      "transliterations": {
+        "devanagari": "कापाडु",
+        "latin": "kāpāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ballida",
+      "text": "ಬಲ್ಲಿದ",
+      "transliterations": {
+        "devanagari": "बल्लिद",
+        "latin": "ballida"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ballida-def",
+      "text": "ಬಲಿಷ್ಠ, ಹಣವಂತ",
+      "transliterations": {
+        "devanagari": "बलिष्ठ, हणवंत",
+        "latin": "baliṣṭha, haṇavaṃta"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhajaka",
+      "text": "ಭಜಕ",
+      "transliterations": {
+        "devanagari": "भजक",
+        "latin": "bhajaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhajaka-def",
+      "text": "ಪೂಜಿಸುವವನು",
+      "transliterations": {
+        "devanagari": "पूजिसुववनु",
+        "latin": "pūjisuvavanu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhata",
+      "text": "ಭಟ",
+      "transliterations": {
+        "devanagari": "भट",
+        "latin": "bhaṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhata-def",
+      "text": "ಸೈನಿಕ",
+      "transliterations": {
+        "devanagari": "सैनिक",
+        "latin": "sainika"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-midi",
+      "text": "ಮಿಡಿ",
+      "transliterations": {
+        "devanagari": "मिडि",
+        "latin": "miḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-midi-def",
+      "text": "ಹೀಚು",
+      "transliterations": {
+        "devanagari": "हीचु",
+        "latin": "hīcu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-varna",
+      "text": "ವರ್ಣ",
+      "transliterations": {
+        "devanagari": "वर्ण",
+        "latin": "varṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-varna-def",
+      "text": "ಅಕ್ಷರ",
+      "transliterations": {
+        "devanagari": "अक्षर",
+        "latin": "akṣara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vrati",
+      "text": "ವ್ರತಿ",
+      "transliterations": {
+        "devanagari": "व्रति",
+        "latin": "vrati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vrati-def",
+      "text": "ನಿಯಮವುಳ್ಳವನು",
+      "transliterations": {
+        "devanagari": "नियमवुळ्ळवनु",
+        "latin": "niyamavuḻḻavanu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-shruti",
+      "text": "ಶ್ರುತಿ",
+      "transliterations": {
+        "devanagari": "श्रुति",
+        "latin": "śruti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shruti-def",
+      "text": "ವೇದ",
+      "transliterations": {
+        "devanagari": "वेद",
+        "latin": "veda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sampanna",
+      "text": "ಸಂಪನ್ನ",
+      "transliterations": {
+        "devanagari": "संपन्न",
+        "latin": "saṃpanna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sampanna-def",
+      "text": "ಗುಣಶಾಲಿ",
+      "transliterations": {
+        "devanagari": "गुणशालि",
+        "latin": "guṇaśāli"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sadhana",
+      "text": "ಸಾಧನ",
+      "transliterations": {
+        "devanagari": "साधन",
+        "latin": "sādhana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sadhana-def",
+      "text": "ಸಹಾಯ",
+      "transliterations": {
+        "devanagari": "सहाय",
+        "latin": "sahāya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ನಿಜವಾದ ಬಂಧು ಯಾರು?",
+      "translations": {
+        "en": "Who is a true relative?",
+        "hi": "सच्चा बंधु कौन है?"
+      },
+      "transliterations": {
+        "devanagari": "निजवाद बंधु यारु?",
+        "latin": "nijavāda baṃdhu yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಧಾರ್ಮಿಕನೆಂದು ಯಾರನ್ನು ಕರೆಯಲಾಗಿದೆ?",
+      "transliterations": {
+        "devanagari": "धार्मिकनॆंदु यारन्नु करॆयलागिदॆ?",
+        "latin": "dhārmikanèṃdu yārannu karèyalāgidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ರಾಜನಾದವನ ಕರ್ತವ್ಯವೇನು?",
+      "transliterations": {
+        "devanagari": "राजनादवन कर्तव्यवेनु?",
+        "latin": "rājanādavana kartavyavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಆಲದ ಮರದ ಬೀಜ ಸಿಡಿದು ಭೂಮಿಗೆ ಬಿದ್ದು ಏನಾಗುತ್ತದೆ?",
+      "transliterations": {
+        "devanagari": "आलद मरद बीज सिडिदु भूमिगॆ बिद्दु एनागुत्तदॆ?",
+        "latin": "ālada marada bīja siḍidu bhūmigè biddu enāguttadè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಪುಲಿಗೆರೆ ಸೋಮನಾಥನ ಅಂಕಿತನಾಮವೇನು?",
+      "translations": {
+        "en": "What is Puligere Somanatha's ankita?",
+        "hi": "पुलिगेरे सोमनाथ का अंकितनाम क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "पुलिगॆरॆ सोमनाथन अंकितनामवेनु?",
+        "latin": "puligèrè somanāthana aṃkitanāmavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಸುವ್ರತಿ ಹಾಗೂ ಸುತನ ಬಗೆಗೆ ಕವಿ ಏನು ಹೇಳಿದ್ದಾನೆ?",
+      "transliterations": {
+        "devanagari": "सुव्रति हागू सुतन बगॆगॆ कवि एनु हेळिद्दानॆ?",
+        "latin": "suvrati hāgū sutana bagègè kavi enu heḻiddānè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಭಟ ಮತ್ತು ದ್ವಿಜರ ಲಕ್ಷಣಗಳೇನು?",
+      "transliterations": {
+        "devanagari": "भट मत्तु द्विजर लक्षणगळेनु?",
+        "latin": "bhaṭa mattu dvijara lakṣaṇagaḻenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಶ್ರೇಷ್ಠ ಮಂತ್ರಿಯಲ್ಲಿರಬೇಕಾದ ಲಕ್ಷಣಗಳೇನು?",
+      "transliterations": {
+        "devanagari": "श्रेष्ठ मंत्रियल्लिरबेकाद लक्षणगळेनु?",
+        "latin": "śreṣṭha maṃtriyallirabekāda lakṣaṇagaḻenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಬಡವ ಬಲ್ಲಿದನಾಗುವನು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡಿರುವ ನಿದರ್ಶನಗಳಾವುವು?",
+      "transliterations": {
+        "devanagari": "बडव बल्लिदनागुवनु ऎंबुदक्कॆ कवि नीडिरुव निदर्शनगळावुवु?",
+        "latin": "baḍava ballidanāguvanu èṃbudakkè kavi nīḍiruva nidarśanagaḻāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "“ಸದ್ಧರ್ಮದಾ ಸತಿಯೇ ಸರ್ವಕೆ ಸಾಧನಂ”",
+      "transliterations": {
+        "devanagari": "“सद्धर्मदा सतिये सर्वकॆ साधनं”",
+        "latin": "“saddharmadā satiye sarvakè sādhanaṃ”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "“ಅತಿ ಗಂಭೀರನುದಾರ ಧೀರನು”",
+      "transliterations": {
+        "devanagari": "“अति गंभीरनुदार धीरनु”",
+        "latin": "“ati gaṃbhīranudāra dhīranu”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "“ಉಡುರಾಜಂ ಕಳೆಗುಂದಿ ಪೆರ್ಚದಿಹನೇ”",
+      "transliterations": {
+        "devanagari": "“उडुराजं कळॆगुंदि पॆर्चदिहने”",
+        "latin": "“uḍurājaṃ kaḻèguṃdi pèrcadihane”"
+      },
+      "type": "question"
+    }
+  ]
+}

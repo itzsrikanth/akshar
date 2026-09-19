@@ -1,0 +1,1563 @@
+{
+  "labels": {
+    "author_intro": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the authors",
+      "hi": "कृतिकारों का परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kr̥tikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions in one sentence.",
+      "hi": "अ. निम्नलिखित प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige ondu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. केळगिन प्रश्नेगळिगे एरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions in two or three sentences.",
+      "hi": "आ. निम्नलिखित प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. यारु, यारिगे हेळिदरु?",
+      "en": "C. Who said it, and to whom?",
+      "hi": "इ. किसने, किसे कहा?",
+      "kn": "ಇ. ಯಾರು, ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "latin": "i. yāru, yārige hēḷidaru?"
+    },
+    "exercise-D": {
+      "devanagari": "ई. होंदिसि बरेयिरि.",
+      "en": "D. Match and write.",
+      "hi": "ई. मिलाकर लिखिए।",
+      "kn": "ಈ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "ī. hondisi bareyiri."
+    },
+    "exercise-E": {
+      "devanagari": "उ. बिट्ट स्थळगळन्नु तुंबिरि.",
+      "en": "U. Fill in the blanks.",
+      "hi": "उ. रिक्त स्थान भरिए।",
+      "kn": "ಉ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.",
+      "latin": "u. biṭṭa sthaḷagaḷannu tumbiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige uttarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "आ. ओदिगे मन्नणे",
+      "en": "B. Recognition for reading",
+      "hi": "आ. पढ़ने की मान्यता",
+      "kn": "ಆ. ಓದಿಗೆ ಮನ್ನಣೆ",
+      "latin": "ā. ōdige mannaṇe"
+    },
+    "language-exercise-B": {
+      "devanagari": "इ. शुभनुडि",
+      "en": "C. Good sayings",
+      "hi": "इ. शुभ वचन",
+      "kn": "ಇ. ಶುಭನುಡಿ",
+      "latin": "i. śubhanuḍi"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಬಸವಣ್ಣ, ಅಂಬಿಗರ ಚೌಡಯ್ಯ, ಅಕ್ಕಮಹಾದೇವಿ, ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ",
+    "board": "KSEEB",
+    "chapter": 7,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch07-vachanagalu",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ವಚನಗಳು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಜೀವನದಲ್ಲಿ ದೇವರನ್ನು ಕಾಣಲು ಅಂತರಂಗಶುದ್ಧಿ ಬಹಳ ಮುಖ್ಯ. ಅನ್ಯ ಚಿಂತೆಗಿಂತ ದೇವರನ್ನು ಕಾಣಬೇಕು ಎಂಬ ಚಿಂತೆ ಮುಖ್ಯ. ಜೀವನದಲ್ಲಿ ಸ್ತುತಿ-ನಿಂದೆಗಳು ಬಂದಾಗ ಮನದಲ್ಲಿ ಕೋಪ ಮಾಡಿಕೊಳ್ಳದೆ ಸಮಾಧಾನಿಯಾಗಿರುವುದು ಮುಖ್ಯ. ಮಾನವನು ನಿರಹಂಕಾರಿಯಾಗಿ ನುಡಿಗೆ ತಕ್ಕ ನಡೆಯುಳ್ಳವರಾಗಿ, ದಾನಿಗಳಾಗಿ ಇರುವುದು ಮುಖ್ಯ ಎಂಬುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "To see God in life, purity of the inner self is very important. The thought of seeing God matters more than other worries. When praise and blame come in life, it is important to stay calm without anger in the mind. That humans should be free of ego, match speech with conduct, and be generous—this is the aim here.",
+        "hi": "जीवन में ईश्वर को देखने के लिए अंतरंग शुद्धि बहुत महत्वपूर्ण है। अन्य चिंताओं से अधिक ईश्वर को देखना चाहिए—यह चिंता मुख्य है। जीवन में स्तुति-निंदा आने पर मन में क्रोध न कर शांत रहना महत्वपूर्ण है। मनुष्य निरहंकारी होकर वचन के अनुरूप आचरण वाला और दानी बने—यही यहाँ का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "जीवनदल्लि देवरन्नु काणलु अंतरंगशुद्धि बहळ मुख्य. अन्य चिंतेगिंत देवरन्नु काणबेकु एंब चिंते मुख्य. जीवनदल्लि स्तुति-निंदेगळु बंदाग मनदल्लि कोप माडिकोळ्ळदे समाधानियागिरुवुदु मुख्य. मानवनु निरहंकारियागि नुडिगे तक्क नडेयुळ्ळवरागि, दानिगळागि इरुवुदु मुख्य एंबुदु इल्लिन आशयवागिदे.",
+        "latin": "jīvanadalli dēvarannu kāṇalu antaraṅgaśuddhi bahaḷa mukhya. anya cinteginta dēvarannu kāṇabēku emba cinte mukhya. jīvanadalli stuti-nindegaḷu bandāga manadalli kōpa māḍikoḷḷade samādhāniyāgiruvudu mukhya. mānavanu nirahaṅkāriyāgi nuḍige takka naḍeyuḷḷavarāgi, dānigaḷāgi iruvudu mukhya embudu illina āśayavāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಕಳಬೇಡ, ಕೊಲಬೇಡ, ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ,",
+      "translations": {
+        "en": "Do not steal, do not kill, do not speak falsehood,",
+        "hi": "चोरी मत करो, हत्या मत करो, झूठ मत बोलो,"
+      },
+      "transliterations": {
+        "devanagari": "कळबेड, कोलबेड, हुसिय नुडियलु बेड,",
+        "latin": "kaḷabēḍa, kolabēḍa, husiya nuḍiyalu bēḍa,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಮುನಿಯಬೇಡ, ಅನ್ಯರಿಗೆ ಅಸಹ್ಯಪಡಬೇಡ,",
+      "translations": {
+        "en": "Do not get angry, do not feel disgust toward others,",
+        "hi": "क्रोध मत करो, दूसरों से घृणा मत करो,"
+      },
+      "transliterations": {
+        "devanagari": "मुनियबेड, अन्यरिगे असह्यपडबेड,",
+        "latin": "muniyabēḍa, anyarige asahyapaḍabēḍa,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ತನ್ನ ಬಣ್ಣಿಸಬೇಡ, ಇದಿರ ಹಳಿಯಲು ಬೇಡ,",
+      "translations": {
+        "en": "Do not praise yourself, do not abuse the other,",
+        "hi": "अपनी प्रशंसा मत करो, सामने वाले की निंदा मत करो,"
+      },
+      "transliterations": {
+        "devanagari": "तन्न बण्णिसबेड, इदिर हळियलु बेड,",
+        "latin": "tanna baṇṇisabēḍa, idira haḷiyalu bēḍa,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಇದೇ ಅಂತರಂಗಶುದ್ಧಿ; ಇದೇ ಬಹಿರಂಗಶುದ್ಧಿ;",
+      "translations": {
+        "en": "This alone is inner purity; this alone is outer purity;",
+        "hi": "यही अंतरंग शुद्धि; यही बहिरंग शुद्धि;"
+      },
+      "transliterations": {
+        "devanagari": "इदे अंतरंगशुद्धि; इदे बहिरंगशुद्धि;",
+        "latin": "idē antaraṅgaśuddhi; idē bahiraṅgaśuddhi;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "stanza": 1,
+      "text": "ಇದೇ ನಮ್ಮ ಕೂಡಲ ಸಂಗಮದೇವನೊಲಿಸುವ ಪರಿ.",
+      "translations": {
+        "en": "This alone is the way to please our Kudalasangama Deva.",
+        "hi": "यही हमारे कूडलसंगमदेव को प्रसन्न करने का मार्ग।"
+      },
+      "transliterations": {
+        "devanagari": "इदे नम्म कूडल संगमदेवनोलिसुव परि.",
+        "latin": "idē namma kūḍala saṅgamadēvanolisuva pari."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l6",
+      "stanza": 1,
+      "text": "- ಬಸವಣ್ಣ",
+      "translations": {
+        "en": "— Basavanna",
+        "hi": "— बसवन्ना"
+      },
+      "transliterations": {
+        "devanagari": "- बसवण्ण",
+        "latin": "- basavaṇṇa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಬಡತನಕ್ಕೆ ಉಂಬುವ ಚಿಂತೆ, ಉಣಲಾದರೆ ಉಡುವ ಚಿಂತೆ,",
+      "translations": {
+        "en": "For poverty, worry of food; if fed, worry of clothes,",
+        "hi": "गरीबी में खाने की चिंता, खा लिया तो पहनने की चिंता,"
+      },
+      "transliterations": {
+        "devanagari": "बडतनक्के उंबुव चिंते, उणलादरे उडुव चिंते,",
+        "latin": "baḍatanakke umbuva cinte, uṇalādare uḍuva cinte,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಉಡಲಾದರೆ ಇಡುವ ಚಿಂತೆ, ಇಡಲಾದರೆ ಹೆಂಡಿರ ಚಿಂತೆ,",
+      "translations": {
+        "en": "If clothed, worry of storing; if stored, worry of wife,",
+        "hi": "पहन लिया तो रखने की चिंता, रख लिया तो पत्नी की चिंता,"
+      },
+      "transliterations": {
+        "devanagari": "उडलादरे इडुव चिंते, इडलादरे हेंडिर चिंते,",
+        "latin": "uḍalādare iḍuva cinte, iḍalādare heṇḍira cinte,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಹೆಂಡಿರಾದರೆ ಮಕ್ಕಳ ಚಿಂತೆ, ಮಕ್ಕಳಾದರೆ ಬದುಕಿನ ಚಿಂತೆ,",
+      "translations": {
+        "en": "If wife, worry of children; if children, worry of life,",
+        "hi": "पत्नी हो तो बच्चों की चिंता, बच्चे हों तो जीवन की चिंता,"
+      },
+      "transliterations": {
+        "devanagari": "हेंडिरादरे मक्कळ चिंते, मक्कळादरे बदुकिन चिंते,",
+        "latin": "heṇḍirādare makkaḷa cinte, makkaḷādare badukina cinte,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಬದುಕಾದರೆ ಕೇಡಿನ ಚಿಂತೆ, ಕೇಡಾದರೆ ಮರಣದ ಚಿಂತೆ,",
+      "translations": {
+        "en": "If life, worry of harm; if harm, worry of death,",
+        "hi": "जीवन हो तो अनिष्ट की चिंता, अनिष्ट हो तो मृत्यु की चिंता,"
+      },
+      "transliterations": {
+        "devanagari": "बदुकादरे केडिन चिंते, केडादरे मरणद चिंते,",
+        "latin": "badukādare kēḍina cinte, kēḍādare maraṇada cinte,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "stanza": 2,
+      "text": "ಇಂತೀ ಹಲವು ಚಿಂತೆಯಲಿ ಇಪ್ಪವರನು ಕಂಡೆನು.",
+      "translations": {
+        "en": "I have seen people in so many such worries.",
+        "hi": "ऐसी अनेक चिंताओं में रहने वालों को मैंने देखा।"
+      },
+      "transliterations": {
+        "devanagari": "इंती हलवु चिंतेयलि इप्पवरनु कंडेनु.",
+        "latin": "intī halavu cinteyali ippavaranu kaṇḍenu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "stanza": 2,
+      "text": "ಶಿವನ ಚಿಂತೆಯಲಿದ್ದವರೊಬ್ಬರನು ಕಾಣೆನೆಂದಾತ",
+      "translations": {
+        "en": "I have not seen even one who stayed in thought of Shiva, said he,",
+        "hi": "शिव की चिंता में रहने वाला एक भी नहीं देखा, कहा उसने,"
+      },
+      "transliterations": {
+        "devanagari": "शिवन चिंतेयलिद्दवरोब्बरनु काणेनेंदात",
+        "latin": "śivana cinteyaliddavarobbaranu kāṇenendāta"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l7",
+      "stanza": 2,
+      "text": "ನಮ್ಮ ಅಂಬಿಗರ ಚೌಡಯ್ಯ ನಿಜಶರಣ.",
+      "translations": {
+        "en": "Our boatman Chaudayya is a true sharana.",
+        "hi": "हमारे अम्बिगर चौडय्या सच्चे शरण हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म अंबिगर चौडय्य निजशरण.",
+        "latin": "namma ambigara cauḍayya nijaśaraṇa."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l8",
+      "stanza": 2,
+      "text": "- ಅಂಬಿಗರ ಚೌಡಯ್ಯ",
+      "translations": {
+        "en": "— Ambiga Chaudayya",
+        "hi": "— अम्बिगर चौडय्या"
+      },
+      "transliterations": {
+        "devanagari": "- अंबिगर चौडय्य",
+        "latin": "- ambigara cauḍayya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಬೆಟ್ಟದ ಮೇಲೊಂದು ಮನೆಯ ಮಾಡಿ,",
+      "translations": {
+        "en": "If you build a house on a hill,",
+        "hi": "पहाड़ पर घर बनाकर,"
+      },
+      "transliterations": {
+        "devanagari": "बेट्टद मेलोंदु मनेय माडि,",
+        "latin": "beṭṭada mēlondu maneya māḍi,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಮೃಗಗಳಿಗಂಜಿದಡೆಂತಯ್ಯಾ?",
+      "translations": {
+        "en": "and fear the beasts—then what, O Lord?",
+        "hi": "यदि पशुओं से डरें तो क्या, हे स्वामी?"
+      },
+      "transliterations": {
+        "devanagari": "मृगगळिगंजिदडेंतय्या?",
+        "latin": "mr̥gagaḷigañjidaḍentayyā?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಸಮುದ್ರದ ತಡಿಯಲೊಂದು ಮನೆಯ ಮಾಡಿ,",
+      "translations": {
+        "en": "If you build a house by the sea shore,",
+        "hi": "समुद्र तट पर घर बनाकर,"
+      },
+      "transliterations": {
+        "devanagari": "समुद्रद तडियलोंदु मनेय माडि,",
+        "latin": "samudrada taḍiyalondu maneya māḍi,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ನೊರೆತೆರೆಗಳಿಗಂಜಿದಡೆಂತಯ್ಯಾ?",
+      "translations": {
+        "en": "and fear the foaming waves—then what, O Lord?",
+        "hi": "यदि झाग वाली लहरों से डरें तो क्या, हे स्वामी?"
+      },
+      "transliterations": {
+        "devanagari": "नोरेतेरेगळिगंजिदडेंतय्या?",
+        "latin": "noreteregaḷigañjidaḍentayyā?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "stanza": 3,
+      "text": "ಸಂತೆಯೊಳಗೊಂದು ಮನೆಯ ಮಾಡಿ,",
+      "translations": {
+        "en": "If you build a house in the market,",
+        "hi": "बाजार में घर बनाकर,"
+      },
+      "transliterations": {
+        "devanagari": "संतेयोळगोंदु मनेय माडि,",
+        "latin": "santeyoḷagondu maneya māḍi,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l6",
+      "stanza": 3,
+      "text": "ಶಬ್ದಕ್ಕೆ ನಾಚಿದಡೆಂತಯ್ಯಾ?",
+      "translations": {
+        "en": "and feel shy of noise—then what, O Lord?",
+        "hi": "यदि शोर से लजाएँ तो क्या, हे स्वामी?"
+      },
+      "transliterations": {
+        "devanagari": "शब्दक्के नाचिदडेंतय्या?",
+        "latin": "śabdakke nācidaḍentayyā?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l7",
+      "stanza": 3,
+      "text": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ ದೇವ ಕೇಳಯ್ಯಾ,",
+      "translations": {
+        "en": "Listen, O Chennamallikarjuna Deva,",
+        "hi": "सुनो, हे चेन्नमल्लिकार्जुन देव,"
+      },
+      "transliterations": {
+        "devanagari": "चेन्नमल्लिकार्जुन देव केळय्या,",
+        "latin": "cennamallikārjuna dēva kēḷayyā,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l8",
+      "stanza": 3,
+      "text": "ಲೋಕದೊಳಗೆ ಹುಟ್ಟಿದ ಬಳಿಕ ಸ್ತುತಿನಿಂದೆಗಳು ಬಂದಡೆ",
+      "translations": {
+        "en": "After being born in the world, when praise and blame come,",
+        "hi": "संसार में जन्म लेने के बाद स्तुति-निंदा आएँ"
+      },
+      "transliterations": {
+        "devanagari": "लोकदोळगे हुट्टिद बळिक स्तुतिनिंदेगळु बंदडे",
+        "latin": "lōkadoḷage huṭṭida baḷika stutinindegaḷu bandaḍe"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l9",
+      "stanza": 3,
+      "text": "ಮನದಲ್ಲಿ ಕೋಪವ ತಾಳದೆ ಸಮಾಧಾನಿಯಾಗಿರಬೇಕು.",
+      "translations": {
+        "en": "one must stay calm without harbouring anger in the mind.",
+        "hi": "तो मन में क्रोध न पालकर शांत रहना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "मनदल्लि कोपव ताळदे समाधानियागिरबेकु.",
+        "latin": "manadalli kōpava tāḷade samādhāniyāgirabēku."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l10",
+      "stanza": 3,
+      "text": "- ಅಕ್ಕಮಹಾದೇವಿ",
+      "translations": {
+        "en": "— Akkamahadevi",
+        "hi": "— अक्कमहादेवी"
+      },
+      "transliterations": {
+        "devanagari": "- अक्कमहादेवि",
+        "latin": "- akkamahādēvi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ನುಡಿದರೆ ಮುತ್ತಿನ ಹಾರದಂತಿರಬೇಕು.",
+      "translations": {
+        "en": "When one speaks, it should be like a pearl necklace.",
+        "hi": "बोलें तो मोतियों की माला जैसा होना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरे मुत्तिन हारदंतिरबेकु.",
+        "latin": "nuḍidare muttina hāradantirabēku."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ನುಡಿದರೆ ಮಾಣಿಕ್ಯದ ದೀಪ್ತಿಯಂತಿರಬೇಕು.",
+      "translations": {
+        "en": "When one speaks, it should be like the glow of a ruby.",
+        "hi": "बोलें तो माणिक्य की दीप्ति जैसा होना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरे माणिक्यद दीप्तियंतिरबेकु.",
+        "latin": "nuḍidare māṇikyada dīptiyantirabēku."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ನುಡಿದರೆ ಸ್ಫಟಿಕದ ಶಲಾಕೆಯಂತಿರಬೇಕು.",
+      "translations": {
+        "en": "When one speaks, it should be like a crystal rod.",
+        "hi": "बोलें तो स्फटिक की छड़ जैसा होना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरे स्फटिकद शलाकेयंतिरबेकु.",
+        "latin": "nuḍidare sphaṭikada śalākeyantirabēku."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ನುಡಿದರೆ ಲಿಂಗ ಮೆಚ್ಚಿ ಅಹುದಹುದೆನಬೇಕು.",
+      "translations": {
+        "en": "When one speaks, the Linga should approve saying “yes, yes.”",
+        "hi": "बोलें तो लिंग प्रसन्न होकर हाँ-हाँ कहे।"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरे लिंग मेच्चि अहुदहुदेनबेकु.",
+        "latin": "nuḍidare liṅga mecci ahudahudenabēku."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "stanza": 4,
+      "text": "ನುಡಿಯೊಳಗಾಗಿ ನಡೆಯದಿದ್ದರೆ",
+      "translations": {
+        "en": "If one does not act according to one’s speech,",
+        "hi": "यदि वचन के अनुसार आचरण न हो"
+      },
+      "transliterations": {
+        "devanagari": "नुडियोळगागि नडेयदिद्दरे",
+        "latin": "nuḍiyoḷagāgi naḍeyadiddare"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l6",
+      "stanza": 4,
+      "text": "ಕೂಡಲಸಂಗಮದೇವನೆಂತೊಲಿವನಯ್ಯಾ?",
+      "translations": {
+        "en": "how will Kudalasangama Deva be pleased, O Lord?",
+        "hi": "तो कूडलसंगमदेव कैसे प्रसन्न होंगे, हे स्वामी?"
+      },
+      "transliterations": {
+        "devanagari": "कूडलसंगमदेवनेंतोलिवनय्या?",
+        "latin": "kūḍalasaṅgamadēvanentolivanayyā?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l7",
+      "stanza": 4,
+      "text": "- ಬಸವಣ್ಣ",
+      "translations": {
+        "en": "— Basavanna",
+        "hi": "— बसवन्ना"
+      },
+      "transliterations": {
+        "devanagari": "- बसवण्ण",
+        "latin": "- basavaṇṇa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಆಸೆ ಎಂಬುದು ಅರಸಿಗಲ್ಲದೆ ಶಿವಭಕ್ತರಿಗುಂಟೆ?",
+      "translations": {
+        "en": "Is desire only for kings, not for Shiva’s devotees?",
+        "hi": "आशा क्या राजाओं के सिवा शिवभक्तों को भी है?"
+      },
+      "transliterations": {
+        "devanagari": "आसे एंबुदु अरसिगल्लदे शिवभक्तरिगुंटे?",
+        "latin": "āse embudu arasigallade śivabhaktariguṇṭe?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ರೋಷವೆಂಬುದು ಯಮನ ಕಿಂಕರರಿಗಲ್ಲದೆ ಅಜಾತರಿಗುಂಟೆ?",
+      "translations": {
+        "en": "Is rage only for Yama’s servants, not for the unborn (egoless)?",
+        "hi": "रोष क्या यम के किंकरों के सिवा अजातों को भी है?"
+      },
+      "transliterations": {
+        "devanagari": "रोषवेंबुदु यमन किंकररिगल्लदे अजातरिगुंटे?",
+        "latin": "rōṣavembudu yamana kiṅkararigallade ajātariguṇṭe?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ಈಸಕ್ಕಿ ಆಸೆ ನಿಮಗೇಕೆ? ಈಶ್ವರನೊಪ್ಪ,",
+      "translations": {
+        "en": "Aydakki, why desire for you? If Ishwara consents,",
+        "hi": "आय्दक्कि, तुम्हें आशा क्यों? ईश्वर सहमत हो"
+      },
+      "transliterations": {
+        "devanagari": "ईसक्कि आसे निमगेके? ईश्वरनोप्प,",
+        "latin": "īsakki āse nimagēke? īśvaranoppa,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಮಾರಯ್ಯಪ್ರಿಯ ಅಮರೇಶ್ವರಲಿಂಗಕ್ಕೆ ದೂರ,",
+      "translations": {
+        "en": "you stay far from Marayya’s beloved Amareshwara Linga,",
+        "hi": "तो मारय्यप्रिय अमरेश्वर लिंग से दूर हो,"
+      },
+      "transliterations": {
+        "devanagari": "मारय्यप्रिय अमरेश्वरलिंगक्के दूर,",
+        "latin": "mārayyapriya amarēśvaraliṅgakke dūra,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l5",
+      "stanza": 5,
+      "text": "ನುಚ್ಚು ತರಿ, ಬೇಗ ನಡೆಯಯ್ಯಾ.",
+      "translations": {
+        "en": "Bring broken rice; walk quickly, O Lord.",
+        "hi": "टूटे चावल लाओ; जल्दी चलो, हे स्वामी।"
+      },
+      "transliterations": {
+        "devanagari": "नुच्चु तरि, बेग नडेयय्या.",
+        "latin": "nuccu tari, bēga naḍeyayyā."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l6",
+      "stanza": 5,
+      "text": "- ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ",
+      "translations": {
+        "en": "— Aydakki Lakkamma",
+        "hi": "— आय्दक्कि लक्कम्मा"
+      },
+      "transliterations": {
+        "devanagari": "- आय्दक्कि लक्कम्म",
+        "latin": "- āydakki lakkamma"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-intro-1",
+      "section": "author_intro",
+      "text": "ಬಸವಣ್ಣ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರರು. ಇವರು ವಿಜಯಪುರ ಜಿಲ್ಲೆಯ ಬಸವನಬಾಗೇವಾಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಮಾದರಸ, ತಾಯಿ ಮಾದಲಾಂಬಿಕೆ. ಇವರ ಅಂಕಿತನಾಮ ಕೂಡಲಸಂಗಮದೇವ.",
+      "translations": {
+        "en": "Basavanna: A 12th-century vachana poet. Born in Basavan Bagewadi of Vijayapura district. Father Madarasa, mother Madalambike. His signature name is Kudalasangama Deva.",
+        "hi": "बसवन्ना : 12वीं शताब्दी के वचनकार। विजयपुर जिले के बसवनबागेवाड़ी में जन्म। पिता मादरसा, माता मादलांबिके। अंकित नाम कूडलसंगमदेव।"
+      },
+      "transliterations": {
+        "devanagari": "बसवण्ण : 12ने शतमानद वचनकाररु. इवरु विजयपुर जिल्लेय बसवनबागेवाडियल्लि जनिसिदरु. तंदे मादरस, तायि मादलांबिके. इवर अंकितनाम कूडलसंगमदेव.",
+        "latin": "basavaṇṇa : 12nē śatamānada vacanakāraru. ivaru vijayapura jilleya basavanabāgēvāḍiyalli janisidaru. tande mādarasa, tāyi mādalāmbike. ivara aṅkitanāma kūḍalasaṅgamadēva."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-intro-2",
+      "section": "author_intro",
+      "text": "ಅಂಬಿಗರ ಚೌಡಯ್ಯ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರರು. ಇವರು ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ರಾಣೆಬೆನ್ನೂರು ತಾಲ್ಲೂಕಿನ ಚೌಡದಾನಪುರದಲ್ಲಿ ಜನಿಸಿದರು. ಇವರ ಅಂಕಿತನಾಮ ಅಂಬಿಗರ ಚೌಡಯ್ಯ.",
+      "translations": {
+        "en": "Ambiga Chaudayya: A 12th-century vachana poet. Born in Chaudadanapura of Ranebennur taluk, Haveri district. His signature name is Ambiga Chaudayya.",
+        "hi": "अम्बिगर चौडय्या : 12वीं शताब्दी के वचनकार। हावेरी जिले के राणेबेन्नूर तालुक के चौडदानपुर में जन्म। अंकित नाम अम्बिगर चौडय्या।"
+      },
+      "transliterations": {
+        "devanagari": "अंबिगर चौडय्य : 12ने शतमानद वचनकाररु. इवरु हावेरि जिल्लेय राणेबेन्नूरु ताल्लूकिन चौडदानपुरदल्लि जनिसिदरु. इवर अंकितनाम अंबिगर चौडय्य.",
+        "latin": "ambigara cauḍayya : 12nē śatamānada vacanakāraru. ivaru hāvēri jilleya rāṇebennūru tāllūkina cauḍadānapuradalli janisidaru. ivara aṅkitanāma ambigara cauḍayya."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-intro-3",
+      "section": "author_intro",
+      "text": "ಅಕ್ಕಮಹಾದೇವಿ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರ್ತಿ. ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಶಿಕಾರಿಪುರ ತಾಲ್ಲೂಕಿನ ಉಡುತಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ನಿರ್ಮಲಶೆಟ್ಟಿ, ತಾಯಿ ಸುಮತಿ. ಇವರ ಅಂಕಿತನಾಮ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ.",
+      "translations": {
+        "en": "Akkamahadevi: A 12th-century vachana poet. Born in Udutadi of Shikaripur taluk, Shivamogga district. Father Nirmalashetti, mother Sumati. Her signature name is Chennamallikarjuna.",
+        "hi": "अक्कमहादेवी : 12वीं शताब्दी की वचनकार। शिवमोग्गा जिले के शिकारिपुर तालुक के उडुतडि में जन्म। पिता निर्मलशेट्टी, माता सुमति। अंकित नाम चेन्नमल्लिकार्जुन।"
+      },
+      "transliterations": {
+        "devanagari": "अक्कमहादेवि : 12ने शतमानद वचनकार्ति. शिवमोग्ग जिल्लेय शिकारिपुर ताल्लूकिन उडुतडियल्लि जनिसिदरु. तंदे निर्मलशेट्टि, तायि सुमति. इवर अंकितनाम चेन्नमल्लिकार्जुन.",
+        "latin": "akkamahādēvi : 12nē śatamānada vacanakārti. śivamogga jilleya śikāripura tāllūkina uḍutaḍiyalli janisidaru. tande nirmalaśeṭṭi, tāyi sumati. ivara aṅkitanāma cennamallikārjuna."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-intro-4",
+      "section": "author_intro",
+      "text": "ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರ್ತಿ. ರಾಯಚೂರು ಜಿಲ್ಲೆಯ ಅಮರೇಶ್ವರ ಇವರ ಜನ್ಮಸ್ಥಳ. ಇವರ ಅಂಕಿತನಾಮ ಮಾರಯ್ಯಪ್ರಿಯ ಅಮರೇಶ್ವರಲಿಂಗ.",
+      "translations": {
+        "en": "Aydakki Lakkamma: A 12th-century vachana poet. Amareshwara in Raichur district is her birthplace. Her signature name is Marayyapriya Amareshwara Linga.",
+        "hi": "आय्दक्कि लक्कम्मा : 12वीं शताब्दी की वचनकार। रायचूर जिले का अमरेश्वर जन्मस्थान। अंकित नाम मारय्यप्रिय अमरेश्वर लिंग।"
+      },
+      "transliterations": {
+        "devanagari": "आय्दक्कि लक्कम्म : 12ने शतमानद वचनकार्ति. रायचूरु जिल्लेय अमरेश्वर इवर जन्मस्थळ. इवर अंकितनाम मारय्यप्रिय अमरेश्वरलिंग.",
+        "latin": "āydakki lakkamma : 12nē śatamānada vacanakārti. rāyacūru jilleya amarēśvara ivara janmasthaḷa. ivara aṅkitanāma mārayyapriya amarēśvaraliṅga."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-antaranga",
+      "text": "ಅಂತರಂಗ",
+      "translations": {
+        "en": "antaranga (inner)",
+        "hi": "अंतरंग"
+      },
+      "transliterations": {
+        "devanagari": "अंतरंग",
+        "latin": "antaraṅga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-antaranga-def",
+      "text": "ಒಳಮನಸ್ಸು",
+      "translations": {
+        "en": "inner mind",
+        "hi": "भीतर का मन"
+      },
+      "transliterations": {
+        "devanagari": "ओळमनस्सु",
+        "latin": "oḷamanassu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-anjidare",
+      "text": "ಅಂಜಿದರೆ",
+      "translations": {
+        "en": "anjidare (if afraid)",
+        "hi": "अंजिदरे"
+      },
+      "transliterations": {
+        "devanagari": "अंजिदरे",
+        "latin": "añjidare"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-anjidare-def",
+      "text": "ಹೆದರಿದರೆ",
+      "translations": {
+        "en": "if afraid",
+        "hi": "यदि डरें"
+      },
+      "transliterations": {
+        "devanagari": "हेदरिदरे",
+        "latin": "hedaridare"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ajata",
+      "text": "ಅಜಾತ",
+      "translations": {
+        "en": "ajata (unborn)",
+        "hi": "अजात"
+      },
+      "transliterations": {
+        "devanagari": "अजात",
+        "latin": "ajāta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ajata-def",
+      "text": "ಹುಟ್ಟಿಲ್ಲದವನು",
+      "translations": {
+        "en": "one without birth (egoless)",
+        "hi": "जन्म-रहित (अहंकार-रहित)"
+      },
+      "transliterations": {
+        "devanagari": "हुट्टिल्लदवनु",
+        "latin": "huṭṭilladavanu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kinkara",
+      "text": "ಕಿಂಕರ",
+      "translations": {
+        "en": "kinkara (servant)",
+        "hi": "किंकर"
+      },
+      "transliterations": {
+        "devanagari": "किंकर",
+        "latin": "kiṅkara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kinkara-def",
+      "text": "ಸೇವಕ, ಆಳು",
+      "translations": {
+        "en": "servant, attendant",
+        "hi": "सेवक"
+      },
+      "transliterations": {
+        "devanagari": "सेवक, आळु",
+        "latin": "sēvaka, āḷu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dipti",
+      "text": "ದೀಪ್ತಿ",
+      "translations": {
+        "en": "dipti (glow)",
+        "hi": "दीप्ति"
+      },
+      "transliterations": {
+        "devanagari": "दीप्ति",
+        "latin": "dīpti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dipti-def",
+      "text": "ಬೆಳಕು",
+      "translations": {
+        "en": "light, radiance",
+        "hi": "प्रकाश"
+      },
+      "transliterations": {
+        "devanagari": "बेळकु",
+        "latin": "beḷaku"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ninda",
+      "text": "ನಿಂದೆ",
+      "translations": {
+        "en": "ninde (blame)",
+        "hi": "निंदा"
+      },
+      "transliterations": {
+        "devanagari": "निंदे",
+        "latin": "ninde"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ninda-def",
+      "text": "ಬೈಗುಳ",
+      "translations": {
+        "en": "abuse, censure",
+        "hi": "गाली, निंदा"
+      },
+      "transliterations": {
+        "devanagari": "बैगुळ",
+        "latin": "baiguḷa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nuchu",
+      "text": "ನುಚ್ಚು",
+      "translations": {
+        "en": "nuchu (broken rice)",
+        "hi": "नुच्चु"
+      },
+      "transliterations": {
+        "devanagari": "नुच्चु",
+        "latin": "nuccu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nuchu-def",
+      "text": "ಮುರಿದ ಅಕ್ಕಿ",
+      "translations": {
+        "en": "broken rice",
+        "hi": "टूटा चावल"
+      },
+      "transliterations": {
+        "devanagari": "मुरिद अक्कि",
+        "latin": "murida akki"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bahiranga",
+      "text": "ಬಹಿರಂಗ",
+      "translations": {
+        "en": "bahiranga (outer)",
+        "hi": "बहिरंग"
+      },
+      "transliterations": {
+        "devanagari": "बहिरंग",
+        "latin": "bahiraṅga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bahiranga-def",
+      "text": "ಹೊರಗಿನ",
+      "translations": {
+        "en": "outer",
+        "hi": "बाहरी"
+      },
+      "transliterations": {
+        "devanagari": "होरगिन",
+        "latin": "horagina"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-muni",
+      "text": "ಮುನಿ",
+      "translations": {
+        "en": "muni (anger)",
+        "hi": "मुनि"
+      },
+      "transliterations": {
+        "devanagari": "मुनि",
+        "latin": "muni"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-muni-def",
+      "text": "ಕೋಪ",
+      "translations": {
+        "en": "anger",
+        "hi": "क्रोध"
+      },
+      "transliterations": {
+        "devanagari": "कोप",
+        "latin": "kōpa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-mriga",
+      "text": "ಮೃಗ",
+      "translations": {
+        "en": "mriga (beast)",
+        "hi": "मृग"
+      },
+      "transliterations": {
+        "devanagari": "मृग",
+        "latin": "mr̥ga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mriga-def",
+      "text": "ಪ್ರಾಣಿ",
+      "translations": {
+        "en": "animal",
+        "hi": "पशु"
+      },
+      "transliterations": {
+        "devanagari": "प्राणि",
+        "latin": "prāṇi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-rosha",
+      "text": "ರೋಷ",
+      "translations": {
+        "en": "rosha (rage)",
+        "hi": "रोष"
+      },
+      "transliterations": {
+        "devanagari": "रोष",
+        "latin": "rōṣa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rosha-def",
+      "text": "ಸಿಟ್ಟು, ಕೋಪ",
+      "translations": {
+        "en": "anger, fury",
+        "hi": "गुस्सा, क्रोध"
+      },
+      "transliterations": {
+        "devanagari": "सिट्टु, कोप",
+        "latin": "siṭṭu, kōpa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-shalake",
+      "text": "ಶಲಾಕೆ",
+      "translations": {
+        "en": "shalake (rod)",
+        "hi": "शलाके"
+      },
+      "transliterations": {
+        "devanagari": "शलाके",
+        "latin": "śalāke"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shalake-def",
+      "text": "ಕಡ್ಡಿ",
+      "translations": {
+        "en": "stick, rod",
+        "hi": "छड़"
+      },
+      "transliterations": {
+        "devanagari": "कड्डि",
+        "latin": "kaḍḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sphatika",
+      "text": "ಸ್ಫಟಿಕ",
+      "translations": {
+        "en": "sphatika (crystal)",
+        "hi": "स्फटिक"
+      },
+      "transliterations": {
+        "devanagari": "स्फटिक",
+        "latin": "sphaṭika"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sphatika-def",
+      "text": "ಬೆಣಚುಕಲ್ಲು",
+      "translations": {
+        "en": "quartz crystal",
+        "hi": "स्फटिक पत्थर"
+      },
+      "transliterations": {
+        "devanagari": "बेणचुकल्लु",
+        "latin": "beṇacukallu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-stuti",
+      "text": "ಸ್ತುತಿ",
+      "translations": {
+        "en": "stuti (praise)",
+        "hi": "स्तुति"
+      },
+      "transliterations": {
+        "devanagari": "स्तुति",
+        "latin": "stuti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-stuti-def",
+      "text": "ಹೊಗಳಿಕೆ",
+      "translations": {
+        "en": "praise",
+        "hi": "प्रशंसा"
+      },
+      "transliterations": {
+        "devanagari": "होगळिके",
+        "latin": "hogaḷike"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hali",
+      "text": "ಹಳಿ",
+      "translations": {
+        "en": "hali (abuse)",
+        "hi": "हळि"
+      },
+      "transliterations": {
+        "devanagari": "हळि",
+        "latin": "haḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hali-def",
+      "text": "ನಿಂದಿಸು",
+      "translations": {
+        "en": "to censure",
+        "hi": "निंदा करना"
+      },
+      "transliterations": {
+        "devanagari": "निंदिसु",
+        "latin": "nindisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-husi",
+      "text": "ಹುಸಿ",
+      "translations": {
+        "en": "husi (lie)",
+        "hi": "हुसि"
+      },
+      "transliterations": {
+        "devanagari": "हुसि",
+        "latin": "husi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-husi-def",
+      "text": "ಸುಳ್ಳು",
+      "translations": {
+        "en": "falsehood",
+        "hi": "झूठ"
+      },
+      "transliterations": {
+        "devanagari": "सुळ्ळु",
+        "latin": "suḷḷu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಬಸವಣ್ಣನವರ ಪ್ರಕಾರ ಅಂತರಂಗ ಬಹಿರಂಗ ಶುದ್ಧಿ ಯಾವುದು?",
+      "translations": {
+        "en": "According to Basavanna, what is inner and outer purity?",
+        "hi": "बसवन्ना के अनुसार अंतरंग-बहिरंग शुद्धि क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवर प्रकार अंतरंग बहिरंग शुद्धि यावुदु?",
+        "latin": "basavaṇṇanavara prakāra antaraṅga bahiraṅga śuddhi yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರ ಪ್ರಕಾರ ನಿಜಶರಣ ಯಾರು?",
+      "translations": {
+        "en": "According to Ambiga Chaudayya, who is a true sharana?",
+        "hi": "अम्बिगर चौडय्या के अनुसार निज शरण कौन हैं?"
+      },
+      "transliterations": {
+        "devanagari": "अंबिगर चौडय्यनवर प्रकार निजशरण यारु?",
+        "latin": "ambigara cauḍayyanavara prakāra nijaśaraṇa yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಬೆಟ್ಟದ ಮೇಲೆ ಮನೆಮಾಡಿ ಯಾವುದಕ್ಕೆ ಅಂಜಬಾರದು?",
+      "translations": {
+        "en": "Having built a house on a hill, what should one not fear?",
+        "hi": "पहाड़ पर घर बनाकर किससे नहीं डरना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "बेट्टद मेले मनेमाडि यावुदक्के अंजबारदु?",
+        "latin": "beṭṭada mēle manemāḍi yāvudakke añjabāradu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ನಮ್ಮ ನುಡಿ ಹೇಗಿರಬೇಕು?",
+      "translations": {
+        "en": "How should our speech be?",
+        "hi": "हमारा वचन कैसा होना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म नुडि हेगिरबेकु?",
+        "latin": "namma nuḍi hēgirabēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಆಸೆ ಎಂಬುದು ಯಾರಿಗೆ ಇರಬೇಕು?",
+      "translations": {
+        "en": "For whom should desire exist?",
+        "hi": "आशा किसे होनी चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "आसे एंबुदु यारिगे इरबेकु?",
+        "latin": "āse embudu yārige irabēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಕೂಡಲಸಂಗಮದೇವನನ್ನು ಒಲಿಸುವ ಬಗೆ ಹೇಗೆ?",
+      "translations": {
+        "en": "How does one please Kudalasangama Deva?",
+        "hi": "कूडलसंगमदेव को प्रसन्न करने का ढंग क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "कूडलसंगमदेवनन्नु ओलिसुव बगे हेगे?",
+        "latin": "kūḍalasaṅgamadēvanannu olisuva bage hēge?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರು ಯಾವ ಯಾವ ಚಿಂತೆಯಲ್ಲಿರುವವರನ್ನು ಕಂಡಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "What kinds of worries has Ambiga Chaudayya seen people in?",
+        "hi": "अम्बिगर चौडय्या ने किन-किन चिंताओं में रहने वालों को देखा?"
+      },
+      "transliterations": {
+        "devanagari": "अंबिगर चौडय्यनवरु याव याव चिंतेयल्लिरुववरन्नु कंडिद्दारे?",
+        "latin": "ambigara cauḍayyanavaru yāva yāva cinteyalliruvavarannu kaṇḍiddāre?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಅಕ್ಕಮಹಾದೇವಿಯವರ ಪ್ರಕಾರ ನಾವು ಸಮಾಧಾನಿಯಾಗಿರಬೇಕಾದದ್ದು ಯಾವಾಗ?",
+      "translations": {
+        "en": "According to Akkamahadevi, when should we stay calm?",
+        "hi": "अक्कमहादेवी के अनुसार हम कब शांत रहें?"
+      },
+      "transliterations": {
+        "devanagari": "अक्कमहादेवियवर प्रकार नावु समाधानियागिरबेकादद्दु यावाग?",
+        "latin": "akkamahādēviyavara prakāra nāvu samādhāniyāgirabēkādaddu yāvāga?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಕೂಡಲಸಂಗಮದೇವನು ಯಾವಾಗ ಒಲಿಯುವುದಿಲ್ಲ?",
+      "translations": {
+        "en": "When will Kudalasangama Deva not be pleased?",
+        "hi": "कूडलसंगमदेव कब प्रसन्न नहीं होते?"
+      },
+      "transliterations": {
+        "devanagari": "कूडलसंगमदेवनु यावाग ओलियुवुदिल्ल?",
+        "latin": "kūḍalasaṅgamadēvanu yāvāga oliyuvudilla?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ ಮಾರಯ್ಯನಿಗೆ ಏನೆಂದು ಹೇಳಿದಳು?",
+      "translations": {
+        "en": "What did Aydakki Lakkamma say to Marayya?",
+        "hi": "आय्दक्कि लक्कम्मा ने मारय्या से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "आय्दक्कि लक्कम्म मारय्यनिगे एनेंदु हेळिदळु?",
+        "latin": "āydakki lakkamma mārayyanige ēnendu hēḷidaḷu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಶಬ್ದಕ್ಕೆ ನಾಚಿದಡೆಂತಯ್ಯಾ?",
+      "translations": {
+        "en": "If shy of noise—then what, O Lord?",
+        "hi": "शोर से लजाएँ तो क्या, हे स्वामी?"
+      },
+      "transliterations": {
+        "devanagari": "शब्दक्के नाचिदडेंतय्या?",
+        "latin": "śabdakke nācidaḍentayyā?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ನುಡಿದರೆ ಮುತ್ತಿನ ಹಾರದಂತಿರಬೇಕು.",
+      "translations": {
+        "en": "When one speaks, it should be like a pearl necklace.",
+        "hi": "बोलें तो मोतियों की माला जैसा होना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरे मुत्तिन हारदंतिरबेकु.",
+        "latin": "nuḍidare muttina hāradantirabēku."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಈಸಕ್ಕಿ ಆಸೆ ನಿಮಗೇಕೆ?",
+      "translations": {
+        "en": "Aydakki, why desire for you?",
+        "hi": "आय्दक्कि, तुम्हें आशा क्यों?"
+      },
+      "transliterations": {
+        "devanagari": "ईसक्कि आसे निमगेके?",
+        "latin": "īsakki āse nimagēke?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "೧. ಅಂಬಿಗರ ಚೌಡಯ್ಯ\n೨. ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ\n೩. ಬಸವಣ್ಣ\n೪. ಅಕ್ಕಮಹಾದೇವಿ\n\nಅ. ಕೂಡಲಸಂಗಮದೇವ\nಆ. ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ\nಇ. ಅಂಬಿಗರ ಚೌಡಯ್ಯ\nಈ. ಗುಹೇಶ್ವರ\nಉ. ಮಾರಯ್ಯಪ್ರಿಯ ಅಮರೇಶ್ವರಲಿಂಗ",
+      "translations": {
+        "en": "1. Ambiga Chaudayya\n2. Aydakki Lakkamma\n3. Basavanna\n4. Akkamahadevi\n\nA. Kudalasangama Deva\nB. Chennamallikarjuna\nC. Ambiga Chaudayya\nD. Guheshwara\nE. Marayyapriya Amareshwara Linga",
+        "hi": "१. अम्बिगर चौडय्या\n२. आय्दक्कि लक्कम्मा\n३. बसवन्ना\n४. अक्कमहादेवी\n\nअ. कूडलसंगमदेव\nआ. चेन्नमल्लिकार्जुन\nइ. अम्बिगर चौडय्या\nई. गुहेश्वर\nउ. मारय्यप्रिय अमरेश्वर लिंग"
+      },
+      "transliterations": {
+        "devanagari": "१. अंबिगर चौडय्य\n२. आय्दक्कि लक्कम्म\n३. बसवण्ण\n४. अक्कमहादेवि\n\nअ. कूडलसंगमदेव\nआ. चेन्नमल्लिकार्जुन\nइ. अंबिगर चौडय्य\nई. गुहेश्वर\nउ. मारय्यप्रिय अमरेश्वरलिंग",
+        "latin": "1. ambigara cauḍayya\n2. āydakki lakkamma\n3. basavaṇṇa\n4. akkamahādēvi\n\na. kūḍalasaṅgamadēva\nā. cennamallikārjuna\ni. ambigara cauḍayya\nī. guhēśvara\nu. mārayyapriya amarēśvaraliṅga"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಇದೇ ನಮ್ಮ __________ ಒಲಿಸುವ ಪರಿ.",
+      "translations": {
+        "en": "This alone is the way to please our __________.",
+        "hi": "यही हमारे __________ को प्रसन्न करने का मार्ग।"
+      },
+      "transliterations": {
+        "devanagari": "इदे नम्म __________ ओलिसुव परि.",
+        "latin": "idē namma __________ olisuva pari."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "__________ ಚಿಂತೆಯಲಿದ್ದವರೊಬ್ಬರನು ಕಾಣೆನೆಂದಾತ.",
+      "translations": {
+        "en": "I have not seen even one who stayed in __________ thought, said he.",
+        "hi": "__________ की चिंता में रहने वाला एक भी नहीं देखा, कहा उसने।"
+      },
+      "transliterations": {
+        "devanagari": "__________ चिंतेयलिद्दवरोब्बरनु काणेनेंदात.",
+        "latin": "__________ cinteyaliddavarobbaranu kāṇenendāta."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಸಮುದ್ರದ ತಡಿಯಲೊಂದು ಮನೆಯ ಮಾಡಿ __________ ಅಂಜಿದಡೆಂತಯ್ಯಾ?",
+      "translations": {
+        "en": "If you build a house by the sea shore and fear __________, then what, O Lord?",
+        "hi": "समुद्र तट पर घर बनाकर __________ से डरें तो क्या, हे स्वामी?"
+      },
+      "transliterations": {
+        "devanagari": "समुद्रद तडियलोंदु मनेय माडि __________ अंजिदडेंतय्या?",
+        "latin": "samudrada taḍiyalondu maneya māḍi __________ añjidaḍentayyā?"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ನುಡಿದರೆ __________ ದೀಪ್ತಿಯಂತಿರಬೇಕು.",
+      "translations": {
+        "en": "When one speaks, it should be like the glow of __________.",
+        "hi": "बोलें तो __________ की दीप्ति जैसा होना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरे __________ दीप्तियंतिरबेकु.",
+        "latin": "nuḍidare __________ dīptiyantirabēku."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q5",
+      "text": "ರೋಷವೆಂಬುದು ಯಮನ __________ ಅಲ್ಲದೆ ಅಜಾತರಿಗುಂಟೆ?",
+      "translations": {
+        "en": "Is rage only for Yama’s __________, not for the unborn?",
+        "hi": "रोष क्या यम के __________ के सिवा अजातों को भी है?"
+      },
+      "transliterations": {
+        "devanagari": "रोषवेंबुदु यमन __________ अल्लदे अजातरिगुंटे?",
+        "latin": "rōṣavembudu yamana __________ allade ajātariguṇṭe?"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "grammar-p1",
+      "section": "grammar",
+      "text": "ಸಂಧಿಗಳು\nಎರಡು ಅಕ್ಷರಗಳು ಕಾಲ ವಿಳಂಬವಿಲ್ಲದೆ ಅರ್ಥಕ್ಕೆ ಅನುಸಾರವಾಗಿ ಸೇರುವುದೇ ಸಂಧಿ.\nಉದಾಹರಣೆಗೆ :\nಮಳೆ + ಕಾಲ = ಮಳೆಗಾಲ\nಹೀಗೆ ಒಂದು ಪದ ಇನ್ನೊಂದು ಪದದೊಡನೆ ಸೇರಿದಾಗ ಪೂರ್ವಪದದ ಅಂತ್ಯದಲ್ಲಿ ಮತ್ತು ಉತ್ತರಪದದ ಆದಿಯಲ್ಲಿ ಮೂರು ಬಗೆಯ ಕಾರ್ಯಗಳು ನಡೆಯಬಹುದು. ಅಕ್ಷರವೊಂದು ಲೋಪವಾಗಬಹುದು, ಇನ್ನೊಂದು ಆಗಮಿಸಬಹುದು, ಒಂದು ಅಕ್ಷರ ಹೋಗಿ ಅದರ ಸ್ಥಾನದಲ್ಲಿ ಬೇರೆಯೇ ಅಕ್ಷರ ಬರಬಹುದು. ಇದನ್ನು ‘ಸಂಧಿಕಾರ್ಯ’ ಎನ್ನುವರು.\nಪೂರ್ವಪದ + ಉತ್ತರಪದ = ಸಂಧಿಕಾರ್ಯ\nಮಾತು + ಅನ್ನು = ಮಾತನ್ನು\n(ಉ) + (ಅ) = ಉ ಲೋಪ\nಸಂಧಿಯ ವಿವಿಧ ಪ್ರಕಾರಗಳ ಬಗ್ಗೆ ಮುಂದಿನ ಪಾಠದಲ್ಲಿ ತಿಳಿದುಕೊಳ್ಳೋಣ.",
+      "translations": {
+        "en": "Sandhis\nWhen two letters join without delay of time according to meaning, that is sandhi.\nFor example:\nmale + kala = malegala\nWhen one word joins another, three kinds of processes may occur at the end of the first word and the beginning of the second. A letter may be dropped, another may appear, or one letter may go and another take its place. This is called “sandhi-karya”.\nFirst word + second word = sandhi process\nmatu + annu = matannu\n(u) + (a) = u is dropped\nWe will learn about various kinds of sandhi in the next lesson.",
+        "hi": "संधियाँ\nदो अक्षर बिना काल विलंब अर्थानुसार जुड़ें तो संधि।\nउदाहरण:\nमळे + काल = मळेगाल\nएक पद दूसरे से जुड़ते समय पूर्वपद के अंत और उत्तरपद के आदि में तीन प्रकार के कार्य हो सकते हैं। एक अक्षर लोप हो, दूसरा आगम हो, या एक अक्षर जाकर उसके स्थान पर दूसरा आए। इसे «संधिकार्य» कहते हैं।\nपूर्वपद + उत्तरपद = संधिकार्य\nमातु + अन्नु = मातन्नु\n(उ) + (अ) = उ लोप\nसंधि के विभिन्न प्रकार अगले पाठ में जानेंगे।"
+      },
+      "transliterations": {
+        "devanagari": "संधिगळु\nएरडु अक्षरगळु काल विळंबविल्लदे अर्थक्के अनुसारवागि सेरुवुदे संधि.\nउदाहरणेगे :\nमळे + काल = मळेगाल\nहीगे ओंदु पद इन्नोंदु पददोडने सेरिदाग पूर्वपदद अंत्यदल्लि मत्तु उत्तरपदद आदियल्लि मूरु बगेय कार्यगळु नडेयबहुदु. अक्षरवोंदु लोपवागबहुदु, इन्नोंदु आगमिसबहुदु, ओंदु अक्षर होगि अदर स्थानदल्लि बेरेये अक्षर बरबहुदु. इदन्नु ‘संधिकार्य’ एन्नुवरु.\nपूर्वपद + उत्तरपद = संधिकार्य\nमातु + अन्नु = मातन्नु\n(उ) + (अ) = उ लोप\nसंधिय विविध प्रकारगळ बग्गे मुंदिन पाठदल्लि तिळिदुकोळ्ळोण.",
+        "latin": "sandhigaḷu\neraḍu akṣaragaḷu kāla viḷambavillade arthakke anusāravāgi sēruvudē sandhi.\nudāharaṇege :\nmaḷe + kāla = maḷegāla\nhīge ondu pada innondu padadoḍane sēridāga pūrvapadada antyadalli mattu uttarapadada ādiyalli mūru bageya kāryagaḷu naḍeyabahudu. akṣaravondu lōpavāgabahudu, innondu āgamisabahudu, ondu akṣara hōgi adara sthānadalli bēreyē akṣara barabahudu. idannu ‘sandhikārya’ ennuvaru.\npūrvapada + uttarapada = sandhikārya\nmātu + annu = mātannu\n(u) + (a) = u lōpa\nsandhiya vividha prakāragaḷa bagge mundina pāṭhadalli tiḷidukoḷḷōṇa."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q1",
+      "text": "1. ಸಂಧಿ ಎಂದರೇನು? ಒಂದು ಉದಾಹರಣೆ ಕೊಡಿ.",
+      "translations": {
+        "en": "1. What is sandhi? Give one example.",
+        "hi": "1. संधि क्या है? एक उदाहरण दीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. संधि एंदरेनु? ओंदु उदाहरणे कोडि.",
+        "latin": "1. sandhi endarēnu? ondu udāharaṇe koḍi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q2",
+      "text": "2. ಸಂಧಿ ಕಾರ್ಯ ಎಂದರೇನು?",
+      "translations": {
+        "en": "2. What is sandhi-karya?",
+        "hi": "2. संधि कार्य क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "2. संधि कार्य एंदरेनु?",
+        "latin": "2. sandhi kārya endarēnu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q3",
+      "text": "3. ತೆನೆ + ಅನ್ನು. ಇದರಲ್ಲಿ ಪೂರ್ವಪದ, ಉತ್ತರಪದ ಯಾವುದು ತಿಳಿಸಿರಿ. ಇದರಲ್ಲಿ ನಡೆದ ಸಂಧಿಕಾರ್ಯವನ್ನು ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "3. tene + annu. State which is the first word and which the second. Write the sandhi process that occurred.",
+        "hi": "3. तेने + अन्नु। इसमें पूर्वपद, उत्तरपद बताइए। संधिकार्य लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "3. तेने + अन्नु. इदरल्लि पूर्वपद, उत्तरपद यावुदु तिळिसिरि. इदरल्लि नडेद संधिकार्यवन्नु बरेयिरि.",
+        "latin": "3. tene + annu. idaralli pūrvapada, uttarapada yāvudu tiḷisiri. idaralli naḍeda sandhikāryavannu bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q4",
+      "text": "4. ಈ ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಬರೆಯಿರಿ. ಸಂಧಿ ಕಾರ್ಯ ಹೇಳಿರಿ. ಸಕ್ಕರೆಯಾಯಿತು, ಕೆಟ್ಟವಳೇನೂ, ದುಃಖಿತನಾದನು",
+      "translations": {
+        "en": "4. Split these words and write. State the sandhi process: sakkareyayitu, kettavalenu, duhkitanadanu",
+        "hi": "4. इन पदों को तोड़कर लिखिए। संधि कार्य बताइए। सक्करेयायितु, केट्टवळेनु, दुःखितनादनु"
+      },
+      "transliterations": {
+        "devanagari": "4. ई पदगळन्नु बिडिसि बरेयिरि. संधि कार्य हेळिरि. सक्करेयायितु, केट्टवळेनू, दुःखितनादनु",
+        "latin": "4. ī padagaḷannu biḍisi bareyiri. sandhi kārya hēḷiri. sakkareyāyitu, keṭṭavaḷēnū, duḥkhitanādanu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "1. ವಿವಿಧ ವಚನಕಾರರ ವಚನಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಓದಿರಿ.",
+      "translations": {
+        "en": "1. Collect and read vachanas of various vachana poets.",
+        "hi": "1. विभिन्न वचनकारों के वचन संगृहीत कर पढ़िए।"
+      },
+      "transliterations": {
+        "devanagari": "1. विविध वचनकारर वचनगळन्नु संग्रहिसि ओदिरि.",
+        "latin": "1. vividha vacanakārara vacanagaḷannu saṅgrahisi ōdiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q2",
+      "text": "2. ಧ್ವನಿ ಸುರುಳಿಯಲ್ಲಿರುವ ವಚನಗಳನ್ನು ಆಲಿಸಿರಿ.",
+      "translations": {
+        "en": "2. Listen to vachanas on audio recordings.",
+        "hi": "2. ध्वनि रिकॉर्डिंग में वचन सुनिए।"
+      },
+      "transliterations": {
+        "devanagari": "2. ध्वनि सुरुळियल्लिरुव वचनगळन्नु आलिसिरि.",
+        "latin": "2. dhvani suruḷiyalliruva vacanagaḷannu ālisiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q3",
+      "text": "3. ಸಾಮೂಹಿಕವಾಗಿ ವಚನಗಳನ್ನು ಹಾಡಿರಿ.",
+      "translations": {
+        "en": "3. Sing vachanas in a group.",
+        "hi": "3. सामूहिक रूप से वचन गाइए।"
+      },
+      "transliterations": {
+        "devanagari": "3. सामूहिकवागि वचनगळन्नु हाडिरि.",
+        "latin": "3. sāmūhikavāgi vacanagaḷannu hāḍiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q4",
+      "text": "4. ವಚನಕಾರರ ಜೀವನ ಚರಿತ್ರೆಗಳನ್ನು ಓದಿರಿ.",
+      "translations": {
+        "en": "4. Read life histories of vachana poets.",
+        "hi": "4. वचनकारों की जीवनियाँ पढ़िए।"
+      },
+      "transliterations": {
+        "devanagari": "4. वचनकारर जीवन चरित्रेगळन्नु ओदिरि.",
+        "latin": "4. vacanakārara jīvana caritregaḷannu ōdiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "1. ಬಹಿರಂಗಶುದ್ಧಿಗಿಂತ ಅಂತರಂಗಶುದ್ಧಿ ಬಹಳ ಮುಖ್ಯ.",
+      "translations": {
+        "en": "1. Inner purity is far more important than outer purity.",
+        "hi": "1. बहिरंग शुद्धि से अंतरंग शुद्धि कहीं अधिक महत्वपूर्ण है।"
+      },
+      "transliterations": {
+        "devanagari": "1. बहिरंगशुद्धिगिंत अंतरंगशुद्धि बहळ मुख्य.",
+        "latin": "1. bahiraṅgaśuddhiginta antaraṅgaśuddhi bahaḷa mukhya."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q2",
+      "text": "2. ದೈವ ಚಿಂತನೆಯಿಂದ ಮನಸ್ಸಿಗೆ ಆನಂದ ದೊರೆಯುತ್ತದೆ.",
+      "translations": {
+        "en": "2. Thought of the divine brings joy to the mind.",
+        "hi": "2. दैव चिंतन से मन को आनंद मिलता है।"
+      },
+      "transliterations": {
+        "devanagari": "2. दैव चिंतनेयिंद मनस्सिगे आनंद दोरेयुत्तदे.",
+        "latin": "2. daiva cintaneyinda manassige ānanda doreyuttade."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q3",
+      "text": "3. ಹೊಗಳಿಕೆಗೆ ಹಿಗ್ಗಬಾರದು; ತೆಗಳಿಕೆಗೆ ಕುಗ್ಗಬಾರದು.",
+      "translations": {
+        "en": "3. Do not swell with praise; do not shrink with blame.",
+        "hi": "3. प्रशंसा पर फूल मत जाओ; निंदा पर सिकुड़ो मत।"
+      },
+      "transliterations": {
+        "devanagari": "3. होगळिकेगे हिग्गबारदु; तेगळिकेगे कुग्गबारदु.",
+        "latin": "3. hogaḷikege higgabāradu; tegaḷikege kuggabāradu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q4",
+      "text": "4. ನಡೆನುಡಿಗಳು ಒಂದಾಗಿರಬೇಕು.",
+      "translations": {
+        "en": "4. Conduct and speech should be one.",
+        "hi": "4. आचरण और वचन एक होने चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "4. नडेनुडिगळु ओंदागिरबेकु.",
+        "latin": "4. naḍenuḍigaḷu ondāgirabēku."
+      },
+      "type": "question"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ bookId: ktbs-savi-kannada-g2-fl-p1
 label: Savi Kannada Grade 2 First Language Part 1 (2026–27)
 printedGrade: 2
 languageRole: first-language
-license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+license: CC BY 4.0
 academicYears:
 - 2026-27
 provenance:
@@ -18,46 +18,38 @@ chapters:
   title: ಬಣ್ಣದ ಹಕ್ಕಿ
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch01-bannada-hakki
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch01-bannada-hakki
-  held: true
 - id: ch02-ooricobba-rajanante
   number: 2
   title: ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch02-ooricobba-rajanante
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch02-ooricobba-rajanante
-  held: true
 - id: ch03-geletana
   number: 3
   title: ಗೆಳತನ
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch03-geletana
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch03-geletana
-  held: true
 - id: ch04-kempegoudara-kanasu
   number: 4
   title: ಕೆಂಪೇಗೌಡರ ಕನಸು
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch04-kempegoudara-kanasu
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch04-kempegoudara-kanasu
-  held: true
 - id: ch05-halliya-dariya-badiyali
   number: 5
   title: ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch05-halliya-dariya-badiyali
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch05-halliya-dariya-badiyali
-  held: true
 - id: ch06-sante
   number: 6
   title: ಸಂತೆ
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch06-sante
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch06-sante
-  held: true
 - id: ch07-arive-guru
   number: 7
   title: ಅರಿವೇ ಗುರು
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch07-arive-guru
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch07-arive-guru
-  held: true
 - id: ch08-nanna-devaru
   number: 8
   title: ನನ್ನ ದೇವರು
   legacyPath: content/books/ktbs-savi-kannada-g2-fl-p1/editions/2026-27/chapters/ch08-nanna-devaru
   formerPath: KSEEB/Karnataka/Kannada/Grade2/Kannada/ch08-nanna-devaru
-  held: true

@@ -1,0 +1,890 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g6-fl-p1",
+    "chapterId": "ch07-ni-hoda-marudina",
+    "editionId": "2026-27",
+    "number": 7
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the poet",
+      "hi": "कवि-कृति परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॆळगिन प्रश्नॆगळिगॆ उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kèḻagina praśnègaḻigè uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. स्वंत वाक्यदल्लि बळसिरि.",
+      "en": "B. Use in your own sentences.",
+      "hi": "आ. अपने वाक्यों में प्रयोग कीजिए।",
+      "kn": "ಆ. ಸ್ವಂತ ವಾಕ್ಯದಲ್ಲಿ ಬಳಸಿರಿ.",
+      "latin": "ā. svaṃta vākyadalli baḻasiri."
+    },
+    "exercise-C": {
+      "devanagari": "इ. ई पद्यद सारांशवन्नु निम्म मातुगळल्लि बरॆयिरि.",
+      "en": "C. Write the gist of this poem in your own words.",
+      "hi": "इ. सार अपने शब्दों में लिखिए।",
+      "kn": "ಇ. ಈ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "latin": "i. ī padyada sārāṃśavannu nimma mātugaḻalli barèyiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. कॆळगिन पद्यभागवन्नु पूर्णगॊळिसिरि.",
+      "en": "D. Complete the following poem passages.",
+      "hi": "ई. पद्य भाग पूरा कीजिए।",
+      "kn": "ಈ. ಕೆಳಗಿನ ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "latin": "ī. kèḻagina padyabhāgavannu pūrṇagòḻisiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "notes": {
+      "devanagari": "विवर तिळियिरि",
+      "en": "Know the details",
+      "hi": "विवरण जानिए",
+      "kn": "ವಿವರ ತಿಳಿಯಿರಿ",
+      "latin": "vivara tiḻiyiri"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಚೆನ್ನಣ್ಣ ವಾಲೀಕಾರ",
+    "board": "KSEEB",
+    "chapter": 7,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch07-ni-hoda-marudina",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ನೀ ಹೋದ ಮರುದಿನ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯವು ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ದಲಿತ-ಬಂಡಾಯ, ಮಹಿಳಾ ಸಾಹಿತ್ಯ ಎಂಬ ವಿವಿಧ ದೃಷ್ಟಿಕೋನಗಳಲ್ಲಿ ಬೆಳೆದು ಬಂದಿದೆ. ದಲಿತರು ತಮ್ಮ ಬದುಕಿನ ಶೋಷಣೆ ನೋವುಗಳನ್ನು ಹಾಡಾಗಿ ಹೊಮ್ಮಿಸಿದ್ದೆ ದಲಿತ ಸಾಹಿತ್ಯ. ಸ್ವಾತಂತ್ರ್ಯ, ಸಂವಿಧಾನ ಬಂದರೂ ನಮ್ಮ ಬದುಕು ಇನ್ನೂ ಬದಲಾಗಲಿಲ್ಲ ಎಂಬ ನೋವಿದೆ. ಬದಲಾವಣೆಯ ಗಾಳಿ ಬೀಸಲಿ ಬದುಕು ಹಸನಾಗಲಿ ಎಂಬ ಆಶಯವನ್ನು ಈ ಕವಿತೆ ಹೊಂದಿದೆ.",
+      "translations": {
+        "en": "Modern Kannada literature has grown through various viewpoints such as Navodaya, progressive, Dalit-Bandaya and women’s literature. Dalit literature is the expression of Dalits’ life of exploitation and pain as song. Even after freedom and the Constitution, our lives have not yet changed—that pain remains. This poem holds the hope that the wind of change may blow and life may become better.",
+        "hi": "नवोदय, प्रगतिशील, दलित-बंडाय, महिला साहित्य जैसी दृष्टियों से होसगन्नड़ साहित्य बढ़ा है। दलितों ने जीवन के शोषण-दर्द को गीत बनाकर जो उभारा वही दलित साहित्य है। स्वतंत्रता और संविधान आने पर भी जीवन नहीं बदला—यह दर्द है। परिवर्तन की हवा चले, जीवन सुधरे—यह आशय इस कविता में है।"
+      },
+      "transliterations": {
+        "devanagari": "हॊसगन्नड साहित्यवु नवोदय, प्रगतिशील, दलित-बंडाय, महिळा साहित्य ऎंब विविध दृष्टिकोनगळल्लि बॆळॆदु बंदिदॆ. दलितरु तम्म बदुकिन शोषणॆ नोवुगळन्नु हाडागि हॊम्मिसिद्दॆ दलित साहित्य. स्वातंत्र्य, संविधान बंदरू नम्म बदुकु इन्नू बदलागलिल्ल ऎंब नोविदॆ. बदलावणॆय गाळि बीसलि बदुकु हसनागलि ऎंब आशयवन्नु ई कवितॆ हॊंदिदॆ.",
+        "latin": "hòsagannaḍa sāhityavu navodaya, pragatiśīla, dalita-baṃḍāya, mahiḻā sāhitya èṃba vividha dṛṣṭikonagaḻalli bèḻèdu baṃdidè. dalitaru tamma badukina śoṣaṇè novugaḻannu hāḍāgi hòmmisiddè dalita sāhitya. svātaṃtrya, saṃvidhāna baṃdarū namma baduku innū badalāgalilla èṃba novidè. badalāvaṇèya gāḻi bīsali baduku hasanāgali èṃba āśayavannu ī kavitè hòṃdidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನೀ ಹೋದ ಮರುದಿನ ಮೊದಲಂಗೆ ನಮ ಬದುಕು",
+      "translations": {
+        "en": "The day after you left, our life was as before",
+        "hi": "तुम्हारे जाने के अगले दिन हमारा जीवन पहले जैसा"
+      },
+      "transliterations": {
+        "devanagari": "नी होद मरुदिन मॊदलंगॆ नम बदुकु",
+        "latin": "nī hoda marudina mòdalaṃgè nama baduku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆಗ್ಯಾದೋ ಬಾಬಾ ಸಾಹೇಬ",
+      "translations": {
+        "en": "it has become, Baba Saheb",
+        "hi": "हो गया बाबा साहेब"
+      },
+      "transliterations": {
+        "devanagari": "आग्यादो बाबा साहेब",
+        "latin": "āgyādo bābā sāheba"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನಿನ್ನಂಗ ದುಡಿದವರು ಕಳಕಳಿಯ ಪಡುವವರು",
+      "translations": {
+        "en": "Those who toiled like you, who felt for others",
+        "hi": "तुम्हारे जैसे मेहनती, करुणा वाले"
+      },
+      "transliterations": {
+        "devanagari": "निन्नंग दुडिदवरु कळकळिय पडुववरु",
+        "latin": "ninnaṃga duḍidavaru kaḻakaḻiya paḍuvavaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಇನ್ನುತನ ಬರಲಿಲ್ಲ ಒಬ್ಬ",
+      "translations": {
+        "en": "not one more has come",
+        "hi": "और कोई नहीं आया"
+      },
+      "transliterations": {
+        "devanagari": "इन्नुतन बरलिल्ल ऒब्ब",
+        "latin": "innutana baralilla òbba"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಪ್ರತಿನಿತ್ಯ ಎದ್ದಾಗ ನಮಸುದ್ದಿ ಸಂಭ್ರಮವು",
+      "translations": {
+        "en": "Every day on waking, our news and celebration",
+        "hi": "प्रतिदिन उठते ही हमारी खबर और उत्साह"
+      },
+      "transliterations": {
+        "devanagari": "प्रतिनित्य ऎद्दाग नमसुद्दि संभ्रमवु",
+        "latin": "pratinitya èddāga namasuddi saṃbhramavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ದೇಕುವುದು ತಪ್ಪಿಲ್ಲ ನಮಗ",
+      "translations": {
+        "en": "never fail to blaze for us",
+        "hi": "हमारे लिए जलना नहीं चूकता"
+      },
+      "transliterations": {
+        "devanagari": "देकुवुदु तप्पिल्ल नमग",
+        "latin": "dekuvudu tappilla namaga"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಹೋದ ಹೋದಲ್ಲೆಲ್ಲ ಮೇಲವರ ಆಟಗಳು",
+      "translations": {
+        "en": "Wherever we go, the games of the powerful",
+        "hi": "जहाँ-जहाँ गए, ऊपर वालों के खेल"
+      },
+      "transliterations": {
+        "devanagari": "होद होदल्लॆल्ल मेलवर आटगळु",
+        "latin": "hoda hodallèlla melavara āṭagaḻu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಉರಿಹಚ್ಚಿ ಬಿಡುತಾರ ಒಳಗ",
+      "translations": {
+        "en": "set fire inside us",
+        "hi": "अंदर आग लगा देते"
+      },
+      "transliterations": {
+        "devanagari": "उरिहच्चि बिडुतार ऒळग",
+        "latin": "urihacci biḍutāra òḻaga"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಎಲ್ಲಿ ಕೇಳಿದರಲ್ಲಿ ಬೂಟುಗಾಲಿನ ಸದ್ದು",
+      "translations": {
+        "en": "Wherever we hear, the sound of booted feet",
+        "hi": "जहाँ सुना वहाँ जूतों की आहट"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लि केळिदरल्लि बूटुगालिन सद्दु",
+        "latin": "èlli keḻidaralli būṭugālina saddu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತರತರದ ನೋವುಗಳು ನಮಗ",
+      "translations": {
+        "en": "pains of every kind for us",
+        "hi": "तरह-तरह के दर्द हमें"
+      },
+      "transliterations": {
+        "devanagari": "तरतरद नोवुगळु नमग",
+        "latin": "taratarada novugaḻu namaga"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತಮ್ಮಂಗ ಇರದಿದ್ರೆ ತಲೆ ಕಡಿದು ಹಾಕುವರು",
+      "translations": {
+        "en": "If it is not among their own they cut off heads",
+        "hi": "अपनों में न हो तो सिर काट डालते"
+      },
+      "transliterations": {
+        "devanagari": "तम्मंग इरदिद्रॆ तलॆ कडिदु हाकुवरु",
+        "latin": "tammaṃga iradidrè talè kaḍidu hākuvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹೆಸರೀಗೆ ಸ್ವಾತಂತ್ರ್ಯ ನಮಗ",
+      "translations": {
+        "en": "this is what freedom is called for us",
+        "hi": "हमें स्वतंत्रता का यही नाम"
+      },
+      "transliterations": {
+        "devanagari": "हॆसरीगॆ स्वातंत्र्य नमग",
+        "latin": "hèsarīgè svātaṃtrya namaga"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕೈಕಾಲು ಕಿವಿ ಮೂಗು ಮೈ ಮನಸು ತಲೆ ಕಣ್ಣು",
+      "translations": {
+        "en": "Hands feet ears nose body mind head eyes",
+        "hi": "हाथ पैर कान नाक तन मन सिर आँखें"
+      },
+      "transliterations": {
+        "devanagari": "कैकालु किवि मूगु मै मनसु तलॆ कण्णु",
+        "latin": "kaikālu kivi mūgu mai manasu talè kaṇṇu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕಳಕೊಂಡ ಬರಡು ಗಿಡ ನಾವು",
+      "translations": {
+        "en": "we are a barren plant that lost them",
+        "hi": "इन्हें खोया बंजर पौधा हम"
+      },
+      "transliterations": {
+        "devanagari": "कळकॊंड बरडु गिड नावु",
+        "latin": "kaḻakòṃḍa baraḍu giḍa nāvu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮೈ ತುಂಬ ಮನತುಂಬ ಸಿಕ್ಕವರ ಮುಖಮುದ್ರೆ",
+      "translations": {
+        "en": "Body full mind full of others’ face-stamps",
+        "hi": "तन-मन भरे दूसरों की मुहरों से"
+      },
+      "transliterations": {
+        "devanagari": "मै तुंब मनतुंब सिक्कवर मुखमुद्रॆ",
+        "latin": "mai tuṃba manatuṃba sikkavara mukhamudrè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಚೀರಾಟ ಹಾರಟ ಸಾವೋ",
+      "translations": {
+        "en": "screams flights death",
+        "hi": "चीखें उड़ानें मौत"
+      },
+      "transliterations": {
+        "devanagari": "चीराट हारट सावो",
+        "latin": "cīrāṭa hāraṭa sāvo"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಹೋಗ್ಬಾರೋ ದಾರಿಯಲಿ ಅಡುಗಲ್ಲುಗಳು ಸೇರಿ",
+      "translations": {
+        "en": "Don’t go—on the road stones gather",
+        "hi": "मत जाओ—राह में पत्थर जुटे"
+      },
+      "transliterations": {
+        "devanagari": "होग्बारो दारियलि अडुगल्लुगळु सेरि",
+        "latin": "hogbāro dāriyali aḍugallugaḻu seri"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಮುಳಕಲ್ಲು ಹಾಸ್ಯಾವೊ ಪೂರ",
+      "translations": {
+        "en": "thorn-stones spread all over",
+        "hi": "काँटे-पत्थर बिछे पूरे"
+      },
+      "transliterations": {
+        "devanagari": "मुळकल्लु हास्यावॊ पूर",
+        "latin": "muḻakallu hāsyāvò pūra"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಹೆಚ್ಚಿಗೆ ಬೆಳೆದವರ ಉಳಿದವರ ಜೀವಗಳ",
+      "translations": {
+        "en": "Those who grew greater strike the lives of the rest",
+        "hi": "जो बढ़ गए वे बाकियों की जान"
+      },
+      "transliterations": {
+        "devanagari": "हॆच्चिगॆ बॆळॆदवर उळिदवर जीवगळ",
+        "latin": "hèccigè bèḻèdavara uḻidavara jīvagaḻa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಹಗಲಾಗ ಹೊಡೆದಾರ ಟಾರಾ",
+      "translations": {
+        "en": "they beat as if by day with tar",
+        "hi": "दिन में डामर की तरह पीटते"
+      },
+      "transliterations": {
+        "devanagari": "हगलाग हॊडॆदार टारा",
+        "latin": "hagalāga hòḍèdāra ṭārā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಎಷ್ಟಂತ ಉರಿತಾರ ಎಷ್ಟಂತ ಹರಿತಾರ",
+      "translations": {
+        "en": "How much they burn how much they cut",
+        "hi": "कितना जलाते कितना काटते"
+      },
+      "transliterations": {
+        "devanagari": "ऎष्टंत उरितार ऎष्टंत हरितार",
+        "latin": "èṣṭaṃta uritāra èṣṭaṃta haritāra"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ತಾಳದಕ್ಕೂ ಮಿತಿಯುಂಟು ಇಲ್ಲಿ",
+      "translations": {
+        "en": "even endurance has a limit here",
+        "hi": "सहन की भी सीमा है यहाँ"
+      },
+      "transliterations": {
+        "devanagari": "ताळदक्कू मितियुंटु इल्लि",
+        "latin": "tāḻadakkū mitiyuṃṭu illi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ತಾಳಿ ತಾಳಿಯೂ ಒಮ್ಮೆ ಚೇಳಾಗಿ ಕುಟುಕುವನು",
+      "translations": {
+        "en": "Endure endure and once he stings like a scorpion",
+        "hi": "सहन-सहन कर कभी बिच्छू बन डंक मारता"
+      },
+      "transliterations": {
+        "devanagari": "ताळि ताळियू ऒम्मॆ चेळागि कुटुकुवनु",
+        "latin": "tāḻi tāḻiyū òmmè ceḻāgi kuṭukuvanu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಸಾಮಾನ್ಯನಲ್ಲೋ ಬಡಜೀವಿ",
+      "translations": {
+        "en": "the poor soul is no ordinary person",
+        "hi": "गरीब प्राणी साधारण नहीं"
+      },
+      "transliterations": {
+        "devanagari": "सामान्यनल्लो बडजीवि",
+        "latin": "sāmānyanallo baḍajīvi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l1",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ದುಡಿದುಡಿದು ಹುಟ್ಟಿರಲು ಕತ್ತಲಿರುವಾ ತನಕ",
+      "translations": {
+        "en": "Toiling from birth until darkness",
+        "hi": "जन्म से अँधेरे तक मेहनत"
+      },
+      "transliterations": {
+        "devanagari": "दुडिदुडिदु हुट्टिरलु कत्तलिरुवा तनक",
+        "latin": "duḍiduḍidu huṭṭiralu kattaliruvā tanaka"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l2",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಕೊತ್ತಿಗಳು ಹೊತ್ಯಾವ ಜೋರಾ",
+      "translations": {
+        "en": "cats howl fiercely",
+        "hi": "बिल्लियाँ जोर से चिल्लातीं"
+      },
+      "transliterations": {
+        "devanagari": "कॊत्तिगळु हॊत्याव जोरा",
+        "latin": "kòttigaḻu hòtyāva jorā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l3",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ರೋಡಿಗಿದ್ದವರೆಲ್ಲಾ ಗ್ವಾಡ್ಯಾಗ ಕುಂತಾರ",
+      "translations": {
+        "en": "All who were on the road sit huddled in a pen",
+        "hi": "सड़क वाले सब बाड़े में बैठे"
+      },
+      "transliterations": {
+        "devanagari": "रोडिगिद्दवरॆल्ला ग्वाड्याग कुंतार",
+        "latin": "roḍigiddavarèllā gvāḍyāga kuṃtāra"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l4",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಇನ್ನಿಲ್ಲ ನಮ ದಾರಿ ದೂರ",
+      "translations": {
+        "en": "our road is no longer far",
+        "hi": "हमारी राह अब दूर नहीं"
+      },
+      "transliterations": {
+        "devanagari": "इन्निल्ल नम दारि दूर",
+        "latin": "innilla nama dāri dūra"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l1",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಬಾಬಾ ಸಾಹೇಬರೇನು ಹುಚ್ಚರಲ್ಲವೇ ಅಲ್ಲ",
+      "translations": {
+        "en": "Baba Saheb was no madman, was he?",
+        "hi": "बाबा साहेब पागल नहीं थे न?"
+      },
+      "transliterations": {
+        "devanagari": "बाबा साहेबरेनु हुच्चरल्लवे अल्ल",
+        "latin": "bābā sāhebarenu huccarallave alla"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l2",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಗಾಂಧಿಜೊತೆ ಇರಲಿಲ್ಲ ಸುಮ್ಮ",
+      "translations": {
+        "en": "he did not sit idle with Gandhi",
+        "hi": "गांधी के साथ चुप नहीं बैठे"
+      },
+      "transliterations": {
+        "devanagari": "गांधिजॊतॆ इरलिल्ल सुम्म",
+        "latin": "gāṃdhijòtè iralilla summa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l3",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಅಷ್ಟು ಒದ್ದಾಡಿದಕೆ ಇಂಗೈತೆ ನಮ್ ಬದುಕು",
+      "translations": {
+        "en": "For all that struggle, is our life like the English?",
+        "hi": "इतनी जद्दोजहद पर क्या जीवन अंग्रेज़ी जैसा?"
+      },
+      "transliterations": {
+        "devanagari": "अष्टु ऒद्दाडिदकॆ इंगैतॆ नम् बदुकु",
+        "latin": "aṣṭu òddāḍidakè iṃgaitè nam baduku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l4",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ತಿಳಿಯೀತೆ ಈಗ್ಲಾದ್ರೂ ತಮ್ಮ",
+      "translations": {
+        "en": "Would they understand even now",
+        "hi": "क्या अब भी वे समझेंगे"
+      },
+      "transliterations": {
+        "devanagari": "तिळियीतॆ ईग्लाद्रू तम्म",
+        "latin": "tiḻiyītè īglādrū tamma"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಡಾ. ಚೆನ್ನಣ್ಣ ವಾಲೀಕಾರರವರು 1943 ಏಪ್ರಿಲ್ 6 ರಂದು ಕಲ್ಬುರ್ಗಿ ಜಿಲ್ಲೆಯ ಚಿತ್ತಾಪುರ ತಾಲ್ಲೂಕಿನ ಶಂಕರವಾಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ದಲಿತ-ಬಂಡಾಯ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಅನೇಕ ಕವನ ಸಂಕಲನಗಳು, ಕಥಾಸಂಕಲನಗಳು, ಮಹಾಕಾವ್ಯಗಳು ಮತ್ತು ನಾಟಕಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಕವಿತೆಯನ್ನು ಇವರ ‘ಸಮಗ್ರ ಕಾವ್ಯ ಸಂಪುಟ’ದಿಂದ ಆರಿಸಿಕೊಳ್ಳಲಾಗಿದೆ. ಡಾ. ಚೆನ್ನಣ್ಣ ವಾಲೀಕಾರರವರು 23.11.2019 ರಂದು ನಿಧನರಾಗಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Dr Chennanna Valikar was born on 6 April 1943 in Shankaravadi, Chittapur taluk, Kalaburagi district. Against a Dalit-Bandaya background he wrote many poetry collections, story collections, epics and plays. This poem is taken from his ‘Samagra Kavya Samputa’. He passed away on 23.11.2019.",
+        "hi": "डॉ. चेन्नण्णा वालीकार का जन्म 6 अप्रैल 1943 को कलबुर्गी जिले के चित्तापुर तालुक के शंकरवाड़ी में हुआ। दलित-बंडाय पृष्ठभूमि में अनेक काव्य, कथा, महाकाव्य और नाटक लिखे। यह कविता उनके ‘समग्र काव्य संपुट’ से ली गई। 23.11.2019 को निधन हुआ।"
+      },
+      "transliterations": {
+        "devanagari": "डा. चॆन्नण्ण वालीकाररवरु 1943 एप्रिल् 6 रंदु कल्बुर्गि जिल्लॆय चित्तापुर ताल्लूकिन शंकरवाडियल्लि जनिसिदरु. दलित-बंडाय हिन्नॆलॆयल्लि अनेक कवन संकलनगळु, कथासंकलनगळु, महाकाव्यगळु मत्तु नाटकगळन्नु रचिसिद्दारॆ. प्रस्तुत कवितॆयन्नु इवर ‘समग्र काव्य संपुट’दिंद आरिसिकॊळ्ळलागिदॆ. डा. चॆन्नण्ण वालीकाररवरु 23.11.2019 रंदु निधनरागिद्दारॆ.",
+        "latin": "ḍā. cènnaṇṇa vālīkāraravaru 1943 epril 6 raṃdu kalburgi jillèya cittāpura tāllūkina śaṃkaravāḍiyalli janisidaru. dalita-baṃḍāya hinnèlèyalli aneka kavana saṃkalanagaḻu, kathāsaṃkalanagaḻu, mahākāvyagaḻu mattu nāṭakagaḻannu racisiddārè. prastuta kavitèyannu ivara ‘samagra kāvya saṃpuṭa’diṃda ārisikòḻḻalāgidè. ḍā. cènnaṇṇa vālīkāraravaru 23.11.2019 raṃdu nidhanarāgiddārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-baradu",
+      "section": "vocab",
+      "text": "ಬರಡು",
+      "translations": {
+        "en": "barren",
+        "hi": "बंजर"
+      },
+      "transliterations": {
+        "devanagari": "बरडु",
+        "latin": "baraḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-baradu-def",
+      "section": "vocab",
+      "text": "ಸತ್ವಹೀನ",
+      "translations": {
+        "en": "without strength",
+        "hi": "सत्त्वहीन"
+      },
+      "transliterations": {
+        "devanagari": "सत्वहीन",
+        "latin": "satvahīna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kottigalu",
+      "section": "vocab",
+      "text": "ಕೊತ್ತಿಗಳು",
+      "translations": {
+        "en": "cats",
+        "hi": "बिल्लियाँ"
+      },
+      "transliterations": {
+        "devanagari": "कॊत्तिगळु",
+        "latin": "kòttigaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kottigalu-def",
+      "section": "vocab",
+      "text": "ಬೆಕ್ಕುಗಳು",
+      "translations": {
+        "en": "cats",
+        "hi": "बिल्लियाँ"
+      },
+      "transliterations": {
+        "devanagari": "बॆक्कुगळु",
+        "latin": "bèkkugaḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-taara",
+      "section": "vocab",
+      "text": "ಟಾರಾ",
+      "translations": {
+        "en": "tar",
+        "hi": "टार"
+      },
+      "transliterations": {
+        "devanagari": "टारा",
+        "latin": "ṭārā"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-taara-def",
+      "section": "vocab",
+      "text": "ಡಾಂಬರು",
+      "translations": {
+        "en": "tar, asphalt",
+        "hi": "डामर"
+      },
+      "transliterations": {
+        "devanagari": "डांबरु",
+        "latin": "ḍāṃbaru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-baba-saheb",
+      "section": "notes",
+      "text": "ಬಾಬಾ ಸಾಹೇಬ",
+      "translations": {
+        "en": "Baba Saheb",
+        "hi": "बाबा साहेब"
+      },
+      "transliterations": {
+        "devanagari": "बाबा साहेब",
+        "latin": "bābā sāheba"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-baba-saheb-def",
+      "section": "notes",
+      "text": "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್",
+      "translations": {
+        "en": "Dr B.R. Ambedkar",
+        "hi": "डॉ. बी.आर. अंबेडकर"
+      },
+      "transliterations": {
+        "devanagari": "डा. बि. आर्. अंबेड्कर्",
+        "latin": "ḍā. bi. ār. aṃbeḍkar"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಯಾರು ಹೋದ ಮೇಲೆ ನಮ್ಮ ಬದುಕು ಮೊದಲಿನಂತೆ ಆಗಿದೆ ಎಂದು ಕವಿ ಹೇಳಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "After whose departure does the poet say our life became as before?",
+        "hi": "किसके जाने के बाद कवि कहते हैं जीवन पहले जैसा हो गया?"
+      },
+      "transliterations": {
+        "devanagari": "यारु होद मेलॆ नम्म बदुकु मॊदलिनंतॆ आगिदॆ ऎंदु कवि हेळिद्दारॆ?",
+        "latin": "yāru hoda melè namma baduku mòdalinaṃtè āgidè èṃdu kavi heḻiddārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಕವಿ ಯಾವುದು ಪ್ರತಿನಿತ್ಯ ತಪ್ಪಿಲ್ಲ ನಮಗೆ ಎಂದಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "What does the poet say never fails us every day?",
+        "hi": "कवि कहते हैं प्रतिदिन हमें क्या नहीं चूकता?"
+      },
+      "transliterations": {
+        "devanagari": "कवि यावुदु प्रतिनित्य तप्पिल्ल नमगॆ ऎंदिद्दारॆ?",
+        "latin": "kavi yāvudu pratinitya tappilla namagè èṃdiddārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಕವಿ ಏನನ್ನು ಕಳೆದುಕೊಂಡ ಬರಡು ಗಿಡ ನಾವು ಎಂದಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "What does the poet call a barren plant that has lost everything?",
+        "hi": "कवि किसे सब खोया बंजर पौधा कहते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "कवि एनन्नु कळॆदुकॊंड बरडु गिड नावु ऎंदिद्दारॆ?",
+        "latin": "kavi enannu kaḻèdukòṃḍa baraḍu giḍa nāvu èṃdiddārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ತಾಳಿ ತಾಳಿ ಒಮ್ಮೆ ಏನಾಗಿ ಕುಟುಕುವನು?",
+      "translations": {
+        "en": "After enduring and enduring, what does he become when he stings?",
+        "hi": "सहन-सहन कर डंक मारते समय वह क्या बन जाता है?"
+      },
+      "transliterations": {
+        "devanagari": "ताळि ताळि ऒम्मॆ एनागि कुटुकुवनु?",
+        "latin": "tāḻi tāḻi òmmè enāgi kuṭukuvanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "‘ನೀ ಹೋದ ಮರುದಿನ’ ಪದ್ಯವನ್ನು ಬರೆದವರು ಯಾರು?",
+      "translations": {
+        "en": "Who wrote the poem ‘Ni Hoda Marudina’?",
+        "hi": "‘नी होद मरुदिन’ पद्य किसने लिखा?"
+      },
+      "transliterations": {
+        "devanagari": "‘नी होद मरुदिन’ पद्यवन्नु बरॆदवरु यारु?",
+        "latin": "‘nī hoda marudina’ padyavannu barèdavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ",
+      "translations": {
+        "en": "freedom",
+        "hi": "स्वतंत्रता"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य",
+        "latin": "svātaṃtrya"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಬದುಕು",
+      "translations": {
+        "en": "life",
+        "hi": "जीवन"
+      },
+      "transliterations": {
+        "devanagari": "बदुकु",
+        "latin": "baduku"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಸಂಭ್ರಮ",
+      "translations": {
+        "en": "celebration",
+        "hi": "उत्साह"
+      },
+      "transliterations": {
+        "devanagari": "संभ्रम",
+        "latin": "saṃbhrama"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಕುಟುಕು",
+      "translations": {
+        "en": "to sting",
+        "hi": "डंक मारना"
+      },
+      "transliterations": {
+        "devanagari": "कुटुकु",
+        "latin": "kuṭuku"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಈ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Write the gist of this poem in your own words.",
+        "hi": "इस पद्य का सार अपने शब्दों में लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "ई पद्यद सारांशवन्नु निम्म मातुगळल्लि बरॆयिरि.",
+        "latin": "ī padyada sārāṃśavannu nimma mātugaḻalli barèyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ನೀ ಹೋದ ________________________ / ___________________ ಬರಲಿಲ್ಲ ಒಬ್ಬ ||ನೀ ಹೋದ||",
+      "translations": {
+        "en": "Complete: The day after you left ________ / ________ not one more has come ||after you left||",
+        "hi": "पूरा करें: नी होद ________ / ________ बरलिल्ल ओब्ब"
+      },
+      "transliterations": {
+        "devanagari": "नी होद ________________________ / ___________________ बरलिल्ल ऒब्ब ||नी होद||",
+        "latin": "nī hoda ________________________ / ___________________ baralilla òbba ||nī hoda||"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "section": "exercise-D",
+      "text": "ಕೈಕಾಲು __________________________ / _______________________ ಹಾರಟ ಸಾವೋ ||ನೀ ಹೋದ||",
+      "translations": {
+        "en": "Complete: Hands feet ________ / ________ screams flights death ||after you left||",
+        "hi": "पूरा करें: कैकालु ________ / ________ हारट सावो"
+      },
+      "transliterations": {
+        "devanagari": "कैकालु __________________________ / _______________________ हारट सावो ||नी होद||",
+        "latin": "kaikālu __________________________ / _______________________ hāraṭa sāvo ||nī hoda||"
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

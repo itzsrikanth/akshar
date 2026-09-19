@@ -1,0 +1,954 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g5-fl-p1",
+    "chapterId": "ch03-namma-matu-keli",
+    "editionId": "2026-27",
+    "number": 3
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions in one sentence.",
+      "hi": "अ. निम्नलिखित प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige ondu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. केळगिन प्रश्नेगळिगे एरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions in two or three sentences.",
+      "hi": "आ. निम्नलिखित प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. यारु, यारिगे हेळिदरु?",
+      "en": "C. Who said it, and to whom?",
+      "hi": "इ. किसने, किसे कहा?",
+      "kn": "ಇ. ಯಾರು, ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "latin": "i. yāru, yārige hēḷidaru?"
+    },
+    "exercise-D": {
+      "devanagari": "ई. बिट्ट स्थळगळन्नु तुंबिरि.",
+      "en": "D. Fill in the blanks.",
+      "hi": "ई. रिक्त स्थान भरिए।",
+      "kn": "ಈ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.",
+      "latin": "ī. biṭṭa sthaḷagaḷannu tumbiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ. वचन बदलिसि बरेयिरि.",
+      "en": "A. Change the number and write.",
+      "hi": "अ. वचन बदलकर लिखिए।",
+      "kn": "ಅ. ವಚನ ಬದಲಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "a. vacana badalisi bareyiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "आ. योजने",
+      "en": "B. Project",
+      "hi": "आ. परियोजना",
+      "kn": "ಆ. ಯೋಜನೆ",
+      "latin": "ā. yōjane"
+    },
+    "language-exercise-B": {
+      "devanagari": "इ. ओदिगे मन्नणे",
+      "en": "C. Recognition for reading",
+      "hi": "इ. पढ़ने की मान्यता",
+      "kn": "ಇ. ಓದಿಗೆ ಮನ್ನಣೆ",
+      "latin": "i. ōdige mannaṇe"
+    },
+    "language-exercise-C": {
+      "devanagari": "ई. शुभनुडि",
+      "en": "D. Good sayings",
+      "hi": "ई. शुभ वचन",
+      "kn": "ಈ. ಶುಭನುಡಿ",
+      "latin": "ī. śubhanuḍi"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch03-namma-matu-keli",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ನಮ್ಮ ಮಾತು ಕೇಳಿ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಎಲ್ಲ ಜೀವಿಗಳಿಗೂ ಬದುಕಲು ಸಮಾನ ಹಕ್ಕಿದೆ. ಆದರೆ ಮನುಷ್ಯ ತನ್ನ ಸ್ವಾರ್ಥ ನಿಮಿತ್ತನಾಗಿ ಅದಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತಿಲ್ಲ. ಕೆಲವೊಮ್ಮೆ ಆತ ತನ್ನ ಶಾಂತಿ ನೆಮ್ಮದಿಗಳಿಗೆ ತಾನೇ ಅಡ್ಡಿಯಾಗುತ್ತಾನೆ. ಮನುಷ್ಯ ಮಾಡುತ್ತಿರುವ ಸಾಧುವಲ್ಲದ ಕಾರ್ಯಗಳನ್ನು ಪ್ರಾಣಿಗಳ ಮೂಲಕ ಹೇಳಿಸಿ, ಆ ಮೂಲಕ ಆತನನ್ನು ಯೋಚನೆಗೆ ಹಚ್ಚುವುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "Every living being has an equal right to live. But humans, for their selfishness, do not allow that. Sometimes a person becomes an obstacle to their own peace and comfort. Getting animals to speak about the improper acts humans do, and thereby making people think—this is the aim here.",
+        "hi": "सभी जीवों को जीने का समान अधिकार है। पर मनुष्य अपने स्वार्थ के कारण उसकी अनुमति नहीं देता। कभी-कभी वह अपनी शांति-सुख में स्वयं बाधा बन जाता है। मनुष्य के अनुचित कामों को पशुओं के मुख से कहलाकर उसे सोचने पर मजबूर करना—यही यहाँ का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "एल्ल जीविगळिगू बदुकलु समान हक्किदे. आदरे मनुष्य तन्न स्वार्थ निमित्तनागि अदक्के अवकाश नीडुत्तिल्ल. केलवोम्मे आत तन्न शांति नेम्मदिगळिगे ताने अड्डियागुत्ताने. मनुष्य माडुत्तिरुव साधुवल्लद कार्यगळन्नु प्राणिगळ मूलक हेळिसि, आ मूलक आतनन्नु योचनेगे हच्चुवुदु इल्लिन आशयवागिदे.",
+        "latin": "ella jīvigaḷigū badukalu samāna hakkide. ādare manuṣya tanna svārtha nimittanāgi adakke avakāśa nīḍuttilla. kelavomme āta tanna śānti nemmadigaḷige tānē aḍḍiyāguttāne. manuṣya māḍuttiruva sādhuvallada kāryagaḷannu prāṇigaḷa mūlaka hēḷisi, ā mūlaka ātanannu yōcanege haccuvudu illina āśayavāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಒಂದಾನೊಂದು ಕಾಡು. ಅಲ್ಲಿ ಬಗೆಬಗೆಯ ಪ್ರಾಣಿಗಳು ವಾಸವಾಗಿದ್ದವು. ಆನೆಯು ಆ ಕಾಡಿನ ಅಧಿಪತಿಯಾಗಿತ್ತು. ಅದು ಆಗಾಗ ಸಭೆ ಕರೆದು ಅವುಗಳ ಕ್ಷೇಮ ಸಮಾಚಾರವನ್ನು ವಿಚಾರಿಸುತ್ತಿತ್ತು. ಊರಿನಲ್ಲಿರುವ ಪ್ರಾಣಿಗಳೊಂದಿಗೂ ಸ್ನೇಹವನ್ನು ಬೆಳೆಸಿತ್ತು. ಅವುಗಳಿಗೂ ಸಭೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ಅವಕಾಶ ನೀಡುತ್ತಿತ್ತು. ಉತ್ತಮ ನಾಯಕತ್ವ ಗುಣ ಹೊಂದಿರುವ ಆನೆಯು ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳಿಂದಲೂ ಮೆಚ್ಚುಗೆಯನ್ನು ಗಳಿಸಿತ್ತು.",
+      "translations": {
+        "en": "Once there was a forest. Many kinds of animals lived there. The elephant was the lord of that forest. It often called meetings and asked after their welfare. It had also made friends with animals of the village and let them take part in the meeting. With fine leadership, the elephant had won the praise of all animals.",
+        "hi": "एक जंगल था। वहाँ अनेक प्रकार के पशु रहते थे। हाथी उस जंगल का अधिपति था। वह अक्सर सभा बुलाकर उनका कुशल पूछता था। गाँव के पशुओं से भी मित्रता बढ़ाई थी और सभा में भाग लेने का अवसर देता था। उत्तम नेतृत्व गुण वाला हाथी सभी पशुओं की प्रशंसा पा चुका था।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदानोंदु काडु. अल्लि बगेबगेय प्राणिगळु वासवागिद्दवु. आनेयु आ काडिन अधिपतियागित्तु. अदु आगाग सभे करेदु अवुगळ क्षेम समाचारवन्नु विचारिसुत्तित्तु. ऊरिनल्लिरुव प्राणिगळोंदिगू स्नेहवन्नु बेळेसित्तु. अवुगळिगू सभेयल्लि पाल्गोळ्ळलु अवकाश नीडुत्तित्तु. उत्तम नायकत्व गुण होंदिरुव आनेयु एल्ला प्राणिगळिंदलू मेच्चुगेयन्नु गळिसित्तु.",
+        "latin": "ondānondu kāḍu. alli bagebageya prāṇigaḷu vāsavāgiddavu. āneyu ā kāḍina adhipatiyāgittu. adu āgāga sabhe karedu avugaḷa kṣēma samācāravannu vicārisuttittu. ūrinalliruva prāṇigaḷondigū snēhavannu beḷesittu. avugaḷigū sabheyalli pālgoḷḷalu avakāśa nīḍuttittu. uttama nāyakatva guṇa hondiruva āneyu ellā prāṇigaḷindalū meccugeyannu gaḷisittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಹೀಗೆಯೇ ಒಂದು ದಿನ ಸಭೆ ಕರೆದಿತ್ತು. ಎಲ್ಲ ಪ್ರಾಣಿಗಳು ಅಂದು ಮನುಷ್ಯರ ಮೇಲೆ ಬಹಳವಾಗಿ ದೂರು ಹೇಳುತ್ತಿದ್ದವು. ಮಾನವನಿಂದ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಹಾಗೂ ಪರಿಹಾರ ಕುರಿತು ಚರ್ಚಿಸಿದ್ದವು. ಮನುಷ್ಯನಿಗೆ ತಿಳಿಹೇಳಲು ಫಲಕದಲ್ಲಿ ವಿವರ ಬರೆದು ತರಲು ಆನೆಯು ಪ್ರಾಣಿಗಳಿಗೆ ಸೂಚನೆ ನೀಡಿತ್ತು. ಅದರಂತೆ ಪ್ರಾಣಿಗಳು ಈ ದಿನದ ಸಭೆಗೆ ಸಿದ್ದವಾಗಿ ಬಂದಿದ್ದವು. ನಾಯಕನ ಸೂಚನೆಯಂತೆ ಅವುಗಳು ತಮ್ಮ ಫಲಕಗಳನ್ನು ಹಿಡಿದುಕೊಂಡು ಸಾಲಾಗಿ ನಿಂತಿದ್ದವು. ಆನೆಯು ಅವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಓದುತ್ತಾ ಮುನ್ನಡೆಯಿತು.",
+      "translations": {
+        "en": "One day it had called such a meeting. All the animals were complaining heavily about humans that day. They discussed the trouble caused by humans and the remedy. The elephant had told the animals to write details on boards to explain to humans. Accordingly the animals had come prepared for today’s meeting. As the leader directed, they stood in a line holding their boards. The elephant went ahead reading them one by one.",
+        "hi": "इसी तरह एक दिन सभा बुलाई थी। सभी पशु उस दिन मनुष्यों पर बहुत शिकायत कर रहे थे। मनुष्य से हो रही परेशानी और समाधान पर चर्चा की थी। मनुष्य को समझाने के लिए फलकों पर विवरण लिखकर लाने को हाथी ने पशुओं को निर्देश दिया था। उसी के अनुसार पशु आज की सभा के लिए तैयार आकर खड़े थे। नेता के निर्देशानुसार फलके पकड़े पंक्ति में खड़े थे। हाथी उन्हें एक-एक कर पढ़ता आगे बढ़ा।"
+      },
+      "transliterations": {
+        "devanagari": "हीगेये ओंदु दिन सभे करेदित्तु. एल्ल प्राणिगळु अंदु मनुष्यर मेले बहळवागि दूरु हेळुत्तिद्दवु. मानवनिंद आगुत्तिरुव तोंदरे हागू परिहार कुरितु चर्चिसिद्दवु. मनुष्यनिगे तिळिहेळलु फलकदल्लि विवर बरेदु तरलु आनेयु प्राणिगळिगे सूचने नीडित्तु. अदरंते प्राणिगळु ई दिनद सभेगे सिद्दवागि बंदिद्दवु. नायकन सूचनेयंते अवुगळु तम्म फलकगळन्नु हिडिदुकोंडु सालागि निंतिद्दवु. आनेयु अवुगळन्नु ओंदोंदागि ओदुत्ता मुन्नडेयितु.",
+        "latin": "hīgeyē ondu dina sabhe karedittu. ella prāṇigaḷu andu manuṣyara mēle bahaḷavāgi dūru hēḷuttiddavu. mānavaninda āguttiruva tondare hāgū parihāra kuritu carcisiddavu. manuṣyanige tiḷihēḷalu phalakadalli vivara baredu taralu āneyu prāṇigaḷige sūcane nīḍittu. adarante prāṇigaḷu ī dinada sabhege siddavāgi bandiddavu. nāyakana sūcaneyante avugaḷu tamma phalakagaḷannu hiḍidukoṇḍu sālāgi nintiddavu. āneyu avugaḷannu ondondāgi ōduttā munnaḍeyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ಎತ್ತು",
+      "text": "“ನಮ್ಮನ್ನು ಹೆಚ್ಚು ಹೆಚ್ಚು ದುಡಿಸಿಕೊಳ್ಳುತ್ತೀರಿ. ಕಡಿಮೆ ಆಹಾರ ನೀಡುತ್ತೀರಿ. ನಮ್ಮ ಸೇವೆ ಬೇಕು; ನಾವು ಮಾತ್ರ ಬೇಡ ಅಲ್ಲವೇ? ನಮ್ಮ ಸೇವೆಯನ್ನು ಮರೆಯದಿರಿ.” “ದಯೆಯಿರಲಿ ಸಕಲ ಪ್ರಾಣಿಗಳಲ್ಲಿ.”",
+      "translations": {
+        "en": "\"You make us work more and more. You give less food. You want our service; but not us, isn’t it? Do not forget our service.\" \"Let there be kindness toward all animals.\"",
+        "hi": "«तुम हमें और अधिक काम पर लगाते हो। कम आहार देते हो। हमारी सेवा चाहिए; हम नहीं, है न? हमारी सेवा मत भूलो।» «सभी पशुओं पर दया हो।»"
+      },
+      "transliterations": {
+        "devanagari": "“नम्मन्नु हेच्चु हेच्चु दुडिसिकोळ्ळुत्तीरि. कडिमे आहार नीडुत्तीरि. नम्म सेवे बेकु; नावु मात्र बेड अल्लवे? नम्म सेवेयन्नु मरेयदिरि.” “दयेयिरलि सकल प्राणिगळल्लि.”",
+        "latin": "“nammannu heccu heccu duḍisikoḷḷuttīri. kaḍime āhāra nīḍuttīri. namma sēve bēku; nāvu mātra bēḍa allavē? namma sēveyannu mareyadiri.” “dayeyirali sakala prāṇigaḷalli.”"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ಜಿಂಕೆ",
+      "text": "“ನಮ್ಮ ಬದುಕಿನ ಆಧಾರತಾಣ ಕಾಡು. ಅದನ್ನು ನಾಶ ಮಾಡುತ್ತಿದ್ದೀರಿ. ನಮಗೆ ತಿನ್ನಲು ಹುಲ್ಲಿಲ್ಲ. ಮಲಗಲು ಮರದ ನೆರಳಿಲ್ಲ. ಕಾಡು ನಿಮಗೂ ಬೇಕು. ನಮಗೂ ಬೇಕು.” “ನಮ್ಮನ್ನು ಉಳಿಸಿರಿ, ನೀವೂ ಉಳಿಯಿರಿ.”",
+      "translations": {
+        "en": "\"The base of our life is the forest. You are destroying it. We have no grass to eat. No tree shade to sleep under. The forest is needed for you too. Needed for us too.\" \"Save us, and you will be saved too.\"",
+        "hi": "«हमारे जीवन का आधार जंगल है। तुम उसे नष्ट कर रहे हो। हमें खाने को घास नहीं। सोने को पेड़ की छाया नहीं। जंगल तुम्हें भी चाहिए। हमें भी चाहिए।» «हमें बचाओ, तुम भी बचोगे।»"
+      },
+      "transliterations": {
+        "devanagari": "“नम्म बदुकिन आधारताण काडु. अदन्नु नाश माडुत्तिद्दीरि. नमगे तिन्नलु हुल्लिल्ल. मलगलु मरद नेरळिल्ल. काडु निमगू बेकु. नमगू बेकु.” “नम्मन्नु उळिसिरि, नीवू उळियिरि.”",
+        "latin": "“namma badukina ādhāratāṇa kāḍu. adannu nāśa māḍuttiddīri. namage tinnalu hullilla. malagalu marada neraḷilla. kāḍu nimagū bēku. namagū bēku.” “nammannu uḷisiri, nīvū uḷiyiri.”"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ಆಮೆ",
+      "text": "“ನೀರು ಅಮೂಲ್ಯ ಸಂಪತ್ತು. ಅದನ್ನು ಹಾಳು ಮಾಡುತ್ತಿದ್ದೀರಿ. ಕಸಕಡ್ಡಿ ಹಾಕಿ ಕಲ್ಮಷಗೊಳಿಸುತ್ತಿದ್ದೀರಿ. ನಮಗೆ ನೀರಿನಲ್ಲಿರಲು ಆಗುತ್ತಿಲ್ಲ. ಶುದ್ಧ ನೀರು ನಮಗೂ ಬೇಕು, ನಿಮಗೂ ಬೇಕು.” “ನೀರು ಉಳಿಸಿ, ನಾಡು ಬೆಳೆಸಿ.”",
+      "translations": {
+        "en": "\"Water is a precious treasure. You are spoiling it. You dirty it with rubbish. We cannot stay in the water. Clean water is needed for us and for you.\" \"Save water, grow the land.\"",
+        "hi": "«जल अमूल्य संपत्ति है। तुम उसे बर्बाद कर रहे हो। कचरा डालकर गंदा कर रहे हो। हमें जल में रहना कठिन है। शुद्ध जल हमें भी चाहिए, तुम्हें भी।» «जल बचाओ, नाडु बढ़ाओ।»"
+      },
+      "transliterations": {
+        "devanagari": "“नीरु अमूल्य संपत्तु. अदन्नु हाळु माडुत्तिद्दीरि. कसकड्डि हाकि कल्मषगोळिसुत्तिद्दीरि. नमगे नीरिनल्लिरलु आगुत्तिल्ल. शुद्ध नीरु नमगू बेकु, निमगू बेकु.” “नीरु उळिसि, नाडु बेळेसि.”",
+        "latin": "“nīru amūlya sampattu. adannu hāḷu māḍuttiddīri. kasakaḍḍi hāki kalmaṣagoḷisuttiddīri. namage nīrinalliralu āguttilla. śuddha nīru namagū bēku, nimagū bēku.” “nīru uḷisi, nāḍu beḷesi.”"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ನಾಯಿ",
+      "text": "“ನಾನು ನಿಮ್ಮ ಮನೆಯ ಕಾವಲುಗಾರ. ನಿಮ್ಮ ಮನೆಗೆ ಬರುವ ಕಳ್ಳರನ್ನು ಓಡಿಸುವೆ. ಆದರೆ ನೀವು ನನ್ನನ್ನು ಪ್ರೀತಿಯಿಂದ ಕಾಣುವುದಿಲ್ಲ. ಕಲ್ಲುಗಳಿಂದ ಹೊಡೆಯುತ್ತೀರಿ. ಇದು ಸರಿಯೇ?” “ಮೂಕ ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೀತಿಸಿರಿ.”",
+      "translations": {
+        "en": "\"I am the guard of your house. I drive away thieves who come to your house. But you do not treat me with love. You hit me with stones. Is this right?\" \"Love the mute animals.\"",
+        "hi": "«मैं तुम्हारे घर का रक्षक हूँ। घर आने वाले चोरों को भगाता हूँ। पर तुम मुझे प्रेम से नहीं देखते। पत्थरों से मारते हो। क्या यह सही है?» «मूक पशुओं से प्रेम करो।»"
+      },
+      "transliterations": {
+        "devanagari": "“नानु निम्म मनेय कावलुगार. निम्म मनेगे बरुव कळ्ळरन्नु ओडिसुवे. आदरे नीवु नन्नन्नु प्रीतियिंद काणुवुदिल्ल. कल्लुगळिंद होडेयुत्तीरि. इदु सरिये?” “मूक प्राणिगळन्नु प्रीतिसिरि.”",
+        "latin": "“nānu nimma maneya kāvalugāra. nimma manege baruva kaḷḷarannu ōḍisuve. ādare nīvu nannannu prītiyinda kāṇuvudilla. kallugaḷinda hoḍeyuttīri. idu sariyē?” “mūka prāṇigaḷannu prītisiri.”"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "story",
+      "speaker": "ಕರಡಿ",
+      "text": "“ನಮ್ಮ ಚರ್ಮ, ಉಗುರು, ಕೂದಲು, ದಂತಗಳಿಗಾಗಿ ನಮ್ಮನ್ನು ಕೊಲ್ಲುವಿರಿ. ನಮ್ಮ ಸಂತತಿಯನ್ನು ನಾಶಮಾಡುವ ಹಕ್ಕು ನಿಮಗಿಲ್ಲ.” “ಪ್ರಾಣಿ ಹಿಂಸೆ ಮಹಾಪಾಪ.”",
+      "translations": {
+        "en": "\"You kill us for our skin, nails, hair and tusks. You have no right to destroy our lineage.\" \"Hurting animals is a great sin.\"",
+        "hi": "«हमारी खाल, नाखून, बाल, दाँतों के लिए हमें मारते हो। हमारी संतति नष्ट करने का अधिकार तुम्हें नहीं।» «पशु हिंसा महापाप है।»"
+      },
+      "transliterations": {
+        "devanagari": "“नम्म चर्म, उगुरु, कूदलु, दंतगळिगागि नम्मन्नु कोल्लुविरि. नम्म संततियन्नु नाशमाडुव हक्कु निमगिल्ल.” “प्राणि हिंसे महापाप.”",
+        "latin": "“namma carma, uguru, kūdalu, dantagaḷigāgi nammannu kolluviri. namma santatiyannu nāśamāḍuva hakku nimagilla.” “prāṇi hinse mahāpāpa.”"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "story",
+      "speaker": "ಆನೆ",
+      "text": "“ಮನುಷ್ಯರೇ, ಅತಿಯಾಸೆ ಬಿಡಿ. ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೀತಿಸಿ. ಕಾಡನ್ನು ಬೆಳೆಸಿ. ನೀರನ್ನು ಶುದ್ಧವಾಗಿಡಿ. ಪರಿಸರವನ್ನು ರಕ್ಷಿಸಿ. ಆಗ ಮಾತ್ರ ನೀವು ನೆಮ್ಮದಿಯಿಂದ ಬಾಳಲು ಸಾಧ್ಯ.”",
+      "translations": {
+        "en": "\"O humans, give up greed. Love animals. Grow the forest. Keep water clean. Protect the environment. Only then can you live in peace.\"",
+        "hi": "«हे मनुष्यों, अति लोभ छोड़ो। पशुओं से प्रेम करो। जंगल बढ़ाओ। जल शुद्ध रखो। पर्यावरण की रक्षा करो। तभी तुम शांति से जी सकोगे।»"
+      },
+      "transliterations": {
+        "devanagari": "“मनुष्यरे, अतियासे बिडि. प्राणिगळन्नु प्रीतिसि. काडन्नु बेळेसि. नीरन्नु शुद्धवागिडि. परिसरवन्नु रक्षिसि. आग मात्र नीवु नेम्मदियिंद बाळलु साध्य.”",
+        "latin": "“manuṣyarē, atiyāse biḍi. prāṇigaḷannu prītisi. kāḍannu beḷesi. nīrannu śuddhavāgiḍi. parisaravannu rakṣisi. āga mātra nīvu nemmadiyinda bāḷalu sādhya.”"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "vocab-adhipathi",
+      "text": "ಅಧಿಪತಿ",
+      "translations": {
+        "en": "adhipati (lord)",
+        "hi": "अधिपति"
+      },
+      "transliterations": {
+        "devanagari": "अधिपति",
+        "latin": "adhipati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-adhipathi-def",
+      "text": "ಒಡೆಯ, ಯಜಮಾನ",
+      "translations": {
+        "en": "owner, master",
+        "hi": "स्वामी, मालिक"
+      },
+      "transliterations": {
+        "devanagari": "ओडेय, यजमान",
+        "latin": "oḍeya, yajamāna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-amulya",
+      "text": "ಅಮೂಲ್ಯ",
+      "translations": {
+        "en": "amulya (precious)",
+        "hi": "अमूल्य"
+      },
+      "transliterations": {
+        "devanagari": "अमूल्य",
+        "latin": "amūlya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-amulya-def",
+      "text": "ಬೆಲೆಕಟ್ಟಲಾಗದ, ಶ್ರೇಷ್ಠವಾದ",
+      "translations": {
+        "en": "priceless, excellent",
+        "hi": "अनमोल, श्रेष्ठ"
+      },
+      "transliterations": {
+        "devanagari": "बेलेकट्टलागद, श्रेष्ठवाद",
+        "latin": "belekaṭṭalāgada, śrēṣṭhavāda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kalmasha",
+      "text": "ಕಲ್ಮಷ",
+      "translations": {
+        "en": "kalmasha (filth)",
+        "hi": "कल्मष"
+      },
+      "transliterations": {
+        "devanagari": "कल्मष",
+        "latin": "kalmaṣa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kalmasha-def",
+      "text": "ಕೊಳೆ, ಮಲಿನ",
+      "translations": {
+        "en": "dirt, pollution",
+        "hi": "मैल, प्रदूषण"
+      },
+      "transliterations": {
+        "devanagari": "कोळे, मलिन",
+        "latin": "koḷe, malina"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ksema",
+      "text": "ಕ್ಷೇಮ",
+      "translations": {
+        "en": "kshema (welfare)",
+        "hi": "क्षेम"
+      },
+      "transliterations": {
+        "devanagari": "क्षेम",
+        "latin": "kṣēma"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ksema-def",
+      "text": "ಕುಶಲ, ಸುಖ",
+      "translations": {
+        "en": "well-being, happiness",
+        "hi": "कुशल, सुख"
+      },
+      "transliterations": {
+        "devanagari": "कुशल, सुख",
+        "latin": "kuśala, sukha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-daye",
+      "text": "ದಯೆ",
+      "translations": {
+        "en": "daye (compassion)",
+        "hi": "दया"
+      },
+      "transliterations": {
+        "devanagari": "दये",
+        "latin": "daye"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-daye-def",
+      "text": "ಕರುಣೆ, ಕನಿಕರ",
+      "translations": {
+        "en": "mercy, pity",
+        "hi": "करुणा"
+      },
+      "transliterations": {
+        "devanagari": "करुणे, कनिकर",
+        "latin": "karuṇe, kanikara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-phalaka",
+      "text": "ಫಲಕ",
+      "translations": {
+        "en": "phalaka (board)",
+        "hi": "फलक"
+      },
+      "transliterations": {
+        "devanagari": "फलक",
+        "latin": "phalaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-phalaka-def",
+      "text": "ಹಲಗೆ",
+      "translations": {
+        "en": "plank, board",
+        "hi": "पट्टा, बोर्ड"
+      },
+      "transliterations": {
+        "devanagari": "हलगे",
+        "latin": "halage"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-muka",
+      "text": "ಮೂಕ",
+      "translations": {
+        "en": "muka (mute)",
+        "hi": "मूक"
+      },
+      "transliterations": {
+        "devanagari": "मूक",
+        "latin": "mūka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-muka-def",
+      "text": "ಮಾತಿಲ್ಲದ",
+      "translations": {
+        "en": "without speech",
+        "hi": "बिना बोली का"
+      },
+      "transliterations": {
+        "devanagari": "मातिल्लद",
+        "latin": "mātillada"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-samachara",
+      "text": "ಸಮಾಚಾರ",
+      "translations": {
+        "en": "samachara (news)",
+        "hi": "समाचार"
+      },
+      "transliterations": {
+        "devanagari": "समाचार",
+        "latin": "samācāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-samachara-def",
+      "text": "ಸುದ್ದಿ, ವರದಿ",
+      "translations": {
+        "en": "news, report",
+        "hi": "खबर, रिपोर्ट"
+      },
+      "transliterations": {
+        "devanagari": "सुद्दि, वरदि",
+        "latin": "suddi, varadi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಕಾಡಿನ ಅಧಿಪತಿ ಯಾರು?",
+      "translations": {
+        "en": "Who is the lord of the forest?",
+        "hi": "जंगल का अधिपति कौन है?"
+      },
+      "transliterations": {
+        "devanagari": "काडिन अधिपति यारु?",
+        "latin": "kāḍina adhipati yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಪ್ರಾಣಿಗಳು ಯಾರ ಮೇಲೆ ದೂರು ಹೇಳುತ್ತಿದ್ದವು?",
+      "translations": {
+        "en": "About whom were the animals complaining?",
+        "hi": "पशु किस पर शिकायत कर रहे थे?"
+      },
+      "transliterations": {
+        "devanagari": "प्राणिगळु यार मेले दूरु हेळुत्तिद्दवु?",
+        "latin": "prāṇigaḷu yāra mēle dūru hēḷuttiddavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಆನೆಯು ಪ್ರಾಣಿಗಳಿಗೆ ಯಾವ ಸೂಚನೆ ನೀಡಿತ್ತು?",
+      "translations": {
+        "en": "What instruction had the elephant given the animals?",
+        "hi": "हाथी ने पशुओं को कौन-सा निर्देश दिया था?"
+      },
+      "transliterations": {
+        "devanagari": "आनेयु प्राणिगळिगे याव सूचने नीडित्तु?",
+        "latin": "āneyu prāṇigaḷige yāva sūcane nīḍittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಆಮೆ ಹಿಡಿದಿದ್ದ ಫಲಕದಲ್ಲಿ ಏನೆಂದು ಬರೆದಿತ್ತು?",
+      "translations": {
+        "en": "What was written on the board the tortoise held?",
+        "hi": "कछुए के फलक पर क्या लिखा था?"
+      },
+      "transliterations": {
+        "devanagari": "आमे हिडिदिद्द फलकदल्लि एनेंदु बरेदित्तु?",
+        "latin": "āme hiḍididda phalakadalli ēnendu baredittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ನಾಯಿ ಮನುಷ್ಯರಿಗೆ ಏನೆಂದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "What did the dog say to humans?",
+        "hi": "कुत्ते ने मनुष्यों से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "नायि मनुष्यरिगे एनेंदु हेळितु?",
+        "latin": "nāyi manuṣyarige ēnendu hēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಎತ್ತು ಮನುಷ್ಯರ ಬಗ್ಗೆ ಏನೆಂದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "What did the ox say about humans?",
+        "hi": "बैल ने मनुष्यों के बारे में क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "एत्तु मनुष्यर बग्गे एनेंदु हेळितु?",
+        "latin": "ettu manuṣyara bagge ēnendu hēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಜಿಂಕೆಯು ತನ್ನ ಫಲಕದಲ್ಲಿ ಏನೆಂದು ಬರೆದಿತ್ತು?",
+      "translations": {
+        "en": "What had the deer written on its board?",
+        "hi": "हिरन ने अपने फलक पर क्या लिखा था?"
+      },
+      "transliterations": {
+        "devanagari": "जिंकेयु तन्न फलकदल्लि एनेंदु बरेदित्तु?",
+        "latin": "jiṅkeyu tanna phalakadalli ēnendu baredittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಕರಡಿಯು ಮನುಷ್ಯರಿಗೆ ಏನೆಂದು ಬುದ್ಧಿವಾದ ಹೇಳಿತು?",
+      "translations": {
+        "en": "What advice did the bear give humans?",
+        "hi": "भालू ने मनुष्यों को क्या सलाह दी?"
+      },
+      "transliterations": {
+        "devanagari": "करडियु मनुष्यरिगे एनेंदु बुद्धिवाद हेळितु?",
+        "latin": "karaḍiyu manuṣyarige ēnendu buddhivāda hēḷitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಆನೆಯು ಮನುಷ್ಯರಿಗೆ ನೀಡಿದ ಸಂದೇಶವೇನು?",
+      "translations": {
+        "en": "What message did the elephant give humans?",
+        "hi": "हाथी ने मनुष्यों को क्या संदेश दिया?"
+      },
+      "transliterations": {
+        "devanagari": "आनेयु मनुष्यरिगे नीडिद संदेशवेनु?",
+        "latin": "āneyu manuṣyarige nīḍida sandēśavēnu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ನಮ್ಮನ್ನು ಹೆಚ್ಚು ಹೆಚ್ಚು ದುಡಿಸಿಕೊಳ್ಳುತ್ತೀರಿ.",
+      "translations": {
+        "en": "You make us work more and more.",
+        "hi": "तुम हमें और अधिक काम पर लगाते हो।"
+      },
+      "transliterations": {
+        "devanagari": "नम्मन्नु हेच्चु हेच्चु दुडिसिकोळ्ळुत्तीरि.",
+        "latin": "nammannu heccu heccu duḍisikoḷḷuttīri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ನಮ್ಮ ಬದುಕಿನ ಆಧಾರತಾಣ ಕಾಡು.",
+      "translations": {
+        "en": "The base of our life is the forest.",
+        "hi": "हमारे जीवन का आधार जंगल है।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म बदुकिन आधारताण काडु.",
+        "latin": "namma badukina ādhāratāṇa kāḍu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ನಾನು ನಿಮ್ಮ ಮನೆಯ ಕಾವಲುಗಾರ.",
+      "translations": {
+        "en": "I am the guard of your house.",
+        "hi": "मैं तुम्हारे घर का रक्षक हूँ।"
+      },
+      "transliterations": {
+        "devanagari": "नानु निम्म मनेय कावलुगार.",
+        "latin": "nānu nimma maneya kāvalugāra."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ನಮ್ಮ ಸಂತತಿಯನ್ನು ನಾಶಮಾಡುವ ಹಕ್ಕು ನಿಮಗಿಲ್ಲ.",
+      "translations": {
+        "en": "You have no right to destroy our lineage.",
+        "hi": "हमारी संतति नष्ट करने का अधिकार तुम्हें नहीं।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म संततियन्नु नाशमाडुव हक्कु निमगिल्ल.",
+        "latin": "namma santatiyannu nāśamāḍuva hakku nimagilla."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಆನೆಯು ಆಗಾಗ ಸಭೆ ಕರೆದು ಅವುಗಳ __________ ವಿಚಾರಿಸುತ್ತಿತ್ತು.",
+      "translations": {
+        "en": "The elephant often called meetings and asked after their __________.",
+        "hi": "हाथी अक्सर सभा बुलाकर उनका __________ पूछता था।"
+      },
+      "transliterations": {
+        "devanagari": "आनेयु आगाग सभे करेदु अवुगळ __________ विचारिसुत्तित्तु.",
+        "latin": "āneyu āgāga sabhe karedu avugaḷa __________ vicārisuttittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ದಯೆಯಿರಲಿ __________ ಪ್ರಾಣಿಗಳಲ್ಲಿ.",
+      "translations": {
+        "en": "Let there be kindness toward __________ animals.",
+        "hi": "दया हो __________ पशुओं पर।"
+      },
+      "transliterations": {
+        "devanagari": "दयेयिरलि __________ प्राणिगळल्लि.",
+        "latin": "dayeyirali __________ prāṇigaḷalli."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ನೀರು __________ ಸಂಪತ್ತು.",
+      "translations": {
+        "en": "Water is a __________ treasure.",
+        "hi": "जल __________ संपत्ति है।"
+      },
+      "transliterations": {
+        "devanagari": "नीरु __________ संपत्तु.",
+        "latin": "nīru __________ sampattu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಪ್ರಾಣಿ ಹಿಂಸೆ __________.",
+      "translations": {
+        "en": "Hurting animals is __________.",
+        "hi": "पशु हिंसा __________।"
+      },
+      "transliterations": {
+        "devanagari": "प्राणि हिंसे __________.",
+        "latin": "prāṇi hinse __________."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "grammar-p1",
+      "section": "grammar",
+      "text": "ವಚನಗಳು\nವಚನ ಎಂದರೆ ಸಂಖ್ಯೆ ಎಂದರ್ಥ. ವಚನಗಳಲ್ಲಿ ಎರಡು ವಿಧ.\n1. ಏಕವಚನ\n2. ಬಹುವಚನ",
+      "translations": {
+        "en": "Numbers (vachana)\nVachana means number. There are two kinds of number.\n1. Singular\n2. Plural",
+        "hi": "वचन\nवचन का अर्थ संख्या। वचन दो प्रकार के।\n1. एकवचन\n2. बहुवचन"
+      },
+      "transliterations": {
+        "devanagari": "वचनगळु\nवचन एंदरे संख्ये एंदर्थ. वचनगळल्लि एरडु विध.\n1. एकवचन\n2. बहुवचन",
+        "latin": "vacanagaḷu\nvacana endare saṅkhye endartha. vacanagaḷalli eraḍu vidha.\n1. ēkavacana\n2. bahuvacana"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p2",
+      "section": "grammar",
+      "text": "1. ಏಕವಚನ\nಒಂದು ವಸ್ತುವನ್ನಾಗಲೀ ಅಥವಾ ಒಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನಾಗಲೀ ಕುರಿತು ಹೇಳುವುದು ಏಕವಚನ.\nಉದಾ: ಮರ, ಹಸು, ಹುಡುಗ, ಪುಸ್ತಕ ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "1. Singular\nSpeaking of one thing or one person is singular.\nExamples: tree, cow, boy, book, etc.",
+        "hi": "1. एकवचन\nएक वस्तु या एक व्यक्ति के बारे में कहना एकवचन।\nउदा.: पेड़, गाय, लड़का, पुस्तक आदि।"
+      },
+      "transliterations": {
+        "devanagari": "1. एकवचन\nओंदु वस्तुवन्नागली अथवा ओब्ब व्यक्तियन्नागली कुरितु हेळुवुदु एकवचन.\nउदा: मर, हसु, हुडुग, पुस्तक इत्यादि.",
+        "latin": "1. ēkavacana\nondu vastuvannāgalī athavā obba vyaktiyannāgalī kuritu hēḷuvudu ēkavacana.\nudā: mara, hasu, huḍuga, pustaka ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p3",
+      "section": "grammar",
+      "text": "2. ಬಹುವಚನ\nಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಸ್ತುಗಳನ್ನಾಗಲೀ ಅಥವಾ ವ್ಯಕ್ತಿಗಳನ್ನಾಗಲೀ ಕುರಿತು ಹೇಳುವುದು ಬಹುವಚನ.\nಉದಾ: ಮರಗಳು, ಹಸುಗಳು, ಹುಡುಗರು, ಪುಸ್ತಕಗಳು ಇತ್ಯಾದಿ.",
+      "translations": {
+        "en": "2. Plural\nSpeaking of more than one thing or person is plural.\nExamples: trees, cows, boys, books, etc.",
+        "hi": "2. बहुवचन\nएक से अधिक वस्तुओं या व्यक्तियों के बारे में कहना बहुवचन।\nउदा.: पेड़, गायें, लड़के, पुस्तकें आदि।"
+      },
+      "transliterations": {
+        "devanagari": "2. बहुवचन\nओंदक्किंत हेच्चु वस्तुगळन्नागली अथवा व्यक्तिगळन्नागली कुरितु हेळुवुदु बहुवचन.\nउदा: मरगळु, हसुगळु, हुडुगरु, पुस्तकगळु इत्यादि.",
+        "latin": "2. bahuvacana\nondakkinta heccu vastugaḷannāgalī athavā vyaktigaḷannāgalī kuritu hēḷuvudu bahuvacana.\nudā: maragaḷu, hasugaḷu, huḍugaru, pustakagaḷu ityādi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q1",
+      "text": "1. ಎತ್ತು : _________________",
+      "translations": {
+        "en": "1. ox : _________________",
+        "hi": "1. बैल : _________________"
+      },
+      "transliterations": {
+        "devanagari": "1. एत्तु : _________________",
+        "latin": "1. ettu : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q2",
+      "text": "2. ನಾಯಕ : _________________",
+      "translations": {
+        "en": "2. leader : _________________",
+        "hi": "2. नायक : _________________"
+      },
+      "transliterations": {
+        "devanagari": "2. नायक : _________________",
+        "latin": "2. nāyaka : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q3",
+      "text": "3. ಅಣ್ಣಂದಿರು : _________________",
+      "translations": {
+        "en": "3. elder brothers : _________________",
+        "hi": "3. बड़े भाई : _________________"
+      },
+      "transliterations": {
+        "devanagari": "3. अण्णंदिरु : _________________",
+        "latin": "3. aṇṇandiru : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q4",
+      "text": "4. ಪತ್ರಿಕೆಗಳು : _________________",
+      "translations": {
+        "en": "4. newspapers : _________________",
+        "hi": "4. समाचार पत्र : _________________"
+      },
+      "transliterations": {
+        "devanagari": "4. पत्रिकेगळु : _________________",
+        "latin": "4. patrikegaḷu : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q5",
+      "text": "5. ಪತ್ರಗಳು : _________________",
+      "translations": {
+        "en": "5. letters : _________________",
+        "hi": "5. पत्र : _________________"
+      },
+      "transliterations": {
+        "devanagari": "5. पत्रगळु : _________________",
+        "latin": "5. patragaḷu : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q6",
+      "text": "6. ಮಿತ್ರರು : _________________",
+      "translations": {
+        "en": "6. friends : _________________",
+        "hi": "6. मित्र : _________________"
+      },
+      "transliterations": {
+        "devanagari": "6. मित्ररु : _________________",
+        "latin": "6. mitraru : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q7",
+      "text": "7. ಅದು : _________________",
+      "translations": {
+        "en": "7. it : _________________",
+        "hi": "7. वह (नपुं.) : _________________"
+      },
+      "transliterations": {
+        "devanagari": "7. अदु : _________________",
+        "latin": "7. adu : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q8",
+      "text": "8. ನೀವು : _________________",
+      "translations": {
+        "en": "8. you (pl./respect) : _________________",
+        "hi": "8. आप/तुम : _________________"
+      },
+      "transliterations": {
+        "devanagari": "8. नीवु : _________________",
+        "latin": "8. nīvu : _________________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "1. ವಿವಿಧ ಭಿತ್ತಿಪತ್ರಗಳನ್ನು ತಯಾರಿಸಿ ಶಾಲೆಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿರಿ.",
+      "translations": {
+        "en": "1. Prepare various wall posters and display them at school.",
+        "hi": "1. विभिन्न भित्ति पत्र तैयार कर विद्यालय में प्रदर्शित कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. विविध भित्तिपत्रगळन्नु तयारिसि शालेयल्लि प्रदर्शिसिरि.",
+        "latin": "1. vividha bhittipatragaḷannu tayārisi śāleyalli pradarśisiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q2",
+      "text": "2. ಮಿಂಚುಪಟ್ಟಿಯಲ್ಲಿ ಏಕವಚನ-ಬಹುವಚನ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "2. Write singular–plural words on a flash strip.",
+        "hi": "2. फ्लैश पट्टी पर एकवचन-बहुवचन पद लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "2. मिंचुपट्टियल्लि एकवचन-बहुवचन पदगळन्नु बरेयिरि.",
+        "latin": "2. miñcupaṭṭiyalli ēkavacana-bahuvacana padagaḷannu bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "1. ವಿವಿಧ ಪ್ರಾಣಿಗಳ ಜೀವನ ಕ್ರಮದ ಬಗ್ಗೆ ಓದಿ ತಿಳಿಯಿರಿ.",
+      "translations": {
+        "en": "1. Read and learn about the lifestyles of various animals.",
+        "hi": "1. विभिन्न पशुओं की जीवन शैली पढ़कर जानिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. विविध प्राणिगळ जीवन क्रमद बग्गे ओदि तिळियिरि.",
+        "latin": "1. vividha prāṇigaḷa jīvana kramada bagge ōdi tiḷiyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q2",
+      "text": "2. ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬರುವ ವಾಚಕರ ಸಲಹೆಗಳನ್ನು ಓದಿರಿ.",
+      "translations": {
+        "en": "2. Read readers’ suggestions that appear in newspapers.",
+        "hi": "2. समाचार पत्रों में आने वाले पाठक सुझाव पढ़िए।"
+      },
+      "transliterations": {
+        "devanagari": "2. पत्रिकेगळल्लि बरुव वाचकर सलहेगळन्नु ओदिरि.",
+        "latin": "2. patrikegaḷalli baruva vācakara salahegaḷannu ōdiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q3",
+      "text": "3. ಚಿತ್ರಕಥೆ, ಭಿತ್ತಿಪತ್ರಗಳನ್ನು ಗೆಳೆಯರೊಂದಿಗೆ ಓದಿ ನಲಿಯಿರಿ.",
+      "translations": {
+        "en": "3. Read picture stories and wall posters with friends and enjoy.",
+        "hi": "3. चित्रकथा, भित्ति पत्र मित्रों के साथ पढ़कर आनंद लीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "3. चित्रकथे, भित्तिपत्रगळन्नु गेळेयरोंदिगे ओदि नलियिरि.",
+        "latin": "3. citrakathe, bhittipatragaḷannu geḷeyarondige ōdi naliyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q1",
+      "text": "1. ಇತರರ ಮಾತುಗಳಿಗೂ ಮನ್ನಣೆ ಕೊಡಿರಿ.",
+      "translations": {
+        "en": "1. Give respect to others’ words too.",
+        "hi": "1. दूसरों की बातों को भी सम्मान दीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. इतरर मातुगळिगू मन्नणे कोडिरि.",
+        "latin": "1. itarara mātugaḷigū mannaṇe koḍiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q2",
+      "text": "2. ಸಂಪನ್ಮೂಲಗಳನ್ನು ಅಗತ್ಯವಿದ್ದಷ್ಟು ಮಾತ್ರ ಬಳಸಿರಿ.",
+      "translations": {
+        "en": "2. Use resources only as much as needed.",
+        "hi": "2. संसाधनों का उपयोग केवल आवश्यकतानुसार कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "2. संपन्मूलगळन्नु अगत्यविद्दष्टु मात्र बळसिरि.",
+        "latin": "2. sampanmūlagaḷannu agatyaviddaṣṭu mātra baḷasiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-C",
+      "id": "lang-ex-c-q3",
+      "text": "3. ವನಗಳನ್ನು ಬೆಳೆಸಿರಿ, ವನ್ಯ ಜೀವಿಗಳನ್ನು ಉಳಿಸಿರಿ.",
+      "translations": {
+        "en": "3. Grow forests; save wild creatures.",
+        "hi": "3. वन बढ़ाओ, वन्य जीव बचाओ।"
+      },
+      "transliterations": {
+        "devanagari": "3. वनगळन्नु बेळेसिरि, वन्य जीविगळन्नु उळिसिरि.",
+        "latin": "3. vanagaḷannu beḷesiri, vanya jīvigaḷannu uḷisiri."
+      },
+      "type": "question"
+    }
+  ]
+}

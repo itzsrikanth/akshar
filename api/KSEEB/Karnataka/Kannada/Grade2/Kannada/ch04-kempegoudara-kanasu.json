@@ -1,0 +1,991 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) ई प्रश्नेगळिगे उत्तर हेळि:",
+      "en": "A) Answer these questions:",
+      "hi": "अ) इन प्रश्नों के उत्तर दें:",
+      "kn": "ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಹೇಳಿ:",
+      "latin": "a) ī praśnegaḷige uttara hēḷi:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) ई केळगिन वाक्यगळु सरि अथवा तप्पु एम्बुदन्नु गुरुतिसि:",
+      "en": "B) Identify whether these sentences are true or false:",
+      "hi": "आ) पहचानें कि निम्नलिखित वाक्य सही हैं या गलत:",
+      "kn": "ಆ) ಈ ಕೆಳಗಿನ ವಾಕ್ಯಗಳು ಸರಿ ಅಥವಾ ತಪ್ಪು ಎಂಬುದನ್ನು ಗುರುತಿಸಿ:",
+      "latin": "ā) ī keḷagina vākyagaḷu sari athavā tappu embudannu gurutisi:"
+    },
+    "exercise-C": {
+      "devanagari": "इ) खालि बिट्टिरुव जागगळल्लि सरियाद पद तुम्बि:",
+      "en": "C) Fill in the correct word in the blank spaces:",
+      "hi": "इ) खाली जगहों में सही शब्द भरें:",
+      "kn": "ಇ) ಖಾಲಿ ಬಿಟ್ಟಿರುವ ಜಾಗಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ತುಂಬಿ:",
+      "latin": "i) khāli biṭṭiruva jāgagaḷalli sariyāda pada tumbi:"
+    },
+    "exercise-D": {
+      "devanagari": "ई) केळगे कोट्टिरुव ओत्तक्षर पदगळन्नु ओदि नकलु माडि:",
+      "en": "D) Read and copy the conjunct consonant words given below:",
+      "hi": "ई) नीचे दिए गए संयुक्त अक्षर वाले शब्दों को पढ़ें और कॉपी करें:",
+      "kn": "ಈ) ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಒತ್ತಕ್ಷರ ಪದಗಳನ್ನು ಓದಿ ನಕಲು ಮಾಡಿ:",
+      "latin": "ī) keḷage koṭṭiruva ottakṣara padagaḷannu ōdi nakalu māḍi:"
+    },
+    "exercise-E": {
+      "devanagari": "उ) मादरियन्ते केळगिन पदगळन्नु बरेयिरि:",
+      "en": "E) Write the following words as per the model:",
+      "hi": "उ) दिए गए उदाहरण के अनुसार निम्नलिखित शब्द लिखें:",
+      "kn": "ಉ) ಮಾದರಿಯಂತೆ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಬರೆಯಿರಿ:",
+      "latin": "u) mādariyante keḷagina padagaḷannu bareyiri:"
+    },
+    "exercise-F": {
+      "devanagari": "ऊ) चौकगळल्लि कोट्टिरुव अक्षरगळन्नु बळसि अर्थबरुव ओत्तक्षर पदगळन्नु रचिगि:",
+      "en": "F) Create meaningful conjunct consonant words using the letters given in the boxes:",
+      "hi": "ऊ) बक्सों में दिए गए अक्षरों का उपयोग करके अर्थपूर्ण संयुक्त अक्षर वाले शब्द बनाएँ:",
+      "kn": "ಊ) ಚೌಕಗಳಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಿ ಅರ್ಥಬರುವ ಒತ್ತಕ್ಷರ ಪದಗಳನ್ನು ರಚಿಸಿ:",
+      "latin": "ū) caukagaḷalli koṭṭiruva akṣaragaḷannu baḷasi arthabaruva ottakṣara padagaḷannu racisi:"
+    },
+    "exercise-G": {
+      "devanagari": "ऋ) कोट्टिरुव वाक्यगळन्नु दुण्डागि नकलु माडि:",
+      "en": "G) Copy the given sentences neatly:",
+      "hi": "ऋ) दिए गए वाक्यों को साफ-साफ कॉपी करें:",
+      "kn": "ಋ) ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳನ್ನು ದುಂಡಾಗಿ ನಕಲು ಮಾಡಿ:",
+      "latin": "r̥) koṭṭiruva vākyagaḷannu duṇḍāgi nakalu māḍi:"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "prose": {
+      "devanagari": "गद्य",
+      "en": "Prose",
+      "hi": "गद्य",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "title": {
+      "devanagari": "केम्पेगौडर कनसु",
+      "en": "Kempegowda's Dream",
+      "hi": "केम्पेगौड़ा का सपना",
+      "latin": "kempēgauḍara kanasu"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 4,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch04-kempegoudara-kanasu",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕೆಂಪೇಗೌಡರ ಕನಸು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "prose-p1",
+      "text": "ಬೆಂಗಳೂರು ಭಾರತ ದೇಶದ ಸುಂದರ ನಗರಗಳಲ್ಲಿ ಒಂದು. ಅದು ಈಗ ಕರ್ನಾಟಕ ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾಗಿದೆ. ಸುಮಾರು ನಾಲ್ಕನೂರು ವರ್ಷಗಳ ಹಿಂದೆ ಈಗಿನ ಬೆಂಗಳೂರು ನಗರವು ಇರುವ ಸ್ಥಳದಲ್ಲಿ ಒಂದು ಕಾಡು ಇತ್ತು. ಆ ಕಾಡಿನ ಉತ್ತರಕ್ಕೆ ತುಸು ದೂರದಲ್ಲಿ ಬೆಂಗಳೂರು ಎಂಬ ಒಂದು ಚಿಕ್ಕ ಹಳ್ಳಿಯಿತ್ತು. ಕಾಡಿನ ದಕ್ಷಿಣಕ್ಕೆ ಶಿವಸಮುದ್ರವೆಂಬ ಹಳ್ಳಿಯಿತ್ತು. ಇವೆರಡು ಹಳ್ಳಿಗಳ ನಡುವಿದ್ದ ಕಾಡಿನಲ್ಲಿ ಬೆಂಗಳೂರು ಹುಟ್ಟಿತು. ಅದನ್ನು ಕೆಂಪೇಗೌಡರೆಂಬ ದೊರೆಗಳು ಸಾಮಾನ್ಯ ಶಕ 1537ರಲ್ಲಿ ಕಟ್ಟಿಸಿದರು. ಅದನ್ನು ತನ್ನ ರಾಜಧಾನಿಯಾಗಿ ಮಾಡಿಕೊಂಡು ಆಳಿದರು.",
+      "translations": {
+        "en": "Bengaluru is one of the beautiful cities in India. It is now the capital of Karnataka state. About four hundred years ago, there was a forest in the place where present-day Bengaluru city is. A little distance to the north of that forest, there was a small village called Bengaluru. To the south of the forest, there was a village called Shivasamudra. In the forest between these two villages, Bengaluru was born. The kings named Kempegowda built it in the common era 1537. He made it his capital and ruled.",
+        "hi": "बेंगलुरु भारत के सुंदर शहरों में से एक है। यह अब कर्नाटक राज्य की राजधानी है। लगभग चार सौ साल पहले, जहाँ आज बेंगलुरु शहर है, वहाँ एक जंगल हुआ करता था। उस जंगल के उत्तर में थोड़ी दूरी पर बेंगलुरु नाम का एक छोटा सा गाँव था। जंगल के दक्षिण में शिवसमुद्र नाम का एक गाँव था। इन दोनों गाँवों के बीच के जंगल में बेंगलुरु का जन्म हुआ। इसे केम्पेगौड़ा नामक राजा ने सामान्य युग 1537 में बनवाया था। उन्होंने इसे अपनी राजधानी बनाया और शासन किया।"
+      },
+      "transliterations": {
+        "devanagari": "बेङ्गळूरु भारत देशद सुन्दर नगरगळल्लि ओन्दु. अदु ईग कर्णाटक राज्यद राजधानियागिदे. सुमारु नाल्कनूरु वर्षगळ हिन्दे ईगिन बेङ्गळूरु नगरवु इरुव स्थळदल्लि ओन्दु काडु इत्तु. आ काडिन उत्तरक्के तुसु दूरदल्लि बेङ्गळूरु एम्ब ओन्दु चिक्क हळ्ळियित्तु. काडिन दक्षिणक्के शिवसमुद्रवेम्ब हळ्ळियित्तु. इवेरडु हळ्ळिगळ नडुविद्द काडिनल्लि बेङ्गळूरु हुट्टितु. अदन्नु केम्पेगौडरेम्ब दोरेगळु सामान्य शक 1537रल्लि कट्टिसिदरु. अदन्नु तन्न राजधानियागि माडिकोण्डु आळिदरु.",
+        "latin": "beṅgaḷūru bhārata dēśada sundara nagaragaḷalli ondu. adu īga karnāṭaka rājyada rājadhāniyāgide. sumāru nālkanūru varṣagaḷa hinde īgina beṅgaḷūru nagaravu iruva sthaḷadalli ondu kāḍu ittu. ā kāḍina uttarakke tusu dūradalli beṅgaḷūru emba ondu cikka haḷḷiyittu. kāḍina dakṣiṇakke śivasamudravemba haḷḷiyittu. iveraḍu haḷḷigaḷa naḍuvidda kāḍinalli beṅgaḷūru huṭṭitu. adannu kempēgauḍaremba doregaḷu sāmānya śaka 1537ralli kaṭṭisidaru. adannu tanna rājadhāniyāgi māḍikoṇḍu āḷidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p2",
+      "text": "ಕೆಂಪೇಗೌಡರು ಯಲಹಂಕ ನಾಡಿನ ದೊರೆ. ಆಗ ಯಲಹಂಕನಾಡು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಒಂದು ಭಾಗವಾಗಿತ್ತು. ಈಗಿನ ಬೆಂಗಳೂರಿನ ಉತ್ತರಕ್ಕಿರುವ ಯಲಹಂಕ ಎಂಬ ಊರೇ ಕೆಂಪೇಗೌಡರ ಮೊದಲಿನ ರಾಜಧಾನಿಯಾಗಿತ್ತು. ಕೆಂಪೇಗೌಡರು ಶೂರರೂ ದಯಾಳುವೂ ದೇವರಲ್ಲಿ ಭಕ್ತಿಯುಳ್ಳವರೂ ಆಗಿದ್ದರು. ಪ್ರಜೆಗಳನ್ನು ತನ್ನ ಮಕ್ಕಳಂತೆ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ಪ್ರಜೆಗಳೂ ಅವರನ್ನು ತಂದೆಯಂತೆ ಗೌರವಿಸುತ್ತಿದ್ದರು.",
+      "translations": {
+        "en": "Kempegowda was the king of Yalahanka Nadu. Then Yalahankanadu was a part of the Vijayanagara empire. The village Yalahanka, to the north of present-day Bengaluru, was Kempegowda's first capital. Kempegowda was brave, kind, and devoted to God. He loved his subjects like his own children. The subjects too respected him like a father.",
+        "hi": "केम्पेगौड़ा येलहंका नाडु के राजा थे। उस समय येलहंका नाडु विजयनगर साम्राज्य का एक हिस्सा था। आज के बेंगलुरु के उत्तर में स्थित येलहंका नामक गाँव ही केम्पेगौड़ा की पहली राजधानी थी। केम्पेगौड़ा वीर, दयालु और भगवान के भक्त थे। वे अपनी प्रजा से अपने बच्चों की तरह प्यार करते थे। प्रजा भी उन्हें पिता के समान सम्मान देती थी।"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडरु यलहङ्क नाडिन दोरे. आग यलहङ्कनाडु विजयनगर साम्राज्यद ओन्दु भागवागित्तु. ईगिन बेङ्गळूरिन उत्तरक्किरुव यलहङ्क एम्ब ऊरे केम्पेगौडर मोदलिन राजधानियागित्तु. केम्पेगौडरु शूररू दयाळुवू देवरल्लि भक्तियुळ्ळवरू आगिद्दरु. प्रजेगळन्नु तन्न मक्क़ळन्ते प्रीतिसुत्तिद्दरु. प्रजेगळू अवरन्नु तन्देयन्ते गौरविगसुत्तिद्दरु.",
+        "latin": "kempēgauḍaru yalahaṅka nāḍina dore. āga yalahaṅkanāḍu vijayanagara sāmrājyada ondu bhāgavāgittu. īgina beṅgaḷūrina uttarakkiruva yalahaṅka emba ūrē kempēgauḍara modalina rājadhāniyāgittu. kempēgauḍaru śūrarū dayāḷuvū dēvaralli bhaktiyuḷḷavarū āgiddaru. prajegaḷannu tanna makkaḷante prītisuttiddaru. prajegaḷū avarannu tandeyante gauravisuttiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p3",
+      "text": "ಒಂದು ದಿನ ಕೆಂಪೇಗೌಡರಿಗೆ ಒಂದು ಕನಸು ಬಿತ್ತು. ಕನಸಿನಲ್ಲಿ ಒಬ್ಬ ದೇವಿಯು ಬಂದು ಶಿವಸಮುದ್ರದ ಬಳಿಯ ಕಾಡಿನಲ್ಲಿ ಕಾಣದಾದಳು. ಕೆಂಪೇಗೌಡರಿಗೆ ಆ ಕನಸಿನ ಅರ್ಥ ತಿಳಿಯಲಿಲ್ಲ. ಮತ್ತೆ ಮತ್ತೆ ಅದೇ ಕನಸು ಬಿತ್ತು. ಕೆಂಪೇಗೌಡರಿಗೆ ಆಶ್ಚರ್ಯವಾಯಿತು. ಅವರು ದೈವಭಕ್ತರು. ದೇವಿಯ ಅಪ್ಪಣೆ ಏನಿರಬೇಕೆಂದು ತಿಳಿಯಬಯಸಿದರು. ಮರುದಿನ ತನ್ನ ಮಂತ್ರಿಗಳನ್ನೂ ಗುರುಹಿರಿಯರನ್ನೂ ಕರೆಯಿಸಿಕೊಂಡರು. ತನ್ನ ಕನಸನ್ನು ಅವರಿಗೆ ತಿಳಿಸಿದರು. ಅದು ಒಳ್ಳೆಯ ಕನಸೆಂದು ಮಂತ್ರಿಗಳೂ ಗುರುಹಿರಿಯರೂ ಹೇಳಿದರು. ಕನಸಿನಲ್ಲಿ ದೇವಿಯು ಕಾಣಿಸಿಕೊಂಡು ಮರೆಯಾದ ಕಾಡಿನಲ್ಲಿ ಒಂದು ನಗರವನ್ನು ಕಟ್ಟಬೇಕೆಂದು ತಿಳಿಸಿದರು. ಅದರಂತೆ ಕೆಂಪೇಗೌಡರು ಒಂದು ನಗರವನ್ನು ಕಟ್ಟಿಸಲು ನಿಶ್ಚಯಿಸಿದರು.",
+      "translations": {
+        "en": "One day Kempegowda had a dream. In the dream, a Goddess came and disappeared in the forest near Shivasamudra. Kempegowda did not understand the meaning of that dream. He had the same dream again and again. Kempegowda was surprised. He was devoted to God. He wanted to know what the Goddess's command could be. The next day he called his ministers and elders. He told them about his dream. The ministers and elders said it was a good dream. The Goddess who appeared and disappeared in the dream told him to build a city in the forest. Accordingly, Kempegowda decided to build a city.",
+        "hi": "एक दिन केम्पेगौड़ा ने एक सपना देखा। सपने में एक देवी आईं और शिवसमुद्र के पास के जंगल में गायब हो गईं। केम्पेगौड़ा को उस सपने का अर्थ समझ में नहीं आया। बार-बार वही सपना आया। केम्पेगौड़ा को आश्चर्य हुआ। वे भगवान के भक्त थे। वे जानना चाहते थे कि देवी का आदेश क्या हो सकता है। अगले दिन उन्होंने अपने मंत्रियों और बुजुर्गों को बुलाया। उन्होंने उन्हें अपने सपने के बारे में बताया। मंत्रियों और बुजुर्गों ने कहा कि यह एक शुभ सपना है। सपने में देवी ने प्रकट होकर और गायब होकर यह संकेत दिया कि उस जंगल में एक शहर बनाया जाना चाहिए। इसके अनुसार, केम्पेगौड़ा ने एक शहर बनाने का निश्चय किया।"
+      },
+      "transliterations": {
+        "devanagari": "ओन्दु दिन केम्पेगौडरिंगे ओन्दु कनसु बित्तु. कनसिंनल्लि ओब्ब देवियु बन्दु शिवसमुद्रद बळिय काडिनल्लि काणदादळु. केम्पेगौडरिंगे आ कनसिंन अर्थ तिळियलिल्ल. मत्ते मत्ते अदे कनसु बित्तु. केम्पेगौडरिंगे आश्चर्यवायितु. अवरु दैवभक्तरु. देविय अप्पणे एनिरबेकेन्दु तिळियबयसिदरु. मरुदिन तन्न मन्त्रिगळन्नू गुरुहिरियरन्नू करेयिसिकोण्डरु. तन्न कनसुन्नु अवरिगे तिळिसिदरु. अदु ओळ्ळेय कनसेन्दु मन्त्रिगळू गुरुहिरियरू हेळिदरु. कनसिंनल्लि देवियु काणिसिकोण्डु मरेयाद काडिनल्लि ओन्दु नगरवन्नु कट्टबेकेन्दु तिळिसिदरु. अदनन्ते केम्पेगौडरु ओन्दु नगरवन्नु कट्टिसलु निश्चयिसिदरु.",
+        "latin": "ondu dina kempēgauḍarige ondu kanasu bittu. kanasinalli obba dēviyu bandu śivasamudrada baḷiya kāḍinalli kāṇadādaḷu. kempēgauḍarige ā kanasina artha tiḷiyalilla. matte matte adē kanasu bittu. kempēgauḍarige āścaryavāyitu. avaru daivabhaktaru. dēviya appaṇe ēnirabēkendu tiḷiyabayasidaru. marudina tanna mantrigaḷannū guruhiriyarannū kareyisikoṇḍaru. tanna kanasannu avarige tiḷisidaru. adu oḷḷeya kanasendu mantrigaḷū guruhiriyarū hēḷidaru. kanasinalli dēviyu kāṇisikoṇḍu mareyāda kāḍinalli ondu nagaravannu kaṭṭabēkendu tiḷisidaru. adarante kempēgauḍaru ondu nagaravannu kaṭṭisalu niścayisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p4",
+      "text": "ಶಿವಸಮುದ್ರದ ಬಳಿಯಲ್ಲಿ ಸ್ಥಳವನ್ನು ಗುರುತು ಮಾಡಿಕೊಂಡರು. ದೇಶದ ನಾನಾ ಭಾಗಗಳಿಂದ ಶಿಲ್ಪಿಗಳನ್ನು ಕರೆಸಿದರು. ಹೊಸ ನಗರವನ್ನು ಕಟ್ಟಿಸಿದರು. ಹೊಸ ನಗರವು ಶಿವಸಮುದ್ರದ ಬಳಿ ಇದ್ದುದರಿಂದ ಶಿವಸಮುದ್ರವೆಂದು ಅದಕ್ಕೆ ಹೆಸರು ಇಡಬೇಕಾಗಿತ್ತು. ಆದರೆ ಕೆಂಪೇಗೌಡರಿಗೆ ಆ ಹೆಸರು ಒಪ್ಪಿಗೆಯಾಗಲಿಲ್ಲ. ಕೆಂಪೇಗೌಡರ ತಾಯಿ ಲಿಂಗಮಾಂಬೆಯವರ ತವರೂರಾದ ಬೆಂಗಳೂರು ಎಂಬ ಹಳ್ಳಿ ಸಮೀಪದಲ್ಲಿಯೇ ಇತ್ತು. ಕೆಂಪೇಗೌಡರ ಹೆಂಡತಿ ಚೆನ್ನಾಂಬೆ ಹಾಗೂ ಸೊಸೆ ಲಕ್ಷ್ಮಾಂಬೆಯರ ತವರೂರು ಬೆಂಗಳೂರು ಹಳ್ಳಿಯೇ. ತನ್ನ ತಾಯಿ, ಹೆಂಡತಿ ಹಾಗೂ ಸೊಸೆ ಇವರನ್ನು ಕೆಂಪೇಗೌಡರು ಬಹಳವಾಗಿ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ಅವರನ್ನು ಬಹು ಗೌರವದಿಂದ ಕಾಣುತ್ತಿದ್ದರು. ಆದುದರಿಂದ ಅವರ ಸವಿನೆನಪಿಗಾಗಿ ತಾನು ಕಟ್ಟಿಸಿದ ಹೊಸ ನಗರಕ್ಕೆ ಬೆಂಗಳೂರೆಂದು ಹೆಸರಿಟ್ಟರು.",
+      "translations": {
+        "en": "He marked the place near Shivasamudra. He called sculptors from different parts of the country. He built the new city. Since the new city was near Shivasamudra, it had to be named Shivasamudra. But Kempegowda did not agree to that name. The village Bengaluru, the maternal home of Kempegowda's mother Lingamambe, was nearby. The maternal home of Kempegowda's wife Chennambe and daughter-in-law Lakshmambe was also Bengaluru village. Kempegowda loved his mother, wife, and daughter-in-law very much. He treated them with great respect. Therefore, in their sweet memory, he named the new city he built Bengaluru.",
+        "hi": "उन्होंने शिवसमुद्र के पास जगह को चिह्नित किया। देश के विभिन्न हिस्सों से मूर्तिकारों को बुलाया। नया शहर बनवाया। चूँकि नया शहर शिवसमुद्र के पास था, इसलिए इसका नाम शिवसमुद्र रखा जाना था। लेकिन केम्पेगौड़ा को वह नाम पसंद नहीं आया। केम्पेगौड़ा की माँ लिंगमाम्बे का मायका बेंगलुरु नामक गाँव पास में ही था। केम्पेगौड़ा की पत्नी चेन्नाम्बे और बहू लक्ष्माम्बे का मायका भी बेंगलुरु गाँव ही था। केम्पेगौड़ा अपनी माँ, पत्नी और बहू से बहुत प्यार करते थे। वे उनका बहुत सम्मान करते थे। इसलिए, उनकी मधुर स्मृति में, उन्होंने अपने द्वारा बनाए गए नए शहर का नाम बेंगलुरु रखा।"
+      },
+      "transliterations": {
+        "devanagari": "शिवसमुद्रद बळियल्लि स्थळवन्नु गुरुतु माडिकोण्डरु. देशद नाना भागगळिन्द शिल्पिगळन्नु करेसिदरु. होस नगरवन्नु कट्टिसिदरु. होस नगरवु शिवसमुद्रद बळि इद्दुदरिन्द शिवसमुद्रवेन्दु अदक्के हेसरु इडबेकागित्तु. आदरे केम्पेगौडरिंगे आ हेसरु ओप्पिगेयागलिल्ल. केम्पेगौडर तायि लिङ्गमाम्बेयवर तवरूराद बेङ्गळूरु एम्ब हळ्ळि समीपदल्लिये इत्तु. केम्पेगौडर हेण्डति चेन्नाम्बे हागू सोसे लक्ष्माम्बेयर तवरूरु बेङ्गळूरु हळ्ळिये. तन्न तायि, हेण्डति हागू सोसे इवरन्नु केम्पेगौडरु बहळवागि प्रीतिसुत्तिद्दरु. अवरन्नु बहु गौरवदिन्द काणुत्तिद्दरु. आदुदरिन्द अवर सविनेनपिगागि तानु कट्टिसिद होस नगरक्के बेङ्गळूरेन्दु हेसरिट्टरु.",
+        "latin": "śivasamudrada baḷiyalli sthaḷavannu gurutu māḍikoṇḍaru. dēśada nānā bhāgagaḷinda śilpigaḷannu karesidaru. hosa nagaravannu kaṭṭisidaru. hosa nagaravu śivasamudrada baḷi iddudarinda śivasamudravendu adakke hesaru iḍabēkāgittu. ādare kempēgauḍarige ā hesaru oppigeyāgalilla. kempēgauḍara tāyi liṅgamāmbeyavara tavarūrāda beṅgaḷūru emba haḷḷi samīpadalliyē ittu. kempēgauḍara heṇḍati cennāmbe hāgū sose lakṣmāmbeyara tavarūru beṅgaḷūru haḷḷiyē. tanna tāyi, heṇḍati hāgū sose ivarannu kempēgauḍaru bahaḷavāgi prītisuttiddaru. avarannu bahu gauravadinda kāṇuttiddaru. ādudarinda avara savinenapigāgi tānu kaṭṭisida hosa nagarakke beṅgaḷūrendu hesariṭṭaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p5",
+      "text": "ಬೆಂಗಳೂರು ನಗರವನ್ನು ಕಟ್ಟಿಸಿದ ಸುದ್ದಿಯು ಸುತ್ತಲೂ ಹರಡಿತು. ದೇಶದ ನಾನಾ ಭಾಗಗಳಿಂದ ಕಸಬುದಾರರು ಬಂದರು. ಕಸಬುಗಳು ಚೆನ್ನಾಗಿ ಬೆಳೆಯಲೆಂದು ಬೇರೆ ಬೇರೆ ಕಸಬುದಾರರಿಗೆ ಕೆಂಪೇಗೌಡರು ಬೇರೆ ಬೇರೆ ಕೇರಿಗಳನ್ನು ಕಟ್ಟಿಸಿಕೊಟ್ಟರು. ಕಸಬುದಾರರಿಂದ ಕೈಗಾರಿಕೆಗಳು ಬೆಳೆದವು. ಬೆಂಗಳೂರಿನ ಸಂಪತ್ತು ಹೆಚ್ಚಿತು. ಸಂಪತ್ತಿನೊಡನೆ ಪಟ್ಟಣವೂ ಬೆಳೆಯತೊಡಗಿತು. ಪಟ್ಟಣದ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ ನಾಲ್ಕು ಕಾವಲು ಗೋಪುರಗಳನ್ನು ಕಟ್ಟಿಸಿದರು. ಬೆಂಗಳೂರಲ್ಲಿ ಈ ಗೋಪುರಗಳನ್ನು ಈಗಲೂ ನೋಡಬಹುದು.",
+      "translations": {
+        "en": "The news of building Bengaluru city spread all around. Artisans came from different parts of the country. Kempegowda built different streets for different artisans so that their crafts could grow well. Industries grew because of the artisans. Bengaluru's wealth increased. Along with wealth, the town also began to grow. He built four watchtowers in the four corners of the town. These towers can still be seen in Bengaluru today.",
+        "hi": "बेंगलुरु शहर के बनने की खबर चारों ओर फैल गई। देश के विभिन्न हिस्सों से कारीगर आए। कारीगरों के शिल्प को अच्छी तरह से विकसित करने के लिए केम्पेगौड़ा ने अलग-अलग कारीगरों के लिए अलग-अलग मोहल्ले बनवाए। कारीगरों से उद्योग फले-फूले। बेंगलुरु की संपत्ति बढ़ी। संपत्ति के साथ-साथ शहर भी बढ़ने लगा। शहर के चारों कोनों में चार निगरानी मीनारें बनवाई गईं। इन मीनारों को आज भी बेंगलुरु में देखा जा सकता है।"
+      },
+      "transliterations": {
+        "devanagari": "बेङ्गळूरु नगरवन्नु कट्टिसिद सुद्दियु सुत्तलू हरडितु. देशद नाना भागगळिन्द कसबुदाररु बन्दरु. कसबुगळु चेन्नागि बेळेयलेन्दु बेरे बेरे कसबुदाररिगे केम्पेगौडरु बेरे बेरे केरिगळन्नु कट्टिसिकोट्टरु. कसबुदाररिन्द कैगारिकेगळु बेळेदवु. बेङ्गळूरिन सम्पत्तु हेच्चितु. सम्पत्तिनोडने पट्टणवू बेळेयतोडगितु. पट्टणद नाल्कु मूलेगळल्लि नाल्कु कावलु गोपुरगळन्नु कट्टिसिदरु. बेङ्गळूरल्लि ई गोपुरगळन्नु ईगलू नोडबहुदु.",
+        "latin": "beṅgaḷūru nagaravannu kaṭṭisida suddiyu suttalū haraḍitu. dēśada nānā bhāgagaḷinda kasabudāraru bandaru. kasabugaḷu cennāgi beḷeyalendu bēre bēre kasabudārarige kempēgauḍaru bēre bēre kērigaḷannu kaṭṭisikoṭṭaru. kasabudārarinda kaigārikegaḷu beḷedavu. beṅgaḷūrina sampattu heccitu. sampattinoḍane paṭṭaṇavū beḷeyatoḍagitu. paṭṭaṇada nālku mūlegaḷalli nālku kāvalu gōpuragaḷannu kaṭṭisidaru. beṅgaḷūralli ī gōpuragaḷannu īgalū nōḍabahudu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p6",
+      "text": "ಕೆಂಪೇಗೌಡರು ಅನೇಕ ಗುಡಿಗಳನ್ನೂ ಕೆರೆಗಳನ್ನೂ ಕಟ್ಟಿಸಿದರು. ಅವುಗಳಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿರುವ ದೊಡ್ಡ ಬಸವಣ್ಣನ ಗುಡಿ, ಗವಿ ಗಂಗಾಧರೇಶ್ವರ ಗುಡಿ ಮತ್ತು ಕೆಂಪಾಂಬುಧಿ ಕೆರೆ ಇವು ಮುಖ್ಯವಾದವು. ಕೆಂಪೇಗೌಡರ ದೈವಭಕ್ತಿ, ಪ್ರಜಾಪ್ರೇಮ, ಬುದ್ಧಿವಂತಿಕೆ ಇವುಗಳನ್ನು ವಿಜಯನಗರದ ಅರಸರಾಗಿದ್ದ ಅಚ್ಯುತರಾಯರು ಬಹಳ ಮೆಚ್ಚಿದರು. ಅಂದವಾದ ಬೆಂಗಳೂರು ನಗರದ ಸುದ್ದಿ ಕೇಳಿ ಅರಸರಿಗೆ ಬಹಳ ಸಂತೋಷವಾಯಿತು. ದಸರೆಯ ಉತ್ಸವಕ್ಕೆ ವಿಜಯನಗರದ ಮಹಾರಾಜರು ಕೆಂಪೇಗೌಡರನ್ನು ಬರಮಾಡಿಕೊಂಡರು. ಬೆಂಗಳೂರು ಸಮೀಪದ ಹತ್ತು ಊರುಗಳನ್ನು ಅವರು ಕೆಂಪೇಗೌಡರಿಗೆ ದಾನವಾಗಿ ಕೊಟ್ಟರು. ಕೆಂಪೇಗೌಡರು ಕಟ್ಟಿಸಿದ ಬೆಂಗಳೂರು ದೊಡ್ಡ ನಗರವಾಗಿ ಬೆಳೆದು ಈಗ ನಮ್ಮ ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾಗಿದೆ.",
+      "translations": {
+        "en": "Kempegowda built many temples and lakes. Among them, the big Basavanna temple, Gavi Gangadhareshwara temple, and Kempambudhi lake in Bengaluru are important. Achyutaraya, the king of Vijayanagara, appreciated Kempegowda's devotion to God, love for subjects, and intelligence very much. The king was very happy to hear the news of the beautiful Bengaluru city. The Maharaja of Vijayanagara invited Kempegowda to the Dasara festival. He donated ten villages near Bengaluru to Kempegowda. The Bengaluru built by Kempegowda grew into a big city and is now the capital of our state.",
+        "hi": "केम्पेगौड़ा ने कई मंदिर और झीलें बनवाईं। उनमें से बेंगलुरु में बड़ा बसवन्ना मंदिर, गवी गंगाधरेश्वर मंदिर और केम्पाम्बुधि झील प्रमुख हैं। विजयनगर के राजा अच्युत राय ने केम्पेगौड़ा की देवभक्ति, प्रजा प्रेम और बुद्धिमत्ता की बहुत सराहना की। सुंदर बेंगलुरु शहर की खबर सुनकर राजा बहुत खुश हुए। विजयनगर के महाराजा ने केम्पेगौड़ा को दशहरा उत्सव में आमंत्रित किया। उन्होंने बेंगलुरु के पास के दस गाँव केम्पेगौड़ा को दान में दिए। केम्पेगौड़ा द्वारा बनाया गया बेंगलुरु एक बड़े शहर के रूप में विकसित हुआ और अब हमारे राज्य की राजधानी है।"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडरु अनेक गुडिगळन्नू केरेगळन्नू कट्टिसिदरु. अवुगळल्लि बेङ्गळूरिनल्लिरुव दोड्ड बसवण्णन गुडि, गवि गङ्गाधरेश्वर गुडि मत्तु केम्पाम्बुधि केरे इवु मुख्यवादवु. केम्पेगौडर दैवभक्ति, प्रजाप्रेम, बुद्धिवन्तिके इवुगळन्नु विजयनगरद अरसरागिद्द अच्युतरायरु बहळ मेच्चिदरु. अन्दवाद बेङ्गळूरु नगरद सुद्दि केळि अरसरिगे बहळ सन्तोषवायितु. दसरेय उत्सवक्के विजयनगरद महाराजरु केम्पेगौडरन्नु बरमाडिकोण्डरु. बेङ्गळूरु समीपद हत्तु ऊरुगळन्नु अवरु केम्पेगौडरिंगे दानवागि कोट्टरु. केम्पेगौडरु कट्टिसिद बेङ्गळूरु दोड्ड नगरवागि बेळेदु ईग नम्म राज्यद राजधानियागिदे.",
+        "latin": "kempēgauḍaru anēka guḍigaḷannū keregaḷannū kaṭṭisidaru. avugaḷalli beṅgaḷūrinalliruva doḍḍa basavaṇṇana guḍi, gavi gaṅgādharēśvara guḍi mattu kempāmbudhi kere ivu mukhyavādavu. kempēgauḍara daivabhakti, prajāprēma, buddhivantike ivugaḷannu vijayanagarada arasarāgidda acyutarāyaru bahaḷa meccidaru. andavāda beṅgaḷūru nagarada suddi kēḷi arasarige bahaḷa santōṣavāyitu. dasareya utsavakke vijayanagarada mahārājaru kempēgauḍarannu baramāḍikoṇḍaru. beṅgaḷūru samīpada hattu ūrugaḷannu avaru kempēgauḍarige dānavāgi koṭṭaru. kempēgauḍaru kaṭṭisida beṅgaḷūru doḍḍa nagaravāgi beḷedu īga namma rājyada rājadhāniyāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-bengalooru",
+      "text": "ಬೆಂಗಳೂರು",
+      "translations": {
+        "en": "Bengaluru",
+        "hi": "बेंगलुरु"
+      },
+      "transliterations": {
+        "devanagari": "बेङ्गळूरु",
+        "latin": "beṅgaḷūru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-karnataka",
+      "text": "ಕರ್ನಾಟಕ",
+      "translations": {
+        "en": "Karnataka",
+        "hi": "कर्नाटक"
+      },
+      "transliterations": {
+        "devanagari": "कर्णाटक",
+        "latin": "karnāṭaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rajadhani",
+      "text": "ರಾಜಧಾನಿ",
+      "translations": {
+        "en": "capital",
+        "hi": "राजधानी"
+      },
+      "transliterations": {
+        "devanagari": "राजधानि",
+        "latin": "rājadhāni"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaadu",
+      "text": "ಕಾಡು",
+      "translations": {
+        "en": "forest",
+        "hi": "जंगल"
+      },
+      "transliterations": {
+        "devanagari": "काडु",
+        "latin": "kāḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-uttara",
+      "text": "ಉತ್ತರ",
+      "translations": {
+        "en": "north",
+        "hi": "उत्तर"
+      },
+      "transliterations": {
+        "devanagari": "उत्तर",
+        "latin": "uttara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-halli",
+      "text": "ಹಳ್ಳಿ",
+      "translations": {
+        "en": "village",
+        "hi": "गाँव"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळि",
+        "latin": "haḷḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shivasamudra",
+      "text": "ಶಿವಸಮುದ್ರ",
+      "translations": {
+        "en": "Shivasamudra",
+        "hi": "शिवसमुद्र"
+      },
+      "transliterations": {
+        "devanagari": "शिवसमुद्र",
+        "latin": "śivasamudra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-yalahanka",
+      "text": "ಯಲಹಂಕ",
+      "translations": {
+        "en": "Yalahanka",
+        "hi": "येलहंका"
+      },
+      "transliterations": {
+        "devanagari": "यलहङ्क",
+        "latin": "yalahaṅka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vijayanagara",
+      "text": "ವಿಜಯನಗರ",
+      "translations": {
+        "en": "Vijayanagara",
+        "hi": "विजयनगर"
+      },
+      "transliterations": {
+        "devanagari": "विजयनगर",
+        "latin": "vijayanagara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-samrajya",
+      "text": "ಸಾಮ್ರಾಜ್ಯ",
+      "translations": {
+        "en": "empire",
+        "hi": "साम्राज्य"
+      },
+      "transliterations": {
+        "devanagari": "साम्राज्य",
+        "latin": "sāmrājya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dayalu",
+      "text": "ದಯಾಳು",
+      "translations": {
+        "en": "kind",
+        "hi": "दयालु"
+      },
+      "transliterations": {
+        "devanagari": "दयाळु",
+        "latin": "dayāḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhakti",
+      "text": "ಭಕ್ತಿ",
+      "translations": {
+        "en": "devotion",
+        "hi": "भक्ति"
+      },
+      "transliterations": {
+        "devanagari": "भक्ति",
+        "latin": "bhakti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-praje",
+      "text": "ಪ್ರಜೆ",
+      "translations": {
+        "en": "subject / citizen",
+        "hi": "प्रजा"
+      },
+      "transliterations": {
+        "devanagari": "प्रजे",
+        "latin": "praje"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-preeti",
+      "text": "ಪ್ರೀತಿ",
+      "translations": {
+        "en": "love",
+        "hi": "प्यार"
+      },
+      "transliterations": {
+        "devanagari": "प्रीति",
+        "latin": "prīti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gourava",
+      "text": "ಗೌರವ",
+      "translations": {
+        "en": "respect",
+        "hi": "सम्मान"
+      },
+      "transliterations": {
+        "devanagari": "गौरव",
+        "latin": "gaurava"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kanasu",
+      "text": "ಕನಸು",
+      "translations": {
+        "en": "dream",
+        "hi": "सपना"
+      },
+      "transliterations": {
+        "devanagari": "कनसु",
+        "latin": "kanasu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mantri",
+      "text": "ಮಂತ್ರಿ",
+      "translations": {
+        "en": "minister",
+        "hi": "मंत्री"
+      },
+      "transliterations": {
+        "devanagari": "मन्त्रि",
+        "latin": "mantri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nagara",
+      "text": "ನಗರ",
+      "translations": {
+        "en": "city",
+        "hi": "शहर"
+      },
+      "transliterations": {
+        "devanagari": "नगर",
+        "latin": "nagara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shilpi",
+      "text": "ಶಿಲ್ಪಿ",
+      "translations": {
+        "en": "sculptor",
+        "hi": "मूर्तिकार"
+      },
+      "transliterations": {
+        "devanagari": "शिल्पि",
+        "latin": "śilpi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kasabu",
+      "text": "ಕಸಬು",
+      "translations": {
+        "en": "craft / occupation",
+        "hi": "पेशा / शिल्प"
+      },
+      "transliterations": {
+        "devanagari": "कसबु",
+        "latin": "kasabu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sampattu",
+      "text": "ಸಂಪತ್ತು",
+      "translations": {
+        "en": "wealth",
+        "hi": "संपत्ति"
+      },
+      "transliterations": {
+        "devanagari": "सम्पत्तु",
+        "latin": "sampattu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaavalu",
+      "text": "ಕಾವಲು",
+      "translations": {
+        "en": "watch / guard",
+        "hi": "निगरानी / पहरा"
+      },
+      "transliterations": {
+        "devanagari": "कावलु",
+        "latin": "kāvalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gopura",
+      "text": "ಗೋಪುರ",
+      "translations": {
+        "en": "tower",
+        "hi": "मीनार"
+      },
+      "transliterations": {
+        "devanagari": "गोपुर",
+        "latin": "gōpura"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-prajaprema",
+      "text": "ಪ್ರಜಾಪ್ರೇಮ",
+      "translations": {
+        "en": "love for subjects",
+        "hi": "प्रजा से प्रेम"
+      },
+      "transliterations": {
+        "devanagari": "प्रजाप्रेम",
+        "latin": "prajāprēma"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dasare",
+      "text": "ದಸರೆ",
+      "translations": {
+        "en": "Dasara",
+        "hi": "दशहरा"
+      },
+      "transliterations": {
+        "devanagari": "दसरे",
+        "latin": "dasare"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-buddhivantike",
+      "text": "ಬುದ್ಧಿವಂತಿಕೆ",
+      "translations": {
+        "en": "intelligence",
+        "hi": "बुद्धिमत्ता"
+      },
+      "transliterations": {
+        "devanagari": "बुद्धिवन्तिके",
+        "latin": "buddhivantike"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-santosha",
+      "text": "ಸಂತೋಷ",
+      "translations": {
+        "en": "happiness",
+        "hi": "खुशी"
+      },
+      "transliterations": {
+        "devanagari": "सन्तोष",
+        "latin": "santōṣa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-kasabu",
+      "text": "ಕಸಬು",
+      "translations": {
+        "en": "occupation",
+        "hi": "पेशा"
+      },
+      "transliterations": {
+        "devanagari": "कसबु",
+        "latin": "kasabu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kasabu-def",
+      "text": "ಉದ್ಯೋಗ",
+      "translations": {
+        "en": "job / profession",
+        "hi": "व्यवसाय / शिल्प"
+      },
+      "transliterations": {
+        "devanagari": "उद्योग",
+        "latin": "udyōga"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-gudi",
+      "text": "ಗುಡಿ",
+      "translations": {
+        "en": "temple",
+        "hi": "मंदिर"
+      },
+      "transliterations": {
+        "devanagari": "गुडि",
+        "latin": "guḍi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-gudi-def",
+      "text": "ದೇಗುಲ",
+      "translations": {
+        "en": "shrine",
+        "hi": "देवालय"
+      },
+      "transliterations": {
+        "devanagari": "देगुल",
+        "latin": "dēgula"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-tavarooru",
+      "text": "ತವರೂರು",
+      "translations": {
+        "en": "maternal home",
+        "hi": "मायका"
+      },
+      "transliterations": {
+        "devanagari": "तवरूरु",
+        "latin": "tavarūru"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-tavarooru-def",
+      "text": "ಹುಟ್ಟಿದ ಊರು",
+      "translations": {
+        "en": "birthplace / hometown",
+        "hi": "जन्म स्थान / वह गाँव जहाँ किसी का जन्म हुआ हो"
+      },
+      "transliterations": {
+        "devanagari": "हुट्टिद ऊरु",
+        "latin": "huṭṭida ūru"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-rajadhani",
+      "text": "ರಾಜಧಾನಿ",
+      "translations": {
+        "en": "capital",
+        "hi": "राजधानी"
+      },
+      "transliterations": {
+        "devanagari": "राजधानि",
+        "latin": "rājadhāni"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-rajadhani-def",
+      "text": "ಒಂದು ರಾಜ್ಯ ಅಥವಾ ದೇಶದ ಮುಖ್ಯ ಆಡಳಿತ ಕೇಂದ್ರ",
+      "translations": {
+        "en": "the main administrative center of a state or country",
+        "hi": "किसी राज्य या देश का मुख्य प्रशासनिक केंद्र"
+      },
+      "transliterations": {
+        "devanagari": "ओन्दु राज्य अथवा देशद मुख्य आडलित केन्द्र",
+        "latin": "ondu rājya athavā dēśada mukhya āḍaḷita kēndra"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kavalu-gopura",
+      "text": "ಕಾವಲು ಗೋಪುರ",
+      "translations": {
+        "en": "watchtower",
+        "hi": "निगरानी मीनार"
+      },
+      "transliterations": {
+        "devanagari": "कावलु गोपुर",
+        "latin": "kāvalu gōpura"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kavalu-gopura-def",
+      "text": "ಶತ್ರುಗಳು ಬರದಂತೆ ಊರನ್ನು ಕಾಯಲು ಎತ್ತರದ ಜಾಗದಲ್ಲಿ ಕಟ್ಟಿಸುವ ಗೋಪುರ.",
+      "translations": {
+        "en": "a tower built at a high place to guard a town against enemies.",
+        "hi": "दुश्मनों के आने से बचने के लिए शहर की रखवाली करने के लिए ऊँचे स्थान पर बनाई गई मीनार।"
+      },
+      "transliterations": {
+        "devanagari": "शत्रुगळु बरदन्ते ऊरन्नु कायलु एत्तरद जागदल्लि कट्टिसुव गोपुर.",
+        "latin": "śatrugaḷu baradante ūrannu kāyalu ettarada jāgadalli kaṭṭisuva gōpura."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ನಮ್ಮ ರಾಜ್ಯದ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "translations": {
+        "en": "Which is the capital of our state?",
+        "hi": "हमारे राज्य की राजधानी कौन सी है?"
+      },
+      "transliterations": {
+        "devanagari": "नम्म राज्यद राजधानि यावुदु?",
+        "latin": "namma rājyada rājadhāni yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಕೆಂಪೇಗೌಡರ ಮೊದಲಿನ ರಾಜಧಾನಿ ಯಾವುದು?",
+      "translations": {
+        "en": "Which was Kempegowda's first capital?",
+        "hi": "केम्पेगौड़ा की पहली राजधानी कौन सी थी?"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडर मोदलिन राजधानि यावुदु?",
+        "latin": "kempēgauḍara modalina rājadhāni yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರನ್ನು ಏಕೆ ಕಟ್ಟಿಸಿದರು?",
+      "translations": {
+        "en": "Why did Kempegowda build Bengaluru?",
+        "hi": "केम्पेगौड़ा ने बेंगलुरु का निर्माण क्यों किया?"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडरु बेङ्गळूरन्नु एके कट्टिसिदरु?",
+        "latin": "kempēgauḍaru beṅgaḷūrannu ēke kaṭṭisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಕೆಂಪೇಗೌಡರು ತಾನು ಕಟ್ಟಿಸಿದ ಹೊಸ ನಗರಕ್ಕೆ ಬೆಂಗಳೂರೆಂದು ಏಕೆ ಹೆಸರಿಟ್ಟರು?",
+      "translations": {
+        "en": "Why did Kempegowda name the new city he built Bengaluru?",
+        "hi": "केम्पेगौड़ा ने अपने द्वारा बनाए गए नए शहर का नाम बेंगलुरु क्यों रखा?"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडरु तानु कट्टिसिद होस नगरक्के बेङ्गळूरेन्दु एके हेसरिट्टरु?",
+        "latin": "kempēgauḍaru tānu kaṭṭisida hosa nagarakke beṅgaḷūrendu ēke hesariṭṭaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಅಚ್ಯುತರಾಯರು ಕೆಂಪೇಗೌಡರಿಗೆ ಹತ್ತು ಊರುಗಳನ್ನು ದಾನ ಕೊಡಲು ಕಾರಣವೇನು?",
+      "translations": {
+        "en": "What was the reason for Achyutaraya to donate ten villages to Kempegowda?",
+        "hi": "अच्युत राय द्वारा केम्पेगौड़ा को दस गाँव दान देने का क्या कारण था?"
+      },
+      "transliterations": {
+        "devanagari": "अच्युतरायरु केम्पेगौडरिंगे हत्तु ऊरुगळन्नु दान कोडलु कारणवेनु?",
+        "latin": "acyutarāyaru kempēgauḍarige hattu ūrugaḷannu dāna koḍalu kāraṇavēnu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ಕೆಂಪೇಗೌಡರು ಗೋಪುರವನ್ನು ಏಕೆ ಕಟ್ಟಿಸಿದರು?",
+      "translations": {
+        "en": "Why did Kempegowda build the towers?",
+        "hi": "केम्पेगौड़ा ने मीनारें क्यों बनवाईं?"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडरु गोपुरवन्नु एके कट्टिसिदरु?",
+        "latin": "kempēgauḍaru gōpuravannu ēke kaṭṭisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ವಿಜಯನಗರವು ಕೆಂಪೇಗೌಡರ ರಾಜಧಾನಿಯಾಗಿತ್ತು.",
+      "translations": {
+        "en": "Vijayanagara was Kempegowda's capital.",
+        "hi": "विजयनगर केम्पेगौड़ा की राजधानी थी।"
+      },
+      "transliterations": {
+        "devanagari": "विजयनगरवु केम्पेगौडर राजधानियागित्तु.",
+        "latin": "vijayanagaravu kempēgauḍara rājadhāniyāgittu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಶಿವಸಮುದ್ರದ ಕಾಡಿನಲ್ಲಿ ಹೊಸ ನಗರವನ್ನು ಕೆಂಪೇಗೌಡರು ಕಟ್ಟಿಸಿದರು.",
+      "translations": {
+        "en": "Kempegowda built the new city in the Shivasamudra forest.",
+        "hi": "केम्पेगौड़ा ने शिवसमुद्र के जंगल में एक नया शहर बनाया।"
+      },
+      "transliterations": {
+        "devanagari": "शिवसमुद्रद काडिनल्लि होस नगरवन्नु केम्पेगौडरु कट्टिसिदरु.",
+        "latin": "śivasamudrada kāḍinalli hosa nagaravannu kempēgauḍaru kaṭṭisidaru."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಹೊಸ ನಗರವನ್ನು ಕಟ್ಟಲು ಪ್ರೇರಣೆ ಸಿಕ್ಕಿದ್ದು ಒಂದು ಕನಸಿನಿಂದ.",
+      "translations": {
+        "en": "The inspiration to build the new city came from a dream.",
+        "hi": "नया शहर बनाने की प्रेरणा एक सपने से मिली।"
+      },
+      "transliterations": {
+        "devanagari": "होस नगरवन्नु कट्टलु प्रेरणे सिक्किद्दु ओन्दु कनसिंनिन्द.",
+        "latin": "hosa nagaravannu kaṭṭalu prēraṇe sikkiddu ondu kanasininda."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಕೆಂಪೇಗೌಡರ ತಾಯಿಯ ಊರು ಬೆಂಗಳೂರೆಂಬ ಹಳ್ಳಿ.",
+      "translations": {
+        "en": "Kempegowda's mother's village was Bengaluru.",
+        "hi": "केम्पेगौड़ा की माँ का गाँव बेंगलुरु नामक गाँव था।"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडर तायिय ऊरु बेङ्गळूरेम्ब हळ्ळि.",
+        "latin": "kempēgauḍara tāyiya ūru beṅgaḷūremba haḷḷi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "ಕೆಂಪಾಂಬುಧಿ ಕೆರೆಯನ್ನು ಅಚ್ಯುತರಾಯರು ಕಟ್ಟಿಸಿದರು.",
+      "translations": {
+        "en": "Achyutaraya built the Kempambudhi lake.",
+        "hi": "अच्युत राय ने केम्पाम्बुधि झील बनवाई।"
+      },
+      "transliterations": {
+        "devanagari": "केम्पाम्बुधि केरेयन्नु अच्युतरायरु कट्टिसिदरु.",
+        "latin": "kempāmbudhi kereyannu acyutarāyaru kaṭṭisidaru."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಕೆಂಪೇಗೌಡರು _____ಗಳನ್ನು ತನ್ನ ಮಕ್ಕಳಂತೆ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು.",
+      "translations": {
+        "en": "Kempegowda loved the _____ like his own children.",
+        "hi": "केम्पेगौड़ा _____ से अपने बच्चों की तरह प्यार करते थे।"
+      },
+      "transliterations": {
+        "devanagari": "केम्पेगौडरु _____गळन्नु तन्न मक्क़ळन्ते प्रीतिसुत्तिद्दरु.",
+        "latin": "kempēgauḍaru _____gaḷannu tanna makkaḷante prītisuttiddaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಕನಸಿನಲ್ಲಿ ದೇವಿಯು ಕಾಣಿಸಿಕೊಂಡು ಮರೆಯಾದ ಕಾಡಿನಲ್ಲಿ ಒಂದು _____ವನ್ನು ಕಟ್ಟಬೇಕು ಎಂದು ತಿಳಿಸಿದರು.",
+      "translations": {
+        "en": "The Goddess who appeared and disappeared in the dream told him to build a _____ in the forest.",
+        "hi": "सपने में देवी ने प्रकट होकर और गायब होकर संकेत दिया कि उस जंगल में एक _____ बनाया जाना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "कनसिंनल्लि देवियु काणिसिकोण्डु मरेयाद काडिनल्लि ओन्दु _____वन्नु कट्टबेकु एन्दु तिळिसिदरु.",
+        "latin": "kanasinalli dēviyu kāṇisikoṇḍu mareyāda kāḍinalli ondu _____vannu kaṭṭabēku endu tiḷisidaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಕಸಬುದಾರರಿಂದ __________ ಬೆಳೆದವು.",
+      "translations": {
+        "en": "_____ grew because of the artisans.",
+        "hi": "कारीगरों से __________ फले-फूले।"
+      },
+      "transliterations": {
+        "devanagari": "कसबुदाररिन्द __________ बेळेदवु.",
+        "latin": "kasabudārarinda __________ beḷedavu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಉತ್ತರ",
+      "translations": {
+        "en": "north",
+        "hi": "उत्तर"
+      },
+      "transliterations": {
+        "devanagari": "उत्तर",
+        "latin": "uttara"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಒಳ್ಳೆಯ",
+      "translations": {
+        "en": "good",
+        "hi": "अच्छा"
+      },
+      "transliterations": {
+        "devanagari": "ओळ्ळेय",
+        "latin": "oḷḷeya"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಒಪ್ಪಿಗೆ",
+      "translations": {
+        "en": "agreement",
+        "hi": "सहमति"
+      },
+      "transliterations": {
+        "devanagari": "ओप्पिगे",
+        "latin": "oppige"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಚೆನ್ನಾಂಬೆ",
+      "translations": {
+        "en": "Chennambe",
+        "hi": "चेन्नाम्बे"
+      },
+      "transliterations": {
+        "devanagari": "चेन्नाम्बे",
+        "latin": "cennāmbe"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q5",
+      "text": "ಸಂಪತ್ತು",
+      "translations": {
+        "en": "wealth",
+        "hi": "संपत्ति"
+      },
+      "transliterations": {
+        "devanagari": "सम्पत्तु",
+        "latin": "sampattu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಕಾಡು",
+      "translations": {
+        "en": "forest",
+        "hi": "जंगल"
+      },
+      "transliterations": {
+        "devanagari": "काडु",
+        "latin": "kāḍu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಹಳ್ಳಿ",
+      "translations": {
+        "en": "village",
+        "hi": "गाँव"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळि",
+        "latin": "haḷḷi"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಮರ",
+      "translations": {
+        "en": "tree",
+        "hi": "पेड़"
+      },
+      "transliterations": {
+        "devanagari": "मर",
+        "latin": "mara"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಶಿಲ್ಪಿ",
+      "translations": {
+        "en": "sculptor",
+        "hi": "मूर्तिकार"
+      },
+      "transliterations": {
+        "devanagari": "शिल्पि",
+        "latin": "śilpi"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q5",
+      "text": "ಕೆರೆ",
+      "translations": {
+        "en": "lake",
+        "hi": "झील"
+      },
+      "transliterations": {
+        "devanagari": "केरे",
+        "latin": "kere"
+      },
+      "type": "question"
+    }
+  ]
+}

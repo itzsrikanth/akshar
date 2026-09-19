@@ -1,0 +1,1127 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) ई प्रश्नेगळिगे उत्तर हेळि:",
+      "en": "A) Answer these questions:",
+      "hi": "अ) इन प्रश्नों के उत्तर दें:",
+      "kn": "ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಹೇಳಿ:",
+      "latin": "a) ī praśnegaḷige uttara hēḷi:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) ई मातन्नु यारु यार्रिगे हेळिदरु?",
+      "en": "B) Who said this to whom?",
+      "hi": "आ) यह बात किसने किससे कही?",
+      "kn": "ಆ) ಈ ಮಾತನ್ನು ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "latin": "ā) ī mātannu yāru yārige hēḷidaru?"
+    },
+    "exercise-C": {
+      "devanagari": "इ) मादरियन्ते बरेयिरि:",
+      "en": "C) Write as per the model:",
+      "hi": "इ) दिए गए उदाहरण के अनुसार लिखें:",
+      "kn": "ಇ) ಮಾದರಿಯಂತೆ ಬರೆಯಿರಿ:",
+      "latin": "i) mādariyante bareyiri:"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "prose": {
+      "devanagari": "गद्य",
+      "en": "Prose",
+      "hi": "गद्य",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "title": {
+      "devanagari": "सन्ते",
+      "en": "Market",
+      "hi": "बाज़ार",
+      "latin": "sante"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch06-sante",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸಂತೆ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "prose-p1",
+      "text": "ಅಂದು ಶನಿವಾರ ಶಾಲೆಗೆ ಮಧ್ಯಾಹ್ನ ರಜೆ. ಅನಿತಾ, ಜಾನ್, ರಶೀದ್ ಮತ್ತು ಕುಮಾರ ನಾಲ್ವರೂ ತಮ್ಮೂರಿನ ಸಂತೆ ನೋಡಲು ಹೊರಟರು. ಅನಿತಾಳ ಚಿಕ್ಕಪ್ಪ ಜೊತೆಯಲ್ಲಿರುವುದು ಅವರಿಗೆ ತುಂಬಾ ಸಂತೋಷವೆನಿಸಿತು. ಊರಂಚಿನ ಮೈದಾನದಲ್ಲಿ ಸಂತೆ ನೆರೆದಿತ್ತು. ಅಲ್ಲಿ ಸದ್ದು-ಗದ್ದಲ ತುಂಬಿತ್ತು. ಮಕ್ಕಳಿಗೆ ಸಂತೆಯೊಳಗೆ ನುಗ್ಗುವ ಆತುರ. ಆದರೆ ಅನಿತಾಳ ಚಿಕ್ಕಪ್ಪ ಅವರನ್ನು ಸಂತೆಯ ಮುಂಭಾಗದಲ್ಲಿ ನಿಲ್ಲಿಸಿಕೊಂಡು “ಮಕ್ಕಳೇ, ಅವಸರದಿಂದ ಚದುರಿ ಹೋಗಬೇಡಿ. ನನ್ನ ಜೊತೆಯಲ್ಲೇ ಬನ್ನಿ, ಸಂತೆಯಲ್ಲಿ ಸುತ್ತಿಸುವೆ” ಎಂದರು. ಎಲ್ಲರೂ ಖುಷಿಯಿಂದ ಒಪ್ಪಿದರು. ಸಂತೆಯ ಒಳಗೆ ಬಂದರು.",
+      "translations": {
+        "en": "It was Saturday, a half-day at school. Anita, John, Rashid, and Kumara, all four of them, set out to see their village market. They felt very happy that Anita's uncle was with them. The market had gathered in the field at the edge of the village. It was full of noise and bustle. The children were eager to rush into the market. But Anita's uncle made them stand at the front of the market and said, \"Children, do not scatter in a hurry. Come with me, I will show you around the market.\" Everyone happily agreed. They came inside the market.",
+        "hi": "उस दिन शनिवार था, स्कूल की आधे दिन की छुट्टी थी। अनिता, जॉन, रशीद और कुमार चारों अपने गाँव का बाज़ार देखने निकले। अनिता के चाचाजी का साथ होना उन्हें बहुत खुशी दे रहा था। गाँव के किनारे मैदान में बाज़ार लगा था। वहाँ बहुत शोर-शराबा था। बच्चों को बाज़ार में घुसने की जल्दी थी। लेकिन अनिता के चाचाजी ने उन्हें बाज़ार के सामने खड़ा कर लिया और कहा, \"बच्चों, जल्दी में बिछड़ मत जाना। मेरे साथ ही आओ, मैं तुम्हें बाज़ार घुमाऊँगा।\" सब खुशी-खुशी मान गए। वे बाज़ार के अंदर आ गए।"
+      },
+      "transliterations": {
+        "devanagari": "अन्दु शनिवार शालेगे मध्याह्न रजे. अनिता, जान्, रशीद् मत्तु कुमार नाल्वरू तम्मूरिन सन्ते नोडलु होरटरु. अनिताळ चिक्कप्प जोतेयल्लिरुवुदु अवरिगे तुम्बा सन्तोषवेनिसितु. ऊरञ्चिन मैदानदल्लि सन्ते नेरेदित्तु. अल्लि सद्दु-गद्दल तुम्बित्तु. मक्क़ळिगे सन्तेयोळगे नुग्गुव आतुर. आदरे अनिताळ चिक्कप्प अवरन्नु सन्तेय मुम्भागदल्लि निल्लिसिकोण्डु \"मक्क़ळे, अवसरदिन्द चदुरि होगबेडि. नन्न जोतेयल्ले बन्नि, सन्तेयल्लि सुत्तिसुवे\" एन्दरु. एल्लरू खुषियिन्द ओप्पिदरु. सन्तेय ओळगे बन्दरु.",
+        "latin": "andu śanivāra śālege madhyāhna raje. anitā, jān, raśīd mattu kumāra nālvarū tammūrina sante nōḍalu horaṭaru. anitāḷa cikkappa joteyalliruvudu avarige tumbā santōṣavenisitu. ūrancina maidānadalli sante neredittu. alli saddu-gaddala tumbittu. makkaḷige santeyoḷage nugguva ātura. ādare anitāḷa cikkappa avarannu santeya mumbhāgadalli nillisikoṇḍu \"makkaḷē, avasaradinda caduri hōgabēḍi. nanna joteyallē banni, santeyalli suttisuve\" endaru. ellarū khuṣiyinda oppidaru. santeya oḷage bandaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p2",
+      "text": "ಅಲ್ಲಿ ದಿನಸಿ ಅಂಗಡಿಗಳು ಸಾಲು ಸಾಲಾಗಿದ್ದವು. ಅಕ್ಕಿ, ಜೋಳ, ರಾಗಿ, ತೊಗರಿ, ಕಡಲೆ ಮುಂತಾದ ಧಾನ್ಯಗಳ ರಾಶಿ ಒಂದು ಕಡೆ ಇದೆ. ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ತೆಂಗಿನಕಾಯಿ, ಎಳನೀರು, ಕೊಬ್ಬರಿ ಇಟ್ಟಿದ್ದಾರೆ. ಮುಂದಿನ ಸಾಲಿನಲ್ಲಿ ಈರುಳ್ಳಿ, ಬೆಳ್ಳುಳ್ಳಿ ಗುಡ್ಡೆಗಳಿವೆ. ಅದರ ಪಕ್ಕದಲ್ಲಿ ಮೆಣಸಿನ ಕಾಯಿ, ಮರದ ಬುಡದಲ್ಲಿ ವೀಳ್ಯದೆಲೆ, ಬಾಳೆಎಲೆ, ಅಡಿಕೆ ಇವೆ. ಮುಂದೆ ಹೋದರೆ ಬದನೆ, ಸೌತೆ, ಬೆಂಡೆಕಾಯಿ, ತೊಂಡೆಕಾಯಿ, ಟೊಮೆಟೊ ಮುಂತಾದ ತರಕಾರಿಗಳನ್ನು ಇಟ್ಟಿದ್ದಾರೆ. ಪಕ್ಕದಲ್ಲಿ ವಿವಿಧ ಸೊಪ್ಪನ್ನು ಮಾರುತ್ತಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "There were rows of grocery shops. Piles of grains like rice, jowar, ragi, tur dal, and gram were on one side. On another side, they had kept coconuts, tender coconuts, and dry coconuts. In the next row, there were heaps of onions and garlic. Next to that, there were green chilies, and betel leaves, banana leaves, and betel nuts at the base of a tree. Going further, they had kept vegetables like brinjal, cucumber, lady's finger, ivy gourd, tomato, etc. Next to it, they were selling various greens.",
+        "hi": "वहाँ किराने की दुकानों की लाइन लगी हुई थी। चावल, ज्वार, रागी, अरहर, चना आदि अनाजों का ढेर एक तरफ है। दूसरी तरफ नारियल, कच्चा नारियल और सूखा नारियल रखा हुआ है। अगली लाइन में प्याज और लहसुन के ढेर हैं। उसके बगल में हरी मिर्च, पेड़ के तने के पास पान के पत्ते, केले के पत्ते और सुपारी हैं। आगे जाने पर बैंगन, ककड़ी, भिंडी, कुंदरू, टमाटर आदि सब्जियाँ रखी हुई हैं। बगल में तरह-तरह के साग बेचे जा रहे हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि दिनसि अङ्गडिगळु सालु सालागिद्दवु. अक्कि, जोळ, रागि, तोगरि, कडले मुन्ताद धान्यगळ राशि ओन्दु कडे इदे. इन्नोन्दु बदियल्लि तेङ्गिनकायि, एळनीरु, कोब्बरि इट्टिद्दारे. मुन्दिन सालिनल्लि ईरुळ्ळि, बेळ्ळुळ्ळि गुड्डेगळिवे. अडर पक्कदल्लि मेणसिन कायि, मरद बुडदल्लि वीळ्यदेले, बाळेएले, अडिके इवे. मुन्दे होदरे बदने, सौते, बेण्डेकायि, तोण्डेकायि, टोमेटो मुन्ताद तरकारिगळन्नु इट्टिद्दारे. पक्कदल्लि विविध सोप्पन्नु मारुत्तिद्दारे.",
+        "latin": "alli dinasi aṅgaḍigaḷu sālu sālāgiddavu. akki, jōḷa, rāgi, togari, kaḍale muntāda dhānyagaḷa rāśi ondu kaḍe ide. innondu badiyalli teṅginakāyi, eḷanīru, kobbari iṭṭiddāre. mundina sālinalli īruḷḷi, beḷḷuḷḷi guḍḍegaḷive. adara pakkadalli meṇasina kāyi, marada buḍadalli vīḷyadele, bāḷeele, aḍike ive. munde hōdare badane, saute, beṇḍekāyi, toṇḍekāyi, ṭomeṭo muntāda tarakārigaḷannu iṭṭiddāre. pakkadalli vividha soppannu māruttiddāre."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "prose-p3",
+      "speaker": "ಅನಿತಾ",
+      "text": "ಓಹೋ ! ಅಲ್ಲಿ ನೋಡಿ, ಘಮಘಮಿಸುವ ಹೂಗಳು.",
+      "translations": {
+        "en": "Oho! Look there, sweet-smelling flowers.",
+        "hi": "ओहो! वहाँ देखिए, महकते हुए फूल।"
+      },
+      "transliterations": {
+        "devanagari": "ओहो ! अल्लि नोडि, घमघमिसुव हूगळु.",
+        "latin": "ōhō ! alli nōḍi, ghamaghamisuva hūgaḷu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p4",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಬಿಸಿಲಿಗೆ ಬಾಡದಿರಲಿ ಎಂದು ನೆರಳಲ್ಲಿ ಇಟ್ಟಿದ್ದಾರೆ. ಅಲ್ಲಿ ಸೇವಂತಿಗೆ, ಮಲ್ಲಿಗೆ, ಕನಕಾಂಬರ, ಗುಲಾಬಿ, ಚೆಂಡು ಹೂಗಳಿವೆ.",
+      "translations": {
+        "en": "They have kept them in the shade so that they do not wither in the sun. There are chrysanthemum, jasmine, crossandra, rose, and marigold flowers.",
+        "hi": "धूप से न मुरझाएँ, इसलिए छाया में रखे गए हैं। वहाँ गुलदाउदी, चमेली, अबोली, गुलाब और गेंदे के फूल हैं।"
+      },
+      "transliterations": {
+        "devanagari": "बिसिलिगे बाडदिरलि एन्दु नेरळल्लि इट्टिद्दारे. अल्लि सेवन्तिगे, मल्लिगे, कनकाम्बर, गुलाबि, चेण्डु हूगळिवे.",
+        "latin": "bisilige bāḍadirali endu neraḷalli iṭṭiddāre. alli sēvantige, mallige, kanakāmbara, gulābi, ceṇḍu hūgaḷive."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p5",
+      "speaker": "ಜಾನ್",
+      "text": "ಇಲ್ಲಿಗೆ ಇವೆಲ್ಲವನ್ನೂ ಎಲ್ಲಿಂದ ತರುತ್ತಾರೆ?",
+      "translations": {
+        "en": "Where do they bring all these from to here?",
+        "hi": "यहाँ यह सब कहाँ से लाते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "इल्लिगे इवेल्लवन्नू एल्लिन्द तरुत्तारे?",
+        "latin": "illige ivellavannū ellinda taruttāre?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p6",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಇವೆಲ್ಲವನ್ನೂ ರೈತರು ತಮ್ಮ ಹೊಲ, ಗದ್ದೆ, ತೋಟಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತಾರೆ. ಅಲ್ಲಿಂದ ತಂದು ಇಲ್ಲಿ ಮಾರುತ್ತಾರೆ.",
+      "translations": {
+        "en": "The farmers grow all these in their fields, paddy fields, and farms. They bring them from there and sell them here.",
+        "hi": "किसान ये सब अपने खेतों, खलिहानों और बागों में उगाते हैं। वहाँ से लाकर यहाँ बेचते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "इवेल्लवन्नू रैतरु तम्म होल, गद्दे, तोटगळल्लि बेळेयुत्तारे. अल्लिन्द तन्दु इल्लि मारुत्तारे.",
+        "latin": "ivellavannū raitaru tamma hola, gadde, tōṭagaḷalli beḷeyuttāre. allinda tandu illi māruttāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p7",
+      "speaker": "ರಶೀದ್",
+      "text": "ಚಿಕ್ಕಪ್ಪ, ಅಲ್ಲಿ ಕೈಚೀಲ, ಚೀಲ, ಬುಟ್ಟಿ ಹಿಡಿದು ಜನರು ಓಡಾಡುತ್ತಿದ್ದಾರಲ್ಲ ಏಕೆ?",
+      "translations": {
+        "en": "Uncle, people are walking around holding handbags, bags, and baskets there, why?",
+        "hi": "चाचाजी, वहाँ लोग हाथ में थैला, झोला और टोकरी लेकर घूम रहे हैं, क्यों?"
+      },
+      "transliterations": {
+        "devanagari": "चिक्कप्प, अल्लि कैचील, चील, बुट्टि हिडिदु जनरु ओडाडुत्तिद्दारल्ल एके?",
+        "latin": "cikkappa, alli kaicīla, cīla, buṭṭi hiḍidu janaru ōḍāḍuttiddāralla ēke?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p8",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಅವರೆಲ್ಲ ತಮಗೆ ಬೇಕಾದ ಪದಾರ್ಥಗಳನ್ನು ಕೊಳ್ಳಲು ಬಂದಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "They have all come to buy the things they need.",
+        "hi": "वे सब अपना ज़रूरी सामान खरीदने आए हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अवरेल्ल तमगे बेकाद पदार्थगळन्नु कोळ्ळलु बन्दिद्दारे.",
+        "latin": "avarella tamage bēkāda padārthagaḷannu koḷḷalu bandiddāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p9",
+      "speaker": "ಕುಮಾರ",
+      "text": "ಇಲ್ಲಿ ಎಲ್ಲಾ ಪದಾರ್ಥಗಳು ಸಿಗುತ್ತವೆಯೇ?",
+      "translations": {
+        "en": "Are all things available here?",
+        "hi": "क्या यहाँ सारा सामान मिलता है?"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि एल्ला पदार्थगळु सिगुत्तवेये?",
+        "latin": "illi ellā padārthagaḷu siguttaveyē?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p10",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಹೌದು, ಬನ್ನಿ ಈ ಅಂಗಡಿಯಲ್ಲಿ ರವೆ, ಗೋಧಿ, ಬೇಳೆ, ಸಾಂಬಾರ ಪದಾರ್ಥಗಳು, ಅರಿಶಿನ, ಕುಂಕುಮ, ಕಾಫಿಪುಡಿ, ಟೀಪುಡಿ, ಚಾಕ್ಲೇಟ್, ಬಿಸ್ಕತ್ ಇನ್ನು ಮುಂತಾದ ಪದಾರ್ಥಗಳೂ ಇವೆ.",
+      "translations": {
+        "en": "Yes, come. In this shop, there are semolina, wheat, lentils, spices, turmeric, kumkum, coffee powder, tea powder, chocolates, biscuits, and many more things.",
+        "hi": "हाँ, आओ, इस दुकान में सूजी, गेहूँ, दाल, मसाले, हल्दी, कुमकुम, कॉफी पाउडर, चाय पत्ती, चॉकलेट, बिस्कुट और भी बहुत कुछ है।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, बन्नि ई अङ्गडियल्लि रवे, गोधि, बेळे, साम्बार पदार्थगळु, अरिशिन, कुङ्कुम, काफिपुडि, टीपुडि, चाक्लेट्, बिस्कत् इन्नु मुन्ताद पदार्थगळू इवे.",
+        "latin": "haudu, banni ī aṅgaḍiyalli rave, gōdhi, bēḷe, sāmbāra padārthagaḷu, ariśina, kuṅkuma, kāfipuḍi, ṭīpuḍi, cāklēṭ, biskat innu muntāda padārthagaḷū ive."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p11",
+      "speaker": "ಕುಮಾರ",
+      "text": "ನೋಡಿ, ನನ್ನ ಅಕ್ಕ ಬಳಸುವ ರಿಬ್ಬನ್, ಬಳೆ, ಸರ, ಪೌಡರ್ಗಳೂ ಇಲ್ಲಿವೆ.",
+      "translations": {
+        "en": "Look, ribbons, bangles, necklaces, and powders that my elder sister uses are also here.",
+        "hi": "देखिए, मेरी बहन के इस्तेमाल करने वाले रिबन, चूड़ियाँ, माला और पाउडर भी यहाँ हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नोडि, नन्न अक्क बळसुव रिब्बन्, बळे, सर, पौडर्गळू इल्लिवे.",
+        "latin": "nōḍi, nanna akka baḷasuva ribban, baḷe, sara, pauḍargaḷū illive."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p12",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಹೌದು, ಅದರ ಪಕ್ಕದ ಅಂಗಡಿ ನೋಡಿ. ಅಲ್ಲಿ ಎಲ್ಲಾ ಬಗೆಯ ಸಿದ್ಧವಾದ ಉಡುಪುಗಳು, ಹೊದಿಕೆಗಳು ಸಿಗುತ್ತವೆ.",
+      "translations": {
+        "en": "Yes, look at the shop next to it. All kinds of ready-made clothes and blankets are available there.",
+        "hi": "हाँ, उसके बगल वाली दुकान देखो। वहाँ हर तरह के रेडीमेड कपड़े और कंबल मिलते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु, अडर पक्कद अङ्गडि नोडि. अल्लि एल्ला बगेय सिद्धवाद उडुपिगळु, होदिकेगळु सिगुत्तवे.",
+        "latin": "haudu, adara pakkada aṅgaḍi nōḍi. alli ellā bageya siddhavāda uḍupugaḷu, hodikegaḷu siguttave."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p13",
+      "speaker": "ಅನಿತಾ",
+      "text": "ಅಬ್ಬಾ ! ಸಂತೆಯಲ್ಲಿ ಎಷ್ಟೆಲ್ಲಾ ಅಂಗಡಿಗಳು.",
+      "translations": {
+        "en": "Wow! So many shops in the market.",
+        "hi": "वाह! बाज़ार में कितनी सारी दुकानें हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अब्बा ! सन्तेयल्लि एष्टेल्ला अङ्गडिगळु.",
+        "latin": "abbā ! santeyalli eṣṭellā aṅgaḍigaḷu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p14",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಅಲ್ಲಿ ನೋಡಿ. ಗುದ್ದಲಿ, ಹಾರೆ, ಪಿಕಾಸಿ, ಕುಳ, ಕುಡುಗೋಲು, ವಿವಿಧ ಬಗೆಯ ಹಗ್ಗಗಳಿವೆ. ಇವೆಲ್ಲವೂ ರೈತರಿಗೆ ಬೇಕಾದ ಸಲಕರಣೆಗಳು. ಸುತ್ತಮುತ್ತಲಿನ ಹಳ್ಳಿಯ ಜನರು ಬಂದು ತಮಗೆ ಬೇಕಾದ ವಸ್ತುಗಳನ್ನು ಇಲ್ಲಿ ಖರೀದಿಸುತ್ತಾರೆ.",
+      "translations": {
+        "en": "Look there. There are pickaxes, crowbars, pickaxes, ploughshares, sickles, and various types of ropes. These are all implements needed by farmers. People from surrounding villages come and buy the things they need here.",
+        "hi": "वहाँ देखो। कुदाल, सब्बल, गैंती, फाला, हँसिया और तरह-तरह की रस्सियाँ हैं। ये सब किसानों के काम आने वाले उपकरण हैं। आस-पास के गाँवों के लोग आकर अपनी ज़रूरत की चीज़ें यहाँ खरीदते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि नोडि. गुद्दलि, हारे, पिकासि, कुळ, कुडुगोलु, विविध बगेय हग्गगळिवे. इवेल्लवू रैतरिगे बेकाद सलकरणेगळु. सुत्तमुत्तलिन हळ्ळिय जनरु बन्दु तमगे बेकाद वस्तुगळन्नु इल्लि खरिदिसुत्तारे.",
+        "latin": "alli nōḍi. guddali, hāre, pikāsi, kuḷa, kuḍugōlu, vividha bageya haggagaḷive. ivellavū raitarige bēkāda salakaraṇegaḷu. suttamuttalina haḷḷiya janaru bandu tamage bēkāda vastugaḷannu illi kharīdisuttāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p15",
+      "speaker": "ಜಾನ್",
+      "text": "ಅಲ್ಲಿ ಏನೋ ರಿಪೇರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ, ಏನದು?",
+      "translations": {
+        "en": "They are repairing something there, what is it?",
+        "hi": "वहाँ कुछ मरम्मत कर रहे हैं, वह क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि एनो रिपेरि माडुत्तिद्दारे, एनदु?",
+        "latin": "alli ēnō ripēri māḍuttiddāre, ēnadu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p16",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಅಲ್ಲಿ ಹಾಳಾಗಿರುವ ಬೀಗ ಹಾಗೂ ಕೊಡೆ ರಿಪೇರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "They are repairing broken locks and umbrellas there.",
+        "hi": "वहाँ खराब हुए ताले और छतरियों की मरम्मत कर रहे हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि हाळागिरुव बीग हागू कोडे रिपेरि माडुत्तिद्दारे.",
+        "latin": "alli hāḷāgiruva bīga hāgū koḍe ripēri māḍuttiddāre."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p17",
+      "speaker": "ಅನಿತಾ",
+      "text": "ಚಿಕ್ಕಪ್ಪಾ, ಆ ಮೂಲೆಯಲ್ಲಿ ಏನೋ ನಡೆಯುತ್ತಿರುವಂತಿದೆ?",
+      "translations": {
+        "en": "Uncle, something seems to be happening in that corner?",
+        "hi": "चाचाजी, उस कोने में कुछ हो रहा है ऐसा लग रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "चिक्कप्पा, आ मूलेयल्लि एनो नडेयुत्तिरुवन्तिदे?",
+        "latin": "cikkappā, ā mūleyalli ēnō naḍeyuttiruvantide?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p18",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಅಲ್ಲಿ 'ಹಗಲುವೇಷ' ಆಟ ನಡೆಯುತ್ತಿದೆ. ಸಂತೆ ಎಂದರೆ ಕೇವಲ ವ್ಯಾಪಾರ ಮಾಡುವ ಸ್ಥಳ ಅಲ್ಲ. ಹಾಡು, ಆಟಗಳಂತಹ ಮನೋರಂಜನೆಗಳೂ ಇಲ್ಲಿ ನಡೆಯುತ್ತವೆ.",
+      "translations": {
+        "en": "A 'Hagaluvesha' (daytime costume) play is going on there. A market is not just a place for doing business. Entertainment like songs and plays also happen here.",
+        "hi": "वहाँ 'हगलुवेशा' (दिन का वेश) नाटक चल रहा है। बाज़ार का मतलब सिर्फ व्यापार करने की जगह नहीं है। यहाँ गाने और नाटक जैसे मनोरंजन भी होते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि 'हगलुवेष' आट नडेयुत्तिदे. सन्ते एन्दरे केवल व्यापार माडुव स्थळ अल्ल. हाडु, आटगळन्तह मनोरञ्जनेगळू इल्लि नडेयुत्तवे.",
+        "latin": "alli 'hagaluvēṣa' āṭa naḍeyuttide. sante endare kēvala vyāpāra māḍuva sthaḷa alla. hāḍu, āṭagaḷantaha manōranjanegaḷū illi naḍeyuttave."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p19",
+      "speaker": "ಕುಮಾರ",
+      "text": "ನಾವೂ ಆ ಆಟವನ್ನು ನೋಡೋಣವೇ? (ಎಲ್ಲರೂ ಹಗಲುವೇಷದ ಆಟವನ್ನು ನೋಡುವರು)",
+      "translations": {
+        "en": "Shall we also watch that play? (Everyone watches the Hagaluvesha play)",
+        "hi": "क्या हम भी वह नाटक देखें? (सब हगलुवेशा का नाटक देखते हैं)"
+      },
+      "transliterations": {
+        "devanagari": "नावू आ आटवन्नु नोडोणवे? (एल्लरू हगलुवेषद आटवन्नु नोडुवरु)",
+        "latin": "nāvū ā āṭavannu nōḍōṇavē? (ellarū hagaluvēṣada āṭavannu nōḍuvaru)"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p20",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಬನ್ನಿ, ಇಲ್ಲಿ ಸೇಬು, ಕಿತ್ತಳೆ, ಮೂಸಂಬಿ, ಪಪ್ಪಾಯಿ, ಬಾಳೆಹಣ್ಣುಗಳನ್ನು ಇಟ್ಟಿದ್ದಾರೆ. ನಿಮಗೆಲ್ಲರಿಗೂ ಹಣ್ಣು ಕೊಡಿಸುವೆ. (ಎಲ್ಲರೂ ಬಾಳೆ ಹಣ್ಣುತಿನ್ನುವರು. ಕುಮಾರನು ಸಿಪ್ಪೆಯನ್ನು ದಾರಿಗೆ ಎಸೆಯುವನು)",
+      "translations": {
+        "en": "Come, they have kept apples, oranges, sweet limes, papayas, and bananas here. I will buy fruits for all of you. (Everyone eats bananas. Kumara throws the peel on the path)",
+        "hi": "आओ, यहाँ सेब, संतरा, मौसमी, पपीता और केले रखे हैं। मैं तुम सबको फल दिलाऊँगा। (सब केले खाते हैं। कुमार छिलका रास्ते पर फेंक देता है)"
+      },
+      "transliterations": {
+        "devanagari": "बन्नि, इल्लि सेबु, कित्तळे, मूसम्बि, पप्पायि, बाळेहण्णुगळन्नु इट्टिद्दारे. निमिगेल्लरिगू हण्णु कोडिसुवे. (एल्लरू बाळे हण्णुतिन्नुवरु. कुमारनु सिप्पेयन्नु दारिगे एसेयुवनु)",
+        "latin": "banni, illi sēbu, kittaḷe, mūsambi, pappāyi, bāḷehaṇṇugaḷannu iṭṭiddāre. nimigellarigū haṇṇu koḍisuve. (ellarū bāḷe haṇṇutinnuvaru. kumāranu sippeyannu dārige eseyuvanu)"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p21",
+      "speaker": "ರಶೀದ್",
+      "text": "ಕುಮಾರ, ಸಿಪ್ಪೆಯನ್ನು ದಾರಿಗೆ ಎಸೆಯಬಾರದು.",
+      "translations": {
+        "en": "Kumara, you should not throw the peel on the path.",
+        "hi": "कुमार, छिलके को रास्ते पर नहीं फेंकना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "कुमार, सिप्पेयन्नु दारिगे एसेयबारदु.",
+        "latin": "kumāra, sippeyannu dārige eseyabāradu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p22",
+      "speaker": "ಅನಿತಾ",
+      "text": "ಶಾಲೆ ಹಾಗೂ ಮನೆಯಲ್ಲಿ ಬೇಡವಾದ ವಸ್ತುಗಳನ್ನು ಹಾಕಲು ಕಸದ ಬುಟ್ಟಿಗಳಿವೆ. ಆದರೆ ಈ ಸಂತೆಯಲ್ಲಿ ಕಸವನ್ನು ಎಲ್ಲಿ ಹಾಕುವುದು ಚಿಕ್ಕಪ್ಪ?",
+      "translations": {
+        "en": "There are dustbins to put unwanted things in school and at home. But where to put the garbage in this market, uncle?",
+        "hi": "स्कूल और घर में बेकार चीज़ों को डालने के लिए कूड़ेदान होते हैं। लेकिन इस बाज़ार में कूड़ा कहाँ डालें चाचाजी?"
+      },
+      "transliterations": {
+        "devanagari": "शाले हागू मनेयल्लि बेडवाद वस्तुगळन्नु हाकलु कसद बुट्टिगळिवे. आदरे ई सन्तेयल्लि कसवन्नु एल्लि हाकुवुदु चिक्कप्प?",
+        "latin": "śāle hāgū maneyalli bēḍavāda vastugaḷannu hākalu kasada buṭṭigaḷive. ādare ī santeyalli kasavannu elli hākuvudu cikkappa?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p23",
+      "speaker": "ಚಿಕ್ಕಪ್ಪ",
+      "text": "ಮಕ್ಕಳೇ ಇಲ್ಲೂ ಕಸದ ತೊಟ್ಟಿಗಳಿವೆ. ಅಲ್ಲಿ ನೋಡಿ, ಆ ತೊಟ್ಟಿಯಲ್ಲಿ ಸಿಪ್ಪೆ ಹಾಕಿರಿ.",
+      "translations": {
+        "en": "Children, there are dustbins here too. Look there, put the peel in that bin.",
+        "hi": "बच्चों, यहाँ भी कूड़ेदान हैं। वहाँ देखो, उस कूड़ेदान में छिलका डालो।"
+      },
+      "transliterations": {
+        "devanagari": "मक्क़ळे इल्लू कसद तोट्टिगळिवे. अल्लि नोडि, आ तोट्टियल्लि सिप्पे हाकिरि.",
+        "latin": "makkaḷē illū kasada toṭṭigaḷive. alli nōḍi, ā toṭṭiyalli sippe hākiri."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "prose-p24",
+      "text": "ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಕಸದ ತೊಟ್ಟಿಗೆ ಹಾಕಿದರು. ಸಂತೆ ನೋಡಿದ ಖುಷಿಯಲ್ಲಿ ಎಲ್ಲರೂ ಮನೆಗೆ ಹೊರಟರು.",
+      "translations": {
+        "en": "They put the banana peel in the dustbin. Happy to have seen the market, everyone left for home.",
+        "hi": "उन्होंने केले का छिलका कूड़ेदान में डाल दिया। बाज़ार देखने की खुशी में सब घर के लिए निकल पड़े।"
+      },
+      "transliterations": {
+        "devanagari": "बाळेहण्णिन सिप्पेयन्नु कसद तोट्टिगे हाकिदरु. सन्ते नोडिद खुषियल्लि एल्लरू मनेगे होरटरु.",
+        "latin": "bāḷehaṇṇina sippeyannu kasada toṭṭige hākidaru. sante nōḍida khuṣiyalli ellarū manege horaṭaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-sante",
+      "text": "ಸಂತೆ",
+      "translations": {
+        "en": "market",
+        "hi": "बाज़ार"
+      },
+      "transliterations": {
+        "devanagari": "सन्ते",
+        "latin": "sante"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gaddala",
+      "text": "ಗದ್ದಲ",
+      "translations": {
+        "en": "noise / bustle",
+        "hi": "शोर-शराबा"
+      },
+      "transliterations": {
+        "devanagari": "गद्दल",
+        "latin": "gaddala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-angadi",
+      "text": "ಅಂಗಡಿ",
+      "translations": {
+        "en": "shop",
+        "hi": "दुकान"
+      },
+      "transliterations": {
+        "devanagari": "अङ्गडि",
+        "latin": "aṅgaḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vyapara",
+      "text": "ವ್ಯಾಪಾರ",
+      "translations": {
+        "en": "business",
+        "hi": "व्यापार"
+      },
+      "transliterations": {
+        "devanagari": "व्यापार",
+        "latin": "vyāpāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-togari",
+      "text": "ತೊಗರಿ",
+      "translations": {
+        "en": "tur dal",
+        "hi": "अरहर"
+      },
+      "transliterations": {
+        "devanagari": "तोगरि",
+        "latin": "togari"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-veelyadele",
+      "text": "ವೀಳ್ಯದೆಲೆ",
+      "translations": {
+        "en": "betel leaf",
+        "hi": "पान का पत्ता"
+      },
+      "transliterations": {
+        "devanagari": "वीळ्यदेले",
+        "latin": "vīḷyadele"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raashi",
+      "text": "ರಾಶಿ",
+      "translations": {
+        "en": "pile / heap",
+        "hi": "ढेर"
+      },
+      "transliterations": {
+        "devanagari": "राशि",
+        "latin": "rāśi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kadale",
+      "text": "ಕಡಲೆ",
+      "translations": {
+        "en": "bengal gram",
+        "hi": "चना"
+      },
+      "transliterations": {
+        "devanagari": "कडले",
+        "latin": "kaḍale"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhanya",
+      "text": "ಧಾನ್ಯ",
+      "translations": {
+        "en": "grain",
+        "hi": "अनाज"
+      },
+      "transliterations": {
+        "devanagari": "धान्य",
+        "latin": "dhānya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-guddali",
+      "text": "ಗುದ್ದಲಿ",
+      "translations": {
+        "en": "pickaxe / hoe",
+        "hi": "कुदाल"
+      },
+      "transliterations": {
+        "devanagari": "गुद्दलि",
+        "latin": "guddali"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-menasinakayi",
+      "text": "ಮೆಣಸಿನ ಕಾಯಿ",
+      "translations": {
+        "en": "green chilli",
+        "hi": "हरी मिर्च"
+      },
+      "transliterations": {
+        "devanagari": "मेणसिन कायि",
+        "latin": "meṇasina kāyi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-eerulli",
+      "text": "ಈರುಳ್ಳಿ",
+      "translations": {
+        "en": "onion",
+        "hi": "प्याज"
+      },
+      "transliterations": {
+        "devanagari": "ईरुळ्ळि",
+        "latin": "īruḷḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kasada-totti",
+      "text": "ಕಸದ ತೊಟ್ಟಿ",
+      "translations": {
+        "en": "dustbin",
+        "hi": "कूड़ेदान"
+      },
+      "transliterations": {
+        "devanagari": "कसद तोट्टि",
+        "latin": "kasada toṭṭi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raita",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "farmer",
+        "hi": "किसान"
+      },
+      "transliterations": {
+        "devanagari": "रैत",
+        "latin": "raita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bellulli",
+      "text": "ಬೆಳ್ಳುಳ್ಳಿ",
+      "translations": {
+        "en": "garlic",
+        "hi": "लहसुन"
+      },
+      "transliterations": {
+        "devanagari": "बेळ्ळुळ्ळि",
+        "latin": "beḷḷuḷḷi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-akki",
+      "text": "ಅಕ್ಕಿ",
+      "translations": {
+        "en": "rice",
+        "hi": "चावल"
+      },
+      "transliterations": {
+        "devanagari": "अक्कि",
+        "latin": "akki"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-padartha",
+      "text": "ಪದಾರ್ಥ",
+      "translations": {
+        "en": "thing / item",
+        "hi": "वस्तु / चीज़"
+      },
+      "transliterations": {
+        "devanagari": "पदार्थ",
+        "latin": "padārtha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jola",
+      "text": "ಜೋಳ",
+      "translations": {
+        "en": "jowar",
+        "hi": "ज्वार"
+      },
+      "transliterations": {
+        "devanagari": "जोळ",
+        "latin": "jōḷa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-maidana",
+      "text": "ಮೈದಾನ",
+      "translations": {
+        "en": "field / ground",
+        "hi": "मैदान"
+      },
+      "transliterations": {
+        "devanagari": "मैदान",
+        "latin": "maidāna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haare",
+      "text": "ಹಾರೆ",
+      "translations": {
+        "en": "crowbar",
+        "hi": "सब्बल"
+      },
+      "transliterations": {
+        "devanagari": "हारे",
+        "latin": "hāre"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-salakarane",
+      "text": "ಸಲಕರಣೆ",
+      "translations": {
+        "en": "implement / tool",
+        "hi": "उपकरण"
+      },
+      "transliterations": {
+        "devanagari": "सलकरणे",
+        "latin": "salakaraṇe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-khushi",
+      "text": "ಖುಷಿ",
+      "translations": {
+        "en": "happiness",
+        "hi": "खुशी"
+      },
+      "transliterations": {
+        "devanagari": "खुषि",
+        "latin": "khuṣi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-khushi",
+      "text": "ಖುಷಿ",
+      "translations": {
+        "en": "happiness",
+        "hi": "खुशी"
+      },
+      "transliterations": {
+        "devanagari": "खुषि",
+        "latin": "khuṣi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-khushi-def",
+      "text": "ಹಿಗ್ಗು, ಹರ್ಷ",
+      "translations": {
+        "en": "joy, delight",
+        "hi": "आनंद, हर्ष"
+      },
+      "transliterations": {
+        "devanagari": "हिग्गु, हर्ष",
+        "latin": "higgu, harṣa"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-padartha",
+      "text": "ಪದಾರ್ಥ",
+      "translations": {
+        "en": "thing",
+        "hi": "वस्तु"
+      },
+      "transliterations": {
+        "devanagari": "पदार्थ",
+        "latin": "padārtha"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-padartha-def",
+      "text": "ವಸ್ತು",
+      "translations": {
+        "en": "object",
+        "hi": "चीज़"
+      },
+      "transliterations": {
+        "devanagari": "वस्तु",
+        "latin": "vastu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-raashi",
+      "text": "ರಾಶಿ",
+      "translations": {
+        "en": "pile",
+        "hi": "ढेर"
+      },
+      "transliterations": {
+        "devanagari": "राशि",
+        "latin": "rāśi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-raashi-def",
+      "text": "ಗುಂಪು, ಗುಪ್ಪೆ, ಸಮೂಹ",
+      "translations": {
+        "en": "group, heap, collection",
+        "hi": "समूह, ढेर"
+      },
+      "transliterations": {
+        "devanagari": "गुम्पु, गुप्पे, समूह",
+        "latin": "gumpu, guppe, samūha"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-riperi",
+      "text": "ರಿಪೇರಿ",
+      "translations": {
+        "en": "repair",
+        "hi": "मरम्मत"
+      },
+      "transliterations": {
+        "devanagari": "रिपेरि",
+        "latin": "ripēri"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-riperi-def",
+      "text": "ಸರಿಪಡಿಸುವಿಕೆ",
+      "translations": {
+        "en": "fixing",
+        "hi": "ठीक करना"
+      },
+      "transliterations": {
+        "devanagari": "सरिपडिसुविके",
+        "latin": "saripaḍisuvike"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-salakarane",
+      "text": "ಸಲಕರಣೆ",
+      "translations": {
+        "en": "implement",
+        "hi": "उपकरण"
+      },
+      "transliterations": {
+        "devanagari": "सलकरणे",
+        "latin": "salakaraṇe"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-salakarane-def",
+      "text": "ಉಪಕರಣ",
+      "translations": {
+        "en": "tool / equipment",
+        "hi": "औज़ार / सामान"
+      },
+      "transliterations": {
+        "devanagari": "उपकरण",
+        "latin": "upakaraṇa"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-dinasi",
+      "text": "ದಿನಸಿ",
+      "translations": {
+        "en": "groceries",
+        "hi": "किराना"
+      },
+      "transliterations": {
+        "devanagari": "दिनसि",
+        "latin": "dinasi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dinasi-def",
+      "text": "ಧಾನ್ಯ, ದವಸ",
+      "translations": {
+        "en": "grain, provision",
+        "hi": "अनाज, राशन"
+      },
+      "transliterations": {
+        "devanagari": "धान्य, दवस",
+        "latin": "dhānya, davasa"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-badi",
+      "text": "ಬದಿ",
+      "translations": {
+        "en": "side",
+        "hi": "किनारा"
+      },
+      "transliterations": {
+        "devanagari": "बदि",
+        "latin": "badi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-badi-def",
+      "text": "ಪಕ್ಕ, ಮಗ್ಗುಲು",
+      "translations": {
+        "en": "next to, beside",
+        "hi": "बगल में, पास"
+      },
+      "transliterations": {
+        "devanagari": "पक्क, मग्गुलु",
+        "latin": "pakka, maggulu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-sambaara",
+      "text": "ಸಾಂಬಾರ",
+      "translations": {
+        "en": "spice",
+        "hi": "मसाला"
+      },
+      "transliterations": {
+        "devanagari": "साम्बार",
+        "latin": "sāmbāra"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sambaara-def",
+      "text": "ಮಸಾಲೆಯ ಪದಾರ್ಥ.",
+      "translations": {
+        "en": "spice item.",
+        "hi": "मसाले की चीज़।"
+      },
+      "transliterations": {
+        "devanagari": "मसालेय पदार्थ.",
+        "latin": "masāleya padārtha."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-vyapara",
+      "text": "ವ್ಯಾಪಾರ",
+      "translations": {
+        "en": "business",
+        "hi": "व्यापार"
+      },
+      "transliterations": {
+        "devanagari": "व्यापार",
+        "latin": "vyāpāra"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-vyapara-def",
+      "text": "ಕೊಳ್ಳುವುದು, ಮಾರುವುದು.",
+      "translations": {
+        "en": "buying, selling.",
+        "hi": "खरीदना, बेचना।"
+      },
+      "transliterations": {
+        "devanagari": "कोळ्ळुवुदु, मारुवुदु.",
+        "latin": "koḷḷuvudu, māruvudu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-manoranjane",
+      "text": "ಮನೋರಂಜನೆ",
+      "translations": {
+        "en": "entertainment",
+        "hi": "मनोरंजन"
+      },
+      "transliterations": {
+        "devanagari": "मनोरञ्जने",
+        "latin": "manōranjane"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-manoranjane-def",
+      "text": "ಮನಸ್ಸನ್ನು ಸಂತೋಷಗೊಳಿಸುವುದು.",
+      "translations": {
+        "en": "making the mind happy.",
+        "hi": "मन को खुश करना।"
+      },
+      "transliterations": {
+        "devanagari": "मनस्सन्नु सन्तोषगोळिसुवुदु.",
+        "latin": "manassannu santōṣagoḷisuvudu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-guddali",
+      "text": "ಗುದ್ದಲಿ",
+      "translations": {
+        "en": "pickaxe",
+        "hi": "कुदाल"
+      },
+      "transliterations": {
+        "devanagari": "गुद्दलि",
+        "latin": "guddali"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-guddali-def",
+      "text": "ನೆಲವನ್ನು ಅಗೆಯಲು ಉಪಯೋಗಿಸುವ ಮರದ ಹಿಡಿಯುಳ್ಳ ಕಬ್ಬಿಣದ ಸಾಧನ.",
+      "translations": {
+        "en": "an iron tool with a wooden handle used for digging the ground.",
+        "hi": "ज़मीन खोदने के लिए इस्तेमाल होने वाला लकड़ी के हत्थे वाला लोहे का उपकरण।"
+      },
+      "transliterations": {
+        "devanagari": "नेलवन्नु अगेयलु उपयोगिसुव मरद हिडियुळ्ळ कब्बिणद साधन.",
+        "latin": "nelavannu ageyalu upayōgisuva marada hiḍiyuḷḷa kabbiṇada sādhana."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಗೆಳೆಯರೆಲ್ಲ ಕೂಡಿ ಎಲ್ಲಿಗೆ ಹೋದರು?",
+      "translations": {
+        "en": "Where did all the friends go together?",
+        "hi": "सब दोस्त मिलकर कहाँ गए?"
+      },
+      "transliterations": {
+        "devanagari": "गेळेयरेल्ल कूडि एल्लिगे होदरु?",
+        "latin": "geḷeyarella kūḍi ellige hōdaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಸಂತೆಯಲ್ಲಿ ಏನನ್ನು ರಿಪೇರಿ ಮಾಡುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "What were they repairing in the market?",
+        "hi": "बाज़ार में किसकी मरम्मत कर रहे थे?"
+      },
+      "transliterations": {
+        "devanagari": "सन्तेयल्लि एनन्नु रिपेरि माडुत्तिद्दरु?",
+        "latin": "santeyalli ēnannu ripēri māḍuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಸಂತೆಯಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "Which play were they playing in the market?",
+        "hi": "बाज़ार में कौन सा नाटक खेल रहे थे?"
+      },
+      "transliterations": {
+        "devanagari": "सन्तेयल्लि याव आट आडुत्तिद्दरु?",
+        "latin": "santeyalli yāva āṭa āḍuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಮಕ್ಕಳು ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಎಲ್ಲಿ ಹಾಕಿದರು?",
+      "translations": {
+        "en": "Where did the children put the banana peel?",
+        "hi": "बच्चों ने केले का छिलका कहाँ डाला?"
+      },
+      "transliterations": {
+        "devanagari": "मक्क़ळु बाळेहण्णिन सिप्पेयन्नु एल्लि हाकिदरु?",
+        "latin": "makkaḷu bāḷehaṇṇina sippeyannu elli hākidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "“ಅವಸರದಿಂದ ಚದುರಿ ಹೋಗಬೇಡಿ''.",
+      "translations": {
+        "en": "Do not scatter in a hurry.",
+        "hi": "जल्दी में बिछड़ मत जाना।"
+      },
+      "transliterations": {
+        "devanagari": "“अवसरदिन्द चदुरि होगबेडि''.",
+        "latin": "“avasaradinda caduri hōgabēḍi''."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "“ಅಲ್ಲಿ ನೋಡಿ, ಘಮಘಮಿಸುವ ಹೂಗಳು”.",
+      "translations": {
+        "en": "Look there, sweet-smelling flowers.",
+        "hi": "वहाँ देखिए, महकते हुए फूल।"
+      },
+      "transliterations": {
+        "devanagari": "“अल्लि नोडि, घमघमिसुव हूगळु”.",
+        "latin": "“alli nōḍi, ghamaghamisuva hūgaḷu”."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "“ಇಲ್ಲಿಗೆ ಇವೆಲ್ಲವನ್ನೂ ಎಲ್ಲಿಂದ ತರುತ್ತಾರೆ?”",
+      "translations": {
+        "en": "Where do they bring all these from to here?",
+        "hi": "यहाँ यह सब कहाँ से लाते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "“इल्लिगे इवेल्लवन्नू एल्लिन्द तरुत्तारे?”",
+        "latin": "“illige ivellavannū ellinda taruttāre?”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "“ಸಿಪ್ಪೆಯನ್ನು ದಾರಿಗೆ ಎಸೆಯಬಾರದು.”",
+      "translations": {
+        "en": "You should not throw the peel on the path.",
+        "hi": "छिलके को रास्ते पर नहीं फेंकना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "“सिप्पेयन्नु दारिगे एसेयबारदु.”",
+        "latin": "“sippeyannu dārige eseyabāradu.”"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಅಪ್ಪ -",
+      "translations": {
+        "en": "Father -",
+        "hi": "पिताजी -"
+      },
+      "transliterations": {
+        "devanagari": "अप्प -",
+        "latin": "appa -"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ದೊಡ್ಡಪ್ಪ -",
+      "translations": {
+        "en": "Elder uncle -",
+        "hi": "ताऊजी -"
+      },
+      "transliterations": {
+        "devanagari": "दोड्डप्प -",
+        "latin": "doḍḍappa -"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಮಾವ -",
+      "translations": {
+        "en": "Maternal uncle -",
+        "hi": "मामा -"
+      },
+      "transliterations": {
+        "devanagari": "माव -",
+        "latin": "māva -"
+      },
+      "type": "question"
+    }
+  ]
+}

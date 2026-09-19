@@ -1,0 +1,672 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g8-fl-p1",
+    "chapterId": "ch03-neeru-kodada-nadinalli",
+    "editionId": "2026-27",
+    "number": 3
+  },
+  "labels": {
+    "ashaya": {
+      "devanagari": "आशय",
+      "en": "Theme",
+      "hi": "आशय",
+      "kn": "ಆಶಯ",
+      "latin": "āśaya"
+    },
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions.",
+      "hi": "आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॊट्टिरुव प्रश्नॆगळिगॆ नाल्कु-ऐदु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Answer the following questions.",
+      "hi": "इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ನಾಲ್ಕು-ಐದು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kòṭṭiruva praśnègaḻigè nālku-aidu vākyagaḻalli uttarisi."
+    },
+    "exercise-D": {
+      "devanagari": "ई. संदर्भसहित स्वारस्यवन्नु विवरिसि.",
+      "en": "D. Answer the following questions.",
+      "hi": "ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಈ. ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ.",
+      "latin": "ī. saṃdarbhasahita svārasyavannu vivarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "story": {
+      "devanagari": "गद्य",
+      "en": "Story",
+      "hi": "कहानी",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ನೇಮಿಚಂದ್ರ",
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 8,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch03-neeru-kodada-nadinalli",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ವಿಶ್ವವು ಜಾಗತೀಕರಣದ ಹೆಸರಿನಲ್ಲಿ ಪ್ರಕೃತಿಯಿಂದ ಮಾನವನಿಗೆ ಉಚಿತವಾಗಿ ಲಭ್ಯವಾಗಬಹುದಾದ ಗಾಳಿ, ಬೆಳಕು, ನೀರು ಮತ್ತು ಆಹಾರಗಳಂಥ ಅತ್ಯವಶ್ಯಕವಾದ ವಸ್ತುಗಳನ್ನು ಹಣಗಳಿಸುವ ಮಾರ್ಗವನ್ನಾಗಿ ಪರಿವರ್ತಿಸಲು ಹೊರಟಿರುವುದು ಆತಂಕಕಾರಿ ವಿಷಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "It is alarming that the world, in the name of globalisation, is turning essentials freely available from nature — air, light, water and food — into ways of making money. We Indians, valuing humanity, have protected a culture of giving water to the weary and food to the hungry — something the world can be proud of.",
+        "hi": "वैश्वीकरण के नाम पर प्रकृति से मुफ्त मिलने वाली हवा, रोशनी, पानी और भोजन को कमाने का मार्ग बनाना चिंताजनक है।"
+      },
+      "transliterations": {
+        "devanagari": "विश्ववु जागतीकरणद हॆसरिनल्लि प्रकृतियिंद मानवनिगॆ उचितवागि लभ्यवागबहुदाद गाळि, बॆळकु, नीरु मत्तु आहारगळंथ अत्यवश्यकवाद वस्तुगळन्नु हणगळिसुव मार्गवन्नागि परिवर्तिसलु हॊरटिरुवुदु आतंककारि विषयवागिदॆ.",
+        "latin": "viśvavu jāgatīkaraṇada hèsarinalli prakṛtiyiṃda mānavanigè ucitavāgi labhyavāgabahudāda gāḻi, bèḻaku, nīru mattu āhāragaḻaṃtha atyavaśyakavāda vastugaḻannu haṇagaḻisuva mārgavannāgi parivartisalu hòraṭiruvudu ātaṃkakāri viṣayavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಭಾರತೀಯರಾದ ನಾವು ಮಾನವೀಯತೆಗೆ ಬೆಲೆಕೊಟ್ಟು “ಬಳಲಿ ಬಂದವರಿಗೆ ನೀರು, ಹಸಿದು ಬಂದವರಿಗೆ ಅನ್ನವನ್ನಿಕ್ಕಿ” ಮೌಲ್ಯಯುತ ಸಂಸ್ಕøತಿಯನ್ನು ಕಾಪಾಡಿಕೊಂಡು ಬಂದಿರುವುದು ವಿಶ್ವವೇ ಹೆಮ್ಮೆಪಡುವ ಸಂಗತಿಯಾಗಿದೆ.",
+      "transliterations": {
+        "devanagari": "भारतीयराद नावु मानवीयतॆगॆ बॆलॆकॊट्टु “बळलि बंदवरिगॆ नीरु, हसिदु बंदवरिगॆ अन्नवन्निक्कि” मौल्ययुत संस्कøतियन्नु कापाडिकॊंडु बंदिरुवुदु विश्ववे हॆम्मॆपडुव संगतियागिदॆ.",
+        "latin": "bhāratīyarāda nāvu mānavīyatègè bèlèkòṭṭu “baḻali baṃdavarigè nīru, hasidu baṃdavarigè annavannikki” maulyayuta saṃskaøtiyannu kāpāḍikòṃḍu baṃdiruvudu viśvave hèmmèpaḍuva saṃgatiyāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಭಾರತದಿಂದ ಹೊರಗೆ ಕಾಲಿಟ್ಟರೆ, ಉಳಿದೆಲ್ಲವೂ ‘ನೀರು ಕೊಡದ ನಾಡುಗಳು’ ಎಂಬುದು ನನ್ನ ಇಲ್ಲಿಯವರೆಗಿನ ಅನುಭವ. ಎರಡು ವಾರ ಕಳೆದಿದೆ. ಊರೂರು ಅಲೆದಿದ್ದಾಯಿತು. ದಿನವೂ ಅಸಾಧ್ಯ ಬಾಯಾರಿಕೆ. ಕೋಲಾಗಳು, ಫ್ರೆಂಚ್ ವೈನ್, ಬಿಯರ್, ಬಾಟಲಿಯಲ್ಲಿ ಹಣ್ಣಿನ ರಸ ಧಾರಾಳವಾಗಿ ದೊರೆಯುತ್ತವೆ. ಕುಡಿಯಲು ನೀರು ಸಿಗದು.",
+      "translations": {
+        "en": "My experience so far is that once you step outside India, everywhere else is a 'land that does not give water'. Two weeks have passed. I have wandered town to town. Every day unbearable thirst. Colas, French wine, beer, bottled fruit juice are abundant. Drinking water is not to be found.",
+        "hi": "भारत से बाहर कदम रखने पर बाकी सब 'पानी न देने वाले देश' हैं — अब तक का मेरा अनुभव।"
+      },
+      "transliterations": {
+        "devanagari": "भारतदिंद हॊरगॆ कालिट्टरॆ, उळिदॆल्लवू ‘नीरु कॊडद नाडुगळु’ ऎंबुदु नन्न इल्लियवरॆगिन अनुभव. ऎरडु वार कळॆदिदॆ. ऊरूरु अलॆदिद्दायितु. दिनवू असाध्य बायारिकॆ. कोलागळु, फ्रॆंच् वैन्, बियर्, बाटलियल्लि हण्णिन रस धाराळवागि दॊरॆयुत्तवॆ. कुडियलु नीरु सिगदु.",
+        "latin": "bhāratadiṃda hòragè kāliṭṭarè, uḻidèllavū ‘nīru kòḍada nāḍugaḻu’ èṃbudu nanna illiyavarègina anubhava. èraḍu vāra kaḻèdidè. ūrūru alèdiddāyitu. dinavū asādhya bāyārikè. kolāgaḻu, phrèṃc vain, biyar, bāṭaliyalli haṇṇina rasa dhārāḻavāgi dòrèyuttavè. kuḍiyalu nīru sigadu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಇಲ್ಲಿ ಯೂರೋಪಿನಲ್ಲಾಗಲಿ, ಅಲ್ಲಿ ಅಮೇರಿಕದಲ್ಲಾಗಲಿ ನೀರು ಕೊಡುವ ಸಂಪ್ರದಾಯವಿಲ್ಲ. ಹಿಂದೆ ಇತ್ತೇನೋ, ಈಗಂತೂ ಇಲ್ಲ. ನೀರು ಸಲೀಸಾಗಿ ಎಲ್ಲೆಂದರಲ್ಲಿ ಪುಕ್ಕಟ್ಟೆಯಾಗಿ ನಿಮಗೆ ಖಂಡಿತ ಸಿಗದು. ನಮ್ಮಲ್ಲಿಯಂತೆ ರೈಲು ನಿಲ್ದಾಣಗಳಲ್ಲಿ, ಬಸ್ಸು ನಿಲ್ದಾಣಗಳಲ್ಲಿ, ವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲೂ ‘ದುಡ್ಡಿಲ್ಲದೆ ಕುಡಿಯಬಲ್ಲ’ ನೀರನ್ನು ಇರಿಸುವುದಿಲ್ಲ. ಬಾಯಾರಿದಾಗ ಈಗಲೂ ಹೋಟೆಲ್ ಒಂದಕ್ಕೆ ಹೊಕ್ಕು, ನೀರು ಮಾತ್ರ ಕುಡಿದು ಹೊರ ಬರಬಹುದಾದ ಸವಲತ್ತು ಇಲ್ಲಿಲ್ಲ. ಮನೆಯ ಹೊರಗೆ ಕಾಂಪೌಂಡ್ ಗೋಡೆಗೆ ಸಣ್ಣ ತೊಟ್ಟಿ ಕಟ್ಟಿ, ‘ದನಕರುಗಳು ಕುಡಿದು ಹೋಗಲಿ’ ಎಂದು ನೀರು ತುಂಬಿಡುತ್ತಿದ್ದ ಬಾಲ್ಯದ ದಿನಗಳು ನನಗಿನ್ನೂ ನೆನಪಿವೆ. ನಾನು ದಿಲ್ಲಿಗೆ ಬಂದು, ವಿದೇಶಕ್ಕೆ ಹಾರಿದ್ದೆ. ದಿಲ್ಲಿಯಲ್ಲೋ ಧಗೆಧಗೆ ಬಿಸಿಲು. ಆದರೆ ಯಾರೋ ಪುಣ್ಯಾತ್ಮರು ಅಲ್ಲಿ ದೊಡ್ಡ ಮಣ್ಣಿನ ಮಡಕೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿಟ್ಟಿರುತ್ತಿದ್ದರು. ಅನೇಕ ಗುರುದ್ವಾರಗಳ ಬಳಿ, ಸ್ವಯಂ ಸೇವಕರು ನೀರಿನ ದೊಡ್ಡ ಕೊಳಾಯಿ ಹಿಡಿದು, ನಿಲ್ಲಿಸಿದ ಆಟೋ, ಬಸ್ಸು ಹಾಗೂ ದಾರಿಹೋಕರಿಗೆಲ್ಲ ನೀರು ತುಂಬಿ ತುಂಬಿ ಕುಡಿಸುವುದನ್ನೂ ನೋಡಿದ್ದೇನೆ. ರೋತಕ್ ರಸ್ತೆಯ ಅತ್ತೆಯ ಮನೆಯೊಳಗೆ ಕಾಲಿಡುತ್ತಿದ್ದಂತೆ, ‘ಬೇಟಾ ತಾಯಾಜಿ ಆಯೆ ಹೈ, ಥಂಡಾ ಪಾನಿ ಪಿಲಾವೋ’ ನನ್ನ ಮೈದುನನ ಮಗನಿಗೆ ಅತ್ತೆ ಕೂಗಿ ಹೇಳಿದರು. ಪುಟ್ಟ ಹುಡುಗ ತತ್ಕ್ಷಣ ‘ತಣ್ಣನೆಯ ನೀರು’ ತಂದು ಕೈಗಿಟ್ಟ.",
+      "transliterations": {
+        "devanagari": "इल्लि यूरोपिनल्लागलि, अल्लि अमेरिकदल्लागलि नीरु कॊडुव संप्रदायविल्ल. हिंदॆ इत्तेनो, ईगंतू इल्ल. नीरु सलीसागि ऎल्लॆंदरल्लि पुक्कट्टॆयागि निमगॆ खंडित सिगदु. नम्मल्लियंतॆ रैलु निल्दाणगळल्लि, बस्सु निल्दाणगळल्लि, विमान निल्दाणगळल्लू ‘दुड्डिल्लदॆ कुडियबल्ल’ नीरन्नु इरिसुवुदिल्ल. बायारिदाग ईगलू होटॆल् ऒंदक्कॆ हॊक्कु, नीरु मात्र कुडिदु हॊर बरबहुदाद सवलत्तु इल्लिल्ल. मनॆय हॊरगॆ कांपौंड् गोडॆगॆ सण्ण तॊट्टि कट्टि, ‘दनकरुगळु कुडिदु होगलि’ ऎंदु नीरु तुंबिडुत्तिद्द बाल्यद दिनगळु ननगिन्नू नॆनपिवॆ. नानु दिल्लिगॆ बंदु, विदेशक्कॆ हारिद्दॆ. दिल्लियल्लो धगॆधगॆ बिसिलु. आदरॆ यारो पुण्यात्मरु अल्लि दॊड्ड मण्णिन मडकॆगळल्लि नीरु तुंबिट्टिरुत्तिद्दरु. अनेक गुरुद्वारगळ बळि, स्वयं सेवकरु नीरिन दॊड्ड कॊळायि हिडिदु, निल्लिसिद आटो, बस्सु हागू दारिहोकरिगॆल्ल नीरु तुंबि तुंबि कुडिसुवुदन्नू नोडिद्देनॆ. रोतक् रस्तॆय अत्तॆय मनॆयॊळगॆ कालिडुत्तिद्दंतॆ, ‘बेटा तायाजि आयॆ है, थंडा पानि पिलावो’ नन्न मैदुनन मगनिगॆ अत्तॆ कूगि हेळिदरु. पुट्ट हुडुग तत्क्षण ‘तण्णनॆय नीरु’ तंदु कैगिट्ट.",
+        "latin": "illi yūropinallāgali, alli amerikadallāgali nīru kòḍuva saṃpradāyavilla. hiṃdè itteno, īgaṃtū illa. nīru salīsāgi èllèṃdaralli pukkaṭṭèyāgi nimagè khaṃḍita sigadu. nammalliyaṃtè railu nildāṇagaḻalli, bassu nildāṇagaḻalli, vimāna nildāṇagaḻallū ‘duḍḍilladè kuḍiyaballa’ nīrannu irisuvudilla. bāyāridāga īgalū hoṭèl òṃdakkè hòkku, nīru mātra kuḍidu hòra barabahudāda savalattu illilla. manèya hòragè kāṃpauṃḍ goḍègè saṇṇa tòṭṭi kaṭṭi, ‘danakarugaḻu kuḍidu hogali’ èṃdu nīru tuṃbiḍuttidda bālyada dinagaḻu nanaginnū nènapivè. nānu dilligè baṃdu, videśakkè hāriddè. dilliyallo dhagèdhagè bisilu. ādarè yāro puṇyātmaru alli dòḍḍa maṇṇina maḍakègaḻalli nīru tuṃbiṭṭiruttiddaru. aneka gurudvāragaḻa baḻi, svayaṃ sevakaru nīrina dòḍḍa kòḻāyi hiḍidu, nillisida āṭo, bassu hāgū dārihokarigèlla nīru tuṃbi tuṃbi kuḍisuvudannū noḍiddenè. rotak rastèya attèya manèyòḻagè kāliḍuttiddaṃtè, ‘beṭā tāyāji āyè hai, thaṃḍā pāni pilāvo’ nanna maidunana maganigè attè kūgi heḻidaru. puṭṭa huḍuga tatkṣaṇa ‘taṇṇanèya nīru’ taṃdu kaigiṭṭa."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ದಿಲ್ಲಿಯ ಧೂಳು ಹಾದಿಗಳೆಲ್ಲ ಮರೆತವು. ಮನೆಗೆ ಬಂದವರಿಗಂತು ‘ ಮೊದಲು ನೀರು ಕೊಡುವ’ ಸಂಪ್ರದಾಯ. ಡಾಬಾ ಆಗಲಿ, ದರ್ಶಿನಿ ಆಗಲಿ, ಪಂಚತಾರಾ ಹೋಟಲೇ ಆಗಲಿ ಮೊದಲು ನೀರು ಮೇಜಿನ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳುತ್ತದೆ. ಪುಕ್ಕಟ್ಟೆಯಾಗಿ ಕೊಡುವ ನೀರು. ಆದರೆ ನಾನೀಗ ‘ನೀರು ಕೊಡದ ನಾಡು’ಗಳಲ್ಲಿ ಅಲೆಯುತ್ತಿದ್ದೇನೆ. ‘ಮ್ಯಾಗ್ಡೊನಾಲ್ಡ್’ ನಂತಹ ಅಗ್ಗದ ಫಾಸ್ಟ್ಪುಡ್ ಜಾಯಿಂಟ್ಸ್ಗೆ ಹೋಗಿ, ವೈಭವದ ಪಂಚತಾರಾ ಹೋಟೇಲುಗಳಿಗೇ ಹೋಗಿ, ನೀರು ಇಡುವ ಅಥವಾ ಕೊಡುವ ಸಂಪ್ರದಾಯವೇ ಇಲ್ಲಿಲ್ಲ. ಹೋಟೇಲುಗಳಲ್ಲಿ ವೈನ್, ಬಿಯರ್, ಇಲ್ಲವೇ ಕೋಲಾಗಳಿಂದಲೇ ಊಟ ಆರಂಭ. ‘ಮ್ಯಾಗ್ಡೊನಾಲ್ಡ್’ಗಳಲ್ಲಿ ಫ್ರೆಂಚ್ ಪ್ರೈಸ್ ಇರಲಿ, ಸ್ಯಾಂಡ್ವಿಚ್ ಆಗಲಿ, ಬರ್ಗರ್ ಆಗಲಿ ಜೊತೆಗೆ ದೊಡ್ಡ ಗಾತ್ರದ ಕೋಲಾದೊಡನೆಯೇ ನೀಡುತ್ತಾರೆ.",
+      "transliterations": {
+        "devanagari": "दिल्लिय धूळु हादिगळॆल्ल मरॆतवु. मनॆगॆ बंदवरिगंतु ‘ मॊदलु नीरु कॊडुव’ संप्रदाय. डाबा आगलि, दर्शिनि आगलि, पंचतारा होटले आगलि मॊदलु नीरु मेजिन मेलॆ कुळितुकॊळ्ळुत्तदॆ. पुक्कट्टॆयागि कॊडुव नीरु. आदरॆ नानीग ‘नीरु कॊडद नाडु’गळल्लि अलॆयुत्तिद्देनॆ. ‘म्याग्डॊनाल्ड्’ नंतह अग्गद फास्ट्पुड् जायिंट्स्गॆ होगि, वैभवद पंचतारा होटेलुगळिगे होगि, नीरु इडुव अथवा कॊडुव संप्रदायवे इल्लिल्ल. होटेलुगळल्लि वैन्, बियर्, इल्लवे कोलागळिंदले ऊट आरंभ. ‘म्याग्डॊनाल्ड्’गळल्लि फ्रॆंच् प्रैस् इरलि, स्यांड्विच् आगलि, बर्गर् आगलि जॊतॆगॆ दॊड्ड गात्रद कोलादॊडनॆये नीडुत्तारॆ.",
+        "latin": "dilliya dhūḻu hādigaḻèlla marètavu. manègè baṃdavarigaṃtu ‘ mòdalu nīru kòḍuva’ saṃpradāya. ḍābā āgali, darśini āgali, paṃcatārā hoṭale āgali mòdalu nīru mejina melè kuḻitukòḻḻuttadè. pukkaṭṭèyāgi kòḍuva nīru. ādarè nānīga ‘nīru kòḍada nāḍu’gaḻalli alèyuttiddenè. ‘myāgḍònālḍ’ naṃtaha aggada phāsṭpuḍ jāyiṃṭsgè hogi, vaibhavada paṃcatārā hoṭelugaḻige hogi, nīru iḍuva athavā kòḍuva saṃpradāyave illilla. hoṭelugaḻalli vain, biyar, illave kolāgaḻiṃdale ūṭa āraṃbha. ‘myāgḍònālḍ’gaḻalli phrèṃc prais irali, syāṃḍvic āgali, bargar āgali jòtègè dòḍḍa gātrada kolādòḍanèye nīḍuttārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಮಧ್ಯಾಹ್ನದ ಊಟದ ಸಮಯ, ನಾನು ‘ನೀರು, ನೀರು’ ಎಂದು ಬಡಬಡಿಸುವಾಗ, ಸಣ್ಣ ಬಾಟಲಿಯಲ್ಲಿ ನೀರು ಬರುತ್ತಿತ್ತು. ಕುಡಿದು ನೋಡಿದರೆ ಅದು ಬರೀ ಸೋಡಾ. ‘ಸೋಡಾ ಅಲ್ಲ ವಾಟರ್’ ಎನ್ನುತ್ತಿದ್ದೆ. ‘ಇದು ನೀರೆ, ಸ್ಪಾಕ್ರ್ಲಿಂಗ್ ವಾಟರ್’ ಎನ್ನುತ್ತಿದ್ರು. ‘ ಅಪ್ಪಾ ಮಹಾನಿಯರೇ, ನನಗೆ ಹೊಳೆಯುವ ನೀರು ಬೇಡ. ಸಾದಾ ನೀರು ಕೊಡಿ’ ಎಂದೆ ಪುಟ್ಟ ಬಾಟಲು ತರಿಸಿದರು. ಸ್ಟಲ್ ವಾಟರ್ ಹೊಸ ಪದಪುಂಜವನ್ನು ಕಲಿತೆ. ಅದನ್ನು ಕುಡಿದು ನೋಡಿದರೆ, ಅದರಲ್ಲೂ ಅಲ್ಪ ಮಟ್ಟದ ಸೋಡಾ, ಕಡೆಗೂ ದುಡ್ಡು ಕೊಟ್ಟರೂ, ಸೀದಾಸಾದಾ ನೀರು ಸಿಗುವುದು ಅಪರೂಪವಿತ್ತು. ಏಕೆ ಹೀಗೆ? ಉತ್ತರ ಹೊಳೆಯುವುದೇನೂ ಕಷ್ಟವಲ್ಲ. ಪುಕ್ಕಟ್ಟೆಯಾಗಿ ಏನನ್ನೂ ಕೊಡದಿದ್ದರೆ, ನೀವು ಕೊಳ್ಳುತ್ತೀರಿ. ಕೊಳ್ಳುತ್ತಿರುವುದು ಸೀದಾಸಾದಾ ಅಲ್ಲ ಎಂದು ನಂಬಿಸಿದರೆ, ಮತ್ತಷ್ಟು ಕೊಳ್ಳುತ್ತೀರಿ. ‘ಕೊಳ್ಳುತ್ತಿರುವುದು ಅದ್ಭುತವಾದದ್ದು’ ಎಂದರೆ ಇನ್ನಷ್ಟು ಕೊಳ್ಳುತ್ತೀರಿ. ಕೊಳ್ಳುಬಾಕ ಸಂಸ್ಕøತಿಯ ತಳಹದಿಯೇ ಇಲ್ಲಿದೆ. ನೀರು ನಿಮಗೆ ಧಾರಾಳವಾಗಿ ಎಲ್ಲೆಡೆ ಪುಕಟ್ಟೆಯಾಗಿ ದೊರತರೆ, ಕೋಲಾ ಕಂಪನಿಗಳ ಜಾಹೀರಾತಿಗೆ ಮಣಿಯುವುದು ಹೇಗೆ? ಇದು ಒಂದು ಬಗೆಯ ಸೂಕ್ಷ್ಮ ರೀತಿಯ ‘ಸೈಕಾಲಜಿಕಲ್ ವಾರ್ ಫೇರ್’. ಅಮೆರಿಕದ ಉದ್ದಗಲವನ್ನು ವಾರಗಟ್ಟಲೆ ಅಲೆವಾಗ, ಎಲ್ಲೆಡೆಯಲ್ಲಿ ಗಮನಿಸಿದ್ದೆ, ದೊಡ್ಡಗಾತ್ರದ ಕೋಲಾ ಬಾಟಲಿಗಳಿಗೆ 0.99 ಡಾಲರ್ ಬೆಲೆ, ಅದೇ ಸಣ್ಣಗಾತ್ರದ ನೀರಿನ ಬಾಟಲಿಗೂ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಹಣ! ಕೊಳ್ಳುವ ಗ್ರಾಹಕನ ಮನಸಿನಲ್ಲಿ ‘ನೀರಿಗೇಕೆ ಅಷ್ಟು ಹಣ? ಅದಕ್ಕಿಂತ ಅಗ್ಗವಾಗಿ ಕೋಲಾ ಸಿಗುತ್ತದೆಯಲ್ಲ?, ಎಂಬ ತರ್ಕ ಹೊಳೆದು ಕೋಲಾ ಅಭ್ಯಾಸ ಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ. ಅಲ್ಲಿಗೆ ನೀರು ಕುಡಿಯುವ ಅಭ್ಯಾಸ ತಪ್ಪುತ್ತದೆ. ವಿದೇಶಗಳಲ್ಲಿ ಮನೆಯ ನಲ್ಲಿಯಲ್ಲಿ ಬರುವ ನೀರನ್ನು ಯಾರೂ ಕುಡಿಯುವುದಿಲ್ಲ. ಅದನ್ನು ಕುಡಿದರೇನು ಪ್ರಾಣ ಹೋಗುವುದಿಲ್ಲ. ಆದರೆ ‘ ಅದು ಶುದ್ಧವಲ್ಲ, ಶುದ್ಧ ನೀರನ್ನು ಬಾಟಲಿಯಲ್ಲಿ ಕೊಂಡು ಮಾತ್ರ ತರಬಹುದು’ ಎಂದು ಇಡೀ ದೇಶದ ತಲೆ ತೊಳೆದಿರುವಾಗ, ಪ್ರತಿಯೊಬ್ಬರೂ",
+      "transliterations": {
+        "devanagari": "मध्याह्नद ऊटद समय, नानु ‘नीरु, नीरु’ ऎंदु बडबडिसुवाग, सण्ण बाटलियल्लि नीरु बरुत्तित्तु. कुडिदु नोडिदरॆ अदु बरी सोडा. ‘सोडा अल्ल वाटर्’ ऎन्नुत्तिद्दॆ. ‘इदु नीरॆ, स्पाक्र्लिंग् वाटर्’ ऎन्नुत्तिद्रु. ‘ अप्पा महानियरे, ननगॆ हॊळॆयुव नीरु बेड. सादा नीरु कॊडि’ ऎंदॆ पुट्ट बाटलु तरिसिदरु. स्टल् वाटर् हॊस पदपुंजवन्नु कलितॆ. अदन्नु कुडिदु नोडिदरॆ, अदरल्लू अल्प मट्टद सोडा, कडॆगू दुड्डु कॊट्टरू, सीदासादा नीरु सिगुवुदु अपरूपवित्तु. एकॆ हीगॆ? उत्तर हॊळॆयुवुदेनू कष्टवल्ल. पुक्कट्टॆयागि एनन्नू कॊडदिद्दरॆ, नीवु कॊळ्ळुत्तीरि. कॊळ्ळुत्तिरुवुदु सीदासादा अल्ल ऎंदु नंबिसिदरॆ, मत्तष्टु कॊळ्ळुत्तीरि. ‘कॊळ्ळुत्तिरुवुदु अद्भुतवादद्दु’ ऎंदरॆ इन्नष्टु कॊळ्ळुत्तीरि. कॊळ्ळुबाक संस्कøतिय तळहदिये इल्लिदॆ. नीरु निमगॆ धाराळवागि ऎल्लॆडॆ पुकट्टॆयागि दॊरतरॆ, कोला कंपनिगळ जाहीरातिगॆ मणियुवुदु हेगॆ? इदु ऒंदु बगॆय सूक्ष्म रीतिय ‘सैकालजिकल् वार् फेर्’. अमॆरिकद उद्दगलवन्नु वारगट्टलॆ अलॆवाग, ऎल्लॆडॆयल्लि गमनिसिद्दॆ, दॊड्डगात्रद कोला बाटलिगळिगॆ 0.99 डालर् बॆलॆ, अदे सण्णगात्रद नीरिन बाटलिगू अदक्किंत हॆच्चिन हण! कॊळ्ळुव ग्राहकन मनसिनल्लि ‘नीरिगेकॆ अष्टु हण? अदक्किंत अग्गवागि कोला सिगुत्तदॆयल्ल?, ऎंब तर्क हॊळॆदु कोला अभ्यास माडिकॊळ्ळुत्तानॆ. अल्लिगॆ नीरु कुडियुव अभ्यास तप्पुत्तदॆ. विदेशगळल्लि मनॆय नल्लियल्लि बरुव नीरन्नु यारू कुडियुवुदिल्ल. अदन्नु कुडिदरेनु प्राण होगुवुदिल्ल. आदरॆ ‘ अदु शुद्धवल्ल, शुद्ध नीरन्नु बाटलियल्लि कॊंडु मात्र तरबहुदु’ ऎंदु इडी देशद तलॆ तॊळॆदिरुवाग, प्रतियॊब्बरू",
+        "latin": "madhyāhnada ūṭada samaya, nānu ‘nīru, nīru’ èṃdu baḍabaḍisuvāga, saṇṇa bāṭaliyalli nīru baruttittu. kuḍidu noḍidarè adu barī soḍā. ‘soḍā alla vāṭar’ ènnuttiddè. ‘idu nīrè, spākrliṃg vāṭar’ ènnuttidru. ‘ appā mahāniyare, nanagè hòḻèyuva nīru beḍa. sādā nīru kòḍi’ èṃdè puṭṭa bāṭalu tarisidaru. sṭal vāṭar hòsa padapuṃjavannu kalitè. adannu kuḍidu noḍidarè, adarallū alpa maṭṭada soḍā, kaḍègū duḍḍu kòṭṭarū, sīdāsādā nīru siguvudu aparūpavittu. ekè hīgè? uttara hòḻèyuvudenū kaṣṭavalla. pukkaṭṭèyāgi enannū kòḍadiddarè, nīvu kòḻḻuttīri. kòḻḻuttiruvudu sīdāsādā alla èṃdu naṃbisidarè, mattaṣṭu kòḻḻuttīri. ‘kòḻḻuttiruvudu adbhutavādaddu’ èṃdarè innaṣṭu kòḻḻuttīri. kòḻḻubāka saṃskaøtiya taḻahadiye illidè. nīru nimagè dhārāḻavāgi èllèḍè pukaṭṭèyāgi dòratarè, kolā kaṃpanigaḻa jāhīrātigè maṇiyuvudu hegè? idu òṃdu bagèya sūkṣma rītiya ‘saikālajikal vār pher’. amèrikada uddagalavannu vāragaṭṭalè alèvāga, èllèḍèyalli gamanisiddè, dòḍḍagātrada kolā bāṭaligaḻigè 0.99 ḍālar bèlè, ade saṇṇagātrada nīrina bāṭaligū adakkiṃta hèccina haṇa! kòḻḻuva grāhakana manasinalli ‘nīrigekè aṣṭu haṇa? adakkiṃta aggavāgi kolā siguttadèyalla?, èṃba tarka hòḻèdu kolā abhyāsa māḍikòḻḻuttānè. alligè nīru kuḍiyuva abhyāsa tapputtadè. videśagaḻalli manèya nalliyalli baruva nīrannu yārū kuḍiyuvudilla. adannu kuḍidarenu prāṇa hoguvudilla. ādarè ‘ adu śuddhavalla, śuddha nīrannu bāṭaliyalli kòṃḍu mātra tarabahudu’ èṃdu iḍī deśada talè tòḻèdiruvāga, pratiyòbbarū"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ನೀರನ್ನು ಕೊಂಡು ಕುಡಿಯುತ್ತಾರೆ. ಇಂತಹುದೇ ಹುನ್ನಾರ ಭಾರತದಲ್ಲಿ ಅದಾಗಲೇ ಆರಂಭವಾಗಿದೆ. ಕೀಟನಾಶಕವಿರುವ ನೀರನ್ನೂ ಶುದ್ಧವೆಂದು ಮಾರಿ ಉದ್ಧಾರವಾದ ಕಂಪನಿಗಳು! ಕೊಳ್ಳುಬಾಕ ಸಂಸ್ಕøತಿಯ ಪರಾಕಾಷ್ಠೆಯಾಗಿ ನನಗೆ ‘ನೀರು ಕೊಡದ ನಾಡುಗಳು’ ಕಾಣುತ್ತವೆ. ಇಂತಹುದೇ ಮರಳುತನಕ್ಕೆ ಅದಾಗಲೇ ಭಾರತೀಯರು ಬಲಿಯಾಗಿದ್ದಾರೆ. ನಮ್ಮ ಎಳನೀರು, ಮಜ್ಜಿಗೆ, ಪಾನಕ, ಕಬ್ಬಿನ ಹಾಲು, ತಾಜಾ ಹಣ್ಣಿನ ರಸ ಎಲ್ಲವನ್ನು ತೊರೆದು ಕೋಲಾಗಳಿಗೆ ಮುಗಿಬೀಳುತ್ತಿರುವ ಜನರ ಸಂಖ್ಯೆ ಏರುತಿದೆ. ವೈಯಕ್ತಿಕ ವಿದೇಶ ಪ್ರವಾಸಗಳಲ್ಲಿ ನನಗೆ ಇಷ್ಟು ಕಷ್ಟವಾಗಿದ್ದಿಲ್ಲ. ತಿಂಗಳುಗಟ್ಟಲೆ ಅಲೆದರೂ ನಾವಿಳಿದುಕೊಳ್ಳುತ್ತಿದ್ದ ಅಗ್ಗದ ಹೋಟೇಲಿನಿಂದ ಬೆಳಗ್ಗೆ ಹೊರಡುವಾಗಲೇ ಬಾಟಲಿಯಲ್ಲಿ ನಲ್ಲಿ ನೀರನ್ನು ತುಂಬಿಸಿಕೊಂಡು ಹೊರಡುತ್ತಿದ್ದೆವು. ನಮ್ಮ ಭಾರತೀಯ ‘ನಿರೋಧಕ ಶಕ್ತಿಯ’ ಎದುರು ಯಾವ ನೀರಾದರೂ ಅಡ್ಡಿ ಇರಲಿಲ್ಲ. ಆದರೆ ಕೆಲಸದ ಮೇಲೆ ಬಂದ ಈ ಪ್ರವಾಸದಲ್ಲಿ ಮಣಮಣ ಫೈಲುಗಳನ್ನು ಹೊತ್ತು, ಅಲ್ಲಿಂದಿಲ್ಲಿಗೆ ಇಲ್ಲಿಂದಲ್ಲಿಗೆ ಅಲೆಯುವಾಗ ನೀರಿನ ಬಾಟಲಿ ಹಿಡಿದು ಹೋಗುವುದು ಅಸಾಧ್ಯವಾಗಿತ್ತು.",
+      "transliterations": {
+        "devanagari": "नीरन्नु कॊंडु कुडियुत्तारॆ. इंतहुदे हुन्नार भारतदल्लि अदागले आरंभवागिदॆ. कीटनाशकविरुव नीरन्नू शुद्धवॆंदु मारि उद्धारवाद कंपनिगळु! कॊळ्ळुबाक संस्कøतिय पराकाष्ठॆयागि ननगॆ ‘नीरु कॊडद नाडुगळु’ काणुत्तवॆ. इंतहुदे मरळुतनक्कॆ अदागले भारतीयरु बलियागिद्दारॆ. नम्म ऎळनीरु, मज्जिगॆ, पानक, कब्बिन हालु, ताजा हण्णिन रस ऎल्लवन्नु तॊरॆदु कोलागळिगॆ मुगिबीळुत्तिरुव जनर संख्यॆ एरुतिदॆ. वैयक्तिक विदेश प्रवासगळल्लि ननगॆ इष्टु कष्टवागिद्दिल्ल. तिंगळुगट्टलॆ अलॆदरू नाविळिदुकॊळ्ळुत्तिद्द अग्गद होटेलिनिंद बॆळग्गॆ हॊरडुवागले बाटलियल्लि नल्लि नीरन्नु तुंबिसिकॊंडु हॊरडुत्तिद्दॆवु. नम्म भारतीय ‘निरोधक शक्तिय’ ऎदुरु याव नीरादरू अड्डि इरलिल्ल. आदरॆ कॆलसद मेलॆ बंद ई प्रवासदल्लि मणमण फैलुगळन्नु हॊत्तु, अल्लिंदिल्लिगॆ इल्लिंदल्लिगॆ अलॆयुवाग नीरिन बाटलि हिडिदु होगुवुदु असाध्यवागित्तु.",
+        "latin": "nīrannu kòṃḍu kuḍiyuttārè. iṃtahude hunnāra bhāratadalli adāgale āraṃbhavāgidè. kīṭanāśakaviruva nīrannū śuddhavèṃdu māri uddhāravāda kaṃpanigaḻu! kòḻḻubāka saṃskaøtiya parākāṣṭhèyāgi nanagè ‘nīru kòḍada nāḍugaḻu’ kāṇuttavè. iṃtahude maraḻutanakkè adāgale bhāratīyaru baliyāgiddārè. namma èḻanīru, majjigè, pānaka, kabbina hālu, tājā haṇṇina rasa èllavannu tòrèdu kolāgaḻigè mugibīḻuttiruva janara saṃkhyè erutidè. vaiyaktika videśa pravāsagaḻalli nanagè iṣṭu kaṣṭavāgiddilla. tiṃgaḻugaṭṭalè alèdarū nāviḻidukòḻḻuttidda aggada hoṭeliniṃda bèḻaggè hòraḍuvāgale bāṭaliyalli nalli nīrannu tuṃbisikòṃḍu hòraḍuttiddèvu. namma bhāratīya ‘nirodhaka śaktiya’ èduru yāva nīrādarū aḍḍi iralilla. ādarè kèlasada melè baṃda ī pravāsadalli maṇamaṇa phailugaḻannu hòttu, alliṃdilligè illiṃdalligè alèyuvāga nīrina bāṭali hiḍidu hoguvudu asādhyavāgittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಕೊಳ್ಳುಬಾಕತನ, ಲಾಭಕೋರತನದ ರೋಗಗಳು ಸಾಂಕ್ರಾಮಿಕವಾಗಿ ಎಲ್ಲ ನೆಲದಲ್ಲೂ ಹರಡಿ, ಭಾರತಕ್ಕೂ ಲಗ್ಗೆ ಇಟ್ಟಿವೆ ಎಂದು ತೀರಾ ಇತ್ತೀಚಿನ ದಿನಗಳಲ್ಲಿ ಗಾಢವಾಗಿ ನಮ್ಮೆಲ್ಲರಿಗೂ ಅನುಭವವಾಗಿದೆ. ‘ಸಂಸ್ಕøತಿಯ ಮೇಲೆ ದಾಳಿ’ ಎನ್ನುವಾಗ ನನಗೆ ‘ಮದರ್ಸ್ಡೇ,’ ‘ಫಾದರ್ಸ್ ಡೇ’, ‘ವ್ಯಾಲೆಂಟೈನ್ ಡೇ’ ಆಚರಿಸುವುದು ಅಷ್ಟು ದೊಡ್ಡ ಅನಾಹುತವಾಗಿ ಕಾಣುವುದಿಲ್ಲ. ಈ ಹೊಸ ಹೊಸ ದಿನಗಳೆಲ್ಲ ಉಕ್ಕಿದ ಪ್ರೀತಿಯ ದ್ಯೋತಕವಲ್ಲ. ‘ಗಿಫ್ಟ್’, ‘ಗ್ರೀಟಿಂಗ್ ಕಾರ್ಡ್’ ಮಾರುವ ಹೊಸ ಹುನ್ನಾರಗಳೆಂದು ಸರ್ವರಿಗೂ ವೇದ್ಯವಾಗಿದೆ. ಆದರೆ ನನಗೆ ಗಾಬರಿ ಹುಟ್ಟಿಸುವುದು ನಮ್ಮ ಭಾರತೀಯ ಸಂಸ್ಕøತಿಯ ಬುನಾದಿಯನ್ನು ಜೀವನಶೈಲಿಯನ್ನು, ನಂಬಿಕೆಗಳನ್ನು, ಮೌಲ್ಯಗಳನ್ನು, ಸಂಸ್ಕøತಿಯ ಬುನಾದಿಯನ್ನು ಅಲುಗಿಸುವ ‘ಕೊಳ್ಳುಬಾಕತನ’. ಅಗತ್ಯಗಳಲ್ಲಿ ನಡೆದು ಹೋಗುತ್ತಿದ್ದ ಬದುಕು, ಇಂದು ‘ಬೇಕು’ಗಳ ಬಲೆಗೆ ಬಿದ್ದಿದೆ. ಸರಕಾರಿ ಕಾಲೇಜಿನ ಪ್ರೊಫೆಸರ್ ಮತ್ತು ಪ್ರಾಂಶುಪಾಲರಾದ ನಮ್ಮ ತಂದೆಗೆ ಕಾಲೇಜಿಗೆ ಸೈಕಲಿನಲ್ಲಿ ಹೋಗುವುದು ಅಪಮಾನಕರವಾಗಿ ಕಂಡಿರಲೇ ಇಲ್ಲ. ಕೊಂಡ ಒಂದು ವಸ್ತುವನ್ನು ಬದುಕಿಡೀ ಬಳಸುವ ಪರಿಪಾಠವಿತ್ತು. ಇಂದು ಶಾಲೆಯಲ್ಲಿಯೇ ಬೈಕು ಬೇಕು ಎನ್ನುವ ಮಗ. ಇಂತಹುದೇ ಬ್ರಾಂಡಿನ ಶೂ ಬೇಕು ಎನ್ನುವ ಮಕ್ಕಳು. ಮಾರುತಿ ಕಾರಿದ್ದರೆ, ಸ್ಯಾಂತ್ರೋ ಬೇಕು ಎಂದು ಓಡುವ ಹಿರಿಯರು. ಮಾರುಕಟ್ಟೆಗೆ ಬಂದದ್ದೆಲ್ಲವು ಬೇಕು. ಬೇಕುಗಳನ್ನು ‘ಅಗತ್ಯ’ಗಳಾಗಿ, ಹಾಗೂ ‘ಅತ್ಯಗತ್ಯ’ಗಳಾಗಿ ಬಲು ಜಾಣತನದಿಂದ ಬದಲಿಸುವ ಜಾಹೀರಾತುಗಳು ಮತ್ತೆ ಮತ್ತೆ ಬಿತ್ತರಿಸುತ್ತವೆ. ಆರಾಮ, ಐಷಾರಾಮದ, ಅಪ್ಪಟ ಅನಗತ್ಯದ ವಸ್ತುಗಳನ್ನು ‘ಇವಿಲ್ಲದೆ ಬದುಕಿಲ್ಲ’ ಎಂಬಂತೆ ಬಿಂಬಿಸುತ್ತಾರೆ. ‘ಡಿಓಡರೆಂಟ್’ ಹಾಕಿಕೊಳ್ಳದೆ ಇದ್ದರೆ ‘ ತಾನು ನಾತ ಬಡಿಯುತ್ತೇನೆ’ ಎಂಬಷ್ಟು ಕೀಳರಿಮೆಯನ್ನು ಹುಟ್ಟಿಸಬಲ್ಲರು. ಕೊನೆಗೆ ಎಲ್ಲವೂ ನಿಮ್ಮನ್ನು ಕೊಳ್ಳುವಂತೆ ಪ್ರೇರೇಪಿಸುತ್ತವೆ.",
+      "transliterations": {
+        "devanagari": "कॊळ्ळुबाकतन, लाभकोरतनद रोगगळु सांक्रामिकवागि ऎल्ल नॆलदल्लू हरडि, भारतक्कू लग्गॆ इट्टिवॆ ऎंदु तीरा इत्तीचिन दिनगळल्लि गाढवागि नम्मॆल्लरिगू अनुभववागिदॆ. ‘संस्कøतिय मेलॆ दाळि’ ऎन्नुवाग ननगॆ ‘मदर्स्डे,’ ‘फादर्स् डे’, ‘व्यालॆंटैन् डे’ आचरिसुवुदु अष्टु दॊड्ड अनाहुतवागि काणुवुदिल्ल. ई हॊस हॊस दिनगळॆल्ल उक्किद प्रीतिय द्योतकवल्ल. ‘गिफ्ट्’, ‘ग्रीटिंग् कार्ड्’ मारुव हॊस हुन्नारगळॆंदु सर्वरिगू वेद्यवागिदॆ. आदरॆ ननगॆ गाबरि हुट्टिसुवुदु नम्म भारतीय संस्कøतिय बुनादियन्नु जीवनशैलियन्नु, नंबिकॆगळन्नु, मौल्यगळन्नु, संस्कøतिय बुनादियन्नु अलुगिसुव ‘कॊळ्ळुबाकतन’. अगत्यगळल्लि नडॆदु होगुत्तिद्द बदुकु, इंदु ‘बेकु’गळ बलॆगॆ बिद्दिदॆ. सरकारि कालेजिन प्रॊफॆसर् मत्तु प्रांशुपालराद नम्म तंदॆगॆ कालेजिगॆ सैकलिनल्लि होगुवुदु अपमानकरवागि कंडिरले इल्ल. कॊंड ऒंदु वस्तुवन्नु बदुकिडी बळसुव परिपाठवित्तु. इंदु शालॆयल्लिये बैकु बेकु ऎन्नुव मग. इंतहुदे ब्रांडिन शू बेकु ऎन्नुव मक्कळु. मारुति कारिद्दरॆ, स्यांत्रो बेकु ऎंदु ओडुव हिरियरु. मारुकट्टॆगॆ बंदद्दॆल्लवु बेकु. बेकुगळन्नु ‘अगत्य’गळागि, हागू ‘अत्यगत्य’गळागि बलु जाणतनदिंद बदलिसुव जाहीरातुगळु मत्तॆ मत्तॆ बित्तरिसुत्तवॆ. आराम, ऐषारामद, अप्पट अनगत्यद वस्तुगळन्नु ‘इविल्लदॆ बदुकिल्ल’ ऎंबंतॆ बिंबिसुत्तारॆ. ‘डिओडरॆंट्’ हाकिकॊळ्ळदॆ इद्दरॆ ‘ तानु नात बडियुत्तेनॆ’ ऎंबष्टु कीळरिमॆयन्नु हुट्टिसबल्लरु. कॊनॆगॆ ऎल्लवू निम्मन्नु कॊळ्ळुवंतॆ प्रेरेपिसुत्तवॆ.",
+        "latin": "kòḻḻubākatana, lābhakoratanada rogagaḻu sāṃkrāmikavāgi èlla nèladallū haraḍi, bhāratakkū laggè iṭṭivè èṃdu tīrā ittīcina dinagaḻalli gāḍhavāgi nammèllarigū anubhavavāgidè. ‘saṃskaøtiya melè dāḻi’ ènnuvāga nanagè ‘madarsḍe,’ ‘phādars ḍe’, ‘vyālèṃṭain ḍe’ ācarisuvudu aṣṭu dòḍḍa anāhutavāgi kāṇuvudilla. ī hòsa hòsa dinagaḻèlla ukkida prītiya dyotakavalla. ‘giphṭ’, ‘grīṭiṃg kārḍ’ māruva hòsa hunnāragaḻèṃdu sarvarigū vedyavāgidè. ādarè nanagè gābari huṭṭisuvudu namma bhāratīya saṃskaøtiya bunādiyannu jīvanaśailiyannu, naṃbikègaḻannu, maulyagaḻannu, saṃskaøtiya bunādiyannu alugisuva ‘kòḻḻubākatana’. agatyagaḻalli naḍèdu hoguttidda baduku, iṃdu ‘beku’gaḻa balègè biddidè. sarakāri kālejina pròphèsar mattu prāṃśupālarāda namma taṃdègè kālejigè saikalinalli hoguvudu apamānakaravāgi kaṃḍirale illa. kòṃḍa òṃdu vastuvannu badukiḍī baḻasuva paripāṭhavittu. iṃdu śālèyalliye baiku beku ènnuva maga. iṃtahude brāṃḍina śū beku ènnuva makkaḻu. māruti kāriddarè, syāṃtro beku èṃdu oḍuva hiriyaru. mārukaṭṭègè baṃdaddèllavu beku. bekugaḻannu ‘agatya’gaḻāgi, hāgū ‘atyagatya’gaḻāgi balu jāṇatanadiṃda badalisuva jāhīrātugaḻu mattè mattè bittarisuttavè. ārāma, aiṣārāmada, appaṭa anagatyada vastugaḻannu ‘ivilladè badukilla’ èṃbaṃtè biṃbisuttārè. ‘ḍioḍarèṃṭ’ hākikòḻḻadè iddarè ‘ tānu nāta baḍiyuttenè’ èṃbaṣṭu kīḻarimèyannu huṭṭisaballaru. kònègè èllavū nimmannu kòḻḻuvaṃtè prerepisuttavè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಕೆಲವು ವರ್ಷಗಳ ಹಿಂದೆ ದಿನಪತ್ರಿಕೆಯಲ್ಲಿ ಓದಿದ್ದೆ. ಜನಪ್ರಿಯ ಹೋಟೆಲಿನ ಮಾಲೀಕರೊಬ್ಬರು ಬರೆದಿದ್ದರು. ತಂಪು ಪಾನೀಯದ ಕಂಪನಿಯೊಂದು ಆತನನ್ನು ಸಂಪರ್ಕಿಸಿ ‘ನೀವು ಗ್ರಾಹಕರಿಗೆ ಬಂದೊಡನೆ ನೀರು ಕೊಡುವುದನ್ನು ನಿಲ್ಲಿಸಿದರೆ, ಇಷ್ಟು ಹಣ ಕೊಡುವುದಾಗಿ’ ಹೇಳಿತ್ತಂತೆ! ಈಗಾಗಲೇ ಬೆಂಗಳೂರಿನಲ್ಲೂ ನನಗೆ ‘ನೀರು ಕೊಡದ ಸಂಸ್ಕøತಿ’ಯ ಅನುಭವವಾಗಿದೆ. ಮಹಾತ್ಮಗಾಂಧಿ ರಸ್ತೆಯ ‘ಬಾಂಬೆ ಬಜಾರ್’ ಎದುರಿನ ಪುಟ್ಟ ಜಾಯಿಂಟ್ನಲ್ಲಿ ನಾನು ಮತ್ತು ಮಗಳು ಕುಳಿತಿದ್ದೆವು. ಇಲ್ಲಿ ನೀರು ತಂದಿಡಲಿಲ್ಲ. ಐಸ್ಕ್ರೀಂ ತಿಂದ ನಾವು ‘ನೀರು ಬೇಕು’ ಎಂದು ಕೇಳಿದೆವು. ‘ಮಿನರಲ್ ವಾಟರ್?’ ವೇಟರ್ ಪ್ರಶ್ನಿಸಿದ ‘ಇಲ್ಲಪ್ಪ ಸಾಮಾನ್ಯ ನೀರು’ ಎಂದೆ. ಮಾಯವಾದ ವೇಟರ್ ಹದಿನೈದು ನಿಮಿಷ ಕಾದರೂ ಬರಲೇ ಇಲ್ಲ. ಕಾದು ಕಾದು ಸುಸ್ತಾಗಿ ಕೊನೆಗೆ ಕೌಂಟರಿಗೇ ಹೋಗಿ, ಬಿಲ್ಲು ಕೊಟ್ಟು ಹೊರಬಿದ್ದೆವು. ಅದೇ ವೇಟರ್, ಪುಟ್ಟ ಪುಟ್ಟ ಬಾಟಲಿಗಳಲ್ಲಿ ಮಿನರಲ್ ವಾಟರುಗಳನ್ನು ಬೇರೆ ಬೇರೆ ಮೇಜಿಗೆ ಸರಬರಾಜು ಮಾಡುವುದು ಕಂಡಿತು. ‘ಮಿನರಲ್ ವಾಟರ್?’ ಎಂದ ಅವರು ಕೇಳುವ ಭಂಗಿ ಭಾವ ಹೇಗಿರುತ್ತದೆ ಎಂದರೆ ನಿಮಗೆ ‘ಆರ್ಡಿನರಿ ವಾಟರ್’ ಎಂದು ಹೇಳಲೂ ಹಿಂಜರಿಕೆಯಾಗಬೇಕು. ಆದರೆ ನಿಜಕ್ಕೂ ಆಘಾತವಾದದ್ದು, ತೀರಾ ಇತ್ತೀಚೆಗೆ ಮಾಲತಿಯೊಡನೆ ಇಂದಿರಾನಗರದ ಮುಖ್ಯ ರಸ್ತೆಯ ಪುಟ್ಟ ಜಾಯಿಂಟ್ಗೆ ಹೊಸ ಬಗೆಯ ಐಸ್ಕ್ರೀಂ ತಿನ್ನುವ ಬಯಕೆಯಲ್ಲಿ ಹೊಕ್ಕಾಗ. ‘ಮಿಸಿಸಿಪಿ ಮಡ್ ಪೀ’ ಎಂದು ಎಲ್ಲೋ ಪತ್ರಿಕೆಯಲ್ಲಿ ಓದಿದ್ದ ಮಾಲತಿ, ಆರ್ಡರ್ ಮಾಡಿದರು. ದೊಡ್ಡ ಬಿಳಿ ಪಿಂಗಾಣಿ ತಟ್ಟೆಯಲ್ಲಿ ಕೇಕ್ ಮತ್ತು ಐಸ್ಕ್ರೀಂ ಇರಿಸಿ, ಮೇಲೆ ಕೋಕೋ ಪುಡಿ ಉದುರಿಸಿ ಆಕರ್ಷಕವಾಗಿ ತಂದಿಟ್ಟರು. ಬೆಲೆ ನೂರು ರೂಪಾಯಿ ಎಂದಾಗ ಹೌಹಾರಿದ್ದುಂಟು! ಇಲ್ಲೂ ನೀರು ಕೊಟ್ಟಿರಲಿಲ್ಲ. ‘ನೀರು ಕೊಡಿ’ ಎಂದೆ, ‘ಮಿನಿರಲ್ ವಾಟರ್?’ ಎಂದಳು ಸರ್ವ್ ಮಾಡುತ್ತಿದ್ದ ಹುಡುಗಿ. ‘ಇಲ್ಲ ಸಾಧಾರಣ ನೀರು’ ಎಂದರೆ, ನಮ್ಮಲ್ಲಿ ಸಾಧಾರಣ ನೀರು",
+      "transliterations": {
+        "devanagari": "कॆलवु वर्षगळ हिंदॆ दिनपत्रिकॆयल्लि ओदिद्दॆ. जनप्रिय होटॆलिन मालीकरॊब्बरु बरॆदिद्दरु. तंपु पानीयद कंपनियॊंदु आतनन्नु संपर्किसि ‘नीवु ग्राहकरिगॆ बंदॊडनॆ नीरु कॊडुवुदन्नु निल्लिसिदरॆ, इष्टु हण कॊडुवुदागि’ हेळित्तंतॆ! ईगागले बॆंगळूरिनल्लू ननगॆ ‘नीरु कॊडद संस्कøति’य अनुभववागिदॆ. महात्मगांधि रस्तॆय ‘बांबॆ बजार्’ ऎदुरिन पुट्ट जायिंट्नल्लि नानु मत्तु मगळु कुळितिद्दॆवु. इल्लि नीरु तंदिडलिल्ल. ऐस्क्रीं तिंद नावु ‘नीरु बेकु’ ऎंदु केळिदॆवु. ‘मिनरल् वाटर्?’ वेटर् प्रश्निसिद ‘इल्लप्प सामान्य नीरु’ ऎंदॆ. मायवाद वेटर् हदिनैदु निमिष कादरू बरले इल्ल. कादु कादु सुस्तागि कॊनॆगॆ कौंटरिगे होगि, बिल्लु कॊट्टु हॊरबिद्दॆवु. अदे वेटर्, पुट्ट पुट्ट बाटलिगळल्लि मिनरल् वाटरुगळन्नु बेरॆ बेरॆ मेजिगॆ सरबराजु माडुवुदु कंडितु. ‘मिनरल् वाटर्?’ ऎंद अवरु केळुव भंगि भाव हेगिरुत्तदॆ ऎंदरॆ निमगॆ ‘आर्डिनरि वाटर्’ ऎंदु हेळलू हिंजरिकॆयागबेकु. आदरॆ निजक्कू आघातवादद्दु, तीरा इत्तीचॆगॆ मालतियॊडनॆ इंदिरानगरद मुख्य रस्तॆय पुट्ट जायिंट्गॆ हॊस बगॆय ऐस्क्रीं तिन्नुव बयकॆयल्लि हॊक्काग. ‘मिसिसिपि मड् पी’ ऎंदु ऎल्लो पत्रिकॆयल्लि ओदिद्द मालति, आर्डर् माडिदरु. दॊड्ड बिळि पिंगाणि तट्टॆयल्लि केक् मत्तु ऐस्क्रीं इरिसि, मेलॆ कोको पुडि उदुरिसि आकर्षकवागि तंदिट्टरु. बॆलॆ नूरु रूपायि ऎंदाग हौहारिद्दुंटु! इल्लू नीरु कॊट्टिरलिल्ल. ‘नीरु कॊडि’ ऎंदॆ, ‘मिनिरल् वाटर्?’ ऎंदळु सर्व् माडुत्तिद्द हुडुगि. ‘इल्ल साधारण नीरु’ ऎंदरॆ, नम्मल्लि साधारण नीरु",
+        "latin": "kèlavu varṣagaḻa hiṃdè dinapatrikèyalli odiddè. janapriya hoṭèlina mālīkaròbbaru barèdiddaru. taṃpu pānīyada kaṃpaniyòṃdu ātanannu saṃparkisi ‘nīvu grāhakarigè baṃdòḍanè nīru kòḍuvudannu nillisidarè, iṣṭu haṇa kòḍuvudāgi’ heḻittaṃtè! īgāgale bèṃgaḻūrinallū nanagè ‘nīru kòḍada saṃskaøti’ya anubhavavāgidè. mahātmagāṃdhi rastèya ‘bāṃbè bajār’ èdurina puṭṭa jāyiṃṭnalli nānu mattu magaḻu kuḻitiddèvu. illi nīru taṃdiḍalilla. aiskrīṃ tiṃda nāvu ‘nīru beku’ èṃdu keḻidèvu. ‘minaral vāṭar?’ veṭar praśnisida ‘illappa sāmānya nīru’ èṃdè. māyavāda veṭar hadinaidu nimiṣa kādarū barale illa. kādu kādu sustāgi kònègè kauṃṭarige hogi, billu kòṭṭu hòrabiddèvu. ade veṭar, puṭṭa puṭṭa bāṭaligaḻalli minaral vāṭarugaḻannu berè berè mejigè sarabarāju māḍuvudu kaṃḍitu. ‘minaral vāṭar?’ èṃda avaru keḻuva bhaṃgi bhāva hegiruttadè èṃdarè nimagè ‘ārḍinari vāṭar’ èṃdu heḻalū hiṃjarikèyāgabeku. ādarè nijakkū āghātavādaddu, tīrā ittīcègè mālatiyòḍanè iṃdirānagarada mukhya rastèya puṭṭa jāyiṃṭgè hòsa bagèya aiskrīṃ tinnuva bayakèyalli hòkkāga. ‘misisipi maḍ pī’ èṃdu èllo patrikèyalli odidda mālati, ārḍar māḍidaru. dòḍḍa biḻi piṃgāṇi taṭṭèyalli kek mattu aiskrīṃ irisi, melè koko puḍi udurisi ākarṣakavāgi taṃdiṭṭaru. bèlè nūru rūpāyi èṃdāga hauhāridduṃṭu! illū nīru kòṭṭiralilla. ‘nīru kòḍi’ èṃdè, ‘miniral vāṭar?’ èṃdaḻu sarv māḍuttidda huḍugi. ‘illa sādhāraṇa nīru’ èṃdarè, nammalli sādhāraṇa nīru"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಇಲ್ಲ ಎಂದು ಬಿಡುವುದೆ! ನೂರು ರೂಪಾಯಿ ಐಸ್ಕ್ರೀಂ ತಿಂದರೂ ಪುಕ್ಕಟ್ಟೆಯಾಗಿ ಒಂದು ಲೋಟ ನೀರು ಕೊಡದ ಜಾಯಿಂಟ್ಗಳಿವು. ಮತ್ತೆ ಹತ್ತೊ-ಇಪ್ಪತ್ತೋ ಪಡೆದು ಮಿನರಲ್ ವಾಟರ್ ಮಾರುವ ಹುನ್ನಾರ. ನನಗೆ ರೇಗಿಹೋಯಿತು. ಅಲ್ಲಿ ನೀರು ಕೊಡಲಿಲ್ಲ. ಹೊರಬಂದು ‘ಬನ್ನಿ ಮಾಲತಿ ಸಾಗರ್ಗೆ, ಪಾನಿಪುರಿ ತಿನ್ನೋಣ’ ಎಂದೆ. ಎದುರಿಗೊಂದು ‘ಸಾಗರ್’ ಹೋಟೆಲಿತ್ತು. ನುಗ್ಗಿದೆವು. ಕುಳಿತೊಡನೆ ವೇಟರ್ ಬಂದು ನಾಲ್ಕು ಲೋಟ ನೀರು ತಂದಿಟ್ಟ. ಬರೀ ಬಾಯಲ್ಲ ಮನಸ್ಸೂ ತಂಪಾಯಿತು. ಹೇಳಿ, ಕಾಯ್ದುಕೊಳ್ಳಬಲ್ಲವೇ ಮಾನವೀಯ ಮೌಲ್ಯಗಳನ್ನು, ಕೊಳ್ಳುಬಾಕತನದ ಕಪಿಮುಷ್ಠಿಯಿಂದ ಬಿಡಿಸಿಕೊಳ್ಳಬಲ್ಲವೇ? ಬಾಯಾರಿದವರಿಗೆ ನೀರು ಕೊಡಬಲ್ಲವೆ? ಹಸಿದವರಿಗೆ ಅನ್ನ ಕೊಡಬಲ್ಲವೆ? ಇನ್ನೊಬ್ಬರ ನೀರು-ಅನ್ನವನ್ನು ಕಸಿದುಕೊಳ್ಳದೆ ಬದುಕಬಲ್ಲವೆ? ನಮ್ಮ ಸಂಸ್ಕøತಿಯನ್ನು ಕಾಯ್ದುಕೊಳ್ಳುವ ಅಸ್ತ್ರ, ನಮ್ಮ ಕೈಯಲ್ಲೇ ಇದೆಯಲ್ಲವೇ? ‘ಮತ್ತೆಂದೂ ನೀರು ಕೊಡದ ಆ ಜಾಯಿಂಟ್ಗೆ ಹೋಗುವುದಿಲ್ಲ. ನನ್ನಿಂದಂತೂ ಇಂತಹ ಜಾಯಿಂಟ್ಗಳು ಉದ್ಧಾರವಾಗುವುದು ಬೇಡ’ ಎಂದುಕೊಂಡಿದ್ದೇನೆ.",
+      "transliterations": {
+        "devanagari": "इल्ल ऎंदु बिडुवुदॆ! नूरु रूपायि ऐस्क्रीं तिंदरू पुक्कट्टॆयागि ऒंदु लोट नीरु कॊडद जायिंट्गळिवु. मत्तॆ हत्तॊ-इप्पत्तो पडॆदु मिनरल् वाटर् मारुव हुन्नार. ननगॆ रेगिहोयितु. अल्लि नीरु कॊडलिल्ल. हॊरबंदु ‘बन्नि मालति सागर्गॆ, पानिपुरि तिन्नोण’ ऎंदॆ. ऎदुरिगॊंदु ‘सागर्’ होटॆलित्तु. नुग्गिदॆवु. कुळितॊडनॆ वेटर् बंदु नाल्कु लोट नीरु तंदिट्ट. बरी बायल्ल मनस्सू तंपायितु. हेळि, काय्दुकॊळ्ळबल्लवे मानवीय मौल्यगळन्नु, कॊळ्ळुबाकतनद कपिमुष्ठियिंद बिडिसिकॊळ्ळबल्लवे? बायारिदवरिगॆ नीरु कॊडबल्लवॆ? हसिदवरिगॆ अन्न कॊडबल्लवॆ? इन्नॊब्बर नीरु-अन्नवन्नु कसिदुकॊळ्ळदॆ बदुकबल्लवॆ? नम्म संस्कøतियन्नु काय्दुकॊळ्ळुव अस्त्र, नम्म कैयल्ले इदॆयल्लवे? ‘मत्तॆंदू नीरु कॊडद आ जायिंट्गॆ होगुवुदिल्ल. नन्निंदंतू इंतह जायिंट्गळु उद्धारवागुवुदु बेड’ ऎंदुकॊंडिद्देनॆ.",
+        "latin": "illa èṃdu biḍuvudè! nūru rūpāyi aiskrīṃ tiṃdarū pukkaṭṭèyāgi òṃdu loṭa nīru kòḍada jāyiṃṭgaḻivu. mattè hattò-ippatto paḍèdu minaral vāṭar māruva hunnāra. nanagè regihoyitu. alli nīru kòḍalilla. hòrabaṃdu ‘banni mālati sāgargè, pānipuri tinnoṇa’ èṃdè. èdurigòṃdu ‘sāgar’ hoṭèlittu. nuggidèvu. kuḻitòḍanè veṭar baṃdu nālku loṭa nīru taṃdiṭṭa. barī bāyalla manassū taṃpāyitu. heḻi, kāydukòḻḻaballave mānavīya maulyagaḻannu, kòḻḻubākatanada kapimuṣṭhiyiṃda biḍisikòḻḻaballave? bāyāridavarigè nīru kòḍaballavè? hasidavarigè anna kòḍaballavè? innòbbara nīru-annavannu kasidukòḻḻadè badukaballavè? namma saṃskaøtiyannu kāydukòḻḻuva astra, namma kaiyalle idèyallave? ‘mattèṃdū nīru kòḍada ā jāyiṃṭgè hoguvudilla. nanniṃdaṃtū iṃtaha jāyiṃṭgaḻu uddhāravāguvudu beḍa’ èṃdukòṃḍiddenè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಶ್ರೀಮತಿ ನೇಮಿಚಂದ್ರಅವರುಚಿತ್ರದುರ್ಗದಲ್ಲಿ ಜುಲೈ 16, 1959 ರಂದು ಜನಿಸಿದರು. ತಂದೆ ಪ್ರೊ. ಜಿ. ಗುಂಡಣ್ಣ, ತಾಯಿ ತಿಮ್ಮಕ್ಕ. ಪ್ರಾರಂಭಿಕ ಶಿಕ್ಷಣ ತುಮಕೂರು, ಮೈಸೂರಿನಲ್ಲಿ ಪೂರೈಸಿದರು. ಮೈಸೂರಿನ ನ್ಯಾಷನಲ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಎಂಜನಿಯರಿಂಗ್ನಿಂದ ಬಿ.ಎಸ್.ಸಿ. ಪದವಿಯನ್ನು ಬೆಂಗಳೂರಿನ ಇಂಡಿಯನ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಸೈನ್ಸ್ನಿಂದ ಎಂ.ಎಸ್. ಪದವಿಯನ್ನು ಗಳಿಸಿದರು. ಬೆಂಗಳೂರಿನ ಎಚ್.ಎ.ಎಲ್. ಸಂಸ್ಥೆಯಲ್ಲಿ ಉನ್ನತ ತಂತ್ರಜ್ಞ ಅಧಿಕಾರಿಯಾಗಿ ಕೆಲಸ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಕನ್ನಡದಲ್ಲಿ ಚಿಂತನ ಪೂರ್ಣ ಲೇಖನ, ಪುಸ್ತಕಗಳನ್ನು ಬರೆಯುತ್ತಿದ್ದಾರೆ. ಇವರ ಪ್ರಮುಖ ಕೃತಿಗಳೆಂದರೆಯಾದ್ ವಶೇಮ್ - ಕಾದಂಬರಿ, ನಮ್ಮ ಕನಸುಗಳಲ್ಲಿ ನೀವಿದ್ದೀರಿ, ಮತ್ತೆ ಬರೆದ ಕಥೆಗಳು, ನೇಮಿಚಂದ್ರರ ಕಥೆಗಳು ಮುಂತಾದ ಕಥಾಸಂಕಲನಗಳು.ಒಂದು ಕನಸಿನ ಪಯಣ, ಪೆರುವಿನ ಪವಿತ್ರ ಕಣಿವೆಯಲ್ಲಿ - ಪ್ರವಾಸ ಕಥನಗಳು. ಬದುಕು ಬದಲಿಸಬಹುದು ಅಂಕಣ ಬರಹಗಳುಮೊದಲಾದವುಗಳು. ಪೆರುವಿನ ಪವಿತ್ರ ಕಣಿವೆಯಲ್ಲಿ ಕೃತಿಗೆ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ. ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿ, ಅತ್ತಿಮಬ್ಬೆ ಪ್ರಶಸ್ತಿಗಳುಸಂದಿವೆ. ಪ್ರಸ್ತುತ‘ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ’ಅಂಕಣ ಬರೆಹವನ್ನು ಶ್ರೀಮತಿ ನೇಮಿಚಂದ್ರ ಅವರ‘ಬದುಕು ಬದಲಿಸಬಹುದು’ಕೃತಿಯಿಂದ ಆಯ್ದು ಸಂಪಾದಿಸಿ ನಿಗದಿಪಡಿಸಿದೆ.",
+      "transliterations": {
+        "devanagari": "श्रीमति नेमिचंद्रअवरुचित्रदुर्गदल्लि जुलै 16, 1959 रंदु जनिसिदरु. तंदॆ प्रॊ. जि. गुंडण्ण, तायि तिम्मक्क. प्रारंभिक शिक्षण तुमकूरु, मैसूरिनल्लि पूरैसिदरु. मैसूरिन न्याषनल् इन्स्टिट्यूट् आफ् ऎंजनियरिंग्निंद बि.ऎस्.सि. पदवियन्नु बॆंगळूरिन इंडियन् इन्स्टिट्यूट् आफ् सैन्स्निंद ऎं.ऎस्. पदवियन्नु गळिसिदरु. बॆंगळूरिन ऎच्.ऎ.ऎल्. संस्थॆयल्लि उन्नत तंत्रज्ञ अधिकारियागि कॆलस निर्वहिसुत्तिद्दारॆ. कन्नडदल्लि चिंतन पूर्ण लेखन, पुस्तकगळन्नु बरॆयुत्तिद्दारॆ. इवर प्रमुख कृतिगळॆंदरॆयाद् वशेम् - कादंबरि, नम्म कनसुगळल्लि नीविद्दीरि, मत्तॆ बरॆद कथॆगळु, नेमिचंद्रर कथॆगळु मुंताद कथासंकलनगळु.ऒंदु कनसिन पयण, पॆरुविन पवित्र कणिवॆयल्लि - प्रवास कथनगळु. बदुकु बदलिसबहुदु अंकण बरहगळुमॊदलादवुगळु. पॆरुविन पवित्र कणिवॆयल्लि कृतिगॆ कर्नाटक साहित्य प्रशस्ति. नृपतुंग प्रशस्ति, अत्तिमब्बॆ प्रशस्तिगळुसंदिवॆ. प्रस्तुत‘नीरु कॊडद नाडिनल्लि’अंकण बरॆहवन्नु श्रीमति नेमिचंद्र अवर‘बदुकु बदलिसबहुदु’कृतियिंद आय्दु संपादिसि निगदिपडिसिदॆ.",
+        "latin": "śrīmati nemicaṃdraavarucitradurgadalli julai 16, 1959 raṃdu janisidaru. taṃdè prò. ji. guṃḍaṇṇa, tāyi timmakka. prāraṃbhika śikṣaṇa tumakūru, maisūrinalli pūraisidaru. maisūrina nyāṣanal insṭiṭyūṭ āph èṃjaniyariṃgniṃda bi.ès.si. padaviyannu bèṃgaḻūrina iṃḍiyan insṭiṭyūṭ āph sainsniṃda èṃ.ès. padaviyannu gaḻisidaru. bèṃgaḻūrina èc.è.èl. saṃsthèyalli unnata taṃtrajña adhikāriyāgi kèlasa nirvahisuttiddārè. kannaḍadalli ciṃtana pūrṇa lekhana, pustakagaḻannu barèyuttiddārè. ivara pramukha kṛtigaḻèṃdarèyād vaśem - kādaṃbari, namma kanasugaḻalli nīviddīri, mattè barèda kathègaḻu, nemicaṃdrara kathègaḻu muṃtāda kathāsaṃkalanagaḻu.òṃdu kanasina payaṇa, pèruvina pavitra kaṇivèyalli - pravāsa kathanagaḻu. baduku badalisabahudu aṃkaṇa barahagaḻumòdalādavugaḻu. pèruvina pavitra kaṇivèyalli kṛtigè karnāṭaka sāhitya praśasti. nṛpatuṃga praśasti, attimabbè praśastigaḻusaṃdivè. prastuta‘nīru kòḍada nāḍinalli’aṃkaṇa barèhavannu śrīmati nemicaṃdra avara‘baduku badalisabahudu’kṛtiyiṃda āydu saṃpādisi nigadipaḍisidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ashaya-1",
+      "section": "ashaya",
+      "text": "ವಿಶ್ವದ ಜಾಗತೀಕರಣದ ಹೊಡೆತಕ್ಕೆ ಸಿಲುಕಿದ ನಮ್ಮ ನಗರಗಳಿಂದು ಕೊಳ್ಳುಬಾಕತನವನ್ನು, ಲಾಭಕೋರತನವನ್ನು ಹುಟ್ಟುಹಾಕಿ ವಿಶ್ವದ ಮಾರುಕಟ್ಟೆಯಾಗಲು ಹೊರಟಿರುವುದು ಬಲು ಅಪಾಯಕಾರಿ ಎಂಬ ವೈಚಾರಿಕ ಚಿಂತನೆಯನ್ನು ಹಾಗೂ ನಮ್ಮ ಸಂಸ್ಕøತಿಯ ಹಿರಿಮೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಅನಿವಾರ್ಯತೆಯನ್ನು “ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ” ಈ ಗದ್ಯಭಾಗದಲ್ಲಿ ಅತ್ಯುತ್ತಮವಾಗಿ ಚಿತ್ರಿಸಿದೆ.",
+      "transliterations": {
+        "devanagari": "विश्वद जागतीकरणद हॊडॆतक्कॆ सिलुकिद नम्म नगरगळिंदु कॊळ्ळुबाकतनवन्नु, लाभकोरतनवन्नु हुट्टुहाकि विश्वद मारुकट्टॆयागलु हॊरटिरुवुदु बलु अपायकारि ऎंब वैचारिक चिंतनॆयन्नु हागू नम्म संस्कøतिय हिरिमॆयन्नु कापाडिकॊळ्ळुव अनिवार्यतॆयन्नु “नीरु कॊडद नाडिनल्लि” ई गद्यभागदल्लि अत्युत्तमवागि चित्रिसिदॆ.",
+        "latin": "viśvada jāgatīkaraṇada hòḍètakkè silukida namma nagaragaḻiṃdu kòḻḻubākatanavannu, lābhakoratanavannu huṭṭuhāki viśvada mārukaṭṭèyāgalu hòraṭiruvudu balu apāyakāri èṃba vaicārika ciṃtanèyannu hāgū namma saṃskaøtiya hirimèyannu kāpāḍikòḻḻuva anivāryatèyannu “nīru kòḍada nāḍinalli” ī gadyabhāgadalli atyuttamavāgi citrisidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-vf712e4f1",
+      "text": "ಅಗ್ಗ",
+      "transliterations": {
+        "devanagari": "अग्ग",
+        "latin": "agga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vf712e4f1-def",
+      "text": "ಕಡಿಮೆ ಬೆಲೆ",
+      "transliterations": {
+        "devanagari": "कडिमॆ बॆलॆ",
+        "latin": "kaḍimè bèlè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v115c44fd",
+      "text": "ಅಲೆ",
+      "transliterations": {
+        "devanagari": "अलॆ",
+        "latin": "alè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v115c44fd-def",
+      "text": "ಸುತ್ತಾಡು",
+      "transliterations": {
+        "devanagari": "सुत्ताडु",
+        "latin": "suttāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v43db04af",
+      "text": "ಅಸ್ತ್ರ",
+      "transliterations": {
+        "devanagari": "अस्त्र",
+        "latin": "astra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v43db04af-def",
+      "text": "ಆಯುಧ",
+      "transliterations": {
+        "devanagari": "आयुध",
+        "latin": "āyudha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ve574a25a",
+      "text": "ಜನಪ್ರಿಯ",
+      "transliterations": {
+        "devanagari": "जनप्रिय",
+        "latin": "janapriya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ve574a25a-def",
+      "text": "ಪ್ರಸಿದ್ಧ, ಖ್ಯಾತಿಪಡೆದ",
+      "transliterations": {
+        "devanagari": "प्रसिद्ध, ख्यातिपडॆद",
+        "latin": "prasiddha, khyātipaḍèda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v297fb711",
+      "text": "ಪರಾಕಾಷ್ಠೆ",
+      "transliterations": {
+        "devanagari": "पराकाष्ठॆ",
+        "latin": "parākāṣṭhè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v297fb711-def",
+      "text": "ಕೊನೆಯ ಗಡಿ",
+      "transliterations": {
+        "devanagari": "कॊनॆय गडि",
+        "latin": "kònèya gaḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vae48d8bf",
+      "text": "ಪುಕ್ಕಟ್ಟೆ",
+      "transliterations": {
+        "devanagari": "पुक्कट्टॆ",
+        "latin": "pukkaṭṭè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vae48d8bf-def",
+      "text": "ಉಚಿತ",
+      "transliterations": {
+        "devanagari": "उचित",
+        "latin": "ucita"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v799fb6ec",
+      "text": "ಬುನಾದಿ",
+      "transliterations": {
+        "devanagari": "बुनादि",
+        "latin": "bunādi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v799fb6ec-def",
+      "text": "ತಳಹದಿ",
+      "transliterations": {
+        "devanagari": "तळहदि",
+        "latin": "taḻahadi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vfe6fee94",
+      "text": "ಭಂಗಿ",
+      "transliterations": {
+        "devanagari": "भंगि",
+        "latin": "bhaṃgi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vfe6fee94-def",
+      "text": "ವ್ಯಂಗ್ಯ, ಕುಟಿಲತೆ",
+      "transliterations": {
+        "devanagari": "व्यंग्य, कुटिलतॆ",
+        "latin": "vyaṃgya, kuṭilatè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v817ad027",
+      "text": "ಮಣ",
+      "transliterations": {
+        "devanagari": "मण",
+        "latin": "maṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v817ad027-def",
+      "text": "ಹೆಚ್ಚು ತೂಕವಾದ",
+      "transliterations": {
+        "devanagari": "हॆच्चु तूकवाद",
+        "latin": "hèccu tūkavāda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v84d835f1",
+      "text": "ಮರುಳು",
+      "transliterations": {
+        "devanagari": "मरुळु",
+        "latin": "maruḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v84d835f1-def",
+      "text": "ಹುಚ್ಚುತನ",
+      "transliterations": {
+        "devanagari": "हुच्चुतन",
+        "latin": "huccutana"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v150d7709",
+      "text": "ಮಾಲೀಕ",
+      "transliterations": {
+        "devanagari": "मालीक",
+        "latin": "mālīka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v150d7709-def",
+      "text": "ಯಜಮಾನ",
+      "transliterations": {
+        "devanagari": "यजमान",
+        "latin": "yajamāna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ve824e588",
+      "text": "ಹರಡು",
+      "transliterations": {
+        "devanagari": "हरडु",
+        "latin": "haraḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ve824e588-def",
+      "text": "ಪಸರಿಸು,",
+      "transliterations": {
+        "devanagari": "पसरिसु,",
+        "latin": "pasarisu,"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v1d1d23e7",
+      "text": "ಹಿಂಜರಿಕೆ",
+      "transliterations": {
+        "devanagari": "हिंजरिकॆ",
+        "latin": "hiṃjarikè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v1d1d23e7-def",
+      "text": "ಹಿಂದೆ ಸರಿ, ಕೀಳರಿಮೆ",
+      "transliterations": {
+        "devanagari": "हिंदॆ सरि, कीळरिमॆ",
+        "latin": "hiṃdè sari, kīḻarimè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v8f35e075",
+      "text": "ಹುನ್ನಾರ",
+      "transliterations": {
+        "devanagari": "हुन्नार",
+        "latin": "hunnāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v8f35e075-def",
+      "text": "ಸಂಚು",
+      "transliterations": {
+        "devanagari": "संचु",
+        "latin": "saṃcu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v74d0a594",
+      "text": "ಹೊಕ್ಕು",
+      "transliterations": {
+        "devanagari": "हॊक्कु",
+        "latin": "hòkku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v74d0a594-def",
+      "text": "ಒಳಗೆ ಹೋಗು.",
+      "transliterations": {
+        "devanagari": "ऒळगॆ होगु.",
+        "latin": "òḻagè hogu."
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಎಲ್ಲೆಲ್ಲಿ ನೀರು ಕೊಡುವ ಸಂಪ್ರದಾಯವಿಲ್ಲ?",
+      "translations": {
+        "en": "Where is water not freely available?",
+        "hi": "मुफ्त पानी कहाँ नहीं मिलता?"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लॆल्लि नीरु कॊडुव संप्रदायविल्ल?",
+        "latin": "èllèlli nīru kòḍuva saṃpradāyavilla?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಮನೆಗೆ ಬಂದವರನ್ನು ಹೇಗೆ ಸತ್ಕರಿಸುವ ಸಂಪ್ರದಾಯ ನಮ್ಮಲ್ಲಿದೆ?",
+      "transliterations": {
+        "devanagari": "मनॆगॆ बंदवरन्नु हेगॆ सत्करिसुव संप्रदाय नम्मल्लिदॆ?",
+        "latin": "manègè baṃdavarannu hegè satkarisuva saṃpradāya nammallidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ವಿದೇಶಗಳಲ್ಲಿ ನೀರಿಗಿಂತ ಅಗ್ಗವಾಗಿ ಸಿಗುವುದೇನು?",
+      "transliterations": {
+        "devanagari": "विदेशगळल्लि नीरिगिंत अग्गवागि सिगुवुदेनु?",
+        "latin": "videśagaḻalli nīrigiṃta aggavāgi siguvudenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಭಾರತದಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ಯಾವ ಹುನ್ನಾರ ನಡೆದಿದೆ?",
+      "transliterations": {
+        "devanagari": "भारतदल्लि इत्तीचॆगॆ याव हुन्नार नडॆदिदॆ?",
+        "latin": "bhāratadalli ittīcègè yāva hunnāra naḍèdidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಸರ್ವರಿಗೂ ವೇದ್ಯವಾಗಿರುವ ಅಂಶಗಳಾವುವು?",
+      "transliterations": {
+        "devanagari": "सर्वरिगू वेद्यवागिरुव अंशगळावुवु?",
+        "latin": "sarvarigū vedyavāgiruva aṃśagaḻāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ಲೇಖಕಿಗೆ ಹೋಟೆಲ್ನಲ್ಲಿ ನಾಲ್ಕು ಲೋಟ ನೀರು ತಂದಿಟ್ಟಾಗ ಆದ ಅನುಭವವೇನು?",
+      "transliterations": {
+        "devanagari": "लेखकिगॆ होटॆल्नल्लि नाल्कु लोट नीरु तंदिट्टाग आद अनुभववेनु?",
+        "latin": "lekhakigè hoṭèlnalli nālku loṭa nīru taṃdiṭṭāga āda anubhavavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ವಿದೇಶಗಳಲ್ಲಿ ಬಾಯಾರಿಕೆಗೆ ಧಾರಾಳವಾಗಿ ಏನೇನು ದೊರೆಯುವವು?",
+      "transliterations": {
+        "devanagari": "विदेशगळल्लि बायारिकॆगॆ धाराळवागि एनेनु दॊरॆयुववु?",
+        "latin": "videśagaḻalli bāyārikègè dhārāḻavāgi enenu dòrèyuvavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಗುರುದ್ವಾರಗಳ ಬಳಿ ಸ್ವಯಂ ಸೇವಕರು ಏನು ಮಾಡುತ್ತಿದ್ದರು?",
+      "transliterations": {
+        "devanagari": "गुरुद्वारगळ बळि स्वयं सेवकरु एनु माडुत्तिद्दरु?",
+        "latin": "gurudvāragaḻa baḻi svayaṃ sevakaru enu māḍuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಕೋಲಾಗಳ ಆಸೆಯಿಂದ ನಾವು ಏನೆಲ್ಲವನ್ನು ತೊರೆಯುತ್ತಿದ್ದೇವೆ?",
+      "transliterations": {
+        "devanagari": "कोलागळ आसॆयिंद नावु एनॆल्लवन्नु तॊरॆयुत्तिद्देवॆ?",
+        "latin": "kolāgaḻa āsèyiṃda nāvu enèllavannu tòrèyuttiddevè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ನಾಗರೀಕತೆಯ ದೊಡ್ಡ ಅನಾಹುತಗಳಾಗಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಿರುವ ಆಚರಣೆಗಳಾವುವು?",
+      "transliterations": {
+        "devanagari": "नागरीकतॆय दॊड्ड अनाहुतगळागि काणिसिकॊळ्ळुत्तिरुव आचरणॆगळावुवु?",
+        "latin": "nāgarīkatèya dòḍḍa anāhutagaḻāgi kāṇisikòḻḻuttiruva ācaraṇègaḻāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "ಜನಪ್ರಿಯ ಹೋಟಲಿನ ಮಾಲೀಕನಿಗೆ ತಂಪುಪಾನೀಯ ಕಂಪನಿ ಹೇಳಿದ್ದೇನು?",
+      "transliterations": {
+        "devanagari": "जनप्रिय होटलिन मालीकनिगॆ तंपुपानीय कंपनि हेळिद्देनु?",
+        "latin": "janapriya hoṭalina mālīkanigè taṃpupānīya kaṃpani heḻiddenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ದುಡ್ಡಿಲ್ಲದೇ ಕುಡಿಯಬಲ್ಲ ನೀರು ಸಿಗುತ್ತಿದ್ದ ಕಾಲದ ಬಗ್ಗೆ ಲೇಖಕರ ಅಭಿಪ್ರಾಯವೇನು?",
+      "transliterations": {
+        "devanagari": "दुड्डिल्लदे कुडियबल्ल नीरु सिगुत्तिद्द कालद बग्गॆ लेखकर अभिप्रायवेनु?",
+        "latin": "duḍḍillade kuḍiyaballa nīru siguttidda kālada baggè lekhakara abhiprāyavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಕಂಪನಿಗಳು ಅಪ್ಪಟ ಅಗತ್ಯದ ವಸ್ತುಗಳನ್ನು ‘ಇವಿಲ್ಲದೆ ಬದುಕಿಲ್ಲ’ ಎಂಬಂತೆ ಹೇಗೆ ಬಿಂಬಿಸುತ್ತಿವೆ?",
+      "transliterations": {
+        "devanagari": "कंपनिगळु अप्पट अगत्यद वस्तुगळन्नु ‘इविल्लदॆ बदुकिल्ल’ ऎंबंतॆ हेगॆ बिंबिसुत्तिवॆ?",
+        "latin": "kaṃpanigaḻu appaṭa agatyada vastugaḻannu ‘ivilladè badukilla’ èṃbaṃtè hegè biṃbisuttivè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಲೇಖಕಿಗೆ ಬೆಂಗಳೂರಿನಲ್ಲಿ ‘ನೀರು ಕೊಡದ ಸಂಸ್ಕøತಿಯ’ ಬಗ್ಗೆ ಆದ ಅನುಭವವನ್ನು ಬರೆಯಿರಿ.",
+      "transliterations": {
+        "devanagari": "लेखकिगॆ बॆंगळूरिनल्लि ‘नीरु कॊडद संस्कøतिय’ बग्गॆ आद अनुभववन्नु बरॆयिरि.",
+        "latin": "lekhakigè bèṃgaḻūrinalli ‘nīru kòḍada saṃskaøtiya’ baggè āda anubhavavannu barèyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಭಾರತದಿಂದ ಹೊರಗೆ ಕಾಲಿಟ್ಟರೆ ಉಳಿದೆಲ್ಲವು __________",
+      "transliterations": {
+        "devanagari": "भारतदिंद हॊरगॆ कालिट्टरॆ उळिदॆल्लवु __________",
+        "latin": "bhāratadiṃda hòragè kāliṭṭarè uḻidèllavu __________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಈ ದೇಶಗಳಲ್ಲಿ ಮನೆಯ _______ ಯಲ್ಲಿ ಬರುವ ನೀರನ್ನು ಕುಡಿಯುವುದಿಲ್ಲ.",
+      "transliterations": {
+        "devanagari": "ई देशगळल्लि मनॆय _______ यल्लि बरुव नीरन्नु कुडियुवुदिल्ल.",
+        "latin": "ī deśagaḻalli manèya _______ yalli baruva nīrannu kuḍiyuvudilla."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಗ್ರೀಟಿಂಗ್ಸ್ ಕಾರ್ಡ್ ಮಾರುವ ಹೊಸ_________ ಗಳೆಂದು ಸರ್ವರಿಗೂ ವೇದ್ಯವಾಗಿದೆ.",
+      "transliterations": {
+        "devanagari": "ग्रीटिंग्स् कार्ड् मारुव हॊस_________ गळॆंदु सर्वरिगू वेद्यवागिदॆ.",
+        "latin": "grīṭiṃgs kārḍ māruva hòsa_________ gaḻèṃdu sarvarigū vedyavāgidè."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಸ್ಯಾಂಡ್ವಿಚ್ ಬರ್ಗರ್ ಜೊತೆಗೆ ದೊಡ್ಡ ಗಾತ್ರದ ___________ ನೀಡುತ್ತಾರೆ.",
+      "transliterations": {
+        "devanagari": "स्यांड्विच् बर्गर् जॊतॆगॆ दॊड्ड गात्रद ___________ नीडुत्तारॆ.",
+        "latin": "syāṃḍvic bargar jòtègè dòḍḍa gātrada ___________ nīḍuttārè."
+      },
+      "type": "question"
+    }
+  ]
+}

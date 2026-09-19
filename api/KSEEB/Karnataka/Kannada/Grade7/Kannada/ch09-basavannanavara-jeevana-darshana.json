@@ -1,0 +1,239 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. ई कॆळगॆ कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions in one sentence.",
+      "hi": "अ. निम्नलिखित प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಈ ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. ī kèḻagè kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "story": {
+      "devanagari": "पूरक पाठ",
+      "en": "Supplementary lesson",
+      "hi": "पूरक पाठ",
+      "kn": "ಪೂರಕ ಪಾಠ",
+      "latin": "pūraka pāṭha"
+    }
+  },
+  "meta": {
+    "author": "ಡಾ. ಎಲ್. ಬಸವರಾಜು",
+    "board": "KSEEB",
+    "chapter": 9,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch09-basavannanavara-jeevana-darshana",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ದರ್ಶನ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಶರಣ ಪಂಥದಲ್ಲಿ ಪ್ರಮುಖರೆಂದರೆ ಬಸವಣ್ಣನವರು. ಅವರ ಜೀವನವೊಂದು ಅಮರ ಜ್ಯೋತಿ. ಅದರ ದಿವ್ಯಪ್ರಭೆಯಲ್ಲಿ ಹಲವಾರು ಶತಮಾನಗಳ ಕೋಟ್ಯಂತರ ಮುಮುಕ್ಷುಗಳು ಸನ್ಮಾರ್ಗವನ್ನು ಕಂಡುಕೊಂಡು ಕೃತಾರ್ಥರಾಗಿದ್ದಾರೆ. ಕನ್ನಡ-ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಂತೂ ಆ ಜೀವಜ್ಯೋತಿಯ ಪ್ರಭಾವ ಅಷ್ಟಿಷ್ಟಲ್ಲ.",
+      "translations": {
+        "en": "Among the foremost in the Sharana path are Basavanna. His life is an immortal flame. In its divine radiance for many centuries crores of seekers have found the right path and become fulfilled. In the field of Kannada literature especially that living flame’s influence is not little.",
+        "hi": "शरण पंथ में प्रमुख बसवणा हैं। उनका जीवन अमर ज्योति है। कन्नड़ साहित्य क्षेत्र में उस जीवज्योति का प्रभाव अल्प नहीं।"
+      },
+      "transliterations": {
+        "devanagari": "शरण पंथदल्लि प्रमुखरॆंदरॆ बसवण्णनवरु. अवर जीवनवॊंदु अमर ज्योति. अदर दिव्यप्रभॆयल्लि हलवारु शतमानगळ कोट्यंतर मुमुक्षुगळु सन्मार्गवन्नु कंडुकॊंडु कृतार्थरागिद्दारॆ. कन्नड-साहित्य क्षेत्रदल्लंतू आ जीवज्योतिय प्रभाव अष्टिष्टल्ल.",
+        "latin": "śaraṇa paṃthadalli pramukharèṃdarè basavaṇṇanavaru. avara jīvanavòṃdu amara jyoti. adara divyaprabhèyalli halavāru śatamānagaḻa koṭyaṃtara mumukṣugaḻu sanmārgavannu kaṃḍukòṃḍu kṛtārtharāgiddārè. kannaḍa-sāhitya kṣetradallaṃtū ā jīvajyotiya prabhāva aṣṭiṣṭalla."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಬಾಗೇವಾಡಿಯ ಮಾದಿರಾಜನೆಂಬ ಸದ್ವಿಪ್ರನ ಧರ್ಮಪತ್ನಿ ಮಾದಾಂಬೆಯ ಗರ್ಭದಲ್ಲಿ ಬಸವಣ್ಣನವರು ಚಿಪ್ಪಿನಲ್ಲಿ ಮುತ್ತೂ ಕೊಳದಲ್ಲಿ ಕಮಲವೂ ಕೇದಿಗೆಯಲ್ಲಿ ಪರಿಮಳವೂ ಹುಟ್ಟುವಂತೆ ಶಿವನ ಶಿಶುವಾಗಿ ಜನಿಸಿದರು. ಆ ಬಸವಶಿಶು ಸುಮುಹೂರ್ತವೇ ಗಂಡುರೂಪಾದಂತೆ ಇತ್ತು. ಆ ಮಗು ಹೆತ್ತವರಿಗೆ ಮುದ್ದಾಗಿ, ಎತ್ತಿಕೊಂಡವರಿಗೆ ಸುಖದ ಸಂಪತ್ತಾಗಿ ಬೆಳೆಯಿತು. ಏಳೆಂಟರ ವಯಸ್ಸಿನಲ್ಲಿ ಉಪನಯನವಾಯಿತು. ಉಪನಯನವಾದ ಎರಡು ವರ್ಷಗಳಲ್ಲಿ ಬಸವಣ್ಣನವರ ತಂದೆತಾಯಿಗಳಿಬ್ಬರೂ ಸತ್ತು ಹೋದರು. ತಬ್ಬಲಿಯಾದ ಬಸವಣ್ಣನವರು ಆರು ವರ್ಷಗಳ ಕಾಲ ತಮ್ಮ ಮುತ್ತಜ್ಜಿಯ ರಕ್ಷಣೆಯಲ್ಲಿದ್ದರು. ಅವರು ಹದಿನಾರು ವರ್ಷದ ಹರೆಯದಲ್ಲಿ ತಮ್ಮ ಯೌವನವು ಶಿವಪೂಜೆಯಲ್ಲಿ ಸವೆಯಬೇಕೆಂದೂ, ಆದರೆ ಶಿವಭಕ್ತಿಯೂ ಕರ್ಮವೂ ಎಂದೂ ಒಂದಾಗಿರದೆಂದೂ ನಿಶ್ಚಯಿಸಿ, ಪರಮ ವೈರಾಗ್ಯಮೂರ್ತಿಯಾಗಿ, ಕರ್ಮಲತೆಯಂತಿದ್ದ ಜನಿವಾರವನ್ನು ಕಳೆದು ಬಿಸುಟು, ಹೋತಿನ ಗಂಟಲನ್ನು ಬಿಗಿಯುವಂತಿದ್ದ ಮೌಂಜಿಯನ್ನು ಹರಿದು ಬಿಸುಟು, ನವ್ಯದುಕೂಲವನ್ನು ತೆಗೆದುಟ್ಟು, ದಿವ್ಯವಸ್ತ್ರವನ್ನು ಹೊದ್ದು, ಮನೆಯ ನೆಳಲನ್ನು ನೆನೆಯದೆ, ಐಶ್ವರ್ಯವನ್ನು ಲೆಕ್ಕಿಸದೆ, ವೃತ್ತಿಯನ್ನು ವಿಚಾರಿಸದೆ, ಬಂಧುಬಳಗವನ್ನು ಬಗೆಯದೆ, ಊರಿನವರನ್ನೂ ನೋಡದೆ ಬಾಗೇವಾಡಿಯನ್ನು ಬಿಟ್ಟು ಹೊರಟರು. ಪೂರ್ವದಿಕ್ಕಿಗೆ ನಡೆದು, ಸ್ವಲ್ಪ ದೂರದಲ್ಲೇ ಇದ್ದ ಮಲಪ್ರಹರಿ-ಕೃಷ್ಣವೇಣೀ ನದಿಗಳ ಸಂಗಮ ಸ್ಥಾನದಲ್ಲಿ ಕೂಡಲ ಸಂಗಮೇಶ್ವರನಿರುವ ಕಪ್ಪಡಿಯ ಸಂಗಮವನ್ನು ತಲುಪುವರು.",
+      "translations": {
+        "en": "In the womb of Madamba, wife of the good brahmin Madiraja of Bagewadi, Basavanna was born as Shiva’s child as pearl in a shell, lotus in a pond and fragrance in the kedige bloom. That Basava-child at an auspicious moment took male form. The child grew dear to parents and a treasure of joy to those who lifted him. At seven or eight the upanayana happened. Within two years of upanayana both parents died. Orphaned Basavanna spent six years under his great-grandmother’s care. At sixteen deciding that youth should be spent in Shiva-worship and that Shiva-devotion and karma never unite, as the form of supreme renunciation he cast off the sacred thread like a karma-vine, tore the mauñji that bound like a goat’s throat, put off fine cloth, wore divine cloth, and without thinking of home’s shade, wealth, livelihood, kin or townsfolk, left Bagewadi. Walking east he reached the confluence of Malaprahari and Krishnaveni where Kudal Sangameshvara is at Kappadi Sangama.",
+        "hi": "बागेवाड़ी के मादिराज की धर्मपत्नी मादांबे के गर्भ से बसवणा शिव-शिशु के रूप में जन्मे। सोलह वर्ष की आयु में यज्ञोपवीत त्याग कर कप्पड़ी संगम पहुँचे।"
+      },
+      "transliterations": {
+        "devanagari": "बागेवाडिय मादिराजनॆंब सद्विप्रन धर्मपत्नि मादांबॆय गर्भदल्लि बसवण्णनवरु चिप्पिनल्लि मुत्तू कॊळदल्लि कमलवू केदिगॆयल्लि परिमळवू हुट्टुवंतॆ शिवन शिशुवागि जनिसिदरु. आ बसवशिशु सुमुहूर्तवे गंडुरूपादंतॆ इत्तु. आ मगु हॆत्तवरिगॆ मुद्दागि, ऎत्तिकॊंडवरिगॆ सुखद संपत्तागि बॆळॆयितु. एळॆंटर वयस्सिनल्लि उपनयनवायितु. उपनयनवाद ऎरडु वर्षगळल्लि बसवण्णनवर तंदॆतायिगळिब्बरू सत्तु होदरु. तब्बलियाद बसवण्णनवरु आरु वर्षगळ काल तम्म मुत्तज्जिय रक्षणॆयल्लिद्दरु. अवरु हदिनारु वर्षद हरॆयदल्लि तम्म यौवनवु शिवपूजॆयल्लि सवॆयबेकॆंदू, आदरॆ शिवभक्तियू कर्मवू ऎंदू ऒंदागिरदॆंदू निश्चयिसि, परम वैराग्यमूर्तियागि, कर्मलतॆयंतिद्द जनिवारवन्नु कळॆदु बिसुटु, होतिन गंटलन्नु बिगियुवंतिद्द मौंजियन्नु हरिदु बिसुटु, नव्यदुकूलवन्नु तॆगॆदुट्टु, दिव्यवस्त्रवन्नु हॊद्दु, मनॆय नॆळलन्नु नॆनॆयदॆ, ऐश्वर्यवन्नु लॆक्किसदॆ, वृत्तियन्नु विचारिसदॆ, बंधुबळगवन्नु बगॆयदॆ, ऊरिनवरन्नू नोडदॆ बागेवाडियन्नु बिट्टु हॊरटरु. पूर्वदिक्किगॆ नडॆदु, स्वल्प दूरदल्ले इद्द मलप्रहरि-कृष्णवेणी नदिगळ संगम स्थानदल्लि कूडल संगमेश्वरनिरुव कप्पडिय संगमवन्नु तलुपुवरु.",
+        "latin": "bāgevāḍiya mādirājanèṃba sadviprana dharmapatni mādāṃbèya garbhadalli basavaṇṇanavaru cippinalli muttū kòḻadalli kamalavū kedigèyalli parimaḻavū huṭṭuvaṃtè śivana śiśuvāgi janisidaru. ā basavaśiśu sumuhūrtave gaṃḍurūpādaṃtè ittu. ā magu hèttavarigè muddāgi, èttikòṃḍavarigè sukhada saṃpattāgi bèḻèyitu. eḻèṃṭara vayassinalli upanayanavāyitu. upanayanavāda èraḍu varṣagaḻalli basavaṇṇanavara taṃdètāyigaḻibbarū sattu hodaru. tabbaliyāda basavaṇṇanavaru āru varṣagaḻa kāla tamma muttajjiya rakṣaṇèyalliddaru. avaru hadināru varṣada harèyadalli tamma yauvanavu śivapūjèyalli savèyabekèṃdū, ādarè śivabhaktiyū karmavū èṃdū òṃdāgiradèṃdū niścayisi, parama vairāgyamūrtiyāgi, karmalatèyaṃtidda janivāravannu kaḻèdu bisuṭu, hotina gaṃṭalannu bigiyuvaṃtidda mauṃjiyannu haridu bisuṭu, navyadukūlavannu tègèduṭṭu, divyavastravannu hòddu, manèya nèḻalannu nènèyadè, aiśvaryavannu lèkkisadè, vṛttiyannu vicārisadè, baṃdhubaḻagavannu bagèyadè, ūrinavarannū noḍadè bāgevāḍiyannu biṭṭu hòraṭaru. pūrvadikkigè naḍèdu, svalpa dūradalle idda malaprahari-kṛṣṇaveṇī nadigaḻa saṃgama sthānadalli kūḍala saṃgameśvaraniruva kappaḍiya saṃgamavannu talupuvaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಅಣ್ಣನವರು ಚಿಂತನ ಮಾಡುತ್ತ ಕುಳಿತಿರಲು ಕೂಡಲಸಂಗಮದ ಸ್ಥಾನಪತಿಗಳಾದ ಈಶಾನಗುರುಗಳು ಬಂದು ಆ ಬಸವಣ್ಣನವರ ಯೋಗ-ನಿದ್ರಾಮುದ್ರಿತ ಅರ್ಧನಿಮೀಲಿತ ನಯನಗಳನ್ನು ಕಂಡು, ಕಾರಣಿಕನಿರಬೇಕೆಂದು ನಿಶ್ಚಯಿಸಿ, ಬಳಿಸಾರಿ “ಅಯ್ಯ, ನೀನೆಲ್ಲಿಗೂ ಹೋಗಬೇಡ, ಏನನ್ನೂ ಚಿಂತಿಸಬೇಡ, ಸಂಗಮೇಶ್ವರನಿಗೆ ಹೊಸ ಹೂವುಗಳನ್ನೂ ತಿಳಿಯಗ್ಗವಣಿಯನ್ನೂ ತಂದು ನಿತ್ಯವೂ ಪೂಜೆಮಾಡಿ ಪ್ರಸಾದ ಕಾಯಕನಾಗಿ ಸುಖವಾಗಿರು” ಎನ್ನುವರು. ಆ ಮಾತಿಗೆ ಬಸವಣ್ಣನವರು ಒಪ್ಪಿ, ಶ್ರೀ ಕೂಡಲ ಸಂಗಮೇಶ್ವರ ಪಾದಕಮಲದಲ್ಲಿ ತುಂಬಿಯಾಗಿದ್ದರು.",
+      "translations": {
+        "en": "While the elder sat in thought, Ishana Guru, sthana-pati of Kudalasangama, seeing Basavanna’s half-closed yogic eyes decided he must be a man of destiny, approached and said, “Sir, go nowhere, worry about nothing; bring fresh flowers and clear water daily, worship Sangameshvara and live happily as a prasada kayaka worker.” Agreeing, Basavanna became a bee at the lotus feet of Sri Kudal Sangameshvara."
+      },
+      "transliterations": {
+        "devanagari": "अण्णनवरु चिंतन माडुत्त कुळितिरलु कूडलसंगमद स्थानपतिगळाद ईशानगुरुगळु बंदु आ बसवण्णनवर योग-निद्रामुद्रित अर्धनिमीलित नयनगळन्नु कंडु, कारणिकनिरबेकॆंदु निश्चयिसि, बळिसारि “अय्य, नीनॆल्लिगू होगबेड, एनन्नू चिंतिसबेड, संगमेश्वरनिगॆ हॊस हूवुगळन्नू तिळियग्गवणियन्नू तंदु नित्यवू पूजॆमाडि प्रसाद कायकनागि सुखवागिरु” ऎन्नुवरु. आ मातिगॆ बसवण्णनवरु ऒप्पि, श्री कूडल संगमेश्वर पादकमलदल्लि तुंबियागिद्दरु.",
+        "latin": "aṇṇanavaru ciṃtana māḍutta kuḻitiralu kūḍalasaṃgamada sthānapatigaḻāda īśānagurugaḻu baṃdu ā basavaṇṇanavara yoga-nidrāmudrita ardhanimīlita nayanagaḻannu kaṃḍu, kāraṇikanirabekèṃdu niścayisi, baḻisāri “ayya, nīnèlligū hogabeḍa, enannū ciṃtisabeḍa, saṃgameśvaranigè hòsa hūvugaḻannū tiḻiyaggavaṇiyannū taṃdu nityavū pūjèmāḍi prasāda kāyakanāgi sukhavāgiru” ènnuvaru. ā mātigè basavaṇṇanavaru òppi, śrī kūḍala saṃgameśvara pādakamaladalli tuṃbiyāgiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಕಪ್ಪಡಿ ಸಂಗಮದಲ್ಲಿಯೇ ಸಂಗಮೇಶ್ವರನ ಪಾದಸೇವೆ ಮಾಡಿಕೊಂಡಿರುವ ಆಶೆ ಬಸವಣ್ಣನವರಿಗೆ. ಆದರೆ ಇರಗೊಡ ಸಂಗಮೇಶ್ವರ. ಮಂಗಳವಾಡಕ್ಕೆ ಹೋಗೆಂದು ಮತ್ತೆ ಮತ್ತೆ ಒತ್ತಾಯ ಮಾಡಿದಂತೆ ಭಾಸವಾಯಿತು. ಬಸವಣ್ಣನವರು ಹೋಗಲಾರದೆ ವಿರಹವೇದನೆಯಿಂದ ನೊಂದು, “ಆಗಲಿ ಸಂಗನು ನನಗಂತೂ ಪೂಜಿಸಿಕೊಂಡಿರಲು ಅವಕಾಶ ಕೊಡುತ್ತಿಲ್ಲ. ಮಂಗಳವಾಡಕ್ಕೆ ಹೋಗೆಂದು ಸದಾ ನನ್ನನ್ನು ಪೀಡಿಸುತ್ತಿರುವನು, ಅವನ ಮಾತಿನ ಪ್ರಕಾರ ಹೋಗಿ ನೋಡುತ್ತೇನೆ. ಹೇಗಿದ್ದರೂ ಅಪರಿಚಿತ ದೇಶವೆಂದು ಹೆದರಬೇಕಾಗಿಲ್ಲ, ಅಕ್ಷರಜ್ಞಾನವಿದೆ. ಅದನ್ನೇ ಮಾರಿ, ಬಂದ ಹಣದಿಂದ ಶಿವಭಕ್ತರಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸುವೆನು, ಪ್ರಸಾದವನ್ನು ಪಡೆಯುವೆನು” ಎಂದು ನಿರ್ಧರಿಸಿದರು.",
+      "translations": {
+        "en": "Basavanna’s wish was to serve Sangameshvara’s feet at Kappadi Sangama itself. But Sangameshvara would not let him stay. It seemed he kept urging go to Mangalavada. Unable to go, suffering separation-pain, Basavanna decided, “Sangama will not give me chance to worship here. He always torments me saying go to Mangalavada; I will go as he says and see. There is no need to fear an unknown land; I have literacy. Selling that I will serve Shiva devotees with the money and receive prasada.”"
+      },
+      "transliterations": {
+        "devanagari": "कप्पडि संगमदल्लिये संगमेश्वरन पादसेवॆ माडिकॊंडिरुव आशॆ बसवण्णनवरिगॆ. आदरॆ इरगॊड संगमेश्वर. मंगळवाडक्कॆ होगॆंदु मत्तॆ मत्तॆ ऒत्ताय माडिदंतॆ भासवायितु. बसवण्णनवरु होगलारदॆ विरहवेदनॆयिंद नॊंदु, “आगलि संगनु ननगंतू पूजिसिकॊंडिरलु अवकाश कॊडुत्तिल्ल. मंगळवाडक्कॆ होगॆंदु सदा नन्नन्नु पीडिसुत्तिरुवनु, अवन मातिन प्रकार होगि नोडुत्तेनॆ. हेगिद्दरू अपरिचित देशवॆंदु हॆदरबेकागिल्ल, अक्षरज्ञानविदॆ. अदन्ने मारि, बंद हणदिंद शिवभक्तरिगॆ सेवॆ सल्लिसुवॆनु, प्रसादवन्नु पडॆयुवॆनु” ऎंदु निर्धरिसिदरु.",
+        "latin": "kappaḍi saṃgamadalliye saṃgameśvarana pādasevè māḍikòṃḍiruva āśè basavaṇṇanavarigè. ādarè iragòḍa saṃgameśvara. maṃgaḻavāḍakkè hogèṃdu mattè mattè òttāya māḍidaṃtè bhāsavāyitu. basavaṇṇanavaru hogalāradè virahavedanèyiṃda nòṃdu, “āgali saṃganu nanagaṃtū pūjisikòṃḍiralu avakāśa kòḍuttilla. maṃgaḻavāḍakkè hogèṃdu sadā nannannu pīḍisuttiruvanu, avana mātina prakāra hogi noḍuttenè. hegiddarū aparicita deśavèṃdu hèdarabekāgilla, akṣarajñānavidè. adanne māri, baṃda haṇadiṃda śivabhaktarigè sevè sallisuvènu, prasādavannu paḍèyuvènu” èṃdu nirdharisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಬಸವಣ್ಣನವರಿಗೆ ಸಂಗನ ಕರುಣವೇ ಬೆಂಬಲವಾಯ್ತು, ಸಂಗನ ಧ್ಯಾನವೇ ಸಂಗಡವಾಯ್ತು. ಸಂಗನಾಡಿದ ಮಾತುಗಳನ್ನೇ ಮತ್ತೆ ಮತ್ತೆ ಮನದೊಳಗೆ ನೆನೆಯುತ್ತ, ನಡೆದ ಆಯಾಸವನ್ನು ಮರೆತು, ಮಂಗಳವಾಡವನ್ನು ತಲುಪಿ, ಬಿಜ್ಜಳನ ಅರಮನೆಯ ಕಡೆ ನಡೆದು, ಕರಣಶಾಲೆಗೆ ಬಂದು ಕುಳಿತಿದ್ದರು. ಆ ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ತನ್ನ ಮೇಲೆ ಉಳಿದಿರುವ ರಾಜಧನದ ವಿವರವನ್ನು ಕೇಳಲು ಅಲ್ಲಿಗೆ ಬಂದ ಭಂಡಾರಿ ಸಿದ್ಧದಂಡಾಧಿಪನು ಕರಣಿಕರ ತಪ್ಪು ಲೆಕ್ಕದಿಂದ ಮೋಸಹೋಗುತ್ತಿದುದ್ದನ್ನು ಬಸವಣ್ಣನವರು ಗಮನಿಸಿ, ಮಧ್ಯೆ ಪ್ರವೇಶಿಸಿ, ಸರಿಯಾದ ಲೆಕ್ಕವನ್ನು ತೋರಿಸಿ, ಆಗುತ್ತಿದ್ದ ಅಪಾರ ನಷ್ಟದಿಂದಲೂ ಸಂಭವಿಸುತ್ತಿದ್ದ ರಾಜಾಗ್ರಹದಿಂದಲೂ ಸಿದ್ಧದಂಡಾಧಿಪನನ್ನು ಪಾರುಮಾಡುವರು. ಗಣಿತ ಶಾಸ್ತ್ರದಲ್ಲಿ ಅಸದೃಶ ನೈಪುಣ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿದ ಯುವಕನಾದ ಬಸವಣ್ಣನವರ ಮೇಲೆ ಸಿದ್ಧದಂಡಾಧಿಪನಿಗೆ ಮಮತೆ ಬಂದು, ಅವರನ್ನು ಕರೆತಂದು, ರಾಜನಿಗೆ ಕಾಣಿಸಿ, ಭಂಡಾರಕ್ಕೆ ಮರಿಭಂಡಾರಿಯನ್ನಾಗಿ ನೇಮಿಸಿಕೊಳ್ಳುವನು. ವರ್ಷಕ್ಕೆ ನೂರೊಂದು ಹೊನ್ನು ನಿಗದಿಯಾಯಿತು.",
+      "translations": {
+        "en": "Sangama’s grace became Basavanna’s support, Sangama’s meditation his companion. Recalling Sangama’s words again and again, forgetting travel fatigue, he reached Mangalavada, went toward Bijjala’s palace, came to the accounts hall and sat. Just then treasurer Siddhadandadhipa who had come to ask remaining royal funds was being cheated by clerks’ wrong accounts; Basavanna noticed, entered mid-way, showed the correct account and saved Siddhadandadhipa from huge loss and royal anger. Affection arose in Siddhadandadhipa for the youth who showed unmatched skill in mathematics; he brought him, showed him to the king and appointed him assistant treasurer. One hundred and one gold coins a year were fixed."
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवरिगॆ संगन करुणवे बॆंबलवाय्तु, संगन ध्यानवे संगडवाय्तु. संगनाडिद मातुगळन्ने मत्तॆ मत्तॆ मनदॊळगॆ नॆनॆयुत्त, नडॆद आयासवन्नु मरॆतु, मंगळवाडवन्नु तलुपि, बिज्जळन अरमनॆय कडॆ नडॆदु, करणशालॆगॆ बंदु कुळितिद्दरु. आ समयक्कॆ सरियागि तन्न मेलॆ उळिदिरुव राजधनद विवरवन्नु केळलु अल्लिगॆ बंद भंडारि सिद्धदंडाधिपनु करणिकर तप्पु लॆक्कदिंद मोसहोगुत्तिदुद्दन्नु बसवण्णनवरु गमनिसि, मध्यॆ प्रवेशिसि, सरियाद लॆक्कवन्नु तोरिसि, आगुत्तिद्द अपार नष्टदिंदलू संभविसुत्तिद्द राजाग्रहदिंदलू सिद्धदंडाधिपनन्नु पारुमाडुवरु. गणित शास्त्रदल्लि असदृश नैपुण्यवन्नु प्रदर्शिसिद युवकनाद बसवण्णनवर मेलॆ सिद्धदंडाधिपनिगॆ ममतॆ बंदु, अवरन्नु करॆतंदु, राजनिगॆ काणिसि, भंडारक्कॆ मरिभंडारियन्नागि नेमिसिकॊळ्ळुवनु. वर्षक्कॆ नूरॊंदु हॊन्नु निगदियायितु.",
+        "latin": "basavaṇṇanavarigè saṃgana karuṇave bèṃbalavāytu, saṃgana dhyānave saṃgaḍavāytu. saṃganāḍida mātugaḻanne mattè mattè manadòḻagè nènèyutta, naḍèda āyāsavannu marètu, maṃgaḻavāḍavannu talupi, bijjaḻana aramanèya kaḍè naḍèdu, karaṇaśālègè baṃdu kuḻitiddaru. ā samayakkè sariyāgi tanna melè uḻidiruva rājadhanada vivaravannu keḻalu alligè baṃda bhaṃḍāri siddhadaṃḍādhipanu karaṇikara tappu lèkkadiṃda mosahoguttiduddannu basavaṇṇanavaru gamanisi, madhyè praveśisi, sariyāda lèkkavannu torisi, āguttidda apāra naṣṭadiṃdalū saṃbhavisuttidda rājāgrahadiṃdalū siddhadaṃḍādhipanannu pārumāḍuvaru. gaṇita śāstradalli asadṛśa naipuṇyavannu pradarśisida yuvakanāda basavaṇṇanavara melè siddhadaṃḍādhipanigè mamatè baṃdu, avarannu karètaṃdu, rājanigè kāṇisi, bhaṃḍārakkè maribhaṃḍāriyannāgi nemisikòḻḻuvanu. varṣakkè nūròṃdu hònnu nigadiyāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಕಾಲ ಗತಿಸಿತು. ಸಿದ್ಧದಂಡನಾಯಕನು ಕಾಯಿಲೆ ಬಿದ್ದು ಕೈಲಾಸವಾಸಿಯಾದನು. ಬಸವಣ್ಣನವರು ಸಿದ್ಧದಂಡನಾಯಕನ ಅಂತ್ಯ ಸಂಸ್ಕಾರವನ್ನು ನೆರವೇರಿಸಿ, ನಿರ್ವೇಗದಿಂದ ಬಂದು ಬಿಜ್ಜಳನನ್ನು ಕಂಡು, “ಸಿದ್ಧದಂಡಾಧಿಪನು ಗಂಡು ಮಕ್ಕಳಿಲ್ಲದೆ ಕಾಲಾಧೀನನಾದ. ನನಗೀಗ ಏನೂ ತೋಚದಾಗಿದೆ. ಬುದ್ಧಿಗೊಡಬೇಕು” ಎಂದು ಕೇಳಿಕೊಂಡನು. ಆಗ ಬಿಜ್ಜಳನು - “ಆತನ ಆಳು ಕುದುರೆ ಸಮಸ್ತ ವಿತ್ತವೂ ನಿನ್ನದೇ. ನಿನ್ನ ಬರುವಿಕೆಯಿಂದ ನನ್ನ ಭಂಡಾರವೂ ಹೆಚ್ಚಿತು. ಇನ್ನು ಮೇಲೆ ನನ್ನ ದೇಶಕ್ಕೂ ಕೋಶಕ್ಕೂ ನೀನೇ ಅಧಿಕಾರಿ” - ಎಂದು ಬಸವಣ್ಣನವರಿಗೆ ಒಂದು ಪಟ್ಟಾವಳಿಯನ್ನು ಉಡುಗೊರೆಯಾಗಿ ಕೊಟ್ಟು, ಇನ್ನೊಂದನ್ನು ಬಾಳೆಂದು ಹರಸಿ ಕೊಟ್ಟನು - ಅವರನ್ನು ಕಟಕಮಕುಟಗಳಿಂದ ಸಿಂಗರಿಸಿ, ಪಟ್ಟದಾನೆಯ ಮೇಲೆ ಕುಳ್ಳಿರಿಸಿ - ಶ್ವೇತಚ್ಛತ್ರವನ್ನು ಹಿಡಿಸಿ, ಪುರದ ಕೇರಿಗಳೊಳಗೆ ಮೆರೆಸಿದನು. ಅಂದಿನಿಂದ ಬಸವಣ್ಣನವರು “ಬಸವದಂಡನಾಥ”, “ಭಂಡಾರಿ ಬಸವ” ಎನಿಸಿದರು.",
+      "translations": {
+        "en": "Time passed. Siddhadandanayaka fell ill and attained Kailasa. Basavanna performed his last rites, came calmly to Bijjala and said, “Siddhadandadhipa died without sons. I do not know what to do. Give counsel.” Then Bijjala said, “His servants, horses and all wealth are yours. From your coming my treasury too grew. Henceforth you alone are authority for my country and treasury,” and gave Basavanna one decree as gift and blessed another to live—adorning him with ornaments, seating him on the royal elephant, holding the white umbrella, and parading him through the city streets. From that day Basavanna was called “Basavadandanatha,” “Bhandari Basava.”",
+        "hi": "बिज्जल ने उन्हें भंडारी नियुक्त कर “बसवदंडनाथ”, “भंडारी बसव” कहा।"
+      },
+      "transliterations": {
+        "devanagari": "काल गतिसितु. सिद्धदंडनायकनु कायिलॆ बिद्दु कैलासवासियादनु. बसवण्णनवरु सिद्धदंडनायकन अंत्य संस्कारवन्नु नॆरवेरिसि, निर्वेगदिंद बंदु बिज्जळनन्नु कंडु, “सिद्धदंडाधिपनु गंडु मक्कळिल्लदॆ कालाधीननाद. ननगीग एनू तोचदागिदॆ. बुद्धिगॊडबेकु” ऎंदु केळिकॊंडनु. आग बिज्जळनु - “आतन आळु कुदुरॆ समस्त वित्तवू निन्नदे. निन्न बरुविकॆयिंद नन्न भंडारवू हॆच्चितु. इन्नु मेलॆ नन्न देशक्कू कोशक्कू नीने अधिकारि” - ऎंदु बसवण्णनवरिगॆ ऒंदु पट्टावळियन्नु उडुगॊरॆयागि कॊट्टु, इन्नॊंदन्नु बाळॆंदु हरसि कॊट्टनु - अवरन्नु कटकमकुटगळिंद सिंगरिसि, पट्टदानॆय मेलॆ कुळ्ळिरिसि - श्वेतच्छत्रवन्नु हिडिसि, पुरद केरिगळॊळगॆ मॆरॆसिदनु. अंदिनिंद बसवण्णनवरु “बसवदंडनाथ”, “भंडारि बसव” ऎनिसिदरु.",
+        "latin": "kāla gatisitu. siddhadaṃḍanāyakanu kāyilè biddu kailāsavāsiyādanu. basavaṇṇanavaru siddhadaṃḍanāyakana aṃtya saṃskāravannu nèraverisi, nirvegadiṃda baṃdu bijjaḻanannu kaṃḍu, “siddhadaṃḍādhipanu gaṃḍu makkaḻilladè kālādhīnanāda. nanagīga enū tocadāgidè. buddhigòḍabeku” èṃdu keḻikòṃḍanu. āga bijjaḻanu - “ātana āḻu kudurè samasta vittavū ninnade. ninna baruvikèyiṃda nanna bhaṃḍāravū hèccitu. innu melè nanna deśakkū kośakkū nīne adhikāri” - èṃdu basavaṇṇanavarigè òṃdu paṭṭāvaḻiyannu uḍugòrèyāgi kòṭṭu, innòṃdannu bāḻèṃdu harasi kòṭṭanu - avarannu kaṭakamakuṭagaḻiṃda siṃgarisi, paṭṭadānèya melè kuḻḻirisi - śvetacchatravannu hiḍisi, purada kerigaḻòḻagè mèrèsidanu. aṃdiniṃda basavaṇṇanavaru “basavadaṃḍanātha”, “bhaṃḍāri basava” ènisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿನ ಭಾವತೀವ್ರತೆ, ಏಕಾಗ್ರತೆ ಮತ್ತು ಆತ್ಮೀಯತೆ ಪ್ರಶಂಸನೀಯವೂ, ಪ್ರಸಿದ್ಧವೂ ಆಗಿದೆ! ಈ ಅನಘ್ರ್ಯಗುಣಗಳ ಶತಾಂಶವು ಸಿದ್ಧರಾಮ, ಅಕ್ಕಮಹಾದೇವಿ ಮುಂತಾದ ಕೆಲವರ ವಚನಗಳಲ್ಲಿರುವುದರಿಂದಲೇ, ಅವು ಉತ್ತಮ ಭಾವಗೀತೆಗಳೆನಿಸಿಕೊಂಡಿವೆ. ಅಂಬಿಗರ ಚೌಡಯ್ಯನ ವಚನಗಳಲ್ಲಿ ವಿಡಂಬನೆಯಿರಬಹುದು, ನಗೆಯ ಮಾರಿತಂದೆಯ ವಚನಗಳಲ್ಲಿ ಹೊಗೆಯಾಡುವ ನಗೆಯಿರಬಹುದು, ಪ್ರಭುದೇವರ ವಚನಗಳಲ್ಲಿ ದರ್ಶನವಿಶುದ್ಧಿಯಿರಬಹುದು, ಚೆನ್ನಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ವಿಚಾರಧಾರೆಯಿರಬಹುದು, ಅಕ್ಕನ ವಚನಗಳಲ್ಲಿ ಮಧುರಭಾವವಿರಬಹುದು, ಮಿಕ್ಕ ವಚನಕಾರರಲ್ಲಿ ಅವರವರ ಅನುಭವಾನುಗುಣ ಭಾವಾಭಿವ್ಯಕ್ತಿಯಿರಬಹುದು. ಆದರೆ ಬಸವಣ್ಣನವರೊಬ್ಬರ ವಚನಗಳಲ್ಲೇ ಈ ಎಲ್ಲವೂ ಇದ್ದು, ಮೇಲೆ ಭಕ್ತಿರಸಕ್ಕೆ ಪೋಷಕವಾಗಿ - ಶಕ್ತಿದಾಯವಾಗಿ ಮಿಕ್ಕೆಲ್ಲ ರಸಗಳ ಲೀಲೆಯೂ ನಡೆದಿರುವುದು.",
+      "translations": {
+        "en": "The intensity of feeling, concentration and intimacy in Basavanna’s vachanas are praiseworthy and famous! Because even a hundredth of these rare qualities is in some vachanas of Siddharama, Akkamahadevi and others, they are counted excellent lyric poems. Ambiga Chowdayya may have satire, Negayya Maritande smoking laughter, Prabhudeva purity of vision, Chennabasavanna a stream of thought, Akka sweet feeling, and other vachana poets expression according to their experience. But in Basavanna’s vachanas alone all these are present, and above, nourishing and empowering the rasa of devotion, the play of all other rasas also goes on."
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवर वचनगळल्लिन भावतीव्रतॆ, एकाग्रतॆ मत्तु आत्मीयतॆ प्रशंसनीयवू, प्रसिद्धवू आगिदॆ! ई अनघ्र्यगुणगळ शतांशवु सिद्धराम, अक्कमहादेवि मुंताद कॆलवर वचनगळल्लिरुवुदरिंदले, अवु उत्तम भावगीतॆगळॆनिसिकॊंडिवॆ. अंबिगर चौडय्यन वचनगळल्लि विडंबनॆयिरबहुदु, नगॆय मारितंदॆय वचनगळल्लि हॊगॆयाडुव नगॆयिरबहुदु, प्रभुदेवर वचनगळल्लि दर्शनविशुद्धियिरबहुदु, चॆन्नबसवण्णनवर वचनगळल्लि विचारधारॆयिरबहुदु, अक्कन वचनगळल्लि मधुरभावविरबहुदु, मिक्क वचनकाररल्लि अवरवर अनुभवानुगुण भावाभिव्यक्तियिरबहुदु. आदरॆ बसवण्णनवरॊब्बर वचनगळल्ले ई ऎल्लवू इद्दु, मेलॆ भक्तिरसक्कॆ पोषकवागि - शक्तिदायवागि मिक्कॆल्ल रसगळ लीलॆयू नडॆदिरुवुदु.",
+        "latin": "basavaṇṇanavara vacanagaḻallina bhāvatīvratè, ekāgratè mattu ātmīyatè praśaṃsanīyavū, prasiddhavū āgidè! ī anaghryaguṇagaḻa śatāṃśavu siddharāma, akkamahādevi muṃtāda kèlavara vacanagaḻalliruvudariṃdale, avu uttama bhāvagītègaḻènisikòṃḍivè. aṃbigara cauḍayyana vacanagaḻalli viḍaṃbanèyirabahudu, nagèya māritaṃdèya vacanagaḻalli hògèyāḍuva nagèyirabahudu, prabhudevara vacanagaḻalli darśanaviśuddhiyirabahudu, cènnabasavaṇṇanavara vacanagaḻalli vicāradhārèyirabahudu, akkana vacanagaḻalli madhurabhāvavirabahudu, mikka vacanakāraralli avaravara anubhavānuguṇa bhāvābhivyaktiyirabahudu. ādarè basavaṇṇanavaròbbara vacanagaḻalle ī èllavū iddu, melè bhaktirasakkè poṣakavāgi - śaktidāyavāgi mikkèlla rasagaḻa līlèyū naḍèdiruvudu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಸಾಮಾಜಿಕ ಮತ್ತು ಮತೀಯ ಸಂಕುಚಿತ ಗಣನೆಯ ದುಷ್ಪರಿಣಾಮವಾಗಿ ಮಾನವಕುಲದಲ್ಲಿ ತಲೆದೋರುವ ಮೇಲು-ಕೀಳೆಂಬ ವಿಂಗಡಣೆಯನ್ನು ಬಸವಣ್ಣನವರು ಮಾನ್ಯ ಮಾಡಲಿಲ್ಲ. ಪ್ರಾಂತ-ಪ್ರದೇಶವಾಗಲಿ, ವಿದ್ಯೆ-ಪದವಿಯಾಗಲಿ, ಧನ-ಧಾನ್ಯವಾಗಲಿ, ಕೊನೆಗೆ ಪ್ರಕೃತಿಸಿದ್ಧವಾದ ಹೆಣ್ಣು-ಗಂಡೆಂಬ ಭೇದವಾಗಲಿ ಮಾನವರನ್ನು ವಿಭಜಿಸಿ, ಛಿನ್ನ-ಭಿನ್ನಗೊಳಿಸಿ, ಪ್ರತ್ಯೇಕಿಸುವುದನ್ನು ಅವರು ಸಹಿಸಲಿಲ್ಲ. ಅದಕ್ಕೆ ಬದಲಾಗಿ ಜನರಲ್ಲಿ ಒಗ್ಗಟ್ಟನ್ನೂ ಒಡನಾಟವನ್ನೂ - ಇವನ್ನು ಅಭಿವೃದ್ಧಿಗೊಳಿಸುವಂತಹ ಧರ್ಮವನ್ನು ಬೋಧಿಸಿದರು. ಈ ಕಾರಣದಿಂದಲೇ, ಬಸವಣ್ಣನವರು ಬೋಧಿಸಿದ ಧರ್ಮದ ಜೀವಾಳ ದಾನ-ದಯೆ-ನಿರಾಡಂಬರ-ವಿನಯ-ಭಕ್ತಿ-ದುಡಿಮೆ, ನಿಷ್ಕಾಮಕರ್ಮ ಮತ್ತು ಸರಳಜೀವನ. ಒಟ್ಟಿನಲ್ಲಿ ಮನುಕುಲವೆಲ್ಲ ಒಂದೆಂಬ ಭಾವದಿಂದ ಪರಸ್ಪರ ಹಿತ-ಅಭಿವೃದ್ಧಿಗಾಗಿ ಬಾಳಬೇಕೆಂಬುದೇ ಅವರ ದರ್ಶನಸಾರ.",
+      "translations": {
+        "en": "Basavanna did not accept the high-low division that appears in humankind as the evil result of social and religious narrow counting. Whether region, learning-degree, wealth-grain, or even the nature-given difference of woman-man—he would not bear dividing, splitting and separating humans. Instead he taught a dharma that develops unity and companionship among people. For this reason the life-essence of the dharma Basavanna taught is gift, compassion, simplicity, humility, devotion, work, desireless action and simple living. In sum, that all humankind is one and should live for mutual good and progress—this is the essence of his vision.",
+        "hi": "बसवणा ने ऊँच-नीच का भेद नहीं माना। उनके धर्म का जीवाल दान-दया-निराडंबर-विनय-भक्ति-दुडिम, निष्कामकर्म और सरल जीवन है।"
+      },
+      "transliterations": {
+        "devanagari": "सामाजिक मत्तु मतीय संकुचित गणनॆय दुष्परिणामवागि मानवकुलदल्लि तलॆदोरुव मेलु-कीळॆंब विंगडणॆयन्नु बसवण्णनवरु मान्य माडलिल्ल. प्रांत-प्रदेशवागलि, विद्यॆ-पदवियागलि, धन-धान्यवागलि, कॊनॆगॆ प्रकृतिसिद्धवाद हॆण्णु-गंडॆंब भेदवागलि मानवरन्नु विभजिसि, छिन्न-भिन्नगॊळिसि, प्रत्येकिसुवुदन्नु अवरु सहिसलिल्ल. अदक्कॆ बदलागि जनरल्लि ऒग्गट्टन्नू ऒडनाटवन्नू - इवन्नु अभिवृद्धिगॊळिसुवंतह धर्मवन्नु बोधिसिदरु. ई कारणदिंदले, बसवण्णनवरु बोधिसिद धर्मद जीवाळ दान-दयॆ-निराडंबर-विनय-भक्ति-दुडिमॆ, निष्कामकर्म मत्तु सरळजीवन. ऒट्टिनल्लि मनुकुलवॆल्ल ऒंदॆंब भावदिंद परस्पर हित-अभिवृद्धिगागि बाळबेकॆंबुदे अवर दर्शनसार.",
+        "latin": "sāmājika mattu matīya saṃkucita gaṇanèya duṣpariṇāmavāgi mānavakuladalli talèdoruva melu-kīḻèṃba viṃgaḍaṇèyannu basavaṇṇanavaru mānya māḍalilla. prāṃta-pradeśavāgali, vidyè-padaviyāgali, dhana-dhānyavāgali, kònègè prakṛtisiddhavāda hèṇṇu-gaṃḍèṃba bhedavāgali mānavarannu vibhajisi, chinna-bhinnagòḻisi, pratyekisuvudannu avaru sahisalilla. adakkè badalāgi janaralli òggaṭṭannū òḍanāṭavannū - ivannu abhivṛddhigòḻisuvaṃtaha dharmavannu bodhisidaru. ī kāraṇadiṃdale, basavaṇṇanavaru bodhisida dharmada jīvāḻa dāna-dayè-nirāḍaṃbara-vinaya-bhakti-duḍimè, niṣkāmakarma mattu saraḻajīvana. òṭṭinalli manukulavèlla òṃdèṃba bhāvadiṃda paraspara hita-abhivṛddhigāgi bāḻabekèṃbude avara darśanasāra."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಡಾ. ಎಲ್. ಬಸವರಾಜು ಅವರು 1919 ರಲ್ಲಿ ಕೋಲಾರ ಜಿಲ್ಲೆಯ ಎಡಗೂರು ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಇವರು ವೃತ್ತಿಯಿಂದ ಪ್ರಾಧ್ಯಾಪಕರು. ಶಿವದಾಸ ಗೀತಾಂಜಲಿ, ಬಸವಣ್ಣನವರ ವಚನಗಳು, ಭಾಸನ ಭಾರತ ರೂಪಕ, ಅಲ್ಲಮನ ವಚನಗಳು ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಶ್ರೀಯುತರಿಗೆ ಪಂಪ ಪ್ರಶಸ್ತಿ, ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡಮಿ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪುರಸ್ಕಾರ, ರಾಜ್ಯೋತ್ಸವ ಪುರಸ್ಕಾರಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ. ಪ್ರಸ್ತುತ ಪಾಠವನ್ನು ಡಾ. ಎಲ್. ಬಸವರಾಜು ಅವರು ಸಂಪಾದಿಸಿದ ‘ಬಸವಣ್ಣನವರ ವಚನಗಳು’ ಕೃತಿಯ ಪೀಠಿಕೆಯಿಂದ ಆಯ್ದ ಭಾಗವಾಗಿದೆ.",
+      "translations": {
+        "en": "Dr L. Basavaraju was born in 1919 at Edaguru village, Kolar district. By profession a professor. He composed Shivadasa Gitajniali, Basavannanavara Vachanagalu, Bhasana Bharata Rupaka, Allamana Vachanagalu and others. He has been honoured with the Pampa award, Central Sahitya Akademi award, Basava Puraskar and Rajyotsava Puraskar. The present lesson is a selected portion from the preface of ‘Basavannanavara Vachanagalu’ edited by Dr L. Basavaraju.",
+        "hi": "डॉ. एल. बसवराजु 1919 में कोलार जिले के एडगूरु में जन्मे। प्रस्तुत पाठ उनके संपादित ‘बसवण्णनवर वचनगलु’ की भूमिका से है।"
+      },
+      "transliterations": {
+        "devanagari": "डा. ऎल्. बसवराजु अवरु 1919 रल्लि कोलार जिल्लॆय ऎडगूरु ग्रामदल्लि जनिसिदरु. इवरु वृत्तियिंद प्राध्यापकरु. शिवदास गीतांजलि, बसवण्णनवर वचनगळु, भासन भारत रूपक, अल्लमन वचनगळु मॊदलाद कृतिगळन्नु रचिसिद्दारॆ. श्रीयुतरिगॆ पंप प्रशस्ति, केंद्र साहित्य अकाडमि प्रशस्ति, बसव पुरस्कार, राज्योत्सव पुरस्कारगळन्नु नीडि गौरविसलागिदॆ. प्रस्तुत पाठवन्नु डा. ऎल्. बसवराजु अवरु संपादिसिद ‘बसवण्णनवर वचनगळु’ कृतिय पीठिकॆयिंद आय्द भागवागिदॆ.",
+        "latin": "ḍā. èl. basavarāju avaru 1919 ralli kolāra jillèya èḍagūru grāmadalli janisidaru. ivaru vṛttiyiṃda prādhyāpakaru. śivadāsa gītāṃjali, basavaṇṇanavara vacanagaḻu, bhāsana bhārata rūpaka, allamana vacanagaḻu mòdalāda kṛtigaḻannu racisiddārè. śrīyutarigè paṃpa praśasti, keṃdra sāhitya akāḍami praśasti, basava puraskāra, rājyotsava puraskāragaḻannu nīḍi gauravisalāgidè. prastuta pāṭhavannu ḍā. èl. basavarāju avaru saṃpādisida ‘basavaṇṇanavara vacanagaḻu’ kṛtiya pīṭhikèyiṃda āyda bhāgavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಬಸವಣ್ಣನವರ ತಂದೆ, ತಾಯಿಯವರ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What are the names of Basavanna’s father and mother?",
+        "hi": "बसवणा के माता-पिता के नाम क्या हैं?"
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवर तंदॆ, तायियवर हॆसरेनु?",
+        "latin": "basavaṇṇanavara taṃdè, tāyiyavara hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಬಸವಣ್ಣನವರು ಬಾಗೇವಾಡಿಯನ್ನು ಬಿಟ್ಟು ಎಲ್ಲಿಗೆ ಹೋದರು?",
+      "translations": {
+        "en": "Where did Basavanna go after leaving Bagewadi?",
+        "hi": "बागेवाड़ी छोड़कर बसवणा कहाँ गए?"
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवरु बागेवाडियन्नु बिट्टु ऎल्लिगॆ होदरु?",
+        "latin": "basavaṇṇanavaru bāgevāḍiyannu biṭṭu èlligè hodaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಈಶಾನ ಗುರುಗಳು ಬಸವಣ್ಣನವರಿಗೆ ಏನು ಹೇಳಿದರು?",
+      "translations": {
+        "en": "What did Ishana Guru tell Basavanna?",
+        "hi": "ईशान गुरु ने बसवणा से क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "ईशान गुरुगळु बसवण्णनवरिगॆ एनु हेळिदरु?",
+        "latin": "īśāna gurugaḻu basavaṇṇanavarigè enu heḻidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಬಸವಣ್ಣನವರ ವಚನಗಳು ಏಕೆ ಪ್ರಸಿದ್ಧವಾಗಿವೆ?",
+      "translations": {
+        "en": "Why are Basavanna’s vachanas famous?",
+        "hi": "बसवणा के वचन क्यों प्रसिद्ध हैं?"
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवर वचनगळु एकॆ प्रसिद्धवागिवॆ?",
+        "latin": "basavaṇṇanavara vacanagaḻu ekè prasiddhavāgivè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಬಸವಣ್ಣನವರು ಬೋಧಿಸಿದ ಧರ್ಮದ ಜೀವಾಳ ಯಾವುದು?",
+      "translations": {
+        "en": "What is the life-essence of the dharma Basavanna taught?",
+        "hi": "बसवणा द्वारा बोधिता धर्म का जीवाल क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "बसवण्णनवरु बोधिसिद धर्मद जीवाळ यावुदु?",
+        "latin": "basavaṇṇanavaru bodhisida dharmada jīvāḻa yāvudu?"
+      },
+      "type": "question"
+    }
+  ]
+}

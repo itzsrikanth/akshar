@@ -1,0 +1,833 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "competency": {
+      "devanagari": "कौशल / सामर्थ्य / आशय",
+      "en": "Skill / ability / intent",
+      "hi": "कौशल / सामर्थ्य / आशय",
+      "kn": "ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ",
+      "latin": "kauśala / sāmarthya / āśaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ उत्तरिसि.",
+      "en": "A. Answer the given questions.",
+      "hi": "अ. दिए गए प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè uttarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಡಾ. ಎಂ. ಅಕಬರ ಅಲಿ",
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch06-swatantrya-swarga",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ರಾಜುವಿನ ಮನೆಯಲ್ಲಿ ಒಂದು ಪಂಜರ, ಆ ಪಂಜರದಲ್ಲಿ ಒಂದು ಪುಟ್ಟ ಗಿಳಿ. ಆ ಗಿಳಿ ಮನೆಯವರಿಗೆಲ್ಲ ಅಚ್ಚು ಮೆಚ್ಚು. ಕೆಲವು ದಿನಗಳ ಅನಂತರ ಗಿಳಿ ಸರಿಯಾಗಿ ಕಾಳು ತಿನ್ನುತ್ತಿಲ್ಲ, ಲವಲವಿಕೆಯಿಂದ ಇಲ್ಲ ಎಂದು ರಾಜುವಿಗೆ ತುಂಬಾ ಬೇಸರವಾಯ್ತು. ಅದನ್ನು ತನ್ನ ಮನೆಯ ಪಕ್ಕದಲ್ಲಿದ್ದ ಪಶು ವೈದ್ಯರಿಗೆ ಹೇಳಿದ. ಅವರು ಬಂದು ಗಿಳಿಯನ್ನು ಪರೀಕ್ಷೆ ಮಾಡಿ ಹೇಳಿದರು “ಇದಕ್ಕೆ ಯಾವ ರೋಗವೂ ಇಲ್ಲ ಬಂಧನವೇ ರೋಗ ಇದನ್ನು ಪಂಜರದಿಂದ ಹೊರಗೆ ಬಿಟ್ಟರೆ ತನ್ನ ಇತರ ಗಿಳಿಗಳನ್ನು ಕೂಡಿಕೊಂಡು ಸಂತೋಷದಿಂದ ಇರುತ್ತದೆ. ಗಿಡಮರಗಳಿರುವ ಜಾಗದಲ್ಲಿ ಇದನ್ನು ಬಿಟ್ಟು ಬನ್ನಿ ಎಂದರು’’ ರಾಜು ಹಾಗೇ ಮಾಡಿದ. ಬಂಧನದಿಂದ ಬಿಡುಗಡೆಗೊಂಡ ಗಿಳಿ ಪುರ್ರೆಂದು ಹಾರಿ ಹೋಯಿತು. ರಾಜುವಿಗೂ ಅದನ್ನು ನೋಡಿ ಸಂತೋಷವಾಯಿತು. ನನ್ನನ್ನು ನನ್ನ ಮನೆಯಿಂದ ದೂರಮಾಡಿ ಗಿಳಿಯಂತೆ ಬಂಧನದಲ್ಲಿಟ್ಟಿದ್ದರೆ ಏನಾಗಬಹುದಿತ್ತು ಎಂದು ರಾಜು ಯೋಚಿಸತೊಡಗಿದ.",
+      "translations": {
+        "en": "In Raju’s house a cage, in that cage a little parrot. That parrot was the darling of the whole household. After some days the parrot was not eating grain properly and was not lively, and Raju was very upset. He told the veterinary doctor next door. He came, examined the parrot and said, “It has no disease; bondage itself is the disease. If you let it out of the cage it will join its other parrots and live happily. Leave it where there are trees and come.” Raju did so. Freed from bondage the parrot flew off with a whir. Seeing it Raju too was happy. He began to think what would have happened if he himself had been kept in bondage like the parrot away from home.",
+        "hi": "राजू के घर में एक पिंजरा, उसमें एक छोटी तोता। कुछ दिनों बाद तोता ठीक से दाना नहीं खा रहा था। पशु चिकित्सक ने कहा बंधन ही रोग है—पिंजरे से बाहर छोड़ दो।"
+      },
+      "transliterations": {
+        "devanagari": "राजुविन मनॆयल्लि ऒंदु पंजर, आ पंजरदल्लि ऒंदु पुट्ट गिळि. आ गिळि मनॆयवरिगॆल्ल अच्चु मॆच्चु. कॆलवु दिनगळ अनंतर गिळि सरियागि काळु तिन्नुत्तिल्ल, लवलविकॆयिंद इल्ल ऎंदु राजुविगॆ तुंबा बेसरवाय्तु. अदन्नु तन्न मनॆय पक्कदल्लिद्द पशु वैद्यरिगॆ हेळिद. अवरु बंदु गिळियन्नु परीक्षॆ माडि हेळिदरु “इदक्कॆ याव रोगवू इल्ल बंधनवे रोग इदन्नु पंजरदिंद हॊरगॆ बिट्टरॆ तन्न इतर गिळिगळन्नु कूडिकॊंडु संतोषदिंद इरुत्तदॆ. गिडमरगळिरुव जागदल्लि इदन्नु बिट्टु बन्नि ऎंदरु’’ राजु हागे माडिद. बंधनदिंद बिडुगडॆगॊंड गिळि पुर्रॆंदु हारि होयितु. राजुविगू अदन्नु नोडि संतोषवायितु. नन्नन्नु नन्न मनॆयिंद दूरमाडि गिळियंतॆ बंधनदल्लिट्टिद्दरॆ एनागबहुदित्तु ऎंदु राजु योचिसतॊडगिद.",
+        "latin": "rājuvina manèyalli òṃdu paṃjara, ā paṃjaradalli òṃdu puṭṭa giḻi. ā giḻi manèyavarigèlla accu mèccu. kèlavu dinagaḻa anaṃtara giḻi sariyāgi kāḻu tinnuttilla, lavalavikèyiṃda illa èṃdu rājuvigè tuṃbā besaravāytu. adannu tanna manèya pakkadallidda paśu vaidyarigè heḻida. avaru baṃdu giḻiyannu parīkṣè māḍi heḻidaru “idakkè yāva rogavū illa baṃdhanave roga idannu paṃjaradiṃda hòragè biṭṭarè tanna itara giḻigaḻannu kūḍikòṃḍu saṃtoṣadiṃda iruttadè. giḍamaragaḻiruva jāgadalli idannu biṭṭu banni èṃdaru’’ rāju hāge māḍida. baṃdhanadiṃda biḍugaḍègòṃḍa giḻi purrèṃdu hāri hoyitu. rājuvigū adannu noḍi saṃtoṣavāyitu. nannannu nanna manèyiṃda dūramāḍi giḻiyaṃtè baṃdhanadalliṭṭiddarè enāgabahudittu èṃdu rāju yocisatòḍagida."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನಿರ್ಭೀತ ನಿರ್ಮುಕ್ತ ಮನವು ತಾನೆಲ್ಲಿಹುದು;",
+      "translations": {
+        "en": "Where is the fearless free mind;"
+      },
+      "transliterations": {
+        "devanagari": "निर्भीत निर्मुक्त मनवु तानॆल्लिहुदु;",
+        "latin": "nirbhīta nirmukta manavu tānèllihudu;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಅಭಿಮಾನಧನವೆನಿಪ ಮಸ್ತಕವದು",
+      "translations": {
+        "en": "That head which is the wealth of pride"
+      },
+      "transliterations": {
+        "devanagari": "अभिमानधनवॆनिप मस्तकवदु",
+        "latin": "abhimānadhanavènipa mastakavadu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಜಗ್ಗದೆಯೆ ಕುಗ್ಗದೆಯೆ ತಗ್ಗದೆಯೆ ಬಗ್ಗದೆಯೆ",
+      "translations": {
+        "en": "Without shrinking, without drooping, without lowering, without bowing"
+      },
+      "transliterations": {
+        "devanagari": "जग्गदॆयॆ कुग्गदॆयॆ तग्गदॆयॆ बग्गदॆयॆ",
+        "latin": "jaggadèyè kuggadèyè taggadèyè baggadèyè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಮೇಲ್ಮೊಗದಿ ನೀಟಾಗಿ ನಿಂದಿರುವುದು;-",
+      "translations": {
+        "en": "Stands upright facing upward;-"
+      },
+      "transliterations": {
+        "devanagari": "मेल्मॊगदि नीटागि निंदिरुवुदु;-",
+        "latin": "melmògadi nīṭāgi niṃdiruvudu;-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಅಲ್ಲಿ ಆ ಸ್ವಾತಂತ್ರ್ಯ -ಸ್ವರ್ಗದಲಿ, ಓ ತಂದೆ!",
+      "translations": {
+        "en": "There in that freedom-heaven, O Father!",
+        "hi": "वहाँ उस स्वतंत्रता-स्वर्ग में, ओ पिता!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि आ स्वातंत्र्य -स्वर्गदलि, ओ तंदॆ!",
+        "latin": "alli ā svātaṃtrya -svargadali, o taṃdè!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l6",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಏಳಲೈ ಬಾಳಲೈ ನಾಡೆಮ್ಮದು!",
+      "translations": {
+        "en": "Rise, live—our land!",
+        "hi": "उठो, जियो—हमारी भूमि!"
+      },
+      "transliterations": {
+        "devanagari": "एळलै बाळलै नाडॆम्मदु!",
+        "latin": "eḻalai bāḻalai nāḍèmmadu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅರಿವು ತಾನ್ ಸರ್ವಸ್ವತಂತ್ರವಾಗಲಿಹುದು;",
+      "translations": {
+        "en": "Where awareness itself remains wholly free;"
+      },
+      "transliterations": {
+        "devanagari": "अरिवु तान् सर्वस्वतंत्रवागलिहुदु;",
+        "latin": "arivu tān sarvasvataṃtravāgalihudu;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಸಂಕುಚಿತತನ ಮನೋವೃತ್ತಿಯಳಿದು",
+      "translations": {
+        "en": "Narrowness of mind having vanished"
+      },
+      "transliterations": {
+        "devanagari": "संकुचिततन मनोवृत्तियळिदु",
+        "latin": "saṃkucitatana manovṛttiyaḻidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ವಿಶ್ವವೆಂಬುವುದೆಲ್ಲ ಹೋಳು ಹೋಳಾಗದೆಯೆ",
+      "translations": {
+        "en": "The whole called world without splitting into pieces"
+      },
+      "transliterations": {
+        "devanagari": "विश्ववॆंबुवुदॆल्ल होळु होळागदॆयॆ",
+        "latin": "viśvavèṃbuvudèlla hoḻu hoḻāgadèyè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಒಂದಾಗಿ ಚೆಂದಾಗಿ ಬಾಳುತಿಹುದು;-",
+      "translations": {
+        "en": "Lives as one and beautifully;-"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदागि चॆंदागि बाळुतिहुदु;-",
+        "latin": "òṃdāgi cèṃdāgi bāḻutihudu;-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅಲ್ಲಿ ಆ ಸ್ವಾತಂತ್ರ್ಯ - ಸ್ವರ್ಗದಲಿ, ಓ ತಂದೆ!",
+      "translations": {
+        "en": "There in that freedom-heaven, O Father!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि आ स्वातंत्र्य - स्वर्गदलि, ओ तंदॆ!",
+        "latin": "alli ā svātaṃtrya - svargadali, o taṃdè!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಏಳಲೈ ಬಾಳಲೈ ನಾಡೆಮ್ಮದು!",
+      "translations": {
+        "en": "Rise, live—our land!"
+      },
+      "transliterations": {
+        "devanagari": "एळलै बाळलै नाडॆम्मदु!",
+        "latin": "eḻalai bāḻalai nāḍèmmadu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನನ್ನಿತನದಾಳದಿಂದೆಲ್ಲಿ ನುಡಿ ಹೊರಬಹುದು;",
+      "translations": {
+        "en": "Where speech can come from the depth of selfhood;"
+      },
+      "transliterations": {
+        "devanagari": "नन्नितनदाळदिंदॆल्लि नुडि हॊरबहुदु;",
+        "latin": "nannitanadāḻadiṃdèlli nuḍi hòrabahudu;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ದುಡಿಮೆಯೆಂಬುವುದೆಲ್ಲಿ ಮುಂದುವರಿದು,",
+      "translations": {
+        "en": "Where work called labour advances,"
+      },
+      "transliterations": {
+        "devanagari": "दुडिमॆयॆंबुवुदॆल्लि मुंदुवरिदु,",
+        "latin": "duḍimèyèṃbuvudèlli muṃduvaridu,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ದಣಿವನ್ನು ಅರಿಯದೆಯೆ ದಣಿವಿಂಗೆ ಮಣಿಯದೆಯೆ,",
+      "translations": {
+        "en": "Without knowing fatigue, without yielding to fatigue,"
+      },
+      "transliterations": {
+        "devanagari": "दणिवन्नु अरियदॆयॆ दणिविंगॆ मणियदॆयॆ,",
+        "latin": "daṇivannu ariyadèyè daṇiviṃgè maṇiyadèyè,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಪೂರ್ಣತೆಗೆ ತನ್ನ ಕೈಚಾಚುತಿಹುದು;-",
+      "translations": {
+        "en": "Reaches its hand toward completeness;-"
+      },
+      "transliterations": {
+        "devanagari": "पूर्णतॆगॆ तन्न कैचाचुतिहुदु;-",
+        "latin": "pūrṇatègè tanna kaicācutihudu;-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಅಲ್ಲಿ ಆ ಸ್ವಾತಂತ್ರ್ಯ -ಸ್ವರ್ಗದಲಿ, ಓ ತಂದೆ!",
+      "translations": {
+        "en": "There in that freedom-heaven, O Father!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि आ स्वातंत्र्य -स्वर्गदलि, ओ तंदॆ!",
+        "latin": "alli ā svātaṃtrya -svargadali, o taṃdè!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l6",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಏಳಲೈ ಬಾಳಲೈ ನಾಡೆಮ್ಮದು!",
+      "translations": {
+        "en": "Rise, live—our land!"
+      },
+      "transliterations": {
+        "devanagari": "एळलै बाळलै नाडॆम्मदु!",
+        "latin": "eḻalai bāḻalai nāḍèmmadu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಸಂಪ್ರದಾಯದನಿಷ್ಟ ರೂಢಿ-ನಿಯಮಗಳೆಂಬ",
+      "translations": {
+        "en": "In the expanse of the deserted desert"
+      },
+      "transliterations": {
+        "devanagari": "संप्रदायदनिष्ट रूढि-नियमगळॆंब",
+        "latin": "saṃpradāyadaniṣṭa rūḍhi-niyamagaḻèṃba"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನಿರ್ಜನದ ಮರುಭೂಮಿ ಹರಹಿನಲ್ಲಿ",
+      "translations": {
+        "en": "Called tradition’s harmful custom-rules"
+      },
+      "transliterations": {
+        "devanagari": "निर्जनद मरुभूमि हरहिनल्लि",
+        "latin": "nirjanada marubhūmi harahinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಸುವಿಚಾರವೆಂದೆಂಬ ಪರಿಶುದ್ಧ ವಾಹಿನಿಯು",
+      "translations": {
+        "en": "Where the pure stream called good thought"
+      },
+      "transliterations": {
+        "devanagari": "सुविचारवॆंदॆंब परिशुद्ध वाहिनियु",
+        "latin": "suvicāravèṃdèṃba pariśuddha vāhiniyu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಹರಿಗಡಿಯದೆಯೆ ಮುಂದುವರಿಯುವಲ್ಲಿ;-",
+      "translations": {
+        "en": "Goes on without ceasing to flow;-"
+      },
+      "transliterations": {
+        "devanagari": "हरिगडियदॆयॆ मुंदुवरियुवल्लि;-",
+        "latin": "harigaḍiyadèyè muṃduvariyuvalli;-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಅಲ್ಲಿ ಆ ಸ್ವಾತಂತ್ರ್ಯ -ಸ್ವರ್ಗದಲಿ, ಓ ತಂದೆ!",
+      "translations": {
+        "en": "There in that freedom-heaven, O Father!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि आ स्वातंत्र्य -स्वर्गदलि, ओ तंदॆ!",
+        "latin": "alli ā svātaṃtrya -svargadali, o taṃdè!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l6",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಏಳಲೈ ಬಾಳಲೈ ನಾಡೆಮ್ಮದು!",
+      "translations": {
+        "en": "Rise, live—our land!"
+      },
+      "transliterations": {
+        "devanagari": "एळलै बाळलै नाडॆम्मदु!",
+        "latin": "eḻalai bāḻalai nāḍèmmadu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನಿತ್ಯ ವೈಶಾಲ್ಯವಹ ನಡೆ-ನುಡಿಗಳಿಂದಾಗಿ",
+      "translations": {
+        "en": "From daily spacious walk and speech"
+      },
+      "transliterations": {
+        "devanagari": "नित्य वैशाल्यवह नडॆ-नुडिगळिंदागि",
+        "latin": "nitya vaiśālyavaha naḍè-nuḍigaḻiṃdāgi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಮನವರಳಿ ತಾನಲ್ಲಿ ಮುಂದರಿವುದು,",
+      "translations": {
+        "en": "The mind blossoms and knows further there,"
+      },
+      "transliterations": {
+        "devanagari": "मनवरळि तानल्लि मुंदरिवुदु,",
+        "latin": "manavaraḻi tānalli muṃdarivudu,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನಿನ್ನೊಲವು, ನಿನ್ನ ದಯೆ, ನಿನ್ನ ಕೃಪೆಯಿಂದಾಗಿ",
+      "translations": {
+        "en": "From your love, your mercy, your grace"
+      },
+      "transliterations": {
+        "devanagari": "निन्नॊलवु, निन्न दयॆ, निन्न कृपॆयिंदागि",
+        "latin": "ninnòlavu, ninna dayè, ninna kṛpèyiṃdāgi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನಿನ್ನನ್ನೆ ಧ್ರುವತಾರೆಯೆಂದರಿವುದು;-",
+      "translations": {
+        "en": "Knows you alone as the pole star;-"
+      },
+      "transliterations": {
+        "devanagari": "निन्नन्नॆ ध्रुवतारॆयॆंदरिवुदु;-",
+        "latin": "ninnannè dhruvatārèyèṃdarivudu;-"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l5",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಅಲ್ಲಿ ಆ ಸ್ವಾತಂತ್ರ್ಯ -ಸ್ವರ್ಗದಲಿ, ಓ ತಂದೆ!",
+      "translations": {
+        "en": "There in that freedom-heaven, O Father!"
+      },
+      "transliterations": {
+        "devanagari": "अल्लि आ स्वातंत्र्य -स्वर्गदलि, ओ तंदॆ!",
+        "latin": "alli ā svātaṃtrya -svargadali, o taṃdè!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l6",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಏಳಲೈ ಬಾಳಲೈ ನಾಡೆಮ್ಮದು!",
+      "translations": {
+        "en": "Rise, live—our land!"
+      },
+      "transliterations": {
+        "devanagari": "एळलै बाळलै नाडॆम्मदु!",
+        "latin": "eḻalai bāḻalai nāḍèmmadu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "competency",
+      "section": "competency",
+      "text": "ಕೌಶಲ: ಆಲಿಸುವುದು. ಸಾಮರ್ಥ್ಯ: ಕವಿತೆ, ಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ, ಪ್ರಹಸನ ಇವುಗಳನ್ನು ಆಲಿಸಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು. ಆಶಯ: ‘ಸ್ವಾತಂತ್ರ್ಯವೇ ಸ್ವರ್ಗ’ ಎಂಬ ಮಾತಿದೆ. ಆ ಸ್ವಾತಂತ್ರ್ಯ ಎಂತಹ ಸ್ವರ್ಗವಾಗಬೇಕು ಎಂಬುದು ಪ್ರಶ್ನೆ. ಅದು ಸ್ವೇಚ್ಛೆಯ ಸ್ವರ್ಗವಲ್ಲ. ಅಲ್ಲಿ ಹೆದರಿಕೆ ಇರುವುದಿಲ್ಲ, ನಾವು ನಮ್ಮ ಬಗ್ಗೆ, ನಮ್ಮವರ ಬಗ್ಗೆ, ನಮ್ಮ ನಾಡಿನ ಬಗ್ಗೆ ಹೆಮ್ಮೆಯಿಂದ ತಲೆಯೆತ್ತಿ ನಡೆಯುವಂತಿರಬೇಕು. ಎಲ್ಲರೂ ಒಂದು ಎಂಬ ಭಾವನೆಯಿರಬೇಕು. ಸಂತಸದ ದುಡಿಮೆಯಾಗಬೇಕು. ಒಳ್ಳೆ ವಿಚಾರಗಳು ನಮ್ಮ ಮನಸ್ಸಿಗೆ ಹರಿದು ಬರುವಂತಿರಬೇಕು, ಜೀವಪ್ರೀತಿಗೆ ಅಲ್ಲಿ ಅವಕಾಶ ವಿರಬೇಕು. ಅಂತಹ ಸ್ವಾತಂತ್ರ್ಯವೇ ಸ್ವರ್ಗ.",
+      "translations": {
+        "en": "Skill: listening. Ability: listening to poem, story, play, essay, farce and understanding. Intent: There is a saying ‘freedom itself is heaven’. The question is what kind of heaven that freedom should be. It is not a heaven of license. There should be no fear; we should walk with head held high in pride about ourselves, our people and our land. There should be a feeling that all are one. There should be joyful work. Good thoughts should flow into our minds; there should be room for love of life. Such freedom alone is heaven.",
+        "hi": "कौशल: सुनना। आशय: ‘स्वतंत्रता ही स्वर्ग’—वह स्वर्ग स्वेच्छाचार का नहीं। वहाँ भय न हो; गर्व से सिर उठाकर चल सकें; सब एक हों; आनंद की मेहनत हो। ऐसा स्वतंत्रता ही स्वर्ग है।"
+      },
+      "transliterations": {
+        "devanagari": "कौशल: आलिसुवुदु. सामर्थ्य: कवितॆ, कथॆ, नाटक, प्रबंध, प्रहसन इवुगळन्नु आलिसि अर्थमाडिकॊळ्ळुवुदु. आशय: ‘स्वातंत्र्यवे स्वर्ग’ ऎंब मातिदॆ. आ स्वातंत्र्य ऎंतह स्वर्गवागबेकु ऎंबुदु प्रश्नॆ. अदु स्वेच्छॆय स्वर्गवल्ल. अल्लि हॆदरिकॆ इरुवुदिल्ल, नावु नम्म बग्गॆ, नम्मवर बग्गॆ, नम्म नाडिन बग्गॆ हॆम्मॆयिंद तलॆयॆत्ति नडॆयुवंतिरबेकु. ऎल्लरू ऒंदु ऎंब भावनॆयिरबेकु. संतसद दुडिमॆयागबेकु. ऒळ्ळॆ विचारगळु नम्म मनस्सिगॆ हरिदु बरुवंतिरबेकु, जीवप्रीतिगॆ अल्लि अवकाश विरबेकु. अंतह स्वातंत्र्यवे स्वर्ग.",
+        "latin": "kauśala: ālisuvudu. sāmarthya: kavitè, kathè, nāṭaka, prabaṃdha, prahasana ivugaḻannu ālisi arthamāḍikòḻḻuvudu. āśaya: ‘svātaṃtryave svarga’ èṃba mātidè. ā svātaṃtrya èṃtaha svargavāgabeku èṃbudu praśnè. adu svecchèya svargavalla. alli hèdarikè iruvudilla, nāvu namma baggè, nammavara baggè, namma nāḍina baggè hèmmèyiṃda talèyètti naḍèyuvaṃtirabeku. èllarū òṃdu èṃba bhāvanèyirabeku. saṃtasada duḍimèyāgabeku. òḻḻè vicāragaḻu namma manassigè haridu baruvaṃtirabeku, jīvaprītigè alli avakāśa virabeku. aṃtaha svātaṃtryave svarga."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಡಾ. ಎಂ. ಅಕಬರ ಅಲಿ ಅವರು 1925ರ ಮಾರ್ಚ್ 3ರಂದು ಬೆಳಗಾವಿ ಜಿಲ್ಲೆ, ಹುಕ್ಕೇರಿ ತಾಲ್ಲೂಕಿನ ಉಳ್ಳಾಗಡ್ಡಿ ಖಾನಾಪುರದಲ್ಲಿ ಜನಿಸಿದರು. ಬೆಳಗಾವಿ, ಸಾಂಗ್ಲಿ ಹಾಗೂ ಪುಣೆಗಳಲ್ಲಿ ತಮ್ಮ ವಿದ್ಯಾಭ್ಯಾಸ ನಡೆಸಿದರು. ಮೈಸೂರಿನ ಅಂಚೆ ಮತ್ತು ತೆರಪಿನ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆ (ಇಂದಿನ ಕರ್ನಾಟಕ ಮುಕ್ತ ವಿಶ್ವವಿದ್ಯಾನಿಲಯ)ಯಲ್ಲಿ ಪ್ರಾಧ್ಯಾಪಕರಾಗಿ ನಿವೃತ್ತರಾಗಿದ್ದಾರೆ. ಡಾ ಅಕಬರ ಅಲಿಯವರು ‘ವಿಷಸಿಂಧು’ ಎಂಬ ಅಷ್ಟ ಷಟ್ಪದಿಗಳ ಸಂಗ್ರಹವನ್ನೂ, ‘ನವಚೇತನ’ ‘ಗಂಧಕೇಶರ’, ‘ಸುಮನಸೌರಭ’ ಎಂಬ ಕವನ ಸಂಗ್ರಹಗಳನ್ನೂ, ‘ಅವ್ವ’ ಎಂಬ ಚುಟುಕುಗಳ ಸಂಗ್ರಹವನ್ನೂ, ‘ನಿರೀಕ್ಷೆಯಲ್ಲಿ’ ಎಂಬ ಕಾದಂಬರಿಯನ್ನೂ ರಚಿಸಿರುವರು. 1989ರಿಂದ ಕರ್ನಾಟಕ ವಿಧಾನ ಪರಿಷತ್ ಸದಸ್ಯರಾಗಿದ್ದರು. ಇವರಿಗೆ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡಮಿ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ. ಈ ಕವನವನ್ನು ಅವರ ‘ತಮಸಾನದಿ - ಎಡಬಲದಿ’ ಎಂಬ ಕವನ ಸಂಕಲನದಿಂದ ಆರಿಸಲಾಗಿದೆ.",
+      "translations": {
+        "en": "Dr M. Akbar Ali was born on 3 March 1925 at Ullagaddi Khanapur, Hukkeri taluk, Belagavi district. He studied in Belagavi, Sangli and Pune. He retired as professor at Mysore’s correspondence education institute (today’s Karnataka State Open University). He composed Vishasindhu, Navachetana, Gandhakeshara, Sumanasaurabha, Avva, and the novel Niriksheyalli. From 1989 he was a member of the Karnataka Legislative Council. He received the Karnataka Sahitya Academy award. This poem is selected from his collection Tamasaanadi - Edabaladi.",
+        "hi": "डॉ. एम. अकबर अली 3 मार्च 1925 को बेलगावी जिले में जन्मे। कन्नड़ साहित्य अकादमी पुरस्कार प्राप्त। यह कविता उनके ‘तमसानदी - एडबलदि’ से चुनी गई है।"
+      },
+      "transliterations": {
+        "devanagari": "डा. ऎं. अकबर अलि अवरु 1925र मार्च् 3रंदु बॆळगावि जिल्लॆ, हुक्केरि ताल्लूकिन उळ्ळागड्डि खानापुरदल्लि जनिसिदरु. बॆळगावि, सांग्लि हागू पुणॆगळल्लि तम्म विद्याभ्यास नडॆसिदरु. मैसूरिन अंचॆ मत्तु तॆरपिन शिक्षण संस्थॆ (इंदिन कर्नाटक मुक्त विश्वविद्यानिलय)यल्लि प्राध्यापकरागि निवृत्तरागिद्दारॆ. डा अकबर अलियवरु ‘विषसिंधु’ ऎंब अष्ट षट्पदिगळ संग्रहवन्नू, ‘नवचेतन’ ‘गंधकेशर’, ‘सुमनसौरभ’ ऎंब कवन संग्रहगळन्नू, ‘अव्व’ ऎंब चुटुकुगळ संग्रहवन्नू, ‘निरीक्षॆयल्लि’ ऎंब कादंबरियन्नू रचिसिरुवरु. 1989रिंद कर्नाटक विधान परिषत् सदस्यरागिद्दरु. इवरिगॆ कर्नाटक साहित्य अकाडमि प्रशस्ति लभिसिदॆ. ई कवनवन्नु अवर ‘तमसानदि - ऎडबलदि’ ऎंब कवन संकलनदिंद आरिसलागिदॆ.",
+        "latin": "ḍā. èṃ. akabara ali avaru 1925ra mārc 3raṃdu bèḻagāvi jillè, hukkeri tāllūkina uḻḻāgaḍḍi khānāpuradalli janisidaru. bèḻagāvi, sāṃgli hāgū puṇègaḻalli tamma vidyābhyāsa naḍèsidaru. maisūrina aṃcè mattu tèrapina śikṣaṇa saṃsthè (iṃdina karnāṭaka mukta viśvavidyānilaya)yalli prādhyāpakarāgi nivṛttarāgiddārè. ḍā akabara aliyavaru ‘viṣasiṃdhu’ èṃba aṣṭa ṣaṭpadigaḻa saṃgrahavannū, ‘navacetana’ ‘gaṃdhakeśara’, ‘sumanasaurabha’ èṃba kavana saṃgrahagaḻannū, ‘avva’ èṃba cuṭukugaḻa saṃgrahavannū, ‘nirīkṣèyalli’ èṃba kādaṃbariyannū racisiruvaru. 1989riṃda karnāṭaka vidhāna pariṣat sadasyarāgiddaru. ivarigè karnāṭaka sāhitya akāḍami praśasti labhisidè. ī kavanavannu avara ‘tamasānadi - èḍabaladi’ èṃba kavana saṃkalanadiṃda ārisalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-nirbhita",
+      "section": "vocab",
+      "text": "ನಿರ್ಭೀತ",
+      "translations": {
+        "en": "ನಿರ್ಭೀತ",
+        "hi": "ನಿರ್ಭೀತ"
+      },
+      "transliterations": {
+        "devanagari": "निर्भीत",
+        "latin": "nirbhīta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nirbhita-def",
+      "section": "vocab",
+      "text": "ಭಯವಿಲ್ಲದ",
+      "translations": {
+        "en": "without fear",
+        "hi": "भय रहित"
+      },
+      "transliterations": {
+        "devanagari": "भयविल्लद",
+        "latin": "bhayavillada"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-mastaka",
+      "section": "vocab",
+      "text": "ಮಸ್ತಕ",
+      "translations": {
+        "en": "ಮಸ್ತಕ",
+        "hi": "ಮಸ್ತಕ"
+      },
+      "transliterations": {
+        "devanagari": "मस्तक",
+        "latin": "mastaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mastaka-def",
+      "section": "vocab",
+      "text": "ತಲೆ",
+      "translations": {
+        "en": "head"
+      },
+      "transliterations": {
+        "devanagari": "तलॆ",
+        "latin": "talè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-holu",
+      "section": "vocab",
+      "text": "ಹೋಳು",
+      "translations": {
+        "en": "ಹೋಳು",
+        "hi": "ಹೋಳು"
+      },
+      "transliterations": {
+        "devanagari": "होळु",
+        "latin": "hoḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-holu-def",
+      "section": "vocab",
+      "text": "ತುಂಡು",
+      "translations": {
+        "en": "piece, fragment"
+      },
+      "transliterations": {
+        "devanagari": "तुंडु",
+        "latin": "tuṃḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-haraha",
+      "section": "vocab",
+      "text": "ಹರಹ",
+      "translations": {
+        "en": "ಹರಹ",
+        "hi": "ಹರಹ"
+      },
+      "transliterations": {
+        "devanagari": "हरह",
+        "latin": "haraha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haraha-def",
+      "section": "vocab",
+      "text": "ವಿಸ್ತಾರ",
+      "translations": {
+        "en": "expanse"
+      },
+      "transliterations": {
+        "devanagari": "विस्तार",
+        "latin": "vistāra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vahini",
+      "section": "vocab",
+      "text": "ವಾಹಿನಿ",
+      "translations": {
+        "en": "ವಾಹಿನಿ",
+        "hi": "ವಾಹಿನಿ"
+      },
+      "transliterations": {
+        "devanagari": "वाहिनि",
+        "latin": "vāhini"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vahini-def",
+      "section": "vocab",
+      "text": "ನದಿ",
+      "translations": {
+        "en": "river"
+      },
+      "transliterations": {
+        "devanagari": "नदि",
+        "latin": "nadi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-harigadiyade",
+      "section": "vocab",
+      "text": "ಹರಿಗಡಿಯದೆ",
+      "translations": {
+        "en": "ಹರಿಗಡಿಯದೆ",
+        "hi": "ಹರಿಗಡಿಯದೆ"
+      },
+      "transliterations": {
+        "devanagari": "हरिगडियदॆ",
+        "latin": "harigaḍiyadè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-harigadiyade-def",
+      "section": "vocab",
+      "text": "ಹರಿಯುವಿಕೆಯು ನಿಲ್ಲದೆ",
+      "translations": {
+        "en": "without the flow stopping"
+      },
+      "transliterations": {
+        "devanagari": "हरियुविकॆयु निल्लदॆ",
+        "latin": "hariyuvikèyu nilladè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vaishalya",
+      "section": "vocab",
+      "text": "ವೈಶಾಲ್ಯ",
+      "translations": {
+        "en": "ವೈಶಾಲ್ಯ",
+        "hi": "ವೈಶಾಲ್ಯ"
+      },
+      "transliterations": {
+        "devanagari": "वैशाल्य",
+        "latin": "vaiśālya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vaishalya-def",
+      "section": "vocab",
+      "text": "ವಿಶಾಲತೆ",
+      "translations": {
+        "en": "vastness"
+      },
+      "transliterations": {
+        "devanagari": "विशालतॆ",
+        "latin": "viśālatè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhruvatara",
+      "section": "vocab",
+      "text": "ಧ್ರುವತಾರೆ",
+      "translations": {
+        "en": "ಧ್ರುವತಾರೆ",
+        "hi": "ಧ್ರುವತಾರೆ"
+      },
+      "transliterations": {
+        "devanagari": "ध्रुवतारॆ",
+        "latin": "dhruvatārè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhruvatara-def",
+      "section": "vocab",
+      "text": "ಧ್ರುವನಕ್ಷತ್ರ (ಸ್ಥಿರವಾದ ಲಕ್ಷ್ಯ)",
+      "translations": {
+        "en": "pole star (a fixed aim)",
+        "hi": "ध्रुव तारा (स्थिर लक्ष्य)"
+      },
+      "transliterations": {
+        "devanagari": "ध्रुवनक्षत्र (स्थिरवाद लक्ष्य)",
+        "latin": "dhruvanakṣatra (sthiravāda lakṣya)"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nirmukta",
+      "section": "vocab",
+      "text": "ನಿರ್ಮುಕ್ತ",
+      "translations": {
+        "en": "ನಿರ್ಮುಕ್ತ",
+        "hi": "ನಿರ್ಮುಕ್ತ"
+      },
+      "transliterations": {
+        "devanagari": "निर्मुक्त",
+        "latin": "nirmukta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nirmukta-def",
+      "section": "vocab",
+      "text": "ಸರ್ವಸ್ವತಂತ್ರ",
+      "translations": {
+        "en": "completely free",
+        "hi": "पूर्ण स्वतंत्र"
+      },
+      "transliterations": {
+        "devanagari": "सर्वस्वतंत्र",
+        "latin": "sarvasvataṃtra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗದಲಿ ಅಭಿಮಾನಧನವೆನಿಪ ಮಸ್ತಕವು ಹೇಗಿರುತ್ತದೆ?",
+      "translations": {
+        "en": "In freedom-heaven how does the head that is wealth of pride stand?",
+        "hi": "स्वतंत्रता स्वर्ग में अभिमान-धन मस्तक कैसा रहता है?"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य स्वर्गदलि अभिमानधनवॆनिप मस्तकवु हेगिरुत्तदॆ?",
+        "latin": "svātaṃtrya svargadali abhimānadhanavènipa mastakavu hegiruttadè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಕವಿಯು ಬಾಳು ಹೇಗಿರಬೇಕೆಂದು ಆಶಿಸಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "How does the poet wish life should be?",
+        "hi": "कवि जीवन कैसा चाहता है?"
+      },
+      "transliterations": {
+        "devanagari": "कवियु बाळु हेगिरबेकॆंदु आशिसिद्दारॆ?",
+        "latin": "kaviyu bāḻu hegirabekèṃdu āśisiddārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಕವಿಯು ಸಂಪ್ರದಾಯದ ಅನಿಷ್ಟ ರೂಢಿ ನಿಯಮಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "translations": {
+        "en": "What does the poet call tradition’s harmful customs and rules?",
+        "hi": "कवि परंपरा के अनिष्ट रीति-नियमों को क्या कहते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "कवियु संप्रदायद अनिष्ट रूढि नियमगळन्नु एनॆंदु करॆयुत्तारॆ?",
+        "latin": "kaviyu saṃpradāyada aniṣṭa rūḍhi niyamagaḻannu enèṃdu karèyuttārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಧ್ರುವತಾರೆ ಎಂದು ಕವಿ ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+      "translations": {
+        "en": "Whom does the poet call the pole star?",
+        "hi": "ध्रुवतारे किसे कहते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "ध्रुवतारॆ ऎंदु कवि यारन्नु करॆयुत्तारॆ?",
+        "latin": "dhruvatārè èṃdu kavi yārannu karèyuttārè?"
+      },
+      "type": "question"
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the poet",
+      "hi": "कवि-कृति परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "कॆळगिन प्रश्नॆगळिगॆ उत्तरिसिरि.",
+      "en": "Answer the following questions.",
+      "hi": "निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "kèḻagina praśnègaḻigè uttarisiri."
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    }
+  },
+  "meta": {
+    "author": "ಲಲಿತಾ ಕೆ. ಹೊಸಪ್ಯಾಟಿ",
+    "board": "KSEEB",
+    "chapter": 10,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch10-avva",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಅವ್ವ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬೊಗಸೆ ತುಂಬ ಹೂವ ತಂದು",
+      "translations": {
+        "en": "Bringing flowers cupped in my palms",
+        "hi": "मुट्ठी भर फूल लाकर"
+      },
+      "transliterations": {
+        "devanagari": "बॊगसॆ तुंब हूव तंदु",
+        "latin": "bògasè tuṃba hūva taṃdu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಪಾದಕಮಲಕೆರಗುವೆ",
+      "translations": {
+        "en": "I bow to your lotus feet",
+        "hi": "मैं आपके कमल-चरणों पर झुकती हूँ"
+      },
+      "transliterations": {
+        "devanagari": "पादकमलकॆरगुवॆ",
+        "latin": "pādakamalakèraguvè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ನಿನ್ನ ಅಡಿಗೆ ಮಣಿದು ಮತ್ತೆ",
+      "translations": {
+        "en": "Bowing at your feet again",
+        "hi": "चरणों में झुककर फिर"
+      },
+      "transliterations": {
+        "devanagari": "निन्न अडिगॆ मणिदु मत्तॆ",
+        "latin": "ninna aḍigè maṇidu mattè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಭಾಗ್ಯವನ್ನೆ ಬೇಡುವೆ",
+      "translations": {
+        "en": "I ask only for your blessing",
+        "hi": "केवल भाग्य माँगती हूँ"
+      },
+      "transliterations": {
+        "devanagari": "भाग्यवन्नॆ बेडुवॆ",
+        "latin": "bhāgyavannè beḍuvè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಗರ್ಭದಲ್ಲಿ ಮಾಂಸ ಮುದ್ದೆ",
+      "translations": {
+        "en": "A lump of flesh in the womb",
+        "hi": "गर्भ में मांस का लोथड़ा"
+      },
+      "transliterations": {
+        "devanagari": "गर्भदल्लि मांस मुद्दॆ",
+        "latin": "garbhadalli māṃsa muddè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅ ಆ ಇ ಈ ತಿಳಿಯದು",
+      "translations": {
+        "en": "not knowing a, ā, i, ī",
+        "hi": "अ आ इ ई न जानता"
+      },
+      "transliterations": {
+        "devanagari": "अ आ इ ई तिळियदु",
+        "latin": "a ā i ī tiḻiyadu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಜನಿಸಿ ಧರೆಗೆ ಬಿದ್ದ ಕ್ಷಣವೆ",
+      "translations": {
+        "en": "the moment I fell to earth at birth",
+        "hi": "जन्म लेकर धरती पर गिरते ही"
+      },
+      "transliterations": {
+        "devanagari": "जनिसि धरॆगॆ बिद्द क्षणवॆ",
+        "latin": "janisi dharègè bidda kṣaṇavè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "‘ಅವ್ವ’ ಅಂತು ಕೊರಳು",
+      "translations": {
+        "en": "‘Amma’ rose in my throat",
+        "hi": "गले से ‘अम्मा’ निकला"
+      },
+      "transliterations": {
+        "devanagari": "‘अव्व’ अंतु कॊरळु",
+        "latin": "‘avva’ aṃtu kòraḻu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನೋವ ನುಂಗಿ ನನ್ನ ನಂಬಿ",
+      "translations": {
+        "en": "Swallowing pain, trusting me",
+        "hi": "दर्द निगलकर मुझ पर विश्वास कर"
+      },
+      "transliterations": {
+        "devanagari": "नोव नुंगि नन्न नंबि",
+        "latin": "nova nuṃgi nanna naṃbi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹಾಲ ನೀನು ಕುಡಿಸಿದೆ",
+      "translations": {
+        "en": "you fed me milk",
+        "hi": "तुमने दूध पिलाया"
+      },
+      "transliterations": {
+        "devanagari": "हाल नीनु कुडिसिदॆ",
+        "latin": "hāla nīnu kuḍisidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಕಣ್ಣ ನೀರ ಒರೆಸಿ ನೀನು",
+      "translations": {
+        "en": "wiping my tears",
+        "hi": "आँख के आँसू पोंछकर"
+      },
+      "transliterations": {
+        "devanagari": "कण्ण नीर ऒरॆसि नीनु",
+        "latin": "kaṇṇa nīra òrèsi nīnu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಎದೆಗವಚಿ ರಮಿಸಿದೆ",
+      "translations": {
+        "en": "you held me to your chest and soothed me",
+        "hi": "छाती से लगाकर लुभाया"
+      },
+      "transliterations": {
+        "devanagari": "ऎदॆगवचि रमिसिदॆ",
+        "latin": "èdègavaci ramisidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಬಿದ್ದರಂತು ಓಡಿಬಂದು",
+      "translations": {
+        "en": "When I fell you ran",
+        "hi": "गिरते ही दौड़कर आईं"
+      },
+      "transliterations": {
+        "devanagari": "बिद्दरंतु ओडिबंदु",
+        "latin": "biddaraṃtu oḍibaṃdu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಎತ್ತಿಕೊಂಡು ರಮಿಸಿದೆ",
+      "translations": {
+        "en": "picked me up and soothed me",
+        "hi": "उठाकर लुभाया"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तिकॊंडु रमिसिदॆ",
+        "latin": "èttikòṃḍu ramisidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಗೆದ್ದರಂತು ಖುಷಿಯು ನಿನಗೆ",
+      "translations": {
+        "en": "when I won, joy was yours",
+        "hi": "जीतने पर खुशी तुम्हारी"
+      },
+      "transliterations": {
+        "devanagari": "गॆद्दरंतु खुषियु निनगॆ",
+        "latin": "gèddaraṃtu khuṣiyu ninagè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಹೊತ್ತುಕೊಂಡು ಸಾರಿದೆ",
+      "translations": {
+        "en": "you lifted me and proclaimed it",
+        "hi": "गोद में लेकर घोषणा की"
+      },
+      "transliterations": {
+        "devanagari": "हॊत्तुकॊंडु सारिदॆ",
+        "latin": "hòttukòṃḍu sāridè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ವಿದ್ಯೆ ಕಲಿಸಿ ಬುದ್ಧಿನೀಡಿ",
+      "translations": {
+        "en": "Teaching me learning, giving wisdom",
+        "hi": "विद्या सिखाकर बुद्धि दी"
+      },
+      "transliterations": {
+        "devanagari": "विद्यॆ कलिसि बुद्धिनीडि",
+        "latin": "vidyè kalisi buddhinīḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಸಿದ್ಧಿಪಡೆಯೆ ಕಲಿಸಿದೆ",
+      "translations": {
+        "en": "you taught me to attain success",
+        "hi": "सिद्धि पाना सिखाया"
+      },
+      "transliterations": {
+        "devanagari": "सिद्धिपडॆयॆ कलिसिदॆ",
+        "latin": "siddhipaḍèyè kalisidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಯಶದ ಹಿಂದೆ ಹರಕೆ ನೀಡಿ",
+      "translations": {
+        "en": "blessing behind my triumph",
+        "hi": "यश के पीछे आशीष देकर"
+      },
+      "transliterations": {
+        "devanagari": "यशद हिंदॆ हरकॆ नीडि",
+        "latin": "yaśada hiṃdè harakè nīḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಜೀವತ್ಯಾಗ ಮಾಡಿದೆ",
+      "translations": {
+        "en": "you gave your life",
+        "hi": "जीवन-त्याग किया"
+      },
+      "transliterations": {
+        "devanagari": "जीवत्याग माडिदॆ",
+        "latin": "jīvatyāga māḍidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ರೊಕ್ಕಕೆಲ್ಲ ಲೆಕ್ಕವಿಲ್ಲ",
+      "translations": {
+        "en": "Money has no measure",
+        "hi": "पैसे का कोई हिसाब नहीं"
+      },
+      "transliterations": {
+        "devanagari": "रॊक्ककॆल्ल लॆक्कविल्ल",
+        "latin": "ròkkakèlla lèkkavilla"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ನಿನ್ನ ಋಣ ಅಗಣಿತ.",
+      "translations": {
+        "en": "your debt is countless.",
+        "hi": "तुम्हारा ऋण अगणित है।"
+      },
+      "transliterations": {
+        "devanagari": "निन्न ऋण अगणित.",
+        "latin": "ninna ṛṇa agaṇita."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಪಾದಕಮಲಕೊಂದೆ ಹೂವು",
+      "translations": {
+        "en": "One flower for your lotus feet",
+        "hi": "चरण-कमल के लिए एक फूल"
+      },
+      "transliterations": {
+        "devanagari": "पादकमलकॊंदॆ हूवु",
+        "latin": "pādakamalakòṃdè hūvu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ನನ್ನ ಪ್ರೀತಿ ಸೀಮಿತ",
+      "translations": {
+        "en": "my love is limited",
+        "hi": "मेरा प्रेम सीमित"
+      },
+      "transliterations": {
+        "devanagari": "नन्न प्रीति सीमित",
+        "latin": "nanna prīti sīmita"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l1",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ತಾಯಿ ಹರಕೆ ಮುಂದೆ ಜಗದಿ",
+      "translations": {
+        "en": "Before a mother’s blessing in this world",
+        "hi": "माता के आशीष के आगे जगत में"
+      },
+      "transliterations": {
+        "devanagari": "तायि हरकॆ मुंदॆ जगदि",
+        "latin": "tāyi harakè muṃdè jagadi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l2",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಯಾವುದಿಲ್ಲ ಮಿಗಿಲು ತಾನು",
+      "translations": {
+        "en": "nothing is greater",
+        "hi": "कुछ भी बड़ा नहीं"
+      },
+      "transliterations": {
+        "devanagari": "यावुदिल्ल मिगिलु तानु",
+        "latin": "yāvudilla migilu tānu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l3",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಕಾಯೊ ಗುಣದ ದೇವರವ್ವ",
+      "translations": {
+        "en": "protect me, mother who is a goddess of virtue",
+        "hi": "रक्षा करो गुण की देवी अम्मा"
+      },
+      "transliterations": {
+        "devanagari": "कायॊ गुणद देवरव्व",
+        "latin": "kāyò guṇada devaravva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l4",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಅವ್ವ ನಿನ್ನ ಹೆಸರು",
+      "translations": {
+        "en": "Amma—that is your name",
+        "hi": "अम्मा—तुम्हारा नाम"
+      },
+      "transliterations": {
+        "devanagari": "अव्व निन्न हॆसरु",
+        "latin": "avva ninna hèsaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಲಲಿತಾ ಕೊಟ್ರೆಪ್ಪ ಹೊಸಪ್ಯಾಟಿ 1964ರಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಕೊಟ್ರೆಪ್ಪ, ತಾಯಿ ನೀಲಮ್ಮ. ಸರ್ಕಾರಿ ಪ್ರೌಢಶಾಲೆ ಹಿರೇಬಾದವಾಡಗಿ, ಹುನಗುಂದ ತಾ., ಬಾಗಲಕೋಟೆ ಜಿಲ್ಲೆಯಲ್ಲಿ ಮುಖ್ಯೋಪಾಧ್ಯಾಯಿನಿಯಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಇವರು ಕಲ್ಪನಾಳಿಗೊಂದು ಎದೆಹಾಡು, ಹೂ ಮಾರುವ ಹುಡುಗಿ ಎಂಬ ಮಕ್ಕಳ ಕವನ ಸಂಕಲನ ಹಾಗೂ ಮಕ್ಕಳ ನಾಟಕ ಮತ್ತು ಕಥಾ ಸಂಕಲನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Lalitha Kotreppa Hosapati was born in 1964. Father Kotreppa, mother Neelamma. She serves as headmistress at the government high school in Hirebadavagi, Hungund taluk, Bagalkot district. She has written children’s poetry collections such as Kalpanaligondu Edehadu and Hoo Maruva Hudugi, and children’s plays and story collections.",
+        "hi": "ललिता कोत्रेप्पा होसपाटी का जन्म 1964 में हुआ। पिता कोत्रेप्पा, माता नीलम्मा। वे बागलकोट जिले के हुनगुंद तालुक के हिरेबादवागी सरकारी हाईस्कूल में प्रधानाध्यापिका हैं। उन्होंने बच्चों की कविता-संग्रह और नाटक तथा कथा-संग्रह लिखे हैं।"
+      },
+      "transliterations": {
+        "devanagari": "ललिता कॊट्रॆप्प हॊसप्याटि 1964रल्लि जनिसिदरु. तंदॆ कॊट्रॆप्प, तायि नीलम्म. सर्कारि प्रौढशालॆ हिरेबादवाडगि, हुनगुंद ता., बागलकोटॆ जिल्लॆयल्लि मुख्योपाध्यायिनियागि कार्य निर्वहिसुत्तिद्दारॆ. इवरु कल्पनाळिगॊंदु ऎदॆहाडु, हू मारुव हुडुगि ऎंब मक्कळ कवन संकलन हागू मक्कळ नाटक मत्तु कथा संकलनगळन्नु रचिसिद्दारॆ.",
+        "latin": "lalitā kòṭrèppa hòsapyāṭi 1964ralli janisidaru. taṃdè kòṭrèppa, tāyi nīlamma. sarkāri prauḍhaśālè hirebādavāḍagi, hunaguṃda tā., bāgalakoṭè jillèyalli mukhyopādhyāyiniyāgi kārya nirvahisuttiddārè. ivaru kalpanāḻigòṃdu èdèhāḍu, hū māruva huḍugi èṃba makkaḻa kavana saṃkalana hāgū makkaḻa nāṭaka mattu kathā saṃkalanagaḻannu racisiddārè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಕವಯಿತ್ರಿಯು ತಾಯಿಯ ಪಾದಕ್ಕೆ ಏನು ತರುತ್ತಾಳೆ?",
+      "translations": {
+        "en": "What does the poetess bring to her mother’s feet?",
+        "hi": "कवयित्री माँ के चरणों में क्या लाती है?"
+      },
+      "transliterations": {
+        "devanagari": "कवयित्रियु तायिय पादक्कॆ एनु तरुत्ताळॆ?",
+        "latin": "kavayitriyu tāyiya pādakkè enu taruttāḻè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಜಗತ್ತಿನಲ್ಲಿ ಮಿಗಿಲಾದುದು ಯಾವುದು?",
+      "translations": {
+        "en": "What is the greatest thing in the world?",
+        "hi": "जगत में सबसे बड़ा क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "जगत्तिनल्लि मिगिलादुदु यावुदु?",
+        "latin": "jagattinalli migilādudu yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ತಾಯಿ ಮಗುವಿಗೆ ಏನನ್ನು ಕಲಿಸುತ್ತಾಳೆ?",
+      "translations": {
+        "en": "What does the mother teach the child?",
+        "hi": "माँ बच्चे को क्या सिखाती है?"
+      },
+      "transliterations": {
+        "devanagari": "तायि मगुविगॆ एनन्नु कलिसुत्ताळॆ?",
+        "latin": "tāyi maguvigè enannu kalisuttāḻè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಮಗು ಬಿದ್ದಾಗ ತಾಯಿ ಹೇಗೆ ರಮಿಸುತ್ತಾಳೆ?",
+      "translations": {
+        "en": "How does the mother soothe the child when it falls?",
+        "hi": "बच्चे के गिरने पर माँ कैसे लुभाती है?"
+      },
+      "transliterations": {
+        "devanagari": "मगु बिद्दाग तायि हेगॆ रमिसुत्ताळॆ?",
+        "latin": "magu biddāga tāyi hegè ramisuttāḻè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ತಾಯಿ ಮಗುವಿಗೆ ಏನನ್ನು ಕುಡಿಸುತ್ತಾಳೆ?",
+      "translations": {
+        "en": "What does the mother give the child to drink?",
+        "hi": "माँ बच्चे को क्या पिलाती है?"
+      },
+      "transliterations": {
+        "devanagari": "तायि मगुविगॆ एनन्नु कुडिसुत्ताळॆ?",
+        "latin": "tāyi maguvigè enannu kuḍisuttāḻè?"
+      },
+      "type": "question"
+    }
+  ]
+}

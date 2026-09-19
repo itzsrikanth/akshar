@@ -1,0 +1,1189 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g6-fl-p1",
+    "chapterId": "ch05-besige",
+    "editionId": "2026-27",
+    "number": 5
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the poet",
+      "hi": "कवि-कृति परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॆळगिन प्रश्नॆगळिगॆ उत्तरिसिरि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "a. kèḻagina praśnègaḻigè uttarisiri."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॆळगिन पदगळिगॆ तला ऎरडु समानार्थक पदगळन्नु बरॆयिरि.",
+      "en": "B. Write two synonyms for each word.",
+      "hi": "आ. प्रत्येक शब्द के दो पर्याय लिखिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪದಗಳಿಗೆ ತಲಾ ಎರಡು ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "ā. kèḻagina padagaḻigè talā èraḍu samānārthaka padagaḻannu barèyiri."
+    },
+    "exercise-C": {
+      "devanagari": "इ. ई पदगळन्नु बळसि स्वंत वाक्य बरॆयिरि.",
+      "en": "C. Use these words in your own sentences.",
+      "hi": "इ. इन शब्दों से अपने वाक्य बनाइए।",
+      "kn": "ಇ. ಈ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ಬರೆಯಿರಿ.",
+      "latin": "i. ī padagaḻannu baḻasi svaṃta vākya barèyiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. बेसिगॆ पद्यद सारांशवन्नु निम्म मातुगळल्लि बरॆयिरि.",
+      "en": "D. Write the gist of the poem Besige in your own words.",
+      "hi": "ई. बेसिगे पद्य का सार अपने शब्दों में लिखिए।",
+      "kn": "ಈ. ಬೇಸಿಗೆ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "latin": "ī. besigè padyada sārāṃśavannu nimma mātugaḻalli barèyiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಬಿ.ಆರ್. ಲಕ್ಷ್ಮಣರಾವ್",
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch05-besige",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಬೇಸಿಗೆ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಮಾನವರಾದ ನಾವು ಪ್ರಕೃತಿಯಿಂದ ಕಲಿಯಬೇಕಾದದ್ದು ಅಪಾರ. ಪ್ರಕೃತಿಯ ಪ್ರತಿಯೊಂದು ವಸ್ತುವೂ ಪರಸ್ಪರ ಸಂಬಂಧವುಳ್ಳದ್ದಾಗಿರುತ್ತವೆ. ಅಂತೆಯೇ ಋತುಮಾನಗಳು ಕೂಡ ಅವು ಬದಲಾದಂತೆ ಹವಾಮಾನವು ಏರುಪೇರಾಗುತ್ತಿರುತ್ತದೆ. ಒಮ್ಮೆ ಪ್ರಖರವಾದ ಬಿಸಿಲು, ಮತ್ತೊಮ್ಮೆ ಗಡಗಡ ನಡುಗುವ ಚಳಿ, ಮಳೆ, ಗಾಳಿ-ಹೀಗೆ ಏನೇ ಆದರೂ ಯಾವುದೇ ಕೆಲಸಕಾರ್ಯಗಳು ನಿಲ್ಲುವುದಿಲ್ಲ. ಪ್ರಕೃತಿಯು ಸಮತೋಲನವನ್ನು ಕಾಯ್ದುಕೊಂಡು ತನ್ನ ಪಾಲಿನ ಕೆಲಸವನ್ನು ಸದಾ ನಿರ್ವಹಿಸುತ್ತ ಇರುತ್ತದೆ.",
+      "translations": {
+        "en": "We humans have much to learn from nature. Every object in nature is interrelated. Likewise, as the seasons change, the weather rises and falls. Once scorching sun, another time shivering cold, rain, wind—whatever happens, work never stops. Nature keeps its balance and always does its share of work.",
+        "hi": "हम मनुष्यों को प्रकृति से बहुत कुछ सीखना है। प्रकृति की प्रत्येक वस्तु परस्पर संबंधित है। ऋतुएँ बदलती हैं तो मौसम भी बदलता है। कभी प्रखर धूप, कभी ठंड, वर्षा, हवा—फिर भी काम नहीं रुकते। प्रकृति संतुलन रखकर अपना काम सदा करती रहती है।"
+      },
+      "transliterations": {
+        "devanagari": "मानवराद नावु प्रकृतियिंद कलियबेकादद्दु अपार. प्रकृतिय प्रतियॊंदु वस्तुवू परस्पर संबंधवुळ्ळद्दागिरुत्तवॆ. अंतॆये ऋतुमानगळु कूड अवु बदलादंतॆ हवामानवु एरुपेरागुत्तिरुत्तदॆ. ऒम्मॆ प्रखरवाद बिसिलु, मत्तॊम्मॆ गडगड नडुगुव चळि, मळॆ, गाळि-हीगॆ एने आदरू यावुदे कॆलसकार्यगळु निल्लुवुदिल्ल. प्रकृतियु समतोलनवन्नु काय्दुकॊंडु तन्न पालिन कॆलसवन्नु सदा निर्वहिसुत्त इरुत्तदॆ.",
+        "latin": "mānavarāda nāvu prakṛtiyiṃda kaliyabekādaddu apāra. prakṛtiya pratiyòṃdu vastuvū paraspara saṃbaṃdhavuḻḻaddāgiruttavè. aṃtèye ṛtumānagaḻu kūḍa avu badalādaṃtè havāmānavu eruperāguttiruttadè. òmmè prakharavāda bisilu, mattòmmè gaḍagaḍa naḍuguva caḻi, maḻè, gāḻi-hīgè ene ādarū yāvude kèlasakāryagaḻu nilluvudilla. prakṛtiyu samatolanavannu kāydukòṃḍu tanna pālina kèlasavannu sadā nirvahisutta iruttadè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬಂದಿದೆ ಬೇಸಿಗೆ ರಜಾ",
+      "translations": {
+        "en": "Summer holidays have come",
+        "hi": "गर्मी की छुट्टी आ गई"
+      },
+      "transliterations": {
+        "devanagari": "बंदिदॆ बेसिगॆ रजा",
+        "latin": "baṃdidè besigè rajā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಇದ್ದರೂ ಬಿಸಿಲಿನ ಸಜಾ",
+      "translations": {
+        "en": "yet there is the sun’s punishment",
+        "hi": "फिर भी धूप की सज़ा है"
+      },
+      "transliterations": {
+        "devanagari": "इद्दरू बिसिलिन सजा",
+        "latin": "iddarū bisilina sajā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬನ್ನಿ ಆಡೋಣ,",
+      "translations": {
+        "en": "Come, let’s play,",
+        "hi": "आओ खेलें,"
+      },
+      "transliterations": {
+        "devanagari": "बन्नि आडोण,",
+        "latin": "banni āḍoṇa,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಸೂರ್ಯನ ಮಹಿಮೆಯ ಹಾಡೋಣ.",
+      "translations": {
+        "en": "let’s sing of the sun’s glory.",
+        "hi": "सूर्य की महिमा गाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "सूर्यन महिमॆय हाडोण.",
+        "latin": "sūryana mahimèya hāḍoṇa."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಏಕೆ ರವಿಗಿಂತ ತಾಪ?",
+      "translations": {
+        "en": "Why hotter than the sun?",
+        "hi": "सूर्य से अधिक ताप क्यों?"
+      },
+      "transliterations": {
+        "devanagari": "एकॆ रविगिंत ताप?",
+        "latin": "ekè ravigiṃta tāpa?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಯಾರ ಮೇಲವನ ಕೋಪ?",
+      "translations": {
+        "en": "On whom is his anger?",
+        "hi": "किस पर उसका क्रोध?"
+      },
+      "transliterations": {
+        "devanagari": "यार मेलवन कोप?",
+        "latin": "yāra melavana kopa?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಎಂದು ಹಳಿಯಬೇಡಿ,",
+      "translations": {
+        "en": "Don’t blame him so,",
+        "hi": "ऐसा दोष मत दो,"
+      },
+      "transliterations": {
+        "devanagari": "ऎंदु हळियबेडि,",
+        "latin": "èṃdu haḻiyabeḍi,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಸೂರ್ಯನ ತಪ್ಪು ತಿಳಿಯಬೇಡಿ,",
+      "translations": {
+        "en": "don’t take the sun as at fault,",
+        "hi": "सूर्य को दोषी मत समझो,"
+      },
+      "transliterations": {
+        "devanagari": "सूर्यन तप्पु तिळियबेडि,",
+        "latin": "sūryana tappu tiḻiyabeḍi,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಮೋಡ ಕೂಡಿಸಲು, ಇಳೆಗೆ ಮಳೆ ತರಲು",
+      "translations": {
+        "en": "To gather clouds, to bring rain to the earth",
+        "hi": "बादल जोड़ने, धरती पर वर्षा लाने"
+      },
+      "transliterations": {
+        "devanagari": "मोड कूडिसलु, इळॆगॆ मळॆ तरलु",
+        "latin": "moḍa kūḍisalu, iḻègè maḻè taralu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ದುಡಿಯುತಿಹನು, ಪಾಪ!",
+      "translations": {
+        "en": "he toils, poor thing!",
+        "hi": "वह मेहनत करता है, बेचारा!"
+      },
+      "transliterations": {
+        "devanagari": "दुडियुतिहनु, पाप!",
+        "latin": "duḍiyutihanu, pāpa!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಭೂಮಿಯ ಪೋಷಕ ಸೂರ್ಯ",
+      "translations": {
+        "en": "The sun, nourisher of the earth",
+        "hi": "धरती का पोषक सूर्य"
+      },
+      "transliterations": {
+        "devanagari": "भूमिय पोषक सूर्य",
+        "latin": "bhūmiya poṣaka sūrya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಭೂಮಿಗವನು ಅನಿವಾರ್ಯ",
+      "translations": {
+        "en": "is indispensable to the earth",
+        "hi": "धरती के लिए अनिवार्य"
+      },
+      "transliterations": {
+        "devanagari": "भूमिगवनु अनिवार्य",
+        "latin": "bhūmigavanu anivārya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹೊಗಳಿಕೆ ಬೇಕಿಲ್ಲ,",
+      "translations": {
+        "en": "He needs no praise,",
+        "hi": "प्रशंसा नहीं चाहिए,"
+      },
+      "transliterations": {
+        "devanagari": "हॊगळिकॆ बेकिल्ल,",
+        "latin": "hògaḻikè bekilla,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತೆಗಳಿದರೆ ಅವ ಕುಗ್ಗುವುದಿಲ್ಲ.",
+      "translations": {
+        "en": "blame does not shrink him.",
+        "hi": "निंदा से वह नहीं सिकुड़ता।"
+      },
+      "transliterations": {
+        "devanagari": "तॆगळिदरॆ अव कुग्गुवुदिल्ल.",
+        "latin": "tègaḻidarè ava kugguvudilla."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಬೆಳಕ ನೀಡುವನು, ಬಿಸಿಯನೂಡುವನು",
+      "translations": {
+        "en": "He gives light, he sends heat",
+        "hi": "प्रकाश देता, गर्मी भेजता"
+      },
+      "transliterations": {
+        "devanagari": "बॆळक नीडुवनु, बिसियनूडुवनु",
+        "latin": "bèḻaka nīḍuvanu, bisiyanūḍuvanu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l6",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಮರೆಯದೆ ಕರ್ತವ್ಯ.",
+      "translations": {
+        "en": "never forgetting duty.",
+        "hi": "कर्तव्य नहीं भूलता।"
+      },
+      "transliterations": {
+        "devanagari": "मरॆयदॆ कर्तव्य.",
+        "latin": "marèyadè kartavya."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇಂಥ ಬಿರು ಬಿಸಿಲಿನಲ್ಲಿ",
+      "translations": {
+        "en": "In such fierce heat",
+        "hi": "इतनी तेज धूप में भी"
+      },
+      "transliterations": {
+        "devanagari": "इंथ बिरु बिसिलिनल्लि",
+        "latin": "iṃtha biru bisilinalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮರಾ ಗಿಡಾ ಪೊದೆ ಬಳ್ಳಿ",
+      "translations": {
+        "en": "trees, plants, bushes, vines",
+        "hi": "पेड़-पौधे, झाड़ियाँ, लताएँ"
+      },
+      "transliterations": {
+        "devanagari": "मरा गिडा पॊदॆ बळ्ळि",
+        "latin": "marā giḍā pòdè baḻḻi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕಂಗಾಲಾಗಿಲ್ಲ,",
+      "translations": {
+        "en": "are not distressed,",
+        "hi": "व्याकुल नहीं,"
+      },
+      "transliterations": {
+        "devanagari": "कंगालागिल्ल,",
+        "latin": "kaṃgālāgilla,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನೋಡಿ ರಂಗಾಗಿವೆ ಎಲ್ಲ",
+      "translations": {
+        "en": "see—they all look splendid",
+        "hi": "देखो—सब रंगे हैं"
+      },
+      "transliterations": {
+        "devanagari": "नोडि रंगागिवॆ ऎल्ल",
+        "latin": "noḍi raṃgāgivè èlla"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಚಿಗುರು ಹೂತೊಟ್ಟು, ಹಣ್ಣು ಮಿಡಿ ಬಿಟ್ಟು,",
+      "translations": {
+        "en": "sprouting, flowering, fruit setting,",
+        "hi": "कोंपल, फूल, फल"
+      },
+      "transliterations": {
+        "devanagari": "चिगुरु हूतॊट्टु, हण्णु मिडि बिट्टु,",
+        "latin": "ciguru hūtòṭṭu, haṇṇu miḍi biṭṭu,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l6",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇವೆ ಸಂಭ್ರಮದಲ್ಲಿ.",
+      "translations": {
+        "en": "they are in celebration.",
+        "hi": "उत्साह में हैं।"
+      },
+      "transliterations": {
+        "devanagari": "इवॆ संभ्रमदल्लि.",
+        "latin": "ivè saṃbhramadalli."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಸೂರ್ಯನಿಂದ ಕಲಿಯೋಣ.",
+      "translations": {
+        "en": "Let’s learn from the sun.",
+        "hi": "सूर्य से सीखें।"
+      },
+      "transliterations": {
+        "devanagari": "सूर्यनिंद कलियोण.",
+        "latin": "sūryaniṃda kaliyoṇa."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಪ್ರಕೃತಿಯಂತೆ ನಲಿಯೋಣ.",
+      "translations": {
+        "en": "Let’s rejoice like nature.",
+        "hi": "प्रकृति की तरह आनंद लें।"
+      },
+      "transliterations": {
+        "devanagari": "प्रकृतियंतॆ नलियोण.",
+        "latin": "prakṛtiyaṃtè naliyoṇa."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕಷ್ಟಗಳಿಗಂಜದೆ,",
+      "translations": {
+        "en": "Without fearing hardships,",
+        "hi": "कष्टों से न डरकर,"
+      },
+      "transliterations": {
+        "devanagari": "कष्टगळिगंजदॆ,",
+        "latin": "kaṣṭagaḻigaṃjadè,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನಮ್ಮ ಕರ್ತವ್ಯ ಮರೆಯದೆ,",
+      "translations": {
+        "en": "not forgetting our duty,",
+        "hi": "कर्तव्य न भूलकर,"
+      },
+      "transliterations": {
+        "devanagari": "नम्म कर्तव्य मरॆयदॆ,",
+        "latin": "namma kartavya marèyadè,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l5",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ನಲಿಯುತ ಬಾಳಿ, ನಲಿವನು ಹಂಚಿ,",
+      "translations": {
+        "en": "living joyfully, sharing joy,",
+        "hi": "आनंद से जीकर, आनंद बाँटकर,"
+      },
+      "transliterations": {
+        "devanagari": "नलियुत बाळि, नलिवनु हंचि,",
+        "latin": "naliyuta bāḻi, nalivanu haṃci,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l6",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಧನ್ಯತೆ ಗಳಿಸೋಣ.",
+      "translations": {
+        "en": "let us earn contentment.",
+        "hi": "धन्यता पाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "धन्यतॆ गळिसोण.",
+        "latin": "dhanyatè gaḻisoṇa."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಬಿ.ಆರ್. ಲಕ್ಷ್ಮಣರಾವ್ ಅವರು ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಜಿಲ್ಲೆಯ ಚೀಮಂಗಲ ಗ್ರಾಮದಲ್ಲಿ 09-09-1946ರಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಬಿ.ಆರ್. ರಾಜಾರಾವ್, ತಾಯಿ ವೆಂಕಟಲಕ್ಷ್ಮಮ್ಮ. ಲಕ್ಷ್ಮಣರಾವ್ ನಿವೃತ್ತ ಉಪಾಧ್ಯಾಯರಾಗಿದ್ದು ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಸೇವೆ ಮಾಡುತ್ತಿದ್ದಾರೆ. ‘ಬೇಸಿಗೆ’ ಎಂಬ ಪದ್ಯವನ್ನು ‘ಸುಬ್ಬಾಭಟ್ಟರ ಮಗಳೇ’ ಎಂಬ ಭಾವಗೀತೆಗಳ ಸಂಕಲನದಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ.",
+      "translations": {
+        "en": "B.R. Lakshman Rao was born on 09-09-1946 in Cheemangala village, Chikkaballapur district. Father B.R. Raja Rao, mother Venkatalakshmamma. A retired teacher, he continues to serve literature. The poem ‘Besige’ is taken from the lyric collection ‘Subbabhattara Magele’.",
+        "hi": "बी.आर. लक्ष्मण राव का जन्म 09-09-1946 को चिक्कबल्लापुर जिले के चीमंगल ग्राम में हुआ। पिता बी.आर. राजा राव, माता वेंकटलक्ष्मम्मा। सेवानिवृत्त अध्यापक होकर साहित्य सेवा करते हैं। ‘बेसिगे’ पद्य ‘सुब्बाभट्टर मगेले’ भावगीत संग्रह से लिया गया है।"
+      },
+      "transliterations": {
+        "devanagari": "बि.आर्. लक्ष्मणराव् अवरु चिक्कबळ्ळापुर जिल्लॆय चीमंगल ग्रामदल्लि 09-09-1946रल्लि जनिसिदरु. तंदॆ बि.आर्. राजाराव्, तायि वॆंकटलक्ष्मम्म. लक्ष्मणराव् निवृत्त उपाध्यायरागिद्दु साहित्य क्षेत्रदल्लि सेवॆ माडुत्तिद्दारॆ. ‘बेसिगॆ’ ऎंब पद्यवन्नु ‘सुब्बाभट्टर मगळे’ ऎंब भावगीतॆगळ संकलनदिंद आय्दुकॊळ्ळलागिदॆ.",
+        "latin": "bi.ār. lakṣmaṇarāv avaru cikkabaḻḻāpura jillèya cīmaṃgala grāmadalli 09-09-1946ralli janisidaru. taṃdè bi.ār. rājārāv, tāyi vèṃkaṭalakṣmamma. lakṣmaṇarāv nivṛtta upādhyāyarāgiddu sāhitya kṣetradalli sevè māḍuttiddārè. ‘besigè’ èṃba padyavannu ‘subbābhaṭṭara magaḻe’ èṃba bhāvagītègaḻa saṃkalanadiṃda āydukòḻḻalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-saja",
+      "section": "vocab",
+      "text": "ಸಜಾ",
+      "translations": {
+        "en": "punishment",
+        "hi": "सज़ा"
+      },
+      "transliterations": {
+        "devanagari": "सजा",
+        "latin": "sajā"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-saja-def",
+      "section": "vocab",
+      "text": "ಶಿಕ್ಷೆ",
+      "translations": {
+        "en": "punishment",
+        "hi": "दण्ड"
+      },
+      "transliterations": {
+        "devanagari": "शिक्षॆ",
+        "latin": "śikṣè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-mahime",
+      "section": "vocab",
+      "text": "ಮಹಿಮೆ",
+      "translations": {
+        "en": "glory",
+        "hi": "महिमा"
+      },
+      "transliterations": {
+        "devanagari": "महिमॆ",
+        "latin": "mahimè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mahime-def",
+      "section": "vocab",
+      "text": "ಹಿರಿಮೆ, ಮಹತ್ವ",
+      "translations": {
+        "en": "greatness, importance",
+        "hi": "गरिमा, महत्व"
+      },
+      "transliterations": {
+        "devanagari": "हिरिमॆ, महत्व",
+        "latin": "hirimè, mahatva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ravi",
+      "section": "vocab",
+      "text": "ರವಿ",
+      "translations": {
+        "en": "sun",
+        "hi": "रवि"
+      },
+      "transliterations": {
+        "devanagari": "रवि",
+        "latin": "ravi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ravi-def",
+      "section": "vocab",
+      "text": "ಭಾನು, ಸೂರ್ಯ, ನೇಸರು",
+      "translations": {
+        "en": "sun, the sun",
+        "hi": "सूर्य"
+      },
+      "transliterations": {
+        "devanagari": "भानु, सूर्य, नेसरु",
+        "latin": "bhānu, sūrya, nesaru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tapa",
+      "section": "vocab",
+      "text": "ತಾಪ",
+      "translations": {
+        "en": "heat",
+        "hi": "ताप"
+      },
+      "transliterations": {
+        "devanagari": "ताप",
+        "latin": "tāpa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tapa-def",
+      "section": "vocab",
+      "text": "ಬಿಸಿ, ಶಾಖ",
+      "translations": {
+        "en": "heat, warmth",
+        "hi": "गर्मी, उष्णता"
+      },
+      "transliterations": {
+        "devanagari": "बिसि, शाख",
+        "latin": "bisi, śākha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hali",
+      "section": "vocab",
+      "text": "ಹಳಿ",
+      "translations": {
+        "en": "to blame",
+        "hi": "हळि"
+      },
+      "transliterations": {
+        "devanagari": "हळि",
+        "latin": "haḻi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hali-def",
+      "section": "vocab",
+      "text": "ದೂಷಿಸು, ನಿಂದಿಸು",
+      "translations": {
+        "en": "to censure, to condemn",
+        "hi": "निंदा करना"
+      },
+      "transliterations": {
+        "devanagari": "दूषिसु, निंदिसु",
+        "latin": "dūṣisu, niṃdisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ile",
+      "section": "vocab",
+      "text": "ಇಳೆ",
+      "translations": {
+        "en": "earth",
+        "hi": "इळे"
+      },
+      "transliterations": {
+        "devanagari": "इळॆ",
+        "latin": "iḻè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ile-def",
+      "section": "vocab",
+      "text": "ಭೂಮಿ, ಧರೆ",
+      "translations": {
+        "en": "earth, ground",
+        "hi": "भूमि, धरती"
+      },
+      "transliterations": {
+        "devanagari": "भूमि, धरॆ",
+        "latin": "bhūmi, dharè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-poshaka",
+      "section": "vocab",
+      "text": "ಪೋಷಕ",
+      "translations": {
+        "en": "nourisher",
+        "hi": "पोषक"
+      },
+      "transliterations": {
+        "devanagari": "पोषक",
+        "latin": "poṣaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-poshaka-def",
+      "section": "vocab",
+      "text": "ಸಲಹುವಾತ, ಪಾಲಕ",
+      "translations": {
+        "en": "protector, nurturer",
+        "hi": "पालक"
+      },
+      "transliterations": {
+        "devanagari": "सलहुवात, पालक",
+        "latin": "salahuvāta, pālaka"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-anivarya",
+      "section": "vocab",
+      "text": "ಅನಿವಾರ್ಯ",
+      "translations": {
+        "en": "indispensable",
+        "hi": "अनिवार्य"
+      },
+      "transliterations": {
+        "devanagari": "अनिवार्य",
+        "latin": "anivārya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-anivarya-def",
+      "section": "vocab",
+      "text": "ಅತ್ಯಗತ್ಯ",
+      "translations": {
+        "en": "absolutely necessary",
+        "hi": "अत्यंत आवश्यक"
+      },
+      "transliterations": {
+        "devanagari": "अत्यगत्य",
+        "latin": "atyagatya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hogalu",
+      "section": "vocab",
+      "text": "ಹೊಗಳು",
+      "translations": {
+        "en": "to praise",
+        "hi": "होगळु"
+      },
+      "transliterations": {
+        "devanagari": "हॊगळु",
+        "latin": "hògaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hogalu-def",
+      "section": "vocab",
+      "text": "ಕೊಂಡಾಡು, ಬಣ್ಣಿಸು",
+      "translations": {
+        "en": "to praise, to describe",
+        "hi": "प्रशंसा करना"
+      },
+      "transliterations": {
+        "devanagari": "कॊंडाडु, बण्णिसु",
+        "latin": "kòṃḍāḍu, baṇṇisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tegalu",
+      "section": "vocab",
+      "text": "ತೆಗಳು",
+      "translations": {
+        "en": "to blame",
+        "hi": "तेगळु"
+      },
+      "transliterations": {
+        "devanagari": "तॆगळु",
+        "latin": "tègaḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tegalu-def",
+      "section": "vocab",
+      "text": "ಹೀಯಾಳಿಸು, ನಿಂದಿಸು",
+      "translations": {
+        "en": "to scorn, to condemn",
+        "hi": "निंदा करना"
+      },
+      "transliterations": {
+        "devanagari": "हीयाळिसु, निंदिसु",
+        "latin": "hīyāḻisu, niṃdisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-midi",
+      "section": "vocab",
+      "text": "ಮಿಡಿ",
+      "translations": {
+        "en": "unripe fruit",
+        "hi": "मिडि"
+      },
+      "transliterations": {
+        "devanagari": "मिडि",
+        "latin": "miḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-midi-def",
+      "section": "vocab",
+      "text": "ಹೀಚು, ಕಸುಗಾಯಿ",
+      "translations": {
+        "en": "unripe fruit, young fruit",
+        "hi": "कच्चा फल"
+      },
+      "transliterations": {
+        "devanagari": "हीचु, कसुगायि",
+        "latin": "hīcu, kasugāyi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-udu",
+      "section": "vocab",
+      "text": "ಊಡು",
+      "translations": {
+        "en": "to feed",
+        "hi": "ऊडु"
+      },
+      "transliterations": {
+        "devanagari": "ऊडु",
+        "latin": "ūḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-udu-def",
+      "section": "vocab",
+      "text": "ಉಣಿಸು, ತಿನ್ನಿಸು",
+      "translations": {
+        "en": "to feed, to make eat",
+        "hi": "खिलाना"
+      },
+      "transliterations": {
+        "devanagari": "उणिसु, तिन्निसु",
+        "latin": "uṇisu, tinnisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kartavya",
+      "section": "vocab",
+      "text": "ಕರ್ತವ್ಯ",
+      "translations": {
+        "en": "duty",
+        "hi": "कर्तव्य"
+      },
+      "transliterations": {
+        "devanagari": "कर्तव्य",
+        "latin": "kartavya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kartavya-def",
+      "section": "vocab",
+      "text": "ಕೆಲಸ, ಜವಾಬ್ದಾರಿ",
+      "translations": {
+        "en": "work, responsibility",
+        "hi": "काम, जिम्मेदारी"
+      },
+      "transliterations": {
+        "devanagari": "कॆलस, जवाब्दारि",
+        "latin": "kèlasa, javābdāri"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-biru",
+      "section": "vocab",
+      "text": "ಬಿರು",
+      "translations": {
+        "en": "fierce",
+        "hi": "बिरु"
+      },
+      "transliterations": {
+        "devanagari": "बिरु",
+        "latin": "biru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-biru-def",
+      "section": "vocab",
+      "text": "ರಭಸ, ಬಿರುಸು",
+      "translations": {
+        "en": "fierce, intense",
+        "hi": "तेज, प्रचंड"
+      },
+      "transliterations": {
+        "devanagari": "रभस, बिरुसु",
+        "latin": "rabhasa, birusu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sambhrama",
+      "section": "vocab",
+      "text": "ಸಂಭ್ರಮ",
+      "translations": {
+        "en": "celebration",
+        "hi": "संभ्रम"
+      },
+      "transliterations": {
+        "devanagari": "संभ्रम",
+        "latin": "saṃbhrama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sambhrama-def",
+      "section": "vocab",
+      "text": "ಉತ್ಸಾಹ, ಸಡಗರ",
+      "translations": {
+        "en": "enthusiasm, festivity",
+        "hi": "उत्साह"
+      },
+      "transliterations": {
+        "devanagari": "उत्साह, सडगर",
+        "latin": "utsāha, saḍagara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhanyate",
+      "section": "vocab",
+      "text": "ಧನ್ಯತೆ",
+      "translations": {
+        "en": "contentment",
+        "hi": "धन्यता"
+      },
+      "transliterations": {
+        "devanagari": "धन्यतॆ",
+        "latin": "dhanyatè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhanyate-def",
+      "section": "vocab",
+      "text": "ಸಂತೃಪ್ತಿ",
+      "translations": {
+        "en": "satisfaction",
+        "hi": "संतुष्टि"
+      },
+      "transliterations": {
+        "devanagari": "संतृप्ति",
+        "latin": "saṃtṛpti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಸೂರ್ಯ ಏಕೆ ದುಡಿಯುತ್ತಿದ್ದಾನೆ?",
+      "translations": {
+        "en": "Why is the sun working hard?",
+        "hi": "सूर्य क्यों मेहनत कर रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य एकॆ दुडियुत्तिद्दानॆ?",
+        "latin": "sūrya ekè duḍiyuttiddānè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಭೂಮಿಯ ಪೋಷಕ ಯಾರು?",
+      "translations": {
+        "en": "Who is the nourisher of the earth?",
+        "hi": "धरती का पोषक कौन है?"
+      },
+      "transliterations": {
+        "devanagari": "भूमिय पोषक यारु?",
+        "latin": "bhūmiya poṣaka yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಸೂರ್ಯ ಮರೆಯದೆ ಯಾವ ಕರ್ತವ್ಯ ಮಾಡುವನು?",
+      "translations": {
+        "en": "What duty does the sun never forget?",
+        "hi": "सूर्य कौन सा कर्तव्य नहीं भूलता?"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य मरॆयदॆ याव कर्तव्य माडुवनु?",
+        "latin": "sūrya marèyadè yāva kartavya māḍuvanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಬಿರು ಬಿಸಿಲಿಗೆ ಯಾವುವು ಕಂಗಾಲಾಗಿಲ್ಲ?",
+      "translations": {
+        "en": "What are not distressed by the fierce heat?",
+        "hi": "तेज धूप से क्या व्याकुल नहीं होते?"
+      },
+      "transliterations": {
+        "devanagari": "बिरु बिसिलिगॆ यावुवु कंगालागिल्ल?",
+        "latin": "biru bisiligè yāvuvu kaṃgālāgilla?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಸೂರ್ಯನಿಂದ ಮಕ್ಕಳು ಕಲಿಯಬೇಕಾದ್ದೇನು?",
+      "translations": {
+        "en": "What should children learn from the sun?",
+        "hi": "बच्चों को सूर्य से क्या सीखना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "सूर्यनिंद मक्कळु कलियबेकाद्देनु?",
+        "latin": "sūryaniṃda makkaḻu kaliyabekāddenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಸೂರ್ಯ",
+      "translations": {
+        "en": "sun",
+        "hi": "सूर्य"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य",
+        "latin": "sūrya"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಇಳೆ",
+      "translations": {
+        "en": "earth",
+        "hi": "धरती"
+      },
+      "transliterations": {
+        "devanagari": "इळॆ",
+        "latin": "iḻè"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಪ್ರಕೃತಿ",
+      "translations": {
+        "en": "nature",
+        "hi": "प्रकृति"
+      },
+      "transliterations": {
+        "devanagari": "प्रकृति",
+        "latin": "prakṛti"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಸಂಭ್ರಮ",
+      "translations": {
+        "en": "celebration",
+        "hi": "उत्साह"
+      },
+      "transliterations": {
+        "devanagari": "संभ्रम",
+        "latin": "saṃbhrama"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಪೋಷಕರು",
+      "translations": {
+        "en": "nourishers/parents",
+        "hi": "पोषक"
+      },
+      "transliterations": {
+        "devanagari": "पोषकरु",
+        "latin": "poṣakaru"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಕರ್ತವ್ಯ",
+      "translations": {
+        "en": "duty",
+        "hi": "कर्तव्य"
+      },
+      "transliterations": {
+        "devanagari": "कर्तव्य",
+        "latin": "kartavya"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "ಸಂಭ್ರಮ",
+      "translations": {
+        "en": "celebration",
+        "hi": "संभ्रम"
+      },
+      "transliterations": {
+        "devanagari": "संभ्रम",
+        "latin": "saṃbhrama"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "section": "exercise-C",
+      "text": "ಧನ್ಯತೆ",
+      "translations": {
+        "en": "contentment",
+        "hi": "धन्यता"
+      },
+      "transliterations": {
+        "devanagari": "धन्यतॆ",
+        "latin": "dhanyatè"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ಬೇಸಿಗೆ ಪದ್ಯದ ಸಾರಾಂಶವನ್ನು ನಿಮ್ಮ ಮಾತುಗಳಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "Write the gist of the poem ‘Besige’ in your own words.",
+        "hi": "‘बेसिगे’ पद्य का सार अपने शब्दों में लिखिए।"
+      },
+      "transliterations": {
+        "devanagari": "बेसिगॆ पद्यद सारांशवन्नु निम्म मातुगळल्लि बरॆयिरि.",
+        "latin": "besigè padyada sārāṃśavannu nimma mātugaḻalli barèyiri."
+      },
+      "type": "question"
+    }
+  ]
+}

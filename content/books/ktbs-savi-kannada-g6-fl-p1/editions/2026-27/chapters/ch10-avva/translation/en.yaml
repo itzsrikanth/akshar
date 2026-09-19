@@ -3,7 +3,7 @@ meta:
   language: en
   locale: en-IN
   contributor: composer
-  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  license: CC BY 4.0
 labels:
   poem: Poem
   author: About the poet

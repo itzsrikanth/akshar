@@ -1,0 +1,973 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) कोट्ट सालुगळन्नु ओदि खालि बिट्ट स्थळक्के सरियाद पद बरेयिरि:",
+      "en": "A) Read the given lines and write the correct word in the blank space:",
+      "hi": "अ) दी गई पंक्तियों को पढ़कर खाली स्थान पर सही शब्द लिखें:",
+      "kn": "ಅ) ಕೊಟ್ಟ ಸಾಲುಗಳನ್ನು ಓದಿ ಖಾಲಿ ಬಿಟ್ಟ ಸ್ಥಳಕ್ಕೆ ಸರಿಯಾದ ಪದ ಬರೆಯಿರಿ:",
+      "latin": "a) koṭṭa sālugaḷannu ōdi khāli biṭṭa sthaḷakke sariyāda pada bareyiri:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) ई पद्यभागद मुन्दिन सालुगळन्नु हेळिरि:",
+      "en": "B) Say the next lines of this poem section:",
+      "hi": "आ) इस कविता भाग की अगली पंक्तियाँ बताएँ:",
+      "kn": "ಆ) ಈ ಪದ್ಯಭಾಗದ ಮುಂದಿನ ಸಾಲುಗಳನ್ನು ಹೇಳಿರಿ:",
+      "latin": "ā) ī padyabhāgada mundina sālugaḷannu hēḷiri:"
+    },
+    "exercise-C": {
+      "devanagari": "इ) 'अ' पट्टियल्लिन पदगळिगे सरियाद पदवन्नु 'आ' पट्टियिन्द आरिसि होन्दिगि बरे:",
+      "en": "C) Choose the correct word from list 'B' for the words in list 'A' and match them:",
+      "hi": "इ) 'अ' सूची के शब्दों के लिए सही शब्द 'आ' सूची से चुनकर मिलाएँ:",
+      "kn": "ಇ) 'ಅ' ಪಟ್ಟಿಯಲ್ಲಿನ ಪದಗಳಿಗೆ ಸರಿಯಾದ ಪದವನ್ನು 'ಆ' ಪಟ್ಟಿಯಿಂದ ಆರಿಸಿ ಹೊಂದಿಸಿ ಬರೆ:",
+      "latin": "i) 'a' paṭṭiyallina padagaḷige sariyāda padavannu 'ā' paṭṭiyinda ārisi hondisi bare:"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "title": {
+      "devanagari": "ऊरिगोब्ब राजनन्ते",
+      "en": "Like a King for a Town",
+      "hi": "गाँव के एक राजा की तरह",
+      "latin": "ūrigobba rājanante"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 2,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch02-ooricobba-rajanante",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಒಂದಾನೊಂದು ಊರಿತ್ತಂತೆ",
+      "translations": {
+        "en": "There was once a town, it seems",
+        "hi": "एक गाँव था ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "ओन्दानोन्दु ऊरित्तन्ते",
+        "latin": "ondānondu ūrittante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ",
+      "translations": {
+        "en": "Like a king for the town, it seems",
+        "hi": "गाँव का एक राजा था ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "ऊरिगोब्ब राजनन्ते",
+        "latin": "ūrigobba rājanante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ರಾಜಗೊಬ್ಬ ಮಂತ್ರಿಯಂತೆ",
+      "translations": {
+        "en": "Like a minister for the king, it seems",
+        "hi": "राजा का एक मंत्री था ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "राजगोब्ब मन्त्रियन्ते",
+        "latin": "rājagobba mantriyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಮಂತ್ರಿಗೊಬ್ಬ ಮಗಳಂತೆ",
+      "translations": {
+        "en": "Like a daughter for the minister, it seems",
+        "hi": "मंत्री की एक बेटी थी ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "मन्त्रिगोब्ब मगळन्ते",
+        "latin": "mantrigobba magaḷante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "stanza": 1,
+      "text": "ಮಗಳಿಗೊಂದು ಗೊಂಬೆಯಂತೆ",
+      "translations": {
+        "en": "Like a doll for the daughter, it seems",
+        "hi": "बेटी की एक गुड़िया थी ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "मगळिगोन्दु गोम्बेयन्ते",
+        "latin": "magaḷigondu gombeyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಗೊಂಬೆಗೊಂದು ಅಂಗಿಯಂತೆ",
+      "translations": {
+        "en": "Like a shirt for the doll, it seems",
+        "hi": "गुड़िया की एक कमीज़ थी ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "गोम्बेगोन्दु अङ्गियन्ते",
+        "latin": "gombegondu aṅgiyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಅಂಗಿಗೊಂದು ಗುಂಡಿಯಂತೆ",
+      "translations": {
+        "en": "Like a button for the shirt, it seems",
+        "hi": "कमीज़ का एक बटन था ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "अङ्गिगोन्दु गुण्डियन्ते",
+        "latin": "aṅgigondu guṇḍiyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಗುಂಡಿ ಕಿತ್ತು ಹೋಯಿತಂತೆ",
+      "translations": {
+        "en": "The button tore and fell off, it seems",
+        "hi": "बटन टूट गया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "गुण्डि कित्तु होयितन्ते",
+        "latin": "guṇḍi kittu hōyitante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ದರ್ಜಿಯನ್ನು ಕರೆದರಂತೆ",
+      "translations": {
+        "en": "They called the tailor, it seems",
+        "hi": "दर्जी को बुलाया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "दर्जियन्नु करेदरन्ते",
+        "latin": "darjiyannu karedarante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "stanza": 2,
+      "text": "ದರ್ಜಿ ಬಂದು ನೋಡಿದನಂತೆ",
+      "translations": {
+        "en": "The tailor came and saw, it seems",
+        "hi": "दर्जी ने आकर देखा ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "दर्जि बन्दु नोडिदनन्ते",
+        "latin": "darji bandu nōḍidanante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಗುಂಡಿ ಬಲು ಹಳೆಯದಂತೆ",
+      "translations": {
+        "en": "The button is very old, it seems",
+        "hi": "बटन बहुत पुराना था ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "गुण्डि बलु हळयदन्ते",
+        "latin": "guṇḍi balu haḷeyadante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಬೇರೆ ಗುಂಡಿ ತಂದನಂತೆ",
+      "translations": {
+        "en": "He brought another button, it seems",
+        "hi": "दूसरा बटन लाया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "बेरे गुण्डि तन्दनन्ते",
+        "latin": "bēre guṇḍi tandanante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಅಂಗಿಗಿಟ್ಟು ಹೊಲಿದನಂತೆ",
+      "translations": {
+        "en": "He put it on the shirt and sewed it, it seems",
+        "hi": "कमीज़ पर रखकर सिल दिया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "अङ्गिगिट्टु होलिदनन्ते",
+        "latin": "aṅgigiṭṭu holidanante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಅಂಗಿ ಸರಿಯಾಯಿತಂತೆ",
+      "translations": {
+        "en": "The shirt was fixed, it seems",
+        "hi": "कमीज़ ठीक हो गई ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "अङ्गि सरियायितन्ते",
+        "latin": "aṅgi sariyāyitante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "stanza": 3,
+      "text": "ಮಂತ್ರಿ ಮಗಳ ಆಸೆಯಂತೆ",
+      "translations": {
+        "en": "Like the minister's daughter's wish, it seems",
+        "hi": "मंत्री की बेटी की इच्छा के अनुसार ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "मन्त्रि मगळ आसेयन्ते",
+        "latin": "mantri magaḷa āseyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಗೊಂಬೆಗಂಗಿ ಹಾಕಿದರಂತೆ",
+      "translations": {
+        "en": "They put the shirt on the doll, it seems",
+        "hi": "गुड़िया को कमीज़ पहनाई ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "गोम्बेगङ्गि हाकिदरन्ते",
+        "latin": "gombegaṅgi hākidarante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ತುಂಬ ಚಂದ ಕಂಡಿತಂತೆ",
+      "translations": {
+        "en": "It looked very beautiful, it seems",
+        "hi": "बहुत सुंदर लग रही थी ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "तुम्ब चन्द कण्डितन्ते",
+        "latin": "tumba canda kaṇḍitante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಗೊಂಬೆಯಾಟ ಆಡಿದಳಂತೆ",
+      "translations": {
+        "en": "She played with the doll, it seems",
+        "hi": "उसने गुड़िया का खेल खेला ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "गोम्बेयाट आडिदळन्ते",
+        "latin": "gombeyāṭa āḍidaḷante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಬೇರೆ ಗೊಂಬೆ ತಂದಳಂತೆ",
+      "translations": {
+        "en": "She brought another doll, it seems",
+        "hi": "दूसरी गुड़िया लाई ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "बेरे गोम्बे तन्दळन्ते",
+        "latin": "bēre gombe tandaḷante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "stanza": 4,
+      "text": "ಎರಡಕ್ಕೂ ಮದುವೆಯಂತೆ",
+      "translations": {
+        "en": "Marriage for both of them, it seems",
+        "hi": "दोनों की शादी है ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "एरडक्कू मधुवेयन्ते",
+        "latin": "eraḍakkū maduveyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಊರಿನ ರಾಜ ಬರುವನಂತೆ",
+      "translations": {
+        "en": "The king of the town will come, it seems",
+        "hi": "गाँव का राजा आएगा ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "ऊरिन राज बरुवनन्ते",
+        "latin": "ūrina rāja baruvanante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ನಿಂತು ಮದುವೆ ಮಾಡುವನಂತೆ",
+      "translations": {
+        "en": "He will stand and perform the marriage, it seems",
+        "hi": "खड़े होकर शादी कराएगा ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "निन्तु मधुवे माडुवनन्ते",
+        "latin": "nintu maduve māḍuvanante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ನಾನೂ ನೀನೂ ಹೋಗೋಣಂತೆ",
+      "translations": {
+        "en": "Let's you and I go, it seems",
+        "hi": "मैं और तुम जाएँगे ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "नानू नीनू होगोणन्ते",
+        "latin": "nānū nīnū hōgōṇante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಮದುವೆ ನೋಡಿ ಬರೋಣಂತೆ",
+      "translations": {
+        "en": "Let's see the marriage and come back, it seems",
+        "hi": "शादी देखकर आएँगे ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "मधुवे नोडि बरोणन्ते",
+        "latin": "maduve nōḍi barōṇante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-ondanondu",
+      "text": "ಒಂದಾನೊಂದು",
+      "translations": {
+        "en": "once upon a time",
+        "hi": "एक समय"
+      },
+      "transliterations": {
+        "devanagari": "ओन्दानोन्दु",
+        "latin": "ondānondu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ooru",
+      "text": "ಊರು",
+      "translations": {
+        "en": "town / village",
+        "hi": "गाँव / शहर"
+      },
+      "transliterations": {
+        "devanagari": "ऊरु",
+        "latin": "ūru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-obba",
+      "text": "ಒಬ್ಬ",
+      "translations": {
+        "en": "one person",
+        "hi": "एक व्यक्ति"
+      },
+      "transliterations": {
+        "devanagari": "ओब्ब",
+        "latin": "obba"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raja",
+      "text": "ರಾಜ",
+      "translations": {
+        "en": "king",
+        "hi": "राजा"
+      },
+      "transliterations": {
+        "devanagari": "राज",
+        "latin": "rāja"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mantri",
+      "text": "ಮಂತ್ರಿ",
+      "translations": {
+        "en": "minister",
+        "hi": "मंत्री"
+      },
+      "transliterations": {
+        "devanagari": "मन्त्रि",
+        "latin": "mantri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-magalu",
+      "text": "ಮಗಳು",
+      "translations": {
+        "en": "daughter",
+        "hi": "बेटी"
+      },
+      "transliterations": {
+        "devanagari": "मगळु",
+        "latin": "magaḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gombe",
+      "text": "ಗೊಂಬೆ",
+      "translations": {
+        "en": "doll",
+        "hi": "गुड़िया"
+      },
+      "transliterations": {
+        "devanagari": "गोम्बे",
+        "latin": "gombe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-angi",
+      "text": "ಅಂಗಿ",
+      "translations": {
+        "en": "shirt",
+        "hi": "कमीज़"
+      },
+      "transliterations": {
+        "devanagari": "अङ्गि",
+        "latin": "aṅgi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gundi",
+      "text": "ಗುಂಡಿ",
+      "translations": {
+        "en": "button",
+        "hi": "बटन"
+      },
+      "transliterations": {
+        "devanagari": "गुण्डि",
+        "latin": "guṇḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kittu",
+      "text": "ಕಿತ್ತು",
+      "translations": {
+        "en": "tore / plucked",
+        "hi": "टूट / उखड़"
+      },
+      "transliterations": {
+        "devanagari": "कित्तु",
+        "latin": "kittu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hogu",
+      "text": "ಹೋಗು",
+      "translations": {
+        "en": "go",
+        "hi": "जा"
+      },
+      "transliterations": {
+        "devanagari": "होगु",
+        "latin": "hōgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-darji",
+      "text": "ದರ್ಜಿ",
+      "translations": {
+        "en": "tailor",
+        "hi": "दर्जी"
+      },
+      "transliterations": {
+        "devanagari": "दर्जि",
+        "latin": "darji"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kare",
+      "text": "ಕರೆ",
+      "translations": {
+        "en": "call",
+        "hi": "बुला"
+      },
+      "transliterations": {
+        "devanagari": "करे",
+        "latin": "kare"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nodu",
+      "text": "ನೋಡು",
+      "translations": {
+        "en": "see",
+        "hi": "देख"
+      },
+      "transliterations": {
+        "devanagari": "नोडु",
+        "latin": "nōḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haleyadu",
+      "text": "ಹಳೆಯದು",
+      "translations": {
+        "en": "old one",
+        "hi": "पुराना"
+      },
+      "transliterations": {
+        "devanagari": "हळयदु",
+        "latin": "haḷeyadu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tande",
+      "text": "ತಂದೆ",
+      "translations": {
+        "en": "brought",
+        "hi": "लाया"
+      },
+      "transliterations": {
+        "devanagari": "तन्दे",
+        "latin": "tande"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-holi",
+      "text": "ಹೊಲಿ",
+      "translations": {
+        "en": "sew",
+        "hi": "सिल"
+      },
+      "transliterations": {
+        "devanagari": "होलि",
+        "latin": "holi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aase",
+      "text": "ಆಸೆ",
+      "translations": {
+        "en": "wish / desire",
+        "hi": "इच्छा"
+      },
+      "transliterations": {
+        "devanagari": "आसे",
+        "latin": "āse"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haaku",
+      "text": "ಹಾಕು",
+      "translations": {
+        "en": "put",
+        "hi": "डाल / पहना"
+      },
+      "transliterations": {
+        "devanagari": "हाकु",
+        "latin": "hāku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tumba",
+      "text": "ತುಂಬ",
+      "translations": {
+        "en": "very / much",
+        "hi": "बहुत"
+      },
+      "transliterations": {
+        "devanagari": "तुम्ब",
+        "latin": "tumba"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chanda",
+      "text": "ಚಂದ",
+      "translations": {
+        "en": "beautiful",
+        "hi": "सुंदर"
+      },
+      "transliterations": {
+        "devanagari": "चन्द",
+        "latin": "canda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aata",
+      "text": "ಆಟ",
+      "translations": {
+        "en": "play / game",
+        "hi": "खेल"
+      },
+      "transliterations": {
+        "devanagari": "आट",
+        "latin": "āṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-maduve",
+      "text": "ಮದುವೆ",
+      "translations": {
+        "en": "marriage",
+        "hi": "शादी"
+      },
+      "transliterations": {
+        "devanagari": "मधुवे",
+        "latin": "maduve"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nillu",
+      "text": "ನಿಲ್ಲು",
+      "translations": {
+        "en": "stand",
+        "hi": "खड़ा हो"
+      },
+      "transliterations": {
+        "devanagari": "निल्लु",
+        "latin": "nillu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hogonante",
+      "text": "ಹೋಗೋಣಂತೆ",
+      "translations": {
+        "en": "let's go, it seems",
+        "hi": "जाएँगे ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "होगोणन्ते",
+        "latin": "hōgōṇante"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-raja",
+      "text": "ರಾಜ",
+      "translations": {
+        "en": "king",
+        "hi": "राजा"
+      },
+      "transliterations": {
+        "devanagari": "राज",
+        "latin": "rāja"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-raja-def",
+      "text": "ಅರಸ",
+      "translations": {
+        "en": "king / ruler",
+        "hi": "राजा"
+      },
+      "transliterations": {
+        "devanagari": "अरस",
+        "latin": "arasa"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-darji",
+      "text": "ದರ್ಜಿ",
+      "translations": {
+        "en": "tailor",
+        "hi": "दर्जी"
+      },
+      "transliterations": {
+        "devanagari": "दर्जि",
+        "latin": "darji"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-darji-def",
+      "text": "ಬಟ್ಟೆ ಹೊಲಿಯುವವ",
+      "translations": {
+        "en": "one who sews clothes",
+        "hi": "कपड़े सिलने वाला"
+      },
+      "transliterations": {
+        "devanagari": "बट्टे होलियुवव",
+        "latin": "baṭṭe holiyuvava"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-chanda",
+      "text": "ಚಂದ",
+      "translations": {
+        "en": "beautiful",
+        "hi": "सुंदर"
+      },
+      "transliterations": {
+        "devanagari": "चन्द",
+        "latin": "canda"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-chanda-def",
+      "text": "ಅಂದ, ಸೊಗಸು, ಚೆಲುವ",
+      "translations": {
+        "en": "beautiful, nice, lovely",
+        "hi": "सुंदर, अच्छा, प्यारा"
+      },
+      "transliterations": {
+        "devanagari": "अन्द, सोगसु, चेलुव",
+        "latin": "anda, sogasu, celuva"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-mantri",
+      "text": "ಮಂತ್ರಿ",
+      "translations": {
+        "en": "minister",
+        "hi": "मंत्री"
+      },
+      "transliterations": {
+        "devanagari": "मन्त्रि",
+        "latin": "mantri"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-mantri-def",
+      "text": "ರಾಜನ ಸಲಹೆಗಾರ",
+      "translations": {
+        "en": "king's advisor",
+        "hi": "राजा का सलाहकार"
+      },
+      "transliterations": {
+        "devanagari": "राजन सलाहेगार",
+        "latin": "rājana salahegāra"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ರಾಜಗೊಬ್ಬ ಮಂತ್ರಿಯಂತೆ ಮಂತ್ರಿಗೊಬ್ಬ _____",
+      "translations": {
+        "en": "Like a minister for the king, it seems. Like a _____ for the minister, it seems.",
+        "hi": "राजा का एक मंत्री था ऐसा कहते हैं मंत्री की एक _____"
+      },
+      "transliterations": {
+        "devanagari": "राजगोब्ब मन्त्रियन्ते मन्त्रिगोब्ब _____",
+        "latin": "rājagobba mantriyante mantrigobba _____"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಮಗಳಿಗೊಂದು ಗೊಂಬೆಯಂತೆ ಗೊಂಬೆಗೊಂದು _____",
+      "translations": {
+        "en": "Like a doll for the daughter, it seems. Like a _____ for the doll, it seems.",
+        "hi": "बेटी की एक गुड़िया थी ऐसा कहते हैं गुड़िया की एक _____"
+      },
+      "transliterations": {
+        "devanagari": "मगळिगोन्दु गोम्बेयन्ते गोम्बेगोन्दु _____",
+        "latin": "magaḷigondu gombeyante gombegondu _____"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಗುಂಡಿ ಬಲು ಹಳೆಯದಂತೆ ಬೇರೆ _____ ತಂದನಂತೆ",
+      "translations": {
+        "en": "The button is very old, it seems. He brought another _____, it seems.",
+        "hi": "बटन बहुत पुराना था ऐसा कहते हैं दूसरा _____ लाया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "गुण्डि बलु हळयदन्ते बेरे _____ तन्दनन्ते",
+        "latin": "guṇḍi balu haḷeyadante bēre _____ tandanante"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ದರ್ಜಿಯನ್ನು ಕರೆದರಂತೆ",
+      "translations": {
+        "en": "They called the tailor, it seems",
+        "hi": "दर्जी को बुलाया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "दर्जियन्नु करेदरन्ते",
+        "latin": "darjiyannu karedarante"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಅಂಗಿಗಿಟ್ಟು ಹೊಲಿದನಂತೆ",
+      "translations": {
+        "en": "He put it on the shirt and sewed it, it seems",
+        "hi": "कमीज़ पर रखकर सिल दिया ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "अङ्गिगिट्टु होलिदनन्ते",
+        "latin": "aṅgigiṭṭu holidanante"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ನಾನೂ ನೀನೂ ಹೋಗೋಣಂತೆ",
+      "translations": {
+        "en": "Let's you and I go, it seems",
+        "hi": "मैं और तुम जाएँगे ऐसा कहते हैं"
+      },
+      "transliterations": {
+        "devanagari": "नानू नीनू होगोणन्ते",
+        "latin": "nānū nīnū hōgōṇante"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಊರಿಗೊಬ್ಬ _____",
+      "translations": {
+        "en": "Like a _____ for the town",
+        "hi": "गाँव का एक _____"
+      },
+      "transliterations": {
+        "devanagari": "ऊरिगोब्ब _____",
+        "latin": "ūrigobba _____"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಗುಂಡಿ ಬಲು _____",
+      "translations": {
+        "en": "The button is very _____",
+        "hi": "बटन बहुत _____"
+      },
+      "transliterations": {
+        "devanagari": "गुण्डि बलु _____",
+        "latin": "guṇḍi balu _____"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಮಂತ್ರಿ ಮಗಳ _____",
+      "translations": {
+        "en": "The minister's daughter's _____",
+        "hi": "मंत्री की बेटी की _____"
+      },
+      "transliterations": {
+        "devanagari": "मन्त्रि मगळ _____",
+        "latin": "mantri magaḷa _____"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಊರಿನ ರಾಜ _____",
+      "translations": {
+        "en": "The king of the town _____",
+        "hi": "गाँव का राजा _____"
+      },
+      "transliterations": {
+        "devanagari": "ऊरिन राज _____",
+        "latin": "ūrina rāja _____"
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

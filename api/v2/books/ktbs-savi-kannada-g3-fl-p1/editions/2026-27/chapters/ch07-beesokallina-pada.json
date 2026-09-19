@@ -1,0 +1,1289 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g3-fl-p1",
+    "chapterId": "ch07-beesokallina-pada",
+    "editionId": "2026-27",
+    "number": 15
+  },
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "samarthya"
+    },
+    "exercise-A": {
+      "devanagari": "ओंदोंदु वाक्यदल्लि उत्तर बरेयिरि।",
+      "en": "Write the answer in a single sentence each.",
+      "hi": "एक-एक वाक्य में उत्तर लिखिए।",
+      "kn": "ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "ondondu vakyadalli uttara bareyiri."
+    },
+    "exercise-B": {
+      "devanagari": "एरडु-मूरु वाक्यगळल्लि उत्तर बरेयिरि।",
+      "en": "Write the answers in two to three sentences.",
+      "hi": "दो-तीन वाक्यों में उत्तर लिखिए।",
+      "kn": "ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "eradu-mooru vakyagalalli uttara bareyiri."
+    },
+    "exercise-C": {
+      "devanagari": "पद्यद मोदलर्ध सालिगे एरडनेय अर्ध सालन्नु होंदिसि बरेयिरि।",
+      "en": "Match the first half of the poem line with the second half and write.",
+      "hi": "पद्य की पहली आधी पंक्ति को दूसरी आधी पंक्ति से मिलाइए।",
+      "kn": "ಪದ್ಯದ ಮೊದಲರ್ಧ ಸಾಲಿಗೆ ಎರಡನೆಯ ಅರ್ಧ ಸಾಲನ್ನು ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "padyada modalardha saalige eradaneya ardha saalannu hondisi bareyiri."
+    },
+    "exercise-D": {
+      "devanagari": "मादरियंते कोट्टिरुव पदगळिगे भिन्न अर्थदल्लि स्वंत वाक्य बरेयिरि।",
+      "en": "Write your own sentences with different meanings for the given words as shown in the example.",
+      "hi": "उदाहरण के अनुसार दिए गए शब्दों के लिए भिन्न अर्थों में स्वयं के वाक्य लिखिए।",
+      "kn": "ಮಾದರಿಯಂತೆ ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಭಿನ್ನ ಅರ್ಥದಲ್ಲಿ ಸ್ವಂತ ವಾಕ್ಯ ಬರೆಯಿರಿ.",
+      "latin": "maudariyante kottiruva padagalige bhinna arthadalli swanta vakya bareyiri."
+    },
+    "intro": {
+      "devanagari": "कलिकेगे दारी",
+      "en": "Way to learning",
+      "hi": "सीखने का मार्ग",
+      "kn": "ಕಲಿಕೆಗೆ ದಾರಿ",
+      "latin": "kalikege daari"
+    },
+    "language-activity": {
+      "devanagari": "भाषा चटुवटिके",
+      "en": "Language activity",
+      "hi": "भाषा गतिविधि",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ",
+      "latin": "bhasha chatuvatike"
+    },
+    "language-activity-A": {
+      "devanagari": "आडुमातु मत्तु बरेहद मातिन नडुविन व्यत्यास गमनिसि।",
+      "en": "Observe the difference between spoken language and written language.",
+      "hi": "बोलचाल की भाषा और लिखित भाषा के बीच का अंतर देखिए।",
+      "kn": "ಆಡುಮಾತು ಮತ್ತು ಬರೆಹದ ಮಾತಿನ ನಡುವಿನ ವ್ಯತ್ಯಾಸ ಗಮನಿಸಿ.",
+      "latin": "aadumaatu mattu barehada maatina naduvina vyatyasa gamanisi."
+    },
+    "language-activity-B": {
+      "devanagari": "अक्षर बळसि पद बरे।",
+      "en": "Use letters and write words.",
+      "hi": "अक्षरों का उपयोग करके शब्द लिखिए।",
+      "kn": "ಅಕ್ಷರ ಬಳಸಿ ಪದ ಬರೆ.",
+      "latin": "akshara balasi pada bare."
+    },
+    "language-activity-C": {
+      "devanagari": "केळगिन आडुनुडिगळन्नु मादरियंते बरेहद भाषयेल्लि बरेयिरि।",
+      "en": "Write the following spoken words in written language as shown in the example.",
+      "hi": "निम्नलिखित बोलचाल के शब्दों को उदाहरण के अनुसार लिखित भाषा में लिखिए।",
+      "kn": "ಕೆಳಗಿನ ಆಡುನುಡಿಗಳನ್ನು ಮಾದರಿಯಂತೆ ಬರೆಹದ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "latin": "kelagina aadunudigalannu maudariyante barehada bhashayalli bareyiri."
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "tippani"
+    },
+    "poem": {
+      "devanagari": "बीसोकल्लिन पद",
+      "en": "Grinding stone song",
+      "hi": "चक्की का गीत",
+      "kn": "ಬೀಸೋಕಲ್ಲಿನ ಪದ",
+      "latin": "beesokallina pada"
+    },
+    "usage-activity": {
+      "devanagari": "बळके चटुवटिके",
+      "en": "Usage activity",
+      "hi": "उपयोग गतिविधि",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ",
+      "latin": "balake chatuvatike"
+    },
+    "usage-activity-A": {
+      "devanagari": "ओगटु बिडिसि।",
+      "en": "Solve the riddles.",
+      "hi": "पहेली सुलझाइए।",
+      "kn": "ಒಗಟು ಬಿಡಿಸಿ.",
+      "latin": "ogatu bidisi."
+    },
+    "usage-activity-B": {
+      "devanagari": "कोट्टिरुव कते ओदि, इदक्के संबंधिसिद गादेगळन्नु बरेयिरि।",
+      "en": "Read the given story and write proverbs related to it.",
+      "hi": "दी गई कहानी पढ़िए और इससे संबंधित कहावतें लिखिए।",
+      "kn": "ಕೊಟ್ಟಿರುವ ಕತೆ ಓದಿ, ಇದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಗಾದೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "kottiruva kate oodi, idakke sambandhisida gadegalannu bareyiri."
+    },
+    "usage-activity-C": {
+      "devanagari": "कोट्टिरुव गादे मातन्नु बरेहद भाषेगे बदলায়िसि।",
+      "en": "Change the given proverb to written language.",
+      "hi": "दी गई कहावत को लिखित भाषा में बदलिए।",
+      "kn": "ಕೊಟ್ಟಿರುವ ಗಾದೆ ಮಾತನ್ನು ಬರೆಹದ ಭಾಷೆಗೆ ಬದಲಾಯಿಸಿ.",
+      "latin": "kottiruva gade maatannu barehada bhashage badalayisi."
+    },
+    "usage-activity-D": {
+      "devanagari": "केळगिन आडुनुडिगळन्नु ओदि बरेयिरि।",
+      "en": "Read and write the following spoken words.",
+      "hi": "निम्नलिखित बोलचाल के शब्दों को पढ़िए और लिखिए।",
+      "kn": "ಕೆಳಗಿನ ಆಡುನುಡಿಗಳನ್ನು ಓದಿ ಬರೆಯಿರಿ.",
+      "latin": "kelagina aadunudigalannu oodi bareyiri."
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Meanings of words",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagala artha"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 7,
+    "grade": 4,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "Karnataka Textbook Society",
+    "slug": "ch07-beesokallina-pada",
+    "source": "source.kn.yaml",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಬೀಸೋಕಲ್ಲಿನ ಪದ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಜೋಗುಳ ಹಾಡು, ಗೀಗೀ ಪದ, ಸೋಬಾನೆ ಪದ, ಇವುಗಳಲ್ಲಿ ನಿನಗೆ ಗೊತ್ತಿರುವ ಯಾವುದಾದರೊಂದು ಹಾಡನ್ನು ತರಗತಿಯಲ್ಲಿ ಗೆಳೆಯರೊಡಗೂಡಿ ಹಾಡು.",
+      "translations": {
+        "en": "Sing a lullaby, gigi song, or sobane song, whichever you know among these, along with your friends in the class.",
+        "hi": "लोरी, गीगी गीत, सोबाने गीत, इनमें से जो भी गीत आपको आता हो, उसे कक्षा में अपने दोस्तों के साथ मिलकर गाएं।"
+      },
+      "transliterations": {
+        "devanagari": "जोगुळ हाडु, गीगी पद, सोबाने पद, इवुगळल्लि निनगे गोत्तिरुव यावुदादरोंदु हाडन्नु तरगतियल्लि गेळेयरोडगूडि हाडु।",
+        "latin": "jogula haadu, geegi pada, sobane pada, ivugalalli ninage gottiruva yavudadarondu haadannu taragatiyalli geleyarodagoodi haadu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಕಲ್ಲಮ್ಮ ತಾಯಿ ಮೆಲ್ಲಮ್ಮ ರಾಗಿಯ",
+      "translations": {
+        "en": "Mother stone, gentle mother, let the ragi",
+        "hi": "पत्थर माँ, कोमल माँ, रागी को"
+      },
+      "transliterations": {
+        "devanagari": "कल्लम्म तायि मेल्लम्म रागिय",
+        "latin": "kallamma taayi mellamma ragiya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಜಲ್ಲಜಲ್ಲಾನೆ ಉದುರಮ್ಮ | ನಾ ನಿನಗೆ",
+      "translations": {
+        "en": "shower down jhalla-jhallane | I will",
+        "hi": "झमाझम गिरने दो | मैं तुम्हारी"
+      },
+      "transliterations": {
+        "devanagari": "झल्लझल्लाने उदुरम्म | ना निनगे",
+        "latin": "jhallajhallane uduramma | naa ninage"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬೆಲ್ಲಾದಾರತಿಯಾ ಬೆಳಗೇನು ||",
+      "translations": {
+        "en": "wave a jaggery aarti to you ||",
+        "hi": "गुड़ की आरती उतारूंगी ||"
+      },
+      "transliterations": {
+        "devanagari": "बेल्लादारतिया बेळगेनु ||",
+        "latin": "belladaaratiya belagenu ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅಂದುಳ್ಳ ಅಡಿಗಲ್ಲು ಚಂದುಳ್ಳ ಮೇಗಲ್ಲು",
+      "translations": {
+        "en": "Beautiful base stone and beautiful top stone",
+        "hi": "सुंदर नीचे का पत्थर और सुंदर ऊपर का पत्थर"
+      },
+      "transliterations": {
+        "devanagari": "अंदुळ्ळ अडिगल्लु चंदुळ्ळ मेगल्लु",
+        "latin": "andulla adigallu chandulla meegallu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಚಂದ್ರಮತಿಯೆಂಬ ಹಿಡಿಗೂಟ | ಹಿಡುಕೊಂಡು",
+      "translations": {
+        "en": "Holding the handle peg called Chandramati |",
+        "hi": "चंद्रमती नामक मुठिया को | पकड़कर"
+      },
+      "transliterations": {
+        "devanagari": "चंद्रमतियेंब हिडिगूट | हिडुकोंडु",
+        "latin": "chandramatiyemba hidigoota | hidukondu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ತಂದೆ ತಾಯಿಗಳ ನೆನೆದೇನ ||",
+      "translations": {
+        "en": "I shall remember my parents ||",
+        "hi": "मैं अपने माता-पिता को याद करूंगी ||"
+      },
+      "transliterations": {
+        "devanagari": "तंदे तायिगळ नेनेदेन ||",
+        "latin": "tande taayigala nenedena ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ರಾಗಿಯು ಮುಗಿದಾವು ರಾಜಾನ್ನ ಹೆಚ್ಚ್ಯಾವು",
+      "translations": {
+        "en": "The ragi will get over, the fragrant rice will increase",
+        "hi": "रागी खत्म हो जाएगी, सुगंधित चावल बढ़ेंगे"
+      },
+      "transliterations": {
+        "devanagari": "रागियु मुगिदावु राजान्न हेच्च्यावु",
+        "latin": "raagiyu mugidaavu raajanna heccyaavu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಾನ್ಹಿಡಿದ ಕೆಲಸ ವದಗ್ಯಾವು | ರಾಗೀಕಲ್ಲೆ",
+      "translations": {
+        "en": "The work I have taken up will be done | Ragi stone,",
+        "hi": "मेरे द्वारा लिया गया काम पूरा हो जाएगा | रागी के पत्थर,"
+      },
+      "transliterations": {
+        "devanagari": "नान्हिडिद केलस वदग्यावु | रागीकल्ले",
+        "latin": "naanhidida kelasa vadagyaavu | raagikalle"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಾ ತೂಗಿ ಬಿಡುತೀನಿ ಬಲದೋಳು ||",
+      "translations": {
+        "en": "I will swing and release you with my right arm ||",
+        "hi": "मैं तुम्हें अपने दाहिने हाथ से झुलाकर छोड़ूंगी ||"
+      },
+      "transliterations": {
+        "devanagari": "ना तूगि बिडुतीनि बलदोळु ||",
+        "latin": "naa toogi biduteeni baladolu ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕಲ್ಲು ಬಿಟ್ಟೇನೆಂದು ಸಿಟ್ಯಾಕೆ ಸರಸತಿಯೇ",
+      "translations": {
+        "en": "Why are you angry, Saraswati, thinking I left the stone?",
+        "hi": "पत्थर छोड़ दिया, ऐसा सोचकर क्यों गुस्सा हो सरस्वती"
+      },
+      "transliterations": {
+        "devanagari": "कल्लु बिट्टेनेंदु सिट्याके सरसतिये",
+        "latin": "kallu bittenedu sittyake sarasatiye"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕುಕ್ಕೇಲಿ ರಾಗಿ ಬೆಳೆಯಾಲಿ | ತಕ್ಕೊಂಡು",
+      "translations": {
+        "en": "Let the ragi grow in the basket | I will take it",
+        "hi": "टोकरी में रागी बढ़ने दो | लेकर"
+      },
+      "transliterations": {
+        "devanagari": "कुक्केलि रागि बेळेयालि | तक्कोंडु",
+        "latin": "kukkeli ragi beleyali | takkondu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮತ್ತೆ ರಾತ್ರೀಗೆ ಬರುತೀನಿ ||",
+      "translations": {
+        "en": "and come back again at night ||",
+        "hi": "मैं फिर रात को आऊंगी ||"
+      },
+      "transliterations": {
+        "devanagari": "मत्ते रात्रीगे बरुतीनि ||",
+        "latin": "matte raatrige baruteeni ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕಲ್ಲು ಕೊಟ್ಟಮ್ಮಗೆ ಎಲ್ಲಾ ಭಾಗ್ಯವು ಬರಲಿ",
+      "translations": {
+        "en": "Let all fortunes come to the mother who gave the stone",
+        "hi": "पत्थर देने वाली माँ को सारा सौभाग्य मिले"
+      },
+      "transliterations": {
+        "devanagari": "कल्लु कोट्टम्मगे एल्ला भाग्यवु बरलि",
+        "latin": "kallu kottammage ella bhagyavu barali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಪಲ್ಲಕ್ಕಿ ಮೇಲೆ ಮಗ ಬರಲಿ | ಆ ಮನೆಗೆ",
+      "translations": {
+        "en": "Let a son come on a palanquin | To that house,",
+        "hi": "बेटा पालकी पर आए | उस घर में"
+      },
+      "transliterations": {
+        "devanagari": "पल्लक्कि मेले मग बरलि | आ मनेगे",
+        "latin": "pallakki mele maga barali | aa manege"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಮಲ್ಲಿಗೆ ಮುಡಿಯೋ ಸೊಸಿ ಬರಲಿ ||",
+      "translations": {
+        "en": "let a daughter-in-lock wearing jasmine come ||",
+        "hi": "चमेली पहनने वाली बहू आए ||"
+      },
+      "transliterations": {
+        "devanagari": "मल्लिगे मुडियो सोसि बरलि ||",
+        "latin": "mallige mudiyo sosi barali ||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "section": "poem",
+      "stanza": 6,
+      "text": "-ಜನಪದ",
+      "translations": {
+        "en": "-Folk",
+        "hi": "-लोकगीत"
+      },
+      "transliterations": {
+        "devanagari": "-जनपद",
+        "latin": "-janapada"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l1",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಜನವಾಣಿ ಬೇರು, ಕವಿವಾಣಿ ಹೂವು.",
+      "translations": {
+        "en": "People's voice is the root, poet's voice is the flower.",
+        "hi": "जनवाणी जड़ है, कविवाणी फूल है।"
+      },
+      "transliterations": {
+        "devanagari": "जनवाणि बेरु, कविवाणि हूवु।",
+        "latin": "janavaani beeru, kavivaani hoovu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-ಪಲ್ಲಕ್ಕಿ",
+      "section": "vocab",
+      "text": "ಪಲ್ಲಕ್ಕಿ",
+      "translations": {
+        "en": "Pallakki",
+        "hi": "पल्लक्की"
+      },
+      "transliterations": {
+        "devanagari": "पल्लक्कि",
+        "latin": "pallakki"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ಪಲ್ಲಕ್ಕಿ-def",
+      "section": "vocab",
+      "text": "ಮೇನೆ, ಡೋಲಿ",
+      "translations": {
+        "en": "palanquin",
+        "hi": "पालकी"
+      },
+      "transliterations": {
+        "devanagari": "मेने, डोलि",
+        "latin": "mene, doli"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ಉದುರು",
+      "section": "vocab",
+      "text": "ಉದುರು",
+      "translations": {
+        "en": "Udhuru",
+        "hi": "उधुरु"
+      },
+      "transliterations": {
+        "devanagari": "उदुरु",
+        "latin": "uduru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ಉದುರು-def",
+      "section": "vocab",
+      "text": "ಕೆಳಗೆ ಬೀಳು",
+      "translations": {
+        "en": "to fall down",
+        "hi": "नीचे गिरना"
+      },
+      "transliterations": {
+        "devanagari": "केळगे बीळु",
+        "latin": "kelage beelu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ಕುಕ್ಕೆ",
+      "section": "vocab",
+      "text": "ಕುಕ್ಕೆ",
+      "translations": {
+        "en": "Kukke",
+        "hi": "कुक्के"
+      },
+      "transliterations": {
+        "devanagari": "कुक्के",
+        "latin": "kukke"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ಕುಕ್ಕೆ-def",
+      "section": "vocab",
+      "text": "ಬಿದಿರಿನ ಬುಟ್ಟಿ",
+      "translations": {
+        "en": "bamboo basket",
+        "hi": "बांस की टोकरी"
+      },
+      "transliterations": {
+        "devanagari": "बिदिरिन बुट्टि",
+        "latin": "bidirina butti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-ರಾಜಾನ್ನ",
+      "section": "notes",
+      "text": "ರಾಜಾನ್ನ",
+      "translations": {
+        "en": "Rajanna",
+        "hi": "राजान्ना"
+      },
+      "transliterations": {
+        "devanagari": "राजान्न",
+        "latin": "rajanna"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ರಾಜಾನ್ನ-def",
+      "section": "notes",
+      "text": "ಸುವಾಸನೆಯುಳ್ಳ ಅಕ್ಕಿ.",
+      "translations": {
+        "en": "fragrant rice.",
+        "hi": "सुगंधित चावल।"
+      },
+      "transliterations": {
+        "devanagari": "सुवासनेयुळ्ळ अक्कि।",
+        "latin": "suvasaneyulla akki."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-ಸೊಸಿ",
+      "section": "notes",
+      "text": "ಸೊಸಿ",
+      "translations": {
+        "en": "Sosi",
+        "hi": "सोसि"
+      },
+      "transliterations": {
+        "devanagari": "सोसि",
+        "latin": "sosi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ಸೊಸಿ-def",
+      "section": "notes",
+      "text": "ಸೊಸೆ, ಮಗನ ಹೆಂಡತಿ.",
+      "translations": {
+        "en": "daughter-in-law, son's wife.",
+        "hi": "बहू, बेटे की पत्नी।"
+      },
+      "transliterations": {
+        "devanagari": "सोसे, मगन हेंडति।",
+        "latin": "sose, magana hendati."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "ex-A-q1",
+      "section": "exercise-A",
+      "text": "1. ರಾಗಿ ಹೇಗೆ ಉದುರುತ್ತದೆ?",
+      "translations": {
+        "en": "1. How does the ragi shower down?",
+        "hi": "1. रागी कैसे गिरती है?"
+      },
+      "transliterations": {
+        "devanagari": "1. रागि हेगे उदुरुत्तदे?",
+        "latin": "1. ragi heege uduruttade?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-A-q2",
+      "section": "exercise-A",
+      "text": "2. ಬೀಸುವ ಕಲ್ಲಿನ ಹಿಡಿಗೂಟ ಹಿಡಿದು ಯಾರನ್ನು ನೆನೆಯುತ್ತಾರೆ?",
+      "translations": {
+        "en": "2. Holding the handle of the grinding stone, whom do they remember?",
+        "hi": "2. चक्की की मुठिया पकड़कर किसे याद करते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "2. बीसुव कल्लिन हिडिगूट हिडिदु यारन्नु नेनेयुत्तारे?",
+        "latin": "2. beesuva kallina hidigoota hididu yarannu neneyuttare?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-A-q3",
+      "section": "exercise-A",
+      "text": "3. ಸರಸತಿಗೆ ಸಿಟ್ಟು ಬಂತು ಏಕೆ?",
+      "translations": {
+        "en": "3. Why did Saraswati get angry?",
+        "hi": "3. सरस्वती को गुस्सा क्यों आया?"
+      },
+      "transliterations": {
+        "devanagari": "3. सरसतिगे सिट्टु बंतु एके?",
+        "latin": "3. sarasatige sittu bantu eeke?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-B-q1",
+      "section": "exercise-B",
+      "text": "1. ಕಲ್ಲು ಕೊಟ್ಟಮ್ಮನನ್ನು ಏನೆಂದು ಹರಸುವಳು?",
+      "translations": {
+        "en": "1. What does she bless the mother who gave the stone with?",
+        "hi": "1. वह पत्थर देने वाली माँ को क्या आशीर्वाद देती है?"
+      },
+      "transliterations": {
+        "devanagari": "1. कल्लु कोट्टम्मनन्नु एनेंदु हरसुवळु?",
+        "latin": "1. kallu kottammanannu eenendu harasuvalu?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-B-q2",
+      "section": "exercise-B",
+      "text": "2. ಸಿಟ್ಟುಗೊಂಡ ಸರಸತಿಯನ್ನು ಸಮಾಧಾನ ಮಾಡಿದ ಬಗೆ ಹೇಗೆ?",
+      "translations": {
+        "en": "2. How did she calm down the angry Saraswati?",
+        "hi": "2. गुस्सा हुई सरस्वती को कैसे शांत किया?"
+      },
+      "transliterations": {
+        "devanagari": "2. सिट्टुगोंड सरसतियन्नु समाधान माडिद बगे हेगे?",
+        "latin": "2. sittugonda sarasatiyannu samadhana maadida bage heege?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-C-hdr1",
+      "section": "exercise-C",
+      "text": "ಅ ಬ",
+      "translations": {
+        "en": "A B",
+        "hi": "अ ब"
+      },
+      "transliterations": {
+        "devanagari": "अ ब",
+        "latin": "a ba"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-C-q1",
+      "section": "exercise-C",
+      "text": "1. ಬೆಲ್ಲಾದಾರತಿಯಾ",
+      "translations": {
+        "en": "1. Jaggery aarti",
+        "hi": "1. गुड़ की आरती"
+      },
+      "transliterations": {
+        "devanagari": "1. बेल्लादारतिया",
+        "latin": "1. belladaaratiya"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-C-opt1",
+      "section": "exercise-C",
+      "text": "ಬರುತೀನಿ",
+      "translations": {
+        "en": "will come",
+        "hi": "आऊंगी"
+      },
+      "transliterations": {
+        "devanagari": "बरुतीनि",
+        "latin": "baruteeni"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-C-q2",
+      "section": "exercise-C",
+      "text": "2. ಮತ್ತೆ ರಾತ್ರೀಗೆ",
+      "translations": {
+        "en": "2. Again at night",
+        "hi": "2. फिर रात को"
+      },
+      "transliterations": {
+        "devanagari": "2. मत्ते रात्रीगे",
+        "latin": "2. matte raatrige"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-C-opt2",
+      "section": "exercise-C",
+      "text": "ಬೆಳಗೇನು",
+      "translations": {
+        "en": "will wave",
+        "hi": "उतारूंगी"
+      },
+      "transliterations": {
+        "devanagari": "बेळगेनु",
+        "latin": "belagenu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-C-q3",
+      "section": "exercise-C",
+      "text": "3. ರಾಗಿಯು ಮುಗಿದಾವು",
+      "translations": {
+        "en": "3. The ragi will get over",
+        "hi": "3. रागी खत्म हो जाएगी"
+      },
+      "transliterations": {
+        "devanagari": "3. रागियु मुगिदावु",
+        "latin": "3. raagiyu mugidaavu"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-C-opt3",
+      "section": "exercise-C",
+      "text": "ನಡಿಸೇನು",
+      "translations": {
+        "en": "will walk",
+        "hi": "चलाऊंगी"
+      },
+      "transliterations": {
+        "devanagari": "नडिसेनु",
+        "latin": "nadisenu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-C-q4",
+      "section": "exercise-C",
+      "text": "4. ಅಂದುಳ್ಳ ಅಡಿಗಲ್ಲು",
+      "translations": {
+        "en": "4. Beautiful base stone",
+        "hi": "4. सुंदर नीचे का पत्थर"
+      },
+      "transliterations": {
+        "devanagari": "4. अंदुळ्ळ अडिगल्लु",
+        "latin": "4. andulla adigallu"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-C-opt4",
+      "section": "exercise-C",
+      "text": "ರಾಜಾನ್ನ ಹೆಚ್ಚ್ಯಾವು",
+      "translations": {
+        "en": "fragrant rice will increase",
+        "hi": "सुगंधित चावल बढ़ेंगे"
+      },
+      "transliterations": {
+        "devanagari": "राजान्न हेच्च्यावु",
+        "latin": "raajanna heccyaavu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-C-opt5",
+      "section": "exercise-C",
+      "text": "ಚಂದುಳ್ಳ ಮೇಗಲ್ಲು",
+      "translations": {
+        "en": "beautiful top stone",
+        "hi": "सुंदर ऊपर का पत्थर"
+      },
+      "transliterations": {
+        "devanagari": "चंदुळ्ळ मेगल्लु",
+        "latin": "chandulla meegallu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-D-ex1-term1",
+      "section": "exercise-D",
+      "text": "ಮಾದರಿ : ಅತ್ತೆ - ನನ್ನ ಕಾಲಿಗೆ ಮುಳ್ಳು ಚುಚ್ಚಿದಾಗ ಅತ್ತೆನು.",
+      "translations": {
+        "en": "Example: Atte - I cried when a thorn pricked my foot.",
+        "hi": "उदाहरण: अत्ते (रोई) - मेरे पैर में कांटा चुभने पर मैं रोई।"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : अत्ते - नन्न कालिगे मुळ्ळु चुच्चिदाग अत्तेनु।",
+        "latin": "maadari : atte - nanna kaalige mullu chucchidaga attenu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-D-ex1-term2",
+      "section": "exercise-D",
+      "text": "ಅತ್ತೆ - ನಮ್ಮ ಅತ್ತೆ ನನಗೆ ಹೊಸ ಬಟ್ಟೆ ತಂದರು.",
+      "translations": {
+        "en": "Atte - My aunt brought me new clothes.",
+        "hi": "अत्ते (बुआ/चाची) - मेरी बुआ मेरे लिए नए कपड़े लाईं।"
+      },
+      "transliterations": {
+        "devanagari": "अत्ते - नम्म अत्ते ननगे होस बट्टे तंदरु।",
+        "latin": "atte - namma atte nanage hosa batte tandaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ex-D-q1-term1",
+      "section": "exercise-D",
+      "text": "1. ತಂದೆ :",
+      "translations": {
+        "en": "1. Tande :",
+        "hi": "1. तंदे (पिता) :"
+      },
+      "transliterations": {
+        "devanagari": "1. तंदे :",
+        "latin": "1. tande :"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-D-q1-term2",
+      "section": "exercise-D",
+      "text": "ತಂದೆ :",
+      "translations": {
+        "en": "Tande :",
+        "hi": "तंदे (लाए) :"
+      },
+      "transliterations": {
+        "devanagari": "तंदे :",
+        "latin": "tande :"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-D-q2-term1",
+      "section": "exercise-D",
+      "text": "2. ಕಳೆ:",
+      "translations": {
+        "en": "2. Kale:",
+        "hi": "2. कले (खरपतवार):"
+      },
+      "transliterations": {
+        "devanagari": "2. कळे:",
+        "latin": "2. kale:"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-D-q2-term2",
+      "section": "exercise-D",
+      "text": "ಕಳೆ:",
+      "translations": {
+        "en": "Kale:",
+        "hi": "कले (चमक):"
+      },
+      "transliterations": {
+        "devanagari": "कळे:",
+        "latin": "kale:"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-D-q3-term1",
+      "section": "exercise-D",
+      "text": "3. ಆಡು :",
+      "translations": {
+        "en": "3. Aadu :",
+        "hi": "3. आडु (बकरी) :"
+      },
+      "transliterations": {
+        "devanagari": "3. आडु :",
+        "latin": "3. aadu :"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-D-q3-term2",
+      "section": "exercise-D",
+      "text": "ಆಡು :",
+      "translations": {
+        "en": "Aadu :",
+        "hi": "आडु (खेलना) :"
+      },
+      "transliterations": {
+        "devanagari": "आडु :",
+        "latin": "aadu :"
+      },
+      "type": "question"
+    },
+    {
+      "id": "lang-A-hdr1",
+      "section": "language-activity-A",
+      "text": "ಆಡುಮಾತು - ಬರೆಹದ ರೂಪ",
+      "translations": {
+        "en": "Spoken word - Written form",
+        "hi": "बोलचाल का शब्द - लिखित रूप"
+      },
+      "transliterations": {
+        "devanagari": "आडुमातु - बरेहद रूप",
+        "latin": "aadumaatu - barehada roopa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-A-word1",
+      "section": "language-activity-A",
+      "text": "ಬರ್ತಾನೆ - ಬರುತ್ತಾನೆ",
+      "translations": {
+        "en": "bartane - baruttane",
+        "hi": "बर्ताने - बरुत्ताने"
+      },
+      "transliterations": {
+        "devanagari": "बर्ताने - बरुत्ताने",
+        "latin": "bartane - baruttane"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-A-word2",
+      "section": "language-activity-A",
+      "text": "ಯಿಲ್ಲ - ಇಲ್ಲ",
+      "translations": {
+        "en": "yilla - illa",
+        "hi": "यिल्ला - इल्ला"
+      },
+      "transliterations": {
+        "devanagari": "यिल्ला - इल्ला",
+        "latin": "yilla - illa"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-A-word3",
+      "section": "language-activity-A",
+      "text": "ಅರಕೆ - ಹರಕೆ",
+      "translations": {
+        "en": "arake - harake",
+        "hi": "अरके - हरके"
+      },
+      "transliterations": {
+        "devanagari": "अरके - हरके",
+        "latin": "arake - harake"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-A-word4",
+      "section": "language-activity-A",
+      "text": "ಅತ್ತಿರ - ಹತ್ತಿರ",
+      "translations": {
+        "en": "attira - hattira",
+        "hi": "अत्तिरा - हत्तिरा"
+      },
+      "transliterations": {
+        "devanagari": "अत्तिर - हत्तिर",
+        "latin": "attira - hattira"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-A-word5",
+      "section": "language-activity-A",
+      "text": "ಕರೆವೋಲೆ - ಕರೆಯೋಲೆ",
+      "translations": {
+        "en": "karevole - kareyole",
+        "hi": "करेवोले - करेयोले"
+      },
+      "transliterations": {
+        "devanagari": "करेवोले - करेयोले",
+        "latin": "karevole - kareyole"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-B-chart1",
+      "section": "language-activity-B",
+      "text": "ಕ ಣ್ಣು -",
+      "translations": {
+        "en": "ka nnu -",
+        "hi": "क ण्णु -"
+      },
+      "transliterations": {
+        "devanagari": "क ण्णु -",
+        "latin": "ka nnu -"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-B-chart2",
+      "section": "language-activity-B",
+      "text": "ಮ ಗ್ಗಿ -",
+      "translations": {
+        "en": "ma ggi -",
+        "hi": "म ग्गि -"
+      },
+      "transliterations": {
+        "devanagari": "म ग्गि -",
+        "latin": "ma ggi -"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-B-chart3",
+      "section": "language-activity-B",
+      "text": "ಸಿ ಠ -",
+      "translations": {
+        "en": "si tha -",
+        "hi": "सि ठ -"
+      },
+      "transliterations": {
+        "devanagari": "सि ठ -",
+        "latin": "si tha -"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-B-chart4",
+      "section": "language-activity-B",
+      "text": "ಹಿ ಟ್ಟ -",
+      "translations": {
+        "en": "hi tta -",
+        "hi": "हि ट्ट -"
+      },
+      "transliterations": {
+        "devanagari": "हि ट्ट -",
+        "latin": "hi tta -"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-B-chart5",
+      "section": "language-activity-B",
+      "text": "ಸ ಡ್ಡಿ -",
+      "translations": {
+        "en": "sa ddi -",
+        "hi": "स ड्डि -"
+      },
+      "transliterations": {
+        "devanagari": "स ड्डि -",
+        "latin": "sa ddi -"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-C-ex1",
+      "section": "language-activity-C",
+      "text": "ಮಾದರಿ : ಹೆಚ್ಚ್ಯಾವು - ಹೆಚ್ಚಾದವು",
+      "translations": {
+        "en": "Example: heccyavu - heccadavu",
+        "hi": "उदाहरण: हेच्च्यावु - हेच्चादवु"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : हेच्च्यावु - हेच्चादवु",
+        "latin": "maadari : heccyaavu - heccadavu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "lang-C-q1",
+      "section": "language-activity-C",
+      "text": "ವದಗ್ಯಾವು :",
+      "translations": {
+        "en": "vadagyavu :",
+        "hi": "वदग्यावु :"
+      },
+      "transliterations": {
+        "devanagari": "वदग्यावु :",
+        "latin": "vadagyaavu :"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-C-q2",
+      "section": "language-activity-C",
+      "text": "ಮುಗಿದಾವು :",
+      "translations": {
+        "en": "mugidavu :",
+        "hi": "मुगिदावु :"
+      },
+      "transliterations": {
+        "devanagari": "मुगिदावु :",
+        "latin": "mugidaavu :"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-C-q3",
+      "section": "language-activity-C",
+      "text": "ಸಿಟ್ಟ್ಯಾಕೆ :",
+      "translations": {
+        "en": "sittyake :",
+        "hi": "सिट्ट्याके :"
+      },
+      "transliterations": {
+        "devanagari": "सिट्ट्याके :",
+        "latin": "sittyake :"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "lang-C-q4",
+      "section": "language-activity-C",
+      "text": "ಬೆಳೆಯಾಲಿ :",
+      "translations": {
+        "en": "beleyali :",
+        "hi": "बेलेयालि :"
+      },
+      "transliterations": {
+        "devanagari": "बेळेयालि :",
+        "latin": "beleyali :"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "usage-A-q1",
+      "section": "usage-activity-A",
+      "text": "1. ಅವ್ವನ ಹಾಸಿಗೆ ಸುತ್ತಾಕಾಗೋಲ್ಲ, ಅಪ್ಪನ ದುಡ್ಡು ಎಣಿಸಾಕಾಗೋಲ್ಲ.",
+      "translations": {
+        "en": "1. You can't roll up mother's bed, you can't count father's money.",
+        "hi": "1. माँ का बिस्तर लपेटा नहीं जा सकता, पिता का पैसा गिना नहीं जा सकता।"
+      },
+      "transliterations": {
+        "devanagari": "1. अव्वन हासिगे सुत्ताकागोल्ल, अप्पन दुड्डु एणिसाकागोल्ल।",
+        "latin": "1. avvana haasige suttaakagolla, appana duddu enisaakagolla."
+      },
+      "type": "question"
+    },
+    {
+      "id": "usage-A-q2",
+      "section": "usage-activity-A",
+      "text": "2. ಕರಿ ಸೀರಿ ಉಟ್ಟಾಳ, ಕಾಲುಂಗುರ ಇಟ್ಟಾಳ, ಮೇಲೆ ಹೋಗತಾಳ, ಕೆಳಗೆ ಬರತಾಳ.",
+      "translations": {
+        "en": "2. She wears a black saree, puts on a toe ring, goes up, comes down.",
+        "hi": "2. वह काली साड़ी पहनती है, बिछिया पहनती है, ऊपर जाती है, नीचे आती है।"
+      },
+      "transliterations": {
+        "devanagari": "2. करि सीरि उट्टाळ, कालुंगुर इट्टाळ, मेले होगताळ, केळगे बरताळ।",
+        "latin": "2. kari seeri uttaala, kaalungura ittaala, meele hogataala, kelage barataala."
+      },
+      "type": "question"
+    },
+    {
+      "id": "usage-A-q3",
+      "section": "usage-activity-A",
+      "text": "3. ಅಪ್ಪಾ ಎಂದರೆ ಮುಚ್ಚುತಾವ, ಅವ್ವ ಎಂದರೆ ತೆರಿತಾವ.",
+      "translations": {
+        "en": "3. When you say Appa they close, when you say Avva they open.",
+        "hi": "3. जब अप्पा कहते हैं तो बंद हो जाते हैं, जब अव्वा कहते हैं तो खुल जाते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "3. अप्पा एंदरे मुच्चुताव, अव्व एंदरे तेरिताव।",
+        "latin": "3. appa endare mucchutaava, avva endare teritaava."
+      },
+      "type": "question"
+    },
+    {
+      "id": "usage-B-story1",
+      "section": "usage-activity-B",
+      "text": "ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ರೈತನಿದ್ದನು. ಅವನಿಗೆ ಇಬ್ಬರು ಸೋಮಾರಿ ಮಕ್ಕಳಿದ್ದರು. ಅನಾರೋಗ್ಯದಿಂದ ರೈತ ಹಾಸಿಗೆ ಹಿಡಿದನು. ಮಕ್ಕಳನ್ನು ಹತ್ತಿರ ಕರೆದು ‘‘ಮಕ್ಕಳೇ ನಾನು ಸಂಪಾದಿಸಿದ ಸಂಪತ್ತನ್ನು ನಿಮಗಾಗಿ ಹೊಲದಲ್ಲಿ ಹೂತಿಟ್ಟಿದ್ದೇನೆ’’ ಎಂದು ಹೇಳಿದನು. ಮಕ್ಕಳಿಬ್ಬರು ಹಾರೆ ಗುದ್ದಲಿ ಹಿಡಿದು ಹೊಲಕ್ಕೆ ಹೋದರು. ಅಗೆದು ಅಗೆದು ನಿಧಿಗಾಗಿ ಹುಡುಕಿದರು. ನಿಧಿ ಸಿಗಲಿಲ್ಲ. ಅದೇ ದಿನ ಮಳೆ ಸುರಿಯಿತು. ಇನ್ನೇನು ಮಾಡುವುದು ಎಂದು ಧಾನ್ಯ ಬಿತ್ತಿದರು. ಉತ್ತಮ ಬೆಳೆ ಬಂತು. ಕೈ ತುಂಬ ಹಣ ಸಂಪಾದಿಸಿದರು. ರೈತ ಮಕ್ಕಳನ್ನು ಕರೆದು ‘‘ಇದೇ ನಾನು ಹೊಲದಲ್ಲಿ ಹೂತಿಟ್ಟ ಸಂಪತ್ತು’’ ಎಂದು ಹೇಳಿದನು.",
+      "translations": {
+        "en": "In a village, there lived a farmer. He had two lazy sons. Due to illness, the farmer became bedridden. Calling his sons near, he said, \"Children, I have buried the wealth I earned in the field for you.\" The two children took spades and pickaxes and went to the field. They dug and dug, searching for the treasure. They didn't find the treasure. It rained the same day. Thinking what else to do, they sowed grains. A good crop grew. They earned a handful of money. The farmer called the children and said, \"This is the wealth I buried in the field.\"",
+        "hi": "एक गाँव में एक किसान रहता था। उसके दो आलसी बेटे थे। बीमारी के कारण किसान बिस्तर पर पड़ गया। बेटों को पास बुलाकर उसने कहा, \"बच्चों, मैंने तुम्हारे लिए खेत में अपनी कमाई हुई संपत्ति गाड़ दी है।\" दोनों बच्चे फावड़ा और कुदाल लेकर खेत गए। उन्होंने खोद-खोद कर खजाने की तलाश की। खजाना नहीं मिला। उसी दिन बारिश हुई। यह सोचकर कि अब क्या करें, उन्होंने अनाज बो दिया। अच्छी फसल हुई। उन्होंने खूब पैसे कमाए। किसान ने बच्चों को बुलाकर कहा, \"यही वह संपत्ति है जिसे मैंने खेत में गाड़ा था।\""
+      },
+      "transliterations": {
+        "devanagari": "ओंदु ऊरिनल्लि ओब्ब रैतनिद्दनु। अवनिगे इब्बरु सोमारि मक्क़ळिद्दरु। अनारोग्यदिंद रैत हासिगे हिडिदनु। मक्क़ळन्नु हत्तिर करेदु ‘‘मक्क़ळे नानु संपा दिसिद संपत्तन्नु निमगागि होलदल्लि हूतिट्टिद्देने’’ एंडु हेळिदनु। मक्क़ळिब्बरु हारे गुद्दलि हिडिदु होलक्के होदरु। अगेदु अगेदु निधिगागि हुडुकिरु। निधि सिगलिल्ल। अदे दिन मळे सुरियितु। इन्नेनु माडुवुदु एंडु धान्य बित्तिदिरु। उत्तम बेळे बंतु। कै तुंब हण संपा दिसिदरु। रैत मक्क़ळन्नु करेदु ‘‘इदे नानु होलदल्लि हूतिट्ट संपत्तु’’ एंडु हेळिदनु।",
+        "latin": "ondu oorinalli obba raitaniddanu. avanige ibbaru soomaari makkaliddaru. anarogyadinda raita haasige hididanu. makkalannu hattira karedu ‘‘makkale naanu sampadisida sampattannu nimagagi holadalli hootittiddene’’ endu helidanu. makkalibbaru haare guddali hididu holakke hodaru. agedu agedu nidhigaagi hudukidaru. nidhi sigalilla. aade dina male suriyitu. innenu maaduvudu endu dhaanya bittidaru. uttama bele bantu. kai tumba hana sampadisidaru. raita makkalannu karedu ‘‘idee naanu holadalli hootitta sampattu’’ endu helidanu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "usage-C-q1",
+      "section": "usage-activity-C",
+      "text": "*ಒಡಾಡ್ಕೊಂಡು ದನ ಕಾದ್ರೆ ಬೇಗ್ನೆ ಹೊತ್ತು ಮುಳುಗುತ್ತಾ?",
+      "translations": {
+        "en": "*If you graze cows by walking around, will the sun set early?",
+        "hi": "*इधर-उधर घूमकर गाय चराने से क्या सूरज जल्दी डूब जाता है?"
+      },
+      "transliterations": {
+        "devanagari": "*ओडाड्कोंडु दन काद्रे बेग्ने होत्तु मुळुगुत्ता?",
+        "latin": "*odaadkondu dana kaadre beegne hottu muluguttaa?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "usage-C-q2",
+      "section": "usage-activity-C",
+      "text": "*ಕಡ್ಲೆ ಇದ್ದಾಗ ಹಲ್ಲಿಲ್ಲ, ಹಲ್ಲಿದ್ದಾಗ ಕಡ್ಲಿಲ್ಲ.",
+      "translations": {
+        "en": "*When there are gram seeds there are no teeth, when there are teeth there are no gram seeds.",
+        "hi": "*जब चने होते हैं तो दांत नहीं होते, जब दांत होते हैं तो चने नहीं होते।"
+      },
+      "transliterations": {
+        "devanagari": "*कड्ले इद्दाग हल्लिल्ल, हल्लिद्दाग कड़्लिल्ल।",
+        "latin": "*kadle iddaga hallilla, halliddaga kadlilla."
+      },
+      "type": "question"
+    },
+    {
+      "id": "usage-C-q3",
+      "section": "usage-activity-C",
+      "text": "*ಕುಟ್ಟಾಕ ಬರದೋಳು ಕೇರಿ ಕೇರಿ ನೋಡಿದಳಂತ.",
+      "translations": {
+        "en": "*The one who doesn't know how to pound, looked after winnowing.",
+        "hi": "*जिसे कूटना नहीं आता, वह फटकने का दिखावा करती है।"
+      },
+      "transliterations": {
+        "devanagari": "*कुट्टाक बरदोळु केरि केरि नोडिदळंत।",
+        "latin": "*kuttaaka baradolu keeri keeri nodidalanta."
+      },
+      "type": "question"
+    },
+    {
+      "id": "usage-D-sec1",
+      "section": "usage-activity-D",
+      "text": "ಅ. ರವಿ ಶಾಲೆಗೆ ಹೋದನು.",
+      "translations": {
+        "en": "a. Ravi went to school.",
+        "hi": "अ. रवि स्कूल गया।"
+      },
+      "transliterations": {
+        "devanagari": "अ. रवि शालेगे होदनु।",
+        "latin": "a. ravi shaalege hoodanu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "usage-D-sec2",
+      "section": "usage-activity-D",
+      "text": "ರವಿ ಸಾಲಿಗೆ ಹೋದ.",
+      "translations": {
+        "en": "Ravi went to school.",
+        "hi": "रवि स्कूल गया।"
+      },
+      "transliterations": {
+        "devanagari": "रवि सालिगे होद।",
+        "latin": "ravi saalige hooda."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "usage-D-sec3",
+      "section": "usage-activity-D",
+      "text": "ರವಿ ಸಾಲಿಗೆ ಹೊಗ್ಯಾನ್ರೀ.",
+      "translations": {
+        "en": "Ravi went to school, sir.",
+        "hi": "रवि स्कूल गया जी।"
+      },
+      "transliterations": {
+        "devanagari": "रवि सालिगे होग्यान्री।",
+        "latin": "ravi saalige hogyaanri."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "usage-D-sec4",
+      "section": "usage-activity-D",
+      "text": "ಆ. ಕಿರಣ ತಿಂಡಿ ತಿನ್ನುತ್ತಿದ್ದಾನೆ.",
+      "translations": {
+        "en": "b. Kiran is eating snacks.",
+        "hi": "आ. किरण नाश्ता खा रहा है।"
+      },
+      "transliterations": {
+        "devanagari": "आ. किरण तिंडि तिन्नुत्तिद्दाने।",
+        "latin": "aa. kirana tindi tinnuttiddane."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "usage-D-sec5",
+      "section": "usage-activity-D",
+      "text": "ಕಿರಣ ತಿಂಡಿ ತಿಂತಾನ.",
+      "translations": {
+        "en": "Kiran is eating snacks.",
+        "hi": "किरण नाश्ता खा रहा है।"
+      },
+      "transliterations": {
+        "devanagari": "किरण तिंडि तिंतान।",
+        "latin": "kirana tindi tintaana."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "comp-1",
+      "section": "competency",
+      "text": "ನೀನೀಗ ಆಡುಭಾಷೆ ಹಾಗೂ ಬರೆಹದ ಭಾಷೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸಬಲ್ಲೆಯಲ್ಲವೇ?",
+      "translations": {
+        "en": "Now you can recognize the difference between spoken language and written language, can't you?",
+        "hi": "अब आप बोलचाल की भाषा और लिखित भाषा के बीच का अंतर पहचान सकते हैं, है ना?"
+      },
+      "transliterations": {
+        "devanagari": "नीनीग आडुभाषे हागू बरेहद भाषेगळ नडुविन व्यत्यासवन्नु गुरुतिसबल्लेयल्लवे?",
+        "latin": "neeneega aadubhasha hagu barehada bhashagala naduvina vyatyasavannu gurutisaballeyallave?"
+      },
+      "type": "prose"
+    }
+  ]
+}

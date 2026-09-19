@@ -50,8 +50,8 @@ def main() -> int:
     if v2.get("schemaVersion") != "2.0":
         fail("v2 schemaVersion must be 2.0")
     chapters = v2.get("chapters") or []
-    if len(chapters) != 8:
-        fail(f"expected 8 published chapters, got {len(chapters)}")
+    if len(chapters) != 73:
+        fail(f"expected 73 published chapters, got {len(chapters)}")
 
     for chapter in chapters:
         relative = chapter["path"]
@@ -121,15 +121,17 @@ def main() -> int:
             fail("HTTP catalog chapters differ from filesystem api/v2/contents.json")
         for chapter in chapters:
             fetch_json(args.base_url, f"api/v2/{chapter['path']}")
-        # Sample held URL must 404
-        held_id = Path(holds["chapters"][0]["path"]).name
-        held_url = f"{args.base_url.rstrip('/')}/api/v2/books/{BOOK_ID}/editions/{EDITION_ID}/chapters/{held_id}.json"
-        try:
-            with urllib.request.urlopen(held_url, timeout=10) as response:
-                fail(f"held URL unexpectedly {response.status}: {held_url}")
-        except urllib.error.HTTPError as error:
-            if error.code != 404:
-                fail(f"held URL expected 404, got {error.code}")
+        # Sample held URL must 404 when holds remain; skip when fully published.
+        held_entries = holds.get("chapters") or []
+        if held_entries:
+            held_id = Path(held_entries[0]["path"]).name
+            held_url = f"{args.base_url.rstrip('/')}/api/v2/books/{BOOK_ID}/editions/{EDITION_ID}/chapters/{held_id}.json"
+            try:
+                with urllib.request.urlopen(held_url, timeout=10) as response:
+                    fail(f"held URL unexpectedly {response.status}: {held_url}")
+            except urllib.error.HTTPError as error:
+                if error.code != 404:
+                    fail(f"held URL expected 404, got {error.code}")
         print(f"HTTP smoke against {args.base_url} passed.")
 
     print("v2 cutover smoke passed.")

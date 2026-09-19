@@ -1,0 +1,1276 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "सामर्थ्य",
+      "en": "Competency",
+      "hi": "क्षमता",
+      "kn": "ಸಾಮರ್ಥ್ಯ",
+      "latin": "samarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ओंदोंदु वाक्यदल्लि उत्तर बरे.",
+      "en": "Exercise A — Write the answer in one sentence each.",
+      "hi": "अभ्यास अ — एक-एक वाक्य में उत्तर लिखो।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆ.",
+      "latin": "abhyasa a — ondondu vakyadalli uttara bare."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — कोट्टिरुव मातन्नु यारु? यारिंगे हेळिदरु?",
+      "en": "Exercise B — Who said the given words? To whom?",
+      "hi": "अभ्यास आ — दी गई बात किसने? किससे कही?",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಮಾತನ್ನು ಯಾರು? ಯಾರಿಗೆ ಹೇಳಿದರು?",
+      "latin": "abhyasa aa — kottiruva maatannu yaaru? yaarige helidaru?"
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ — वाक्यगळन्नु गमनिसि. सरि/तप्पुगळन्नु गुरुतिसु, तप्पिद्दरे सरिपडिसि बरेयिरि.",
+      "en": "Exercise C — Observe the sentences. Identify true/false, correct and write if false.",
+      "hi": "अभ्यास इ — वाक्यों पर ध्यान दो। सही/गलत पहचानो, गलत हो तो सुधार कर लिखो।",
+      "kn": "ಅಭ್ಯಾಸ ಇ — ವಾಕ್ಯಗಳನ್ನು ಗಮನಿಸಿ. ಸರಿ/ತಪ್ಪುಗಳನ್ನು ಗುರುತಿಸು, ತಪ್ಪಿದ್ದರೆ ಸರಿಪಡಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "abhyasa i — vakyagalannu gamanisi. sari/tappugalannu gurutisu, tappiddare saripadisi bareyiri."
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई — कोट्टिरुव पदगळन्नु सरियागि जोडिसि वाक्य रचिसि.",
+      "en": "Exercise D — Arrange the given words correctly to form sentences.",
+      "hi": "अभ्यास ई — दिए गए शब्दों को सही क्रम में रखकर वाक्य बनाओ।",
+      "kn": "ಅಭ್ಯಾಸ ಈ — ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿ ವಾಕ್ಯ ರಚಿಸಿ.",
+      "latin": "abhyasa ee — kottiruva padagalannu sariyagi jodisi vakya rachisi."
+    },
+    "exercise-E": {
+      "devanagari": "अभ्यास उ — ई केळगिन पदगळन्नु बळसि स्वंतवाक्य रचिसि.",
+      "en": "Exercise E — Frame your own sentences using the following words.",
+      "hi": "अभ्यास उ — निम्नलिखित शब्दों का प्रयोग कर अपने वाक्य बनाओ।",
+      "kn": "ಅಭ್ಯಾಸ ಉ — ಈ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತವಾಕ್ಯ ರಚಿಸಿ.",
+      "latin": "abhyasa u — ee kelagina padagalannu balasi svantavakya rachisi."
+    },
+    "exercise-F": {
+      "devanagari": "भाषा चटुवटिके अ — कोट्टिरुव पदगळल्लि सरियाद पद आरिसि बिट्ट स्थळदल्लि बरेयिरि",
+      "en": "Language Activity A — Choose the correct word from the given words and write in the blank.",
+      "hi": "भाषा गतिविधि अ — दिए गए शब्दों में से सही शब्द चुनकर खाली स्थान में लिखो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ",
+      "latin": "bhasha chatuvatike a — kottiruva padagalalli sariyada pada aarisi bitta sthaladalli bareyiri"
+    },
+    "exercise-G": {
+      "devanagari": "भाषा चटुवटिके आ — कोट्टिरुव अक्षरगळन्नु बळसि, प्राणिगळ हेसरु पट्टि माडि.",
+      "en": "Language Activity B — Using the given letters, make a list of animal names.",
+      "hi": "भाषा गतिविधि आ — दिए गए अक्षरों का उपयोग करके, जानवरों के नामों की सूची बनाओ।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಿ, ಪ್ರಾಣಿಗಳ ಹೆಸರು ಪಟ್ಟಿ ಮಾಡಿ.",
+      "latin": "bhasha chatuvatike aa — kottiruva aksharagalannu balasi, pranigala hesaru patti maadi."
+    },
+    "exercise-H": {
+      "devanagari": "भाषा चटुवटिके इ — प्राणि-पक्षिगळ कूगन्नु अनुसरिसि सूक्तवादुदक्के गेरे एळेदु होंदिसि.",
+      "en": "Language Activity C — Match the animals/birds to their sounds by drawing a line.",
+      "hi": "भाषा गतिविधि इ — जानवरों-पक्षियों की आवाज़ के अनुसार सही के साथ रेखा खींचकर मिलाओ।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ — ಪ್ರಾಣಿ-ಪಕ್ಷಿಗಳ ಕೂಗನ್ನು ಅನುಸರಿಸಿ ಸೂಕ್ತವಾದುದಕ್ಕೆ ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸಿ.",
+      "latin": "bhasha chatuvatike i — prani-pakshigala koogannu anusarisi sooktavadudakke gere eledu hondisi."
+    },
+    "exercise-I": {
+      "devanagari": "भाषा चटुवटिके ई — कोट्टिरुव पदगळल्लि सरियाद रूपवन्नु गुरुतिसि बरे.",
+      "en": "Language Activity D — Identify and write the correct form among the given words.",
+      "hi": "भाषा गतिविधि ई — दिए गए शब्दों में से सही रूप पहचान कर लिखो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಈ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ರೂಪವನ್ನು ಗುರುತಿಸಿ ಬರೆ.",
+      "latin": "bhasha chatuvatike ee — kottiruva padagalalli sariyada roopavannu gurutisi bare."
+    },
+    "exercise-J": {
+      "devanagari": "भाषा चटुवटिके उ — ई केळगिन पदगळन्नु ओदि बरे.",
+      "en": "Language Activity E — Read and write the following words.",
+      "hi": "भाषा गतिविधि उ — निम्नलिखित शब्दों को पढ़ो और लिखो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಉ — ಈ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಓದಿ ಬರೆ.",
+      "latin": "bhasha chatuvatike u — ee kelagina padagalannu oodi bare."
+    },
+    "exercise-K": {
+      "devanagari": "बळके चटुवटिके अ — ई केळगिन वाक्यगळ मादरिगळन्नु नकलुमाडि.",
+      "en": "Usage Activity A — Copy the models of the following sentences.",
+      "hi": "उपयोग गतिविधि अ — निम्नलिखित वाक्यों के मॉडल की नकल करो।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ — ಈ ಕೆಳಗಿನ ವಾಕ್ಯಗಳ ಮಾದರಿಗಳನ್ನು ನಕಲುಮಾಡಿ.",
+      "latin": "balake chatuvatike a — ee kelagina vakyagala madarigalannu nakalumaadi."
+    },
+    "exercise-L": {
+      "devanagari": "बळके चटुवटिके आ",
+      "en": "Usage Activity B",
+      "hi": "उपयोग गतिविधि आ",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ",
+      "latin": "balake chatuvatike aa"
+    },
+    "exercise-M": {
+      "devanagari": "बळके चटुवटिके इ",
+      "en": "Usage Activity C",
+      "hi": "उपयोग गतिविधि इ",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಇ",
+      "latin": "balake chatuvatike i"
+    },
+    "exercise-N": {
+      "devanagari": "बळके चटुवटिके ई",
+      "en": "Usage Activity D",
+      "hi": "उपयोग गतिविधि ई",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಈ",
+      "latin": "balake chatuvatike ee"
+    },
+    "intro": {
+      "devanagari": "कलिकेगे दारि",
+      "en": "Path to Learning",
+      "hi": "सीखने का मार्ग",
+      "kn": "ಕಲಿಕೆಗೆ ದಾರಿ",
+      "latin": "kalikege daari"
+    },
+    "story": {
+      "devanagari": "दोड्डवरु यारु?",
+      "en": "Who is Great?",
+      "hi": "महान कौन?",
+      "kn": "ದೊಡ್ಡವರು ಯಾರು?",
+      "latin": "doddavaru yaaru?"
+    },
+    "title": {
+      "devanagari": "दोड्डवरु यारु?",
+      "en": "Who is Great?",
+      "hi": "महान कौन?",
+      "kn": "ದೊಡ್ಡವರು ಯಾರು?",
+      "latin": "doddavaru yaaru?"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Meanings of Words",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagala artha"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 4,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "Karnataka Textbook Society",
+    "slug": "ch06-doddavaru-yaaru",
+    "source_url": "https://diksha.gov.in/dial/B5V6X7",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ದೊಡ್ಡವರು ಯಾರು?"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕುಂಬಳಕಾಯಿ, ಪಡುವಲಕಾಯಿ ಮತ್ತು ಹಾಗಲಕಾಯಿ ನಡುವೆ ದೊಡ್ಡವರು ಯಾರು ಎಂಬ ಬಗ್ಗೆ ವಾದ ನಡೆಯಿತು. ಅವರ ನಡುವೆ ಏನು ವಾದ ನಡೆದಿರಬಹುದು ಎಂದು ಊಹಿಸಿಕೊಂಡು ತರಗತಿಯಲ್ಲಿ ಸ್ನೇಹಿತರ ಜೊತೆ ಸೇರಿ ಚರ್ಚಿಸಿ.",
+      "translations": {
+        "en": "An argument took place between a pumpkin, a snake gourd, and a bitter gourd about who among them is great. Guess what their argument might have been and discuss it with your friends in class.",
+        "hi": "कद्दू, चिचिंडा और करेले के बीच इस बात पर बहस हुई कि उनमें से महान कौन है। कक्षा में अपने दोस्तों के साथ मिलकर चर्चा करें कि उनके बीच क्या बहस हुई होगी।"
+      },
+      "transliterations": {
+        "devanagari": "कुंबळकयि, पडुवलकायि मत्तु हागलकायि नडुवे दोड्डवरु यारु एंब बग्गे वाद नडेयितु. अवर नडुवे एनु वाद नडेदिरबहुदु एंदु ऊहिसिकोंडु तरगतियल्लि स्नेहितर जोते सेरि चर्चिसि.",
+        "latin": "kumbalakayi, paduvalakayi mattu hagalakayi naduve doddavaru yaaru emba bagge vaada nadeyitu. avara naduve eenu vaada nadedirabahudu endu oohisikondu taragatiyalli snehitara jote seri charchisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಒಂದು ಊರು, ಅಲ್ಲೊಂದು ಇಲಿಗಳ ಸಂಸಾರ. ಆ ಸಂಸಾರದಲ್ಲಿ ಒಬ್ಬ ಮಗಳಿದ್ದಳು.",
+      "translations": {
+        "en": "In a town, there lived a family of mice. They had a daughter in their family.",
+        "hi": "एक गाँव था, वहाँ चूहों का एक परिवार रहता था। उस परिवार में एक बेटी थी।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु ऊरु, अल्लोंदु इलिगळ संसार. आ संसारदल्लि ओब्ब मगळिद्दळु.",
+        "latin": "ondu ooru, allondu iligala samsara. aa samsaradalli obba magaliddalu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಮಗಳಿಗೆ ತಕ್ಕ ವರನನ್ನು ಹುಡುಕಬೇಕೆಂದು ತಂದೆ ತಾಯಿ ಇಲಿಗಳು ಯೋಚಿಸಿದವು.",
+      "translations": {
+        "en": "The parent mice thought of finding a suitable groom for their daughter.",
+        "hi": "माता-पिता चूहों ने अपनी बेटी के लिए एक योग्य वर खोजने की सोची।"
+      },
+      "transliterations": {
+        "devanagari": "मगळिगे तक्क वरनन्नु हुडुकबेकेंदु तंदे तायि इलिगळु योचिसिदवु.",
+        "latin": "magalige takka varanannu hudukabekendu tande taayi iligalu yochisidavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಜಗತ್ತನ್ನೇ ಬೆಳಗುವ ಸೂರ್ಯ ಬಹಳ ದೊಡ್ಡವನು. ಅವನೇ ನಮ್ಮ ಮಗಳಿಗೆ ತಕ್ಕ ವರ, ಎಂದು ತಾಯಿ ಇಲಿ ಹೇಳಿತು.",
+      "translations": {
+        "en": "The mother mouse said, \"The sun, who lights up the whole world, is very great. He is the suitable groom for our daughter.\"",
+        "hi": "माँ चुहिया ने कहा, \"पूरी दुनिया को रोशन करने वाला सूरज बहुत महान है। वही हमारी बेटी के लिए योग्य वर है।\""
+      },
+      "transliterations": {
+        "devanagari": "जगत्तन्ने बेळगुव सूर्य बहळ दोड्डवनु. अवने नम्म मगळिगे तक्क वर, एंदु तायि इलि हेळितु.",
+        "latin": "jagattanne belaguva soorya bahala doddavanu. avane namma magalige takka vara, endu taayi ili helitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಸೂರ್ಯನ ಬಳಿಗೆ ಇಲಿಗಳು ಹೋದವು. ಮದುವೆ ವಿಚಾರ ತಿಳಿಸಿದವು. ಈ ವಿಚಾರವನ್ನು ಕೇಳಿದ ಸೂರ್ಯನು ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಇನ್ನೊಬ್ಬನಿದ್ದಾನೆ. ಅವನನ್ನು ಕೇಳಿ ಎಂದು ಹೇಳಿದನು.",
+      "translations": {
+        "en": "The mice went to the sun. They informed him about the marriage. Hearing this, the sun said, \"There is someone else greater than me. Ask him.\"",
+        "hi": "चूहे सूरज के पास गए। उन्होंने शादी की बात बताई। यह बात सुनकर सूरज ने कहा, \"मुझसे भी महान कोई और है। उससे पूछो।\""
+      },
+      "transliterations": {
+        "devanagari": "सूर्यन बळिगे इलिगळु होदवु. मदुवे विचार तिळिसिदवु. ई विचारवन्नु केळिद सूर्यनु ननगिंतलू दोड्डवनु इन्नोब्बनद्दाने. अवनन्नु केळि एंदु हेळिदनु.",
+        "latin": "sooryana balige iligalu hodavu. maduve vichara tilisidavu. ee vicharavannu kelida sooryanu nanigintaloo doddavanu innobbaniddane. avanannu keli endu helidanu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಹಾಗಾದರೆ ‘ಅವನು ಯಾರು?’ ಎಂದು ತಂದೆ ಇಲಿ ಕೇಳಿತು. ಅದಕ್ಕೆ ಸೂರ್ಯನು 'ಮೋಡ ನನಗಿಂತಲೂ ದೊಡ್ಡವನು' ಎಂದು ಹೇಳಿದನು. ಎಲ್ಲರೂ ಸೇರಿ ಮೋಡದ ಬಳಿಗೆ ಹೋದವು.",
+      "translations": {
+        "en": "\"Then who is he?\" asked the father mouse. To that, the sun said, \"The cloud is greater than me.\" Everyone together went to the cloud.",
+        "hi": "\"तो फिर वह कौन है?\" पिता चूहे ने पूछा। उस पर सूरज ने कहा, \"बादल मुझसे भी महान है।\" सब मिलकर बादल के पास गए।"
+      },
+      "transliterations": {
+        "devanagari": "हागादरे ‘अवनु यारु?’ एंदु तंदे इलि केळितु. अदक्के सूर्यनु 'मोड ननगिंतलू दोड्डवनु' एंदु हेळिदनु. एल्लरू सेरि मोडद बळिगे होदवु.",
+        "latin": "hagadare ‘avanu yaaru?’ endu tande ili kelitu. adakke sooryanu 'moda nanigintaloo doddavanu' endu helidanu. ellaroo seri modada balige hodavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಮದುವೆ ವಿಚಾರ ಕೇಳಿದ ಮೋಡವು 'ಇಲ್ಲಾ! ಇಲ್ಲಾ! ನನಗಿಂತ ದೊಡ್ಡವನು ಬೆಟ್ಟದ ರಾಜನಿದ್ದಾನೆ. ಅವನಲ್ಲಿ ಹೋಗಿ' ಎಂದು ಹೇಳಿತು.",
+      "translations": {
+        "en": "Hearing about the marriage, the cloud said, \"No! No! The king of the mountains is greater than me. Go to him.\"",
+        "hi": "शादी की बात सुनकर बादल ने कहा, \"नहीं! नहीं! मुझसे महान पहाड़ों का राजा है। उसके पास जाओ।\""
+      },
+      "transliterations": {
+        "devanagari": "मदुवे विचार केळिद मोडवु 'इल्ला! इल्ला! ननगिंत दोड्डवनु बेट्टद राजनद्दाने. अवनल्लि होगि' एंदु हेळितु.",
+        "latin": "maduve vichara kelida modavu 'illa! illa! naniginta doddavanu bettada rajaniddane. avanalli hogi' endu helitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಬೆಟ್ಟದ ರಾಜನ ಬಳಿಗೆ ಇಲಿಗಳು ಹೋಗಿ ವಿಷಯ ತಿಳಿಸಿದವು. ಆಗ ಬೆಟ್ಟದ ರಾಜ 'ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಮತ್ತೊಬ್ಬನಿದ್ದಾನೆ. ಅವನೇ ಇಲಿರಾಯ ಅವನಲ್ಲಿಗೆ ಹೋಗಿ' ಎಂದನು.",
+      "translations": {
+        "en": "The mice went to the king of the mountains and told him the matter. Then the king of the mountains said, \"There is another person greater than me. He is the mouse king, go to him.\"",
+        "hi": "चूहे पहाड़ों के राजा के पास गए और उसे बात बताई। तब पहाड़ों के राजा ने कहा, \"मुझसे भी महान एक और है। वह चूहों का राजा है, उसके पास जाओ।\""
+      },
+      "transliterations": {
+        "devanagari": "बेट्टद राजन बळिगे इलिगळु होगि विषय तिळिसिदवु. आग बेट्टद राज 'ननगिंतलू दोड्डवनु मत्तोब्बनद्दाने. अवने इलिराय अवनल्लिगे होगि' एंदनु.",
+        "latin": "bettada rajana balige iligalu hogi vishaya tilisidavu. aaga bettada raja 'nanigintaloo doddavanu mattobbaniddane. avane iliraya avanallige hogi' endanu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "\"ನಮ್ಮಲ್ಲೆ ವರನನ್ನು ಇಟ್ಟುಕೊಂಡು ಸುಮ್ಮನೆ ಪರದಾಡಿದೆವು\" ಎಂದು ತಂದೆ ಇಲಿ ಹೇಳಿತು. \"ನಮ್ಮ ಮಗಳಿಗೆ ಇಲಿರಾಯನೇ ತಕ್ಕ ವರ\" ಎಂದು ತೀರ್ಮಾನಿಸಿ, ಮಗಳನ್ನು ಇಲಿರಾಯನಿಗೆ ಕೊಟ್ಟು ವೈಭವದಿಂದ ಮದುವೆ ಮಾಡಿದವು.",
+      "translations": {
+        "en": "The father mouse said, \"We had the groom right here with us and wandered around for nothing.\" Deciding that \"The mouse king is the suitable groom for our daughter\", they gave their daughter to the mouse king and celebrated the marriage grandly.",
+        "hi": "पिता चूहे ने कहा, \"हमने वर को अपने पास ही रखकर व्यर्थ ही इधर-उधर भटके।\" यह तय करके कि \"हमारी बेटी के लिए चूहों का राजा ही योग्य वर है\", उन्होंने अपनी बेटी को चूहों के राजा को दे दिया और धूमधाम से शादी कर दी।"
+      },
+      "transliterations": {
+        "devanagari": "'नम्मल्ले वरनन्नु इट्टुकोंडु सुम्मने परदाडिदेवु' एंदु तंदे इलि हेळितु. 'नम्म मगळिगे इलिरायने तक्क वर' एंदु तीरमानिसि, मगळन्नु इलिरायनिंगे कोट्टु वैभवदिंद मदुवे माडिदवु.",
+        "latin": "'nammalle varanannu ittukondu summane paradaadidevu' endu tande ili helitu. 'namma magalige ilirayane takka vara' endu teermanisi, magalannu ilirayanige kottu vaibhavadinda maduve maadidavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-proverb",
+      "section": "story",
+      "text": "ಅಂಗೈಯಲ್ಲಿ ಬೆಣ್ಣೆ ಇಟ್ಟುಕೊಂಡು ತುಪ್ಪಕ್ಕಾಗಿ ಊರು ಅಲೆದಂತೆ.",
+      "translations": {
+        "en": "Like wandering around town for ghee while holding butter in the palm.",
+        "hi": "हथेली में मक्खन रखकर घी के लिए गाँव भर में भटकने के समान।"
+      },
+      "transliterations": {
+        "devanagari": "अंगैयल्लि बेण्णे इट्टुकोंडु तुप्पक्कागि ऊरु अलेदंते.",
+        "latin": "angaiyalli benne ittukondu tuppakkagi ooru aledante."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-samsara",
+      "text": "ಸಂಸಾರ",
+      "translations": {
+        "en": "family",
+        "hi": "परिवार"
+      },
+      "transliterations": {
+        "devanagari": "संसार",
+        "latin": "samsara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-samsara-def",
+      "ref": "vocab-samsara",
+      "text": "ಪರಿವಾರ, ಕುಟುಂಬ",
+      "translations": {
+        "en": "family, household",
+        "hi": "परिवार, कुनबा"
+      },
+      "transliterations": {
+        "devanagari": "परिवार, कुटुंब",
+        "latin": "parivara, kutumba"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vara",
+      "text": "ವರ",
+      "translations": {
+        "en": "groom",
+        "hi": "वर"
+      },
+      "transliterations": {
+        "devanagari": "वर",
+        "latin": "vara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vara-def",
+      "ref": "vocab-vara",
+      "text": "ಮದುವೆಯಾಗುವ ಹುಡುಗ, ಮದುಮಗ",
+      "translations": {
+        "en": "boy to be married, bridegroom",
+        "hi": "शादी करने वाला लड़का, दूल्हा"
+      },
+      "transliterations": {
+        "devanagari": "मदुवेयागुव हुडुग, मदुमग",
+        "latin": "maduveyaguva huduga, madumaga"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jagattu",
+      "text": "ಜಗತ್ತು",
+      "translations": {
+        "en": "world",
+        "hi": "दुनिया"
+      },
+      "transliterations": {
+        "devanagari": "जगत्तु",
+        "latin": "jagattu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jagattu-def",
+      "ref": "vocab-jagattu",
+      "text": "ಲೋಕ, ವಿಶ್ವ",
+      "translations": {
+        "en": "world, universe",
+        "hi": "दुनिया, विश्व"
+      },
+      "transliterations": {
+        "devanagari": "लोक, विश्व",
+        "latin": "loka, vishva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-takka",
+      "text": "ತಕ್ಕ",
+      "translations": {
+        "en": "suitable",
+        "hi": "योग्य"
+      },
+      "transliterations": {
+        "devanagari": "तक्क",
+        "latin": "takka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-takka-def",
+      "ref": "vocab-takka",
+      "text": "ಯೋಗ್ಯವಾದ, ಸಮರ್ಥ",
+      "translations": {
+        "en": "worthy, capable",
+        "hi": "योग्य, सक्षम"
+      },
+      "transliterations": {
+        "devanagari": "योग्यवाद, समर्थ",
+        "latin": "yogyavada, samartha"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-soorya",
+      "text": "ಸೂರ್ಯ",
+      "translations": {
+        "en": "sun",
+        "hi": "सूरज"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य",
+        "latin": "soorya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-soorya-def",
+      "ref": "vocab-soorya",
+      "text": "ರವಿ",
+      "translations": {
+        "en": "sun",
+        "hi": "रवि"
+      },
+      "transliterations": {
+        "devanagari": "रवि",
+        "latin": "ravi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-betta",
+      "text": "ಬೆಟ್ಟ",
+      "translations": {
+        "en": "mountain",
+        "hi": "पहाड़"
+      },
+      "transliterations": {
+        "devanagari": "बेट्ट",
+        "latin": "betta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-betta-def",
+      "ref": "vocab-betta",
+      "text": "ಪರ್ವತ, ಗಿರಿ",
+      "translations": {
+        "en": "mountain, hill",
+        "hi": "पर्वत, पहाड़"
+      },
+      "transliterations": {
+        "devanagari": "पर्वत, गिरि",
+        "latin": "parvata, giri"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sambhrama",
+      "text": "ಸಂಭ್ರಮ",
+      "translations": {
+        "en": "celebration",
+        "hi": "उत्सव"
+      },
+      "transliterations": {
+        "devanagari": "संभ्रम",
+        "latin": "sambhrama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sambhrama-def",
+      "ref": "vocab-sambhrama",
+      "text": "ಉತ್ಸಾಹ, ಸಡಗರ",
+      "translations": {
+        "en": "enthusiasm, festivity",
+        "hi": "उत्साह, समारोह"
+      },
+      "transliterations": {
+        "devanagari": "उत्साह, सडगर",
+        "latin": "utsaha, sadagara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vichara",
+      "text": "ವಿಚಾರ",
+      "translations": {
+        "en": "matter",
+        "hi": "बात"
+      },
+      "transliterations": {
+        "devanagari": "विचार",
+        "latin": "vichara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vichara-def",
+      "ref": "vocab-vichara",
+      "text": "ವಿಷಯ, ಸಂಗತಿ",
+      "translations": {
+        "en": "matter, subject",
+        "hi": "विषय, बात"
+      },
+      "transliterations": {
+        "devanagari": "विषय, संगति",
+        "latin": "vishaya, sangati"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bahala",
+      "text": "ಬಹಳ",
+      "translations": {
+        "en": "very",
+        "hi": "बहुत"
+      },
+      "transliterations": {
+        "devanagari": "बहळ",
+        "latin": "bahala"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bahala-def",
+      "ref": "vocab-bahala",
+      "text": "ಹೆಚ್ಚು, ಅಧಿಕ",
+      "translations": {
+        "en": "more, excessive",
+        "hi": "अधिक, ज्यादा"
+      },
+      "transliterations": {
+        "devanagari": "हेच्चु, अधिक",
+        "latin": "hecchu, adhika"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-maduve",
+      "text": "ಮದುವೆ",
+      "translations": {
+        "en": "marriage",
+        "hi": "शादी"
+      },
+      "transliterations": {
+        "devanagari": "मदुवे",
+        "latin": "maduve"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-maduve-def",
+      "ref": "vocab-maduve",
+      "text": "ಲಗ್ನ, ವಿವಾಹ, ಕಲ್ಯಾಣ",
+      "translations": {
+        "en": "wedding, matrimony",
+        "hi": "विवाह, लग्न"
+      },
+      "transliterations": {
+        "devanagari": "लग्न, विवाह, कल्याण",
+        "latin": "lagna, vivaha, kalyana"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಇಲಿಗಳ ಸಂಸಾರ ಎಲ್ಲಿ ವಾಸವಾಗಿತ್ತು?",
+      "translations": {
+        "en": "Where did the family of mice live?",
+        "hi": "चूहों का परिवार कहाँ रहता था?"
+      },
+      "transliterations": {
+        "devanagari": "इलिगळ संसार एल्लि वासवागित्तु?",
+        "latin": "iligala samsara elli vasavagittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ತಂದೆ-ತಾಯಿ ಇಲಿಗಳು ಏನೆಂದು ಯೋಚಿಸಿದವು?",
+      "translations": {
+        "en": "What did the parent mice think?",
+        "hi": "माता-पिता चूहों ने क्या सोचा?"
+      },
+      "transliterations": {
+        "devanagari": "तंदे-तायि इलिगळु एनेंदु योचिसिदवु?",
+        "latin": "tande-taayi iligalu eenendu yochisidavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ತಾಯಿ ಇಲಿ ಏನೆಂದು ಹೇಳಿತು?",
+      "translations": {
+        "en": "What did the mother mouse say?",
+        "hi": "माँ चुहिया ने क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "तायि इलि एनेंदु हेळितु?",
+        "latin": "taayi ili eenendu helitu.\""
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಜಗತ್ತನ್ನು ಬೆಳಗುವವರು ಯಾರು?",
+      "translations": {
+        "en": "Who lights up the world?",
+        "hi": "दुनिया को रोशन कौन करता है?"
+      },
+      "transliterations": {
+        "devanagari": "जगत्तन्नु बेळगुववरु यारु?",
+        "latin": "jagattannu belaguvavaru yaaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಸೂರ್ಯನಿಗೆ ಇಲಿಗಳು ಯಾವ ವಿಚಾರ ತಿಳಿಸಿದವು?",
+      "translations": {
+        "en": "What matter did the mice tell the sun?",
+        "hi": "चूहों ने सूरज को कौन सी बात बताई?"
+      },
+      "transliterations": {
+        "devanagari": "सूर्यनिंगे इलिगळु याव विचार तिळिसिदवु?",
+        "latin": "sooryanige iligalu yaava vichara tilisidavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ಯಾರ ಜೊತೆಯಲ್ಲಿ ಇಲಿಯ ಮದುವೆಯಾಯಿತು?",
+      "translations": {
+        "en": "With whom did the mouse get married?",
+        "hi": "चुहिया की शादी किसके साथ हुई?"
+      },
+      "transliterations": {
+        "devanagari": "यार जोतेयल्लि इलिय मदुवेयायितु?",
+        "latin": "yaara joteyalli iliya maduveyayitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "‘‘ಜಗತ್ತನ್ನೇ ಬೆಳಗುವ ಸೂರ್ಯ ಬಹಳ ದೊಡ್ಡವನು.’’",
+      "translations": {
+        "en": "The sun, who lights up the whole world, is very great.",
+        "hi": "पूरी दुनिया को रोशन करने वाला सूरज बहुत महान है।"
+      },
+      "transliterations": {
+        "devanagari": "‘‘जगत्तन्ने बेळगुव सूर्य बहळ दोड्डवनु.’’",
+        "latin": "‘‘jagattanne belaguva soorya bahala doddavanu.’’"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1-who",
+      "text": "ಯಾರು ? ________",
+      "translations": {
+        "en": "Who?",
+        "hi": "किसने ?"
+      },
+      "transliterations": {
+        "devanagari": "यारु ? ________",
+        "latin": "yaaru ? ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1-whom",
+      "text": "ಯಾರಿಗೆ ? ________",
+      "translations": {
+        "en": "To whom?",
+        "hi": "किससे ?"
+      },
+      "transliterations": {
+        "devanagari": "यारिगे ? ________",
+        "latin": "yaarige ? ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "‘‘ಇಲ್ಲಾ! ಇಲ್ಲಾ! ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಬೆಟ್ಟದ ರಾಜನಿದ್ದಾನೆ.’’",
+      "translations": {
+        "en": "No! No! The king of the mountains is greater than me.",
+        "hi": "नहीं! नहीं! मुझसे भी महान पहाड़ों का राजा है।"
+      },
+      "transliterations": {
+        "devanagari": "‘‘इल्ला! इल्ला! ननगिंतलू दोड्डवनु बेट्टद राजनद्दाने.’’",
+        "latin": "‘‘illa! illa! nanigintaloo doddavanu bettada rajaniddane.’’"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2-who",
+      "text": "ಯಾರು ? ________",
+      "translations": {
+        "en": "Who?",
+        "hi": "किसने ?"
+      },
+      "transliterations": {
+        "devanagari": "यारु ? ________",
+        "latin": "yaaru ? ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2-whom",
+      "text": "ಯಾರಿಗೆ ? ________",
+      "translations": {
+        "en": "To whom?",
+        "hi": "किससे ?"
+      },
+      "transliterations": {
+        "devanagari": "यारिगे ? ________",
+        "latin": "yaarige ? ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "‘‘ನಮ್ಮ ಮಗಳಿಗೆ ಇಲಿರಾಯನೇ ತಕ್ಕ ವರ.’’",
+      "translations": {
+        "en": "The mouse king is the suitable groom for our daughter.",
+        "hi": "हमारी बेटी के लिए चूहों का राजा ही योग्य वर है।"
+      },
+      "transliterations": {
+        "devanagari": "‘‘नम्म मगळिगे इलिरायने तक्क वर.’’",
+        "latin": "‘‘namma magalige ilirayane takka vara.’’"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3-who",
+      "text": "ಯಾರು ? ________",
+      "translations": {
+        "en": "Who?",
+        "hi": "किसने ?"
+      },
+      "transliterations": {
+        "devanagari": "यारु ? ________",
+        "latin": "yaaru ? ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3-whom",
+      "text": "ಯಾರಿಗೆ ? ________",
+      "translations": {
+        "en": "To whom?",
+        "hi": "किससे ?"
+      },
+      "transliterations": {
+        "devanagari": "यारिगे ? ________",
+        "latin": "yaarige ? ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಒಂದು ಊರು, ಅಲ್ಲೊಂದು ಹುಲಿಗಳ ಸಂಸಾರ ಇತ್ತು.",
+      "translations": {
+        "en": "In a town, there lived a family of tigers.",
+        "hi": "एक गाँव था, वहाँ बाघों का एक परिवार रहता था।"
+      },
+      "transliterations": {
+        "devanagari": "ओंदु ऊरु, अल्लोंदु हुलिगळ संसार इत्तु.",
+        "latin": "ondu ooru, allondu huligala samsara ittu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಮಗನಿಗೆ ಸರಿಯಾದ ವರ ಬೇಕೆಂದು ಇಲಿಗಳು ಯೋಚಿಸಿದವು.",
+      "translations": {
+        "en": "The mice thought of finding a suitable groom for their son.",
+        "hi": "चूहों ने अपने बेटे के लिए सही वर खोजने की सोची।"
+      },
+      "transliterations": {
+        "devanagari": "मगनिगे सरियाद वर बेकेंदु इलिगळु योचिसिदवु.",
+        "latin": "maganige sariyada vara bekendu iligalu yochisidavu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಬೆಟ್ಟದ ರಾಜನ ಬಳಿಗೆ ಇರುವೆಗಳು ಹೋದವು.",
+      "translations": {
+        "en": "The ants went to the king of the mountains.",
+        "hi": "चींटियाँ पहाड़ों के राजा के पास गईं।"
+      },
+      "transliterations": {
+        "devanagari": "बेट्टद राजन बळिगे इरुवेगळु होदवु.",
+        "latin": "bettada rajana balige iruvegalu hodavu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ತಂದೆ ಇಲಿಗಳು ಯೋಚಿಸಿದವು ತಾಯಿ : ________",
+      "translations": {
+        "en": "father mice thought mother",
+        "hi": "पिता चूहे ने सोचा माँ"
+      },
+      "transliterations": {
+        "devanagari": "तंदे इलिगळु योचिसिदवु तायि : ________",
+        "latin": "tande iligalu yochisidavu taayi : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಬೆಳಗುವ ಬಹಳ ಸೂರ್ಯ ದೊಡ್ಡವನು ಜಗತ್ತನ್ನೇ : ________",
+      "translations": {
+        "en": "lighting very sun great world",
+        "hi": "रोशन बहुत सूरज महान दुनिया"
+      },
+      "transliterations": {
+        "devanagari": "बेळगुव बहळ सूर्य दोड्डवनु जगत्तन्ने : ________",
+        "latin": "belaguva bahala soorya doddavanu jagattanne : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಇಲಿಗಳು ಬೆಟ್ಟದ ಹೋದವು ಬಳಿಗೆ ರಾಜನ : ________",
+      "translations": {
+        "en": "mice mountain went to king",
+        "hi": "चूहे पहाड़ गए पास राजा"
+      },
+      "transliterations": {
+        "devanagari": "इलिगळु बेट्टद होदवु बळिगे राजन : ________",
+        "latin": "iligalu bettada hodavu balige rajana : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಯೋಚಿಸು : ________",
+      "translations": {
+        "en": "think",
+        "hi": "सोचो"
+      },
+      "transliterations": {
+        "devanagari": "योचिसु : ________",
+        "latin": "yochisu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ತೀರ್ಮಾನಿಸು : ________",
+      "translations": {
+        "en": "decide",
+        "hi": "तय करो"
+      },
+      "transliterations": {
+        "devanagari": "तीरमानिसु : ________",
+        "latin": "teermanisu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಸಮರ್ಥ : ________",
+      "translations": {
+        "en": "capable",
+        "hi": "सक्षम"
+      },
+      "transliterations": {
+        "devanagari": "समर्थ : ________",
+        "latin": "samartha : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಮದುವೆ : ________",
+      "translations": {
+        "en": "marriage",
+        "hi": "शादी"
+      },
+      "transliterations": {
+        "devanagari": "मदुवे : ________",
+        "latin": "maduve : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-p1",
+      "text": "(ಬುದ್ಧಿವಂತ, ಸುಂದರವಾದ, ಇಂಪಾಗಿ, ಚೆನ್ನಾಗಿ)",
+      "translations": {
+        "en": "(intelligent, beautiful, melodiously, well)",
+        "hi": "(बुद्धिमान, सुंदर, मधुर, अच्छी तरह)"
+      },
+      "transliterations": {
+        "devanagari": "(बुद्धिवंत, सुंदरवाद, इंपागि, चेन्नागि)",
+        "latin": "(buddhivanta, sundaravada, impagi, chennagi)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ನವಿಲು ________ ಪಕ್ಷಿ.",
+      "translations": {
+        "en": "The peacock is a ________ bird.",
+        "hi": "मोर एक ________ पक्षी है।"
+      },
+      "transliterations": {
+        "devanagari": "नविलु ________ पक्षि.",
+        "latin": "navilu ________ pakshi."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಪಲ್ಲವಿ ಬಹಳ ________ ವಿದ್ಯಾರ್ಥಿನಿ.",
+      "translations": {
+        "en": "Pallavi is a very ________ student.",
+        "hi": "पल्लवी बहुत ________ छात्रा है।"
+      },
+      "transliterations": {
+        "devanagari": "पल्लवि बहळ ________ विद्यार्थिनि.",
+        "latin": "pallavi bahala ________ vidyarthini."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ಕೋಗಿಲೆ ________ ಹಾಡುತ್ತದೆ.",
+      "translations": {
+        "en": "The cuckoo sings ________.",
+        "hi": "कोयल ________ गाती है।"
+      },
+      "transliterations": {
+        "devanagari": "कोगिले ________ हाडुत्तदे.",
+        "latin": "kogile ________ haaduttade."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q4",
+      "text": "ಮೋಹನ ________ ನೃತ್ಯ ಮಾಡುತ್ತಾನೆ.",
+      "translations": {
+        "en": "Mohana dances ________.",
+        "hi": "मोहन ________ नृत्य करता है।"
+      },
+      "transliterations": {
+        "devanagari": "मोहन ________ नृत्य माडुत्ताने.",
+        "latin": "mohana ________ nrutya maaduttane."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-p1",
+      "text": "ಬ ಹ ಸು ಸ ಮ ಡ ಇ ರ ಕ ತ್ತೆ\nಹು ಲಿ ಬ ರ ಎ ತೋ ಕ ನ ಡಿ ಮ್ಮೆ\nಬ ಳ ನ ರಿ ಡ",
+      "translations": {
+        "en": "b ha su sa ma da i ra ka tte\nhu li ba ra e to ka na di mme\nba la na ri da",
+        "hi": "ब ह सु स म ड इ र क त्ते\nहु लि ब र ए तो क न डि म्मे\nब ळ न रि ड"
+      },
+      "transliterations": {
+        "devanagari": "ब ह सु स म ड इ र क त्ते\nहु लि ब र ए तो क न डि म्मे\nब ळ न रि ड",
+        "latin": "ba ha su sa ma da i ra ka tte\nhu li ba ra e to ka na di mme\nba la na ri da"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಮಾದರಿ: ಹಸು ________ ________ ________ ________ ________ ________",
+      "translations": {
+        "en": "Model: cow",
+        "hi": "मॉडल: गाय"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: हसु ________ ________ ________ ________ ________ ________",
+        "latin": "maadari: hasu ________ ________ ________ ________ ________ ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ಕೋಳಿ : ________",
+      "translations": {
+        "en": "hen",
+        "hi": "मुर्गी"
+      },
+      "transliterations": {
+        "devanagari": "कोळि : ________",
+        "latin": "kooli : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q2",
+      "text": "ಕಾಗೆ : ________",
+      "translations": {
+        "en": "crow",
+        "hi": "कौआ"
+      },
+      "transliterations": {
+        "devanagari": "कागे : ________",
+        "latin": "kaage : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q3",
+      "text": "ಬೆಕ್ಕು : ________",
+      "translations": {
+        "en": "cat",
+        "hi": "बिल्ली"
+      },
+      "transliterations": {
+        "devanagari": "बेक्कु : ________",
+        "latin": "bekku : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q4",
+      "text": "ನಾಯಿ : ________",
+      "translations": {
+        "en": "dog",
+        "hi": "कुत्ता"
+      },
+      "transliterations": {
+        "devanagari": "नायि : ________",
+        "latin": "nayi : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q5",
+      "text": "ಕೋಗಿಲೆ : ________",
+      "translations": {
+        "en": "cuckoo",
+        "hi": "कोयल"
+      },
+      "transliterations": {
+        "devanagari": "कोगिले : ________",
+        "latin": "kogile : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-p1",
+      "text": "(ಮೀಯಾಂವ್ ಮೀಯಾಂವ್, ಬೌ ಬೌ, ಕಾ ಕಾ, ಕುಹೂ ಕುಹೂ, ಕೊಕ್ಕೊ ಕ್ಕೋ)",
+      "translations": {
+        "en": "(meow meow, bow bow, caw caw, coo coo, cock-a-doodle-doo)",
+        "hi": "(म्याऊँ म्याऊँ, भौं भौं, काँव काँव, कुहू कुहू, कुकड़ू कूँ)"
+      },
+      "transliterations": {
+        "devanagari": "(मीयांन् मीयांन्, बौ बौ, का का, कुहू कुहू, कोक्को क्को)",
+        "latin": "(meeyaamv meeyaamv, bau bau, kaa kaa, kuhoo kuhoo, kokko kko)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ಹೆಣ್ಣು - ಎಣ್ಣು : ________",
+      "translations": {
+        "en": "heṇṇu - eṇṇu",
+        "hi": "हेण्णु - एण्णु"
+      },
+      "transliterations": {
+        "devanagari": "हेण्णु - एण्णु : ________",
+        "latin": "hennu - ennu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q2",
+      "text": "ತಾಯಿ - ತಾಇ : ________",
+      "translations": {
+        "en": "tāyi - tāi",
+        "hi": "तायि - ताइ"
+      },
+      "transliterations": {
+        "devanagari": "तायि - ताइ : ________",
+        "latin": "taayi - taai : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q3",
+      "text": "ಮೋಡ - ಮೋಢ : ________",
+      "translations": {
+        "en": "mōḍa - mōḍha",
+        "hi": "मोडा - मोढा"
+      },
+      "transliterations": {
+        "devanagari": "मोड - मोढ : ________",
+        "latin": "moda - modha : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q4",
+      "text": "ಸೂರ್ಯ - ಸೂರಿಯ : ________",
+      "translations": {
+        "en": "sūrya - sūriya",
+        "hi": "सूर्या - सूरिया"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य - सूरिय : ________",
+        "latin": "soorya - sooriya : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q5",
+      "text": "ವರ - ಒರ : ________",
+      "translations": {
+        "en": "vara - ora",
+        "hi": "वरा - ओरा"
+      },
+      "transliterations": {
+        "devanagari": "वर - ओर : ________",
+        "latin": "vara - ora : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q6",
+      "text": "ಬೆಟ್ಟ - ಬೆಟ್ಠ : ________",
+      "translations": {
+        "en": "beṭṭa - beṭṭha",
+        "hi": "बेट्टा - बेट्ठा"
+      },
+      "transliterations": {
+        "devanagari": "बेट्ट - बेट्ठ : ________",
+        "latin": "betta - bettha : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-p1",
+      "text": "ಗೆ ಲಿ ಸ ಹ ಜ ನಿ ಮ ರ ಲ ಹು ಹ ಕು ರ",
+      "translations": {
+        "en": "ge li sa ha ja ni ma ra la hu ha ku ra",
+        "hi": "गे लि स ह ज नि म र ल हु ह कु र"
+      },
+      "transliterations": {
+        "devanagari": "गे लि स ह ज नि म र ल हु ह कु र",
+        "latin": "ge li sa ha ja ni ma ra la hu ha ku ra"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1",
+      "text": "ಮಾದರಿ: ಸಲಿಗೆ ________ ________ ________ ________ ________ ________",
+      "translations": {
+        "en": "Model: salige",
+        "hi": "मॉडल: सलिगे"
+      },
+      "transliterations": {
+        "devanagari": "मादरि: सलिगे ________ ________ ________ ________ ________ ________",
+        "latin": "maadari: salige ________ ________ ________ ________ ________ ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-p1",
+      "text": "ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಪರಿಸರಕ್ಕೆ ಹಾನಿಕರ.",
+      "translations": {
+        "en": "Using plastic is harmful to the environment.",
+        "hi": "प्लास्टिक का उपयोग पर्यावरण के लिए हानिकारक है।"
+      },
+      "transliterations": {
+        "devanagari": "प्लास्टिक बळके परिसक्के हानिकर.",
+        "latin": "plastic balake parisarakke haanikara."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "L",
+      "id": "ex-l-q1",
+      "text": "'ದೊಡ್ಡವರು ಯಾರು?' ಪಾಠದಲ್ಲಿ ಬರುವ ಪಾತ್ರಗಳ ಸಂಭಾಷಣೆಯನ್ನು ಶಾಲೆಯಲ್ಲಿ ಗೆಳೆಯರೊಂದಿಗೆ ಸೇರಿ ಅಭಿನಯಿಸು.",
+      "translations": {
+        "en": "Act out the dialogue of the characters from the lesson \"Who is Great?\" with your friends in school.",
+        "hi": "स्कूल में अपने दोस्तों के साथ मिलकर \"महान कौन?\" पाठ के पात्रों के संवाद का अभिनय करो।"
+      },
+      "transliterations": {
+        "devanagari": "''दोड्डवरु यारु?'' पाठदल्लि बरुव पात्रगळ संभाषणेयन्नु शालयल्लि गेळेयरोंदिगे सेरि अभिनयिसु.",
+        "latin": "\"doddavaru yaaru?' pathadalli baruva patragala sambhashaneyannu shaleyalli geleyarondige seri abhinayisu.\""
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "M",
+      "id": "ex-m-q1",
+      "text": "ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬರುವ ವಿವಿಧ ಚಿತ್ರ ಕಥೆಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ, ಚಿತ್ರಕಥಾ ಕೋಶ ತಯಾರಿಸು.",
+      "translations": {
+        "en": "Collect various comic strips that appear in newspapers and prepare a comic strip dictionary.",
+        "hi": "समाचार पत्रों में आने वाली विभिन्न चित्र कथाओं को इकट्ठा करो और एक चित्रकथा कोष तैयार करो।"
+      },
+      "transliterations": {
+        "devanagari": "पत्रिकेगळल्लि बरुव विविध चित्र कथेगळन्नु संग्रहिसि, चित्रकथा कोश तयारिसु.",
+        "latin": "patrikegalalli baruva vividha chitra kathegalannu sangrahisi, chitrakatha kosha tayarisu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "N",
+      "id": "ex-n-q1",
+      "text": "ನಿಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ನಡೆಸುವ 'ಗಣರಾಜ್ಯೋತ್ಸವ' ಕಾರ್ಯಕ್ರಮದ ಪ್ರಚಾರಕ್ಕಾಗಿ ಒಂದು ಬಿತ್ತಿ ಪತ್ರವನ್ನು ಶಿಕ್ಷಕರ ಸಹಾಯದಿಂದ ಸಿದ್ಧಪಡಿಸು.",
+      "translations": {
+        "en": "Prepare a poster with the help of your teachers to promote the 'Republic Day' program conducted in your school.",
+        "hi": "अपने स्कूल में आयोजित होने वाले 'गणतंत्र दिवस' कार्यक्रम के प्रचार के लिए शिक्षकों की मदद से एक पोस्टर तैयार करो।"
+      },
+      "transliterations": {
+        "devanagari": "निम्म शालयल्लि नडेसुव 'गणराज्योत्सव' कार्यक्रमद प्रचारक्कागि ओंदु भित्ति पत्रवन्नु शिक्षकद सहायदिंद सिद्धपडिसु.",
+        "latin": "nimma shaleyalli nadesuva 'ganarajyotsava' karyakramada pracharakkagi ondu bitti patravannu shikshakara sahayadinda siddhapadisu."
+      },
+      "type": "question"
+    },
+    {
+      "id": "competency",
+      "text": "ನೀನೀಗ ವಿವಿಧ ವಿನೋದ ಚಿತ್ರಸರಣಿಗಳನ್ನು ಮತ್ತು ಭಿತ್ತಿಪತ್ರಗಳನ್ನು ಓದಿ ಅರ್ಥೈಸಿಕೊಳ್ಳಬಲ್ಲೆಯಲ್ಲವೇ?",
+      "translations": {
+        "en": "Can you now read and understand various comic strips and posters?",
+        "hi": "क्या तुम अब विभिन्न हास्य चित्र श्रृंखलाओं और पोस्टरों को पढ़कर समझ सकते हो?"
+      },
+      "transliterations": {
+        "devanagari": "नीनीग विविध विनोद चित्रसरणिगळन्नु मत्तु भित्तिपत्रगळन्नु ओदि अर्थैसिकोळ्ळबल्लेयल्लवे?",
+        "latin": "neeniga vividha vinoda chitrasaranigalannu mattu bhittipatragalannu oodi arthaisikollaballeyallave?"
+      },
+      "type": "competency"
+    }
+  ]
+}

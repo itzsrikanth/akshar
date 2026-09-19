@@ -1,0 +1,406 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g8-fl-p1",
+    "chapterId": "ch10-ahuti",
+    "editionId": "2026-27",
+    "number": 10
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè uttarisi."
+    },
+    "story": {
+      "devanagari": "कथॆ",
+      "en": "Story",
+      "hi": "कहानी",
+      "kn": "ಕಥೆ",
+      "latin": "kathè"
+    }
+  },
+  "meta": {
+    "author": "ಕೊಡಗಿನ ಗೌರಮ್ಮ",
+    "board": "KSEEB",
+    "chapter": 10,
+    "grade": 8,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch10-ahuti",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಆಹುತಿ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ನಾನು ಎಂ.ಎ. ಪಾಸಾಗಿದ್ದೆ. ನನ್ನ ತಂದೆತಾಯಿಯವರು ನನಗೆ ಮದುವೆ ಮಾಡಬೇಕೆಂದು ಹೆಣ್ಣು ಹುಡುಕುತ್ತಿದ್ದರು. ಅಂತೂ ಕಡೆಗೆ ಹುಡುಗಿಯೂ ನಿಶ್ಚಯವಾದಳು. ನಮ್ಮ ಮನೆಯಿಂದ ಹನ್ನೆರಡು ಮೈಲಿ ದೂರದಲ್ಲಿದ್ದ ಒಂದು ಹಳ್ಳಿಯಲ್ಲಿ ಅವಳ ಮನೆ. ಅವಳಿಗೂ ತಂದೆ ತಾಯಿ ಇದ್ದರು. ಆದರೆ ಅವರು ಬಹಳ ಬಡವರಂತೆ. ನನಗೇನೋ ಐಶ್ವರ್ಯವಂತರ ಅಳಿಯನಾಗಬೇಕೆಂದು ಬಹಳ ಆಸೆಯಿತ್ತು. ಇಂಗ್ಲೆಂಡಿಗೆ ಹೋಗಿ ಬ್ಯಾರಿಸ್ಟರನಾಗಬೇಕೆಂದು ಬಲವಾದ ಇಚ್ಛೆ. ಇಂಗ್ಲೆಂಡಿಗೆ ಹೋಗಬೇಕಾದರೆ ಹಣಬೇಕು. ನನಗಾಗಿ ತುಂಬಾ ಹಣ ಖರ್ಚು ಮಾಡುವಷ್ಟು ಅನುಕೂಲವು ನನ್ನ ತಂದೆಗಿರಲಿಲ್ಲ. ಐಶ್ವರ್ಯವಂತರ ಅಳಿಯನಾದರೆ ನಾನು ಇಂಗ್ಲೆಂಡಿಗೆ ಸುಲಭವಾಗಿ ಹೋಗಬಹುದಾಗಿತ್ತು. ಆದುದರಿಂದ ಆ ಬಡವರ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾಗಲು ನನಗೆ ಮನಸ್ಸಿರಲಿಲ್ಲ.",
+      "translations": {
+        "en": "I had passed my M.A. My parents were looking for a bride for me. At last a girl was settled. Her house was in a village twelve miles from ours. She had parents, but they were very poor. I badly wanted to become the son-in-law of rich people. I strongly wished to go to England and become a barrister. Going to England needed money. My father could not afford to spend so much on me. If I became a rich man's son-in-law I could go to England easily. So I had no mind to marry that poor girl.",
+        "hi": "मैं एम.ए. पास कर चुका था। माता-पिता मेरे लिए लड़की ढूँढ रहे थे। आखिर एक लड़की तय हुई। वे बहुत गरीब थे। मैं अमीरों का दामाद बनना चाहता था ताकि इंग्लैंड जा सकूँ।"
+      },
+      "transliterations": {
+        "devanagari": "नानु ऎं.ऎ. पासागिद्दॆ. नन्न तंदॆतायियवरु ननगॆ मदुवॆ माडबेकॆंदु हॆण्णु हुडुकुत्तिद्दरु. अंतू कडॆगॆ हुडुगियू निश्चयवादळु. नम्म मनॆयिंद हन्नॆरडु मैलि दूरदल्लिद्द ऒंदु हळ्ळियल्लि अवळ मनॆ. अवळिगू तंदॆ तायि इद्दरु. आदरॆ अवरु बहळ बडवरंतॆ. ननगेनो ऐश्वर्यवंतर अळियनागबेकॆंदु बहळ आसॆयित्तु. इंग्लॆंडिगॆ होगि ब्यारिस्टरनागबेकॆंदु बलवाद इच्छॆ. इंग्लॆंडिगॆ होगबेकादरॆ हणबेकु. ननगागि तुंबा हण खर्चु माडुवष्टु अनुकूलवु नन्न तंदॆगिरलिल्ल. ऐश्वर्यवंतर अळियनादरॆ नानु इंग्लॆंडिगॆ सुलभवागि होगबहुदागित्तु. आदुदरिंद आ बडवर हुडुगियन्नु मदुवॆयागलु ननगॆ मनस्सिरलिल्ल.",
+        "latin": "nānu èṃ.è. pāsāgiddè. nanna taṃdètāyiyavaru nanagè maduvè māḍabekèṃdu hèṇṇu huḍukuttiddaru. aṃtū kaḍègè huḍugiyū niścayavādaḻu. namma manèyiṃda hannèraḍu maili dūradallidda òṃdu haḻḻiyalli avaḻa manè. avaḻigū taṃdè tāyi iddaru. ādarè avaru bahaḻa baḍavaraṃtè. nanageno aiśvaryavaṃtara aḻiyanāgabekèṃdu bahaḻa āsèyittu. iṃglèṃḍigè hogi byārisṭaranāgabekèṃdu balavāda icchè. iṃglèṃḍigè hogabekādarè haṇabeku. nanagāgi tuṃbā haṇa kharcu māḍuvaṣṭu anukūlavu nanna taṃdègiralilla. aiśvaryavaṃtara aḻiyanādarè nānu iṃglèṃḍigè sulabhavāgi hogabahudāgittu. ādudariṃda ā baḍavara huḍugiyannu maduvèyāgalu nanagè manassiralilla."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ನನ್ನ ತಂಗಿ ವಿಜಯ. ಆಕೆಯನ್ನು ನಾನು ‘ವಿ’ ಎಂದು ಕರೆಯುತ್ತಿದ್ದೆ.",
+      "transliterations": {
+        "devanagari": "नन्न तंगि विजय. आकॆयन्नु नानु ‘वि’ ऎंदु करॆयुत्तिद्दॆ.",
+        "latin": "nanna taṃgi vijaya. ākèyannu nānu ‘vi’ èṃdu karèyuttiddè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ವಿಜಯ",
+      "text": "ಅಣ್ಣಾ ‘ಆ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾಗಲು ಒಪ್ಪಿಗೆಯೇ ಎಂದು ಅಪ್ಪ ಕೇಳಿದರೆ ಏನು ಎನ್ನುತ್ತಿ’",
+      "transliterations": {
+        "devanagari": "अण्णा ‘आ हुडुगियन्नु मदुवॆयागलु ऒप्पिगॆये ऎंदु अप्प केळिदरॆ एनु ऎन्नुत्ति’",
+        "latin": "aṇṇā ‘ā huḍugiyannu maduvèyāgalu òppigèye èṃdu appa keḻidarè enu ènnutti’"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ನಾನು",
+      "text": "ನಾನು ಅವಳನ್ನು ನೋಡಿಯೇ ಇಲ್ಲ, ನಾನು ಏನೆಂದು ಉತ್ತರ ಕೊಡಲಿ?",
+      "transliterations": {
+        "devanagari": "नानु अवळन्नु नोडिये इल्ल, नानु एनॆंदु उत्तर कॊडलि?",
+        "latin": "nānu avaḻannu noḍiye illa, nānu enèṃdu uttara kòḍali?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ವಿಜಯ",
+      "text": "ಅಣ್ಣ ನಾನು ಅವಳನ್ನು ನೋಡಿರುವೆ. ಅವಳು ಎಲ್ಲಾ ತರದಲ್ಲೂ ನಿನಗೆ ಯೋಗ್ಯಳಾಗಿದ್ದಾಳೆ. ಓದು ಬರೆಹ ಗೊತ್ತಿದೆ. ನೋಡುವುದಕ್ಕೆ ಅತಿ ಚೆಲುವೆ.",
+      "transliterations": {
+        "devanagari": "अण्ण नानु अवळन्नु नोडिरुवॆ. अवळु ऎल्ला तरदल्लू निनगॆ योग्यळागिद्दाळॆ. ओदु बरॆह गॊत्तिदॆ. नोडुवुदक्कॆ अति चॆलुवॆ.",
+        "latin": "aṇṇa nānu avaḻannu noḍiruvè. avaḻu èllā taradallū ninagè yogyaḻāgiddāḻè. odu barèha gòttidè. noḍuvudakkè ati cèluvè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ನಾನು",
+      "text": "ವರದಕ್ಷಿಣೆ ಎಷ್ಟು ಕೊಡುತ್ತಾರೆ?",
+      "transliterations": {
+        "devanagari": "वरदक्षिणॆ ऎष्टु कॊडुत्तारॆ?",
+        "latin": "varadakṣiṇè èṣṭu kòḍuttārè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "story",
+      "speaker": "ವಿಜಯ",
+      "text": "ಅಣ್ಣ, ಅಪ್ಪನಿಗೆ ವರದಕ್ಷಿಣೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಲಿಕ್ಕೆ ಇಷ್ಟ ಇಲ್ಲ. ಅವರು ಬಹಳ ಬಡವರು ಆದರೆ ಹುಡುಗಿ ರತಿದೇವಿಯಂತೆ ಇದ್ದಾಳೆ. ಅವರೇ ಐನೂರು ರೂಪಾಯಿ ಕೊಡುವೆವೆಂದು ಹೇಳಿದ್ದಾರೆ. ಅದನ್ನು ತೆಗೆದು ಕೊಳ್ಳುವುದಕ್ಕೂ ಅಪ್ಪನಿಗೆ ಒಪ್ಪಿಗೆ ಇಲ್ಲ.",
+      "transliterations": {
+        "devanagari": "अण्ण, अप्पनिगॆ वरदक्षिणॆयन्नु तॆगॆदुकॊळ्ळलिक्कॆ इष्ट इल्ल. अवरु बहळ बडवरु आदरॆ हुडुगि रतिदेवियंतॆ इद्दाळॆ. अवरे ऐनूरु रूपायि कॊडुवॆवॆंदु हेळिद्दारॆ. अदन्नु तॆगॆदु कॊळ्ळुवुदक्कू अप्पनिगॆ ऒप्पिगॆ इल्ल.",
+        "latin": "aṇṇa, appanigè varadakṣiṇèyannu tègèdukòḻḻalikkè iṣṭa illa. avaru bahaḻa baḍavaru ādarè huḍugi ratideviyaṃtè iddāḻè. avare ainūru rūpāyi kòḍuvèvèṃdu heḻiddārè. adannu tègèdu kòḻḻuvudakkū appanigè òppigè illa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "story",
+      "speaker": "ನಾನು",
+      "text": "ವಿ, ನನಗೆ ಲಂಡನ್ನಿಗೆ ಹೋಗಿ ಲಾ ಕಲಿಯಬೇಕೆಂದು ಇಚ್ಛೆಯಿದೆ. ಅದಕ್ಕಾಗುವ ಖರ್ಚನ್ನು ಕೊಡುವುದಾದರೆ ಮಾತ್ರ ನಾನು ಆ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾಗುತ್ತೇನೆ. ಇಲ್ಲದಿದ್ದರೆ ಇಲ್ಲ.",
+      "transliterations": {
+        "devanagari": "वि, ननगॆ लंडन्निगॆ होगि ला कलियबेकॆंदु इच्छॆयिदॆ. अदक्कागुव खर्चन्नु कॊडुवुदादरॆ मात्र नानु आ हुडुगियन्नु मदुवॆयागुत्तेनॆ. इल्लदिद्दरॆ इल्ल.",
+        "latin": "vi, nanagè laṃḍannigè hogi lā kaliyabekèṃdu icchèyidè. adakkāguva kharcannu kòḍuvudādarè mātra nānu ā huḍugiyannu maduvèyāguttenè. illadiddarè illa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d7",
+      "section": "story",
+      "speaker": "ವಿಜಯ",
+      "text": "ಅಣ್ಣ, ನೀನು ಎಂ.ಎ. ಪದವೀಧರ, ನಿನ್ನ ಬಾಯಿಂದ ಇಂತಹ ಮಾತು ಹೊರಡಬಹುದೇ? ನಿನ್ನನ್ನು ನೀನು ಮಾರಿಕೊಳ್ಳ ಬಯಸುವಿಯೇಕೆ?",
+      "transliterations": {
+        "devanagari": "अण्ण, नीनु ऎं.ऎ. पदवीधर, निन्न बायिंद इंतह मातु हॊरडबहुदे? निन्नन्नु नीनु मारिकॊळ्ळ बयसुवियेकॆ?",
+        "latin": "aṇṇa, nīnu èṃ.è. padavīdhara, ninna bāyiṃda iṃtaha mātu hòraḍabahude? ninnannu nīnu mārikòḻḻa bayasuviyekè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಎಂದು ಸ್ವಲ್ಪ ಕೋಪದಿಂದಲೇ ಹೇಳಿ ಒಳಗೆ ಹೊರಟುಹೋದಳು.",
+      "transliterations": {
+        "devanagari": "ऎंदु स्वल्प कोपदिंदले हेळि ऒळगॆ हॊरटुहोदळु.",
+        "latin": "èṃdu svalpa kopadiṃdale heḻi òḻagè hòraṭuhodaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಜಪಮಾಡಿ ಹೊರಗೆ ಬಂದು ಕುಳಿತಿದ್ದೆ. ನನ್ನ ತಂದೆಯೂ ಜಪ ತೀರಿಸಿ ಹೊರಗೆ ಬಂದರು.",
+      "transliterations": {
+        "devanagari": "जपमाडि हॊरगॆ बंदु कुळितिद्दॆ. नन्न तंदॆयू जप तीरिसि हॊरगॆ बंदरु.",
+        "latin": "japamāḍi hòragè baṃdu kuḻitiddè. nanna taṃdèyū japa tīrisi hòragè baṃdaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d8",
+      "section": "story",
+      "speaker": "ತಂದೆ",
+      "text": "ನೀನು ವಿಜಯಳ ಹತ್ತಿರ ಮುಂದೆ ಓದಿನ ಖರ್ಚಿಗೆ ಹಣ ಕೊಟ್ಟರೆ ಮದುವೆಯಾಗುತ್ತೇನೆ ಎಂದೆಯಂತೆ. ಅವರು ಬಡವರು. ಆರೇಳು ಹೆಣ್ಣು ಮಕ್ಕಳು ಇದ್ದಾರೆ. ಎಲ್ಲಿಂದ ತಾನೆ ಹಣ ತರಬಲ್ಲರು? ಹುಡುಗಿ ಲಕ್ಷಣವಾಗಿದ್ದಾಳೆ. ನೀನು ದೊಡ್ಡವರ ಅಳಿಯನಾಗಿ ಲಂಡನ್ನಿಗೆ ಹೋಗುವುದಕ್ಕೆ ನನಗೆ ಒಪ್ಪಿಗೆ ಇಲ್ಲ. ಈ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾದರೆ ಇಲ್ಲೇ ಲಾ ಓದುವ ಖರ್ಚನ್ನು ಹೇಗಾದರು ಮಾಡಿ ನಾನು ಕೊಡುತ್ತೇನೆ.",
+      "translations": {
+        "en": "Brother, you are an M.A. graduate — can such words come from your mouth? Why do you want to sell yourself?",
+        "hi": "अण्णा, तुम एम.ए. हो — मुँह से ऐसे शब्द? खुद को बेचना चाहते हो?"
+      },
+      "transliterations": {
+        "devanagari": "नीनु विजयळ हत्तिर मुंदॆ ओदिन खर्चिगॆ हण कॊट्टरॆ मदुवॆयागुत्तेनॆ ऎंदॆयंतॆ. अवरु बडवरु. आरेळु हॆण्णु मक्कळु इद्दारॆ. ऎल्लिंद तानॆ हण तरबल्लरु? हुडुगि लक्षणवागिद्दाळॆ. नीनु दॊड्डवर अळियनागि लंडन्निगॆ होगुवुदक्कॆ ननगॆ ऒप्पिगॆ इल्ल. ई हुडुगियन्नु मदुवॆयादरॆ इल्ले ला ओदुव खर्चन्नु हेगादरु माडि नानु कॊडुत्तेनॆ.",
+        "latin": "nīnu vijayaḻa hattira muṃdè odina kharcigè haṇa kòṭṭarè maduvèyāguttenè èṃdèyaṃtè. avaru baḍavaru. āreḻu hèṇṇu makkaḻu iddārè. èlliṃda tānè haṇa taraballaru? huḍugi lakṣaṇavāgiddāḻè. nīnu dòḍḍavara aḻiyanāgi laṃḍannigè hoguvudakkè nanagè òppigè illa. ī huḍugiyannu maduvèyādarè ille lā oduva kharcannu hegādaru māḍi nānu kòḍuttenè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಎಂದು ಹೇಳಿ ಒಳಗೆ ಹೊರಟು ಹೋದರು.",
+      "transliterations": {
+        "devanagari": "ऎंदु हेळि ऒळगॆ हॊरटु होदरु.",
+        "latin": "èṃdu heḻi òḻagè hòraṭu hodaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಅಂದಿನ ರಾತ್ರಿ ಎಲ್ಲರೂ ಮಲಗಿದ ಮೇಲೆ ನಾನು ಹೊರಗೆ ಹೊರಟೆ. ನನ್ನ ಮನಸ್ಸು ಸಿಟ್ಟಿನಿಂದ ಚಂಚಲವಾಗಿತ್ತು. ಆ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾಗುವ ಇಚ್ಛೆ ನನಗೆ ಸ್ವಲ್ಪವೂ ಇರಲಿಲ್ಲ. ತಂದೆಯಿದಿರು ನಿಂತು ಹಾಗೆ ಹೇಳುವ ಧೈರ್ಯ ನನಗಿರಲಿಲ್ಲ. ಆದುದರಿಂದ ಅಂದಿನ ರಾತ್ರಿಯೇ ಮನೆ ಬಿಟ್ಟುಹೊರಟೆ. ನಮ್ಮ ಹಳ್ಳಿಯಿಂದ ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಬಂದು ರೈಲು ಹೊರಡಲು ಹತ್ತು ನಿಮಿಷವಿದ್ದ ಕಾರಣ ಮದರಾಸಿಗೆ ಒಂದು ಟಿಕೆಟ್ಟನ್ನು ತೆಗೆದುಕೊಂಡು ಒಂದು ಕಂಪಾರ್ಟಮೆಂಟಿನಲ್ಲಿ ಹೋಗಿ ಕುಳಿತೆ. ನಾನು ಕುಳಿತಲ್ಲಿ ಬೇರೆ ಯಾರು ಇರಲಿಲ್ಲ. ಮುಂದೇನು ಗತಿಯೇನೆಂದು ಆಲೋಚಿಸುತ್ತ ಕುಳಿತಿದ್ದಂತೆಯೇ ನಿದ್ರೆ ಬಂದು ಬಿಟ್ಟಿತು. ಏನೋ ಶಬ್ದವಾದಂತಾಗಿ ಕಣ್ಣು ತೆರೆದು ನೋಡಿದೆ. ನನ್ನಿದಿರು ಒಬ್ಬ ಮುದುಕ ಕುಳಿತಿದ್ದನು. ಮುದುಕನಾದರೂ ಹುಡುಗನಂತೆ ಡ್ರೆಸ್ ಮಾಡಿಕೊಂಡಿದ್ದ. ನೋಡಿದ ಕೂಡಲೇ ಮುದುಕನೆಂದು ಗೊತ್ತಾಗುತ್ತಿರಲಿಲ್ಲ. ಅವನು ಹಣವಂತನಾಗಿರಬೇಕೆಂದು ಅವನ ವೇಷಭೂಷಣಗಳಿಂದ ವ್ಯಕ್ತವಾಗುತ್ತಿತ್ತು. ಅವನು ನನ್ನನ್ನೇ ನೋಡುತ್ತಾ ಕುಳಿತಿದ್ದರೂ ಮಾತನಾಡುವಂತೆ ತೋರಲಿಲ್ಲ. ನಾನೇ ಮಾತನಾಡಬೇಕಾಗಿ ಬಂತು.",
+      "transliterations": {
+        "devanagari": "अंदिन रात्रि ऎल्लरू मलगिद मेलॆ नानु हॊरगॆ हॊरटॆ. नन्न मनस्सु सिट्टिनिंद चंचलवागित्तु. आ हुडुगियन्नु मदुवॆयागुव इच्छॆ ननगॆ स्वल्पवू इरलिल्ल. तंदॆयिदिरु निंतु हागॆ हेळुव धैर्य ननगिरलिल्ल. आदुदरिंद अंदिन रात्रिये मनॆ बिट्टुहॊरटॆ. नम्म हळ्ळियिंद रैल्वॆ निल्दाणक्कॆ बंदु रैलु हॊरडलु हत्तु निमिषविद्द कारण मदरासिगॆ ऒंदु टिकॆट्टन्नु तॆगॆदुकॊंडु ऒंदु कंपार्टमॆंटिनल्लि होगि कुळितॆ. नानु कुळितल्लि बेरॆ यारु इरलिल्ल. मुंदेनु गतियेनॆंदु आलोचिसुत्त कुळितिद्दंतॆये निद्रॆ बंदु बिट्टितु. एनो शब्दवादंतागि कण्णु तॆरॆदु नोडिदॆ. नन्निदिरु ऒब्ब मुदुक कुळितिद्दनु. मुदुकनादरू हुडुगनंतॆ ड्रॆस् माडिकॊंडिद्द. नोडिद कूडले मुदुकनॆंदु गॊत्तागुत्तिरलिल्ल. अवनु हणवंतनागिरबेकॆंदु अवन वेषभूषणगळिंद व्यक्तवागुत्तित्तु. अवनु नन्नन्ने नोडुत्ता कुळितिद्दरू मातनाडुवंतॆ तोरलिल्ल. नाने मातनाडबेकागि बंतु.",
+        "latin": "aṃdina rātri èllarū malagida melè nānu hòragè hòraṭè. nanna manassu siṭṭiniṃda caṃcalavāgittu. ā huḍugiyannu maduvèyāguva icchè nanagè svalpavū iralilla. taṃdèyidiru niṃtu hāgè heḻuva dhairya nanagiralilla. ādudariṃda aṃdina rātriye manè biṭṭuhòraṭè. namma haḻḻiyiṃda railvè nildāṇakkè baṃdu railu hòraḍalu hattu nimiṣavidda kāraṇa madarāsigè òṃdu ṭikèṭṭannu tègèdukòṃḍu òṃdu kaṃpārṭamèṃṭinalli hogi kuḻitè. nānu kuḻitalli berè yāru iralilla. muṃdenu gatiyenèṃdu ālocisutta kuḻitiddaṃtèye nidrè baṃdu biṭṭitu. eno śabdavādaṃtāgi kaṇṇu tèrèdu noḍidè. nannidiru òbba muduka kuḻitiddanu. mudukanādarū huḍuganaṃtè ḍrès māḍikòṃḍidda. noḍida kūḍale mudukanèṃdu gòttāguttiralilla. avanu haṇavaṃtanāgirabekèṃdu avana veṣabhūṣaṇagaḻiṃda vyaktavāguttittu. avanu nannanne noḍuttā kuḻitiddarū mātanāḍuvaṃtè toralilla. nāne mātanāḍabekāgi baṃtu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d9",
+      "section": "story",
+      "speaker": "ನಾನು",
+      "text": "ಸ್ವಾಮಿ ದಯಮಾಡಿ ಗಂಟೆ ಎಷ್ಟೆಂದು ಹೇಳುವಿರಾ?",
+      "transliterations": {
+        "devanagari": "स्वामि दयमाडि गंटॆ ऎष्टॆंदु हेळुविरा?",
+        "latin": "svāmi dayamāḍi gaṃṭè èṣṭèṃdu heḻuvirā?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d10",
+      "section": "story",
+      "speaker": "ಮುದುಕ",
+      "text": "ಎರಡು ಗಂಟೆಗೆ ಹತ್ತು ನಿಮಿಷವಿದೆ",
+      "transliterations": {
+        "devanagari": "ऎरडु गंटॆगॆ हत्तु निमिषविदॆ",
+        "latin": "èraḍu gaṃṭègè hattu nimiṣavidè"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಆ ಮುದುಕ ತುಂಬಾ ಮಾತುಗಾರ. ಅವನು ಮಾತಿಗೆ ಪ್ರಾರಂಭಿಸಿದ. ಅಂತೂ ಮದರಾಸಿಗೆ ತಲುಪುವಷ್ಟರಲ್ಲೇ ನಾವಿಬ್ಬರೂ ಸ್ನೇಹಿತರಾಗಿಬಿಟ್ಟೆವು.",
+      "transliterations": {
+        "devanagari": "आ मुदुक तुंबा मातुगार. अवनु मातिगॆ प्रारंभिसिद. अंतू मदरासिगॆ तलुपुवष्टरल्ले नाविब्बरू स्नेहितरागिबिट्टॆवु.",
+        "latin": "ā muduka tuṃbā mātugāra. avanu mātigè prāraṃbhisida. aṃtū madarāsigè talupuvaṣṭaralle nāvibbarū snehitarāgibiṭṭèvu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಆ ಮುದುಕ ಒಬ್ಬ ರತ್ನದ ವ್ಯಾಪಾರಿ. ನಾನು ಯಾರೆಂದು ಕೇಳಿದ್ದಕ್ಕೆ - ನಾನೊಬ್ಬ ಬಡವರ ಮಗನೆಂದೂ ಎಂ.ಎ. ಪಾಸಾಗಿದೆಯೆಂದೂ ಕೆಲಸ ಹುಡುಕುವ ಸಲುವಾಗಿ ಮದರಾಸಿಗೆ ಹೊರಟಿದ್ದೇನೆಂದೂ ಹೇಳಿದೆ. ಕೆಲಸವೇನು ಸಿಕ್ಕದಿದ್ದರೆ ಬಂದು ತನ್ನನ್ನು ಕಾಣಬೇಕೆಂದು ಹೇಳಿದ. ಅಷ್ಟು ಹೊತ್ತಿಗಾಗಲೇ ಮದರಾಸು ತಲುಪಿದೆವು. ನಾನು ಓದುವಾಗ ವಾಸವಿದ್ದ ವೈ.ಎಂ.ಸಿ.ಎ. ಗೇ ಹೋಗಿ ಅಲ್ಲಿದ್ದ ಸ್ನೇಹಿತರ ಜೊತೆಯಲ್ಲಿ ಉಳಿದೆ.",
+      "transliterations": {
+        "devanagari": "आ मुदुक ऒब्ब रत्नद व्यापारि. नानु यारॆंदु केळिद्दक्कॆ - नानॊब्ब बडवर मगनॆंदू ऎं.ऎ. पासागिदॆयॆंदू कॆलस हुडुकुव सलुवागि मदरासिगॆ हॊरटिद्देनॆंदू हेळिदॆ. कॆलसवेनु सिक्कदिद्दरॆ बंदु तन्नन्नु काणबेकॆंदु हेळिद. अष्टु हॊत्तिगागले मदरासु तलुपिदॆवु. नानु ओदुवाग वासविद्द वै.ऎं.सि.ऎ. गे होगि अल्लिद्द स्नेहितर जॊतॆयल्लि उळिदॆ.",
+        "latin": "ā muduka òbba ratnada vyāpāri. nānu yārèṃdu keḻiddakkè - nānòbba baḍavara maganèṃdū èṃ.è. pāsāgidèyèṃdū kèlasa huḍukuva saluvāgi madarāsigè hòraṭiddenèṃdū heḻidè. kèlasavenu sikkadiddarè baṃdu tannannu kāṇabekèṃdu heḻida. aṣṭu hòttigāgale madarāsu talupidèvu. nānu oduvāga vāsavidda vai.èṃ.si.è. ge hogi allidda snehitara jòtèyalli uḻidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n9",
+      "section": "story",
+      "text": "ಮರುದಿನದಿಂದ ಕೆಲಸ ಹುಡುಕಲು ಪ್ರಾರಂಭಿಸಿ ಎಲ್ಲಿಯೂ ಕೆಲಸ ಸಿಗದೇ ಕೈಯಲ್ಲಿದ್ದ ಕೆಲವು ರೂಪಾಯಿಗಳು ಖರ್ಚಾಗಿದ್ದವು. ಊಟಕ್ಕೆ ತೊಂದರೆಯಾದಾಗ ಬೇರೇನೂ ದಿಕ್ಕು ತೋಚದೇ, ರೈಲಿನಲ್ಲಿ ಸ್ನೇಹಿತನಾದ ಆ ಮುದುಕನ ಮನೆಗೆ ಹೋದೆ. ದೇವರ ದಯೆಯಿಂದ ಅವರು ಮನೆಯಲ್ಲಿದ್ದರು. ಮಾತುಕತೆಯ ಬಳಿಕ ಕೆಲಸ ಸಿಗಲಿಲ್ಲವೆಂದವನಿಗೆ ಗೊತ್ತಾಯಿತು. ಅವನಿಗೊಬ್ಬ ಮಗಳೂ ದೂರ ಸಂಬಂಧದ ಸೊಸೆಯೂ ಇದ್ದರು. ಅವರಿಬ್ಬರಿಗೂ ಪಾಠ ಹೇಳಿಕೊಡಲು ಆಗುತ್ತದೆಯೇ ಎಂದು ನನ್ನನ್ನು ಕೇಳಿದ. ಏನೂ ಕೆಲಸವಿಲ್ಲದ ನನಗೆ ಅದೇ ಬಲು ದೊಡ್ಡ ಕೆಲಸವಾಯಿತು. ಮರುದಿನದಿಂದ ಪಾಠ ಹೇಳಲು ಉಪಕ್ರಮಿಸಿದೆ. ಮಗಳ ಹೆಸರು ಸೀತೆ, ಶಾಂತಿ ಎಂದು ಸೊಸೆಯ ಹೆಸರು.",
+      "transliterations": {
+        "devanagari": "मरुदिनदिंद कॆलस हुडुकलु प्रारंभिसि ऎल्लियू कॆलस सिगदे कैयल्लिद्द कॆलवु रूपायिगळु खर्चागिद्दवु. ऊटक्कॆ तॊंदरॆयादाग बेरेनू दिक्कु तोचदे, रैलिनल्लि स्नेहितनाद आ मुदुकन मनॆगॆ होदॆ. देवर दयॆयिंद अवरु मनॆयल्लिद्दरु. मातुकतॆय बळिक कॆलस सिगलिल्लवॆंदवनिगॆ गॊत्तायितु. अवनिगॊब्ब मगळू दूर संबंधद सॊसॆयू इद्दरु. अवरिब्बरिगू पाठ हेळिकॊडलु आगुत्तदॆये ऎंदु नन्नन्नु केळिद. एनू कॆलसविल्लद ननगॆ अदे बलु दॊड्ड कॆलसवायितु. मरुदिनदिंद पाठ हेळलु उपक्रमिसिदॆ. मगळ हॆसरु सीतॆ, शांति ऎंदु सॊसॆय हॆसरु.",
+        "latin": "marudinadiṃda kèlasa huḍukalu prāraṃbhisi èlliyū kèlasa sigade kaiyallidda kèlavu rūpāyigaḻu kharcāgiddavu. ūṭakkè tòṃdarèyādāga berenū dikku tocade, railinalli snehitanāda ā mudukana manègè hodè. devara dayèyiṃda avaru manèyalliddaru. mātukatèya baḻika kèlasa sigalillavèṃdavanigè gòttāyitu. avanigòbba magaḻū dūra saṃbaṃdhada sòsèyū iddaru. avaribbarigū pāṭha heḻikòḍalu āguttadèye èṃdu nannannu keḻida. enū kèlasavillada nanagè ade balu dòḍḍa kèlasavāyitu. marudinadiṃda pāṭha heḻalu upakramisidè. magaḻa hèsaru sītè, śāṃti èṃdu sòsèya hèsaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n10",
+      "section": "story",
+      "text": "ನಾನು ಪಾಠ ಹೇಳಲು ಮೊದಲು ಮಾಡಿ ಆರು ತಿಂಗಳುಗಳು ಸಂದಿದ್ದವು. ಹುಡುಗಿಯರಿಬ್ಬರೂ ಚೆನ್ನಾಗಿಯೇ ಪಾಠ ಕಲಿಯುತ್ತಿದ್ದರು. ಆದರೆ, ಶಾಂತಿಯಷ್ಟು ಚುರುಕಾಗಿ ಸೀತೆ ಕಲಿಯುತ್ತಿರಲಿಲ್ಲ. ಶಾಂತಿಯ ಸೌಂದರ್ಯ, ಸೌಂದರ್ಯವನ್ನಾವರಿಸಿದ್ದ ದುಃಖ, ವಿದ್ಯೆಗಳಲ್ಲಿ ಅವಳಿಗಿದ್ದ ಅಭಿರುಚಿ ಮಿತವಾದ ಮಾತು ಇವೆಲ್ಲವೂ ಸೇರಿ ನನ್ನ ಮನಸ್ಸನ್ನು ಅವಳೆಡೆಗೆ ಎಳೆಯತೊಡಗಿದವು. ಅವಳ ತಂದೆ ತಾಯಿಯರು ಅಷ್ಟೇನೂ ಅನುಕೂಲಸ್ಥರಾಗಿರಲಿಲ್ಲ. ಮಗಳ ಮದುವೆಗೆ ಬಹಳ ಪ್ರಯತ್ನ ಮಾಡುತ್ತಿದ್ದರು. ಬಡತನದ ದೆಸೆಯಿಂದ ವರದಕ್ಷಿಣೆ ಕೊಡಲಾರದೆ ಇನ್ನೂ ಮದುವೆಯಾಗಿರಲಿಲ್ಲ. ನನಗಂತು ಯಾವಾಗಲೂ ಶಾಂತಿಯ ಜಪವೇ ಆಯಿತು. ಮದುವೆಯಾದರೆ ಅವಳನ್ನು ಮದುವೆಯಾಗಬೇಕೆನಿಸಿತು; ಅವಳನ್ನು ಮದುವೆಯಾದರೆ ಲಂಡನ್ನಿಗೆ ಹೋಗಲಾಗುತ್ತಿರಲಿಲ್ಲ. ಆದುದರಿಂದ ಅವಳನ್ನು ಮರೆಯಲು ಪ್ರಯತ್ನಿಸತೊಡಗಿದೆ. ಎಷ್ಟೆಷ್ಟೂ ಪ್ರಯತ್ನಿಸಿದರೂ ಅವಳ ಸದ್ಗುಣಗಳು ನನ್ನ ಮನಸ್ಸನ್ನು ಅವಳೆಡೆಗೆ ಎಳೆಯತೊಡಗಿದವು. ನಾನು ಸೀತೆಯನ್ನು ಮದುವೆಯಾಗಬಹುದಿತ್ತು. ಎಷ್ಟೋ ಸಾರಿ ಅವಳ ತಂದೆ ನನ್ನನ್ನು ಹಾಸ್ಯಕ್ಕಾಗಿ ‘ಅಳಿಯ’ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು. ನಾನು ಅವರ ಅಳಿಯನಾದರೆ ಲಂಡನ್ನಿಗೆ ಹೋಗಬಹುದಿತ್ತು. ಆದರೆ ಎಂದಿನಿಂದ ಶಾಂತಿಯನ್ನು ಪ್ರೀತಿಸತೊಡಗಿದೆನೋ ಅಂದಿನಿಂದ ಹಣಕ್ಕಾಗಿ ಪ್ರೇಮವನ್ನು ಬಲಿಕೊಡಬಾರದೆಂದು ನನ್ನ ಮನಸ್ಸು ಹೇಳುತ್ತಿತ್ತು.",
+      "transliterations": {
+        "devanagari": "नानु पाठ हेळलु मॊदलु माडि आरु तिंगळुगळु संदिद्दवु. हुडुगियरिब्बरू चॆन्नागिये पाठ कलियुत्तिद्दरु. आदरॆ, शांतियष्टु चुरुकागि सीतॆ कलियुत्तिरलिल्ल. शांतिय सौंदर्य, सौंदर्यवन्नावरिसिद्द दुःख, विद्यॆगळल्लि अवळिगिद्द अभिरुचि मितवाद मातु इवॆल्लवू सेरि नन्न मनस्सन्नु अवळॆडॆगॆ ऎळॆयतॊडगिदवु. अवळ तंदॆ तायियरु अष्टेनू अनुकूलस्थरागिरलिल्ल. मगळ मदुवॆगॆ बहळ प्रयत्न माडुत्तिद्दरु. बडतनद दॆसॆयिंद वरदक्षिणॆ कॊडलारदॆ इन्नू मदुवॆयागिरलिल्ल. ननगंतु यावागलू शांतिय जपवे आयितु. मदुवॆयादरॆ अवळन्नु मदुवॆयागबेकॆनिसितु; अवळन्नु मदुवॆयादरॆ लंडन्निगॆ होगलागुत्तिरलिल्ल. आदुदरिंद अवळन्नु मरॆयलु प्रयत्निसतॊडगिदॆ. ऎष्टॆष्टू प्रयत्निसिदरू अवळ सद्गुणगळु नन्न मनस्सन्नु अवळॆडॆगॆ ऎळॆयतॊडगिदवु. नानु सीतॆयन्नु मदुवॆयागबहुदित्तु. ऎष्टो सारि अवळ तंदॆ नन्नन्नु हास्यक्कागि ‘अळिय’ ऎंदु करॆयुत्तिद्दरु. नानु अवर अळियनादरॆ लंडन्निगॆ होगबहुदित्तु. आदरॆ ऎंदिनिंद शांतियन्नु प्रीतिसतॊडगिदॆनो अंदिनिंद हणक्कागि प्रेमवन्नु बलिकॊडबारदॆंदु नन्न मनस्सु हेळुत्तित्तु.",
+        "latin": "nānu pāṭha heḻalu mòdalu māḍi āru tiṃgaḻugaḻu saṃdiddavu. huḍugiyaribbarū cènnāgiye pāṭha kaliyuttiddaru. ādarè, śāṃtiyaṣṭu curukāgi sītè kaliyuttiralilla. śāṃtiya sauṃdarya, sauṃdaryavannāvarisidda duḥkha, vidyègaḻalli avaḻigidda abhiruci mitavāda mātu ivèllavū seri nanna manassannu avaḻèḍègè èḻèyatòḍagidavu. avaḻa taṃdè tāyiyaru aṣṭenū anukūlastharāgiralilla. magaḻa maduvègè bahaḻa prayatna māḍuttiddaru. baḍatanada dèsèyiṃda varadakṣiṇè kòḍalāradè innū maduvèyāgiralilla. nanagaṃtu yāvāgalū śāṃtiya japave āyitu. maduvèyādarè avaḻannu maduvèyāgabekènisitu; avaḻannu maduvèyādarè laṃḍannigè hogalāguttiralilla. ādudariṃda avaḻannu marèyalu prayatnisatòḍagidè. èṣṭèṣṭū prayatnisidarū avaḻa sadguṇagaḻu nanna manassannu avaḻèḍègè èḻèyatòḍagidavu. nānu sītèyannu maduvèyāgabahudittu. èṣṭo sāri avaḻa taṃdè nannannu hāsyakkāgi ‘aḻiya’ èṃdu karèyuttiddaru. nānu avara aḻiyanādarè laṃḍannigè hogabahudittu. ādarè èṃdiniṃda śāṃtiyannu prītisatòḍagidèno aṃdiniṃda haṇakkāgi premavannu balikòḍabāradèṃdu nanna manassu heḻuttittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n11",
+      "section": "story",
+      "text": "ಒಂಬತ್ತು ಗಂಟೆಯಾಗಿತ್ತು ನಾನು ಪಾಠದ ಕೋಣೆಯಲ್ಲಿ ಕುಳಿತು ನನ್ನ ಶಿಷ್ಯೆಯರಿಬ್ಬರನ್ನು ಇದಿರು ನೋಡುತ್ತಿದ್ದೆ. ಬಾಗಿಲ ತೆರೆದ ಶಬ್ದವಾಯಿತು. ತೆರೆದ ಬಾಗಿಲಿನಿಂದ ಒಳಗೆ ಹೊಕ್ಕಳು ಸೀತೆ. ಶಾಂತಿಯ ಸುಳಿವಿಲ್ಲ. ಅವಳನ್ನು ಕಾಣದೆ ಮನಸ್ಸಿಗೆ ವಿಷಾದವಾಯಿತು. ಆದರೆ ಕೇಳುವ ಮೊದಲೇ ಅವಳೇ ಹೇಳಿದಳು.",
+      "transliterations": {
+        "devanagari": "ऒंबत्तु गंटॆयागित्तु नानु पाठद कोणॆयल्लि कुळितु नन्न शिष्यॆयरिब्बरन्नु इदिरु नोडुत्तिद्दॆ. बागिल तॆरॆद शब्दवायितु. तॆरॆद बागिलिनिंद ऒळगॆ हॊक्कळु सीतॆ. शांतिय सुळिविल्ल. अवळन्नु काणदॆ मनस्सिगॆ विषादवायितु. आदरॆ केळुव मॊदले अवळे हेळिदळु.",
+        "latin": "òṃbattu gaṃṭèyāgittu nānu pāṭhada koṇèyalli kuḻitu nanna śiṣyèyaribbarannu idiru noḍuttiddè. bāgila tèrèda śabdavāyitu. tèrèda bāgiliniṃda òḻagè hòkkaḻu sītè. śāṃtiya suḻivilla. avaḻannu kāṇadè manassigè viṣādavāyitu. ādarè keḻuva mòdale avaḻe heḻidaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d11",
+      "section": "story",
+      "speaker": "ಸೀತೆ",
+      "text": "ನೋಡಿ ಮೇಷ್ಟ್ರೆ ನಿನ್ನೆ ರಾತ್ರಿಯೇ ಶಾಂತಿಯ ತಂದೆ ಬಂದು ಅವಳನ್ನು ಊರಿಗೆ ಕರೆದುಕೊಂಡು ಹೋದರು. ಯಾಕೆಂತ ಗೊತ್ತಿದೆಯೇ? ಮದುವೆಗೆ?",
+      "transliterations": {
+        "devanagari": "नोडि मेष्ट्रॆ निन्नॆ रात्रिये शांतिय तंदॆ बंदु अवळन्नु ऊरिगॆ करॆदुकॊंडु होदरु. याकॆंत गॊत्तिदॆये? मदुवॆगॆ?",
+        "latin": "noḍi meṣṭrè ninnè rātriye śāṃtiya taṃdè baṃdu avaḻannu ūrigè karèdukòṃḍu hodaru. yākèṃta gòttidèye? maduvègè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n12",
+      "section": "story",
+      "text": "ಆಗ ನನಗೆ ತಿಳಿಯಿತು. ಶಾಂತಿ ಇಲ್ಲದೆ ನಾನು ಬದುಕಲಾರೆನೆಂದು. ಮೊದಲೇ ಅವಳ ತಂದೆತಾಯಿಯರನ್ನು ಕೇಳದಿದ್ದುದಕ್ಕಾಗಿ ನನ್ನನ್ನು ನಾನೆ ಹಳಿದುಕೊಂಡೆ. ಹಣದಾಸೆಯಿಂದ ನನ್ನ ಜೀವನವನ್ನು ನಾನೇ ಮಣ್ಣುಗೂಡಿಸಿಕೊಂಡ ಮೇಲೆ ಗೊತ್ತಾಯಿತು. ಶಾಂತಿ ವಿಹೀನ ಪ್ರಪಂಚದಲ್ಲಿ ಜೀವಿಸುವುದು ಅಸಾಧ್ಯವೆಂದು. ಶಾಂತಿಯನ್ನು ಕಳೆದುಕೊಂಡು ಅಂದಿನ ದಿನವನ್ನೆಲ್ಲ ಅಶಾಂತಿಯಲ್ಲಿ ಕಳೆದನು. ಮರುದಿನ ಪಾಠದ ಹೊತ್ತಿನಲ್ಲಿ ಸೀತೆ ನನಗೊಂದು ಕಾಗದ ತೋರಿಸಿದಳು. ಶಾಂತಿಯ ಕಾಗದವನ್ನು ಓದಿದೆ. ವರದಕ್ಷಿಣೆಯನ್ನು ಕೊಡಲಾರದ ತಂದೆತಾಯಿಯರು ನಾಲ್ಕು ಜನ ಮೊಮ್ಮಕ್ಕಳಿರುವ ಮುದುಕನ್ನು ಮದುವೆಯಾಗಲಾರದೆ ಆತ್ಮಹತ್ಯೆಮಾಡಿಕೊಂಡದ್ದನ್ನು ಓದಿ, ಶಾಂತಿಯಂತಹ ಸ್ವರ್ಣಪುತ್ಥಳಿಯನ್ನು ಕೊಡುವುದೂ ಅಲ್ಲದೆ ಅವಳೊಡನೆ ವರದಕ್ಷಿಣೆಯನ್ನು ಕೊಡಬೇಕೆಂದು ಕೇಳಿದ ನೀಚನನ್ನು ಶಪಿಸಿದೆ. ಹಿಂದೊಂದು ಬಾರಿ ನಾನು ಬಡವರ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾಗಲು ತಿರಸ್ಕರಿಸಿದ್ದುದು ದುಃಖದ ಭರದಲ್ಲಿ ಮರೆತೇ ಹೋಗಿತ್ತು. ವಿಧಿಯನ್ನು ದೂರುವ ಬದಲು ನಾನೇ ನನ್ನ ದುರಾಶೆಯನ್ನು ಬಿಟ್ಟು ಶಾಂತಿಯನ್ನು ಮದುವೆಯಾಗಿದ್ದರೆ ಆ ಮುದ್ದು ಬಾಲೆ ಈಗ ಸುಖವಾಗಿರುತ್ತಿದ್ದಳು. ನನ್ನ ತಪ್ಪಿಗಾಗಿ ನನ್ನನ್ನು ನಾನೆ ಜರಿದುಕೊಂಡೆ. ವರದಕ್ಷಿಣೆ ಎಂಬ ಪಿಶಾಚಿಯು ಅದೆಷ್ಟು ಸುಕುಮಾರಿಯರನ್ನು ಬಲಿ ತೆಗೆದುಕೊಳ್ಳುವುದೋ ದೇವರೇ ಬಲ್ಲ! ಆದರೆ ನನ್ನ ಶಾಂತಿಯನ್ನು ಅದು ಬಲಿತೆಗೆದುಕೊಂಡ ಮೇಲೆ ನನಗದರ ನಿಜಸ್ವರೂಪ ಗೊತ್ತಾಯಿತು.",
+      "transliterations": {
+        "devanagari": "आग ननगॆ तिळियितु. शांति इल्लदॆ नानु बदुकलारॆनॆंदु. मॊदले अवळ तंदॆतायियरन्नु केळदिद्दुदक्कागि नन्नन्नु नानॆ हळिदुकॊंडॆ. हणदासॆयिंद नन्न जीवनवन्नु नाने मण्णुगूडिसिकॊंड मेलॆ गॊत्तायितु. शांति विहीन प्रपंचदल्लि जीविसुवुदु असाध्यवॆंदु. शांतियन्नु कळॆदुकॊंडु अंदिन दिनवन्नॆल्ल अशांतियल्लि कळॆदनु. मरुदिन पाठद हॊत्तिनल्लि सीतॆ ननगॊंदु कागद तोरिसिदळु. शांतिय कागदवन्नु ओदिदॆ. वरदक्षिणॆयन्नु कॊडलारद तंदॆतायियरु नाल्कु जन मॊम्मक्कळिरुव मुदुकन्नु मदुवॆयागलारदॆ आत्महत्यॆमाडिकॊंडद्दन्नु ओदि, शांतियंतह स्वर्णपुत्थळियन्नु कॊडुवुदू अल्लदॆ अवळॊडनॆ वरदक्षिणॆयन्नु कॊडबेकॆंदु केळिद नीचनन्नु शपिसिदॆ. हिंदॊंदु बारि नानु बडवर हुडुगियन्नु मदुवॆयागलु तिरस्करिसिद्दुदु दुःखद भरदल्लि मरॆते होगित्तु. विधियन्नु दूरुव बदलु नाने नन्न दुराशॆयन्नु बिट्टु शांतियन्नु मदुवॆयागिद्दरॆ आ मुद्दु बालॆ ईग सुखवागिरुत्तिद्दळु. नन्न तप्पिगागि नन्नन्नु नानॆ जरिदुकॊंडॆ. वरदक्षिणॆ ऎंब पिशाचियु अदॆष्टु सुकुमारियरन्नु बलि तॆगॆदुकॊळ्ळुवुदो देवरे बल्ल! आदरॆ नन्न शांतियन्नु अदु बलितॆगॆदुकॊंड मेलॆ ननगदर निजस्वरूप गॊत्तायितु.",
+        "latin": "āga nanagè tiḻiyitu. śāṃti illadè nānu badukalārènèṃdu. mòdale avaḻa taṃdètāyiyarannu keḻadiddudakkāgi nannannu nānè haḻidukòṃḍè. haṇadāsèyiṃda nanna jīvanavannu nāne maṇṇugūḍisikòṃḍa melè gòttāyitu. śāṃti vihīna prapaṃcadalli jīvisuvudu asādhyavèṃdu. śāṃtiyannu kaḻèdukòṃḍu aṃdina dinavannèlla aśāṃtiyalli kaḻèdanu. marudina pāṭhada hòttinalli sītè nanagòṃdu kāgada torisidaḻu. śāṃtiya kāgadavannu odidè. varadakṣiṇèyannu kòḍalārada taṃdètāyiyaru nālku jana mòmmakkaḻiruva mudukannu maduvèyāgalāradè ātmahatyèmāḍikòṃḍaddannu odi, śāṃtiyaṃtaha svarṇaputthaḻiyannu kòḍuvudū alladè avaḻòḍanè varadakṣiṇèyannu kòḍabekèṃdu keḻida nīcanannu śapisidè. hiṃdòṃdu bāri nānu baḍavara huḍugiyannu maduvèyāgalu tiraskarisiddudu duḥkhada bharadalli marète hogittu. vidhiyannu dūruva badalu nāne nanna durāśèyannu biṭṭu śāṃtiyannu maduvèyāgiddarè ā muddu bālè īga sukhavāgiruttiddaḻu. nanna tappigāgi nannannu nānè jaridukòṃḍè. varadakṣiṇè èṃba piśāciyu adèṣṭu sukumāriyarannu bali tègèdukòḻḻuvudo devare balla! ādarè nanna śāṃtiyannu adu balitègèdukòṃḍa melè nanagadara nijasvarūpa gòttāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n13",
+      "section": "story",
+      "text": "ಅಂದಿನ ರಾತ್ರಿಯೇ ಊರಿಗೆ ಹೊರಟೆ. ಮರುದಿನ ಬೆಳಗಿನ ಹೊತ್ತಿನಲ್ಲಿ ಮನೆಗೆ ತಲುಪಿದೆ. ನಾನು ಹೋಗುವಾಗ ಅಮ್ಮ ಅಂಗಳ ಸಾರಿಸಿ ರಂಗವಲ್ಲಿ ಇಡುತ್ತಿದ್ದಳು. ನನ್ನ ತಂದೆಯೂ ‘ವಿ’ಯೂ ಒಳಗಿದ್ದರು. ಅಮ್ಮನೊಡನೆ ಮಾತನಾಡಿ ಒಳಗೆ ಹೋದೆ. ನಾನು ಅಲ್ಲಿ ನಿಲ್ಲದೆ ನನ್ನ ಕೋಣೆಗೆ ಹೋದೆ. ಅಲ್ಲಿ ವಿಜಯ ಒಂದು ಚಿತ್ರವನ್ನು ನೋಡುತ್ತಾ ನಿಂತಿದ್ದಳು. ನನ್ನನ್ನು ಕಂಡು ಆ ಚಿತ್ರವನ್ನು ಬಚ್ಚಿಟ್ಟಳು. ಆಗವಳು ತಾನು ನೋಡುತ್ತಿದ್ದ ಪೇಪರನ್ನು ನನ್ನೆದುರು ಎಳೆದು ಹೇಳಿದಳು.",
+      "transliterations": {
+        "devanagari": "अंदिन रात्रिये ऊरिगॆ हॊरटॆ. मरुदिन बॆळगिन हॊत्तिनल्लि मनॆगॆ तलुपिदॆ. नानु होगुवाग अम्म अंगळ सारिसि रंगवल्लि इडुत्तिद्दळु. नन्न तंदॆयू ‘वि’यू ऒळगिद्दरु. अम्मनॊडनॆ मातनाडि ऒळगॆ होदॆ. नानु अल्लि निल्लदॆ नन्न कोणॆगॆ होदॆ. अल्लि विजय ऒंदु चित्रवन्नु नोडुत्ता निंतिद्दळु. नन्नन्नु कंडु आ चित्रवन्नु बच्चिट्टळु. आगवळु तानु नोडुत्तिद्द पेपरन्नु नन्नॆदुरु ऎळॆदु हेळिदळु.",
+        "latin": "aṃdina rātriye ūrigè hòraṭè. marudina bèḻagina hòttinalli manègè talupidè. nānu hoguvāga amma aṃgaḻa sārisi raṃgavalli iḍuttiddaḻu. nanna taṃdèyū ‘vi’yū òḻagiddaru. ammanòḍanè mātanāḍi òḻagè hodè. nānu alli nilladè nanna koṇègè hodè. alli vijaya òṃdu citravannu noḍuttā niṃtiddaḻu. nannannu kaṃḍu ā citravannu bacciṭṭaḻu. āgavaḻu tānu noḍuttidda peparannu nannèduru èḻèdu heḻidaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d12",
+      "section": "story",
+      "speaker": "ವಿಜಯ",
+      "text": "ನೋಡುತ್ತಿದ್ದುದು ನೀನು ಕೊಂದ ಹುಡುಗಿಯನ್ನು",
+      "transliterations": {
+        "devanagari": "नोडुत्तिद्दुदु नीनु कॊंद हुडुगियन्नु",
+        "latin": "noḍuttiddudu nīnu kòṃda huḍugiyannu"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n14",
+      "section": "story",
+      "text": "ನನಗೆ ಬಹಳ ಆಶ್ಚರ್ಯವಾಯಿತು. ಪತ್ರಿಕೆಯನ್ನು ಆತುರದಿಂದ ತೆಗೆದು ನೋಡಿದೆ. ಶಾಂತಿಯ ಚಿತ್ರ. - ಅದರ ಕೆಳಗಡೆ ವರದಕ್ಷಿಣೆಗೆ ಆಹುತಿ. ಶಾಂತಿಯೇ ನಾನು ಮೊದಲು ಕೈಬಿಟ್ಟ ಕನ್ಯೆ? ಈಗ . . . . . . ಏನು ಪ್ರಯೋಜನ!",
+      "transliterations": {
+        "devanagari": "ननगॆ बहळ आश्चर्यवायितु. पत्रिकॆयन्नु आतुरदिंद तॆगॆदु नोडिदॆ. शांतिय चित्र. - अदर कॆळगडॆ वरदक्षिणॆगॆ आहुति. शांतिये नानु मॊदलु कैबिट्ट कन्यॆ? ईग . . . . . . एनु प्रयोजन!",
+        "latin": "nanagè bahaḻa āścaryavāyitu. patrikèyannu āturadiṃda tègèdu noḍidè. śāṃtiya citra. - adara kèḻagaḍè varadakṣiṇègè āhuti. śāṃtiye nānu mòdalu kaibiṭṭa kanyè? īga . . . . . . enu prayojana!"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಕೊಡಗಿನ ಗೌರಮ್ಮನವರು ಕನ್ನಡದ ಪ್ರಥಮ ಕತೆಗಾರ್ತಿ ಎಂದು ಹೆಸರಾಗಿದ್ದಾರೆ. ಇವರು 1912 ಮಾರ್ಚ್ 3ರಂದು ಮಡಿಕೇರಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಸ್ವಾತಂತ್ರ್ಯ ಆಂದೋಲನದ ಸಂದರ್ಭದಲ್ಲಿ ಮಹಾತ್ಮ ಗಾಂಧೀಜಿಯವರು ಕೊಡಗಿನಲ್ಲಿ ಪ್ರವಾಸ ಕೈಗೊಂಡಾಗ ಅವರನ್ನು ತಮ್ಮ ಮನೆಗೆ ಬರಮಾಡಿಕೊಂಡು ತಮ್ಮ ಆಭರಣಗಳನ್ನೆಲ್ಲ ದಾನ ನೀಡಿದರು. ಗೌರಮ್ಮನವರು ಮಿಸೆಸ್ ಟಿ.ಜಿ. ಕೃಷ್ಣ ಎನ್ನುವ ಹೆಸರಿನಲ್ಲಿ ಕತೆಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ. ಕಂಬನಿ, ಚಿಗುರು ಹಾಗೂ ಗೌರಮ್ಮನ ಕತೆಗಳು ಅವರ ಕಥಾ ಸಂಕಲನಗಳು.",
+      "translations": {
+        "en": "Kodagina Gouramma is known as the first woman short-story writer in Kannada. Born in Madikeri on 3 March 1912. During the freedom movement she hosted Gandhi in Coorg and donated her jewellery. She wrote stories as Mrs T.G. Krishna. Collections include Kambani, Chiguru and Gourammana Kathegalu.",
+        "hi": "कोडगिन गौरम्मा कन्नड़ की प्रथम कथाकार मानी जाती हैं। 3 मार्च 1912 को मडिकेरी में जन्म।"
+      },
+      "transliterations": {
+        "devanagari": "कॊडगिन गौरम्मनवरु कन्नडद प्रथम कतॆगार्ति ऎंदु हॆसरागिद्दारॆ. इवरु 1912 मार्च् 3रंदु मडिकेरियल्लि जनिसिदरु. स्वातंत्र्य आंदोलनद संदर्भदल्लि महात्म गांधीजियवरु कॊडगिनल्लि प्रवास कैगॊंडाग अवरन्नु तम्म मनॆगॆ बरमाडिकॊंडु तम्म आभरणगळन्नॆल्ल दान नीडिदरु. गौरम्मनवरु मिसॆस् टि.जि. कृष्ण ऎन्नुव हॆसरिनल्लि कतॆगळन्नु बरॆदिद्दारॆ. कंबनि, चिगुरु हागू गौरम्मन कतॆगळु अवर कथा संकलनगळु.",
+        "latin": "kòḍagina gaurammanavaru kannaḍada prathama katègārti èṃdu hèsarāgiddārè. ivaru 1912 mārc 3raṃdu maḍikeriyalli janisidaru. svātaṃtrya āṃdolanada saṃdarbhadalli mahātma gāṃdhījiyavaru kòḍaginalli pravāsa kaigòṃḍāga avarannu tamma manègè baramāḍikòṃḍu tamma ābharaṇagaḻannèlla dāna nīḍidaru. gaurammanavaru misès ṭi.ji. kṛṣṇa ènnuva hèsarinalli katègaḻannu barèdiddārè. kaṃbani, ciguru hāgū gaurammana katègaḻu avara kathā saṃkalanagaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ರೈಲಿನಲ್ಲಿ ಸಿಕ್ಕಿದ ಮುದುಕನ ಉದ್ಯೋಗವೇನು?",
+      "transliterations": {
+        "devanagari": "रैलिनल्लि सिक्किद मुदुकन उद्योगवेनु?",
+        "latin": "railinalli sikkida mudukana udyogavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಯುವಕನು ರೈಲಿನಲ್ಲಿ ಸಿಕ್ಕಿದ ಮುದುಕನ ಮನೆಗೆ ಏಕೆ ಬಂದನು?",
+      "transliterations": {
+        "devanagari": "युवकनु रैलिनल्लि सिक्किद मुदुकन मनॆगॆ एकॆ बंदनु?",
+        "latin": "yuvakanu railinalli sikkida mudukana manègè ekè baṃdanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಮುದುಕನ ಮಗಳು ಮತ್ತು ಸೊಸೆಯ ಹೆಸರೇನು?",
+      "transliterations": {
+        "devanagari": "मुदुकन मगळु मत्तु सॊसॆय हॆसरेनु?",
+        "latin": "mudukana magaḻu mattu sòsèya hèsarenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ವರದಕ್ಷಿಣೆಯ ಪಿಶಾಚಿ ಯಾರನ್ನು ಬಲಿ ತೆಗೆದುಕೊಂಡಿದೆ?",
+      "translations": {
+        "en": "Whom has the demon of dowry sacrificed?",
+        "hi": "दहेज के पिशाच ने किसे बलि लिया?"
+      },
+      "transliterations": {
+        "devanagari": "वरदक्षिणॆय पिशाचि यारन्नु बलि तॆगॆदुकॊंडिदॆ?",
+        "latin": "varadakṣiṇèya piśāci yārannu bali tègèdukòṃḍidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ಯುವಕನು ಬಡವರ ಹುಡುಗಿಯನ್ನು ಮದುವೆಯಾಗದಿರಲು ಕಾರಣಗಳೇನು?",
+      "transliterations": {
+        "devanagari": "युवकनु बडवर हुडुगियन्नु मदुवॆयागदिरलु कारणगळेनु?",
+        "latin": "yuvakanu baḍavara huḍugiyannu maduvèyāgadiralu kāraṇagaḻenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "ಪತ್ರಿಕೆಯನ್ನು ತೋರಿಸಿ ವಿಜಯಳು ಅಣ್ಣನಿಗೆ ಏನು ಹೇಳಿದಳು?",
+      "transliterations": {
+        "devanagari": "पत्रिकॆयन्नु तोरिसि विजयळु अण्णनिगॆ एनु हेळिदळु?",
+        "latin": "patrikèyannu torisi vijayaḻu aṇṇanigè enu heḻidaḻu?"
+      },
+      "type": "question"
+    }
+  ]
+}

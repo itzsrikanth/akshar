@@ -1,0 +1,376 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g5-fl-p1",
+    "chapterId": "ch09-kamana-billu",
+    "editionId": "2026-27",
+    "number": 9
+  },
+  "labels": {
+    "author_intro": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार का परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kr̥tikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige uttarisi."
+    }
+  },
+  "meta": {
+    "author": "ನಿಂಗಣ್ಣ ಕುಂಟಿ",
+    "board": "KSEEB",
+    "chapter": 9,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch09-kamana-billu",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕಾಮನ ಬಿಲ್ಲು"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ರವಿಯದೊ ಹೊರಟನು ಪಡುವಣಕೆ",
+      "translations": {
+        "en": "Look, the sun has set out toward the west",
+        "hi": "देखो, सूर्य पश्चिम की ओर निकल पड़ा"
+      },
+      "transliterations": {
+        "devanagari": "रवियदो होरटनु पडुवणके",
+        "latin": "raviyado horaṭanu paḍuvaṇake"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ತಾಯಿಯ ಮನೆಯನು ಸೇರಲಿಕೆ",
+      "translations": {
+        "en": "to reach his mother’s home",
+        "hi": "माता के घर पहुँचने के लिए"
+      },
+      "transliterations": {
+        "devanagari": "तायिय मनेयनु सेरलिके",
+        "latin": "tāyiya maneyanu sēralike"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಸಂಜೆಯ ಹೊತ್ತಿನ ಹೂಬಿಸಿಲು",
+      "translations": {
+        "en": "The flower-like glow of evening light",
+        "hi": "संध्या के समय की फूल-सी धूप"
+      },
+      "transliterations": {
+        "devanagari": "संजेय होत्तिन हूबिसिलु",
+        "latin": "sañjeya hottina hūbisilu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಕಣ್ಣಿಗೆ ಹಿಗ್ಗಿನ ಅಂದದ ಹೊನಲು",
+      "translations": {
+        "en": "is a beautiful flood of joy for the eyes",
+        "hi": "आँखों के लिए आनंद की सुंदर बाढ़"
+      },
+      "transliterations": {
+        "devanagari": "कण्णिगे हिग्गिन अंदद होनलु",
+        "latin": "kaṇṇige higgina andada honalu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಬಿಳಿತೆರೆ ಮೋಡದ ಅಂಚಿನಲಿ",
+      "translations": {
+        "en": "At the edge of a white-screen cloud",
+        "hi": "श्वेत परदे जैसे बादल के किनारे पर"
+      },
+      "transliterations": {
+        "devanagari": "बिळितेरे मोडद अंचिनलि",
+        "latin": "biḷitere mōḍada añcinali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಹನಿಮಳೆ ಬೀಳುವ ಹೊತ್ತಿನಲಿ",
+      "translations": {
+        "en": "at the time when drizzle falls",
+        "hi": "जब बूंदाबांदी गिर रही हो"
+      },
+      "transliterations": {
+        "devanagari": "हनिमळे बीळुव होत्तिनलि",
+        "latin": "hanimaḷe bīḷuva hottinali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ತುಂತುರು ಹನಿಗಳು ಬೀಳುತ್ತಿವೆ.",
+      "translations": {
+        "en": "Fine raindrops are falling.",
+        "hi": "बूंद-बूंद जल गिर रहा है।"
+      },
+      "transliterations": {
+        "devanagari": "तुंतुरु हनिगळु बीळुत्तिवे.",
+        "latin": "tunturu hanigaḷu bīḷuttive."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಕಾಮನ ಬಿಲ್ಲನು ಮೂಡಿಸಿವೆ",
+      "translations": {
+        "en": "They have made the rainbow appear",
+        "hi": "उन्होंने इंद्रधनुष जगा दिया है"
+      },
+      "transliterations": {
+        "devanagari": "कामन बिल्लनु मूडिसिवे",
+        "latin": "kāmana billanu mūḍisive"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಕಾಮನ ಬಿಲ್ಲನು ನೋಡಲ್ಲಿ",
+      "translations": {
+        "en": "Look at the rainbow",
+        "hi": "इंद्रधनुष को देखो"
+      },
+      "transliterations": {
+        "devanagari": "कामन बिल्लनु नोडल्लि",
+        "latin": "kāmana billanu nōḍalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಮಣಿದಿಹ ಬಿಲ್ಲದು ಮುಗಿಲಲ್ಲಿ",
+      "translations": {
+        "en": "That bowed bow is in the sky",
+        "hi": "वह झुका धनुष आकाश में है"
+      },
+      "transliterations": {
+        "devanagari": "मणिदिह बिल्लदु मुगिलल्लि",
+        "latin": "maṇidiha billadu mugilalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಕಿತ್ತಳೆ ಕೇಸರಿ ಹಳದಿ ಕೆಂಪು",
+      "translations": {
+        "en": "Orange, saffron, yellow, red",
+        "hi": "नारंगी, केसरिया, पीला, लाल"
+      },
+      "transliterations": {
+        "devanagari": "कित्तळे केसरि हळदि केंपु",
+        "latin": "kittaḷe kēsari haḷadi kempu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ನೀಲಿ ಕಂದು ನೇರಿಳೆ ತಂಪು",
+      "translations": {
+        "en": "Blue, brown, cool green",
+        "hi": "नीला, भूरा, ठंडी हरियाली"
+      },
+      "transliterations": {
+        "devanagari": "नीलि कंदु नेरिळे तंपु",
+        "latin": "nīli kandu nēriḷe tampu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ನೆಲಕೂ ಮುಗಿಲಿಗೂ ಮುಟ್ಟಿಹುದು",
+      "translations": {
+        "en": "It has touched both the earth and the sky",
+        "hi": "धरा और आकाश दोनों को छू लिया है"
+      },
+      "transliterations": {
+        "devanagari": "नेलकू मुगिलिगू मुट्टिहुदु",
+        "latin": "nelakū mugiligū muṭṭihudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಕಣ್ಣಿಗೆ ಹಬ್ಬವ ತಂದಿಹುದು",
+      "translations": {
+        "en": "It has brought a festival to the eyes",
+        "hi": "आँखों के लिए उत्सव ला दिया है"
+      },
+      "transliterations": {
+        "devanagari": "कण्णिगे हब्बव तंदिहुदु",
+        "latin": "kaṇṇige habbava tandihudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಸೂರ್ಯನು ಮುಳುಗಿದ ಕತ್ತಲು ಬಂದಿತು",
+      "translations": {
+        "en": "The sun sank and darkness came",
+        "hi": "सूर्य डूबा, अंधेरा आ गया"
+      },
+      "transliterations": {
+        "devanagari": "सूर्यनु मुळुगिद कत्तलु बंदितु",
+        "latin": "sūryanu muḷugida kattalu banditu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಮೋಡವು ಚದುರಿತು ಮಳೆಯೂ ನಿಂತಿತು",
+      "translations": {
+        "en": "The cloud scattered and the rain stopped too",
+        "hi": "बादल बिखर गया, वर्षा भी थम गई"
+      },
+      "transliterations": {
+        "devanagari": "मोडवु चदुरितु मळेयू निंतितु",
+        "latin": "mōḍavu caduritu maḷeyū nintitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಮರೆಯಲಿ ಓಡಿತು ಕಾಮನ ಬಿಲ್ಲು",
+      "translations": {
+        "en": "The rainbow ran into hiding",
+        "hi": "इंद्रधनुष छिपकर भाग गया"
+      },
+      "transliterations": {
+        "devanagari": "मरेयलि ओडितु कामन बिल्लु",
+        "latin": "mareyali ōḍitu kāmana billu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಕಾಣದಾಯಿತು ಮಾಯದ ಬಿಲ್ಲು",
+      "translations": {
+        "en": "The magical bow became unseen",
+        "hi": "जादुई धनुष अदृश्य हो गया"
+      },
+      "transliterations": {
+        "devanagari": "काणदायितु मायद बिल्लु",
+        "latin": "kāṇadāyitu māyada billu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-intro-1",
+      "section": "author_intro",
+      "text": "ನಿಂಗಪ್ಪ ಹನುಮಪ್ಪ ಕುಂಟಿ (ನಿಂಗಣ್ಣ ಕುಂಟಿ ಇಟಗಿ) ಇವರು 1943ರಲ್ಲಿ ಗದಗ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಇಟಗಿಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಇವರು ಪ್ರಾಥಮಿಕ ಶಾಲಾ ಶಿಕ್ಷಕರಾಗಿ ಹಾಗೂ ಮಕ್ಕಳ ಸಾಹಿತಿಗಳಾಗಿ ಕನ್ನಡ ಸೇವೆಯನ್ನು ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಮಕ್ಕಳ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕೃಷಿ ಮಾಡಿರುವ ಇವರು ಅನೇಕ ಶಿಶುಪ್ರಾಸಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರ ‘ಚಂದಪ್ಪನ ಶಾಲೆ’ ಕವನ ಸಂಕಲನ ಪ್ರಕಟಗೊಂಡಿದೆ. ಶ್ರೀಯುತರಿಗೆ ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ರಚನೆಗಾಗಿ ಹಲವು ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.",
+      "translations": {
+        "en": "Ningappa Hanumappa Kunti (Ninganna Kunti of Itagi) was born in 1943 in Itagi village of Shirahatti taluk, Gadag district. He has served Kannada as a primary school teacher and as a children’s writer. Working in children’s literature, he has composed many nursery rhymes. His poetry collection “Chandappana Shale” has been published. He has been honoured with several awards for writing children’s literature.",
+        "hi": "निंगप्पा हनुमप्पा कुंटी (इटगि के निंगण्णा कुंटी) का जन्म 1943 में गदग जिले के शिरहट्टी तालुक के इटगि ग्राम में हुआ। उन्होंने प्राथमिक विद्यालय शिक्षक और बाल साहित्यकार के रूप में कन्नड़ सेवा की है। बाल साहित्य में कार्य करते हुए उन्होंने अनेक शिशु-गीत रचे हैं। उनका काव्य संग्रह «चंदप्पन शाले» प्रकाशित हुआ है। बाल साहित्य रचना के लिए उन्हें कई पुरस्कार देकर सम्मानित किया गया है।"
+      },
+      "transliterations": {
+        "devanagari": "निंगप्प हनुमप्प कुंटि (निंगण्ण कुंटि इटगि) इवरु 1943रल्लि गदग जिल्लेय शिरहट्टि ताल्लूकिन इटगिग्रामदल्लि जनिसिदरु. इवरु प्राथमिक शाला शिक्षकरागि हागू मक्कळ साहितिगळागि कन्नड सेवेयन्नु सल्लिसिद्दारे. मक्कळ साहित्यदल्लि कृषि माडिरुव इवरु अनेक शिशुप्रासगळन्नु रचिसिद्दारे. इवर ‘चंदप्पन शाले’ कवन संकलन प्रकटगोंडिदे. श्रीयुतरिगे मक्कळ साहित्य रचनेगागि हलवु प्रशस्तिगळन्नु नीडि गौरविसलागिदे.",
+        "latin": "niṅgappa hanumappa kuṇṭi (niṅgaṇṇa kuṇṭi iṭagi) ivaru 1943ralli gadaga jilleya śirahaṭṭi tāllūkina iṭagigrāmadalli janisidaru. ivaru prāthamika śālā śikṣakarāgi hāgū makkaḷa sāhitigaḷāgi kannaḍa sēveyannu sallisiddāre. makkaḷa sāhityadalli kr̥ṣi māḍiruva ivaru anēka śiśuprāsagaḷannu racisiddāre. ivara ‘candappana śāle’ kavana saṅkalana prakaṭagoṇḍide. śrīyutarige makkaḷa sāhitya racanegāgi halavu praśastigaḷannu nīḍi gauravisalāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "1. ರವಿಯು ಯಾವ ದಿಕ್ಕಿಗೆ ಹೊರಟನು?",
+      "translations": {
+        "en": "1. In which direction did the sun set out?",
+        "hi": "1. सूर्य किस दिशा की ओर निकला?"
+      },
+      "transliterations": {
+        "devanagari": "1. रवियु याव दिक्किगे होरटनु?",
+        "latin": "1. raviyu yāva dikkige horaṭanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "2. ಕಾಮನ ಬಿಲ್ಲು ಎಲ್ಲಿಂದ ಎಲ್ಲಿಯವರೆಗೆ ಆವರಿಸಿದೆ?",
+      "translations": {
+        "en": "2. From where to where does the rainbow stretch?",
+        "hi": "2. इंद्रधनुष कहाँ से कहाँ तक फैला है?"
+      },
+      "transliterations": {
+        "devanagari": "2. कामन बिल्लु एल्लिंद एल्लियवरेगे आवरिसिदे?",
+        "latin": "2. kāmana billu ellinda elliyavarege āvariside?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "3. ಕಾಮನ ಬಿಲ್ಲಿನಲ್ಲಿರುವ ಬಣ್ಣಗಳನ್ನು ಹೆಸರಿಸಿ.",
+      "translations": {
+        "en": "3. Name the colours in the rainbow.",
+        "hi": "3. इंद्रधनुष में मौजूद रंगों के नाम बताइए।"
+      },
+      "transliterations": {
+        "devanagari": "3. कामन बिल्लिनल्लिरुव बण्णगळन्नु हेसरिसि.",
+        "latin": "3. kāmana billinalliruva baṇṇagaḷannu hesarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "4. ಕಾಮನ ಬಿಲ್ಲು ಯಾವಾಗ ಮರೆಯಾಯಿತು?",
+      "translations": {
+        "en": "4. When did the rainbow disappear?",
+        "hi": "4. इंद्रधनुष कब अदृश्य हो गया?"
+      },
+      "transliterations": {
+        "devanagari": "4. कामन बिल्लु यावाग मरेयायितु?",
+        "latin": "4. kāmana billu yāvāga mareyāyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "5. ಕಾಮನ ಬಿಲ್ಲು ಯಾವಾಗ ಮೂಡುತ್ತದೆ?",
+      "translations": {
+        "en": "5. When does the rainbow appear?",
+        "hi": "5. इंद्रधनुष कब प्रकट होता है?"
+      },
+      "transliterations": {
+        "devanagari": "5. कामन बिल्लु यावाग मूडुत्तदे?",
+        "latin": "5. kāmana billu yāvāga mūḍuttade?"
+      },
+      "type": "question"
+    }
+  ]
+}

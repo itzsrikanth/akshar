@@ -1,0 +1,172 @@
+{
+  "labels": {
+    "exercise-1": {
+      "devanagari": "रेखाभ्यास -१",
+      "en": "Line practice -1",
+      "hi": "रेखाभ्यास -१",
+      "kn": "ರೇಖಾಭ್ಯಾಸ -೧",
+      "latin": "rekhābhyāsa -1"
+    },
+    "exercise-2": {
+      "devanagari": "रेखाभ्यास -२",
+      "en": "Line practice -2",
+      "hi": "रेखाभ्यास -२",
+      "kn": "ರೇಖಾಭ್ಯಾಸ -೨",
+      "latin": "rekhābhyāsa -2"
+    },
+    "exercise-3": {
+      "devanagari": "रेखाभ्यास -३",
+      "en": "Line practice -3",
+      "hi": "रेखाभ्यास -३",
+      "kn": "ರೇಖಾಭ್ಯಾಸ -೩",
+      "latin": "rekhābhyāsa -3"
+    },
+    "exercise-4": {
+      "devanagari": "रेखाभ्यास -४",
+      "en": "Line practice -4",
+      "hi": "रेखाभ्यास -४",
+      "kn": "ರೇಖಾಭ್ಯಾಸ -೪",
+      "latin": "rekhābhyāsa -4"
+    },
+    "exercise-5": {
+      "devanagari": "रेखाभ्यास -५",
+      "en": "Line practice -5",
+      "hi": "रेखाभ्यास -५",
+      "kn": "ರೇಖಾಭ್ಯಾಸ -೫",
+      "latin": "rekhābhyāsa -5"
+    },
+    "title": {
+      "devanagari": "रेखाभ्यास पाठगळु",
+      "en": "Line-drawing lessons",
+      "hi": "रेखाभ्यास पाठ",
+      "kn": "ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು",
+      "latin": "rekhābhyāsa pāṭhagaḻu"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 5,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch05-rekhabhyasa-pathagalu",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ರೇಖಾಭ್ಯಾಸ ಪಾಠಗಳು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "text": "ತೋಚಿದಂತೆ ಗೀಚು",
+      "translations": {
+        "en": "Scribble as you like",
+        "hi": "जैसा सूझे वैसा घसीटें"
+      },
+      "transliterations": {
+        "devanagari": "तोचिदंतॆ गीचु",
+        "latin": "tocidaṃtè gīcu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "text": "(ಮಕ್ಕಳು ತಮ್ಮ ಮನಸ್ಸಿಗೆ ಬಂದಂತೆ ಗೆರೆ ಎಳೆಯಲು ಹೇಳಿ)",
+      "translations": {
+        "en": "(Tell the children to draw lines as they wish)",
+        "hi": "(बच्चों से मनचाहे रेखाएँ खींचने को कहें)"
+      },
+      "transliterations": {
+        "devanagari": "(मक्कळु तम्म मनस्सिगॆ बंदंतॆ गॆरॆ ऎळॆयलु हेळि)",
+        "latin": "(makkaḻu tamma manassigè baṃdaṃtè gèrè èḻèyalu heḻi)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "1",
+      "id": "ex-1-title",
+      "text": "ರೇಖಾಭ್ಯಾಸ -1",
+      "translations": {
+        "en": "Line practice -1",
+        "hi": "रेखाभ्यास -१"
+      },
+      "transliterations": {
+        "devanagari": "रेखाभ्यास -1",
+        "latin": "rekhābhyāsa -1"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "1",
+      "id": "ex-1-intro",
+      "text": "ತೋರಿಸಿ - ಬರೆಯಿಸಿ",
+      "translations": {
+        "en": "Show - have them write",
+        "hi": "दिखाएँ - लिखवाएँ"
+      },
+      "transliterations": {
+        "devanagari": "तोरिसि - बरॆयिसि",
+        "latin": "torisi - barèyisi"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "2",
+      "id": "ex-2-title",
+      "text": "ರೇಖಾಭ್ಯಾಸ -2",
+      "translations": {
+        "en": "Line practice -2",
+        "hi": "रेखाभ्यास -२"
+      },
+      "transliterations": {
+        "devanagari": "रेखाभ्यास -2",
+        "latin": "rekhābhyāsa -2"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "3",
+      "id": "ex-3-title",
+      "text": "ರೇಖಾಭ್ಯಾಸ -3",
+      "translations": {
+        "en": "Line practice -3",
+        "hi": "रेखाभ्यास -३"
+      },
+      "transliterations": {
+        "devanagari": "रेखाभ्यास -3",
+        "latin": "rekhābhyāsa -3"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "4",
+      "id": "ex-4-title",
+      "text": "ರೇಖಾಭ್ಯಾಸ -4",
+      "translations": {
+        "en": "Line practice -4",
+        "hi": "रेखाभ्यास -४"
+      },
+      "transliterations": {
+        "devanagari": "रेखाभ्यास -4",
+        "latin": "rekhābhyāsa -4"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "5",
+      "id": "ex-5-title",
+      "text": "ರೇಖಾಭ್ಯಾಸ -5",
+      "translations": {
+        "en": "Line practice -5",
+        "hi": "रेखाभ्यास -५"
+      },
+      "transliterations": {
+        "devanagari": "रेखाभ्यास -5",
+        "latin": "rekhābhyāsa -5"
+      },
+      "type": "prose"
+    }
+  ]
+}

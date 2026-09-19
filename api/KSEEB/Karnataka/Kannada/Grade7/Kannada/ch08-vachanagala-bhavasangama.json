@@ -1,0 +1,1068 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the authors",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer in one sentence.",
+      "hi": "अ. एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यदल्लि उत्तरिसि.",
+      "en": "B. Answer in two or three sentences.",
+      "hi": "आ. दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyadalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॊट्टिरुव प्रश्नॆगळिगॆ ऐदु-आरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Answer in five or six sentences.",
+      "hi": "इ. पाँच-छह वाक्यों में उत्तर दीजिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kòṭṭiruva praśnègaḻigè aidu-āru vākyagaḻalli uttarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "वचनगळु",
+      "en": "Vachanas",
+      "hi": "वचन",
+      "kn": "ವಚನಗಳು",
+      "latin": "vacanagaḻu"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಜೇಡರ ದಾಸಿಮಯ್ಯ ಮತ್ತು ಇತರರು",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch08-vachanagala-bhavasangama",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ವಚನಗಳ ಭಾವಸಂಗಮ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ 12 ನೆಯ ಶತಮಾನ ಅತ್ಯಮೂಲ್ಯವಾದದ್ದು. ವಚನ ಸಾಹಿತ್ಯ ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯ ಪ್ರಕಾರ. ಜನಸಾಮಾನ್ಯರು ತಮ್ಮ ಸ್ವಾನುಭೂತಿ, ನಿವೇದನೆಗಳನ್ನು ತಮ್ಮ ತಮ್ಮ ಇಷ್ಟ ದೇವರ ಹೆಸರಿನಲ್ಲಿ ಅಂಕಿತನಾಮನನ್ನಿಟ್ಟುಕೊಂಡು ವಚನಗಳ ರೂಪದಲ್ಲಿ ಹೊರಹೊಮ್ಮಿದ ಕಾಲವಿದು. ಈ ಕಾಲದಲ್ಲಿ ಜಾತಿ ಭೇದವಿಲ್ಲದೆ ಗಂಡು ಹೆಣ್ಣೆಂಬ ತಾರತಮ್ಯವಿಲ್ಲದೇ ಹಲವಾರು ಮಂದಿ ವಚನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಜೇಡರ ದಾಸಿಮಯ್ಯ, ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಚೆನ್ನಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಮಡಿವಾಳ ಮಾಚಿದೇವ, ಮುಕ್ತಾಯಕ್ಕ, ಸತ್ಯಕ್ಕ ಮೊದಲಾದವರ ವಚನಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹೇರಳವಾಗಿವೆ. ಈ ವಚನಕಾರರ ವಚನಗಳನ್ನು ಅವರವರ ವಚನಾಂಕಿತದಿಂದ ಸುಲಭವಾಗಿ ಅದರ ಕರ್ತೃವನ್ನು ರಚನೆಕಾರರನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗಿದೆ. ಇಂಥ ಅಮೂಲ್ಯ ವಚನಗಳ ಭಾವಾಂತರಂಗದಲ್ಲಿ ಭಕ್ತನ ಪರೀಕ್ಷೆ, ಪರಿಶುದ್ಧತೆ, ಆಚಾರ-ವಿಚಾರಗಳು ಹಾಗೂ ಭಕ್ತರ ಪ್ರಾಮಾಣಿಕ ನಡೆನುಡಿಗಳನ್ನು ಈ ವಚನಗಳ ಭಾವಸಂಗಮದಲ್ಲಿ ಕಾಣಬಹುದು.",
+      "translations": {
+        "en": "In the history of Kannada literature the 12th century is most precious. Vachana literature is a distinctive form that enriched Kannada literature. This was the time when common people poured out their experience and dedication in the form of vachanas, placing signature-names in the name of their chosen deity. In this time without caste difference and without male-female disparity many composed vachanas. Vachanas of Jedara Dasimayya, Basavanna, Allama Prabhu, Chennabasavanna, Akkamahadevi, Madivala Machideva, Muktayakka, Satyakka and others abound in Kannada literature. From their signature marks one can easily recognize the author. In this confluence of feelings of such precious vachanas one can see the devotee’s test, purity, conduct-thought and devotees’ honest walk and speech.",
+        "hi": "कन्नड़ साहित्य इतिहास में 12वीं शताब्दी अत्यंत अमूल्य है। वचन साहित्य विशिष्ट विधा है। जाति-भेद और स्त्री-पुरुष भेद के बिना अनेक ने वचन रचे।"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड साहित्य चरित्रॆयल्लि 12 नॆय शतमान अत्यमूल्यवादद्दु. वचन साहित्य कन्नड साहित्यवन्नु श्रीमंतगॊळिसिद विशिष्ट साहित्य प्रकार. जनसामान्यरु तम्म स्वानुभूति, निवेदनॆगळन्नु तम्म तम्म इष्ट देवर हॆसरिनल्लि अंकितनामनन्निट्टुकॊंडु वचनगळ रूपदल्लि हॊरहॊम्मिद कालविदु. ई कालदल्लि जाति भेदविल्लदॆ गंडु हॆण्णॆंब तारतम्यविल्लदे हलवारु मंदि वचनगळन्नु रचिसिद्दारॆ. जेडर दासिमय्य, बसवण्ण, अल्लमप्रभु, चॆन्नबसवण्ण, अक्कमहादेवि, मडिवाळ माचिदेव, मुक्तायक्क, सत्यक्क मॊदलादवर वचनगळु कन्नड साहित्यदल्लि हेरळवागिवॆ. ई वचनकारर वचनगळन्नु अवरवर वचनांकितदिंद सुलभवागि अदर कर्तृवन्नु रचनॆकाररन्नु गुरुतिसलु साध्यवागिदॆ. इंथ अमूल्य वचनगळ भावांतरंगदल्लि भक्तन परीक्षॆ, परिशुद्धतॆ, आचार-विचारगळु हागू भक्तर प्रामाणिक नडॆनुडिगळन्नु ई वचनगळ भावसंगमदल्लि काणबहुदु.",
+        "latin": "kannaḍa sāhitya caritrèyalli 12 nèya śatamāna atyamūlyavādaddu. vacana sāhitya kannaḍa sāhityavannu śrīmaṃtagòḻisida viśiṣṭa sāhitya prakāra. janasāmānyaru tamma svānubhūti, nivedanègaḻannu tamma tamma iṣṭa devara hèsarinalli aṃkitanāmananniṭṭukòṃḍu vacanagaḻa rūpadalli hòrahòmmida kālavidu. ī kāladalli jāti bhedavilladè gaṃḍu hèṇṇèṃba tāratamyavillade halavāru maṃdi vacanagaḻannu racisiddārè. jeḍara dāsimayya, basavaṇṇa, allamaprabhu, cènnabasavaṇṇa, akkamahādevi, maḍivāḻa mācideva, muktāyakka, satyakka mòdalādavara vacanagaḻu kannaḍa sāhityadalli heraḻavāgivè. ī vacanakārara vacanagaḻannu avaravara vacanāṃkitadiṃda sulabhavāgi adara kartṛvannu racanèkārarannu gurutisalu sādhyavāgidè. iṃtha amūlya vacanagaḻa bhāvāṃtaraṃgadalli bhaktana parīkṣè, pariśuddhatè, ācāra-vicāragaḻu hāgū bhaktara prāmāṇika naḍènuḍigaḻannu ī vacanagaḻa bhāvasaṃgamadalli kāṇabahudu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಹರಿದ ಗೋಣಿಯಲೊಬ್ಬ ಕಳವೆಯ ತುಂಬಿದ",
+      "translations": {
+        "en": "One filled stolen paddy in a torn sack"
+      },
+      "transliterations": {
+        "devanagari": "हरिद गोणियलॊब्ब कळवॆय तुंबिद",
+        "latin": "harida goṇiyalòbba kaḻavèya tuṃbida"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಇರುಳೆಲ್ಲಾ ನಡೆದನಾ ಸುಂಕಕಂಜಿ",
+      "translations": {
+        "en": "Walked all night fearing the toll"
+      },
+      "transliterations": {
+        "devanagari": "इरुळॆल्ला नडॆदना सुंककंजि",
+        "latin": "iruḻèllā naḍèdanā suṃkakaṃji"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಕಳವೆಯೆಲ್ಲಾ ಹೋಗಿ ಬರಿಗೋಣಿ ಉಳಿಯಿತ್ತು",
+      "translations": {
+        "en": "All the stolen grain gone, only the empty sack remained"
+      },
+      "transliterations": {
+        "devanagari": "कळवॆयॆल्ला होगि बरिगोणि उळियित्तु",
+        "latin": "kaḻavèyèllā hogi barigoṇi uḻiyittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಅಳಿಮನದವನ ಭಕ್ತಿ ಇಂತಾಯಿತ್ತು ರಾಮನಾಥ- ಜೇಡರ ದಾಸಿಮಯ್ಯ.",
+      "translations": {
+        "en": "Such became the devotion of the unsteady-minded, Ramanatha — Jedara Dasimayya."
+      },
+      "transliterations": {
+        "devanagari": "अळिमनदवन भक्ति इंतायित्तु रामनाथ- जेडर दासिमय्य.",
+        "latin": "aḻimanadavana bhakti iṃtāyittu rāmanātha- jeḍara dāsimayya."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅಂಧಕಾರದ ದೆಸೆಯಿಂದ ಚಂದ್ರನ ಪ್ರಭೆಯಾಯಿತು",
+      "translations": {
+        "en": "From the side of darkness came the moon’s radiance"
+      },
+      "transliterations": {
+        "devanagari": "अंधकारद दॆसॆयिंद चंद्रन प्रभॆयायितु",
+        "latin": "aṃdhakārada dèsèyiṃda caṃdrana prabhèyāyitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಿಂದಕರ ನುಡಿಯಿಂದ ಏಡಿಸಲೈ ಶಿವಭಕ್ತಿಯ ಪ್ರಭೆಯಾಯಿತು",
+      "translations": {
+        "en": "From the words of revilers, O mockery, Shiva-devotion’s radiance came"
+      },
+      "transliterations": {
+        "devanagari": "निंदकर नुडियिंद एडिसलै शिवभक्तिय प्रभॆयायितु",
+        "latin": "niṃdakara nuḍiyiṃda eḍisalai śivabhaktiya prabhèyāyitu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅಹುದೆಂದಡೆ ಅಲ್ಲವೆಂದತಿಗಳೆವರು",
+      "translations": {
+        "en": "Those who say yes then no and exceed"
+      },
+      "transliterations": {
+        "devanagari": "अहुदॆंदडॆ अल्लवॆंदतिगळॆवरु",
+        "latin": "ahudèṃdaḍè allavèṃdatigaḻèvaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಕುತರ್ಕಶಾಸ್ತ್ರದಿಂದ ಯಮಗತಿಗರ ಕೂಡೆ",
+      "translations": {
+        "en": "With false logic joining those bound for Yama"
+      },
+      "transliterations": {
+        "devanagari": "कुतर्कशास्त्रदिंद यमगतिगर कूडॆ",
+        "latin": "kutarkaśāstradiṃda yamagatigara kūḍè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l5",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನಾನಾ ಜನ್ಮಕ್ಕೇರದೆ, ಶಿವಾಚಾರದ ಪಥವ ತೋರಯ್ಯಾ",
+      "translations": {
+        "en": "Without climbing many births, show the path of Shivachara"
+      },
+      "transliterations": {
+        "devanagari": "नाना जन्मक्केरदॆ, शिवाचारद पथव तोरय्या",
+        "latin": "nānā janmakkeradè, śivācārada pathava torayyā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l6",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಕಲಿದೇವರ ದೇವ- ಮಡಿವಾಳ ಮಾಚಯ್ಯ",
+      "translations": {
+        "en": "God of Kalideva — Madivala Machayya"
+      },
+      "transliterations": {
+        "devanagari": "कलिदेवर देव- मडिवाळ माचय्य",
+        "latin": "kalidevara deva- maḍivāḻa mācayya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನುಡಿಯಲುಬಾರದು ಕೆಟ್ಟ ನುಡಿಗಳ",
+      "translations": {
+        "en": "One must not speak bad words"
+      },
+      "transliterations": {
+        "devanagari": "नुडियलुबारदु कॆट्ट नुडिगळ",
+        "latin": "nuḍiyalubāradu kèṭṭa nuḍigaḻa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನಡೆಯಲುಬಾರದು ಕೆಟ್ಟ ನಡೆಗಳ",
+      "translations": {
+        "en": "One must not walk bad walks"
+      },
+      "transliterations": {
+        "devanagari": "नडॆयलुबारदु कॆट्ट नडॆगळ",
+        "latin": "naḍèyalubāradu kèṭṭa naḍègaḻa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ನುಡಿದಡೇನು, ನಡೆಯದಿರ್ದಡೇನು",
+      "translations": {
+        "en": "What if spoken, what if not walking"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदडेनु, नडॆयदिर्दडेनु",
+        "latin": "nuḍidaḍenu, naḍèyadirdaḍenu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹಿಡಿದ ವ್ರತವ ಬಿಡದಿರಲು",
+      "translations": {
+        "en": "Not abandoning the vow taken"
+      },
+      "transliterations": {
+        "devanagari": "हिडिद व्रतव बिडदिरलु",
+        "latin": "hiḍida vratava biḍadiralu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l5",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಅದೇ ಮಹಾಜ್ಞಾನದಾಚರಣೆ ಎಂಬೆನು ಅಜಗಣ್ಣ ತಂದೆ- ಮುಕ್ತಾಯಕ್ಕ",
+      "translations": {
+        "en": "That alone I call the practice of great knowledge, Father Ajaganna — Muktayakka"
+      },
+      "transliterations": {
+        "devanagari": "अदे महाज्ञानदाचरणॆ ऎंबॆनु अजगण्ण तंदॆ- मुक्तायक्क",
+        "latin": "ade mahājñānadācaraṇè èṃbènu ajagaṇṇa taṃdè- muktāyakka"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಲಂಚವಂಚನಕ್ಕೆ ಕೈಯಾನದ ಭಾಷೆ",
+      "translations": {
+        "en": "Speech that does not raise hand to bribery and deceit"
+      },
+      "transliterations": {
+        "devanagari": "लंचवंचनक्कॆ कैयानद भाषॆ",
+        "latin": "laṃcavaṃcanakkè kaiyānada bhāṣè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಬಟ್ಟೆಯಲ್ಲಿ ಹೊನ್ನುವಸ್ತ್ರ ಬಿದ್ದಿದ್ದರೆ",
+      "translations": {
+        "en": "If gold-cloth has fallen on the path"
+      },
+      "transliterations": {
+        "devanagari": "बट्टॆयल्लि हॊन्नुवस्त्र बिद्दिद्दरॆ",
+        "latin": "baṭṭèyalli hònnuvastra biddiddarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನಾನು ಕೈಮುಟ್ಟಿ ಎತ್ತಿದೆನಾದರೆ",
+      "translations": {
+        "en": "If I have touched and picked it up"
+      },
+      "transliterations": {
+        "devanagari": "नानु कैमुट्टि ऎत्तिदॆनादरॆ",
+        "latin": "nānu kaimuṭṭi èttidènādarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನಿಮ್ಮಾಣೆ ನಿಮ್ಮ ಪ್ರಮಥರಾಣೆ",
+      "translations": {
+        "en": "By your oath and your Pramatha’s oath"
+      },
+      "transliterations": {
+        "devanagari": "निम्माणॆ निम्म प्रमथराणॆ",
+        "latin": "nimmāṇè nimma pramatharāṇè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l5",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಅದೇನು ಕಾರಣವೆಂದರೆ ನೀವಿಕ್ಕಿದ ಭಿಕ್ಷದಲ್ಲಿಪ್ಪೆನಾಗಿ",
+      "translations": {
+        "en": "The reason is that I live in the alms you gave"
+      },
+      "transliterations": {
+        "devanagari": "अदेनु कारणवॆंदरॆ नीविक्किद भिक्षदल्लिप्पॆनागि",
+        "latin": "adenu kāraṇavèṃdarè nīvikkida bhikṣadallippènāgi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l6",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಇಂತಲ್ಲದೆ ನಾನು ಅಳಿಮನವ ಮಾಡಿ",
+      "translations": {
+        "en": "Otherwise if I make an unsteady mind"
+      },
+      "transliterations": {
+        "devanagari": "इंतल्लदॆ नानु अळिमनव माडि",
+        "latin": "iṃtalladè nānu aḻimanava māḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l7",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಪರದ್ರವ್ಯಕ್ಕೆ ಆಸೆ ಮಾಡಿದೆನಾದರೆ",
+      "translations": {
+        "en": "And desire others’ wealth"
+      },
+      "transliterations": {
+        "devanagari": "परद्रव्यक्कॆ आसॆ माडिदॆनादरॆ",
+        "latin": "paradravyakkè āsè māḍidènādarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l8",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನೀನಾಗಲೆ ಎನ್ನ ನರಕದಲ್ಲಿ ಅದ್ದಿ",
+      "translations": {
+        "en": "Then you yourself immerse me in hell"
+      },
+      "transliterations": {
+        "devanagari": "नीनागलॆ ऎन्न नरकदल्लि अद्दि",
+        "latin": "nīnāgalè ènna narakadalli addi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l9",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನೀನೆದ್ದು ಹೋಗಾ ಶಂಭುಜಕ್ಕೇಶ್ವರಾ.- ಸತ್ಯಕ್ಕ",
+      "translations": {
+        "en": "And rise and go, O Shambhujakkeshvara. — Satyakka"
+      },
+      "transliterations": {
+        "devanagari": "नीनॆद्दु होगा शंभुजक्केश्वरा.- सत्यक्क",
+        "latin": "nīnèddu hogā śaṃbhujakkeśvarā.- satyakka"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಜೇಡರ ದಾಸಿಮಯ್ಯ: ಹನ್ನೊಂದನೆಯ ಶತಮಾನದಲ್ಲಿದ್ದ ಹಿರಿಯ ಶಿವಶರಣ. ಯಾದಗಿರಿ ಸನಿಹದ ಮುದೇನೂರಿನವರು. ದಾಸಿಮಯ್ಯ ಪ್ರಥಮ ವಚನಕಾರರೆಂದೇ ಮಾನ್ಯರಾಗಿದ್ದಾರೆ. ‘ರಾಮನಾಥ’ ಎಂಬ ಅಂಕಿತದಿಂದ ರಚಿಸಿರುವ ಇವರ 150 ವಚನಗಳು ದೊರೆತಿವೆ. ಸರಳ ಮತ್ತು ನೇರ ನಿರೂಪಣೆಯಿಂದ ಕೂಡಿದ ದಾಸಿಮಯ್ಯನವರ ವಚನಗಳು ಸಾಮಾಜಿಕ ಮೌಲ್ಯದಿಂದ ಜನಮಾನ್ಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "Jedara Dasimayya: An elder Shivasharana of the 11th century. Of Mudenur near Yadagiri. Dasimayya is honoured as the first vachana poet. 150 vachanas composed under the signature ‘Ramanatha’ are available. His vachanas with simple direct narration are popular for social values.",
+        "hi": "जेडर दासिमय्य 11वीं शताब्दी के वरिष्ठ शिवशरण। ‘रामानाथ’ अंकित से 150 वचन उपलब्ध।"
+      },
+      "transliterations": {
+        "devanagari": "जेडर दासिमय्य: हन्नॊंदनॆय शतमानदल्लिद्द हिरिय शिवशरण. यादगिरि सनिहद मुदेनूरिनवरु. दासिमय्य प्रथम वचनकाररॆंदे मान्यरागिद्दारॆ. ‘रामनाथ’ ऎंब अंकितदिंद रचिसिरुव इवर 150 वचनगळु दॊरॆतिवॆ. सरळ मत्तु नेर निरूपणॆयिंद कूडिद दासिमय्यनवर वचनगळु सामाजिक मौल्यदिंद जनमान्यवागिदॆ.",
+        "latin": "jeḍara dāsimayya: hannòṃdanèya śatamānadallidda hiriya śivaśaraṇa. yādagiri sanihada mudenūrinavaru. dāsimayya prathama vacanakārarèṃde mānyarāgiddārè. ‘rāmanātha’ èṃba aṃkitadiṃda racisiruva ivara 150 vacanagaḻu dòrètivè. saraḻa mattu nera nirūpaṇèyiṃda kūḍida dāsimayyanavara vacanagaḻu sāmājika maulyadiṃda janamānyavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-2",
+      "section": "author",
+      "text": "ಜೇಡರದಾಸಿಮಯ್ಯನವರು ಈ ವಚನದಲ್ಲಿ ದೃಢವಿಲ್ಲದ ಭಕ್ತಿ ಹೇಗೆ ಇರುತ್ತದೆ ಎಂಬುದನ್ನು ತಿಳಿಸಿದ್ದಾರೆ. ಮನದಲ್ಲಿ ಕೆಟ್ಟ ಉದ್ದೇಶವನ್ನು ಹೊಂದಿ, ಹೊರನೋಟಕ್ಕೆ ದೇವರಲ್ಲಿ ಒಲವುಳ್ಳವನಂತೆ ನಟಿಸುತ್ತಾ, ಜನರನ್ನು ಮತ್ತು ಸಮಾಜವನ್ನು ವಂಚಿಸುವ ವ್ಯಕ್ತಿಯು ಕಟ್ಟ ಕಡೆಗೆ ಜೀವನದಲ್ಲಿ ಏನನ್ನೂ ಗಳಿಸಲಾಗದೆ, ತನ್ನಲ್ಲಿರುವುದನ್ನೂ ಕಳೆದು ಕೊಳ್ಳುತ್ತಾನೆ.",
+      "translations": {
+        "en": "In this vachana Jedara Dasimayya tells how unsteady devotion is. One who has evil intent in mind yet acts as if devoted to God outwardly, deceiving people and society, finally gains nothing in life and loses even what he has."
+      },
+      "transliterations": {
+        "devanagari": "जेडरदासिमय्यनवरु ई वचनदल्लि दृढविल्लद भक्ति हेगॆ इरुत्तदॆ ऎंबुदन्नु तिळिसिद्दारॆ. मनदल्लि कॆट्ट उद्देशवन्नु हॊंदि, हॊरनोटक्कॆ देवरल्लि ऒलवुळ्ळवनंतॆ नटिसुत्ता, जनरन्नु मत्तु समाजवन्नु वंचिसुव व्यक्तियु कट्ट कडॆगॆ जीवनदल्लि एनन्नू गळिसलागदॆ, तन्नल्लिरुवुदन्नू कळॆदु कॊळ्ळुत्तानॆ.",
+        "latin": "jeḍaradāsimayyanavaru ī vacanadalli dṛḍhavillada bhakti hegè iruttadè èṃbudannu tiḻisiddārè. manadalli kèṭṭa uddeśavannu hòṃdi, hòranoṭakkè devaralli òlavuḻḻavanaṃtè naṭisuttā, janarannu mattu samājavannu vaṃcisuva vyaktiyu kaṭṭa kaḍègè jīvanadalli enannū gaḻisalāgadè, tannalliruvudannū kaḻèdu kòḻḻuttānè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-3",
+      "section": "author",
+      "text": "ಮಡಿವಾಳ ಮಾಚಯ್ಯ: ಮಡಿವಾಳ ಮಾಚಯ್ಯ 12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ವಚನಕಾರರಲ್ಲಿ ಒಬ್ಬರು. ಇವರ ಜನ್ಮಸ್ಥಳ ವಿಜಯಪುರ ಜಿಲ್ಲೆಯ ಹಿಪ್ಪರಗಿ. ಬಸವಣ್ಣನವರ ಕೀರ್ತಿ ಕೇಳಿ ಹೊಸ ಧರ್ಮಕ್ಕೆ ಆಕರ್ಷಣೆಗೊಂಡು ಕಲ್ಯಾಣಕ್ಕೆ ಹೋದವರಲ್ಲಿ ಮೊದಲಿಗರು. ಮಾಚಯ್ಯ ಕಲ್ಯಾಣದಲ್ಲಿ ಶಿವಶರಣರ ಬಟ್ಟೆಗಳನ್ನು ಮಾತ್ರ ಮಡಿಮಾಡಿಕೊಂಡಿದ್ದವರು. ಇವರ 353 ವಚನಗಳು ಉಪಲಬ್ಧವಾಗಿವೆ. ಇವರ ವಚನಾಂಕಿತನಾಮ ‘ಕಲಿದೇವರ ದೇವ’ ಎಂಬುದು.",
+      "translations": {
+        "en": "Madivala Machayya: One of the major 12th-century vachana poets. Birthplace Hipparagi in Vijayapura district. Attracted by Basavanna’s fame to the new faith, among the first to go to Kalyana. Machayya only washed the clothes of Shivasharanas at Kalyana. 353 of his vachanas are available. His signature is ‘Kalidevara Deva’.",
+        "hi": "मडिवाल माचय्य 12वीं शताब्दी के प्रमुख वचनकार। अंकितनाम ‘कलिदेवर देव’।"
+      },
+      "transliterations": {
+        "devanagari": "मडिवाळ माचय्य: मडिवाळ माचय्य 12ने शतमानद प्रमुख वचनकाररल्लि ऒब्बरु. इवर जन्मस्थळ विजयपुर जिल्लॆय हिप्परगि. बसवण्णनवर कीर्ति केळि हॊस धर्मक्कॆ आकर्षणॆगॊंडु कल्याणक्कॆ होदवरल्लि मॊदलिगरु. माचय्य कल्याणदल्लि शिवशरणर बट्टॆगळन्नु मात्र मडिमाडिकॊंडिद्दवरु. इवर 353 वचनगळु उपलब्धवागिवॆ. इवर वचनांकितनाम ‘कलिदेवर देव’ ऎंबुदु.",
+        "latin": "maḍivāḻa mācayya: maḍivāḻa mācayya 12ne śatamānada pramukha vacanakāraralli òbbaru. ivara janmasthaḻa vijayapura jillèya hipparagi. basavaṇṇanavara kīrti keḻi hòsa dharmakkè ākarṣaṇègòṃḍu kalyāṇakkè hodavaralli mòdaligaru. mācayya kalyāṇadalli śivaśaraṇara baṭṭègaḻannu mātra maḍimāḍikòṃḍiddavaru. ivara 353 vacanagaḻu upalabdhavāgivè. ivara vacanāṃkitanāma ‘kalidevara deva’ èṃbudu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-4",
+      "section": "author",
+      "text": "ಶಿವಭಕ್ತರು ಅನೇಕ ಸತ್ವಪರೀಕ್ಷೆಗಳಿಂದ ಪರಿಶುದ್ಧರಾಗಿದ್ದಾರೆ. ಅನ್ಯಾಯ ಮಾರ್ಗವನ್ನಿಡಿದು ನಡೆಯುವ ಸಾಮಾನ್ಯ ಮನುಷ್ಯರು ತಮ್ಮ ಹೀನ ಕೃತ್ಯಗಳಿಂದ ಅನೇಕ ಜನ್ಮಾಂತರಗಳಲ್ಲಿ ಬಳಲುತ್ತಾರೆ. ಶಿವಭಕ್ತರನ್ನು ಈ ಜನ್ಮಾಂತರಗಳಿಂದ ಬಳಲಿಸದೆ ಅವರಿಗೆ ಶಿವಾಚಾರದ ಸನ್ಮಾರ್ಗ ತೋರಿಸು ಎಂಬುದು ಈ ವಚನದಲ್ಲಿದೆ.",
+      "translations": {
+        "en": "Shiva devotees have become pure through many tests of essence. Ordinary people who take unjust paths suffer through many rebirths by their base deeds. Show Shiva devotees the right path of Shivachara without making them suffer these rebirths—this is in this vachana."
+      },
+      "transliterations": {
+        "devanagari": "शिवभक्तरु अनेक सत्वपरीक्षॆगळिंद परिशुद्धरागिद्दारॆ. अन्याय मार्गवन्निडिदु नडॆयुव सामान्य मनुष्यरु तम्म हीन कृत्यगळिंद अनेक जन्मांतरगळल्लि बळलुत्तारॆ. शिवभक्तरन्नु ई जन्मांतरगळिंद बळलिसदॆ अवरिगॆ शिवाचारद सन्मार्ग तोरिसु ऎंबुदु ई वचनदल्लिदॆ.",
+        "latin": "śivabhaktaru aneka satvaparīkṣègaḻiṃda pariśuddharāgiddārè. anyāya mārgavanniḍidu naḍèyuva sāmānya manuṣyaru tamma hīna kṛtyagaḻiṃda aneka janmāṃtaragaḻalli baḻaluttārè. śivabhaktarannu ī janmāṃtaragaḻiṃda baḻalisadè avarigè śivācārada sanmārga torisu èṃbudu ī vacanadallidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-5",
+      "section": "author",
+      "text": "ಮುಕ್ತಾಯಕ್ಕ: 12ನೆಯ ಶತಮಾನದಲ್ಲಿದ್ದ ಅನುಭಾವಿ ಶಿವಶರಣೆ. ಮುಕ್ತಾಯಕ್ಕನ ಜನ್ಮಸ್ಥಳ ಲಕ್ಕುಂಡಿ. ಅಜಗಣ್ಣ ಅಂಕಿತವಿರುವ ಇವರ 37 ವಚನಗಳು ದೊರೆತಿವೆ. ಆಧ್ಯಾತ್ಮ ಸಾಧನೆಯ ಗುಪ್ತಭಕ್ತ ಅಜಗಣ್ಣನವರು ಮುಕ್ತಾಯಕ್ಕನವರ ಸಹೋದರ ಮತ್ತು ಗುರು. ಶಿವಭಕ್ತನಿಗೆ ನಡೆ-ನುಡಿಗಳು ಬಹಳ ಮುಖ್ಯ, ನಡೆನುಡಿಗಳ ಪರಿಶುದ್ಧತೆಯೇ ನಿಜವಾದ ವ್ರತ. ಇದು ಮಹಾಜ್ಞಾನ ಸಂಪಾದನೆಯ ಮಾರ್ಗವೆಂಬುದು ಈ ವಚನದಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿದೆ.",
+      "translations": {
+        "en": "Muktayakka: An experiential Shivasharane of the 12th century. Birthplace Lakkundi. 37 vachanas with the signature Ajaganna are available. Her brother and guru Ajaganna was a secret devotee of spiritual practice. For a Shiva devotee walk and speech are most important; purity of walk and speech is true vow. This is the path of gaining great knowledge—this is expressed in this vachana.",
+        "hi": "मुक्तायक्क 12वीं शताब्दी की अनुभावी शिवशरणे। अजगण्ण अंकित से 37 वचन।"
+      },
+      "transliterations": {
+        "devanagari": "मुक्तायक्क: 12नॆय शतमानदल्लिद्द अनुभावि शिवशरणॆ. मुक्तायक्कन जन्मस्थळ लक्कुंडि. अजगण्ण अंकितविरुव इवर 37 वचनगळु दॊरॆतिवॆ. आध्यात्म साधनॆय गुप्तभक्त अजगण्णनवरु मुक्तायक्कनवर सहोदर मत्तु गुरु. शिवभक्तनिगॆ नडॆ-नुडिगळु बहळ मुख्य, नडॆनुडिगळ परिशुद्धतॆये निजवाद व्रत. इदु महाज्ञान संपादनॆय मार्गवॆंबुदु ई वचनदल्लि व्यक्तवागिदॆ.",
+        "latin": "muktāyakka: 12nèya śatamānadallidda anubhāvi śivaśaraṇè. muktāyakkana janmasthaḻa lakkuṃḍi. ajagaṇṇa aṃkitaviruva ivara 37 vacanagaḻu dòrètivè. ādhyātma sādhanèya guptabhakta ajagaṇṇanavaru muktāyakkanavara sahodara mattu guru. śivabhaktanigè naḍè-nuḍigaḻu bahaḻa mukhya, naḍènuḍigaḻa pariśuddhatèye nijavāda vrata. idu mahājñāna saṃpādanèya mārgavèṃbudu ī vacanadalli vyaktavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-6",
+      "section": "author",
+      "text": "ಸತ್ಯಕ್ಕ: 12ನೆಯ ಶತಮಾನದಲ್ಲಿದ್ದ ಶಿವಶರಣೆಯರಲ್ಲಿ ಒಬ್ಬರು. ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಶಿರಾಳಕೊಪ್ಪ ಸಮೀಪದ ಹಿರೇಜಂಬೂರು ಸತ್ಯಕ್ಕನವರ ಜನ್ಮಸ್ಥಳ. ಶಿವಭಕ್ತರ ಮನೆಯಂಗಳ ಕಸಗುಡಿಸುತ್ತ ಶಿವಭಕ್ತಿಯನ್ನು ಆಚರಿಸುವುದು ಇವರ ಕಾಯಕವಾಗಿತ್ತು. “ಶಂಭುಜಕ್ಕೇಶ್ವರ” ಎಂಬುದು ಸತ್ಯಕ್ಕನವರ ವಚನಗಳ ಅಂಕಿತನಾಮ. ಇವರ 27 ವಚನಗಳು ದೊರಕಿವೆ. ಪರರಧನ, ಪರಿಶ್ರಮವಿಲ್ಲದೆ ದೊರಕುವ ಯಾವುದೇ ಆಸೆ-ಆಮಿಷಗಳಿಗೆ ಶಿವಶರಣರು ಒಳಗಾಗಬಾರದು, ಹಾಗೇನಾದರೂ ಒಳಗಾದ ಪಕ್ಷದಲ್ಲಿ ಅಂಥವರಿಗೆ ನರಕ ತಪ್ಪಿದ್ದಲ್ಲ.",
+      "translations": {
+        "en": "Satyakka: One of the 12th-century Shivasharanes. Birthplace Hirejamburu near Shiralakoppa, Shivamogga district. Sweeping the courtyards of Shiva devotees’ homes while practicing Shiva devotion was her kayaka. “Shambhujakkeshvara” is her vachana signature. 27 of her vachanas are available. Shivasharanas must not fall for any desire or lure got without others’ wealth or effort; if they do, hell is not escaped.",
+        "hi": "सत्यक्क की कायक शिवभक्तों के आँगन साफ़ करना। अंकित ‘शंभुजक्केश्वर’।"
+      },
+      "transliterations": {
+        "devanagari": "सत्यक्क: 12नॆय शतमानदल्लिद्द शिवशरणॆयरल्लि ऒब्बरु. शिवमॊग्ग जिल्लॆय शिराळकॊप्प समीपद हिरेजंबूरु सत्यक्कनवर जन्मस्थळ. शिवभक्तर मनॆयंगळ कसगुडिसुत्त शिवभक्तियन्नु आचरिसुवुदु इवर कायकवागित्तु. “शंभुजक्केश्वर” ऎंबुदु सत्यक्कनवर वचनगळ अंकितनाम. इवर 27 वचनगळु दॊरकिवॆ. पररधन, परिश्रमविल्लदॆ दॊरकुव यावुदे आसॆ-आमिषगळिगॆ शिवशरणरु ऒळगागबारदु, हागेनादरू ऒळगाद पक्षदल्लि अंथवरिगॆ नरक तप्पिद्दल्ल.",
+        "latin": "satyakka: 12nèya śatamānadallidda śivaśaraṇèyaralli òbbaru. śivamògga jillèya śirāḻakòppa samīpada hirejaṃbūru satyakkanavara janmasthaḻa. śivabhaktara manèyaṃgaḻa kasaguḍisutta śivabhaktiyannu ācarisuvudu ivara kāyakavāgittu. “śaṃbhujakkeśvara” èṃbudu satyakkanavara vacanagaḻa aṃkitanāma. ivara 27 vacanagaḻu dòrakivè. pararadhana, pariśramavilladè dòrakuva yāvude āsè-āmiṣagaḻigè śivaśaraṇaru òḻagāgabāradu, hāgenādarū òḻagāda pakṣadalli aṃthavarigè naraka tappiddalla."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-harida",
+      "section": "vocab",
+      "text": "ಹರಿದ",
+      "translations": {
+        "en": "ಹರಿದ",
+        "hi": "ಹರಿದ"
+      },
+      "transliterations": {
+        "devanagari": "हरिद",
+        "latin": "harida"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-harida-def",
+      "section": "vocab",
+      "text": "ಕಿತ್ತುಹೋಗಿರುವ",
+      "translations": {
+        "en": "torn"
+      },
+      "transliterations": {
+        "devanagari": "कित्तुहोगिरुव",
+        "latin": "kittuhogiruva"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-goni",
+      "section": "vocab",
+      "text": "ಗೋಣಿ",
+      "translations": {
+        "en": "ಗೋಣಿ",
+        "hi": "ಗೋಣಿ"
+      },
+      "transliterations": {
+        "devanagari": "गोणि",
+        "latin": "goṇi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-goni-def",
+      "section": "vocab",
+      "text": "ಸೆಣಬಿನ ಚೀಲ",
+      "translations": {
+        "en": "jute sack"
+      },
+      "transliterations": {
+        "devanagari": "सॆणबिन चील",
+        "latin": "sèṇabina cīla"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kalave",
+      "section": "vocab",
+      "text": "ಕಳವೆ",
+      "translations": {
+        "en": "ಕಳವೆ",
+        "hi": "ಕಳವೆ"
+      },
+      "transliterations": {
+        "devanagari": "कळवॆ",
+        "latin": "kaḻavè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kalave-def",
+      "section": "vocab",
+      "text": "ಭತ್ತ",
+      "translations": {
+        "en": "paddy",
+        "hi": "धान"
+      },
+      "transliterations": {
+        "devanagari": "भत्त",
+        "latin": "bhatta"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-irulu",
+      "section": "vocab",
+      "text": "ಇರುಳು",
+      "translations": {
+        "en": "ಇರುಳು",
+        "hi": "ಇರುಳು"
+      },
+      "transliterations": {
+        "devanagari": "इरुळु",
+        "latin": "iruḻu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-irulu-def",
+      "section": "vocab",
+      "text": "ರಾತ್ರಿ",
+      "translations": {
+        "en": "night"
+      },
+      "transliterations": {
+        "devanagari": "रात्रि",
+        "latin": "rātri"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sunka",
+      "section": "vocab",
+      "text": "ಸುಂಕ",
+      "translations": {
+        "en": "ಸುಂಕ",
+        "hi": "ಸುಂಕ"
+      },
+      "transliterations": {
+        "devanagari": "सुंक",
+        "latin": "suṃka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sunka-def",
+      "section": "vocab",
+      "text": "ತೆರಿಗೆ",
+      "translations": {
+        "en": "tax"
+      },
+      "transliterations": {
+        "devanagari": "तॆरिगॆ",
+        "latin": "tèrigè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-andhakara",
+      "section": "vocab",
+      "text": "ಅಂಧಕಾರ",
+      "translations": {
+        "en": "ಅಂಧಕಾರ",
+        "hi": "ಅಂಧಕಾರ"
+      },
+      "transliterations": {
+        "devanagari": "अंधकार",
+        "latin": "aṃdhakāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-andhakara-def",
+      "section": "vocab",
+      "text": "ಕತ್ತಲೆ, ತಿಮಿರ",
+      "translations": {
+        "en": "darkness"
+      },
+      "transliterations": {
+        "devanagari": "कत्तलॆ, तिमिर",
+        "latin": "kattalè, timira"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-prabhe",
+      "section": "vocab",
+      "text": "ಪ್ರಭೆ",
+      "translations": {
+        "en": "ಪ್ರಭೆ",
+        "hi": "ಪ್ರಭೆ"
+      },
+      "transliterations": {
+        "devanagari": "प्रभॆ",
+        "latin": "prabhè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-prabhe-def",
+      "section": "vocab",
+      "text": "ಕಾಂತಿ, ಪ್ರಕಾಶ",
+      "translations": {
+        "en": "radiance, light"
+      },
+      "transliterations": {
+        "devanagari": "कांति, प्रकाश",
+        "latin": "kāṃti, prakāśa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nindakaru",
+      "section": "vocab",
+      "text": "ನಿಂದಕರು",
+      "translations": {
+        "en": "ನಿಂದಕರು",
+        "hi": "ನಿಂದಕರು"
+      },
+      "transliterations": {
+        "devanagari": "निंदकरु",
+        "latin": "niṃdakaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nindakaru-def",
+      "section": "vocab",
+      "text": "ನಿಂದಿಸುವವ, ಬಯ್ಯುವವ",
+      "translations": {
+        "en": "one who reviles"
+      },
+      "transliterations": {
+        "devanagari": "निंदिसुवव, बय्युवव",
+        "latin": "niṃdisuvava, bayyuvava"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-edisalu",
+      "section": "vocab",
+      "text": "ಏಡಿಸಲು",
+      "translations": {
+        "en": "ಏಡಿಸಲು",
+        "hi": "ಏಡಿಸಲು"
+      },
+      "transliterations": {
+        "devanagari": "एडिसलु",
+        "latin": "eḍisalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-edisalu-def",
+      "section": "vocab",
+      "text": "ಛೇಡಿಸು, ಚೇಷ್ಟೆಮಾಡು",
+      "translations": {
+        "en": "to mock, tease"
+      },
+      "transliterations": {
+        "devanagari": "छेडिसु, चेष्टॆमाडु",
+        "latin": "cheḍisu, ceṣṭèmāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kutarka",
+      "section": "vocab",
+      "text": "ಕುತರ್ಕ",
+      "translations": {
+        "en": "ಕುತರ್ಕ",
+        "hi": "ಕುತರ್ಕ"
+      },
+      "transliterations": {
+        "devanagari": "कुतर्क",
+        "latin": "kutarka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kutarka-def",
+      "section": "vocab",
+      "text": "ನ್ಯಾಯವಿಲ್ಲದ ಮಾತು",
+      "translations": {
+        "en": "unjust argument"
+      },
+      "transliterations": {
+        "devanagari": "न्यायविल्लद मातु",
+        "latin": "nyāyavillada mātu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-patha",
+      "section": "vocab",
+      "text": "ಪಥ",
+      "translations": {
+        "en": "ಪಥ",
+        "hi": "ಪಥ"
+      },
+      "transliterations": {
+        "devanagari": "पथ",
+        "latin": "patha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-patha-def",
+      "section": "vocab",
+      "text": "ಮಾರ್ಗ, ದಾರಿ",
+      "translations": {
+        "en": "path, way"
+      },
+      "transliterations": {
+        "devanagari": "मार्ग, दारि",
+        "latin": "mārga, dāri"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vrata",
+      "section": "vocab",
+      "text": "ವ್ರತ",
+      "translations": {
+        "en": "ವ್ರತ",
+        "hi": "ವ್ರತ"
+      },
+      "transliterations": {
+        "devanagari": "व्रत",
+        "latin": "vrata"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vrata-def",
+      "section": "vocab",
+      "text": "ನಿಯಮ, ಪೂಜೆ, ಧಾರ್ಮಿಕ ಅನುಷ್ಠಾನ",
+      "translations": {
+        "en": "vow, worship, religious observance",
+        "hi": "व्रत, नियम"
+      },
+      "transliterations": {
+        "devanagari": "नियम, पूजॆ, धार्मिक अनुष्ठान",
+        "latin": "niyama, pūjè, dhārmika anuṣṭhāna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-batte",
+      "section": "vocab",
+      "text": "ಬಟ್ಟೆ",
+      "translations": {
+        "en": "ಬಟ್ಟೆ",
+        "hi": "ಬಟ್ಟೆ"
+      },
+      "transliterations": {
+        "devanagari": "बट्टॆ",
+        "latin": "baṭṭè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-batte-def",
+      "section": "vocab",
+      "text": "ಮಾರ್ಗ, ದಾರಿ",
+      "translations": {
+        "en": "path, way"
+      },
+      "transliterations": {
+        "devanagari": "मार्ग, दारि",
+        "latin": "mārga, dāri"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pramatharu",
+      "section": "vocab",
+      "text": "ಪ್ರಮಥರು",
+      "translations": {
+        "en": "ಪ್ರಮಥರು",
+        "hi": "ಪ್ರಮಥರು"
+      },
+      "transliterations": {
+        "devanagari": "प्रमथरु",
+        "latin": "pramatharu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pramatharu-def",
+      "section": "vocab",
+      "text": "ಶಿವನ ಭಕ್ತರು",
+      "translations": {
+        "en": "devotees of Shiva"
+      },
+      "transliterations": {
+        "devanagari": "शिवन भक्तरु",
+        "latin": "śivana bhaktaru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-alimana",
+      "section": "vocab",
+      "text": "ಅಳಿಮನ",
+      "translations": {
+        "en": "ಅಳಿಮನ",
+        "hi": "ಅಳಿಮನ"
+      },
+      "transliterations": {
+        "devanagari": "अळिमन",
+        "latin": "aḻimana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-alimana-def",
+      "section": "vocab",
+      "text": "ದೃಢವಲ್ಲದ ಮನಸ್ಸು, ಅಸ್ಥಿರವಾದ ಮನಸ್ಸು",
+      "translations": {
+        "en": "unsteady mind",
+        "hi": "अस्थिर मन"
+      },
+      "transliterations": {
+        "devanagari": "दृढवल्लद मनस्सु, अस्थिरवाद मनस्सु",
+        "latin": "dṛḍhavallada manassu, asthiravāda manassu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-addi",
+      "section": "vocab",
+      "text": "ಅದ್ದಿ",
+      "translations": {
+        "en": "ಅದ್ದಿ",
+        "hi": "ಅದ್ದಿ"
+      },
+      "transliterations": {
+        "devanagari": "अद्दि",
+        "latin": "addi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-addi-def",
+      "section": "vocab",
+      "text": "ಮುಳುಗಿಸಿ, ತೋಯಿಸಿ",
+      "translations": {
+        "en": "immersing, soaking"
+      },
+      "transliterations": {
+        "devanagari": "मुळुगिसि, तोयिसि",
+        "latin": "muḻugisi, toyisi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಹರಿದ ಗೋಣಿಯಲೊಬ್ಬ ಇರುಳೆಲ್ಲಾ ಏಕೆ ನಡೆದನು?",
+      "translations": {
+        "en": "Why did one walk all night with a torn sack?",
+        "hi": "फटे गोणी में एक व्यक्ति रात भर क्यों चला?"
+      },
+      "transliterations": {
+        "devanagari": "हरिद गोणियलॊब्ब इरुळॆल्ला एकॆ नडॆदनु?",
+        "latin": "harida goṇiyalòbba iruḻèllā ekè naḍèdanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಶಿವನ ಮೇಲಿನ ಭಕ್ತಿ ಯಾವುದರಿಂದ ಪ್ರಭೆಯಾಯಿತು?",
+      "translations": {
+        "en": "From what did devotion to Shiva become radiant?"
+      },
+      "transliterations": {
+        "devanagari": "शिवन मेलिन भक्ति यावुदरिंद प्रभॆयायितु?",
+        "latin": "śivana melina bhakti yāvudariṃda prabhèyāyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಮಹಾಜ್ಞಾನದಾಚರಣೆ ಯಾವುದು?",
+      "translations": {
+        "en": "What is the practice of great knowledge?",
+        "hi": "महाज्ञान का आचरण क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "महाज्ञानदाचरणॆ यावुदु?",
+        "latin": "mahājñānadācaraṇè yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಯಾವುದಕ್ಕೆ ಆಸೆ ಮಾಡಿದರೆ ನರಕದಲ್ಲಿ ಅದ್ದ ಬೇಕು?",
+      "translations": {
+        "en": "Desiring what must one be immersed in hell?",
+        "hi": "किसकी आस करने पर नरक में डुबोना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "यावुदक्कॆ आसॆ माडिदरॆ नरकदल्लि अद्द बेकु?",
+        "latin": "yāvudakkè āsè māḍidarè narakadalli adda beku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಹೊನ್ನುವಸ್ತ್ರ ಎಲ್ಲಿ ಬಿದ್ದಿದ್ದರೆ ಕೈಮುಟ್ಟಿ ಎತ್ತುವುದಿಲ್ಲ?",
+      "translations": {
+        "en": "If gold-cloth has fallen where will one not touch and pick it up?"
+      },
+      "transliterations": {
+        "devanagari": "हॊन्नुवस्त्र ऎल्लि बिद्दिद्दरॆ कैमुट्टि ऎत्तुवुदिल्ल?",
+        "latin": "hònnuvastra èlli biddiddarè kaimuṭṭi èttuvudilla?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಶಿವಾಚಾರದ ಪಥವನ್ನು ತೋರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+      "translations": {
+        "en": "What must be done to show the path of Shivachara?"
+      },
+      "transliterations": {
+        "devanagari": "शिवाचारद पथवन्नु तोरिसलु एनु माडबेकु?",
+        "latin": "śivācārada pathavannu torisalu enu māḍabeku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ನಡೆ-ನುಡಿಗಳ ಬಗೆಗೆ ಮುಕ್ತಾಯಕ್ಕನ ಅಭಿಪ್ರಾಯವೇನು?",
+      "translations": {
+        "en": "What is Muktayakka’s opinion about walk and speech?",
+        "hi": "नाच-नुडि के बारे में मुक्तायक्क का मत क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "नडॆ-नुडिगळ बगॆगॆ मुक्तायक्कन अभिप्रायवेनु?",
+        "latin": "naḍè-nuḍigaḻa bagègè muktāyakkana abhiprāyavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಜೇಡರದಾಸಿಮಯ್ಯನವರು ಅಳಿಮನದವನ ಭಕ್ತಿಯನ್ನು ಹೇಗೆ ತಿಳಿಸಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "How does Jedara Dasimayya explain the devotion of the unsteady-minded?",
+        "hi": "जेडर दासिमय्य अस्थिर मन वाले की भक्ति कैसे समझाते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "जेडरदासिमय्यनवरु अळिमनदवन भक्तियन्नु हेगॆ तिळिसिद्दारॆ?",
+        "latin": "jeḍaradāsimayyanavaru aḻimanadavana bhaktiyannu hegè tiḻisiddārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಆಸೆ ಆಮಿಷಗಳಿಂದ ಮುಕ್ತರಾಗುವ ಬಗೆಯನ್ನು ಸತ್ಯಕ್ಕ ತನ್ನ ವಚನದಲ್ಲಿ ಹೇಗೆ ವ್ಯಕ್ತಗೊಳಿಸಿದ್ದಾಳೆ?",
+      "translations": {
+        "en": "How does Satyakka express becoming free of desire and lure in her vachana?"
+      },
+      "transliterations": {
+        "devanagari": "आसॆ आमिषगळिंद मुक्तरागुव बगॆयन्नु सत्यक्क तन्न वचनदल्लि हेगॆ व्यक्तगॊळिसिद्दाळॆ?",
+        "latin": "āsè āmiṣagaḻiṃda muktarāguva bagèyannu satyakka tanna vacanadalli hegè vyaktagòḻisiddāḻè?"
+      },
+      "type": "question"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g6-fl-p1",
+    "chapterId": "ch09-natyakala-durandhara-mahammad-peer",
+    "editionId": "2026-27",
+    "number": 9
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ. कॆळगिन प्रश्नॆगळिगॆ उत्तरिसिरि.",
+      "en": "Answer the following questions.",
+      "hi": "निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "a. kèḻagina praśnègaḻigè uttarisiri."
+    },
+    "story": {
+      "devanagari": "पूरक पाठ",
+      "en": "Supplementary lesson",
+      "hi": "पूरक पाठ",
+      "kn": "ಪೂರಕ ಪಾಠ",
+      "latin": "pūraka pāṭha"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 9,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch09-natyakala-durandhara-mahammad-peer",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ನಾಟ್ಯಕಲಾ ದುರಂಧರ ಮಹಮ್ಮದ್ ಪೀರ್"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ನಮ್ಮ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸುಮಾರು 1500 ವರ್ಷಗಳ ಇತಿಹಾಸವಿದೆ. ಜನಪದ ಗೀತೆ, ಕಥೆಗಳು, ಲಾವಣಿ ಹಾಗೂ ರಂಗಭೂಮಿ ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ಮೌಖಿಕವಾಗಿ ತಲುಪಿಸುತ್ತ ಬಂದಿವೆ. ಪುರಾಣ, ಇತಿಹಾಸ ಮುಂತಾದ ಪ್ರಸಿದ್ಧವಾದ ಸಾಹಿತ್ಯವನ್ನು ಮನೋರಂಜನೆಯ ಜೊತೆಗೆ ರವಾನಿಸುವ ಕಾರ್ಯವನ್ನು ರಂಗಭೂಮಿ ವಹಿಸಿಕೊಂಡಿದೆ. ಶ್ರವ್ಯ ದೃಶ್ಯ ಸಾಧನವಾದ ರಂಗಭೂಮಿಯ ಪಾತ್ರಗಳು ಬಹು ಬೇಗನೆ ಜನರನ್ನು ತಲುಪುತ್ತವೆ. ರಂಗಭೂಮಿ ಕಲೆಯನ್ನು ಉಳಿಸಿ ಬೆಳೆಸುವುದರಲ್ಲಿ ಹಲವಾರು ಮಹನೀಯರು ತಮ್ಮ ಜೀವನವನ್ನೇ ಮುಡುಪಾಗಿರಿಸಿದ್ದಾರೆ. ಅಂತಹ ಮಹಾನ್ ಕಲಾವಿದರಲ್ಲಿ ಮಹಮ್ಮದ್ ಪೀರ್ ಒಬ್ಬರು.",
+      "translations": {
+        "en": "Kannada literature has a history of about 1500 years. Folk songs, stories, lavani and theatre have carried Kannada literature orally to ordinary people. Theatre has taken on the work of conveying famous literature such as puranas and history along with entertainment. As an audio-visual medium, theatre roles reach people very quickly. Many great people have dedicated their lives to preserving and fostering the art of theatre. Among such great artists is Muhammad Peer.",
+        "hi": "कन्नड़ साहित्य का लगभग 1500 वर्षों का इतिहास है। जनपद गीत, कथाएँ, लावणी और रंगमंच कन्नड़ साहित्य को आम लोगों तक मौखिक रूप से पहुँचाते आए हैं। पुराण, इतिहास आदि प्रसिद्ध साहित्य को मनोरंजन के साथ पहुँचाने का कार्य रंगमंच ने संभाला। श्रव्य-दृश्य माध्यम होने से रंगमंच की भूमिकाएँ बहुत जल्दी लोगों तक पहुँचती हैं। रंगमंच कला को बचाकर बढ़ाने में कई महापुरुषों ने अपना जीवन समर्पित किया। ऐसे महान कलाकारों में मुहम्मद पीर एक हैं।"
+      },
+      "transliterations": {
+        "devanagari": "नम्म कन्नड साहित्यक्कॆ सुमारु 1500 वर्षगळ इतिहासविदॆ. जनपद गीतॆ, कथॆगळु, लावणि हागू रंगभूमि कन्नड साहित्यवन्नु जनसामान्यरिगॆ मौखिकवागि तलुपिसुत्त बंदिवॆ. पुराण, इतिहास मुंताद प्रसिद्धवाद साहित्यवन्नु मनोरंजनॆय जॊतॆगॆ रवानिसुव कार्यवन्नु रंगभूमि वहिसिकॊंडिदॆ. श्रव्य दृश्य साधनवाद रंगभूमिय पात्रगळु बहु बेगनॆ जनरन्नु तलुपुत्तवॆ. रंगभूमि कलॆयन्नु उळिसि बॆळॆसुवुदरल्लि हलवारु महनीयरु तम्म जीवनवन्ने मुडुपागिरिसिद्दारॆ. अंतह महान् कलाविदरल्लि महम्मद् पीर् ऒब्बरु.",
+        "latin": "namma kannaḍa sāhityakkè sumāru 1500 varṣagaḻa itihāsavidè. janapada gītè, kathègaḻu, lāvaṇi hāgū raṃgabhūmi kannaḍa sāhityavannu janasāmānyarigè maukhikavāgi talupisutta baṃdivè. purāṇa, itihāsa muṃtāda prasiddhavāda sāhityavannu manoraṃjanèya jòtègè ravānisuva kāryavannu raṃgabhūmi vahisikòṃḍidè. śravya dṛśya sādhanavāda raṃgabhūmiya pātragaḻu bahu beganè janarannu taluputtavè. raṃgabhūmi kalèyannu uḻisi bèḻèsuvudaralli halavāru mahanīyaru tamma jīvanavanne muḍupāgirisiddārè. aṃtaha mahān kalāvidaralli mahammad pīr òbbaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಮಹಮ್ಮದ್ ಪೀರ್ ಕನ್ನಡ ವೃತ್ತಿ ರಂಗಭೂಮಿಯ ಪ್ರಸಿದ್ಧ ನಟ. ಮೈಸೂರಿನ ಮಧ್ಯಮ ವರ್ಗದ ಕುಟುಂಬವೊಂದರಲ್ಲಿ ಜನಿಸಿದರು. ಇವರ ತಂದೆ ಪೈಲ್ವಾನ್ ಮೊಹಿಯುದ್ದೀನ್. ತಾಯಿ ಮುಬಾರಕ್ಬಿ. ತಂದೆತಾಯಿಯರನ್ನು ಬಾಲ್ಯದಲ್ಲಿಯೆ ಕಳೆದುಕೊಂಡ ಪೀರ್ ಅವರು ಅನಂತರ ಸೋದರಮಾವನ ಆಶ್ರಯದಲ್ಲಿ ಬೆಳೆದರು. ಇವರು ವೆಸ್ಲಿಯನ್ ಮಿಷನ್ ಹೈಸ್ಕೂಲಿನಲ್ಲಿ ಓದುತ್ತಿರುವಾಗಲೆ ನಾಟಕದಲ್ಲಿ ಅಭಿರುಚಿ ಹತ್ತಿತು. ಅವಕಾಶ ದೊರೆತಾಗಲೆಲ್ಲಾ ತಪ್ಪದೆ ನಾಟಕಗಳನ್ನು ನೋಡುತ್ತಿದ್ದ ಇವರ ಮೇಲೆ ವರದಾಚಾರ್ಯ, ಕೃಷ್ಣಮೂರ್ತಿರಾವ್, ಬಳ್ಳಾರಿ ರಾಘವ ಅವರ ಪ್ರಭಾವವಾಯಿತು. ನಾಟಕದ ಗೀಳಿನಿಂದಾಗಿ ವಿದ್ಯಾಭ್ಯಾಸ ಕುಂಠಿತಗೊಂಡಿತು. 1915ರಲ್ಲಿ ಮೈಸೂರಿನಲ್ಲಿಯೇ ಇದ್ದ ಗಿರಿಧರಲಾಲ್ ಕಂಪನಿ ಪ್ರವೇಶಿಸುವ ಮೂಲಕ ಇವರು ರಂಗಭೂಮಿಗೆ ಪದಾರ್ಪಣ ಮಾಡಿದರು.",
+      "translations": {
+        "en": "Muhammad Peer is a famous actor of Kannada professional theatre. He was born in a middle-class family in Mysore. His father was wrestler Mohiyuddin; his mother Mubarakbi. Having lost his parents in childhood, Peer later grew up under his maternal uncle’s care. While studying at Wesleyan Mission High School he developed a taste for drama. Whenever he got a chance he never failed to watch plays; Varadacharya, Krishnamurthy Rao and Ballari Raghava influenced him. His obsession with drama hindered his studies. In 1915 he entered Giridharlal Company in Mysore and thus stepped onto the stage.",
+        "hi": "मुहम्मद पीर कन्नड़ वृत्ति रंगमंच के प्रसिद्ध अभिनेता हैं। उनका जन्म मैसूर के एक मध्यमवर्गीय परिवार में हुआ। पिता पहलवान मोहियुद्दीन, माता मुबारकबी। बचपन में माता-पिता खोकर पीर बाद में मामा के आश्रय में पले। वेस्लियन मिशन हाईस्कूल में पढ़ते समय ही नाटक में रुचि लगी। अवसर मिलते ही नाटक देखते; वरदाचार्य, कृष्णमूर्तिराव, बल्लारी राघव का प्रभाव पड़ा। नाटक के पागलपन से विद्याभ्यास रुक गया। 1915 में मैसूर की गिरिधरलाल कंपनी में प्रवेश कर रंगमंच पर कदम रखा।"
+      },
+      "transliterations": {
+        "devanagari": "महम्मद् पीर् कन्नड वृत्ति रंगभूमिय प्रसिद्ध नट. मैसूरिन मध्यम वर्गद कुटुंबवॊंदरल्लि जनिसिदरु. इवर तंदॆ पैल्वान् मॊहियुद्दीन्. तायि मुबारक्बि. तंदॆतायियरन्नु बाल्यदल्लियॆ कळॆदुकॊंड पीर् अवरु अनंतर सोदरमावन आश्रयदल्लि बॆळॆदरु. इवरु वॆस्लियन् मिषन् हैस्कूलिनल्लि ओदुत्तिरुवागलॆ नाटकदल्लि अभिरुचि हत्तितु. अवकाश दॊरॆतागलॆल्ला तप्पदॆ नाटकगळन्नु नोडुत्तिद्द इवर मेलॆ वरदाचार्य, कृष्णमूर्तिराव्, बळ्ळारि राघव अवर प्रभाववायितु. नाटकद गीळिनिंदागि विद्याभ्यास कुंठितगॊंडितु. 1915रल्लि मैसूरिनल्लिये इद्द गिरिधरलाल् कंपनि प्रवेशिसुव मूलक इवरु रंगभूमिगॆ पदार्पण माडिदरु.",
+        "latin": "mahammad pīr kannaḍa vṛtti raṃgabhūmiya prasiddha naṭa. maisūrina madhyama vargada kuṭuṃbavòṃdaralli janisidaru. ivara taṃdè pailvān mòhiyuddīn. tāyi mubārakbi. taṃdètāyiyarannu bālyadalliyè kaḻèdukòṃḍa pīr avaru anaṃtara sodaramāvana āśrayadalli bèḻèdaru. ivaru vèsliyan miṣan haiskūlinalli oduttiruvāgalè nāṭakadalli abhiruci hattitu. avakāśa dòrètāgalèllā tappadè nāṭakagaḻannu noḍuttidda ivara melè varadācārya, kṛṣṇamūrtirāv, baḻḻāri rāghava avara prabhāvavāyitu. nāṭakada gīḻiniṃdāgi vidyābhyāsa kuṃṭhitagòṃḍitu. 1915ralli maisūrinalliye idda giridharalāl kaṃpani praveśisuva mūlaka ivaru raṃgabhūmigè padārpaṇa māḍidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಕೃಷ್ಣಲೀಲಾ ಇವರು ಅಭಿನಯಿಸಿದ ಮೊದಲ ನಾಟಕ. 1920ರಲ್ಲಿ ಪೀರ್ ಅವರು ಈ ಸಂಸ್ಥೆಯನ್ನು ಬಿಟ್ಟು ಬೆಂಗಳೂರಿಗೆ ಹೋಗಿ ಗುರುಕಾರ್ ಕಂಪನಿ ಎಂದು ಪ್ರಸಿದ್ಧವಾಗಿದ್ದ ನಟಭಯಂಕರ ಗಂಗಾಧರರಾಯರ ‘ಭಾರತ ಜನಮನೋಲ್ಲಾಸಿನಿ’ ನಾಟಕ ಕಂಪನಿಗೆ ಸೇರಿದರು. ಇಲ್ಲಿ ಎಂಟು ವರ್ಷಗಳ ಕಾಲ ದುಡಿದರು. ಇಲ್ಲಿರುವಾಗ ‘ಕಾಳಿದಾಸ’ದಲ್ಲಿ ಕುರುಬ, ‘ಸದಾರಮೆ’ಯಲ್ಲಿ ಕಳ್ಳ, ‘ಪ್ರಭಾಮಣಿ’ಯಲ್ಲಿ ವಿರೋಚನ, ‘ಸುಭದ್ರಾ’ದಲ್ಲಿ ಬ್ರಾಹ್ಮಣ- ಇಂತಹ ಹಾಸ್ಯ ಪಾತ್ರಗಳು ಅವರ ಪಾಲಿನದಾದವು. ಬರುಬರುತ್ತಾ ಪೀರ್ ಅವರು ಕಂಪನಿಯ ನಟರಾಗಿಯಷ್ಟೇ ಅಲ್ಲದೆ ಆ ಕಂಪನಿಯ ಸಲಹೆಗಾರರಾಗಿ, ಕಾರ್ಯದರ್ಶಿಯಾಗಿ, ಸ್ಟೇಜ್ ಮ್ಯಾನೇಜರ್ ಆಗಿ ಕೊನೆಗೆ ಕಂಪನಿಯ ಮ್ಯಾನೇಜರ್ ಆದರು. ಕೆಲವು ಸಹ ನಟರ ಸಹಕಾರದಿಂದ 1932ರಲ್ಲಿ ಚಂದ್ರಕಲಾ ನಾಟಕ ಮಂಡಳಿಯನ್ನು ಸ್ಥಾಪಿಸಿದರು.",
+      "translations": {
+        "en": "Krishnaleela was the first play he acted in. In 1920 Peer left that company, went to Bengaluru and joined Natabhayankara Gangadhararao’s Bharata Janamanollasini theatre company, known as Gurukar Company. He worked there for eight years. There he got comic roles such as a shepherd in Kalidasa, a thief in Sadarame, Virochana in Prabhamani, and a brahmin in Subhadra. Gradually Peer became not only an actor of the company but its adviser, secretary, stage manager and finally manager. With the help of some fellow actors he founded Chandrakala Nataka Mandali in 1932.",
+        "hi": "कृष्णलीला उनका पहला अभिनय नाटक था। 1920 में वे कंपनी छोड़ बेंगलूर गए और गुरुकार कंपनी नाम से प्रसिद्ध नटभयंकर गंगाधरराय की भारत जनमनोललासिनी नाटक कंपनी में जुड़े। आठ वर्ष काम किया। वहाँ कालिदास में चरवाहा, सदारमे में चोर, प्रभामणि में विरोचन, सुभद्रा में ब्राह्मण जैसे हास्य पात्र मिले। धीरे-धीरे अभिनेता के साथ सलाहकार, सचिव, स्टेज मैनेजर और अंत में मैनेजर बने। सह-अभिनेताओं के सहयोग से 1932 में चंद्रकला नाटक मंडली स्थापित की।"
+      },
+      "transliterations": {
+        "devanagari": "कृष्णलीला इवरु अभिनयिसिद मॊदल नाटक. 1920रल्लि पीर् अवरु ई संस्थॆयन्नु बिट्टु बॆंगळूरिगॆ होगि गुरुकार् कंपनि ऎंदु प्रसिद्धवागिद्द नटभयंकर गंगाधररायर ‘भारत जनमनोल्लासिनि’ नाटक कंपनिगॆ सेरिदरु. इल्लि ऎंटु वर्षगळ काल दुडिदरु. इल्लिरुवाग ‘काळिदास’दल्लि कुरुब, ‘सदारमॆ’यल्लि कळ्ळ, ‘प्रभामणि’यल्लि विरोचन, ‘सुभद्रा’दल्लि ब्राह्मण- इंतह हास्य पात्रगळु अवर पालिनदादवु. बरुबरुत्ता पीर् अवरु कंपनिय नटरागियष्टे अल्लदॆ आ कंपनिय सलहॆगाररागि, कार्यदर्शियागि, स्टेज् म्यानेजर् आगि कॊनॆगॆ कंपनिय म्यानेजर् आदरु. कॆलवु सह नटर सहकारदिंद 1932रल्लि चंद्रकला नाटक मंडळियन्नु स्थापिसिदरु.",
+        "latin": "kṛṣṇalīlā ivaru abhinayisida mòdala nāṭaka. 1920ralli pīr avaru ī saṃsthèyannu biṭṭu bèṃgaḻūrigè hogi gurukār kaṃpani èṃdu prasiddhavāgidda naṭabhayaṃkara gaṃgādhararāyara ‘bhārata janamanollāsini’ nāṭaka kaṃpanigè seridaru. illi èṃṭu varṣagaḻa kāla duḍidaru. illiruvāga ‘kāḻidāsa’dalli kuruba, ‘sadāramè’yalli kaḻḻa, ‘prabhāmaṇi’yalli virocana, ‘subhadrā’dalli brāhmaṇa- iṃtaha hāsya pātragaḻu avara pālinadādavu. barubaruttā pīr avaru kaṃpaniya naṭarāgiyaṣṭe alladè ā kaṃpaniya salahègārarāgi, kāryadarśiyāgi, sṭej myānejar āgi kònègè kaṃpaniya myānejar ādaru. kèlavu saha naṭara sahakāradiṃda 1932ralli caṃdrakalā nāṭaka maṃḍaḻiyannu sthāpisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಐದೂವರೆ ವರ್ಷಗಳ ಕಾಲ ಅಸ್ತಿತ್ವದಲ್ಲಿದ್ದ ಈ ಸಂಸ್ಥೆ ಪೀರ್ರವರ ನೇತೃತ್ವದಲ್ಲಿ ಸಾಧಿಸಿದ ಕಲಾಸಿದ್ಧಿ ಅಸಾಮಾನ್ಯ. ಈ ಕಂಪನಿಯ ಮೊದಲ ಪ್ರಯೋಗ ದ್ವಿಜೇಂದ್ರಲಾಲ್ರಾಯರ ‘ಷಾಜಹಾನ’ ಪ್ರಚಂಡ ಜನಪ್ರಿಯತೆ ಪಡೆಯಿತು. ಒಂದೇ ನಾಟಕ ಒಂಬತ್ತು ದಿನಗಳು ಸತತ ಪ್ರದರ್ಶಿತವಾದ ಕೀರ್ತಿ ಇದರದಾಯಿತು. ಎಚ್.ಎಲ್.ಎನ್.ಸಿಂಹ ಅವರ ‘ಸಂಸಾರ ನೌಕೆ’ (1932), ಪುಟ್ಟಸ್ವಾಮಯ್ಯನವರ ‘ಗೌತಮ ಬುದ್ಧ’ (1934) ಮುಂತಾದ ಹೊಸ ಬಗೆಯ ನಾಟಕಗಳನ್ನು ಈ ಮಂಡಳಿ ಆಡಿತು. ಈ ಮೂರು ವಿಶಿಷ್ಟ ನಾಟಕಗಳಲ್ಲದೆ ಪ್ರಭಾಮಣಿ ವಿಜಯ, ವೀರಸಿಂಹ ಚರಿತ್ರೆ, ಸದಾರಮೆ, ಸುಭದ್ರಾ ಪರಿಣಯ ಮೊದಲಾದ ನಾಟಕಗಳೂ ಈ ಮಂಡಳಿಯ ನಾಟಕಗಳಾದವು. ‘ಸಂಸಾರ ನೌಕ’ದಲ್ಲಿ ಸುಂದರ, ‘ಷಾಜಹಾನ್’ ನಾಟಕದಲ್ಲಿ ದಾರಾ, ‘ಗೌತಮಬುದ್ಧ’ದಲ್ಲಿ ಗೌತಮ ಈ ಪಾತ್ರಗಳ ಅಭಿನಯ ವಿಶೇಷ ಖ್ಯಾತಿಗೆ ಪಾತ್ರವಾಗಿ ಪೀರ್ ಅವರ ಹೆಸರು ಕನ್ನಡ ರಂಗಭೂಮಿಯ ಇತಿಹಾಸದಲ್ಲಿ ಚಿರಸ್ಥಾಯಿಯಾಯಿತು.",
+      "translations": {
+        "en": "In the five-and-a-half years this institution existed, the artistic achievement under Peer’s leadership was extraordinary. The company’s first production, Dwijendralal Ray’s Shahjahan, won huge popularity. It earned the distinction of being performed for nine days continuously. The mandali staged new kinds of plays such as H.L.N. Simha’s Samsara Nauke (1932) and Puttaswamayya’s Gautama Buddha (1934). Besides these three special plays, Prabhamani Vijaya, Veerasimha Charitre, Sadarame and Subhadra Parinaya also belonged to this mandali. Peer’s acting as Sundara in Samsara Nauka, Dara in Shahjahan and Gautama in Gautama Buddha won special fame, and his name became lasting in the history of Kannada theatre.",
+        "hi": "साढ़े पाँच वर्ष तक अस्तित्व में रही इस संस्था ने पीर के नेतृत्व में असामान्य कला-सिद्धि पाई। पहली प्रस्तुति द्विजेंद्रलाल राय का शाजहान अत्यधिक लोकप्रिय हुआ। एक ही नाटक नौ दिन लगातार खेले जाने का गौरव मिला। एच.एल.एन.सिंह का संसार नौके (1932), पुट्टस्वामय्या का गौतम बुद्ध (1934) जैसे नए नाटक खेले। प्रभामणि विजय, वीरसिंह चरित्र, सदारमे, सुभद्रा परिणय भी इसी मंडली के रहे। संसार नौका में सुंदर, शाजहान में दारा, गौतमबुद्ध में गौतम का अभिनय विशेष ख्याति पाकर पीर का नाम कन्नड़ रंगमंच इतिहास में चिरस्थायी हुआ।"
+      },
+      "transliterations": {
+        "devanagari": "ऐदूवरॆ वर्षगळ काल अस्तित्वदल्लिद्द ई संस्थॆ पीर्रवर नेतृत्वदल्लि साधिसिद कलासिद्धि असामान्य. ई कंपनिय मॊदल प्रयोग द्विजेंद्रलाल्रायर ‘षाजहान’ प्रचंड जनप्रियतॆ पडॆयितु. ऒंदे नाटक ऒंबत्तु दिनगळु सतत प्रदर्शितवाद कीर्ति इदरदायितु. ऎच्.ऎल्.ऎन्.सिंह अवर ‘संसार नौकॆ’ (1932), पुट्टस्वामय्यनवर ‘गौतम बुद्ध’ (1934) मुंताद हॊस बगॆय नाटकगळन्नु ई मंडळि आडितु. ई मूरु विशिष्ट नाटकगळल्लदॆ प्रभामणि विजय, वीरसिंह चरित्रॆ, सदारमॆ, सुभद्रा परिणय मॊदलाद नाटकगळू ई मंडळिय नाटकगळादवु. ‘संसार नौक’दल्लि सुंदर, ‘षाजहान्’ नाटकदल्लि दारा, ‘गौतमबुद्ध’दल्लि गौतम ई पात्रगळ अभिनय विशेष ख्यातिगॆ पात्रवागि पीर् अवर हॆसरु कन्नड रंगभूमिय इतिहासदल्लि चिरस्थायियायितु.",
+        "latin": "aidūvarè varṣagaḻa kāla astitvadallidda ī saṃsthè pīrravara netṛtvadalli sādhisida kalāsiddhi asāmānya. ī kaṃpaniya mòdala prayoga dvijeṃdralālrāyara ‘ṣājahāna’ pracaṃḍa janapriyatè paḍèyitu. òṃde nāṭaka òṃbattu dinagaḻu satata pradarśitavāda kīrti idaradāyitu. èc.èl.èn.siṃha avara ‘saṃsāra naukè’ (1932), puṭṭasvāmayyanavara ‘gautama buddha’ (1934) muṃtāda hòsa bagèya nāṭakagaḻannu ī maṃḍaḻi āḍitu. ī mūru viśiṣṭa nāṭakagaḻalladè prabhāmaṇi vijaya, vīrasiṃha caritrè, sadāramè, subhadrā pariṇaya mòdalāda nāṭakagaḻū ī maṃḍaḻiya nāṭakagaḻādavu. ‘saṃsāra nauka’dalli suṃdara, ‘ṣājahān’ nāṭakadalli dārā, ‘gautamabuddha’dalli gautama ī pātragaḻa abhinaya viśeṣa khyātigè pātravāgi pīr avara hèsaru kannaḍa raṃgabhūmiya itihāsadalli cirasthāyiyāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ವರದಾಚಾರ್ಯ, ರಾಘವರ ಅನಂತರ ರಂಗಾಭಿನಯ ಕಲೆ ಪ್ರಖರವಾದುದು ಪೀರ್ ಅವರಿಂದಲೇ ಎಂದರೆ ಅತಿಶಯೋಕ್ತಿಯಲ್ಲ. ಕನ್ನಡ ರಾಘವ ಎಂದೇ ಪ್ರಸಿದ್ಧರಾದ ಪೀರ್ ಅವರಿಗೆ 1935ರಲ್ಲಿ ಹುಬ್ಬಳ್ಳಿಯಲ್ಲಿ ಮುದವೀಡು ಕೃಷ್ಣರಾಯರ ನೇತೃತ್ವದಲ್ಲಿ ನಾಟ್ಯ ಕಲಾ ದುರಂಧರ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಯಿತು.",
+      "translations": {
+        "en": "It is no exaggeration to say that after Varadacharya and Raghava, the art of stage acting grew intense through Peer. Peer, famous as the Kannada Raghava, was awarded the Natya Kala Durandhara prize in 1935 at Hubballi under Mudaveedu Krishnaraya’s leadership.",
+        "hi": "वरदाचार्य और राघव के बाद रंग-अभिनय कला पीर से ही प्रखर हुई—यह अतिशयोक्ति नहीं। कन्नड़ राघव कहे जाने वाले पीर को 1935 में हुब्बल्ली में मुदवीडु कृष्णराय के नेतृत्व में नाट्य कला दुरंतद्धर पुरस्कार दिया गया।"
+      },
+      "transliterations": {
+        "devanagari": "वरदाचार्य, राघवर अनंतर रंगाभिनय कलॆ प्रखरवादुदु पीर् अवरिंदले ऎंदरॆ अतिशयोक्तियल्ल. कन्नड राघव ऎंदे प्रसिद्धराद पीर् अवरिगॆ 1935रल्लि हुब्बळ्ळियल्लि मुदवीडु कृष्णरायर नेतृत्वदल्लि नाट्य कला दुरंधर प्रशस्ति नीडलायितु.",
+        "latin": "varadācārya, rāghavara anaṃtara raṃgābhinaya kalè prakharavādudu pīr avariṃdale èṃdarè atiśayoktiyalla. kannaḍa rāghava èṃde prasiddharāda pīr avarigè 1935ralli hubbaḻḻiyalli mudavīḍu kṛṣṇarāyara netṛtvadalli nāṭya kalā duraṃdhara praśasti nīḍalāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಐದೂವರೆ ಅಡಿ ಎತ್ತರ, ವಿಶಾಲ ಹಣೆ, ಅಗಲ ಕಣ್ಣುಗಳು, ಆಕರ್ಷಕ ಧ್ವನಿಯ ಪೀರ್ ಅವರದು ಸರಳ ಜೀವನ. ದಕ್ಷ ಅಭಿನಯ ಹಾಗೂ ಧ್ವನಿಪೂರ್ಣ ಸಂಭಾಷಣಾ ವೈಖರಿ ಇವರ ನಾಟಕಗಳ ಜೀವಾಳ. ಅಬ್ಬರದ ಸಂಗೀತ, ಹಾಡುಗಳಿಂದ ಅನೇಕ ವೇಳೆ ನಾಟಕದ ಓಟಕ್ಕೆ ಕುಂದು ಬರುತ್ತದೆ ಎಂಬುದು ಇವರ ಅಭಿಪ್ರಾಯ. ಸಂಗೀತ ಪ್ರಧಾನ ನಾಟಕಗಳ ಮಹತ್ವ ಕಡಿಮೆಯಾಗಿದ್ದಾಗ, ಜನಪ್ರಿಯತೆ ಕುಂದುತ್ತಿದ್ದಾಗ, ಸಾಹಿತ್ಯ ಮೌಲ್ಯವುಳ್ಳ ಗದ್ಯ ಕೃತಿಗಳೂ ಅಭಿನಯ ಯೋಗ್ಯ ಎಂದು ತೋರಿಸಿದ ಕೀರ್ತಿ ಪೀರ್ ಅವರಿಗೆ ಸಲ್ಲಬೇಕು.",
+      "translations": {
+        "en": "Five and a half feet tall, with a broad forehead, wide eyes and an attractive voice, Peer lived simply. Skilled acting and a voice-rich style of dialogue were the life of his plays. He believed that noisy music and songs often hindered a play’s flow. When music-centred plays lost importance and popularity, the credit for showing that literary prose works too can be acted belongs to Peer.",
+        "hi": "साढ़े पाँच फुट लंबाई, विशाल माथा, चौड़ी आँखें, आकर्षक स्वर वाले पीर का जीवन सरल था। दक्ष अभिनय और स्वर-पूर्ण संवाद शैली उनके नाटकों की जान थी। उनका मत था कि शोरगुल संगीत और गीतों से नाटक की गति अक्सर रुकती है। संगीत-प्रधान नाटकों का महत्व घटने और लोकप्रियता कम होने पर साहित्य-मूल्य वाले गद्य कृति भी अभिनय-योग्य हैं—यह दिखाने का श्रेय पीर को है।"
+      },
+      "transliterations": {
+        "devanagari": "ऐदूवरॆ अडि ऎत्तर, विशाल हणॆ, अगल कण्णुगळु, आकर्षक ध्वनिय पीर् अवरदु सरळ जीवन. दक्ष अभिनय हागू ध्वनिपूर्ण संभाषणा वैखरि इवर नाटकगळ जीवाळ. अब्बरद संगीत, हाडुगळिंद अनेक वेळॆ नाटकद ओटक्कॆ कुंदु बरुत्तदॆ ऎंबुदु इवर अभिप्राय. संगीत प्रधान नाटकगळ महत्व कडिमॆयागिद्दाग, जनप्रियतॆ कुंदुत्तिद्दाग, साहित्य मौल्यवुळ्ळ गद्य कृतिगळू अभिनय योग्य ऎंदु तोरिसिद कीर्ति पीर् अवरिगॆ सल्लबेकु.",
+        "latin": "aidūvarè aḍi èttara, viśāla haṇè, agala kaṇṇugaḻu, ākarṣaka dhvaniya pīr avaradu saraḻa jīvana. dakṣa abhinaya hāgū dhvanipūrṇa saṃbhāṣaṇā vaikhari ivara nāṭakagaḻa jīvāḻa. abbarada saṃgīta, hāḍugaḻiṃda aneka veḻè nāṭakada oṭakkè kuṃdu baruttadè èṃbudu ivara abhiprāya. saṃgīta pradhāna nāṭakagaḻa mahatva kaḍimèyāgiddāga, janapriyatè kuṃduttiddāga, sāhitya maulyavuḻḻa gadya kṛtigaḻū abhinaya yogya èṃdu torisida kīrti pīr avarigè sallabeku."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಕನ್ನಡ ರಾಘವ ಎಂದು ಪ್ರಸಿದ್ಧರಾದವರು ಯಾರು?",
+      "translations": {
+        "en": "Who became famous as the Kannada Raghava?",
+        "hi": "कन्नड़ राघव के नाम से प्रसिद्ध कौन थे?"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड राघव ऎंदु प्रसिद्धरादवरु यारु?",
+        "latin": "kannaḍa rāghava èṃdu prasiddharādavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಮಹಮ್ಮದ್ ಪೀರ್ ಅವರು ಯಾರ ಆಶ್ರಯದಲ್ಲಿ ಬೆಳೆದರು?",
+      "translations": {
+        "en": "Under whose care did Muhammad Peer grow up?",
+        "hi": "मुहम्मद पीर किसके आश्रय में पले?"
+      },
+      "transliterations": {
+        "devanagari": "महम्मद् पीर् अवरु यार आश्रयदल्लि बॆळॆदरु?",
+        "latin": "mahammad pīr avaru yāra āśrayadalli bèḻèdaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಮಹಮ್ಮದ್ ಪೀರ್ ಅವರಿಗೆ ನಾಟಕದ ಅಭಿರುಚಿ ಯಾವಾಗ ಹತ್ತಿತು?",
+      "translations": {
+        "en": "When did Muhammad Peer develop a taste for drama?",
+        "hi": "मुहम्मद पीर को नाटक की रुचि कब लगी?"
+      },
+      "transliterations": {
+        "devanagari": "महम्मद् पीर् अवरिगॆ नाटकद अभिरुचि यावाग हत्तितु?",
+        "latin": "mahammad pīr avarigè nāṭakada abhiruci yāvāga hattitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಮಹಮ್ಮದ್ ಪೀರ್ ಅವರ ಯಾವ ಪಾತ್ರಗಳು ವಿಶೇಷ ಖ್ಯಾತಿಗೆ ಪಾತ್ರವಾಗಿವೆ?",
+      "translations": {
+        "en": "Which of Muhammad Peer’s roles won special fame?",
+        "hi": "मुहम्मद पीर के कौन से पात्र विशेष ख्याति पाए?"
+      },
+      "transliterations": {
+        "devanagari": "महम्मद् पीर् अवर याव पात्रगळु विशेष ख्यातिगॆ पात्रवागिवॆ?",
+        "latin": "mahammad pīr avara yāva pātragaḻu viśeṣa khyātigè pātravāgivè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಮಹಮ್ಮದ್ ಪೀರ್ರವರ ತಂದೆ ತಾಯಿ ಹೆಸರೇನು?",
+      "translations": {
+        "en": "What were Muhammad Peer’s parents’ names?",
+        "hi": "मुहम्मद पीर के माता-पिता के नाम क्या थे?"
+      },
+      "transliterations": {
+        "devanagari": "महम्मद् पीर्रवर तंदॆ तायि हॆसरेनु?",
+        "latin": "mahammad pīrravara taṃdè tāyi hèsarenu?"
+      },
+      "type": "question"
+    }
+  ]
+}

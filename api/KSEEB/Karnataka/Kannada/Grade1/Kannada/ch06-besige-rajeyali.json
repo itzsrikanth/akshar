@@ -1,0 +1,1053 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अभ्यास अ",
+      "en": "Exercise A",
+      "hi": "अभ्यास अ",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "abhyāsa a"
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ",
+      "en": "Exercise B",
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "abhyāsa ā"
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ",
+      "en": "Exercise C",
+      "hi": "अभ्यास इ",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "abhyāsa i"
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई",
+      "en": "Exercise D",
+      "hi": "अभ्यास ई",
+      "kn": "ಅಭ್ಯಾಸ ಈ",
+      "latin": "abhyāsa ī"
+    },
+    "intro": {
+      "devanagari": "पाठ - ६ : पाठपूर्व चटुवटिकॆ",
+      "en": "Lesson - 6 : Pre-lesson activity",
+      "hi": "पाठ - ६ : पाठपूर्व गतिविधि",
+      "kn": "ಪಾಠ - ೬ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ",
+      "latin": "pāṭha - 6 : pāṭhapūrva caṭuvaṭikè"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "title": {
+      "devanagari": "बेसिगॆ रजॆयलि",
+      "en": "In the Summer Holiday",
+      "hi": "ग्रीष्म अवकाश में",
+      "kn": "ಬೇಸಿಗೆ ರಜೆಯಲಿ",
+      "latin": "besigè rajèyali"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने हुए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "keḻida padagaḻu"
+    }
+  },
+  "meta": {
+    "author": "ವಿದ್ಯಾಸಾಗರ ಕುಕ್ಕುಂದಾ",
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch06-besige-rajeyali",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಬೇಸಿಗೆ ರಜೆಯಲಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಅ) ಚಿತ್ರಕ್ಕೆ (ಕೇಸರಿ ಮತ್ತು ಹಸಿರು) ಬಣ್ಣ ಹಾಕಲು ಹೇಳಿ.",
+      "translations": {
+        "en": "A) Tell them to colour the picture (saffron and green).",
+        "hi": "अ) चित्र में (केसरी और हरा) रंग भरने को कहें।"
+      },
+      "transliterations": {
+        "devanagari": "अ) चित्रक्कॆ (केसरि मत्तु हसिरु) बण्ण हाकलु हेळि.",
+        "latin": "a) citrakkè (kesari mattu hasiru) baṇṇa hākalu heḻi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-kesari",
+      "section": "intro",
+      "text": "ಕೇಸರಿ",
+      "translations": {
+        "en": "saffron/orange",
+        "hi": "केसरी"
+      },
+      "transliterations": {
+        "devanagari": "केसरि",
+        "latin": "kesari"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-hasiru",
+      "section": "intro",
+      "text": "ಹಸಿರು",
+      "translations": {
+        "en": "green",
+        "hi": "हरा"
+      },
+      "transliterations": {
+        "devanagari": "हसिरु",
+        "latin": "hasiru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಆ) ಮಕ್ಕಳಿಗೆ ಇಷ್ಟವಾದ ಬಣ್ಣದಿಂದ ಚಿತ್ರ ತುಂಬಿಸಲು ಹೇಳಿ.",
+      "translations": {
+        "en": "B) Tell the children to fill the picture with a colour they like.",
+        "hi": "आ) बच्चों से पसंद के रंग से चित्र भरवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) मक्कळिगॆ इष्टवाद बण्णदिंद चित्र तुंबिसलु हेळि.",
+        "latin": "ā) makkaḻigè iṣṭavāda baṇṇadiṃda citra tuṃbisalu heḻi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-intro",
+      "section": "poem",
+      "text": "(ಪದ್ಯವನ್ನು ಹಾಡಿ, ಮಕ್ಕಳಿಂದ ಹಾಡಿಸಿ)",
+      "translations": {
+        "en": "(Sing the poem and have the children sing)",
+        "hi": "(पद्य गाएँ, बच्चों से गवाएँ)"
+      },
+      "transliterations": {
+        "devanagari": "(पद्यवन्नु हाडि, मक्कळिंद हाडिसि)",
+        "latin": "(padyavannu hāḍi, makkaḻiṃda hāḍisi)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಬೇಸಿಗೆ ರಜೆಯಲಿ",
+      "translations": {
+        "en": "In the summer holiday",
+        "hi": "ग्रीष्म अवकाश में"
+      },
+      "transliterations": {
+        "devanagari": "बेसिगॆ रजॆयलि",
+        "latin": "besigè rajèyali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಅಪ್ಪನ ಜೊತೆ ನಾ",
+      "translations": {
+        "en": "With father I",
+        "hi": "पिता के साथ मैं"
+      },
+      "transliterations": {
+        "devanagari": "अप्पन जॊतॆ ना",
+        "latin": "appana jòtè nā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಹಳ್ಳಿಗೆ ಹೋಗುವೆನು",
+      "translations": {
+        "en": "Will go to the village",
+        "hi": "गाँव जाऊँगा"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळिगॆ होगुवॆनु",
+        "latin": "haḻḻigè hoguvènu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಬೆವರನು ಸುರಿಸುವ",
+      "translations": {
+        "en": "Sweating",
+        "hi": "पसीना बहाते"
+      },
+      "transliterations": {
+        "devanagari": "बॆवरनु सुरिसुव",
+        "latin": "bèvaranu surisuva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ರೈತರ ಜೊತೆಯಲಿ",
+      "translations": {
+        "en": "With the farmers",
+        "hi": "किसानों के साथ"
+      },
+      "transliterations": {
+        "devanagari": "रैतर जॊतॆयलि",
+        "latin": "raitara jòtèyali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ನಾನೂ ದುಡಿಯುವೆನು",
+      "translations": {
+        "en": "I too will work",
+        "hi": "मैं भी मेहनत करूँगा"
+      },
+      "transliterations": {
+        "devanagari": "नानू दुडियुवॆनु",
+        "latin": "nānū duḍiyuvènu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಮುಗಿಲನೆ ಮುಟ್ಟುವ",
+      "translations": {
+        "en": "Touching the sky",
+        "hi": "आकाश छूती"
+      },
+      "transliterations": {
+        "devanagari": "मुगिलनॆ मुट्टुव",
+        "latin": "mugilanè muṭṭuva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಎತ್ತರ ದನಿಯಲಿ",
+      "translations": {
+        "en": "In a loud voice",
+        "hi": "ऊँची आवाज़ में"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तर दनियलि",
+        "latin": "èttara daniyali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಹಾಡನು ಹೇಳುವೆನು",
+      "translations": {
+        "en": "I will sing a song",
+        "hi": "गीत गाऊँगा"
+      },
+      "transliterations": {
+        "devanagari": "हाडनु हेळुवॆनु",
+        "latin": "hāḍanu heḻuvènu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಜಗದಲಿ ನಡೆದಿಹ",
+      "translations": {
+        "en": "Happening in the world",
+        "hi": "जगत में घटी"
+      },
+      "transliterations": {
+        "devanagari": "जगदलि नडॆदिह",
+        "latin": "jagadali naḍèdiha"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಕೌತುಕ ವಿಷಯವ",
+      "translations": {
+        "en": "Wonderful matters",
+        "hi": "अद्भुत बातें"
+      },
+      "transliterations": {
+        "devanagari": "कौतुक विषयव",
+        "latin": "kautuka viṣayava"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಅವರಿಗೆ ತಿಳಿಸುವೆನು",
+      "translations": {
+        "en": "I will tell them",
+        "hi": "उन्हें बताऊँगा"
+      },
+      "transliterations": {
+        "devanagari": "अवरिगॆ तिळिसुवॆनु",
+        "latin": "avarigè tiḻisuvènu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ತೋಟದಿ ಬೆಳೆದಿಹ",
+      "translations": {
+        "en": "Grown in the garden",
+        "hi": "बगीचे में उगे"
+      },
+      "transliterations": {
+        "devanagari": "तोटदि बॆळॆदिह",
+        "latin": "toṭadi bèḻèdiha"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಬಗೆ ಬಗೆ ಹಣ್ಣಿನ",
+      "translations": {
+        "en": "Of many kinds of fruit",
+        "hi": "कई तरह के फलों का"
+      },
+      "transliterations": {
+        "devanagari": "बगॆ बगॆ हण्णिन",
+        "latin": "bagè bagè haṇṇina"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ಸವಿಯನು ಸವಿಯುವೆನು",
+      "translations": {
+        "en": "I will taste the flavour",
+        "hi": "स्वाद लूँगा"
+      },
+      "transliterations": {
+        "devanagari": "सवियनु सवियुवॆनु",
+        "latin": "saviyanu saviyuvènu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "stanza": 6,
+      "text": "ಹಚ್ಚನೆ ಹಸುರಿನ",
+      "translations": {
+        "en": "Of deep green",
+        "hi": "गहरी हरियाली की"
+      },
+      "transliterations": {
+        "devanagari": "हच्चनॆ हसुरिन",
+        "latin": "haccanè hasurina"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "stanza": 6,
+      "text": "ಸುಂದರ ಸೃಷ್ಟಿಯ",
+      "translations": {
+        "en": "Of beautiful creation",
+        "hi": "सुंदर सृष्टि की"
+      },
+      "transliterations": {
+        "devanagari": "सुंदर सृष्टिय",
+        "latin": "suṃdara sṛṣṭiya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "stanza": 6,
+      "text": "ಸೊಬಗನು ಕಾಣುವೆನು!",
+      "translations": {
+        "en": "I will see the beauty!",
+        "hi": "शोभा देखूँगा!"
+      },
+      "transliterations": {
+        "devanagari": "सॊबगनु काणुवॆनु!",
+        "latin": "sòbaganu kāṇuvènu!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-besige",
+      "text": "ಬೇಸಿಗೆ",
+      "translations": {
+        "en": "summer",
+        "hi": "ग्रीष्म"
+      },
+      "transliterations": {
+        "devanagari": "बेसिगॆ",
+        "latin": "besigè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raje",
+      "text": "ರಜೆ",
+      "translations": {
+        "en": "holiday",
+        "hi": "अवकाश"
+      },
+      "transliterations": {
+        "devanagari": "रजॆ",
+        "latin": "rajè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-halli",
+      "text": "ಹಳ್ಳಿ",
+      "translations": {
+        "en": "village",
+        "hi": "गाँव"
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळि",
+        "latin": "haḻḻi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bevaru",
+      "text": "ಬೆವರು",
+      "translations": {
+        "en": "sweat",
+        "hi": "पसीना"
+      },
+      "transliterations": {
+        "devanagari": "बॆवरु",
+        "latin": "bèvaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raita",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "farmer",
+        "hi": "किसान"
+      },
+      "transliterations": {
+        "devanagari": "रैत",
+        "latin": "raita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dudi",
+      "text": "ದುಡಿ",
+      "translations": {
+        "en": "work",
+        "hi": "मेहनत"
+      },
+      "transliterations": {
+        "devanagari": "दुडि",
+        "latin": "duḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mugilu",
+      "text": "ಮುಗಿಲು",
+      "translations": {
+        "en": "sky/cloud",
+        "hi": "आकाश"
+      },
+      "transliterations": {
+        "devanagari": "मुगिलु",
+        "latin": "mugilu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ettara",
+      "text": "ಎತ್ತರ",
+      "translations": {
+        "en": "height/loud",
+        "hi": "ऊँचाई"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तर",
+        "latin": "èttara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dani",
+      "text": "ದನಿ",
+      "translations": {
+        "en": "voice",
+        "hi": "आवाज़"
+      },
+      "transliterations": {
+        "devanagari": "दनि",
+        "latin": "dani"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haadu",
+      "text": "ಹಾಡು",
+      "translations": {
+        "en": "song",
+        "hi": "गीत"
+      },
+      "transliterations": {
+        "devanagari": "हाडु",
+        "latin": "hāḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jaga",
+      "text": "ಜಗ",
+      "translations": {
+        "en": "world",
+        "hi": "जगत"
+      },
+      "transliterations": {
+        "devanagari": "जग",
+        "latin": "jaga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kautuka",
+      "text": "ಕೌತುಕ",
+      "translations": {
+        "en": "wonder",
+        "hi": "अद्भुत"
+      },
+      "transliterations": {
+        "devanagari": "कौतुक",
+        "latin": "kautuka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vishaya",
+      "text": "ವಿಷಯ",
+      "translations": {
+        "en": "matter",
+        "hi": "विषय"
+      },
+      "transliterations": {
+        "devanagari": "विषय",
+        "latin": "viṣaya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tota",
+      "text": "ತೋಟ",
+      "translations": {
+        "en": "garden",
+        "hi": "बगीचा"
+      },
+      "transliterations": {
+        "devanagari": "तोट",
+        "latin": "toṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hannu",
+      "text": "ಹಣ್ಣು",
+      "translations": {
+        "en": "fruit",
+        "hi": "फल"
+      },
+      "transliterations": {
+        "devanagari": "हण्णु",
+        "latin": "haṇṇu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-savi",
+      "text": "ಸವಿ",
+      "translations": {
+        "en": "taste",
+        "hi": "स्वाद"
+      },
+      "transliterations": {
+        "devanagari": "सवि",
+        "latin": "savi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hacchane",
+      "text": "ಹಚ್ಚನೆ",
+      "translations": {
+        "en": "deep/dense",
+        "hi": "घना"
+      },
+      "transliterations": {
+        "devanagari": "हच्चनॆ",
+        "latin": "haccanè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sundara",
+      "text": "ಸುಂದರ",
+      "translations": {
+        "en": "beautiful",
+        "hi": "सुंदर"
+      },
+      "transliterations": {
+        "devanagari": "सुंदर",
+        "latin": "suṃdara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-srishti",
+      "text": "ಸೃಷ್ಟಿ",
+      "translations": {
+        "en": "creation",
+        "hi": "सृष्टि"
+      },
+      "transliterations": {
+        "devanagari": "सृष्टि",
+        "latin": "sṛṣṭi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sobagu",
+      "text": "ಸೊಬಗು",
+      "translations": {
+        "en": "beauty",
+        "hi": "शोभा"
+      },
+      "transliterations": {
+        "devanagari": "सॊबगु",
+        "latin": "sòbagu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-raita",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "farmer",
+        "hi": "किसान"
+      },
+      "transliterations": {
+        "devanagari": "रैत",
+        "latin": "raita"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-raita-def",
+      "ref": "note-raita",
+      "text": "ಕೃಷಿಕ",
+      "translations": {
+        "en": "cultivator",
+        "hi": "कृषक"
+      },
+      "transliterations": {
+        "devanagari": "कृषिक",
+        "latin": "kṛṣika"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-mugilu",
+      "text": "ಮುಗಿಲು",
+      "translations": {
+        "en": "sky",
+        "hi": "आकाश"
+      },
+      "transliterations": {
+        "devanagari": "मुगिलु",
+        "latin": "mugilu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-mugilu-def",
+      "ref": "note-mugilu",
+      "text": "ಆಕಾಶ",
+      "translations": {
+        "en": "sky",
+        "hi": "आकाश"
+      },
+      "transliterations": {
+        "devanagari": "आकाश",
+        "latin": "ākāśa"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-savi",
+      "text": "ಸವಿ",
+      "translations": {
+        "en": "taste",
+        "hi": "स्वाद"
+      },
+      "transliterations": {
+        "devanagari": "सवि",
+        "latin": "savi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-savi-def",
+      "ref": "note-savi",
+      "text": "ರುಚಿ",
+      "translations": {
+        "en": "flavour",
+        "hi": "रूचि"
+      },
+      "transliterations": {
+        "devanagari": "रुचि",
+        "latin": "ruci"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-sobagu",
+      "text": "ಸೊಬಗು",
+      "translations": {
+        "en": "beauty",
+        "hi": "शोभा"
+      },
+      "transliterations": {
+        "devanagari": "सॊबगु",
+        "latin": "sòbagu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sobagu-def",
+      "ref": "note-sobagu",
+      "text": "ಚಂದ",
+      "translations": {
+        "en": "charm",
+        "hi": "सौंदर्य"
+      },
+      "transliterations": {
+        "devanagari": "चंद",
+        "latin": "caṃda"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-intro",
+      "text": "ಅ) ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Have the children say the missing word in the poem lines.",
+        "hi": "अ) पद्य की पंक्तियों में छूटे शब्द बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) पद्यद सालुगळल्लि बिट्टिरुव पदवन्नु मक्कळिंद हेळिसि.",
+        "latin": "a) padyada sālugaḻalli biṭṭiruva padavannu makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "1. ಅಪ್ಪನ ಜೊತೆ ನಾ _____ ಹೋಗುವೆನು.",
+      "translations": {
+        "en": "1. With father I will go to _____.",
+        "hi": "1. पिता के साथ मैं _____ जाऊँगा।"
+      },
+      "transliterations": {
+        "devanagari": "1. अप्पन जॊतॆ ना _____ होगुवॆनु.",
+        "latin": "1. appana jòtè nā _____ hoguvènu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "2. ಎತ್ತರ ದನಿಯಲಿ _____ ಹೇಳುವೆನು.",
+      "translations": {
+        "en": "2. In a loud voice I will _____ a song.",
+        "hi": "2. ऊँची आवाज़ में _____ गाऊँगा।"
+      },
+      "transliterations": {
+        "devanagari": "2. ऎत्तर दनियलि _____ हेळुवॆनु.",
+        "latin": "2. èttara daniyali _____ heḻuvènu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "3. ಬಗೆ ಬಗೆ ಹಣ್ಣಿನ _____ ಸವಿಯುವೆನು.",
+      "translations": {
+        "en": "3. Of many kinds of fruit I will _____ the flavour.",
+        "hi": "3. कई तरह के फलों का _____ लूँगा।"
+      },
+      "transliterations": {
+        "devanagari": "3. बगॆ बगॆ हण्णिन _____ सवियुवॆनु.",
+        "latin": "3. bagè bagè haṇṇina _____ saviyuvènu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "4. ಸುಂದರ ಸೃಷ್ಟಿಯ _____ ಕಾಣುವೆನು.",
+      "translations": {
+        "en": "4. Of beautiful creation I will _____ the beauty.",
+        "hi": "4. सुंदर सृष्टि की _____ देखूँगा।"
+      },
+      "transliterations": {
+        "devanagari": "4. सुंदर सृष्टिय _____ काणुवॆनु.",
+        "latin": "4. suṃdara sṛṣṭiya _____ kāṇuvènu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-intro",
+      "text": "ಆ) ಮಕ್ಕಳಿಗೆ ಪ್ರಶ್ನೆ ಕೇಳಿ, ಉತ್ತರ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "B) Ask the children questions and have them answer.",
+        "hi": "आ) बच्चों से प्रश्न पूछें, उत्तर बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) मक्कळिगॆ प्रश्नॆ केळि, उत्तर हेळिसि.",
+        "latin": "ā) makkaḻigè praśnè keḻi, uttara heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "1. ಕವಿಯು ಯಾರ ಜೊತೆ ದುಡಿಯುವನು?",
+      "translations": {
+        "en": "1. With whom does the poet work?",
+        "hi": "1. कवि किसके साथ मेहनत करता है?"
+      },
+      "transliterations": {
+        "devanagari": "1. कवियु यार जॊतॆ दुडियुवनु?",
+        "latin": "1. kaviyu yāra jòtè duḍiyuvanu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "2. ಕೌತುಕ ವಿಷಯ ಎಲ್ಲಿ ನಡೆದಿದೆ?",
+      "translations": {
+        "en": "2. Where are the wonderful matters happening?",
+        "hi": "2. अद्भुत बात कहाँ घटी है?"
+      },
+      "transliterations": {
+        "devanagari": "2. कौतुक विषय ऎल्लि नडॆदिदॆ?",
+        "latin": "2. kautuka viṣaya èlli naḍèdidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "3. ಹಳ್ಳಿಗೆ ಯಾವಾಗ ಹೋಗಬೇಕು?",
+      "translations": {
+        "en": "3. When should one go to the village?",
+        "hi": "3. गाँव कब जाना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "3. हळ्ळिगॆ यावाग होगबेकु?",
+        "latin": "3. haḻḻigè yāvāga hogabeku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-intro",
+      "text": "ಇ) ‘ಅ’, ‘ಆ’ ಮತ್ತು ‘ಇ’ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಶಬ್ದಗಳನ್ನು ಜೋಡಿಸಿ ಕವಿತೆಯ ಸಾಲುಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.",
+      "translations": {
+        "en": "C) Join the words in lists A, AA and I to complete the poem lines.",
+        "hi": "इ) ‘अ’, ‘आ’ और ‘इ’ सूची के शब्दों को जोड़कर कविता की पंक्तियाँ पूरी करें।"
+      },
+      "transliterations": {
+        "devanagari": "इ) ‘अ’, ‘आ’ मत्तु ‘इ’ पट्टियल्लिरुव शब्दगळन्नु जोडिसि कवितॆय सालुगळन्नु पूर्णगॊळिसि.",
+        "latin": "i) ‘a’, ‘ā’ mattu ‘i’ paṭṭiyalliruva śabdagaḻannu joḍisi kavitèya sālugaḻannu pūrṇagòḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-col-a",
+      "text": "ಅ: ಬೇಸಿಗೆ ರಜೆಯಲಿ / ತೋಟದಿ ಬೆಳೆದಿಹ / ಜಗದಲಿ ನಡೆದಿಹ / ಮುಗಿಲನೆ ಮುಟ್ಟುವ",
+      "translations": {
+        "en": "A: In the summer holiday / Grown in the garden / Happening in the world / Touching the sky",
+        "hi": "अ: ग्रीष्म अवकाश में / बगीचे में उगे / जगत में घटी / आकाश छूती"
+      },
+      "transliterations": {
+        "devanagari": "अ: बेसिगॆ रजॆयलि / तोटदि बॆळॆदिह / जगदलि नडॆदिह / मुगिलनॆ मुट्टुव",
+        "latin": "a: besigè rajèyali / toṭadi bèḻèdiha / jagadali naḍèdiha / mugilanè muṭṭuva"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-col-aa",
+      "text": "ಆ: ಕೌತುಕ ವಿಷಯವ / ಎತ್ತರ ದನಿಯಲಿ / ಅಪ್ಪನ ಜೊತೆ ನಾ / ಬಗೆ ಬಗೆ ಹಣ್ಣಿನ",
+      "translations": {
+        "en": "AA: Wonderful matters / In a loud voice / With father I / Of many kinds of fruit",
+        "hi": "आ: अद्भुत बातें / ऊँची आवाज़ में / पिता के साथ मैं / कई तरह के फलों का"
+      },
+      "transliterations": {
+        "devanagari": "आ: कौतुक विषयव / ऎत्तर दनियलि / अप्पन जॊतॆ ना / बगॆ बगॆ हण्णिन",
+        "latin": "ā: kautuka viṣayava / èttara daniyali / appana jòtè nā / bagè bagè haṇṇina"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-col-i",
+      "text": "ಇ: ಹಾಡನು ಹೇಳುವೆನು. / ಅವರಿಗೆ ತಿಳಿಸುವೆನು. / ಸವಿಯನು ಸವಿಯುವೆನು. / ಹಳ್ಳಿಗೆ ಹೋಗುವೆನು.",
+      "translations": {
+        "en": "I: I will sing a song. / I will tell them. / I will taste the flavour. / I will go to the village.",
+        "hi": "इ: गीत गाऊँगा। / उन्हें बताऊँगा। / स्वाद लूँगा। / गाँव जाऊँगा।"
+      },
+      "transliterations": {
+        "devanagari": "इ: हाडनु हेळुवॆनु. / अवरिगॆ तिळिसुवॆनु. / सवियनु सवियुवॆनु. / हळ्ळिगॆ होगुवॆनु.",
+        "latin": "i: hāḍanu heḻuvènu. / avarigè tiḻisuvènu. / saviyanu saviyuvènu. / haḻḻigè hoguvènu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-intro",
+      "text": "ಈ) ಕೆಳಗಿನ ಸಾಲುಗಳನ್ನು ಮಕ್ಕಳಿಗೆ ಹೇಳಿ, ಅವರಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "D) Say the lines below to the children and have them say them.",
+        "hi": "ई) नीचे की पंक्तियाँ बच्चों को सुनाएँ, उनसे बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "ई) कॆळगिन सालुगळन्नु मक्कळिगॆ हेळि, अवरिंद हेळिसि.",
+        "latin": "ī) kèḻagina sālugaḻannu makkaḻigè heḻi, avariṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "1. ಬೇಸಿಗೆ ರಜೆಯಲ್ಲಿ ಹಳ್ಳಿಗೆ ಹೋಗಬೇಕು.",
+      "translations": {
+        "en": "1. One should go to the village in the summer holiday.",
+        "hi": "1. ग्रीष्म अवकाश में गाँव जाना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. बेसिगॆ रजॆयल्लि हळ्ळिगॆ होगबेकु.",
+        "latin": "1. besigè rajèyalli haḻḻigè hogabeku."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "2. ರೈತನು ಬೆವರು ಸುರಿಸಿ ದುಡಿವನು.",
+      "translations": {
+        "en": "2. The farmer works sweating.",
+        "hi": "2. किसान पसीना बहाकर मेहनत करता है।"
+      },
+      "transliterations": {
+        "devanagari": "2. रैतनु बॆवरु सुरिसि दुडिवनु.",
+        "latin": "2. raitanu bèvaru surisi duḍivanu."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "3. ಜಗದಲಿ ಕೌತುಕ ವಿಷಯಗಳು ನಡೆದಿವೆ.",
+      "translations": {
+        "en": "3. Wonderful matters happen in the world.",
+        "hi": "3. जगत में अद्भुत बातें घटी हैं।"
+      },
+      "transliterations": {
+        "devanagari": "3. जगदलि कौतुक विषयगळु नडॆदिवॆ.",
+        "latin": "3. jagadali kautuka viṣayagaḻu naḍèdivè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "4. ತೋಟದಲ್ಲಿ ಬಗೆ ಬಗೆ ಹಣ್ಣುಗಳಿವೆ.",
+      "translations": {
+        "en": "4. There are many kinds of fruit in the garden.",
+        "hi": "4. बगीचे में कई तरह के फल हैं।"
+      },
+      "transliterations": {
+        "devanagari": "4. तोटदल्लि बगॆ बगॆ हण्णुगळिवॆ.",
+        "latin": "4. toṭadalli bagè bagè haṇṇugaḻivè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q5",
+      "text": "5. ಸೃಷ್ಟಿಯು ಹಚ್ಚನೆ ಹಸುರಾಗಿದೆ.",
+      "translations": {
+        "en": "5. Creation is deep green.",
+        "hi": "5. सृष्टि घनी हरी है।"
+      },
+      "transliterations": {
+        "devanagari": "5. सृष्टियु हच्चनॆ हसुरागिदॆ.",
+        "latin": "5. sṛṣṭiyu haccanè hasurāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q6",
+      "text": "6. ಹಾಡನು ಎತ್ತರದ ದನಿಯಲಿ ಹಾಡಬೇಕು.",
+      "translations": {
+        "en": "6. One should sing the song in a loud voice.",
+        "hi": "6. गीत ऊँची आवाज़ में गाना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "6. हाडनु ऎत्तरद दनियलि हाडबेकु.",
+        "latin": "6. hāḍanu èttarada daniyali hāḍabeku."
+      },
+      "type": "prose"
+    }
+  ]
+}

@@ -1,0 +1,1151 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "कौशल / सामर्थ्य / आशय",
+      "en": "Skill / ability / intent",
+      "hi": "कौशल / सामर्थ्य / आशय",
+      "kn": "ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ",
+      "latin": "kauśala / sāmarthya / āśaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer in one sentence.",
+      "hi": "अ. एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॆळगिन प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer in two or three sentences.",
+      "hi": "आ. दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kèḻagina praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॆळगिन प्रश्नॆगळिगॆ ऐदु-आरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Answer in five or six sentences.",
+      "hi": "इ. पाँच-छह वाक्यों में उत्तर दीजिए।",
+      "kn": "ಇ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kèḻagina praśnègaḻigè aidu-āru vākyagaḻalli uttarisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "ṭippaṇi"
+    },
+    "story": {
+      "devanagari": "जीवन चरित्रॆ",
+      "en": "Biography",
+      "hi": "जीवन चरित्र",
+      "kn": "ಜೀವನ ಚರಿತ್ರೆ",
+      "latin": "jīvana caritrè"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ರಚನಾ ಸಮಿತಿ",
+    "board": "KSEEB",
+    "chapter": 4,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch04-mailara-mahadeva",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಮೈಲಾರ ಮಹಾದೇವ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ನಾವೀಗ ಸ್ವತಂತ್ರ ಭಾರತದಲ್ಲಿದ್ದೇವೆ. 1947ಕ್ಕಿಂತ ಹಿಂದೆ ಭಾರತದ ಆಡಳಿತ ಬ್ರಿಟಿಷರ ಕೈಯಲ್ಲಿತ್ತು. ಬ್ರಿಟಿಷರಿಂದ ಭಾರತವನ್ನು ಬಿಡಿಸಿಕೊಳ್ಳಲು ಹಲವಾರು ಮಂದಿ ಹೋರಾಡಿದರು. ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ ಅವರ ನೇತೃತ್ವದಲ್ಲಿ ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟವೇ ನಡೆಯಿತು. ಭಾರತದಾದ್ಯಂತ ಹಲವರು ಈ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿದ್ದರು. ಕರ್ನಾಟಕದಿಂದಲೂ ಹಲವಾರು ಜನ ಗಾಂಧೀಜಿಯವರ ಕರೆಗೆ ಓಗೊಟ್ಟು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ನಡೆದ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿದರು. ಕೆಲವರು ಈ ಹೋರಾಟದಲ್ಲಿ ಹುತಾತ್ಮರೂ ಆದರು. ಹೀಗೆ ಹೋರಾಟಮಾಡಿ ಹುತಾತ್ಮರಾದವರಲ್ಲಿ ಒಬ್ಬರು ಮೈಲಾರ ಮಹಾದೇವ. ಅವರ ಜೀವನ ಚರಿತ್ರೆಯನ್ನು ನೀವಿಲ್ಲಿ ಕಾಣಬಹುದು. ಇವರೆಲ್ಲರ ಹೋರಾಟ ಮತ್ತು ತ್ಯಾಗದ ಫಲವಾಗಿ ನಮಗೆ 1947ರ ಆಗಸ್ಟ್ 15ರಂದು ಸ್ವಾತಂತ್ರ್ಯ ಲಭಿಸಿತು. ನಮಗೆ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ತಂದುಕೊಟ್ಟ ಹಿರಿಯರನ್ನು ಸ್ಮರಿಸುವುದು ನಮ್ಮ ಕರ್ತವ್ಯ.",
+      "translations": {
+        "en": "We are now in free India. Before 1947 India’s administration was in British hands. Many people fought to free India from the British. Under Mohandas Karamchand Gandhi’s leadership a non-violent struggle took place. Across India many took part in this movement. From Karnataka too many answered Gandhiji’s call and joined the freedom movement. Some became martyrs in this struggle. Among those who fought and became martyrs was one Mailara Mahadeva. You can see his life story here. As the fruit of all their struggle and sacrifice we gained freedom on 15 August 1947. Remembering the elders who brought us freedom is our duty.",
+        "hi": "हम अब स्वतंत्र भारत में हैं। 1947 से पहले भारत का प्रशासन ब्रिटिशों के हाथ में था। ब्रिटिशों से भारत छुड़ाने के लिए अनेक लोगों ने संघर्ष किया।"
+      },
+      "transliterations": {
+        "devanagari": "नावीग स्वतंत्र भारतदल्लिद्देवॆ. 1947क्किंत हिंदॆ भारतद आडळित ब्रिटिषर कैयल्लित्तु. ब्रिटिषरिंद भारतवन्नु बिडिसिकॊळ्ळलु हलवारु मंदि होराडिदरु. मोहनदास करमचंद गांधि अवर नेतृत्वदल्लि अहिंसात्मक होराटवे नडॆयितु. भारतदाद्यंत हलवरु ई चळवळियल्लि भागवहिसिद्दरु. कर्नाटकदिंदलू हलवारु जन गांधीजियवर करॆगॆ ओगॊट्टु स्वातंत्र्यक्कागि नडॆद चळवळियल्लि भागवहिसिदरु. कॆलवरु ई होराटदल्लि हुतात्मरू आदरु. हीगॆ होराटमाडि हुतात्मरादवरल्लि ऒब्बरु मैलार महादेव. अवर जीवन चरित्रॆयन्नु नीविल्लि काणबहुदु. इवरॆल्लर होराट मत्तु त्यागद फलवागि नमगॆ 1947र आगस्ट् 15रंदु स्वातंत्र्य लभिसितु. नमगॆ स्वातंत्र्यवन्नु तंदुकॊट्ट हिरियरन्नु स्मरिसुवुदु नम्म कर्तव्य.",
+        "latin": "nāvīga svataṃtra bhāratadalliddevè. 1947kkiṃta hiṃdè bhāratada āḍaḻita briṭiṣara kaiyallittu. briṭiṣariṃda bhāratavannu biḍisikòḻḻalu halavāru maṃdi horāḍidaru. mohanadāsa karamacaṃda gāṃdhi avara netṛtvadalli ahiṃsātmaka horāṭave naḍèyitu. bhāratadādyaṃta halavaru ī caḻavaḻiyalli bhāgavahisiddaru. karnāṭakadiṃdalū halavāru jana gāṃdhījiyavara karègè ogòṭṭu svātaṃtryakkāgi naḍèda caḻavaḻiyalli bhāgavahisidaru. kèlavaru ī horāṭadalli hutātmarū ādaru. hīgè horāṭamāḍi hutātmarādavaralli òbbaru mailāra mahādeva. avara jīvana caritrèyannu nīvilli kāṇabahudu. ivarèllara horāṭa mattu tyāgada phalavāgi namagè 1947ra āgasṭ 15raṃdu svātaṃtrya labhisitu. namagè svātaṃtryavannu taṃdukòṭṭa hiriyarannu smarisuvudu namma kartavya."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಭಾರತ ಬ್ರಿಟಿಷರ ಆಡಳಿತಕ್ಕೆ ಸೇರಿದ್ದ ಕಾಲ. ಅವರ ಆಡಳಿತದಿಂದ ಬಿಡಿಸಿಕೊಂಡು ಭಾರತವನ್ನು ಸ್ವತಂತ್ರವಾದ ದೇಶವನ್ನಾಗಿ ಮಾಡಲು ಹಲವಾರು ಭಾರತೀಯರು ಹೋರಾಟ ಮಾಡುತ್ತಿದ್ದರು. ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಮೋಟೆಬೆನ್ನೂರು ಎಂಬುದೊಂದು ಹಳ್ಳಿ. ಆ ಹಳ್ಳಿಯಲ್ಲಿ ದೇಶಭಕ್ತರೊಬ್ಬರು ಭಾಷಣ ಮಾಡುತ್ತಿದ್ದರು. ಅವರ ಭಾಷಣದಲ್ಲಿ “ವಿದೇಶೀ ವಸ್ತ್ರಗಳನ್ನು ತ್ಯಜಿಸಿ ನಮ್ಮ ದೇಶದಲ್ಲೇ ತಯಾರು ಮಾಡಿದ ಬಟ್ಟೆಗಳನ್ನು ತೊಡಬೇಕು” ಎಂದೆಲ್ಲ ಹೇಳುತ್ತಿದ್ದರು. ಆ ಮಾತು ಕೇಳುತ್ತಿದ್ದ 8-10 ವರ್ಷದ ಒಬ್ಬ ಬಾಲಕ ತನ್ನ ತಲೆ ಮುಟ್ಟಿ ನೋಡಿದ. ಅವನ ತಲೆಯ ಮೇಲೆ ವಿದೇಶಿ ಟೊಪ್ಪಿಗೆ ಇತ್ತು. ಕೂಡಲೆ ಟೊಪ್ಪಿಗೆಯನ್ನು ತೆಗೆದು ನೆಲಕ್ಕೆಸೆದ. ಹೀಗೆ ಟೊಪ್ಪಿಗೆ ನೆಲಕ್ಕೆಸೆದ ಹುಡುಗನ ಹೆಸರು ಮೈಲಾರ ಮಹಾದೇವ. 8ನೆಯ ಜೂನ್ 1911ರಂದು ಮೋಟೆಬೆನ್ನೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಮಾರ್ತಂಡಪ್ಪ, ಮಹಾದೇವನ ತಾಯಿ ಬಸಮ್ಮ ದೇಶಪ್ರೇಮಿ. ಆ ಹೊತ್ತಿಗೆ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ್ದ ಆ ತಾಯಿ ಜೈಲುವಾಸವನ್ನು ಅನುಭವಿಸಿದವರು. ಆ ತಾಯಿಗೆ ತಕ್ಕ ಮಗ ಮಹಾದೇವ. ಪ್ರಾಥಮಿಕ ವಿದ್ಯಾಭ್ಯಾಸವನ್ನು ಮೋಟೆಬೆನ್ನೂರಿನಲ್ಲಿ ಮುಗಿಸಿದರು. ಮುಂದಿನ ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕಾಗಿ ಹತ್ತಿರವಿದ್ದ ಹಂಸಭಾವಿಯ ಶಾಲೆಗೆ ಹೋದರು. ಆದರೆ ಅವರಿಗೆ ಓದು ರುಚಿಸಲಿಲ್ಲ. ಸ್ವದೇಶೀ ಬಟ್ಟೆಗಳ ವಿಚಾರ ಯಾವಾಗಲೂ ಮನಸ್ಸಿನಲ್ಲಿ ಗುನುಗುಡುತ್ತಿತ್ತು. ಮಹಾತ್ಮಾ ಗಾಂಧೀಜಿ ಖಾದಿ ಬಟ್ಟೆಯ ಬಗೆಗೆ ಒಲವು ಹೊಂದಿದ್ದು, ಎಲ್ಲ ಕಡೆಯಲ್ಲೂ ಆ ವಿಚಾರ ಪ್ರಚಾರ ಮಾಡುತ್ತಿದ್ದರು. ಬಾಲಕ ಮಹಾದೇವರಿಗೆ ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ಕುರಿತು ಪ್ರಚಾರಮಾಡಬೇಕೆಂಬ ಆಸೆ ಹೆಚ್ಚಾಯಿತು.",
+      "translations": {
+        "en": "It was the time India was under British rule. Many Indians were fighting to free India and make it an independent country. Motebennur is a village in Haveri district. In that village a patriot was speaking. In his speech he said foreign clothes should be given up and clothes made in our own country should be worn. An 8–10 year old boy listening touched his head. On his head was a foreign cap. At once he took off the cap and threw it on the ground. The boy who threw the cap was Mailara Mahadeva. He was born on 8 June 1911 in Motebennur. Father Martandappa, mother Basamma a patriot. By then that mother who had fought the British had experienced jail. A son fit for that mother—Mahadeva. Primary education finished in Motebennur. For further study he went to the school in nearby Hamsabhavi. But studies did not appeal. Thoughts of swadeshi cloth always hummed in his mind. Mahatma Gandhi favored khadi and promoted it everywhere. Young Mahadeva’s desire to promote khadi grew.",
+        "hi": "हावेरी जिले के मोटेबेन्नूर गाँव में जन्मे मैलार महादेव ने विदेशी टोपी फेंककर स्वदेशी का संदेश अपनाया। 8 जून 1911 को जन्म। माता बसम्मा देशप्रेमी थीं।"
+      },
+      "transliterations": {
+        "devanagari": "भारत ब्रिटिषर आडळितक्कॆ सेरिद्द काल. अवर आडळितदिंद बिडिसिकॊंडु भारतवन्नु स्वतंत्रवाद देशवन्नागि माडलु हलवारु भारतीयरु होराट माडुत्तिद्दरु. हावेरि जिल्लॆय मोटॆबॆन्नूरु ऎंबुदॊंदु हळ्ळि. आ हळ्ळियल्लि देशभक्तरॊब्बरु भाषण माडुत्तिद्दरु. अवर भाषणदल्लि “विदेशी वस्त्रगळन्नु त्यजिसि नम्म देशदल्ले तयारु माडिद बट्टॆगळन्नु तॊडबेकु” ऎंदॆल्ल हेळुत्तिद्दरु. आ मातु केळुत्तिद्द 8-10 वर्षद ऒब्ब बालक तन्न तलॆ मुट्टि नोडिद. अवन तलॆय मेलॆ विदेशि टॊप्पिगॆ इत्तु. कूडलॆ टॊप्पिगॆयन्नु तॆगॆदु नॆलक्कॆसॆद. हीगॆ टॊप्पिगॆ नॆलक्कॆसॆद हुडुगन हॆसरु मैलार महादेव. 8नॆय जून् 1911रंदु मोटॆबॆन्नूरिनल्लि जनिसिदरु. तंदॆ मार्तंडप्प, महादेवन तायि बसम्म देशप्रेमि. आ हॊत्तिगॆ ब्रिटिषर विरुद्ध होराडिद्द आ तायि जैलुवासवन्नु अनुभविसिदवरु. आ तायिगॆ तक्क मग महादेव. प्राथमिक विद्याभ्यासवन्नु मोटॆबॆन्नूरिनल्लि मुगिसिदरु. मुंदिन विद्याभ्यासक्कागि हत्तिरविद्द हंसभाविय शालॆगॆ होदरु. आदरॆ अवरिगॆ ओदु रुचिसलिल्ल. स्वदेशी बट्टॆगळ विचार यावागलू मनस्सिनल्लि गुनुगुडुत्तित्तु. महात्मा गांधीजि खादि बट्टॆय बगॆगॆ ऒलवु हॊंदिद्दु, ऎल्ल कडॆयल्लू आ विचार प्रचार माडुत्तिद्दरु. बालक महादेवरिगॆ खादि बट्टॆयन्नु कुरितु प्रचारमाडबेकॆंब आसॆ हॆच्चायितु.",
+        "latin": "bhārata briṭiṣara āḍaḻitakkè seridda kāla. avara āḍaḻitadiṃda biḍisikòṃḍu bhāratavannu svataṃtravāda deśavannāgi māḍalu halavāru bhāratīyaru horāṭa māḍuttiddaru. hāveri jillèya moṭèbènnūru èṃbudòṃdu haḻḻi. ā haḻḻiyalli deśabhaktaròbbaru bhāṣaṇa māḍuttiddaru. avara bhāṣaṇadalli “videśī vastragaḻannu tyajisi namma deśadalle tayāru māḍida baṭṭègaḻannu tòḍabeku” èṃdèlla heḻuttiddaru. ā mātu keḻuttidda 8-10 varṣada òbba bālaka tanna talè muṭṭi noḍida. avana talèya melè videśi ṭòppigè ittu. kūḍalè ṭòppigèyannu tègèdu nèlakkèsèda. hīgè ṭòppigè nèlakkèsèda huḍugana hèsaru mailāra mahādeva. 8nèya jūn 1911raṃdu moṭèbènnūrinalli janisidaru. taṃdè mārtaṃḍappa, mahādevana tāyi basamma deśapremi. ā hòttigè briṭiṣara viruddha horāḍidda ā tāyi jailuvāsavannu anubhavisidavaru. ā tāyigè takka maga mahādeva. prāthamika vidyābhyāsavannu moṭèbènnūrinalli mugisidaru. muṃdina vidyābhyāsakkāgi hattiravidda haṃsabhāviya śālègè hodaru. ādarè avarigè odu rucisalilla. svadeśī baṭṭègaḻa vicāra yāvāgalū manassinalli gunuguḍuttittu. mahātmā gāṃdhīji khādi baṭṭèya bagègè òlavu hòṃdiddu, èlla kaḍèyallū ā vicāra pracāra māḍuttiddaru. bālaka mahādevarigè khādi baṭṭèyannu kuritu pracāramāḍabekèṃba āsè hèccāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಮಹಾದೇವರವರಿಗೆ ಹನ್ನೆರಡು-ಹದಿಮೂರರ ಹರೆಯ. ವಿಜಯಪುರ ಜಿಲ್ಲೆಯಲ್ಲಿ ಕಲಾದಗಿ ಎಂಬ ಒಂದು ಗ್ರಾಮವಿದೆ. ಅಲ್ಲಿ ಆ ಕಾಲದಲ್ಲಿ ಖಾದಿ ಬಟ್ಟೆಗಳನ್ನು ತಯಾರು ಮಾಡುತ್ತಿದ್ದರು. ಮಹಾದೇವರು ಅಲ್ಲಿಗೆ ಹೋದರು. ಅಲ್ಲಿ ಖಾದಿಯನ್ನು ತಯಾರಿಸುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿದುಕೊಂಡರು. ಖಾದಿಯನ್ನು ಹೊತ್ತು ಊರೂರು ತಿರುಗಿ ಮಾರಾಟ ಮಾಡಿದರು. ಖಾದಿ ಬಳಕೆಯನ್ನು ಕುರಿತು ಪ್ರಚಾರವನ್ನೂ ನಡೆಸಿದರು.",
+      "translations": {
+        "en": "Mahadeva was twelve or thirteen. In Vijayapura district is a village Kaladagi. There at that time they made khadi cloth. Mahadeva went there. He learned how to make khadi. Carrying khadi he went village to village selling it. He also promoted use of khadi."
+      },
+      "transliterations": {
+        "devanagari": "महादेवरवरिगॆ हन्नॆरडु-हदिमूरर हरॆय. विजयपुर जिल्लॆयल्लि कलादगि ऎंब ऒंदु ग्रामविदॆ. अल्लि आ कालदल्लि खादि बट्टॆगळन्नु तयारु माडुत्तिद्दरु. महादेवरु अल्लिगॆ होदरु. अल्लि खादियन्नु तयारिसुवुदु हेगॆ ऎंदु तिळिदुकॊंडरु. खादियन्नु हॊत्तु ऊरूरु तिरुगि माराट माडिदरु. खादि बळकॆयन्नु कुरितु प्रचारवन्नू नडॆसिदरु.",
+        "latin": "mahādevaravarigè hannèraḍu-hadimūrara harèya. vijayapura jillèyalli kalādagi èṃba òṃdu grāmavidè. alli ā kāladalli khādi baṭṭègaḻannu tayāru māḍuttiddaru. mahādevaru alligè hodaru. alli khādiyannu tayārisuvudu hegè èṃdu tiḻidukòṃḍaru. khādiyannu hòttu ūrūru tirugi mārāṭa māḍidaru. khādi baḻakèyannu kuritu pracāravannū naḍèsidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಮಹಾದೇವ ಅವರಿಗೆ ಸಬರಮತಿ ಆಶ್ರಮದಿಂದ ಕರೆ ಬಂದಿತು. ಮಹಾದೇವ ಅಲ್ಲಿಗೆ ಹೋದರು. ಆ ವೇಳೆಗೆ ಪ್ರಸಿದ್ಧ ದಂಡಿ ಸತ್ಯಾಗ್ರಹ ನಡೆಯುತ್ತಿತ್ತು. ಗಾಂಧೀಜಿಯವರೊಡನೆ ದಂಡಿಯಾತ್ರೆಯಲ್ಲಿ ಹೆಜ್ಜೆ ಹಾಕಿದರು. ದಂಡಿ ಸತ್ಯಾಗ್ರಹದಲ್ಲಿ ಭಾಗವಹಿಸಿದವರಿಗೆ ಸೆರೆಮನೆ ವಾಸದ ಶಿಕ್ಷೆಯಾಯಿತು. ಮಹಾದೇವ ಆರು ತಿಂಗಳು ಸೆರೆಮನೆಯಲ್ಲಿ ಕಳೆದರು. ದಂಡಿಯಾತ್ರೆ ಮುಗಿದು ಮಹಾದೇವ ಹುಟ್ಟೂರಿಗೆ ವಾಪಸ್ಸು ಬಂದರು. ಆ ಹೊತ್ತಿಗಾಗಲೇ ದಂಡಿಯಾತ್ರೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿದ್ದ ಕರ್ನಾಟಕದ ಸ್ವಾತಂತ್ರ್ಯ ಸೇನಾನಿ ಎಂಬುದಾಗಿ ಅವರಿಗೆ ಹೆಸರು ಬಂದಿತ್ತು. ಊರಿನಲ್ಲಿ ಮಹಾದೇವ ಅವರಿಗೆ ಅದ್ದೂರಿಯ ಸ್ವಾಗತ ಸಿಕ್ಕಿತು.",
+      "translations": {
+        "en": "A call came to Mahadeva from Sabarmati Ashram. He went there. By then the famous Dandi satyagraha was on. He walked in the Dandi march with Gandhiji. Those who took part in Dandi satyagraha got jail sentences. Mahadeva spent six months in jail. After Dandi march ended Mahadeva returned to his birthplace. By then he had the name of Karnataka’s freedom fighter who took part in Dandi. In the village he got a grand welcome.",
+        "hi": "सबर्मती आश्रम से बुलावा आया। दांडी सत्याग्रह में गांधीजी के साथ चले। छह महीने जेल रहे।"
+      },
+      "transliterations": {
+        "devanagari": "महादेव अवरिगॆ सबरमति आश्रमदिंद करॆ बंदितु. महादेव अल्लिगॆ होदरु. आ वेळॆगॆ प्रसिद्ध दंडि सत्याग्रह नडॆयुत्तित्तु. गांधीजियवरॊडनॆ दंडियात्रॆयल्लि हॆज्जॆ हाकिदरु. दंडि सत्याग्रहदल्लि भागवहिसिदवरिगॆ सॆरॆमनॆ वासद शिक्षॆयायितु. महादेव आरु तिंगळु सॆरॆमनॆयल्लि कळॆदरु. दंडियात्रॆ मुगिदु महादेव हुट्टूरिगॆ वापस्सु बंदरु. आ हॊत्तिगागले दंडियात्रॆयल्लि भागवहिसिद्द कर्नाटकद स्वातंत्र्य सेनानि ऎंबुदागि अवरिगॆ हॆसरु बंदित्तु. ऊरिनल्लि महादेव अवरिगॆ अद्दूरिय स्वागत सिक्कितु.",
+        "latin": "mahādeva avarigè sabaramati āśramadiṃda karè baṃditu. mahādeva alligè hodaru. ā veḻègè prasiddha daṃḍi satyāgraha naḍèyuttittu. gāṃdhījiyavaròḍanè daṃḍiyātrèyalli hèjjè hākidaru. daṃḍi satyāgrahadalli bhāgavahisidavarigè sèrèmanè vāsada śikṣèyāyitu. mahādeva āru tiṃgaḻu sèrèmanèyalli kaḻèdaru. daṃḍiyātrè mugidu mahādeva huṭṭūrigè vāpassu baṃdaru. ā hòttigāgale daṃḍiyātrèyalli bhāgavahisidda karnāṭakada svātaṃtrya senāni èṃbudāgi avarigè hèsaru baṃdittu. ūrinalli mahādeva avarigè addūriya svāgata sikkitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಮಹಾದೇವ ತಮ್ಮ ಹೆಂಡತಿ ಸಿದ್ದಮ್ಮ ಅವರನ್ನು ಸಿದ್ಧಮತಿ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು. ಸಬರಮತಿಯ ಸುಖವಾಸ ತನಗಷ್ಟೇ ಅಲ್ಲದೆ ಹೆಂಡತಿಗೂ ಆಗಬೇಕೆಂದು ಅವರನ್ನೂ ಸಬರಮತಿಗೆ ಕರೆದುಕೊಂಡು ಹೋದರು. ಅಲ್ಲಿ ಸಿದ್ದಮ್ಮ ಬ್ರಿಟಿಷ್ ಸರಕಾರಕ್ಕೆ ಅಸಹಕಾರ ನೀಡುವ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಜೈಲು ಸೇರಿದರು. ಊರಿಗೆ ಬಂದಿದ್ದ ಮಹಾದೇವ ಇಲ್ಲಿ ಅಸಹಕಾರ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಜೈಲು ಸೇರಿದರು. ಹಿಂಡಲಗಾ ಜೈಲಿನಲ್ಲಿದ್ದಾಗ ಗಾಂಧೀಜಿಯವರು ಅಲ್ಲಿಗೆ ಭೇಟಿ ನೀಡಿ ಮಹಾದೇವರನ್ನು ಕಂಡು ಅವರನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿದರು.",
+      "translations": {
+        "en": "Mahadeva called his wife Siddamma Siddhamati. Wanting Sabarmati’s good life not only for himself but for his wife too, he took her to Sabarmati. There Siddamma took part in the non-cooperation movement against the British government and went to jail. Mahadeva who had come to the village also joined non-cooperation and went to jail. While in Hindalga jail Gandhiji visited and seeing Mahadeva encouraged him."
+      },
+      "transliterations": {
+        "devanagari": "महादेव तम्म हॆंडति सिद्दम्म अवरन्नु सिद्धमति ऎंदु करॆयुत्तिद्दरु. सबरमतिय सुखवास तनगष्टे अल्लदॆ हॆंडतिगू आगबेकॆंदु अवरन्नू सबरमतिगॆ करॆदुकॊंडु होदरु. अल्लि सिद्दम्म ब्रिटिष् सरकारक्कॆ असहकार नीडुव चळवळियल्लि भागवहिसि जैलु सेरिदरु. ऊरिगॆ बंदिद्द महादेव इल्लि असहकार चळवळियल्लि भागवहिसि जैलु सेरिदरु. हिंडलगा जैलिनल्लिद्दाग गांधीजियवरु अल्लिगॆ भेटि नीडि महादेवरन्नु कंडु अवरन्नु प्रोत्साहिसिदरु.",
+        "latin": "mahādeva tamma hèṃḍati siddamma avarannu siddhamati èṃdu karèyuttiddaru. sabaramatiya sukhavāsa tanagaṣṭe alladè hèṃḍatigū āgabekèṃdu avarannū sabaramatigè karèdukòṃḍu hodaru. alli siddamma briṭiṣ sarakārakkè asahakāra nīḍuva caḻavaḻiyalli bhāgavahisi jailu seridaru. ūrigè baṃdidda mahādeva illi asahakāra caḻavaḻiyalli bhāgavahisi jailu seridaru. hiṃḍalagā jailinalliddāga gāṃdhījiyavaru alligè bheṭi nīḍi mahādevarannu kaṃḍu avarannu protsāhisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಮಹಾದೇವರಿಗೆ ಜೈಲಿನಿಂದ ಬಿಡುಗಡೆಯಾಯಿತು. ಹಲವಾರು ಬಾರಿ ಜೈಲಿಗೆ ಹೋಗಿದ್ದರಿಂದ ದೇಹದ ಆರೋಗ್ಯದ ಬಗೆಗೆ ಅವರಿಗೆ ಕಾಳಜಿ ಉಂಟಾಯಿತು. ಶಿಸ್ತುಬದ್ಧವಾದ ವ್ಯಾಯಾಮವನ್ನು ಕಲಿಯಬೇಕೆನಿಸಿತು. ವ್ಯಾಯಾಮವನ್ನು ಕಲಿತರು. ವ್ಯಾಯಾಮ ಕಲಿಯುವಾಗಲೇ ಔಷಧಗಳ ಶಾಸ್ತ್ರವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿದರು. ಹಳ್ಳಿಗರ ಸೇವೆ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಒಂದು ಸೇವಾಶ್ರಮವನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಗಂಡ-ಹೆಂಡತಿ ಇಬ್ಬರೂ ಸೇವಾಶ್ರಮದ ಸಂಚಾಲಕರಾಗಿ ಚರಕದಿಂದ ನೂಲು ತೆಗೆಯುವುದು, ಪ್ರಕೃತಿ ಚಿಕಿತ್ಸೆ, ವ್ಯಾಯಾಮ ಮುಂತಾದವುಗಳನ್ನು ಹಳ್ಳಿಯ ಜನರಿಗೆ ಅಭ್ಯಾಸ ಮಾಡಿಸಿದರು. ಸೇವಾಶ್ರಮದಲ್ಲಿ ತಯಾರಿಯಾಗುತ್ತಿದ್ದ ಖಾದಿಯನ್ನು ಊರೂರಿಗೆ ಕೊಂಡು ಹೋಗಿ ಮಾರಾಟ ಮಾಡಿದರು. ‘ಮಹಾದೇವನ ಖಾದಿ’ ಎಂದೇ ಇದು ಪ್ರಸಿದ್ಧಿಯಾಯಿತು. ಇದರ ಜೊತೆಯಲ್ಲಿ ಪತಿ-ಪತ್ನಿಯರ ಸ್ವಾತಂತ್ರ್ಯದ ತುಡಿತ, ಹೋರಾಟ ಜನಪ್ರಿಯವಾಯಿತು. ಊರಿನ ಜನರು ಇವರ ಗುಣಗಾನ ಮಾಡಿದರು.",
+      "translations": {
+        "en": "Mahadeva was released from jail. Having gone to jail many times he began to care about bodily health. He felt he should learn disciplined exercise. He learned exercise. While learning exercise he also studied the science of medicines. Aiming to serve villagers he started a seva ashram. Husband and wife as directors of the ashram taught villagers spinning on the charkha, nature cure, exercise and so on. They took khadi made at the ashram to villages and sold it. It became famous as ‘Mahadeva’s khadi’. Along with it the couple’s freedom yearning and struggle became popular."
+      },
+      "transliterations": {
+        "devanagari": "महादेवरिगॆ जैलिनिंद बिडुगडॆयायितु. हलवारु बारि जैलिगॆ होगिद्दरिंद देहद आरोग्यद बगॆगॆ अवरिगॆ काळजि उंटायितु. शिस्तुबद्धवाद व्यायामवन्नु कलियबेकॆनिसितु. व्यायामवन्नु कलितरु. व्यायाम कलियुवागले औषधगळ शास्त्रवन्नु अभ्यास माडिदरु. हळ्ळिगर सेवॆ माडुव उद्देशदिंद ऒंदु सेवाश्रमवन्नु प्रारंभिसिदरु. गंड-हॆंडति इब्बरू सेवाश्रमद संचालकरागि चरकदिंद नूलु तॆगॆयुवुदु, प्रकृति चिकित्सॆ, व्यायाम मुंतादवुगळन्नु हळ्ळिय जनरिगॆ अभ्यास माडिसिदरु. सेवाश्रमदल्लि तयारियागुत्तिद्द खादियन्नु ऊरूरिगॆ कॊंडु होगि माराट माडिदरु. ‘महादेवन खादि’ ऎंदे इदु प्रसिद्धियायितु. इदर जॊतॆयल्लि पति-पत्नियर स्वातंत्र्यद तुडित, होराट जनप्रियवायितु. ऊरिन जनरु इवर गुणगान माडिदरु.",
+        "latin": "mahādevarigè jailiniṃda biḍugaḍèyāyitu. halavāru bāri jailigè hogiddariṃda dehada ārogyada bagègè avarigè kāḻaji uṃṭāyitu. śistubaddhavāda vyāyāmavannu kaliyabekènisitu. vyāyāmavannu kalitaru. vyāyāma kaliyuvāgale auṣadhagaḻa śāstravannu abhyāsa māḍidaru. haḻḻigara sevè māḍuva uddeśadiṃda òṃdu sevāśramavannu prāraṃbhisidaru. gaṃḍa-hèṃḍati ibbarū sevāśramada saṃcālakarāgi carakadiṃda nūlu tègèyuvudu, prakṛti cikitsè, vyāyāma muṃtādavugaḻannu haḻḻiya janarigè abhyāsa māḍisidaru. sevāśramadalli tayāriyāguttidda khādiyannu ūrūrigè kòṃḍu hogi mārāṭa māḍidaru. ‘mahādevana khādi’ èṃde idu prasiddhiyāyitu. idara jòtèyalli pati-patniyara svātaṃtryada tuḍita, horāṭa janapriyavāyitu. ūrina janaru ivara guṇagāna māḍidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಚಿಕ್ಕವಯಸಿದ್ರು ಒಳ್ಳೇ ಚೊಕ್ಕ ಮಾತನಾಡತಾನಾ|",
+      "translations": {
+        "en": "Though young he speaks so well|"
+      },
+      "transliterations": {
+        "devanagari": "चिक्कवयसिद्रु ऒळ्ळे चॊक्क मातनाडताना|",
+        "latin": "cikkavayasidru òḻḻe còkka mātanāḍatānā|"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಹಕ್ಕಿ ತನ್ನ ಮರಿಗೆ ಮುದ್ದುಕೊಟ್ಟಾಂಗ|",
+      "translations": {
+        "en": "Like a bird kissing its chicks|"
+      },
+      "transliterations": {
+        "devanagari": "हक्कि तन्न मरिगॆ मुद्दुकॊट्टांग|",
+        "latin": "hakki tanna marigè muddukòṭṭāṃga|"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "story",
+      "stanza": 1,
+      "text": "ನಕ್ಕರೊಂದು ಚಂದ ಅವನು|",
+      "translations": {
+        "en": "His laugh is one charm|"
+      },
+      "transliterations": {
+        "devanagari": "नक्करॊंदु चंद अवनु|",
+        "latin": "nakkaròṃdu caṃda avanu|"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "story",
+      "stanza": 1,
+      "text": "ನುಡಿದರೊಂದು ಚಂದ ನಮಗೆ|",
+      "translations": {
+        "en": "His speech another charm for us|"
+      },
+      "transliterations": {
+        "devanagari": "नुडिदरॊंदु चंद नमगॆ|",
+        "latin": "nuḍidaròṃdu caṃda namagè|"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಸಿಕ್ಕೊದಿಲ್ಲೊ ಇಂಥಾ ಚೊಕ್ಕಬಂಗಾರದಂಥವಾ||",
+      "translations": {
+        "en": "Nowhere have we found such pure-gold-like one||"
+      },
+      "transliterations": {
+        "devanagari": "सिक्कॊदिल्लॊ इंथा चॊक्कबंगारदंथवा||",
+        "latin": "sikkòdillò iṃthā còkkabaṃgāradaṃthavā||"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ದಿನ ದಿನ ಬೆಳೆಯುತ್ತ ಹೋಯಿತು. 1942ರಲ್ಲಿ ಗಾಂಧೀಜಿಯವರು ‘ಬ್ರಿಟಿಷರೇ ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ’ ಎಂಬ ಘೋಷಣೆ ಮಾಡಿದರು. ದೇಶದೆಲ್ಲೆಡೆ ಗಾಂಧೀಜಿಯವರ ಘೋಷಣೆಗೆ ಭಾರತೀಯರ ಬೆಂಬಲ ದೊರೆಯಿತು. ದಕ್ಷಿಣ ಭಾಗದ ಈ ಚಳುವಳಿಗೆ ಮೈಲಾರ ಮಹಾದೇವ ನೇತೃತ್ವ ವಹಿಸಿದರು. ಹಳ್ಳಿ ಹಳ್ಳಿಗಳಲ್ಲಿ ತಿರುಗಿ ಗಾಂಧೀಜಿಯವರ ಘೋಷಣೆಯನ್ನು ಪ್ರಚಾರ ಮಾಡಿದರು. ಅವರ ಮಾತುಗಳು ದೇಶಭಕ್ತಿಯನ್ನು ಬಡಿದೆಬ್ಬಿಸಿದವು.",
+      "translations": {
+        "en": "The freedom struggle grew day by day. In 1942 Gandhiji gave the slogan ‘British, quit India’. Across the country Indians supported Gandhiji’s slogan. Mailara Mahadeva led this movement in the southern part. Going village to village he promoted Gandhiji’s slogan. His words awakened patriotism.",
+        "hi": "1942 में गांधीजी ने ‘ब्रिटिश भारत छोड़ो’ का नारा दिया। दक्षिण भाग में मैलार महादेव ने नेतृत्व किया।"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य होराट दिन दिन बॆळॆयुत्त होयितु. 1942रल्लि गांधीजियवरु ‘ब्रिटिषरे भारत बिट्टु तॊलगि’ ऎंब घोषणॆ माडिदरु. देशदॆल्लॆडॆ गांधीजियवर घोषणॆगॆ भारतीयर बॆंबल दॊरॆयितु. दक्षिण भागद ई चळुवळिगॆ मैलार महादेव नेतृत्व वहिसिदरु. हळ्ळि हळ्ळिगळल्लि तिरुगि गांधीजियवर घोषणॆयन्नु प्रचार माडिदरु. अवर मातुगळु देशभक्तियन्नु बडिदॆब्बिसिदवु.",
+        "latin": "svātaṃtrya horāṭa dina dina bèḻèyutta hoyitu. 1942ralli gāṃdhījiyavaru ‘briṭiṣare bhārata biṭṭu tòlagi’ èṃba ghoṣaṇè māḍidaru. deśadèllèḍè gāṃdhījiyavara ghoṣaṇègè bhāratīyara bèṃbala dòrèyitu. dakṣiṇa bhāgada ī caḻuvaḻigè mailāra mahādeva netṛtva vahisidaru. haḻḻi haḻḻigaḻalli tirugi gāṃdhījiyavara ghoṣaṇèyannu pracāra māḍidaru. avara mātugaḻu deśabhaktiyannu baḍidèbbisidavu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಬ್ರಿಟಿಷರು ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಬೇಕಾದರೆ ಅವರು ನಡೆಸುತ್ತಿರುವ ಆಡಳಿತಕ್ಕೆ ಧಕ್ಕೆ ಉಂಟುಮಾಡಿ ಅವರಿಗೆ ಆಡಳಿತ ನಡೆಸುವುದು ಸಾಧ್ಯವಿಲ್ಲ ಎನಿಸಬೇಕಿತ್ತು. ಮಹಾದೇವ ತಮ್ಮ ಸಂಗಡಿಗರೊಂದಿಗೆ ಇಂಥ ಸಾಹಸಕ್ಕೆ ಅಣಿಯಾದರು. ರೈಲು ಓಡಾಟದ ಮೇಲೆ ಇವರು ಗಮನವಿಟ್ಟರು. ಸವಣೂರು ಎಂಬಲ್ಲಿ ರೈಲು ನಿಲ್ದಾಣವನ್ನು ಬ್ರಿಟಿಷ್ ಪೊಲೀಸರಿಗೆ ಗೊತ್ತಾಗದಂತೆ ಸುಟ್ಟುಹಾಕಿದರು. ಹೊನ್ನತ್ತಿ ಎಂಬಲ್ಲಿ ಪೊಲೀಸರ ಬಂದೂಕು ಅಪಹರಿಸಿದರು. ಬಾಳೆಹೊಸೂರಿನ ಪೊಲೀಸ್ ಕೇಂದ್ರವನ್ನು ಸುಟ್ಟರು. ಮಹಾದೇವ ಮತ್ತು ಸಂಗಡಿಗರ ಈ ಕೃತ್ಯಗಳಿಂದ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರ ನಡುಗಿತು. ಮಹಾದೇವಪ್ಪನವರನ್ನು ಹಿಡಿದುಕೊಟ್ಟವರಿಗೆ ಬಹುಮಾನ ಘೋಷಿಸಿತು. ಹಗಲಿರುಳೆನ್ನದೆ ಬ್ರಿಟಿಷ್ ಪೊಲೀಸರು ಮಹಾದೇವ ಹಾಗೂ ಅವರ ತಂಡದವರಿಗಾಗಿ ಶೋಧ ನಡೆಸಿದರು.",
+      "translations": {
+        "en": "For the British to leave India, their administration had to be hit so they felt they could not rule. Mahadeva with his companions prepared for such daring. They watched train movement. At Savanur they burned the railway station without British police knowing. At Honnatti they seized police guns. They burned the police station at Balehosur. These acts of Mahadeva and companions made the British government tremble. A reward was announced for those who caught Mahadeva. Day and night British police searched for Mahadeva and his team."
+      },
+      "transliterations": {
+        "devanagari": "ब्रिटिषरु भारत बिट्टु तॊलगबेकादरॆ अवरु नडॆसुत्तिरुव आडळितक्कॆ धक्कॆ उंटुमाडि अवरिगॆ आडळित नडॆसुवुदु साध्यविल्ल ऎनिसबेकित्तु. महादेव तम्म संगडिगरॊंदिगॆ इंथ साहसक्कॆ अणियादरु. रैलु ओडाटद मेलॆ इवरु गमनविट्टरु. सवणूरु ऎंबल्लि रैलु निल्दाणवन्नु ब्रिटिष् पॊलीसरिगॆ गॊत्तागदंतॆ सुट्टुहाकिदरु. हॊन्नत्ति ऎंबल्लि पॊलीसर बंदूकु अपहरिसिदरु. बाळॆहॊसूरिन पॊलीस् केंद्रवन्नु सुट्टरु. महादेव मत्तु संगडिगर ई कृत्यगळिंद ब्रिटिष् सर्कार नडुगितु. महादेवप्पनवरन्नु हिडिदुकॊट्टवरिगॆ बहुमान घोषिसितु. हगलिरुळॆन्नदॆ ब्रिटिष् पॊलीसरु महादेव हागू अवर तंडदवरिगागि शोध नडॆसिदरु.",
+        "latin": "briṭiṣaru bhārata biṭṭu tòlagabekādarè avaru naḍèsuttiruva āḍaḻitakkè dhakkè uṃṭumāḍi avarigè āḍaḻita naḍèsuvudu sādhyavilla ènisabekittu. mahādeva tamma saṃgaḍigaròṃdigè iṃtha sāhasakkè aṇiyādaru. railu oḍāṭada melè ivaru gamanaviṭṭaru. savaṇūru èṃballi railu nildāṇavannu briṭiṣ pòlīsarigè gòttāgadaṃtè suṭṭuhākidaru. hònnatti èṃballi pòlīsara baṃdūku apaharisidaru. bāḻèhòsūrina pòlīs keṃdravannu suṭṭaru. mahādeva mattu saṃgaḍigara ī kṛtyagaḻiṃda briṭiṣ sarkāra naḍugitu. mahādevappanavarannu hiḍidukòṭṭavarigè bahumāna ghoṣisitu. hagaliruḻènnadè briṭiṣ pòlīsaru mahādeva hāgū avara taṃḍadavarigāgi śodha naḍèsidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಹೊಸರಿತ್ತಿಯಲ್ಲಿ ಕಂದಾಯವನ್ನು ಬಲವಂತವಾಗಿ ವಸೂಲಿ ಮಾಡಿ ಜನರನ್ನು ಹಿಂಸಿಸುತ್ತಿದ್ದ ಸರಕಾರದ ಕೇಂದ್ರವಿತ್ತು. ಅದನ್ನು ಆಕ್ರಮಿಸಿಕೊಳ್ಳಬೇಕೆಂದು ನಿರ್ಧಾರವಾಯಿತು. ತಮ್ಮೊಟ್ಟಿಗೇ ಇದ್ದ ಪತ್ನಿ ಸಿದ್ದಮ್ಮನನ್ನು ಹಾಗೂ ಮಗಳಾದ ಕಸ್ತೂರಿದೇವಿಯನ್ನು ಹುಬ್ಬಳ್ಳಿಗೆ ಕಳುಹಿಸಿದರು. 1943ರ ಏಪ್ರಿಲ್ 1 ರಂದು ಬೆಳಗಿನ ಸಮಯ. ಹೊಸರಿತ್ತಿಯ ಸಮೀಪದ ವೀರಭದ್ರ ದೇವಾಲಯದಲ್ಲಿ ಪೊಲೀಸರ ತುಕಡಿಯಿತ್ತು. ಅದರ ಪಕ್ಕದಲ್ಲೇ ಖಜಾನೆ. ಮಹಾದೇವ ತನ್ನ ಸಂಗಡಿಗರೊಂದಿಗೆ ಮುತ್ತಿಗೆ ಹಾಕಿದರು. ಮಹಾದೇವ ಅವರ ಧೈರ್ಯಕ್ಕೆ ಹೆದರಿ ಹಲವು ಪೊಲೀಸರು ಓಟ ಕಿತ್ತರು. ಮಹಾದೇವ ಖಜಾನೆಯ ಬೀಗ ಮುರಿಯುವುದರಲ್ಲಿ ನಿರತರಾಗಿದ್ದರು. ಅಡಗಿ ಕುಳಿತಿದ್ದ ಒಬ್ಬ ಪೊಲೀಸ್ ಮಹಾದೇವನ ಎದೆಗೆ ಗುಂಡು ಹೊಡೆದ. ಮಹಾದೇವ ರಕ್ತದ ಮಡುವಿನಲ್ಲಿ ಬಿದ್ದರು. ಅವರ ಸಂಗಡಿಗರು ಗುಂಡು ಹೊಡೆದ ಪೊಲೀಸನನ್ನು ಹೊಡೆಯಲು ಹೋದರು. ನಮ್ಮದು ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟ, ಪೊಲೀಸರನ್ನು ಕೊಲ್ಲದಿರಿ, ಹಿಂಸೆ ಮಾಡದಿರಿ ಎಂದು ಮಹಾದೇವ ಸಂಗಡಿಗರನ್ನು ತಡೆದರು. ಮಹಾದೇವನ ಉಸಿರಾಟ ನಿಂತಿತು. ದೇಶದೆಲ್ಲೆಡೆ ಈ ಸುದ್ದಿ ಹರಡಿತು. ಪತ್ನಿ ಸಿದ್ಧಮ್ಮ ಗಂಡನ ಬಲಿದಾನದ ತ್ಯಾಗವನ್ನು ಧೈರ್ಯವಾಗಿ ಎದುರಿಸಿದರು. ಮಹಾದೇವರಿಗಾಗಿ ದೇಶ ಮರುಗಿತು. ಈ ಮರುಕ ಹಾಡಾಗಿ ಹರಿಯಿತು.",
+      "translations": {
+        "en": "At Hosaritti in Haveri district there was a government centre forcibly collecting tax and tormenting people. It was decided to capture it. He sent his wife Siddamma and daughter Kasturidevi who were with him to Hubballi. Morning of 1 April 1943. Near Hosaritti at Virabhadra temple there was a police squad. Beside it the treasury. Mahadeva with companions laid siege. Fearing Mahadeva’s courage many police fled. Mahadeva was busy breaking the treasury lock. A policeman hiding shot Mahadeva in the chest. Mahadeva fell in a pool of blood. Companions went to strike the policeman who shot. Mahadeva stopped them saying ours is a non-violent struggle, do not kill police, do not do violence. Mahadeva’s breath stopped. News spread across the country. Wife Siddhamma bravely faced her husband’s sacrifice. The country mourned for Mahadeva. That grief flowed as song.",
+        "hi": "1 अप्रैल 1943 को होसरित्ति में कोषागार पर घेरा डालते समय पुलिस की गोली से महादेव शहीद हुए। अहिंसात्मक संघर्ष कहते हुए साथियों को पुलिस मारने से रोका।"
+      },
+      "transliterations": {
+        "devanagari": "हावेरि जिल्लॆय हॊसरित्तियल्लि कंदायवन्नु बलवंतवागि वसूलि माडि जनरन्नु हिंसिसुत्तिद्द सरकारद केंद्रवित्तु. अदन्नु आक्रमिसिकॊळ्ळबेकॆंदु निर्धारवायितु. तम्मॊट्टिगे इद्द पत्नि सिद्दम्मनन्नु हागू मगळाद कस्तूरिदेवियन्नु हुब्बळ्ळिगॆ कळुहिसिदरु. 1943र एप्रिल् 1 रंदु बॆळगिन समय. हॊसरित्तिय समीपद वीरभद्र देवालयदल्लि पॊलीसर तुकडियित्तु. अदर पक्कदल्ले खजानॆ. महादेव तन्न संगडिगरॊंदिगॆ मुत्तिगॆ हाकिदरु. महादेव अवर धैर्यक्कॆ हॆदरि हलवु पॊलीसरु ओट कित्तरु. महादेव खजानॆय बीग मुरियुवुदरल्लि निरतरागिद्दरु. अडगि कुळितिद्द ऒब्ब पॊलीस् महादेवन ऎदॆगॆ गुंडु हॊडॆद. महादेव रक्तद मडुविनल्लि बिद्दरु. अवर संगडिगरु गुंडु हॊडॆद पॊलीसनन्नु हॊडॆयलु होदरु. नम्मदु अहिंसात्मक होराट, पॊलीसरन्नु कॊल्लदिरि, हिंसॆ माडदिरि ऎंदु महादेव संगडिगरन्नु तडॆदरु. महादेवन उसिराट निंतितु. देशदॆल्लॆडॆ ई सुद्दि हरडितु. पत्नि सिद्धम्म गंडन बलिदानद त्यागवन्नु धैर्यवागि ऎदुरिसिदरु. महादेवरिगागि देश मरुगितु. ई मरुक हाडागि हरियितु.",
+        "latin": "hāveri jillèya hòsarittiyalli kaṃdāyavannu balavaṃtavāgi vasūli māḍi janarannu hiṃsisuttidda sarakārada keṃdravittu. adannu ākramisikòḻḻabekèṃdu nirdhāravāyitu. tammòṭṭige idda patni siddammanannu hāgū magaḻāda kastūrideviyannu hubbaḻḻigè kaḻuhisidaru. 1943ra epril 1 raṃdu bèḻagina samaya. hòsarittiya samīpada vīrabhadra devālayadalli pòlīsara tukaḍiyittu. adara pakkadalle khajānè. mahādeva tanna saṃgaḍigaròṃdigè muttigè hākidaru. mahādeva avara dhairyakkè hèdari halavu pòlīsaru oṭa kittaru. mahādeva khajānèya bīga muriyuvudaralli niratarāgiddaru. aḍagi kuḻitidda òbba pòlīs mahādevana èdègè guṃḍu hòḍèda. mahādeva raktada maḍuvinalli biddaru. avara saṃgaḍigaru guṃḍu hòḍèda pòlīsanannu hòḍèyalu hodaru. nammadu ahiṃsātmaka horāṭa, pòlīsarannu kòlladiri, hiṃsè māḍadiri èṃdu mahādeva saṃgaḍigarannu taḍèdaru. mahādevana usirāṭa niṃtitu. deśadèllèḍè ī suddi haraḍitu. patni siddhamma gaṃḍana balidānada tyāgavannu dhairyavāgi èdurisidaru. mahādevarigāgi deśa marugitu. ī maruka hāḍāgi hariyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "story",
+      "stanza": 2,
+      "text": "ಭಾರತ ದೇಶದ ಬಂಧ ವಿಮೋಚನೆಗೆ ಭಾರೀ ಕಷ್ಟವ ಸೋಸಿದರು",
+      "translations": {
+        "en": "For India’s release from bondage they endured great hardship"
+      },
+      "transliterations": {
+        "devanagari": "भारत देशद बंध विमोचनॆगॆ भारी कष्टव सोसिदरु",
+        "latin": "bhārata deśada baṃdha vimocanègè bhārī kaṣṭava sosidaru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "story",
+      "stanza": 2,
+      "text": "ತಾರುಣ್ಯವೆಲ್ಲವ ತುರಂಗದಲಿ ಕಳೆದು ಮಡಿದ ಮಹಾಶೂರ ಮೈಲಾರರು",
+      "translations": {
+        "en": "Spending all youth in prison the great hero Mailara fell"
+      },
+      "transliterations": {
+        "devanagari": "तारुण्यवॆल्लव तुरंगदलि कळॆदु मडिद महाशूर मैलाररु",
+        "latin": "tāruṇyavèllava turaṃgadali kaḻèdu maḍida mahāśūra mailāraru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "story",
+      "stanza": 2,
+      "text": "ತುಂಟರ ತುಂಟನು, ಭಂಟರ ಭಂಟನು, ಸಾತ್ವಿಕರೊಳಗೆ ಸರದಾರ!",
+      "translations": {
+        "en": "Rogue among rogues, warrior among warriors, captain among the pure!"
+      },
+      "transliterations": {
+        "devanagari": "तुंटर तुंटनु, भंटर भंटनु, सात्विकरॊळगॆ सरदार!",
+        "latin": "tuṃṭara tuṃṭanu, bhaṃṭara bhaṃṭanu, sātvikaròḻagè saradāra!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "story",
+      "stanza": 2,
+      "text": "ದಿಟ್ಟನ ಹೆಸರನು ಹುಟ್ಟಿದ ಕೂಸಿಗೆ ಇಟ್ಟರೂ ತೀರದು ಉಪಕಾರ!",
+      "translations": {
+        "en": "Even naming a newborn after the brave does not finish the debt!"
+      },
+      "transliterations": {
+        "devanagari": "दिट्टन हॆसरनु हुट्टिद कूसिगॆ इट्टरू तीरदु उपकार!",
+        "latin": "diṭṭana hèsaranu huṭṭida kūsigè iṭṭarū tīradu upakāra!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "competency",
+      "section": "competency",
+      "text": "ಕೌಶಲ: ಮಾತನಾಡುವುದು. ಸಾಮರ್ಥ್ಯ: ಸಮಾರಂಭದ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಿರೂಪಣೆ ಮಾಡುವುದು. ಆಶಯ: ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಟ ಮಾಡಿದವರನ್ನು ಸ್ವಾತಂತ್ರ್ಯಯೋಧರು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಒಂದು ಉದ್ದೇಶಕ್ಕಾಗಿ ತಮ್ಮ ಬದುಕನ್ನೇ ಮೀಸಲಾಗಿಟ್ಟ ಇಂಥ ಯೋಧರು ಭಾರತದಲ್ಲಿ ಹಲವಾರು ಮಂದಿ ಇದ್ದಾರೆ. ದೇಶವೇ ಮುಖ್ಯ ಅದರ ಮುಂದೆ ಉಳಿದೆಲ್ಲವೂ ಗೌಣ. ದೇಶದ ಉಳಿವಿಗಾಗಿ ಎಂಥ ತ್ಯಾಗಕ್ಕೂ ಸಿದ್ಧರಾಗಿದ್ದವರು ಈ ಹಿರಿಯರು. ಸ್ವಾರ್ಥವನ್ನು ಮರೆತು ದೇಶದ ಪ್ರಗತಿಯನ್ನೇ ಮುಖ್ಯ ಗುರಿಯಾಗಿರಿಸಿಕೊಂಡರು ಇಂಥ ಅಸಂಖ್ಯಾತ ಯೋಧರನ್ನು ನಾವು ಕೃತಜ್ಞತೆಯಿಂದ ಸ್ಮರಿಸಬೇಕು.",
+      "translations": {
+        "en": "Skill: speaking. Ability: narrating ceremonial programmes. Intent: Those who fought for freedom are called freedom fighters. Such fighters who dedicated their lives to a purpose are many in India. The country is foremost; all else is secondary. These elders were ready for any sacrifice for the country’s survival. Forgetting selfishness they kept the country’s progress as the main goal. We should gratefully remember such countless fighters.",
+        "hi": "कौशल: बोलना। आशय: स्वतंत्रता के लिए लड़ने वालों को स्वतंत्रता योद्धा कहते हैं। ऐसे योद्धाओं को कृतज्ञता से स्मरण करना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "कौशल: मातनाडुवुदु. सामर्थ्य: समारंभद कार्यक्रमगळन्नु निरूपणॆ माडुवुदु. आशय: स्वातंत्र्यक्कागि होराट माडिदवरन्नु स्वातंत्र्ययोधरु ऎंदु करॆयुत्तारॆ. ऒंदु उद्देशक्कागि तम्म बदुकन्ने मीसलागिट्ट इंथ योधरु भारतदल्लि हलवारु मंदि इद्दारॆ. देशवे मुख्य अदर मुंदॆ उळिदॆल्लवू गौण. देशद उळिविगागि ऎंथ त्यागक्कू सिद्धरागिद्दवरु ई हिरियरु. स्वार्थवन्नु मरॆतु देशद प्रगतियन्ने मुख्य गुरियागिरिसिकॊंडरु इंथ असंख्यात योधरन्नु नावु कृतज्ञतॆयिंद स्मरिसबेकु.",
+        "latin": "kauśala: mātanāḍuvudu. sāmarthya: samāraṃbhada kāryakramagaḻannu nirūpaṇè māḍuvudu. āśaya: svātaṃtryakkāgi horāṭa māḍidavarannu svātaṃtryayodharu èṃdu karèyuttārè. òṃdu uddeśakkāgi tamma badukanne mīsalāgiṭṭa iṃtha yodharu bhāratadalli halavāru maṃdi iddārè. deśave mukhya adara muṃdè uḻidèllavū gauṇa. deśada uḻivigāgi èṃtha tyāgakkū siddharāgiddavaru ī hiriyaru. svārthavannu marètu deśada pragatiyanne mukhya guriyāgirisikòṃḍaru iṃtha asaṃkhyāta yodharannu nāvu kṛtajñatèyiṃda smarisabeku."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "vocab-toppige",
+      "section": "vocab",
+      "text": "ಟೊಪ್ಪಿಗೆ",
+      "translations": {
+        "en": "ಟೊಪ್ಪಿಗೆ",
+        "hi": "ಟೊಪ್ಪಿಗೆ"
+      },
+      "transliterations": {
+        "devanagari": "टॊप्पिगॆ",
+        "latin": "ṭòppigè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-toppige-def",
+      "section": "vocab",
+      "text": "ಟೋಪಿ",
+      "translations": {
+        "en": "cap"
+      },
+      "transliterations": {
+        "devanagari": "टोपि",
+        "latin": "ṭopi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chikkavayasidru",
+      "section": "vocab",
+      "text": "ಚಿಕ್ಕವಯಸಿದ್ರು",
+      "translations": {
+        "en": "ಚಿಕ್ಕವಯಸಿದ್ರು",
+        "hi": "ಚಿಕ್ಕವಯಸಿದ್ರು"
+      },
+      "transliterations": {
+        "devanagari": "चिक्कवयसिद्रु",
+        "latin": "cikkavayasidru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chikkavayasidru-def",
+      "section": "vocab",
+      "text": "ಚಿಕ್ಕ ವಯಸ್ಸಿದ್ದರೂ",
+      "translations": {
+        "en": "even though young"
+      },
+      "transliterations": {
+        "devanagari": "चिक्क वयस्सिद्दरू",
+        "latin": "cikka vayassiddarū"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chokka",
+      "section": "vocab",
+      "text": "ಚೊಕ್ಕ",
+      "translations": {
+        "en": "ಚೊಕ್ಕ",
+        "hi": "ಚೊಕ್ಕ"
+      },
+      "transliterations": {
+        "devanagari": "चॊक्क",
+        "latin": "còkka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chokka-def",
+      "section": "vocab",
+      "text": "ಚೆನ್ನಾಗಿ, ಅಚ್ಚುಕಟ್ಟಾಗಿ",
+      "translations": {
+        "en": "nicely, neatly"
+      },
+      "transliterations": {
+        "devanagari": "चॆन्नागि, अच्चुकट्टागि",
+        "latin": "cènnāgi, accukaṭṭāgi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chanda",
+      "section": "vocab",
+      "text": "ಚಂದ",
+      "translations": {
+        "en": "ಚಂದ",
+        "hi": "ಚಂದ"
+      },
+      "transliterations": {
+        "devanagari": "चंद",
+        "latin": "caṃda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chanda-def",
+      "section": "vocab",
+      "text": "ಚೆನ್ನ",
+      "translations": {
+        "en": "nice"
+      },
+      "transliterations": {
+        "devanagari": "चॆन्न",
+        "latin": "cènna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chokkabangara",
+      "section": "vocab",
+      "text": "ಚೊಕ್ಕಬಂಗಾರ",
+      "translations": {
+        "en": "ಚೊಕ್ಕಬಂಗಾರ",
+        "hi": "ಚೊಕ್ಕಬಂಗಾರ"
+      },
+      "transliterations": {
+        "devanagari": "चॊक्कबंगार",
+        "latin": "còkkabaṃgāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chokkabangara-def",
+      "section": "vocab",
+      "text": "ಅಪ್ಪಟ ಬಂಗಾರ, ಅಪರಂಜಿ",
+      "translations": {
+        "en": "pure gold"
+      },
+      "transliterations": {
+        "devanagari": "अप्पट बंगार, अपरंजि",
+        "latin": "appaṭa baṃgāra, aparaṃji"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhakke",
+      "section": "vocab",
+      "text": "ಧಕ್ಕೆ",
+      "translations": {
+        "en": "ಧಕ್ಕೆ",
+        "hi": "ಧಕ್ಕೆ"
+      },
+      "transliterations": {
+        "devanagari": "धक्कॆ",
+        "latin": "dhakkè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhakke-def",
+      "section": "vocab",
+      "text": "ತೊಂದರೆ",
+      "translations": {
+        "en": "harm, trouble"
+      },
+      "transliterations": {
+        "devanagari": "तॊंदरॆ",
+        "latin": "tòṃdarè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-aniyagu",
+      "section": "vocab",
+      "text": "ಅಣಿಯಾಗು",
+      "translations": {
+        "en": "ಅಣಿಯಾಗು",
+        "hi": "ಅಣಿಯಾಗು"
+      },
+      "transliterations": {
+        "devanagari": "अणियागु",
+        "latin": "aṇiyāgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aniyagu-def",
+      "section": "vocab",
+      "text": "ಸಿದ್ಧವಾಗು",
+      "translations": {
+        "en": "to get ready"
+      },
+      "transliterations": {
+        "devanagari": "सिद्धवागु",
+        "latin": "siddhavāgu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-shodha",
+      "section": "vocab",
+      "text": "ಶೋಧ",
+      "translations": {
+        "en": "ಶೋಧ",
+        "hi": "ಶೋಧ"
+      },
+      "transliterations": {
+        "devanagari": "शोध",
+        "latin": "śodha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shodha-def",
+      "section": "vocab",
+      "text": "ಹುಡುಕಾಟ",
+      "translations": {
+        "en": "search"
+      },
+      "transliterations": {
+        "devanagari": "हुडुकाट",
+        "latin": "huḍukāṭa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tukadi",
+      "section": "vocab",
+      "text": "ತುಕಡಿ",
+      "translations": {
+        "en": "ತುಕಡಿ",
+        "hi": "ತುಕಡಿ"
+      },
+      "transliterations": {
+        "devanagari": "तुकडि",
+        "latin": "tukaḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tukadi-def",
+      "section": "vocab",
+      "text": "ಸೈನ್ಯ",
+      "translations": {
+        "en": "troop"
+      },
+      "transliterations": {
+        "devanagari": "सैन्य",
+        "latin": "sainya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-madu",
+      "section": "vocab",
+      "text": "ಮಡು",
+      "translations": {
+        "en": "ಮಡು",
+        "hi": "ಮಡು"
+      },
+      "transliterations": {
+        "devanagari": "मडु",
+        "latin": "maḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-madu-def",
+      "section": "vocab",
+      "text": "ಕೊಳ್ಳ",
+      "translations": {
+        "en": "pool"
+      },
+      "transliterations": {
+        "devanagari": "कॊळ्ळ",
+        "latin": "kòḻḻa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-khajane",
+      "section": "vocab",
+      "text": "ಖಜಾನೆ",
+      "translations": {
+        "en": "ಖಜಾನೆ",
+        "hi": "ಖಜಾನೆ"
+      },
+      "transliterations": {
+        "devanagari": "खजानॆ",
+        "latin": "khajānè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-khajane-def",
+      "section": "vocab",
+      "text": "ಬೊಕ್ಕಸ",
+      "translations": {
+        "en": "treasury",
+        "hi": "खजाना"
+      },
+      "transliterations": {
+        "devanagari": "बॊक्कस",
+        "latin": "bòkkasa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-khadi",
+      "section": "vocab",
+      "text": "ಖಾದಿ",
+      "translations": {
+        "en": "ಖಾದಿ",
+        "hi": "ಖಾದಿ"
+      },
+      "transliterations": {
+        "devanagari": "खादि",
+        "latin": "khādi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-khadi-def",
+      "section": "vocab",
+      "text": "ಕೈನೂಲಿನಿಂದ ನೆಯ್ದ ಬಟ್ಟೆ",
+      "translations": {
+        "en": "cloth woven from handspun yarn",
+        "hi": "हथकरघा का कपड़ा"
+      },
+      "transliterations": {
+        "devanagari": "कैनूलिनिंद नॆय्द बट्टॆ",
+        "latin": "kainūliniṃda nèyda baṭṭè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-gunugu",
+      "section": "vocab",
+      "text": "ಗುನುಗು",
+      "translations": {
+        "en": "ಗುನುಗು",
+        "hi": "ಗುನುಗು"
+      },
+      "transliterations": {
+        "devanagari": "गुनुगु",
+        "latin": "gunugu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gunugu-def",
+      "section": "vocab",
+      "text": "ಸತತವಾಗಿ ಧ್ವನಿಮಾಡು",
+      "translations": {
+        "en": "to hum continuously"
+      },
+      "transliterations": {
+        "devanagari": "सततवागि ध्वनिमाडु",
+        "latin": "satatavāgi dhvanimāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jailu",
+      "section": "vocab",
+      "text": "ಜೈಲು",
+      "translations": {
+        "en": "ಜೈಲು",
+        "hi": "ಜೈಲು"
+      },
+      "transliterations": {
+        "devanagari": "जैलु",
+        "latin": "jailu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jailu-def",
+      "section": "vocab",
+      "text": "ಸೆರೆಮನೆ, ಬಂಧೀಖಾನೆ",
+      "translations": {
+        "en": "prison"
+      },
+      "transliterations": {
+        "devanagari": "सॆरॆमनॆ, बंधीखानॆ",
+        "latin": "sèrèmanè, baṃdhīkhānè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-balidana",
+      "section": "vocab",
+      "text": "ಬಲಿದಾನ",
+      "translations": {
+        "en": "ಬಲಿದಾನ",
+        "hi": "ಬಲಿದಾನ"
+      },
+      "transliterations": {
+        "devanagari": "बलिदान",
+        "latin": "balidāna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-balidana-def",
+      "section": "vocab",
+      "text": "ಪ್ರಾಣತ್ಯಾಗ",
+      "translations": {
+        "en": "sacrifice of life",
+        "hi": "प्राणत्याग"
+      },
+      "transliterations": {
+        "devanagari": "प्राणत्याग",
+        "latin": "prāṇatyāga"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sosidaru",
+      "section": "vocab",
+      "text": "ಸೋಸಿದರು",
+      "translations": {
+        "en": "ಸೋಸಿದರು",
+        "hi": "ಸೋಸಿದರು"
+      },
+      "transliterations": {
+        "devanagari": "सोसिदरु",
+        "latin": "sosidaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sosidaru-def",
+      "section": "vocab",
+      "text": "ಅನುಭವಿಸಿದರು",
+      "translations": {
+        "en": "endured"
+      },
+      "transliterations": {
+        "devanagari": "अनुभविसिदरु",
+        "latin": "anubhavisidaru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-savanuru",
+      "section": "notes",
+      "text": "ಸವಣೂರು",
+      "translations": {
+        "en": "ಸವಣೂರು",
+        "hi": "ಸವಣೂರು"
+      },
+      "transliterations": {
+        "devanagari": "सवणूरु",
+        "latin": "savaṇūru"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-savanuru-def",
+      "section": "notes",
+      "text": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಒಂದು ತಾಲ್ಲೂಕು",
+      "translations": {
+        "en": "a taluk in Haveri district"
+      },
+      "transliterations": {
+        "devanagari": "हावेरि जिल्लॆय ऒंदु ताल्लूकु",
+        "latin": "hāveri jillèya òṃdu tāllūku"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-honnatti",
+      "section": "notes",
+      "text": "ಹೊನ್ನತ್ತಿ",
+      "translations": {
+        "en": "ಹೊನ್ನತ್ತಿ",
+        "hi": "ಹೊನ್ನತ್ತಿ"
+      },
+      "transliterations": {
+        "devanagari": "हॊन्नत्ति",
+        "latin": "hònnatti"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-honnatti-def",
+      "section": "notes",
+      "text": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ರಾಣಿಬೆನ್ನೂರು ತಾಲ್ಲೂಕಿನ ಗ್ರಾಮ",
+      "translations": {
+        "en": "a village in Ranibennur taluk, Haveri district"
+      },
+      "transliterations": {
+        "devanagari": "हावेरि जिल्लॆय राणिबॆन्नूरु ताल्लूकिन ग्राम",
+        "latin": "hāveri jillèya rāṇibènnūru tāllūkina grāma"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-balehosuru",
+      "section": "notes",
+      "text": "ಬಾಳೆಹೊಸೂರು",
+      "translations": {
+        "en": "ಬಾಳೆಹೊಸೂರು",
+        "hi": "ಬಾಳೆಹೊಸೂರು"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆहॊसूरु",
+        "latin": "bāḻèhòsūru"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-balehosuru-def",
+      "section": "notes",
+      "text": "ಗದಗ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಒಂದು ಗ್ರಾಮ",
+      "translations": {
+        "en": "a village in Shirahatti taluk, Gadag district"
+      },
+      "transliterations": {
+        "devanagari": "गदग जिल्लॆय शिरहट्टि ताल्लूकिन ऒंदु ग्राम",
+        "latin": "gadaga jillèya śirahaṭṭi tāllūkina òṃdu grāma"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-asahakara",
+      "section": "notes",
+      "text": "ಅಸಹಕಾರ ಚಳವಳಿ",
+      "translations": {
+        "en": "ಅಸಹಕಾರ ಚಳವಳಿ",
+        "hi": "ಅಸಹಕಾರ ಚಳವಳಿ"
+      },
+      "transliterations": {
+        "devanagari": "असहकार चळवळि",
+        "latin": "asahakāra caḻavaḻi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-asahakara-def",
+      "section": "notes",
+      "text": "ಸರ್ಕಾರದ ವಿರುದ್ಧ ಜನತೆ ತನ್ನ ಅಸಮ್ಮತಿ, ವಿರೋಧ ಮತ್ತು ಪ್ರತಿಭಟನೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಒಂದು ಮಾರ್ಗ",
+      "translations": {
+        "en": "a path for people to express dissent, opposition and protest against the government"
+      },
+      "transliterations": {
+        "devanagari": "सर्कारद विरुद्ध जनतॆ तन्न असम्मति, विरोध मत्तु प्रतिभटनॆयन्नु व्यक्तपडिसुव ऒंदु मार्ग",
+        "latin": "sarkārada viruddha janatè tanna asammati, virodha mattu pratibhaṭanèyannu vyaktapaḍisuva òṃdu mārga"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-satyagraha",
+      "section": "notes",
+      "text": "ಸತ್ಯಾಗ್ರಹ",
+      "translations": {
+        "en": "ಸತ್ಯಾಗ್ರಹ",
+        "hi": "ಸತ್ಯಾಗ್ರಹ"
+      },
+      "transliterations": {
+        "devanagari": "सत्याग्रह",
+        "latin": "satyāgraha"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-satyagraha-def",
+      "section": "notes",
+      "text": "ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರು ತಮ್ಮ ಜೀವನದಲ್ಲಿ ಕಂಡುಕೊಂಡ ಸಿದ್ಧಾಂತ ಹಾಗೂ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸ್ವಾತಂತ್ರ್ಯ ಪಡೆಯುವುದಕ್ಕಾಗಿ ನಡೆಸಿದ ಚಳವಳಿ",
+      "translations": {
+        "en": "the principle Gandhi found in life and the movement for freedom against the British"
+      },
+      "transliterations": {
+        "devanagari": "महात्मा गांधियवरु तम्म जीवनदल्लि कंडुकॊंड सिद्धांत हागू ब्रिटिषर विरुद्ध स्वातंत्र्य पडॆयुवुदक्कागि नडॆसिद चळवळि",
+        "latin": "mahātmā gāṃdhiyavaru tamma jīvanadalli kaṃḍukòṃḍa siddhāṃta hāgū briṭiṣara viruddha svātaṃtrya paḍèyuvudakkāgi naḍèsida caḻavaḻi"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-sabarmati",
+      "section": "notes",
+      "text": "ಸಬರಮತಿ ಆಶ್ರಮ",
+      "translations": {
+        "en": "ಸಬರಮತಿ ಆಶ್ರಮ",
+        "hi": "ಸಬರಮತಿ ಆಶ್ರಮ"
+      },
+      "transliterations": {
+        "devanagari": "सबरमति आश्रम",
+        "latin": "sabaramati āśrama"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-sabarmati-def",
+      "section": "notes",
+      "text": "ಗಾಂಧೀಜಿ ಸ್ಥಾಪಿಸಿದ ಪ್ರಪಂಚಪ್ರಸಿದ್ಧ ಆಶ್ರಮ",
+      "translations": {
+        "en": "the world-famous ashram founded by Gandhiji"
+      },
+      "transliterations": {
+        "devanagari": "गांधीजि स्थापिसिद प्रपंचप्रसिद्ध आश्रम",
+        "latin": "gāṃdhīji sthāpisida prapaṃcaprasiddha āśrama"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-dandi",
+      "section": "notes",
+      "text": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+      "translations": {
+        "en": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+        "hi": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ"
+      },
+      "transliterations": {
+        "devanagari": "दंडि सत्याग्रह",
+        "latin": "daṃḍi satyāgraha"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dandi-def",
+      "section": "notes",
+      "text": "1930ರ ಮಾರ್ಚ್ 12ರಂದು ಗಾಂಧಿಯವರು ತಮ್ಮ ಸುಪ್ರಸಿದ್ಧ ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹವನ್ನಾರಂಭಿಸಿದರು",
+      "translations": {
+        "en": "On 12 March 1930 Gandhi began his famous salt satyagraha",
+        "hi": "12 मार्च 1930 को गांधीजी ने नमक सत्याग्रह आरंभ किया"
+      },
+      "transliterations": {
+        "devanagari": "1930र मार्च् 12रंदु गांधियवरु तम्म सुप्रसिद्ध उप्पिन सत्याग्रहवन्नारंभिसिदरु",
+        "latin": "1930ra mārc 12raṃdu gāṃdhiyavaru tamma suprasiddha uppina satyāgrahavannāraṃbhisidaru"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಮೋಟೆಬೆನ್ನೂರು ಎಂಬ ಹಳ್ಳಿ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ?",
+      "translations": {
+        "en": "In which district is the village Motebennur?",
+        "hi": "मोटेबेन्नूर किस जिले में है?"
+      },
+      "transliterations": {
+        "devanagari": "मोटॆबॆन्नूरु ऎंब हळ्ळि याव जिल्लॆयल्लिदॆ?",
+        "latin": "moṭèbènnūru èṃba haḻḻi yāva jillèyallidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಯಾವ ಬಟ್ಟೆಗಳ ವಿಚಾರ ಯಾವಾಗಲೂ ಮೈಲಾರರ ಮನಸ್ಸಿನಲ್ಲಿ ಗುನುಗುಡುತ್ತಿತ್ತು?",
+      "translations": {
+        "en": "Thoughts of which cloth always hummed in Mailara’s mind?"
+      },
+      "transliterations": {
+        "devanagari": "याव बट्टॆगळ विचार यावागलू मैलारर मनस्सिनल्लि गुनुगुडुत्तित्तु?",
+        "latin": "yāva baṭṭègaḻa vicāra yāvāgalū mailārara manassinalli gunuguḍuttittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಮಹಾದೇವನಿಗೆ ಗಾಂಧಿಯವರೊಡನೆ ಯಾವ ಆಶ್ರಮದಲ್ಲಿ ಇರಬೇಕೆಂದು ಆಸೆಯಾಯಿತು?",
+      "translations": {
+        "en": "In which ashram did Mahadeva wish to stay with Gandhi?"
+      },
+      "transliterations": {
+        "devanagari": "महादेवनिगॆ गांधियवरॊडनॆ याव आश्रमदल्लि इरबेकॆंदु आसॆयायितु?",
+        "latin": "mahādevanigè gāṃdhiyavaròḍanè yāva āśramadalli irabekèṃdu āsèyāyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ವಿಜಯಪುರ ಜಿಲ್ಲೆಯಲ್ಲಿ ಯಾವ ಗ್ರಾಮದಲ್ಲಿ ಖಾದಿ ಬಟ್ಟೆಗಳನ್ನು ತಯಾರು ಮಾಡುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "In which village of Vijayapura district were khadi clothes made?"
+      },
+      "transliterations": {
+        "devanagari": "विजयपुर जिल्लॆयल्लि याव ग्रामदल्लि खादि बट्टॆगळन्नु तयारु माडुत्तिद्दरु?",
+        "latin": "vijayapura jillèyalli yāva grāmadalli khādi baṭṭègaḻannu tayāru māḍuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "1942ರಲ್ಲಿ ಗಾಂಧೀಜಿಯವರು ಯಾವ ಘೋಷಣೆ ಮಾಡಿದರು?",
+      "translations": {
+        "en": "What slogan did Gandhiji give in 1942?",
+        "hi": "1942 में गांधीजी ने कौन-सा नारा दिया?"
+      },
+      "transliterations": {
+        "devanagari": "1942रल्लि गांधीजियवरु याव घोषणॆ माडिदरु?",
+        "latin": "1942ralli gāṃdhījiyavaru yāva ghoṣaṇè māḍidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "section": "exercise-A",
+      "text": "ಮಹಾದೇವ ಅವರು ಎಲ್ಲಿ ಪೊಲೀಸರ ಬಂದೂಕು ಅಪಹರಿಸಿದರು?",
+      "translations": {
+        "en": "Where did Mahadeva seize police guns?",
+        "hi": "महादेव ने कहाँ पुलिस की बंदूक छीनी?"
+      },
+      "transliterations": {
+        "devanagari": "महादेव अवरु ऎल्लि पॊलीसर बंदूकु अपहरिसिदरु?",
+        "latin": "mahādeva avaru èlli pòlīsara baṃdūku apaharisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಮಹಾದೇವ ಕಲಾದಗಿ ಎಂಬ ಒಂದು ಗ್ರಾಮಕ್ಕೆ ಹೋಗಿ ಏನು ತಿಳಿದುಕೊಂಡರು?",
+      "translations": {
+        "en": "What did Mahadeva learn going to the village Kaladagi?"
+      },
+      "transliterations": {
+        "devanagari": "महादेव कलादगि ऎंब ऒंदु ग्रामक्कॆ होगि एनु तिळिदुकॊंडरु?",
+        "latin": "mahādeva kalādagi èṃba òṃdu grāmakkè hogi enu tiḻidukòṃḍaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ದಂಡಿಯಾತ್ರೆಯಲ್ಲಿ ಹೆಜ್ಜೆ ಹಾಕಿದ ಮಹಾದೇವರಿಗೆ ಆದ ಶಿಕ್ಷೆ ಏನು?",
+      "translations": {
+        "en": "What punishment did Mahadeva who walked in the Dandi march get?"
+      },
+      "transliterations": {
+        "devanagari": "दंडियात्रॆयल्लि हॆज्जॆ हाकिद महादेवरिगॆ आद शिक्षॆ एनु?",
+        "latin": "daṃḍiyātrèyalli hèjjè hākida mahādevarigè āda śikṣè enu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಮಹಾದೇವ ಮತ್ತು ಸಿದ್ಧಮತಿ ಇಬ್ಬರೂ ಸೇವಾಶ್ರಮದ ಸಂಚಾಲಕರಾಗಿ ಮಾಡಿದ ಕೆಲಸಗಳೇನು?",
+      "translations": {
+        "en": "What work did Mahadeva and Siddhamati do as directors of the seva ashram?"
+      },
+      "transliterations": {
+        "devanagari": "महादेव मत्तु सिद्धमति इब्बरू सेवाश्रमद संचालकरागि माडिद कॆलसगळेनु?",
+        "latin": "mahādeva mattu siddhamati ibbarū sevāśramada saṃcālakarāgi māḍida kèlasagaḻenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಮಹಾದೇವ ರಕ್ತದ ಮಡುವಿನಲ್ಲಿ ಬಿದ್ದದ್ದು ಏಕೆ?",
+      "translations": {
+        "en": "Why did Mahadeva fall in a pool of blood?",
+        "hi": "महादेव रक्त के तालाब में क्यों गिरे?"
+      },
+      "transliterations": {
+        "devanagari": "महादेव रक्तद मडुविनल्लि बिद्दद्दु एकॆ?",
+        "latin": "mahādeva raktada maḍuvinalli biddaddu ekè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಮಹಾದೇವ ಅವರು ಜೈಲಿನಿಂದ ಬಿಡುಗಡೆಯಾದ ಮೇಲೆ ಮಾಡಿದ ಕಾರ್ಯಗಳಾವುವು?",
+      "translations": {
+        "en": "What works did Mahadeva do after release from jail?"
+      },
+      "transliterations": {
+        "devanagari": "महादेव अवरु जैलिनिंद बिडुगडॆयाद मेलॆ माडिद कार्यगळावुवु?",
+        "latin": "mahādeva avaru jailiniṃda biḍugaḍèyāda melè māḍida kāryagaḻāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಬ್ರಿಟಿಷರು ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಬೇಕಾದರೆ ಏನು ಮಾಡಬೇಕೆಂದು ಮಹಾದೇವ ಯೋಚಿಸಿದರು?",
+      "translations": {
+        "en": "What did Mahadeva think must be done for the British to leave India?"
+      },
+      "transliterations": {
+        "devanagari": "ब्रिटिषरु भारत बिट्टु तॊलगबेकादरॆ एनु माडबेकॆंदु महादेव योचिसिदरु?",
+        "latin": "briṭiṣaru bhārata biṭṭu tòlagabekādarè enu māḍabekèṃdu mahādeva yocisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "ಹೊಸರಿತ್ತಿಯಲ್ಲಿ ನಡೆದ ಘಟನೆಗಳಾವುವು?",
+      "translations": {
+        "en": "What events happened at Hosaritti?",
+        "hi": "होसरित्ति में क्या घटनाएँ हुईं?"
+      },
+      "transliterations": {
+        "devanagari": "हॊसरित्तियल्लि नडॆद घटनॆगळावुवु?",
+        "latin": "hòsarittiyalli naḍèda ghaṭanègaḻāvuvu?"
+      },
+      "type": "question"
+    }
+  ]
+}

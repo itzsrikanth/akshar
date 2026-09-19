@@ -1,0 +1,1275 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "competency": {
+      "devanagari": "कौशल / सामर्थ्य / आशय",
+      "en": "Skill / ability / intent",
+      "hi": "कौशल / सामर्थ्य / आशय",
+      "kn": "ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ",
+      "latin": "kauśala / sāmarthya / āśaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer in one sentence.",
+      "hi": "अ. एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यदल्लि उत्तरिसि.",
+      "en": "B. Answer in two or three sentences.",
+      "hi": "आ. दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyadalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॆळगिन मातुगळन्नु यारु, यारिगॆ हेळिदरु? तिळिसि.",
+      "en": "C. Who said these words to whom?",
+      "hi": "इ. ये बातें किसने किससे कही?",
+      "kn": "ಇ. ಕೆಳಗಿನ ಮಾತುಗಳನ್ನು ಯಾರು, ಯಾರಿಗೆ ಹೇಳಿದರು? ತಿಳಿಸಿ.",
+      "latin": "i. kèḻagina mātugaḻannu yāru, yārigè heḻidaru? tiḻisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "story": {
+      "devanagari": "कथॆ",
+      "en": "Story",
+      "hi": "कथा",
+      "kn": "ಕಥೆ",
+      "latin": "kathè"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ವಿ. ಗಾಯತ್ರಿ",
+    "board": "KSEEB",
+    "chapter": 2,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch02-seena-settaru-namma-teacheru",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಪ್ರತಿದಿನ ಮಕ್ಕಳಿಗೆ ಒಂದಲ್ಲ ಒಂದು ರೀತಿಯ ಕಲಿಕೆಯಾಗುತ್ತಿರುತ್ತದೆ. ಮನೆಯಲ್ಲಿ ತಾಯಿ, ತಂದೆ, ಬಂಧುಬಳಗ, ಶಾಲೆಯಲ್ಲಿ ಗುರುಗಳು, ಸಹಪಾಠಿಗಳು ಹೀಗೆ ಎಲ್ಲರಿಂದಲೂ ಒಂದಲ್ಲ ಒಂದು ಕಲಿಕೆಯಾಗುತ್ತಿರುತ್ತದೆ. ಸೈಕಲ್ ಹೇಳಿಕೊಟ್ಟ ಸ್ನೇಹಿತನೂ ಕೂಡ ಒಂದು ರೀತಿಯಲ್ಲಿ ಟೀಚರೇ ಆಗಿದ್ದಾನೆ. ಹೀಗಾಗಿ ನಮ್ಮ ಜೀವನದಲ್ಲಿ ಹಲವಾರು ಟೀಚರ್ಗಳು ಬಂದು ಹೋಗುತ್ತಿರುತ್ತಾರೆ.",
+      "translations": {
+        "en": "Every day children learn something or the other. At home from mother, father and relatives, at school from teachers and classmates—from everyone, some learning keeps happening. Even the friend who taught cycling is in a way a teacher. Thus many teachers keep coming and going in our lives.",
+        "hi": "प्रतिदिन बच्चों को किसी न किसी तरह की सीख मिलती रहती है। घर में माता-पिता और परिजनों से, स्कूल में गुरुओं और सहपाठियों से—सबसे कुछ न कुछ सीख मिलती रहती है।"
+      },
+      "transliterations": {
+        "devanagari": "प्रतिदिन मक्कळिगॆ ऒंदल्ल ऒंदु रीतिय कलिकॆयागुत्तिरुत्तदॆ. मनॆयल्लि तायि, तंदॆ, बंधुबळग, शालॆयल्लि गुरुगळु, सहपाठिगळु हीगॆ ऎल्लरिंदलू ऒंदल्ल ऒंदु कलिकॆयागुत्तिरुत्तदॆ. सैकल् हेळिकॊट्ट स्नेहितनू कूड ऒंदु रीतियल्लि टीचरे आगिद्दानॆ. हीगागि नम्म जीवनदल्लि हलवारु टीचर्गळु बंदु होगुत्तिरुत्तारॆ.",
+        "latin": "pratidina makkaḻigè òṃdalla òṃdu rītiya kalikèyāguttiruttadè. manèyalli tāyi, taṃdè, baṃdhubaḻaga, śālèyalli gurugaḻu, sahapāṭhigaḻu hīgè èllariṃdalū òṃdalla òṃdu kalikèyāguttiruttadè. saikal heḻikòṭṭa snehitanū kūḍa òṃdu rītiyalli ṭīcare āgiddānè. hīgāgi namma jīvanadalli halavāru ṭīcargaḻu baṃdu hoguttiruttārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಈಜುವುದು, ಹಾಡುವುದು, ಕಸೂತಿ ಕೆಲಸ ಯಾವುದೇ ಆಗಲಿ ಅಲ್ಲಿ ಒಬ್ಬ ಟೀಚರ್ ಇರುತ್ತಾರೆ. ಅದೇ ರೀತಿ ಯಾರಿಂದ ಏನೇ ಕಲಿತರೂ ಅಲ್ಲಿ ಗುರುವಿನ ಸ್ಥಾನದಲ್ಲಿ ಒಬ್ಬರನ್ನು ಕಾಣಬಹುದು. ಇದೇ ರೀತಿ ನಮಗೆ ಅನೇಕ ವ್ಯಕ್ತಿಗಳಿಂದ ಸಹಾಯ, ಸಹಕಾರ, ಮಾರ್ಗದರ್ಶನ ಸಿಕ್ಕೇ ಸಿಕ್ಕಿರುತ್ತದೆ. ಅವರಲ್ಲೂ ಕೂಡ ಟೀಚರ್ರನ್ನು ಕಾಣಬಹುದು. ಅಂತಹ ಒಬ್ಬ ಟೀಚರರ ಕಥೆ ಇಲ್ಲಿದೆ.",
+      "translations": {
+        "en": "Whether swimming, singing or embroidery, there is a teacher there. In the same way, whoever you learn from, you can see someone in the place of a guru. Likewise we keep receiving help, cooperation and guidance from many people. In them too we can see teachers. Here is the story of one such teacher.",
+        "hi": "तैरना हो, गाना हो या कशीदा—वहाँ एक शिक्षक होता है। उसी तरह जिससे भी कुछ सीखा, वहाँ गुरु के स्थान पर किसी को देखा जा सकता है। ऐसे ही एक शिक्षक की कथा यहाँ है।"
+      },
+      "transliterations": {
+        "devanagari": "ईजुवुदु, हाडुवुदु, कसूति कॆलस यावुदे आगलि अल्लि ऒब्ब टीचर् इरुत्तारॆ. अदे रीति यारिंद एने कलितरू अल्लि गुरुविन स्थानदल्लि ऒब्बरन्नु काणबहुदु. इदे रीति नमगॆ अनेक व्यक्तिगळिंद सहाय, सहकार, मार्गदर्शन सिक्के सिक्किरुत्तदॆ. अवरल्लू कूड टीचर्रन्नु काणबहुदु. अंतह ऒब्ब टीचरर कथॆ इल्लिदॆ.",
+        "latin": "ījuvudu, hāḍuvudu, kasūti kèlasa yāvude āgali alli òbba ṭīcar iruttārè. ade rīti yāriṃda ene kalitarū alli guruvina sthānadalli òbbarannu kāṇabahudu. ide rīti namagè aneka vyaktigaḻiṃda sahāya, sahakāra, mārgadarśana sikke sikkiruttadè. avarallū kūḍa ṭīcarrannu kāṇabahudu. aṃtaha òbba ṭīcarara kathè illidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "“ಇವರು ಇವತ್ತಿನಿಂದ ನಿಮ್ಮ ಟೀಚರು. ಇವರು ನಿಮಗೆ ಏನೆಲ್ಲಾ ಕಲಿಸಿಕೊಡುತ್ತಾರೆ ನೋಡ್ತಾ ಇರಿ” - ಮಳೆಗಾಲ ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದ ಆ ದಿನ ಮಾಂಡವಿ ಹೊಸಾ ಟೀಚರನ್ನು ಮಕ್ಕಳಿಗೆ ಪರಿಚಯಿಸಿದರು. ತುಂಗಾ ಅವರನ್ನು ಸರಿಯಾಗಿ ನೋಡಿದಳು. ಮೊದಲನೆಯದಾಗಿ, ಆತ ವೇಷಭೂಷಣದಿಂದ ಟೀಚರರಂತೆ ಕಾಣುತ್ತಿರಲಿಲ್ಲ. ತುಂಬಾ ಹಳೆಯದಾದ ಒಗೆದ ಪಂಚೆಯೊಂದನ್ನು ಸೊಂಟಕ್ಕೆ ಸುತ್ತಿ ಮೇಲಕ್ಕೆ ಎತ್ತಿ ಕಟ್ಟಿದ್ದರು. ಒಗೆದ ಚೌಕುಳಿಯ ಅಂಗಿ, ಅದಕ್ಕಿಂತ ಹಳೆಯ ಟವಲಿನಿಂದ ತಲೆಗೆ ಲಪ್ಪಟೆ ಸುತ್ತಿಕೊಂಡಿದ್ದರು. ಅವರು ಪಂಚೆ ಸುತ್ತಿರುವ ರೀತಿ ಅಭ್ಯಾಸವಿಲ್ಲದ್ದೆಂದು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಗೊತ್ತಾಗುತ್ತಿತ್ತೆಂದರೆ, ಚಡ್ಡಿಗೆ ದೊರೆತ ಪ್ರಾಮುಖ್ಯ ಪಂಚೆಗೆ ಸಿಗದೆ ಅದು ತುಂಬಾ ಅಮುಖ್ಯನಂತೆ ಮುದುರಿ ಕುಳಿತಿತ್ತು. ಮಕ್ಕಳಿಗೆಲ್ಲಾ “ಇವರೆಂತಾ ಟೀಚರಪ್ಪಾ” ಎಂದು ನಿರಾಸೆಯೂ ಕುತೂಹಲವೂ ಆಗಿತ್ತು.",
+      "translations": {
+        "en": "\"From today this person is your teacher. Keep watching all that he will teach you\"—that day when the rainy season was intensifying, Mandavi introduced the new teacher to the children. Tunga looked at him properly. First of all, from dress he did not look like a teacher. He had wrapped a very old washed dhoti around his waist and tucked it up. A washed checkered shirt, and on his head a turban from an even older towel. From the way he wrapped the dhoti it was clear he was unused to it—so much so that the importance the shorts got, the dhoti did not, and it sat crumpled as if unimportant. All the children felt both disappointment and curiosity: \"What kind of teacher is this?\""
+      },
+      "transliterations": {
+        "devanagari": "“इवरु इवत्तिनिंद निम्म टीचरु. इवरु निमगॆ एनॆल्ला कलिसिकॊडुत्तारॆ नोड्ता इरि” - मळॆगाल तीव्रगॊळ्ळुत्तिद्द आ दिन मांडवि हॊसा टीचरन्नु मक्कळिगॆ परिचयिसिदरु. तुंगा अवरन्नु सरियागि नोडिदळु. मॊदलनॆयदागि, आत वेषभूषणदिंद टीचररंतॆ काणुत्तिरलिल्ल. तुंबा हळॆयदाद ऒगॆद पंचॆयॊंदन्नु सॊंटक्कॆ सुत्ति मेलक्कॆ ऎत्ति कट्टिद्दरु. ऒगॆद चौकुळिय अंगि, अदक्किंत हळॆय टवलिनिंद तलॆगॆ लप्पटॆ सुत्तिकॊंडिद्दरु. अवरु पंचॆ सुत्तिरुव रीति अभ्यासविल्लद्दॆंदु ऎष्टु चॆन्नागि गॊत्तागुत्तित्तॆंदरॆ, चड्डिगॆ दॊरॆत प्रामुख्य पंचॆगॆ सिगदॆ अदु तुंबा अमुख्यनंतॆ मुदुरि कुळितित्तु. मक्कळिगॆल्ला “इवरॆंता टीचरप्पा” ऎंदु निरासॆयू कुतूहलवू आगित्तु.",
+        "latin": "“ivaru ivattiniṃda nimma ṭīcaru. ivaru nimagè enèllā kalisikòḍuttārè noḍtā iri” - maḻègāla tīvragòḻḻuttidda ā dina māṃḍavi hòsā ṭīcarannu makkaḻigè paricayisidaru. tuṃgā avarannu sariyāgi noḍidaḻu. mòdalanèyadāgi, āta veṣabhūṣaṇadiṃda ṭīcararaṃtè kāṇuttiralilla. tuṃbā haḻèyadāda ògèda paṃcèyòṃdannu sòṃṭakkè sutti melakkè ètti kaṭṭiddaru. ògèda caukuḻiya aṃgi, adakkiṃta haḻèya ṭavaliniṃda talègè lappaṭè suttikòṃḍiddaru. avaru paṃcè suttiruva rīti abhyāsavilladdèṃdu èṣṭu cènnāgi gòttāguttittèṃdarè, caḍḍigè dòrèta prāmukhya paṃcègè sigadè adu tuṃbā amukhyanaṃtè muduri kuḻitittu. makkaḻigèllā “ivarèṃtā ṭīcarappā” èṃdu nirāsèyū kutūhalavū āgittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಮಾಂಡವಿಯ ಆದೇಶದಂತೆ ಮಕ್ಕಳೆಲ್ಲಾ ಹಳ್ಳದ ದಂಡೆಯಲ್ಲಿ ಕೂಡಿಕೊಂಡರು. ತುಂಗಾಗೆ ತಾನು ಆ ಟೀಚರನ್ನು ಎಲ್ಲೋ ನೋಡಿದ್ದೇನೆ ಅನ್ನಿಸುತ್ತಿತ್ತು. ಎಲ್ಲಿ ಎನ್ನುವುದು ಅಷ್ಟು ಸುಲಭವಾಗಿ ಹೊಳೆಯಲಿಲ್ಲ. ಆತನ ಸ್ನೇಹಮಯ ಮುಖ ಬಿಸಿಲು-ಮಳೆ-ಚಳಿಗಳಿಗೆ ಪಕ್ಕಾಗಿ ಕರ್ರಗೆ ಸುಕ್ಕುಗಟ್ಟಿತ್ತು. ಆತ ತಲೆಗೆ ಸುತ್ತಿದ ಲಪ್ಪಟೆಯಂತೂ ತೀರಾ ಪರಿಚಿತವಾಗಿತ್ತು. “ಹಾಂ, ಹೌದು” ನೆನಪಾಯಿತು. ಪ್ರತಿಸಲ ಸಾಮೇರ ಮನೆ ಆಲೆಮನೆಗೆ ಕೋಣ ಹೊಡೆದು ತರುವ ಸೀನಸೆಟ್ಟರು ಇವರು. ತಮ್ಮ ಮೂರೆಕರೆ ಜಮೀನಿನಲ್ಲಿ ತಪ್ಪದೆ ಸಾಸಿವೆ ಬೆಳೆಯುತ್ತಿದ್ದ ಒಬ್ಬರೇ ರೈತ ಇವರು. ತುಂಗಾಳ ದೂರದ ಸಂಬಂಧಿಯಾದ ಸೀನಸೆಟ್ಟರಿಗೂ ಇವಳ ನೆನಪಿತ್ತು. ಪ್ರೀತಿಯಿಂದ ಅವಳ ತಲೆ ಸವರಿ, “ಎಂತಾ, ಮಗಾ, ಆರಾಮಾ? ಅವ್ವ-ಅಪ್ಪಯ್ಯ ಚಂದ ಅದಾರಾ?” ಎಂದು ಕೇಳಿದರು. ‘ಓ’ ತುಂಗಾ ಸ್ವಲ್ಪ ಜೋರಾಗೇ ಹೇಳಿದಳು. ಹೊಸ ಟೀಚರು ತನ್ನ ಪರಿಚಯಸ್ಥರು ಎಂದು ಇತರ ಮಕ್ಕಳೆದುರಿಗೆ ತೋರಿಸಿಕೊಳ್ಳುವುದು ಅವಳಿಗೆ ಹೆಮ್ಮೆಯೆನಿಸಿತ್ತು.",
+      "translations": {
+        "en": "As Mandavi ordered, all the children gathered on the stream bank. Tunga felt she had seen that teacher somewhere. Where did not come easily. His friendly face, weathered by sun, rain and cold, was dark and wrinkled. The turban on his head was thoroughly familiar. \"Ah, yes,\" she remembered. Seena Settaru who every time drove buffaloes to Samera’s oil-press house—these were they. The only farmer who without fail grew mustard on his three acres. Seena Settaru, a distant relative of Tunga, also remembered her. Lovingly stroking her head he asked, \"How are you, child? Are you well? Are amma and appa well?\" \"O,\" Tunga said a bit loudly. Showing before the other children that the new teacher was her acquaintance made her feel proud."
+      },
+      "transliterations": {
+        "devanagari": "मांडविय आदेशदंतॆ मक्कळॆल्ला हळ्ळद दंडॆयल्लि कूडिकॊंडरु. तुंगागॆ तानु आ टीचरन्नु ऎल्लो नोडिद्देनॆ अन्निसुत्तित्तु. ऎल्लि ऎन्नुवुदु अष्टु सुलभवागि हॊळॆयलिल्ल. आतन स्नेहमय मुख बिसिलु-मळॆ-चळिगळिगॆ पक्कागि कर्रगॆ सुक्कुगट्टित्तु. आत तलॆगॆ सुत्तिद लप्पटॆयंतू तीरा परिचितवागित्तु. “हां, हौदु” नॆनपायितु. प्रतिसल सामेर मनॆ आलॆमनॆगॆ कोण हॊडॆदु तरुव सीनसॆट्टरु इवरु. तम्म मूरॆकरॆ जमीनिनल्लि तप्पदॆ सासिवॆ बॆळॆयुत्तिद्द ऒब्बरे रैत इवरु. तुंगाळ दूरद संबंधियाद सीनसॆट्टरिगू इवळ नॆनपित्तु. प्रीतियिंद अवळ तलॆ सवरि, “ऎंता, मगा, आरामा? अव्व-अप्पय्य चंद अदारा?” ऎंदु केळिदरु. ‘ओ’ तुंगा स्वल्प जोरागे हेळिदळु. हॊस टीचरु तन्न परिचयस्थरु ऎंदु इतर मक्कळॆदुरिगॆ तोरिसिकॊळ्ळुवुदु अवळिगॆ हॆम्मॆयॆनिसित्तु.",
+        "latin": "māṃḍaviya ādeśadaṃtè makkaḻèllā haḻḻada daṃḍèyalli kūḍikòṃḍaru. tuṃgāgè tānu ā ṭīcarannu èllo noḍiddenè annisuttittu. èlli ènnuvudu aṣṭu sulabhavāgi hòḻèyalilla. ātana snehamaya mukha bisilu-maḻè-caḻigaḻigè pakkāgi karragè sukkugaṭṭittu. āta talègè suttida lappaṭèyaṃtū tīrā paricitavāgittu. “hāṃ, haudu” nènapāyitu. pratisala sāmera manè ālèmanègè koṇa hòḍèdu taruva sīnasèṭṭaru ivaru. tamma mūrèkarè jamīninalli tappadè sāsivè bèḻèyuttidda òbbare raita ivaru. tuṃgāḻa dūrada saṃbaṃdhiyāda sīnasèṭṭarigū ivaḻa nènapittu. prītiyiṃda avaḻa talè savari, “èṃtā, magā, ārāmā? avva-appayya caṃda adārā?” èṃdu keḻidaru. ‘o’ tuṃgā svalpa jorāge heḻidaḻu. hòsa ṭīcaru tanna paricayastharu èṃdu itara makkaḻèdurigè torisikòḻḻuvudu avaḻigè hèmmèyènisittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ತುಂಗಾ",
+      "text": "ಹಂಗಾರೆ ಸೀನಸೆಟ್ರು ಇನ್ನು ನಮ್ಮ ಟೀಚರು",
+      "translations": {
+        "en": "So then Seena Settaru is our teacher now",
+        "hi": "तो फिर सीन सेट्टरु अब हमारे टीचर हैं"
+      },
+      "transliterations": {
+        "devanagari": "हंगारॆ सीनसॆट्रु इन्नु नम्म टीचरु",
+        "latin": "haṃgārè sīnasèṭru innu namma ṭīcaru"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ಸೀನಸೆಟ್ಟರು",
+      "text": "ನಾ ಟೀಚರಲ್ಲ. ಎಂತಾ ಅಲ್ಲ. ನಾನೊಬ್ಬ ಪಡಪೋಶಿ ರೈತ. ನಿಮ್ಮ ಹೆಡ್ಮೇಡಮ್ಮ ನಿಮ್ಗೆಲ್ಲಾ ಗದ್ದೆ ಕೆಲ್ಸ ಹೇಳ್ಕೊಡಾಕೆ ನನ್ನ ಕರ್ಸಿದಾರೆ",
+      "translations": {
+        "en": "I am not a teacher. Not like that. I am just a useless farmer. Your headmistress has called me to teach you all field work",
+        "hi": "मैं टीचर नहीं। वैसा नहीं। मैं एक बेकार किसान हूँ। आपकी हेडमिस्ट्रेस ने आपको खेत का काम सिखाने मुझे बुलाया है"
+      },
+      "transliterations": {
+        "devanagari": "ना टीचरल्ल. ऎंता अल्ल. नानॊब्ब पडपोशि रैत. निम्म हॆड्मेडम्म निम्गॆल्ला गद्दॆ कॆल्स हेळ्कॊडाकॆ नन्न कर्सिदारॆ",
+        "latin": "nā ṭīcaralla. èṃtā alla. nānòbba paḍapośi raita. nimma hèḍmeḍamma nimgèllā gaddè kèlsa heḻkòḍākè nanna karsidārè"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ಮಾಂಡವಿ",
+      "text": "ಹೌದು. ಹೌದು, ಇವರು ನಿಮ್ಮ ಬೇಸಾಯದ ಟೀಚರು, ನಿಮಗೆ ಬೇಸಾಯದಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು ಇವರು ಒಪ್ಪಿಕೊಂಡಿರುವುದು ನಮ್ಮ ಪುಣ್ಯ. ಸರಿ ಮೇಷ್ಟ್ರೆ, ಈಗ ನೀವು ಪ್ರಾರಂಭಿಸಬಹುದು",
+      "translations": {
+        "en": "Yes, yes, he is your farming teacher; that he has agreed to help you in farming is our good fortune. All right, master, you may begin now",
+        "hi": "हाँ हाँ, ये आपके खेती के टीचर हैं; खेती में मदद करने को इन्होंने स्वीकार किया यह हमारा पुण्य है"
+      },
+      "transliterations": {
+        "devanagari": "हौदु. हौदु, इवरु निम्म बेसायद टीचरु, निमगॆ बेसायदल्लि सहाय माडलु इवरु ऒप्पिकॊंडिरुवुदु नम्म पुण्य. सरि मेष्ट्रॆ, ईग नीवु प्रारंभिसबहुदु",
+        "latin": "haudu. haudu, ivaru nimma besāyada ṭīcaru, nimagè besāyadalli sahāya māḍalu ivaru òppikòṃḍiruvudu namma puṇya. sari meṣṭrè, īga nīvu prāraṃbhisabahudu"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಚಿಣ್ಣರ ಲೋಕದ ಬಹುಪಾಲು ಮಕ್ಕಳು ರೈತ ಕುಟುಂಬದವರೇ. ಒಂದಲ್ಲಾ ಒಂದು ರೀತಿಯಲ್ಲಿ ಬೇಸಾಯದಲ್ಲಿ ತೊಡಗಿಕೊಳ್ಳುತ್ತಿದ್ದ ಅವರಿಗೆ ಹೊಸದಾಗಿ ಬೇಸಾಯವನ್ನೇನೂ ಕಲಿಸಬೇಕಾಗಿರಲಿಲ್ಲ. ಆದರೆ ಶಾಲೆಯ ಕಲಿಕೆಯಲ್ಲಿ ಬೇಸಾಯವನ್ನು ಅಳವಡಿಸುವ ಮಾಂಡವಿಯ ಉದ್ದೇಶವೇ ಬೇರೆಯಾಗಿತ್ತು. ಶಾಲಾ ಶಿಕ್ಷಣ ನಿಜ ಬದುಕಿನ ಜೊತೆಗೆ ಹಾಸುಹೊಕ್ಕಿನ ಸಂಬಂಧ ಹೊಂದಿರಬೇಕೆಂಬುದೇ ಮಾಂಡವಿಯ ನಂಬಿಕೆಯಾಗಿತ್ತು. ಅದೇ ಅವರ ಶಿಕ್ಷಣ ಮಾದರಿಯ ತಳಹದಿ ಕೂಡಾ. ಶಾಲಾ ಶಿಕ್ಷಣದಲ್ಲಿ ಅವರು ಬೇಸಾಯವನ್ನು ಅಳವಡಿಸಲು ಮುಖ್ಯಕಾರಣ ಇದಾಗಿದ್ದರೂ ಕೂಡ ಅದು ಇನ್ನೂ ಅನೇಕ ವಿಚಾರಗಳಿಗೆ ಸಹಾಯವಾಗಿತ್ತು.",
+      "translations": {
+        "en": "Most children of the little ones’ world were from farming families. In one way or another they were already involved in farming, so nothing new about farming needed teaching. But Mandavi’s purpose in fitting farming into school learning was different. Her belief was that school education should have an intertwined relationship with real life. That was also the foundation of her teaching model."
+      },
+      "transliterations": {
+        "devanagari": "चिण्णर लोकद बहुपालु मक्कळु रैत कुटुंबदवरे. ऒंदल्ला ऒंदु रीतियल्लि बेसायदल्लि तॊडगिकॊळ्ळुत्तिद्द अवरिगॆ हॊसदागि बेसायवन्नेनू कलिसबेकागिरलिल्ल. आदरॆ शालॆय कलिकॆयल्लि बेसायवन्नु अळवडिसुव मांडविय उद्देशवे बेरॆयागित्तु. शाला शिक्षण निज बदुकिन जॊतॆगॆ हासुहॊक्किन संबंध हॊंदिरबेकॆंबुदे मांडविय नंबिकॆयागित्तु. अदे अवर शिक्षण मादरिय तळहदि कूडा. शाला शिक्षणदल्लि अवरु बेसायवन्नु अळवडिसलु मुख्यकारण इदागिद्दरू कूड अदु इन्नू अनेक विचारगळिगॆ सहायवागित्तु.",
+        "latin": "ciṇṇara lokada bahupālu makkaḻu raita kuṭuṃbadavare. òṃdallā òṃdu rītiyalli besāyadalli tòḍagikòḻḻuttidda avarigè hòsadāgi besāyavannenū kalisabekāgiralilla. ādarè śālèya kalikèyalli besāyavannu aḻavaḍisuva māṃḍaviya uddeśave berèyāgittu. śālā śikṣaṇa nija badukina jòtègè hāsuhòkkina saṃbaṃdha hòṃdirabekèṃbude māṃḍaviya naṃbikèyāgittu. ade avara śikṣaṇa mādariya taḻahadi kūḍā. śālā śikṣaṇadalli avaru besāyavannu aḻavaḍisalu mukhyakāraṇa idāgiddarū kūḍa adu innū aneka vicāragaḻigè sahāyavāgittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಮೊದಲನೆಯದಾಗಿ, ಮಣ್ಣಿನ ಕಣಕಣಗಳೊಟ್ಟಿಗೆ ಸಂವಾದಿಸಬಲ್ಲ ಸೀನಸೆಟ್ಟರಂತಹ ರೈತರ ಅನುಭವಜನ್ಯ ವಿವರಣೆ ತರಗತಿಯೊಳಗೆ ನಡೆಯಬೇಕಾದ ಅರ್ಧಪಾಲು ವಿಜ್ಞಾನದ ಪಾಠವನ್ನು ಗದ್ದೆಯಲ್ಲೇ ಕಲಿಸಿಬಿಡುತ್ತಿತ್ತು. ಎರಡನೆಯದಾಗಿ, ಮಕ್ಕಳು ಕುಟುಂಬದೊಂದಿಗೆ ವ್ಯವಸಾಯದಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದರೂ ಅವರಿಗೆ ಸಿಗುತ್ತಿದ್ದುದು ಎರಡನೇ ಸ್ಥಾನ, ಸೀಮಿತ ಒಳಗೊಳ್ಳುವಿಕೆ. ಆದರೆ ಇಲ್ಲಿ ಬೇಸಾಯದ ಎಲ್ಲಾ ಹಂತಗಳಲ್ಲೂ ಎಲ್ಲಾ ಕೆಲಸಗಳನ್ನು, ಜವಾಬ್ದಾರಿಗಳನ್ನು ಸ್ವತಃ ತಾವೇ ಮಾಡಬೇಕಾದ್ದರಿಂದ ಅವರಿಗೆ ಇಡಿಯಾದ ಅನುಭವ ಸಿಗುತ್ತಿತ್ತು.",
+      "translations": {
+        "en": "First, experiential explanation by farmers like Seena Settaru who can converse with every grain of soil taught half the science lesson that should happen in class right in the field. Second, though children took part in farming with the family they got only a second place, limited inclusion. But here because they themselves had to do all work and responsibilities at every stage of farming, they got the complete experience."
+      },
+      "transliterations": {
+        "devanagari": "मॊदलनॆयदागि, मण्णिन कणकणगळॊट्टिगॆ संवादिसबल्ल सीनसॆट्टरंतह रैतर अनुभवजन्य विवरणॆ तरगतियॊळगॆ नडॆयबेकाद अर्धपालु विज्ञानद पाठवन्नु गद्दॆयल्ले कलिसिबिडुत्तित्तु. ऎरडनॆयदागि, मक्कळु कुटुंबदॊंदिगॆ व्यवसायदल्लि पाल्गॊळ्ळुत्तिद्दरू अवरिगॆ सिगुत्तिद्दुदु ऎरडने स्थान, सीमित ऒळगॊळ्ळुविकॆ. आदरॆ इल्लि बेसायद ऎल्ला हंतगळल्लू ऎल्ला कॆलसगळन्नु, जवाब्दारिगळन्नु स्वतः तावे माडबेकाद्दरिंद अवरिगॆ इडियाद अनुभव सिगुत्तित्तु.",
+        "latin": "mòdalanèyadāgi, maṇṇina kaṇakaṇagaḻòṭṭigè saṃvādisaballa sīnasèṭṭaraṃtaha raitara anubhavajanya vivaraṇè taragatiyòḻagè naḍèyabekāda ardhapālu vijñānada pāṭhavannu gaddèyalle kalisibiḍuttittu. èraḍanèyadāgi, makkaḻu kuṭuṃbadòṃdigè vyavasāyadalli pālgòḻḻuttiddarū avarigè siguttiddudu èraḍane sthāna, sīmita òḻagòḻḻuvikè. ādarè illi besāyada èllā haṃtagaḻallū èllā kèlasagaḻannu, javābdārigaḻannu svataḥ tāve māḍabekāddariṃda avarigè iḍiyāda anubhava siguttittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಹಳ್ಳದ ಬದಿಯ ಎರಡೆಕರೆ ಜಮೀನನ್ನು ಮಾಂಡವಿ ಬೇಸಾಯಕ್ಕೆಂದೇ ಕೊಂಡುಕೊಂಡಿದ್ದರು. ಹಾಗೆಯೇ ಮನೆಯಲ್ಲಿ ಮುಂದುಗಡೆಯ ಒಂದು ರೂಮನ್ನು ಮಕ್ಕಳಿಗೆ ಬೇಸಾಯದ ಸಾಮಗ್ರಿಗಳನ್ನು ಇಟ್ಟುಕೊಳ್ಳಲೆಂದು ತೆರವು ಮಾಡಲಾಗಿತ್ತು. ಈಗಾಗಲೇ ಭತ್ತ ಬಿತ್ತಿದ್ದ ಗದ್ದೆಯದು. ನಿಲ್ಲಲಿ ಎಂದರೂ ಕೇಳದೆ ಜಡಿಮಳೆಯಲ್ಲೇ ಶಾಲೆಯ ಐವತ್ತೂ ಮಕ್ಕಳು ಕಂಬಳಿಗೊಪ್ಪೆ ಹಾಕಿಕೊಂಡು ಸಂಭ್ರಮದಿಂದ ಗದ್ದೆಗಿಳಿದರು ಸೀನಸೆಟ್ಟರ ಜೊತೆ.",
+      "translations": {
+        "en": "Mandavi had bought two acres by the stream just for farming. Likewise a front room at home had been cleared for children to keep farming tools. The field already had paddy sown. Without listening when told to stop, all fifty school children, putting on blanket-hoods in the pouring rain, joyfully entered the field with Seena Settaru."
+      },
+      "transliterations": {
+        "devanagari": "हळ्ळद बदिय ऎरडॆकरॆ जमीनन्नु मांडवि बेसायक्कॆंदे कॊंडुकॊंडिद्दरु. हागॆये मनॆयल्लि मुंदुगडॆय ऒंदु रूमन्नु मक्कळिगॆ बेसायद सामग्रिगळन्नु इट्टुकॊळ्ळलॆंदु तॆरवु माडलागित्तु. ईगागले भत्त बित्तिद्द गद्दॆयदु. निल्ललि ऎंदरू केळदॆ जडिमळॆयल्ले शालॆय ऐवत्तू मक्कळु कंबळिगॊप्पॆ हाकिकॊंडु संभ्रमदिंद गद्दॆगिळिदरु सीनसॆट्टर जॊतॆ.",
+        "latin": "haḻḻada badiya èraḍèkarè jamīnannu māṃḍavi besāyakkèṃde kòṃḍukòṃḍiddaru. hāgèye manèyalli muṃdugaḍèya òṃdu rūmannu makkaḻigè besāyada sāmagrigaḻannu iṭṭukòḻḻalèṃdu tèravu māḍalāgittu. īgāgale bhatta bittidda gaddèyadu. nillali èṃdarū keḻadè jaḍimaḻèyalle śālèya aivattū makkaḻu kaṃbaḻigòppè hākikòṃḍu saṃbhramadiṃda gaddègiḻidaru sīnasèṭṭara jòtè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ಸೀನಸೆಟ್ಟರು",
+      "text": "ಮುಂಚೆ ನಾವು ಸಸಿಗಳನ್ನು ಕೀಳಾಣ. ಇವತ್ತೇ ಸಸಿ ಕಿತ್ತು ಮುಗೀತಂದ್ರೆ ನಾಳೆಯಿಂದ ನಾಟಿ ಮಾಡಾಣ",
+      "translations": {
+        "en": "First we will pull up seedlings. If we finish pulling today, from tomorrow we will transplant",
+        "hi": "पहले हम पौधे उखाड़ेंगे। आज ही उखाड़ लिया तो कल से रोपाई करेंगे"
+      },
+      "transliterations": {
+        "devanagari": "मुंचॆ नावु ससिगळन्नु कीळाण. इवत्ते ससि कित्तु मुगीतंद्रॆ नाळॆयिंद नाटि माडाण",
+        "latin": "muṃcè nāvu sasigaḻannu kīḻāṇa. ivatte sasi kittu mugītaṃdrè nāḻèyiṃda nāṭi māḍāṇa"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಮೊದಮೊದಲು ಮಕ್ಕಳಿಗೆ ಹಿಡಿ ತುಂಬಾ ಸಸಿಗಳನ್ನು ಬುಡಸಮೇತ ಕೀಳುವುದು ಸುಲಭವಾಗಲಿಲ್ಲ. ಅನೇಕ ಸಸಿಗಳನ್ನು ಹಾಳು ಮಾಡಿದರು. ಹತ್ತಾರು ಬಾರಿ ಕಿತ್ತು ಕಿತ್ತು ಪ್ರಯತ್ನಿಸಿ ಅನಂತರ ಅವರಿಗೆ ಕೀಳುವುದು ಅಭ್ಯಾಸವಾಗಿ ವೇಗವೂ ಹಿಡಿಯಿತು. ಅವುಗಳನ್ನು ಸಣ್ಣ ಸಣ್ಣ ಕಟ್ಟುಗಳಲ್ಲಿ ಕಟ್ಟಿ ಕೆಸರು ಗದ್ದೆಯಲ್ಲಿಡುವುದನ್ನು ‘ಟೀಚರು’ ಕಲಿಸಿಕೊಟ್ಟರು.",
+      "translations": {
+        "en": "At first pulling a fistful of seedlings with roots was not easy for the children. They ruined many seedlings. After trying again and again ten times, pulling became practice and speed came. The ‘teacher’ taught tying them in small bundles and placing them in the muddy field."
+      },
+      "transliterations": {
+        "devanagari": "मॊदमॊदलु मक्कळिगॆ हिडि तुंबा ससिगळन्नु बुडसमेत कीळुवुदु सुलभवागलिल्ल. अनेक ससिगळन्नु हाळु माडिदरु. हत्तारु बारि कित्तु कित्तु प्रयत्निसि अनंतर अवरिगॆ कीळुवुदु अभ्यासवागि वेगवू हिडियितु. अवुगळन्नु सण्ण सण्ण कट्टुगळल्लि कट्टि कॆसरु गद्दॆयल्लिडुवुदन्नु ‘टीचरु’ कलिसिकॊट्टरु.",
+        "latin": "mòdamòdalu makkaḻigè hiḍi tuṃbā sasigaḻannu buḍasameta kīḻuvudu sulabhavāgalilla. aneka sasigaḻannu hāḻu māḍidaru. hattāru bāri kittu kittu prayatnisi anaṃtara avarigè kīḻuvudu abhyāsavāgi vegavū hiḍiyitu. avugaḻannu saṇṇa saṇṇa kaṭṭugaḻalli kaṭṭi kèsaru gaddèyalliḍuvudannu ‘ṭīcaru’ kalisikòṭṭaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಒಂದು ಗಂಟೆಯ ಕೆಲಸದ ಅನಂತರ ಸೀನಸೆಟ್ಟರು “ಇವತ್ತಿಗೆ ಸಾಕು, ನಾಳೆ ಉಳಿದದ್ದು” ಎಂದರು. ಸಂಭ್ರಮ ಹಿಡಿಸಿಕೊಂಡಿದ್ದ ಮಕ್ಕಳು ಕೇಳಿಯಾರೆ? “ಸೀನ ಸೆಟ್ರೆ, ನಿಮ್ಮ ದಮ್ಮಯ್ಯ, ಇವತ್ತು ಪೂರಾ ಕಿತ್ತೇ ಹೋಗಾಣ” ಎಂದು ಒಕ್ಕೊರಲಿನಿಂದ ಒತ್ತಾಯಪೂರ್ವಕವಾಗಿ ಗೋಗರೆದರು. ಅಷ್ಟರಲ್ಲೇ ಒಂದು ಸಣ್ಣ ಹಾವು ಅವಸರದಿಂದ ಸರಿಯುತ್ತಾ ಹಾಲಪ್ಪ ಎನ್ನುವವನ ಕಾಲನ್ನು ಕಚ್ಚಿಬಿಟ್ಟಿತು. ಅವನು ಹೌಹಾರಿ ಬಿದ್ದ. ತಕ್ಷಣ ಸೀನಸೆಟ್ಟರು ಅವನನ್ನು ಹಿಡಿದುಕೊಂಡರು.",
+      "translations": {
+        "en": "After an hour’s work Seena Settaru said, \"Enough for today, the rest tomorrow.\" The children caught up in excitement—would they listen? \"Seena Setru, by your strength, let’s pull everything today,\" they insisted in one voice. Just then a small snake hurriedly slithering bit Halappa’s foot. He cried out and fell. At once Seena Settaru held him."
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु गंटॆय कॆलसद अनंतर सीनसॆट्टरु “इवत्तिगॆ साकु, नाळॆ उळिदद्दु” ऎंदरु. संभ्रम हिडिसिकॊंडिद्द मक्कळु केळियारॆ? “सीन सॆट्रॆ, निम्म दम्मय्य, इवत्तु पूरा कित्ते होगाण” ऎंदु ऒक्कॊरलिनिंद ऒत्तायपूर्वकवागि गोगरॆदरु. अष्टरल्ले ऒंदु सण्ण हावु अवसरदिंद सरियुत्ता हालप्प ऎन्नुववन कालन्नु कच्चिबिट्टितु. अवनु हौहारि बिद्द. तक्षण सीनसॆट्टरु अवनन्नु हिडिदुकॊंडरु.",
+        "latin": "òṃdu gaṃṭèya kèlasada anaṃtara sīnasèṭṭaru “ivattigè sāku, nāḻè uḻidaddu” èṃdaru. saṃbhrama hiḍisikòṃḍidda makkaḻu keḻiyārè? “sīna sèṭrè, nimma dammayya, ivattu pūrā kitte hogāṇa” èṃdu òkkòraliniṃda òttāyapūrvakavāgi gogarèdaru. aṣṭaralle òṃdu saṇṇa hāvu avasaradiṃda sariyuttā hālappa ènnuvavana kālannu kaccibiṭṭitu. avanu hauhāri bidda. takṣaṇa sīnasèṭṭaru avanannu hiḍidukòṃḍaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d5",
+      "section": "story",
+      "speaker": "ಸೀನಸೆಟ್ಟರು",
+      "text": "ಹೆದರ್ಬೇಡಾ ಮಗಾ, ಎಂತಾ ಆಗಲ್ಲ. ಅದು ನೀರಾವು. ವಿಷದ ಹಾವಲ್ಲ. ಒಂದು ಮೀನು ಕಚ್ಚಿದ್ರೆ ಹೆಂಗೋ ಅಷ್ಟೇ",
+      "translations": {
+        "en": "Don’t fear, child, nothing will happen. That is a water snake. Not a poisonous snake. Like a fish biting, that’s all",
+        "hi": "मत डरो बेटा, कुछ नहीं होगा। वह जलसर्प है। विषैला साँप नहीं"
+      },
+      "transliterations": {
+        "devanagari": "हॆदर्बेडा मगा, ऎंता आगल्ल. अदु नीरावु. विषद हावल्ल. ऒंदु मीनु कच्चिद्रॆ हॆंगो अष्टे",
+        "latin": "hèdarbeḍā magā, èṃtā āgalla. adu nīrāvu. viṣada hāvalla. òṃdu mīnu kaccidrè hèṃgo aṣṭe"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ನಾಟಿ. ಇದು ಸಸಿ ಕೀಳುವುದಕ್ಕಿಂತಲೂ ಕಷ್ಟಕರವಾದ ಕೆಲಸ. ಅನೇಕ ಸಸಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಹಿಡಿದು ಒಂದೇ ಸಲಕ್ಕೆ ಬೇರು ನಾಟುವಂತೆ ಹೆಬ್ಬೆಟ್ಟಿನಿಂದ ಗಟ್ಟಿಯಾಗಿ ಒತ್ತಿ ಊರಬೇಕು. ಮೊದಮೊದಲಿಗೆ ಕೆಲ ಮಕ್ಕಳಿಗಂತೂ ಇದು ತಮ್ಮಿಂದ ಸಾಧ್ಯವೇ ಇಲ್ಲ ಎನಿಸಿಬಿಟ್ಟಿತು. ಆದರೆ ಸೀನಸೆಟ್ಟರ ಅಪಾರ ತಾಳ್ಮೆ, ಉತ್ತೇಜನಗಳು ಅವರನ್ನು ಕೆಲಸಕ್ಕೆ ಹೊಂದಿಸಿಬಿಟ್ಟವು. “ಹಾಡು ಹೇಳ್ಕ್ಯಂಡು ಕೆಲಸ ಮಾಡಿ. ಆಗ ಕಷ್ಟಾನೇ ತಿಳಿಯಲ್ಲ” ಎಂದು ಉತ್ತೇಜಿಸಿದರು. ತಕ್ಷಣ ಎಲ್ಲರೂ, “ಚಂದ್ರಕಾಂತ ಸುರು ಮಾಡೋ” ಎಂದು ಕೂಗಿಕೊಂಡರು. ಅವನ ಧ್ವನಿಗೆ ತಮ್ಮ ಧ್ವನಿಯ ಅಲೆ ಸೇರಿಸಿದರು.",
+      "translations": {
+        "en": "In the following days, transplanting. This was harder work than pulling seedlings. Holding many seedlings together one must firmly press with the big toe so roots plant at once. At first some children felt this was impossible for them. But Seena Settaru’s immense patience and encouragement fitted them to the work. “Work while singing. Then you won’t even know the hardship,” he encouraged. At once everyone shouted, “Chandrakant, start!” and joined their voices to his."
+      },
+      "transliterations": {
+        "devanagari": "मुंदिन दिनगळल्लि नाटि. इदु ससि कीळुवुदक्किंतलू कष्टकरवाद कॆलस. अनेक ससिगळन्नु ऒट्टिगॆ हिडिदु ऒंदे सलक्कॆ बेरु नाटुवंतॆ हॆब्बॆट्टिनिंद गट्टियागि ऒत्ति ऊरबेकु. मॊदमॊदलिगॆ कॆल मक्कळिगंतू इदु तम्मिंद साध्यवे इल्ल ऎनिसिबिट्टितु. आदरॆ सीनसॆट्टर अपार ताळ्मॆ, उत्तेजनगळु अवरन्नु कॆलसक्कॆ हॊंदिसिबिट्टवु. “हाडु हेळ्क्यंडु कॆलस माडि. आग कष्टाने तिळियल्ल” ऎंदु उत्तेजिसिदरु. तक्षण ऎल्लरू, “चंद्रकांत सुरु माडो” ऎंदु कूगिकॊंडरु. अवन ध्वनिगॆ तम्म ध्वनिय अलॆ सेरिसिदरु.",
+        "latin": "muṃdina dinagaḻalli nāṭi. idu sasi kīḻuvudakkiṃtalū kaṣṭakaravāda kèlasa. aneka sasigaḻannu òṭṭigè hiḍidu òṃde salakkè beru nāṭuvaṃtè hèbbèṭṭiniṃda gaṭṭiyāgi òtti ūrabeku. mòdamòdaligè kèla makkaḻigaṃtū idu tammiṃda sādhyave illa ènisibiṭṭitu. ādarè sīnasèṭṭara apāra tāḻmè, uttejanagaḻu avarannu kèlasakkè hòṃdisibiṭṭavu. “hāḍu heḻkyaṃḍu kèlasa māḍi. āga kaṣṭāne tiḻiyalla” èṃdu uttejisidaru. takṣaṇa èllarū, “caṃdrakāṃta suru māḍo” èṃdu kūgikòṃḍaru. avana dhvanigè tamma dhvaniya alè serisidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n9",
+      "section": "story",
+      "text": "ಮಾರನೆಯ ದಿನ ಯಶೋದ ಹೊಸತನ್ನು ಹುಡುಕಿದ್ದಳು. ಇಬ್ಬರು ಆಡುವ ಆಟವನ್ನು ಎಲ್ಲರೂ ಭಾಗವಹಿಸುವಂತೆ ಪರಿವರ್ತಿಸಿದ್ದಳು. ‘ಕೈ ಎಲ್ಲಿಗ್ ಹೋತು?’ ಎಂದು ಒಬ್ಬ ಪ್ರಾರಂಭಿಸಿದರೆ ಪಕ್ಕದಲ್ಲಿರುವವಳು ‘ಸಂತೆಗೆ’ ಎನ್ನಬೇಕು. ಮತ್ತೆ ಅವಳ ಪಕ್ಕಕ್ಕೆ ನಿಂತವನು “ಸಂತೆಯಿಂದ ಏನ್ತಂದೆ” ಎಂದರೆ ಮುಂದಿನವಳು ‘ಬಾಳೆಹಣ್ಣು’ ಎನ್ನುವಳು. ಹೀಗೆ ಆಟ ಸಾಗುವುದು.",
+      "translations": {
+        "en": "The next day Yashoda had found something new. She turned a two-person game into one everyone joined. When one begins ‘Where did the hand go?’ the one beside should say ‘To the market.’ Then the next asks “What did you bring from the market” and the next says ‘banana.’ Thus the game goes on."
+      },
+      "transliterations": {
+        "devanagari": "मारनॆय दिन यशोद हॊसतन्नु हुडुकिद्दळु. इब्बरु आडुव आटवन्नु ऎल्लरू भागवहिसुवंतॆ परिवर्तिसिद्दळु. ‘कै ऎल्लिग् होतु?’ ऎंदु ऒब्ब प्रारंभिसिदरॆ पक्कदल्लिरुववळु ‘संतॆगॆ’ ऎन्नबेकु. मत्तॆ अवळ पक्कक्कॆ निंतवनु “संतॆयिंद एन्तंदॆ” ऎंदरॆ मुंदिनवळु ‘बाळॆहण्णु’ ऎन्नुवळु. हीगॆ आट सागुवुदु.",
+        "latin": "māranèya dina yaśoda hòsatannu huḍukiddaḻu. ibbaru āḍuva āṭavannu èllarū bhāgavahisuvaṃtè parivartisiddaḻu. ‘kai èllig hotu?’ èṃdu òbba prāraṃbhisidarè pakkadalliruvavaḻu ‘saṃtègè’ ènnabeku. mattè avaḻa pakkakkè niṃtavanu “saṃtèyiṃda entaṃdè” èṃdarè muṃdinavaḻu ‘bāḻèhaṇṇu’ ènnuvaḻu. hīgè āṭa sāguvudu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬಾಳೆಹಣ್ಣು ಏನ್ಮಾಡ್ದೆ?",
+      "translations": {
+        "en": "What did you do with the banana?"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆहण्णु एन्माड्दॆ?",
+        "latin": "bāḻèhaṇṇu enmāḍdè?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "story",
+      "stanza": 1,
+      "text": "ತಿಂದೆ",
+      "translations": {
+        "en": "Ate it"
+      },
+      "transliterations": {
+        "devanagari": "तिंदॆ",
+        "latin": "tiṃdè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಸಿಪ್ಪೆ ಏನ್ಮಾಡ್ದೆ?",
+      "translations": {
+        "en": "What did you do with the peel?"
+      },
+      "transliterations": {
+        "devanagari": "सिप्पॆ एन्माड्दॆ?",
+        "latin": "sippè enmāḍdè?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಕದದ ಮೂಲೆಗೆ ಹಾಕ್ದೆ",
+      "translations": {
+        "en": "Put it in the corner of the door"
+      },
+      "transliterations": {
+        "devanagari": "कदद मूलॆगॆ हाक्दॆ",
+        "latin": "kadada mūlègè hākdè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l5",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಕದದ ಮೂಲೆ ಏನ್ ಕೊಡ್ತು?",
+      "translations": {
+        "en": "What did the door-corner give?"
+      },
+      "transliterations": {
+        "devanagari": "कदद मूलॆ एन् कॊड्तु?",
+        "latin": "kadada mūlè en kòḍtu?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l6",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಚಕ್ಕೆ ಕೊಡ್ತು",
+      "translations": {
+        "en": "Gave bark/chips"
+      },
+      "transliterations": {
+        "devanagari": "चक्कॆ कॊड्तु",
+        "latin": "cakkè kòḍtu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l7",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಚಕ್ಕೆ ಏನ್ ಮಾಡ್ದೆ?",
+      "translations": {
+        "en": "What did you do with the chips?"
+      },
+      "transliterations": {
+        "devanagari": "चक्कॆ एन् माड्दॆ?",
+        "latin": "cakkè en māḍdè?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l8",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಒಲೆಗೆ ಹಾಕ್ದೆ",
+      "translations": {
+        "en": "Put them in the stove"
+      },
+      "transliterations": {
+        "devanagari": "ऒलॆगॆ हाक्दॆ",
+        "latin": "òlègè hākdè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l9",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಒಲೆ ಏನ್ ಕೊಡ್ತು?",
+      "translations": {
+        "en": "What did the stove give?"
+      },
+      "transliterations": {
+        "devanagari": "ऒलॆ एन् कॊड्तु?",
+        "latin": "òlè en kòḍtu?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l10",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬೂದಿ ಕೊಡ್ತು",
+      "translations": {
+        "en": "Gave ash"
+      },
+      "transliterations": {
+        "devanagari": "बूदि कॊड्तु",
+        "latin": "būdi kòḍtu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l11",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬೂದಿ ಏನ್ ಮಾಡ್ದೆ?",
+      "translations": {
+        "en": "What did you do with the ash?"
+      },
+      "transliterations": {
+        "devanagari": "बूदि एन् माड्दॆ?",
+        "latin": "būdi en māḍdè?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l12",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಗೊಬ್ಬರದ ಗುಂಡಿಗೆ ಹಾಕ್ದೆ",
+      "translations": {
+        "en": "Put it in the manure pit"
+      },
+      "transliterations": {
+        "devanagari": "गॊब्बरद गुंडिगॆ हाक्दॆ",
+        "latin": "gòbbarada guṃḍigè hākdè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l13",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಗೊಬ್ಬರದ ಗುಂಡಿ ಏನ್ ಕೊಡ್ತು?",
+      "translations": {
+        "en": "What did the manure pit give?"
+      },
+      "transliterations": {
+        "devanagari": "गॊब्बरद गुंडि एन् कॊड्तु?",
+        "latin": "gòbbarada guṃḍi en kòḍtu?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l14",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಗೊಬ್ರಕೊಡ್ತು",
+      "translations": {
+        "en": "Gave manure"
+      },
+      "transliterations": {
+        "devanagari": "गॊब्रकॊड्तु",
+        "latin": "gòbrakòḍtu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l15",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಗೊಬ್ರ ಏನ್ ಮಾಡ್ದೆ?",
+      "translations": {
+        "en": "What did you do with the manure?"
+      },
+      "transliterations": {
+        "devanagari": "गॊब्र एन् माड्दॆ?",
+        "latin": "gòbra en māḍdè?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l16",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬಾಳೆಗಿಡಕ್ಕೆ ಹಾಕ್ದೆ",
+      "translations": {
+        "en": "Put it on the banana plant"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆगिडक्कॆ हाक्दॆ",
+        "latin": "bāḻègiḍakkè hākdè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l17",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬಾಳೆಗಿಡ ಏನ್ ಕೊಡ್ತು?",
+      "translations": {
+        "en": "What did the banana plant give?"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆगिड एन् कॊड्तु?",
+        "latin": "bāḻègiḍa en kòḍtu?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l18",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬಾಳೆಹಣ್ಣುಕೊಡ್ತು",
+      "translations": {
+        "en": "Gave bananas"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆहण्णुकॊड्तु",
+        "latin": "bāḻèhaṇṇukòḍtu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l19",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಬಾಳೆಹಣ್ಣು ಏನ್ ಮಾಡ್ದೆ?",
+      "translations": {
+        "en": "What did you do with the banana?"
+      },
+      "transliterations": {
+        "devanagari": "बाळॆहण्णु एन् माड्दॆ?",
+        "latin": "bāḻèhaṇṇu en māḍdè?"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l20",
+      "section": "story",
+      "stanza": 1,
+      "text": "ಗುಳುಂಗುಳುಂ ತಿಂದೆ.",
+      "translations": {
+        "en": "Gulped it down."
+      },
+      "transliterations": {
+        "devanagari": "गुळुंगुळुं तिंदॆ.",
+        "latin": "guḻuṃguḻuṃ tiṃdè."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "story-n10",
+      "section": "story",
+      "text": "ಹೀಗೆ ಮತ್ತೆ ಇಡೀ ಪ್ರಶ್ನೆಯುತ್ತರದ ಚಕ್ರ ತಿರುಗುವುದು. ಯಶೋದಳ ಈ ಆಟದಿಂದ ಅಂದು ನಾಟಿ ಮುಗಿಯುವ ವೇಳೆಗೆ ಪ್ರತಿ ಮಕ್ಕಳೂ ನಾಲ್ಕು ಬಾಳೆಹಣ್ಣುಗಳನ್ನಾದರೂ ತಿಂದಿದ್ದರು. ನಾಟಿ ಮುಗಿಯುವವರೆಗೂ ಸೀನಸೆಟ್ರು ಮಕ್ಕಳ ಜೊತೆಗೆ ಇದ್ದು ಅಲ್ಲಿಂದ ಕಾಲಕಾಲಕ್ಕೆ ಅವರು ಗಮನಿಸಿಕೊಳ್ಳಬೇಕಾದ ವಿಷಯಗಳನ್ನೆಲ್ಲಾ ಹೇಳಿಕೊಟ್ಟರು.",
+      "translations": {
+        "en": "Thus the whole question-answer cycle turns again. From Yashoda’s this game, by the time transplanting ended that day each child had eaten at least four bananas. Until transplanting ended Seena Settaru stayed with the children and from time to time told them all they needed to watch."
+      },
+      "transliterations": {
+        "devanagari": "हीगॆ मत्तॆ इडी प्रश्नॆयुत्तरद चक्र तिरुगुवुदु. यशोदळ ई आटदिंद अंदु नाटि मुगियुव वेळॆगॆ प्रति मक्कळू नाल्कु बाळॆहण्णुगळन्नादरू तिंदिद्दरु. नाटि मुगियुववरॆगू सीनसॆट्रु मक्कळ जॊतॆगॆ इद्दु अल्लिंद कालकालक्कॆ अवरु गमनिसिकॊळ्ळबेकाद विषयगळन्नॆल्ला हेळिकॊट्टरु.",
+        "latin": "hīgè mattè iḍī praśnèyuttarada cakra tiruguvudu. yaśodaḻa ī āṭadiṃda aṃdu nāṭi mugiyuva veḻègè prati makkaḻū nālku bāḻèhaṇṇugaḻannādarū tiṃdiddaru. nāṭi mugiyuvavarègū sīnasèṭru makkaḻa jòtègè iddu alliṃda kālakālakkè avaru gamanisikòḻḻabekāda viṣayagaḻannèllā heḻikòṭṭaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n11",
+      "section": "story",
+      "text": "ನಾಟಿ ಮುಗಿದ ಮೇಲೆ ಇನ್ನು ಯಾವಾಗ ಹೊಡೆ ಹೊರಟಿತೋ, ಯಾವಾಗ ತೆನೆ ಬಂದಿತೋ ಎಂದು ಮಕ್ಕಳ ಚಡಪಡಿಕೆ. ತುಂಗಾಗಂತೂ ಪ್ರತಿದಿನ ಶಾಲೆಗೆ ಬಂದ ತಕ್ಷಣ ಗದ್ದೆಯನ್ನು ನೋಡುವವರೆಗೆ ಎಂತದೋ ಚಡಪಡಿಕೆ. ಅವಳೂ - ಕಿಟ್ಟನೂ ಸೇರಿ ಮನೆಯ ಅಟ್ಟದ ಮೇಲೆ ಹತ್ತಿ ಕಿಟಕಿ ಕಂಡಿಯಲ್ಲಿ ನೋಡಿದರೆ ಗದ್ದೆ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತದೆಂದು ಕಂಡುಕೊಂಡಿದ್ದರು. ಈ ರಹಸ್ಯ ಯಾರಿಗೂ ತಿಳಿಯಬಾರದೆಂದೂ ಗುಟ್ಟಾಗಿಡಲು ಪ್ರಯತ್ನಿಸಿದಷ್ಟೂ ಅದು ಬಯಲಾಗಿಬಿಟ್ಟು ಕೊನೆಗೆ ಅಟ್ಟ, ಗದ್ದೆ ವೀಕ್ಷಣೆಯ ಟವರ್ ಆಗಿ ಪರಿವರ್ತಿತಗೊಂಡಿತ್ತು.",
+      "translations": {
+        "en": "After transplanting, the children’s restlessness about when the ear would appear and when the grain-head would come. Tunga especially had some restlessness every day until she saw the field as soon as she came to school. She and Kitta had discovered that climbing to the attic and looking through the window slit the field looked very nice. The more they tried to keep this secret, the more it came out, and finally the attic became a tower for viewing the field."
+      },
+      "transliterations": {
+        "devanagari": "नाटि मुगिद मेलॆ इन्नु यावाग हॊडॆ हॊरटितो, यावाग तॆनॆ बंदितो ऎंदु मक्कळ चडपडिकॆ. तुंगागंतू प्रतिदिन शालॆगॆ बंद तक्षण गद्दॆयन्नु नोडुववरॆगॆ ऎंतदो चडपडिकॆ. अवळू - किट्टनू सेरि मनॆय अट्टद मेलॆ हत्ति किटकि कंडियल्लि नोडिदरॆ गद्दॆ तुंबा चॆन्नागि काणुत्तदॆंदु कंडुकॊंडिद्दरु. ई रहस्य यारिगू तिळियबारदॆंदू गुट्टागिडलु प्रयत्निसिदष्टू अदु बयलागिबिट्टु कॊनॆगॆ अट्ट, गद्दॆ वीक्षणॆय टवर् आगि परिवर्तितगॊंडित्तु.",
+        "latin": "nāṭi mugida melè innu yāvāga hòḍè hòraṭito, yāvāga tènè baṃdito èṃdu makkaḻa caḍapaḍikè. tuṃgāgaṃtū pratidina śālègè baṃda takṣaṇa gaddèyannu noḍuvavarègè èṃtado caḍapaḍikè. avaḻū - kiṭṭanū seri manèya aṭṭada melè hatti kiṭaki kaṃḍiyalli noḍidarè gaddè tuṃbā cènnāgi kāṇuttadèṃdu kaṃḍukòṃḍiddaru. ī rahasya yārigū tiḻiyabāradèṃdū guṭṭāgiḍalu prayatnisidaṣṭū adu bayalāgibiṭṭu kònègè aṭṭa, gaddè vīkṣaṇèya ṭavar āgi parivartitagòṃḍittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "competency",
+      "section": "competency",
+      "text": "ಕೌಶಲ: ಓದುವುದು. ಸಾಮರ್ಥ್ಯ: ವಿವಿಧ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿರುವ ಧ್ವನಿಸಾಮ್ಯತೆ, ಧ್ವನಿವ್ಯತ್ಯಾಸಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡು ಓದುವುದು. ಆಶಯ: ನಮ್ಮ ಜೀವನದ ಪ್ರತಿ ಹಂತದಲ್ಲೂ ನಾವು ಕಲಿಯುತ್ತಿರುತ್ತೇವೆ. ನಮ್ಮ ವ್ಯಕ್ತಿತ್ವದ ಬೆಳವಣಿಗೆ ಕೇವಲ ಶಾಲೆಯಿಂದಲ್ಲ; ಮನೆ, ಇತರರ ಒಡನಾಟ, ಪರಿಸರ, ಮಾಧ್ಯಮಗಳಿಂದ ಜೀವನದ ಪಾಠವನ್ನು ಕಲಿಯುತ್ತ ಬೆಳೆಯುತ್ತೇವೆ. ಶಾಲೆಯಲ್ಲಿ ಗುರುಗಳಿದ್ದಂತೆ ಶಾಲೆಯ ಹೊರಗೂ ಹಲವು ಗುರುಗಳು ನಮಗಿರುತ್ತಾರೆ. ಅವರೆಲ್ಲರ ಕೊಡುಗೆಯಿಂದ ಬೋಧನೆಯಿಂದ ನಾವೆಲ್ಲ ಬೆಳೆಯುತ್ತಾ ಹೋಗುತ್ತೇವೆ. ಈ ವಿಚಾರ ಮನದಲ್ಲಿ ಮೂಡಿದಾಗ ಲೋಕವೇ ನಮ್ಮ ಗುರು ಎಂಬ ಭಾವನೆ ಮೂಡುತ್ತದೆ.",
+      "translations": {
+        "en": "Skill: reading. Ability: reading while understanding sound similarities and differences in pronunciation of various words. Intent: At every stage of life we keep learning. Our personality does not grow only from school; from home, company of others, environment and media we learn life’s lessons and grow. Just as there are teachers in school, outside school too we have many teachers. From all their gifts and teaching we keep growing. When this thought arises, the feeling that the world itself is our teacher arises.",
+        "hi": "कौशल: पढ़ना। सामर्थ्य: विभिन्न शब्दों के उच्चारण में ध्वनि-साम्य और भेद समझकर पढ़ना। आशय: जीवन के प्रत्येक चरण में हम सीखते रहते हैं। व्यक्तित्व का विकास केवल स्कूल से नहीं; घर, संगति, परिवेश और माध्यमों से जीवन के पाठ सीखते हुए हम बढ़ते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "कौशल: ओदुवुदु. सामर्थ्य: विविध पदगळ उच्चारणॆयल्लिरुव ध्वनिसाम्यतॆ, ध्वनिव्यत्यासगळन्नु अर्थमाडिकॊंडु ओदुवुदु. आशय: नम्म जीवनद प्रति हंतदल्लू नावु कलियुत्तिरुत्तेवॆ. नम्म व्यक्तित्वद बॆळवणिगॆ केवल शालॆयिंदल्ल; मनॆ, इतरर ऒडनाट, परिसर, माध्यमगळिंद जीवनद पाठवन्नु कलियुत्त बॆळॆयुत्तेवॆ. शालॆयल्लि गुरुगळिद्दंतॆ शालॆय हॊरगू हलवु गुरुगळु नमगिरुत्तारॆ. अवरॆल्लर कॊडुगॆयिंद बोधनॆयिंद नावॆल्ल बॆळॆयुत्ता होगुत्तेवॆ. ई विचार मनदल्लि मूडिदाग लोकवे नम्म गुरु ऎंब भावनॆ मूडुत्तदॆ.",
+        "latin": "kauśala: oduvudu. sāmarthya: vividha padagaḻa uccāraṇèyalliruva dhvanisāmyatè, dhvanivyatyāsagaḻannu arthamāḍikòṃḍu oduvudu. āśaya: namma jīvanada prati haṃtadallū nāvu kaliyuttiruttevè. namma vyaktitvada bèḻavaṇigè kevala śālèyiṃdalla; manè, itarara òḍanāṭa, parisara, mādhyamagaḻiṃda jīvanada pāṭhavannu kaliyutta bèḻèyuttevè. śālèyalli gurugaḻiddaṃtè śālèya hòragū halavu gurugaḻu namagiruttārè. avarèllara kòḍugèyiṃda bodhanèyiṃda nāvèlla bèḻèyuttā hoguttevè. ī vicāra manadalli mūḍidāga lokave namma guru èṃba bhāvanè mūḍuttadè."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಶ್ರೀಮತಿ ವಿ. ಗಾಯತ್ರಿ ಲೇಖಕಿ, ಅನುವಾದಕಿ, ಶಿಕ್ಷಣ ಇಲಾಖೆಯ ‘ಮಹಿಳಾ ಸಮಖ್ಯ’ ಮತ್ತು ನೀರಾವರಿ ಇಲಾಖೆಯ ‘ಜಲ ಸಂವರ್ಧನೆ ಯೋಜನೆ’ಗಳಲ್ಲಿ ಹಿರಿಯ ಅಧಿಕಾರಿಯಾಗಿ ಅನೇಕ ವರ್ಷಗಳವರೆಗೆ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಇವರ ಪ್ರಮುಖ ಪ್ರಕಟಿತ ಕೃತಿಗಳು, ‘ತುಂಗಾ’-ಮಕ್ಕಳ ಸೃಜನಶೀಲ ಕಲಿಕೆಯ ಸುತ್ತ ಹೆಣೆದ ಕಾದಂಬರಿ; ‘ತೊತ್ತೋಚಾನ್’ ವಿಶ್ವವಿಖ್ಯಾತ ಜಪಾನಿ ಕಾದಂಬರಿಯ ಕನ್ನಡ ಅನುವಾದ. ‘ಕರ್ನಾಟಕದಲ್ಲಿ ಸಾವಯವ ಪರಂಪರೆಯ ಕಥನ ಭಾಗ 1 ಮತ್ತು 2’, ‘ಸಹಜ/ಸಾವಯವ ರೈತರ ಕೃಷಿ ಮತ್ತು ಬದುಕುಗಳು’, ಕೇಂದ್ರ ಪರಿಸರ ಮಂತ್ರಾಲಯದ ಪರಿಸರ ಶಿಕ್ಷಣ ಕೇಂದ್ರಕ್ಕಾಗಿ ‘ಪರಿಸರ ಶಿಕ್ಷಣದಲ್ಲಿ ಅಗತ್ಯ ಕಲಿಕೆಗಳು’, ‘ಎಳೆಯರಿಗಾಗಿ ಪರಿಸರ’ ಮುಂತಾದ ಮಹತ್ವದ ಕೃತಿಗಳ ಅನುವಾದ ಮತ್ತು ಸಂಪಾದನೆ. ಇವು ಶಾಲಾ ಶಿಕ್ಷಕರರಿಗೆ ಓದುವ ಸಾಮಗ್ರಿಗಳಾಗಿವೆ. ಮೇಲಿನ ಪಾಠವನ್ನು ಅವರ ‘ತುಂಗಾ’ ಕೃತಿಯಿಂದ ಆರಿಸಲಾಗಿದೆ.",
+      "translations": {
+        "en": "Smt V. Gayatri, writer and translator, served for many years as a senior officer in the Education Department’s ‘Mahila Samakhya’ and the Irrigation Department’s ‘Jala Samvardhana Yojane’. Her major published works include ‘Tunga’—a novel woven around children’s creative learning; Kannada translation of the world-famous Japanese novel ‘Totto-chan’. Also translation and editing of important works such as ‘Karnatakadalli Savayava Paramparaya Kathana Parts 1 and 2’, ‘Sahaja/Savayava Raitara Krishi mattu Badukugalu’, ‘Parisara Shikshanadalli Agatya Kalikegalu’ for the central environment ministry’s environmental education centre, and ‘Eleyarigagi Parisara’. These are reading materials for school teachers. The present lesson is selected from her work ‘Tunga’.",
+        "hi": "श्रीमती वी. गायत्री लेखिका और अनुवादिका हैं। प्रस्तुत पाठ उनकी कृति ‘तुंगा’ से चुना गया है।"
+      },
+      "transliterations": {
+        "devanagari": "श्रीमति वि. गायत्रि लेखकि, अनुवादकि, शिक्षण इलाखॆय ‘महिळा समख्य’ मत्तु नीरावरि इलाखॆय ‘जल संवर्धनॆ योजनॆ’गळल्लि हिरिय अधिकारियागि अनेक वर्षगळवरॆगॆ सेवॆ सल्लिसिद्दारॆ. इवर प्रमुख प्रकटित कृतिगळु, ‘तुंगा’-मक्कळ सृजनशील कलिकॆय सुत्त हॆणॆद कादंबरि; ‘तॊत्तोचान्’ विश्वविख्यात जपानि कादंबरिय कन्नड अनुवाद. ‘कर्नाटकदल्लि सावयव परंपरॆय कथन भाग 1 मत्तु 2’, ‘सहज/सावयव रैतर कृषि मत्तु बदुकुगळु’, केंद्र परिसर मंत्रालयद परिसर शिक्षण केंद्रक्कागि ‘परिसर शिक्षणदल्लि अगत्य कलिकॆगळु’, ‘ऎळॆयरिगागि परिसर’ मुंताद महत्वद कृतिगळ अनुवाद मत्तु संपादनॆ. इवु शाला शिक्षकररिगॆ ओदुव सामग्रिगळागिवॆ. मेलिन पाठवन्नु अवर ‘तुंगा’ कृतियिंद आरिसलागिदॆ.",
+        "latin": "śrīmati vi. gāyatri lekhaki, anuvādaki, śikṣaṇa ilākhèya ‘mahiḻā samakhya’ mattu nīrāvari ilākhèya ‘jala saṃvardhanè yojanè’gaḻalli hiriya adhikāriyāgi aneka varṣagaḻavarègè sevè sallisiddārè. ivara pramukha prakaṭita kṛtigaḻu, ‘tuṃgā’-makkaḻa sṛjanaśīla kalikèya sutta hèṇèda kādaṃbari; ‘tòttocān’ viśvavikhyāta japāni kādaṃbariya kannaḍa anuvāda. ‘karnāṭakadalli sāvayava paraṃparèya kathana bhāga 1 mattu 2’, ‘sahaja/sāvayava raitara kṛṣi mattu badukugaḻu’, keṃdra parisara maṃtrālayada parisara śikṣaṇa keṃdrakkāgi ‘parisara śikṣaṇadalli agatya kalikègaḻu’, ‘èḻèyarigāgi parisara’ muṃtāda mahatvada kṛtigaḻa anuvāda mattu saṃpādanè. ivu śālā śikṣakararigè oduva sāmagrigaḻāgivè. melina pāṭhavannu avara ‘tuṃgā’ kṛtiyiṃda ārisalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-tivra",
+      "section": "vocab",
+      "text": "ತೀವ್ರ",
+      "translations": {
+        "en": "ತೀವ್ರ",
+        "hi": "ತೀವ್ರ"
+      },
+      "transliterations": {
+        "devanagari": "तीव्र",
+        "latin": "tīvra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tivra-def",
+      "section": "vocab",
+      "text": "ಹೆಚ್ಚು",
+      "translations": {
+        "en": "more, intense",
+        "hi": "अधिक"
+      },
+      "transliterations": {
+        "devanagari": "हॆच्चु",
+        "latin": "hèccu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-lappate",
+      "section": "vocab",
+      "text": "ಲಪ್ಪಟೆ",
+      "translations": {
+        "en": "ಲಪ್ಪಟೆ",
+        "hi": "ಲಪ್ಪಟೆ"
+      },
+      "transliterations": {
+        "devanagari": "लप्पटॆ",
+        "latin": "lappaṭè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-lappate-def",
+      "section": "vocab",
+      "text": "ತಲೆಗೆ ಸುತ್ತಿದ ಬಟ್ಟೆ",
+      "translations": {
+        "en": "cloth wrapped on the head",
+        "hi": "सिर पर लपेटा कपड़ा"
+      },
+      "transliterations": {
+        "devanagari": "तलॆगॆ सुत्तिद बट्टॆ",
+        "latin": "talègè suttida baṭṭè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pakkagu",
+      "section": "vocab",
+      "text": "ಪಕ್ಕಾಗು",
+      "translations": {
+        "en": "ಪಕ್ಕಾಗು",
+        "hi": "ಪಕ್ಕಾಗು"
+      },
+      "transliterations": {
+        "devanagari": "पक्कागु",
+        "latin": "pakkāgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pakkagu-def",
+      "section": "vocab",
+      "text": "ಒಳಗಾಗು",
+      "translations": {
+        "en": "to be subject to"
+      },
+      "transliterations": {
+        "devanagari": "ऒळगागु",
+        "latin": "òḻagāgu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-enta-maga",
+      "section": "vocab",
+      "text": "ಎಂತಾ ಮಗ",
+      "translations": {
+        "en": "ಎಂತಾ ಮಗ",
+        "hi": "ಎಂತಾ ಮಗ"
+      },
+      "transliterations": {
+        "devanagari": "ऎंता मग",
+        "latin": "èṃtā maga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-enta-maga-def",
+      "section": "vocab",
+      "text": "ಏನು ಮಗು",
+      "translations": {
+        "en": "what, child"
+      },
+      "transliterations": {
+        "devanagari": "एनु मगु",
+        "latin": "enu magu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chanda",
+      "section": "vocab",
+      "text": "ಚಂದ",
+      "translations": {
+        "en": "ಚಂದ",
+        "hi": "ಚಂದ"
+      },
+      "transliterations": {
+        "devanagari": "चंद",
+        "latin": "caṃda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chanda-def",
+      "section": "vocab",
+      "text": "ಚೆನ್ನಾಗಿ",
+      "translations": {
+        "en": "well, nicely"
+      },
+      "transliterations": {
+        "devanagari": "चॆन्नागि",
+        "latin": "cènnāgi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-padaposhi",
+      "section": "vocab",
+      "text": "ಪಡಪೋಶಿ",
+      "translations": {
+        "en": "ಪಡಪೋಶಿ",
+        "hi": "ಪಡಪೋಶಿ"
+      },
+      "transliterations": {
+        "devanagari": "पडपोशि",
+        "latin": "paḍapośi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-padaposhi-def",
+      "section": "vocab",
+      "text": "ಕೆಲಸಕ್ಕೆ ಬಾರದ",
+      "translations": {
+        "en": "useless for work"
+      },
+      "transliterations": {
+        "devanagari": "कॆलसक्कॆ बारद",
+        "latin": "kèlasakkè bārada"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-karsidare",
+      "section": "vocab",
+      "text": "ಕರ್ಸಿದಾರೆ",
+      "translations": {
+        "en": "ಕರ್ಸಿದಾರೆ",
+        "hi": "ಕರ್ಸಿದಾರೆ"
+      },
+      "transliterations": {
+        "devanagari": "कर्सिदारॆ",
+        "latin": "karsidārè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-karsidare-def",
+      "section": "vocab",
+      "text": "ಕರೆಸಿದ್ದಾರೆ",
+      "translations": {
+        "en": "have called"
+      },
+      "transliterations": {
+        "devanagari": "करॆसिद्दारॆ",
+        "latin": "karèsiddārè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-talahadi",
+      "section": "vocab",
+      "text": "ತಳಹದಿ",
+      "translations": {
+        "en": "ತಳಹದಿ",
+        "hi": "ತಳಹದಿ"
+      },
+      "transliterations": {
+        "devanagari": "तळहदि",
+        "latin": "taḻahadi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-talahadi-def",
+      "section": "vocab",
+      "text": "ಬುನಾದಿ",
+      "translations": {
+        "en": "foundation"
+      },
+      "transliterations": {
+        "devanagari": "बुनादि",
+        "latin": "bunādi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-samvadisu",
+      "section": "vocab",
+      "text": "ಸಂವಾದಿಸು",
+      "translations": {
+        "en": "ಸಂವಾದಿಸು",
+        "hi": "ಸಂವಾದಿಸು"
+      },
+      "transliterations": {
+        "devanagari": "संवादिसु",
+        "latin": "saṃvādisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-samvadisu-def",
+      "section": "vocab",
+      "text": "ಮಾತನಾಡು, ಚರ್ಚೆಮಾಡು",
+      "translations": {
+        "en": "to converse, discuss"
+      },
+      "transliterations": {
+        "devanagari": "मातनाडु, चर्चॆमाडु",
+        "latin": "mātanāḍu, carcèmāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kambaligoppe",
+      "section": "vocab",
+      "text": "ಕಂಬಳಿಗೊಪ್ಪೆ",
+      "translations": {
+        "en": "ಕಂಬಳಿಗೊಪ್ಪೆ",
+        "hi": "ಕಂಬಳಿಗೊಪ್ಪೆ"
+      },
+      "transliterations": {
+        "devanagari": "कंबळिगॊप्पॆ",
+        "latin": "kaṃbaḻigòppè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kambaligoppe-def",
+      "section": "vocab",
+      "text": "ಮಳೆಯಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಕಂಬಳಿಯಿಂದ ಮಾಡಿದ ಮುಸುಕು",
+      "translations": {
+        "en": "a hood made of blanket to protect from rain"
+      },
+      "transliterations": {
+        "devanagari": "मळॆयिंद रक्षिसिकॊळ्ळलु कंबळियिंद माडिद मुसुकु",
+        "latin": "maḻèyiṃda rakṣisikòḻḻalu kaṃbaḻiyiṃda māḍida musuku"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-teravu",
+      "section": "vocab",
+      "text": "ತೆರವು",
+      "translations": {
+        "en": "ತೆರವು",
+        "hi": "ತೆರವು"
+      },
+      "transliterations": {
+        "devanagari": "तॆरवु",
+        "latin": "tèravu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-teravu-def",
+      "section": "vocab",
+      "text": "ಖಾಲಿ",
+      "translations": {
+        "en": "empty"
+      },
+      "transliterations": {
+        "devanagari": "खालि",
+        "latin": "khāli"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nati",
+      "section": "vocab",
+      "text": "ನಾಟಿ",
+      "translations": {
+        "en": "ನಾಟಿ",
+        "hi": "ನಾಟಿ"
+      },
+      "transliterations": {
+        "devanagari": "नाटि",
+        "latin": "nāṭi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nati-def",
+      "section": "vocab",
+      "text": "ಪೈರಿನ ಸಸಿಗಳನ್ನು ನೆಡುವುದು",
+      "translations": {
+        "en": "planting paddy seedlings",
+        "hi": "धान के पौधों का रोपण"
+      },
+      "transliterations": {
+        "devanagari": "पैरिन ससिगळन्नु नॆडुवुदु",
+        "latin": "pairina sasigaḻannu nèḍuvudu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-niravu",
+      "section": "vocab",
+      "text": "ನೀರಾವು",
+      "translations": {
+        "en": "ನೀರಾವು",
+        "hi": "ನೀರಾವು"
+      },
+      "transliterations": {
+        "devanagari": "नीरावु",
+        "latin": "nīrāvu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-niravu-def",
+      "section": "vocab",
+      "text": "ನೀರಿನಲ್ಲಿ ಬದುಕುವ ಹಾವು",
+      "translations": {
+        "en": "a snake that lives in water",
+        "hi": "पानी में रहने वाला साँप"
+      },
+      "transliterations": {
+        "devanagari": "नीरिनल्लि बदुकुव हावु",
+        "latin": "nīrinalli badukuva hāvu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hotu",
+      "section": "vocab",
+      "text": "ಹೋತು",
+      "translations": {
+        "en": "ಹೋತು",
+        "hi": "ಹೋತು"
+      },
+      "transliterations": {
+        "devanagari": "होतु",
+        "latin": "hotu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hotu-def",
+      "section": "vocab",
+      "text": "ಹೋಯಿತು",
+      "translations": {
+        "en": "went"
+      },
+      "transliterations": {
+        "devanagari": "होयितु",
+        "latin": "hoyitu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kada",
+      "section": "vocab",
+      "text": "ಕದ",
+      "translations": {
+        "en": "ಕದ",
+        "hi": "ಕದ"
+      },
+      "transliterations": {
+        "devanagari": "कद",
+        "latin": "kada"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kada-def",
+      "section": "vocab",
+      "text": "ಬಾಗಿಲು",
+      "translations": {
+        "en": "door"
+      },
+      "transliterations": {
+        "devanagari": "बागिलु",
+        "latin": "bāgilu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hode",
+      "section": "vocab",
+      "text": "ಹೊಡೆ",
+      "translations": {
+        "en": "ಹೊಡೆ",
+        "hi": "ಹೊಡೆ"
+      },
+      "transliterations": {
+        "devanagari": "हॊडॆ",
+        "latin": "hòḍè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hode-def",
+      "section": "vocab",
+      "text": "ಕಾಳು ತುಂಬುವ ಮುನ್ನ ಕಾಣುವ ಪೈರಿನ ತುದಿ",
+      "translations": {
+        "en": "the tip of the crop seen before grain fills"
+      },
+      "transliterations": {
+        "devanagari": "काळु तुंबुव मुन्न काणुव पैरिन तुदि",
+        "latin": "kāḻu tuṃbuva munna kāṇuva pairina tudi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tene",
+      "section": "vocab",
+      "text": "ತೆನೆ",
+      "translations": {
+        "en": "ತೆನೆ",
+        "hi": "ತೆನೆ"
+      },
+      "transliterations": {
+        "devanagari": "तॆनॆ",
+        "latin": "tènè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tene-def",
+      "section": "vocab",
+      "text": "ಕಾಳು ತುಂಬಿದ ಪೈರಿನ ತುದಿ",
+      "translations": {
+        "en": "the tip of the crop filled with grain",
+        "hi": "अनाज भरा फसल का सिरा"
+      },
+      "transliterations": {
+        "devanagari": "काळु तुंबिद पैरिन तुदि",
+        "latin": "kāḻu tuṃbida pairina tudi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಮಾಂಡವಿ ಟೀಚರ್ ಯಾರನ್ನು ಪರಿಚಯಿಸಿದರು?",
+      "translations": {
+        "en": "Whom did Mandavi teacher introduce?",
+        "hi": "मांडवी टीचर ने किसे परिचय दिया?"
+      },
+      "transliterations": {
+        "devanagari": "मांडवि टीचर् यारन्नु परिचयिसिदरु?",
+        "latin": "māṃḍavi ṭīcar yārannu paricayisidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಸೀನಸೆಟ್ಟರು ಜಮೀನಿನಲ್ಲಿ ಏನನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "What did Seena Settaru grow on the land?",
+        "hi": "सीन सेट्टरु ज़मीन में क्या उगाते थे?"
+      },
+      "transliterations": {
+        "devanagari": "सीनसॆट्टरु जमीनिनल्लि एनन्नु बॆळॆयुत्तिद्दरु?",
+        "latin": "sīnasèṭṭaru jamīninalli enannu bèḻèyuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಮಕ್ಕಳು ಏನು ಹಾಕಿಕೊಂಡು ಗದ್ದೆಗೆ ಇಳಿದರು?",
+      "translations": {
+        "en": "What did the children wear when they entered the field?",
+        "hi": "बच्चे क्या पहनकर खेत में उतरे?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु एनु हाकिकॊंडु गद्दॆगॆ इळिदरु?",
+        "latin": "makkaḻu enu hākikòṃḍu gaddègè iḻidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಹಾಲಪ್ಪನ ಕಾಲನ್ನು ಏನು ಕಚ್ಚಿತು?",
+      "translations": {
+        "en": "What bit Halappa’s foot?",
+        "hi": "हालप्प के पैर को क्या काटा?"
+      },
+      "transliterations": {
+        "devanagari": "हालप्पन कालन्नु एनु कच्चितु?",
+        "latin": "hālappana kālannu enu kaccitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಮನೆಯ ಅಟ್ಟ ಮಕ್ಕಳಿಗೆ ಯಾವ ಟವರ್ ಆಗಿ ಪರಿವರ್ತಿತಗೊಂಡಿತ್ತು?",
+      "translations": {
+        "en": "Into what kind of tower did the house attic turn for the children?",
+        "hi": "घर की अटारी बच्चों के लिए किस टॉवर में बदल गई?"
+      },
+      "transliterations": {
+        "devanagari": "मनॆय अट्ट मक्कळिगॆ याव टवर् आगि परिवर्तितगॊंडित्तु?",
+        "latin": "manèya aṭṭa makkaḻigè yāva ṭavar āgi parivartitagòṃḍittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಸೀನಸೆಟ್ಟರ ವೇಷ ಹೇಗಿತ್ತು?",
+      "translations": {
+        "en": "How was Seena Settaru’s dress?",
+        "hi": "सीन सेट्टरु का वेष कैसा था?"
+      },
+      "transliterations": {
+        "devanagari": "सीनसॆट्टर वेष हेगित्तु?",
+        "latin": "sīnasèṭṭara veṣa hegittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಮಕ್ಕಳು ಸಸಿ ಕಿತ್ತ ಬಗೆ ಹೇಗಿತ್ತು?",
+      "translations": {
+        "en": "How did the children pull seedlings?",
+        "hi": "बच्चों ने पौधे कैसे उखाड़े?"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु ससि कित्त बगॆ हेगित्तु?",
+        "latin": "makkaḻu sasi kitta bagè hegittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಹಾಲಪ್ಪನಿಗೆ ಹಾವು ಕಚ್ಚಿದಾಗ ಸೀನಸೆಟ್ಟರು ಏನು ಹೇಳಿದರು?",
+      "translations": {
+        "en": "When the snake bit Halappa, what did Seena Settaru say?",
+        "hi": "हालप्प को साँप काटने पर सीन सेट्टरु ने क्या कहा?"
+      },
+      "transliterations": {
+        "devanagari": "हालप्पनिगॆ हावु कच्चिदाग सीनसॆट्टरु एनु हेळिदरु?",
+        "latin": "hālappanigè hāvu kaccidāga sīnasèṭṭaru enu heḻidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "‘ಹಂಗಾರೆ ಸೀನಸೆಟ್ರು ನಮ್ಮ ಟೀಚರು’",
+      "translations": {
+        "en": "'So Seena Setru is our teacher'",
+        "hi": "‘तो सीन सेट्टरु हमारे टीचर’"
+      },
+      "transliterations": {
+        "devanagari": "‘हंगारॆ सीनसॆट्रु नम्म टीचरु’",
+        "latin": "‘haṃgārè sīnasèṭru namma ṭīcaru’"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "‘ಮುಂಚೆ ಸಸಿಗಳನ್ನು ಕೀಳಾಣ’",
+      "translations": {
+        "en": "'First we will pull seedlings'",
+        "hi": "‘पहले पौधे उखाड़ेंगे’"
+      },
+      "transliterations": {
+        "devanagari": "‘मुंचॆ ससिगळन्नु कीळाण’",
+        "latin": "‘muṃcè sasigaḻannu kīḻāṇa’"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "‘ಇವತ್ತು ಪೂರಾ ಕಿತ್ತೇ ಹೋಗಾಣ’",
+      "translations": {
+        "en": "'Let’s pull everything today'",
+        "hi": "‘आज पूरा उखाड़ लें’"
+      },
+      "transliterations": {
+        "devanagari": "‘इवत्तु पूरा कित्ते होगाण’",
+        "latin": "‘ivattu pūrā kitte hogāṇa’"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "section": "exercise-C",
+      "text": "‘ಕೈ ಎಲ್ಲಿಗ್ ಹೋತು’",
+      "translations": {
+        "en": "'Where did the hand go'",
+        "hi": "‘हाथ कहाँ गया’"
+      },
+      "transliterations": {
+        "devanagari": "‘कै ऎल्लिग् होतु’",
+        "latin": "‘kai èllig hotu’"
+      },
+      "type": "question"
+    }
+  ]
+}

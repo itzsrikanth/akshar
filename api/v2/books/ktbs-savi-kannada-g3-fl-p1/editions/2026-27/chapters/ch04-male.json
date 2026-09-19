@@ -1,0 +1,1513 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g3-fl-p1",
+    "chapterId": "ch04-male",
+    "editionId": "2026-27",
+    "number": 12
+  },
+  "labels": {
+    "competency": {
+      "devanagari": "जाण मरि — सामर्थ्य",
+      "en": "Clever Child — Skill",
+      "hi": "चतुर बच्चा — सामर्थ्य",
+      "kn": "ಜಾಣ ಮರಿ — ಸಾಮರ್ಥ್ಯ",
+      "latin": "Jaana Mari — Saamarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ऒंदॊंदु वाक्यदल्लि उत्तर बरॆयिरि.",
+      "en": "Exercise A — Write each answer in one sentence.",
+      "hi": "अभ्यास अ — प्रत्येक उत्तर एक वाक्य में लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa A — Ondondu vaakyadalli uttara bareyiri."
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — कॊट्टिरुव पदगळल्लि सरियादुदन्नु आय्दु बिट्ट स्थळदल्लि बरॆयिरि.",
+      "en": "Exercise B — Choose the correct word and fill in the blanks.",
+      "hi": "अभ्यास आ — सही शब्द चुनकर रिक्त स्थान भरिए।",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆಯ್ದು ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa Aa — Kottiruva padagalalli sariyaadudannu aaydu bitti sthaladalli bareyiri."
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ — पद्यदल्लि बिट्टिरुव सालुगळन्नु बरॆयिरि.",
+      "en": "Exercise C — Write the missing lines from the poem.",
+      "hi": "अभ्यास इ — कविता की छूटी पंक्तियाँ लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಇ — ಪದ್ಯದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಸಾಲುಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa I — Padyadalli bittiruva saalugalannu bareyiri."
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई — गुंपिगॆ सेरद पद गुरुतिसि बरॆयिरि.",
+      "en": "Exercise D — Identify and write the word that does not belong in the group.",
+      "hi": "अभ्यास ई — समूह में न आने वाला शब्द पहचानकर लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಈ — ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಗುರುತಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa Ee — Gumpige serada pada gurutisi bareyiri."
+    },
+    "exercise-E": {
+      "devanagari": "अभ्यास उ — कॊट्टिरुव पदगळिगॆ समानार्थक पदगळन्नु बरॆयिरि.",
+      "en": "Exercise E — Write synonyms for the given words.",
+      "hi": "अभ्यास उ — दिए शब्दों के समानार्थी लिखिए।",
+      "kn": "ಅಭ್ಯಾಸ ಉ — ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa U — Kottiruva padagalige samaanaarthaka padagalannu bareyiri."
+    },
+    "exercise-F": {
+      "devanagari": "भाषा चटुवटिकॆ अ — अक्षर बळसि पद रचिसु, तिरुगिसि ओदि आनंदिसि.",
+      "en": "Language Activity A — Form words from letters; reverse and read for fun.",
+      "hi": "भाषा गतिविधि अ — अक्षरों से शब्द बनाओ, उलटा पढ़कर आनंद लो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಅಕ್ಷರ ಬಳಸಿ ಪದ ರಚಿಸು, ತಿರುಗಿಸಿ ಓದಿ ಆನಂದಿಸಿ.",
+      "latin": "Bhaashaa Chatuvatike A — Akshara balasi pada rachisu, tirugisi oodi aanandisi."
+    },
+    "exercise-G": {
+      "devanagari": "भाषा चटुवटिकॆ आ — सूचनॆगळन्नु अर्थैसिकॊंडु पदबंध पूर्णगॊळिसि.",
+      "en": "Language Activity B — Interpret the clues and complete the crossword.",
+      "hi": "भाषा गतिविधि आ — संकेत समझकर शब्दबंध पूरा करो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಸೂಚನೆಗಳನ್ನು ಅರ್ಥೈಸಿಕೊಂಡು ಪದಬಂಧ ಪೂರ್ಣಗೊಳಿಸಿ.",
+      "latin": "Bhaashaa Chatuvatike Aa — Soochanegalannu arthaishikondu padabandha poornagolisi."
+    },
+    "exercise-H": {
+      "devanagari": "भाषा चटुवटिकॆ इ — मादरियंतॆ प्रास पदगळन्नु बरॆयिरि.",
+      "en": "Language Activity C — Write rhyming words as in the model.",
+      "hi": "भाषा गतिविधि इ — उदाहरण की तरह तुक वाले शब्द लिखो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ — ಮಾದರಿಯಂತೆ ಪ್ರಾಸ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "Bhaashaa Chatuvatike I — Maadariyante praasa padagalannu bareyiri."
+    },
+    "exercise-I": {
+      "devanagari": "भाषा चटुवटिकॆ ई — मादरियंतॆ जोडुनुडिगळन्नु बरॆयिरि.",
+      "en": "Language Activity D — Write paired words as in the model.",
+      "hi": "भाषा गतिविधि ई — उदाहरण की तरह जोड़ी शब्द लिखो।",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಈ — ಮಾದರಿಯಂತೆ ಜೋಡುನುಡಿಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "latin": "Bhaashaa Chatuvatike Ee — Maadariyante joodunudigalannu bareyiri."
+    },
+    "exercise-J": {
+      "devanagari": "बळकॆ चटुवटिकॆ अ",
+      "en": "Practical Activity A",
+      "hi": "प्रयोग गतिविधि अ",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Balake Chatuvatike A"
+    },
+    "exercise-K": {
+      "devanagari": "बळकॆ चटुवटिकॆ आ — योचिसि बरॆयिरि.",
+      "en": "Practical Activity B — Think and write.",
+      "hi": "प्रयोग गतिविधि आ — सोचकर लिखो।",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ — ಯೋಚಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "Balake Chatuvatike Aa — Yochisi bareyiri."
+    },
+    "intro": {
+      "devanagari": "कलिकॆगॆ दारि",
+      "en": "Getting Ready to Learn",
+      "hi": "सीखने की तैयारी",
+      "kn": "ಕಲಿಕೆಗೆ ದಾರಿ",
+      "latin": "Kalikege Daari"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "Padya"
+    },
+    "title": {
+      "devanagari": "मळॆ",
+      "en": "Rain",
+      "hi": "वर्षा",
+      "kn": "ಮಳೆ",
+      "latin": "Male"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word Meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala Artha"
+    }
+  },
+  "meta": {
+    "author": "ಪಳಕಳ ಸೀತಾರಾಮ ಭಟ್ಟ",
+    "board": "KSEEB",
+    "chapter": 4,
+    "grade": 4,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "Karnataka Textbook Society",
+    "slug": "ch04-male",
+    "source_url": "https://diksha.gov.in/dial/B5V6X7",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಮಳೆ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕಾಮನಬಿಲ್ಲು ಎಲ್ಲಿ? ಯಾವಾಗ? ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ಎಂದು ಶಿಕ್ಷಕರ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ತರಗತಿಯಲ್ಲಿ ಚರ್ಚಿಸಿ.",
+      "translations": {
+        "en": "Where is the rainbow? When? Discuss in class under the teacher’s guidance how it appears.",
+        "hi": "इंद्रधनुष कहाँ? कब? कैसे दिखाई देता है — शिक्षक के मार्गदर्शन में कक्षा में चर्चा करो।"
+      },
+      "transliterations": {
+        "devanagari": "कामनबिल्लु ऎल्लि? यावाग? हेगॆ काणिसुत्तदॆ ऎंदु शिक्षकर मार्गदर्शनदल्लि तरगतियल्लि चर्चिसि.",
+        "latin": "Kaamanabillu elli? yaavaaga? hege kaanisuttade endu shikshakara maargadarshanadalli taragatiyalli charchisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬಿಸಿಲ ಝಳಕೆ ಕಡಲ ನೀರು",
+      "translations": {
+        "en": "Sea water in the heat of the sun",
+        "hi": "धूप की तपन से समुद्र का पानी"
+      },
+      "transliterations": {
+        "devanagari": "बिसिल झळकॆ कडल नीरु",
+        "latin": "Bisila jhalake kadala neeru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆವಿಯಾಯಿತು |",
+      "translations": {
+        "en": "became vapour |",
+        "hi": "वाष्प बन गया |"
+      },
+      "transliterations": {
+        "devanagari": "आवियायितु |",
+        "latin": "Aaviyaayitu |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆವಿಯಾಗಿ ನೆಲದ ಕಡೆಗೆ",
+      "translations": {
+        "en": "As vapour, towards the land",
+        "hi": "वाष्प बनकर धरती की ओर"
+      },
+      "transliterations": {
+        "devanagari": "आवियागि नॆलद कडॆगॆ",
+        "latin": "Aaviyaagi nelada kadege"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಬೀಸಿ ಬಂದಿತು॥",
+      "translations": {
+        "en": "it blew and came॥",
+        "hi": "बहकर आया॥"
+      },
+      "transliterations": {
+        "devanagari": "बीसि बंदितु॥",
+        "latin": "Beesi banditu॥"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ನೆಲದ ಮೇಲೆ ಗುಡ್ಡಬೆಟ್ಟ",
+      "translations": {
+        "en": "On the land, hills and mountains",
+        "hi": "धरती पर पहाड़-पहाड़ियाँ"
+      },
+      "transliterations": {
+        "devanagari": "नॆलद मेलॆ गुड्डबॆट्ट",
+        "latin": "Nelada mele guddabetta"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಅಡ್ಡವಾಯಿತು |",
+      "translations": {
+        "en": "stood in the way |",
+        "hi": "आड़े आ गईं |"
+      },
+      "transliterations": {
+        "devanagari": "अड्डवायितु |",
+        "latin": "Addavaayitu |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ತಡೆದು ನಿಂತ ಮೋಡವೆಲ್ಲ",
+      "translations": {
+        "en": "All the clouds that were stopped",
+        "hi": "रुककर खड़े सारे बादल"
+      },
+      "transliterations": {
+        "devanagari": "तडॆदु निंत मोडवॆल्ल",
+        "latin": "Tadedu ninta modavella"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಮೇಲಕೇರಿತು॥",
+      "translations": {
+        "en": "rose upward॥",
+        "hi": "ऊपर चढ़ गए॥"
+      },
+      "transliterations": {
+        "devanagari": "मेलकेरितु॥",
+        "latin": "Melakeritu॥"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಘಳಿಗೆಯೊಳಗೆ ಬಾನು ತುಂಬ",
+      "translations": {
+        "en": "Within a ghalige the whole sky",
+        "hi": "एक घड़ी में आकाश भर"
+      },
+      "transliterations": {
+        "devanagari": "घळिगॆयॊळगॆ बानु तुंब",
+        "latin": "Ghaligeyolage baanu tunba"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಮೋಡ ಕವಿಯಿತು |",
+      "translations": {
+        "en": "was covered with cloud |",
+        "hi": "बादल छा गए |"
+      },
+      "transliterations": {
+        "devanagari": "मोड कवियितु |",
+        "latin": "Moda kaviyitu |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಮಿಂಚು ಮಿಂಚಿ ಜಗವು ಬೆಳಗಿ",
+      "translations": {
+        "en": "Lightning flashed, lighting the world",
+        "hi": "बिजली चमककर जग प्रकाशित"
+      },
+      "transliterations": {
+        "devanagari": "मिंचु मिंचि जगवु बॆळगि",
+        "latin": "Minchu minchi jagavu belagi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಗುಡುಗು ಗುಡುಗಿತು॥",
+      "translations": {
+        "en": "and thunder roared॥",
+        "hi": "और गर्जन हुआ॥"
+      },
+      "transliterations": {
+        "devanagari": "गुडुगु गुडुगितु॥",
+        "latin": "Gudugu gudugitu॥"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಮೋಡ ಮೇಲಕೇರಿದಾಗ",
+      "translations": {
+        "en": "When the cloud rose upward",
+        "hi": "बादल ऊपर चढ़े तब"
+      },
+      "transliterations": {
+        "devanagari": "मोड मेलकेरिदाग",
+        "latin": "Moda melakeridaaga"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ತಂಪು ತಗುಲಿತು |",
+      "translations": {
+        "en": "coolness touched it |",
+        "hi": "ठंडक लगी |"
+      },
+      "transliterations": {
+        "devanagari": "तंपु तगुलितु |",
+        "latin": "Tanpu tagulitu |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಆವಿ ತಣಿದು ಭಾರವಾಗಿ",
+      "translations": {
+        "en": "The vapour cooled, grew heavy",
+        "hi": "वाष्प ठंडी होकर भारी हुई"
+      },
+      "transliterations": {
+        "devanagari": "आवि तणिदु भारवागि",
+        "latin": "Aavi tanidu bhaaravaagi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕುಸಿಯತೊಡಗಿತು॥",
+      "translations": {
+        "en": "and began to fall॥",
+        "hi": "और गिरने लगी॥"
+      },
+      "transliterations": {
+        "devanagari": "कुसियतॊडगितु॥",
+        "latin": "Kusiyatodagitu॥"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಮುತ್ತಿನಂಥ ಮಳೆಯ ನೀರು",
+      "translations": {
+        "en": "Pearl-like rain water",
+        "hi": "मोती जैसा वर्षा का जल"
+      },
+      "transliterations": {
+        "devanagari": "मुत्तिनंथ मळॆय नीरु",
+        "latin": "Muttinantha maleya neeru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕೆಳಗೆ ಸುರಿಯಿತು |",
+      "translations": {
+        "en": "poured down |",
+        "hi": "नीचे बरस पड़ा |"
+      },
+      "transliterations": {
+        "devanagari": "कॆळगॆ सुरियितु |",
+        "latin": "Kelage suriyitu |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕೆರೆಯು ತೊರೆಯು ಹಳ್ಳ ಹೊಳೆಯು",
+      "translations": {
+        "en": "Lake and stream, brook and river",
+        "hi": "तालाब, झरना, नाला, नदी"
+      },
+      "transliterations": {
+        "devanagari": "कॆरॆयु तॊरॆयु हळ्ळ हॊळॆयु",
+        "latin": "Kereyu toreyu halla holeyu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ತುಂಬಿ ಹರಿಯಿತು॥",
+      "translations": {
+        "en": "filled and flowed॥",
+        "hi": "भरकर बहने लगे॥"
+      },
+      "transliterations": {
+        "devanagari": "तुंबि हरियितु॥",
+        "latin": "Tunbi hariyitu॥"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಅಂತರ್ಜಲ ಸಂರಕ್ಷಿಸು - ಜೀವಕುಲ ಉಳಿಸು",
+      "translations": {
+        "en": "Protect groundwater — save living beings",
+        "hi": "भूजल की रक्षा करो — जीवजगत बचाओ"
+      },
+      "transliterations": {
+        "devanagari": "अंतर्जल संरक्षिसु - जीवकुल उळिसु",
+        "latin": "Antarjala sanrakshisu - jeevakula ulisu"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-kadalu",
+      "text": "ಕಡಲು",
+      "translations": {
+        "en": "kadalu",
+        "hi": "कडलु"
+      },
+      "transliterations": {
+        "devanagari": "कडलु",
+        "latin": "Kadalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kadalu-def",
+      "ref": "vocab-kadalu",
+      "text": "ಸಮುದ್ರ",
+      "translations": {
+        "en": "sea / ocean",
+        "hi": "समुद्र"
+      },
+      "transliterations": {
+        "devanagari": "समुद्र",
+        "latin": "Samudra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-adda",
+      "text": "ಅಡ್ಡ",
+      "translations": {
+        "en": "adda",
+        "hi": "अड्ड"
+      },
+      "transliterations": {
+        "devanagari": "अड्ड",
+        "latin": "Adda"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-adda-def",
+      "ref": "vocab-adda",
+      "text": "ತಡೆ",
+      "translations": {
+        "en": "obstruction / barrier",
+        "hi": "रुकावट"
+      },
+      "transliterations": {
+        "devanagari": "तडॆ",
+        "latin": "Tade"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-belagu",
+      "text": "ಬೆಳಗು",
+      "translations": {
+        "en": "belagu",
+        "hi": "बेळगु"
+      },
+      "transliterations": {
+        "devanagari": "बॆळगु",
+        "latin": "Belagu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-belagu-def",
+      "ref": "vocab-belagu",
+      "text": "ಪ್ರಕಾಶಿಸು",
+      "translations": {
+        "en": "to shine / illuminate",
+        "hi": "प्रकाशित होना"
+      },
+      "transliterations": {
+        "devanagari": "प्रकाशिसु",
+        "latin": "Prakaashisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kaviyitu",
+      "text": "ಕವಿಯಿತು",
+      "translations": {
+        "en": "kaviyitu",
+        "hi": "कवियितु"
+      },
+      "transliterations": {
+        "devanagari": "कवियितु",
+        "latin": "Kaviyitu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaviyitu-def",
+      "ref": "vocab-kaviyitu",
+      "text": "ಆವರಿಸಿತು",
+      "translations": {
+        "en": "covered / enveloped",
+        "hi": "छा गया"
+      },
+      "transliterations": {
+        "devanagari": "आवरिसितु",
+        "latin": "Aavarisitu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nela",
+      "text": "ನೆಲ",
+      "translations": {
+        "en": "nela",
+        "hi": "नेल"
+      },
+      "transliterations": {
+        "devanagari": "नॆल",
+        "latin": "Nela"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nela-def",
+      "ref": "vocab-nela",
+      "text": "ಭೂಮಿ",
+      "translations": {
+        "en": "earth / ground",
+        "hi": "भूमि"
+      },
+      "transliterations": {
+        "devanagari": "भूमि",
+        "latin": "Bhoomi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jaga",
+      "text": "ಜಗ",
+      "translations": {
+        "en": "jaga",
+        "hi": "जग"
+      },
+      "transliterations": {
+        "devanagari": "जग",
+        "latin": "Jaga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jaga-def",
+      "ref": "vocab-jaga",
+      "text": "ಲೋಕ",
+      "translations": {
+        "en": "world",
+        "hi": "लोक"
+      },
+      "transliterations": {
+        "devanagari": "लोक",
+        "latin": "Loka"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-suri",
+      "text": "ಸುರಿ",
+      "translations": {
+        "en": "suri",
+        "hi": "सुरि"
+      },
+      "transliterations": {
+        "devanagari": "सुरि",
+        "latin": "Suri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-suri-def",
+      "ref": "vocab-suri",
+      "text": "ಕೆಳಕ್ಕೆ ಬೀಳು, ಧಾರೆಯಾಗಿ ಬೀಳು",
+      "translations": {
+        "en": "to fall down; to pour in a stream",
+        "hi": "नीचे गिरना; धारा बनकर गिरना"
+      },
+      "transliterations": {
+        "devanagari": "कॆळक्कॆ बीळु, धारॆयागि बीळु",
+        "latin": "Kelakke beelu, dhaareyaagi beelu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tanidu",
+      "text": "ತಣಿದು",
+      "translations": {
+        "en": "tanidu",
+        "hi": "तणिदु"
+      },
+      "transliterations": {
+        "devanagari": "तणिदु",
+        "latin": "Tanidu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tanidu-def",
+      "ref": "vocab-tanidu",
+      "text": "ತಂಪಾಗಿ",
+      "translations": {
+        "en": "having cooled",
+        "hi": "ठंडा होकर"
+      },
+      "transliterations": {
+        "devanagari": "तंपागि",
+        "latin": "Tanpaagi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-minchu",
+      "text": "ಮಿಂಚು",
+      "translations": {
+        "en": "minchu",
+        "hi": "मिंचु"
+      },
+      "transliterations": {
+        "devanagari": "मिंचु",
+        "latin": "Minchu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-minchu-def",
+      "ref": "note-minchu",
+      "text": "ಗುಡುಗಿಗಿಂತ ಮುಂಚೆ ಆಕಾಶದಲ್ಲಿ ಕಂಡುಬರುವ ಬೆಳಕಿನ ಬಳ್ಳಿ.",
+      "translations": {
+        "en": "the streak of light that appears in the sky before thunder.",
+        "hi": "गरज से पहले आकाश में दिखने वाली प्रकाश की रेखा।"
+      },
+      "transliterations": {
+        "devanagari": "गुडुगिगिंत मुंचॆ आकाशदल्लि कंडुबरुव बॆळकिन बळ्ळि.",
+        "latin": "Gudugiginta munche aakaashadalli kandubaruva belakina balli."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-ghalige",
+      "text": "ಘಳಿಗೆ",
+      "translations": {
+        "en": "ghalige",
+        "hi": "घळिगे"
+      },
+      "transliterations": {
+        "devanagari": "घळिगॆ",
+        "latin": "Ghalige"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ghalige-def",
+      "ref": "note-ghalige",
+      "text": "24 ನಿಮಿಷಗಳ ಅವಧಿ.",
+      "translations": {
+        "en": "a period of 24 minutes.",
+        "hi": "24 मिनट की अवधि।"
+      },
+      "transliterations": {
+        "devanagari": "24 निमिषगळ अवधि.",
+        "latin": "24 Nimishagala avadhi."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಬಿಸಿಲ ಝಳಕೆ ನೀರು ಏನಾಯಿತು?",
+      "translations": {
+        "en": "What happened to the water in the heat of the sun?",
+        "hi": "धूप की तपन से पानी का क्या हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "बिसिल झळकॆ नीरु एनायितु?",
+        "latin": "Bisila jhalake neeru enaayitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಮಳೆ ಸುರಿದಿದ್ದರಿಂದ ಏನೇನು ತುಂಬಿ ಹರಿಯಿತು?",
+      "translations": {
+        "en": "Because it rained, what all filled and flowed?",
+        "hi": "वर्षा होने से क्या-क्या भरकर बहे?"
+      },
+      "transliterations": {
+        "devanagari": "मळॆ सुरिदिद्दरिंद एनेनु तुंबि हरियितु?",
+        "latin": "Male surididdarinda enenu tunbi hariyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಮೋಡ ಯಾವಾಗ ಭಾರವಾಯಿತು?",
+      "translations": {
+        "en": "When did the cloud become heavy?",
+        "hi": "बादल कब भारी हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "मोड यावाग भारवायितु?",
+        "latin": "Moda yaavaaga bhaaravaayitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-p1",
+      "text": "(ತಂಪು, ಮಳೆಯ, ಗುಡ್ಡಬೆಟ್ಟ, ಮೋಡ, ಗುಡುಗು)",
+      "translations": {
+        "en": "(coolness, rain’s, hills-and-mountains, cloud, thunder)",
+        "hi": "(ठंडक, वर्षा का, पहाड़-पहाड़ी, बादल, गर्जन)"
+      },
+      "transliterations": {
+        "devanagari": "(तंपु, मळॆय, गुड्डबॆट्ट, मोड, गुडुगु)",
+        "latin": "(Tanpu, maleya, guddabetta, moda, gudugu)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಮುತ್ತಿನಂಥ ________ ನೀರು ಕೆಳಗೆ ಸುರಿಯಿತು.",
+      "translations": {
+        "en": "Pearl-like ________ water poured down.",
+        "hi": "मोती जैसा ________ जल नीचे बरसा।"
+      },
+      "transliterations": {
+        "devanagari": "मुत्तिनंथ ________ नीरु कॆळगॆ सुरियितु.",
+        "latin": "Muttinantha ________ neeru kelage suriyitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ನೆಲದ ಮೇಲೆ ________ ಅಡ್ಡವಾಯಿತು.",
+      "translations": {
+        "en": "On the land ________ stood in the way.",
+        "hi": "धरती पर ________ आड़े आए।"
+      },
+      "transliterations": {
+        "devanagari": "नॆलद मेलॆ ________ अड्डवायितु.",
+        "latin": "Nelada mele ________ addavaayitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಘಳಿಗೆಯೊಳಗೆ ಬಾನು ತುಂಬ ________ ಕವಿಯಿತು.",
+      "translations": {
+        "en": "Within a ghalige the whole sky was covered with ________.",
+        "hi": "एक घड़ी में आकाश भर ________ छा गया।"
+      },
+      "transliterations": {
+        "devanagari": "घळिगॆयॊळगॆ बानु तुंब ________ कवियितु.",
+        "latin": "Ghaligeyolage baanu tunba ________ kaviyitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಮೋಡ ಮೇಲಕೇರಿದಾಗ ________ ತಗುಲಿತು.",
+      "translations": {
+        "en": "When the cloud rose upward, ________ touched it.",
+        "hi": "बादल ऊपर चढ़े तब ________ लगी।"
+      },
+      "transliterations": {
+        "devanagari": "मोड मेलकेरिदाग ________ तगुलितु.",
+        "latin": "Moda melakeridaaga ________ tagulitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ನೆಲದ ಮೇಲೆ ಗುಡ್ಡ ಬೆಟ್ಟ\n________\n________ ಮೋಡವೆಲ್ಲ\nಮೇಲಕೇರಿತು.",
+      "translations": {
+        "en": "On the land, hills and mountains\n________\n________ all the clouds\nrose upward.",
+        "hi": "धरती पर पहाड़ पहाड़ी\n________\n________ सारे बादल\nऊपर चढ़ गए।"
+      },
+      "transliterations": {
+        "devanagari": "नॆलद मेलॆ गुड्ड बॆट्ट\n________\n________ मोडवॆल्ल\nमेलकेरितु.",
+        "latin": "Nelada mele gudda betta\n________\n________ modavella\nmelakeritu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಕೆರೆ, ಕಟ್ಟೆ, ಸಮುದ್ರ, ಸೂರ್ಯ : ________",
+      "translations": {
+        "en": "lake, dam, sea, sun : ________",
+        "hi": "तालाब, बाँध, समुद्र, सूर्य : ________"
+      },
+      "transliterations": {
+        "devanagari": "कॆरॆ, कट्टॆ, समुद्र, सूर्य : ________",
+        "latin": "Kere, katte, samudra, soorya : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಮಿಂಚು, ಭೂಮಿ, ಮಳೆ, ಗುಡುಗು : ________",
+      "translations": {
+        "en": "lightning, earth, rain, thunder : ________",
+        "hi": "बिजली, भूमि, वर्षा, गर्जन : ________"
+      },
+      "transliterations": {
+        "devanagari": "मिंचु, भूमि, मळॆ, गुडुगु : ________",
+        "latin": "Minchu, bhoomi, male, gudugu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಸರೋವರ, ಪರ್ವತ, ಬೆಟ್ಟ, ಗುಡ್ಡ : ________",
+      "translations": {
+        "en": "lake, mountain, hill, hillock : ________",
+        "hi": "सरोवर, पर्वत, पहाड़, पहाड़ी : ________"
+      },
+      "transliterations": {
+        "devanagari": "सरोवर, पर्वत, बॆट्ट, गुड्ड : ________",
+        "latin": "Sarovara, parvata, betta, gudda : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ನೊಗ, ಕುಂಟೆ, ನೇಗಿಲು, ಮಂಚ : ________",
+      "translations": {
+        "en": "yoke, plough tip, plough, cot : ________",
+        "hi": "जूआ, फाल, हल, खाट : ________"
+      },
+      "transliterations": {
+        "devanagari": "नॊग, कुंटॆ, नेगिलु, मंच : ________",
+        "latin": "Noga, kunte, negilu, mancha : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಕಾಡು : ________",
+      "translations": {
+        "en": "forest : ________",
+        "hi": "जंगल : ________"
+      },
+      "transliterations": {
+        "devanagari": "काडु : ________",
+        "latin": "Kaadu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಸೂರ್ಯ : ________",
+      "translations": {
+        "en": "sun : ________",
+        "hi": "सूर्य : ________"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य : ________",
+        "latin": "Soorya : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಭೂಮಿ : ________",
+      "translations": {
+        "en": "earth : ________",
+        "hi": "भूमि : ________"
+      },
+      "transliterations": {
+        "devanagari": "भूमि : ________",
+        "latin": "Bhoomi : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-p1",
+      "text": "ಮಾದರಿ : ವಿ ಕ ಕ ಟ ವಿ - ವಿಕಟ ಕವಿ",
+      "translations": {
+        "en": "Model: vi ka ka ta vi - vikata kavi",
+        "hi": "उदाहरण : वि क क ट वि - विकट कवि"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : वि क क ट वि - विकट कवि",
+        "latin": "Maadari : vi ka ka ta vi - vikata kavi"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಕಕನ ; ________",
+      "translations": {
+        "en": "kakana ; ________",
+        "hi": "ककन ; ________"
+      },
+      "transliterations": {
+        "devanagari": "ककन ; ________",
+        "latin": "Kakana ; ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಮನನ; ________",
+      "translations": {
+        "en": "manana; ________",
+        "hi": "मनन; ________"
+      },
+      "transliterations": {
+        "devanagari": "मनन; ________",
+        "latin": "Manana; ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ರಸುರಸುರ; ________",
+      "translations": {
+        "en": "rasurasuru; ________",
+        "hi": "रसुरसुर; ________"
+      },
+      "transliterations": {
+        "devanagari": "रसुरसुर; ________",
+        "latin": "Rasurasura; ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q4",
+      "text": "ಜೀವವನನ; ________",
+      "translations": {
+        "en": "jeevavanana; ________",
+        "hi": "जीववनन; ________"
+      },
+      "transliterations": {
+        "devanagari": "जीववनन; ________",
+        "latin": "Jeevavanana; ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q5",
+      "text": "ದ್ರಾಮನಸಿಮಸಿದ್ರಾ; ________",
+      "translations": {
+        "en": "draamanasimmasidraa; ________",
+        "hi": "द्रामनसिमसिद्रा; ________"
+      },
+      "transliterations": {
+        "devanagari": "द्रामनसिमसिद्रा; ________",
+        "latin": "Draamanasimasidraa; ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-p1",
+      "text": "ಎಡದಿಂದ ಬಲಕ್ಕೆ",
+      "translations": {
+        "en": "Left to right",
+        "hi": "बाएँ से दाएँ"
+      },
+      "transliterations": {
+        "devanagari": "ऎडदिंद बलक्कॆ",
+        "latin": "Edadinda balakke"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "24 ನಿಮಿಷಗಳನ್ನು ಹೀಗೆ ಹೇಳುತ್ತಾರೆ. (3 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "A span of 24 minutes is called this. (3 letters)",
+        "hi": "24 मिनट को ऐसा कहते हैं। (3 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "24 निमिषगळन्नु हीगॆ हेळुत्तारॆ. (3 अक्षर)",
+        "latin": "24 Nimishagalannu heege heluttaare. (3 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q2",
+      "text": "ಜೀವ ರಾಶಿ ನೆಲೆಸಿರುವ ಪ್ರಪಂಚ. (3 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "The world where living beings dwell. (3 letters)",
+        "hi": "जीव राशि जहाँ बसती है वह संसार। (3 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "जीव राशि नॆलॆसिरुव प्रपंच. (3 अक्षर)",
+        "latin": "Jeeva raashi nelesiruva prapancha. (3 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q3",
+      "text": "ಕೆರೆ ಜೊತೆಯಲ್ಲಿರುವ ಜೋಡಿ ಪದ. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "The paired word that goes with lake. (2 letters)",
+        "hi": "तालाब के साथ जोड़ी शब्द। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "कॆरॆ जॊतॆयल्लिरुव जोडि पद. (2 अक्षर)",
+        "latin": "Kere joteyalliruva jodi pada. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q4",
+      "text": "ನಾವು ನಿಂತಿರುವ ಸ್ಥಳ. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "The place where we stand. (2 letters)",
+        "hi": "जहाँ हम खड़े हैं। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "नावु निंतिरुव स्थळ. (2 अक्षर)",
+        "latin": "Naavu nintiruva sthala. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q6",
+      "text": "ಬೇಸಿಗೆ ಕಾಲದ ಪ್ರಭಾವವಿದು. (3 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "This is the effect of the summer season. (3 letters)",
+        "hi": "गर्मी के मौसम का प्रभाव। (3 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "बेसिगॆ कालद प्रभावविदु. (3 अक्षर)",
+        "latin": "Besige kaalada prabhaavavidu. (3 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q7",
+      "text": "ಮೋಡ ಕರಗಿ ಬೀಳುವುದು. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "Clouds melting and falling. (2 letters)",
+        "hi": "बादल पिघलकर गिरना। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "मोड करगि बीळुवुदु. (2 अक्षर)",
+        "latin": "Moda karagi beeluvudu. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q8",
+      "text": "ಮೇಲೆ ನೋಡಿದಾಗ ಕಾಣುವುದು. (3 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "What you see when you look up. (3 letters)",
+        "hi": "ऊपर देखने पर जो दिखे। (3 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "मेलॆ नोडिदाग काणुवुदु. (3 अक्षर)",
+        "latin": "Mele nodidaaga kaanuvudu. (3 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q9",
+      "text": "ಈ ಸಮಯ ಮುತ್ತಿನಂಥದು. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "This time is pearl-like. (2 letters)",
+        "hi": "यह समय मोती जैसा। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "ई समय मुत्तिनंथदु. (2 अक्षर)",
+        "latin": "Ee samaya muttinanthadu. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-p2",
+      "text": "ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ",
+      "translations": {
+        "en": "Top to bottom",
+        "hi": "ऊपर से नीचे"
+      },
+      "transliterations": {
+        "devanagari": "मेलिनिंद कॆळक्कॆ",
+        "latin": "Melininda kelakke"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d1",
+      "text": "ಗಟ್ಟಿಯಾದ ಪದಾರ್ಥ ಇದು (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "This is a hard substance (2 letters)",
+        "hi": "यह कठोर पदार्थ है (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "गट्टियाद पदार्थ इदु (2 अक्षर)",
+        "latin": "Gattiyaada padaartha idu (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d2",
+      "text": "ನೀರಿಗೆ ಮತ್ತೊಂದು ಹೆಸರು. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "Another name for water. (2 letters)",
+        "hi": "पानी का दूसरा नाम। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "नीरिगॆ मत्तॊंदु हॆसरु. (2 अक्षर)",
+        "latin": "Neerige mattondu hesaru. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d3",
+      "text": "ಇದರೊಳಗಿರುವುದು ಉಪ್ಪಿನ ನೀರು. (3 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "What is inside this is salty water. (3 letters)",
+        "hi": "इसके अंदर खारा पानी है। (3 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "इदरॊळगिरुवुदु उप्पिन नीरु. (3 अक्षर)",
+        "latin": "Idarolagiruvudu uppina neeru. (3 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d5",
+      "text": "ಭೂಮಿಗೆ ಇರುವ ಇನ್ನೊಂದು ಹೆಸರು. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "Another name for the earth. (2 letters)",
+        "hi": "भूमि का दूसरा नाम। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "भूमिगॆ इरुव इन्नॊंदु हॆसरु. (2 अक्षर)",
+        "latin": "Bhoomige iruva innondu hesaru. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d6",
+      "text": "ಮಲ್ಲಿಗೆಯ ಬಣ್ಣ. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "The colour of jasmine. (2 letters)",
+        "hi": "मल्लिका का रंग। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "मल्लिगॆय बण्ण. (2 अक्षर)",
+        "latin": "Malligeya banna. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d7",
+      "text": "ವಾಸ ಮಾಡಲು ಇದು ಬೇಕು. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "This is needed for living. (2 letters)",
+        "hi": "रहने के लिए यह चाहिए। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "वास माडलु इदु बेकु. (2 अक्षर)",
+        "latin": "Vaasa maadalu idu beku. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-d8",
+      "text": "ಕಪ್ಪೆ ಚಿಪ್ಪಿನಲ್ಲಿರುವುದು. (2 ಅಕ್ಷರ)",
+      "translations": {
+        "en": "What is in a frog’s shell. (2 letters)",
+        "hi": "मेंढक के खोल में जो है। (2 अक्षर)"
+      },
+      "transliterations": {
+        "devanagari": "कप्पॆ चिप्पिनल्लिरुवुदु. (2 अक्षर)",
+        "latin": "Kappe chippinalliruvudu. (2 akshara)"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-p1",
+      "text": "ಮಾದರಿ : ಸುರಿಯಿತು - ಹರಿಯಿತು",
+      "translations": {
+        "en": "Model: suriyitu - hariyitu",
+        "hi": "उदाहरण : सुरियितु - हरियितु"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : सुरियितु - हरियितु",
+        "latin": "Maadari : suriyitu - hariyitu"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ತಗುಲಿತು ________",
+      "translations": {
+        "en": "tagulitu ________",
+        "hi": "तगुलितु ________"
+      },
+      "transliterations": {
+        "devanagari": "तगुलितु ________",
+        "latin": "Tagulitu ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q2",
+      "text": "ಕವಿಯಿತು ________",
+      "translations": {
+        "en": "kaviyitu ________",
+        "hi": "कवियितु ________"
+      },
+      "transliterations": {
+        "devanagari": "कवियितु ________",
+        "latin": "Kaviyitu ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q3",
+      "text": "ಅಡ್ಡವಾಯಿತು ________",
+      "translations": {
+        "en": "addavaayitu ________",
+        "hi": "अड्डवायितु ________"
+      },
+      "transliterations": {
+        "devanagari": "अड्डवायितु ________",
+        "latin": "Addavaayitu ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-p1",
+      "text": "ಮಾದರಿ : ಬೆಟ್ಟ - ಬೆಟ್ಟಗುಡ್ಡ",
+      "translations": {
+        "en": "Model: betta - bettagudda",
+        "hi": "उदाहरण : बेट्ट - बेट्टगुड्ड"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : बॆट्ट - बॆट्टगुड्ड",
+        "latin": "Maadari : betta - bettagudda"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ಕೆರೆ ________",
+      "translations": {
+        "en": "kere ________",
+        "hi": "केरे ________"
+      },
+      "transliterations": {
+        "devanagari": "कॆरॆ ________",
+        "latin": "Kere ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q2",
+      "text": "ಗುಡುಗು ________",
+      "translations": {
+        "en": "gudugu ________",
+        "hi": "गुडुगु ________"
+      },
+      "transliterations": {
+        "devanagari": "गुडुगु ________",
+        "latin": "Gudugu ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q3",
+      "text": "ಕಸ ________",
+      "translations": {
+        "en": "kasa ________",
+        "hi": "कस ________"
+      },
+      "transliterations": {
+        "devanagari": "कस ________",
+        "latin": "Kasa ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q4",
+      "text": "ಮುತ್ತು ________",
+      "translations": {
+        "en": "muttu ________",
+        "hi": "मुत्तु ________"
+      },
+      "transliterations": {
+        "devanagari": "मुत्तु ________",
+        "latin": "Muttu ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-p1",
+      "text": "(ಕವಿಯಿತು, ಮಳೆ, ಇಳೆಗೆ, ಹೊಳೆ, ಬೆಳೆಯು, ಮೋಡ, ಬೆಳೆಯಿತು, ಬಂದಿತು, ಇಳಿಯಿತು, ತುಂಬಿತು)",
+      "translations": {
+        "en": "(kaviyitu, male, ilege, hole, beleyu, moda, beleyitu, banditu, iliyitu, tumbitu)",
+        "hi": "(कवियितु, मळे, इळेगे, होळे, बेळेयु, मोड, बेळेयितु, बंदितु, इळियितु, तुंबितु)"
+      },
+      "transliterations": {
+        "devanagari": "(कवियितु, मळॆ, इळॆगॆ, हॊळॆ, बॆळॆयु, मोड, बॆळॆयितु, बंदितु, इळियितु, तुंबितु)",
+        "latin": "(Kaviyitu, male, ilege, hole, beleyu, moda, beleyitu, banditu, iliyitu, tunbitu)"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1",
+      "text": "ಚಿತ್ರ ಗಮನಿಸು, ಕೊಟ್ಟಿರುವ ಪದ ಬಳಸಿ ಕವನ ರಚಿಸಿ:",
+      "translations": {
+        "en": "Observe the picture and compose a poem using the given words:",
+        "hi": "चित्र देखो, दिए शब्दों से कविता रचो:"
+      },
+      "transliterations": {
+        "devanagari": "चित्र गमनिसु, कॊट्टिरुव पद बळसि कवन रचिसि:",
+        "latin": "Chitra gamanisu, kottiruva pada balasi kavana rachisi:"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q1",
+      "text": "ಮಳೆ ಹೆಚ್ಚಾಗುವುದರಿಂದ ಆಗುವ ಪರಿಣಾಮಗಳಾವುವು?",
+      "translations": {
+        "en": "What are the effects of too much rain?",
+        "hi": "अधिक वर्षा से क्या प्रभाव होते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "मळॆ हॆच्चागुवुदरिंद आगुव परिणामगळावुवु?",
+        "latin": "Male hechchaaguvudarinda aaguva parinaamagalaavuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q2",
+      "text": "ಯಾವ ಕಾಲದಲ್ಲಿ ಮರಗಿಡಗಳು ಚಿಗುರುತ್ತವೆ?",
+      "translations": {
+        "en": "In which season do trees and plants sprout?",
+        "hi": "किस मौसम में पेड़-पौधे अंकुरित होते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "याव कालदल्लि मरगिडगळु चिगुरुत्तवॆ?",
+        "latin": "Yaava kaaladalli maragidagalu chiguruttave?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q3",
+      "text": "ಮಳೆ ಬರುವ ಮುನ್ನ ಆಕಾಶದಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಿ ಬರೆ.",
+      "translations": {
+        "en": "Observe and write the changes that occur in the sky before rain comes.",
+        "hi": "वर्षा आने से पहले आकाश में होने वाले परिवर्तन देखकर लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "मळॆ बरुव मुन्न आकाशदल्लि उंटागुव बदलावणॆगळन्नु गमनिसि बरॆ.",
+        "latin": "Male baruva munna aakaashadalli untaaguva badalaavanegalannu gamanisi bare."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q4",
+      "text": "ಮಳೆಯೇ ಬರದಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಯೋಚಿಸಿ ಬರೆಯಿರಿ.",
+      "translations": {
+        "en": "What would have happened if rain never came? Think and write.",
+        "hi": "यदि वर्षा न आती तो क्या होता? सोचकर लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "मळॆये बरदिद्दरॆ एनागुत्तित्तु? योचिसि बरॆयिरि.",
+        "latin": "Maleye baradiddare enaaguttittu? yochisi bareyiri."
+      },
+      "type": "question"
+    },
+    {
+      "id": "competency",
+      "text": "ನೀನೀಗ ಪಠ್ಯವನ್ನು ಓದಿದ ಅನಂತರ ಅದರಲ್ಲಿನ ವಿಚಾರ ಸರಣಿ ಮತ್ತು ಘಟನಾವಳಿಗಳಿಗೆ ಇರುವ ಸರಳ ಕಾರ್ಯ ಕಾರಣ ಸಂಬಂಧಗಳನ್ನು ಗುರುತಿಸಿ ಹೇಳಬಲ್ಲೆಯಲ್ಲವೆ?",
+      "translations": {
+        "en": "After reading the lesson, you can now recognize and state simple cause-and-effect relationships among its ideas and events, can you not?",
+        "hi": "अब पाठ पढ़ने के बाद तुम उसमें की विचार-श्रृंखला और घटनाओं के सरल कार्य-कारण संबंध पहचानकर बता सकते हो, है न?"
+      },
+      "transliterations": {
+        "devanagari": "नीनीग पठ्यवन्नु ओदिद अनंतर अदरल्लिन विचार सरणि मत्तु घटनावळिगळिगॆ इरुव सरळ कार्य कारण संबंधगळन्नु गुरुतिसि हेळबल्लॆयल्लवॆ?",
+        "latin": "Neeneega pathyavannu odida anantara adarallina vichaara sarani mattu ghatanaavaligalige iruva sarala kaarya kaarana sanbandhagalannu gurutisi helaballeyallave?"
+      },
+      "type": "competency"
+    }
+  ]
+}

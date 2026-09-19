@@ -1,0 +1,311 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the given questions in one sentence.",
+      "hi": "अ. दिए गए प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    }
+  },
+  "meta": {
+    "author": "ಚಿ. ಉದಯಶಂಕರ",
+    "board": "KSEEB",
+    "chapter": 10,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch10-gombe-kalisuva-neeti",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆಡಿಸಿ ನೋಡು, ಬೀಳಿಸಿ ನೋಡು, ಉರುಳಿ ಹೋಗದು",
+      "translations": {
+        "en": "Make it play, make it fall—it does not roll away",
+        "hi": "खिलाओ, गिराओ—लुढ़ककर नहीं जाता"
+      },
+      "transliterations": {
+        "devanagari": "आडिसि नोडु, बीळिसि नोडु, उरुळि होगदु",
+        "latin": "āḍisi noḍu, bīḻisi noḍu, uruḻi hogadu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಏನೇ ಬರಲಿ, ಯಾರಿಗು ಸೋತು ತಲೆಯ ಬಾಗದು",
+      "translations": {
+        "en": "Whatever comes, to no one does it bow the head in defeat",
+        "hi": "जो भी आए, किसी से हारकर सिर नहीं झुकाता"
+      },
+      "transliterations": {
+        "devanagari": "एने बरलि, यारिगु सोतु तलॆय बागदु",
+        "latin": "ene barali, yārigu sotu talèya bāgadu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಎಂದಿಗೂ ನಾನು ಹೀಗೇ ಇರುವೆ ಎಂದು ನಗುವುದು, ಹೀಗೇ ನಗುತಲಿರುವುದು",
+      "translations": {
+        "en": "It smiles saying I will always be like this, smiling like this",
+        "hi": "हमेशा ऐसा ही रहूँगा कहकर हँसता है, ऐसे ही हँसता रहता है"
+      },
+      "transliterations": {
+        "devanagari": "ऎंदिगू नानु हीगे इरुवॆ ऎंदु नगुवुदु, हीगे नगुतलिरुवुदु",
+        "latin": "èṃdigū nānu hīge iruvè èṃdu naguvudu, hīge nagutaliruvudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಗುಡಿಸಲೇ ಆಗಲಿ ಅರಮನೆಯಾಗಲಿ, ಆಟ ನಿಲ್ಲದು",
+      "translations": {
+        "en": "Whether hut or palace, the play does not stop",
+        "hi": "झोंपड़ी हो या महल, खेल नहीं रुकता"
+      },
+      "transliterations": {
+        "devanagari": "गुडिसले आगलि अरमनॆयागलि, आट निल्लदु",
+        "latin": "guḍisale āgali aramanèyāgali, āṭa nilladu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಹಿರಿಯರೆ ಇರಲಿ ಕಿರಿಯರೆ ಬರಲಿ, ಭೇದ ತೋರದು",
+      "translations": {
+        "en": "Whether elders are there or young ones come, it shows no difference",
+        "hi": "बड़े हों या छोटे आएँ, भेद नहीं दिखाता"
+      },
+      "transliterations": {
+        "devanagari": "हिरियरॆ इरलि किरियरॆ बरलि, भेद तोरदु",
+        "latin": "hiriyarè irali kiriyarè barali, bheda toradu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಕಷ್ಟವೊ ಸುಖವೊ ಅಳುಕದೆ ಆಡಿ ತೂಗುತಿರುವುದು",
+      "translations": {
+        "en": "Whether hardship or joy, without fear it plays and swings",
+        "hi": "कष्ट हो या सुख, बिना घबराए खेलता झूलता रहता है"
+      },
+      "transliterations": {
+        "devanagari": "कष्टवॊ सुखवॊ अळुकदॆ आडि तूगुतिरुवुदु",
+        "latin": "kaṣṭavò sukhavò aḻukadè āḍi tūgutiruvudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಮೈಯನು ಹಿಂಡಿ ನೊಂದರು ಕಬ್ಬು, ಸಿಹಿಯ ಕೊಡುವುದು",
+      "translations": {
+        "en": "Though the body is crushed and hurts, sugarcane gives sweetness",
+        "hi": "शरीर पिसकर दुखे तो भी गन्ना मिठास देता है"
+      },
+      "transliterations": {
+        "devanagari": "मैयनु हिंडि नॊंदरु कब्बु, सिहिय कॊडुवुदु",
+        "latin": "maiyanu hiṃḍi nòṃdaru kabbu, sihiya kòḍuvudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತೇಯುತಲಿದ್ದರೂ ಗಂಧದ ಪರಿಮಳ, ತುಂಬಿ ಬರುವುದು",
+      "translations": {
+        "en": "Though being rubbed, sandal’s fragrance keeps filling",
+        "hi": "घिसते रहने पर भी चंदन की सुगंध भर आती है"
+      },
+      "transliterations": {
+        "devanagari": "तेयुतलिद्दरू गंधद परिमळ, तुंबि बरुवुदु",
+        "latin": "teyutaliddarū gaṃdhada parimaḻa, tuṃbi baruvudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ತಾನೆ ಉರಿದರೂ ದೀಪವು ಮನೆಗೆ ಬೆಳಕ ತರುವುದು",
+      "translations": {
+        "en": "Though itself burning, the lamp brings light to the house",
+        "hi": "स्वयं जलकर भी दीपक घर को प्रकाश देता है"
+      },
+      "transliterations": {
+        "devanagari": "तानॆ उरिदरू दीपवु मनॆगॆ बॆळक तरुवुदु",
+        "latin": "tānè uridarū dīpavu manègè bèḻaka taruvudu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಆಡಿಸುವಾತನ ಕೈಚಳಕದಲಿ ಎಲ್ಲ ಅಡಗಿದೆ",
+      "translations": {
+        "en": "In the skill of the player’s hand all is hidden",
+        "hi": "खेलाने वाले की कुशलता में सब छिपा है"
+      },
+      "transliterations": {
+        "devanagari": "आडिसुवातन कैचळकदलि ऎल्ल अडगिदॆ",
+        "latin": "āḍisuvātana kaicaḻakadali èlla aḍagidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಆತನ ಕರುಣೆಯು ಜೀವವ ತುಂಬಿ, ಕುಣಿಸಿ ನಲಿಸಿದೆ",
+      "translations": {
+        "en": "His mercy fills life, makes it dance and delight",
+        "hi": "उसकी करुणा जीवन भरती है, नचाकर आनंदित करती है"
+      },
+      "transliterations": {
+        "devanagari": "आतन करुणॆयु जीवव तुंबि, कुणिसि नलिसिदॆ",
+        "latin": "ātana karuṇèyu jīvava tuṃbi, kuṇisi nalisidè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಆ ಕೈ ಸೋತರೆ, ಬೊಂಬೆಯ ಕಥೆಯು, ಕೊನೆಯಾಗುವುದೇ!",
+      "translations": {
+        "en": "If that hand fails, the puppet’s story ends!",
+        "hi": "वह हाथ हार जाए तो कठपुतली की कथा समाप्त!"
+      },
+      "transliterations": {
+        "devanagari": "आ कै सोतरॆ, बॊंबॆय कथॆयु, कॊनॆयागुवुदे!",
+        "latin": "ā kai sotarè, bòṃbèya kathèyu, kònèyāguvude!"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಚಿಟ್ಟನಹಳ್ಳಿ ಸದಾಶಿವಯ್ಯ ಉದಯಶಂಕರ, ಚಿ. ಉದಯಶಂಕರ್ ಎಂದೇ ಪ್ರಸಿದ್ಧರು. ಇವರು 1934ರ ಫೆಬ್ರವರಿ 18ರಂದು ಹೊಳೆನರಸೀಪುರದಲ್ಲಿ ಜನಿಸಿದರು. ಸುಮಾರು 4,000ದಷ್ಟು ಸಿನೆಮಾ ಗೀತೆಗಳನ್ನು ರಚಿಸಿದ ಕೀರ್ತಿ ಇವರದು. ಕನ್ನಡದ ಚಿತ್ರಸಾಹಿತಿಯಾಗಿದ್ದ ಚಿ. ಸದಾಶಿವಯ್ಯನವರ ಪುತ್ರರಾದ ಉದಯಶಂಕರ್ ತಮ್ಮ ಎಳವೆಯ ದಿನಗಳಿಂದಲೇ ಸಿನೆಮಾ ಕ್ಷೇತ್ರವನ್ನು ಹತ್ತಿರದಿಂದ ನೋಡಿದವರು. “ಸಂತ ತುಕಾರಾಮ್” ಸಿನೆಮಾದ ಮೂಲಕ ಅವರ ಸಾಹಿತ್ಯಕೃಷಿ ಪ್ರಾರಂಭವಾಯಿತು. ಡಾ. ರಾಜ್ಕುಮಾರ್ ಅವರ ಸಿನೆಮಾಗಳಿಗಾಗಿ ಸುಮಾರು 400ಕ್ಕೂ ಹೆಚ್ಚು ಗೀತೆಗಳನ್ನು ಬರೆದುಕೊಟ್ಟ ಉದಯಶಂಕರ್, ರಾಜಕುಮಾರ್ ಅವರ ಜೊತೆ ಸಹನಟನಾಗಿಯೂ ಕೆಲ ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಅಭಿನಯಿಸಿದ್ದರು. ರಾಜಕುಮಾರ್ ಅವರ 88 ಚಿತ್ರಗಳಿಗೆ ಸಂಭಾಷಣೆ ಬರೆದದ್ದು ಕೂಡ ಚಿ. ಉದಯಶಂಕರ್. “ಮಾಮರವೆಲ್ಲೋ ಕೋಗಿಲೆಯೆಲ್ಲೋ”, “ಬಾಡಿಹೋದ ಬಳ್ಳಿಯಿಂದ ಹೂವು ಅರಳಬಲ್ಲುದೆ”, “ಸ್ನೇಹದ ಕಡಲಲ್ಲಿ”, “ಇನ್ನಾದರೂ ಜೀವನದಲ್ಲಿ ಮುಂದೆ ಬನ್ನಿ” ಮುಂತಾದ ಅವರ ಹಲವು ಗೀತೆಗಳು ಕನ್ನಡ ಜನಮಾನಸದಲ್ಲಿ ಅಚ್ಚಳಿಯದೆ ಉಳಿದಿವೆ. ಕುಲಗೌರವ, ನಾಗರಹಾವು, ಜೀವನಚೈತ್ರ, ಪ್ರೇಮದ ಕಾಣಿಕೆ, ಆನಂದ್ ಮುಂತಾದ ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದಕ್ಕಾಗಿ ಅವರು ಹಲವು ಪ್ರಶಸ್ತಿಗಳನ್ನು ಪಡೆದಿದ್ದಾರೆ. ತಮ್ಮ 59ನೆಯ ವಯಸ್ಸಿನಲ್ಲಿ (1993 ಜುಲೈ 3) ಚಿ. ಉದಯಶಂಕರ್ ತೀರಿಕೊಂಡರು.",
+      "translations": {
+        "en": "Chittanahalli Sadashivayya Udayashankar, famous as Chi. Udayashankar, was born on 18 February 1934 at Holenarasipura. Fame of composing about 4,000 cinema songs is his. Son of Kannada film litterateur Chi. Sadashivayya, Udayashankar saw cinema from childhood. His literary work began with the film “Santa Tukaram.” He wrote over 400 songs for Dr Rajkumar’s films and acted as co-actor in some. Dialogues for Rajkumar’s 88 films were also by Chi. Udayashankar. Songs like “Mamaravello Kogileyello,” “Badihoda Balliyinda Huvu Aralaballude,” “Snehada Kadalli,” “Innadaru Jivanadalli Munde Banni” remain unfaded in Kannada minds. For work in Kulagaurava, Nagarahavu, Jeevanachaitra, Premada Kanike, Anand and others he received many awards. At age 59 (3 July 1993) Chi. Udayashankar passed away.",
+        "hi": "चि. उदयशंकर 18 फ़रवरी 1934 को होलेनरासीपुर में जन्मे। लगभग 4,000 सिनेमा गीत रचे। डॉ. राजकुमार की फ़िल्मों के लिए 400 से अधिक गीत लिखे। 3 जुलाई 1993 को निधन।"
+      },
+      "transliterations": {
+        "devanagari": "चिट्टनहळ्ळि सदाशिवय्य उदयशंकर, चि. उदयशंकर् ऎंदे प्रसिद्धरु. इवरु 1934र फॆब्रवरि 18रंदु हॊळॆनरसीपुरदल्लि जनिसिदरु. सुमारु 4,000दष्टु सिनॆमा गीतॆगळन्नु रचिसिद कीर्ति इवरदु. कन्नडद चित्रसाहितियागिद्द चि. सदाशिवय्यनवर पुत्रराद उदयशंकर् तम्म ऎळवॆय दिनगळिंदले सिनॆमा क्षेत्रवन्नु हत्तिरदिंद नोडिदवरु. “संत तुकाराम्” सिनॆमाद मूलक अवर साहित्यकृषि प्रारंभवायितु. डा. राज्कुमार् अवर सिनॆमागळिगागि सुमारु 400क्कू हॆच्चु गीतॆगळन्नु बरॆदुकॊट्ट उदयशंकर्, राजकुमार् अवर जॊतॆ सहनटनागियू कॆल चलनचित्रगळल्लि अभिनयिसिद्दरु. राजकुमार् अवर 88 चित्रगळिगॆ संभाषणॆ बरॆदद्दु कूड चि. उदयशंकर्. “मामरवॆल्लो कोगिलॆयॆल्लो”, “बाडिहोद बळ्ळियिंद हूवु अरळबल्लुदॆ”, “स्नेहद कडलल्लि”, “इन्नादरू जीवनदल्लि मुंदॆ बन्नि” मुंताद अवर हलवु गीतॆगळु कन्नड जनमानसदल्लि अच्चळियदॆ उळिदिवॆ. कुलगौरव, नागरहावु, जीवनचैत्र, प्रेमद काणिकॆ, आनंद् मुंताद चलनचित्रगळल्लि कॆलस माडिद्दक्कागि अवरु हलवु प्रशस्तिगळन्नु पडॆदिद्दारॆ. तम्म 59नॆय वयस्सिनल्लि (1993 जुलै 3) चि. उदयशंकर् तीरिकॊंडरु.",
+        "latin": "ciṭṭanahaḻḻi sadāśivayya udayaśaṃkara, ci. udayaśaṃkar èṃde prasiddharu. ivaru 1934ra phèbravari 18raṃdu hòḻènarasīpuradalli janisidaru. sumāru 4,000daṣṭu sinèmā gītègaḻannu racisida kīrti ivaradu. kannaḍada citrasāhitiyāgidda ci. sadāśivayyanavara putrarāda udayaśaṃkar tamma èḻavèya dinagaḻiṃdale sinèmā kṣetravannu hattiradiṃda noḍidavaru. “saṃta tukārām” sinèmāda mūlaka avara sāhityakṛṣi prāraṃbhavāyitu. ḍā. rājkumār avara sinèmāgaḻigāgi sumāru 400kkū hèccu gītègaḻannu barèdukòṭṭa udayaśaṃkar, rājakumār avara jòtè sahanaṭanāgiyū kèla calanacitragaḻalli abhinayisiddaru. rājakumār avara 88 citragaḻigè saṃbhāṣaṇè barèdaddu kūḍa ci. udayaśaṃkar. “māmaravèllo kogilèyèllo”, “bāḍihoda baḻḻiyiṃda hūvu araḻaballudè”, “snehada kaḍalalli”, “innādarū jīvanadalli muṃdè banni” muṃtāda avara halavu gītègaḻu kannaḍa janamānasadalli accaḻiyadè uḻidivè. kulagaurava, nāgarahāvu, jīvanacaitra, premada kāṇikè, ānaṃd muṃtāda calanacitragaḻalli kèlasa māḍiddakkāgi avaru halavu praśastigaḻannu paḍèdiddārè. tamma 59nèya vayassinalli (1993 julai 3) ci. udayaśaṃkar tīrikòṃḍaru."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಜೀವನದಲ್ಲಿ ಸೋತವರಿಗೆ ಗೊಂಬೆಯು ಕೊಡುವ ಧೈರ್ಯವೇನು?",
+      "translations": {
+        "en": "What courage does the puppet give to those defeated in life?",
+        "hi": "जीवन में हारे हुए को गुड़िया क्या साहस देती है?"
+      },
+      "transliterations": {
+        "devanagari": "जीवनदल्लि सोतवरिगॆ गॊंबॆयु कॊडुव धैर्यवेनु?",
+        "latin": "jīvanadalli sotavarigè gòṃbèyu kòḍuva dhairyavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಗೊಂಬೆಯು ಹೇಗೆ ತೂಗುತ್ತಿರುತ್ತದೆ?",
+      "translations": {
+        "en": "How does the puppet keep swinging?",
+        "hi": "गुड़िया कैसे झूलती रहती है?"
+      },
+      "transliterations": {
+        "devanagari": "गॊंबॆयु हेगॆ तूगुत्तिरुत्तदॆ?",
+        "latin": "gòṃbèyu hegè tūguttiruttadè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ತಾವು ಕಷ್ಟಪಟ್ಟರೂ ಲೋಕಕ್ಕೆ ಉಪಕಾರ ಮಾಡುವ ಮೂರು ಸಂಗತಿಗಳು ಯಾವುವು?",
+      "translations": {
+        "en": "What are the three things that help the world even while suffering themselves?",
+        "hi": "स्वयं कष्ट सहकर भी लोक का उपकार करने वाली तीन बातें क्या हैं?"
+      },
+      "transliterations": {
+        "devanagari": "तावु कष्टपट्टरू लोकक्कॆ उपकार माडुव मूरु संगतिगळु यावुवु?",
+        "latin": "tāvu kaṣṭapaṭṭarū lokakkè upakāra māḍuva mūru saṃgatigaḻu yāvuvu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಗೊಂಬೆಯು ನಿಶ್ಚಲವಾಗುವುದು ಯಾವಾಗ?",
+      "translations": {
+        "en": "When does the puppet become still?",
+        "hi": "गुड़िया कब निश्चल होती है?"
+      },
+      "transliterations": {
+        "devanagari": "गॊंबॆयु निश्चलवागुवुदु यावाग?",
+        "latin": "gòṃbèyu niścalavāguvudu yāvāga?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಗೊಂಬೆಯು ಹೇಳುವ ನೀತಿಯ ಸಾರಾಂಶವೇನು?",
+      "translations": {
+        "en": "What is the essence of the moral the puppet teaches?",
+        "hi": "गुड़िया की नीति का सार क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "गॊंबॆयु हेळुव नीतिय सारांशवेनु?",
+        "latin": "gòṃbèyu heḻuva nītiya sārāṃśavenu?"
+      },
+      "type": "question"
+    }
+  ]
+}

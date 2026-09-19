@@ -16,8 +16,10 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parent.parent
 BOOK_ID = "ktbs-savi-kannada-g3-fl-p1"
 EDITION_ID = "2026-27"
-EXPECTED_V1_CHAPTERS = 16
-EXPECTED_V2_PUBLISHED = 8
+# Full Savi Kannada FL release (G1–G8) after holds cleared — keep in sync with
+# api/contents.json / api/v2/contents.json after rebuild.
+EXPECTED_V1_CHAPTERS = 81
+EXPECTED_V2_PUBLISHED = 73
 EXPECTED_ADOPTIONS = {
     "savi-kannada-grade1-first-language",
     "savi-kannada-grade2-first-language",
@@ -77,22 +79,26 @@ def main() -> int:
         fail(f"unexpected adoptions: {sorted(adoption_ids)}")
 
     held_paths = {entry["path"] for entry in holds.get("chapters") or []}
-    if not held_paths:
-        fail("api-publication-holds.json has no chapters")
 
     edition_chapters = edition.get("chapters") or []
     held_ids = {ch["id"] for ch in edition_chapters if ch.get("held")}
     published_ids = {ch["id"] for ch in edition_chapters if not ch.get("held")}
 
-    v2_ids = {c["chapterId"] for c in v2_chapters}
-    leaked = held_ids & v2_ids
+    # Scope identity checks to the pilot book — the catalog now includes every
+    # published Savi grade, not only this edition.
+    v2_ids_for_book = {
+        c["chapterId"]
+        for c in v2_chapters
+        if c.get("bookId") == BOOK_ID and c.get("editionId") == EDITION_ID
+    }
+    leaked = held_ids & v2_ids_for_book
     if leaked:
         fail(f"held chapters leaked into api/v2 catalog: {sorted(leaked)}")
-    if published_ids != v2_ids:
-        fail(f"v2 catalog chapters mismatch edition published set: {sorted(published_ids ^ v2_ids)}")
+    if published_ids != v2_ids_for_book:
+        fail(f"v2 catalog chapters mismatch edition published set: {sorted(published_ids ^ v2_ids_for_book)}")
 
     for edition_record in v2.get("editions") or []:
-        # Spot-check the pilot book only; other books may be held-only drafts.
+        # Spot-check the pilot book only.
         if edition_record.get("bookId") != BOOK_ID or edition_record.get("id") != EDITION_ID:
             continue
         for ch in edition_record.get("chapters") or []:
@@ -143,9 +149,14 @@ def main() -> int:
             if payload.exists():
                 fail(f"held chapter has production v2 payload: {payload.relative_to(root)}")
 
+    # Grade 4 (formerly held under the g3 book tree) must now be in the v1 API.
     grade4_api = root / "api" / "KSEEB" / "Karnataka" / "Kannada" / "Grade4"
-    if grade4_api.exists() and any(grade4_api.rglob("*.json")):
-        fail("held Grade 4 chapters must not appear under api/KSEEB/.../Grade4")
+    if not grade4_api.is_dir() or not any(grade4_api.rglob("*.json")):
+        fail("expected published Grade 4 chapters under api/KSEEB/.../Grade4")
+
+    v1_grades = {c.get("grade") for c in v1_chapters}
+    if not {1, 2, 3, 4, 5, 6, 7, 8}.issubset(v1_grades):
+        fail(f"v1 catalog missing expected grades 1–8, got {sorted(v1_grades)}")
 
     print("v2 acceptance spot-checks passed.")
     print(f"  v1 chapters: {len(v1_chapters)}")

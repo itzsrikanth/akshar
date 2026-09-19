@@ -1,0 +1,990 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g5-fl-p1",
+    "chapterId": "ch08-kannada-kannada-barri-namma-sangada",
+    "editionId": "2026-27",
+    "number": 8
+  },
+  "labels": {
+    "author_intro": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार का परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kr̥tikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. केळगिन प्रश्नेगळिगे ओंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions in one sentence.",
+      "hi": "अ. निम्नलिखित प्रश्नों के एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. keḷagina praśnegaḷige ondu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. केळगिन प्रश्नेगळिगे एरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions in two or three sentences.",
+      "hi": "आ. निम्नलिखित प्रश्नों के दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. keḷagina praśnegaḷige eraḍu-mūru vākyagaḷalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. बिट्ट स्थळगळन्नु तुंबिरि.",
+      "en": "C. Fill in the blanks.",
+      "hi": "इ. रिक्त स्थान भरिए।",
+      "kn": "ಇ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.",
+      "latin": "i. biṭṭa sthaḷagaḷannu tumbiri."
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar information",
+      "hi": "व्याकरण जानकारी",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "grammar-A": {
+      "devanagari": "अ. पदगळन्नु कूडिसि बरेयिरि.",
+      "en": "A. Join the words and write.",
+      "hi": "अ. पद जोड़कर लिखिए।",
+      "kn": "ಅ. ಪದಗಳನ್ನು ಕೂಡಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "a. padagaḷannu kūḍisi bareyiri."
+    },
+    "grammar-B": {
+      "devanagari": "आ. पदगळन्नु बिडिसि संधिय हेसरु तिळिसिरि.",
+      "en": "B. Split the words and name the sandhi.",
+      "hi": "आ. पद तोड़कर संधि का नाम बताइए।",
+      "kn": "ಆ. ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಸಂಧಿಯ ಹೆಸರು ತಿಳಿಸಿರಿ.",
+      "latin": "ā. padagaḷannu biḍisi sandhiya hesaru tiḷisiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "pravēśa"
+    },
+    "language-exercise": {
+      "devanagari": "भाषाभ्यास",
+      "en": "Language practice",
+      "hi": "भाषाभ्यास",
+      "kn": "ಭಾಷಾಭ್ಯಾಸ",
+      "latin": "bhāṣābhyāsa"
+    },
+    "language-exercise-A": {
+      "devanagari": "आ. ओदिगे मन्नणे",
+      "en": "B. Recognition for reading",
+      "hi": "आ. पढ़ने की मान्यता",
+      "kn": "ಆ. ಓದಿಗೆ ಮನ್ನಣೆ",
+      "latin": "ā. ōdige mannaṇe"
+    },
+    "language-exercise-B": {
+      "devanagari": "इ. शुभनुडि",
+      "en": "C. Good sayings",
+      "hi": "इ. शुभ वचन",
+      "kn": "ಇ. ಶುಭನುಡಿ",
+      "latin": "i. śubhanuḍi"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "पदों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    }
+  },
+  "meta": {
+    "author": "ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 5,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch08-kannada-kannada-barri-namma-sangada",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕನ್ನಡ ನಾಡು ನುಡಿಯ ಬಗೆಗೆ ಅಭಿಮಾನವಿರಬೇಕು. ಕನ್ನಡ ನಾಡು ನುಡಿಯ ರಕ್ಷಣೆ ನಮ್ಮೆಲ್ಲರ ಕರ್ತವ್ಯವಾಗಬೇಕು. ಅದಕ್ಕಾಗಿ ನಾವೆಲ್ಲರೂ ಒಂದಾಗಬೇಕು. ಕನ್ನಡ ನಾಡನ್ನು ಕಟ್ಟುವ ಕಾರ್ಯಕ್ಕೆ ಮುಂದಾಗಬೇಕು. ಕನ್ನಡ ಬಾಳಿಗೆ ಅನ್ನ ಕೊಡುವ ಭಾಷೆಯಾಗಬೇಕು. ಇದಕ್ಕಾಗಿ ಎಲ್ಲರೂ ಬನ್ನಿ ಕೈಜೋಡಿಸೋಣ ಎಂಬುದು ಕವಿಯ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "We should have pride in the Kannada land and language. Protecting Kannada land and language should be everyone’s duty. For that we must all become one. We must come forward to build the Kannada land. Kannada should become a language that gives food for life. For this, let us all come and join hands—this is the poet’s aim.",
+        "hi": "कन्नड़ नाडु और भाषा पर अभिमान होना चाहिए। कन्नड़ नाडु-भाषा की रक्षा सबका कर्तव्य बनना चाहिए। उसके लिए हम सब एक हों। कन्नड़ नाडु को गढ़ने के कार्य में आगे आएँ। कन्नड़ जीवन के लिए अन्न देने वाली भाषा बने। इसके लिए सब आओ, हाथ मिलाएँ—यह कवि का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड नाडु नुडिय बगेगे अभिमानविरबेकु. कन्नड नाडु नुडिय रक्षणे नम्मेल्लर कर्तव्यवागबेकु. अदक्कागि नावेल्लरू ओंदागबेकु. कन्नड नाडन्नु कट्टुव कार्यक्के मुंदागबेकु. कन्नड बाळिगे अन्न कोडुव भाषेयागबेकु. इदक्कागि एल्लरू बन्नि कैजोडिसोण एंबुदु कविय आशयवागिदे.",
+        "latin": "kannaḍa nāḍu nuḍiya bagege abhimānavirabēku. kannaḍa nāḍu nuḍiya rakṣaṇe nammellara kartavyavāgabēku. adakkāgi nāvellarū ondāgabēku. kannaḍa nāḍannu kaṭṭuva kāryakke mundāgabēku. kannaḍa bāḷige anna koḍuva bhāṣeyāgabēku. idakkāgi ellarū banni kaijōḍisōṇa embudu kaviya āśayavāgide."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಎಲ್ಲೆಲ್ಲೂ ಉಸಿರಬೇಕು",
+      "translations": {
+        "en": "Everywhere it must breathe",
+        "hi": "हर जगह साँस लेनी चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "एल्लेल्लू उसिरबेकु",
+        "latin": "ellellū usirabēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ನಮ್ಮ ನುಡಿ ಕನ್ನಡ",
+      "translations": {
+        "en": "our tongue, Kannada",
+        "hi": "हमारी बोली कन्नड़"
+      },
+      "transliterations": {
+        "devanagari": "नम्म नुडि कन्नड",
+        "latin": "namma nuḍi kannaḍa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಸಿರಿನಾಡನು ಕಟ್ಟಲಿಕ್ಕೆ",
+      "translations": {
+        "en": "To build the prosperous land",
+        "hi": "समृद्ध नाडु गढ़ने के लिए"
+      },
+      "transliterations": {
+        "devanagari": "सिरिनाडनु कट्टलिक्के",
+        "latin": "sirināḍanu kaṭṭalikke"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ",
+      "translations": {
+        "en": "come with us",
+        "hi": "हमारे साथ आओ"
+      },
+      "transliterations": {
+        "devanagari": "बर्रि नम्म संगड",
+        "latin": "barri namma saṅgaḍa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಕೈಯ ತುಂಬ ಕೆಲಸಬೇಕು",
+      "translations": {
+        "en": "Hands must be full of work",
+        "hi": "हाथ काम से भरे होने चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "कैय तुंब केलसबेकु",
+        "latin": "kaiya tumba kelasabēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಬೇಕು ಹೊಟ್ಟೆಗನ್ನ",
+      "translations": {
+        "en": "the belly needs food",
+        "hi": "पेट को अन्न चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "बेकु होट्टेगन्न",
+        "latin": "bēku hoṭṭeganna"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಅಕ್ಷರಗಳ ಕನ್ನ ಕೊರೆದು",
+      "translations": {
+        "en": "Carving the eye of letters",
+        "hi": "अक्षरों की आँख खोदकर"
+      },
+      "transliterations": {
+        "devanagari": "अक्षरगळ कन्न कोरेदु",
+        "latin": "akṣaragaḷa kanna koredu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಬರಲಿ ಅರಿವು - ಚಿನ್ನ",
+      "translations": {
+        "en": "let knowledge come—gold",
+        "hi": "ज्ञान आए—सोना"
+      },
+      "transliterations": {
+        "devanagari": "बरलि अरिवु - चिन्न",
+        "latin": "barali arivu - cinna"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಮೈಯ ತುಂಬ ಬಟ್ಟೆಬೇಕು",
+      "translations": {
+        "en": "The body needs clothes",
+        "hi": "तन को वस्त्र चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "मैय तुंब बट्टेबेकु",
+        "latin": "maiya tumba baṭṭebēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ನೆತ್ತಿಗೊಂದು ಆಸರ",
+      "translations": {
+        "en": "a shelter for the head",
+        "hi": "सिर के लिए एक छाया"
+      },
+      "transliterations": {
+        "devanagari": "नेत्तिगोंदु आसर",
+        "latin": "nettigondu āsara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಭೂಮಿ ತುಂಬ ಬಿತ್ತಬೇಕು",
+      "translations": {
+        "en": "The earth must be sown full",
+        "hi": "धरती भर बोना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "भूमि तुंब बित्तबेकु",
+        "latin": "bhūmi tumba bittabēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ತನ್ನ ಬೆಳಕು ನೇಸರ",
+      "translations": {
+        "en": "with its own light, the sun",
+        "hi": "अपना प्रकाश, सूर्य"
+      },
+      "transliterations": {
+        "devanagari": "तन्न बेळकु नेसर",
+        "latin": "tanna beḷaku nēsara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ತಲೆಯ ತುಂಬ ಬೆಂಕಿ ತುಂಬಿ",
+      "translations": {
+        "en": "Filling the head with fire",
+        "hi": "सिर भर अग्नि भरकर"
+      },
+      "transliterations": {
+        "devanagari": "तलेय तुंब बेंकि तुंबि",
+        "latin": "taleya tumba beṅki tumbi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಮಿಂಚಬೇಕು ಕಂಗಳು",
+      "translations": {
+        "en": "the eyes must flash",
+        "hi": "आँखें चमकनी चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "मिंचबेकु कंगळु",
+        "latin": "miñcabēku kaṅgaḷu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ಎದೆಯ ತುಂಬಿ ತುಳುಕಬೇಕು",
+      "translations": {
+        "en": "Filling the chest, it must overflow",
+        "hi": "सीना भरकर उमड़ना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "एदेय तुंबि तुळुकबेकु",
+        "latin": "edeya tumbi tuḷukabēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಪ್ರೀತಿಯ ಬೆಳದಿಂಗಳು",
+      "translations": {
+        "en": "with the moonlight of love",
+        "hi": "प्रेम की चाँदनी"
+      },
+      "transliterations": {
+        "devanagari": "प्रीतिय बेळदिंगळु",
+        "latin": "prītiya beḷadiṅgaḷu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಇಂಥ ನಾಡು ಕಟ್ಟಬೇಕು",
+      "translations": {
+        "en": "Such a land we must build",
+        "hi": "ऐसा नाडु गढ़ना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "इंथ नाडु कट्टबेकु",
+        "latin": "intha nāḍu kaṭṭabēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ",
+      "translations": {
+        "en": "come with us",
+        "hi": "हमारे साथ आओ"
+      },
+      "transliterations": {
+        "devanagari": "बर्रि नम्म संगड",
+        "latin": "barri namma saṅgaḍa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ಎಲ್ಲೆಲ್ಲೂ ಮೊಳಗಬೇಕು",
+      "translations": {
+        "en": "Everywhere it must ring",
+        "hi": "हर जगह गूँजना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "एल्लेल्लू मोळगबेकु",
+        "latin": "ellellū moḷagabēku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಕನ್ನಡ ಕನ್ನಡ",
+      "translations": {
+        "en": "Kannada, Kannada",
+        "hi": "कन्नड़ कन्नड़"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड कन्नड",
+        "latin": "kannaḍa kannaḍa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l5",
+      "stanza": 5,
+      "text": "ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ",
+      "translations": {
+        "en": "Kannada, Kannada, come with us",
+        "hi": "कन्नड़ कन्नड़, हमारे साथ आओ"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड कन्नड बर्रि नम्म संगड",
+        "latin": "kannaḍa kannaḍa barri namma saṅgaḍa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-intro-1",
+      "section": "author_intro",
+      "text": "ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ : ‘ಚಂಪಾ’ಎಂಬ ಸಂಕ್ಷಿಪ್ತನಾಮದಿಂದ ಪ್ರಸಿದ್ಧರಾದ ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ ಅವರು ಸಾ. ಶ. 1939 ರಲ್ಲಿ ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಸವಣೂರು ತಾಲ್ಲೂಕಿನ ಹತ್ತಿಮತ್ತೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಇವರು ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಇಂಗ್ಲಿಷ್ ವಿಭಾಗದ ನಿರ್ದೇಶಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದರು. ಇವರು ಬಾನುಲಿ, ಮಧ್ಯಬಿಂದು, ಹೂವು-ಹಣ್ಣು, ಅರ್ಧಸತ್ಯದ ಹುಡುಗಿ ಮೊದಲಾದ ಕವನ ಸಂಕಲನಗಳನ್ನು; ಕೊಡೆಗಳು, ಅಪ್ಪ, ಕುಂಟಕುಂಟ ಕುರುವತ್ತಿ, ಟಿಂಗರಬುಡ್ಡಣ್ಣ ಮೊದಲಾದ ನಾಟಕಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರಿಗೆ ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿಗಳು ಲಭಿಸಿವೆ.",
+      "translations": {
+        "en": "Chandrashekhara Patila: Famous by the short name “Champa”, Chandrashekhara Patila was born in 1939 CE in Hattimattur of Savanur taluk, Haveri district. He served as director of the English department at Karnatak University. He has written poetry collections such as Banuli, Madhyabindu, Huvu-Hannu and Ardhasatyada Hudugi; and plays such as Kodegalu, Appa, Kuntakunta Kuruvatti and Tingarabuddanna. He has received the State Sahitya Akademi Award, Rajyotsava Award and Pampa Award.",
+        "hi": "चंद्रशेखर पाटील : «चंपा» संक्षिप्त नाम से प्रसिद्ध चंद्रशेखर पाटील का जन्म सन् 1939 में हावेरी जिले के सवणूर तालुक के हत्तिमत्तूर में हुआ। वे कर्नाटक विश्वविद्यालय के अंग्रेज़ी विभाग के निदेशक रहे। उन्होंने बानुली, मध्यबिंदु, हूवु-हण्णु, अर्धसत्यद हुडुगि आदि काव्यसंग्रह; कोडेगळु, अप्प, कुंटकुंट कुरुवत्ति, टिंगरबुड्डण्ण आदि नाटक रचे हैं। उन्हें राज्य साहित्य अकादमी पुरस्कार, राज्योत्सव पुरस्कार, पंप पुरस्कार मिले हैं।"
+      },
+      "transliterations": {
+        "devanagari": "चंद्रशेखर पाटील : ‘चंपा’एंब संक्षिप्तनामदिंद प्रसिद्धराद चंद्रशेखर पाटील अवरु सा. श. 1939 रल्लि हावेरि जिल्लेय सवणूरु ताल्लूकिन हत्तिमत्तूरिनल्लि जनिसिदरु. इवरु कर्नाटक विश्वविद्यालयद इंग्लिष् विभागद निर्देशकरागि कार्य निर्वहिसिदरु. इवरु बानुलि, मध्यबिंदु, हूवु-हण्णु, अर्धसत्यद हुडुगि मोदलाद कवन संकलनगळन्नु; कोडेगळु, अप्प, कुंटकुंट कुरुवत्ति, टिंगरबुड्डण्ण मोदलाद नाटकगळन्नु रचिसिद्दारे. इवरिगे राज्य साहित्य अकाडेमि प्रशस्ति, राज्योत्सव प्रशस्ति, पंप प्रशस्तिगळु लभिसिवे.",
+        "latin": "candraśēkhara pāṭīla : ‘campā’emba saṅkṣiptanāmadinda prasiddharāda candraśēkhara pāṭīla avaru sā. śa. 1939 ralli hāvēri jilleya savaṇūru tāllūkina hattimattūrinalli janisidaru. ivaru karnāṭaka viśvavidyālayada iṅgliṣ vibhāgada nirdēśakarāgi kārya nirvahisidaru. ivaru bānuli, madhyabindu, hūvu-haṇṇu, ardhasatyada huḍugi modalāda kavana saṅkalanagaḷannu; koḍegaḷu, appa, kuṇṭakuṇṭa kuruvatti, ṭiṅgarabuḍḍaṇṇa modalāda nāṭakagaḷannu racisiddāre. ivarige rājya sāhitya akāḍemi praśasti, rājyōtsava praśasti, pampa praśastigaḷu labhisive."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-arivu",
+      "text": "ಅರಿವು",
+      "translations": {
+        "en": "arivu (knowledge)",
+        "hi": "अरिवु"
+      },
+      "transliterations": {
+        "devanagari": "अरिवु",
+        "latin": "arivu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-arivu-def",
+      "text": "ಜ್ಞಾನ, ತಿಳಿವಳಿಕೆ",
+      "translations": {
+        "en": "knowledge, understanding",
+        "hi": "ज्ञान, समझ"
+      },
+      "transliterations": {
+        "devanagari": "ज्ञान, तिळिवळिके",
+        "latin": "jñāna, tiḷivaḷike"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-asara",
+      "text": "ಆಸರ",
+      "translations": {
+        "en": "asara (shelter)",
+        "hi": "आसर"
+      },
+      "transliterations": {
+        "devanagari": "आसर",
+        "latin": "āsara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-asara-def",
+      "text": "ನೆರಳು, ಆಶ್ರಯ",
+      "translations": {
+        "en": "shade, shelter",
+        "hi": "छाया, आश्रय"
+      },
+      "transliterations": {
+        "devanagari": "नेरळु, आश्रय",
+        "latin": "neraḷu, āśraya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kanna",
+      "text": "ಕನ್ನ",
+      "translations": {
+        "en": "kanna (hole/eye)",
+        "hi": "कन्न"
+      },
+      "transliterations": {
+        "devanagari": "कन्न",
+        "latin": "kanna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kanna-def",
+      "text": "ರಂಧ್ರ",
+      "translations": {
+        "en": "hole, aperture",
+        "hi": "छेद"
+      },
+      "transliterations": {
+        "devanagari": "रंध्र",
+        "latin": "randhra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tulukabeku",
+      "text": "ತುಳುಕಬೇಕು",
+      "translations": {
+        "en": "tulukabeku (must overflow)",
+        "hi": "तुलुकबेकु"
+      },
+      "transliterations": {
+        "devanagari": "तुळुकबेकु",
+        "latin": "tuḷukabēku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tulukabeku-def",
+      "text": "ತುಂಬಿ ಹರಿಯಬೇಕು",
+      "translations": {
+        "en": "must fill and overflow",
+        "hi": "भरकर बहना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "तुंबि हरियबेकु",
+        "latin": "tumbi hariyabēku"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nudi",
+      "text": "ನುಡಿ",
+      "translations": {
+        "en": "nudi (speech)",
+        "hi": "नुडि"
+      },
+      "transliterations": {
+        "devanagari": "नुडि",
+        "latin": "nuḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nudi-def",
+      "text": "ಮಾತು",
+      "translations": {
+        "en": "speech, word",
+        "hi": "बात, वचन"
+      },
+      "transliterations": {
+        "devanagari": "मातु",
+        "latin": "mātu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nesara",
+      "text": "ನೇಸರ",
+      "translations": {
+        "en": "nesara (sun)",
+        "hi": "नेसर"
+      },
+      "transliterations": {
+        "devanagari": "नेसर",
+        "latin": "nēsara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nesara-def",
+      "text": "ಸೂರ್ಯ",
+      "translations": {
+        "en": "sun",
+        "hi": "सूर्य"
+      },
+      "transliterations": {
+        "devanagari": "सूर्य",
+        "latin": "sūrya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-molagabeku",
+      "text": "ಮೊಳಗಬೇಕು",
+      "translations": {
+        "en": "molagabeku (must resound)",
+        "hi": "मोळगबेकु"
+      },
+      "transliterations": {
+        "devanagari": "मोळगबेकु",
+        "latin": "moḷagabēku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-molagabeku-def",
+      "text": "ಶಬ್ದಮಾಡಬೇಕು",
+      "translations": {
+        "en": "must make sound",
+        "hi": "ध्वनि करनी चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "शब्दमाडबेकु",
+        "latin": "śabdamāḍabēku"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sirinadu",
+      "text": "ಸಿರಿನಾಡು",
+      "translations": {
+        "en": "sirinadu (prosperous land)",
+        "hi": "सिरिनाडु"
+      },
+      "transliterations": {
+        "devanagari": "सिरिनाडु",
+        "latin": "sirināḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sirinadu-def",
+      "text": "ಸಂಪತ್ತಿನಿಂದ ಕೂಡಿದ ನಾಡು",
+      "translations": {
+        "en": "a land full of wealth",
+        "hi": "संपत्ति से युक्त नाडु"
+      },
+      "transliterations": {
+        "devanagari": "संपत्तिनिंद कूडिद नाडु",
+        "latin": "sampattininda kūḍida nāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಎಲ್ಲೆಲ್ಲೂ ಯಾವ ನುಡಿ ಉಸಿರಬೇಕು?",
+      "translations": {
+        "en": "Which tongue must breathe everywhere?",
+        "hi": "हर जगह कौन-सी बोली साँस लेनी चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "एल्लेल्लू याव नुडि उसिरबेकु?",
+        "latin": "ellellū yāva nuḍi usirabēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಅಕ್ಷರಗಳ ಕನ್ನ ಕೊರೆದು ಏನು ಬರಬೇಕು?",
+      "translations": {
+        "en": "Carving the eye of letters, what should come?",
+        "hi": "अक्षरों की आँख खोदकर क्या आना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "अक्षरगळ कन्न कोरेदु एनु बरबेकु?",
+        "latin": "akṣaragaḷa kanna koredu ēnu barabēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಭೂಮಿಯ ತುಂಬ ಬೆಳಕನ್ನು ಬಿತ್ತುವವನು ಯಾರು?",
+      "translations": {
+        "en": "Who sows light all over the earth?",
+        "hi": "धरती भर प्रकाश कौन बोता है?"
+      },
+      "transliterations": {
+        "devanagari": "भूमिय तुंब बेळकन्नु बित्तुववनु यारु?",
+        "latin": "bhūmiya tumba beḷakannu bittuvavanu yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಕಂಗಳು ಹೇಗೆ ಮಿಂಚಬೇಕು?",
+      "translations": {
+        "en": "How should the eyes flash?",
+        "hi": "आँखें कैसे चमकनी चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "कंगळु हेगे मिंचबेकु?",
+        "latin": "kaṅgaḷu hēge miñcabēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಸಿರಿನಾಡನ್ನು ಕಟ್ಟಲು ಏನೇನು ಬೇಕು?",
+      "translations": {
+        "en": "What all is needed to build the prosperous land?",
+        "hi": "समृद्ध नाडु गढ़ने के लिए क्या-क्या चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "सिरिनाडन्नु कट्टलु एनेनु बेकु?",
+        "latin": "sirināḍannu kaṭṭalu ēnēnu bēku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಕವಿಯು ಎಂಥ ನಾಡು ಕಟ್ಟಬೇಕು ಎನ್ನುತ್ತಾರೆ?",
+      "translations": {
+        "en": "What kind of land does the poet say we must build?",
+        "hi": "कवि कैसा नाडु गढ़ना चाहिए कहते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "कवियु एंथ नाडु कट्टबेकु एन्नुत्तारे?",
+        "latin": "kaviyu entha nāḍu kaṭṭabēku ennuttāre?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಕೈಯ ತುಂಬ __________ ಬೇಕು.",
+      "translations": {
+        "en": "Hands must be full of __________.",
+        "hi": "हाथ भर __________ चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "कैय तुंब __________ बेकु.",
+        "latin": "kaiya tumba __________ bēku."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಎಲ್ಲೆಲ್ಲೂ __________ ಕನ್ನಡ ಕನ್ನಡ.",
+      "translations": {
+        "en": "Everywhere __________ Kannada Kannada.",
+        "hi": "हर जगह __________ कन्नड़ कन्नड़।"
+      },
+      "transliterations": {
+        "devanagari": "एल्लेल्लू __________ कन्नड कन्नड.",
+        "latin": "ellellū __________ kannaḍa kannaḍa."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ಮೈಯ ತುಂಬ __________ ಬೇಕು.",
+      "translations": {
+        "en": "The body must have __________.",
+        "hi": "तन भर __________ चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "मैय तुंब __________ बेकु.",
+        "latin": "maiya tumba __________ bēku."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ಎದೆಯ ತುಂಬಿ __________ ಪ್ರೀತಿಯ ಬೆಳದಿಂಗಳು.",
+      "translations": {
+        "en": "Filling the chest __________ the moonlight of love.",
+        "hi": "सीना भरकर __________ प्रेम की चाँदनी।"
+      },
+      "transliterations": {
+        "devanagari": "एदेय तुंबि __________ प्रीतिय बेळदिंगळु.",
+        "latin": "edeya tumbi __________ prītiya beḷadiṅgaḷu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "grammar-p1",
+      "section": "grammar",
+      "text": "ಆಗಮ ಸಂಧಿ\nಮಳೆ + ಅನ್ನು = ಮಳೆಯನ್ನು\nಇಲ್ಲಿ ಮಳೆ ಎಂಬ ಪೂರ್ವಪದದ ಅಂತ್ಯದಲ್ಲಿರುವ ‘ಎ’ ಕಾರಕ್ಕೂ, ಅನ್ನು ಎಂಬ ಉತ್ತರಪದದ ಆದಿಯಲ್ಲಿರುವ ‘ಅ’ ಕಾರಕ್ಕೂ ಸಂಧಿ ಆಗುವಾಗ ‘ಯ್’ ಎಂಬ ಅಕ್ಷರ ಹೊಸದಾಗಿ ಬಂದಿದೆ.\nಹೀಗೆ ಸಂಧಿಯಾಗುವಾಗ ಹೊಸದಾಗಿ ಒಂದು ಅಕ್ಷರ ಬಂದರೆ ಅದನ್ನು ಆಗಮಸಂಧಿ ಎನ್ನುವರು. ಇದರಲ್ಲಿ ಯಕಾರಾಗಮ ಸಂಧಿ ಮತ್ತು ವಕಾರಾಗಮ ಸಂಧಿ ಎಂದು ಎರಡು ವಿಧಗಳಿವೆ.",
+      "translations": {
+        "en": "Agama sandhi\nmale + annu = maleyannu\nHere, when sandhi occurs between the final “e” of the first word male and the initial “a” of the second word annu, a new letter “y” appears.\nWhen a new letter appears during sandhi, it is called agama sandhi. There are two kinds: yakaragama sandhi and vakaragama sandhi.",
+        "hi": "आगम संधि\nमळे + अन्नु = मळेयन्नु\nयहाँ पूर्वपद मळे के अंत के «ए» और उत्तरपद अन्नु के आदि के «अ» की संधि में नया अक्षर «य्» आया है।\nसंधि में नया अक्षर आए तो उसे आगम संधि कहते हैं। इसमें यकारागम और वकारागम दो भेद हैं।"
+      },
+      "transliterations": {
+        "devanagari": "आगम संधि\nमळे + अन्नु = मळेयन्नु\nइल्लि मळे एंब पूर्वपदद अंत्यदल्लिरुव ‘ए’ कारक्कू, अन्नु एंब उत्तरपदद आदियल्लिरुव ‘अ’ कारक्कू संधि आगुवाग ‘य्’ एंब अक्षर होसदागि बंदिदे.\nहीगे संधियागुवाग होसदागि ओंदु अक्षर बंदरे अदन्नु आगमसंधि एन्नुवरु. इदरल्लि यकारागम संधि मत्तु वकारागम संधि एंदु एरडु विधगळिवे.",
+        "latin": "āgama sandhi\nmaḷe + annu = maḷeyannu\nilli maḷe emba pūrvapadada antyadalliruva ‘e’ kārakkū, annu emba uttarapadada ādiyalliruva ‘a’ kārakkū sandhi āguvāga ‘y’ emba akṣara hosadāgi bandide.\nhīge sandhiyāguvāga hosadāgi ondu akṣara bandare adannu āgamasandhi ennuvaru. idaralli yakārāgama sandhi mattu vakārāgama sandhi endu eraḍu vidhagaḷive."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p2",
+      "section": "grammar",
+      "text": "ಆದೇಶ ಸಂಧಿ\nಮೈ + ತೊಳೆ = ಮೈದೊಳೆ\nಇಲ್ಲಿ ಮೈದೊಳೆ ಎಂಬ ಪದದಲ್ಲಿ ‘ತ’ (ತೊ) ಅಕ್ಷರದ ಬದಲಿಗೆ ‘ದ’ (ದೊ) ಅಕ್ಷರ ಬಂದಿದೆ.\nಹೀಗೆ ಸಂಧಿಯಾಗುವಾಗ ಒಂದು ಅಕ್ಷರದ ಸ್ಥಾನದಲ್ಲಿ ಬೇರೊಂದು ಅಕ್ಷರ ಬಂದರೆ ಅದನ್ನು ಆದೇಶಸಂಧಿ ಎನ್ನುವರು. ಇಲ್ಲಿ ಉತ್ತರ ಪದದ ಮೊದಲನೆಯ ಅಕ್ಷರವು ಬದಲಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ ಕ,ತ,ಪ ಗಳಿಗೆ ಕ್ರಮವಾಗಿ ಗ,ದ,ಬ ಗಳು ಆದೇಶವಾಗಿ ಬರುತ್ತವೆ.",
+      "translations": {
+        "en": "Adesha sandhi\nmai + tole = maidole\nIn the word maidole, the letter “ta” (to) is replaced by “da” (do).\nWhen during sandhi one letter’s place is taken by another letter, it is called adesha sandhi. Here the first letter of the second word changes. Generally ka, ta, pa become ga, da, ba respectively.",
+        "hi": "आदेश संधि\nमै + तोळे = मैदोळे\nयहाँ मैदोळे में «त» (तो) के स्थान पर «द» (दो) आया है।\nसंधि में एक अक्षर के स्थान पर दूसरा आए तो आदेश संधि कहते हैं। यहाँ उत्तरपद का पहला अक्षर बदलता है। सामान्यतः क, त, प के स्थान पर क्रमशः ग, द, ब आते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "आदेश संधि\nमै + तोळे = मैदोळे\nइल्लि मैदोळे एंब पददल्लि ‘त’ (तो) अक्षरद बदलिगे ‘द’ (दो) अक्षर बंदिदे.\nहीगे संधियागुवाग ओंदु अक्षरद स्थानदल्लि बेरोंदु अक्षर बंदरे अदन्नु आदेशसंधि एन्नुवरु. इल्लि उत्तर पदद मोदलनेय अक्षरवु बदलागुत्तदे. सामान्यवागि क,त,प गळिगे क्रमवागि ग,द,ब गळु आदेशवागि बरुत्तवे.",
+        "latin": "ādēśa sandhi\nmai + toḷe = maidoḷe\nilli maidoḷe emba padadalli ‘ta’ (to) akṣarada badalige ‘da’ (do) akṣara bandide.\nhīge sandhiyāguvāga ondu akṣarada sthānadalli bērondu akṣara bandare adannu ādēśasandhi ennuvaru. illi uttara padada modalaneya akṣaravu badalāguttade. sāmānyavāgi ka,ta,pa gaḷige kramavāgi ga,da,ba gaḷu ādēśavāgi baruttave."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "grammar-p3",
+      "section": "grammar",
+      "text": "ಈ ರೀತಿಯಾದ ಇನ್ನು ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ಗಮನಿಸೋಣ :\nಕುಡು + ಕೋಲು = ಕುಡುಗೋಲು : ‘ಕ’ ದ ಬದಲು ‘ಗ’ ಆಗಿದೆ.\nಬೆಟ್ಟ + ತಾವರೆ = ಬೆಟ್ಟದಾವರೆ : ‘ತ’ ದ ಬದಲು ‘ದ’ ಆಗಿದೆ.\nಕಣ್ + ಪನಿ = ಕಂಬನಿ : ‘ಪ’ ದ ಬದಲು ‘ಬ’ ಆಗಿದೆ.",
+      "translations": {
+        "en": "Let us notice a few more such examples:\nkudu + kolu = kudugolu : “ka” becomes “ga”.\nbetta + tavare = bettadavare : “ta” becomes “da”.\nkan + pani = kambani : “pa” becomes “ba”.",
+        "hi": "ऐसे और कुछ उदाहरण देखें:\nकुडु + कोलु = कुडुगोलु : «क» के स्थान पर «ग»।\nबेट्ट + तावरे = बेट्टदावरे : «त» के स्थान पर «द»।\nकण् + पनि = कंबनि : «प» के स्थान पर «ब»।"
+      },
+      "transliterations": {
+        "devanagari": "ई रीतियाद इन्नु केलवु उदाहरणेगळन्नु गमनिसोण :\nकुडु + कोलु = कुडुगोलु : ‘क’ द बदलु ‘ग’ आगिदे.\nबेट्ट + तावरे = बेट्टदावरे : ‘त’ द बदलु ‘द’ आगिदे.\nकण् + पनि = कंबनि : ‘प’ द बदलु ‘ब’ आगिदे.",
+        "latin": "ī rītiyāda innu kelavu udāharaṇegaḷannu gamanisōṇa :\nkuḍu + kōlu = kuḍugōlu : ‘ka’ da badalu ‘ga’ āgide.\nbeṭṭa + tāvare = beṭṭadāvare : ‘ta’ da badalu ‘da’ āgide.\nkaṇ + pani = kambani : ‘pa’ da badalu ‘ba’ āgide."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q1",
+      "text": "1. ಮೇಲೆ + ಇಟ್ಟುಕೊಂಡು",
+      "translations": {
+        "en": "1. mele + ittukondu",
+        "hi": "1. मेले + इट्टुकोंडु"
+      },
+      "transliterations": {
+        "devanagari": "1. मेले + इट्टुकोंडु",
+        "latin": "1. mēle + iṭṭukoṇḍu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q2",
+      "text": "2. ಶುಭ್ರ + ಆಯಿತು",
+      "translations": {
+        "en": "2. shubhra + ayitu",
+        "hi": "2. शुभ्र + आयितु"
+      },
+      "transliterations": {
+        "devanagari": "2. शुभ्र + आयितु",
+        "latin": "2. śubhra + āyitu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-A",
+      "id": "grammar-a-q3",
+      "text": "3. ಬಂಡೆ + ಅನ್ನು",
+      "translations": {
+        "en": "3. bande + annu",
+        "hi": "3. बंडे + अन्नु"
+      },
+      "transliterations": {
+        "devanagari": "3. बंडे + अन्नु",
+        "latin": "3. baṇḍe + annu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "grammar-B",
+      "id": "grammar-b-q1",
+      "text": "ಸವಿಗನ್ನಡ, ಮರವನ್ನು, ನಾವೆಲ್ಲಾ, ದಾರಿಯಲ್ಲಿ, ಒಂದೊಂದು.",
+      "translations": {
+        "en": "savigannada, maravannu, navella, dariyalli, ondondu.",
+        "hi": "सविगन्नड, मरवन्नु, नावेल्ला, दारियल्लि, ओन्दोन्दु।"
+      },
+      "transliterations": {
+        "devanagari": "सविगन्नड, मरवन्नु, नावेल्ला, दारियल्लि, ओंदोंदु.",
+        "latin": "savigannaḍa, maravannu, nāvellā, dāriyalli, ondondu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q1",
+      "text": "1. ಕನ್ನಡ ನಾಡಿನ ಅರಣ್ಯ ಸಂಪತ್ತಿನ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ.",
+      "translations": {
+        "en": "1. Learn about the forest wealth of the Kannada land.",
+        "hi": "1. कन्नड़ नाडु की वन संपदा के बारे में जानिए।"
+      },
+      "transliterations": {
+        "devanagari": "1. कन्नड नाडिन अरण्य संपत्तिन बग्गे तिळियिरि.",
+        "latin": "1. kannaḍa nāḍina araṇya sampattina bagge tiḷiyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q2",
+      "text": "2. ಕನ್ನಡ ನಾಡಿನ ಶ್ರೇಷ್ಠ ವ್ಯಕ್ತಿಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ.",
+      "translations": {
+        "en": "2. Learn about great people of the Kannada land.",
+        "hi": "2. कन्नड़ नाडु के श्रेष्ठ व्यक्तियों के बारे में जानिए।"
+      },
+      "transliterations": {
+        "devanagari": "2. कन्नड नाडिन श्रेष्ठ व्यक्तिगळ बग्गे तिळियिरि.",
+        "latin": "2. kannaḍa nāḍina śrēṣṭha vyaktigaḷa bagge tiḷiyiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q3",
+      "text": "3. ಕನ್ನಡ ನಾಡು ಕುರಿತ ಕವನಗಳನ್ನು ಓದಿರಿ.",
+      "translations": {
+        "en": "3. Read poems about the Kannada land.",
+        "hi": "3. कन्नड़ नाडु संबंधी कविताएँ पढ़िए।"
+      },
+      "transliterations": {
+        "devanagari": "3. कन्नड नाडु कुरित कवनगळन्नु ओदिरि.",
+        "latin": "3. kannaḍa nāḍu kurita kavanagaḷannu ōdiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-A",
+      "id": "lang-ex-a-q4",
+      "text": "4. ಕನ್ನಡ ನಾಡಿನ ಪ್ರಸಿದ್ಧ ಸ್ಥಳಗಳಿಗೆ ಪ್ರವಾಸ ಹೋಗಿರಿ.",
+      "translations": {
+        "en": "4. Travel to famous places of the Kannada land.",
+        "hi": "4. कन्नड़ नाडु के प्रसिद्ध स्थानों की यात्रा कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "4. कन्नड नाडिन प्रसिद्ध स्थळगळिगे प्रवास होगिरि.",
+        "latin": "4. kannaḍa nāḍina prasiddha sthaḷagaḷige pravāsa hōgiri."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q1",
+      "text": "1. ಹೆತ್ತತಾಯಿ ಹೊತ್ತನಾಡು ಸ್ವರ್ಗಕ್ಕಿಂತಲೂ ಮಿಗಿಲು.",
+      "translations": {
+        "en": "1. The mother who bore us and the land that carries us are greater than heaven.",
+        "hi": "1. जन्म देने वाली माँ और उठाने वाला नाडु स्वर्ग से भी बढ़कर।"
+      },
+      "transliterations": {
+        "devanagari": "1. हेत्ततायि होत्तनाडु स्वर्गक्किंतलू मिगिलु.",
+        "latin": "1. hettatāyi hottanāḍu svargakkintalū migilu."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q2",
+      "text": "2. ಕನ್ನಡವೇ ಸತ್ಯ; ಕನ್ನಡವೇ ನಿತ್ಯ.",
+      "translations": {
+        "en": "2. Kannada alone is truth; Kannada alone is eternal.",
+        "hi": "2. कन्नड़ ही सत्य; कन्नड़ ही नित्य।"
+      },
+      "transliterations": {
+        "devanagari": "2. कन्नडवे सत्य; कन्नडवे नित्य.",
+        "latin": "2. kannaḍavē satya; kannaḍavē nitya."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q3",
+      "text": "3. ಎಲ್ಲಾದರು ಇರು ಎಂತಾದರು ಇರು ಎಂದೆಂದಿಗೂ ನೀ ಕನ್ನಡವಾಗಿರು.",
+      "translations": {
+        "en": "3. Wherever you are, however you are, forever remain Kannada.",
+        "hi": "3. जहाँ भी रहो, जैसे भी रहो, सदा कन्नड़ बने रहो।"
+      },
+      "transliterations": {
+        "devanagari": "3. एल्लादरु इरु एंतादरु इरु एंदेंदिगू नी कन्नडवागिरु.",
+        "latin": "3. ellādaru iru entādaru iru endendigū nī kannaḍavāgiru."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "language-exercise-B",
+      "id": "lang-ex-b-q4",
+      "text": "4. ಕನ್ನಡಕ್ಕಾಗಿ ಕೈ ಎತ್ತು ನಿನ್ನ ಕೈ ಕಲ್ಪವೃಕ್ಷವಾಗುವುದು.",
+      "translations": {
+        "en": "4. Raise your hand for Kannada; your hand will become a wish-fulfilling tree.",
+        "hi": "4. कन्नड़ के लिए हाथ उठाओ; तुम्हारा हाथ कल्पवृक्ष बनेगा।"
+      },
+      "transliterations": {
+        "devanagari": "4. कन्नडक्कागि कै एत्तु निन्न कै कल्पवृक्षवागुवुदु.",
+        "latin": "4. kannaḍakkāgi kai ettu ninna kai kalpavr̥kṣavāguvudu."
+      },
+      "type": "question"
+    }
+  ]
+}

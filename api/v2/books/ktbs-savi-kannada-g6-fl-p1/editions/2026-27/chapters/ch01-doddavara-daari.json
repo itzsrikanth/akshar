@@ -1,0 +1,1300 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g6-fl-p1",
+    "chapterId": "ch01-doddavara-daari",
+    "editionId": "2026-27",
+    "number": 1
+  },
+  "labels": {
+    "activity": {
+      "devanagari": "भाषा आटगळु",
+      "en": "Language games",
+      "hi": "भाषा खेल",
+      "kn": "ಭಾಷಾ ಆಟಗಳು",
+      "latin": "bhāṣā āṭagaḻu"
+    },
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the author",
+      "hi": "लेखक परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise": {
+      "devanagari": "अभ्यासगळु",
+      "en": "Exercises",
+      "hi": "अभ्यास",
+      "kn": "ಅಭ್ಯಾಸಗಳು",
+      "latin": "abhyāsagaḻu"
+    },
+    "further_reading": {
+      "devanagari": "पूरक ओदु",
+      "en": "Further reading",
+      "hi": "पूरक पठन",
+      "kn": "ಪೂರಕ ಓದು",
+      "latin": "pūraka odu"
+    },
+    "grammar": {
+      "devanagari": "व्याकरण माहिति",
+      "en": "Grammar notes",
+      "hi": "व्याकरण",
+      "kn": "ವ್ಯಾಕರಣ ಮಾಹಿತಿ",
+      "latin": "vyākaraṇa māhiti"
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "notes": {
+      "devanagari": "विवर तिळियिरि",
+      "en": "Know the details",
+      "hi": "विवरण जानिए",
+      "kn": "ವಿವರ ತಿಳಿಯಿರಿ",
+      "latin": "vivara tiḻiyiri"
+    },
+    "project": {
+      "devanagari": "योजनॆ",
+      "en": "Project",
+      "hi": "योजना",
+      "kn": "ಯೋಜನೆ",
+      "latin": "yojanè"
+    },
+    "quote": {
+      "devanagari": "शुभ नुडि",
+      "en": "Good words",
+      "hi": "शुभ वचन",
+      "kn": "ಶುಭ ನುಡಿ",
+      "latin": "śubha nuḍi"
+    },
+    "rajendra_prasad": {
+      "devanagari": "डा. राजेंद्र प्रसाद्",
+      "en": "Dr Rajendra Prasad",
+      "hi": "डॉ. राजेंद्र प्रसाद",
+      "kn": "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್",
+      "latin": "ḍā. rājeṃdra prasād"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    },
+    "zakir_hussain": {
+      "devanagari": "डा. जाकिर् हुसेन्",
+      "en": "Dr Zakir Hussain",
+      "hi": "डॉ. जाकिर हुसैन",
+      "kn": "ಡಾ. ಜಾಕಿರ್ ಹುಸೇನ್",
+      "latin": "ḍā. jākir husen"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch01-doddavara-daari",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ದೊಡ್ಡವರ ದಾರಿ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಪ್ರತಿಯೊಬ್ಬರ ಜೀವನದಲ್ಲಿಯೂ ಹಲವಾರು ಮರೆಯಲಾಗದ ಘಟನೆಗಳು ನಡೆಯುತ್ತವೆ. ಅವುಗಳ ಫಲ ಒಮ್ಮೆ ಸಿಹಿ, ಮತ್ತೊಮ್ಮೆ ಕಹಿ. ಕೆಲವು ಘಟನೆಗಳು ಇತರರಿಗೆ ಎಷ್ಟೋ ಅನುಭವ, ಜೀವನ ಪಾಠಗಳನ್ನು ಕಲಿಸಿದ್ದಿವೆ. ಅದರಿಂದ ಮನುಷ್ಯ ಎಚ್ಚರವಾದದ್ದೂ ಇದೆ. ದಾರ್ಶನಿಕರ ಜೀವನದಲ್ಲಿ ನಡೆದ ಘಟನೆಗಳು ದಾರಿದೀಪಗಳಾಗಿ ಇತರರಿಗೆ ಬೆಳಕು ನೀಡುತ್ತವೆ. ಅಂಥವರ ಜೀವನದಲ್ಲಿನ ಘಟನೆಗಳನ್ನು ನಮ್ಮ ಜೀವನದ ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನಾಗಿಸಿಕೊಳ್ಳಬೇಕೆಂಬುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "In everyone’s life many unforgettable events take place. Their fruit is sometimes sweet, sometimes bitter. Some events have taught others much experience and life lessons. From that, people have also become alert. Events in the lives of visionaries become lamps that give light to others. The hope here is that we should make the events in such people’s lives into rays of light for our own lives.",
+        "hi": "हर किसी के जीवन में कई अविस्मरणीय घटनाएँ घटती हैं। उनका फल कभी मीठा, कभी कड़वा। कुछ घटनाओं ने दूसरों को अनुभव और जीवन के पाठ सिखाए। उससे मनुष्य सचेत भी हुआ। दार्शनिकों के जीवन की घटनाएँ दूसरों को प्रकाश देने वाले दीप बनती हैं। ऐसे लोगों के जीवन की घटनाओं को अपने जीवन की प्रकाश-किरण बनाना—यही यहाँ का आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "प्रतियॊब्बर जीवनदल्लियू हलवारु मरॆयलागद घटनॆगळु नडॆयुत्तवॆ. अवुगळ फल ऒम्मॆ सिहि, मत्तॊम्मॆ कहि. कॆलवु घटनॆगळु इतररिगॆ ऎष्टो अनुभव, जीवन पाठगळन्नु कलिसिद्दिवॆ. अदरिंद मनुष्य ऎच्चरवादद्दू इदॆ. दार्शनिकर जीवनदल्लि नडॆद घटनॆगळु दारिदीपगळागि इतररिगॆ बॆळकु नीडुत्तवॆ. अंथवर जीवनदल्लिन घटनॆगळन्नु नम्म जीवनद बॆळकिन किरणगळन्नागिसिकॊळ्ळबेकॆंबुदु इल्लिन आशयवागिदॆ.",
+        "latin": "pratiyòbbara jīvanadalliyū halavāru marèyalāgada ghaṭanègaḻu naḍèyuttavè. avugaḻa phala òmmè sihi, mattòmmè kahi. kèlavu ghaṭanègaḻu itararigè èṣṭo anubhava, jīvana pāṭhagaḻannu kalisiddivè. adariṃda manuṣya èccaravādaddū idè. dārśanikara jīvanadalli naḍèda ghaṭanègaḻu dāridīpagaḻāgi itararigè bèḻaku nīḍuttavè. aṃthavara jīvanadallina ghaṭanègaḻannu namma jīvanada bèḻakina kiraṇagaḻannāgisikòḻḻabekèṃbudu illina āśayavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "rp-1",
+      "section": "rajendra_prasad",
+      "text": "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು ಭಾರತದ ಪ್ರಥಮ ರಾಷ್ಟ್ರಪತಿಗಳು. ಅತ್ಯಂತ ಉನ್ನತ ಸ್ಥಾನಕ್ಕೇರಿದರೂ ಸರಳ ಜೀವನ ನಡೆಸಿದವರು. ಜನಕ ಮಹಾರಾಜನಂತೆ ಅವರದು ಋಷಿಸದೃಶ ಜೀವನ. ಅವರು ಕೋಪವನ್ನು ಹತ್ತಿಕ್ಕಬಲ್ಲವರಾಗಿದ್ದರು. ಬಾಳಿನಲ್ಲಿ ಶಿಸ್ತು, ಸಂಯಮ, ಸಮಯಪಾಲನೆ ಇವುಗಳಿಗೆ ಭಾರಿ ಮಹತ್ವ ನೀಡುತ್ತಿದ್ದರು. ತಾವು ಜನರ ಸೇವಕ ಎಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು.",
+      "translations": {
+        "en": "Dr Rajendra Prasad was the first President of India. Even after rising to the highest position he lived a simple life. Like King Janaka, his was a sage-like life. He could restrain anger. In life he gave great importance to discipline, self-control and punctuality. He used to call himself a servant of the people.",
+        "hi": "डॉ. राजेंद्र प्रसाद भारत के प्रथम राष्ट्रपति थे। सर्वोच्च पद पर पहुँचकर भी सरल जीवन जिया। जनक महाराज की तरह ऋषि-सदृश जीवन। क्रोध दबा सकते थे। जीवन में अनुशासन, संयम, समयपालन को बहुत महत्व देते थे। स्वयं को जनसेवक कहते थे।"
+      },
+      "transliterations": {
+        "devanagari": "डा. राजेंद्र प्रसादरु भारतद प्रथम राष्ट्रपतिगळु. अत्यंत उन्नत स्थानक्केरिदरू सरळ जीवन नडॆसिदवरु. जनक महाराजनंतॆ अवरदु ऋषिसदृश जीवन. अवरु कोपवन्नु हत्तिक्कबल्लवरागिद्दरु. बाळिनल्लि शिस्तु, संयम, समयपालनॆ इवुगळिगॆ भारि महत्व नीडुत्तिद्दरु. तावु जनर सेवक ऎंदु हेळिकॊळ्ळुत्तिद्दरु.",
+        "latin": "ḍā. rājeṃdra prasādaru bhāratada prathama rāṣṭrapatigaḻu. atyaṃta unnata sthānakkeridarū saraḻa jīvana naḍèsidavaru. janaka mahārājanaṃtè avaradu ṛṣisadṛśa jīvana. avaru kopavannu hattikkaballavarāgiddaru. bāḻinalli śistu, saṃyama, samayapālanè ivugaḻigè bhāri mahatva nīḍuttiddaru. tāvu janara sevaka èṃdu heḻikòḻḻuttiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "rp-2",
+      "section": "rajendra_prasad",
+      "text": "ಒಂದು ದಿನ ಕಚೇರಿಯ ಕೆಲಸ ಮುಗಿಸಿ ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು ಮನೆಗೆ ಬಂದಾಗ ಅವರ ಒಂದು ಪುಸ್ತಕದ ಹಲವು ಪುಟಗಳು ಅಲ್ಲಲ್ಲಿ ಚೆಲ್ಲಾಪಿಲ್ಲಿಯಾಗಿ ಹರಿದು ಬಿದ್ದಿರುವುದನ್ನು ನೋಡಿದರು. ಇದೆಲ್ಲ ಮಕ್ಕಳ ಕೆಲಸ ಎಂಬುದು ಅವರಿಗೆ ಹೊಳೆಯಲು ಹೆಚ್ಚು ವೇಳೆ ಬೇಕಾಗಲಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತಮ್ಮ ತಪ್ಪಿನ ಅರಿವಾಗಬೇಕು ಎಂದೆನಿಸಿತು. ಆದರೆ ಆ ಮಕ್ಕಳನ್ನು ಅಪರಾಧಿಗಳಾಗಿಸಲು ಅವರ ಮನ ಒಪ್ಪಲಿಲ್ಲ. ಒಂದು ಉಪಾಯ ಹೂಡಿದರು.",
+      "translations": {
+        "en": "One day, finishing office work and coming home, Rajendra Prasad saw that many pages of one of his books were torn and scattered here and there. It did not take him long to realize this was children’s work. He felt the children should become aware of their mistake. But his heart would not agree to make those children into culprits. He devised a plan.",
+        "hi": "एक दिन दफ्तर का काम पूरा कर घर आए तो देखा एक पुस्तक के कई पृष्ठ फटे बिखरे पड़े हैं। बच्चों का काम है—समझने में देर नहीं लगी। बच्चों को अपनी गलती का बोध हो—यह चाहा। पर उन्हें अपराधी बनाने को मन नहीं माना। एक उपाय सोचा।"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु दिन कचेरिय कॆलस मुगिसि राजेंद्र प्रसादरु मनॆगॆ बंदाग अवर ऒंदु पुस्तकद हलवु पुटगळु अल्लल्लि चॆल्लापिल्लियागि हरिदु बिद्दिरुवुदन्नु नोडिदरु. इदॆल्ल मक्कळ कॆलस ऎंबुदु अवरिगॆ हॊळॆयलु हॆच्चु वेळॆ बेकागलिल्ल. मक्कळिगॆ तम्म तप्पिन अरिवागबेकु ऎंदॆनिसितु. आदरॆ आ मक्कळन्नु अपराधिगळागिसलु अवर मन ऒप्पलिल्ल. ऒंदु उपाय हूडिदरु.",
+        "latin": "òṃdu dina kaceriya kèlasa mugisi rājeṃdra prasādaru manègè baṃdāga avara òṃdu pustakada halavu puṭagaḻu allalli cèllāpilliyāgi haridu biddiruvudannu noḍidaru. idèlla makkaḻa kèlasa èṃbudu avarigè hòḻèyalu hèccu veḻè bekāgalilla. makkaḻigè tamma tappina arivāgabeku èṃdènisitu. ādarè ā makkaḻannu aparādhigaḻāgisalu avara mana òppalilla. òṃdu upāya hūḍidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "rp-3",
+      "section": "rajendra_prasad",
+      "text": "ಪ್ರಸಾದರು ಮುಖ ಕೈಕಾಲು ತೊಳೆದು ಬಂದರು. ನಿಧಾನವಾಗಿ ಕೋಣೆಯಲ್ಲಿ ಹರಿದು ಬಿದ್ದಿದ್ದ ಪುಸ್ತಕದ ಪುಟಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಎತ್ತಿ ಮೇಜಿನ ಮೇಲಿಟ್ಟರು. ಬಳಿಕ ಮಕ್ಕಳನ್ನೆಲ್ಲ ಬಳಿಗೆ ಕರೆದರು. ಮಕ್ಕಳು ಓಡೋಡಿ ಬಂದರು. ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು “ಮಕ್ಕಳೇ, ನೋಡಿ ಇಲ್ಲಿ ಎಷ್ಟೊಂದು ಕಾಗದಗಳು ಹರಿದು ಹೋಗಿವೆ. ಇವೆಲ್ಲ ಪುಸ್ತಕದ ಪುಟಗಳು. ನಿಮ್ಮಲ್ಲಿ ಯಾರು ಯಾರು ಎಷ್ಟೆಷ್ಟು ಪುಟಗಳನ್ನು ಹರಿದಿದ್ದೀರೊ ಅವರಿಗೆ ಆ ಪುಟಗಳ ಸಂಖ್ಯೆಗನುಗುಣವಾಗಿ ಕಾಸು ಕೊಡುತ್ತೇನೆ. ಆಗಬಹುದೆ?” ಎಂದರು.",
+      "translations": {
+        "en": "Prasad washed his face and hands and feet and came. Slowly he picked up one by one the book pages that had fallen torn in the room and placed them on the table. Then he called all the children near. The children came running. Rajendra Prasad said, “Children, look how many papers are torn here. These are all book pages. Whoever among you has torn however many pages—I will give you coins according to the number of those pages. Is that all right?”",
+        "hi": "प्रसाद मुँह-हाथ-पैर धोकर आए। धीरे-धीरे कमरे में बिखरे पृष्ठ एक-एक उठा मेज पर रखे। फिर बच्चों को पास बुलाया। बच्चे दौड़कर आए। राजेंद्र प्रसाद बोले, «बच्चो, देखो यहाँ कितने कागज फटे हैं। ये सब पुस्तक के पृष्ठ हैं। तुममें जिसने जितने पृष्ठ फाड़े—उतने सिक्के दूँगा। ठीक?»"
+      },
+      "transliterations": {
+        "devanagari": "प्रसादरु मुख कैकालु तॊळॆदु बंदरु. निधानवागि कोणॆयल्लि हरिदु बिद्दिद्द पुस्तकद पुटगळन्नु ऒंदॊंदागि ऎत्ति मेजिन मेलिट्टरु. बळिक मक्कळन्नॆल्ल बळिगॆ करॆदरु. मक्कळु ओडोडि बंदरु. राजेंद्र प्रसादरु “मक्कळे, नोडि इल्लि ऎष्टॊंदु कागदगळु हरिदु होगिवॆ. इवॆल्ल पुस्तकद पुटगळु. निम्मल्लि यारु यारु ऎष्टॆष्टु पुटगळन्नु हरिदिद्दीरॊ अवरिगॆ आ पुटगळ संख्यॆगनुगुणवागि कासु कॊडुत्तेनॆ. आगबहुदॆ?” ऎंदरु.",
+        "latin": "prasādaru mukha kaikālu tòḻèdu baṃdaru. nidhānavāgi koṇèyalli haridu biddidda pustakada puṭagaḻannu òṃdòṃdāgi ètti mejina meliṭṭaru. baḻika makkaḻannèlla baḻigè karèdaru. makkaḻu oḍoḍi baṃdaru. rājeṃdra prasādaru “makkaḻe, noḍi illi èṣṭòṃdu kāgadagaḻu haridu hogivè. ivèlla pustakada puṭagaḻu. nimmalli yāru yāru èṣṭèṣṭu puṭagaḻannu harididdīrò avarigè ā puṭagaḻa saṃkhyèganuguṇavāgi kāsu kòḍuttenè. āgabahudè?” èṃdaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "rp-4",
+      "section": "rajendra_prasad",
+      "text": "ಮಕ್ಕಳು ಒಬ್ಬರ ಮುಖ ಒಬ್ಬರು ನೋಡಿಕೊಂಡರು. ಒಬ್ಬೊಬ್ಬರು ಕಾಸು ಸಿಗುವುದಲ್ಲ ಎಂಬ ಸಂತೋಷದಿಂದ ತಾವು ಹರಿದ ಪುಟಗಳ ಸಂಖ್ಯೆಯನ್ನು ತಿಳಿಸಿದರು. ಪ್ರಸಾದರು ಅವರಿಗೆಲ್ಲ ಅಷ್ಟಷ್ಟು ಕಾಸು ಕೊಟ್ಟರು. ಹುಡುಗರಿಗೆ ಖುಷಿಯೋ ಖುಷಿ! ಆಗ ಪ್ರಸಾದರು “ನೋಡಿ ಮಕ್ಕಳೇ, ಪುಸ್ತಕಗಳು ಜ್ಞಾನ ಭಂಡಾರ. ನಮ್ಮ ತಿಳಿವಳಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಆಕರಗಳು. ಪುಸ್ತಕದ ಪುಟಗಳನ್ನು ಹರಿದು ಹಾಕುವುದು ಒಳ್ಳೆಯ ಅಭ್ಯಾಸವಲ್ಲ. ತಿಳಿಯಿತೆ?” ಎಂದು ಮಕ್ಕಳಿಗೆ ತಿಳಿಯುವಂತೆ ಹೇಳಿದರು.",
+      "translations": {
+        "en": "The children looked at one another’s faces. One by one, happy that they would get coins, they told how many pages they had torn. Prasad gave each of them that many coins. The boys were overjoyed! Then Prasad said, “Look, children, books are storehouses of knowledge. They are sources that increase our understanding. Tearing book pages is not a good habit. Understood?” he told the children so they would understand.",
+        "hi": "बच्चे एक-दूसरे के मुँह देखने लगे। सिक्के मिलेंगे—इस खुशी में एक-एक ने बताए कितने पृष्ठ फाड़े। प्रसाद ने उतने सिक्के दिए। लड़कों को खुशी ही खुशी! तब प्रसाद बोले, «देखो बच्चो, पुस्तकें ज्ञान का भंडार। समझ बढ़ाने के स्रोत। पृष्ठ फाड़ना अच्छी आदत नहीं। समझे?»"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळु ऒब्बर मुख ऒब्बरु नोडिकॊंडरु. ऒब्बॊब्बरु कासु सिगुवुदल्ल ऎंब संतोषदिंद तावु हरिद पुटगळ संख्यॆयन्नु तिळिसिदरु. प्रसादरु अवरिगॆल्ल अष्टष्टु कासु कॊट्टरु. हुडुगरिगॆ खुषियो खुषि! आग प्रसादरु “नोडि मक्कळे, पुस्तकगळु ज्ञान भंडार. नम्म तिळिवळिकॆयन्नु हॆच्चिसुव आकरगळु. पुस्तकद पुटगळन्नु हरिदु हाकुवुदु ऒळ्ळॆय अभ्यासवल्ल. तिळियितॆ?” ऎंदु मक्कळिगॆ तिळियुवंतॆ हेळिदरु.",
+        "latin": "makkaḻu òbbara mukha òbbaru noḍikòṃḍaru. òbbòbbaru kāsu siguvudalla èṃba saṃtoṣadiṃda tāvu harida puṭagaḻa saṃkhyèyannu tiḻisidaru. prasādaru avarigèlla aṣṭaṣṭu kāsu kòṭṭaru. huḍugarigè khuṣiyo khuṣi! āga prasādaru “noḍi makkaḻe, pustakagaḻu jñāna bhaṃḍāra. namma tiḻivaḻikèyannu hèccisuva ākaragaḻu. pustakada puṭagaḻannu haridu hākuvudu òḻḻèya abhyāsavalla. tiḻiyitè?” èṃdu makkaḻigè tiḻiyuvaṃtè heḻidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "rp-5",
+      "section": "rajendra_prasad",
+      "text": "ಮಕ್ಕಳಿಗೆ ತಮ್ಮ ತಪ್ಪಿನ ಅರಿವಾಯಿತು. ಅವರೆಲ್ಲ ರಾಜೇಂದ್ರರಿಗೆ, “ತಾತಾ ನಾವು ಇನ್ನು ಮುಂದೆ ಎಂದೂ ಪುಸ್ತಕಗಳ ಪುಟಗಳನ್ನು ಹರಿಯುವುದಿಲ್ಲ. ಜೋಪಾನ ಮಾಡುತ್ತೇವೆ” ಎಂದು ಪ್ರಮಾಣಮಾಡಿ ಹೇಳಿದರು. ಪ್ರಸಾದರಿಗೆ ಸಮಾಧಾನವಾಯಿತು. ಮಕ್ಕಳಲ್ಲಿ ಅಪರಾಧಿ ಮನೋಭಾವ ಮೂಡಲಿಲ್ಲ. ದೊಡ್ಡ ವ್ಯಕ್ತಿಗಳೇ ಹಾಗೆ. ಕೋಪ, ಅಸಹನೆ, ತಾಳ್ಮೆಗೆಡುವುದು ಇವೆಲ್ಲ ಅವರಿಂದ ದೂರ. ಪ್ರಗತಿಯ ಗುಟ್ಟೇ ಅದು.",
+      "translations": {
+        "en": "The children realized their mistake. They all promised Rajendra, “Grandfather, from now on we will never tear book pages. We will take care of them.” Prasad was satisfied. A sense of guilt did not arise in the children. Great people are like that. Anger, intolerance, losing patience—all these are far from them. That is the secret of progress.",
+        "hi": "बच्चों को गलती का बोध हुआ। सबने राजेंद्र से प्रतिज्ञा की, «दादा, आगे कभी पुस्तक के पृष्ठ नहीं फाड़ेंगे। संभालकर रखेंगे।» प्रसाद संतुष्ट हुए। बच्चों में अपराधी भाव नहीं जगा। बड़े लोग ऐसे ही होते हैं। क्रोध, असहिष्णुता, धैर्य खोना—सब उनसे दूर। प्रगति का राज यही है।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळिगॆ तम्म तप्पिन अरिवायितु. अवरॆल्ल राजेंद्ररिगॆ, “ताता नावु इन्नु मुंदॆ ऎंदू पुस्तकगळ पुटगळन्नु हरियुवुदिल्ल. जोपान माडुत्तेवॆ” ऎंदु प्रमाणमाडि हेळिदरु. प्रसादरिगॆ समाधानवायितु. मक्कळल्लि अपराधि मनोभाव मूडलिल्ल. दॊड्ड व्यक्तिगळे हागॆ. कोप, असहनॆ, ताळ्मॆगॆडुवुदु इवॆल्ल अवरिंद दूर. प्रगतिय गुट्टे अदु.",
+        "latin": "makkaḻigè tamma tappina arivāyitu. avarèlla rājeṃdrarigè, “tātā nāvu innu muṃdè èṃdū pustakagaḻa puṭagaḻannu hariyuvudilla. jopāna māḍuttevè” èṃdu pramāṇamāḍi heḻidaru. prasādarigè samādhānavāyitu. makkaḻalli aparādhi manobhāva mūḍalilla. dòḍḍa vyaktigaḻe hāgè. kopa, asahanè, tāḻmègèḍuvudu ivèlla avariṃda dūra. pragatiya guṭṭe adu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "zh-1",
+      "section": "zakir_hussain",
+      "text": "ಡಾ. ಜಾಕಿರ್ ಹುಸೇನರು ಭಾರತೀಯ ಶಿಕ್ಷಣದ ಅಭಿವೃದ್ಧಿ ಹಾಗೂ ಸುಧಾರಣೆ ಕುರಿತಂತೆ ಹಲವು ಪುಸ್ತಕಗಳನ್ನು ಬರೆದವರು. ಭಾರತಕ್ಕೆ ಸ್ವಾತಂತ್ರ್ಯ ಬಂದ ಬಳಿಕ ಬಿಹಾರದ ರಾಜ್ಯಪಾಲರಾಗಿ, ಭಾರತದ ಉಪರಾಷ್ಟ್ರಪತಿಗಳಾಗಿ, ಅನಂತರ ರಾಷ್ಟ್ರಪತಿಗಳಾಗಿ ದುಡಿದವರು. ಕೆಲಕಾಲ ಅಲಿಗಢ ಮುಸ್ಲಿಂ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಕುಲಪತಿಗಳೂ ಆಗಿದ್ದರು. ಶಿಕ್ಷಣ ಅವರ ಪ್ರಮುಖ ಕಾರ್ಯಕ್ಷೇತ್ರವಾಗಿತ್ತು.",
+      "translations": {
+        "en": "Dr Zakir Hussain wrote many books on the development and reform of Indian education. After India gained independence he served as Governor of Bihar, as Vice-President of India, and later as President. For some time he was also Vice-Chancellor of Aligarh Muslim University. Education was his main field of work.",
+        "hi": "डॉ. जाकिर हुसैन ने भारतीय शिक्षा के विकास और सुधार पर कई पुस्तकें लिखीं। स्वतंत्रता के बाद बिहार के राज्यपाल, भारत के उपराष्ट्रपति, फिर राष्ट्रपति बने। कुछ समय अलीगढ़ मुस्लिम विश्वविद्यालय के कुलपति भी रहे। शिक्षा उनका प्रमुख कार्यक्षेत्र था।"
+      },
+      "transliterations": {
+        "devanagari": "डा. जाकिर् हुसेनरु भारतीय शिक्षणद अभिवृद्धि हागू सुधारणॆ कुरितंतॆ हलवु पुस्तकगळन्नु बरॆदवरु. भारतक्कॆ स्वातंत्र्य बंद बळिक बिहारद राज्यपालरागि, भारतद उपराष्ट्रपतिगळागि, अनंतर राष्ट्रपतिगळागि दुडिदवरु. कॆलकाल अलिगढ मुस्लिं विश्वविद्यालयद कुलपतिगळू आगिद्दरु. शिक्षण अवर प्रमुख कार्यक्षेत्रवागित्तु.",
+        "latin": "ḍā. jākir husenaru bhāratīya śikṣaṇada abhivṛddhi hāgū sudhāraṇè kuritaṃtè halavu pustakagaḻannu barèdavaru. bhāratakkè svātaṃtrya baṃda baḻika bihārada rājyapālarāgi, bhāratada uparāṣṭrapatigaḻāgi, anaṃtara rāṣṭrapatigaḻāgi duḍidavaru. kèlakāla aligaḍha musliṃ viśvavidyālayada kulapatigaḻū āgiddaru. śikṣaṇa avara pramukha kāryakṣetravāgittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "zh-2",
+      "section": "zakir_hussain",
+      "text": "ದೆಹಲಿಯ ಜಾಮಿಯಾ ಮಿಲಿಯಾ ವಿಶ್ವವಿದ್ಯಾಲಯ ಉನ್ನತ ಶಿಕ್ಷಣಕ್ಕೆ ಹೆಸರಾದ ಸಂಸ್ಥೆ. ಅದರ ಸ್ಥಾಪಕರು ಡಾ. ಜಾಕಿರ್ ಹುಸೇನರು. ಅವರು ತಮ್ಮ ಜೀವನದ ಬಹುಭಾಗವನ್ನು ಆ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿಯೇ ಕಳೆದರೆನ್ನಬಹುದು. ಅಲ್ಲಿನ ಒಂದು ಘಟನೆ ತುಂಬಾ ರೋಚಕವಾಗಿದೆ.",
+      "translations": {
+        "en": "Jamia Millia University in Delhi is an institution famous for higher education. Its founder was Dr Zakir Hussain. One may say he spent a large part of his life at that university. One incident there is very interesting.",
+        "hi": "दिल्ली का जामिया मिलिया विश्वविद्यालय उच्च शिक्षा के लिए प्रसिद्ध। उसके संस्थापक डॉ. जाकिर हुसैन। जीवन का बड़ा भाग वहीं बीता कहा जा सकता है। वहाँ की एक घटना बहुत रोचक है।"
+      },
+      "transliterations": {
+        "devanagari": "दॆहलिय जामिया मिलिया विश्वविद्यालय उन्नत शिक्षणक्कॆ हॆसराद संस्थॆ. अदर स्थापकरु डा. जाकिर् हुसेनरु. अवरु तम्म जीवनद बहुभागवन्नु आ विश्वविद्यालयदल्लिये कळॆदरॆन्नबहुदु. अल्लिन ऒंदु घटनॆ तुंबा रोचकवागिदॆ.",
+        "latin": "dèhaliya jāmiyā miliyā viśvavidyālaya unnata śikṣaṇakkè hèsarāda saṃsthè. adara sthāpakaru ḍā. jākir husenaru. avaru tamma jīvanada bahubhāgavannu ā viśvavidyālayadalliye kaḻèdarènnabahudu. allina òṃdu ghaṭanè tuṃbā rocakavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "zh-3",
+      "section": "zakir_hussain",
+      "text": "ಡಾ. ಜಾಕಿರ್ ಹುಸೇನರು ಶಿಸ್ತು ಮತ್ತು ಶುಚಿಗೆ ಅಪಾರ ಮಹತ್ವ ನೀಡುತ್ತಿದ್ದರು. ಎಲ್ಲ ವಿದ್ಯಾರ್ಥಿಗಳೂ ಪ್ರತಿನಿತ್ಯ ಶುಚಿಯಾದ ಬಟ್ಟೆಗಳನ್ನು ಧರಿಸಿ ಕಾಲೇಜಿಗೆ ಬರಬೇಕು ಹಾಗೂ ಕಾಲಿಗೆ ಹಾಕಿದ ಬೂಟುಗಳನ್ನು ಚೆನ್ನಾಗಿ ಪಾಲಿಶ್ ಮಾಡಿರಬೇಕು ಎಂದು ಹೇಳುತ್ತಿದ್ದರು. ಆದರೆ ಎಷ್ಟೋ ವಿದ್ಯಾರ್ಥಿಗಳು ಜಾಕಿರ್ ಹುಸೇನರು ಹೇಳಿದುದನ್ನು ಸರಿಯಾಗಿ ಪಾಲಿಸುತ್ತಿರಲಿಲ್ಲ. ಇದರಿಂದ ಶಿಸ್ತಿಗೆ ಭಂಗವಾಗುವುದೆಂದು ಹುಸೇನರು ಅಭಿಪ್ರಾಯಪಟ್ಟರು. ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿಕಲಿಸಲು ತಾವೇ ಒಂದು ದಾರಿ ಕಂಡುಕೊಂಡರು.",
+      "translations": {
+        "en": "Dr Zakir Hussain gave immense importance to discipline and cleanliness. He used to say that all students should come to college every day wearing clean clothes and with their shoes well polished. But many students were not properly following what Zakir Hussain said. Hussain felt this would damage discipline. To teach the students a lesson he himself found a way.",
+        "hi": "डॉ. जाकिर हुसैन अनुशासन और स्वच्छता को अपार महत्व देते थे। सब विद्यार्थी प्रतिदिन साफ कपड़े पहनकर और जूते चमकदार पॉलिश कर कॉलेज आएँ—यह कहते। पर कई विद्यार्थी ठीक से नहीं मानते थे। इससे अनुशासन टूटेगा—हुसैन का मत। सिखाने के लिए स्वयं राह निकाली।"
+      },
+      "transliterations": {
+        "devanagari": "डा. जाकिर् हुसेनरु शिस्तु मत्तु शुचिगॆ अपार महत्व नीडुत्तिद्दरु. ऎल्ल विद्यार्थिगळू प्रतिनित्य शुचियाद बट्टॆगळन्नु धरिसि कालेजिगॆ बरबेकु हागू कालिगॆ हाकिद बूटुगळन्नु चॆन्नागि पालिश् माडिरबेकु ऎंदु हेळुत्तिद्दरु. आदरॆ ऎष्टो विद्यार्थिगळु जाकिर् हुसेनरु हेळिदुदन्नु सरियागि पालिसुत्तिरलिल्ल. इदरिंद शिस्तिगॆ भंगवागुवुदॆंदु हुसेनरु अभिप्रायपट्टरु. विद्यार्थिगळिगॆ बुद्धिकलिसलु तावे ऒंदु दारि कंडुकॊंडरु.",
+        "latin": "ḍā. jākir husenaru śistu mattu śucigè apāra mahatva nīḍuttiddaru. èlla vidyārthigaḻū pratinitya śuciyāda baṭṭègaḻannu dharisi kālejigè barabeku hāgū kāligè hākida būṭugaḻannu cènnāgi pāliś māḍirabeku èṃdu heḻuttiddaru. ādarè èṣṭo vidyārthigaḻu jākir husenaru heḻidudannu sariyāgi pālisuttiralilla. idariṃda śistigè bhaṃgavāguvudèṃdu husenaru abhiprāyapaṭṭaru. vidyārthigaḻigè buddhikalisalu tāve òṃdu dāri kaṃḍukòṃḍaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "zh-4",
+      "section": "zakir_hussain",
+      "text": "ಒಂದು ದಿನ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಪ್ರವೇಶದ್ವಾರದಲ್ಲಿ ಜಾಕಿರ್ ಹುಸೇನರು ಒಬ್ಬ ಬೂಟ್ಪಾಲಿಶ್ ಹಾಕುವವನ ವೇಷದಲ್ಲಿ ಕುಳಿತಿದ್ದು ವಿದ್ಯಾರ್ಥಿಗಳ ಗಮನಕ್ಕೆ ಬಂತು. ಕುಲಪತಿಗಳು ಕೈಯಲ್ಲಿ ಪಾಲಿಶ್ ಡಬ್ಬಿ, ಬ್ರಷ್ ಹಿಡಿದು ಕುಳಿತಿದ್ದ ದೃಶ್ಯ ಕಂಡ ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ವರ್ತನೆಗೆ ನಾಚಿದರು. ಒಂದಿಬ್ಬರು ಪಾಲಿಶ್ ಹಾಕಿಸಿಕೊಂಡೂ ಆಗಿತ್ತು.",
+      "translations": {
+        "en": "One day at the university entrance Zakir Hussain sitting in the guise of a shoe-polish man came to the students’ notice. Seeing the Vice-Chancellor sitting with a polish tin and brush in hand, the students felt ashamed of their conduct. A few even had their shoes polished.",
+        "hi": "एक दिन विश्वविद्यालय के प्रवेश द्वार पर जाकिर हुसैन जूता-पॉलिश वाले के वेश में बैठे दिखे। हाथ में पॉलिश डिब्बा और ब्रश लिए कुलपति को देख विद्यार्थी अपनी चाल से शर्मिंदा हुए। कुछ ने पॉलिश भी करवाई।"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदु दिन विश्वविद्यालयद प्रवेशद्वारदल्लि जाकिर् हुसेनरु ऒब्ब बूट्पालिश् हाकुववन वेषदल्लि कुळितिद्दु विद्यार्थिगळ गमनक्कॆ बंतु. कुलपतिगळु कैयल्लि पालिश् डब्बि, ब्रष् हिडिदु कुळितिद्द दृश्य कंड विद्यार्थिगळु तम्म वर्तनॆगॆ नाचिदरु. ऒंदिब्बरु पालिश् हाकिसिकॊंडू आगित्तु.",
+        "latin": "òṃdu dina viśvavidyālayada praveśadvāradalli jākir husenaru òbba būṭpāliś hākuvavana veṣadalli kuḻitiddu vidyārthigaḻa gamanakkè baṃtu. kulapatigaḻu kaiyalli pāliś ḍabbi, braṣ hiḍidu kuḻitidda dṛśya kaṃḍa vidyārthigaḻu tamma vartanègè nācidaru. òṃdibbaru pāliś hākisikòṃḍū āgittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "zh-5",
+      "section": "zakir_hussain",
+      "text": "ಅಂದಿನಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳು ನೀಟಾಗಿ ಬಟ್ಟೆ ಧರಿಸಿಕೊಂಡು, ಬೂಟುಗಳಿಗೆ ಪಾಲಿಶ್ ಹಾಕಿಕೊಂಡು ಕಾಲೇಜಿಗೆ ಬರತೊಡಗಿದರು. ಇದು ವಿದ್ಯಾರ್ಥಿಗಳ ಬಾಳಿನಲ್ಲಿ ಶಿಸ್ತು ಬೆಳೆಸಿಕೊಳ್ಳಲು ನೆರವಾಯಿತು.",
+      "translations": {
+        "en": "From that day students began coming to college neatly dressed with polished shoes. This helped grow discipline in the students’ lives.",
+        "hi": "उस दिन से विद्यार्थी साफ कपड़े और पॉलिश किए जूतों से कॉलेज आने लगे। इससे जीवन में अनुशासन बढ़ने में मदद मिली।"
+      },
+      "transliterations": {
+        "devanagari": "अंदिनिंद विद्यार्थिगळु नीटागि बट्टॆ धरिसिकॊंडु, बूटुगळिगॆ पालिश् हाकिकॊंडु कालेजिगॆ बरतॊडगिदरु. इदु विद्यार्थिगळ बाळिनल्लि शिस्तु बॆळॆसिकॊळ्ळलु नॆरवायितु.",
+        "latin": "aṃdiniṃda vidyārthigaḻu nīṭāgi baṭṭè dharisikòṃḍu, būṭugaḻigè pāliś hākikòṃḍu kālejigè baratòḍagidaru. idu vidyārthigaḻa bāḻinalli śistu bèḻèsikòḻḻalu nèravāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "zh-6",
+      "section": "zakir_hussain",
+      "text": "“ಶಿಸ್ತು ಮೂಡಿಸಿಕೊಳ್ಳಿ” ಇದು ಜಾಕಿರ್ ಹುಸೇನರ ಆದೇಶವಾಗಿತ್ತು.",
+      "translations": {
+        "en": "“Cultivate discipline”—this was Zakir Hussain’s order.",
+        "hi": "«अनुशासन अपनाओ»—यह जाकिर हुसैन का आदेश था।"
+      },
+      "transliterations": {
+        "devanagari": "“शिस्तु मूडिसिकॊळ्ळि” इदु जाकिर् हुसेनर आदेशवागित्तु.",
+        "latin": "“śistu mūḍisikòḻḻi” idu jākir husenara ādeśavāgittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಬೆ. ಗೋ. ರಮೇಶ್ ಅವರು 1945ರ ಆಗಸ್ಟ್ 22ರಂದು ಮೈಸೂರು ಜಿಲ್ಲೆಯ ಕೃಷ್ಣರಾಜನಗರ ತಾಲ್ಲೂಕಿನ ದೊಡ್ಡಹನಸೋಗೆ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಬಿ.ಎಸ್. ಗೋವಿಂದರಾಜು, ತಾಯಿ ರಾಧಮ್ಮ.",
+      "translations": {
+        "en": "Be. Go. Ramesh was born on 22 August 1945 in Doddahanasoge village, Krishnarajanagara taluk, Mysore district. Father B.S. Govindaraju, mother Radhamma.",
+        "hi": "बे.गो. रमेश का जन्म 22 अगस्त 1945 को मैसूर जिले के कृष्णराजनगर तालुक के दोड्डहनसोगे ग्राम में हुआ। पिता बी.एस. गोविंदराजु, माता राधम्मा।"
+      },
+      "transliterations": {
+        "devanagari": "बॆ. गो. रमेश् अवरु 1945र आगस्ट् 22रंदु मैसूरु जिल्लॆय कृष्णराजनगर ताल्लूकिन दॊड्डहनसोगॆ ग्रामदल्लि जनिसिदरु. तंदॆ बि.ऎस्. गोविंदराजु, तायि राधम्म.",
+        "latin": "bè. go. rameś avaru 1945ra āgasṭ 22raṃdu maisūru jillèya kṛṣṇarājanagara tāllūkina dòḍḍahanasogè grāmadalli janisidaru. taṃdè bi.ès. goviṃdarāju, tāyi rādhamma."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-2",
+      "section": "author",
+      "text": "ರಮೇಶ್ ಬಿ.ಇ. ಪದವೀಧರರಾಗಿ ಕರ್ನಾಟಕ ವಿದ್ಯುತ್ ನಿಗಮದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಾಹಕ ಅಭಿಯಂತರರಾಗಿ ಸೇವೆಸಲ್ಲಿಸಿ ನಿವೃತ್ತರಾಗಿರುವರು. ಪ್ರವೃತ್ತಿಯಿಂದ ಸಾಹಿತಿಗಳಾಗಿರುವ ಇವರು ಉತ್ತಮ ಭಾಷಾಂತರಕಾರರೂ ಗಮಕಿಗಳೂ ಆಗಿರುವರು. ಕರ್ನಾಟಕ ಗಮಕ ಕಲಾ ಪರಿಷತ್ತಿನ ಅಧ್ಯಕ್ಷರಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿರುವರು, ಕನ್ನಡದಲ್ಲಿ ವಿವಿಧ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಲ್ಲಿ ಸುಮಾರು ಐನೂರು ಪುಸ್ತಕಗಳನ್ನು ರಚಿಸಿರುವರು. ಜೀವನಚರಿತ್ರೆ, ವ್ಯಕ್ತಿ ಚಿತ್ರಗಳನ್ನು ಬರೆಯುವುದರಲ್ಲಿ ಸಿದ್ಧಹಸ್ತರು. ವಿಶ್ವವಿಖ್ಯಾತ ಮಹಿಳೆಯರು, ನಮ್ಮ ಗಮಕಿಗಳು, ಕನ್ನಡ ಕವಿರತ್ನತ್ರಯರು, ವಿಜ್ಞಾನಿಗಳ ಹಾಗೂ ದೇಶಭಕ್ತರ ಜೀವನ ಚರಿತ್ರೆಗಳು ಇವರ ಗಮನಾರ್ಹ ಕೃತಿಗಳು.",
+      "translations": {
+        "en": "Ramesh, a B.E. graduate, served as an executive engineer in the Karnataka Electricity Board and has retired. By inclination a writer, he is also a fine translator and gamaki. He has served as president of the Karnataka Gamaka Kala Parishat and has composed about five hundred books in various literary forms in Kannada. He is skilled at writing biographies and character sketches. Notable works include biographies of world-famous women, our gamakis, the three jewel-poets of Kannada, and scientists and patriots.",
+        "hi": "रमेश बी.ई. स्नातक होकर कर्नाटक विद्युत निगम में कार्यकारी अभियंता रहे और सेवानिवृत्त हैं। प्रवृत्ति से साहित्यकार, उत्तम भाषांतरकार और गमकी भी हैं। लगभग पाँच सौ पुस्तकें रचीं। जीवनी और व्यक्ति-चित्र लेखन में सिद्धहस्त।"
+      },
+      "transliterations": {
+        "devanagari": "रमेश् बि.इ. पदवीधररागि कर्नाटक विद्युत् निगमदल्लि कार्यनिर्वाहक अभियंतररागि सेवॆसल्लिसि निवृत्तरागिरुवरु. प्रवृत्तियिंद साहितिगळागिरुव इवरु उत्तम भाषांतरकाररू गमकिगळू आगिरुवरु. कर्नाटक गमक कला परिषत्तिन अध्यक्षरागि कार्यनिर्वहिसिरुवरु, कन्नडदल्लि विविध साहित्य प्रकारगळल्लि सुमारु ऐनूरु पुस्तकगळन्नु रचिसिरुवरु. जीवनचरित्रॆ, व्यक्ति चित्रगळन्नु बरॆयुवुदरल्लि सिद्धहस्तरु. विश्वविख्यात महिळॆयरु, नम्म गमकिगळु, कन्नड कविरत्नत्रयरु, विज्ञानिगळ हागू देशभक्तर जीवन चरित्रॆगळु इवर गमनार्ह कृतिगळु.",
+        "latin": "rameś bi.i. padavīdhararāgi karnāṭaka vidyut nigamadalli kāryanirvāhaka abhiyaṃtararāgi sevèsallisi nivṛttarāgiruvaru. pravṛttiyiṃda sāhitigaḻāgiruva ivaru uttama bhāṣāṃtarakārarū gamakigaḻū āgiruvaru. karnāṭaka gamaka kalā pariṣattina adhyakṣarāgi kāryanirvahisiruvaru, kannaḍadalli vividha sāhitya prakāragaḻalli sumāru ainūru pustakagaḻannu racisiruvaru. jīvanacaritrè, vyakti citragaḻannu barèyuvudaralli siddhahastaru. viśvavikhyāta mahiḻèyaru, namma gamakigaḻu, kannaḍa kaviratnatrayaru, vijñānigaḻa hāgū deśabhaktara jīvana caritrègaḻu ivara gamanārha kṛtigaḻu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-3",
+      "section": "author",
+      "text": "`ಶಾಂತಿಪ್ರಿಯ' ಅಂಕಿತದಲ್ಲಿ ಇವರು ರಚಿಸಿದ ಆರುನೂರು ವಚನಗಳ ಸಂಕಲನ ‘ವಚನಸಾಗರ’ ಕೃತಿಗೆ ವಚನ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಪ್ರಶಸ್ತಿ ಬಂದಿರುತ್ತದೆ. ಸರ್ ಎಂ.ವಿ.ರವರ ಪ್ರಶಸ್ತಿ, ಡೆಪ್ಯುಟಿ ಚನ್ನಬಸಪ್ಪ ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮೊದಲಾದ ಪ್ರಶಸ್ತಿಗಳು ಸಂದಿವೆ.",
+      "translations": {
+        "en": "The collection of six hundred vachanas he composed under the pen-name ‘Shantipriya’, ‘Vachanasagara’, received the Vachana Sahitya Academy award. Awards such as the Sir M.V. award and the Deputy Channabasappa state award have come to him.",
+        "hi": "‘शांतिप्रिय’ अंकित से रचे छह सौ वचन संग्रह ‘वचनसागर’ को वचन साहित्य अकादमी पुरस्कार मिला। सर एम.वी. पुरस्कार आदि मिले।"
+      },
+      "transliterations": {
+        "devanagari": "`शांतिप्रिय' अंकितदल्लि इवरु रचिसिद आरुनूरु वचनगळ संकलन ‘वचनसागर’ कृतिगॆ वचन साहित्य अकाडॆमिय प्रशस्ति बंदिरुत्तदॆ. सर् ऎं.वि.रवर प्रशस्ति, डॆप्युटि चन्नबसप्प राज्य प्रशस्ति मॊदलाद प्रशस्तिगळु संदिवॆ.",
+        "latin": "`śāṃtipriya' aṃkitadalli ivaru racisida ārunūru vacanagaḻa saṃkalana ‘vacanasāgara’ kṛtigè vacana sāhitya akāḍèmiya praśasti baṃdiruttadè. sar èṃ.vi.ravara praśasti, ḍèpyuṭi cannabasappa rājya praśasti mòdalāda praśastigaḻu saṃdivè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-4",
+      "section": "author",
+      "text": "ಪ್ರಸ್ತುತ ಪಠ್ಯಭಾಗವನ್ನು ಇವರ “ಪ್ರಸಿದ್ಧ ವ್ಯಕ್ತಿಗಳ ಬಾಳಿನಲ್ಲಿ ಒಂದು ಘಟನೆ” ಕೃತಿಯಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ.",
+      "translations": {
+        "en": "The present lesson is selected from his work “An Event in the Lives of Famous People.”",
+        "hi": "प्रस्तुत पाठ उनके “प्रसिद्ध व्यक्तियों के जीवन में एक घटना” कृति से चुना गया है।"
+      },
+      "transliterations": {
+        "devanagari": "प्रस्तुत पठ्यभागवन्नु इवर “प्रसिद्ध व्यक्तिगळ बाळिनल्लि ऒंदु घटनॆ” कृतियिंद आय्दुकॊळ्ळलागिदॆ.",
+        "latin": "prastuta paṭhyabhāgavannu ivara “prasiddha vyaktigaḻa bāḻinalli òṃdu ghaṭanè” kṛtiyiṃda āydukòḻḻalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-rashtrapathi",
+      "section": "vocab",
+      "text": "ರಾಷ್ಟ್ರಪತಿ",
+      "translations": {
+        "en": "rāṣṭrapati",
+        "hi": "राष्ट्रपति"
+      },
+      "transliterations": {
+        "devanagari": "राष्ट्रपति",
+        "latin": "rāṣṭrapati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rashtrapathi-def",
+      "section": "vocab",
+      "text": "ರಾಷ್ಟ್ರಾಧ್ಯಕ್ಷ, ರಾಷ್ಟ್ರದ ಪ್ರಥಮ ಪ್ರಜೆ",
+      "translations": {
+        "en": "head of state, first citizen of the nation",
+        "hi": "राष्ट्राध्यक्ष, राष्ट्रद प्रथम प्रजॆ"
+      },
+      "transliterations": {
+        "devanagari": "राष्ट्राध्यक्ष, राष्ट्रद प्रथम प्रजॆ",
+        "latin": "rāṣṭrādhyakṣa, rāṣṭrada prathama prajè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-unnata",
+      "section": "vocab",
+      "text": "ಉನ್ನತ",
+      "translations": {
+        "en": "unnata",
+        "hi": "उन्नत"
+      },
+      "transliterations": {
+        "devanagari": "उन्नत",
+        "latin": "unnata"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-unnata-def",
+      "section": "vocab",
+      "text": "ಎತ್ತರವಾದ, ಮೇಲಾದ",
+      "translations": {
+        "en": "high, elevated",
+        "hi": "ऎत्तरवाद, मेलाद"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तरवाद, मेलाद",
+        "latin": "èttaravāda, melāda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hattikku",
+      "section": "vocab",
+      "text": "ಹತ್ತಿಕ್ಕು",
+      "translations": {
+        "en": "hattikku",
+        "hi": "हत्तिक्कु"
+      },
+      "transliterations": {
+        "devanagari": "हत्तिक्कु",
+        "latin": "hattikku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hattikku-def",
+      "section": "vocab",
+      "text": "ಅಡಗಿಸು, ದಮನಮಾಡು",
+      "translations": {
+        "en": "to suppress, to restrain",
+        "hi": "अडगिसु, दमनमाडु"
+      },
+      "transliterations": {
+        "devanagari": "अडगिसु, दमनमाडु",
+        "latin": "aḍagisu, damanamāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-chellapilli",
+      "section": "vocab",
+      "text": "ಚೆಲ್ಲಾಪಿಲ್ಲಿ",
+      "translations": {
+        "en": "cèllāpilli",
+        "hi": "चॆल्लापिल्लि"
+      },
+      "transliterations": {
+        "devanagari": "चॆल्लापिल्लि",
+        "latin": "cèllāpilli"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-chellapilli-def",
+      "section": "vocab",
+      "text": "ಅಸ್ತವ್ಯಸ್ತ, ಚೆದುರು",
+      "translations": {
+        "en": "scattered, disordered",
+        "hi": "अस्तव्यस्त, चॆदुरु"
+      },
+      "transliterations": {
+        "devanagari": "अस्तव्यस्त, चॆदुरु",
+        "latin": "astavyasta, cèduru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-anuguna",
+      "section": "vocab",
+      "text": "ಅನುಗುಣ",
+      "translations": {
+        "en": "anuguṇa",
+        "hi": "अनुगुण"
+      },
+      "transliterations": {
+        "devanagari": "अनुगुण",
+        "latin": "anuguṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-anuguna-def",
+      "section": "vocab",
+      "text": "ಅನುಸಾರ, ಹೊಂದಿಕೊಂಡು",
+      "translations": {
+        "en": "according to, in keeping with",
+        "hi": "अनुसार, हॊंदिकॊंडु"
+      },
+      "transliterations": {
+        "devanagari": "अनुसार, हॊंदिकॊंडु",
+        "latin": "anusāra, hòṃdikòṃḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-akara",
+      "section": "vocab",
+      "text": "ಆಕರ",
+      "translations": {
+        "en": "ākara",
+        "hi": "आकर"
+      },
+      "transliterations": {
+        "devanagari": "आकर",
+        "latin": "ākara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-akara-def",
+      "section": "vocab",
+      "text": "ಮೂಲ ಆಧಾರ",
+      "translations": {
+        "en": "original source",
+        "hi": "मूल आधार"
+      },
+      "transliterations": {
+        "devanagari": "मूल आधार",
+        "latin": "mūla ādhāra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-manobhava",
+      "section": "vocab",
+      "text": "ಮನೋಭಾವ",
+      "translations": {
+        "en": "manobhāva",
+        "hi": "मनोभाव"
+      },
+      "transliterations": {
+        "devanagari": "मनोभाव",
+        "latin": "manobhāva"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-manobhava-def",
+      "section": "vocab",
+      "text": "ಮನಸ್ಸಿನಭಾವನೆ",
+      "translations": {
+        "en": "state of mind",
+        "hi": "मनस्सिनभावनॆ"
+      },
+      "transliterations": {
+        "devanagari": "मनस्सिनभावनॆ",
+        "latin": "manassinabhāvanè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-daurbalya",
+      "section": "vocab",
+      "text": "ದೌರ್ಬಲ್ಯ",
+      "translations": {
+        "en": "daurbalya",
+        "hi": "दौर्बल्य"
+      },
+      "transliterations": {
+        "devanagari": "दौर्बल्य",
+        "latin": "daurbalya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-daurbalya-def",
+      "section": "vocab",
+      "text": "ಬಲಹೀನತೆ",
+      "translations": {
+        "en": "weakness",
+        "hi": "बलहीनतॆ"
+      },
+      "transliterations": {
+        "devanagari": "बलहीनतॆ",
+        "latin": "balahīnatè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhanga",
+      "section": "vocab",
+      "text": "ಭಂಗ",
+      "translations": {
+        "en": "bhaṃga",
+        "hi": "भंग"
+      },
+      "transliterations": {
+        "devanagari": "भंग",
+        "latin": "bhaṃga"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhanga-def",
+      "section": "vocab",
+      "text": "ಸೋಲು, ವೈಫಲ್ಯ",
+      "translations": {
+        "en": "defeat, failure",
+        "hi": "सोलु, वैफल्य"
+      },
+      "transliterations": {
+        "devanagari": "सोलु, वैफल्य",
+        "latin": "solu, vaiphalya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vartane",
+      "section": "vocab",
+      "text": "ವರ್ತನೆ",
+      "translations": {
+        "en": "vartanè",
+        "hi": "वर्तनॆ"
+      },
+      "transliterations": {
+        "devanagari": "वर्तनॆ",
+        "latin": "vartanè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vartane-def",
+      "section": "vocab",
+      "text": "ನಡತೆ, ರೀತಿ",
+      "translations": {
+        "en": "conduct, manner",
+        "hi": "नडतॆ, रीति"
+      },
+      "transliterations": {
+        "devanagari": "नडतॆ, रीति",
+        "latin": "naḍatè, rīti"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-adesha",
+      "section": "vocab",
+      "text": "ಆದೇಶ",
+      "translations": {
+        "en": "ādeśa",
+        "hi": "आदेश"
+      },
+      "transliterations": {
+        "devanagari": "आदेश",
+        "latin": "ādeśa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-adesha-def",
+      "section": "vocab",
+      "text": "ಆಜ್ಞೆ, ಅಪ್ಪಣೆ",
+      "translations": {
+        "en": "order, command",
+        "hi": "आज्ञॆ, अप्पणॆ"
+      },
+      "transliterations": {
+        "devanagari": "आज्ञॆ, अप्पणॆ",
+        "latin": "ājñè, appaṇè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sadrusha",
+      "section": "vocab",
+      "text": "ಸದೃಶ",
+      "translations": {
+        "en": "sadṛśa",
+        "hi": "सदृश"
+      },
+      "transliterations": {
+        "devanagari": "सदृश",
+        "latin": "sadṛśa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sadrusha-def",
+      "section": "vocab",
+      "text": "ಹೋಲುವ, ಸಾಟಿಯಾದ",
+      "translations": {
+        "en": "similar, equal",
+        "hi": "होलुव, साटियाद"
+      },
+      "transliterations": {
+        "devanagari": "होलुव, साटियाद",
+        "latin": "holuva, sāṭiyāda"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-samyama",
+      "section": "vocab",
+      "text": "ಸಂಯಮ",
+      "translations": {
+        "en": "saṃyama",
+        "hi": "संयम"
+      },
+      "transliterations": {
+        "devanagari": "संयम",
+        "latin": "saṃyama"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-samyama-def",
+      "section": "vocab",
+      "text": "ಹತೋಟಿ, ನಿಯಂತ್ರಣ",
+      "translations": {
+        "en": "control, restraint",
+        "hi": "हतोटि, नियंत्रण"
+      },
+      "transliterations": {
+        "devanagari": "हतोटि, नियंत्रण",
+        "latin": "hatoṭi, niyaṃtraṇa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-aparadhi",
+      "section": "vocab",
+      "text": "ಅಪರಾಧಿ",
+      "translations": {
+        "en": "aparādhi",
+        "hi": "अपराधि"
+      },
+      "transliterations": {
+        "devanagari": "अपराधि",
+        "latin": "aparādhi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aparadhi-def",
+      "section": "vocab",
+      "text": "ತಪ್ಪುಮಾಡಿದವನು",
+      "translations": {
+        "en": "one who has done wrong",
+        "hi": "तप्पुमाडिदवनु"
+      },
+      "transliterations": {
+        "devanagari": "तप्पुमाडिदवनु",
+        "latin": "tappumāḍidavanu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bhandara",
+      "section": "vocab",
+      "text": "ಭಂಡಾರ",
+      "translations": {
+        "en": "bhaṃḍāra",
+        "hi": "भंडार"
+      },
+      "transliterations": {
+        "devanagari": "भंडार",
+        "latin": "bhaṃḍāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bhandara-def",
+      "section": "vocab",
+      "text": "ಬೊಕ್ಕಸ, ಖಜಾನೆ",
+      "translations": {
+        "en": "treasury, store",
+        "hi": "बॊक्कस, खजानॆ"
+      },
+      "transliterations": {
+        "devanagari": "बॊक्कस, खजानॆ",
+        "latin": "bòkkasa, khajānè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-jopana",
+      "section": "vocab",
+      "text": "ಜೋಪಾನ",
+      "translations": {
+        "en": "jopāna",
+        "hi": "जोपान"
+      },
+      "transliterations": {
+        "devanagari": "जोपान",
+        "latin": "jopāna"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jopana-def",
+      "section": "vocab",
+      "text": "ರಕ್ಷಣೆ, ಜತನ",
+      "translations": {
+        "en": "protection, care",
+        "hi": "रक्षणॆ, जतन"
+      },
+      "transliterations": {
+        "devanagari": "रक्षणॆ, जतन",
+        "latin": "rakṣaṇè, jatana"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pragati",
+      "section": "vocab",
+      "text": "ಪ್ರಗತಿ",
+      "translations": {
+        "en": "pragati",
+        "hi": "प्रगति"
+      },
+      "transliterations": {
+        "devanagari": "प्रगति",
+        "latin": "pragati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pragati-def",
+      "section": "vocab",
+      "text": "ಮುನ್ನಡೆ, ಅಭಿವೃದ್ಧಿ",
+      "translations": {
+        "en": "progress, development",
+        "hi": "मुन्नडॆ, अभिवृद्धि"
+      },
+      "transliterations": {
+        "devanagari": "मुन्नडॆ, अभिवृद्धि",
+        "latin": "munnaḍè, abhivṛddhi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-rochaka",
+      "section": "vocab",
+      "text": "ರೋಚಕ",
+      "translations": {
+        "en": "rocaka",
+        "hi": "रोचक"
+      },
+      "transliterations": {
+        "devanagari": "रोचक",
+        "latin": "rocaka"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rochaka-def",
+      "section": "vocab",
+      "text": "ಕುತೂಹಲಕಾರಿ, ಸೋಜಿಗದಾಯಕ",
+      "translations": {
+        "en": "interesting, surprising",
+        "hi": "कुतूहलकारि, सोजिगदायक"
+      },
+      "transliterations": {
+        "devanagari": "कुतूहलकारि, सोजिगदायक",
+        "latin": "kutūhalakāri, sojigadāyaka"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-praveshadvara",
+      "section": "vocab",
+      "text": "ಪ್ರವೇಶದ್ವಾರ",
+      "translations": {
+        "en": "praveśadvāra",
+        "hi": "प्रवेशद्वार"
+      },
+      "transliterations": {
+        "devanagari": "प्रवेशद्वार",
+        "latin": "praveśadvāra"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-praveshadvara-def",
+      "section": "vocab",
+      "text": "ಒಳಹೋಗುವ ಮುಖ್ಯ ಬಾಗಿಲು",
+      "translations": {
+        "en": "main entrance for going in",
+        "hi": "ऒळहोगुव मुख्य बागिलु"
+      },
+      "transliterations": {
+        "devanagari": "ऒळहोगुव मुख्य बागिलु",
+        "latin": "òḻahoguva mukhya bāgilu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-neetagi",
+      "section": "vocab",
+      "text": "ನೀಟಾಗಿ",
+      "translations": {
+        "en": "nīṭāgi",
+        "hi": "नीटागि"
+      },
+      "transliterations": {
+        "devanagari": "नीटागि",
+        "latin": "nīṭāgi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-neetagi-def",
+      "section": "vocab",
+      "text": "ಅಂದವಾಗಿ, ಸೊಗಸಾಗಿ",
+      "translations": {
+        "en": "neatly, elegantly",
+        "hi": "अंदवागि, सॊगसागि"
+      },
+      "transliterations": {
+        "devanagari": "अंदवागि, सॊगसागि",
+        "latin": "aṃdavāgi, sògasāgi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-janaka-maharaja",
+      "section": "notes",
+      "text": "ಜನಕ ಮಹಾರಾಜ",
+      "translations": {
+        "en": "janaka mahārāja",
+        "hi": "जनक महाराज"
+      },
+      "transliterations": {
+        "devanagari": "जनक महाराज",
+        "latin": "janaka mahārāja"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-janaka-maharaja-def",
+      "section": "notes",
+      "text": "ಮಿಥಿಲೆಯ ರಾಜ, ಸೀತೆಯ ತಂದೆ.",
+      "translations": {
+        "en": "King of Mithila, Sita’s father.",
+        "hi": "मिथिलॆय राज, सीतॆय तंदॆ."
+      },
+      "transliterations": {
+        "devanagari": "मिथिलॆय राज, सीतॆय तंदॆ.",
+        "latin": "mithilèya rāja, sītèya taṃdè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-thalmegedu",
+      "section": "notes",
+      "text": "ತಾಳ್ಮೆಗೆಡು",
+      "translations": {
+        "en": "tāḻmègèḍu",
+        "hi": "ताळ्मॆगॆडु"
+      },
+      "transliterations": {
+        "devanagari": "ताळ्मॆगॆडु",
+        "latin": "tāḻmègèḍu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-thalmegedu-def",
+      "section": "notes",
+      "text": "ಸಹನೆ ಕಳೆದುಕೊಳ್ಳು, ಕೋಪಕ್ಕೆ ಒಳಗಾಗು.",
+      "translations": {
+        "en": "to lose patience, to give in to anger.",
+        "hi": "सहनॆ कळॆदुकॊळ्ळु, कोपक्कॆ ऒळगागु."
+      },
+      "transliterations": {
+        "devanagari": "सहनॆ कळॆदुकॊळ्ळु, कोपक्कॆ ऒळगागु.",
+        "latin": "sahanè kaḻèdukòḻḻu, kopakkè òḻagāgu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-samskruti",
+      "section": "notes",
+      "text": "ಸಂಸ್ಕೃತಿ",
+      "translations": {
+        "en": "saṃskṛti",
+        "hi": "संस्कृति"
+      },
+      "transliterations": {
+        "devanagari": "संस्कृति",
+        "latin": "saṃskṛti"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-samskruti-def",
+      "section": "notes",
+      "text": "ದೇಶದ ನಾಗರಿಕತೆಯ ಸಾರ.",
+      "translations": {
+        "en": "the essence of a country’s civilization.",
+        "hi": "देशद नागरिकतॆय सार."
+      },
+      "transliterations": {
+        "devanagari": "देशद नागरिकतॆय सार.",
+        "latin": "deśada nāgarikatèya sāra."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-rajyapala",
+      "section": "notes",
+      "text": "ರಾಜ್ಯಪಾಲ",
+      "translations": {
+        "en": "rājyapāla",
+        "hi": "राज्यपाल"
+      },
+      "transliterations": {
+        "devanagari": "राज्यपाल",
+        "latin": "rājyapāla"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-rajyapala-def",
+      "section": "notes",
+      "text": "ರಾಜ್ಯದ ಮುಖ್ಯಸ್ಥ, ರಾಜ್ಯದ ಪ್ರಥಮ ಪ್ರಜೆ.",
+      "translations": {
+        "en": "head of a state, first citizen of the state.",
+        "hi": "राज्यद मुख्यस्थ, राज्यद प्रथम प्रजॆ."
+      },
+      "transliterations": {
+        "devanagari": "राज्यद मुख्यस्थ, राज्यद प्रथम प्रजॆ.",
+        "latin": "rājyada mukhyastha, rājyada prathama prajè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-vishwavidyalaya",
+      "section": "notes",
+      "text": "ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "translations": {
+        "en": "viśvavidyālaya",
+        "hi": "विश्वविद्यालय"
+      },
+      "transliterations": {
+        "devanagari": "विश्वविद्यालय",
+        "latin": "viśvavidyālaya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-vishwavidyalaya-def",
+      "section": "notes",
+      "text": "ಉನ್ನತ ವಿದ್ಯಾಭ್ಯಾಸ ನೀಡುವ ಸಂಸ್ಥೆ.",
+      "translations": {
+        "en": "an institution that provides higher education.",
+        "hi": "उन्नत विद्याभ्यास नीडुव संस्थॆ."
+      },
+      "transliterations": {
+        "devanagari": "उन्नत विद्याभ्यास नीडुव संस्थॆ.",
+        "latin": "unnata vidyābhyāsa nīḍuva saṃsthè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-kulapati",
+      "section": "notes",
+      "text": "ಕುಲಪತಿ",
+      "translations": {
+        "en": "kulapati",
+        "hi": "कुलपति"
+      },
+      "transliterations": {
+        "devanagari": "कुलपति",
+        "latin": "kulapati"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-kulapati-def",
+      "section": "notes",
+      "text": "ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಖ್ಯಸ್ಥ.",
+      "translations": {
+        "en": "head of a university.",
+        "hi": "विश्वविद्यालयद मुख्यस्थ."
+      },
+      "transliterations": {
+        "devanagari": "विश्वविद्यालयद मुख्यस्थ.",
+        "latin": "viśvavidyālayada mukhyastha."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-karyakshetra",
+      "section": "notes",
+      "text": "ಕಾರ್ಯಕ್ಷೇತ್ರ",
+      "translations": {
+        "en": "kāryakṣetra",
+        "hi": "कार्यक्षेत्र"
+      },
+      "transliterations": {
+        "devanagari": "कार्यक्षेत्र",
+        "latin": "kāryakṣetra"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-karyakshetra-def",
+      "section": "notes",
+      "text": "ಕಾರ್ಯರಂಗ, ಕೆಲಸ ನಿರ್ವಹಿಸುವ ವಲಯದ ವ್ಯಾಪ್ತಿ.",
+      "translations": {
+        "en": "field of work, the scope of the area where work is done.",
+        "hi": "कार्यरंग, कॆलस निर्वहिसुव वलयद व्याप्ति."
+      },
+      "transliterations": {
+        "devanagari": "कार्यरंग, कॆलस निर्वहिसुव वलयद व्याप्ति.",
+        "latin": "kāryaraṃga, kèlasa nirvahisuva valayada vyāpti."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-palish",
+      "section": "notes",
+      "text": "ಪಾಲಿಶ್",
+      "translations": {
+        "en": "pāliś",
+        "hi": "पालिश्"
+      },
+      "transliterations": {
+        "devanagari": "पालिश्",
+        "latin": "pāliś"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-palish-def",
+      "section": "notes",
+      "text": "ಹೊಳಪು ಬರುವಂತೆ ಮಾಡುವಿಕೆ.",
+      "translations": {
+        "en": "making something shine.",
+        "hi": "हॊळपु बरुवंतॆ माडुविकॆ."
+      },
+      "transliterations": {
+        "devanagari": "हॊळपु बरुवंतॆ माडुविकॆ.",
+        "latin": "hòḻapu baruvaṃtè māḍuvikè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-buddhikalisuvudu",
+      "section": "notes",
+      "text": "ಬುದ್ಧಿಕಲಿಸು",
+      "translations": {
+        "en": "buddhikalisu",
+        "hi": "बुद्धिकलिसु"
+      },
+      "transliterations": {
+        "devanagari": "बुद्धिकलिसु",
+        "latin": "buddhikalisu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-buddhikalisuvudu-def",
+      "section": "notes",
+      "text": "ತಿಳಿವಳಿಕೆಯನ್ನುಂಟುಮಾಡು, ಸರಿದಾರಿಗೆ ತರು.",
+      "translations": {
+        "en": "to create understanding, to bring onto the right path.",
+        "hi": "तिळिवळिकॆयन्नुंटुमाडु, सरिदारिगॆ तरु."
+      },
+      "transliterations": {
+        "devanagari": "तिळिवळिकॆयन्नुंटुमाडु, सरिदारिगॆ तरु.",
+        "latin": "tiḻivaḻikèyannuṃṭumāḍu, saridārigè taru."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "ex-a-q1",
+      "section": "exercise",
+      "text": "ಮಕ್ಕಳಿಗೆ ತಮ್ಮ _______________ ಅರಿವಾಗಬೇಕು ಎಂದೆನಿಸಿತು.",
+      "translations": {
+        "en": "He felt the children should become aware of their _______________.",
+        "hi": "बच्चों को अपनी _______________ का बोध हो—यह चाहा।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळिगॆ तम्म _______________ अरिवागबेकु ऎंदॆनिसितु.",
+        "latin": "makkaḻigè tamma _______________ arivāgabeku èṃdènisitu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-a-q2",
+      "section": "exercise",
+      "text": "ಪ್ರಸಾದರು ಅವರಿಗೆಲ್ಲ ಅಷ್ಟಷ್ಟು ___________ ಕೊಟ್ಟರು.",
+      "translations": {
+        "en": "Prasad gave them all that many ___________ .",
+        "hi": "प्रसाद ने सबको उतने ___________ दिए।"
+      },
+      "transliterations": {
+        "devanagari": "प्रसादरु अवरिगॆल्ल अष्टष्टु ___________ कॊट्टरु.",
+        "latin": "prasādaru avarigèlla aṣṭaṣṭu ___________ kòṭṭaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-a-q3",
+      "section": "exercise",
+      "text": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಲು ತಾವೇ ಒಂದು __________ ಕಂಡುಕೊಂಡರು.",
+      "translations": {
+        "en": "To teach the students a lesson he himself found a __________ .",
+        "hi": "विद्यार्थियों को सिखाने के लिए स्वयं एक __________ निकाली।"
+      },
+      "transliterations": {
+        "devanagari": "विद्यार्थिगळिगॆ बुद्धि कलिसलु तावे ऒंदु __________ कंडुकॊंडरु.",
+        "latin": "vidyārthigaḻigè buddhi kalisalu tāve òṃdu __________ kaṃḍukòṃḍaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-a-q4",
+      "section": "exercise",
+      "text": "ಒಂದಿಬ್ಬರು ______________ ಹಾಕಿಸಿಕೊಂಡೂ ಆಗಿತ್ತು.",
+      "translations": {
+        "en": "A few even had ______________ done.",
+        "hi": "कुछ ने ______________ भी करवाई।"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदिब्बरु ______________ हाकिसिकॊंडू आगित्तु.",
+        "latin": "òṃdibbaru ______________ hākisikòṃḍū āgittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "id": "ex-c-q1",
+      "section": "exercise",
+      "text": "ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು ತಾವು ಯಾರ ಸೇವಕ ಎಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "Whose servant did Rajendra Prasad say he was?",
+        "hi": "राजेंद्र प्रसाद स्वयं को किसके सेवक कहते थे?"
+      },
+      "transliterations": {
+        "devanagari": "राजेंद्र प्रसादरु तावु यार सेवक ऎंदु हेळिकॊळ्ळुत्तिद्दरु?",
+        "latin": "rājeṃdra prasādaru tāvu yāra sevaka èṃdu heḻikòḻḻuttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q2",
+      "section": "exercise",
+      "text": "ಪುಸ್ತಕದ ಪುಟಗಳನ್ನು ಹರಿದ ಮಕ್ಕಳಿಗೆ ಪ್ರಸಾದರು ಏನನ್ನು ಕೊಟ್ಟರು?",
+      "translations": {
+        "en": "What did Prasad give the children who tore book pages?",
+        "hi": "पुस्तक के पृष्ठ फाड़ने वाले बच्चों को प्रसाद ने क्या दिया?"
+      },
+      "transliterations": {
+        "devanagari": "पुस्तकद पुटगळन्नु हरिद मक्कळिगॆ प्रसादरु एनन्नु कॊट्टरु?",
+        "latin": "pustakada puṭagaḻannu harida makkaḻigè prasādaru enannu kòṭṭaru?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q3",
+      "section": "exercise",
+      "text": "ಯಾವುದು ಒಳ್ಳೆಯ ಅಭ್ಯಾಸವಲ್ಲ ಎಂದು ಪ್ರಸಾದರು ಮಕ್ಕಳಿಗೆ ಹೇಳಿದರು?",
+      "translations": {
+        "en": "What did Prasad tell the children is not a good habit?",
+        "hi": "प्रसाद ने बच्चों से क्या अच्छी आदत नहीं कहा?"
+      },
+      "transliterations": {
+        "devanagari": "यावुदु ऒळ्ळॆय अभ्यासवल्ल ऎंदु प्रसादरु मक्कळिगॆ हेळिदरु?",
+        "latin": "yāvudu òḻḻèya abhyāsavalla èṃdu prasādaru makkaḻigè heḻidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q4",
+      "section": "exercise",
+      "text": "ಜಾಮಿಯಾ ಮಿಲಿಯಾ ಎಲ್ಲಿದೆ?",
+      "translations": {
+        "en": "Where is Jamia Millia?",
+        "hi": "जामिया मिलिया कहाँ है?"
+      },
+      "transliterations": {
+        "devanagari": "जामिया मिलिया ऎल्लिदॆ?",
+        "latin": "jāmiyā miliyā èllidè?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-c-q5",
+      "section": "exercise",
+      "text": "ಜಾಕಿರ್ ಹುಸೇನರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಲು ಯಾವ ವೇಷ ಹಾಕಿದರು?",
+      "translations": {
+        "en": "What guise did Zakir Hussain take to teach the students a lesson?",
+        "hi": "जाकिर हुसैन ने विद्यार्थियों को सिखाने के लिए कौन सा वेश लिया?"
+      },
+      "transliterations": {
+        "devanagari": "जाकिर् हुसेनरु विद्यार्थिगळिगॆ बुद्धि कलिसलु याव वेष हाकिदरु?",
+        "latin": "jākir husenaru vidyārthigaḻigè buddhi kalisalu yāva veṣa hākidaru?"
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-e-q1",
+      "section": "exercise",
+      "text": "ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್ ಅವರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ವಿವರಿಸಿರಿ.",
+      "translations": {
+        "en": "Describe Rajendra Prasad’s personality.",
+        "hi": "राजेंद्र प्रसाद के व्यक्तित्व का वर्णन कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "राजेंद्र प्रसाद् अवर व्यक्तित्ववन्नु विवरिसिरि.",
+        "latin": "rājeṃdra prasād avara vyaktitvavannu vivarisiri."
+      },
+      "type": "question"
+    },
+    {
+      "id": "ex-e-q2",
+      "section": "exercise",
+      "text": "ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಲು ಜಾಕಿರ್ ಹುಸೇನ್ ಏನು ಮಾಡಿದರು?",
+      "translations": {
+        "en": "What did Zakir Hussain do to teach the students a lesson?",
+        "hi": "विद्यार्थियों को सिखाने के लिए जाकिर हुसैन ने क्या किया?"
+      },
+      "transliterations": {
+        "devanagari": "विद्यार्थिगळिगॆ बुद्धि कलिसलु जाकिर् हुसेन् एनु माडिदरु?",
+        "latin": "vidyārthigaḻigè buddhi kalisalu jākir husen enu māḍidaru?"
+      },
+      "type": "question"
+    }
+  ]
+}

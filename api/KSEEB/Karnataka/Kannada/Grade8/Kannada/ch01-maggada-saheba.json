@@ -1,0 +1,741 @@
+{
+  "labels": {
+    "ashaya": {
+      "devanagari": "आशय",
+      "en": "Theme",
+      "hi": "आशय",
+      "kn": "ಆಶಯ",
+      "latin": "āśaya"
+    },
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer the following questions.",
+      "hi": "आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. कॊट्टिरुव प्रश्नॆगळिगॆ नाल्कु-ऐदु वाक्यगळल्लि उत्तरिसि.",
+      "en": "C. Answer the following questions.",
+      "hi": "इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ನಾಲ್ಕು-ಐದು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "i. kòṭṭiruva praśnègaḻigè nālku-aidu vākyagaḻalli uttarisi."
+    },
+    "exercise-D": {
+      "devanagari": "ई. कॊट्टिरुव प्रश्नॆगळिगॆ ऎंटु-हत्तु वाक्यगळल्लि उत्तरिसि.",
+      "en": "D. Answer the following questions.",
+      "hi": "ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಈ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು-ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ī. kòṭṭiruva praśnègaḻigè èṃṭu-hattu vākyagaḻalli uttarisi."
+    },
+    "exercise-E": {
+      "devanagari": "उ. संदर्भसहित स्वारस्यवन्नु विवरिसि.",
+      "en": "E. Explain with context.",
+      "hi": "उ. संदर्भ सहित व्याख्या कीजिए।",
+      "kn": "ಉ. ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ.",
+      "latin": "u. saṃdarbhasahita svārasyavannu vivarisi."
+    },
+    "exercise-F": {
+      "devanagari": "ऊ. बिट्ट स्थळगळन्नु सूक्त उत्तरगळिंद तुंबिरि.",
+      "en": "F. Fill in the blanks.",
+      "hi": "ऊ. रिक्त स्थान भरिए।",
+      "kn": "ಊ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ಸೂಕ್ತ ಉತ್ತರಗಳಿಂದ ತುಂಬಿರಿ.",
+      "latin": "ū. biṭṭa sthaḻagaḻannu sūkta uttaragaḻiṃda tuṃbiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "ṭippaṇi"
+    },
+    "story": {
+      "devanagari": "कथॆ",
+      "en": "Story",
+      "hi": "कहानी",
+      "kn": "ಕಥೆ",
+      "latin": "kathè"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಬಾಗಲೋಡಿ ದೇವರಾಯ",
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 8,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch01-maggada-saheba",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಮಗ್ಗದ ಸಾಹೇಬ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಬಹಳ ಜನಪ್ರಿಯ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಲ್ಲಿ ಸಣ್ಣ ಕಥೆಯೂ ಒಂದು. ಕಥೆಯನ್ನು ಹೇಳುವುದು ಹಾಗೂ ಕೇಳುವುದು ಮಾನವನ ಹುಟ್ಟುಗುಣ. ನಮ್ಮ ಹಿರಿಯರು ತಮ್ಮ ಮಕ್ಕಳಲ್ಲಿ ಆಸಕ್ತಿ ಕೆರಳಿಸಿ ಕುತೂಹಲ ಉಂಟುಮಾಡಲು, ಮನಸ್ಸಿಗೆ ಮುದ ನೀಡಲು ಮನಸ್ಸನ್ನರಳಿಸುವ ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದರು.",
+      "translations": {
+        "en": "Among popular literary forms the short story is one. Telling and hearing stories is human nature. Elders told stories to stir interest, curiosity and delight in children. Storytelling grew; writers changed subject, style and narration to popularise the short story, marked by brevity and realism.",
+        "hi": "लोकप्रिय साहित्य प्रकारों में लघुकथा एक है। कहानी कहना-सुनना मनुष्य का स्वभाव है।"
+      },
+      "transliterations": {
+        "devanagari": "बहळ जनप्रिय साहित्य प्रकारगळल्लि सण्ण कथॆयू ऒंदु. कथॆयन्नु हेळुवुदु हागू केळुवुदु मानवन हुट्टुगुण. नम्म हिरियरु तम्म मक्कळल्लि आसक्ति कॆरळिसि कुतूहल उंटुमाडलु, मनस्सिगॆ मुद नीडलु मनस्सन्नरळिसुव कथॆगळन्नु हेळुत्तिद्दरु.",
+        "latin": "bahaḻa janapriya sāhitya prakāragaḻalli saṇṇa kathèyū òṃdu. kathèyannu heḻuvudu hāgū keḻuvudu mānavana huṭṭuguṇa. namma hiriyaru tamma makkaḻalli āsakti kèraḻisi kutūhala uṃṭumāḍalu, manassigè muda nīḍalu manassannaraḻisuva kathègaḻannu heḻuttiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಈ ಕಥನ ಕಲೆಯು ವಿಸ್ತಾರಗೊಂಡು ಕೆಲವು ಸಾಹಿತಿಗಳು ವಸ್ತು, ಶೈಲಿ, ನಿರೂಪಣೆಗಳೆಲ್ಲದರಲ್ಲಿಯೂ ಪರಿಣಾಮಕಾರಿಯಾದ ಮಾರ್ಪಾಡುಗಳನ್ನು ಮಾಡಿ ಸಣ್ಣಕಥೆ ಎಂಬ ಸಾಹಿತ್ಯ ಪ್ರಕಾರವನ್ನು ಪ್ರಚುರಗೊಳಿಸಿದರು ಮತ್ತು ಸಂಕ್ಷಿಪ್ತತೆ, ವಾಸ್ತವತೆಗಳು ಇದರ ಗುಣಗಳಾಗಿವೆ. ಶಿಕ್ಷಣ, ಬದುಕಿನ ಏಳುಬೀಳುಗಳು, ಸ್ವಉದ್ಯೋಗ, ವಿಜ್ಞಾನ ಮೊದಲಾದವುಗಳು ಸಣ್ಣಕಥೆಗೆ ವಸ್ತುಗಳಾಗಿವೆ. ಪ್ರಸ್ತುತ ಕಥೆಯಲ್ಲಿ ಬಹು ಮುಖ್ಯವಾಗಿ ಇಂದು ವಿನಾಶದ ಅಂಚಿನಲ್ಲಿರುವ ಗುಡಿಕೈಗಾರಿಕೆಗೆ ನಮ್ಮ ಶಿಕ್ಷಣದಲ್ಲಿ ನೀಡಬೇಕಾದ ಮಹತ್ವವನ್ನು ಸಾದರಪಡಿಸುವ ಉದ್ದೇಶವಿದೆ. ತಂದೆಯ ಆಸೆಯಂತೆ ಸರ್ಕಾರಿ ಉದ್ಯೋಗವನ್ನೇ ಅವಲಂಬಿಸದೆ, ಸ್ವಯಂ ಉದ್ಯೋಗ ಕಂಡುಕೊಳ್ಳುವ ಯುವಕನೊಬ್ಬ ರಾಷ್ಟ್ರಮಟ್ಟದ ಗೌರವಾದರಗಳಿಗೆ ಪಾತ್ರನಾಗುವುದೇ ಇಲ್ಲಿಯ ಕಥಾವಸ್ತು.",
+      "transliterations": {
+        "devanagari": "ई कथन कलॆयु विस्तारगॊंडु कॆलवु साहितिगळु वस्तु, शैलि, निरूपणॆगळॆल्लदरल्लियू परिणामकारियाद मार्पाडुगळन्नु माडि सण्णकथॆ ऎंब साहित्य प्रकारवन्नु प्रचुरगॊळिसिदरु मत्तु संक्षिप्ततॆ, वास्तवतॆगळु इदर गुणगळागिवॆ. शिक्षण, बदुकिन एळुबीळुगळु, स्वउद्योग, विज्ञान मॊदलादवुगळु सण्णकथॆगॆ वस्तुगळागिवॆ. प्रस्तुत कथॆयल्लि बहु मुख्यवागि इंदु विनाशद अंचिनल्लिरुव गुडिकैगारिकॆगॆ नम्म शिक्षणदल्लि नीडबेकाद महत्ववन्नु सादरपडिसुव उद्देशविदॆ. तंदॆय आसॆयंतॆ सर्कारि उद्योगवन्ने अवलंबिसदॆ, स्वयं उद्योग कंडुकॊळ्ळुव युवकनॊब्ब राष्ट्रमट्टद गौरवादरगळिगॆ पात्रनागुवुदे इल्लिय कथावस्तु.",
+        "latin": "ī kathana kalèyu vistāragòṃḍu kèlavu sāhitigaḻu vastu, śaili, nirūpaṇègaḻèlladaralliyū pariṇāmakāriyāda mārpāḍugaḻannu māḍi saṇṇakathè èṃba sāhitya prakāravannu pracuragòḻisidaru mattu saṃkṣiptatè, vāstavatègaḻu idara guṇagaḻāgivè. śikṣaṇa, badukina eḻubīḻugaḻu, svaudyoga, vijñāna mòdalādavugaḻu saṇṇakathègè vastugaḻāgivè. prastuta kathèyalli bahu mukhyavāgi iṃdu vināśada aṃcinalliruva guḍikaigārikègè namma śikṣaṇadalli nīḍabekāda mahatvavannu sādarapaḍisuva uddeśavidè. taṃdèya āsèyaṃtè sarkāri udyogavanne avalaṃbisadè, svayaṃ udyoga kaṃḍukòḻḻuva yuvakanòbba rāṣṭramaṭṭada gauravādaragaḻigè pātranāguvude illiya kathāvastu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "ಮಗ್ಗದ ಸಾಹೇಬ ಅಂದರೆ ಅಬ್ದುಲ್ ರಹೀಮ್ ಸಾಹೇಬ್. ಅವನು ಮಗ್ಗವನ್ನು ಮುಟ್ಟದೆ ಇಪ್ಪತ್ತು ವರ್ಷಕ್ಕೂ ಹೆಚ್ಚಾಗಿದೆ. ಆದರೂ ಅವನನ್ನು ಮಗ್ಗದ ಸಾಹೇಬನೆಂದೇ ಕರೆಯುವುದು ವಾಡಿಕೆ. ಅವರ ಪೂರ್ವಜರು ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್ ಮಗ್ಗದ ಹುಸೇನ್ ಸಾಹೇಬರು ಜನಪ್ರಿಯ ಮತ್ತು ಧನವಂತ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು. ಅವರು ಮಸೀದಿ ಮಾತ್ರವಲ್ಲ; ದೇವಸ್ಥಾನವನ್ನೂ ಕಟ್ಟಿಸಿದ್ದರು. ಇಂದಿಗೂ ಈ ದೇವಸ್ಥಾನದಲ್ಲಿ ರಥೋತ್ಸವದ ಸಮಯದಲ್ಲಿ ಅವರ ಮನೆತನದ ಹಿರಿಯ ಪ್ರತಿನಿಧಿಗೆ ಎಲ್ಲರಿಗಿಂತಲೂ ಮುಂದಾಗಿ ಪ್ರಸಾದವನ್ನು ಪಡೆಯುವ ಹಕ್ಕಿದೆ. ಇಂತಹ ಸಂಪ್ರದಾಯ ಪದ್ಧತಿಗಳು ಇಂದಿಗೂ ಕರ್ನಾಟಕದಲ್ಲಿ ನಡೆಯುತ್ತಿವೆ. ಇದರಿಂದ ಪೂರ್ವಜರಲ್ಲಿ ಎಂತಹ ಘನತೆ, ಸದಾಚಾರ, ಸದ್ಭಾವನೆಗಳು ಇದ್ದವು ಎಂದು ತಿಳಿಯುವುದು. ಉದಾಹರಣೆಗೆ ನನ್ನದೇ ಹುಟ್ಟೂರಿನ ಪಕ್ಕದಲ್ಲಿ ಮುಸಲ್ಮಾನರ ವಸತಿ ಇದೆ. ಅದರೊಳಗೆ ಒಂದು ಪವಿತ್ರ ಸ್ಥಾನವಿದೆ. ಅಲ್ಲಿ ‘ಉರ್ಸ್’ ಎಂಬ ಮುಸಲ್ಮಾನರ ಧಾರ್ಮಿಕ ಉತ್ಸವದ ಕಾಲದಲ್ಲಿ ನಮ್ಮ ಮನೆತನದ ಒಬ್ಬ ಪ್ರತಿನಿಧಿ ಇದ್ದೇ ಇರಬೇಕೆಂಬ ಸಂಪ್ರದಾಯ ಇತ್ತು.",
+      "translations": {
+        "en": "Maggada Saheba means Abdul Rahim Saheb. He has not touched a loom for more than twenty years. Still people call him Maggada Saheba. His ancestors Saheb Bahadur Maggada Hussein Saheb were popular and wealthy. They built not only a mosque but also a temple. Even today at the temple chariot festival their family's elder has the right to receive prasada first.",
+        "hi": "मग्गद साहेब यानी अब्दुल रहीम साहेब। उन्होंने बीस से अधिक वर्षों से करघा नहीं छुआ, फिर भी उन्हें मग्गद साहेब कहते हैं।"
+      },
+      "transliterations": {
+        "devanagari": "मग्गद साहेब अंदरॆ अब्दुल् रहीम् साहेब्. अवनु मग्गवन्नु मुट्टदॆ इप्पत्तु वर्षक्कू हॆच्चागिदॆ. आदरू अवनन्नु मग्गद साहेबनॆंदे करॆयुवुदु वाडिकॆ. अवर पूर्वजरु साहेब् बहाद्दूर् मग्गद हुसेन् साहेबरु जनप्रिय मत्तु धनवंत व्यक्तियागिद्दरु. अवरु मसीदि मात्रवल्ल; देवस्थानवन्नू कट्टिसिद्दरु. इंदिगू ई देवस्थानदल्लि रथोत्सवद समयदल्लि अवर मनॆतनद हिरिय प्रतिनिधिगॆ ऎल्लरिगिंतलू मुंदागि प्रसादवन्नु पडॆयुव हक्किदॆ. इंतह संप्रदाय पद्धतिगळु इंदिगू कर्नाटकदल्लि नडॆयुत्तिवॆ. इदरिंद पूर्वजरल्लि ऎंतह घनतॆ, सदाचार, सद्भावनॆगळु इद्दवु ऎंदु तिळियुवुदु. उदाहरणॆगॆ नन्नदे हुट्टूरिन पक्कदल्लि मुसल्मानर वसति इदॆ. अदरॊळगॆ ऒंदु पवित्र स्थानविदॆ. अल्लि ‘उर्स्’ ऎंब मुसल्मानर धार्मिक उत्सवद कालदल्लि नम्म मनॆतनद ऒब्ब प्रतिनिधि इद्दे इरबेकॆंब संप्रदाय इत्तु.",
+        "latin": "maggada sāheba aṃdarè abdul rahīm sāheb. avanu maggavannu muṭṭadè ippattu varṣakkū hèccāgidè. ādarū avanannu maggada sāhebanèṃde karèyuvudu vāḍikè. avara pūrvajaru sāheb bahāddūr maggada husen sāhebaru janapriya mattu dhanavaṃta vyaktiyāgiddaru. avaru masīdi mātravalla; devasthānavannū kaṭṭisiddaru. iṃdigū ī devasthānadalli rathotsavada samayadalli avara manètanada hiriya pratinidhigè èllarigiṃtalū muṃdāgi prasādavannu paḍèyuva hakkidè. iṃtaha saṃpradāya paddhatigaḻu iṃdigū karnāṭakadalli naḍèyuttivè. idariṃda pūrvajaralli èṃtaha ghanatè, sadācāra, sadbhāvanègaḻu iddavu èṃdu tiḻiyuvudu. udāharaṇègè nannade huṭṭūrina pakkadalli musalmānara vasati idè. adaròḻagè òṃdu pavitra sthānavidè. alli ‘urs’ èṃba musalmānara dhārmika utsavada kāladalli namma manètanada òbba pratinidhi idde irabekèṃba saṃpradāya ittu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಹಾಗೆಯೇ ಗಣೇಶಚತುರ್ಥಿ, ಕೃಷ್ಣಾಷ್ಟಮಿಗಳ ಮರುದಿನ ಮುಸಲ್ಮಾನ ಸಮಾಜದ ಪ್ರತಿಷ್ಠಿತ ಮುಖ್ಯಸ್ಥರು ನಮ್ಮ ಮನೆಗೆ ಬರುವುದು, ಕುಶಲೋಪಚಾರ ಮಾತನಾಡುವುದು, ನಾವು ಅವರಿಗೆ ಮೋದಕ, ಉಂಡೆ, ಚಕ್ಕುಲಿ ಇತ್ಯಾದಿ ಹಬ್ಬದ ಭಕ್ಷ್ಯ-ಭೋಜ್ಯಗಳನ್ನು ವಿತರಣೆ ಮಾಡುವ ಸಂಪ್ರದಾಯವಿತ್ತು. ಒಂದು ಬಾರಿ ನಮ್ಮ ತಾಯಿ ಕಾಯಿಲೆ ಬಿದ್ದ ಕಾರಣ ತಂದೆಯವರು ಅಂಗಡಿಯಿಂದ ಲಡ್ಡುಗಳನ್ನು ಕೊಂಡು ಕೊಟ್ಟುದಕ್ಕೆ ಅವರಿಗೆ ಬಹಳ ಸಿಟ್ಟು ಬಂತು. ‘ರಾಯರೆ, ಅಂಗಡಿಯಿಂದ ತೆಗೆದುಕೊಳ್ಳಲು ನಮ್ಮಲ್ಲಿ ಹಣವಿಲ್ಲವೆ? ಮನೆಯಲ್ಲಿ ಕಾಯಿಲೆಯಿದ್ದರೆ ಒಂದು ತುಂಡು ಬೆಲ್ಲವನ್ನೋ ಕಲ್ಲುಸಕ್ಕರೆ ಹರಳನ್ನೋ ಕೊಡಿ. ನಿಮ್ಮ ಹಬ್ಬದ ಪೂಜೆಯ ಪ್ರಸಾದವನ್ನು ನಾವು ತೆಗೆದುಕೊಳ್ಳುವುದು ತಲತಲಾಂತರದಿಂದ ಬಂದ ಹಳೆಯ ಸಂಪ್ರದಾಯ. ಅಂಗಡಿಯ ಮಿಠಾಯಿಯನ್ನು ಪ್ರಸಾದವೆಂದು ಕೊಡುವುದು ಸರಿಯೇ?’ ಎಂದು ಕೇಳಿಯೇ ಬಿಟ್ಟಿದ್ದರು. ಅದು ಹೇಗೇ ಇರಲಿ. ಈಗ ಅಬ್ದುಲ್ ರಹೀಮನಿಗೆ ‘ಮಗ್ಗದ ಸಾಹೇಬ’ ಎಂದು ಹೇಳಿದರೆ ಬಹು ಸಿಟ್ಟು ಬರುತ್ತಿತ್ತು. “ಅನಿಷ್ಟ ಮಗ್ಗದ ಹೆಸರೆತ್ತಬೇಡಿ”-“ಮಗ್ಗವಲ್ಲ ಕೊರಳಿಗೆ ಹಗ್ಗ!” ಎಂಬುದು ಆತನ ನಿರಾಶೆ, ರೋಷಗಳ ಉದ್ಗಾರವಾಗಿತ್ತು. ಏಕೆಂದರೆ ಅವನ ಅಜ್ಜನ ಕಾಲದಲ್ಲಿ ಬ್ರಿಟಿಷರು ಅಗ್ಗದ ವಿಲಾಯತಿ ಮಿಲ್ಲಿನ ಬಟ್ಟೆಗಳನ್ನು ನಮ್ಮ ದೇಶದಲ್ಲಿ ಹೇರಿಬಿಟ್ಟರು. ಅವೇನೋ ನಿಜಕ್ಕೂ ನಿಕೃಷ್ಟ ವಸ್ತುಗಳು, ಒಂದು ವರ್ಷದೊಳಗೇ ಕಳೇಬರಗಳಾಗಿ ಹರಕು ಚಿಂದಿಯಾಗುವುವು. ಬಣ್ಣವೋ ಒಂದೇ ತಿಂಗಳಲ್ಲಿ ವಿವರ್ಣವಾಗಿ ಎರಡೇ ತಿಂಗಳಲ್ಲಿ ಮಾಯವಾಗುವುದು. ಆದರೇನು? ಬಹು ಅಗ್ಗ. ಜನರಿಗೆ ಬೇಕಾದುದು ಅಗ್ಗದ ವಸ್ತು. ಗುಣವನ್ನು ಯಾರು ಕೇಳುತ್ತಾರೆ? ಅಗ್ಗದ ಮಾಲಿನದೇ ಆಧಿಪತ್ಯವಾಯಿತು. ಮಗ್ಗದವರು ಭಿಕಾರಿಗಳಾದರು. ಅವರ ಅನ್ನಕ್ಕೆ ಸಂಚಕಾರವಾಯಿತು.",
+      "transliterations": {
+        "devanagari": "हागॆये गणेशचतुर्थि, कृष्णाष्टमिगळ मरुदिन मुसल्मान समाजद प्रतिष्ठित मुख्यस्थरु नम्म मनॆगॆ बरुवुदु, कुशलोपचार मातनाडुवुदु, नावु अवरिगॆ मोदक, उंडॆ, चक्कुलि इत्यादि हब्बद भक्ष्य-भोज्यगळन्नु वितरणॆ माडुव संप्रदायवित्तु. ऒंदु बारि नम्म तायि कायिलॆ बिद्द कारण तंदॆयवरु अंगडियिंद लड्डुगळन्नु कॊंडु कॊट्टुदक्कॆ अवरिगॆ बहळ सिट्टु बंतु. ‘रायरॆ, अंगडियिंद तॆगॆदुकॊळ्ळलु नम्मल्लि हणविल्लवॆ? मनॆयल्लि कायिलॆयिद्दरॆ ऒंदु तुंडु बॆल्लवन्नो कल्लुसक्करॆ हरळन्नो कॊडि. निम्म हब्बद पूजॆय प्रसादवन्नु नावु तॆगॆदुकॊळ्ळुवुदु तलतलांतरदिंद बंद हळॆय संप्रदाय. अंगडिय मिठायियन्नु प्रसादवॆंदु कॊडुवुदु सरिये?’ ऎंदु केळिये बिट्टिद्दरु. अदु हेगे इरलि. ईग अब्दुल् रहीमनिगॆ ‘मग्गद साहेब’ ऎंदु हेळिदरॆ बहु सिट्टु बरुत्तित्तु. “अनिष्ट मग्गद हॆसरॆत्तबेडि”-“मग्गवल्ल कॊरळिगॆ हग्ग!” ऎंबुदु आतन निराशॆ, रोषगळ उद्गारवागित्तु. एकॆंदरॆ अवन अज्जन कालदल्लि ब्रिटिषरु अग्गद विलायति मिल्लिन बट्टॆगळन्नु नम्म देशदल्लि हेरिबिट्टरु. अवेनो निजक्कू निकृष्ट वस्तुगळु, ऒंदु वर्षदॊळगे कळेबरगळागि हरकु चिंदियागुवुवु. बण्णवो ऒंदे तिंगळल्लि विवर्णवागि ऎरडे तिंगळल्लि मायवागुवुदु. आदरेनु? बहु अग्ग. जनरिगॆ बेकादुदु अग्गद वस्तु. गुणवन्नु यारु केळुत्तारॆ? अग्गद मालिनदे आधिपत्यवायितु. मग्गदवरु भिकारिगळादरु. अवर अन्नक्कॆ संचकारवायितु.",
+        "latin": "hāgèye gaṇeśacaturthi, kṛṣṇāṣṭamigaḻa marudina musalmāna samājada pratiṣṭhita mukhyastharu namma manègè baruvudu, kuśalopacāra mātanāḍuvudu, nāvu avarigè modaka, uṃḍè, cakkuli ityādi habbada bhakṣya-bhojyagaḻannu vitaraṇè māḍuva saṃpradāyavittu. òṃdu bāri namma tāyi kāyilè bidda kāraṇa taṃdèyavaru aṃgaḍiyiṃda laḍḍugaḻannu kòṃḍu kòṭṭudakkè avarigè bahaḻa siṭṭu baṃtu. ‘rāyarè, aṃgaḍiyiṃda tègèdukòḻḻalu nammalli haṇavillavè? manèyalli kāyilèyiddarè òṃdu tuṃḍu bèllavanno kallusakkarè haraḻanno kòḍi. nimma habbada pūjèya prasādavannu nāvu tègèdukòḻḻuvudu talatalāṃtaradiṃda baṃda haḻèya saṃpradāya. aṃgaḍiya miṭhāyiyannu prasādavèṃdu kòḍuvudu sariye?’ èṃdu keḻiye biṭṭiddaru. adu hege irali. īga abdul rahīmanigè ‘maggada sāheba’ èṃdu heḻidarè bahu siṭṭu baruttittu. “aniṣṭa maggada hèsarèttabeḍi”-“maggavalla kòraḻigè hagga!” èṃbudu ātana nirāśè, roṣagaḻa udgāravāgittu. ekèṃdarè avana ajjana kāladalli briṭiṣaru aggada vilāyati millina baṭṭègaḻannu namma deśadalli heribiṭṭaru. aveno nijakkū nikṛṣṭa vastugaḻu, òṃdu varṣadòḻage kaḻebaragaḻāgi haraku ciṃdiyāguvuvu. baṇṇavo òṃde tiṃgaḻalli vivarṇavāgi èraḍe tiṃgaḻalli māyavāguvudu. ādarenu? bahu agga. janarigè bekādudu aggada vastu. guṇavannu yāru keḻuttārè? aggada mālinade ādhipatyavāyitu. maggadavaru bhikārigaḻādaru. avara annakkè saṃcakāravāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಪಾಪ! ಅಬ್ದುಲ್ ರಹೀಮನ ಗತಿ? ಹಿರಿಯರು ಕಟ್ಟಿದ ಭವ್ಯವಾದ ಹಳೆಯ ಕಾಲದ ಮನೆ. ವಿಶಾಲವಾದ ತೋಟ. ಆದರೆ ಮಗ್ಗಗಳೆಲ್ಲಾ ಧೂಳು ತುಂಬಿ ಜೇಡನ ಬಲೆಗಳಿಂದ ಆಚ್ಛಾದಿತವಾಗಿವೆ. ಮನೆಯಲ್ಲಿ ಊಟಕ್ಕೆ ಇದೆಯೋ ಇಲ್ಲವೋ ಎಂಬಂತಾಗಿದೆ. ಈಗ ಅವನಿಗೆ ಒಂದೇ ಹಠ, ಒಂದೇ ವ್ರತ. ಅವನ ಮೂವರು ಗಂಡುಮಕ್ಕಳಿಗೆ ಒಂದಿಷ್ಟಾದರೂ ವಿದ್ಯಾಭ್ಯಾಸ ಕೊಡಿಸಿ ಸರಕಾರಿ ನೌಕರರನ್ನಾಗಿ ಮಾಡಬೇಕು ಎಂದು. ಅಂತೆಯೇ ಇಬ್ಬರು ಮಕ್ಕಳು ವಿಧೇಯರಾಗಿ ಅವನ ಅಭೀಷ್ಟವನ್ನು ನೆರವೇರಿಸಿದರು. ಒಬ್ಬ ಸರಕಾರಿ ಕಚೇರಿಯಲ್ಲಿ ಗುಮಾಸ್ತನಾದ. ಇನ್ನೊಬ್ಬ ಪೋಸ್ಟ್ ಮಾಸ್ತರನಾದ. ಆದರೆ ಕೊನೆಯ ಮಗ ಕರೀಮ್ನಿಂದ ಬಹಳ ನಿರಾಸೆ ಉಂಟಾಯಿತು. ಕರೀಮ್ ಆಟದಲ್ಲೂ ಪಾಠದಲ್ಲೂ ಬಹು ಚುರುಕು; ಬುದ್ಧಿವಂತ; ಹಸನ್ಮುಖಿ ಎಲ್ಲರಿಗೂ ಬೇಕಾದವನು. ಆದರೆ ಏನೋ ಕಾರಣದಿಂದ ಅವನಿಗೆ ಅನಿಷ್ಟ ಮಗ್ಗದಲ್ಲಿ ಬಹಳ ಅಭಿರುಚಿ, ಮನೆಯಲ್ಲಾದರೋ ಮಗ್ಗವನ್ನು ಮುಟ್ಟಲೂ ತಂದೆ ಬಿಡುತ್ತಿರಲ್ಲಿಲ್ಲ. ಆದರೆ ಮಗನ ಗ್ರಹಚಾರ ಎನ್ನಿ. ಶಾಲೆಯಲ್ಲಿಯೇ ಮಗ್ಗ ಉದ್ಭವಿಸಬೇಕೇ? ಮಹಾತ್ಮಾ ಗಾಂಧಿ ಪ್ರೇರಣೆಯಿಂದ ಕೆಲವು ಶಾಲೆಗಳಲ್ಲಿ ‘ನವೀನ ಶಿಕ್ಷಣ’ ಆರಂಭವಾಯಿತು. ಈ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಹಲವು ತರಹದ ಔದ್ಯೋಗಿಕ ಶಿಕ್ಷಣವನ್ನು ಕೊಡುವುದು, ಅವರಲ್ಲಿ ಹಸ್ತಕೌಶಲವನ್ನು, ದೇಹಶ್ರಮದಲ್ಲಿ ಗೌರವ-ಭಾವವನ್ನು ಉಂಟು ಮಾಡುವುದು ಒಂದು ಭಾಗವಾಗಿತ್ತು. ಕೆಲವರಿಗೆ ಬಡಗಿಯ ಕೆಲಸ, ಕೆಲವರಿಗೆ ಬೆತ್ತದ ಕುರ್ಚಿ ಕೆಲಸ ಇತ್ಯಾದಿ ಸಾಮಗ್ರಿಗಳನ್ನು ಮಾಡುವ, ಕೆಲವರಿಗೆ ಕೃಷಿ, ಕೆಲವರಿಗೆ ಮಗ್ಗದ ಕೆಲಸವನ್ನು ಕಲಿಸತೊಡಗಿದ್ದರು.",
+      "transliterations": {
+        "devanagari": "पाप! अब्दुल् रहीमन गति? हिरियरु कट्टिद भव्यवाद हळॆय कालद मनॆ. विशालवाद तोट. आदरॆ मग्गगळॆल्ला धूळु तुंबि जेडन बलॆगळिंद आच्छादितवागिवॆ. मनॆयल्लि ऊटक्कॆ इदॆयो इल्लवो ऎंबंतागिदॆ. ईग अवनिगॆ ऒंदे हठ, ऒंदे व्रत. अवन मूवरु गंडुमक्कळिगॆ ऒंदिष्टादरू विद्याभ्यास कॊडिसि सरकारि नौकररन्नागि माडबेकु ऎंदु. अंतॆये इब्बरु मक्कळु विधेयरागि अवन अभीष्टवन्नु नॆरवेरिसिदरु. ऒब्ब सरकारि कचेरियल्लि गुमास्तनाद. इन्नॊब्ब पोस्ट् मास्तरनाद. आदरॆ कॊनॆय मग करीम्निंद बहळ निरासॆ उंटायितु. करीम् आटदल्लू पाठदल्लू बहु चुरुकु; बुद्धिवंत; हसन्मुखि ऎल्लरिगू बेकादवनु. आदरॆ एनो कारणदिंद अवनिगॆ अनिष्ट मग्गदल्लि बहळ अभिरुचि, मनॆयल्लादरो मग्गवन्नु मुट्टलू तंदॆ बिडुत्तिरल्लिल्ल. आदरॆ मगन ग्रहचार ऎन्नि. शालॆयल्लिये मग्ग उद्भविसबेके? महात्मा गांधि प्रेरणॆयिंद कॆलवु शालॆगळल्लि ‘नवीन शिक्षण’ आरंभवायितु. ई व्यवस्थॆयल्लि विद्यार्थिगळिगॆ हलवु तरहद औद्योगिक शिक्षणवन्नु कॊडुवुदु, अवरल्लि हस्तकौशलवन्नु, देहश्रमदल्लि गौरव-भाववन्नु उंटु माडुवुदु ऒंदु भागवागित्तु. कॆलवरिगॆ बडगिय कॆलस, कॆलवरिगॆ बॆत्तद कुर्चि कॆलस इत्यादि सामग्रिगळन्नु माडुव, कॆलवरिगॆ कृषि, कॆलवरिगॆ मग्गद कॆलसवन्नु कलिसतॊडगिद्दरु.",
+        "latin": "pāpa! abdul rahīmana gati? hiriyaru kaṭṭida bhavyavāda haḻèya kālada manè. viśālavāda toṭa. ādarè maggagaḻèllā dhūḻu tuṃbi jeḍana balègaḻiṃda ācchāditavāgivè. manèyalli ūṭakkè idèyo illavo èṃbaṃtāgidè. īga avanigè òṃde haṭha, òṃde vrata. avana mūvaru gaṃḍumakkaḻigè òṃdiṣṭādarū vidyābhyāsa kòḍisi sarakāri naukararannāgi māḍabeku èṃdu. aṃtèye ibbaru makkaḻu vidheyarāgi avana abhīṣṭavannu nèraverisidaru. òbba sarakāri kaceriyalli gumāstanāda. innòbba posṭ māstaranāda. ādarè kònèya maga karīmniṃda bahaḻa nirāsè uṃṭāyitu. karīm āṭadallū pāṭhadallū bahu curuku; buddhivaṃta; hasanmukhi èllarigū bekādavanu. ādarè eno kāraṇadiṃda avanigè aniṣṭa maggadalli bahaḻa abhiruci, manèyallādaro maggavannu muṭṭalū taṃdè biḍuttirallilla. ādarè magana grahacāra ènni. śālèyalliye magga udbhavisabeke? mahātmā gāṃdhi preraṇèyiṃda kèlavu śālègaḻalli ‘navīna śikṣaṇa’ āraṃbhavāyitu. ī vyavasthèyalli vidyārthigaḻigè halavu tarahada audyogika śikṣaṇavannu kòḍuvudu, avaralli hastakauśalavannu, dehaśramadalli gaurava-bhāvavannu uṃṭu māḍuvudu òṃdu bhāgavāgittu. kèlavarigè baḍagiya kèlasa, kèlavarigè bèttada kurci kèlasa ityādi sāmagrigaḻannu māḍuva, kèlavarigè kṛṣi, kèlavarigè maggada kèlasavannu kalisatòḍagiddaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಹುಡುಗ ಕರೀಮ್ ಮಗ್ಗದ ಕೆಲಸವನ್ನು ಮೀನು ನೀರಿನಲ್ಲಿ ಈಜುವಷ್ಟೇ ಸುಲಭವಾಗಿ ಕಲಿತು ಬಹು ನಿಪುಣನಾಗಿಬಿಟ್ಟ. ಅವನ ತಂದೆಗೆ ರೋಷ ಉಕ್ಕಿಬಂತು. ಮುಖ್ಯೋಪಾಧ್ಯಾಯ ಶಂಕರಪ್ಪ ಅವರೊಡನೆ ನಿಷ್ಠುರವಾಗಿ ಜಗಳವಾಡಿದ್ದನು. ಆದರೆ ಹುಡುಗ ಕರೀಮ್ ಶಾಲೆಯ ಮಗ್ಗದಲ್ಲಿ ಒಂದು ಪರಿವರ್ತನೆಯನ್ನು ತನ್ನದೇ ಬುದ್ಧಿವಂತಿಕೆ ಹಾಗೂ ಕೌಶಲದಿಂದ ಮಾಡಿಬಿಟ್ಟಿದ್ದ. ಅದನ್ನು ಶಂಕರಪ್ಪ ಅವರು ಸ್ವಾಭಾವಿಕವಾಗಿಯೇ ಪ್ರಶಂಸೆ ಮಾಡಿ ಮೇಲಧಿಕಾರಿಗಳಿಗೆ ವರದಿ ಮಾಡಿದ್ದರು. ಅದರ ಫಲಸ್ವರೂಪವಾಗಿ ಸರಕಾರದಿಂದ ಹುಡುಗ ಕರೀಮ್ನಿಗೆ ಒಂದು ಬೆಳ್ಳಿಯ ಪದಕವೂ ಒಂದು ನೂರು ರೂಪಾಯಿಯ ಬಹುಮಾನವೂ ಬಂದುಬಿಟ್ಟವು. ಹುಡುಗನ ಉತ್ಸಾಹ ಆಕಾಶಕ್ಕೇರಿತು. ತಂದೆ ಈ ಹಠಮಾರಿಗೆ ಮಗ್ಗದ ಹುಚ್ಚನ್ನು ಬಿಡಿಸಬೇಕೆಂದು ಶಾಲೆಯಿಂದಲೇ ಬಿಡಿಸಿಬಿಟ್ಟನು. ಹೆಡ್ ಮಾಸ್ಟರ್ ಶಂಕರಪ್ಪ ಅವರ ಎಷ್ಟೋ ಅನುನಯ ವಿನಯಗಳನ್ನು ಗಣಿಸದೆ ನಿರಾಕರಿಸಿದನು.",
+      "transliterations": {
+        "devanagari": "हुडुग करीम् मग्गद कॆलसवन्नु मीनु नीरिनल्लि ईजुवष्टे सुलभवागि कलितु बहु निपुणनागिबिट्ट. अवन तंदॆगॆ रोष उक्किबंतु. मुख्योपाध्याय शंकरप्प अवरॊडनॆ निष्ठुरवागि जगळवाडिद्दनु. आदरॆ हुडुग करीम् शालॆय मग्गदल्लि ऒंदु परिवर्तनॆयन्नु तन्नदे बुद्धिवंतिकॆ हागू कौशलदिंद माडिबिट्टिद्द. अदन्नु शंकरप्प अवरु स्वाभाविकवागिये प्रशंसॆ माडि मेलधिकारिगळिगॆ वरदि माडिद्दरु. अदर फलस्वरूपवागि सरकारदिंद हुडुग करीम्निगॆ ऒंदु बॆळ्ळिय पदकवू ऒंदु नूरु रूपायिय बहुमानवू बंदुबिट्टवु. हुडुगन उत्साह आकाशक्केरितु. तंदॆ ई हठमारिगॆ मग्गद हुच्चन्नु बिडिसबेकॆंदु शालॆयिंदले बिडिसिबिट्टनु. हॆड् मास्टर् शंकरप्प अवर ऎष्टो अनुनय विनयगळन्नु गणिसदॆ निराकरिसिदनु.",
+        "latin": "huḍuga karīm maggada kèlasavannu mīnu nīrinalli ījuvaṣṭe sulabhavāgi kalitu bahu nipuṇanāgibiṭṭa. avana taṃdègè roṣa ukkibaṃtu. mukhyopādhyāya śaṃkarappa avaròḍanè niṣṭhuravāgi jagaḻavāḍiddanu. ādarè huḍuga karīm śālèya maggadalli òṃdu parivartanèyannu tannade buddhivaṃtikè hāgū kauśaladiṃda māḍibiṭṭidda. adannu śaṃkarappa avaru svābhāvikavāgiye praśaṃsè māḍi meladhikārigaḻigè varadi māḍiddaru. adara phalasvarūpavāgi sarakāradiṃda huḍuga karīmnigè òṃdu bèḻḻiya padakavū òṃdu nūru rūpāyiya bahumānavū baṃdubiṭṭavu. huḍugana utsāha ākāśakkeritu. taṃdè ī haṭhamārigè maggada huccannu biḍisabekèṃdu śālèyiṃdale biḍisibiṭṭanu. hèḍ māsṭar śaṃkarappa avara èṣṭo anunaya vinayagaḻannu gaṇisadè nirākarisidanu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ಒಂದು ದಿನ ಶಾಲೆಯ ವಾರ್ಷಿಕೋತ್ಸವ ಸಮಾರೋಪದಲ್ಲಿ ಹಳೆಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಒಂದು ನಾಟಕವಿತ್ತು. ಅದರಲ್ಲಿ ಕರೀಮನದು ಸ್ತ್ರೀಪಾತ್ರ. ಅದಕ್ಕೆಂದು ತಾಯಿಯಿಂದ ಗೌಪ್ಯವಾಗಿ ಹಳೆಕಾಲದ ಚಿನ್ನದ ಸರವನ್ನು ಅಲಂಕಾರಕ್ಕೆಂದು ಎರವಲು ತೆಗೆದುಕೊಂಡ. ನಾಟಕ ಮುಗಿದ ನಂತರ ಮನೆಗೆ ಬರಲಿಲ್ಲ. ಎಲ್ಲೋ ಮಾಯವಾಗಿ ಹೋದ. ತಂದೆಗೆ ಮೈಯಲ್ಲಿ ಅಗ್ನಿಸಂಚಾರವಾಯಿತು. ಮಗನನ್ನು ಕ್ರೂರವಾಗಿ ಶಪಿಸಿದನು. “ಹಾಳಾಗಿ ಹೋಗಲಿ! ಹಠಮಾರಿ. ತಂದೆಯ ಮಾತನ್ನು ಉಲ್ಲಂಘಿಸಿದವನು ಎಂದು ಮಾತ್ರ ತಿಳಿದಿದ್ದೆ. ಈಗ ಕಳ್ಳನೆಂದೂ ತಿಳಿಯಿತು. ನನಗೆ ಇಬ್ಬರೇ ಗಂಡು ಮಕ್ಕಳು ; ಕಳ್ಳನಾದವನು, ಮನೆಬಿಟ್ಟು ಓಡಿಹೋದವನು ಮಗನೇ ಅಲ್ಲ” ಎಂದು ಆಣೆ ಹಾಕಿದನು. ಕೆಲವು ವರ್ಷಗಳ ಅನಂತರ ಕರೀಮ್ - ಈಗ ಬೆಳೆದು ಯುವಕನಾಗಿದ್ದಾನೆ - ಮನೆಗೆ ಬಂದು ಬಾಗಿಲು ತಟ್ಟಿದ. ತಂದೆ ಬಾಗಿಲು ತೆರೆದು ಮುಖ ನೋಡಿ ಫಟಾರನೆ ಬಾಗಿಲು ಮುಚ್ಚಿದ. ಒಂದು ಘಂಟೆ ಬಾಗಿಲು ತಟ್ಟಿದರೂ ತಾಯಿ ಅತ್ತು ಹಂಬಲಿಸಿದರೂ ಬಾಗಿಲು ತೆರೆಯಲೇ ಇಲ್ಲ. ಕೊನೆಗೆ ನಿವೃತ್ತರಾಗಿರುವ ಶಂಕರಪ್ಪ ಅವರ ಮನೆಗೆ ಹೋಗಿ, ಸಂಧಾನ ಮಾಡಿಸಿರಿ ಎಂದು ನಿವೇದಿಸಿದ. ‘ನನ್ನ ಮುಖವನ್ನೇ ನೋಡಬಾರದು ಎಂದು ಹಠವಿದ್ದರೆ ಕೊನೆಗೆ ತಾಯಿಯಾದರೂ ನನ್ನನ್ನು ಕಾಣಬಾರದೆ? ಅಮ್ಮನ ಚಿನ್ನದ ಸರವನ್ನು ತಂದಿದ್ದೇನೆ. ಅದರೊಡನೆ ಹತ್ತುಸಾವಿರ ರೂಪಾಯಿಗಳನ್ನು ತಂದಿದ್ದೇನೆ. ಅವನ್ನಾದರೂ ತಾಯಿಯ ಕಾಲ ಮೇಲೆ ಹಾಕಿ ಹೋಗುತ್ತೇನೆ. ತಂದೆಯವರಿಗೆ ಸಮಾಧಾನ ಹೇಳಿ. ನಿಮ್ಮ ಹಳೆಯ ಶಿಷ್ಯನಿಗೆ ಇದೊಂದು ಉಪಕಾರ ಮಾಡಿ’ ಎಂದ.",
+      "transliterations": {
+        "devanagari": "ऒंदु दिन शालॆय वार्षिकोत्सव समारोपदल्लि हळॆय विद्यार्थिगळ ऒंदु नाटकवित्तु. अदरल्लि करीमनदु स्त्रीपात्र. अदक्कॆंदु तायियिंद गौप्यवागि हळॆकालद चिन्नद सरवन्नु अलंकारक्कॆंदु ऎरवलु तॆगॆदुकॊंड. नाटक मुगिद नंतर मनॆगॆ बरलिल्ल. ऎल्लो मायवागि होद. तंदॆगॆ मैयल्लि अग्निसंचारवायितु. मगनन्नु क्रूरवागि शपिसिदनु. “हाळागि होगलि! हठमारि. तंदॆय मातन्नु उल्लंघिसिदवनु ऎंदु मात्र तिळिदिद्दॆ. ईग कळ्ळनॆंदू तिळियितु. ननगॆ इब्बरे गंडु मक्कळु ; कळ्ळनादवनु, मनॆबिट्टु ओडिहोदवनु मगने अल्ल” ऎंदु आणॆ हाकिदनु. कॆलवु वर्षगळ अनंतर करीम् - ईग बॆळॆदु युवकनागिद्दानॆ - मनॆगॆ बंदु बागिलु तट्टिद. तंदॆ बागिलु तॆरॆदु मुख नोडि फटारनॆ बागिलु मुच्चिद. ऒंदु घंटॆ बागिलु तट्टिदरू तायि अत्तु हंबलिसिदरू बागिलु तॆरॆयले इल्ल. कॊनॆगॆ निवृत्तरागिरुव शंकरप्प अवर मनॆगॆ होगि, संधान माडिसिरि ऎंदु निवेदिसिद. ‘नन्न मुखवन्ने नोडबारदु ऎंदु हठविद्दरॆ कॊनॆगॆ तायियादरू नन्नन्नु काणबारदॆ? अम्मन चिन्नद सरवन्नु तंदिद्देनॆ. अदरॊडनॆ हत्तुसाविर रूपायिगळन्नु तंदिद्देनॆ. अवन्नादरू तायिय काल मेलॆ हाकि होगुत्तेनॆ. तंदॆयवरिगॆ समाधान हेळि. निम्म हळॆय शिष्यनिगॆ इदॊंदु उपकार माडि’ ऎंद.",
+        "latin": "òṃdu dina śālèya vārṣikotsava samāropadalli haḻèya vidyārthigaḻa òṃdu nāṭakavittu. adaralli karīmanadu strīpātra. adakkèṃdu tāyiyiṃda gaupyavāgi haḻèkālada cinnada saravannu alaṃkārakkèṃdu èravalu tègèdukòṃḍa. nāṭaka mugida naṃtara manègè baralilla. èllo māyavāgi hoda. taṃdègè maiyalli agnisaṃcāravāyitu. maganannu krūravāgi śapisidanu. “hāḻāgi hogali! haṭhamāri. taṃdèya mātannu ullaṃghisidavanu èṃdu mātra tiḻididdè. īga kaḻḻanèṃdū tiḻiyitu. nanagè ibbare gaṃḍu makkaḻu ; kaḻḻanādavanu, manèbiṭṭu oḍihodavanu magane alla” èṃdu āṇè hākidanu. kèlavu varṣagaḻa anaṃtara karīm - īga bèḻèdu yuvakanāgiddānè - manègè baṃdu bāgilu taṭṭida. taṃdè bāgilu tèrèdu mukha noḍi phaṭāranè bāgilu muccida. òṃdu ghaṃṭè bāgilu taṭṭidarū tāyi attu haṃbalisidarū bāgilu tèrèyale illa. kònègè nivṛttarāgiruva śaṃkarappa avara manègè hogi, saṃdhāna māḍisiri èṃdu nivedisida. ‘nanna mukhavanne noḍabāradu èṃdu haṭhaviddarè kònègè tāyiyādarū nannannu kāṇabāradè? ammana cinnada saravannu taṃdiddenè. adaròḍanè hattusāvira rūpāyigaḻannu taṃdiddenè. avannādarū tāyiya kāla melè hāki hoguttenè. taṃdèyavarigè samādhāna heḻi. nimma haḻèya śiṣyanigè idòṃdu upakāra māḍi’ èṃda."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಶಂಕರಪ್ಪ ಅವರು ಮುದುಕನೊಡನೆ ಒಂದು ಗಂಟೆ ಗೋಗರೆದರು, ನಿವೇದಿಸಿದರು, ತರ್ಕಿಸಿದರು, ಚರ್ಚಿಸಿದರು. ಆದರೆ ನಿಷ್ಫಲವಾಯಿತು. ಒಂದು ಪದವನ್ನೂ ಕೇಳುವ ತಾಳ್ಮೆ ಮುದುಕನಿಗೆ ಇರಲಿಲ್ಲ. ‘ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್ ಹುಸೇನ್ ಸಾಹೇಬರ ಕೀರ್ತಿಗೆ ಮಸಿಹಚ್ಚಿದ್ದಾನೆ. ಈ ಮಾತಿನಲ್ಲಿ ನೀವು ಅಡ್ಡಬಾಯಿ ಹಾಕಬೇಡಿ. ನೀವು ಕಲಿಸಿದ ಪಾಠದಿಂದಲೇ ಈ ಹಠಮಾರಿ ನಮ್ಮ ವಂಶದ ಕೀರ್ತಿಯನ್ನು ಮಣ್ಣುಪಾಲು ಮಾಡಿದ. ಹಣ ತಂದಿದ್ದಾನಂತೆ. ಕಳವಿನ ಹಣವೋ? ದರೋಡೆಯ ಹಣವೋ?’ ಎಂದು ಸಿಡುಕಿದ. ಶಂಕರಪ್ಪ ಅವರು ಮುಖಬಾಡಿಸಿಕೊಂಡು ಹಿಂತೆರಳಿದರು.",
+      "transliterations": {
+        "devanagari": "शंकरप्प अवरु मुदुकनॊडनॆ ऒंदु गंटॆ गोगरॆदरु, निवेदिसिदरु, तर्किसिदरु, चर्चिसिदरु. आदरॆ निष्फलवायितु. ऒंदु पदवन्नू केळुव ताळ्मॆ मुदुकनिगॆ इरलिल्ल. ‘साहेब् बहाद्दूर् हुसेन् साहेबर कीर्तिगॆ मसिहच्चिद्दानॆ. ई मातिनल्लि नीवु अड्डबायि हाकबेडि. नीवु कलिसिद पाठदिंदले ई हठमारि नम्म वंशद कीर्तियन्नु मण्णुपालु माडिद. हण तंदिद्दानंतॆ. कळविन हणवो? दरोडॆय हणवो?’ ऎंदु सिडुकिद. शंकरप्प अवरु मुखबाडिसिकॊंडु हिंतॆरळिदरु.",
+        "latin": "śaṃkarappa avaru mudukanòḍanè òṃdu gaṃṭè gogarèdaru, nivedisidaru, tarkisidaru, carcisidaru. ādarè niṣphalavāyitu. òṃdu padavannū keḻuva tāḻmè mudukanigè iralilla. ‘sāheb bahāddūr husen sāhebara kīrtigè masihacciddānè. ī mātinalli nīvu aḍḍabāyi hākabeḍi. nīvu kalisida pāṭhadiṃdale ī haṭhamāri namma vaṃśada kīrtiyannu maṇṇupālu māḍida. haṇa taṃdiddānaṃtè. kaḻavina haṇavo? daroḍèya haṇavo?’ èṃdu siḍukida. śaṃkarappa avaru mukhabāḍisikòṃḍu hiṃtèraḻidaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ಕರೀಮ್ನ ಹಣ ಕಳವಿನದೂ ಅಲ್ಲ. ದರೋಡೆಯದೂ ಅಲ್ಲ. ಸಣ್ಣಪ್ರಾಯದಲ್ಲೇ ಮಗ್ಗದ ಸಹಕಾರಿ ಸಂಘವೊಂದನ್ನು ಸ್ಥಾಪಿಸಿ ಅವನೀಗ ಅದರ ಅಧ್ಯಕ್ಷನಾಗಿದ್ದಾನೆ. ಸಾಕಷ್ಟು ಯಶಸ್ವಿಯೂ ಧನವಂತನೂ ಆಗಿದ್ದಾನೆ. ಅದೂ ಅಲ್ಲದೆ ಮಗ್ಗದ ಯಂತ್ರದ ಪ್ರಯೋಗದಲ್ಲಿ ಹೊಸ ಹೊಸ ಸುಧಾರಣೆಗಳನ್ನೂ ಪರಿವರ್ತನೆಗಳನ್ನೂ ತಂದು ಹೆಸರು ಮಾಡಿದ್ದಾನೆ. ಆದರೆ ಈ ವಿಷಯದ ಲವಲೇಶವೂ ತಂದೆಗೆ ತಿಳಿಯದು. ಏಕೆಂದರೆ ಆತ ಕರೀಮ್ನ ಕಡೆಗೆ ತನ್ನ ಹೃದಯವನ್ನು, ಮನೆಯ ಬಾಗಿಲು ಮುಚ್ಚಿದಂತೆ-ಸಂಪೂರ್ಣವಾಗಿ ಮುಚ್ಚಿಬಿಟ್ಟಿದ್ದಾನೆ. ಯಾರಾದರೂ ಕರೀಮ್ನ ಹೆಸರೆತ್ತಿದರೆ ‘ನನಗೆ ಎರಡೇ ಮಕ್ಕಳು, ಕಳ್ಳರ ಪರಿಚಯ ನನಗಿಲ್ಲ’ ಎಂದೇ ಅವನ ನಿಷ್ಠುರದ ಉತ್ತರ. ಕೆಲವು ವರ್ಷಗಳ ಅನಂತರ ಅಬ್ದುಲ್ ರಹೀಮ್ ಹಾಸಿಗೆಯಲ್ಲಿ ಒರಗಿದ್ದಾನೆ. ಅನಾರೋಗ್ಯದಿಂದ ನರಳುತ್ತಾ ಇದ್ದಾನೆ. ಎಲುಬಿನ ಹಂದರವಾಗಿದ್ದಾನೆ. ಕಣ್ಣೂ ಸರಿಯಾಗಿ ಕಾಣಿಸುತ್ತಿಲ್ಲ; ಕಿವಿಯೂ ಸರಿಯಾಗಿ ಕೇಳುತ್ತಿಲ್ಲ. ಶಂಕರಪ್ಪ ಅವರು ಬಾಗಿಲು ತಟ್ಟಿದರು. ಒಳಗೆ ಬಂದರು. ಕೈಯಲ್ಲಿ ಒಂದು ವಾರ್ತಾಪತ್ರಿಕೆ. ‘ರಹೀಮ್ ಸಾಹೇಬರೇ, ಈ ಪತ್ರಿಕೆ ನೋಡಿದಿರಾ? ಈ ಭಾವಚಿತ್ರ ನೋಡಿ?’ ಮುದುಕ ಕಣ್ಣಿನ ಹತ್ತಿರ ತಂದ. ಆದರೆ ಪಾಪ! ಕಣ್ಣು ಮಂಜಾಗಿವೆ. ಏನೂ ತೋರದು. ಅವನ ಹೆಂಡತಿ ಬಂದು ವಾರ್ತಾಪತ್ರಿಕೆ ತೆಗೆದುಕೊಂಡು ಹೋದಳು. “ಕರೀಮ್! ನಮ್ಮ ಕರೀಮ್! ನಮ್ಮ ಕರೀಮ್” ಎಂದು ಗಟ್ಟಿಯಾಗಿ ಉದ್ಗರಿಸಿದಳು. “ಏನು? ಜೇಲಿಗೆ ಹೋದನೇ? ಫಾಶೀ ಆಯಿತೇ? ಇನ್ನೂ ಮನೆತನದ ಮೇಲೆ ಏನು ಅಪಕೀರ್ತಿ ಹೇರಿದ್ದಾನೆ?” ಎಂದು ಮುದುಕ ಕೆಮ್ಮುತ್ತ ಕೆಮ್ಮುತ್ತ ಗರ್ಜಿಸಿದ. “ರಹೀಮ್ ಸಾಹೇಬರೇ, ನಿಮ್ಮ ಮಗ ಕರೀಮ್ನಿಗೆ ರಾಷ್ಟ್ರಪತಿ ಅವರು ಪದ್ಮಭೂಷಣ ಬಿರುದನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ. ಅದರ ಭಾವಚಿತ್ರ ಈ ವಾರ್ತಾಪತ್ರಿಕೆಯಲ್ಲಿದೆ.”",
+      "transliterations": {
+        "devanagari": "करीम्न हण कळविनदू अल्ल. दरोडॆयदू अल्ल. सण्णप्रायदल्ले मग्गद सहकारि संघवॊंदन्नु स्थापिसि अवनीग अदर अध्यक्षनागिद्दानॆ. साकष्टु यशस्वियू धनवंतनू आगिद्दानॆ. अदू अल्लदॆ मग्गद यंत्रद प्रयोगदल्लि हॊस हॊस सुधारणॆगळन्नू परिवर्तनॆगळन्नू तंदु हॆसरु माडिद्दानॆ. आदरॆ ई विषयद लवलेशवू तंदॆगॆ तिळियदु. एकॆंदरॆ आत करीम्न कडॆगॆ तन्न हृदयवन्नु, मनॆय बागिलु मुच्चिदंतॆ-संपूर्णवागि मुच्चिबिट्टिद्दानॆ. यारादरू करीम्न हॆसरॆत्तिदरॆ ‘ननगॆ ऎरडे मक्कळु, कळ्ळर परिचय ननगिल्ल’ ऎंदे अवन निष्ठुरद उत्तर. कॆलवु वर्षगळ अनंतर अब्दुल् रहीम् हासिगॆयल्लि ऒरगिद्दानॆ. अनारोग्यदिंद नरळुत्ता इद्दानॆ. ऎलुबिन हंदरवागिद्दानॆ. कण्णू सरियागि काणिसुत्तिल्ल; किवियू सरियागि केळुत्तिल्ल. शंकरप्प अवरु बागिलु तट्टिदरु. ऒळगॆ बंदरु. कैयल्लि ऒंदु वार्तापत्रिकॆ. ‘रहीम् साहेबरे, ई पत्रिकॆ नोडिदिरा? ई भावचित्र नोडि?’ मुदुक कण्णिन हत्तिर तंद. आदरॆ पाप! कण्णु मंजागिवॆ. एनू तोरदु. अवन हॆंडति बंदु वार्तापत्रिकॆ तॆगॆदुकॊंडु होदळु. “करीम्! नम्म करीम्! नम्म करीम्” ऎंदु गट्टियागि उद्गरिसिदळु. “एनु? जेलिगॆ होदने? फाशी आयिते? इन्नू मनॆतनद मेलॆ एनु अपकीर्ति हेरिद्दानॆ?” ऎंदु मुदुक कॆम्मुत्त कॆम्मुत्त गर्जिसिद. “रहीम् साहेबरे, निम्म मग करीम्निगॆ राष्ट्रपति अवरु पद्मभूषण बिरुदन्नु कॊट्टिद्दारॆ. अदर भावचित्र ई वार्तापत्रिकॆयल्लिदॆ.”",
+        "latin": "karīmna haṇa kaḻavinadū alla. daroḍèyadū alla. saṇṇaprāyadalle maggada sahakāri saṃghavòṃdannu sthāpisi avanīga adara adhyakṣanāgiddānè. sākaṣṭu yaśasviyū dhanavaṃtanū āgiddānè. adū alladè maggada yaṃtrada prayogadalli hòsa hòsa sudhāraṇègaḻannū parivartanègaḻannū taṃdu hèsaru māḍiddānè. ādarè ī viṣayada lavaleśavū taṃdègè tiḻiyadu. ekèṃdarè āta karīmna kaḍègè tanna hṛdayavannu, manèya bāgilu muccidaṃtè-saṃpūrṇavāgi muccibiṭṭiddānè. yārādarū karīmna hèsarèttidarè ‘nanagè èraḍe makkaḻu, kaḻḻara paricaya nanagilla’ èṃde avana niṣṭhurada uttara. kèlavu varṣagaḻa anaṃtara abdul rahīm hāsigèyalli òragiddānè. anārogyadiṃda naraḻuttā iddānè. èlubina haṃdaravāgiddānè. kaṇṇū sariyāgi kāṇisuttilla; kiviyū sariyāgi keḻuttilla. śaṃkarappa avaru bāgilu taṭṭidaru. òḻagè baṃdaru. kaiyalli òṃdu vārtāpatrikè. ‘rahīm sāhebare, ī patrikè noḍidirā? ī bhāvacitra noḍi?’ muduka kaṇṇina hattira taṃda. ādarè pāpa! kaṇṇu maṃjāgivè. enū toradu. avana hèṃḍati baṃdu vārtāpatrikè tègèdukòṃḍu hodaḻu. “karīm! namma karīm! namma karīm” èṃdu gaṭṭiyāgi udgarisidaḻu. “enu? jeligè hodane? phāśī āyite? innū manètanada melè enu apakīrti heriddānè?” èṃdu muduka kèmmutta kèmmutta garjisida. “rahīm sāhebare, nimma maga karīmnigè rāṣṭrapati avaru padmabhūṣaṇa birudannu kòṭṭiddārè. adara bhāvacitra ī vārtāpatrikèyallidè.”"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "“ಆಂ! ಪದ್ಮಭೂಷಣ! ಅಂದರೇನು?” “ಪದ್ಮಭೂಷಣ ಅಂದರೆ ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್ಗಿಂತಲೂ ಮೇಲಿನ ಬಿರುದು. ಖಾನ್ ಸಾಹೇಬ್, ಖಾನ್ ಬಹಾದ್ದೂರ್, ದಿವಾನ್ ಬಹಾದ್ದೂರ್ ಇವೆಲ್ಲದರಿಂದಲೂ ಮೇಲೆ, ದೊಡ್ಡ ಬಿರುದು!” “ಕರೀಮ್! ನನ್ನ ಕರೀಮ್! ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್ಗಿಂತಲೂ ಮೇಲಾದನೇ? ದೇವರು ದೊಡ್ಡವನು. ದೇವರು ದಯಾಳು. ನನ್ನ ಬಾಯಿಯಿಂದ ಬಿದ್ದ ಕೆಟ್ಟ ಮಾತನ್ನು ದೇವರು ಕಿವಿಗೆ ಹಾಕಿಕೊಳ್ಳಲಿಲ್ಲ. ನನ್ನ ಕರೀಮ್ ಮಗ್ಗದ ಹುಸೇನ್ ಸಾಹೇಬರ ಹೆಸರಿಗೆ ಕೀರ್ತಿ ತಂದ” ಎಂದು ಕೆಮ್ಮುತ್ತ ಕೆಮ್ಮುತ್ತ ಬಿಕ್ಕಿಬಿಕ್ಕಿ ಅಳತೊಡಗಿದ ಭಾವುಕನಾಗಿ.",
+      "transliterations": {
+        "devanagari": "“आं! पद्मभूषण! अंदरेनु?” “पद्मभूषण अंदरॆ साहेब् बहाद्दूर्गिंतलू मेलिन बिरुदु. खान् साहेब्, खान् बहाद्दूर्, दिवान् बहाद्दूर् इवॆल्लदरिंदलू मेलॆ, दॊड्ड बिरुदु!” “करीम्! नन्न करीम्! साहेब् बहाद्दूर्गिंतलू मेलादने? देवरु दॊड्डवनु. देवरु दयाळु. नन्न बायियिंद बिद्द कॆट्ट मातन्नु देवरु किविगॆ हाकिकॊळ्ळलिल्ल. नन्न करीम् मग्गद हुसेन् साहेबर हॆसरिगॆ कीर्ति तंद” ऎंदु कॆम्मुत्त कॆम्मुत्त बिक्किबिक्कि अळतॊडगिद भावुकनागि.",
+        "latin": "“āṃ! padmabhūṣaṇa! aṃdarenu?” “padmabhūṣaṇa aṃdarè sāheb bahāddūrgiṃtalū melina birudu. khān sāheb, khān bahāddūr, divān bahāddūr ivèlladariṃdalū melè, dòḍḍa birudu!” “karīm! nanna karīm! sāheb bahāddūrgiṃtalū melādane? devaru dòḍḍavanu. devaru dayāḻu. nanna bāyiyiṃda bidda kèṭṭa mātannu devaru kivigè hākikòḻḻalilla. nanna karīm maggada husen sāhebara hèsarigè kīrti taṃda” èṃdu kèmmutta kèmmutta bikkibikki aḻatòḍagida bhāvukanāgi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಬಾಗಲೋಡಿ ದೇವರಾಯಅವರು(1927) ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆಯ ಬಾಗಲೋಡಿಯವರು. ಮಂಗಳೂರಿನ ಸರ್ಕಾರಿ ಕಾಲೇಜಿನಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರಾಗಿದ್ದರು. ಆ ಕಾಲಕ್ಕೆ ಐ.ಎ.ಎಸ್. ಪರೀಕ್ಷೆಯಲ್ಲಿ ತೇರ್ಗಡೆ ಹೊಂದಿ ವಿದೇಶಿ ಸೇವೆಗೆ ಆಯ್ಕೆಯಾದರು. ಮಾಸ್ತಿ ಹಾಗೂ ಇವರೂ ಸಮಕಾಲೀನರು. ಅದಲ್ಲದೆ ಸಣ್ಣಕತೆಗಳನ್ನು ಬರೆದವರು.ಅವರು ರಾಯಭಾರಿಯಾಗಿಇಟಲಿ, ನೇಪಾಳ, ನೈಜೀರಿಯಾ, ಫಿಲಿಫೈನ್ಸ್, ನ್ಯೂಜಿಲ್ಯಾಂಡ್, ಬಲ್ಗೇರಿಯಾ ಮೊದಲಾದ ದೇಶಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದರು. ಅವರ ಕಥಾಸಂಗ್ರಹಗಳೆಂದರೆಹುಚ್ಚು ಮುನಸೀಫ ಮತ್ತು ಇತರ ಕತೆಗಳು, ಆರಾಧನಾ, ರುದ್ರಪ್ಪನ ರೌದ್ರ ಮತ್ತು ಇತರ ಕತೆಗಳು.ಬಾಗಲೋಡಿ ದೇವರಾಯ ಅವರು ಒಟ್ಟು 26 ಕತೆಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ. ಇವರು 1985 ರಲ್ಲಿ ನಿಧನರಾದರು.",
+      "transliterations": {
+        "devanagari": "बागलोडि देवरायअवरु(1927) दक्षिण कन्नड जिल्लॆय बागलोडियवरु. मंगळूरिन सर्कारि कालेजिनल्लि इंग्लिष् प्राध्यापकरागिद्दरु. आ कालक्कॆ ऐ.ऎ.ऎस्. परीक्षॆयल्लि तेर्गडॆ हॊंदि विदेशि सेवॆगॆ आय्कॆयादरु. मास्ति हागू इवरू समकालीनरु. अदल्लदॆ सण्णकतॆगळन्नु बरॆदवरु.अवरु रायभारियागिइटलि, नेपाळ, नैजीरिया, फिलिफैन्स्, न्यूजिल्यांड्, बल्गेरिया मॊदलाद देशगळल्लि कार्यनिर्वहिसिदरु. अवर कथासंग्रहगळॆंदरॆहुच्चु मुनसीफ मत्तु इतर कतॆगळु, आराधना, रुद्रप्पन रौद्र मत्तु इतर कतॆगळु.बागलोडि देवराय अवरु ऒट्टु 26 कतॆगळन्नु बरॆदिद्दारॆ. इवरु 1985 रल्लि निधनरादरु.",
+        "latin": "bāgaloḍi devarāyaavaru(1927) dakṣiṇa kannaḍa jillèya bāgaloḍiyavaru. maṃgaḻūrina sarkāri kālejinalli iṃgliṣ prādhyāpakarāgiddaru. ā kālakkè ai.è.ès. parīkṣèyalli tergaḍè hòṃdi videśi sevègè āykèyādaru. māsti hāgū ivarū samakālīnaru. adalladè saṇṇakatègaḻannu barèdavaru.avaru rāyabhāriyāgiiṭali, nepāḻa, naijīriyā, philiphains, nyūjilyāṃḍ, balgeriyā mòdalāda deśagaḻalli kāryanirvahisidaru. avara kathāsaṃgrahagaḻèṃdarèhuccu munasīpha mattu itara katègaḻu, ārādhanā, rudrappana raudra mattu itara katègaḻu.bāgaloḍi devarāya avaru òṭṭu 26 katègaḻannu barèdiddārè. ivaru 1985 ralli nidhanarādaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "ashaya-1",
+      "section": "ashaya",
+      "text": "ಪ್ರಕೃತ ಗದ್ಯಭಾಗ ಧಾರ್ಮಿಕ ಸಹಿಷ್ಣುತೆ, ಗುಡಿಕೈಗಾರಿಕೆಗಳ ವಿನಾಶಕ್ಕೆ ಕಾರಣವಾದ ಅಂಶ, ಶಾಲೆಗಳಲ್ಲಿ ಔದ್ಯೋಗಿಕ ಶಿಕ್ಷಣ, ಮಕ್ಕಳ ಆಸಕ್ತಿಗೆ ಪೂರಕವಾದ ಶಿಕ್ಷಣ ನೀಡುವುದು, ಸ್ವಯಂ- ಉದ್ಯೋಗಕ್ಕೆ ಪ್ರೇರಣೆ ಮೊದಲಾದ ಮಹತ್ವದ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ತಂದೆ ಮಗನಿಗಿದ್ದ ಮಗ್ಗದ ಬಗೆಗಿನ ಒಲವಿಗೆ ವಿರೋಧ ವ್ಯಕ್ತಪಡಿಸಿದರು. ಇದರಿಂದ ಮನನೊಂದ ಮಗ ತನ್ನ ಮಾರ್ಗವನ್ನು ಸ್ವತಂತ್ರವಾಗಿ ಕಂಡುಕೊಂಡ ಆಶಯವನ್ನು ಹೊಂದಿದೆ ಈ ಪಠ್ಯಭಾಗ. ಪ್ರಕೃತ ಮಗ್ಗದ ಸಾಹೇಬಕಥೆಯನ್ನುಬಾಗಲೋಡಿ ದೇವರಾಯಅವg ಸಮಗ್ರ ಕತೆಗಳುಎಂಬ ಕಥಾಸಂಕಲನದಿಂದ (ಪುಟ 185-189) ಆಯ್ದ ಕಥೆಯನ್ನು ಸಂಪಾದಿಸಿ ನಿಗದಿಪಡಿಸಿದೆ.",
+      "transliterations": {
+        "devanagari": "प्रकृत गद्यभाग धार्मिक सहिष्णुतॆ, गुडिकैगारिकॆगळ विनाशक्कॆ कारणवाद अंश, शालॆगळल्लि औद्योगिक शिक्षण, मक्कळ आसक्तिगॆ पूरकवाद शिक्षण नीडुवुदु, स्वयं- उद्योगक्कॆ प्रेरणॆ मॊदलाद महत्वद अंशगळन्नु ऒळगॊंडिदॆ. तंदॆ मगनिगिद्द मग्गद बगॆगिन ऒलविगॆ विरोध व्यक्तपडिसिदरु. इदरिंद मननॊंद मग तन्न मार्गवन्नु स्वतंत्रवागि कंडुकॊंड आशयवन्नु हॊंदिदॆ ई पठ्यभाग. प्रकृत मग्गद साहेबकथॆयन्नुबागलोडि देवरायअवg समग्र कतॆगळुऎंब कथासंकलनदिंद (पुट 185-189) आय्द कथॆयन्नु संपादिसि निगदिपडिसिदॆ.",
+        "latin": "prakṛta gadyabhāga dhārmika sahiṣṇutè, guḍikaigārikègaḻa vināśakkè kāraṇavāda aṃśa, śālègaḻalli audyogika śikṣaṇa, makkaḻa āsaktigè pūrakavāda śikṣaṇa nīḍuvudu, svayaṃ- udyogakkè preraṇè mòdalāda mahatvada aṃśagaḻannu òḻagòṃḍidè. taṃdè maganigidda maggada bagègina òlavigè virodha vyaktapaḍisidaru. idariṃda mananòṃda maga tanna mārgavannu svataṃtravāgi kaṃḍukòṃḍa āśayavannu hòṃdidè ī paṭhyabhāga. prakṛta maggada sāhebakathèyannubāgaloḍi devarāyaavag samagra katègaḻuèṃba kathāsaṃkalanadiṃda (puṭa 185-189) āyda kathèyannu saṃpādisi nigadipaḍisidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-va73615a3",
+      "text": "ಅಭೀಷ್ಟ",
+      "transliterations": {
+        "devanagari": "अभीष्ट",
+        "latin": "abhīṣṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-va73615a3-def",
+      "text": "ಬಯಸಿದ್ದು",
+      "transliterations": {
+        "devanagari": "बयसिद्दु",
+        "latin": "bayasiddu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v742958db",
+      "text": "ಆಚ್ಛಾದಿತ",
+      "transliterations": {
+        "devanagari": "आच्छादित",
+        "latin": "ācchādita"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v742958db-def",
+      "text": "ಮುಚ್ಚಲ್ಪಟ್ಟ",
+      "transliterations": {
+        "devanagari": "मुच्चल्पट्ट",
+        "latin": "muccalpaṭṭa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v471874d2",
+      "text": "ಆಧಿಪತ್ಯ",
+      "transliterations": {
+        "devanagari": "आधिपत्य",
+        "latin": "ādhipatya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v471874d2-def",
+      "text": "ಯಜಮಾನಿಕೆ",
+      "transliterations": {
+        "devanagari": "यजमानिकॆ",
+        "latin": "yajamānikè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v96db2c4b",
+      "text": "ಕಳೇಬರ",
+      "transliterations": {
+        "devanagari": "कळेबर",
+        "latin": "kaḻebara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v96db2c4b-def",
+      "text": "ಮೃತ ದೇಹ/ಶರೀರ",
+      "transliterations": {
+        "devanagari": "मृत देह/शरीर",
+        "latin": "mṛta deha/śarīra"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-vc7eb00f3",
+      "text": "ಗಣಿಸದೆ",
+      "transliterations": {
+        "devanagari": "गणिसदॆ",
+        "latin": "gaṇisadè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vc7eb00f3-def",
+      "text": "ಲೆಕ್ಕಿಸದೆ",
+      "transliterations": {
+        "devanagari": "लॆक्किसदॆ",
+        "latin": "lèkkisadè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v5b3b40ca",
+      "text": "ಗೌಪ್ಯ",
+      "transliterations": {
+        "devanagari": "गौप्य",
+        "latin": "gaupya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v5b3b40ca-def",
+      "text": "ಗುಟ್ಟು, ರಹಸ್ಯ",
+      "transliterations": {
+        "devanagari": "गुट्टु, रहस्य",
+        "latin": "guṭṭu, rahasya"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v4d3a695c",
+      "text": "ಚಿಂದಿ",
+      "transliterations": {
+        "devanagari": "चिंदि",
+        "latin": "ciṃdi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v4d3a695c-def",
+      "text": "ಚೂರು",
+      "transliterations": {
+        "devanagari": "चूरु",
+        "latin": "cūru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v0f0b4c7b",
+      "text": "ಪರಿವರ್ತನೆ",
+      "transliterations": {
+        "devanagari": "परिवर्तनॆ",
+        "latin": "parivartanè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v0f0b4c7b-def",
+      "text": "ಬದಲಾವಣೆ",
+      "transliterations": {
+        "devanagari": "बदलावणॆ",
+        "latin": "badalāvaṇè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v832bd05b",
+      "text": "ಪ್ರಶಂಸೆ",
+      "transliterations": {
+        "devanagari": "प्रशंसॆ",
+        "latin": "praśaṃsè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v832bd05b-def",
+      "text": "ಹೊಗಳಿಕೆ",
+      "transliterations": {
+        "devanagari": "हॊगळिकॆ",
+        "latin": "hògaḻikè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v8cfc6b61",
+      "text": "ಭಿಕಾರಿ",
+      "transliterations": {
+        "devanagari": "भिकारि",
+        "latin": "bhikāri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v8cfc6b61-def",
+      "text": "ನಿರ್ಗತಿಕ",
+      "transliterations": {
+        "devanagari": "निर्गतिक",
+        "latin": "nirgatika"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v517b7340",
+      "text": "ವಿಲಾಯತಿ",
+      "transliterations": {
+        "devanagari": "विलायति",
+        "latin": "vilāyati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v517b7340-def",
+      "text": "ವಿದೇಶ, ಅನ್ಯದೇಶ",
+      "transliterations": {
+        "devanagari": "विदेश, अन्यदेश",
+        "latin": "videśa, anyadeśa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-v78d5a231",
+      "text": "ಹಸನ್ಮುಖಿ",
+      "transliterations": {
+        "devanagari": "हसन्मुखि",
+        "latin": "hasanmukhi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-v78d5a231-def",
+      "text": "ನಗುಮುಖ ಉಳ್ಳವನು.",
+      "transliterations": {
+        "devanagari": "नगुमुख उळ्ळवनु.",
+        "latin": "nagumukha uḻḻavanu."
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-v8d64e42c",
+      "text": "ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್",
+      "transliterations": {
+        "devanagari": "साहेब् बहाद्दूर्",
+        "latin": "sāheb bahāddūr"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-v8d64e42c-def",
+      "text": "ಮೊಗಲ್ ರಾಜರ ಆಳ್ವಿಕೆಯ ಸಂದರ್ಭದಲ್ಲಿ ಸಮಾಜದ ಗಣ್ಯ ವ್ಯಕ್ತಿಗಳಿಗೆ ಕೊಡುತ್ತಿದ್ದ ಗೌರವ ಪೂರ್ವಕ ಬಿರುದು.",
+      "transliterations": {
+        "devanagari": "मॊगल् राजर आळ्विकॆय संदर्भदल्लि समाजद गण्य व्यक्तिगळिगॆ कॊडुत्तिद्द गौरव पूर्वक बिरुदु.",
+        "latin": "mògal rājara āḻvikèya saṃdarbhadalli samājada gaṇya vyaktigaḻigè kòḍuttidda gaurava pūrvaka birudu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-v78a98558",
+      "text": "ಉರುಸ್",
+      "transliterations": {
+        "devanagari": "उरुस्",
+        "latin": "urus"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-v78a98558-def",
+      "text": "ಮಹಮದೀಯ ಸಾಧುಗಳ ಪುಣ್ಯತಿಥಿ ಮತ್ತು ಅಂದು ನಡೆಸುವ ಜಾತ್ರೆ.",
+      "transliterations": {
+        "devanagari": "महमदीय साधुगळ पुण्यतिथि मत्तु अंदु नडॆसुव जात्रॆ.",
+        "latin": "mahamadīya sādhugaḻa puṇyatithi mattu aṃdu naḍèsuva jātrè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-veb7c9a2a",
+      "text": "ಪದ್ಮಭೂಷಣ",
+      "transliterations": {
+        "devanagari": "पद्मभूषण",
+        "latin": "padmabhūṣaṇa"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-veb7c9a2a-def",
+      "text": "ಕಲೆ, ವಿಜ್ಞಾನ, ಸಮಾಜಸೇವೆ, ಕ್ರೀಡೆ ಮುಂತಾದ ಯಾವುದಾದರೂ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಸಾಧನೆಯನ್ನು ಮಾಡಿದ ಸಾಧಕರಿಗೆ ಭಾರತ ಸರ್ಕಾರ ನೀಡುವ ಮೌಲಿಕ ಪ್ರಶಸ್ತಿ.",
+      "transliterations": {
+        "devanagari": "कलॆ, विज्ञान, समाजसेवॆ, क्रीडॆ मुंताद यावुदादरू क्षेत्रदल्लि विशेष साधनॆयन्नु माडिद साधकरिगॆ भारत सर्कार नीडुव मौलिक प्रशस्ति.",
+        "latin": "kalè, vijñāna, samājasevè, krīḍè muṃtāda yāvudādarū kṣetradalli viśeṣa sādhanèyannu māḍida sādhakarigè bhārata sarkāra nīḍuva maulika praśasti."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ರಹೀಮ ಮಗ್ಗವನ್ನು ಮುಟ್ಟದೆ ಎಷ್ಟು ವರ್ಷಗಳಾಗಿತ್ತು?",
+      "translations": {
+        "en": "How many years had Rahim gone without touching a loom?",
+        "hi": "रहीम ने करघा बिना छुए कितने वर्ष बिताए थे?"
+      },
+      "transliterations": {
+        "devanagari": "रहीम मग्गवन्नु मुट्टदॆ ऎष्टु वर्षगळागित्तु?",
+        "latin": "rahīma maggavannu muṭṭadè èṣṭu varṣagaḻāgittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಹುಸೇನ್ ಸಾಹೇಬರ ಮನೆತನದವರಿಗೆ ದೇವಾಲಯದಲ್ಲಿದ್ದ ಹಕ್ಕು ಯಾವುದು?",
+      "transliterations": {
+        "devanagari": "हुसेन् साहेबर मनॆतनदवरिगॆ देवालयदल्लिद्द हक्कु यावुदु?",
+        "latin": "husen sāhebara manètanadavarigè devālayadallidda hakku yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಅಬ್ದುಲ್ ರಹೀಮನ ಹಠವೇನು?",
+      "translations": {
+        "en": "What was Abdul Rahim's stubborn resolve?",
+        "hi": "अब्दुल रहीम का हठ क्या था?"
+      },
+      "transliterations": {
+        "devanagari": "अब्दुल् रहीमन हठवेनु?",
+        "latin": "abdul rahīmana haṭhavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ತಂದೆಯ ಆಸೆಯನ್ನು ಮೊದಲೆರಡು ಮಕ್ಕಳು ನೆರವೇರಿಸಿದ ಬಗೆ ಹೇಗೆ?",
+      "transliterations": {
+        "devanagari": "तंदॆय आसॆयन्नु मॊदलॆरडु मक्कळु नॆरवेरिसिद बगॆ हेगॆ?",
+        "latin": "taṃdèya āsèyannu mòdalèraḍu makkaḻu nèraverisida bagè hegè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "ರಹೀಮ ಮಗನನ್ನು ಶಾಲೆಯಿಂದ ಬಿಡಿಸಿದ್ದೇಕೆ?",
+      "transliterations": {
+        "devanagari": "रहीम मगनन्नु शालॆयिंद बिडिसिद्देकॆ?",
+        "latin": "rahīma maganannu śālèyiṃda biḍisiddekè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಹುಸೇನ್ ಸಾಹೇಬರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ವಿವರಿಸಿ.",
+      "transliterations": {
+        "devanagari": "हुसेन् साहेबर व्यक्तित्ववन्नु विवरिसि.",
+        "latin": "husen sāhebara vyaktitvavannu vivarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಲೇಖಕರ ಹುಟ್ಟೂರಿನಲ್ಲಿದ್ದ ಮುಸ್ಲಿಂ ಧಾರ್ಮಿಕ ಉತ್ಸವದ ಸಂಪ್ರದಾಯವೇನು?",
+      "transliterations": {
+        "devanagari": "लेखकर हुट्टूरिनल्लिद्द मुस्लिं धार्मिक उत्सवद संप्रदायवेनु?",
+        "latin": "lekhakara huṭṭūrinallidda musliṃ dhārmika utsavada saṃpradāyavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಮಿಠಾಯಿ ಕೊಟ್ಟಿದ್ದಕ್ಕೆ ಅತಿಥಿಗಳ ಆಕ್ಷೇಪವೇನು?",
+      "transliterations": {
+        "devanagari": "मिठायि कॊट्टिद्दक्कॆ अतिथिगळ आक्षेपवेनु?",
+        "latin": "miṭhāyi kòṭṭiddakkè atithigaḻa ākṣepavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಕರೀಮನಿಗೆ ಶಾಲೆಯಲ್ಲಿ ಮಗ್ಗ ಕಲಿತುದರಿಂದ ಆದ ಪ್ರಯೋಜನವೇನು?",
+      "transliterations": {
+        "devanagari": "करीमनिगॆ शालॆयल्लि मग्ग कलितुदरिंद आद प्रयोजनवेनु?",
+        "latin": "karīmanigè śālèyalli magga kalitudariṃda āda prayojanavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "ಶಾಲಾ ವಾರ್ಷಿಕೋತ್ಸವದಂದು ಕರೀಮ ಮಾಡಿದ ಕೆಲಸವೇನು?",
+      "transliterations": {
+        "devanagari": "शाला वार्षिकोत्सवदंदु करीम माडिद कॆलसवेनु?",
+        "latin": "śālā vārṣikotsavadaṃdu karīma māḍida kèlasavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ನವೀನ ಶಿಕ್ಷಣದ ವೈಶಿಷ್ಟ್ಯಗಳೇನು?",
+      "transliterations": {
+        "devanagari": "नवीन शिक्षणद वैशिष्ट्यगळेनु?",
+        "latin": "navīna śikṣaṇada vaiśiṣṭyagaḻenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಶಂಕರಪ್ಪ ಅವರು ರಹೀಮನ ಬಳಿಗೆ ಸಂಧಾನಕ್ಕಾಗಿ ಬಂದ ಪ್ರಸಂಗವನ್ನು ತಿಳಿಸಿ.",
+      "transliterations": {
+        "devanagari": "शंकरप्प अवरु रहीमन बळिगॆ संधानक्कागि बंद प्रसंगवन्नु तिळिसि.",
+        "latin": "śaṃkarappa avaru rahīmana baḻigè saṃdhānakkāgi baṃda prasaṃgavannu tiḻisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಕರೀಮ ಧನವಂತನಾದ ಬಗೆ ಹೇಗೆ? ವಿವರಿಸಿ.",
+      "transliterations": {
+        "devanagari": "करीम धनवंतनाद बगॆ हेगॆ? विवरिसि.",
+        "latin": "karīma dhanavaṃtanāda bagè hegè? vivarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ರಹೀಮನಿಗೆ ಮಗ್ಗದ ಬಗ್ಗೆ ದ್ವೇಷ ಉಂಟಾಗಲು ಕಾರಣವೇನು?",
+      "transliterations": {
+        "devanagari": "रहीमनिगॆ मग्गद बग्गॆ द्वेष उंटागलु कारणवेनु?",
+        "latin": "rahīmanigè maggada baggè dveṣa uṃṭāgalu kāraṇavenu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಮಗ್ಗವಲ್ಲ ಕೊರಳಿಗೆ ಹಗ್ಗ!",
+      "transliterations": {
+        "devanagari": "मग्गवल्ल कॊरळिगॆ हग्ग!",
+        "latin": "maggavalla kòraḻigè hagga!"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಕಳ್ಳನಾದವನು, ಮನೆ ಬಿಟ್ಟು ಓಡಿ ಹೋದವನು ಮಗನೇ ಅಲ್ಲ",
+      "transliterations": {
+        "devanagari": "कळ्ळनादवनु, मनॆ बिट्टु ओडि होदवनु मगने अल्ल",
+        "latin": "kaḻḻanādavanu, manè biṭṭu oḍi hodavanu magane alla"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ನಿಮ್ಮ ಹಳೆಯ ಶಿಷ್ಯನಿಗೆ ಇದೊಂದು ಉಪಕಾರ ಮಾಡಿ",
+      "transliterations": {
+        "devanagari": "निम्म हळॆय शिष्यनिगॆ इदॊंदु उपकार माडि",
+        "latin": "nimma haḻèya śiṣyanigè idòṃdu upakāra māḍi"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ದೇವರು ದೊಡ್ಡವನು ದೇವರು ದಯಾಳು",
+      "transliterations": {
+        "devanagari": "देवरु दॊड्डवनु देवरु दयाळु",
+        "latin": "devaru dòḍḍavanu devaru dayāḻu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಅಬ್ದುಲ್ ರಹೀಮನಿಗೆ ______ ಎಂದು ಹೇಳಿದರೆ ಬಹು ಸಿಟ್ಟು ಬರುತ್ತಿತ್ತು.",
+      "transliterations": {
+        "devanagari": "अब्दुल् रहीमनिगॆ ______ ऎंदु हेळिदरॆ बहु सिट्टु बरुत्तित्तु.",
+        "latin": "abdul rahīmanigè ______ èṃdu heḻidarè bahu siṭṭu baruttittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q2",
+      "text": "ಮನೆಯಲ್ಲಿ ______ ಇದೆಯೋ ಇಲ್ಲವೋ ಎಂಬಂತಾಗಿದೆ.",
+      "transliterations": {
+        "devanagari": "मनॆयल्लि ______ इदॆयो इल्लवो ऎंबंतागिदॆ.",
+        "latin": "manèyalli ______ idèyo illavo èṃbaṃtāgidè."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q3",
+      "text": "ಹುಡುಗನ ______ ಆಕಾಶಕ್ಕೇರಿತು.",
+      "transliterations": {
+        "devanagari": "हुडुगन ______ आकाशक्केरितु.",
+        "latin": "huḍugana ______ ākāśakkeritu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q4",
+      "text": "ಶಂಕರಪ್ಪ ಅವರು ______ ಹಿಂತೆರಳಿದರು.",
+      "transliterations": {
+        "devanagari": "शंकरप्प अवरु ______ हिंतॆरळिदरु.",
+        "latin": "śaṃkarappa avaru ______ hiṃtèraḻidaru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q5",
+      "text": "ನನಗೆ ಎರಡೇ ಮಕ್ಕಳು, ______ ಪರಿಚಯ ನನಗಿಲ್ಲ.",
+      "transliterations": {
+        "devanagari": "ननगॆ ऎरडे मक्कळु, ______ परिचय ननगिल्ल.",
+        "latin": "nanagè èraḍe makkaḻu, ______ paricaya nanagilla."
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

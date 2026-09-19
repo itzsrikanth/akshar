@@ -1,0 +1,1020 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g7-fl-p1",
+    "chapterId": "ch03-hilton-head-chalavali",
+    "editionId": "2026-27",
+    "number": 3
+  },
+  "labels": {
+    "author": {
+      "devanagari": "कृतिकारर परिचय",
+      "en": "About the author",
+      "hi": "कृतिकार परिचय",
+      "kn": "ಕೃತಿಕಾರರ ಪರಿಚಯ",
+      "latin": "kṛtikārara paricaya"
+    },
+    "competency": {
+      "devanagari": "कौशल / सामर्थ्य / आशय",
+      "en": "Skill / ability / intent",
+      "hi": "कौशल / सामर्थ्य / आशय",
+      "kn": "ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ",
+      "latin": "kauśala / sāmarthya / āśaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि.",
+      "en": "A. Answer in one sentence.",
+      "hi": "अ. एक वाक्य में उत्तर दीजिए।",
+      "kn": "ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि.",
+      "en": "B. Answer in two or three sentences.",
+      "hi": "आ. दो-तीन वाक्यों में उत्तर दीजिए।",
+      "kn": "ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.",
+      "latin": "ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi."
+    },
+    "exercise-C": {
+      "devanagari": "इ. बिट्टस्थळ तुंबिरि.",
+      "en": "C. Fill in the blanks.",
+      "hi": "इ. रिक्त स्थान भरिए।",
+      "kn": "ಇ. ಬಿಟ್ಟಸ್ಥಳ ತುಂಬಿರಿ.",
+      "latin": "i. biṭṭasthaḻa tuṃbiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "story": {
+      "devanagari": "कथॆ",
+      "en": "Story",
+      "hi": "कथा",
+      "kn": "ಕಥೆ",
+      "latin": "kathè"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಶಶಿಧರ ವಿಶ್ವಾಮಿತ್ರ",
+    "board": "KSEEB",
+    "chapter": 3,
+    "grade": 7,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch03-hilton-head-chalavali",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಯಾವುದೇ ವಸ್ತುವಿರಲಿ, ಅದು ನಮ್ಮ ಬಳಿ ಇದ್ದಾಗ ಅದರ ಬೆಲೆ ತಿಳಿಯುವುದಿಲ್ಲ. ಅದನ್ನು ನಾವು ಕಳೆದುಕೊಂಡಾಗ, ಅದೆಷ್ಟು ಅಮೂಲ್ಯವಾದ ವಸ್ತುವಾಗಿತ್ತೆಂಬುದು ಅರಿವಿಗೆ ಬರುತ್ತದೆ. ಪರಿಸರದ ವಿಷಯದಲ್ಲೂ ಇದು ನಿಜ. ಪರಿಸರವು ಚೆನ್ನಾಗಿದ್ದಾಗ, ಪ್ರಕೃತಿಯು ರಮಣೀಯವಾಗಿದ್ದಾಗ ಅದನ್ನು ನಾವು ಅಷ್ಟೇನೂ ಗಮನಿಸುವುದಿಲ್ಲ. ಅಥವಾ ಗಮನಿಸಿದರೂ ಅದು ವಿಶೇಷವಾದ ಸಂಗತಿ ಎಂದು ನಮಗನ್ನಿಸುವುದಿಲ್ಲ. ಆದರೆ ಪ್ರಕೃತಿ ಹಾಳಾದಾಗ, ಪ್ರದೂಷಣೆಗೆ ಒಳಗಾದಾಗ ನಾವು ಪರಿತಪಿಸತೊಡಗುತ್ತೇವೆ. ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಹಾಗೆ ಪ್ರಕೃತಿಯ ಮೇಲೆ ದೌರ್ಜನ್ಯ ನಡೆಯಲು ಶುರುವಾಗಿ ಹಲವು ದಿನಗಳ ನಂತರವಷ್ಟೇ ಸ್ಥಳೀಯರು ಜಾಗ್ರತರಾದರು. ತಮ್ಮ ಪ್ರಕೃತಿಗಾಗಿ ಅವರು ಹೋರಾಟ ಕೈಗೊಂಡರು. ಹಿಲ್ಟನ್ ಹೆಡ್ನ ಪರಿಸರ ಚಳವಳಿಯು ಯಾವುದೇ ಚಳವಳಿಗೂ ಸಣ್ಣದಲ್ಲ; ಚಳವಳಿಯು ಅದರ ಗಾತ್ರದಿಂದಲ್ಲ ಬದಲಿಗೆ ಉದ್ದೇಶದಿಂದ ದೊಡ್ಡದೋ ಚಿಕ್ಕದೋ ಎಂದು ಪರಿಗಣಿಸಲ್ಪಡುತ್ತದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "translations": {
+        "en": "Whatever the thing may be, while it is with us we do not know its worth. When we lose it, we realize how precious it was. This is true of the environment too. When the environment is fine and nature beautiful we do not notice much. But when nature is ruined and polluted we begin to repent. At Hilton Head, when violence against nature began, only after many days did the locals wake up. They struggled for their nature. The Hilton Head environmental movement is not small for any movement; it suggests that a movement is judged great or small by its purpose, not its size.",
+        "hi": "कोई भी वस्तु हो, जब वह हमारे पास होती है तब उसका मूल्य नहीं पता चलता। जब खो जाती है तब पता चलता है वह कितनी अमूल्य थी। परिवेश के विषय में भी यही सच है।"
+      },
+      "transliterations": {
+        "devanagari": "यावुदे वस्तुविरलि, अदु नम्म बळि इद्दाग अदर बॆलॆ तिळियुवुदिल्ल. अदन्नु नावु कळॆदुकॊंडाग, अदॆष्टु अमूल्यवाद वस्तुवागित्तॆंबुदु अरिविगॆ बरुत्तदॆ. परिसरद विषयदल्लू इदु निज. परिसरवु चॆन्नागिद्दाग, प्रकृतियु रमणीयवागिद्दाग अदन्नु नावु अष्टेनू गमनिसुवुदिल्ल. अथवा गमनिसिदरू अदु विशेषवाद संगति ऎंदु नमगन्निसुवुदिल्ल. आदरॆ प्रकृति हाळादाग, प्रदूषणॆगॆ ऒळगादाग नावु परितपिसतॊडगुत्तेवॆ. हिल्टन् हॆड्नल्लि हागॆ प्रकृतिय मेलॆ दौर्जन्य नडॆयलु शुरुवागि हलवु दिनगळ नंतरवष्टे स्थळीयरु जाग्रतरादरु. तम्म प्रकृतिगागि अवरु होराट कैगॊंडरु. हिल्टन् हॆड्न परिसर चळवळियु यावुदे चळवळिगू सण्णदल्ल; चळवळियु अदर गात्रदिंदल्ल बदलिगॆ उद्देशदिंद दॊड्डदो चिक्कदो ऎंदु परिगणिसल्पडुत्तदॆ ऎंबुदन्नु सूचिसुत्तदॆ.",
+        "latin": "yāvude vastuvirali, adu namma baḻi iddāga adara bèlè tiḻiyuvudilla. adannu nāvu kaḻèdukòṃḍāga, adèṣṭu amūlyavāda vastuvāgittèṃbudu arivigè baruttadè. parisarada viṣayadallū idu nija. parisaravu cènnāgiddāga, prakṛtiyu ramaṇīyavāgiddāga adannu nāvu aṣṭenū gamanisuvudilla. athavā gamanisidarū adu viśeṣavāda saṃgati èṃdu namagannisuvudilla. ādarè prakṛti hāḻādāga, pradūṣaṇègè òḻagādāga nāvu paritapisatòḍaguttevè. hilṭan hèḍnalli hāgè prakṛtiya melè daurjanya naḍèyalu śuruvāgi halavu dinagaḻa naṃtaravaṣṭe sthaḻīyaru jāgratarādaru. tamma prakṛtigāgi avaru horāṭa kaigòṃḍaru. hilṭan hèḍna parisara caḻavaḻiyu yāvude caḻavaḻigū saṇṇadalla; caḻavaḻiyu adara gātradiṃdalla badaligè uddeśadiṃda dòḍḍado cikkado èṃdu parigaṇisalpaḍuttadè èṃbudannu sūcisuttadè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "1986ರಲ್ಲಿ ಅಮೆರಿಕಾಗೆ ಹೋಗುವ ಪ್ರಸಂಗವಾಯಿತು. ಅಲ್ಲಿರುವಾಗ ನನ್ನ ತಮ್ಮ ಬಾಬುವಿನೊಡನೆ ಅಮೆರಿಕಾದ ಪೂರ್ವ ಸಮುದ್ರ ತೀರಕ್ಕಂಟಿದಂತೆ ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರದಲ್ಲಿರುವ ಹಿಲ್ಟನ್ ಹೆಡ್ ಎನ್ನುವ ಒಂದು ದ್ವೀಪಕ್ಕೆ ಹೋದೆವು. ಸುತ್ತ ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರ ಹರಡಿರುವ ಹಿಲ್ಟನ್ ಹೆಡ್ ನಿಜಕ್ಕೂ ಸುಂದರವಾದ ಪುಟ್ಟದ್ವೀಪ. ರಸ್ತೆಯಿಂದ ಅದನ್ನು ತಲುಪಲು ಆರು ಲೇನಿನ ಭಾರಿ ಸೇತುವೆ ಇದೆ. ಕಾಡೇ ನಾಡಿಗೆ ಸಾರ್ವಭೌಮವಾಗಿದ್ದಂಥ ಒಂದು ಕಾಲದಲ್ಲಿ ಈ ದ್ವೀಪದಲ್ಲೂ ಸ್ಥಳೀಯ ಅಮೆರಿಂಡಿಯನ್ನರು ವಾಸವಾಗಿದ್ದರು. ಯುರೋಪಿಯನ್ನರ ಆಗಮನವಾದ ಮೇಲೆ ಅಮೆರಿಂಡಿಯನ್ನರ ಧೂಳೀಪಟವಾಯಿತು, ಆಗ ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪವೂ ಬಿಳಿಯರದಾಯಿತು.",
+      "translations": {
+        "en": "In 1986 there came an occasion to go to America. While there, with my younger brother Babu we went to an island called Hilton Head in the Atlantic Ocean along America’s east coast. Surrounded by the Atlantic, Hilton Head is truly a beautiful little island. To reach it by road there is a huge six-lane bridge. In a time when forest was sovereign over the land, local Amerindians lived on this island too. After Europeans arrived the Amerindians were wiped out, and then Hilton Head island too became the whites’.",
+        "hi": "1986 में अमेरिका जाने का प्रसंग आया। वहाँ रहते हुए अपने छोटे भाई बाबू के साथ अटलांटिक महासागर में हिल्टन हेड नामक द्वीप गए।"
+      },
+      "transliterations": {
+        "devanagari": "1986रल्लि अमॆरिकागॆ होगुव प्रसंगवायितु. अल्लिरुवाग नन्न तम्म बाबुविनॊडनॆ अमॆरिकाद पूर्व समुद्र तीरक्कंटिदंतॆ अट्लांटिक् सागरदल्लिरुव हिल्टन् हॆड् ऎन्नुव ऒंदु द्वीपक्कॆ होदॆवु. सुत्त अट्लांटिक् सागर हरडिरुव हिल्टन् हॆड् निजक्कू सुंदरवाद पुट्टद्वीप. रस्तॆयिंद अदन्नु तलुपलु आरु लेनिन भारि सेतुवॆ इदॆ. काडे नाडिगॆ सार्वभौमवागिद्दंथ ऒंदु कालदल्लि ई द्वीपदल्लू स्थळीय अमॆरिंडियन्नरु वासवागिद्दरु. युरोपियन्नर आगमनवाद मेलॆ अमॆरिंडियन्नर धूळीपटवायितु, आग हिल्टन् हॆड् द्वीपवू बिळियरदायितु.",
+        "latin": "1986ralli amèrikāgè hoguva prasaṃgavāyitu. alliruvāga nanna tamma bābuvinòḍanè amèrikāda pūrva samudra tīrakkaṃṭidaṃtè aṭlāṃṭik sāgaradalliruva hilṭan hèḍ ènnuva òṃdu dvīpakkè hodèvu. sutta aṭlāṃṭik sāgara haraḍiruva hilṭan hèḍ nijakkū suṃdaravāda puṭṭadvīpa. rastèyiṃda adannu talupalu āru lenina bhāri setuvè idè. kāḍe nāḍigè sārvabhaumavāgiddaṃtha òṃdu kāladalli ī dvīpadallū sthaḻīya amèriṃḍiyannaru vāsavāgiddaru. yuropiyannara āgamanavāda melè amèriṃḍiyannara dhūḻīpaṭavāyitu, āga hilṭan hèḍ dvīpavū biḻiyaradāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n2",
+      "section": "story",
+      "text": "ಒಳ್ಳೆಯ ಹವೆ ಇರುವ ಈ ದ್ವೀಪದಲ್ಲಿ ಕಾಡು ಕಡಿದು ನೀಲಿ ನಂತರ ಇನ್ನಿತರ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವ ತೋಟಗಳನ್ನಾಗಿ ಯುರೋಪಿಯನ್ನರು ಪರಿವರ್ತಿಸಿಬಿಟ್ಟರು. ಆದರೂ ಅಲ್ಲಲ್ಲಿ ಬೇಕಾದಷ್ಟು ಓಕ್ ಮರಗಳೂ ಇದ್ದವು. ಕಡಲತೀರದ ಸಸ್ಯಗಳಿದ್ದವು. ದಿನ ಕಳೆದಂತೆ ತೋಟತುಡಿಕೆಯಿಂದ ವರಮಾನ ಕಡಿಮೆ; ವರ್ಷವಿಡೀ ಉತ್ತಮ ಹವೆ, ಕಡಲತೀರ, ಒಳ್ಳೆಯ ಬಂದರು ಇರುವ ಈ ದ್ವೀಪದಲ್ಲಿ ತೋಟತುಡಿಕೆಗಳನ್ನು ತೆಗೆದು ರೆಸಾರ್ಟುಗಳು, ಗಾಲ್ಫ್ ಕೋರ್ಸುಗಳು, ಕ್ರೀಡಾಮೈದಾನಗಳು, ಬೋಟಿಂಗ್ ಇತ್ಯಾದಿಗಳನ್ನೆಬ್ಬಿಸಿದರೆ ಲಾಭ ಎನ್ನಿಸಿತೇನೋ.",
+      "translations": {
+        "en": "On this island with good climate Europeans cut forest and turned it into gardens growing indigo and other crops. Even so there were enough oak trees here and there. There were coastal plants. As days passed income from plantation fell; with year-round good climate, shore and a good harbour, perhaps it seemed profitable to remove plantations and raise resorts, golf courses, playfields, boating and so on."
+      },
+      "transliterations": {
+        "devanagari": "ऒळ्ळॆय हवॆ इरुव ई द्वीपदल्लि काडु कडिदु नीलि नंतर इन्नितर बॆळॆगळन्नु बॆळॆयुव तोटगळन्नागि युरोपियन्नरु परिवर्तिसिबिट्टरु. आदरू अल्लल्लि बेकादष्टु ओक् मरगळू इद्दवु. कडलतीरद सस्यगळिद्दवु. दिन कळॆदंतॆ तोटतुडिकॆयिंद वरमान कडिमॆ; वर्षविडी उत्तम हवॆ, कडलतीर, ऒळ्ळॆय बंदरु इरुव ई द्वीपदल्लि तोटतुडिकॆगळन्नु तॆगॆदु रॆसार्टुगळु, गाल्फ् कोर्सुगळु, क्रीडामैदानगळु, बोटिंग् इत्यादिगळन्नॆब्बिसिदरॆ लाभ ऎन्निसितेनो.",
+        "latin": "òḻḻèya havè iruva ī dvīpadalli kāḍu kaḍidu nīli naṃtara innitara bèḻègaḻannu bèḻèyuva toṭagaḻannāgi yuropiyannaru parivartisibiṭṭaru. ādarū allalli bekādaṣṭu ok maragaḻū iddavu. kaḍalatīrada sasyagaḻiddavu. dina kaḻèdaṃtè toṭatuḍikèyiṃda varamāna kaḍimè; varṣaviḍī uttama havè, kaḍalatīra, òḻḻèya baṃdaru iruva ī dvīpadalli toṭatuḍikègaḻannu tègèdu rèsārṭugaḻu, gālph korsugaḻu, krīḍāmaidānagaḻu, boṭiṃg ityādigaḻannèbbisidarè lābha ènnisiteno."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n3",
+      "section": "story",
+      "text": "ಸಾಹುಕಾರರ ನಾಡಾದ ಅಮೆರಿಕದಲ್ಲಿ ಇಂಥ ಐಡಿಯಾಗಳಿಗೆ ಪ್ರೋತ್ಸಾಹ ಕೊಡುವವರು ಬೇಕಾದಷ್ಟು ಜನ. ಅರವತ್ತರ ದಶಕದಲ್ಲಿ ಈ ಸುಧಾರಣೆಗಳು ಜಾರಿಗೊಂಡು ತೋಟತುಡಿಕೆಗಳ ಬದಲು ಸೀಬೀಚ್ ಹೋಟೆಲ್ಗಳು, ಸ್ಟೇಹೋಂಗಳು, ಗಾಲ್ಫ್ಕೋರ್ಸ್ಗಳು, ಹೋಟೆಲ್ಗಳಿಗಾಗಿ ತೋಟ, ತುಡಿಕೆ, ಹಿನ್ನೀರ ಕೋವುಗಳು, ಹೊಂಡಗಳು, ಕಾಡು ಕೊಚ್ಚತೊಡಗಿದರು. ಲಕ್ಸುರಿಯ ನವಾವತಾರಗಳ ಆಹುಟ ಹೆಚ್ಚಿದಷ್ಟೂ ಕಾರು, ಪ್ಲೇನು, ಹೆಲಿಗಳಲ್ಲಿ ಬಂದಿಳಿಯುವ ಬೂಟು, ಚೆಡ್ಡಿ, ಟೀಶರ್ಟು, ಕೂಲಿಂಗ್ಗ್ಲಾಸ್, ಸ್ಕಲ್ಕ್ಯಾಪು ತೊಟ್ಟ ದುಡ್ಡುಳ್ಳ ಅಭಿಮಾನಿಗಳ ಭರಾಟೆಯೂ ಹೆಚ್ಚತೊಡಗಿತು.",
+      "translations": {
+        "en": "In America, land of the wealthy, there are plenty who encourage such ideas. In the sixties these reforms were carried out and instead of plantations, sea-beach hotels, stay-homes, golf courses, and for hotels gardens, scrub, backwaters, ponds and forests began to be cut. As the nuisance of luxury incarnations grew, so did the rush of moneyed fans arriving by car, plane and helicopter in boots, shorts, T-shirts, cooling glasses and skullcaps."
+      },
+      "transliterations": {
+        "devanagari": "साहुकारर नाडाद अमॆरिकदल्लि इंथ ऐडियागळिगॆ प्रोत्साह कॊडुववरु बेकादष्टु जन. अरवत्तर दशकदल्लि ई सुधारणॆगळु जारिगॊंडु तोटतुडिकॆगळ बदलु सीबीच् होटॆल्गळु, स्टेहोंगळु, गाल्फ्कोर्स्गळु, होटॆल्गळिगागि तोट, तुडिकॆ, हिन्नीर कोवुगळु, हॊंडगळु, काडु कॊच्चतॊडगिदरु. लक्सुरिय नवावतारगळ आहुट हॆच्चिदष्टू कारु, प्लेनु, हॆलिगळल्लि बंदिळियुव बूटु, चॆड्डि, टीशर्टु, कूलिंग्ग्लास्, स्कल्क्यापु तॊट्ट दुड्डुळ्ळ अभिमानिगळ भराटॆयू हॆच्चतॊडगितु.",
+        "latin": "sāhukārara nāḍāda amèrikadalli iṃtha aiḍiyāgaḻigè protsāha kòḍuvavaru bekādaṣṭu jana. aravattara daśakadalli ī sudhāraṇègaḻu jārigòṃḍu toṭatuḍikègaḻa badalu sībīc hoṭèlgaḻu, sṭehoṃgaḻu, gālphkorsgaḻu, hoṭèlgaḻigāgi toṭa, tuḍikè, hinnīra kovugaḻu, hòṃḍagaḻu, kāḍu kòccatòḍagidaru. laksuriya navāvatāragaḻa āhuṭa hèccidaṣṭū kāru, plenu, hèligaḻalli baṃdiḻiyuva būṭu, cèḍḍi, ṭīśarṭu, kūliṃgglās, skalkyāpu tòṭṭa duḍḍuḻḻa abhimānigaḻa bharāṭèyū hèccatòḍagitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n4",
+      "section": "story",
+      "text": "ಈ ರೀತಿಯ ಅತಿಕ್ರಮಣ ಸಲ್ಲದು ಎಂದು ಅಲ್ಲಿಯ ಕೆಲವರಾದರೂ ಪರ್ಯಾವರಣಾಭಿಮಾನಿಗಳಿಗೆ ಅನ್ನಿಸಿತೇನೋ. ಅವರುಗಳೂ ಕೂಡಿ ಇಲ್ಲಿನ ಪುರಾತನ ಸಸ್ಯಸಂಪತ್ತು, ಹಳೆಯ ಕಾಲದ ಹೊಂಡಗಳು, ಹಿನ್ನೀರಿನ ಕೋವುಗಳು, ಓಕ್ಮರ ತೋಪುಗಳು, ಕಡಲತೀರದ ಸಸ್ಯಗಳು ಮತ್ತು ಕಾಡಿನ ಮರಗಳನ್ನು ತರಿಯಲೇಕೂಡದು ಎನ್ನುವ ಚಳವಳಿಯನ್ನು ಆರಂಭಿಸಿದರು. ಆದರೂ ದುಡ್ಡು ಬುಲ್ಡೋಜರುಳ್ಳ ವೀರರ ಮುಂದೆ ಇವರ ಕೈಸಾಗಲಿಲ್ಲ. ಇಲ್ಲಿನ ಗಾಲ್ಫ್ ಕೋರ್ಸುಗಳು, ಕ್ರೀಡಾವಿನೋದಗಳೆಡೆಗಳು ಎಷ್ಟು ಚೆನ್ನಾಗಿದ್ದವೆಂದರೆ ಪ್ರಸಿದ್ಧರು ಮೋಜಿಗೆ ಬರುತ್ತಿದ್ದರು. ಅಮೆರಿಕದ ಪ್ರೆಸಿಡೆಂಟರೂ ಗಾಲ್ಫ್ಗೆ ಬಂದದ್ದುಂಟು.",
+      "translations": {
+        "en": "Some environment lovers there felt such encroachment was wrong. They together began a movement that the ancient plant wealth, old ponds, backwaters, oak groves, coastal plants and forest trees must not be cut. But before heroes with money and bulldozers their hands did not succeed. The golf courses and recreation spots were so fine that famous people came for fun. Even American presidents have come for golf."
+      },
+      "transliterations": {
+        "devanagari": "ई रीतिय अतिक्रमण सल्लदु ऎंदु अल्लिय कॆलवरादरू पर्यावरणाभिमानिगळिगॆ अन्निसितेनो. अवरुगळू कूडि इल्लिन पुरातन सस्यसंपत्तु, हळॆय कालद हॊंडगळु, हिन्नीरिन कोवुगळु, ओक्मर तोपुगळु, कडलतीरद सस्यगळु मत्तु काडिन मरगळन्नु तरियलेकूडदु ऎन्नुव चळवळियन्नु आरंभिसिदरु. आदरू दुड्डु बुल्डोजरुळ्ळ वीरर मुंदॆ इवर कैसागलिल्ल. इल्लिन गाल्फ् कोर्सुगळु, क्रीडाविनोदगळॆडॆगळु ऎष्टु चॆन्नागिद्दवॆंदरॆ प्रसिद्धरु मोजिगॆ बरुत्तिद्दरु. अमॆरिकद प्रॆसिडॆंटरू गाल्फ्गॆ बंदद्दुंटु.",
+        "latin": "ī rītiya atikramaṇa salladu èṃdu alliya kèlavarādarū paryāvaraṇābhimānigaḻigè annisiteno. avarugaḻū kūḍi illina purātana sasyasaṃpattu, haḻèya kālada hòṃḍagaḻu, hinnīrina kovugaḻu, okmara topugaḻu, kaḍalatīrada sasyagaḻu mattu kāḍina maragaḻannu tariyalekūḍadu ènnuva caḻavaḻiyannu āraṃbhisidaru. ādarū duḍḍu bulḍojaruḻḻa vīrara muṃdè ivara kaisāgalilla. illina gālph korsugaḻu, krīḍāvinodagaḻèḍègaḻu èṣṭu cènnāgiddavèṃdarè prasiddharu mojigè baruttiddaru. amèrikada prèsiḍèṃṭarū gālphgè baṃdadduṃṭu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n5",
+      "section": "story",
+      "text": "ದುಡ್ಡು ಮತ್ತು ದೌಲತ್ತುಗಳಿಂದ ಪರ್ಯಾವರಣದ ಚಳುವಳಿಗಳಿಗೆ ಹಿನ್ನಡೆ ಆಗತೊಡಗಿದಾಗ ಕೆಲವು ಆಸಕ್ತರು ಕೋರ್ಟಿನ ಮೆಟ್ಟಿಲಿಗೇರುವ ಆಲೋಚನೆ ಮಾಡತೊಡಗಿದರು. ಆಗ ಹೇಗೋ ಒಬ್ಬ ನೆಲದಳ್ಳಾಳಿಗೆ ಪರ್ಯಾವರಣದ ಸುಖದುಃಖಗಳಿಗೂ ಮನಸ್ಸು ಕೊಡುವ ಇಂಬಾಯಿತು. ಅವನೂ ಪರ್ಯಾವರಣದ ಆಸಕ್ತರೊಡನೆ ಕೂಡಿಕೊಂಡು ಕಡಲ ತೀರದ ಸಸ್ಯಸಂಪತ್ತು ಹಳೆಯ ಕಾಲದ ಹೊಂಡಗಳು, ಓಕ್ ಮರಗಳನ್ನು ಹೊಡೆದು ತರಿಯಲೇ ಕೂಡದು ಎನ್ನುವ ಚಳವಳಿ ಆರಂಭಿಸಿದ. ಆದರೆ ಸಾಹುಕಾರರು ಬಗ್ಗಲಿಲ್ಲ. ಇವರು ವಿಧಿಯಿಲ್ಲದೆ ಕೋರ್ಟು ಕಚೇರಿಗಳ ಮೆಟ್ಟಿಲೇರಿದರು.",
+      "translations": {
+        "en": "When money and wealth set back environmental movements, some interested people began thinking of climbing the court steps. Somehow one local ruler also got a mind for environment’s joys and sorrows. He joined the environment-interested and began a movement that coastal plant wealth, old ponds and oak trees must not be cut. But the wealthy did not bend. Without choice they climbed the steps of courts and offices."
+      },
+      "transliterations": {
+        "devanagari": "दुड्डु मत्तु दौलत्तुगळिंद पर्यावरणद चळुवळिगळिगॆ हिन्नडॆ आगतॊडगिदाग कॆलवु आसक्तरु कोर्टिन मॆट्टिलिगेरुव आलोचनॆ माडतॊडगिदरु. आग हेगो ऒब्ब नॆलदळ्ळाळिगॆ पर्यावरणद सुखदुःखगळिगू मनस्सु कॊडुव इंबायितु. अवनू पर्यावरणद आसक्तरॊडनॆ कूडिकॊंडु कडल तीरद सस्यसंपत्तु हळॆय कालद हॊंडगळु, ओक् मरगळन्नु हॊडॆदु तरियले कूडदु ऎन्नुव चळवळि आरंभिसिद. आदरॆ साहुकाररु बग्गलिल्ल. इवरु विधियिल्लदॆ कोर्टु कचेरिगळ मॆट्टिलेरिदरु.",
+        "latin": "duḍḍu mattu daulattugaḻiṃda paryāvaraṇada caḻuvaḻigaḻigè hinnaḍè āgatòḍagidāga kèlavu āsaktaru korṭina mèṭṭiligeruva ālocanè māḍatòḍagidaru. āga hego òbba nèladaḻḻāḻigè paryāvaraṇada sukhaduḥkhagaḻigū manassu kòḍuva iṃbāyitu. avanū paryāvaraṇada āsaktaròḍanè kūḍikòṃḍu kaḍala tīrada sasyasaṃpattu haḻèya kālada hòṃḍagaḻu, ok maragaḻannu hòḍèdu tariyale kūḍadu ènnuva caḻavaḻi āraṃbhisida. ādarè sāhukāraru baggalilla. ivaru vidhiyilladè korṭu kacerigaḻa mèṭṭileridaru."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n6",
+      "section": "story",
+      "text": "ಈ ಹೊಯ್ದಾಟದಲ್ಲಿ ಕ್ರಮೇಣ ಜನಸಮ್ಮತಿ ಪರ್ಯಾವರಣದತ್ತ ಒಲಿಯಿತು. ರಸ್ತೆ, ಕಟ್ಟಡ, ಕ್ರೀಡಾಂಗಣ, ಸೇತುವೆಗೆ ತೋರುತ್ತಿದ್ದ ಅಭಿಯಂತರ ಶ್ರದ್ಧೆಯನ್ನೇ ಪರಿಸರ ಸೌಂದರ್ಯ, ಗಿಡ, ಮರ, ತಟಸಸ್ಯ ಸಂಕುಲ, ಹೊಂಡಗಳಿಗೂ ತೋರಿಸತೊಡಗಿದರು. ಸ್ಥಳದ ನೆಲ ಜಲ ವನ ಸಂಪತ್ತು ಹೆಚ್ಚುವಂತೆ ನೆಲವನ್ನು ಕಾಪಿಟ್ಟುಕೊಂಡು ದ್ವೀಪದ ಸೌಂದರ್ಯವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಬೇಕು ಎನ್ನುವ ದೀಡಿನಲ್ಲಿ ಮಂತ್ರಾಲೋಚನೆಗಳಾದವು. ಪುರಾಭಿವೃದ್ಧಿ ಕಾರ್ಯ ಹಾಗೆಯೇ ಜರುಗತೊಡಗಿತು. ಪರಿಣಾಮವಾಗಿ, ನಾಲ್ಕಾರು ವರ್ಷಗಳಲ್ಲಿ ಹಿಲ್ಟನ್ ಹೆಡ್ ನಂದನವನದಂತೆ ಮರ, ಗಿಡ, ಹೊಂಡ, ತೀರದ ಸಸ್ಯಗಳಿಂದ ಕಂಗೊಳಿಸತೊಡಗಿತು. ಅವುಗಳ ನಡುವೆ ಕ್ರೀಡೆಗೆ ಎಡೆಗಳಾದವು. ಪ್ರೆಸಿಡೆಂಟರೂ ಪಚ್ಚೆಯಂತೆ ಹೊಳೆಯುವ ಇಲ್ಲಿಯ ಗಾಲ್ಫ್ ಕೋರ್ಸಿಗೆ ಆಡಲು ಬರುವುದೂ ಸಾಧಾರಣವಾಯಿತು.",
+      "translations": {
+        "en": "In this struggle gradually public opinion leaned toward the environment. The engineering devotion shown to roads, buildings, stadiums and bridges began to be shown also to environmental beauty, plants, trees, shore flora and ponds. Consultations happened with the resolve that the island’s beauty should grow by protecting land so that soil, water and forest wealth increase. City development work continued. As a result, in four years Hilton Head began to shine like a garden with trees, plants, ponds and shore plants. Among them places for sport appeared. Presidents coming to play on the golf course shining like emerald also became ordinary."
+      },
+      "transliterations": {
+        "devanagari": "ई हॊय्दाटदल्लि क्रमेण जनसम्मति पर्यावरणदत्त ऒलियितु. रस्तॆ, कट्टड, क्रीडांगण, सेतुवॆगॆ तोरुत्तिद्द अभियंतर श्रद्धॆयन्ने परिसर सौंदर्य, गिड, मर, तटसस्य संकुल, हॊंडगळिगू तोरिसतॊडगिदरु. स्थळद नॆल जल वन संपत्तु हॆच्चुवंतॆ नॆलवन्नु कापिट्टुकॊंडु द्वीपद सौंदर्यवन्नु हॆच्चिसिकॊळ्ळबेकु ऎन्नुव दीडिनल्लि मंत्रालोचनॆगळादवु. पुराभिवृद्धि कार्य हागॆये जरुगतॊडगितु. परिणामवागि, नाल्कारु वर्षगळल्लि हिल्टन् हॆड् नंदनवनदंतॆ मर, गिड, हॊंड, तीरद सस्यगळिंद कंगॊळिसतॊडगितु. अवुगळ नडुवॆ क्रीडॆगॆ ऎडॆगळादवु. प्रॆसिडॆंटरू पच्चॆयंतॆ हॊळॆयुव इल्लिय गाल्फ् कोर्सिगॆ आडलु बरुवुदू साधारणवायितु.",
+        "latin": "ī hòydāṭadalli krameṇa janasammati paryāvaraṇadatta òliyitu. rastè, kaṭṭaḍa, krīḍāṃgaṇa, setuvègè toruttidda abhiyaṃtara śraddhèyanne parisara sauṃdarya, giḍa, mara, taṭasasya saṃkula, hòṃḍagaḻigū torisatòḍagidaru. sthaḻada nèla jala vana saṃpattu hèccuvaṃtè nèlavannu kāpiṭṭukòṃḍu dvīpada sauṃdaryavannu hèccisikòḻḻabeku ènnuva dīḍinalli maṃtrālocanègaḻādavu. purābhivṛddhi kārya hāgèye jarugatòḍagitu. pariṇāmavāgi, nālkāru varṣagaḻalli hilṭan hèḍ naṃdanavanadaṃtè mara, giḍa, hòṃḍa, tīrada sasyagaḻiṃda kaṃgòḻisatòḍagitu. avugaḻa naḍuvè krīḍègè èḍègaḻādavu. prèsiḍèṃṭarū paccèyaṃtè hòḻèyuva illiya gālph korsigè āḍalu baruvudū sādhāraṇavāyitu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n7",
+      "section": "story",
+      "text": "ದಿನವಿಡೀ ಸುತ್ತಾಡಿ ಸಂತೋಷಪಟ್ಟು ಕಡಲತಡಿಯ ಪುರಾತನ ಲೈಟ್ಹೌಸನ್ನೇರಿ ಅಟ್ಲಾಂಟಿಕ್ ಮಹಾಸಾಗರ, ಸಮುದ್ರದಲ್ಲೋಡಾಡುತ್ತಿದ್ದ ನೌಕೆಗಳು, ಕಡಲ ಕಾಗೆಗಳು, ನಮ್ಮ ಬಡ್ಡೆಗೇ ಬಂದಿಳಿಯುವ ರೇವನ್, ಮೈನಾಗಳನ್ನ ನೋಡಿ ನಾವೂ ಆನಂದಿಸಿದೆವು.",
+      "translations": {
+        "en": "Wandering all day happily, climbing the ancient lighthouse on the shore, we too enjoyed seeing the Atlantic Ocean, ships on the sea, sea crows, and ravens and mynas that came down to our side."
+      },
+      "transliterations": {
+        "devanagari": "दिनविडी सुत्ताडि संतोषपट्टु कडलतडिय पुरातन लैट्हौसन्नेरि अट्लांटिक् महासागर, समुद्रदल्लोडाडुत्तिद्द नौकॆगळु, कडल कागॆगळु, नम्म बड्डॆगे बंदिळियुव रेवन्, मैनागळन्न नोडि नावू आनंदिसिदॆवु.",
+        "latin": "dinaviḍī suttāḍi saṃtoṣapaṭṭu kaḍalataḍiya purātana laiṭhausanneri aṭlāṃṭik mahāsāgara, samudradalloḍāḍuttidda naukègaḻu, kaḍala kāgègaḻu, namma baḍḍège baṃdiḻiyuva revan, maināgaḻanna noḍi nāvū ānaṃdisidèvu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-n8",
+      "section": "story",
+      "text": "ಅಲ್ಲಿಂದ ಕೆಳಗಿಳಿದ ಮೇಲೆ ಅಕಸ್ಮಾತ್ತಾಗಿ ಹಾವು ಬಳುಕಿನ ಹಿನ್ನೀರಿನ ದೊಣೆಯ ಒಂದು ಬದಿಯಲ್ಲಿ ದುಂಡನೆಯ ವೇದಿಕೆಯ ನಡುವೆ ಒಂದು ದೊಡ್ಡ ಓಕ್ ಮರವನ್ನು ಕಂಡೆವು. ಅದೇನೆಂದು ಅಲ್ಲಿಗೆ ಹೋದೆವು. ಅದೊಂದು ಹಳೆಯ ಓಕ್ ಮರ; ಅದರಡಿ ತೆಳ್ಳಗೆ ಅಗೆತ ಮಾಡಿ ದಪ್ಪ ಗೊಬ್ಬರ, ಮರದ ಚೆಕ್ಕೆ ಹರಡಿದ್ದರು. ಯಾರೂ ಕಾಲಿಕ್ಕದಂತೆ ಪರಿಧಿಯ ಸುತ್ತಲೂ ಕಟಕಟೆ ಕಟ್ಟಿದ್ದರು. ಇದು ಲಿಬರ್ಟಿ ಓಕ್ ಮರ. ಐವತ್ತರ ದಶಕದಲ್ಲಿ ಪರಿಸರ ರಕ್ಷಣೆಗಾಗಿ ಜನ ಒಗ್ಗೂಡಿ ಪಣತೊಟ್ಟಿದ್ದು ಈ ಮರದಲ್ಲಿಯೇ. ಇದು ಸಂರಕ್ಷಿತ ಜಾಗ. ದಯವಿಟ್ಟು ಕಟಕಟೆಯ ಒಳಗೆ ಪ್ರವೇಶಿಸಬೇಡಿ ಎನ್ನುವ ಫಲಕವನ್ನು ನೆಟ್ಟಿದ್ದರು. ಹೀಗೆ ಆ ಮರ ನೂರುಕಾಲ ಬಾಳುವಂತೆ ರಕ್ಷಿತವಾಗಿತ್ತು. ನಂತರದ ಕಾಲದಲ್ಲಿ ಈ ಮರದ ಪ್ರಸಿದ್ಧಿ ಎಷ್ಟು ಹರಡಿತೆಂದರೆ ಇದರ ಸಾನ್ನಿಧ್ಯವನ್ನು ಕಂಡು ಮರಳಿದ ಜನ ತಂತಮ್ಮ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಪರ್ಯಾವರಣ ರಕ್ಷಣೆಯಲ್ಲಿ ಚುರುಕುಗೊಂಡರು. ಈ ಮರದ ಸಾನ್ನಿಧ್ಯದಲ್ಲಿ ಎಷ್ಟೋ ವಿವಾಹಗಳಾಗಿವೆಯಂತೆ!",
+      "translations": {
+        "en": "After coming down, suddenly on one side of a snake-winding backwater channel, in the middle of a round platform, we saw a large oak tree. Wondering what it was we went there. It was an old oak; under it they had dug lightly and spread thick manure and wood chips. A railing was built around so no one would step in. This is the Liberty Oak. In the fifties people united and vowed for environmental protection under this very tree. This is a protected place. A board said please do not enter inside the railing. Thus the tree was protected to live a hundred years. Later its fame spread so much that people who returned after seeing its presence became active in environmental protection in their own fields. Many marriages have taken place in this tree’s presence!",
+        "hi": "यह लिबर्टी ओक वृक्ष है। पचास के दशक में पर्यावरण रक्षा के लिए लोग यहीं एकजुट होकर प्रण लिए थे। यह संरक्षित स्थान है।"
+      },
+      "transliterations": {
+        "devanagari": "अल्लिंद कॆळगिळिद मेलॆ अकस्मात्तागि हावु बळुकिन हिन्नीरिन दॊणॆय ऒंदु बदियल्लि दुंडनॆय वेदिकॆय नडुवॆ ऒंदु दॊड्ड ओक् मरवन्नु कंडॆवु. अदेनॆंदु अल्लिगॆ होदॆवु. अदॊंदु हळॆय ओक् मर; अदरडि तॆळ्ळगॆ अगॆत माडि दप्प गॊब्बर, मरद चॆक्कॆ हरडिद्दरु. यारू कालिक्कदंतॆ परिधिय सुत्तलू कटकटॆ कट्टिद्दरु. इदु लिबर्टि ओक् मर. ऐवत्तर दशकदल्लि परिसर रक्षणॆगागि जन ऒग्गूडि पणतॊट्टिद्दु ई मरदल्लिये. इदु संरक्षित जाग. दयविट्टु कटकटॆय ऒळगॆ प्रवेशिसबेडि ऎन्नुव फलकवन्नु नॆट्टिद्दरु. हीगॆ आ मर नूरुकाल बाळुवंतॆ रक्षितवागित्तु. नंतरद कालदल्लि ई मरद प्रसिद्धि ऎष्टु हरडितॆंदरॆ इदर सान्निध्यवन्नु कंडु मरळिद जन तंतम्म क्षेत्रगळल्लि पर्यावरण रक्षणॆयल्लि चुरुकुगॊंडरु. ई मरद सान्निध्यदल्लि ऎष्टो विवाहगळागिवॆयंतॆ!",
+        "latin": "alliṃda kèḻagiḻida melè akasmāttāgi hāvu baḻukina hinnīrina dòṇèya òṃdu badiyalli duṃḍanèya vedikèya naḍuvè òṃdu dòḍḍa ok maravannu kaṃḍèvu. adenèṃdu alligè hodèvu. adòṃdu haḻèya ok mara; adaraḍi tèḻḻagè agèta māḍi dappa gòbbara, marada cèkkè haraḍiddaru. yārū kālikkadaṃtè paridhiya suttalū kaṭakaṭè kaṭṭiddaru. idu libarṭi ok mara. aivattara daśakadalli parisara rakṣaṇègāgi jana òggūḍi paṇatòṭṭiddu ī maradalliye. idu saṃrakṣita jāga. dayaviṭṭu kaṭakaṭèya òḻagè praveśisabeḍi ènnuva phalakavannu nèṭṭiddaru. hīgè ā mara nūrukāla bāḻuvaṃtè rakṣitavāgittu. naṃtarada kāladalli ī marada prasiddhi èṣṭu haraḍitèṃdarè idara sānnidhyavannu kaṃḍu maraḻida jana taṃtamma kṣetragaḻalli paryāvaraṇa rakṣaṇèyalli curukugòṃḍaru. ī marada sānnidhyadalli èṣṭo vivāhagaḻāgivèyaṃtè!"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "competency",
+      "section": "competency",
+      "text": "ಕೌಶಲ: ಆಲಿಸುವುದು. ಸಾಮರ್ಥ್ಯ: ಗುಂಪು ಚಟುವಟಿಕೆಗಳ ನಿರ್ದೇಶನಗಳನ್ನು ಆಲಿಸಿ, ಅರ್ಥಮಾಡಿಕೊಂಡು ಆಂಗಿಕವಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸುವುದು. ಆಶಯ: ಮನುಷ್ಯನು ನಾಗರೀಕತೆಯ ವ್ಯಾಮೋಹಕ್ಕೆ ಸಿಲುಕಿ ಸುಂದರವಾದ ಪರಿಸರ ತಾಣಗಳನ್ನು ನಾಶಮಾಡುತ್ತಾ ಬಂದಿದ್ದಾನೆ. ಮರಗಿಡಗಳನ್ನು ಕತ್ತರಿಸಿ ಆ ಜಾಗಗಳನ್ನು ವ್ಯಾಪಾರ, ಮನರಂಜನಾ, ಕ್ರೀಡಾ ತಾಣಗಳನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತಿರುವುದರಿಂದ ನಮ್ಮ ಪರಿಸರ ತಾಣಗಳು ಅಧೋಗತಿಯನ್ನು ಕಾಣುತ್ತಿವೆ. ಪ್ರಕೃತಿಯ ಮೇಲೆ ನಡೆಯುತ್ತಿರುವ ದೌರ್ಜನ್ಯವನ್ನು ತಡೆಗಟ್ಟಲು ಪರಿಸರವಾದಿಗಳು ಮೊದಲಿನಿಂದಲೂ ನಡೆಸುತ್ತಿರುವ ಹೋರಾಟಗಳು ಅವಿಸ್ಮರಣೀಯ. ಪ್ರಸ್ತುತ ಸನ್ನಿವೇಶದಲ್ಲಿ ಪರಿಸರವನ್ನು ಸಂರಕ್ಷಣೆ ಮಾಡಬೇಕಾಗಿರುವುದು ನಮ್ಮೆಲ್ಲರ ಆದ್ಯ ಕರ್ತವ್ಯವಾಗಬೇಕು ಎಂಬುದು ಈ ಪಾಠದ ಮುಖ್ಯ ಆಶಯ.",
+      "translations": {
+        "en": "Skill: listening. Ability: listening to instructions for group activities, understanding and responding physically. Intent: Caught in the lure of civilization, man has been destroying beautiful environmental sites. Cutting trees and turning those places into trade, entertainment and sports sites, our environmental sites are declining. The struggles environmentalists have carried on from the beginning to stop violence against nature are unforgettable. In the present situation protecting the environment should become the foremost duty of us all—this is the main intent of this lesson.",
+        "hi": "कौशल: सुनना। सामर्थ्य: समूह गतिविधियों के निर्देश सुनकर समझना और प्रतिक्रिया देना। आशय: वर्तमान में पर्यावरण की रक्षा हम सबका प्रधान कर्तव्य होना चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "कौशल: आलिसुवुदु. सामर्थ्य: गुंपु चटुवटिकॆगळ निर्देशनगळन्नु आलिसि, अर्थमाडिकॊंडु आंगिकवागि प्रतिक्रियिसुवुदु. आशय: मनुष्यनु नागरीकतॆय व्यामोहक्कॆ सिलुकि सुंदरवाद परिसर ताणगळन्नु नाशमाडुत्ता बंदिद्दानॆ. मरगिडगळन्नु कत्तरिसि आ जागगळन्नु व्यापार, मनरंजना, क्रीडा ताणगळन्नागि परिवर्तिसुत्तिरुवुदरिंद नम्म परिसर ताणगळु अधोगतियन्नु काणुत्तिवॆ. प्रकृतिय मेलॆ नडॆयुत्तिरुव दौर्जन्यवन्नु तडॆगट्टलु परिसरवादिगळु मॊदलिनिंदलू नडॆसुत्तिरुव होराटगळु अविस्मरणीय. प्रस्तुत सन्निवेशदल्लि परिसरवन्नु संरक्षणॆ माडबेकागिरुवुदु नम्मॆल्लर आद्य कर्तव्यवागबेकु ऎंबुदु ई पाठद मुख्य आशय.",
+        "latin": "kauśala: ālisuvudu. sāmarthya: guṃpu caṭuvaṭikègaḻa nirdeśanagaḻannu ālisi, arthamāḍikòṃḍu āṃgikavāgi pratikriyisuvudu. āśaya: manuṣyanu nāgarīkatèya vyāmohakkè siluki suṃdaravāda parisara tāṇagaḻannu nāśamāḍuttā baṃdiddānè. maragiḍagaḻannu kattarisi ā jāgagaḻannu vyāpāra, manaraṃjanā, krīḍā tāṇagaḻannāgi parivartisuttiruvudariṃda namma parisara tāṇagaḻu adhogatiyannu kāṇuttivè. prakṛtiya melè naḍèyuttiruva daurjanyavannu taḍègaṭṭalu parisaravādigaḻu mòdaliniṃdalū naḍèsuttiruva horāṭagaḻu avismaraṇīya. prastuta sanniveśadalli parisaravannu saṃrakṣaṇè māḍabekāgiruvudu nammèllara ādya kartavyavāgabeku èṃbudu ī pāṭhada mukhya āśaya."
+      },
+      "type": "competency"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಶಶಿಧರ ವಿಶ್ವಾಮಿತ್ರ 1940ರಲ್ಲಿ ಮೈಸೂರಿನಲ್ಲಿ ಹುಟ್ಟಿದರು. ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿನಲ್ಲಿ ಪದವೀಧರರಾದ ಮೇಲೆ ಭಾರತ ಸರಕಾರದ ರಾಷ್ಟ್ರೀಯ ಕ್ಷಯರೋಗ ಸಂಸ್ಥೆಯಲ್ಲಿ ಸಂಶೋಧಕರಾಗಿ ವೃತ್ತಿಜೀವನ ಪ್ರಾರಂಭಿಸಿದರು. ಕ್ಷಯರೋಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿವಿಧ ಸಂಸ್ಥೆಗಳಲ್ಲಿ, ವಿವಿಧ ಹುದ್ದೆಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ್ದಾರೆ. ಖಿಲ, ಪದ ಕುಸಿಯೆ ನೆಲವಿಹುದೆ, ಹಿಂದೂ ಧರ್ಮ, ಸೃಷ್ಟಿಯ ರಂಗವಲ್ಲಿ- ಮುಂತಾದವು ಇವರ ಕೆಲವು ಪ್ರಕಟಿತ ಕೃತಿಗಳು. ಸಂಚಿ ಎಂಬ ಆತ್ಮಕತೆಯನ್ನು ಬರೆದಿದ್ದಾರೆ.",
+      "translations": {
+        "en": "Shashidhara Vishwamithra was born in Mysore in 1940. After graduating from Central College he began his career as a researcher at the Government of India’s National Tuberculosis Institute. He has worked in various posts in institutions related to tuberculosis. Khila, Pada Kusiye Nelavihude, Hindu Dharma, Srishtiya Rangadalli are some of his published works. He has written an autobiography called Sanchi.",
+        "hi": "शशिधर विश्वामित्र 1940 में मैसूर में जन्मे। क्षयरोग से संबंधित विभिन्न संस्थाओं में कार्य किया। ‘संचि’ नामक आत्मकथा लिखी।"
+      },
+      "transliterations": {
+        "devanagari": "शशिधर विश्वामित्र 1940रल्लि मैसूरिनल्लि हुट्टिदरु. सॆंट्रल् कालेजिनल्लि पदवीधरराद मेलॆ भारत सरकारद राष्ट्रीय क्षयरोग संस्थॆयल्लि संशोधकरागि वृत्तिजीवन प्रारंभिसिदरु. क्षयरोगक्कॆ संबंधिसिद विविध संस्थॆगळल्लि, विविध हुद्दॆगळल्लि कार्यनिर्वहिसिद्दारॆ. खिल, पद कुसियॆ नॆलविहुदॆ, हिंदू धर्म, सृष्टिय रंगवल्लि- मुंतादवु इवर कॆलवु प्रकटित कृतिगळु. संचि ऎंब आत्मकतॆयन्नु बरॆदिद्दारॆ.",
+        "latin": "śaśidhara viśvāmitra 1940ralli maisūrinalli huṭṭidaru. sèṃṭral kālejinalli padavīdhararāda melè bhārata sarakārada rāṣṭrīya kṣayaroga saṃsthèyalli saṃśodhakarāgi vṛttijīvana prāraṃbhisidaru. kṣayarogakkè saṃbaṃdhisida vividha saṃsthègaḻalli, vividha huddègaḻalli kāryanirvahisiddārè. khila, pada kusiyè nèlavihudè, hiṃdū dharma, sṛṣṭiya raṃgavalli- muṃtādavu ivara kèlavu prakaṭita kṛtigaḻu. saṃci èṃba ātmakatèyannu barèdiddārè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-amerindian",
+      "section": "vocab",
+      "text": "ಅಮೆರಿಂಡಿಯನ್ನರು",
+      "translations": {
+        "en": "ಅಮೆರಿಂಡಿಯನ್ನರು",
+        "hi": "ಅಮೆರಿಂಡಿಯನ್ನರು"
+      },
+      "transliterations": {
+        "devanagari": "अमॆरिंडियन्नरु",
+        "latin": "amèriṃḍiyannaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-amerindian-def",
+      "section": "vocab",
+      "text": "ಅಮೆರಿಕಾ ಭೂಖಂಡದಲ್ಲಿ ಐರೋಪ್ಯರು ಬಂದು ವಸಾಹತು ಸ್ಥಾಪಿಸುವುದಕ್ಕೆ ಮೊದಲು ಅಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ಮೂಲನಿವಾಸಿಗಳು",
+      "translations": {
+        "en": "original inhabitants of the American continent before Europeans established colonies"
+      },
+      "transliterations": {
+        "devanagari": "अमॆरिका भूखंडदल्लि ऐरोप्यरु बंदु वसाहतु स्थापिसुवुदक्कॆ मॊदलु अल्लि वासवागिद्द मूलनिवासिगळु",
+        "latin": "amèrikā bhūkhaṃḍadalli airopyaru baṃdu vasāhatu sthāpisuvudakkè mòdalu alli vāsavāgidda mūlanivāsigaḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhulipata",
+      "section": "vocab",
+      "text": "ಧೂಳೀಪಟ",
+      "translations": {
+        "en": "ಧೂಳೀಪಟ",
+        "hi": "ಧೂಳೀಪಟ"
+      },
+      "transliterations": {
+        "devanagari": "धूळीपट",
+        "latin": "dhūḻīpaṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhulipata-def",
+      "section": "vocab",
+      "text": "ಸಂಪೂರ್ಣ ನಾಶ",
+      "translations": {
+        "en": "complete destruction",
+        "hi": "पूर्ण नाश"
+      },
+      "transliterations": {
+        "devanagari": "संपूर्ण नाश",
+        "latin": "saṃpūrṇa nāśa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-oak",
+      "section": "vocab",
+      "text": "ಓಕ್",
+      "translations": {
+        "en": "ಓಕ್",
+        "hi": "ಓಕ್"
+      },
+      "transliterations": {
+        "devanagari": "ओक्",
+        "latin": "ok"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-oak-def",
+      "section": "vocab",
+      "text": "ಎತ್ತರಕ್ಕೆ ಬೆಳೆಯುವ ಒಂದು ಜಾತಿಯ ಮರ",
+      "translations": {
+        "en": "a kind of tree that grows tall",
+        "hi": "ऊँचा बढ़ने वाला एक वृक्ष"
+      },
+      "transliterations": {
+        "devanagari": "ऎत्तरक्कॆ बॆळॆयुव ऒंदु जातिय मर",
+        "latin": "èttarakkè bèḻèyuva òṃdu jātiya mara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-golf",
+      "section": "vocab",
+      "text": "ಗಾಲ್ಫ್",
+      "translations": {
+        "en": "ಗಾಲ್ಫ್",
+        "hi": "ಗಾಲ್ಫ್"
+      },
+      "transliterations": {
+        "devanagari": "गाल्फ्",
+        "latin": "gālph"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-golf-def",
+      "section": "vocab",
+      "text": "ಶ್ರೀಮಂತರ ಆಟವೆಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿರುವ ಒಂದು ಬಗೆಯ ವಿಲಾಸಿ ಆಟ",
+      "translations": {
+        "en": "a recreational game famous as a rich people’s sport"
+      },
+      "transliterations": {
+        "devanagari": "श्रीमंतर आटवॆंदे प्रसिद्धवागिरुव ऒंदु बगॆय विलासि आट",
+        "latin": "śrīmaṃtara āṭavèṃde prasiddhavāgiruva òṃdu bagèya vilāsi āṭa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-golf-course",
+      "section": "vocab",
+      "text": "ಗಾಲ್ಫ್ಕೋರ್ಸ್",
+      "translations": {
+        "en": "ಗಾಲ್ಫ್ಕೋರ್ಸ್",
+        "hi": "ಗಾಲ್ಫ್ಕೋರ್ಸ್"
+      },
+      "transliterations": {
+        "devanagari": "गाल्फ्कोर्स्",
+        "latin": "gālphkors"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-golf-course-def",
+      "section": "vocab",
+      "text": "ಗಾಲ್ಫ್ ಆಟದ ಅಂಗಣ",
+      "translations": {
+        "en": "golf playing ground"
+      },
+      "transliterations": {
+        "devanagari": "गाल्फ् आटद अंगण",
+        "latin": "gālph āṭada aṃgaṇa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hinnira-kovu",
+      "section": "vocab",
+      "text": "ಹಿನ್ನೀರ ಕೋವು",
+      "translations": {
+        "en": "ಹಿನ್ನೀರ ಕೋವು",
+        "hi": "ಹಿನ್ನೀರ ಕೋವು"
+      },
+      "transliterations": {
+        "devanagari": "हिन्नीर कोवु",
+        "latin": "hinnīra kovu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hinnira-kovu-def",
+      "section": "vocab",
+      "text": "ಸಮುದ್ರವು ಒಳಚಾಚಿರುವ ನೆಲಭಾಗ",
+      "translations": {
+        "en": "land where the sea has pushed inland"
+      },
+      "transliterations": {
+        "devanagari": "समुद्रवु ऒळचाचिरुव नॆलभाग",
+        "latin": "samudravu òḻacāciruva nèlabhāga"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-stayhome",
+      "section": "vocab",
+      "text": "ಸ್ಟೇಹೋಂ",
+      "translations": {
+        "en": "ಸ್ಟೇಹೋಂ",
+        "hi": "ಸ್ಟೇಹೋಂ"
+      },
+      "transliterations": {
+        "devanagari": "स्टेहों",
+        "latin": "sṭehoṃ"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-stayhome-def",
+      "section": "vocab",
+      "text": "ಪ್ರವಾಸಿಗಳು ಉಳಿದುಕೊಳ್ಳಲೆಂದು ಕಟ್ಟಿದ ವಸತಿ",
+      "translations": {
+        "en": "dwelling built for tourists to stay"
+      },
+      "transliterations": {
+        "devanagari": "प्रवासिगळु उळिदुकॊळ्ळलॆंदु कट्टिद वसति",
+        "latin": "pravāsigaḻu uḻidukòḻḻalèṃdu kaṭṭida vasati"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-luxury",
+      "section": "vocab",
+      "text": "ಲಕ್ಸುರಿ",
+      "translations": {
+        "en": "ಲಕ್ಸುರಿ",
+        "hi": "ಲಕ್ಸುರಿ"
+      },
+      "transliterations": {
+        "devanagari": "लक्सुरि",
+        "latin": "laksuri"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-luxury-def",
+      "section": "vocab",
+      "text": "ವಿಲಾಸ",
+      "translations": {
+        "en": "luxury"
+      },
+      "transliterations": {
+        "devanagari": "विलास",
+        "latin": "vilāsa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-heli",
+      "section": "vocab",
+      "text": "ಹೆಲಿ",
+      "translations": {
+        "en": "ಹೆಲಿ",
+        "hi": "ಹೆಲಿ"
+      },
+      "transliterations": {
+        "devanagari": "हॆलि",
+        "latin": "hèli"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-heli-def",
+      "section": "vocab",
+      "text": "ಹೆಲಿಕಾಪ್ಟರ್",
+      "translations": {
+        "en": "helicopter"
+      },
+      "transliterations": {
+        "devanagari": "हॆलिकाप्टर्",
+        "latin": "hèlikāpṭar"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-atikramana",
+      "section": "vocab",
+      "text": "ಅತಿಕ್ರಮಣ",
+      "translations": {
+        "en": "ಅತಿಕ್ರಮಣ",
+        "hi": "ಅತಿಕ್ರಮಣ"
+      },
+      "transliterations": {
+        "devanagari": "अतिक्रमण",
+        "latin": "atikramaṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-atikramana-def",
+      "section": "vocab",
+      "text": "ಅಕ್ರಮವಾಗಿ ಅಥವಾ ಬಲಾತ್ಕಾರವಾಗಿ ವಶಪಡಿಸಿಕೊಳ್ಳುವುದು",
+      "translations": {
+        "en": "seizing unlawfully or by force"
+      },
+      "transliterations": {
+        "devanagari": "अक्रमवागि अथवा बलात्कारवागि वशपडिसिकॊळ्ळुवुदु",
+        "latin": "akramavāgi athavā balātkāravāgi vaśapaḍisikòḻḻuvudu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-paryavarana",
+      "section": "vocab",
+      "text": "ಪರ್ಯಾವರಣ",
+      "translations": {
+        "en": "ಪರ್ಯಾವರಣ",
+        "hi": "ಪರ್ಯಾವರಣ"
+      },
+      "transliterations": {
+        "devanagari": "पर्यावरण",
+        "latin": "paryāvaraṇa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-paryavarana-def",
+      "section": "vocab",
+      "text": "ಪರಿಸರ",
+      "translations": {
+        "en": "environment",
+        "hi": "परिवेश"
+      },
+      "transliterations": {
+        "devanagari": "परिसर",
+        "latin": "parisara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-tatasasya",
+      "section": "vocab",
+      "text": "ತಟಸಸ್ಯಸಂಕುಲ",
+      "translations": {
+        "en": "ತಟಸಸ್ಯಸಂಕುಲ",
+        "hi": "ತಟಸಸ್ಯಸಂಕುಲ"
+      },
+      "transliterations": {
+        "devanagari": "तटसस्यसंकुल",
+        "latin": "taṭasasyasaṃkula"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tatasasya-def",
+      "section": "vocab",
+      "text": "ನದಿ ಅಥವಾ ಸಮುದ್ರದ ದಂಡೆಯಲ್ಲಿ ಬೆಳೆಯುವ ಜಲಸಸ್ಯಗಳು",
+      "translations": {
+        "en": "water plants growing on river or sea banks"
+      },
+      "transliterations": {
+        "devanagari": "नदि अथवा समुद्रद दंडॆयल्लि बॆळॆयुव जलसस्यगळु",
+        "latin": "nadi athavā samudrada daṃḍèyalli bèḻèyuva jalasasyagaḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-abhiyantara",
+      "section": "vocab",
+      "text": "ಅಭಿಯಂತರ",
+      "translations": {
+        "en": "ಅಭಿಯಂತರ",
+        "hi": "ಅಭಿಯಂತರ"
+      },
+      "transliterations": {
+        "devanagari": "अभियंतर",
+        "latin": "abhiyaṃtara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-abhiyantara-def",
+      "section": "vocab",
+      "text": "ಇಂಜಿನಿಯರಿಂಗ್",
+      "translations": {
+        "en": "engineering"
+      },
+      "transliterations": {
+        "devanagari": "इंजिनियरिंग्",
+        "latin": "iṃjiniyariṃg"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-raven-maina",
+      "section": "vocab",
+      "text": "ರೇವನ್ ಮೈನಾ",
+      "translations": {
+        "en": "ರೇವನ್ ಮೈನಾ",
+        "hi": "ರೇವನ್ ಮೈನಾ"
+      },
+      "transliterations": {
+        "devanagari": "रेवन् मैना",
+        "latin": "revan mainā"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raven-maina-def",
+      "section": "vocab",
+      "text": "ಹಕ್ಕಿಗಳು",
+      "translations": {
+        "en": "birds"
+      },
+      "transliterations": {
+        "devanagari": "हक्किगळु",
+        "latin": "hakkigaḻu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kapittu",
+      "section": "vocab",
+      "text": "ಕಾಪಿಟ್ಟುಕೊಂಡು",
+      "translations": {
+        "en": "ಕಾಪಿಟ್ಟುಕೊಂಡು",
+        "hi": "ಕಾಪಿಟ್ಟುಕೊಂಡು"
+      },
+      "transliterations": {
+        "devanagari": "कापिट्टुकॊंडु",
+        "latin": "kāpiṭṭukòṃḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kapittu-def",
+      "section": "vocab",
+      "text": "ರಕ್ಷಿಸುವುದು, ಕಾಪಾಡುವುದು",
+      "translations": {
+        "en": "protecting, guarding"
+      },
+      "transliterations": {
+        "devanagari": "रक्षिसुवुदु, कापाडुवुदु",
+        "latin": "rakṣisuvudu, kāpāḍuvudu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-purabhivriddhi",
+      "section": "vocab",
+      "text": "ಪುರಾಭಿವೃದ್ಧಿ",
+      "translations": {
+        "en": "ಪುರಾಭಿವೃದ್ಧಿ",
+        "hi": "ಪುರಾಭಿವೃದ್ಧಿ"
+      },
+      "transliterations": {
+        "devanagari": "पुराभिवृद्धि",
+        "latin": "purābhivṛddhi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-purabhivriddhi-def",
+      "section": "vocab",
+      "text": "ನಗರದ ಅಭಿವೃದ್ಧಿ",
+      "translations": {
+        "en": "city development"
+      },
+      "transliterations": {
+        "devanagari": "नगरद अभिवृद्धि",
+        "latin": "nagarada abhivṛddhi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ahuta",
+      "section": "vocab",
+      "text": "ಆಹುಟ",
+      "translations": {
+        "en": "ಆಹುಟ",
+        "hi": "ಆಹುಟ"
+      },
+      "transliterations": {
+        "devanagari": "आहुट",
+        "latin": "āhuṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ahuta-def",
+      "section": "vocab",
+      "text": "ಉಪಟಳ, ಉಪದ್ರವತೆ, ತೊಂದರೆ",
+      "translations": {
+        "en": "nuisance, trouble"
+      },
+      "transliterations": {
+        "devanagari": "उपटळ, उपद्रवतॆ, तॊंदरॆ",
+        "latin": "upaṭaḻa, upadravatè, tòṃdarè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-liberty",
+      "section": "vocab",
+      "text": "ಲಿಬರ್ಟಿ",
+      "translations": {
+        "en": "ಲಿಬರ್ಟಿ",
+        "hi": "ಲಿಬರ್ಟಿ"
+      },
+      "transliterations": {
+        "devanagari": "लिबर्टि",
+        "latin": "libarṭi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-liberty-def",
+      "section": "vocab",
+      "text": "ಸ್ವಾತಂತ್ರ್ಯ (ಅಮೆರಿಕದ ‘ಸ್ಟಾಚ್ಯೂ ಆಫ್ ಲಿಬರ್ಟಿ’ ಪ್ರತಿಮೆ ಪ್ರಸಿದ್ಧ)",
+      "translations": {
+        "en": "freedom (America’s Statue of Liberty is famous)",
+        "hi": "स्वतंत्रता"
+      },
+      "transliterations": {
+        "devanagari": "स्वातंत्र्य (अमॆरिकद ‘स्टाच्यू आफ् लिबर्टि’ प्रतिमॆ प्रसिद्ध)",
+        "latin": "svātaṃtrya (amèrikada ‘sṭācyū āph libarṭi’ pratimè prasiddha)"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pacche",
+      "section": "vocab",
+      "text": "ಪಚ್ಚೆ",
+      "translations": {
+        "en": "ಪಚ್ಚೆ",
+        "hi": "ಪಚ್ಚೆ"
+      },
+      "transliterations": {
+        "devanagari": "पच्चॆ",
+        "latin": "paccè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pacche-def",
+      "section": "vocab",
+      "text": "ಹಸಿರು",
+      "translations": {
+        "en": "green"
+      },
+      "transliterations": {
+        "devanagari": "हसिरु",
+        "latin": "hasiru"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-badde",
+      "section": "vocab",
+      "text": "ಬಡ್ಡೆ",
+      "translations": {
+        "en": "ಬಡ್ಡೆ",
+        "hi": "ಬಡ್ಡೆ"
+      },
+      "transliterations": {
+        "devanagari": "बड्डॆ",
+        "latin": "baḍḍè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-badde-def",
+      "section": "vocab",
+      "text": "ಬಂಡ, ಬೇರು, ಬದಿ",
+      "translations": {
+        "en": "bank, root, side"
+      },
+      "transliterations": {
+        "devanagari": "बंड, बेरु, बदि",
+        "latin": "baṃḍa, beru, badi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪ ಯಾವ ಸಾಗರದಲ್ಲಿದೆ?",
+      "translations": {
+        "en": "In which ocean is Hilton Head island?",
+        "hi": "हिल्टन हेड द्वीप किस महासागर में है?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड् द्वीप याव सागरदल्लिदॆ?",
+        "latin": "hilṭan hèḍ dvīpa yāva sāgaradallidè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಅಮೆರಿಕದಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ಮೂಲನಿವಾಸಿಗಳನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?",
+      "translations": {
+        "en": "What are the original inhabitants who lived in America called?",
+        "hi": "अमेरिका में रहने वाले मूल निवासियों को क्या कहते हैं?"
+      },
+      "transliterations": {
+        "devanagari": "अमॆरिकदल्लि वासवागिद्द मूलनिवासिगळन्नु एनॆन्नुत्तारॆ?",
+        "latin": "amèrikadalli vāsavāgidda mūlanivāsigaḻannu enènnuttārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಬಂದಿಳಿಯುವ ಶ್ರೀಮಂತರ ಉಡುಗೆ ತೊಡುಗೆ ಹೇಗಿತ್ತು?",
+      "translations": {
+        "en": "How was the dress of the rich who landed at Hilton Head?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड्नल्लि बंदिळियुव श्रीमंतर उडुगॆ तॊडुगॆ हेगित्तु?",
+        "latin": "hilṭan hèḍnalli baṃdiḻiyuva śrīmaṃtara uḍugè tòḍugè hegittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪದಲ್ಲಿ ಏನೇನು ಕ್ರೀಡೆಗಳನ್ನು ಆಯೋಜಿಸಲಾಗುತ್ತಿತ್ತು?",
+      "translations": {
+        "en": "What sports were organized on Hilton Head island?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड् द्वीपदल्लि एनेनु क्रीडॆगळन्नु आयोजिसलागुत्तित्तु?",
+        "latin": "hilṭan hèḍ dvīpadalli enenu krīḍègaḻannu āyojisalāguttittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಕಡಲತಡಿಯ ಲೈಟ್ಹೌಸನ್ನೇರಿದರೆ ಯಾವ ಚಿತ್ರಣವು ಕಾಣಸಿಗುತ್ತದೆ?",
+      "translations": {
+        "en": "What picture is seen if one climbs the shore lighthouse?"
+      },
+      "transliterations": {
+        "devanagari": "कडलतडिय लैट्हौसन्नेरिदरॆ याव चित्रणवु काणसिगुत्तदॆ?",
+        "latin": "kaḍalataḍiya laiṭhausanneridarè yāva citraṇavu kāṇasiguttadè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "section": "exercise-A",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿರುವ ಸ್ಮಾರಕ ಯಾವುದು?",
+      "translations": {
+        "en": "What is the memorial at Hilton Head?",
+        "hi": "हिल्टन हेड में स्मारक क्या है?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड्नल्लिरुव स्मारक यावुदु?",
+        "latin": "hilṭan hèḍnalliruva smāraka yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಯುರೋಪಿಯನ್ನರು ಬಂದ ಮೇಲೆ ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಏನೇನು ಬದಲಾವಣೆಗಳಾದವು?",
+      "translations": {
+        "en": "What changes happened at Hilton Head after Europeans came?",
+        "hi": "यूरोपीय आने के बाद हिल्टन हेड में क्या परिवर्तन हुए?"
+      },
+      "transliterations": {
+        "devanagari": "युरोपियन्नरु बंद मेलॆ हिल्टन् हॆड्नल्लि एनेनु बदलावणॆगळादवु?",
+        "latin": "yuropiyannaru baṃda melè hilṭan hèḍnalli enenu badalāvaṇègaḻādavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ ಮೊದಲು ಹೇಗಿತ್ತು?",
+      "translations": {
+        "en": "How was Hilton Head earlier?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड् मॊदलु हेगित्तु?",
+        "latin": "hilṭan hèḍ mòdalu hegittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ನ ಸ್ಮಾರಕ ಮರದ ಬಗ್ಗೆ ವಿವರಿಸಿ.",
+      "translations": {
+        "en": "Describe the memorial tree at Hilton Head."
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड्न स्मारक मरद बग्गॆ विवरिसि.",
+        "latin": "hilṭan hèḍna smāraka marada baggè vivarisi."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪದಲ್ಲಿ ಏನೇನು ಕಟ್ಟಡಗಳು ನಿರ್ಮಾಣಗೊಂಡವು?",
+      "translations": {
+        "en": "What buildings were constructed on Hilton Head island?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड् द्वीपदल्लि एनेनु कट्टडगळु निर्माणगॊंडवु?",
+        "latin": "hilṭan hèḍ dvīpadalli enenu kaṭṭaḍagaḻu nirmāṇagòṃḍavu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "section": "exercise-B",
+      "text": "ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಪರಿಸರ ಹೋರಾಟ ಹೇಗೆ ಪ್ರಾರಂಭವಾಯಿತು?",
+      "translations": {
+        "en": "How did the environmental struggle begin at Hilton Head?",
+        "hi": "हिल्टन हेड में पर्यावरण संघर्ष कैसे शुरू हुआ?"
+      },
+      "transliterations": {
+        "devanagari": "हिल्टन् हॆड्नल्लि परिसर होराट हेगॆ प्रारंभवायितु?",
+        "latin": "hilṭan hèḍnalli parisara horāṭa hegè prāraṃbhavāyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಯುರೋಪಿಯನ್ನರ ಆಗಮನವಾದ ಮೇಲೆ ಅಮೆರಿಂಡಿಯನ್ನರ ಸಮುದಾಯವು ________ ಆಯಿತು. (ಅಭಿವೃದ್ಧಿ, ಶಿಕ್ಷಿತ, ಧೂಳೀಪಟ)",
+      "translations": {
+        "en": "After Europeans arrived the Amerindian community became ________. (development, educated, wiped out)",
+        "hi": "यूरोपीय आगमन के बाद अमेरिंडियन समुदाय ________ हो गया।"
+      },
+      "transliterations": {
+        "devanagari": "युरोपियन्नर आगमनवाद मेलॆ अमॆरिंडियन्नर समुदायवु ________ आयितु. (अभिवृद्धि, शिक्षित, धूळीपट)",
+        "latin": "yuropiyannara āgamanavāda melè amèriṃḍiyannara samudāyavu ________ āyitu. (abhivṛddhi, śikṣita, dhūḻīpaṭa)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರವು ಅಮೆರಿಕದ ______ ಭಾಗದಲ್ಲಿದೆ. (ಪೂರ್ವ, ಉತ್ತರ, ಪಶ್ಚಿಮ)",
+      "translations": {
+        "en": "The Atlantic Ocean is on America’s ______ side. (east, north, west)"
+      },
+      "transliterations": {
+        "devanagari": "अट्लांटिक् सागरवु अमॆरिकद ______ भागदल्लिदॆ. (पूर्व, उत्तर, पश्चिम)",
+        "latin": "aṭlāṃṭik sāgaravu amèrikada ______ bhāgadallidè. (pūrva, uttara, paścima)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "ವಿಧಿಯಿಲ್ಲದೆ ಕೊನೆಗೆ _____ ಮೊರೆ ಹೋಗಬೇಕಾಯಿತು. (ಧನಿಕರ, ಅಮೆರಿಕಾಧ್ಯಕ್ಷರ, ನ್ಯಾಯಾಲಯದ)",
+      "translations": {
+        "en": "Without choice at last they had to appeal to _____. (the rich, America’s president, the court)"
+      },
+      "transliterations": {
+        "devanagari": "विधियिल्लदॆ कॊनॆगॆ _____ मॊरॆ होगबेकायितु. (धनिकर, अमॆरिकाध्यक्षर, न्यायालयद)",
+        "latin": "vidhiyilladè kònègè _____ mòrè hogabekāyitu. (dhanikara, amèrikādhyakṣara, nyāyālayada)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "section": "exercise-C",
+      "text": "ಕಟ್ಟಡಗಳಿಗೆ ತೋರುತ್ತಿದ್ದ ________ ಶ್ರದ್ಧೆಯನ್ನೇ ಜನ ಪರಿಸರಕ್ಕೂ ನೀಡತೊಡಗಿದರು. (ಪಾರಂಪರಿಕ, ಅಭಿಯಂತರ, ರಾಜಕೀಯ)",
+      "translations": {
+        "en": "People began giving the ________ devotion shown to buildings also to the environment. (traditional, engineering, political)"
+      },
+      "transliterations": {
+        "devanagari": "कट्टडगळिगॆ तोरुत्तिद्द ________ श्रद्धॆयन्ने जन परिसरक्कू नीडतॊडगिदरु. (पारंपरिक, अभियंतर, राजकीय)",
+        "latin": "kaṭṭaḍagaḻigè toruttidda ________ śraddhèyanne jana parisarakkū nīḍatòḍagidaru. (pāraṃparika, abhiyaṃtara, rājakīya)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "section": "exercise-C",
+      "text": "ದ್ವೀಪದ ಸೌಂದರ್ಯವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಲು ಮೊದಲು ಎಲ್ಲರೂ ಸೇರಿ __________ ನಡೆಸಿದರು. (ಮಂತ್ರಾಲೋಚನೆ, ಜಾಥಾ, ಪ್ರತಿಭಟನೆ)",
+      "translations": {
+        "en": "To increase the island’s beauty first everyone together conducted __________. (consultation, procession, protest)"
+      },
+      "transliterations": {
+        "devanagari": "द्वीपद सौंदर्यवन्नु हॆच्चिसिकॊळ्ळलु मॊदलु ऎल्लरू सेरि __________ नडॆसिदरु. (मंत्रालोचनॆ, जाथा, प्रतिभटनॆ)",
+        "latin": "dvīpada sauṃdaryavannu hèccisikòḻḻalu mòdalu èllarū seri __________ naḍèsidaru. (maṃtrālocanè, jāthā, pratibhaṭanè)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q6",
+      "section": "exercise-C",
+      "text": "ಹೋರಾಟ ಮುಂದುವರಿದ ಬಳಿಕ ಹಿಲ್ಟನ್ ಹೆಡ್ _________ ಕಂಗೊಳಿಸತೊಡಗಿತು. (ರಾಜಧಾನಿಯಂತೆ, ನಂದನವನದಂತೆ, ಅಭಯಾರಣ್ಯದಂತೆ)",
+      "translations": {
+        "en": "After the struggle continued Hilton Head began to shine like _________. (a capital, a garden of paradise, a sanctuary)",
+        "hi": "संघर्ष आगे बढ़ने के बाद हिल्टन हेड _________ चमकने लगा।"
+      },
+      "transliterations": {
+        "devanagari": "होराट मुंदुवरिद बळिक हिल्टन् हॆड् _________ कंगॊळिसतॊडगितु. (राजधानियंतॆ, नंदनवनदंतॆ, अभयारण्यदंतॆ)",
+        "latin": "horāṭa muṃduvarida baḻika hilṭan hèḍ _________ kaṃgòḻisatòḍagitu. (rājadhāniyaṃtè, naṃdanavanadaṃtè, abhayāraṇyadaṃtè)"
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

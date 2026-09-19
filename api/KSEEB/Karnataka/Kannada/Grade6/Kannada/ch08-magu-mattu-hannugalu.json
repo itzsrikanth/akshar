@@ -1,0 +1,1036 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the poet",
+      "hi": "कवि-कृति परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. कॆळगिन प्रश्नॆगळिगॆ उत्तरिसि.",
+      "en": "A. Answer the following questions.",
+      "hi": "अ. प्रश्नों के उत्तर दीजिए।",
+      "kn": "ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.",
+      "latin": "a. kèḻagina praśnègaḻigè uttarisi."
+    },
+    "exercise-B": {
+      "devanagari": "आ. बिट्टस्थळ तुंबिरि.",
+      "en": "B. Fill in the blanks.",
+      "hi": "आ. रिक्त स्थान भरिए।",
+      "kn": "ಆ. ಬಿಟ್ಟಸ್ಥಳ ತುಂಬಿರಿ.",
+      "latin": "ā. biṭṭasthaḻa tuṃbiri."
+    },
+    "exercise-C": {
+      "devanagari": "इ. ई पदगळन्नु बिडिसि बरॆयिरि.",
+      "en": "C. Split these words and write them.",
+      "hi": "इ. शब्द अलग करके लिखिए।",
+      "kn": "ಇ. ಈ ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಬರೆಯಿರಿ.",
+      "latin": "i. ī padagaḻannu biḍisi barèyiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. कॆळगिन पद्यभागवन्नु पूर्णगॊळिसि.",
+      "en": "D. Complete the following poem passage.",
+      "hi": "ई. पद्य भाग पूरा कीजिए।",
+      "kn": "ಈ. ಕೆಳಗಿನ ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.",
+      "latin": "ī. kèḻagina padyabhāgavannu pūrṇagòḻisi."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಎಚ್. ಎಸ್. ಶಿವಪ್ರಕಾಶ್",
+    "board": "KSEEB",
+    "chapter": 8,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch08-magu-mattu-hannugalu",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಮಗು ಮತ್ತು ಹಣ್ಣುಗಳು"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಮಾನವನಿಗೆ ಪ್ರಕೃತಿಯೇ ಮೊದಲ ಗುರು. ಎಲ್ಲರಿಂದಲೂ ಎಲ್ಲದರಿಂದಲೂ ಮಾನವ ಪಾಠ ಕಲಿಯಬೇಕು. ಪ್ರಾಣಿ, ಪಕ್ಷಿ, ಮರ-ಗಿಡಗಳಿಂದಲೂ ಕಲಿಯುವ ವಿಷಯಗಳು ಬಹಳಷ್ಟಿವೆ. ‘ಎಲ್ಲರೊಳಗೊಂದು ನುಡಿ ಕಲಿತು ವಿದ್ಯೆಯ ಪರ್ವತವೇ ಆದ ಸರ್ವಜ್ಞ’ ಎನ್ನುವ ಹಾಗೆ ಹಣ್ಣುಗಳಿಂದಲೂ ಕಲಿಯಬೇಕಾದ ಪಾಠಗಳಿವೆ. ಹಣ್ಣಿನ ಹಾಗೆ ಬದುಕು ಮಾಗಿದರೆ ಬಾಳು ಸಿಹಿಯಾಗಿರುತ್ತದೆ ಎಂಬ ಆಶಯದ ಪದ್ಯವಿದು.",
+      "translations": {
+        "en": "Nature is humanity’s first teacher. One must learn from everyone and everything. There is much to learn even from animals, birds and trees. As the saying about Sarvajna who learned a word from everyone and became a mountain of learning goes, there are lessons to learn from fruits too. This poem holds the hope that if life ripens like fruit, living becomes sweet.",
+        "hi": "मनुष्य का पहला गुरु प्रकृति है। सबसे और सब कुछ से सीखना चाहिए। पशु-पक्षी, पेड़-पौधों से भी बहुत कुछ है। ‘सबमें एक बात सीख पर्वत विद्या वाले सर्वज्ञ’ की तरह फलों से भी पाठ हैं। फल की तरह जीवन पक जाए तो जीवन मीठा—यह आशय का पद्य है।"
+      },
+      "transliterations": {
+        "devanagari": "मानवनिगॆ प्रकृतिये मॊदल गुरु. ऎल्लरिंदलू ऎल्लदरिंदलू मानव पाठ कलियबेकु. प्राणि, पक्षि, मर-गिडगळिंदलू कलियुव विषयगळु बहळष्टिवॆ. ‘ऎल्लरॊळगॊंदु नुडि कलितु विद्यॆय पर्वतवे आद सर्वज्ञ’ ऎन्नुव हागॆ हण्णुगळिंदलू कलियबेकाद पाठगळिवॆ. हण्णिन हागॆ बदुकु मागिदरॆ बाळु सिहियागिरुत्तदॆ ऎंब आशयद पद्यविदु.",
+        "latin": "mānavanigè prakṛtiye mòdala guru. èllariṃdalū èlladariṃdalū mānava pāṭha kaliyabeku. prāṇi, pakṣi, mara-giḍagaḻiṃdalū kaliyuva viṣayagaḻu bahaḻaṣṭivè. ‘èllaròḻagòṃdu nuḍi kalitu vidyèya parvatave āda sarvajña’ ènnuva hāgè haṇṇugaḻiṃdalū kaliyabekāda pāṭhagaḻivè. haṇṇina hāgè baduku māgidarè bāḻu sihiyāgiruttadè èṃba āśayada padyavidu."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಹಣ್ಣಿನಂಗಡಿ ಮುಂದೆ ಕಣ್ಣರಳಿಸುವ ಮಗು",
+      "translations": {
+        "en": "A child with wide eyes before the fruit shop",
+        "hi": "फल की दुकान के आगे आँखें फाड़े बच्चा"
+      },
+      "transliterations": {
+        "devanagari": "हण्णिनंगडि मुंदॆ कण्णरळिसुव मगु",
+        "latin": "haṇṇinaṃgaḍi muṃdè kaṇṇaraḻisuva magu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಇಲ್ಲಿ ಈ ತಿರುವಲ್ಲಿ ಥಟ್ಟನವತರಿಸಿದ ಕಪ್ಪು ಲಾರಿಯ ಹಾಗೆ",
+      "translations": {
+        "en": "like a black lorry that suddenly landed at this turn",
+        "hi": "इस मोड़ पर अचानक उतरी काली लॉरी की तरह"
+      },
+      "transliterations": {
+        "devanagari": "इल्लि ई तिरुवल्लि थट्टनवतरिसिद कप्पु लारिय हागॆ",
+        "latin": "illi ī tiruvalli thaṭṭanavatarisida kappu lāriya hāgè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಗಾಳಿ ಕೀಟಲೆ ಉಗುರೊ",
+      "translations": {
+        "en": "Is it the teasing nail of the wind",
+        "hi": "क्या हवा का छेड़ने वाला नाखून"
+      },
+      "transliterations": {
+        "devanagari": "गाळि कीटलॆ उगुरॊ",
+        "latin": "gāḻi kīṭalè ugurò"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ತುಂಟರೆಸೆಯುವ ಕಲ್ಲೋ",
+      "translations": {
+        "en": "or a stone thrown by mischief-makers",
+        "hi": "या शैतानियों का फेंका पत्थर"
+      },
+      "transliterations": {
+        "devanagari": "तुंटरॆसॆयुव कल्लो",
+        "latin": "tuṃṭarèsèyuva kallo"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಕಾಯಿಯಲ್ಲೇ ನಿನ್ನ ಕೆಡವದಿರಲಿ",
+      "translations": {
+        "en": "May you not be felled while still unripe",
+        "hi": "कच्चे में ही न गिराया जाए"
+      },
+      "transliterations": {
+        "devanagari": "कायियल्ले निन्न कॆडवदिरलि",
+        "latin": "kāyiyalle ninna kèḍavadirali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಹಣ್ಣಿನಂಗಡಿಯಾಗು ನೀನೂನು",
+      "translations": {
+        "en": "Become a fruit shop yourself",
+        "hi": "तुम भी फल की दुकान बनो"
+      },
+      "transliterations": {
+        "devanagari": "हण्णिनंगडियागु नीनूनु",
+        "latin": "haṇṇinaṃgaḍiyāgu nīnūnu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಗಿರವಿಯಂಗಡಿ ಗುಜರಿಗಳ ಧೂಳು ಹಬ್ಬಿದ",
+      "translations": {
+        "en": "Pawnshop dust of the thrift-market risen",
+        "hi": "गिरवी दुकान गुजरी की धूल उड़ी"
+      },
+      "transliterations": {
+        "devanagari": "गिरवियंगडि गुजरिगळ धूळु हब्बिद",
+        "latin": "giraviyaṃgaḍi gujarigaḻa dhūḻu habbida"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಊರ ಮಾರುಕಟ್ಟೆಯ ನಡುವೆ",
+      "translations": {
+        "en": "in the middle of the town market",
+        "hi": "गाँव के बाज़ार के बीच"
+      },
+      "transliterations": {
+        "devanagari": "ऊर मारुकट्टॆय नडुवॆ",
+        "latin": "ūra mārukaṭṭèya naḍuvè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹಣ್ಣಾಗಬೇಕು ಮಗು",
+      "translations": {
+        "en": "A child must become fruit",
+        "hi": "बच्चे को फल बनना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "हण्णागबेकु मगु",
+        "latin": "haṇṇāgabeku magu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಮೈಯೆಲ್ಲ ಮಾಗಿಹುಣ್ಣಿನ ಸುಕ್ಕು ಬರುವವರೆಗೆ",
+      "translations": {
+        "en": "until the wrinkles of a ripe fruit cover the body",
+        "hi": "जब तक पके फल की सिलवटें तन पर न आएँ"
+      },
+      "transliterations": {
+        "devanagari": "मैयॆल्ल मागिहुण्णिन सुक्कु बरुववरॆगॆ",
+        "latin": "maiyèlla māgihuṇṇina sukku baruvavarègè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಪಕ್ವತನ ಬಿರಿದ ಬಾಳೆಹಣ್ಣಿದೆಯಲ್ಲ",
+      "translations": {
+        "en": "There is a banana split with ripeness",
+        "hi": "पकाव से फटा केला है न"
+      },
+      "transliterations": {
+        "devanagari": "पक्वतन बिरिद बाळॆहण्णिदॆयल्ल",
+        "latin": "pakvatana birida bāḻèhaṇṇidèyalla"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಅದರ ಹಾಗೇ ಕೊಂಚ ಬಾಗಬೇಕು",
+      "translations": {
+        "en": "like that you must bend a little",
+        "hi": "वैसे ही थोड़ा झुकना चाहिए"
+      },
+      "transliterations": {
+        "devanagari": "अदर हागे कॊंच बागबेकु",
+        "latin": "adara hāge kòṃca bāgabeku"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕೊಬ್ಬಿದರೆ ಚಕೋತನೆಯ ಹಾಗೆ",
+      "translations": {
+        "en": "If you grow fat like a pomelo",
+        "hi": "चकोतरा की तरह मोटे हो तो"
+      },
+      "transliterations": {
+        "devanagari": "कॊब्बिदरॆ चकोतनॆय हागॆ",
+        "latin": "kòbbidarè cakotanèya hāgè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕುಗ್ಗಿದರೆ ನಿಂಬೆ ಹಣ್ಣಿನ ಹಾಗೆ",
+      "translations": {
+        "en": "if you shrink like a lemon",
+        "hi": "नींबू की तरह सिकुड़ें तो"
+      },
+      "transliterations": {
+        "devanagari": "कुग्गिदरॆ निंबॆ हण्णिन हागॆ",
+        "latin": "kuggidarè niṃbè haṇṇina hāgè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಹುಳಿಗಟ್ಟುವುದು ನಿನ್ನೊಳಗೆ",
+      "translations": {
+        "en": "sourness settles inside you",
+        "hi": "अंदर खट्टापन बैठ जाता"
+      },
+      "transliterations": {
+        "devanagari": "हुळिगट्टुवुदु निन्नॊळगॆ",
+        "latin": "huḻigaṭṭuvudu ninnòḻagè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಸರಿಗಾತ್ರವಾಗಿ ಸಮನಿಸಲಿ ನಿನ್ನತನ",
+      "translations": {
+        "en": "may your selfhood level to the right measure",
+        "hi": "तुम्हारा स्वभाव सम माप में हो"
+      },
+      "transliterations": {
+        "devanagari": "सरिगात्रवागि समनिसलि निन्नतन",
+        "latin": "sarigātravāgi samanisali ninnatana"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕಿತ್ತಲೆಯ ಹಾಗೆ, ಮೋಸಂಬಿ ಹಾಗೆ",
+      "translations": {
+        "en": "Like orange, like mosambi",
+        "hi": "संतरे की तरह, मौसंबी की तरह"
+      },
+      "transliterations": {
+        "devanagari": "कित्तलॆय हागॆ, मोसंबि हागॆ",
+        "latin": "kittalèya hāgè, mosaṃbi hāgè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ರಸಪೂರಿ ಮಾವಿನ ಹಣ್ಣಿನಂತೆ",
+      "translations": {
+        "en": "like a juicy mango",
+        "hi": "रसभरे आम की तरह"
+      },
+      "transliterations": {
+        "devanagari": "रसपूरि माविन हण्णिनंतॆ",
+        "latin": "rasapūri māvina haṇṇinaṃtè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಅಂಜೂರದಂತೆ ಅಪರೂಪವಾಗು ಜನರ ಕಣ್ಣಿಗೆ;",
+      "translations": {
+        "en": "become rare like a fig to people’s eyes;",
+        "hi": "अंजीर की तरह दुर्लभ बनो;"
+      },
+      "transliterations": {
+        "devanagari": "अंजूरदंतॆ अपरूपवागु जनर कण्णिगॆ;",
+        "latin": "aṃjūradaṃtè aparūpavāgu janara kaṇṇigè;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕಂಡರೆ ಕಾಣು ಕಲ್ಲಂಗಡಿಯಾಗಿ",
+      "translations": {
+        "en": "when seen, appear as watermelon",
+        "hi": "दिखो तो तरबूज बनकर दिखो"
+      },
+      "transliterations": {
+        "devanagari": "कंडरॆ काणु कल्लंगडियागि",
+        "latin": "kaṃḍarè kāṇu kallaṃgaḍiyāgi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಬೇಸಿಗೆಯ ಕಮರಿರುವ ಕಣ್ಣುಗಳಿಗೆ",
+      "translations": {
+        "en": "For eyes scorched by summer",
+        "hi": "गर्मी से झुलसी आँखों के लिए"
+      },
+      "transliterations": {
+        "devanagari": "बेसिगॆय कमरिरुव कण्णुगळिगॆ",
+        "latin": "besigèya kamariruva kaṇṇugaḻigè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ದಳದಳಕೊಯ್ದು ಅರಳಿಸಿದ ದಾಳಿಂಬೆಯೊಳಗೆ",
+      "translations": {
+        "en": "inside a pomegranate burst open petal by petal",
+        "hi": "दल-दल खोलकर खिलाया अनार"
+      },
+      "transliterations": {
+        "devanagari": "दळदळकॊय्दु अरळिसिद दाळिंबॆयॊळगॆ",
+        "latin": "daḻadaḻakòydu araḻisida dāḻiṃbèyòḻagè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಥಳಥಳ ಕೆಂಡ ಬಣ್ಣ ಮಣಿಮಣಿ",
+      "translations": {
+        "en": "glittering ember-coloured beads",
+        "hi": "धधकते अंगारे रंग के मनके"
+      },
+      "transliterations": {
+        "devanagari": "थळथळ कॆंड बण्ण मणिमणि",
+        "latin": "thaḻathaḻa kèṃḍa baṇṇa maṇimaṇi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಹನಿಹನಿ ತನಿರಸದ ಖನಿಯಾಗು;",
+      "translations": {
+        "en": "become a mine of pure juice drop by drop;",
+        "hi": "बूँद-बूँद शुद्ध रस की खान बनो;"
+      },
+      "transliterations": {
+        "devanagari": "हनिहनि तनिरसद खनियागु;",
+        "latin": "hanihani tanirasada khaniyāgu;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l1",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಹಬ್ಬಿಕೋ ದ್ರಾಕ್ಷಿ ಬಳ್ಳಿಯ ಹಾಗೆ",
+      "translations": {
+        "en": "Spread like a grapevine",
+        "hi": "अंगूर की बेल की तरह फैल"
+      },
+      "transliterations": {
+        "devanagari": "हब्बिको द्राक्षि बळ्ळिय हागॆ",
+        "latin": "habbiko drākṣi baḻḻiya hāgè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l2",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಆಯುಷ್ಯೆ ಚಪ್ಪರದ ಉದ್ದಗಲ;",
+      "translations": {
+        "en": "the length and breadth of life’s canopy;",
+        "hi": "आयुष्य की छतरी की लंबाई-चौड़ाई;"
+      },
+      "transliterations": {
+        "devanagari": "आयुष्यॆ चप्परद उद्दगल;",
+        "latin": "āyuṣyè capparada uddagala;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l3",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ತಬ್ಬಿಕೋ ಬಿಡಬೇಡ;",
+      "translations": {
+        "en": "Hold on; don’t let go;",
+        "hi": "पकड़ो; मत छोड़ो;"
+      },
+      "transliterations": {
+        "devanagari": "तब्बिको बिडबेड;",
+        "latin": "tabbiko biḍabeḍa;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l4",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಹಣ್ಣು ತೊಡಿಸಲು ನಿನಗೆ",
+      "translations": {
+        "en": "for fruits to be hung on you",
+        "hi": "तुम पर फल लगाने को"
+      },
+      "transliterations": {
+        "devanagari": "हण्णु तॊडिसलु निनगॆ",
+        "latin": "haṇṇu tòḍisalu ninagè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l1",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ತಾನೆ ಮಣ್ಣಾಗುತ-ಬರಲು ತೋಟಗಾತಿ",
+      "translations": {
+        "en": "When the gardener comes as you turn to earth yourself",
+        "hi": "स्वयं मिट्टी होते समय माली आए"
+      },
+      "transliterations": {
+        "devanagari": "तानॆ मण्णागुत-बरलु तोटगाति",
+        "latin": "tānè maṇṇāguta-baralu toṭagāti"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l2",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಬೆಲೆಯ ರಾಕೆಟ್ಟು ಯಾನ ಹೊರಡದಿರು",
+      "translations": {
+        "en": "don’t set out on a costly rocket journey",
+        "hi": "मँहगी रॉकेट यात्रा पर मत निकल"
+      },
+      "transliterations": {
+        "devanagari": "बॆलॆय राकॆट्टु यान हॊरडदिरु",
+        "latin": "bèlèya rākèṭṭu yāna hòraḍadiru"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l3",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಸೇಬು ಹಣ್ಣಿನ ಜೊತೆಗೆ",
+      "translations": {
+        "en": "Along with the apple",
+        "hi": "सेब के साथ"
+      },
+      "transliterations": {
+        "devanagari": "सेबु हण्णिन जॊतॆगॆ",
+        "latin": "sebu haṇṇina jòtègè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l4",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಎಲ್ಲರಿಗೂ ದಕ್ಕುವ ಎಲಚಿಯಾಗು",
+      "translations": {
+        "en": "become a berry that reaches everyone",
+        "hi": "सबको मिलने वाली बेर बनो"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लरिगू दक्कुव ऎलचियागु",
+        "latin": "èllarigū dakkuva èlaciyāgu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಶ್ರೀ ಎಚ್. ಎಸ್. ಶಿವಪ್ರಕಾಶ್ ಅವರು 1954ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಇಂಗ್ಲಿಷ್ ಪ್ರಾಧ್ಯಾಪಕರಾಗಿ ಸೇವೆಯನ್ನು ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಇವರು ಮಹಾಚೈತ್ರ, ಸುಲ್ತಾನ್ ಟಿಪ್ಪು, ನವಿಲು ನಗರ, ಮಳೆಬಿದ್ದ ನೆಲದಲ್ಲಿ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರಿಗೆ ಕರ್ನಾಟಕ ನಾಟಕ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕೇಂದ್ರ ಸಂಗೀತ ನಾಟಕ ಅಕಾಡೆಮಿ ಮತ್ತು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.",
+      "translations": {
+        "en": "Sri H.S. Shivaprakash was born in Bengaluru in 1954. He served as a professor of English. He has written works such as Mahachaitra, Sultan Tipu, Navilu Nagara and Male Bidda Neladalli. He has been honoured with Karnataka Nataka Academy, Sangeet Natak Akademi and Sahitya Akademi awards.",
+        "hi": "श्री एच.एस. शिवप्रकाश का जन्म 1954 में बेंगलूर में हुआ। अंग्रेज़ी प्राध्यापक रहे। महाचैत्र, सुल्तान टिपू, नविलु नगर, मळे बिद्द नेलदल्लि आदि कृतियाँ लिखीं। कर्नाटक नाटक अकादमी, संगीत नाटक अकादमी और साहित्य अकादमी पुरस्कार से सम्मानित।"
+      },
+      "transliterations": {
+        "devanagari": "श्री ऎच्. ऎस्. शिवप्रकाश् अवरु 1954रल्लि बॆंगळूरिनल्लि जनिसिदरु. इंग्लिष् प्राध्यापकरागि सेवॆयन्नु सल्लिसिद्दारॆ. इवरु महाचैत्र, सुल्तान् टिप्पु, नविलु नगर, मळॆबिद्द नॆलदल्लि मॊदलाद कृतिगळन्नु रचिसिद्दारॆ. इवरिगॆ कर्नाटक नाटक अकाडॆमि प्रशस्ति, केंद्र संगीत नाटक अकाडॆमि मत्तु केंद्र साहित्य अकाडॆमि प्रशस्तिगळन्नु नीडि गौरविसलागिदॆ.",
+        "latin": "śrī èc. ès. śivaprakāś avaru 1954ralli bèṃgaḻūrinalli janisidaru. iṃgliṣ prādhyāpakarāgi sevèyannu sallisiddārè. ivaru mahācaitra, sultān ṭippu, navilu nagara, maḻèbidda nèladalli mòdalāda kṛtigaḻannu racisiddārè. ivarigè karnāṭaka nāṭaka akāḍèmi praśasti, keṃdra saṃgīta nāṭaka akāḍèmi mattu keṃdra sāhitya akāḍèmi praśastigaḻannu nīḍi gauravisalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-giraviyangadi",
+      "section": "vocab",
+      "text": "ಗಿರವಿಯಂಗಡಿ",
+      "translations": {
+        "en": "pawn shop",
+        "hi": "गिरवी की दुकान"
+      },
+      "transliterations": {
+        "devanagari": "गिरवियंगडि",
+        "latin": "giraviyaṃgaḍi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-giraviyangadi-def",
+      "section": "vocab",
+      "text": "ವಸ್ತುಗಳನ್ನು ಅಡವಿಟ್ಟುಕೊಂಡು ಹಣ ನೀಡುವ ಅಂಗಡಿ",
+      "translations": {
+        "en": "a shop that lends money against goods",
+        "hi": "वस्तु गिरवी रखकर पैसा देने वाली दुकान"
+      },
+      "transliterations": {
+        "devanagari": "वस्तुगळन्नु अडविट्टुकॊंडु हण नीडुव अंगडि",
+        "latin": "vastugaḻannu aḍaviṭṭukòṃḍu haṇa nīḍuva aṃgaḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-gujari",
+      "section": "vocab",
+      "text": "ಗುಜರಿ",
+      "translations": {
+        "en": "thrift market",
+        "hi": "गुजरी"
+      },
+      "transliterations": {
+        "devanagari": "गुजरि",
+        "latin": "gujari"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gujari-def",
+      "section": "vocab",
+      "text": "ಹಳೆಯ ವಸ್ತುಗಳನ್ನು ಮಾರುವ ಸ್ಥಳ",
+      "translations": {
+        "en": "a place selling old goods",
+        "hi": "पुरानी वस्तुएँ बेचने का स्थान"
+      },
+      "transliterations": {
+        "devanagari": "हळॆय वस्तुगळन्नु मारुव स्थळ",
+        "latin": "haḻèya vastugaḻannu māruva sthaḻa"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-pakvatana",
+      "section": "vocab",
+      "text": "ಪಕ್ವತನ",
+      "translations": {
+        "en": "ripeness",
+        "hi": "पकाव"
+      },
+      "transliterations": {
+        "devanagari": "पक्वतन",
+        "latin": "pakvatana"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pakvatana-def",
+      "section": "vocab",
+      "text": "ಮಾಗಿದ",
+      "translations": {
+        "en": "ripened",
+        "hi": "पका हुआ"
+      },
+      "transliterations": {
+        "devanagari": "मागिद",
+        "latin": "māgida"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kobbu",
+      "section": "vocab",
+      "text": "ಕೊಬ್ಬು",
+      "translations": {
+        "en": "to grow fat",
+        "hi": "मोटा होना"
+      },
+      "transliterations": {
+        "devanagari": "कॊब्बु",
+        "latin": "kòbbu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kobbu-def",
+      "section": "vocab",
+      "text": "ದಪ್ಪನಾಗು",
+      "translations": {
+        "en": "to become thick",
+        "hi": "मोटा होना"
+      },
+      "transliterations": {
+        "devanagari": "दप्पनागु",
+        "latin": "dappanāgu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kamaru",
+      "section": "vocab",
+      "text": "ಕಮರು",
+      "translations": {
+        "en": "scorch",
+        "hi": "झुलसना"
+      },
+      "transliterations": {
+        "devanagari": "कमरु",
+        "latin": "kamaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kamaru-def",
+      "section": "vocab",
+      "text": "ಕಂದು",
+      "translations": {
+        "en": "brown/scorched",
+        "hi": "भूरा/झुलसा"
+      },
+      "transliterations": {
+        "devanagari": "कंदु",
+        "latin": "kaṃdu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-khani",
+      "section": "vocab",
+      "text": "ಖನಿ",
+      "translations": {
+        "en": "mine",
+        "hi": "खान"
+      },
+      "transliterations": {
+        "devanagari": "खनि",
+        "latin": "khani"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-khani-def",
+      "section": "vocab",
+      "text": "ಗಣಿ, ಆಕರ",
+      "translations": {
+        "en": "mine, source",
+        "hi": "खान, स्रोत"
+      },
+      "transliterations": {
+        "devanagari": "गणि, आकर",
+        "latin": "gaṇi, ākara"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dakku",
+      "section": "vocab",
+      "text": "ದಕ್ಕು",
+      "translations": {
+        "en": "to obtain",
+        "hi": "मिलना"
+      },
+      "transliterations": {
+        "devanagari": "दक्कु",
+        "latin": "dakku"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dakku-def",
+      "section": "vocab",
+      "text": "ದೊರಕು",
+      "translations": {
+        "en": "to get",
+        "hi": "प्राप्त होना"
+      },
+      "transliterations": {
+        "devanagari": "दॊरकु",
+        "latin": "dòraku"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಕವಿಯ ಪ್ರಕಾರ ಮಗು ಏನಾಗಬೇಕು?",
+      "translations": {
+        "en": "According to the poet, what should a child become?",
+        "hi": "कवि के अनुसार बच्चा क्या बने?"
+      },
+      "transliterations": {
+        "devanagari": "कविय प्रकार मगु एनागबेकु?",
+        "latin": "kaviya prakāra magu enāgabeku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಮಗು ಯಾವ ಹಣ್ಣಿನ ಹಾಗೆ ಬಾಗಬೇಕು?",
+      "translations": {
+        "en": "Like which fruit should the child bend?",
+        "hi": "किस फल की तरह झुकना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "मगु याव हण्णिन हागॆ बागबेकु?",
+        "latin": "magu yāva haṇṇina hāgè bāgabeku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಯಾವ ಹಣ್ಣಿನಂತೆ ಕುಗ್ಗಬೇಕು ಎಂದು ಕವಿಗಳು ಹೇಳುತ್ತಾರೆ?",
+      "translations": {
+        "en": "Like which fruit should one shrink, say the poets?",
+        "hi": "किस फल की तरह सिकुड़ना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "याव हण्णिनंतॆ कुग्गबेकु ऎंदु कविगळु हेळुत्तारॆ?",
+        "latin": "yāva haṇṇinaṃtè kuggabeku èṃdu kavigaḻu heḻuttārè?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಅಪರೂಪವಾದ ಹಣ್ಣು ಯಾವುದು?",
+      "translations": {
+        "en": "Which fruit is rare?",
+        "hi": "कौन सा फल दुर्लभ है?"
+      },
+      "transliterations": {
+        "devanagari": "अपरूपवाद हण्णु यावुदु?",
+        "latin": "aparūpavāda haṇṇu yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "section": "exercise-A",
+      "text": "ಕಮರಿರುವ ಕಣ್ಣುಗಳಿಗೆ ಹೇಗೆ ಕಾಣಬೇಕು?",
+      "translations": {
+        "en": "How should one appear to scorched eyes?",
+        "hi": "झुलसी आँखों को कैसे दिखना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "कमरिरुव कण्णुगळिगॆ हेगॆ काणबेकु?",
+        "latin": "kamariruva kaṇṇugaḻigè hegè kāṇabeku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಥಳ ಥಳ ಕೆಂಡ ________ ಮಣಿ ಮಣಿ.",
+      "translations": {
+        "en": "glittering ember ________ bead by bead.",
+        "hi": "थळ थळ केंड ________ मणि मणि।"
+      },
+      "transliterations": {
+        "devanagari": "थळ थळ कॆंड ________ मणि मणि.",
+        "latin": "thaḻa thaḻa kèṃḍa ________ maṇi maṇi."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಹಬ್ಬಿಕೋ _________ ಬಳ್ಳಿಯ ಹಾಗೆ.",
+      "translations": {
+        "en": "Spread like a _________ vine.",
+        "hi": "_________ बेल की तरह फैल।"
+      },
+      "transliterations": {
+        "devanagari": "हब्बिको _________ बळ्ळिय हागॆ.",
+        "latin": "habbiko _________ baḻḻiya hāgè."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಎಲ್ಲರಿಗೂ __________ ಎಲಚಿಯಾಗು.",
+      "translations": {
+        "en": "Become a __________ berry for everyone.",
+        "hi": "सबके लिए __________ बेर बनो।"
+      },
+      "transliterations": {
+        "devanagari": "ऎल्लरिगू __________ ऎलचियागु.",
+        "latin": "èllarigū __________ èlaciyāgu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಬೆಲೆಯ ________ ಯಾನ ಹೊರಡದಿರು.",
+      "translations": {
+        "en": "Don’t set out on a costly ________ journey.",
+        "hi": "मँहगी ________ यात्रा पर मत निकल।"
+      },
+      "transliterations": {
+        "devanagari": "बॆलॆय ________ यान हॊरडदिरु.",
+        "latin": "bèlèya ________ yāna hòraḍadiru."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "section": "exercise-B",
+      "text": "ಸರಿಗಾತ್ರವಾಗಿ ಸಮನಿಸಲಿ ______",
+      "translations": {
+        "en": "May it level in right measure ______",
+        "hi": "सम माप में हो ______"
+      },
+      "transliterations": {
+        "devanagari": "सरिगात्रवागि समनिसलि ______",
+        "latin": "sarigātravāgi samanisali ______"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಹಣ್ಣಿನಂಗಡಿ",
+      "translations": {
+        "en": "fruit-shop",
+        "hi": "फल की दुकान"
+      },
+      "transliterations": {
+        "devanagari": "हण्णिनंगडि",
+        "latin": "haṇṇinaṃgaḍi"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಕಣ್ಣರಳಿಸು",
+      "translations": {
+        "en": "eyes widening",
+        "hi": "आँखें फैलना"
+      },
+      "transliterations": {
+        "devanagari": "कण्णरळिसु",
+        "latin": "kaṇṇaraḻisu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "section": "exercise-C",
+      "text": "ತುಂಟರೆಸೆಯುವ",
+      "translations": {
+        "en": "thrown by mischief-makers",
+        "hi": "शैतानियों का फेंकना"
+      },
+      "transliterations": {
+        "devanagari": "तुंटरॆसॆयुव",
+        "latin": "tuṃṭarèsèyuva"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "section": "exercise-C",
+      "text": "ಹುಳಿಗಟ್ಟುವುದು",
+      "translations": {
+        "en": "turning sour",
+        "hi": "खट्टा होना"
+      },
+      "transliterations": {
+        "devanagari": "हुळिगट्टुवुदु",
+        "latin": "huḻigaṭṭuvudu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "section": "exercise-C",
+      "text": "ನಿನ್ನೊಳಗೆ",
+      "translations": {
+        "en": "inside you",
+        "hi": "तुम्हारे अंदर"
+      },
+      "transliterations": {
+        "devanagari": "निन्नॊळगॆ",
+        "latin": "ninnòḻagè"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q6",
+      "section": "exercise-C",
+      "text": "ಅಪರೂಪವಾಗು",
+      "translations": {
+        "en": "become rare",
+        "hi": "दुर्लभ बनो"
+      },
+      "transliterations": {
+        "devanagari": "अपरूपवागु",
+        "latin": "aparūpavāgu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ಕೊಬ್ಬಿದರೆ __________________________ / _____________________________ನಿನ್ನತನ",
+      "translations": {
+        "en": "Complete: If you grow fat ________ / ________ your selfhood",
+        "hi": "पूरा करें: कोब्बिदरे ________ / ________ निन्नतन"
+      },
+      "transliterations": {
+        "devanagari": "कॊब्बिदरॆ __________________________ / _____________________________निन्नतन",
+        "latin": "kòbbidarè __________________________ / _____________________________ninnatana"
+      },
+      "type": "fill_blank"
+    }
+  ]
+}

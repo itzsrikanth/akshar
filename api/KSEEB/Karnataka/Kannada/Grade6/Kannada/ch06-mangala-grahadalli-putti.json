@@ -1,0 +1,1512 @@
+{
+  "labels": {
+    "author": {
+      "devanagari": "कवि कृति परिचय",
+      "en": "About the author",
+      "hi": "लेखक परिचय",
+      "kn": "ಕವಿ ಕೃತಿ ಪರಿಚಯ",
+      "latin": "kavi kṛti paricaya"
+    },
+    "exercise-A": {
+      "devanagari": "अ. बिट्ट स्थळवन्नु तुंबिरि.",
+      "en": "A. Exercises",
+      "hi": "अ. अभ्यास",
+      "kn": "ಅ. ಬಿಟ್ಟ ಸ್ಥಳವನ್ನು ತುಂಬಿರಿ.",
+      "latin": "a. biṭṭa sthaḻavannu tuṃbiri."
+    },
+    "exercise-B": {
+      "devanagari": "आ. कॆळगिन प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसिरि.",
+      "en": "B. Exercises",
+      "hi": "आ. अभ्यास",
+      "kn": "ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿರಿ.",
+      "latin": "ā. kèḻagina praśnègaḻigè òṃdu vākyadalli uttarisiri."
+    },
+    "exercise-C": {
+      "devanagari": "इ. पद्यभागवन्नु पूर्णगॊळिसिरि.",
+      "en": "C. Exercises",
+      "hi": "इ. अभ्यास",
+      "kn": "ಇ. ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಿ.",
+      "latin": "i. padyabhāgavannu pūrṇagòḻisiri."
+    },
+    "exercise-D": {
+      "devanagari": "ई. सि.ऎं.गोविंदरॆड्डियवर स्थळ, काल, कृतिगळ विवर तिळिसिरि.",
+      "en": "D. Exercises",
+      "hi": "ई. अभ्यास",
+      "kn": "ಈ. ಸಿ.ಎಂ.ಗೋವಿಂದರೆಡ್ಡಿಯವರ ಸ್ಥಳ, ಕಾಲ, ಕೃತಿಗಳ ವಿವರ ತಿಳಿಸಿರಿ.",
+      "latin": "ī. si.èṃ.goviṃdarèḍḍiyavara sthaḻa, kāla, kṛtigaḻa vivara tiḻisiri."
+    },
+    "intro": {
+      "devanagari": "प्रवेश",
+      "en": "Introduction",
+      "hi": "प्रवेश",
+      "kn": "ಪ್ರವೇಶ",
+      "latin": "praveśa"
+    },
+    "notes": {
+      "devanagari": "विवर तिळियिरि",
+      "en": "Know the details",
+      "hi": "विवरण जानिए",
+      "kn": "ವಿವರ ತಿಳಿಯಿರಿ",
+      "latin": "vivara tiḻiyiri"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "पद्य",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    }
+  },
+  "meta": {
+    "author": "ಸಿ. ಎಂ. ಗೋವಿಂದರೆಡ್ಡಿ",
+    "board": "KSEEB",
+    "chapter": 6,
+    "grade": 6,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KTBS",
+    "slug": "ch06-mangala-grahadalli-putti",
+    "source_url": "https://diksha.gov.in",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಪುಟ್ಟಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಮಕ್ಕಳ ಮನಸ್ಸಿನಲ್ಲಿ ಕುತೂಹಲಭರಿತ ಪ್ರಶ್ನೆಗಳು ಹುಟ್ಟುತ್ತವೆ. ವಿವಿಧ ಕಲ್ಪನೆಗಳು ಕಾಣಿಸುತ್ತವೆ. ಹೊಸ ಹೊಸ ಕನಸುಗಳು ಗೂಡು ಕಟ್ಟುತ್ತವೆ. ಮಕ್ಕಳು ತಮ್ಮ ಕಲ್ಪನೆಯಲ್ಲಿ ನಿರ್ಜೀವ ವಸ್ತುಗಳೊಂದಿಗೂ ಮನಬಿಚ್ಚಿ ಮಾತಾಡಬಲ್ಲರು! ಅಪರಿಚಿತ ಸನ್ನಿವೇಶಗಳೂ ಸಹ ಅವರ ಕನಸುಗಳಲ್ಲಿ ಹತ್ತಿರಕ್ಕೆ ಬಂದುಬಿಡುತ್ತವೆ. ಹೀಗಿರುವ ಅವರ ಕಲ್ಪನೆಗಳಿಗೆ ಮತ್ತಷ್ಟು ಗರಿಗಳನ್ನು ಕಟ್ಟಿ ಇನ್ನಷ್ಟು ಎತ್ತರಕ್ಕೆ ಹಾರಲು ಪ್ರೋತ್ಸಾಹಿಸಿ ಆ ಮೂಲಕ ಪ್ರಸ್ತುತತೆಯ ಅರಿವು ಮೂಡಿಸುವುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.",
+      "translations": {
+        "en": "Curious questions arise in children’s minds. Varied imaginings appear. New dreams nest. Children can even open their hearts and talk to lifeless things in imagination! Unfamiliar situations too come close in their dreams. The aim here is to add more wings to such imaginings, encourage them to fly higher, and thereby awaken awareness of the present.",
+        "hi": "बच्चों के मन में कौतूहल भरे प्रश्न उठते हैं। विविध कल्पनाएँ दिखती हैं। नए सपने घोंसला बनाते हैं। कल्पना में निर्जीव वस्तुओं से भी मन खोलकर बात कर सकते हैं! अपरिचित स्थितियाँ भी सपनों में पास आ जाती हैं। ऐसी कल्पनाओं को और पंख देकर ऊँचा उड़ने को प्रोत्साहित कर वर्तमान का बोध जगाना—यही आशय है।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळ मनस्सिनल्लि कुतूहलभरित प्रश्नॆगळु हुट्टुत्तवॆ. विविध कल्पनॆगळु काणिसुत्तवॆ. हॊस हॊस कनसुगळु गूडु कट्टुत्तवॆ. मक्कळु तम्म कल्पनॆयल्लि निर्जीव वस्तुगळॊंदिगू मनबिच्चि माताडबल्लरु! अपरिचित सन्निवेशगळू सह अवर कनसुगळल्लि हत्तिरक्कॆ बंदुबिडुत्तवॆ. हीगिरुव अवर कल्पनॆगळिगॆ मत्तष्टु गरिगळन्नु कट्टि इन्नष्टु ऎत्तरक्कॆ हारलु प्रोत्साहिसि आ मूलक प्रस्तुततॆय अरिवु मूडिसुवुदु इल्लिन आशयवागिदॆ.",
+        "latin": "makkaḻa manassinalli kutūhalabharita praśnègaḻu huṭṭuttavè. vividha kalpanègaḻu kāṇisuttavè. hòsa hòsa kanasugaḻu gūḍu kaṭṭuttavè. makkaḻu tamma kalpanèyalli nirjīva vastugaḻòṃdigū manabicci mātāḍaballaru! aparicita sanniveśagaḻū saha avara kanasugaḻalli hattirakkè baṃdubiḍuttavè. hīgiruva avara kalpanègaḻigè mattaṣṭu garigaḻannu kaṭṭi innaṣṭu èttarakkè hāralu protsāhisi ā mūlaka prastutatèya arivu mūḍisuvudu illina āśayavāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆಗಸದಲ್ಲಿ ಹಾರುವುದೆಂದರೆ",
+      "translations": {
+        "en": "To fly in the sky",
+        "hi": "आकाश में उड़ना"
+      },
+      "transliterations": {
+        "devanagari": "आगसदल्लि हारुवुदॆंदरॆ",
+        "latin": "āgasadalli hāruvudèṃdarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಪುಟಾಣಿ ಪುಟ್ಟಿಗೆ ಬಲು ಇಷ್ಟ",
+      "translations": {
+        "en": "little Putti loves very much",
+        "hi": "छोटी पुट्टी को बहुत पसंद"
+      },
+      "transliterations": {
+        "devanagari": "पुटाणि पुट्टिगॆ बलु इष्ट",
+        "latin": "puṭāṇi puṭṭigè balu iṣṭa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ರೆಕ್ಕೆಗಳಿಲ್ಲದೆ ಹಾರಲು ಹೋದರೆ",
+      "translations": {
+        "en": "If she goes to fly without wings",
+        "hi": "बिना पंख उड़ने जाए तो"
+      },
+      "transliterations": {
+        "devanagari": "रॆक्कॆगळिल्लदॆ हारलु होदरॆ",
+        "latin": "rèkkègaḻilladè hāralu hodarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "section": "poem",
+      "stanza": 1,
+      "text": "ಆಗದೆ ತೊಂದರೆ? ಇದು ಕಷ್ಟ.",
+      "translations": {
+        "en": "it won’t work—trouble? This is hard.",
+        "hi": "न हो—परेशानी? यह कठिन है।"
+      },
+      "transliterations": {
+        "devanagari": "आगदॆ तॊंदरॆ? इदु कष्ट.",
+        "latin": "āgadè tòṃdarè? idu kaṣṭa."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಒಂದಿನ ಇದ್ದಕ್ಕಿದ್ದಂತೆ",
+      "translations": {
+        "en": "One day all of a sudden",
+        "hi": "एक दिन अचानक"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदिन इद्दक्किद्दंतॆ",
+        "latin": "òṃdina iddakkiddaṃtè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಪುಟ್ಟಿಗೆ ರೆಕ್ಕೆಯು ಬಂದಿತ್ತು.",
+      "translations": {
+        "en": "wings came to Putti.",
+        "hi": "पुट्टी को पंख आ गए।"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टिगॆ रॆक्कॆयु बंदित्तु.",
+        "latin": "puṭṭigè rèkkèyu baṃdittu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಹಕ್ಕಿಯ ಹಾಗೆ ಹಾರುವ ಮನಕೆ",
+      "translations": {
+        "en": "To the mind that wanted to fly like a bird",
+        "hi": "चिड़िया की तरह उड़ने वाले मन को"
+      },
+      "transliterations": {
+        "devanagari": "हक्किय हागॆ हारुव मनकॆ",
+        "latin": "hakkiya hāgè hāruva manakè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "section": "poem",
+      "stanza": 2,
+      "text": "ಹೆಚ್ಚಿನ ಹರುಷವ ತಂದಿತ್ತು.",
+      "translations": {
+        "en": "it brought greater joy.",
+        "hi": "और अधिक हर्ष मिला।"
+      },
+      "transliterations": {
+        "devanagari": "हॆच्चिन हरुषव तंदित्तु.",
+        "latin": "hèccina haruṣava taṃdittu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಕೂಡಲೆ ಪುಟ್ಟಿ ಠಣ್ಣನೆ ಜಿಗಿದು",
+      "translations": {
+        "en": "At once Putti leaped with a thud",
+        "hi": "तुरंत पुट्टी ठन से कूदी"
+      },
+      "transliterations": {
+        "devanagari": "कूडलॆ पुट्टि ठण्णनॆ जिगिदु",
+        "latin": "kūḍalè puṭṭi ṭhaṇṇanè jigidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಆಗಸದೊಡಲಿಗೆ ಹಾರಿದಳು.",
+      "translations": {
+        "en": "and flew into the belly of the sky.",
+        "hi": "आकाश की गोद में उड़ी।"
+      },
+      "transliterations": {
+        "devanagari": "आगसदॊडलिगॆ हारिदळु.",
+        "latin": "āgasadòḍaligè hāridaḻu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಹಾರುತ ತೇಲುತ ಮುಂದಕೆ ಸಾಗಿ",
+      "translations": {
+        "en": "Flying floating going onward",
+        "hi": "उड़ती तैरती आगे बढ़"
+      },
+      "transliterations": {
+        "devanagari": "हारुत तेलुत मुंदकॆ सागि",
+        "latin": "hāruta teluta muṃdakè sāgi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "section": "poem",
+      "stanza": 3,
+      "text": "ಚಂದ್ರನ ಮಡಿಲನು ಸೇರಿದಳು.",
+      "translations": {
+        "en": "she reached the moon’s lap.",
+        "hi": "चंद्र की गोद में पहुँची।"
+      },
+      "transliterations": {
+        "devanagari": "चंद्रन मडिलनु सेरिदळु.",
+        "latin": "caṃdrana maḍilanu seridaḻu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಚಂದ್ರನ ಮೇಲೆ ನೆಟ್ಟಗೆ ನಿಂತು",
+      "translations": {
+        "en": "Standing straight on the moon",
+        "hi": "चंद्र पर सीधे खड़ी"
+      },
+      "transliterations": {
+        "devanagari": "चंद्रन मेलॆ नॆट्टगॆ निंतु",
+        "latin": "caṃdrana melè nèṭṭagè niṃtu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಭೂಮಿಯ ಕಡೆಗೆ ನೋಡಿದರೆ",
+      "translations": {
+        "en": "when she looked toward the earth",
+        "hi": "धरती की ओर देखा तो"
+      },
+      "transliterations": {
+        "devanagari": "भूमिय कडॆगॆ नोडिदरॆ",
+        "latin": "bhūmiya kaḍègè noḍidarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ನೇರಳೆ ಬಣ್ಣದ ಚೆಂಡಿನ ಹಾಗೆ",
+      "translations": {
+        "en": "like a purple-coloured ball",
+        "hi": "बैंगनी रंग की गेंद की तरह"
+      },
+      "transliterations": {
+        "devanagari": "नेरळॆ बण्णद चॆंडिन हागॆ",
+        "latin": "neraḻè baṇṇada cèṃḍina hāgè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "section": "poem",
+      "stanza": 4,
+      "text": "ಕಂಡಿತು ಅವಳಿಗೆ ನಮ್ಮ ಧರೆ.",
+      "translations": {
+        "en": "our earth appeared to her.",
+        "hi": "उसे हमारी धरती दिखी।"
+      },
+      "transliterations": {
+        "devanagari": "कंडितु अवळिगॆ नम्म धरॆ.",
+        "latin": "kaṃḍitu avaḻigè namma dharè."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಚಂದ್ರನ ಬಿಟ್ಟು ಮೇಲಕೆ ಹಾರಿ",
+      "translations": {
+        "en": "Leaving the moon flying higher",
+        "hi": "चंद्र छोड़ ऊपर उड़"
+      },
+      "transliterations": {
+        "devanagari": "चंद्रन बिट्टु मेलकॆ हारि",
+        "latin": "caṃdrana biṭṭu melakè hāri"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಸೇರಲು ಮಂಗಳನಂಗಳವ",
+      "translations": {
+        "en": "to reach the plains of Mars",
+        "hi": "मंगल के मैदान पहुँचने"
+      },
+      "transliterations": {
+        "devanagari": "सेरलु मंगळनंगळव",
+        "latin": "seralu maṃgaḻanaṃgaḻava"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕೆಂಪಗೆ ಬಣಬಣಗುಟ್ಟುತಲಿತ್ತು",
+      "translations": {
+        "en": "it glowed red and empty",
+        "hi": "लाल खाली चमक रहा था"
+      },
+      "transliterations": {
+        "devanagari": "कॆंपगॆ बणबणगुट्टुतलित्तु",
+        "latin": "kèṃpagè baṇabaṇaguṭṭutalittu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "section": "poem",
+      "stanza": 5,
+      "text": "ಕಾಣಲಿಲ್ಲ ಯಾವುದೆ ಜೀವ",
+      "translations": {
+        "en": "no life was to be seen",
+        "hi": "कोई जीवन नहीं दिखी"
+      },
+      "transliterations": {
+        "devanagari": "काणलिल्ल यावुदॆ जीव",
+        "latin": "kāṇalilla yāvudè jīva"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಪುಟ್ಟಿಯು ಕಂಡಳು ಮಂಗಳನಲ್ಲಿ",
+      "translations": {
+        "en": "On Mars Putti saw",
+        "hi": "मंगल पर पुट्टी ने देखा"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टियु कंडळु मंगळनल्लि",
+        "latin": "puṭṭiyu kaṃḍaḻu maṃgaḻanalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "section": "poem",
+      "stanza": 6,
+      "text": "‘ಯೋಗಿ’ ಹೆಸರಿನ ಹೆಬ್ಬಂಡೆ",
+      "translations": {
+        "en": "a great rock named ‘Yogi’",
+        "hi": "‘योगी’ नाम की बड़ी चट्टान"
+      },
+      "transliterations": {
+        "devanagari": "‘योगि’ हॆसरिन हॆब्बंडॆ",
+        "latin": "‘yogi’ hèsarina hèbbaṃḍè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "section": "poem",
+      "stanza": 6,
+      "text": "ಒಡನೆ ಕೇಳಿದಳು ಕೆಂಪು ಬಂಡೆಯನು",
+      "translations": {
+        "en": "At once she asked the red rock",
+        "hi": "तुरंत लाल चट्टान से पूछा"
+      },
+      "transliterations": {
+        "devanagari": "ऒडनॆ केळिदळु कॆंपु बंडॆयनु",
+        "latin": "òḍanè keḻidaḻu kèṃpu baṃḍèyanu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "section": "poem",
+      "stanza": 6,
+      "text": "‘ನೀನು ಹೇಗೆ ಇಲ್ಲಿಗೆ ಬಂದೆ?’",
+      "translations": {
+        "en": "‘How did you come here?’",
+        "hi": "‘तुम यहाँ कैसे आए?’"
+      },
+      "transliterations": {
+        "devanagari": "‘नीनु हेगॆ इल्लिगॆ बंदॆ?’",
+        "latin": "‘nīnu hegè illigè baṃdè?’"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l1",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಬಂಡೆಯು ಕಣ್ಣೀರನು ಸುರಿಸುತ್ತಾ",
+      "translations": {
+        "en": "The rock shedding tears",
+        "hi": "चट्टान आँसू बहाते"
+      },
+      "transliterations": {
+        "devanagari": "बंडॆयु कण्णीरनु सुरिसुत्ता",
+        "latin": "baṃḍèyu kaṇṇīranu surisuttā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l2",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ಹೇಳಿತು ಪುಟ್ಟಿಗೆ ನೋವಿನಲಿ",
+      "translations": {
+        "en": "told Putti in pain",
+        "hi": "दर्द में पुट्टी से कहा"
+      },
+      "transliterations": {
+        "devanagari": "हेळितु पुट्टिगॆ नोविनलि",
+        "latin": "heḻitu puṭṭigè novinali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l3",
+      "section": "poem",
+      "stanza": 7,
+      "text": "‘ಪುಟ್ಟಿಯೇ, ನಮ್ಮೀ ಮಂಗಳ ಗ್ರಹದ",
+      "translations": {
+        "en": "‘Putti, of this Mars of ours",
+        "hi": "‘पुट्टी, हमारे इस मंगल की"
+      },
+      "transliterations": {
+        "devanagari": "‘पुट्टिये, नम्मी मंगळ ग्रहद",
+        "latin": "‘puṭṭiye, nammī maṃgaḻa grahada"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s7l4",
+      "section": "poem",
+      "stanza": 7,
+      "text": "ದುರಂತ ಕಥೆಯನು ಕೇಳಿ ತಿಳಿ’",
+      "translations": {
+        "en": "hear and know the tragic tale’",
+        "hi": "दुखांत कथा सुनकर जान’"
+      },
+      "transliterations": {
+        "devanagari": "दुरंत कथॆयनु केळि तिळि’",
+        "latin": "duraṃta kathèyanu keḻi tiḻi’"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l1",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಹಿಂದೊಂದು ಕಾಲದಿ ಈ ಗ್ರಹದಲ್ಲಿ",
+      "translations": {
+        "en": "Once upon a time on this planet",
+        "hi": "एक समय इस ग्रह पर"
+      },
+      "transliterations": {
+        "devanagari": "हिंदॊंदु कालदि ई ग्रहदल्लि",
+        "latin": "hiṃdòṃdu kāladi ī grahadalli"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l2",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಇತ್ತು ಜೀವಜಲ ಹಸಿರು ಮರ",
+      "translations": {
+        "en": "there was living water and green trees",
+        "hi": "जीवन जल और हरे पेड़ थे"
+      },
+      "transliterations": {
+        "devanagari": "इत्तु जीवजल हसिरु मर",
+        "latin": "ittu jīvajala hasiru mara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l3",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಆಗಿನ ಜನತೆಯು ನಾಡನು ಕಟ್ಟಲು",
+      "translations": {
+        "en": "Then people to build the land",
+        "hi": "तब लोगों ने देश बनाने"
+      },
+      "transliterations": {
+        "devanagari": "आगिन जनतॆयु नाडनु कट्टलु",
+        "latin": "āgina janatèyu nāḍanu kaṭṭalu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s8l4",
+      "section": "poem",
+      "stanza": 8,
+      "text": "ಮರಗಳ ಕಡಿಯೆ ಬಂತು ಬರ",
+      "translations": {
+        "en": "cut the trees and drought came",
+        "hi": "पेड़ काटे और अकाल आया"
+      },
+      "transliterations": {
+        "devanagari": "मरगळ कडियॆ बंतु बर",
+        "latin": "maragaḻa kaḍiyè baṃtu bara"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s9l1",
+      "section": "poem",
+      "stanza": 9,
+      "text": "ಮಳೆ ಬೆಳೆ ಕಾಣದೆ ಜೀವಿಯು ಅಳಿದು",
+      "translations": {
+        "en": "Without rain and crops life died",
+        "hi": "बिना वर्षा-फसल जीवन मरा"
+      },
+      "transliterations": {
+        "devanagari": "मळॆ बॆळॆ काणदॆ जीवियु अळिदु",
+        "latin": "maḻè bèḻè kāṇadè jīviyu aḻidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s9l2",
+      "section": "poem",
+      "stanza": 9,
+      "text": "ಬಂದಿತು ನಮಗೆ ಇಂಥ ಸ್ಥಿತಿ",
+      "translations": {
+        "en": "and we came to such a state",
+        "hi": "और हम ऐसी स्थिति में आए"
+      },
+      "transliterations": {
+        "devanagari": "बंदितु नमगॆ इंथ स्थिति",
+        "latin": "baṃditu namagè iṃtha sthiti"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s9l3",
+      "section": "poem",
+      "stanza": 9,
+      "text": "‘ನಿಮ್ಮ ಭೂಮಿಯಲಿ ಗಿಡಮರ ಅಳಿದರೆ",
+      "translations": {
+        "en": "‘If trees die on your earth",
+        "hi": "‘तुम्हारी धरती पर पेड़ मरें तो"
+      },
+      "transliterations": {
+        "devanagari": "‘निम्म भूमियलि गिडमर अळिदरॆ",
+        "latin": "‘nimma bhūmiyali giḍamara aḻidarè"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s9l4",
+      "section": "poem",
+      "stanza": 9,
+      "text": "ಮುಂದೆ ಒಂದು ದಿನ ಇದೇ ಗತಿ’",
+      "translations": {
+        "en": "one day ahead this same fate’",
+        "hi": "आगे एक दिन यही गति’"
+      },
+      "transliterations": {
+        "devanagari": "मुंदॆ ऒंदु दिन इदे गति’",
+        "latin": "muṃdè òṃdu dina ide gati’"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s10l1",
+      "section": "poem",
+      "stanza": 10,
+      "text": "ಬಣಬಣಗುಟ್ಟುವ ಬಯಲನು ಕಂಡು",
+      "translations": {
+        "en": "Seeing the empty glowing plain",
+        "hi": "खाली चमकता मैदान देख"
+      },
+      "transliterations": {
+        "devanagari": "बणबणगुट्टुव बयलनु कंडु",
+        "latin": "baṇabaṇaguṭṭuva bayalanu kaṃḍu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s10l2",
+      "section": "poem",
+      "stanza": 10,
+      "text": "ಢವಢವಗುಟ್ಟಿತು ಎಳೆ ಹೃದಯ",
+      "translations": {
+        "en": "the tender heart pounded",
+        "hi": "कोमल हृदय धड़का"
+      },
+      "transliterations": {
+        "devanagari": "ढवढवगुट्टितु ऎळॆ हृदय",
+        "latin": "ḍhavaḍhavaguṭṭitu èḻè hṛdaya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s10l3",
+      "section": "poem",
+      "stanza": 10,
+      "text": "ಹಸಿರನು ಅಳಿಸದೆ ಗಿಡಮರ ಬೆಳೆಸಿ",
+      "translations": {
+        "en": "Without erasing green, growing trees",
+        "hi": "हरा मिटाए बिना पेड़ उगाकर"
+      },
+      "transliterations": {
+        "devanagari": "हसिरनु अळिसदॆ गिडमर बॆळॆसि",
+        "latin": "hasiranu aḻisadè giḍamara bèḻèsi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s10l4",
+      "section": "poem",
+      "stanza": 10,
+      "text": "ಉಳಿಸುವೆವೆಂದಳು ಈ ಧರೆಯ",
+      "translations": {
+        "en": "she said we will save this earth",
+        "hi": "कहा हम इस धरती को बचाएँगे"
+      },
+      "transliterations": {
+        "devanagari": "उळिसुवॆवॆंदळु ई धरॆय",
+        "latin": "uḻisuvèvèṃdaḻu ī dharèya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s11l1",
+      "section": "poem",
+      "stanza": 11,
+      "text": "ಭೂಮಿಗೆ ಬಂದು ಜನತೆಯ ಕಂಡು",
+      "translations": {
+        "en": "Coming to earth she met people",
+        "hi": "धरती आकर लोगों से मिली"
+      },
+      "transliterations": {
+        "devanagari": "भूमिगॆ बंदु जनतॆय कंडु",
+        "latin": "bhūmigè baṃdu janatèya kaṃḍu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s11l2",
+      "section": "poem",
+      "stanza": 11,
+      "text": "ಹಸಿರನು ಉಳಿಸಲು ಬೇಡಿದಳು",
+      "translations": {
+        "en": "and begged them to save the green",
+        "hi": "हरा बचाने की विनती की"
+      },
+      "transliterations": {
+        "devanagari": "हसिरनु उळिसलु बेडिदळु",
+        "latin": "hasiranu uḻisalu beḍidaḻu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s11l3",
+      "section": "poem",
+      "stanza": 11,
+      "text": "ತಾನು ಕೂಡ ಎಳೆ ಸಸಿಗಳ ನೆಟ್ಟು",
+      "translations": {
+        "en": "She too planted tender saplings",
+        "hi": "वह भी कोमल पौधे लगाकर"
+      },
+      "transliterations": {
+        "devanagari": "तानु कूड ऎळॆ ससिगळ नॆट्टु",
+        "latin": "tānu kūḍa èḻè sasigaḻa nèṭṭu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s11l4",
+      "section": "poem",
+      "stanza": 11,
+      "text": "ಬೆಳೆಸುತ ಕುಣಿ ಕುಣಿದಾಡಿದಳು.",
+      "translations": {
+        "en": "grew them and danced for joy.",
+        "hi": "उगाते नाचने लगी।"
+      },
+      "transliterations": {
+        "devanagari": "बॆळॆसुत कुणि कुणिदाडिदळु.",
+        "latin": "bèḻèsuta kuṇi kuṇidāḍidaḻu."
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "author-1",
+      "section": "author",
+      "text": "ಸಿ.ಎಂ. ಗೋವಿಂದರೆಡ್ಡಿ ಅವರು 11-08-1958ರಲ್ಲಿ ಕೋಲಾರ ಜಿಲ್ಲೆಯ ಮಾಲೂರು ತಾಲೂಕಿನ ಚೆನ್ನಿಗರಾಯಪುರ ಎಂಬ ಊರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ರಚನೆಯಲ್ಲಿ ವಿಶೇಷ ಆಸಕ್ತಿ ಹೊಂದಿದ ಇವರು ‘ಬಣ್ಣದ ಚಿಟ್ಟೆ’, ‘ಮಕ್ಕಳ ಮಂದಾರ’, ‘ಪದ್ಯ ಹೇಳುವ ಮರ’ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಪದ್ಯವನ್ನು ‘ಮಕ್ಕಳ ಮಂದಾರ’ ಎಂಬ ಕೃತಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಲಾಗಿದೆ.",
+      "translations": {
+        "en": "C.M. Govinda Reddy was born on 11-08-1958 in Chennigarayapura, Malur taluk, Kolar district. He has special interest in children’s literature and has written works such as Bannada Chitte, Makkala Mandara and Padya Heluva Mara. This poem is chosen from ‘Makkala Mandara’.",
+        "hi": "सी.एम. गोविंदरेड्डी का जन्म 11-08-1958 को कोलार जिले के मालूर तालुक के चेन्निगरायपुर में हुआ। बाल साहित्य में विशेष रुचि; बण्णद चिट्टे, मक्कळ मंदार, पद्य हेळुव मर आदि कृतियाँ। यह पद्य ‘मक्कळ मंदार’ से लिया गया।"
+      },
+      "transliterations": {
+        "devanagari": "सि.ऎं. गोविंदरॆड्डि अवरु 11-08-1958रल्लि कोलार जिल्लॆय मालूरु तालूकिन चॆन्निगरायपुर ऎंब ऊरिनल्लि जनिसिदरु. मक्कळ साहित्य रचनॆयल्लि विशेष आसक्ति हॊंदिद इवरु ‘बण्णद चिट्टॆ’, ‘मक्कळ मंदार’, ‘पद्य हेळुव मर’ मॊदलाद कृतिगळन्नु रचिसिद्दारॆ. प्रस्तुत पद्यवन्नु ‘मक्कळ मंदार’ ऎंब कृतियिंद आय्कॆमाडिकॊळ्ळलागिदॆ.",
+        "latin": "si.èṃ. goviṃdarèḍḍi avaru 11-08-1958ralli kolāra jillèya mālūru tālūkina cènnigarāyapura èṃba ūrinalli janisidaru. makkaḻa sāhitya racanèyalli viśeṣa āsakti hòṃdida ivaru ‘baṇṇada ciṭṭè’, ‘makkaḻa maṃdāra’, ‘padya heḻuva mara’ mòdalāda kṛtigaḻannu racisiddārè. prastuta padyavannu ‘makkaḻa maṃdāra’ èṃba kṛtiyiṃda āykèmāḍikòḻḻalāgidè."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-agasa",
+      "section": "vocab",
+      "text": "ಆಗಸ",
+      "translations": {
+        "en": "āgasa",
+        "hi": "आगस"
+      },
+      "transliterations": {
+        "devanagari": "आगस",
+        "latin": "āgasa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-agasa-def",
+      "section": "vocab",
+      "text": "ಆಕಾಶ, ಗಗನ",
+      "translations": {
+        "en": "sky, firmament",
+        "hi": "आकाश, गगन"
+      },
+      "transliterations": {
+        "devanagari": "आकाश, गगन",
+        "latin": "ākāśa, gagana"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ishta",
+      "section": "vocab",
+      "text": "ಇಷ್ಟ",
+      "translations": {
+        "en": "iṣṭa",
+        "hi": "इष्ट"
+      },
+      "transliterations": {
+        "devanagari": "इष्ट",
+        "latin": "iṣṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ishta-def",
+      "section": "vocab",
+      "text": "ಇಚ್ಛೆ, ಮೆಚ್ಚುಗೆ",
+      "translations": {
+        "en": "wish, liking",
+        "hi": "इच्छॆ, मॆच्चुगॆ"
+      },
+      "transliterations": {
+        "devanagari": "इच्छॆ, मॆच्चुगॆ",
+        "latin": "icchè, mèccugè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-rekke",
+      "section": "vocab",
+      "text": "ರೆಕ್ಕೆ",
+      "translations": {
+        "en": "rèkkè",
+        "hi": "रॆक्कॆ"
+      },
+      "transliterations": {
+        "devanagari": "रॆक्कॆ",
+        "latin": "rèkkè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rekke-def",
+      "section": "vocab",
+      "text": "ಹಕ್ಕಿಗಳ ಪುಕ್ಕ, ಗರಿ",
+      "translations": {
+        "en": "bird’s feather, wing",
+        "hi": "हक्किगळ पुक्क, गरि"
+      },
+      "transliterations": {
+        "devanagari": "हक्किगळ पुक्क, गरि",
+        "latin": "hakkigaḻa pukka, gari"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-odalu",
+      "section": "vocab",
+      "text": "ಒಡಲು",
+      "translations": {
+        "en": "òḍalu",
+        "hi": "ऒडलु"
+      },
+      "transliterations": {
+        "devanagari": "ऒडलु",
+        "latin": "òḍalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-odalu-def",
+      "section": "vocab",
+      "text": "ಶರೀರ, ಹೊಟ್ಟೆ",
+      "translations": {
+        "en": "body, belly",
+        "hi": "शरीर, हॊट्टॆ"
+      },
+      "transliterations": {
+        "devanagari": "शरीर, हॊट्टॆ",
+        "latin": "śarīra, hòṭṭè"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-sagu",
+      "section": "vocab",
+      "text": "ಸಾಗು",
+      "translations": {
+        "en": "sāgu",
+        "hi": "सागु"
+      },
+      "transliterations": {
+        "devanagari": "सागु",
+        "latin": "sāgu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sagu-def",
+      "section": "vocab",
+      "text": "ಚಲಿಸು, ಮುಂದೆ ಹೋಗು",
+      "translations": {
+        "en": "to move, to go ahead",
+        "hi": "चलिसु, मुंदॆ होगु"
+      },
+      "transliterations": {
+        "devanagari": "चलिसु, मुंदॆ होगु",
+        "latin": "calisu, muṃdè hogu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-madilu",
+      "section": "vocab",
+      "text": "ಮಡಿಲು",
+      "translations": {
+        "en": "maḍilu",
+        "hi": "मडिलु"
+      },
+      "transliterations": {
+        "devanagari": "मडिलु",
+        "latin": "maḍilu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-madilu-def",
+      "section": "vocab",
+      "text": "ಉಡಿ",
+      "translations": {
+        "en": "lap",
+        "hi": "उडि"
+      },
+      "transliterations": {
+        "devanagari": "उडि",
+        "latin": "uḍi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dhare",
+      "section": "vocab",
+      "text": "ಧರೆ",
+      "translations": {
+        "en": "dharè",
+        "hi": "धरॆ"
+      },
+      "transliterations": {
+        "devanagari": "धरॆ",
+        "latin": "dharè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dhare-def",
+      "section": "vocab",
+      "text": "ನೆಲ, ಭೂಮಿ",
+      "translations": {
+        "en": "ground, earth",
+        "hi": "नॆल, भूमि"
+      },
+      "transliterations": {
+        "devanagari": "नॆल, भूमि",
+        "latin": "nèla, bhūmi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-hebbande",
+      "section": "vocab",
+      "text": "ಹೆಬ್ಬಂಡೆ",
+      "translations": {
+        "en": "hèbbaṃḍè",
+        "hi": "हॆब्बंडॆ"
+      },
+      "transliterations": {
+        "devanagari": "हॆब्बंडॆ",
+        "latin": "hèbbaṃḍè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hebbande-def",
+      "section": "vocab",
+      "text": "ದೊಡ್ಡದಾದ ಬಂಡೆ, ವಿಸ್ತಾರವಾದ ಕಲ್ಲು",
+      "translations": {
+        "en": "a large rock, vast stone",
+        "hi": "दॊड्डदाद बंडॆ, विस्तारवाद कल्लु"
+      },
+      "transliterations": {
+        "devanagari": "दॊड्डदाद बंडॆ, विस्तारवाद कल्लु",
+        "latin": "dòḍḍadāda baṃḍè, vistāravāda kallu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bara",
+      "section": "vocab",
+      "text": "ಬರ",
+      "translations": {
+        "en": "bara",
+        "hi": "बर"
+      },
+      "transliterations": {
+        "devanagari": "बर",
+        "latin": "bara"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bara-def",
+      "section": "vocab",
+      "text": "ಬರಗಾಲ, ಕ್ಷಾಮ",
+      "translations": {
+        "en": "drought, famine",
+        "hi": "बरगाल, क्षाम"
+      },
+      "transliterations": {
+        "devanagari": "बरगाल, क्षाम",
+        "latin": "baragāla, kṣāma"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ali",
+      "section": "vocab",
+      "text": "ಅಳಿ",
+      "translations": {
+        "en": "aḻi",
+        "hi": "अळि"
+      },
+      "transliterations": {
+        "devanagari": "अळि",
+        "latin": "aḻi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ali-def",
+      "section": "vocab",
+      "text": "ಸಾಯು, ನಾಶಹೊಂದು",
+      "translations": {
+        "en": "to die, to perish",
+        "hi": "सायु, नाशहॊंदु"
+      },
+      "transliterations": {
+        "devanagari": "सायु, नाशहॊंदु",
+        "latin": "sāyu, nāśahòṃdu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-gati",
+      "section": "vocab",
+      "text": "ಗತಿ",
+      "translations": {
+        "en": "gati",
+        "hi": "गति"
+      },
+      "transliterations": {
+        "devanagari": "गति",
+        "latin": "gati"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-gati-def",
+      "section": "vocab",
+      "text": "ಸ್ಥಿತಿ, ದಾರಿ",
+      "translations": {
+        "en": "state, path",
+        "hi": "स्थिति, दारि"
+      },
+      "transliterations": {
+        "devanagari": "स्थिति, दारि",
+        "latin": "sthiti, dāri"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bayalu",
+      "section": "vocab",
+      "text": "ಬಯಲು",
+      "translations": {
+        "en": "bayalu",
+        "hi": "बयलु"
+      },
+      "transliterations": {
+        "devanagari": "बयलु",
+        "latin": "bayalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bayalu-def",
+      "section": "vocab",
+      "text": "ಅಂಗಳ, ಮೈದಾನ",
+      "translations": {
+        "en": "courtyard, plain",
+        "hi": "अंगळ, मैदान"
+      },
+      "transliterations": {
+        "devanagari": "अंगळ, मैदान",
+        "latin": "aṃgaḻa, maidāna"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-ulisu",
+      "section": "vocab",
+      "text": "ಉಳಿಸು",
+      "translations": {
+        "en": "uḻisu",
+        "hi": "उळिसु"
+      },
+      "transliterations": {
+        "devanagari": "उळिसु",
+        "latin": "uḻisu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ulisu-def",
+      "section": "vocab",
+      "text": "ರಕ್ಷಿಸು, ಕಾಪಾಡು",
+      "translations": {
+        "en": "to protect, to save",
+        "hi": "रक्षिसु, कापाडु"
+      },
+      "transliterations": {
+        "devanagari": "रक्षिसु, कापाडु",
+        "latin": "rakṣisu, kāpāḍu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-nedu",
+      "section": "vocab",
+      "text": "ನೆಡು",
+      "translations": {
+        "en": "nèḍu",
+        "hi": "नॆडु"
+      },
+      "transliterations": {
+        "devanagari": "नॆडु",
+        "latin": "nèḍu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nedu-def",
+      "section": "vocab",
+      "text": "ನಾಟು",
+      "translations": {
+        "en": "to plant",
+        "hi": "नाटु"
+      },
+      "transliterations": {
+        "devanagari": "नाटु",
+        "latin": "nāṭu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-putti",
+      "section": "notes",
+      "text": "ಪುಟ್ಟಿ",
+      "translations": {
+        "en": "puṭṭi",
+        "hi": "पुट्टि"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टि",
+        "latin": "puṭṭi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-putti-def",
+      "section": "notes",
+      "text": "ಮಕ್ಕಳನ್ನು ಕರೆಯುವ ಒಂದು ಆಪ್ತ ಸಂಬೋಧನೆ.",
+      "translations": {
+        "en": "An affectionate way of addressing children.",
+        "hi": "मक्कळन्नु करॆयुव ऒंदु आप्त संबोधनॆ."
+      },
+      "transliterations": {
+        "devanagari": "मक्कळन्नु करॆयुव ऒंदु आप्त संबोधनॆ.",
+        "latin": "makkaḻannu karèyuva òṃdu āpta saṃbodhanè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-mangalanangala",
+      "section": "notes",
+      "text": "ಮಂಗಳನಂಗಳ",
+      "translations": {
+        "en": "maṃgaḻanaṃgaḻa",
+        "hi": "मंगळनंगळ"
+      },
+      "transliterations": {
+        "devanagari": "मंगळनंगळ",
+        "latin": "maṃgaḻanaṃgaḻa"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-mangalanangala-def",
+      "section": "notes",
+      "text": "ಮಂಗಳ ಗ್ರಹದ ಬಯಲು, ಮಂಗಳ ಗ್ರಹದ ವಿಸ್ತಾರ ಪ್ರದೇಶ.",
+      "translations": {
+        "en": "The plain of Mars; the vast region of Mars.",
+        "hi": "मंगळ ग्रहद बयलु, मंगळ ग्रहद विस्तार प्रदेश."
+      },
+      "transliterations": {
+        "devanagari": "मंगळ ग्रहद बयलु, मंगळ ग्रहद विस्तार प्रदेश.",
+        "latin": "maṃgaḻa grahada bayalu, maṃgaḻa grahada vistāra pradeśa."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-banabanaguttu",
+      "section": "notes",
+      "text": "ಬಣಬಣಗುಟ್ಟು",
+      "translations": {
+        "en": "baṇabaṇaguṭṭu",
+        "hi": "बणबणगुट्टु"
+      },
+      "transliterations": {
+        "devanagari": "बणबणगुट्टु",
+        "latin": "baṇabaṇaguṭṭu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-banabanaguttu-def",
+      "section": "notes",
+      "text": "ಖಾಲಿ ಖಾಲಿಯಾಗಿ ಕಾಣು, ನೀರವತೆಯಿಂದ ಕೂಡಿರು.",
+      "translations": {
+        "en": "To look empty; to be desolate.",
+        "hi": "खालि खालियागि काणु, नीरवतॆयिंद कूडिरु."
+      },
+      "transliterations": {
+        "devanagari": "खालि खालियागि काणु, नीरवतॆयिंद कूडिरु.",
+        "latin": "khāli khāliyāgi kāṇu, nīravatèyiṃda kūḍiru."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-yogi-bande",
+      "section": "notes",
+      "text": "ಯೋಗಿ ಹೆಸರಿನ ಬಂಡೆ",
+      "translations": {
+        "en": "yogi hèsarina baṃḍè",
+        "hi": "योगि हॆसरिन बंडॆ"
+      },
+      "transliterations": {
+        "devanagari": "योगि हॆसरिन बंडॆ",
+        "latin": "yogi hèsarina baṃḍè"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-yogi-bande-def",
+      "section": "notes",
+      "text": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ ಎನ್ನಲಾದ ಒಂದು ದೊಡ್ಡ ಬಂಡೆ.",
+      "translations": {
+        "en": "A large rock said to have been found on Mars.",
+        "hi": "मंगळ ग्रहदल्लि कंडुबंदिदॆ ऎन्नलाद ऒंदु दॊड्ड बंडॆ."
+      },
+      "transliterations": {
+        "devanagari": "मंगळ ग्रहदल्लि कंडुबंदिदॆ ऎन्नलाद ऒंदु दॊड्ड बंडॆ.",
+        "latin": "maṃgaḻa grahadalli kaṃḍubaṃdidè ènnalāda òṃdu dòḍḍa baṃḍè."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-duranta",
+      "section": "notes",
+      "text": "ದುರಂತ",
+      "translations": {
+        "en": "duraṃta",
+        "hi": "दुरंत"
+      },
+      "transliterations": {
+        "devanagari": "दुरंत",
+        "latin": "duraṃta"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-duranta-def",
+      "section": "notes",
+      "text": "ದುಃಖದಲ್ಲಿ ಮುಗಿಯುವ, ಕಷ್ಟದಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ.",
+      "translations": {
+        "en": "Ending in sorrow; ending in hardship.",
+        "hi": "दुःखदल्लि मुगियुव, कष्टदल्लि कॊनॆगॊळ्ळुव."
+      },
+      "transliterations": {
+        "devanagari": "दुःखदल्लि मुगियुव, कष्टदल्लि कॊनॆगॊळ्ळुव.",
+        "latin": "duḥkhadalli mugiyuva, kaṣṭadalli kònègòḻḻuva."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-dhavadhavaguttu",
+      "section": "notes",
+      "text": "ಢವಢವಗುಟ್ಟು",
+      "translations": {
+        "en": "ḍhavaḍhavaguṭṭu",
+        "hi": "ढवढवगुट्टु"
+      },
+      "transliterations": {
+        "devanagari": "ढवढवगुट्टु",
+        "latin": "ḍhavaḍhavaguṭṭu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dhavadhavaguttu-def",
+      "section": "notes",
+      "text": "ಒಮ್ಮೆಲೆ ಭಯವಾಗು, ಹೃದಯ ಜೋರಾಗಿ ಹೊಡೆದುಕೊಳ್ಳು.",
+      "translations": {
+        "en": "To feel sudden fear; for the heart to pound.",
+        "hi": "ऒम्मॆलॆ भयवागु, हृदय जोरागि हॊडॆदुकॊळ्ळु."
+      },
+      "transliterations": {
+        "devanagari": "ऒम्मॆलॆ भयवागु, हृदय जोरागि हॊडॆदुकॊळ्ळु.",
+        "latin": "òmmèlè bhayavāgu, hṛdaya jorāgi hòḍèdukòḻḻu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "section": "exercise-A",
+      "text": "ಒಂದಿನ ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಪುಟ್ಟಿಗೆ _________ಬಂದಿತ್ತು.",
+      "translations": {
+        "en": "One day all of a sudden ________ came to Putti.",
+        "hi": "एक दिन अचानक पुट्टी को _________ आए।"
+      },
+      "transliterations": {
+        "devanagari": "ऒंदिन इद्दक्किद्दंतॆ पुट्टिगॆ _________बंदित्तु.",
+        "latin": "òṃdina iddakkiddaṃtè puṭṭigè _________baṃdittu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "section": "exercise-A",
+      "text": "ಹಾರುತ ತೇಲುತ ಮುಂದಕೆ ಸಾಗಿ ಚಂದ್ರನ _________ಸೇರಿದಳು.",
+      "translations": {
+        "en": "Flying floating going onward she reached the moon’s ________.",
+        "hi": "उड़ती तैरती चंद्र की _________ पहुँची।"
+      },
+      "transliterations": {
+        "devanagari": "हारुत तेलुत मुंदकॆ सागि चंद्रन _________सेरिदळु.",
+        "latin": "hāruta teluta muṃdakè sāgi caṃdrana _________seridaḻu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "section": "exercise-A",
+      "text": "ಪುಟ್ಟಿಯೇ, ನಮ್ಮೀ ಮಂಗಳಗ್ರಹದ ದುರಂತ ________ಕೇಳಿ ತಿಳಿ.",
+      "translations": {
+        "en": "Putti, hear and know the tragic ________ of this Mars of ours.",
+        "hi": "पुट्टी, हमारे मंगल की दुखांत ________ सुनकर जान।"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टिये, नम्मी मंगळग्रहद दुरंत ________केळि तिळि.",
+        "latin": "puṭṭiye, nammī maṃgaḻagrahada duraṃta ________keḻi tiḻi."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "section": "exercise-A",
+      "text": "ಹಸಿರನು ಅಳಿಸದೆ ಗಿಡಮರ ಬೆಳೆಸಿ ಉಳಿಸುವೆವೆಂದಳು ಈ _______",
+      "translations": {
+        "en": "Without erasing green, growing trees, she said we will save this _______",
+        "hi": "हरा मिटाए बिना पेड़ उगाकर कहा हम इस _______ को बचाएँगे"
+      },
+      "transliterations": {
+        "devanagari": "हसिरनु अळिसदॆ गिडमर बॆळॆसि उळिसुवॆवॆंदळु ई _______",
+        "latin": "hasiranu aḻisadè giḍamara bèḻèsi uḻisuvèvèṃdaḻu ī _______"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "section": "exercise-B",
+      "text": "ಪುಟ್ಟಿಗೆ ಯಾರ ಹಾಗೆ ಹಾರುವ ಮನಸ್ಸಿತ್ತು?",
+      "translations": {
+        "en": "Like whom did Putti wish to fly?",
+        "hi": "पुट्टी किसकी तरह उड़ना चाहती थी?"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टिगॆ यार हागॆ हारुव मनस्सित्तु?",
+        "latin": "puṭṭigè yāra hāgè hāruva manassittu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "section": "exercise-B",
+      "text": "ಚಂದ್ರನ ಬಿಟ್ಟು ಮೇಲೆ ಹಾರಿದ ಪುಟ್ಟಿ ಎಲ್ಲಿಗೆ ಸೇರಿದಳು?",
+      "translations": {
+        "en": "Leaving the moon, where did Putti flying upward reach?",
+        "hi": "चंद्र छोड़ ऊपर उड़कर पुट्टी कहाँ पहुँची?"
+      },
+      "transliterations": {
+        "devanagari": "चंद्रन बिट्टु मेलॆ हारिद पुट्टि ऎल्लिगॆ सेरिदळु?",
+        "latin": "caṃdrana biṭṭu melè hārida puṭṭi èlligè seridaḻu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "section": "exercise-B",
+      "text": "ಪುಟ್ಟಿ ಯೋಗಿಗೆ ಏನೆಂದು ಕೇಳಿದಳು?",
+      "translations": {
+        "en": "What did Putti ask Yogi?",
+        "hi": "पुट्टी ने योगी से क्या पूछा?"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टि योगिगॆ एनॆंदु केळिदळु?",
+        "latin": "puṭṭi yogigè enèṃdu keḻidaḻu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "section": "exercise-B",
+      "text": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಬರ ಏಕೆ ಬಂದಿತು?",
+      "translations": {
+        "en": "Why did drought come on Mars?",
+        "hi": "मंगल पर अकाल क्यों आया?"
+      },
+      "transliterations": {
+        "devanagari": "मंगळ ग्रहदल्लि बर एकॆ बंदितु?",
+        "latin": "maṃgaḻa grahadalli bara ekè baṃditu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "section": "exercise-B",
+      "text": "ಪುಟ್ಟಿ ಜನರಲ್ಲಿ ಏನನ್ನು ಉಳಿಸಲು ಬೇಡಿದಳು?",
+      "translations": {
+        "en": "What did Putti beg people to save?",
+        "hi": "पुट्टी ने लोगों से क्या बचाने को कहा?"
+      },
+      "transliterations": {
+        "devanagari": "पुट्टि जनरल्लि एनन्नु उळिसलु बेडिदळु?",
+        "latin": "puṭṭi janaralli enannu uḻisalu beḍidaḻu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "section": "exercise-C",
+      "text": "ಆಗಸದಲ್ಲಿ_________________ / _______________________ / _______________________ / _____________ಇದು ಕಷ್ಟ.",
+      "translations": {
+        "en": "Complete the stanza beginning ‘In the sky…’ ending ‘This is hard.’",
+        "hi": "‘आकाश में…’ से शुरू छंद पूरा करें।"
+      },
+      "transliterations": {
+        "devanagari": "आगसदल्लि_________________ / _______________________ / _______________________ / _____________इदु कष्ट.",
+        "latin": "āgasadalli_________________ / _______________________ / _______________________ / _____________idu kaṣṭa."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "section": "exercise-C",
+      "text": "ಮಳೆಬೆಳೆ________________ / _______________________ / _______________________ / ______________ಇದೇ ಗತಿ.",
+      "translations": {
+        "en": "Complete the stanza beginning ‘Rain crops…’ ending ‘this same fate.’",
+        "hi": "‘वर्षा फसल…’ छंद पूरा करें।"
+      },
+      "transliterations": {
+        "devanagari": "मळॆबॆळॆ________________ / _______________________ / _______________________ / ______________इदे गति.",
+        "latin": "maḻèbèḻè________________ / _______________________ / _______________________ / ______________ide gati."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "section": "exercise-D",
+      "text": "ಸಿ.ಎಂ.ಗೋವಿಂದರೆಡ್ಡಿಯವರ ಸ್ಥಳ, ಕಾಲ, ಕೃತಿಗಳ ವಿವರ ತಿಳಿಸಿರಿ.",
+      "translations": {
+        "en": "Give details of C.M. Govinda Reddy’s place, time and works.",
+        "hi": "सी.एम. गोविंदरेड्डी का स्थान, काल, कृतियाँ बताइए।"
+      },
+      "transliterations": {
+        "devanagari": "सि.ऎं.गोविंदरॆड्डियवर स्थळ, काल, कृतिगळ विवर तिळिसिरि.",
+        "latin": "si.èṃ.goviṃdarèḍḍiyavara sthaḻa, kāla, kṛtigaḻa vivara tiḻisiri."
+      },
+      "type": "question"
+    }
+  ]
+}

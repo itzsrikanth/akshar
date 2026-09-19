@@ -1,17 +1,168 @@
 # ಸಾರ್ಥಕ ಬದುಕಿನ ಸಾಧಕ-ಡಿ.ವಿ.ಜಿ.
 
-> Editorial draft — not served to production apps. No CC license is asserted for this draft.
+> Auto-generated from `source.kn.yaml` — do not edit manually. Edit the source YAML and run `python3 scripts/generate_readme.py` to regenerate.
 
-Editorial YAML under the same Git-only edition exception. Edition licensing remains unverified; excluded from production API and the repository's CC BY grant.
+> Currently showing **Deva, Latn** transliteration and **en-IN, hi-IN** translation as a sample — this is extensible to any script/language pair. See CONTRIBUTING.md to add one.
 
-License status: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted.
+**Board:** KSEEB · **State:** Karnataka · **Medium:** Kannada · **Grade:** 8 · **Subject:** Kannada · **Chapter:** 2 · **Author:** ಎನ್. ಎಸ್. ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಭಟ್ಟ
 
-The YAML files below preserve the complete draft. Lesson rendering is deferred until the API hold is cleared; this page is not a rendered lesson.
+Source: [https://diksha.gov.in](https://diksha.gov.in) · License: CC BY 4.0 · Publisher: KTBS
 
-- [Source YAML](source.kn.yaml)
-- [translation/en.yaml](translation/en.yaml)
-- [translation/hi.yaml](translation/hi.yaml)
-- [transliteration/devanagari.yaml](transliteration/devanagari.yaml)
-- [transliteration/latin.yaml](transliteration/latin.yaml)
+## Introduction · ಪ್ರವೇಶ · प्रवेश · praveśa · प्रवेश
 
-Generated from YAML and api-publication-holds.json; do not edit manually.
+- ಮಾನವನ ಜನ್ಮದ ಸಾರ್ಥಕತೆ, ಮೌಲ್ಯಯುತ ಜೀವನವನ್ನು ನಡೆಸುವುದರಿಂದ ಮಾತ್ರ ರೂಪುಗೊಳ್ಳಬಲ್ಲುದು. ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಸಾಧನೆಯ ಮೆಟ್ಟಿಲೇರುವ ವಿಪುಲ ಅವಕಾಶಗಳಿದ್ದರೂ ಸಾಧನೆಯನ್ನು ಸಾಧ್ಯವಾಗಿಸಿ ಕೊಂಡವರು ಕೆಲವರು ಮಾತ್ರ. ಇಂಥ ಸಾರ್ಥಕ ಬದುಕನ್ನು ಕಟ್ಟಿಕೊಂಡು ಮೌಲ್ಯಯುತ ಜೀವನ ನಡೆಸಿದ ಮಹಾನ್ ವ್ಯಕ್ತಿಗಳ ಜೀವನದ ಪ್ರಮುಖ ಘಟನೆಗಳ ಸ್ಥೂಲ ವಿಚಾರಗಳನ್ನು ಕಲಾತ್ಮಕವಾಗಿ ದಾಖಲಿಸುವುದೇ ‘ವ್ಯಕ್ತಿಚಿತ್ರ’.
+  - Deva: मानवन जन्मद सार्थकतॆ, मौल्ययुत जीवनवन्नु नडॆसुवुदरिंद मात्र रूपुगॊळ्ळबल्लुदु. प्रतियॊब्बरिगू साधनॆय मॆट्टिलेरुव विपुल अवकाशगळिद्दरू साधनॆयन्नु साध्यवागिसि कॊंडवरु कॆलवरु मात्र. इंथ सार्थक बदुकन्नु कट्टिकॊंडु मौल्ययुत जीवन नडॆसिद महान् व्यक्तिगळ जीवनद प्रमुख घटनॆगळ स्थूल विचारगळन्नु कलात्मकवागि दाखलिसुवुदे ‘व्यक्तिचित्र’.
+  - Latn: mānavana janmada sārthakatè, maulyayuta jīvanavannu naḍèsuvudariṃda mātra rūpugòḻḻaballudu. pratiyòbbarigū sādhanèya mèṭṭileruva vipula avakāśagaḻiddarū sādhanèyannu sādhyavāgisi kòṃḍavaru kèlavaru mātra. iṃtha sārthaka badukannu kaṭṭikòṃḍu maulyayuta jīvana naḍèsida mahān vyaktigaḻa jīvanada pramukha ghaṭanègaḻa sthūla vicāragaḻannu kalātmakavāgi dākhalisuvude ‘vyakticitra’.
+  - en-IN: The meaningfulness of human birth can take shape only by living a values-based life. Though everyone has chances to climb the ladder of achievement, only a few make achievement possible. Recording major events in the lives of such great people artistically is the 'character sketch' (vyaktichitra).
+  - hi-IN: मानव जन्म की सार्थकता मूल्ययुक्त जीवन से ही रूप ले सकती है। ऐसे महापुरुषों के जीवन की प्रमुख घटनाओं का कलात्मक चित्रण ही व्यक्तित्व-चित्र है।
+- ಇಂದು ಆತ್ಮಕಥನ, ಜೀವನಚರಿತ್ರೆಗಳಂತೆ ವ್ಯಕ್ತಿಚಿತ್ರವು ಸಹ ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಮುಖ ಸ್ಥಾನ ಪಡೆದುಕೊಂಡಿದೆ. ‘ಅಧಿಕಾರ’ ಎಂಬುದು ಮನುಷ್ಯನ ವ್ಯಕ್ತಿತ್ವದ ಸತ್ವಪರೀಕ್ಷೆ ಎನ್ನುತ್ತಾರೆ. ಲೌಕಿಕ ಆಸೆ ಆಮಿಷಗಳಿಗೆ ಒಳಗಾಗದ ವ್ಯಕ್ತಿ ಆದರ್ಶ ವ್ಯಕ್ತಿತ್ವ ಹೊಂದಬಲ್ಲ ಎನ್ನುವ ಮಾತಿಗನುಗುಣವಾಗಿ, ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಪ್ರತಿಮ ಧೀಮಂತರಾಗಿ ಬೆಳೆದವರು ಡಿ.ವಿ.ಜಿಯವರು. ಸಾಹಿತಿಯಾಗಿ, ಪತ್ರಕರ್ತರಾಗಿ, ಸಂಪಾದಕರಾಗಿ ಮತ್ತು ರಾಜಕಾರಣಿಯಾಗಿದ್ದರೂ ಸಹ ಬದುಕಿನ ಮೌಲ್ಯಗಳಿಗೆ ಬೆಲೆ ಕೊಟ್ಟು ಜೀವನವನ್ನು ಸಾರ್ಥಕಗೊಳಿಸಿಕೊಂಡ ಈ ಮಹಾನ್ ಸಾಧಕನ ಆದರ್ಶ ಬದುಕಿನ ಚಿತ್ರಣವನ್ನು ಪ್ರಕೃತ ಗದ್ಯಭಾಗದಲ್ಲಿ ಸ್ಮರಿಸಲಾಗಿದೆ.
+  - Deva: इंदु आत्मकथन, जीवनचरित्रॆगळंतॆ व्यक्तिचित्रवु सह कन्नड साहित्यदल्लि प्रमुख स्थान पडॆदुकॊंडिदॆ. ‘अधिकार’ ऎंबुदु मनुष्यन व्यक्तित्वद सत्वपरीक्षॆ ऎन्नुत्तारॆ. लौकिक आसॆ आमिषगळिगॆ ऒळगागद व्यक्ति आदर्श व्यक्तित्व हॊंदबल्ल ऎन्नुव मातिगनुगुणवागि, कन्नड साहित्यदल्लि अप्रतिम धीमंतरागि बॆळॆदवरु डि.वि.जियवरु. साहितियागि, पत्रकर्तरागि, संपादकरागि मत्तु राजकारणियागिद्दरू सह बदुकिन मौल्यगळिगॆ बॆलॆ कॊट्टु जीवनवन्नु सार्थकगॊळिसिकॊंड ई महान् साधकन आदर्श बदुकिन चित्रणवन्नु प्रकृत गद्यभागदल्लि स्मरिसलागिदॆ.
+  - Latn: iṃdu ātmakathana, jīvanacaritrègaḻaṃtè vyakticitravu saha kannaḍa sāhityadalli pramukha sthāna paḍèdukòṃḍidè. ‘adhikāra’ èṃbudu manuṣyana vyaktitvada satvaparīkṣè ènnuttārè. laukika āsè āmiṣagaḻigè òḻagāgada vyakti ādarśa vyaktitva hòṃdaballa ènnuva mātiganuguṇavāgi, kannaḍa sāhityadalli apratima dhīmaṃtarāgi bèḻèdavaru ḍi.vi.jiyavaru. sāhitiyāgi, patrakartarāgi, saṃpādakarāgi mattu rājakāraṇiyāgiddarū saha badukina maulyagaḻigè bèlè kòṭṭu jīvanavannu sārthakagòḻisikòṃḍa ī mahān sādhakana ādarśa badukina citraṇavannu prakṛta gadyabhāgadalli smarisalāgidè.
+
+## Story · ಗದ್ಯ · गद्य · gadya · कहानी
+
+ಡಿವಿಜಿ ಅವರು ತಮ್ಮೊಡನೆ ಮಾತು ನಿಲ್ಲಿಸಿಬಿಟ್ಟರೆಂದು ದಿವಾನ್ ಮಿರ್ಜಾ ಸಾಹೇಬರಿಗೆ ಕಳವಳವಾಗಿ ಹೋಗಿತ್ತು. ಆಪ್ತರೆದುರು ಅದನ್ನು ತೋಡಿಕೊಂಡರು. ತಮ್ಮದು ಏನೂ ತಪ್ಪಿಲ್ಲ ಎಂದರು. ಅದಕ್ಕಾಗಿ ಅವರಿವರ ಮೂಲಕ ಪ್ರಯತ್ನ ಕೂಡ ಮಾಡಿದರು. ಆ ಕಾಲದ ದೊಡ್ಡ ದಿವಾನರನ್ನೂ ತಮ್ಮ ಸ್ನೇಹಕ್ಕಾಗಿ ಹೀಗೆ ಹಾತೊರೆಯುವಂತೆ ಮಾಡಿದ ವ್ಯಕ್ತಿಯೇನು ಸಾಮಾನ್ಯರೆ? ಹಾಗೆಂದು ಅವರೇನು ದೊಡ್ಡದೊಡ್ಡ ಡಿಗ್ರಿ ಪಡೆದವರಲ್ಲ, ಎಸ್.ಎಸ್. ಎಲ್.ಸಿ. ಕೂಡ ದಾಟದ ಓದು. ಭಾರಿ ಶ್ರೀಮಂತರೋ ಎಂದರೆ ದಿನದಿನದ ಅಗತ್ಯ ಪೂರೈಸಿದ್ದೇ ಹೆಚ್ಚು ಎನ್ನುವಂಥ ಕೆಲಸ. ಸರ್ಕಾರಿ ಉದ್ಯೋಗವಲ್ಲವಾಗಿ ದೊಡ್ಡ ಅಧಿಕಾರದ ಮಾತಂತೂ ಇಲ್ಲವೇ ಇಲ್ಲ. ಆದರೆ ಮೈಸೂರು ರಾಜ್ಯದ ಪರಮೋಚ್ಚ ಅಧಿಕಾರ ಹಿಡಿದಿದ್ದ ಮಿರ್ಜಾ ಸಾಹೇಬರೂ ಅವರ ಸ್ನೇಹ ತಪ್ಪಿತೆನಿಸಿ ಕಳವಳಗೊಂಡಿದ್ದರು.  
+*Deva: डिविजि अवरु तम्मॊडनॆ मातु निल्लिसिबिट्टरॆंदु दिवान् मिर्जा साहेबरिगॆ कळवळवागि होगित्तु. आप्तरॆदुरु अदन्नु तोडिकॊंडरु. तम्मदु एनू तप्पिल्ल ऎंदरु. अदक्कागि अवरिवर मूलक प्रयत्न कूड माडिदरु. आ कालद दॊड्ड दिवानरन्नू तम्म स्नेहक्कागि हीगॆ हातॊरॆयुवंतॆ माडिद व्यक्तियेनु सामान्यरॆ? हागॆंदु अवरेनु दॊड्डदॊड्ड डिग्रि पडॆदवरल्ल, ऎस्.ऎस्. ऎल्.सि. कूड दाटद ओदु. भारि श्रीमंतरो ऎंदरॆ दिनदिनद अगत्य पूरैसिद्दे हॆच्चु ऎन्नुवंथ कॆलस. सर्कारि उद्योगवल्लवागि दॊड्ड अधिकारद मातंतू इल्लवे इल्ल. आदरॆ मैसूरु राज्यद परमोच्च अधिकार हिडिदिद्द मिर्जा साहेबरू अवर स्नेह तप्पितॆनिसि कळवळगॊंडिद्दरु.*  
+*Latn: ḍiviji avaru tammòḍanè mātu nillisibiṭṭarèṃdu divān mirjā sāhebarigè kaḻavaḻavāgi hogittu. āptarèduru adannu toḍikòṃḍaru. tammadu enū tappilla èṃdaru. adakkāgi avarivara mūlaka prayatna kūḍa māḍidaru. ā kālada dòḍḍa divānarannū tamma snehakkāgi hīgè hātòrèyuvaṃtè māḍida vyaktiyenu sāmānyarè? hāgèṃdu avarenu dòḍḍadòḍḍa ḍigri paḍèdavaralla, ès.ès. èl.si. kūḍa dāṭada odu. bhāri śrīmaṃtaro èṃdarè dinadinada agatya pūraisidde hèccu ènnuvaṃtha kèlasa. sarkāri udyogavallavāgi dòḍḍa adhikārada mātaṃtū illave illa. ādarè maisūru rājyada paramocca adhikāra hiḍididda mirjā sāhebarū avara sneha tappitènisi kaḻavaḻagòṃḍiddaru.*  
+ಇಂಥಾ ಸತ್ವಶಾಲಿ ವ್ಯಕ್ತಿತ್ವ ಡಿವಿಜಿಗೆ ಬಂದದ್ದು ಹೇಗೆ? ಕೇವಲ ಶೀಲ, ವಿವೇಕ, ನಿಸ್ಪøಹತೆ, ಸ್ವಯಂ ಆರ್ಜಿತ ಪಾಂಡಿತ್ಯ, ಸಾರ್ವಜನಿಕ ಹಿತಾಸಕ್ತಿಗಳ ಬಲದಿಂದ, ಮಿರ್ಜಾರ ಕಾಲಕ್ಕೆ ಡಿವಿಜಿ ದೊಡ್ಡ ಮೇಧಾವಿಯೆಂದು ವಿದ್ಯಾವಂತರ ವಲಯದಲ್ಲಿ ಹೆಸರಾಗಿದ್ದರು. ಡಿವಿಜಿ ಅವರ ಹುಟ್ಟೂರು ಕೋಲಾರ ಜಿಲ್ಲೆಗೆ ಸೇರಿದ ಮುಳಬಾಗಿಲು. ಅವರದು ವೇದಶಾಸ್ತ್ರ ಸಂಪನ್ನರಾದ ಹಿರಿಯರಿದ್ದ ಕುಟುಂಬ. ಅವರ ತಂದೆ ವೆಂಕಟರಮಣಯ್ಯ, ತಾಯಿ ಅಲಮೇಲಮ್ಮ. ಡಿವಿಜಿ ಅವರ ಮನಸ್ಸಿನ ಮೇಲೆ ಬಹಳ ಪ್ರಭಾವ ಬೀರಿದ ವ್ಯಕ್ತಿಗಳು ಇಬ್ಬರು. ಒಬ್ಬರು ಅವರ ಅಜ್ಜಿ, ಎಂದರೆ ತಾಯಿಯ ತಾಯಿ ಸಾಕಮ್ಮ. ಮಹರ್ಷಿಪ್ರಾಯರಾದ ಚೇತನ ಎಂದು ಡಿವಿಜಿ ಅವರನ್ನು ವರ್ಣಿಸಿದ್ದಾರೆ. ಇನ್ನೊಬ್ಬರು ಅವರ ಸೋದರಮಾವ ತಿಮ್ಮಪ್ಪ. ಪ್ರಸಿದ್ಧ ಕೃತಿಯಾದ ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗದಲ್ಲಿ ತಿಮ್ಮ ಅವರ ಹೃದಯಸ್ಪರ್ಶಿಯಾದ ಚಿತ್ರಣವಿದೆ. ಆ ಚಿತ್ರಣಕ್ಕೆ ಆಧಾರವಾದ ವ್ಯಕ್ತಿತ್ವ ಈ ತಿಮ್ಮಪ್ಪನವರದೇ. ಡಿವಿಜಿ ಮುಳಬಾಗಿಲಿನ ಆಂಗ್ಲೋ ವರ್ನಾಕ್ಯುಲರ್ ಶಾಲೆಯಲ್ಲಿ ಲೋವರ್ ಸೆಕೆಂಡರಿ ಶಿಕ್ಷಣವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದರು. ಮುಂದಿನ ಓದಿಗೆ ಬೇರೆ ಊರಿಗೇ ಹೋಗಬೇಕು; ಆದರೆ ಹಣದ ಅನುಕೂಲವಿಲ್ಲ. ಓದು ಇಲ್ಲಿಗೆ ಸಾಕು ಎಂದು ತಂದೆ, ಅಜ್ಜಿ ತೀರ್ಮಾನಿಸಿದರು. ಆದರೆ ಡಿವಿಜಿ ಅವರ ಭಾಗ್ಯ ಎಂಬಂತೆ ಅವರ ಸಹಾಯಕ್ಕೆ ಬಂದವನು ರಸೂಲ್ಖಾನ್. ಆತನೊಬ್ಬ ಬಂಡಿ ಹೊಡೆಯುವ ವ್ಯಕ್ತಿ. ಬಡವ, ಪ್ರಾಮಾಣಿಕ. ಡಿವಿಜಿ ಅವರ ತಂದೆಗೆ ಬೇಕಾಗಿದ್ದವನು. “ಗುಂಡಣ್ಣ ತುಂಬ ಚುರುಕಾದ ಹುಡುಗ. ಅವನು ಮುಂದೆ ಓದಲೇಬೇಕು”, ಅಂತ ರಸೂಲ್ಖಾನ್ ಹಟ ಹಿಡಿದುಬಿಟ್ಟ. “ನೀವೆಲ್ಲ ಏನಾದರು ಹೇಳಿ. ಅವನನ್ನು ನನ್ನ ಬಂಡಿಯಲ್ಲಿ ಕೂರಿಸಿಕೊಂಡು ಬೌರಿಂಗ್ ಪೇಟೆ (ಬಂಗಾರಪೇಟೆ) ಗೆ ಹೋಗ್ತಿನಿ. ಬೆಂಗಳೂರಿನ ರೈಲಿನಲ್ಲಿ ಕೂರಿಸಿ ಟಿಕೆಟ್ ಕೊಡಿಸಿ, ಒಂದು ರೂಪಾಯಿ ಕೈ ಖರ್ಚಿಗೆ ಕೊಟ್ಟುಬಿಡ್ತೀನಿ. ಅವನ ಓದು ಮಾತ್ರ ನಡೀಲೇಬೇಕು”. ರಸೂಲ್ಖಾನ್ನ ಈ ನಿರ್ಧಾರ ಎಲ್ಲರನ್ನೂ ದಂಗುಬಡಿಸಿತು. ಎಲ್ಲ ಅವನು ಹೇಳಿದಂತೆಯೇ ನಡೆಯಿತು. ಡಿವಿಜಿ ಬೆಂಗಳೂರನ್ನು ಕಂಡದ್ದು ಹೀಗೆ ರಸೂಲ್ಖಾನನ ದಯೆಯಿಂದ.  
+*Deva: इंथा सत्वशालि व्यक्तित्व डिविजिगॆ बंदद्दु हेगॆ? केवल शील, विवेक, निस्पøहतॆ, स्वयं आर्जित पांडित्य, सार्वजनिक हितासक्तिगळ बलदिंद, मिर्जार कालक्कॆ डिविजि दॊड्ड मेधावियॆंदु विद्यावंतर वलयदल्लि हॆसरागिद्दरु. डिविजि अवर हुट्टूरु कोलार जिल्लॆगॆ सेरिद मुळबागिलु. अवरदु वेदशास्त्र संपन्नराद हिरियरिद्द कुटुंब. अवर तंदॆ वॆंकटरमणय्य, तायि अलमेलम्म. डिविजि अवर मनस्सिन मेलॆ बहळ प्रभाव बीरिद व्यक्तिगळु इब्बरु. ऒब्बरु अवर अज्जि, ऎंदरॆ तायिय तायि साकम्म. महर्षिप्रायराद चेतन ऎंदु डिविजि अवरन्नु वर्णिसिद्दारॆ. इन्नॊब्बरु अवर सोदरमाव तिम्मप्प. प्रसिद्ध कृतियाद मंकुतिम्मन कग्गदल्लि तिम्म अवर हृदयस्पर्शियाद चित्रणविदॆ. आ चित्रणक्कॆ आधारवाद व्यक्तित्व ई तिम्मप्पनवरदे. डिविजि मुळबागिलिन आंग्लो वर्नाक्युलर् शालॆयल्लि लोवर् सॆकॆंडरि शिक्षणवन्नु पूर्णगॊळिसिदरु. मुंदिन ओदिगॆ बेरॆ ऊरिगे होगबेकु; आदरॆ हणद अनुकूलविल्ल. ओदु इल्लिगॆ साकु ऎंदु तंदॆ, अज्जि तीर्मानिसिदरु. आदरॆ डिविजि अवर भाग्य ऎंबंतॆ अवर सहायक्कॆ बंदवनु रसूल्खान्. आतनॊब्ब बंडि हॊडॆयुव व्यक्ति. बडव, प्रामाणिक. डिविजि अवर तंदॆगॆ बेकागिद्दवनु. “गुंडण्ण तुंब चुरुकाद हुडुग. अवनु मुंदॆ ओदलेबेकु”, अंत रसूल्खान् हट हिडिदुबिट्ट. “नीवॆल्ल एनादरु हेळि. अवनन्नु नन्न बंडियल्लि कूरिसिकॊंडु बौरिंग् पेटॆ (बंगारपेटॆ) गॆ होग्तिनि. बॆंगळूरिन रैलिनल्लि कूरिसि टिकॆट् कॊडिसि, ऒंदु रूपायि कै खर्चिगॆ कॊट्टुबिड्तीनि. अवन ओदु मात्र नडीलेबेकु”. रसूल्खान्न ई निर्धार ऎल्लरन्नू दंगुबडिसितु. ऎल्ल अवनु हेळिदंतॆये नडॆयितु. डिविजि बॆंगळूरन्नु कंडद्दु हीगॆ रसूल्खानन दयॆयिंद.*  
+*Latn: iṃthā satvaśāli vyaktitva ḍivijigè baṃdaddu hegè? kevala śīla, viveka, nispaøhatè, svayaṃ ārjita pāṃḍitya, sārvajanika hitāsaktigaḻa baladiṃda, mirjāra kālakkè ḍiviji dòḍḍa medhāviyèṃdu vidyāvaṃtara valayadalli hèsarāgiddaru. ḍiviji avara huṭṭūru kolāra jillègè serida muḻabāgilu. avaradu vedaśāstra saṃpannarāda hiriyaridda kuṭuṃba. avara taṃdè vèṃkaṭaramaṇayya, tāyi alamelamma. ḍiviji avara manassina melè bahaḻa prabhāva bīrida vyaktigaḻu ibbaru. òbbaru avara ajji, èṃdarè tāyiya tāyi sākamma. maharṣiprāyarāda cetana èṃdu ḍiviji avarannu varṇisiddārè. innòbbaru avara sodaramāva timmappa. prasiddha kṛtiyāda maṃkutimmana kaggadalli timma avara hṛdayasparśiyāda citraṇavidè. ā citraṇakkè ādhāravāda vyaktitva ī timmappanavarade. ḍiviji muḻabāgilina āṃglo varnākyular śālèyalli lovar sèkèṃḍari śikṣaṇavannu pūrṇagòḻisidaru. muṃdina odigè berè ūrige hogabeku; ādarè haṇada anukūlavilla. odu illigè sāku èṃdu taṃdè, ajji tīrmānisidaru. ādarè ḍiviji avara bhāgya èṃbaṃtè avara sahāyakkè baṃdavanu rasūlkhān. ātanòbba baṃḍi hòḍèyuva vyakti. baḍava, prāmāṇika. ḍiviji avara taṃdègè bekāgiddavanu. “guṃḍaṇṇa tuṃba curukāda huḍuga. avanu muṃdè odalebeku”, aṃta rasūlkhān haṭa hiḍidubiṭṭa. “nīvèlla enādaru heḻi. avanannu nanna baṃḍiyalli kūrisikòṃḍu bauriṃg peṭè (baṃgārapeṭè) gè hogtini. bèṃgaḻūrina railinalli kūrisi ṭikèṭ kòḍisi, òṃdu rūpāyi kai kharcigè kòṭṭubiḍtīni. avana odu mātra naḍīlebeku”. rasūlkhānna ī nirdhāra èllarannū daṃgubaḍisitu. èlla avanu heḻidaṃtèye naḍèyitu. ḍiviji bèṃgaḻūrannu kaṃḍaddu hīgè rasūlkhānana dayèyiṃda.*  
+ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ದಿವಾನರಾಗಿದ್ದ ಕಾಲ. ಡಿವಿಜಿ ಆಗ ಯುವ ಪತ್ರಕರ್ತ. ದಸರಾ ಉತ್ಸವ ಬಂತು. ರಾಜ್ಯದ ಎಲ್ಲ ಪತ್ರಿಕೆಗಳೂ ಅದರ ವಿಶೇಷ ವರದಿ ನೀಡಿದವು. ಇದಾದ ನಾಲ್ಕು ದಿನಕ್ಕೆ ಪತ್ರಕರ್ತರಿಗೆಲ್ಲ ಸರ್ಕಾರದಿಂದ ದೊಡ್ಡ ಮೊತ್ತ ಸಂಭಾವನೆ ರೂಪದಲ್ಲಿ ಹೋಯಿತು. ಡಿವಿಜಿ ತಮಗೆ ಬಂದಿದ್ದ ಹಣದ ಸಹಿತ ದಿವಾನರಲ್ಲಿಗೆ ಬಂದರು. “ಏನು ಬಂದಿರಿ ಗುಂಡಪ್ಪ?” “ನನಗೆ ಈ ಹಣ ಯಾಕೆ ಕಳಿಸಿದ್ದಾರೆ?” ದಸರಾ ಉತ್ಸವವನ್ನು ಚೆನ್ನಾಗಿ ವರದಿ ಮಾಡಿದ್ದೀರಿ, ಅದಕ್ಕೆ.  
+*Deva: विश्वेश्वरय्य अवरु दिवानरागिद्द काल. डिविजि आग युव पत्रकर्त. दसरा उत्सव बंतु. राज्यद ऎल्ल पत्रिकॆगळू अदर विशेष वरदि नीडिदवु. इदाद नाल्कु दिनक्कॆ पत्रकर्तरिगॆल्ल सर्कारदिंद दॊड्ड मॊत्त संभावनॆ रूपदल्लि होयितु. डिविजि तमगॆ बंदिद्द हणद सहित दिवानरल्लिगॆ बंदरु. “एनु बंदिरि गुंडप्प?” “ननगॆ ई हण याकॆ कळिसिद्दारॆ?” दसरा उत्सववन्नु चॆन्नागि वरदि माडिद्दीरि, अदक्कॆ.*  
+*Latn: viśveśvarayya avaru divānarāgidda kāla. ḍiviji āga yuva patrakarta. dasarā utsava baṃtu. rājyada èlla patrikègaḻū adara viśeṣa varadi nīḍidavu. idāda nālku dinakkè patrakartarigèlla sarkāradiṃda dòḍḍa mòtta saṃbhāvanè rūpadalli hoyitu. ḍiviji tamagè baṃdidda haṇada sahita divānaralligè baṃdaru. “enu baṃdiri guṃḍappa?” “nanagè ī haṇa yākè kaḻisiddārè?” dasarā utsavavannu cènnāgi varadi māḍiddīri, adakkè.*  
+“ಅದಕ್ಕೆ ಹಣ ಯಾಕೆ ಕಳಿಸಬೇಕು?” “ಪತ್ರಕರ್ತರಿಗೆ ಓಡಾಟ, ಖರ್ಚು ಇರುತ್ತದೆ. ಅಲ್ಲದೆ ಹಿಂದಿನಿಂದ ಬಂದ ಪದ್ಧತಿ” “ವರದಿ ಮಾಡುವುದು ಪತ್ರಕರ್ತರ ಕರ್ತವ್ಯ. ಅದಕ್ಕೆ ಖರ್ಚಾದರೆ ಪತ್ರಿಕೆಯವರು ಕೊಡಬೇಕು, ಸರ್ಕಾರವಲ್ಲ. ನನಗೆ ಈ ಹಣ ಖಂಡಿತ ಬೇಡ. ಬೇಡವೇ ಬೇಡ”. ಎಂದರು ಡಿವಿಜಿ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ತಮ್ಮ ಕಾರ್ಯದರ್ಶಿಗೆ ಹೇಳಿದರು. “ಈ ಮನುಷ್ಯನ ರೀತಿಯೇ ಬೇರೆ. ಇವರಿಗೆ ನಾವು ಹಣ ಕೊಡಲು ಬರುವುದಿಲ್ಲ. ಅದನ್ನು ಹಿಂದಕ್ಕೆ ತೆಗೆದುಕೊಂಡು ಬಿಡಿ!” ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ತಮ್ಮ ಕೆಲಸ ಕಾರ್ಯಗಳಲ್ಲಿ ಎಷ್ಟೋ ಜನ ಮೇಧಾವಿಗಳ ಸಹಾಯ ಪಡೆಯುತ್ತಿದ್ದರು. ಪ್ರತಿಯಾಗಿ ಅದಕ್ಕೆ ತಕ್ಕ ಸಂಭಾವನೆಯನ್ನು ಕೊಡುತ್ತಿದ್ದರು. ಡಿವಿಜಿ ಅವರಿಂದಲೂ ಅವರು ಅನೇಕ ಕೆಲಸ ಮಾಡಿಸಿಕೊಂಡಿದ್ದುಂಟು. ಮೊದಲ ಸಲ ಅವರಿಗೆ ಸಂಭಾವನೆ ಕೊಡಲು ಹೋದಾಗ ಡಿವಿಜಿ ಒಪ್ಪಲಿಲ್ಲ. ಇದು ರಾಜ್ಯದ ಕೆಲಸ. ಅಲ್ಲದೆ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಎಂಥ ಮಹಾವ್ಯಕ್ತಿ! ಅವರ ಜೊತೆಗೆ ವ್ಯವಹರಿಸಿದ್ದೇ ತಮಗೊಂದು ಹೆಮ್ಮೆ. ಹಾಗಿರುವಾಗ ಅದಕ್ಕೆ ಸಂಭಾವನೆಯೇ? ಎಂದಿಗೂ ಕೂಡದು. ಇದು ಅವರ ತರ್ಕ. ಆದರೆ ಈ ತರ್ಕ ನಡೆಯಲಿಲ್ಲ. ಡಿವಿಜಿ ಮೊಂಡಾದರೆ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಜಗಮೊಂಡು. ಇದು ನನ್ನ ವೈಯಕ್ತಿಕ ಕೆಲಸ. ನನಗೆ ಇದಕ್ಕೆ ಹಣ ಬರುತ್ತದೆ. ನೀವು ತೆಗೆದುಕೊಳ್ಳಲೇಬೇಕು. ಇಲ್ಲದಿದ್ದರೆ ಮುಂದೆ ನಿಮ್ಮ ಸಹಾಯವೇ ಬೇಡ ಎಂದು ಕೋಪಿಸಿಕೊಂಡರು. ಆಯಿತು; ತೆಗೆದುಕೊಳ್ಳಲು ಡಿವಿಜಿ ಒಪ್ಪಿದರು. ಮುಂದೆ ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರಿಗೆ ಪ್ರತಿಸಲವೂ ಚೆಕ್ಕು ಕೊಡುತ್ತಾ ಹೋದರು. ಡಿವಿಜಿ ಪಡೆಯುತ್ತಾ ಹೋದರು. ಆದರೆ ಆ ಚೆಕ್ಕುಗಳು ಬ್ಯಾಂಕಿನ ಮೆಟ್ಟಿಲನ್ನು ಹತ್ತಿದರೆ ತಾನೆ?  
+*Deva: “अदक्कॆ हण याकॆ कळिसबेकु?” “पत्रकर्तरिगॆ ओडाट, खर्चु इरुत्तदॆ. अल्लदॆ हिंदिनिंद बंद पद्धति” “वरदि माडुवुदु पत्रकर्तर कर्तव्य. अदक्कॆ खर्चादरॆ पत्रिकॆयवरु कॊडबेकु, सर्कारवल्ल. ननगॆ ई हण खंडित बेड. बेडवे बेड”. ऎंदरु डिविजि. विश्वेश्वरय्य अवरु तम्म कार्यदर्शिगॆ हेळिदरु. “ई मनुष्यन रीतिये बेरॆ. इवरिगॆ नावु हण कॊडलु बरुवुदिल्ल. अदन्नु हिंदक्कॆ तॆगॆदुकॊंडु बिडि!” विश्वेश्वरय्य अवरु तम्म कॆलस कार्यगळल्लि ऎष्टो जन मेधाविगळ सहाय पडॆयुत्तिद्दरु. प्रतियागि अदक्कॆ तक्क संभावनॆयन्नु कॊडुत्तिद्दरु. डिविजि अवरिंदलू अवरु अनेक कॆलस माडिसिकॊंडिद्दुंटु. मॊदल सल अवरिगॆ संभावनॆ कॊडलु होदाग डिविजि ऒप्पलिल्ल. इदु राज्यद कॆलस. अल्लदॆ विश्वेश्वरय्य ऎंथ महाव्यक्ति! अवर जॊतॆगॆ व्यवहरिसिद्दे तमगॊंदु हॆम्मॆ. हागिरुवाग अदक्कॆ संभावनॆये? ऎंदिगू कूडदु. इदु अवर तर्क. आदरॆ ई तर्क नडॆयलिल्ल. डिविजि मॊंडादरॆ विश्वेश्वरय्य जगमॊंडु. इदु नन्न वैयक्तिक कॆलस. ननगॆ इदक्कॆ हण बरुत्तदॆ. नीवु तॆगॆदुकॊळ्ळलेबेकु. इल्लदिद्दरॆ मुंदॆ निम्म सहायवे बेड ऎंदु कोपिसिकॊंडरु. आयितु; तॆगॆदुकॊळ्ळलु डिविजि ऒप्पिदरु. मुंदॆ विश्वेश्वरय्य अवरिगॆ प्रतिसलवू चॆक्कु कॊडुत्ता होदरु. डिविजि पडॆयुत्ता होदरु. आदरॆ आ चॆक्कुगळु ब्यांकिन मॆट्टिलन्नु हत्तिदरॆ तानॆ?*  
+*Latn: “adakkè haṇa yākè kaḻisabeku?” “patrakartarigè oḍāṭa, kharcu iruttadè. alladè hiṃdiniṃda baṃda paddhati” “varadi māḍuvudu patrakartara kartavya. adakkè kharcādarè patrikèyavaru kòḍabeku, sarkāravalla. nanagè ī haṇa khaṃḍita beḍa. beḍave beḍa”. èṃdaru ḍiviji. viśveśvarayya avaru tamma kāryadarśigè heḻidaru. “ī manuṣyana rītiye berè. ivarigè nāvu haṇa kòḍalu baruvudilla. adannu hiṃdakkè tègèdukòṃḍu biḍi!” viśveśvarayya avaru tamma kèlasa kāryagaḻalli èṣṭo jana medhāvigaḻa sahāya paḍèyuttiddaru. pratiyāgi adakkè takka saṃbhāvanèyannu kòḍuttiddaru. ḍiviji avariṃdalū avaru aneka kèlasa māḍisikòṃḍidduṃṭu. mòdala sala avarigè saṃbhāvanè kòḍalu hodāga ḍiviji òppalilla. idu rājyada kèlasa. alladè viśveśvarayya èṃtha mahāvyakti! avara jòtègè vyavaharisidde tamagòṃdu hèmmè. hāgiruvāga adakkè saṃbhāvanèye? èṃdigū kūḍadu. idu avara tarka. ādarè ī tarka naḍèyalilla. ḍiviji mòṃḍādarè viśveśvarayya jagamòṃḍu. idu nanna vaiyaktika kèlasa. nanagè idakkè haṇa baruttadè. nīvu tègèdukòḻḻalebeku. illadiddarè muṃdè nimma sahāyave beḍa èṃdu kopisikòṃḍaru. āyitu; tègèdukòḻḻalu ḍiviji òppidaru. muṃdè viśveśvarayya avarigè pratisalavū cèkku kòḍuttā hodaru. ḍiviji paḍèyuttā hodaru. ādarè ā cèkkugaḻu byāṃkina mèṭṭilannu hattidarè tānè?*  
+ಹಣವನ್ನು ಸರ್ಕಾರದ ಸಹಾಯವನ್ನು ಇಷ್ಟು ಉದಾಸೀನ ಮಾಡಿದ ವ್ಯಕ್ತಿ ಎಂಥ ‘ಶ್ರೀಮಂತ’ರಿದ್ದಿರಬಹುದು. ಒಮ್ಮೆ ಡಿವಿಜಿಯ ಬಂಧುಗಳೊಬ್ಬರ ಮನೆಯಲ್ಲಿ ಒಂದು ಉತ್ಸವ ನಡೆಯಿತು. ಡಿವಿಜಿಗೆ ಹೋಗಲು ಆಗಲಿಲ್ಲ. ಮಕ್ಕಳನ್ನು ಕಳಿಸಿದರು. ಆರತಿ ಅಕ್ಷತೆಯ ಹೊತ್ತಾದರೂ ಹೆಂಡತಿ ಮನೆಯಲ್ಲೇ ಇದ್ದಾರೆ. ಗಂಡ ಅಸಮಾಧಾನದಿಂದ ಕೇಳಿದರು. “ನೀನು ಉತ್ಸವಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲವೇ?” ‘ಇಲ್ಲ’ ‘ಯಾಕೆ’? ‘ಮಕ್ಕಳನ್ನು ಕಳಿಸಿದ್ದೇನಲ್ಲ’  
+*Deva: हणवन्नु सर्कारद सहायवन्नु इष्टु उदासीन माडिद व्यक्ति ऎंथ ‘श्रीमंत’रिद्दिरबहुदु. ऒम्मॆ डिविजिय बंधुगळॊब्बर मनॆयल्लि ऒंदु उत्सव नडॆयितु. डिविजिगॆ होगलु आगलिल्ल. मक्कळन्नु कळिसिदरु. आरति अक्षतॆय हॊत्तादरू हॆंडति मनॆयल्ले इद्दारॆ. गंड असमाधानदिंद केळिदरु. “नीनु उत्सवक्कॆ होगुवुदिल्लवे?” ‘इल्ल’ ‘याकॆ’? ‘मक्कळन्नु कळिसिद्देनल्ल’*  
+*Latn: haṇavannu sarkārada sahāyavannu iṣṭu udāsīna māḍida vyakti èṃtha ‘śrīmaṃta’riddirabahudu. òmmè ḍivijiya baṃdhugaḻòbbara manèyalli òṃdu utsava naḍèyitu. ḍivijigè hogalu āgalilla. makkaḻannu kaḻisidaru. ārati akṣatèya hòttādarū hèṃḍati manèyalle iddārè. gaṃḍa asamādhānadiṃda keḻidaru. “nīnu utsavakkè hoguvudillave?” ‘illa’ ‘yākè’? ‘makkaḻannu kaḻisiddenalla’*  
+“ಅದು ಸರಿ ನೀನೂ ಹೋಗಬೇಕಷ್ಟೆ. ಅವರು ನಮಗೆ ಬಹಳ ಬೇಕಾದವರು ನೀನು ಹೋಗದಿದ್ದರೆ ಬೇಸರಪಡುವುದಿಲ್ಲವೇ?” “ಮನೆಯಲ್ಲಿ ಯಾರಾದರೂ ಇರಬೇಕಲ್ಲ” “ನಾನು ಇರುತ್ತೇನೆ. ನೀನು ಹೋಗಿ ಬಾ.” ಅವರ ಹೆಂಡತಿ ಏನೇನೋ ಸಬೂಬು ಹೇಳಿದರು. ಡಿವಿಜಿ ಅದಕ್ಕೆ ಉತ್ತರ ಕೊಡುತ್ತಲೇ ಹೋದರು. ನಿಜವಾದ ಕಾರಣ ಕಡೆಗೆ ಹೊರಬರಲೇಬೇಕಾಯಿತು. “ನಾನು ಹೇಳಬಾರದೆಂದಿದ್ದೆ. ನೀವು ಪಟ್ಟುಹಿಡಿದು ನನ್ನ ಬಾಯಿ ಬಿಡಿಸುತ್ತಿದ್ದೀರಿ. ನನ್ನ ಹತ್ತಿರ ಇರುವುದು ಇದೊಂದೇ ಸೀರೆ. ಇದೂ ಒಂದೆರಡು ಕಡೆ ಹರಿದಿದೆ. ನಾನು ಈ ಬಟ್ಟೆಯಲ್ಲಿ ಹೊರಗೆ ಕಾಣಿಸಿಕೊಂಡರೆ ಜನ ನಿಮ್ಮನ್ನು ಕುರಿತು ಆಡಿಕೊಳ್ಳುವುದಿಲ್ಲವೇ? ಬಂಧುಗಳ ಮನೆಗೆ ಹೋಗಿಬರುವುದು ಹೇಗೆ ನನಗೆ ಕರ್ತವ್ಯವೋ ಹಾಗೇ ನಿಮ್ಮ ಮರ್ಯಾದೆಗೆ ಊನಬಾರದಂತೆ ನಡೆದುಕೊಳ್ಳುವುದೂ ನನಗೆ ಕರ್ತವ್ಯವೇ ಅಲ್ಲವೇ?” ಡಿವಿಜಿ ಅವರು ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ದಿಗ್ಗಜರಲ್ಲಿ ಒಬ್ಬರು. ಕನ್ನಡ ಸಾರಸ್ವತ ಲೋಕದ ಭೀಷ್ಮ ಎಂದು ಕರೆಸಿಕೊಂಡವರು. ಅವರದ್ದು ಹೋಲಿಕೆ ಇಲ್ಲದ ಅಪೂರ್ವ ವ್ಯಕ್ತಿತ್ವ. ಇತರ ಸಾಹಿತಿಗಳಂತೆ ಅವರು ಸಾಹಿತಿ ಮಾತ್ರವಾಗಿರಲಿಲ್ಲ. ಹೆಸರಾಂತ ಪತ್ರಕರ್ತರಾಗಿದ್ದರು. ಹಿರಿಯ ವೇದಾಂತಿಯಾಗಿದ್ದರು. ರಾಜ್ಯಶಾಸ್ತ್ರದಲ್ಲಿ ಆಳವಾದ ತಿಳಿವಳಿಕೆಯುಳ್ಳವರಾಗಿದ್ದರು. ಸಾರ್ವಜನಿಕ ಜೀವನಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಎಲ್ಲ ವಿಚಾರಗಳ ಮಂಥನಕ್ಕಾಗಿ ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ಸಂಸ್ಥೆಯಂಥ ಪ್ರಸಿದ್ಧ ಸಂಸ್ಥೆಯನ್ನು ಕಟ್ಟಿದ ಸಾಹಿತಿ ಬೇರೆ ಯಾರಿದ್ದಾರೆ? ಅವರನ್ನು ‘ಮಹಾ ಧೀಮಂತ’ ಎಂಬ ಮಾತಿನಿಂದ ವರ್ಣಿಸುವುದು ಸರಿಯಾದೀತೇನೋ. ಅವರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ಅವರು ಬರೆದ ಕವಿತೆಗಳ ಸಾಲುಗಳು ಬಹಳ ಸೊಗಸಾಗಿ ವರ್ಣಿಸುತ್ತವೆ. ಈ ಸಾಲುಗಳನ್ನು ಗಮನಿಸಿ.  
+*Deva: “अदु सरि नीनू होगबेकष्टॆ. अवरु नमगॆ बहळ बेकादवरु नीनु होगदिद्दरॆ बेसरपडुवुदिल्लवे?” “मनॆयल्लि यारादरू इरबेकल्ल” “नानु इरुत्तेनॆ. नीनु होगि बा.” अवर हॆंडति एनेनो सबूबु हेळिदरु. डिविजि अदक्कॆ उत्तर कॊडुत्तले होदरु. निजवाद कारण कडॆगॆ हॊरबरलेबेकायितु. “नानु हेळबारदॆंदिद्दॆ. नीवु पट्टुहिडिदु नन्न बायि बिडिसुत्तिद्दीरि. नन्न हत्तिर इरुवुदु इदॊंदे सीरॆ. इदू ऒंदॆरडु कडॆ हरिदिदॆ. नानु ई बट्टॆयल्लि हॊरगॆ काणिसिकॊंडरॆ जन निम्मन्नु कुरितु आडिकॊळ्ळुवुदिल्लवे? बंधुगळ मनॆगॆ होगिबरुवुदु हेगॆ ननगॆ कर्तव्यवो हागे निम्म मर्यादॆगॆ ऊनबारदंतॆ नडॆदुकॊळ्ळुवुदू ननगॆ कर्तव्यवे अल्लवे?” डिविजि अवरु आधुनिक कन्नड साहित्यद दिग्गजरल्लि ऒब्बरु. कन्नड सारस्वत लोकद भीष्म ऎंदु करॆसिकॊंडवरु. अवरद्दु होलिकॆ इल्लद अपूर्व व्यक्तित्व. इतर साहितिगळंतॆ अवरु साहिति मात्रवागिरलिल्ल. हॆसरांत पत्रकर्तरागिद्दरु. हिरिय वेदांतियागिद्दरु. राज्यशास्त्रदल्लि आळवाद तिळिवळिकॆयुळ्ळवरागिद्दरु. सार्वजनिक जीवनक्कॆ संबंधिसिद ऎल्ल विचारगळ मंथनक्कागि गोखलॆ सार्वजनिक संस्थॆयंथ प्रसिद्ध संस्थॆयन्नु कट्टिद साहिति बेरॆ यारिद्दारॆ? अवरन्नु ‘महा धीमंत’ ऎंब मातिनिंद वर्णिसुवुदु सरियादीतेनो. अवर व्यक्तित्ववन्नु अवरु बरॆद कवितॆगळ सालुगळु बहळ सॊगसागि वर्णिसुत्तवॆ. ई सालुगळन्नु गमनिसि.*  
+*Latn: “adu sari nīnū hogabekaṣṭè. avaru namagè bahaḻa bekādavaru nīnu hogadiddarè besarapaḍuvudillave?” “manèyalli yārādarū irabekalla” “nānu iruttenè. nīnu hogi bā.” avara hèṃḍati eneno sabūbu heḻidaru. ḍiviji adakkè uttara kòḍuttale hodaru. nijavāda kāraṇa kaḍègè hòrabaralebekāyitu. “nānu heḻabāradèṃdiddè. nīvu paṭṭuhiḍidu nanna bāyi biḍisuttiddīri. nanna hattira iruvudu idòṃde sīrè. idū òṃdèraḍu kaḍè harididè. nānu ī baṭṭèyalli hòragè kāṇisikòṃḍarè jana nimmannu kuritu āḍikòḻḻuvudillave? baṃdhugaḻa manègè hogibaruvudu hegè nanagè kartavyavo hāge nimma maryādègè ūnabāradaṃtè naḍèdukòḻḻuvudū nanagè kartavyave allave?” ḍiviji avaru ādhunika kannaḍa sāhityada diggajaralli òbbaru. kannaḍa sārasvata lokada bhīṣma èṃdu karèsikòṃḍavaru. avaraddu holikè illada apūrva vyaktitva. itara sāhitigaḻaṃtè avaru sāhiti mātravāgiralilla. hèsarāṃta patrakartarāgiddaru. hiriya vedāṃtiyāgiddaru. rājyaśāstradalli āḻavāda tiḻivaḻikèyuḻḻavarāgiddaru. sārvajanika jīvanakkè saṃbaṃdhisida èlla vicāragaḻa maṃthanakkāgi gokhalè sārvajanika saṃsthèyaṃtha prasiddha saṃsthèyannu kaṭṭida sāhiti berè yāriddārè? avarannu ‘mahā dhīmaṃta’ èṃba mātiniṃda varṇisuvudu sariyādīteno. avara vyaktitvavannu avaru barèda kavitègaḻa sālugaḻu bahaḻa sògasāgi varṇisuttavè. ī sālugaḻannu gamanisi.*  
+ವನಸುಮದೊಲೆನ್ನ ಜೀ ವನವು ವಿಕಸಿಸುವಂತೆ ಮನವನನುಗೊಳಿಸು ಗುರುವೇ - ಹೇ ದೇವ || ಕಾನನದಿ ಮಲ್ಲಿಗೆಯು ಮೌನದಿಂ ಬಿರಿದು ನಿಜ ಸೌರಭವ ಸೂಸಿ ನಲವಿಂ ತಾನೆಲೆಯ ಪಿಂತಿರ್ದು ದೀನತೆಯ ತೋರಿ ಅಭಿ ಮಾನವನು ತೊರೆದು ಕೃತಕೃತ್ಯತೆಯ ಪಡೆವಂತೆ  
+*Deva: वनसुमदॊलॆन्न जी वनवु विकसिसुवंतॆ मनवननुगॊळिसु गुरुवे - हे देव || काननदि मल्लिगॆयु मौनदिं बिरिदु निज सौरभव सूसि नलविं तानॆलॆय पिंतिर्दु दीनतॆय तोरि अभि मानवनु तॊरॆदु कृतकृत्यतॆय पडॆवंतॆ*  
+*Latn: vanasumadòlènna jī vanavu vikasisuvaṃtè manavananugòḻisu guruve - he deva || kānanadi malligèyu maunadiṃ biridu nija saurabhava sūsi nalaviṃ tānèlèya piṃtirdu dīnatèya tori abhi mānavanu tòrèdu kṛtakṛtyatèya paḍèvaṃtè*  
+ಇಳೆಯಿಂದ ಮೊಳಕೆ ಒಗೆವಂದು ತಮಟೆಗಳಿಲ್ಲ ಫಲ ಮಾಗುವಂದು ತುತ್ತೂರಿ ದನಿಯಿಲ್ಲ ಬೆಳಕೀವ ಸೂರ್ಯಚಂದ್ರರದೊಂದು ಸದ್ದಿಲ್ಲ ಹೊಲಿ ನಿನ್ನ ತುಟಿಗಳನು - ಮಂಕುತಿಮ್ಮ ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು ಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ ಬೆಲ್ಲ ಸಕ್ಕರೆಯಾಗು ದೀನ ದುರ್ಬಲರಿಂಗೆ ಎಲ್ಲರೊಳಗೊಂದಾಗು ಮಂಕುತಿಮ್ಮ.  
+*Deva: इळॆयिंद मॊळकॆ ऒगॆवंदु तमटॆगळिल्ल फल मागुवंदु तुत्तूरि दनियिल्ल बॆळकीव सूर्यचंद्ररदॊंदु सद्दिल्ल हॊलि निन्न तुटिगळनु - मंकुतिम्म हुल्लागु बॆट्टदडि मनॆगॆ मल्लिगॆयागु कल्लागु कष्टगळ मळॆय विधि सुरियॆ बॆल्ल सक्करॆयागु दीन दुर्बलरिंगॆ ऎल्लरॊळगॊंदागु मंकुतिम्म.*  
+*Latn: iḻèyiṃda mòḻakè ògèvaṃdu tamaṭègaḻilla phala māguvaṃdu tuttūri daniyilla bèḻakīva sūryacaṃdraradòṃdu saddilla hòli ninna tuṭigaḻanu - maṃkutimma hullāgu bèṭṭadaḍi manègè malligèyāgu kallāgu kaṣṭagaḻa maḻèya vidhi suriyè bèlla sakkarèyāgu dīna durbalariṃgè èllaròḻagòṃdāgu maṃkutimma.*  
+
+## Prose
+
+- ಡಾ. ಎನ್.ಎಸ್. ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಭಟ್ಟ ಅವರು29. 10. 1936ರಲ್ಲಿ ಶಿವಮೊಗ್ಗದಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಶಿವರಾಮ ಭಟ್ಟ, ತಾಯಿ ಮೂಕಾಂಬಿಕೆ. ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ಕನ್ನಡ ಅಧ್ಯಯನ ಕೇಂದ್ರದಲ್ಲಿ ಪ್ರಾಧ್ಯಾಪಕರಾಗಿ, ನಿರ್ದೇಶಕರಾಗಿ, ಆಟ್ರ್ಸ್ ಫ್ಯಾಕಲ್ಟಿಯ ಡೀನ್ ಆಗಿ ದುಡಿದಿದ್ದಾರೆ. ಇವರು ಶ್ರೇಷ್ಠ ಸಾಹಿತಿ, ಪ್ರೌಢ ವಿಮರ್ಶಕ, ಜನಪ್ರಿಯ ಭಾವಗೀತಕಾರ, ಸಮರ್ಥ ಅನುವಾದಕ, ವಿದ್ವಾಂಸ ಮತ್ತು ವಾಗ್ಮಿ. ಇವರ ಕವನ ಸಂಕಲನಗಳುವೃತ್ತ, ಚಿತ್ರಕೂಟ, ಸುಳಿ.ಇವರ ಪ್ರಸಿದ್ಧ ಧ್ವನಿ ಸುರುಳಿಗಳುದೀಪಿಕಾ, ಭಾವಸಂಗಮ, ಬಂದೇ ಬರತಾವ ಕಾಲ, ಬಾರೋ ವಸಂತ, ಅಭಿನಂದನ, ಭಾವೋತ್ಸವ, ಪ್ರೇಮಧಾರೆ.ಮಕ್ಕಳ ಧ್ವನಿ ಸುರುಳಿಗಳುನಂದನ, ಕಿನ್ನರಿ, ನವಿಲುಗರಿ, ಕಿಶೋರಿಮುಂತಾದವು. ಹತ್ತಾರು ಸಾಹಿತ್ಯ ಸಾಧಕರ ಜೀವನ ಘಟನೆಗಳ ಬಗೆಗೆ ಬೆಳಕು ಚೆಲ್ಲುವ ಸಾಹಿತ್ಯ ರತ್ನಸಂಪುಟಕೃತಿಯನ್ನು ರಚಿಸಿದ್ದಾರೆ. 2000ದಲ್ಲಿ ಹೂಸ್ಟನ್ನಿನಲ್ಲಿ ನಡೆದ ಪ್ರಥಮ ಅಮೆರಿಕಾ ವಿಶ್ವ ಕನ್ನಡ ಸಮ್ಮೇಳನದ ಕವಿಗೋಷ್ಠಿಯ ಅಧ್ಯಕ್ಷತೆ ವಹಿಸಿದ್ದರು.ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಶಿವರಾಮ ಕಾರಂತ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ಮಾಸ್ತಿ ಪ್ರಶಸ್ತಿ, ಆಳ್ವಾಸ್ ನುಡಿಸಿರಿ ಪ್ರಶಸ್ತಿ, ಆರ್ಯಭಟ ಪ್ರಶಸ್ತಿಇವೆಲ್ಲವೂ ಇವರ ಸಾಹಿತ್ಯ ಸೇವೆಗೆ ಸಂದಿವೆ. ಡಾ. ಎನ್. ಎಸ್. ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಭಟ್ಟ ಅವರ ಸಾಹಿತ್ಯ ರತ್ನ ಸಂಪುಟಕೃತಿಯಿಂದ ಪ್ರಸ್ತುತ ಗದ್ಯ ಭಾಗವನ್ನು ಆಯ್ದು ಸಂಪಾದಿಸಿ ನಿಗದಿಪಡಿಸಿದೆ.
+- ಭಾವ ಕನ್ನಡ ನಾಡು ರಸ ಋಷಿಗಳ ಬೀಡು. ಸಾಧು ಸತ್ಪುರುಷರ ನೆಲೆವೀಡು. ಕನ್ನಡ ನಾಡಿನಲ್ಲಿ ಹಲವಾರು ಸತ್ಪುರುಷರು ಜನಿಸಿ, ತ್ಯಾಗಜೀವನ ನಡೆಸಿ, ಇತರರಿಗೆ ಆದರ್ಶಪ್ರಾಯರಾಗಿದ್ದಾರೆ. ಇಂತಹ ಋಷಿಪ್ರಾಯರಾದವರಲ್ಲಿ ಡಿವಿಜಿ ಅವರೂ ಒಬ್ಬರು. ಸುಸಂಸ್ಕøತ ವಿದ್ಯಾವಂತರಾದ ಡಿವಿಜಿ ಅವರು ಸುಮಾರು 66 ಕೃತಿಗಳನ್ನು ಎಂದರೆ ಸುಮಾರು 8000 ಪುಟಗಳ ಸಾಹಿತ್ಯವನ್ನು 1500 ಪುಟಗಳ ಬಿಡಿ ಲೇಖನಗಳನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಿರಿವಂತ ಸಾಹಿತಿ. ಲೇಖಕ, ಪತ್ರಕರ್ತ, ಸಂಪಾದಕ, ಸಾಹಿತಿ ಮತ್ತು ರಾಜಕಾರಣಿಯಾಗಿ ಎಲ್ಲದಕ್ಕೂ ಮಿಗಿಲಾಗಿ ಲೌಕಿಕ ಆಸೆ ಆಮಿಷಗಳಿಗೆ ಒಳಗಾಗದೇ ಮೇರು ವ್ಯಕ್ತಿತ್ವದ ಆದರ್ಶ ವ್ಯಕ್ತಿಯಾಗಿ ಬಾಳಿ ಬದುಕಿದವರು ಡಾ. ಡಿ.ವಿ.ಗುಂಡಪ್ಪ ಅವರು. ತನಗಾಗಿ ಆಸ್ತಿ, ಹಣ ಮುಂತಾದುವನ್ನು ಗಳಿಸದೆ ಸದಾ ಸಮಾಜಮುಖಿಯಾಗಿ, ಆದರ್ಶ ರಾಷ್ಟ್ರ ನಿರ್ಮಾಣಕ್ಕಾಗಿ ದಣಿಯದೇ ದುಡಿದವರು ಡಿವಿಜಿ. ಅವರ ಸಾರ್ಥಕ ಬದುಕು, ಆದರ್ಶ ಜೀವನ ನಮ್ಮೆಲ್ಲರ ಬದುಕಿನ ಸೂತ್ರವಾಗಲಿ ಎಂಬುದೇ ಪಠ್ಯದ ಆಶಯ. * * *
+
+## Word Meanings · ಪದಗಳ ಅರ್ಥ · पदगळ अर्थ · padagaḻa artha · Word meanings · शब्दार्थ
+
+- **ಇಳೆ** — 
+  - Deva: इळॆ
+  - Latn: iḻè
+- **ಕಾನನ** — 
+  - Deva: कानन
+  - Latn: kānana
+- **ತರ್ಕ** — 
+  - Deva: तर्क
+  - Latn: tarka
+- **ತಿರುಪೆ** — 
+  - Deva: तिरुपॆ
+  - Latn: tirupè
+- **ಪರಮೋಚ್ಚ** — 
+  - Deva: परमोच्च
+  - Latn: paramocca
+- **ಮೆಟ್ರಿಕ್ಯುಲೇಷನ್** — 
+  - Deva: मॆट्रिक्युलेषन्
+  - Latn: mèṭrikyuleṣan
+- **ಮೇಧಾವಿ** — 
+  - Deva: मेधावि
+  - Latn: medhāvi
+- **ವನ** — 
+  - Deva: वन
+  - Latn: vana
+- **ಸಂಭಾವನೆ** — 
+  - Deva: संभावनॆ
+  - Latn: saṃbhāvanè
+- **ಸುಮ** — 
+  - Deva: सुम
+  - Latn: suma
+- **ವಿಕಸನ** — 
+  - Deva: विकसन
+  - Latn: vikasana
+
+## Exercise A · ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ. · अ. कॊट्टिरुव प्रश्नॆगळिगॆ ऒंदु वाक्यदल्लि उत्तरिसि. · a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi. · A. Answer the following questions. · अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+
+- ಡಿವಿಜಿ ಅವರ ಹುಟ್ಟೂರು ಯಾವುದು?
+  - Deva: डिविजि अवर हुट्टूरु यावुदु?
+  - Latn: ḍiviji avara huṭṭūru yāvudu?
+  - en-IN: Where was D.V.G. born?
+  - hi-IN: डी.वी.जी. का जन्म कहाँ हुआ?
+- ಡಿವಿಜಿ ಅವರ ಮನಸ್ಸಿನ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದವರು ಯಾರು?
+  - Deva: डिविजि अवर मनस्सिन मेलॆ प्रभाव बीरिदवरु यारु?
+  - Latn: ḍiviji avara manassina melè prabhāva bīridavaru yāru?
+- ಡಿವಿಜಿ ಅವರನ್ನು ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕಾಗಿ ಬೆಂಗಳೂರಿಗೆ ಕಳುಹಿಸಿದವರು ಯಾರು?
+  - Deva: डिविजि अवरन्नु विद्याभ्यासक्कागि बॆंगळूरिगॆ कळुहिसिदवरु यारु?
+  - Latn: ḍiviji avarannu vidyābhyāsakkāgi bèṃgaḻūrigè kaḻuhisidavaru yāru?
+- ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ಮೈಸೂರು ಸರ್ಕಾರದಲ್ಲಿ ಅಲಂಕರಿಸಿದ್ದ ಹುದ್ದೆ ಯಾವುದು?
+  - Deva: विश्वेश्वरय्य अवरु मैसूरु सर्कारदल्लि अलंकरिसिद्द हुद्दॆ यावुदु?
+  - Latn: viśveśvarayya avaru maisūru sarkāradalli alaṃkarisidda huddè yāvudu?
+- ಡಿವಿಜಿ ಅವರು ಸ್ಥಾಪಿಸಿದ ಸಂಸ್ಥೆ ಯಾವುದು?
+  - Deva: डिविजि अवरु स्थापिसिद संस्थॆ यावुदु?
+  - Latn: ḍiviji avaru sthāpisida saṃsthè yāvudu?
+
+## Exercise B · ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ. · आ. कॊट्टिरुव प्रश्नॆगळिगॆ ऎरडु-मूरु वाक्यगळल्लि उत्तरिसि. · ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi. · B. Answer the following questions. · आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+
+- ರಸೂಲ್ಖಾನ್ ಅವರು ಡಿವಿಜಿ ಅವರ ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕಾಗಿ ಮಾಡಿದ ಸಹಾಯವೇನು?
+  - Deva: रसूल्खान् अवरु डिविजि अवर विद्याभ्यासक्कागि माडिद सहायवेनु?
+  - Latn: rasūlkhān avaru ḍiviji avara vidyābhyāsakkāgi māḍida sahāyavenu?
+- ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು ತಮ್ಮ ಕಾರ್ಯದರ್ಶಿಗೆ ಏನು ಹೇಳಿದರು?
+  - Deva: विश्वेश्वरय्य अवरु तम्म कार्यदर्शिगॆ एनु हेळिदरु?
+  - Latn: viśveśvarayya avaru tamma kāryadarśigè enu heḻidaru?
+- ಡಿವಿಜಿ ಅವರು ಏಕೆ ಸಂಭಾವನೆಯನ್ನು ಪಡೆಯಲಿಲ್ಲ?
+  - Deva: डिविजि अवरु एकॆ संभावनॆयन्नु पडॆयलिल्ल?
+  - Latn: ḍiviji avaru ekè saṃbhāvanèyannu paḍèyalilla?
+- ಡಿವಿಜಿ ಅವರ ಶ್ರೀಮತಿ ಅವರು ಬಂಧುಗಳ ಮನೆಯಲ್ಲಿ ನಡೆದ ಉತ್ಸವಕ್ಕೆ ಏಕೆ ಹೋಗಿರಲಿಲ್ಲ?
+  - Deva: डिविजि अवर श्रीमति अवरु बंधुगळ मनॆयल्लि नडॆद उत्सवक्कॆ एकॆ होगिरलिल्ल?
+  - Latn: ḍiviji avara śrīmati avaru baṃdhugaḻa manèyalli naḍèda utsavakkè ekè hogiralilla?
+- ಎಲ್ಲರೊಳಗೊಂದಾಗಿ ಬಾಳುವ ಬಗೆಯನ್ನು ಡಿ.ವಿ.ಜಿ. ಹೇಗೆ ಚಿತ್ರಿಸಿದ್ದಾರೆ?
+  - Deva: ऎल्लरॊळगॊंदागि बाळुव बगॆयन्नु डि.वि.जि. हेगॆ चित्रिसिद्दारॆ?
+  - Latn: èllaròḻagòṃdāgi bāḻuva bagèyannu ḍi.vi.ji. hegè citrisiddārè?
+
+## Exercise C · ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ನಾಲ್ಕು-ಐದು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ. · इ. कॊट्टिरुव प्रश्नॆगळिगॆ नाल्कु-ऐदु वाक्यगळल्लि उत्तरिसि. · i. kòṭṭiruva praśnègaḻigè nālku-aidu vākyagaḻalli uttarisi. · C. Answer the following questions. · इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+
+- ಡಿವಿಜಿ ಅವರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ಸಂಗ್ರಹಿಸಿ ಬರೆಯಿರಿ.
+  - Deva: डिविजि अवर व्यक्तित्ववन्नु संग्रहिसि बरॆयिरि.
+  - Latn: ḍiviji avara vyaktitvavannu saṃgrahisi barèyiri.
+- ಡಿವಿಜಿ ಅವರಿಗೂ ಅವರ ಶ್ರೀಮತಿ ಅವರಿಗೂ ನಡೆದ ಸಂಭಾಷಣೆಯನ್ನು ಬರೆಯಿರಿ.
+  - Deva: डिविजि अवरिगू अवर श्रीमति अवरिगू नडॆद संभाषणॆयन्नु बरॆयिरि.
+  - Latn: ḍiviji avarigū avara śrīmati avarigū naḍèda saṃbhāṣaṇèyannu barèyiri.
+
+## Exercise D · ಈ. ಸಂದರ್ಭ ಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ. · ई. संदर्भ सहित स्वारस्यवन्नु विवरिसि. · ī. saṃdarbha sahita svārasyavannu vivarisi. · D. Answer the following questions. · ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+
+- “ಏನು ಬಂದಿರಿ ಗುಂಡಪ್ಪ?”
+  - Deva: “एनु बंदिरि गुंडप्प?”
+  - Latn: “enu baṃdiri guṃḍappa?”
+- “ನೀನು ಉತ್ಸವಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲವೇ?”
+  - Deva: “नीनु उत्सवक्कॆ होगुवुदिल्लवे?”
+  - Latn: “nīnu utsavakkè hoguvudillave?”
+- “ನನ್ನ ಹತ್ತಿರ ಇರುವುದು ಇದೊಂದೇ ಸೀರೆ”
+  - Deva: “नन्न हत्तिर इरुवुदु इदॊंदे सीरॆ”
+  - Latn: “nanna hattira iruvudu idòṃde sīrè”
+- “ಹೊಲಿ ನಿನ್ನ ತುಟಿಗಳನು ಮಂಕುತಿಮ್ಮ”
+  - Deva: “हॊलि निन्न तुटिगळनु मंकुतिम्म”
+  - Latn: “hòli ninna tuṭigaḻanu maṃkutimma”
+- “ಬೆಲ್ಲ ಸಕ್ಕರೆಯಾಗು ದೀನ ದುರ್ಬಲರಿಂಗೆ” ಉ.ಬಿಟ್ಟ ಸ್ಥಳವನ್ನು ಸೂಕ್ತ ಪದಗಳಿಂದ ತುಂಬಿರಿ.
+  - Deva: “बॆल्ल सक्करॆयागु दीन दुर्बलरिंगॆ” उ.बिट्ट स्थळवन्नु सूक्त पदगळिंद तुंबिरि.
+  - Latn: “bèlla sakkarèyāgu dīna durbalariṃgè” u.biṭṭa sthaḻavannu sūkta padagaḻiṃda tuṃbiri.
+- ಮೈಸೂರು ರಾಜ್ಯದ ಪರಮೋಚ್ಚ ಅಧಿಕಾರ ಹಿಡಿದಿದ್ದವರು ___________
+  - Deva: मैसूरु राज्यद परमोच्च अधिकार हिडिदिद्दवरु ___________
+  - Latn: maisūru rājyada paramocca adhikāra hiḍididdavaru ___________
+- ಮಿರ್ಜಾ ಅವರ ಕಾಲಕ್ಕೆ ಡಿವಿಜಿ ದೊಡ್ಡ ____________ ಎಂದು ವಿದ್ಯಾವಂತರ ವಲಯದಲ್ಲಿ ಹೆಸರಾಗಿದ್ದರು.
+  - Deva: मिर्जा अवर कालक्कॆ डिविजि दॊड्ड ____________ ऎंदु विद्यावंतर वलयदल्लि हॆसरागिद्दरु.
+  - Latn: mirjā avara kālakkè ḍiviji dòḍḍa ____________ èṃdu vidyāvaṃtara valayadalli hèsarāgiddaru.
+- ಮುಳಬಾಗಿಲು ________________ ಜಿಲ್ಲೆಗೆ ಸೇರಿದೆ.
+  - Deva: मुळबागिलु ________________ जिल्लॆगॆ सेरिदॆ.
+  - Latn: muḻabāgilu ________________ jillègè seridè.
+- ಡಿವಿಜಿ ಅವರು ಮುಳಬಾಗಿಲಿನ ______ ಶಾಲೆಯಲ್ಲಿ ಲೋಯರ್ ಸೆಕೆಂಡರಿ ಪೂರ್ತಿಗೊಳಿಸಿದರು.
+  - Deva: डिविजि अवरु मुळबागिलिन ______ शालॆयल्लि लोयर् सॆकॆंडरि पूर्तिगॊळिसिदरु.
+  - Latn: ḍiviji avaru muḻabāgilina ______ śālèyalli loyar sèkèṃḍari pūrtigòḻisidaru.
+- ಡಿವಿಜಿ ಅವರು ಕನ್ನಡ ಸಾರಸ್ವತ ಲೋಕದ _________ ಎಂದು ಕರೆಸಿಕೊಂಡರು.
+  - Deva: डिविजि अवरु कन्नड सारस्वत लोकद _________ ऎंदु करॆसिकॊंडरु.
+  - Latn: ḍiviji avaru kannaḍa sārasvata lokada _________ èṃdu karèsikòṃḍaru.

@@ -1,0 +1,1000 @@
+{
+  "identity": {
+    "bookId": "ktbs-savi-kannada-g1-fl-p1",
+    "chapterId": "ch01-vandane",
+    "editionId": "2026-27",
+    "number": 1
+  },
+  "labels": {
+    "exercise-A": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "\"\""
+    },
+    "exercise-B": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "\"\""
+    },
+    "exercise-C": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "\"\""
+    },
+    "intro": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಪಾಠ - ೧ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ",
+      "latin": "\"\""
+    },
+    "notes": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "\"\""
+    },
+    "poem": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಪದ್ಯ",
+      "latin": "\"\""
+    },
+    "title": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ವಂದನೆ",
+      "latin": "\"\""
+    },
+    "vocab": {
+      "devanagari": "\"\"",
+      "en": "\"\"",
+      "hi": "\"\"",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "\"\""
+    }
+  },
+  "meta": {
+    "author": "ಎಲ್. ಕೆ. ಕಂಬಾರ",
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch01-vandane",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ವಂದನೆ"
+  },
+  "schemaVersion": "2.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಅ) ಚಿತ್ರÀ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "prose"
+    },
+    {
+      "id": "intro-taayi",
+      "section": "intro",
+      "text": "ತಾಯಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-raita",
+      "section": "intro",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-vaidya",
+      "section": "intro",
+      "text": "ವೈದ್ಯ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-sainika",
+      "section": "intro",
+      "text": "ಸೈನಿಕ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "intro-tande",
+      "section": "intro",
+      "text": "ತಂದೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "poem-intro",
+      "section": "poem",
+      "text": "(ಈ ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಓದಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ನವಮಾಸ ಹೊತ್ತು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ನನ್ನನು ಹೆತ್ತು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಸಾಕಿದ ತಾಯಿಗೆ ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಮೈಮುರಿ ದುಡಿದು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ನನ್ನನು ಸಲುಹಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಬೆಳೆಸಿದ ತಂದೆಗೆ ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ವಿದ್ಯಾ ಬುದ್ಧಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಬಾಲ್ಯದಿ ಕಲಿಸಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ಹರಸಿದ ಗುರುವಿಗೆ ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಬಗೆ ಬಗೆ ರೋಗವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ವಾಸಿ ಮಾಡುವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ವೈದ್ಯೆಗೆ ಮಾಡುವೆ ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ನಿತ್ಯದಿ ದುಡಿದು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಅನ್ನವ ನೀಡುವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ರೈತಗೆ ಮಾಡುವೆ ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "stanza": 6,
+      "text": "ನಾಡಿನ ರಕ್ಷಣೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "stanza": 6,
+      "text": "ನಿತ್ಯದಿ ಮಾಡುವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "stanza": 6,
+      "text": "ಯೋಧಗೆ ಮಾಡುವೆ ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-maasa",
+      "text": "ಮಾಸ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hottu",
+      "text": "ಹೊತ್ತು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hettu",
+      "text": "ಹೆತ್ತು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-taayi",
+      "text": "ತಾಯಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dudi",
+      "text": "ದುಡಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-tande",
+      "text": "ತಂದೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vidye",
+      "text": "ವಿದ್ಯೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-buddhi",
+      "text": "ಬುದ್ಧಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-baalya",
+      "text": "ಬಾಲ್ಯ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-guru",
+      "text": "ಗುರು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-roga",
+      "text": "ರೋಗ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vaidye",
+      "text": "ವೈದ್ಯೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-raita",
+      "text": "ರೈತ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-naadu",
+      "text": "ನಾಡು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nitya",
+      "text": "ನಿತ್ಯ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-yodha",
+      "text": "ಯೋಧ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-maasa",
+      "text": "ಮಾಸ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-maasa-def",
+      "ref": "note-maasa",
+      "text": "ತಿಂಗಳು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-vandane",
+      "text": "ವಂದನೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-vandane-def",
+      "ref": "note-vandane",
+      "text": "ನಮಸ್ಕಾರ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-salahu",
+      "text": "ಸಲಹು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-salahu-def",
+      "ref": "note-salahu",
+      "text": "ಆರೈಕೆ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-nitya",
+      "text": "ನಿತ್ಯ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-nitya-def",
+      "ref": "note-nitya",
+      "text": "ಪ್ರತಿದಿನ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-intro",
+      "text": "ಅ) ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "1) ನವಮಾಸ ಹೊತ್ತು ಸಾಕಿದ _________",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "2) ಮೈಮುರಿ ದುಡಿದು ಬೆಳೆಸಿದ _________",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "3) ವಿದ್ಯಾ ಬುದ್ಧಿ ಕಲಿಸಿ ಹರಸಿದ _________",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "4) ನಿತ್ಯದಿ ದುಡಿದು ಅನ್ನವ ನೀಡುವ _________",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q5",
+      "text": "5) ರೋಗ ವಾಸಿ ಮಾಡುವ_________",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q6",
+      "text": "6) ನಾಡಿನ ರಕ್ಷಣೆ ಮಾಡುವ_________",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-intro",
+      "text": "ಆ) ಬಿಟ್ಟಿರುವ ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "1) ನವಮಾಸ ಹೊತ್ತು ನನ್ನನು",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "2) ಮೈಮುರಿ ದುಡಿದು ನನ್ನನು ಸಲುಹಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "3) ವಿದ್ಯಾ ಬುದ್ಧಿ ಬಾಲ್ಯದಿ ಕಲಿಸಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "4) ಬಗೆ ಬಗೆ ರೋಗವ ವಾಸಿ ಮಾಡುವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q5",
+      "text": "5) ನಿತ್ಯದಿ ದುಡಿದು ಅನ್ನವ ನೀಡುವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q6",
+      "text": "6) ನಾಡಿನ ರಕ್ಷಣೆ ನಿತ್ಯದಿ ಮಾಡುವ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-intro",
+      "text": "ಇ) ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಿ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ ಉತ್ತರ ಪಡೆಯಿರಿ",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "1. ವೈದ್ಯೆ ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "2. ರೈತರು ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "3. ಶಿಕ್ಷಕಿ ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?",
+      "translations": {
+        "en": "\"\"",
+        "hi": "\"\""
+      },
+      "transliterations": {
+        "devanagari": "\"\"",
+        "latin": "\"\""
+      },
+      "type": "question"
+    }
+  ]
+}

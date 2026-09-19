@@ -1,0 +1,1288 @@
+{
+  "labels": {
+    "competency": {
+      "devanagari": "जाण मरि — सामर्थ्य",
+      "en": "Clever Child — Skill",
+      "hi": "समझदार बच्चा — क्षमता",
+      "kn": "ಜಾಣ ಮರಿ — ಸಾಮರ್ಥ್ಯ",
+      "latin": "Jaana Mari — Saamarthya"
+    },
+    "exercise-A": {
+      "devanagari": "अभ्यास अ — ओंदोंदु वाक्यदल्लि उत्तर बरेयिरि",
+      "en": "Exercise A — Write each answer in one sentence",
+      "hi": "अभ्यास अ — हर प्रश्न का उत्तर एक वाक्य में लिखिए",
+      "kn": "ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ",
+      "latin": "Abhyaasa A — Ondondu vaakyadalli uttara bareyiri"
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ — कोट्टिरुव पदगळल्लि सरियाद पद आरिसि खालि स्थळदल्लि बरेयिरि.",
+      "en": "Exercise B — Choose the correct word from the given options and fill in the blank.",
+      "hi": "अभ्यास आ — दिए गए शब्दों में से सही शब्द चुनकर खाली स्थान भरिए।",
+      "kn": "ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಖಾಲಿ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ.",
+      "latin": "Abhyaasa Aa — Kottiruva padagalalli sariyaada pada aarisi khaali sthaladalli bareyiri."
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ — पद्यदल्लि बिट्टिरुव मुंदिन सालुगळन्नु बरेयिरि",
+      "en": "Exercise C — Write the missing lines from the poem",
+      "hi": "अभ्यास इ — कविता की छूटी हुई पंक्तियाँ लिखिए",
+      "kn": "ಅಭ್ಯಾಸ ಇ — ಪದ್ಯದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಮುಂದಿನ ಸಾಲುಗಳನ್ನು ಬರೆಯಿರಿ",
+      "latin": "Abhyaasa I — Padyadalli bittiruva mundina saalugalannu bareyiri"
+    },
+    "exercise-D": {
+      "devanagari": "भाषा चटुवटिके अ — मादरियंते कोट्टिरुव पदगळिगे प्रास पद बरेयिरि",
+      "en": "Language Activity A — Write rhyming words for the given words, as in the example",
+      "hi": "भाषा गतिविधि अ — उदाहरण की तरह दिए गए शब्दों के तुक वाले शब्द लिखिए",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಮಾದರಿಯಂತೆ ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಪ್ರಾಸ ಪದ ಬರೆಯಿರಿ",
+      "latin": "Bhaashaa Chatuvatike A — Maadariyante kottiruva padagalige praasa pada bareyiri"
+    },
+    "exercise-E": {
+      "devanagari": "भाषा चटुवटिके आ — कोट्टिरुव पदगळल्लि बरेहद सरियाद रूपवन्नु आरिसि बरेयिरि",
+      "en": "Language Activity B — Choose and write the correctly spelt form from each pair",
+      "hi": "भाषा गतिविधि आ — दिए गए शब्दों में से सही वर्तनी वाला रूप चुनकर लिखिए",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಬರೆಹದ ಸರಿಯಾದ ರೂಪವನ್ನು ಆರಿಸಿ ಬರೆಯಿರಿ",
+      "latin": "Bhaashaa Chatuvatike Aa — Kottiruva padagalalli barehada sariyaada roopavannu aarisi bareyiri"
+    },
+    "exercise-F": {
+      "devanagari": "भाषा चटुवटिके इ",
+      "en": "Language Activity C",
+      "hi": "भाषा गतिविधि इ",
+      "kn": "ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ",
+      "latin": "Bhaashaa Chatuvatike I"
+    },
+    "exercise-G": {
+      "devanagari": "बळके चटुवटिके अ",
+      "en": "Practical Activity A",
+      "hi": "व्यावहारिक गतिविधि अ",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ",
+      "latin": "Balake Chatuvatike A"
+    },
+    "exercise-H": {
+      "devanagari": "बळके चटुवटिके आ",
+      "en": "Practical Activity B",
+      "hi": "व्यावहारिक गतिविधि आ",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ",
+      "latin": "Balake Chatuvatike Aa"
+    },
+    "exercise-I": {
+      "devanagari": "बळके चटुवटिके इ — कोट्टिरुव सालुगळन्नु वेगवागि उच्चरिसि",
+      "en": "Practical Activity C — Say the given lines quickly",
+      "hi": "व्यावहारिक गतिविधि इ — दी गई पंक्तियाँ जल्दी-जल्दी बोलिए",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಇ — ಕೊಟ್ಟಿರುವ ಸಾಲುಗಳನ್ನು ವೇಗವಾಗಿ ಉಚ್ಚರಿಸಿ",
+      "latin": "Balake Chatuvatike I — Kottiruva saalugalannu vegavaagi uchcharisi"
+    },
+    "exercise-J": {
+      "devanagari": "बळके चटुवटिके ई",
+      "en": "Practical Activity D",
+      "hi": "व्यावहारिक गतिविधि ई",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಈ",
+      "latin": "Balake Chatuvatike Ee"
+    },
+    "exercise-K": {
+      "devanagari": "बळके चटुवटिके उ",
+      "en": "Practical Activity E",
+      "hi": "व्यावहारिक गतिविधि उ",
+      "kn": "ಬಳಕೆ ಚಟುವಟಿಕೆ ಉ",
+      "latin": "Balake Chatuvatike U"
+    },
+    "intro": {
+      "devanagari": "कलिकेगे दारि",
+      "en": "Getting Ready to Learn",
+      "hi": "सीखने की तैयारी",
+      "kn": "ಕಲಿಕೆಗೆ ದಾರಿ",
+      "latin": "Kalikege Daari"
+    },
+    "notes": {
+      "devanagari": "टिप्पणि",
+      "en": "Notes",
+      "hi": "टिप्पणी",
+      "kn": "ಟಿಪ್ಪಣಿ",
+      "latin": "Tippani"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "Padya"
+    },
+    "title": {
+      "devanagari": "कन्नडम्मन हरके",
+      "en": "Mother Kannada's Blessing",
+      "hi": "कन्नड़ माँ का आशीर्वाद",
+      "kn": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ",
+      "latin": "Kannadammana Harake"
+    },
+    "vocab": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word Meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "Padagala Artha"
+    }
+  },
+  "meta": {
+    "author": "ಕುವೆಂಪು",
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 4,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "Karnataka Textbook Society",
+    "slug": "ch01-kannadammana-harake",
+    "source_url": "https://diksha.gov.in/dial/B3S4J1",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಕನ್ನಡ ನಾಡಿನ ಬಗ್ಗೆ ನಿಮಗೆ ತಿಳಿದಿರುವ ಒಂದು ಹಾಡನ್ನು ತರಗತಿಯಲ್ಲಿ ರಾಗವಾಗಿ ಹಾಡಿರಿ.",
+      "translations": {
+        "en": "Sing a song you know about the land of Kannada to a tune in class.",
+        "hi": "कन्नड़ प्रदेश के बारे में तुम्हें जो गीत आता है, उसे कक्षा में सुर में गाओ।"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड नाडिन बग्गे निमगे तिळिदिरुव ओंदु हाडन्नु तरगतियल्लि रागवागि हाडिरि.",
+        "latin": "Kannada naadina bagge nimage tilidiruva ondu haadannu taragatiyalli raagavaagi haadiri."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಕನ್ನಡಕೆ ಹೋರಾಡು",
+      "translations": {
+        "en": "Strive for Kannada,",
+        "hi": "कन्नड़ के लिए संघर्ष करो,"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडके होराडु",
+        "latin": "Kannadake horaadu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಕನ್ನಡದ ಕಂದಾ;",
+      "translations": {
+        "en": "O child of Kannada;",
+        "hi": "कन्नड़ के प्यारे बच्चे;"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडद कंदा;",
+        "latin": "Kannadada kandaa;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಕನ್ನಡವ ಕಾಪಾಡು",
+      "translations": {
+        "en": "Protect Kannada,",
+        "hi": "कन्नड़ की रक्षा करो,"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडव कापाडु",
+        "latin": "Kannadava kaapaadu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ನನ್ನ ಆನಂದಾ |",
+      "translations": {
+        "en": "You who are my joy.",
+        "hi": "मेरे आनंद, मेरे लाल।"
+      },
+      "transliterations": {
+        "devanagari": "नन्न आनंदा |",
+        "latin": "Nanna aanandaa |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಜೋಗುಳದ ಹರಕೆಯಿದು",
+      "translations": {
+        "en": "This is a blessing in a lullaby;",
+        "hi": "यह लोरी में दिया आशीर्वाद है,"
+      },
+      "transliterations": {
+        "devanagari": "जोगुळद हरकेयिदु",
+        "latin": "Jogulada harakeyidu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಮರೆಯದಿರು, ಚಿನ್ನಾ;",
+      "translations": {
+        "en": "Do not forget it, my precious child.",
+        "hi": "इसे मत भूलना, मेरे प्यारे;"
+      },
+      "transliterations": {
+        "devanagari": "मरेयदिरु, चिन्ना;",
+        "latin": "Mareyadiru, chinnaa;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಮರೆತೆಯಾದರೆ ಅಯ್ಯೊ",
+      "translations": {
+        "en": "If you forget it, alas,",
+        "hi": "अगर भूल गए, तो हाय,"
+      },
+      "transliterations": {
+        "devanagari": "मरेतेयादरे अय्यो",
+        "latin": "Mareteyaadare ayyo"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಮರೆತಂತೆ ನನ್ನ |",
+      "translations": {
+        "en": "It is as though you have forgotten me.",
+        "hi": "मानो मुझे ही भूल गए।"
+      },
+      "transliterations": {
+        "devanagari": "मरेतंते नन्न |",
+        "latin": "Maretante nanna |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಮೊಲೆಯ ಹಾಲೆಂತಂತೆ",
+      "translations": {
+        "en": "Like a mother's milk,",
+        "hi": "माँ के दूध की तरह,"
+      },
+      "transliterations": {
+        "devanagari": "मोलेय हालेंतंते",
+        "latin": "Moleya haalentante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ಸವಿಜೇನು ಬಾಯ್ಗೆ;",
+      "translations": {
+        "en": "It is sweet honey to the mouth;",
+        "hi": "यह मुँह में मीठा शहद है;"
+      },
+      "transliterations": {
+        "devanagari": "सविजेनु बाय्गे;",
+        "latin": "Savijenu baayge;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ತಾಯಿಯಪ್ಪುಗೆಯಂತೆ",
+      "translations": {
+        "en": "Like a mother's embrace,",
+        "hi": "माँ की बाँहों की तरह,"
+      },
+      "transliterations": {
+        "devanagari": "तायियप्पुगेयंते",
+        "latin": "Taayiyappugeyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಬಲುಸೊಗಸು ಮೆಯ್ಗೆ |",
+      "translations": {
+        "en": "It brings great comfort to the body.",
+        "hi": "यह तन को बड़ा सुख देती है।"
+      },
+      "transliterations": {
+        "devanagari": "बलुसोगसु मेय्गे |",
+        "latin": "Balusogasu meyge |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ಗುರುವಿನೊಳ್ನುಡಿಯಂತೆ",
+      "translations": {
+        "en": "Like a teacher's good words,",
+        "hi": "गुरु के अच्छे वचनों की तरह,"
+      },
+      "transliterations": {
+        "devanagari": "गुरुविनोळ्नुडियंते",
+        "latin": "Guruvinolnudiyante"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಶ್ರೇಯಸ್ಸು ಬಾಳ್ಗೆ;",
+      "translations": {
+        "en": "It brings well-being to life;",
+        "hi": "यह जीवन का कल्याण करती है;"
+      },
+      "transliterations": {
+        "devanagari": "श्रेयस्सु बाळ्गे;",
+        "latin": "Shreyassu baalge;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ತಾಯ್ನುಡಿಗೆ ದುಡಿದು ಮಡಿ",
+      "translations": {
+        "en": "Work for your mother tongue till you die,",
+        "hi": "जीवन के अंत तक मातृभाषा के लिए काम करो,"
+      },
+      "transliterations": {
+        "devanagari": "ताय्नुडिगे दुडिदु मडि",
+        "latin": "Taaynudige dudidu madi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಇಹಪರಗಳೇಳ್ಗೆ |",
+      "translations": {
+        "en": "For well-being in this world and the next.",
+        "hi": "इस लोक और परलोक के कल्याण के लिए।"
+      },
+      "transliterations": {
+        "devanagari": "इहपरगळेळ्गे |",
+        "latin": "Ihaparagalelge |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ದಮ್ಮಯ್ಯ ಕಂದಯ್ಯ",
+      "translations": {
+        "en": "I implore you, dear child,",
+        "hi": "विनती करती हूँ, मेरे बच्चे,"
+      },
+      "transliterations": {
+        "devanagari": "दम्मय्य कंदय्य",
+        "latin": "Dammayya kandayya"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಬೇಡುವೆನು ನಿನ್ನ;",
+      "translations": {
+        "en": "I plead with you;",
+        "hi": "तुमसे प्रार्थना करती हूँ;"
+      },
+      "transliterations": {
+        "devanagari": "बेडुवेनु निन्न;",
+        "latin": "Beduvenu ninna;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l3",
+      "stanza": 5,
+      "text": "ಕನ್ನಡಮ್ಮನ ಹರಕೆ,",
+      "translations": {
+        "en": "Mother Kannada's blessing—",
+        "hi": "कन्नड़ माँ का आशीर्वाद,"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडम्मन हरके,",
+        "latin": "Kannadammana harake,"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l4",
+      "stanza": 5,
+      "text": "ಮರೆಯದಿರು, ಚಿನ್ನಾ |",
+      "translations": {
+        "en": "Do not forget it, my precious child.",
+        "hi": "मत भूलना, मेरे प्यारे।"
+      },
+      "transliterations": {
+        "devanagari": "मरेयदिरु, चिन्ना |",
+        "latin": "Mareyadiru, chinnaa |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l1",
+      "stanza": 6,
+      "text": "ಮರೆತೆಯಾದರೆ ಅಯ್ಯೊ;",
+      "translations": {
+        "en": "If you forget it, alas,",
+        "hi": "अगर भूल गए, तो हाय,"
+      },
+      "transliterations": {
+        "devanagari": "मरेतेयादरे अय्यो;",
+        "latin": "Mareteyaadare ayyo;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l2",
+      "stanza": 6,
+      "text": "ಮರೆತಂತೆ ನನ್ನ;",
+      "translations": {
+        "en": "It is as though you have forgotten me;",
+        "hi": "मानो मुझे ही भूल गए;"
+      },
+      "transliterations": {
+        "devanagari": "मरेतंते नन्न;",
+        "latin": "Maretante nanna;"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l3",
+      "stanza": 6,
+      "text": "ಹೋರಾಡು ಕನ್ನಡಕೆ",
+      "translations": {
+        "en": "Strive for Kannada",
+        "hi": "कन्नड़ के लिए संघर्ष करो,"
+      },
+      "transliterations": {
+        "devanagari": "होराडु कन्नडके",
+        "latin": "Horaadu kannadake"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s6l4",
+      "stanza": 6,
+      "text": "ಕಲಿಯಾಗಿ, ರನ್ನಾ |",
+      "translations": {
+        "en": "Like a brave hero, my jewel.",
+        "hi": "वीर बनकर, मेरे रतन।"
+      },
+      "transliterations": {
+        "devanagari": "कलियागि, रन्ना |",
+        "latin": "Kaliyaagi, rannaa |"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "intro-2",
+      "section": "intro",
+      "text": "ಕಂದ ಕಲಿತರೆ ಕನ್ನಡವ, ಎಂದೆಂದಿಗೂ ಮುನ್ನಡೆವ",
+      "translations": {
+        "en": "A child who learns Kannada will keep moving forward.",
+        "hi": "कन्नड़ सीखने वाला बच्चा सदा आगे बढ़ेगा।"
+      },
+      "transliterations": {
+        "devanagari": "कंद कलितरे कन्नडव, एंदेंदिगू मुन्नडेव",
+        "latin": "Kanda kalitare kannadava, endendigoo munnadeva"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "vocab-kaapaadu",
+      "text": "ಕಾಪಾಡು",
+      "translations": {
+        "en": "Protect",
+        "hi": "रक्षा करना"
+      },
+      "transliterations": {
+        "devanagari": "कापाडु",
+        "latin": "Kaapaadu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kaapaadu-def",
+      "ref": "vocab-kaapaadu",
+      "text": "ರಕ್ಷಿಸು, ಪೋಷಿಸು",
+      "translations": {
+        "en": "Safeguard, nurture",
+        "hi": "बचाना, पालन-पोषण करना"
+      },
+      "transliterations": {
+        "devanagari": "रक्षिसु, पोषिसु",
+        "latin": "Rakshisu, poshisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-dudi",
+      "text": "ದುಡಿ",
+      "translations": {
+        "en": "Work",
+        "hi": "काम करना"
+      },
+      "transliterations": {
+        "devanagari": "दुडि",
+        "latin": "Dudi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dudi-def",
+      "ref": "vocab-dudi",
+      "text": "ಕೆಲಸ ಮಾಡು, ಶ್ರಮಪಡು",
+      "translations": {
+        "en": "Do work, make an effort",
+        "hi": "काम करना, मेहनत करना"
+      },
+      "transliterations": {
+        "devanagari": "केलस माडु, श्रमपडु",
+        "latin": "Kelasa maadu, shramapadu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-bedu",
+      "text": "ಬೇಡು",
+      "translations": {
+        "en": "Plead",
+        "hi": "विनती करना"
+      },
+      "transliterations": {
+        "devanagari": "बेडु",
+        "latin": "Bedu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-bedu-def",
+      "ref": "vocab-bedu",
+      "text": "ಕೇಳು, ಯಾಚಿಸು",
+      "translations": {
+        "en": "Ask, beg",
+        "hi": "माँगना, याचना करना"
+      },
+      "transliterations": {
+        "devanagari": "केळु, याचिसु",
+        "latin": "Kelu, yaachisu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-madi",
+      "text": "ಮಡಿ",
+      "translations": {
+        "en": "Die",
+        "hi": "मरना"
+      },
+      "transliterations": {
+        "devanagari": "मडि",
+        "latin": "Madi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-madi-def",
+      "ref": "vocab-madi",
+      "text": "ಸಾವು, ಮರಣ ಹೊಂದು",
+      "translations": {
+        "en": "Die, meet one's death",
+        "hi": "मरना, मृत्यु को प्राप्त होना"
+      },
+      "transliterations": {
+        "devanagari": "सावु, मरण होंदु",
+        "latin": "Saavu, marana hondu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-shreyassu",
+      "text": "ಶ್ರೇಯಸ್ಸು",
+      "translations": {
+        "en": "Well-being",
+        "hi": "कल्याण"
+      },
+      "transliterations": {
+        "devanagari": "श्रेयस्सु",
+        "latin": "Shreyassu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-shreyassu-def",
+      "ref": "vocab-shreyassu",
+      "text": "ಏಳಿಗೆ, ಅಭಿವೃದ್ಧಿ",
+      "translations": {
+        "en": "Progress, development",
+        "hi": "उन्नति, विकास"
+      },
+      "transliterations": {
+        "devanagari": "एळिगे, अभिवृद्धि",
+        "latin": "Elige, abhivruddhi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-horaadu",
+      "text": "ಹೋರಾಡು",
+      "translations": {
+        "en": "Strive",
+        "hi": "संघर्ष करना"
+      },
+      "transliterations": {
+        "devanagari": "होराडु",
+        "latin": "Horaadu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-horaadu-def",
+      "ref": "vocab-horaadu",
+      "text": "ಸೆಣಸು, ಹೋರಾಟ ಮಾಡು",
+      "translations": {
+        "en": "Struggle, fight",
+        "hi": "जूझना, लड़ना"
+      },
+      "transliterations": {
+        "devanagari": "सेणसु, होराट माडु",
+        "latin": "Senasu, horaata maadu"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-appuge",
+      "text": "ಅಪ್ಪುಗೆ",
+      "translations": {
+        "en": "Embrace",
+        "hi": "आलिंगन"
+      },
+      "transliterations": {
+        "devanagari": "अप्पुगे",
+        "latin": "Appuge"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-appuge-def",
+      "ref": "vocab-appuge",
+      "text": "ಆಲಿಂಗನ",
+      "translations": {
+        "en": "A hug",
+        "hi": "गले लगाना"
+      },
+      "transliterations": {
+        "devanagari": "आलिंगन",
+        "latin": "Aalingana"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-kali",
+      "text": "ಕಲಿ",
+      "translations": {
+        "en": "Hero",
+        "hi": "वीर"
+      },
+      "transliterations": {
+        "devanagari": "कलि",
+        "latin": "Kali"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-kali-def",
+      "ref": "vocab-kali",
+      "text": "ವೀರ, ಶೂರ",
+      "translations": {
+        "en": "A brave person, a warrior",
+        "hi": "बहादुर, शूरवीर"
+      },
+      "transliterations": {
+        "devanagari": "वीर, शूर",
+        "latin": "Veera, shoora"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "vocab-savi",
+      "text": "ಸವಿ",
+      "translations": {
+        "en": "Taste",
+        "hi": "स्वाद"
+      },
+      "transliterations": {
+        "devanagari": "सवि",
+        "latin": "Savi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-savi-def",
+      "ref": "vocab-savi",
+      "text": "ರುಚಿ",
+      "translations": {
+        "en": "Flavour",
+        "hi": "स्वाद"
+      },
+      "transliterations": {
+        "devanagari": "रुचि",
+        "latin": "Ruchi"
+      },
+      "type": "vocabulary_definition"
+    },
+    {
+      "id": "note-ihapara",
+      "text": "ಇಹಪರ",
+      "translations": {
+        "en": "This world and the next",
+        "hi": "इहलोक और परलोक"
+      },
+      "transliterations": {
+        "devanagari": "इहपर",
+        "latin": "Ihapara"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-ihapara-def",
+      "ref": "note-ihapara",
+      "text": "ಲೌಕಿಕ-ಅಲೌಕಿಕ ಬದುಕು; ಈ ಲೋಕ ಪರಲೋಕ",
+      "translations": {
+        "en": "Earthly and spiritual life; this world and the next world.",
+        "hi": "लौकिक और अलौकिक जीवन; यह लोक और परलोक।"
+      },
+      "transliterations": {
+        "devanagari": "लौकिक-अलौकिक बदुकु; ई लोक परलोक",
+        "latin": "Laukika-alaukika baduku; ee loka paraloka"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-jogula",
+      "text": "ಜೋಗುಳ",
+      "translations": {
+        "en": "Lullaby",
+        "hi": "लोरी"
+      },
+      "transliterations": {
+        "devanagari": "जोगुळ",
+        "latin": "Jogula"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-jogula-def",
+      "ref": "note-jogula",
+      "text": "ಮಕ್ಕಳನ್ನು ಮಲಗಿಸುವಾಗ ಹಾಡುವ ಪದ, ಲಾಲಿ ಹಾಡು.",
+      "translations": {
+        "en": "A song sung to put children to sleep.",
+        "hi": "बच्चों को सुलाते समय गाया जाने वाला गीत।"
+      },
+      "transliterations": {
+        "devanagari": "मक्कळन्नु मलगिसुवाग हाडुव पद, लालि हाडु.",
+        "latin": "Makkalannu malagisuvaaga haaduva pada, laali haadu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-taaynudi",
+      "text": "ತಾಯ್ನುಡಿ",
+      "translations": {
+        "en": "Mother tongue",
+        "hi": "मातृभाषा"
+      },
+      "transliterations": {
+        "devanagari": "ताय्नुडि",
+        "latin": "Taaynudi"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-taaynudi-def",
+      "ref": "note-taaynudi",
+      "text": "ತಾಯಿ ಮಾತು, ಮಾತೃಭಾಷೆ, ಮನೆಮಾತು.",
+      "translations": {
+        "en": "A mother's language, one's native language, the language spoken at home.",
+        "hi": "माँ की बोली, मातृभाषा, घर की भाषा।"
+      },
+      "transliterations": {
+        "devanagari": "तायि मातु, मातृभाषे, मनेमातु.",
+        "latin": "Taayi maatu, maatrubhaashe, manemaatu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-dammayya",
+      "text": "ದಮ್ಮಯ್ಯ",
+      "translations": {
+        "en": "I implore you",
+        "hi": "विनती करती हूँ"
+      },
+      "transliterations": {
+        "devanagari": "दम्मय्य",
+        "latin": "Dammayya"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dammayya-def",
+      "ref": "note-dammayya",
+      "text": "ದೀನತೆಯಿಂದ ಬೇಡುವುದು.",
+      "translations": {
+        "en": "Pleading humbly.",
+        "hi": "विनम्रता से प्रार्थना करना।"
+      },
+      "transliterations": {
+        "devanagari": "दीनतेयिंद बेडुवुदु.",
+        "latin": "Deenateyinda beduvudu."
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಕನ್ನಡದ ಕಂದ ಯಾವುದಕ್ಕಾಗಿ ಹೋರಾಡಬೇಕು?",
+      "translations": {
+        "en": "What should the child of Kannada strive for?",
+        "hi": "कन्नड़ के बच्चे को किसके लिए संघर्ष करना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडद कंद यावुदक्कागि होराडबेकु?",
+        "latin": "Kannadada kanda yaavudakkaagi horaadabeku?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಕನ್ನಡವನ್ನು ಮರೆತರೆ ಯಾರನ್ನು ಮರೆತಂತೆ?",
+      "translations": {
+        "en": "Whom is one said to have forgotten if one forgets Kannada?",
+        "hi": "कन्नड़ को भूलने पर किसे भूल जाने जैसा होता है?"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडवन्नु मरेतरे यारन्नु मरेतंते?",
+        "latin": "Kannadavannu maretare yaarannu maretante?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ಕನ್ನಡದ ಕಂದ ಯಾವುದನ್ನು ಮರೆಯಬಾರದು?",
+      "translations": {
+        "en": "What must the child of Kannada not forget?",
+        "hi": "कन्नड़ के बच्चे को क्या नहीं भूलना चाहिए?"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडद कंद यावुदन्नु मरेयबारदु?",
+        "latin": "Kannadada kanda yaavudannu mareyabaaradu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ಕನ್ನಡ ನುಡಿಯ ಸೊಗಸನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸಲಾಗಿದೆ?",
+      "translations": {
+        "en": "What is the sweetness of the Kannada language compared to?",
+        "hi": "कन्नड़ भाषा की मधुरता की तुलना किससे की गई है?"
+      },
+      "transliterations": {
+        "devanagari": "कन्नड नुडिय सोगसन्नु यावुदक्के होलिसलागिदे?",
+        "latin": "Kannada nudiya sogasannu yaavudakke holisalaagide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಕನ್ನಡಕೆ ಹೋರಾಡು ಕನ್ನಡದ ________. (೧. ವೀರ ೨. ಶೂರ ೩. ಧೀರ ೪. ಕಂದಾ)",
+      "translations": {
+        "en": "Strive for Kannada, O ________ of Kannada. (1. ವೀರ 2. ಶೂರ 3. ಧೀರ 4. ಕಂದಾ)",
+        "hi": "कन्नड़ के लिए संघर्ष करो, कन्नड़ के ________। (१. ವೀರ २. ಶೂರ ३. ಧೀರ ४. ಕಂದಾ)"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडके होराडु कन्नडद ________. (१. वीर २. शूर ३. धीर ४. कंदा)",
+        "latin": "Kannadake horaadu kannadada ________. (1. Veera 2. Shoora 3. Dheera 4. Kandaa)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಮರೆತೆಯಾದರೆ ________ ಮರೆತಂತೆ ನನ್ನ. (೧. ದಮ್ಮಯ್ಯ ೨. ಅಯ್ಯೊ ೩. ಕಂದಯ್ಯ ೪. ನನ್ನ)",
+      "translations": {
+        "en": "If you forget it, ________, it is as though you have forgotten me. (1. ದಮ್ಮಯ್ಯ 2. ಅಯ್ಯೊ 3. ಕಂದಯ್ಯ 4. ನನ್ನ)",
+        "hi": "अगर भूल गए, तो ________, मानो मुझे ही भूल गए। (१. ದಮ್ಮಯ್ಯ २. ಅಯ್ಯೊ ३. ಕಂದಯ್ಯ ४. ನನ್ನ)"
+      },
+      "transliterations": {
+        "devanagari": "मरेतेयादरे ________ मरेतंते नन्न. (१. दम्मय्य २. अय्यो ३. कंदय्य ४. नन्न)",
+        "latin": "Mareteyaadare ________ maretante nanna. (1. Dammayya 2. Ayyo 3. Kandayya 4. Nanna)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಮೊಲೆಯ ಹಾಲೆಂತಂತೆ ________ ಬಾಯ್ಗೆ. (೧. ಹೆಜ್ಜೇನು ೨. ಕಿರುಜೇನು ೩. ಸವಿಜೇನು ೪. ಹಾಲ್ಜೇನು)",
+      "translations": {
+        "en": "Like a mother's milk, it is ________ to the mouth. (1. ಹೆಜ್ಜೇನು 2. ಕಿರುಜೇನು 3. ಸವಿಜೇನು 4. ಹಾಲ್ಜೇನು)",
+        "hi": "माँ के दूध की तरह, मुँह में ________। (१. ಹೆಜ್ಜೇನು २. ಕಿರುಜೇನು ३. ಸವಿಜೇನು ४. ಹಾಲ್ಜೇನು)"
+      },
+      "transliterations": {
+        "devanagari": "मोलेय हालेंतंते ________ बाय्गे. (१. हेज्जेनु २. किरुजेनु ३. सविजेनु ४. हाल्जेनु)",
+        "latin": "Moleya haalentante ________ baayge. (1. Hejjenu 2. Kirujenu 3. Savijenu 4. Haaljenu)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಹೋರಾಡು ಕನ್ನಡಕೆ ________ ರನ್ನಾ. (೧. ವೀರನಾಗಿ ೨. ಶೂರನಾಗಿ ೩. ಕಲಿಯಾಗಿ ೪. ಧೀರನಾಗಿ)",
+      "translations": {
+        "en": "Strive for Kannada ________, my jewel. (1. ವೀರನಾಗಿ 2. ಶೂರನಾಗಿ 3. ಕಲಿಯಾಗಿ 4. ಧೀರನಾಗಿ)",
+        "hi": "कन्नड़ के लिए संघर्ष करो, ________, मेरे रतन। (१. ವೀರನಾಗಿ २. ಶೂರನಾಗಿ ३. ಕಲಿಯಾಗಿ ४. ಧೀರನಾಗಿ)"
+      },
+      "transliterations": {
+        "devanagari": "होराडु कन्नडके ________ रन्ना. (१. वीरनागि २. शूरनागि ३. कलियागि ४. धीरनागि)",
+        "latin": "Horaadu kannadake ________ rannaa. (1. Veeranaagi 2. Shooranaagi 3. Kaliyaagi 4. Dheeranaagi)"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ದಮ್ಮಯ್ಯ ಕಂದಯ್ಯ\n________\n________\nಮರೆಯದಿರು, ಚಿನ್ನಾ |",
+      "translations": {
+        "en": "I implore you, dear child,\n________\n________\nDo not forget it, my precious child.",
+        "hi": "विनती करती हूँ, मेरे बच्चे,\n________\n________\nमत भूलना, मेरे प्यारे।"
+      },
+      "transliterations": {
+        "devanagari": "दम्मय्य कंदय्य\n________\n________\nमरेयदिरु, चिन्ना |",
+        "latin": "Dammayya kandayya\n________\n________\nMareyadiru, chinnaa |"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಮರೆತೆಯಾದರೆ ಅಯ್ಯೊ ;\n________\n________\nಕಲಿಯಾಗಿ, ರನ್ನಾ |",
+      "translations": {
+        "en": "If you forget it, alas,\n________\n________\nLike a brave hero, my jewel.",
+        "hi": "अगर भूल गए, तो हाय,\n________\n________\nवीर बनकर, मेरे रतन।"
+      },
+      "transliterations": {
+        "devanagari": "मरेतेयादरे अय्यो ;\n________\n________\nकलियागि, रन्ना |",
+        "latin": "Mareteyaadare ayyo ;\n________\n________\nKaliyaagi, rannaa |"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-p1",
+      "text": "ಮಾದರಿ : ದಮ್ಮಯ್ಯ : ಕಂದಯ್ಯ",
+      "translations": {
+        "en": "Example: ದಮ್ಮಯ್ಯ : ಕಂದಯ್ಯ",
+        "hi": "उदाहरण : ದಮ್ಮಯ್ಯ : ಕಂದಯ್ಯ"
+      },
+      "transliterations": {
+        "devanagari": "मादरि : दम्मय्य : कंदय्य",
+        "latin": "Maadari : Dammayya : Kandayya"
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಹೋರಾಡು : ________",
+      "translations": {
+        "en": "ಹೋರಾಡು : ________",
+        "hi": "ಹೋರಾಡು : ________"
+      },
+      "transliterations": {
+        "devanagari": "होराडु : ________",
+        "latin": "Horaadu : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಬಾಯ್ಗೆ : ________",
+      "translations": {
+        "en": "ಬಾಯ್ಗೆ : ________",
+        "hi": "ಬಾಯ್ಗೆ : ________"
+      },
+      "transliterations": {
+        "devanagari": "बाय्गे : ________",
+        "latin": "Baayge : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಬಾಳ್ಗೆ : ________",
+      "translations": {
+        "en": "ಬಾಳ್ಗೆ : ________",
+        "hi": "ಬಾಳ್ಗೆ : ________"
+      },
+      "transliterations": {
+        "devanagari": "बाळ्गे : ________",
+        "latin": "Baalge : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q4",
+      "text": "ಚಿನ್ನಾ : ________",
+      "translations": {
+        "en": "ಚಿನ್ನಾ : ________",
+        "hi": "ಚಿನ್ನಾ : ________"
+      },
+      "transliterations": {
+        "devanagari": "चिन्ना : ________",
+        "latin": "Chinnaa : ________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q1",
+      "text": "ಓರಾಡು - ಹೋರಾಡು ________",
+      "translations": {
+        "en": "ಓರಾಡು - ಹೋರಾಡು ________",
+        "hi": "ಓರಾಡು - ಹೋರಾಡು ________"
+      },
+      "transliterations": {
+        "devanagari": "ओराडु - होराडु ________",
+        "latin": "Ooraadu - horaadu ________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q2",
+      "text": "ಹರಕೆ - ಅರಕೆ ________",
+      "translations": {
+        "en": "ಹರಕೆ - ಅರಕೆ ________",
+        "hi": "ಹರಕೆ - ಅರಕೆ ________"
+      },
+      "transliterations": {
+        "devanagari": "हरके - अरके ________",
+        "latin": "Harake - arake ________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q3",
+      "text": "ಆನಂದ - ಹಾನಂದ ________",
+      "translations": {
+        "en": "ಆನಂದ - ಹಾನಂದ ________",
+        "hi": "ಆನಂದ - ಹಾನಂದ ________"
+      },
+      "transliterations": {
+        "devanagari": "आनंद - हानंद ________",
+        "latin": "Aananda - haananda ________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q4",
+      "text": "ಹಯ್ಯೊ - ಅಯ್ಯೊ ________",
+      "translations": {
+        "en": "ಹಯ್ಯೊ - ಅಯ್ಯೊ ________",
+        "hi": "ಹಯ್ಯೊ - ಅಯ್ಯೊ ________"
+      },
+      "transliterations": {
+        "devanagari": "हय्यो - अय्यो ________",
+        "latin": "Hayyo - ayyo ________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q5",
+      "text": "ಹಾಲು - ಆಲು ________",
+      "translations": {
+        "en": "ಹಾಲು - ಆಲು ________",
+        "hi": "ಹಾಲು - ಆಲು ________"
+      },
+      "transliterations": {
+        "devanagari": "हालु - आलु ________",
+        "latin": "Haalu - aalu ________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-q6",
+      "text": "ಅಪ್ಪುಗೆ - ಹಪ್ಪುಗೆ ________",
+      "translations": {
+        "en": "ಅಪ್ಪುಗೆ - ಹಪ್ಪುಗೆ ________",
+        "hi": "ಅಪ್ಪುಗೆ - ಹಪ್ಪುಗೆ ________"
+      },
+      "transliterations": {
+        "devanagari": "अप्पुगे - हप्पुगे ________",
+        "latin": "Appuge - happuge ________"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "F",
+      "id": "ex-f-q1",
+      "text": "ಕೊಟ್ಟಿರುವ ಒತ್ತಕ್ಷರಗಳನ್ನು ಗಮನಿಸಿ. ವೃತ್ತದೊಳಗೆ ಸಜಾತಿ ಒತ್ತಕ್ಷರ ಹಾಗೂ ಚೌಕದಲ್ಲಿ ವಿಜಾತಿ ಒತ್ತಕ್ಷರಗಳನ್ನು ಬರೆಯಿರಿ. ನ್ನ, ಸ್ನೊ, ಷ್ಟ, ಹ್ರ, ಬ್ಬ, ಯ್ಯ, ಸ್ತ, ಟ್ಟ, ತ್ತ, ಮ್ಮ, ಶ್ರೇ, ಕ್ಷ, ಪ್ಪ, ಶ್ನೆ. [ಸಂಪಾದಕೀಯ ಚಿತ್ರ ಉಲ್ಲೇಖ — g04-fl-p1-2026-27.pdf, ಮುದ್ರಿತ ಪುಟ ೪, PDF ಪುಟ ೧೮ (೧ರಿಂದ ಎಣಿಕೆ); ಒತ್ತಕ್ಷರಗಳ ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿರುವ ಖಾಲಿ ವೃತ್ತಗಳು ಮತ್ತು ಚೌಕಗಳು.]",
+      "translations": {
+        "en": "Look at the given conjunct letters. Write conjuncts made from the same consonant inside circles, and conjuncts made from different consonants inside squares. ನ್ನ, ಸ್ನೊ, ಷ್ಟ, ಹ್ರ, ಬ್ಬ, ಯ್ಯ, ಸ್ತ, ಟ್ಟ, ತ್ತ, ಮ್ಮ, ಶ್ರೇ, ಕ್ಷ, ಪ್ಪ, ಶ್ನೆ. [Editorial image reference — g04-fl-p1-2026-27.pdf, printed page 4, PDF page 18 (1-based); the row of empty circles and squares below the conjunct letters.]",
+        "hi": "दिए गए संयुक्त अक्षरों को देखिए। एक ही व्यंजन को जोड़कर बने संयुक्त अक्षर गोलों में और अलग-अलग व्यंजनों को जोड़कर बने संयुक्त अक्षर वर्गों में लिखिए। ನ್ನ, ಸ್ನೊ, ಷ್ಟ, ಹ್ರ, ಬ್ಬ, ಯ್ಯ, ಸ್ತ, ಟ್ಟ, ತ್ತ, ಮ್ಮ, ಶ್ರೇ, ಕ್ಷ, ಪ್ಪ, ಶ್ನೆ. [संपादकीय चित्र संदर्भ — g04-fl-p1-2026-27.pdf, मुद्रित पृष्ठ ४, PDF पृष्ठ १८ (१ से गिनती); संयुक्त अक्षरों के नीचे खाली गोलों और वर्गों की पंक्ति।]"
+      },
+      "transliterations": {
+        "devanagari": "कोट्टिरुव ओत्तक्षरगळन्नु गमनिसि. वृत्तदोळगे सजाति ओत्तक्षर हागू चौकदल्लि विजाति ओत्तक्षरगळन्नु बरेयिरि. न्न, स्नो, ष्ट, ह्र, ब्ब, य्य, स्त, ट्ट, त्त, म्म, श्रे, क्ष, प्प, श्ने. [संपादकीय चित्र उल्लेख — g04-fl-p1-2026-27.pdf, मुद्रित पुट ४, PDF पुट १८ (१रिंद एणिके); ओत्तक्षरगळ केळगिन सालिनल्लिरुव खालि वृत्तगळु मत्तु चौकगळु.]",
+        "latin": "Kottiruva ottaksharagalannu gamanisi. Vruttadolage sajaati ottakshara haagoo chaukadalli vijaati ottaksharagalannu bareyiri. Nna, sno, shta, hra, bba, yya, sta, ṭṭa, tta, mma, shre, ksha, ppa, shne. [Sampaadakeeya chitra ullekha — g04-fl-p1-2026-27.pdf, mudrita puta 4, PDF puta 18 (1rinda enike); ottaksharagala kelagina saalinalliruva khaali vruttagalu mattu chaukagalu.]"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "G",
+      "id": "ex-g-q1",
+      "text": "ಹಿರಿಯರಿಂದ ಜೋಗುಳದ ಪದಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಅಭ್ಯಾಸ ಮಾಡಿ",
+      "translations": {
+        "en": "Collect lullabies from elders and practise singing them.",
+        "hi": "बड़ों से लोरियाँ सीखकर इकट्ठा कीजिए और उनका अभ्यास कीजिए।"
+      },
+      "transliterations": {
+        "devanagari": "हिरियरिंद जोगुळद पदगळन्नु संग्रहिसि अभ्यास माडि",
+        "latin": "Hiriyarinda jogulada padagalannu sangrahisi abhyaasa maadi"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "H",
+      "id": "ex-h-q1",
+      "text": "ಕನ್ನಡದ ಕವಿಗಳ ಭಾವಚಿತ್ರ ಸಂಗ್ರಹಿಸಿ ‘ಭಾವಚಿತ್ರ ಕೋಶ’ ತಯಾರಿಸಿರಿ",
+      "translations": {
+        "en": "Collect portraits of Kannada poets and make a portrait album.",
+        "hi": "कन्नड़ कवियों के चित्र इकट्ठा करके एक चित्र-संग्रह बनाइए।"
+      },
+      "transliterations": {
+        "devanagari": "कन्नडद कविगळ भावचित्र संग्रहिसि ‘भावचित्र कोश’ तयारिसिरि",
+        "latin": "Kannadada kavigala bhaavachitra sangrahisi ‘bhaavachitra kosha’ tayaarisiri"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q1",
+      "text": "ಟಗರಿಗೆ ತರಗು ತಂದು ಹಾಕು.",
+      "translations": {
+        "en": "Bring dry leaves for the ram.",
+        "hi": "मेढ़े के लिए सूखी पत्तियाँ लाकर डालो।"
+      },
+      "transliterations": {
+        "devanagari": "टगरिगे तरगु तंदु हाकु.",
+        "latin": "Tagarige taragu tandu haaku."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q2",
+      "text": "ತರಿಕೆರೆ ಏರಿ ಮೇಲೆ ಮೂರು ಕರಿ ಕುರಿಮರಿ.",
+      "translations": {
+        "en": "Three black lambs on the embankment at Tarikere.",
+        "hi": "तरिकेरे की मेड़ पर तीन काले मेमने।"
+      },
+      "transliterations": {
+        "devanagari": "तरिकेरे एरि मेले मूरु करि कुरिमरि.",
+        "latin": "Tarikere eri mele mooru kari kurimari."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q3",
+      "text": "ಕಪ್ಪು ಕುಂಕುಮ ಕೆಂಪು ಕುಂಕುಮ.",
+      "translations": {
+        "en": "Black kumkum, red kumkum.",
+        "hi": "काला कुमकुम, लाल कुमकुम।"
+      },
+      "transliterations": {
+        "devanagari": "कप्पु कुंकुम केंपु कुंकुम.",
+        "latin": "Kappu kunkuma kempu kunkuma."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "I",
+      "id": "ex-i-q4",
+      "text": "ಕಾಗೆ ಪುಕ್ಕ ಗೂಬೆ ಪುಕ್ಕ.",
+      "translations": {
+        "en": "A crow's feather, an owl's feather.",
+        "hi": "कौए का पंख, उल्लू का पंख।"
+      },
+      "transliterations": {
+        "devanagari": "कागे पुक्क गूबे पुक्क.",
+        "latin": "Kaage pukka goobe pukka."
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "J",
+      "id": "ex-j-q1",
+      "text": "ಪದ್ಯದಲ್ಲಿ ನೀವು ಇಷ್ಟಪಡುವ ನಾಲ್ಕು ಸಾಲುಗಳನ್ನು ಬರೆಯಿರಿ",
+      "translations": {
+        "en": "Write four lines you like from the poem.",
+        "hi": "कविता में तुम्हें जो चार पंक्तियाँ पसंद हैं, उन्हें लिखो।"
+      },
+      "transliterations": {
+        "devanagari": "पद्यदल्लि नीवु इष्टपडुव नाल्कु सालुगळन्नु बरेयिरि",
+        "latin": "Padyadalli neevu ishtapaduva naalku saalugalannu bareyiri"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "K",
+      "id": "ex-k-q1",
+      "text": "ಈ ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಕಂಠಪಾಠ ಮಾಡಿ ನಿಮ್ಮದೇ ರಾಗದಲ್ಲಿ ಹಾಡಿರಿ",
+      "translations": {
+        "en": "Memorise the lines of this poem and sing them to your own tune.",
+        "hi": "इस कविता की पंक्तियाँ याद करके अपनी धुन में गाओ।"
+      },
+      "transliterations": {
+        "devanagari": "ई पद्यद सालुगळन्नु कंठपाठ माडि निम्मदे रागदल्लि हाडिरि",
+        "latin": "Ee padyada saalugalannu kanthapaatha maadi nimmade raagadalli haadiri"
+      },
+      "type": "question"
+    },
+    {
+      "id": "competency",
+      "text": "ನೀನೀಗ ಕಂಠಪಾಠ ಮಾಡಿದ ಪದ್ಯವನ್ನು ನಿನ್ನದೇ ರಾಗದಲ್ಲಿ ಹಾಡುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪಡೆದಿರುವೆಯಲ್ಲವೆ?",
+      "translations": {
+        "en": "You can now sing the poem you have memorised to your own tune, can't you?",
+        "hi": "अब तुम याद की हुई कविता अपनी धुन में गा सकते हो, है न?"
+      },
+      "transliterations": {
+        "devanagari": "नीनीग कंठपाठ माडिद पद्यवन्नु निन्नदे रागदल्लि हाडुव सामर्थ्यवन्नु पडेदिरुवेयल्लवे?",
+        "latin": "Neeneega kanthapaatha maadida padyavannu ninnade raagadalli haaduva saamarthyavannu padediruveyallave?"
+      },
+      "type": "competency"
+    }
+  ]
+}

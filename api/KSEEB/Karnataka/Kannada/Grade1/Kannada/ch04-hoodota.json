@@ -1,0 +1,850 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अभ्यास अ",
+      "en": "Exercise A",
+      "hi": "अभ्यास अ",
+      "kn": "ಅಭ್ಯಾಸ ಅ",
+      "latin": "abhyāsa a"
+    },
+    "exercise-B": {
+      "devanagari": "अभ्यास आ",
+      "en": "Exercise B",
+      "hi": "अभ्यास आ",
+      "kn": "ಅಭ್ಯಾಸ ಆ",
+      "latin": "abhyāsa ā"
+    },
+    "exercise-C": {
+      "devanagari": "अभ्यास इ",
+      "en": "Exercise C",
+      "hi": "अभ्यास इ",
+      "kn": "ಅಭ್ಯಾಸ ಇ",
+      "latin": "abhyāsa i"
+    },
+    "exercise-D": {
+      "devanagari": "अभ्यास ई",
+      "en": "Exercise D",
+      "hi": "अभ्यास ई",
+      "kn": "ಅಭ್ಯಾಸ ಈ",
+      "latin": "abhyāsa ī"
+    },
+    "exercise-E": {
+      "devanagari": "अभ्यास उ",
+      "en": "Exercise E",
+      "hi": "अभ्यास उ",
+      "kn": "ಅಭ್ಯಾಸ ಉ",
+      "latin": "abhyāsa u"
+    },
+    "intro": {
+      "devanagari": "पाठ - ४ : पाठपूर्व चटुवटिकॆ",
+      "en": "Lesson - 4 : Pre-lesson activity",
+      "hi": "पाठ - ४ : पाठपूर्व गतिविधि",
+      "kn": "ಪಾಠ - ೪ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ",
+      "latin": "pāṭha - 4 : pāṭhapūrva caṭuvaṭikè"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दार्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḻa artha"
+    },
+    "story": {
+      "devanagari": "गद्य",
+      "en": "Prose",
+      "hi": "गद्य",
+      "kn": "ಗದ್ಯ",
+      "latin": "gadya"
+    },
+    "title": {
+      "devanagari": "हूदोट",
+      "en": "Flower Garden",
+      "hi": "फूलों का बगीचा",
+      "kn": "ಹೂದೋಟ",
+      "latin": "hūdoṭa"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने हुए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "keḻida padagaḻu"
+    }
+  },
+  "meta": {
+    "author": "ಸಮಿತಿ ರಚನೆ",
+    "board": "KSEEB",
+    "chapter": 4,
+    "grade": 1,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "KSEEB",
+    "slug": "ch04-hoodota",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಹೂದೋಟ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "intro-1",
+      "section": "intro",
+      "text": "ಅ) ಈ ಚಿತ್ರಗಳಿಗೆ ಬಣ್ಣ ತುಂಬಲು ತಿಳಿಸಿ.",
+      "translations": {
+        "en": "A) Tell them to colour these pictures.",
+        "hi": "अ) इन चित्रों में रंग भरने को कहें।"
+      },
+      "transliterations": {
+        "devanagari": "अ) ई चित्रगळिगॆ बण्ण तुंबलु तिळिसि.",
+        "latin": "a) ī citragaḻigè baṇṇa tuṃbalu tiḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-intro",
+      "section": "story",
+      "text": "(ಈ ಪಾಠದಲ್ಲಿರುವ ಸಂಭಾಷಣೆಯನ್ನು ಓದಿ ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)",
+      "translations": {
+        "en": "(Read the conversation in this lesson, tell it, and have the children say it)",
+        "hi": "(इस पाठ की बातचीत पढ़कर सुनाएँ, बच्चों से बुलवाएँ)"
+      },
+      "transliterations": {
+        "devanagari": "(ई पाठदल्लिरुव संभाषणॆयन्नु ओदि हेळि, मक्कळिंद हेळिसि)",
+        "latin": "(ī pāṭhadalliruva saṃbhāṣaṇèyannu odi heḻi, makkaḻiṃda heḻisi)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d1",
+      "section": "story",
+      "speaker": "ಸುಮಾ",
+      "text": "ಅಜ್ಜೀ, ನೀವು ದಿನಾಲೂ ಸಂಜೆ ಹೂದೋಟಕ್ಕೆ ಬರುತ್ತೀರಿ ಅಲ್ಲವೆ?",
+      "translations": {
+        "en": "Grandmother, you come to the flower garden every evening, don’t you?",
+        "hi": "दादी, आप रोज़ शाम फूलों के बगीचे में आती हैं, है न?"
+      },
+      "transliterations": {
+        "devanagari": "अज्जी, नीवु दिनालू संजॆ हूदोटक्कॆ बरुत्तीरि अल्लवॆ?",
+        "latin": "ajjī, nīvu dinālū saṃjè hūdoṭakkè baruttīri allavè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d2",
+      "section": "story",
+      "speaker": "ಅಜ್ಜಿ",
+      "text": "ಹೌದು ಮಗು, ಹೂದೋಟಕ್ಕೆ ಬರಲು ನನಗೆ ತುಂಬಾ ಇಷ್ಟ.",
+      "translations": {
+        "en": "Yes, child, I like coming to the flower garden very much.",
+        "hi": "हाँ बच्ची, बगीचे में आने में मुझे बहुत अच्छा लगता है।"
+      },
+      "transliterations": {
+        "devanagari": "हौदु मगु, हूदोटक्कॆ बरलु ननगॆ तुंबा इष्ट.",
+        "latin": "haudu magu, hūdoṭakkè baralu nanagè tuṃbā iṣṭa."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d3",
+      "section": "story",
+      "speaker": "ಸುಮಾ",
+      "text": "ಅಜ್ಜಿ, ಇಲ್ಲಿ ಹಲವಾರು ಮಂದಿ ನಡೆಯುತ್ತಾರಲ್ಲ, ಏಕೆ?",
+      "translations": {
+        "en": "Grandmother, many people walk here, why?",
+        "hi": "दादी, यहाँ बहुत लोग टहलते हैं, क्यों?"
+      },
+      "transliterations": {
+        "devanagari": "अज्जि, इल्लि हलवारु मंदि नडॆयुत्तारल्ल, एकॆ?",
+        "latin": "ajji, illi halavāru maṃdi naḍèyuttāralla, ekè?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d4",
+      "section": "story",
+      "speaker": "ಅಜ್ಜಿ",
+      "text": "ನಡೆಯುವುದು ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ. ಈ ವ್ಯಾಯಾಮ ಆರೋಗ್ಯಕ್ಕೆ ಅಗತ್ಯ.",
+      "translations": {
+        "en": "Walking is good exercise for the body. This exercise is necessary for health.",
+        "hi": "चलना शरीर के लिए अच्छा व्यायाम है। यह व्यायाम स्वास्थ्य के लिए ज़रूरी है।"
+      },
+      "transliterations": {
+        "devanagari": "नडॆयुवुदु देहक्कॆ ऒळ्ळॆय व्यायाम. ई व्यायाम आरोग्यक्कॆ अगत्य.",
+        "latin": "naḍèyuvudu dehakkè òḻḻèya vyāyāma. ī vyāyāma ārogyakkè agatya."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d5",
+      "section": "story",
+      "speaker": "ಸುಮಾ",
+      "text": "ಅಜ್ಜಿ, ಅಲ್ಲಿ ಜೋಕಾಲಿ ಇದೆ, ನಾನು ಹೋಗಿ ಸ್ವಲ್ಪ ಹೊತ್ತು ಜೋಕಾಲಿ ಆಡಲೇ?",
+      "translations": {
+        "en": "Grandmother, there is a swing there; may I go and swing for a little while?",
+        "hi": "दादी, वहाँ झूला है, क्या मैं जाकर थोड़ी देर झूलूँ?"
+      },
+      "transliterations": {
+        "devanagari": "अज्जि, अल्लि जोकालि इदॆ, नानु होगि स्वल्प हॊत्तु जोकालि आडले?",
+        "latin": "ajji, alli jokāli idè, nānu hogi svalpa hòttu jokāli āḍale?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d6",
+      "section": "story",
+      "speaker": "ಅಜ್ಜಿ",
+      "text": "ಆಡು ಮಗು. ನಾನು ಸ್ವಲ್ಪ ನಡೆದಾಡಿ ಬರುತ್ತೇನೆ.",
+      "translations": {
+        "en": "Play, child. I will walk a little and come.",
+        "hi": "खेलो बच्ची। मैं थोड़ी टहलकर आती हूँ।"
+      },
+      "transliterations": {
+        "devanagari": "आडु मगु. नानु स्वल्प नडॆदाडि बरुत्तेनॆ.",
+        "latin": "āḍu magu. nānu svalpa naḍèdāḍi baruttenè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-n1",
+      "section": "story",
+      "text": "(ಸ್ವಲ್ಪ ಸಮಯದ ಬಳಿಕ)",
+      "translations": {
+        "en": "(After a little time)",
+        "hi": "(थोड़ी देर बाद)"
+      },
+      "transliterations": {
+        "devanagari": "(स्वल्प समयद बळिक)",
+        "latin": "(svalpa samayada baḻika)"
+      },
+      "type": "prose"
+    },
+    {
+      "id": "story-d7",
+      "section": "story",
+      "speaker": "ಅಜ್ಜಿ",
+      "text": "ಜೋಕಾಲಿ ಆಡಿದ್ದು ಆಯಿತೆ ಮಗು?",
+      "translations": {
+        "en": "Have you finished swinging, child?",
+        "hi": "झूल लिया न बच्ची?"
+      },
+      "transliterations": {
+        "devanagari": "जोकालि आडिद्दु आयितॆ मगु?",
+        "latin": "jokāli āḍiddu āyitè magu?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d8",
+      "section": "story",
+      "speaker": "ಸುಮಾ",
+      "text": "ಆಯಿತು ಅಜ್ಜಿ, ನಿಮ್ಮ ನಡೆದಾಟ ಆಯಿತೇ?",
+      "translations": {
+        "en": "Yes, grandmother, is your walk finished?",
+        "hi": "हाँ दादी, आपकी सैर पूरी हुई?"
+      },
+      "transliterations": {
+        "devanagari": "आयितु अज्जि, निम्म नडॆदाट आयिते?",
+        "latin": "āyitu ajji, nimma naḍèdāṭa āyite?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d9",
+      "section": "story",
+      "speaker": "ಅಜ್ಜಿ",
+      "text": "ಆಯಿತು ಮಗು, ಈಗ ಮನೆಗೆ ಹೋಗೋಣವೇ?",
+      "translations": {
+        "en": "Yes, child, shall we go home now?",
+        "hi": "हाँ बच्ची, अब घर चलें?"
+      },
+      "transliterations": {
+        "devanagari": "आयितु मगु, ईग मनॆगॆ होगोणवे?",
+        "latin": "āyitu magu, īga manègè hogoṇave?"
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d10",
+      "section": "story",
+      "speaker": "ಸುಮಾ",
+      "text": "ಅಜ್ಜಿ, ನಾನು ದಿನಾಲೂ ನಿಮ್ಮ ಜೊತೆ ಹೂದೋಟಕ್ಕೆ ಬರುವೆ.",
+      "translations": {
+        "en": "Grandmother, I will come to the flower garden with you every day.",
+        "hi": "दादी, मैं रोज़ आपके साथ बगीचे में आऊँगी।"
+      },
+      "transliterations": {
+        "devanagari": "अज्जि, नानु दिनालू निम्म जॊतॆ हूदोटक्कॆ बरुवॆ.",
+        "latin": "ajji, nānu dinālū nimma jòtè hūdoṭakkè baruvè."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "story-d11",
+      "section": "story",
+      "speaker": "ಅಜ್ಜಿ",
+      "text": "ನೀನು ತುಂಬಾ ಜಾಣೆ, ಮಕ್ಕಳು ಚಿಕ್ಕಂದಿನಿಂದಲೇ ಇಂಥ ಒಳ್ಳೆಯ ಅಭ್ಯಾಸಗಳನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು.",
+      "translations": {
+        "en": "You are very clever; it is good for children to develop such good habits from childhood.",
+        "hi": "तुम बहुत होशियार हो; बच्चों को बचपन से ऐसे अच्छे अभ्यास अपनाने चाहिए।"
+      },
+      "transliterations": {
+        "devanagari": "नीनु तुंबा जाणॆ, मक्कळु चिक्कंदिनिंदले इंथ ऒळ्ळॆय अभ्यासगळन्नु बॆळॆसिकॊळ्ळुवुदु ऒळ्ळॆयदु.",
+        "latin": "nīnu tuṃbā jāṇè, makkaḻu cikkaṃdiniṃdale iṃtha òḻḻèya abhyāsagaḻannu bèḻèsikòḻḻuvudu òḻḻèyadu."
+      },
+      "type": "dialogue"
+    },
+    {
+      "id": "vocab-ajji",
+      "text": "ಅಜ್ಜಿ",
+      "translations": {
+        "en": "grandmother",
+        "hi": "दादी"
+      },
+      "transliterations": {
+        "devanagari": "अज्जि",
+        "latin": "ajji"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-dinaalu",
+      "text": "ದಿನಾಲೂ",
+      "translations": {
+        "en": "every day",
+        "hi": "रोज़"
+      },
+      "transliterations": {
+        "devanagari": "दिनालू",
+        "latin": "dinālū"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-sanje",
+      "text": "ಸಂಜೆ",
+      "translations": {
+        "en": "evening",
+        "hi": "शाम"
+      },
+      "transliterations": {
+        "devanagari": "संजॆ",
+        "latin": "saṃjè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-neevu",
+      "text": "ನೀವು",
+      "translations": {
+        "en": "you (respectful)",
+        "hi": "आप"
+      },
+      "transliterations": {
+        "devanagari": "नीवु",
+        "latin": "nīvu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hoodota",
+      "text": "ಹೂದೋಟ",
+      "translations": {
+        "en": "flower garden",
+        "hi": "फूलों का बगीचा"
+      },
+      "transliterations": {
+        "devanagari": "हूदोट",
+        "latin": "hūdoṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haudu",
+      "text": "ಹೌದು",
+      "translations": {
+        "en": "yes",
+        "hi": "हाँ"
+      },
+      "transliterations": {
+        "devanagari": "हौदु",
+        "latin": "haudu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-magu",
+      "text": "ಮಗು",
+      "translations": {
+        "en": "child",
+        "hi": "बच्चा"
+      },
+      "transliterations": {
+        "devanagari": "मगु",
+        "latin": "magu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-halavaaru",
+      "text": "ಹಲವಾರು",
+      "translations": {
+        "en": "many",
+        "hi": "बहुत से"
+      },
+      "transliterations": {
+        "devanagari": "हलवारु",
+        "latin": "halavāru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mandi",
+      "text": "ಮಂದಿ",
+      "translations": {
+        "en": "people",
+        "hi": "लोग"
+      },
+      "transliterations": {
+        "devanagari": "मंदि",
+        "latin": "maṃdi"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nade",
+      "text": "ನಡೆ",
+      "translations": {
+        "en": "walk",
+        "hi": "चलना"
+      },
+      "transliterations": {
+        "devanagari": "नडॆ",
+        "latin": "naḍè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-deha",
+      "text": "ದೇಹ",
+      "translations": {
+        "en": "body",
+        "hi": "शरीर"
+      },
+      "transliterations": {
+        "devanagari": "देह",
+        "latin": "deha"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-olleya",
+      "text": "ಒಳ್ಳೆಯ",
+      "translations": {
+        "en": "good",
+        "hi": "अच्छा"
+      },
+      "transliterations": {
+        "devanagari": "ऒळ्ळॆय",
+        "latin": "òḻḻèya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vyaayama",
+      "text": "ವ್ಯಾಯಾಮ",
+      "translations": {
+        "en": "exercise",
+        "hi": "व्यायाम"
+      },
+      "transliterations": {
+        "devanagari": "व्यायाम",
+        "latin": "vyāyāma"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-aarogya",
+      "text": "ಆರೋಗ್ಯ",
+      "translations": {
+        "en": "health",
+        "hi": "स्वास्थ्य"
+      },
+      "transliterations": {
+        "devanagari": "आरोग्य",
+        "latin": "ārogya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-agatya",
+      "text": "ಅಗತ್ಯ",
+      "translations": {
+        "en": "necessary",
+        "hi": "ज़रूरी"
+      },
+      "transliterations": {
+        "devanagari": "अगत्य",
+        "latin": "agatya"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jokaali",
+      "text": "ಜೋಕಾಲಿ",
+      "translations": {
+        "en": "swing",
+        "hi": "झूला"
+      },
+      "transliterations": {
+        "devanagari": "जोकालि",
+        "latin": "jokāli"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-nadedaata",
+      "text": "ನಡೆದಾಟ",
+      "translations": {
+        "en": "walk",
+        "hi": "सैर"
+      },
+      "transliterations": {
+        "devanagari": "नडॆदाट",
+        "latin": "naḍèdāṭa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-abhyasa",
+      "text": "ಅಭ್ಯಾಸ",
+      "translations": {
+        "en": "habit/practice",
+        "hi": "अभ्यास"
+      },
+      "transliterations": {
+        "devanagari": "अभ्यास",
+        "latin": "abhyāsa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-jaane",
+      "text": "ಜಾಣೆ",
+      "translations": {
+        "en": "clever (girl)",
+        "hi": "होशियार"
+      },
+      "transliterations": {
+        "devanagari": "जाणॆ",
+        "latin": "jāṇè"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-dinaalu",
+      "text": "ದಿನಾಲೂ",
+      "translations": {
+        "en": "every day",
+        "hi": "रोज़"
+      },
+      "transliterations": {
+        "devanagari": "दिनालू",
+        "latin": "dinālū"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-dinaalu-def",
+      "ref": "note-dinaalu",
+      "text": "ಪ್ರತಿದಿನ",
+      "translations": {
+        "en": "each day",
+        "hi": "प्रतिदिन"
+      },
+      "transliterations": {
+        "devanagari": "प्रतिदिन",
+        "latin": "pratidina"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-jokaali",
+      "text": "ಜೋಕಾಲಿ",
+      "translations": {
+        "en": "swing",
+        "hi": "झूला"
+      },
+      "transliterations": {
+        "devanagari": "जोकालि",
+        "latin": "jokāli"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-jokaali-def",
+      "ref": "note-jokaali",
+      "text": "ಉಯ್ಯಾಲೆ, ತೂಗುಮಣೆ",
+      "translations": {
+        "en": "swing, hanging seat",
+        "hi": "झूला, लटकती सीट"
+      },
+      "transliterations": {
+        "devanagari": "उय्यालॆ, तूगुमणॆ",
+        "latin": "uyyālè, tūgumaṇè"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-intro",
+      "text": "ಅ) ಪಾಠದ ವಾಕ್ಯಗಳನ್ನು ಕೆಳಗೆ ನೀಡಿದೆ. ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಸೇರಿಸಿ ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "A) Lesson sentences are given below. Add the missing word and have the children say them.",
+        "hi": "अ) पाठ के वाक्य नीचे दिए हैं। छूटे शब्द जोड़कर बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "अ) पाठद वाक्यगळन्नु कॆळगॆ नीडिदॆ. बिट्टिरुव पदवन्नु सेरिसि मक्कळिंद हेळिसि.",
+        "latin": "a) pāṭhada vākyagaḻannu kèḻagè nīḍidè. biṭṭiruva padavannu serisi makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "1) ಹೂದೋಟಕ್ಕೆ ಬರಲು ನನಗೆ ___________ ಇಷ್ಟ.",
+      "translations": {
+        "en": "1) I like ___________ coming to the flower garden.",
+        "hi": "1) बगीचे में आने में मुझे ___________ अच्छा लगता है।"
+      },
+      "transliterations": {
+        "devanagari": "1) हूदोटक्कॆ बरलु ननगॆ ___________ इष्ट.",
+        "latin": "1) hūdoṭakkè baralu nanagè ___________ iṣṭa."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "2) ನಾನು ಹೋಗಿ ಸ್ವಲ್ಪ ಹೊತ್ತು ___________ ಆಡಲೇ?",
+      "translations": {
+        "en": "2) May I go and play ___________ for a little while?",
+        "hi": "2) क्या मैं जाकर थोड़ी देर ___________ खेलूँ?"
+      },
+      "transliterations": {
+        "devanagari": "2) नानु होगि स्वल्प हॊत्तु ___________ आडले?",
+        "latin": "2) nānu hogi svalpa hòttu ___________ āḍale?"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "3) ನಿಮ್ಮ ___________ ಆಯಿತೇ?",
+      "translations": {
+        "en": "3) Is your ___________ finished?",
+        "hi": "3) आपकी ___________ पूरी हुई?"
+      },
+      "transliterations": {
+        "devanagari": "3) निम्म ___________ आयिते?",
+        "latin": "3) nimma ___________ āyite?"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "4) ನೀನು ತುಂಬಾ ___________",
+      "translations": {
+        "en": "4) You are very ___________",
+        "hi": "4) तुम बहुत ___________"
+      },
+      "transliterations": {
+        "devanagari": "4) नीनु तुंबा ___________",
+        "latin": "4) nīnu tuṃbā ___________"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-intro",
+      "text": "ಆ) ಮಕ್ಕಳಿಗೆ ಪ್ರಶ್ನೆ ಕೇಳಿ, ಉತ್ತರ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "B) Ask the children questions and have them answer.",
+        "hi": "आ) बच्चों से प्रश्न पूछें, उत्तर बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "आ) मक्कळिगॆ प्रश्नॆ केळि, उत्तर हेळिसि.",
+        "latin": "ā) makkaḻigè praśnè keḻi, uttara heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "1) ಅಜ್ಜಿ ದಿನಾಲು ಸಂಜೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದರು?",
+      "translations": {
+        "en": "1) Where did grandmother go every evening?",
+        "hi": "1) दादी रोज़ शाम कहाँ जाती थीं?"
+      },
+      "transliterations": {
+        "devanagari": "1) अज्जि दिनालु संजॆ ऎल्लिगॆ होगुत्तिद्दरु?",
+        "latin": "1) ajji dinālu saṃjè èlligè hoguttiddaru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "2) ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ ಯಾವುದು?",
+      "translations": {
+        "en": "2) What is good exercise for the body?",
+        "hi": "2) शरीर के लिए अच्छा व्यायाम कौन-सा है?"
+      },
+      "transliterations": {
+        "devanagari": "2) देहक्कॆ ऒळ्ळॆय व्यायाम यावुदु?",
+        "latin": "2) dehakkè òḻḻèya vyāyāma yāvudu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "3) ಸುಮಾ ಯಾವ ಆಟ ಆಡಿದಳು?",
+      "translations": {
+        "en": "3) Which game did Suma play?",
+        "hi": "3) सुमा ने कौन-सा खेल खेला?"
+      },
+      "transliterations": {
+        "devanagari": "3) सुमा याव आट आडिदळु?",
+        "latin": "3) sumā yāva āṭa āḍidaḻu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-intro",
+      "text": "ಇ) ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು/ಕೇಳಿದರು ಎಂದು ಮಕ್ಕಳನ್ನು ಕೇಳಿ, ಉತ್ತರ ಪಡೆಯಿರಿ.",
+      "translations": {
+        "en": "C) Ask the children who said/asked whom, and get the answer.",
+        "hi": "इ) किसने किससे कहा/पूछा, बच्चों से पूछकर उत्तर लें।"
+      },
+      "transliterations": {
+        "devanagari": "इ) यारु यारिगॆ हेळिदरु/केळिदरु ऎंदु मक्कळन्नु केळि, उत्तर पडॆयिरि.",
+        "latin": "i) yāru yārigè heḻidaru/keḻidaru èṃdu makkaḻannu keḻi, uttara paḍèyiri."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "1) ಅಜ್ಜೀ, ನೀವು ದಿನಾಲೂ ಸಂಜೆ ಹೂದೋಟಕ್ಕೆ ಬರುತ್ತೀರಿ ಅಲ್ಲವೆ? - ಎಂದು ಕೇಳಿದವರು ಯಾರು?",
+      "translations": {
+        "en": "1) “Grandmother, you come to the flower garden every evening, don’t you?” — who asked this?",
+        "hi": "1) “दादी, आप रोज़ शाम बगीचे में आती हैं?” — यह किसने पूछा?"
+      },
+      "transliterations": {
+        "devanagari": "1) अज्जी, नीवु दिनालू संजॆ हूदोटक्कॆ बरुत्तीरि अल्लवॆ? - ऎंदु केळिदवरु यारु?",
+        "latin": "1) ajjī, nīvu dinālū saṃjè hūdoṭakkè baruttīri allavè? - èṃdu keḻidavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "2) ನಡೆಯುವುದು ದೇಹಕ್ಕೆ ಒಳ್ಳೆಯ ವ್ಯಾಯಾಮ. ಈ ವ್ಯಾಯಾಮ ಆರೋಗ್ಯಕ್ಕೆ ಅಗತ್ಯ. - ಎಂದು ಹೇಳಿದವರು ಯಾರು?",
+      "translations": {
+        "en": "2) “Walking is good exercise for the body. This exercise is necessary for health.” — who said this?",
+        "hi": "2) “चलना शरीर के लिए अच्छा व्यायाम है…” — यह किसने कहा?"
+      },
+      "transliterations": {
+        "devanagari": "2) नडॆयुवुदु देहक्कॆ ऒळ्ळॆय व्यायाम. ई व्यायाम आरोग्यक्कॆ अगत्य. - ऎंदु हेळिदवरु यारु?",
+        "latin": "2) naḍèyuvudu dehakkè òḻḻèya vyāyāma. ī vyāyāma ārogyakkè agatya. - èṃdu heḻidavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "3) ಮಕ್ಕಳು ಚಿಕ್ಕಂದಿನಿಂದಲೂ ಇಂಥ ಒಳ್ಳೆಯ ಅಭ್ಯಾಸಗಳನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳುವುದು ಒಳ್ಳೆಯದು. - ಎಂದು ಹೇಳಿದವರು ಯಾರು?",
+      "translations": {
+        "en": "3) “It is good for children to develop such good habits from childhood.” — who said this?",
+        "hi": "3) “बच्चों को बचपन से ऐसे अच्छे अभ्यास अपनाने चाहिए।” — यह किसने कहा?"
+      },
+      "transliterations": {
+        "devanagari": "3) मक्कळु चिक्कंदिनिंदलू इंथ ऒळ्ळॆय अभ्यासगळन्नु बॆळॆसिकॊळ्ळुवुदु ऒळ्ळॆयदु. - ऎंदु हेळिदवरु यारु?",
+        "latin": "3) makkaḻu cikkaṃdiniṃdalū iṃtha òḻḻèya abhyāsagaḻannu bèḻèsikòḻḻuvudu òḻḻèyadu. - èṃdu heḻidavaru yāru?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-intro",
+      "text": "ಈ) ಈ ಕೆಳಗಿನ ವಾಕ್ಯಗಳನ್ನು ಓದಿ ಹೇಳಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.",
+      "translations": {
+        "en": "D) Read these sentences aloud and have the children say them.",
+        "hi": "ई) ये वाक्य पढ़कर सुनाएँ, बच्चों से बुलवाएँ।"
+      },
+      "transliterations": {
+        "devanagari": "ई) ई कॆळगिन वाक्यगळन्नु ओदि हेळि, मक्कळिंद हेळिसि.",
+        "latin": "ī) ī kèḻagina vākyagaḻannu odi heḻi, makkaḻiṃda heḻisi."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "1) ನಾನು ದಿನಾಲೂ ಸ್ನಾನ ಮಾಡುತ್ತೇನೆ.",
+      "translations": {
+        "en": "1) I bathe every day.",
+        "hi": "1) मैं रोज़ नहाना करता/करती हूँ।"
+      },
+      "transliterations": {
+        "devanagari": "1) नानु दिनालू स्नान माडुत्तेनॆ.",
+        "latin": "1) nānu dinālū snāna māḍuttenè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "2) ನಮ್ಮ ಊರಿನಲ್ಲಿ ಹಲವಾರು ಮನೆಗಳಿವೆ.",
+      "translations": {
+        "en": "2) There are many houses in our town.",
+        "hi": "2) हमारे गाँव में बहुत घर हैं।"
+      },
+      "transliterations": {
+        "devanagari": "2) नम्म ऊरिनल्लि हलवारु मनॆगळिवॆ.",
+        "latin": "2) namma ūrinalli halavāru manègaḻivè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "3) ನನ್ನ ಗೆಳತಿ ತುಂಬಾ ಜಾಣೆ.",
+      "translations": {
+        "en": "3) My friend is very clever.",
+        "hi": "3) मेरी सहेली बहुत होशियार है।"
+      },
+      "transliterations": {
+        "devanagari": "3) नन्न गॆळति तुंबा जाणॆ.",
+        "latin": "3) nanna gèḻati tuṃbā jāṇè."
+      },
+      "type": "prose"
+    },
+    {
+      "exercise": "E",
+      "id": "ex-e-intro",
+      "text": "ಉ) ಚಿತ್ರಗಳಲ್ಲಿರುವ ಹೂಗಳನ್ನು ಹೆಸರಿಸಲು ಹೇಳಿ.",
+      "translations": {
+        "en": "E) Tell them to name the flowers in the pictures.",
+        "hi": "उ) चित्रों में फूलों के नाम बताने को कहें।"
+      },
+      "transliterations": {
+        "devanagari": "उ) चित्रगळल्लिरुव हूगळन्नु हॆसरिसलु हेळि.",
+        "latin": "u) citragaḻalliruva hūgaḻannu hèsarisalu heḻi."
+      },
+      "type": "prose"
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "labels": {
+    "exercise-A": {
+      "devanagari": "अ) पद्यद मुन्दिन सालुगळन्नु हेळि:",
+      "en": "A) Say the next lines of the poem:",
+      "hi": "अ) कविता की अगली पंक्तियाँ बताएँ:",
+      "kn": "ಅ) ಪದ್ಯದ ಮುಂದಿನ ಸಾಲುಗಳನ್ನು ಹೇಳಿ:",
+      "latin": "a) padyada mundina sālugaḷannu hēḷi:"
+    },
+    "exercise-B": {
+      "devanagari": "आ) ई प्रश्नेगळिगे ओन्दु पददल्लि उत्तर बरेयिरि:",
+      "en": "B) Write the answer to these questions in one word:",
+      "hi": "आ) इन प्रश्नों के उत्तर एक शब्द में लिखें:",
+      "kn": "ಆ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ಪದದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ:",
+      "latin": "ā) ī praśnegaḷige ondu padadalli uttara bareyiri:"
+    },
+    "exercise-C": {
+      "devanagari": "इ) आवरणदल्लि इरुव पदगळल्लि सूक्त पद आरिसि खालि बिट्ट स्थळदल्लि बरेयिरि:",
+      "en": "C) Choose the appropriate word from brackets and write in the blanks:",
+      "hi": "इ) कोष्ठक में दिए गए शब्दों में से उचित शब्द चुनकर रिक्त स्थान में लिखें:",
+      "kn": "ಇ) ಆವರಣದಲ್ಲಿ ಇರುವ ಪದಗಳಲ್ಲಿ ಸೂಕ್ತ ಪದ ಆರಿಸಿ ಖಾಲಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ:",
+      "latin": "i) āvaraṇadalli iruva padagaḷalli sūkta pada ārisi khāli biṭṭa sthaḷadalli bareyiri:"
+    },
+    "exercise-D": {
+      "devanagari": "ई) ई प्रास पदगळन्नु हेळु:",
+      "en": "D) Say these rhyming words:",
+      "hi": "ई) ये तुकांत शब्द बताएँ:",
+      "kn": "ಈ) ಈ ಪ್ರಾಸ ಪದಗಳನ್ನು ಹೇಳು:",
+      "latin": "ī) ī prāsa padagaḷannu hēḷu:"
+    },
+    "notes": {
+      "devanagari": "पदगळ अर्थ",
+      "en": "Word meanings",
+      "hi": "शब्दों के अर्थ",
+      "kn": "ಪದಗಳ ಅರ್ಥ",
+      "latin": "padagaḷa artha"
+    },
+    "poem": {
+      "devanagari": "पद्य",
+      "en": "Poem",
+      "hi": "कविता",
+      "kn": "ಪದ್ಯ",
+      "latin": "padya"
+    },
+    "title": {
+      "devanagari": "बण्णद हक्कि",
+      "en": "Colorful Bird",
+      "hi": "रंग-बिरंगी चिड़िया",
+      "latin": "baṇṇada hakki"
+    },
+    "vocab": {
+      "devanagari": "केळिद पदगळु",
+      "en": "Words heard",
+      "hi": "सुने गए शब्द",
+      "kn": "ಕೇಳಿದ ಪದಗಳು",
+      "latin": "kēḷida padagaḷu"
+    }
+  },
+  "meta": {
+    "board": "KSEEB",
+    "chapter": 1,
+    "grade": 2,
+    "license": "CC BY 4.0",
+    "medium": "Kannada",
+    "original_publisher": "ktbs",
+    "slug": "ch01-bannada-hakki",
+    "source_url": "https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf",
+    "state": "Karnataka",
+    "subject": "Kannada",
+    "title": "ಬಣ್ಣದ ಹಕ್ಕಿ"
+  },
+  "schemaVersion": "1.0",
+  "segments": [
+    {
+      "id": "poem-s1l1",
+      "stanza": 1,
+      "text": "ಬಾರಲೆ ಹಕ್ಕಿ ಬಣ್ಣದ ಹಕ್ಕಿ",
+      "translations": {
+        "en": "Come bird, colorful bird",
+        "hi": "आ जा चिड़िया, रंग-बिरंगी चिड़िया"
+      },
+      "transliterations": {
+        "devanagari": "बारले हक्कि बण्णद हक्कि",
+        "latin": "bārale hakki baṇṇada hakki"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l2",
+      "stanza": 1,
+      "text": "ಬಾರಲೆ ಹಕ್ಕಿ ಹಾರುವ ಹಕ್ಕಿ",
+      "translations": {
+        "en": "Come bird, flying bird",
+        "hi": "आ जा चिड़िया, उड़ने वाली चिड़िया"
+      },
+      "transliterations": {
+        "devanagari": "बारले हक्कि हारुव हक्कि",
+        "latin": "bārale hakki hāruva hakki"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l3",
+      "stanza": 1,
+      "text": "ಗೆಳೆಯರು ಆಡಲು ಯಾರೂ ಇಲ್ಲ",
+      "translations": {
+        "en": "There is no one to play with",
+        "hi": "खेलने के लिए कोई दोस्त नहीं है"
+      },
+      "transliterations": {
+        "devanagari": "गेळेयरु आडलु यारू इल्ल",
+        "latin": "geḷeyaru āḍalu yārū illa"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s1l4",
+      "stanza": 1,
+      "text": "ಕಳೆಯುವುದೆಂತು ವೇಳೆಯನೆಲ್ಲ",
+      "translations": {
+        "en": "How to spend all the time",
+        "hi": "सारा समय कैसे बिताऊँ"
+      },
+      "transliterations": {
+        "devanagari": "कळेयुवुदेन्तु वेळेयनेल्ल",
+        "latin": "kaḷeyuvudentu vēḷeyanella"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l1",
+      "stanza": 2,
+      "text": "ಬಾ ಬಾ ನನಗೂ ಹಾಡಲು ಕಲಿಸು",
+      "translations": {
+        "en": "Come come, teach me to sing too",
+        "hi": "आ आ मुझे भी गाना सिखा"
+      },
+      "transliterations": {
+        "devanagari": "बा बा ननगू हाडलु कलिसु",
+        "latin": "bā bā nanagū hāḍalu kalisu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l2",
+      "stanza": 2,
+      "text": "ಬಾ ಬಾ ನನಗೂ ಹಾರಲು ಕಲಿಸು",
+      "translations": {
+        "en": "Come come, teach me to fly too",
+        "hi": "आ आ मुझे भी उड़ना सिखा"
+      },
+      "transliterations": {
+        "devanagari": "बा बा ननगू हारलु कलिसु",
+        "latin": "bā bā nanagū hāralu kalisu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l3",
+      "stanza": 2,
+      "text": "ಅವ್ವನು ನೀರಿಗೆ ಹೋಗಿಹಳು",
+      "translations": {
+        "en": "Mother has gone to fetch water",
+        "hi": "माँ पानी लेने गई है"
+      },
+      "transliterations": {
+        "devanagari": "अव्वनु नीरिगे होगिहळु",
+        "latin": "avvanu nīrige hōgihaḷu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s2l4",
+      "stanza": 2,
+      "text": "ಅಪ್ಪನು ಪೇಟೆಗೆ ಹೋಗಿಹನು",
+      "translations": {
+        "en": "Father has gone to the market",
+        "hi": "पिताजी बाज़ार गए हैं"
+      },
+      "transliterations": {
+        "devanagari": "अप्पनु पेटेगे होगिहनु",
+        "latin": "appanu pēṭege hōgihanu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l1",
+      "stanza": 3,
+      "text": "ಅವ್ವನು ಬರಲಿ ಅಪ್ಪನು ಬರಲಿ",
+      "translations": {
+        "en": "Let mother come, let father come",
+        "hi": "माँ को आने दे, पिताजी को आने दे"
+      },
+      "transliterations": {
+        "devanagari": "अव्वनु बरलि अप्पनु बरलि",
+        "latin": "avvanu barali appanu barali"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l2",
+      "stanza": 3,
+      "text": "ತಿನ್ನಲು ಹಣ್ಣನು ಕೊಡಿಸುವೆನು",
+      "translations": {
+        "en": "I will buy you fruit to eat",
+        "hi": "मैं तुझे खाने के लिए फल दिलाऊँगा"
+      },
+      "transliterations": {
+        "devanagari": "तिन्नलु हण्णनु कोडिसुवेनु",
+        "latin": "tinnalu haṇṇanu koḍisuvenu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l3",
+      "stanza": 3,
+      "text": "ನನಗೂ ಎರಡು ರೆಕ್ಕೆಯ ಹಚ್ಚು",
+      "translations": {
+        "en": "Stick two wings on me too",
+        "hi": "मुझे भी दो पंख लगा दे"
+      },
+      "transliterations": {
+        "devanagari": "ननगू एरडु रेक्केय हच्चु",
+        "latin": "nanagū eraḍu rekkeya haccu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s3l4",
+      "stanza": 3,
+      "text": "ಹಿಂಗಡೆ ಬಣ್ಣದ ಪುಚ್ಚವ ಚುಚ್ಚು",
+      "translations": {
+        "en": "Poke a colorful feather behind",
+        "hi": "पीछे एक रंगीन पंख चुभा दे"
+      },
+      "transliterations": {
+        "devanagari": "हिङ्गडे बण्णद पुच्चव चुच्चु",
+        "latin": "hiṅgaḍe baṇṇada puccava cuccu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l1",
+      "stanza": 4,
+      "text": "ನೆತ್ತಿಯ ಮೇಲೆ ಜುಟ್ಟನು ಹಚ್ಚು",
+      "translations": {
+        "en": "Stick a tuft on top of the head",
+        "hi": "सिर के ऊपर एक चोटी लगा दे"
+      },
+      "transliterations": {
+        "devanagari": "नेत्तिय मेले जुट्टनु हच्चु",
+        "latin": "nettiya mēle juṭṭanu haccu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l2",
+      "stanza": 4,
+      "text": "ಮೆಲ್ಲನೆ ಮೇಲೆ ಹಾರಲು ಹಚ್ಚು",
+      "translations": {
+        "en": "Gently make me fly up",
+        "hi": "धीरे-से मुझे ऊपर उड़ना सिखा दे"
+      },
+      "transliterations": {
+        "devanagari": "मेल्लने मेले हारलु हच्चु",
+        "latin": "mellane mēle hāralu haccu"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l3",
+      "stanza": 4,
+      "text": "ನಾನು ನೀನೂ ಇಬ್ಬರು ಕೂಡಿ",
+      "translations": {
+        "en": "You and I, both together",
+        "hi": "मैं और तू दोनों मिलकर"
+      },
+      "transliterations": {
+        "devanagari": "नानु नीनू इब्बरु कूडि",
+        "latin": "nānu nīnū ibbaru kūḍi"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s4l4",
+      "stanza": 4,
+      "text": "ಮುಗಿಲಿನ ಕಡೆಗೆ ಹಾರುವ ಬಾ",
+      "translations": {
+        "en": "Come, let's fly towards the sky",
+        "hi": "आ, आसमान की ओर उड़ें"
+      },
+      "transliterations": {
+        "devanagari": "मुगिलिन कडेगे हारुव बा",
+        "latin": "mugilina kaḍege hāruva bā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l1",
+      "stanza": 5,
+      "text": "ಅಲ್ಲಿಂದಿತ್ತ ಇಲ್ಲಿಂದತ್ತ",
+      "translations": {
+        "en": "From there to here, from here to there",
+        "hi": "वहाँ से यहाँ, यहाँ से वहाँ"
+      },
+      "transliterations": {
+        "devanagari": "अल्लिन्दित्त इल्लिन्दत्त",
+        "latin": "allinditta illindatta"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "poem-s5l2",
+      "stanza": 5,
+      "text": "ಹಾರುತ ಹಾಡುತ ನಲಿಯುವ ಬಾ",
+      "translations": {
+        "en": "Come, let's fly, sing, and rejoice",
+        "hi": "आ, उड़ें, गाएँ और खुशियाँ मनाएँ"
+      },
+      "transliterations": {
+        "devanagari": "हारुत हाडुत नलियुव बा",
+        "latin": "hāruta hāḍuta naliyuva bā"
+      },
+      "type": "poem_line"
+    },
+    {
+      "id": "vocab-hakki",
+      "text": "ಹಕ್ಕಿ",
+      "translations": {
+        "en": "bird",
+        "hi": "चिड़िया"
+      },
+      "transliterations": {
+        "devanagari": "हक्कि",
+        "latin": "hakki"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-avva",
+      "text": "ಅವ್ವ",
+      "translations": {
+        "en": "mother",
+        "hi": "माँ"
+      },
+      "transliterations": {
+        "devanagari": "अव्व",
+        "latin": "avva"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-appa",
+      "text": "ಅಪ್ಪ",
+      "translations": {
+        "en": "father",
+        "hi": "पिताजी"
+      },
+      "transliterations": {
+        "devanagari": "अप्प",
+        "latin": "appa"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hannu",
+      "text": "ಹಣ್ಣು",
+      "translations": {
+        "en": "fruit",
+        "hi": "फल"
+      },
+      "transliterations": {
+        "devanagari": "हण्णु",
+        "latin": "haṇṇu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-rekke",
+      "text": "ರೆಕ್ಕೆ",
+      "translations": {
+        "en": "wing",
+        "hi": "पंख"
+      },
+      "transliterations": {
+        "devanagari": "रेक्के",
+        "latin": "rekke"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-vele",
+      "text": "ವೇಳೆ",
+      "translations": {
+        "en": "time",
+        "hi": "समय"
+      },
+      "transliterations": {
+        "devanagari": "वेळे",
+        "latin": "vēḷe"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-netti",
+      "text": "ನೆತ್ತಿ",
+      "translations": {
+        "en": "top of head",
+        "hi": "सिर का ऊपरी भाग"
+      },
+      "transliterations": {
+        "devanagari": "नेत्ति",
+        "latin": "netti"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haaruva",
+      "text": "ಹಾರುವ",
+      "translations": {
+        "en": "flying",
+        "hi": "उड़ने वाली"
+      },
+      "transliterations": {
+        "devanagari": "हारुव",
+        "latin": "hāruva"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-pucchava",
+      "text": "ಪುಚ್ಚವ",
+      "translations": {
+        "en": "feather",
+        "hi": "पंख (पूंछ का)"
+      },
+      "transliterations": {
+        "devanagari": "पुच्चव",
+        "latin": "puccava"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-haadalu",
+      "text": "ಹಾಡಲು",
+      "translations": {
+        "en": "to sing",
+        "hi": "गाने के लिए"
+      },
+      "transliterations": {
+        "devanagari": "हाडलु",
+        "latin": "hāḍalu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-ibbaru",
+      "text": "ಇಬ್ಬರು",
+      "translations": {
+        "en": "both",
+        "hi": "दोनों"
+      },
+      "transliterations": {
+        "devanagari": "इब्बरु",
+        "latin": "ibbaru"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hogihalu",
+      "text": "ಹೋಗಿಹಳು",
+      "translations": {
+        "en": "she has gone",
+        "hi": "वह गई है"
+      },
+      "transliterations": {
+        "devanagari": "होगिहळु",
+        "latin": "hōgihaḷu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-hogihanu",
+      "text": "ಹೋಗಿಹನು",
+      "translations": {
+        "en": "he has gone",
+        "hi": "वह गया है"
+      },
+      "transliterations": {
+        "devanagari": "होगिहनु",
+        "latin": "hōgihanu"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-allinditta",
+      "text": "ಅಲ್ಲಿಂದಿತ್ತ",
+      "translations": {
+        "en": "from there to here",
+        "hi": "वहाँ से यहाँ"
+      },
+      "transliterations": {
+        "devanagari": "अल्लिन्दित्त",
+        "latin": "allinditta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-illindatta",
+      "text": "ಇಲ್ಲಿಂದತ್ತ",
+      "translations": {
+        "en": "from here to there",
+        "hi": "यहाँ से वहाँ"
+      },
+      "transliterations": {
+        "devanagari": "इल्लिन्दत्त",
+        "latin": "illindatta"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-mugilina",
+      "text": "ಮುಗಿಲಿನ",
+      "translations": {
+        "en": "of the sky",
+        "hi": "आसमान की"
+      },
+      "transliterations": {
+        "devanagari": "मुगिलिन",
+        "latin": "mugilina"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "vocab-naliyuva",
+      "text": "ನಲಿಯುವ",
+      "translations": {
+        "en": "rejoicing",
+        "hi": "खुश होने वाला"
+      },
+      "transliterations": {
+        "devanagari": "नलियुव",
+        "latin": "naliyuva"
+      },
+      "type": "vocabulary_term"
+    },
+    {
+      "id": "note-vele",
+      "text": "ವೇಳೆ",
+      "translations": {
+        "en": "time",
+        "hi": "समय"
+      },
+      "transliterations": {
+        "devanagari": "वेळे",
+        "latin": "vēḷe"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-vele-def",
+      "text": "ಕಾಲ, ಸಮಯ",
+      "translations": {
+        "en": "time, moment",
+        "hi": "काल, समय"
+      },
+      "transliterations": {
+        "devanagari": "काल, समय",
+        "latin": "kāla, samaya"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-haccu",
+      "text": "ಹಚ್ಚು",
+      "translations": {
+        "en": "stick",
+        "hi": "लगा"
+      },
+      "transliterations": {
+        "devanagari": "हच्चु",
+        "latin": "haccu"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-haccu-def",
+      "text": "ಸೇರಿಸು, ಅಂಟಿಸು",
+      "translations": {
+        "en": "add, stick",
+        "hi": "जोड़, चिपका"
+      },
+      "transliterations": {
+        "devanagari": "सेरिसु, अण्टिसु",
+        "latin": "sērisu, aṇṭisu"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-puccha",
+      "text": "ಪುಚ್ಚ",
+      "translations": {
+        "en": "tail feather",
+        "hi": "पर / पंख"
+      },
+      "transliterations": {
+        "devanagari": "पुच्च",
+        "latin": "pucca"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-puccha-def",
+      "text": "ಹಕ್ಕಿಯ ಗರಿ / ಪುಕ್ಕ",
+      "translations": {
+        "en": "bird's feather",
+        "hi": "चिड़िया का पंख"
+      },
+      "transliterations": {
+        "devanagari": "हक्किय गरि / पुक्क",
+        "latin": "hakkiya gari / pukka"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-netti",
+      "text": "ನೆತ್ತಿ",
+      "translations": {
+        "en": "top of the head",
+        "hi": "सिर का ऊपरी भाग"
+      },
+      "transliterations": {
+        "devanagari": "नेत्ति",
+        "latin": "netti"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-netti-def",
+      "text": "ತಲೆಯ ಮಧ್ಯಭಾಗ",
+      "translations": {
+        "en": "middle of the head",
+        "hi": "सिर का मध्य भाग"
+      },
+      "transliterations": {
+        "devanagari": "तलेय मध्यभाग",
+        "latin": "taleya madhyabhāga"
+      },
+      "type": "note_definition"
+    },
+    {
+      "id": "note-hingade",
+      "text": "ಹಿಂಗಡೆ",
+      "translations": {
+        "en": "behind",
+        "hi": "पीछे"
+      },
+      "transliterations": {
+        "devanagari": "हिङ्गडे",
+        "latin": "hiṅgaḍe"
+      },
+      "type": "note_term"
+    },
+    {
+      "id": "note-hingade-def",
+      "text": "ಹಿಂದೆ",
+      "translations": {
+        "en": "behind",
+        "hi": "पीछे"
+      },
+      "transliterations": {
+        "devanagari": "हिन्दे",
+        "latin": "hinde"
+      },
+      "type": "note_definition"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q1",
+      "text": "ಗೆಳೆಯರು ಆಡಲು ಯಾರೂ ಇಲ್ಲ",
+      "translations": {
+        "en": "There is no one to play with",
+        "hi": "खेलने के लिए कोई दोस्त नहीं है"
+      },
+      "transliterations": {
+        "devanagari": "गेळेयरु आडलु यारू इल्ल",
+        "latin": "geḷeyaru āḍalu yārū illa"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q2",
+      "text": "ಅವ್ವನು ಬರಲಿ ಅಪ್ಪನು ಬರಲಿ",
+      "translations": {
+        "en": "Let mother come, let father come",
+        "hi": "माँ को आने दे, पिताजी को आने दे"
+      },
+      "transliterations": {
+        "devanagari": "अव्वनु बरलि अप्पनु बरलि",
+        "latin": "avvanu barali appanu barali"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q3",
+      "text": "ನನಗೂ ಎರಡು ರೆಕ್ಕೆಯ ಹಚ್ಚು",
+      "translations": {
+        "en": "Stick two wings on me too",
+        "hi": "मुझे भी दो पंख लगा दे"
+      },
+      "transliterations": {
+        "devanagari": "ननगू एरडु रेक्केय हच्चु",
+        "latin": "nanagū eraḍu rekkeya haccu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "A",
+      "id": "ex-a-q4",
+      "text": "ನಾನು ನೀನೂ ಇಬ್ಬರು ಕೂಡಿ",
+      "translations": {
+        "en": "You and I, both together",
+        "hi": "मैं और तू दोनों मिलकर"
+      },
+      "transliterations": {
+        "devanagari": "नानु नीनू इब्बरु कूडि",
+        "latin": "nānu nīnū ibbaru kūḍi"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q1",
+      "text": "ಮಗು ಯಾವ ಹಕ್ಕಿಯನ್ನು ಕರೆಯುತ್ತಿದೆ?",
+      "translations": {
+        "en": "Which bird is the child calling?",
+        "hi": "बच्चा किस चिड़िया को बुला रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "मगु याव हक्कियन्नु करेयुत्तिदे?",
+        "latin": "magu yāva hakkiyannu kareyuttide?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q2",
+      "text": "ಅವ್ವ ಎಲ್ಲಿಗೆ ಹೋಗಿಹಳು?",
+      "translations": {
+        "en": "Where did mother go?",
+        "hi": "माँ कहाँ गई है?"
+      },
+      "transliterations": {
+        "devanagari": "अव्व एल्लिगे होगिहळु?",
+        "latin": "avva ellige hōgihaḷu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q3",
+      "text": "ಮಗು ತಿನ್ನಲು ಏನನ್ನು ಕೊಡಿಸುವೆನು ಎಂದಿತು?",
+      "translations": {
+        "en": "What did the child say it will buy to eat?",
+        "hi": "बच्चा खाने के लिए क्या दिलाने की बात कह रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "मगु तिन्नलु एनन्नु कोडिसुवेनु एन्दितु?",
+        "latin": "magu tinnalu ēnannu koḍisuvenu enditu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "B",
+      "id": "ex-b-q4",
+      "text": "ಮಗು ಇಬ್ಬರು ಕೂಡಿ ಯಾವ ಕಡೆಗೆ ಹಾರುವ ಬಾ ಎಂದು ಕರೆಯಿತು?",
+      "translations": {
+        "en": "Where did the child call to fly together?",
+        "hi": "बच्चा दोनों मिलकर किस ओर उड़ने को बुला रहा है?"
+      },
+      "transliterations": {
+        "devanagari": "मगु इब्बरु कूडि याव कडेगे हारुव बा एन्दु करेयितु?",
+        "latin": "magu ibbaru kūḍi yāva kaḍege hāruva bā endu kareyitu?"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q1",
+      "text": "ಬಾ ಬಾ ನನಗೂ _____ ಕಲಿಸು.",
+      "translations": {
+        "en": "Come come, _____ me to sing too.",
+        "hi": "आ आ मुझे भी _____ सिखा।"
+      },
+      "transliterations": {
+        "devanagari": "बा बा ननगू _____ कलिसु.",
+        "latin": "bā bā nanagū _____ kalisu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q2",
+      "text": "ಅಪ್ಪನು _____ ಹೋಗಿಹನು.",
+      "translations": {
+        "en": "Father has gone to _____.",
+        "hi": "पिताजी _____ गए हैं।"
+      },
+      "transliterations": {
+        "devanagari": "अप्पनु _____ होगिहनु.",
+        "latin": "appanu _____ hōgihanu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q3",
+      "text": "ನನಗೂ ಎರಡು ರೆಕ್ಕೆಯ _____",
+      "translations": {
+        "en": "_____ two wings on me too.",
+        "hi": "मुझे भी दो पंख _____।"
+      },
+      "transliterations": {
+        "devanagari": "ननगू एरडु रेक्केय _____",
+        "latin": "nanagū eraḍu rekkeya _____"
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q4",
+      "text": "ನೆತ್ತಿಯ ಮೇಲೆ _____ ಹಚ್ಚು.",
+      "translations": {
+        "en": "Stick a _____ on top of the head.",
+        "hi": "सिर के ऊपर _____ लगा दे।"
+      },
+      "transliterations": {
+        "devanagari": "नेत्तिय मेले _____ हच्चु.",
+        "latin": "nettiya mēle _____ haccu."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "C",
+      "id": "ex-c-q5",
+      "text": "ಮುಗಿಲಿನ ಕಡೆಗೆ _____ ಬಾ.",
+      "translations": {
+        "en": "Come let's _____ towards the sky.",
+        "hi": "आसमान की ओर _____ आ।"
+      },
+      "transliterations": {
+        "devanagari": "मुगिलिन कडेगे _____ बा.",
+        "latin": "mugilina kaḍege _____ bā."
+      },
+      "type": "fill_blank"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q1",
+      "text": "ಹಾಡಲು - ಹಾರಲು",
+      "translations": {
+        "en": "haadalu (sing) - haaralu (fly)",
+        "hi": "हाडलु - हारलु"
+      },
+      "transliterations": {
+        "devanagari": "हाडलु - हारलु",
+        "latin": "hāḍalu - hāralu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q2",
+      "text": "ಹಚ್ಚು - ಚುಚ್ಚು",
+      "translations": {
+        "en": "haccu (stick) - cucchu (poke)",
+        "hi": "हच्चु - चुच्चु"
+      },
+      "transliterations": {
+        "devanagari": "हच्चu - चुच्चु",
+        "latin": "haccu - cuccu"
+      },
+      "type": "question"
+    },
+    {
+      "exercise": "D",
+      "id": "ex-d-q3",
+      "text": "ಅಲ್ಲಿಂದಿತ್ತ - ಇಲ್ಲಿಂದತ್ತ",
+      "translations": {
+        "en": "allinditta (from there to here) - illindatta (from here to there)",
+        "hi": "अल्लिन्दित्त - इल्लिन्दत्त"
+      },
+      "transliterations": {
+        "devanagari": "अल्लिन्दित्त - इल्लिन्दत्त",
+        "latin": "allinditta - illindatta"
+      },
+      "type": "question"
+    }
+  ]
+}
