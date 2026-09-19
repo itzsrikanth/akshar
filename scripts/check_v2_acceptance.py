@@ -19,8 +19,20 @@ EDITION_ID = "2026-27"
 EXPECTED_V1_CHAPTERS = 16
 EXPECTED_V2_PUBLISHED = 8
 EXPECTED_ADOPTIONS = {
+    "savi-kannada-grade1-first-language",
+    "savi-kannada-grade2-first-language",
     "savi-kannada-grade3-first-language",
+    "savi-kannada-grade3-second-language",
+    "savi-kannada-grade4-second-language",
+    "savi-kannada-grade5-first-language",
     "savi-kannada-grade5-second-language",
+    "savi-kannada-grade6-first-language",
+    "savi-kannada-grade7-first-language",
+    "savi-kannada-grade7-second-language",
+    "savi-kannada-grade8-first-language",
+    "savi-kannada-grade8-second-language",
+    "savi-kannada-grade9-second-language",
+    "savi-kannada-grade10-second-language",
 }
 
 

@@ -88,13 +88,32 @@ def main() -> int:
         if payload.exists():
             fail(f"held payload present: {payload.relative_to(REPO_ROOT)}")
 
-    # Dual adoptions share the same eight chapter ids
+    # FL grade N → SL grade N+2 pairs; pilot G3 remains dual-adopted.
     adoptions = v2.get("adoptions") or []
-    if len(adoptions) != 2:
-        fail("expected two adoptions")
-    edition_ids = {(a["bookId"], a["editionId"]) for a in adoptions}
-    if edition_ids != {(BOOK_ID, EDITION_ID)}:
-        fail(f"adoptions must point at pilot edition, got {edition_ids}")
+    if len(adoptions) < 2:
+        fail(f"expected adoption catalog entries, got {len(adoptions)}")
+    adoption_ids = {a.get("id") for a in adoptions}
+    if "savi-kannada-grade3-first-language" not in adoption_ids:
+        fail("missing pilot Grade 3 first-language adoption")
+    if "savi-kannada-grade5-second-language" not in adoption_ids:
+        fail("missing pilot Grade 5 second-language adoption")
+    pilot_refs = {
+        (a["bookId"], a["editionId"])
+        for a in adoptions
+        if a.get("id")
+        in {"savi-kannada-grade3-first-language", "savi-kannada-grade5-second-language"}
+    }
+    if pilot_refs != {(BOOK_ID, EDITION_ID)}:
+        fail(f"pilot adoptions must point at {BOOK_ID}/{EDITION_ID}, got {pilot_refs}")
+    for adoption in adoptions:
+        book_id = adoption.get("bookId")
+        edition_id = adoption.get("editionId")
+        if not isinstance(book_id, str) or not isinstance(edition_id, str):
+            fail(f"adoption {adoption.get('id')!r} missing bookId/editionId")
+        if not any(
+            e.get("bookId") == book_id and e.get("id") == edition_id for e in (v2.get("editions") or [])
+        ):
+            fail(f"adoption {adoption.get('id')!r} references unknown edition {book_id}/{edition_id}")
 
     if args.base_url:
         remote = fetch_json(args.base_url, "api/v2/contents.json")

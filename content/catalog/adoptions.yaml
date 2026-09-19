@@ -1,4 +1,46 @@
+# Paired learner contexts for Savi Kannada FL Part 1 editions (2026–27).
+# Printed FL grade N is used as second-language Kannada at learner grade N+2.
+# Do not invent statewide adoption; schoolMedium follows the pilot pattern
+# (Kannada medium for FL, English medium for SL) unless separately evidenced.
 adoptions:
+  - id: savi-kannada-grade1-first-language
+    bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 1
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Printed Grade 1 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.
+  - id: savi-kannada-grade3-second-language
+    bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 3
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.
+
+  - id: savi-kannada-grade2-first-language
+    bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 2
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Printed Grade 2 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.
+  - id: savi-kannada-grade4-second-language
+    bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 4
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.
+
   - id: savi-kannada-grade3-first-language
     bookId: ktbs-savi-kannada-g3-fl-p1
     editionId: "2026-27"
@@ -16,4 +58,80 @@ adoptions:
     languageRole: second-language
     schoolMedium: English
     region: Karnataka
-    evidence: Maintainer-reported use on 2026-09-13; institution unspecified.
+    evidence: Maintainer-reported use on 2026-09-13; institution unspecified. Aligns with FL grade N → SL grade N+2.
+
+  - id: savi-kannada-grade5-first-language
+    bookId: ktbs-savi-kannada-g5-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 5
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Printed Grade 5 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.
+  - id: savi-kannada-grade7-second-language
+    bookId: ktbs-savi-kannada-g5-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 7
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.
+
+  - id: savi-kannada-grade6-first-language
+    bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 6
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Printed Grade 6 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.
+  - id: savi-kannada-grade8-second-language
+    bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 8
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.
+
+  - id: savi-kannada-grade7-first-language
+    bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 7
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Printed Grade 7 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.
+  - id: savi-kannada-grade9-second-language
+    bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 9
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.
+
+  - id: savi-kannada-grade8-first-language
+    bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 8
+    subjectLanguage: kn
+    languageRole: first-language
+    schoolMedium: Kannada
+    region: Karnataka
+    evidence: Printed Grade 8 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.
+  - id: savi-kannada-grade10-second-language
+    bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: "2026-27"
+    learnerGrade: 10
+    subjectLanguage: kn
+    languageRole: second-language
+    schoolMedium: English
+    region: Karnataka
+    evidence: Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.

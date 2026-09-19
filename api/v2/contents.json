@@ -1,6 +1,39 @@
 {
   "adoptions": [
     {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Printed Grade 1 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.",
+      "id": "savi-kannada-grade1-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 1,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.",
+      "id": "savi-kannada-grade10-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 10,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Printed Grade 2 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.",
+      "id": "savi-kannada-grade2-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 2,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
       "bookId": "ktbs-savi-kannada-g3-fl-p1",
       "editionId": "2026-27",
       "evidence": "Official 2026–27 textbook listing; maintainer confirms use.",
@@ -12,12 +45,111 @@
       "subjectLanguage": "kn"
     },
     {
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.",
+      "id": "savi-kannada-grade3-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 3,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.",
+      "id": "savi-kannada-grade4-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 4,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Printed Grade 5 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.",
+      "id": "savi-kannada-grade5-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 5,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
       "bookId": "ktbs-savi-kannada-g3-fl-p1",
       "editionId": "2026-27",
-      "evidence": "Maintainer-reported use on 2026-09-13; institution unspecified.",
+      "evidence": "Maintainer-reported use on 2026-09-13; institution unspecified. Aligns with FL grade N → SL grade N+2.",
       "id": "savi-kannada-grade5-second-language",
       "languageRole": "second-language",
       "learnerGrade": 5,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Printed Grade 6 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.",
+      "id": "savi-kannada-grade6-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 6,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Printed Grade 7 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.",
+      "id": "savi-kannada-grade7-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 7,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.",
+      "id": "savi-kannada-grade7-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 7,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Printed Grade 8 first-language book in the 2026–27 Savi Kannada FL Part 1 series; maintainer confirms use.",
+      "id": "savi-kannada-grade8-first-language",
+      "languageRole": "first-language",
+      "learnerGrade": 8,
+      "region": "Karnataka",
+      "schoolMedium": "Kannada",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.",
+      "id": "savi-kannada-grade8-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 8,
+      "region": "Karnataka",
+      "schoolMedium": "English",
+      "subjectLanguage": "kn"
+    },
+    {
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "editionId": "2026-27",
+      "evidence": "Maintainer confirms FL printed grade N is used as SL at learner grade N+2 (2026-09-19); institution unspecified.",
+      "id": "savi-kannada-grade9-second-language",
+      "languageRole": "second-language",
+      "learnerGrade": 9,
       "region": "Karnataka",
       "schoolMedium": "English",
       "subjectLanguage": "kn"
@@ -916,6 +1048,6 @@
       }
     }
   ],
-  "generatedAt": "2026-09-19T06:32:40Z",
+  "generatedAt": "2026-09-19T07:29:34Z",
   "schemaVersion": "2.0"
 }
