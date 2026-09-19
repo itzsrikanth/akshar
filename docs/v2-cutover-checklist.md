@@ -9,7 +9,7 @@ Device and release steps for retiring v1 after the content relocation. Do not re
 | Field | Value |
 |---|---|
 | Recorded on | 2026-09-19 |
-| Git revision (pre-retirement) | `07e37ca71e5d7b180a6b87e3ef4de0e29f14bddb` |
+| Git revision (pre-retirement) | `0a8f297792b8ec3696eb40d94d72d3f1a9f47649` |
 | Rollback | `git checkout` / redeploy this revision; leave v2 local namespaces untouched on rollback |
 
 Annotated tag to create when starting the production cutover window: `pre-v2-cutover`.
