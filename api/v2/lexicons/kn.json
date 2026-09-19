@@ -1,5 +1,5 @@
 {
-  "contentHash": "92db434cad1d3819",
+  "contentHash": "38f6401ac79d60f3",
   "forms": {
     "ಅಂಗಳ": {
       "form": "ಅಂಗಳ",
@@ -36,6 +36,13 @@
       ],
       "status": "exact"
     },
+    "ಅಂತರ್ಜಲ": {
+      "form": "ಅಂತರ್ಜಲ",
+      "lemmaIds": [
+        "lemma-antarjala"
+      ],
+      "status": "exact"
+    },
     "ಅಂತಿಮ": {
       "form": "ಅಂತಿಮ",
       "lemmaIds": [
@@ -47,6 +54,13 @@
       "form": "ಅಂಧಕಾರ",
       "lemmaIds": [
         "lemma-andhakara"
+      ],
+      "status": "exact"
+    },
+    "ಅಂಬಾರಿ": {
+      "form": "ಅಂಬಾರಿ",
+      "lemmaIds": [
+        "lemma-ambari"
       ],
       "status": "exact"
     },
@@ -99,6 +113,13 @@
       ],
       "status": "exact"
     },
+    "ಅತಿಥಿ": {
+      "form": "ಅತಿಥಿ",
+      "lemmaIds": [
+        "lemma-atithi"
+      ],
+      "status": "exact"
+    },
     "ಅದ್ದಿ": {
       "form": "ಅದ್ದಿ",
       "lemmaIds": [
@@ -148,6 +169,13 @@
       ],
       "status": "exact"
     },
+    "ಅಪಾಯ": {
+      "form": "ಅಪಾಯ",
+      "lemmaIds": [
+        "lemma-apaya"
+      ],
+      "status": "exact"
+    },
     "ಅಪ್ಪಣೆ": {
       "form": "ಅಪ್ಪಣೆ",
       "lemmaIds": [
@@ -187,6 +215,13 @@
       "form": "ಅಭ್ಯುದಯ",
       "lemmaIds": [
         "lemma-abhyudaya"
+      ],
+      "status": "exact"
+    },
+    "ಅಮಲ್ದಾರ": {
+      "form": "ಅಮಲ್ದಾರ",
+      "lemmaIds": [
+        "lemma-amaldara"
       ],
       "status": "exact"
     },
@@ -274,6 +309,13 @@
       ],
       "status": "exact"
     },
+    "ಅಸಹಕಾರ ಚಳವಳಿ": {
+      "form": "ಅಸಹಕಾರ ಚಳವಳಿ",
+      "lemmaIds": [
+        "lemma-asahakara"
+      ],
+      "status": "exact"
+    },
     "ಅಸ್ತ್ರ": {
       "form": "ಅಸ್ತ್ರ",
       "lemmaIds": [
@@ -351,6 +393,13 @@
       ],
       "status": "exact"
     },
+    "ಆಲೋಚನೆ": {
+      "form": "ಆಲೋಚನೆ",
+      "lemmaIds": [
+        "lemma-alochane"
+      ],
+      "status": "exact"
+    },
     "ಆಳ್ವೆ": {
       "form": "ಆಳ್ವೆ",
       "lemmaIds": [
@@ -412,6 +461,13 @@
       "form": "ಇಷ್ಟ",
       "lemmaIds": [
         "lemma-ishta"
+      ],
+      "status": "exact"
+    },
+    "ಇಹಪರ": {
+      "form": "ಇಹಪರ",
+      "lemmaIds": [
+        "lemma-ihapara"
       ],
       "status": "exact"
     },
@@ -485,10 +541,31 @@
       ],
       "status": "exact"
     },
+    "ಉರುಸ್": {
+      "form": "ಉರುಸ್",
+      "lemmaIds": [
+        "lemma-v78a98558"
+      ],
+      "status": "exact"
+    },
+    "ಉಲ್ಕೆ": {
+      "form": "ಉಲ್ಕೆ",
+      "lemmaIds": [
+        "lemma-ulke"
+      ],
+      "status": "exact"
+    },
     "ಉಳಿಸು": {
       "form": "ಉಳಿಸು",
       "lemmaIds": [
         "lemma-ulisu"
+      ],
+      "status": "exact"
+    },
+    "ಉಸಿರು": {
+      "form": "ಉಸಿರು",
+      "lemmaIds": [
+        "lemma-usiru"
       ],
       "status": "exact"
     },
@@ -524,6 +601,13 @@
       "form": "ಎನಿತು",
       "lemmaIds": [
         "lemma-vb4caad71"
+      ],
+      "status": "exact"
+    },
+    "ಎಲಚಿ": {
+      "form": "ಎಲಚಿ",
+      "lemmaIds": [
+        "lemma-elachi"
       ],
       "status": "exact"
     },
@@ -583,6 +667,13 @@
       ],
       "status": "exact"
     },
+    "ಒಪ್ಪಂದ": {
+      "form": "ಒಪ್ಪಂದ",
+      "lemmaIds": [
+        "lemma-oppanda"
+      ],
+      "status": "exact"
+    },
     "ಒಲ್ಮೆ": {
       "form": "ಒಲ್ಮೆ",
       "lemmaIds": [
@@ -618,10 +709,24 @@
       ],
       "status": "exact"
     },
+    "ಕಂಡಿ": {
+      "form": "ಕಂಡಿ",
+      "lemmaIds": [
+        "lemma-kandi"
+      ],
+      "status": "exact"
+    },
     "ಕಂತೆ": {
       "form": "ಕಂತೆ",
       "lemmaIds": [
         "lemma-kante"
+      ],
+      "status": "exact"
+    },
+    "ಕಂದಾಯ": {
+      "form": "ಕಂದಾಯ",
+      "lemmaIds": [
+        "lemma-kandaya"
       ],
       "status": "exact"
     },
@@ -667,6 +772,13 @@
       ],
       "status": "exact"
     },
+    "ಕಪ್ಪು ಹಲಗೆ": {
+      "form": "ಕಪ್ಪು ಹಲಗೆ",
+      "lemmaIds": [
+        "lemma-kappuhalage"
+      ],
+      "status": "exact"
+    },
     "ಕಮರು": {
       "form": "ಕಮರು",
       "lemmaIds": [
@@ -674,10 +786,24 @@
       ],
       "status": "exact"
     },
+    "ಕಮ್ಮಿನ": {
+      "form": "ಕಮ್ಮಿನ",
+      "lemmaIds": [
+        "lemma-kammina"
+      ],
+      "status": "exact"
+    },
     "ಕರಾವಳಿ": {
       "form": "ಕರಾವಳಿ",
       "lemmaIds": [
         "lemma-karavali"
+      ],
+      "status": "exact"
+    },
+    "ಕರುಳು ಕಿತ್ತುಬರುವಂತೆ ಅಳು": {
+      "form": "ಕರುಳು ಕಿತ್ತುಬರುವಂತೆ ಅಳು",
+      "lemmaIds": [
+        "lemma-karulu-kittu"
       ],
       "status": "exact"
     },
@@ -744,6 +870,13 @@
       ],
       "status": "exact"
     },
+    "ಕವಾಯತು": {
+      "form": "ಕವಾಯತು",
+      "lemmaIds": [
+        "lemma-kavayatu"
+      ],
+      "status": "exact"
+    },
     "ಕವಿ": {
       "form": "ಕವಿ",
       "lemmaIds": [
@@ -755,6 +888,13 @@
       "form": "ಕವಿಯಿತು",
       "lemmaIds": [
         "lemma-kaviyitu"
+      ],
+      "status": "exact"
+    },
+    "ಕಸಬು": {
+      "form": "ಕಸಬು",
+      "lemmaIds": [
+        "lemma-kasabu"
       ],
       "status": "exact"
     },
@@ -797,6 +937,27 @@
       "form": "ಕಾರ್ಪಣ್ಯ",
       "lemmaIds": [
         "lemma-karpanya"
+      ],
+      "status": "exact"
+    },
+    "ಕಾರ್ಯಕ್ಷೇತ್ರ": {
+      "form": "ಕಾರ್ಯಕ್ಷೇತ್ರ",
+      "lemmaIds": [
+        "lemma-karyakshetra"
+      ],
+      "status": "exact"
+    },
+    "ಕಾಲಿಗೆ ಬುದ್ಧಿ ಹೇಳು": {
+      "form": "ಕಾಲಿಗೆ ಬುದ್ಧಿ ಹೇಳು",
+      "lemmaIds": [
+        "lemma-kalige-buddhi"
+      ],
+      "status": "exact"
+    },
+    "ಕಾವಲು ಗೋಪುರ": {
+      "form": "ಕಾವಲು ಗೋಪುರ",
+      "lemmaIds": [
+        "lemma-kavalu-gopura"
       ],
       "status": "exact"
     },
@@ -877,6 +1038,13 @@
       ],
       "status": "exact"
     },
+    "ಕುಲಪತಿ": {
+      "form": "ಕುಲಪತಿ",
+      "lemmaIds": [
+        "lemma-kulapati"
+      ],
+      "status": "exact"
+    },
     "ಕೆನೆ": {
       "form": "ಕೆನೆ",
       "lemmaIds": [
@@ -940,6 +1108,20 @@
       ],
       "status": "exact"
     },
+    "ಕೊಳ": {
+      "form": "ಕೊಳ",
+      "lemmaIds": [
+        "lemma-kola"
+      ],
+      "status": "exact"
+    },
+    "ಕ್ಷಮಿಸು": {
+      "form": "ಕ್ಷಮಿಸು",
+      "lemmaIds": [
+        "lemma-kshamisu"
+      ],
+      "status": "exact"
+    },
     "ಕ್ಷಾತ್ರ": {
       "form": "ಕ್ಷಾತ್ರ",
       "lemmaIds": [
@@ -951,6 +1133,20 @@
       "form": "ಕ್ಷೇಮ",
       "lemmaIds": [
         "lemma-ksema"
+      ],
+      "status": "exact"
+    },
+    "ಖಗ": {
+      "form": "ಖಗ",
+      "lemmaIds": [
+        "lemma-khaga"
+      ],
+      "status": "exact"
+    },
+    "ಖಗಮೃಗೋರಗಾಳಿ": {
+      "form": "ಖಗಮೃಗೋರಗಾಳಿ",
+      "lemmaIds": [
+        "lemma-khagamrugoragaali"
       ],
       "status": "exact"
     },
@@ -968,10 +1164,38 @@
       ],
       "status": "exact"
     },
+    "ಖಾತೆ-ಕಿರ್ದಿ": {
+      "form": "ಖಾತೆ-ಕಿರ್ದಿ",
+      "lemmaIds": [
+        "lemma-khatekirdi"
+      ],
+      "status": "exact"
+    },
     "ಖಾದಿ": {
       "form": "ಖಾದಿ",
       "lemmaIds": [
         "lemma-khadi"
+      ],
+      "status": "exact"
+    },
+    "ಖುಷಿ": {
+      "form": "ಖುಷಿ",
+      "lemmaIds": [
+        "lemma-khushi"
+      ],
+      "status": "exact"
+    },
+    "ಗಂಟಲು ಹರಿಯುವಂತೆ ಕೂಗು": {
+      "form": "ಗಂಟಲು ಹರಿಯುವಂತೆ ಕೂಗು",
+      "lemmaIds": [
+        "lemma-gantalu-hariyu"
+      ],
+      "status": "exact"
+    },
+    "ಗಗನ": {
+      "form": "ಗಗನ",
+      "lemmaIds": [
+        "lemma-gagana"
       ],
       "status": "exact"
     },
@@ -1010,6 +1234,13 @@
       ],
       "status": "exact"
     },
+    "ಗರಿಮುರಿ ಬಟ್ಟೆ": {
+      "form": "ಗರಿಮುರಿ ಬಟ್ಟೆ",
+      "lemmaIds": [
+        "lemma-garimuri"
+      ],
+      "status": "exact"
+    },
     "ಗರಿಯರು": {
       "form": "ಗರಿಯರು",
       "lemmaIds": [
@@ -1021,6 +1252,13 @@
       "form": "ಗರ್ಜನೆ",
       "lemmaIds": [
         "lemma-garjane"
+      ],
+      "status": "exact"
+    },
+    "ಗಾಬರಿ": {
+      "form": "ಗಾಬರಿ",
+      "lemmaIds": [
+        "lemma-gaabari"
       ],
       "status": "exact"
     },
@@ -1059,10 +1297,24 @@
       ],
       "status": "exact"
     },
+    "ಗುಡಿ": {
+      "form": "ಗುಡಿ",
+      "lemmaIds": [
+        "lemma-gudi"
+      ],
+      "status": "exact"
+    },
     "ಗುಡಿಸಲು": {
       "form": "ಗುಡಿಸಲು",
       "lemmaIds": [
         "lemma-gudisalu"
+      ],
+      "status": "exact"
+    },
+    "ಗುದ್ದಲಿ": {
+      "form": "ಗುದ್ದಲಿ",
+      "lemmaIds": [
+        "lemma-guddali"
       ],
       "status": "exact"
     },
@@ -1073,10 +1325,24 @@
       ],
       "status": "exact"
     },
+    "ಗುಬ್ಬಚ್ಚಿ": {
+      "form": "ಗುಬ್ಬಚ್ಚಿ",
+      "lemmaIds": [
+        "lemma-gubbacchi"
+      ],
+      "status": "exact"
+    },
     "ಗುಲಾಮಗಿರಿ": {
       "form": "ಗುಲಾಮಗಿರಿ",
       "lemmaIds": [
         "lemma-gulamagiri"
+      ],
+      "status": "exact"
+    },
+    "ಗೆಳೆಯ": {
+      "form": "ಗೆಳೆಯ",
+      "lemmaIds": [
+        "lemma-geleya"
       ],
       "status": "exact"
     },
@@ -1098,6 +1364,13 @@
       "form": "ಘನತೆ",
       "lemmaIds": [
         "lemma-ghanate"
+      ],
+      "status": "exact"
+    },
+    "ಘಳಿಗೆ": {
+      "form": "ಘಳಿಗೆ",
+      "lemmaIds": [
+        "lemma-ghalige"
       ],
       "status": "exact"
     },
@@ -1192,6 +1465,13 @@
       ],
       "status": "exact"
     },
+    "ಚುಟುಕು": {
+      "form": "ಚುಟುಕು",
+      "lemmaIds": [
+        "lemma-chutuku"
+      ],
+      "status": "exact"
+    },
     "ಚೆಲ್ಲಾಪಿಲ್ಲಿ": {
       "form": "ಚೆಲ್ಲಾಪಿಲ್ಲಿ",
       "lemmaIds": [
@@ -1263,6 +1543,20 @@
       ],
       "status": "exact"
     },
+    "ಜನಕ ಮಹಾರಾಜ": {
+      "form": "ಜನಕ ಮಹಾರಾಜ",
+      "lemmaIds": [
+        "lemma-janaka-maharaja"
+      ],
+      "status": "exact"
+    },
+    "ಜನಪದ": {
+      "form": "ಜನಪದ",
+      "lemmaIds": [
+        "lemma-janapada-samanya"
+      ],
+      "status": "exact"
+    },
     "ಜನಪ್ರಿಯ": {
       "form": "ಜನಪ್ರಿಯ",
       "lemmaIds": [
@@ -1291,6 +1585,13 @@
       ],
       "status": "exact"
     },
+    "ಜರತಾರಿ": {
+      "form": "ಜರತಾರಿ",
+      "lemmaIds": [
+        "lemma-jaratari"
+      ],
+      "status": "exact"
+    },
     "ಜಲಚರ": {
       "form": "ಜಲಚರ",
       "lemmaIds": [
@@ -1298,10 +1599,31 @@
       ],
       "status": "exact"
     },
+    "ಜಾನಪದ": {
+      "form": "ಜಾನಪದ",
+      "lemmaIds": [
+        "lemma-janapada"
+      ],
+      "status": "exact"
+    },
     "ಜೈಲು": {
       "form": "ಜೈಲು",
       "lemmaIds": [
         "lemma-jailu"
+      ],
+      "status": "exact"
+    },
+    "ಜೋಕಾಲಿ": {
+      "form": "ಜೋಕಾಲಿ",
+      "lemmaIds": [
+        "lemma-jokaali"
+      ],
+      "status": "exact"
+    },
+    "ಜೋಗುಳ": {
+      "form": "ಜೋಗುಳ",
+      "lemmaIds": [
+        "lemma-jogula"
       ],
       "status": "exact"
     },
@@ -1333,6 +1655,13 @@
       ],
       "status": "exact"
     },
+    "ಢವಢವಗುಟ್ಟು": {
+      "form": "ಢವಢವಗುಟ್ಟು",
+      "lemmaIds": [
+        "lemma-dhavadhavaguttu"
+      ],
+      "status": "exact"
+    },
     "ತಂಡ": {
       "form": "ತಂಡ",
       "lemmaIds": [
@@ -1347,6 +1676,13 @@
       ],
       "status": "exact"
     },
+    "ತಗಡು": {
+      "form": "ತಗಡು",
+      "lemmaIds": [
+        "lemma-tagadu"
+      ],
+      "status": "exact"
+    },
     "ತಟಸಸ್ಯಸಂಕುಲ": {
       "form": "ತಟಸಸ್ಯಸಂಕುಲ",
       "lemmaIds": [
@@ -1358,6 +1694,13 @@
       "form": "ತಣಿದು",
       "lemmaIds": [
         "lemma-tanidu"
+      ],
+      "status": "exact"
+    },
+    "ತಣ್ಣೆಳಲು": {
+      "form": "ತಣ್ಣೆಳಲು",
+      "lemmaIds": [
+        "lemma-tannelalu"
       ],
       "status": "exact"
     },
@@ -1424,10 +1767,38 @@
       ],
       "status": "exact"
     },
+    "ತವರೂರು": {
+      "form": "ತವರೂರು",
+      "lemmaIds": [
+        "lemma-tavarooru"
+      ],
+      "status": "exact"
+    },
     "ತಾಪ": {
       "form": "ತಾಪ",
       "lemmaIds": [
         "lemma-tapa"
+      ],
+      "status": "exact"
+    },
+    "ತಾಯ್ನುಡಿ": {
+      "form": "ತಾಯ್ನುಡಿ",
+      "lemmaIds": [
+        "lemma-taaynudi"
+      ],
+      "status": "exact"
+    },
+    "ತಾರೆ": {
+      "form": "ತಾರೆ",
+      "lemmaIds": [
+        "lemma-taare"
+      ],
+      "status": "exact"
+    },
+    "ತಾಳ್ಮೆಗೆಡು": {
+      "form": "ತಾಳ್ಮೆಗೆಡು",
+      "lemmaIds": [
+        "lemma-thalmegedu"
       ],
       "status": "exact"
     },
@@ -1452,6 +1823,13 @@
       ],
       "status": "exact"
     },
+    "ತೀರ್ಮಾನ": {
+      "form": "ತೀರ್ಮಾನ",
+      "lemmaIds": [
+        "lemma-teermana"
+      ],
+      "status": "exact"
+    },
     "ತೀವ್ರ": {
       "form": "ತೀವ್ರ",
       "lemmaIds": [
@@ -1470,6 +1848,13 @@
       "form": "ತುಡುಕಿ",
       "lemmaIds": [
         "lemma-v27b5921f"
+      ],
+      "status": "exact"
+    },
+    "ತುತ್ತೂರಿ": {
+      "form": "ತುತ್ತೂರಿ",
+      "lemmaIds": [
+        "lemma-tutturi"
       ],
       "status": "exact"
     },
@@ -1550,6 +1935,20 @@
       ],
       "status": "exact"
     },
+    "ತೋಚದೆ": {
+      "form": "ತೋಚದೆ",
+      "lemmaIds": [
+        "lemma-tochade"
+      ],
+      "status": "exact"
+    },
+    "ತೋಟಗಾರಿಕೆ": {
+      "form": "ತೋಟಗಾರಿಕೆ",
+      "lemmaIds": [
+        "lemma-totagarike"
+      ],
+      "status": "exact"
+    },
     "ತೋಡು": {
       "form": "ತೋಡು",
       "lemmaIds": [
@@ -1557,10 +1956,24 @@
       ],
       "status": "exact"
     },
+    "ದಂಟು": {
+      "form": "ದಂಟು",
+      "lemmaIds": [
+        "lemma-dantu"
+      ],
+      "status": "exact"
+    },
     "ದಂಡ": {
       "form": "ದಂಡ",
       "lemmaIds": [
         "lemma-danda"
+      ],
+      "status": "exact"
+    },
+    "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ": {
+      "form": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+      "lemmaIds": [
+        "lemma-dandi"
       ],
       "status": "exact"
     },
@@ -1585,10 +1998,24 @@
       ],
       "status": "exact"
     },
+    "ದಮ್ಮಯ್ಯ": {
+      "form": "ದಮ್ಮಯ್ಯ",
+      "lemmaIds": [
+        "lemma-dammayya"
+      ],
+      "status": "exact"
+    },
     "ದಯೆ": {
       "form": "ದಯೆ",
       "lemmaIds": [
         "lemma-daye"
+      ],
+      "status": "exact"
+    },
+    "ದರ್ಜಿ": {
+      "form": "ದರ್ಜಿ",
+      "lemmaIds": [
+        "lemma-darji"
       ],
       "status": "exact"
     },
@@ -1599,10 +2026,31 @@
       ],
       "status": "exact"
     },
+    "ದಸರೆ": {
+      "form": "ದಸರೆ",
+      "lemmaIds": [
+        "lemma-dasare"
+      ],
+      "status": "exact"
+    },
     "ದಾರಿದ್ರ್ಯ": {
       "form": "ದಾರಿದ್ರ್ಯ",
       "lemmaIds": [
         "lemma-daridrya"
+      ],
+      "status": "exact"
+    },
+    "ದಿನಸಿ": {
+      "form": "ದಿನಸಿ",
+      "lemmaIds": [
+        "lemma-dinasi"
+      ],
+      "status": "exact"
+    },
+    "ದಿನಾಲೂ": {
+      "form": "ದಿನಾಲೂ",
+      "lemmaIds": [
+        "lemma-dinaalu"
       ],
       "status": "exact"
     },
@@ -1631,6 +2079,13 @@
       "form": "ದುಡಿ",
       "lemmaIds": [
         "lemma-dudi"
+      ],
+      "status": "exact"
+    },
+    "ದುರಂತ": {
+      "form": "ದುರಂತ",
+      "lemmaIds": [
+        "lemma-duranta"
       ],
       "status": "exact"
     },
@@ -1739,6 +2194,13 @@
       ],
       "status": "exact"
     },
+    "ನಗೆಹನಿ": {
+      "form": "ನಗೆಹನಿ",
+      "lemmaIds": [
+        "lemma-nagehani"
+      ],
+      "status": "exact"
+    },
     "ನಟ್ಟ ನಡುವೆ": {
       "form": "ನಟ್ಟ ನಡುವೆ",
       "lemmaIds": [
@@ -1774,6 +2236,13 @@
       ],
       "status": "exact"
     },
+    "ನಾಲಗೆಯನ್ನು ಉದ್ದ ಮಾಡಿ ಹೇಳು": {
+      "form": "ನಾಲಗೆಯನ್ನು ಉದ್ದ ಮಾಡಿ ಹೇಳು",
+      "lemmaIds": [
+        "lemma-nalage-udda"
+      ],
+      "status": "exact"
+    },
     "ನಿಂದಕರು": {
       "form": "ನಿಂದಕರು",
       "lemmaIds": [
@@ -1806,6 +2275,13 @@
       "form": "ನಿಡುಕರು",
       "lemmaIds": [
         "lemma-nidukaru"
+      ],
+      "status": "exact"
+    },
+    "ನಿತ್ಯ": {
+      "form": "ನಿತ್ಯ",
+      "lemmaIds": [
+        "lemma-nitya"
       ],
       "status": "exact"
     },
@@ -1900,6 +2376,13 @@
       ],
       "status": "exact"
     },
+    "ನೆತ್ತಿ": {
+      "form": "ನೆತ್ತಿ",
+      "lemmaIds": [
+        "lemma-netti"
+      ],
+      "status": "exact"
+    },
     "ನೆರಳು": {
       "form": "ನೆರಳು",
       "lemmaIds": [
@@ -1935,10 +2418,31 @@
       ],
       "status": "exact"
     },
+    "ನೊಗ": {
+      "form": "ನೊಗ",
+      "lemmaIds": [
+        "lemma-noga"
+      ],
+      "status": "exact"
+    },
     "ನ್ಯೂನತೆ": {
       "form": "ನ್ಯೂನತೆ",
       "lemmaIds": [
         "lemma-nyunate"
+      ],
+      "status": "exact"
+    },
+    "ಪಂಜರ": {
+      "form": "ಪಂಜರ",
+      "lemmaIds": [
+        "lemma-panjara"
+      ],
+      "status": "exact"
+    },
+    "ಪಂಜು": {
+      "form": "ಪಂಜು",
+      "lemmaIds": [
+        "lemma-panju"
       ],
       "status": "exact"
     },
@@ -1970,6 +2474,13 @@
       ],
       "status": "exact"
     },
+    "ಪಕ್ಷಪಾತಿ": {
+      "form": "ಪಕ್ಷಪಾತಿ",
+      "lemmaIds": [
+        "lemma-pakshapaati"
+      ],
+      "status": "exact"
+    },
     "ಪಗಡೆ": {
       "form": "ಪಗಡೆ",
       "lemmaIds": [
@@ -1981,6 +2492,13 @@
       "form": "ಪಚ್ಚೆ",
       "lemmaIds": [
         "lemma-pacche"
+      ],
+      "status": "exact"
+    },
+    "ಪಟ್ಟಾಭಿಷೇಕ": {
+      "form": "ಪಟ್ಟಾಭಿಷೇಕ",
+      "lemmaIds": [
+        "lemma-pattabhisheka"
       ],
       "status": "exact"
     },
@@ -2026,6 +2544,20 @@
       ],
       "status": "exact"
     },
+    "ಪದಾರ್ಥ": {
+      "form": "ಪದಾರ್ಥ",
+      "lemmaIds": [
+        "lemma-padartha"
+      ],
+      "status": "exact"
+    },
+    "ಪದ್ಮಭೂಷಣ": {
+      "form": "ಪದ್ಮಭೂಷಣ",
+      "lemmaIds": [
+        "lemma-veb7c9a2a"
+      ],
+      "status": "exact"
+    },
     "ಪರಕೀಯ": {
       "form": "ಪರಕೀಯ",
       "lemmaIds": [
@@ -2051,6 +2583,13 @@
       "form": "ಪರಿಪಾಲಿಸು",
       "lemmaIds": [
         "lemma-v3446c5bb"
+      ],
+      "status": "exact"
+    },
+    "ಪರಿಮಳ": {
+      "form": "ಪರಿಮಳ",
+      "lemmaIds": [
+        "lemma-parimala"
       ],
       "status": "exact"
     },
@@ -2082,10 +2621,24 @@
       ],
       "status": "exact"
     },
+    "ಪಲಾಯನ": {
+      "form": "ಪಲಾಯನ",
+      "lemmaIds": [
+        "lemma-palaayana"
+      ],
+      "status": "exact"
+    },
     "ಪಲಾಯನ ಪಠಿಸು": {
       "form": "ಪಲಾಯನ ಪಠಿಸು",
       "lemmaIds": [
         "lemma-palayana"
+      ],
+      "status": "exact"
+    },
+    "ಪಲ್ಯ": {
+      "form": "ಪಲ್ಯ",
+      "lemmaIds": [
+        "lemma-palya"
       ],
       "status": "exact"
     },
@@ -2100,6 +2653,13 @@
       "form": "ಪಾಯ",
       "lemmaIds": [
         "lemma-paya"
+      ],
+      "status": "exact"
+    },
+    "ಪಾಲಿಶ್": {
+      "form": "ಪಾಲಿಶ್",
+      "lemmaIds": [
+        "lemma-palish"
       ],
       "status": "exact"
     },
@@ -2121,6 +2681,20 @@
       "form": "ಪುಕ್ಕಟ್ಟೆ",
       "lemmaIds": [
         "lemma-vae48d8bf"
+      ],
+      "status": "exact"
+    },
+    "ಪುಚ್ಚ": {
+      "form": "ಪುಚ್ಚ",
+      "lemmaIds": [
+        "lemma-puccha"
+      ],
+      "status": "exact"
+    },
+    "ಪುಟ್ಟಿ": {
+      "form": "ಪುಟ್ಟಿ",
+      "lemmaIds": [
+        "lemma-putti"
       ],
       "status": "exact"
     },
@@ -2156,6 +2730,13 @@
       "form": "ಪೇಚಾಡು",
       "lemmaIds": [
         "lemma-pechaadu"
+      ],
+      "status": "exact"
+    },
+    "ಪೈರು": {
+      "form": "ಪೈರು",
+      "lemmaIds": [
+        "lemma-pairu"
       ],
       "status": "exact"
     },
@@ -2219,6 +2800,13 @@
       "form": "ಪ್ರತೀಕ",
       "lemmaIds": [
         "lemma-pratika"
+      ],
+      "status": "exact"
+    },
+    "ಪ್ರಭಾತಫೇರಿ": {
+      "form": "ಪ್ರಭಾತಫೇರಿ",
+      "lemmaIds": [
+        "lemma-prabhatapheri"
       ],
       "status": "exact"
     },
@@ -2334,6 +2922,27 @@
       ],
       "status": "exact"
     },
+    "ಬಣಬಣಗುಟ್ಟು": {
+      "form": "ಬಣಬಣಗುಟ್ಟು",
+      "lemmaIds": [
+        "lemma-banabanaguttu"
+      ],
+      "status": "exact"
+    },
+    "ಬದಿ": {
+      "form": "ಬದಿ",
+      "lemmaIds": [
+        "lemma-badi"
+      ],
+      "status": "exact"
+    },
+    "ಬದು": {
+      "form": "ಬದು",
+      "lemmaIds": [
+        "lemma-badu"
+      ],
+      "status": "exact"
+    },
     "ಬಯಲು": {
       "form": "ಬಯಲು",
       "lemmaIds": [
@@ -2397,6 +3006,13 @@
       ],
       "status": "exact"
     },
+    "ಬಾಬಾ ಸಾಹೇಬ": {
+      "form": "ಬಾಬಾ ಸಾಹೇಬ",
+      "lemmaIds": [
+        "lemma-baba-saheb"
+      ],
+      "status": "exact"
+    },
     "ಬಾಳೆ": {
       "form": "ಬಾಳೆ",
       "lemmaIds": [
@@ -2404,10 +3020,24 @@
       ],
       "status": "exact"
     },
+    "ಬಾಳೆಹೊಸೂರು": {
+      "form": "ಬಾಳೆಹೊಸೂರು",
+      "lemmaIds": [
+        "lemma-balehosuru"
+      ],
+      "status": "exact"
+    },
     "ಬಿಡೆ": {
       "form": "ಬಿಡೆ",
       "lemmaIds": [
         "lemma-bide"
+      ],
+      "status": "exact"
+    },
+    "ಬಿತ್ತು": {
+      "form": "ಬಿತ್ತು",
+      "lemmaIds": [
+        "lemma-bittu"
       ],
       "status": "exact"
     },
@@ -2429,6 +3059,20 @@
       "form": "ಬೀರು",
       "lemmaIds": [
         "lemma-biru"
+      ],
+      "status": "exact"
+    },
+    "ಬೀಸಣಿಗೆ": {
+      "form": "ಬೀಸಣಿಗೆ",
+      "lemmaIds": [
+        "lemma-beesanige"
+      ],
+      "status": "exact"
+    },
+    "ಬುದ್ಧಿಕಲಿಸು": {
+      "form": "ಬುದ್ಧಿಕಲಿಸು",
+      "lemmaIds": [
+        "lemma-buddhikalisuvudu"
       ],
       "status": "exact"
     },
@@ -2572,6 +3216,27 @@
       ],
       "status": "exact"
     },
+    "ಮಂಗಳನಂಗಳ": {
+      "form": "ಮಂಗಳನಂಗಳ",
+      "lemmaIds": [
+        "lemma-mangalanangala"
+      ],
+      "status": "exact"
+    },
+    "ಮಂತ್ರಿ": {
+      "form": "ಮಂತ್ರಿ",
+      "lemmaIds": [
+        "lemma-mantri"
+      ],
+      "status": "exact"
+    },
+    "ಮಂತ್ರಿಮಂಡಲ": {
+      "form": "ಮಂತ್ರಿಮಂಡಲ",
+      "lemmaIds": [
+        "lemma-mantrimandala"
+      ],
+      "status": "exact"
+    },
     "ಮಡಿ": {
       "form": "ಮಡಿ",
       "lemmaIds": [
@@ -2628,10 +3293,24 @@
       ],
       "status": "exact"
     },
+    "ಮನೋರಂಜನೆ": {
+      "form": "ಮನೋರಂಜನೆ",
+      "lemmaIds": [
+        "lemma-manoranjane"
+      ],
+      "status": "exact"
+    },
     "ಮರುಳು": {
       "form": "ಮರುಳು",
       "lemmaIds": [
         "lemma-v84d835f1"
+      ],
+      "status": "exact"
+    },
+    "ಮಲೆನಾಡು": {
+      "form": "ಮಲೆನಾಡು",
+      "lemmaIds": [
+        "lemma-malenadu"
       ],
       "status": "exact"
     },
@@ -2677,10 +3356,24 @@
       ],
       "status": "exact"
     },
+    "ಮಾಸ": {
+      "form": "ಮಾಸ",
+      "lemmaIds": [
+        "lemma-maasa"
+      ],
+      "status": "exact"
+    },
     "ಮಿಂಚಾಡು": {
       "form": "ಮಿಂಚಾಡು",
       "lemmaIds": [
         "lemma-minchadu"
+      ],
+      "status": "exact"
+    },
+    "ಮಿಂಚು": {
+      "form": "ಮಿಂಚು",
+      "lemmaIds": [
+        "lemma-minchu"
       ],
       "status": "exact"
     },
@@ -2698,10 +3391,31 @@
       ],
       "status": "exact"
     },
+    "ಮುಕ್ತಕಂಠ": {
+      "form": "ಮುಕ್ತಕಂಠ",
+      "lemmaIds": [
+        "lemma-muktakantha"
+      ],
+      "status": "exact"
+    },
     "ಮುಕ್ತಿ": {
       "form": "ಮುಕ್ತಿ",
       "lemmaIds": [
         "lemma-mukti"
+      ],
+      "status": "exact"
+    },
+    "ಮುಖ ಅರಳಿತು": {
+      "form": "ಮುಖ ಅರಳಿತು",
+      "lemmaIds": [
+        "lemma-mukha-aralitu"
+      ],
+      "status": "exact"
+    },
+    "ಮುಗಿಲು": {
+      "form": "ಮುಗಿಲು",
+      "lemmaIds": [
+        "lemma-mugilu"
       ],
       "status": "exact"
     },
@@ -2716,6 +3430,13 @@
       "form": "ಮುತ್ತೈದೆ",
       "lemmaIds": [
         "lemma-muttaide"
+      ],
+      "status": "exact"
+    },
+    "ಮುದಿರು": {
+      "form": "ಮುದಿರು",
+      "lemmaIds": [
+        "lemma-mudiru"
       ],
       "status": "exact"
     },
@@ -2782,6 +3503,13 @@
       ],
       "status": "exact"
     },
+    "ಮೊಕದ್ದಮೆ": {
+      "form": "ಮೊಕದ್ದಮೆ",
+      "lemmaIds": [
+        "lemma-mokaddame"
+      ],
+      "status": "exact"
+    },
     "ಮೊಗ": {
       "form": "ಮೊಗ",
       "lemmaIds": [
@@ -2810,10 +3538,24 @@
       ],
       "status": "exact"
     },
+    "ಯಂತ್ರ": {
+      "form": "ಯಂತ್ರ",
+      "lemmaIds": [
+        "lemma-yantra"
+      ],
+      "status": "exact"
+    },
     "ಯಾವತ್ತಾರ": {
       "form": "ಯಾವತ್ತಾರ",
       "lemmaIds": [
         "lemma-yavattara"
+      ],
+      "status": "exact"
+    },
+    "ಯೋಗಿ ಹೆಸರಿನ ಬಂಡೆ": {
+      "form": "ಯೋಗಿ ಹೆಸರಿನ ಬಂಡೆ",
+      "lemmaIds": [
+        "lemma-yogi-bande"
       ],
       "status": "exact"
     },
@@ -2845,10 +3587,52 @@
       ],
       "status": "exact"
     },
+    "ರಾಜ": {
+      "form": "ರಾಜ",
+      "lemmaIds": [
+        "lemma-raja"
+      ],
+      "status": "exact"
+    },
+    "ರಾಜಧಾನಿ": {
+      "form": "ರಾಜಧಾನಿ",
+      "lemmaIds": [
+        "lemma-rajadhani"
+      ],
+      "status": "exact"
+    },
+    "ರಾಜೀನಾಮೆ": {
+      "form": "ರಾಜೀನಾಮೆ",
+      "lemmaIds": [
+        "lemma-rajiname"
+      ],
+      "status": "exact"
+    },
+    "ರಾಜ್ಯಪಾಲ": {
+      "form": "ರಾಜ್ಯಪಾಲ",
+      "lemmaIds": [
+        "lemma-rajyapala"
+      ],
+      "status": "exact"
+    },
+    "ರಾಶಿ": {
+      "form": "ರಾಶಿ",
+      "lemmaIds": [
+        "lemma-raashi"
+      ],
+      "status": "exact"
+    },
     "ರಾಷ್ಟ್ರ": {
       "form": "ರಾಷ್ಟ್ರ",
       "lemmaIds": [
         "lemma-rashtra"
+      ],
+      "status": "exact"
+    },
+    "ರಾಷ್ಟ್ರನಾಯಕರು": {
+      "form": "ರಾಷ್ಟ್ರನಾಯಕರು",
+      "lemmaIds": [
+        "lemma-rashtranayakaru"
       ],
       "status": "exact"
     },
@@ -2863,6 +3647,13 @@
       "form": "ರಾಸಾಯನಿಕ",
       "lemmaIds": [
         "lemma-rasayanika"
+      ],
+      "status": "exact"
+    },
+    "ರಿಪೇರಿ": {
+      "form": "ರಿಪೇರಿ",
+      "lemmaIds": [
+        "lemma-riperi"
       ],
       "status": "exact"
     },
@@ -2883,9 +3674,10 @@
     "ರೈತ": {
       "form": "ರೈತ",
       "lemmaIds": [
+        "lemma-raita",
         "lemma-raitha"
       ],
-      "status": "exact"
+      "status": "ambiguous"
     },
     "ರೊಚ್ಚಿಗೆದ್ದ": {
       "form": "ರೊಚ್ಚಿಗೆದ್ದ",
@@ -2964,6 +3756,13 @@
       ],
       "status": "exact"
     },
+    "ವಂದನೆ": {
+      "form": "ವಂದನೆ",
+      "lemmaIds": [
+        "lemma-vandane"
+      ],
+      "status": "exact"
+    },
     "ವನ": {
       "form": "ವನ",
       "lemmaIds": [
@@ -3034,6 +3833,13 @@
       ],
       "status": "exact"
     },
+    "ವಿಜಯೋತ್ಸವ": {
+      "form": "ವಿಜಯೋತ್ಸವ",
+      "lemmaIds": [
+        "lemma-vijayotsava"
+      ],
+      "status": "exact"
+    },
     "ವಿಜೇತರು": {
       "form": "ವಿಜೇತರು",
       "lemmaIds": [
@@ -3076,10 +3882,24 @@
       ],
       "status": "exact"
     },
+    "ವಿಶ್ವವಿದ್ಯಾಲಯ": {
+      "form": "ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "lemmaIds": [
+        "lemma-vishwavidyalaya"
+      ],
+      "status": "exact"
+    },
     "ವೃಂದ": {
       "form": "ವೃಂದ",
       "lemmaIds": [
         "lemma-v47178e2d"
+      ],
+      "status": "exact"
+    },
+    "ವೇಳೆ": {
+      "form": "ವೇಳೆ",
+      "lemmaIds": [
+        "lemma-vele"
       ],
       "status": "exact"
     },
@@ -3094,6 +3914,13 @@
       "form": "ವೈಶಾಲ್ಯ",
       "lemmaIds": [
         "lemma-vaishalya"
+      ],
+      "status": "exact"
+    },
+    "ವ್ಯಾಪಾರ": {
+      "form": "ವ್ಯಾಪಾರ",
+      "lemmaIds": [
+        "lemma-vyapara"
       ],
       "status": "exact"
     },
@@ -3139,6 +3966,13 @@
       ],
       "status": "exact"
     },
+    "ಶಾಲಾ ಪತ್ರಿಕೆ": {
+      "form": "ಶಾಲಾ ಪತ್ರಿಕೆ",
+      "lemmaIds": [
+        "lemma-shalapatrike"
+      ],
+      "status": "exact"
+    },
     "ಶಾಶ್ವತ": {
       "form": "ಶಾಶ್ವತ",
       "lemmaIds": [
@@ -3157,6 +3991,13 @@
       "form": "ಶೋಕ",
       "lemmaIds": [
         "lemma-shoka"
+      ],
+      "status": "exact"
+    },
+    "ಶೋಕಾಚರಣೆ": {
+      "form": "ಶೋಕಾಚರಣೆ",
+      "lemmaIds": [
+        "lemma-shokacharane"
       ],
       "status": "exact"
     },
@@ -3185,6 +4026,13 @@
       "form": "ಸಂಕೋಚ",
       "lemmaIds": [
         "lemma-sankocha"
+      ],
+      "status": "exact"
+    },
+    "ಸಂಗ್ರಹಿಸು": {
+      "form": "ಸಂಗ್ರಹಿಸು",
+      "lemmaIds": [
+        "lemma-sangrahisu"
       ],
       "status": "exact"
     },
@@ -3220,6 +4068,13 @@
       "form": "ಸಂಪನ್ನತೆ",
       "lemmaIds": [
         "lemma-sampannate"
+      ],
+      "status": "exact"
+    },
+    "ಸಂಪಾದಕ ಮಂಡಳಿ": {
+      "form": "ಸಂಪಾದಕ ಮಂಡಳಿ",
+      "lemmaIds": [
+        "lemma-sampadaka"
       ],
       "status": "exact"
     },
@@ -3265,6 +4120,13 @@
       ],
       "status": "exact"
     },
+    "ಸಂಸ್ಕೃತಿ": {
+      "form": "ಸಂಸ್ಕೃತಿ",
+      "lemmaIds": [
+        "lemma-samskruti"
+      ],
+      "status": "exact"
+    },
     "ಸಜಾ": {
       "form": "ಸಜಾ",
       "lemmaIds": [
@@ -3307,6 +4169,13 @@
       ],
       "status": "exact"
     },
+    "ಸತ್ಯಾಗ್ರಹ": {
+      "form": "ಸತ್ಯಾಗ್ರಹ",
+      "lemmaIds": [
+        "lemma-satyagraha"
+      ],
+      "status": "exact"
+    },
     "ಸದೃಶ": {
       "form": "ಸದೃಶ",
       "lemmaIds": [
@@ -3321,10 +4190,31 @@
       ],
       "status": "exact"
     },
+    "ಸಬರಮತಿ ಆಶ್ರಮ": {
+      "form": "ಸಬರಮತಿ ಆಶ್ರಮ",
+      "lemmaIds": [
+        "lemma-sabarmati"
+      ],
+      "status": "exact"
+    },
+    "ಸಮವಸ್ತ್ರ": {
+      "form": "ಸಮವಸ್ತ್ರ",
+      "lemmaIds": [
+        "lemma-samavastra"
+      ],
+      "status": "exact"
+    },
     "ಸಮಾಚಾರ": {
       "form": "ಸಮಾಚಾರ",
       "lemmaIds": [
         "lemma-samachara"
+      ],
+      "status": "exact"
+    },
+    "ಸಮೀಪ": {
+      "form": "ಸಮೀಪ",
+      "lemmaIds": [
+        "lemma-sameepa"
       ],
       "status": "exact"
     },
@@ -3342,17 +4232,39 @@
       ],
       "status": "exact"
     },
+    "ಸರಿಗಮಪದನಿ": {
+      "form": "ಸರಿಗಮಪದನಿ",
+      "lemmaIds": [
+        "lemma-sarigama"
+      ],
+      "status": "exact"
+    },
+    "ಸಲಕರಣೆ": {
+      "form": "ಸಲಕರಣೆ",
+      "lemmaIds": [
+        "lemma-salakarane"
+      ],
+      "status": "exact"
+    },
     "ಸಲಹು": {
       "form": "ಸಲಹು",
       "lemmaIds": [
+        "lemma-salahu",
         "lemma-v31f08391"
       ],
-      "status": "exact"
+      "status": "ambiguous"
     },
     "ಸಲಹೆ": {
       "form": "ಸಲಹೆ",
       "lemmaIds": [
         "lemma-salahe"
+      ],
+      "status": "exact"
+    },
+    "ಸವಣೂರು": {
+      "form": "ಸವಣೂರು",
+      "lemmaIds": [
+        "lemma-savanuru"
       ],
       "status": "exact"
     },
@@ -3377,6 +4289,20 @@
       ],
       "status": "exact"
     },
+    "ಸಾಂಬಾರ": {
+      "form": "ಸಾಂಬಾರ",
+      "lemmaIds": [
+        "lemma-sambaara"
+      ],
+      "status": "exact"
+    },
+    "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ": {
+      "form": "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ",
+      "lemmaIds": [
+        "lemma-samskritika"
+      ],
+      "status": "exact"
+    },
     "ಸಾಗು": {
       "form": "ಸಾಗು",
       "lemmaIds": [
@@ -3391,10 +4317,24 @@
       ],
       "status": "exact"
     },
+    "ಸಾಮ್ರಾಜ್ಯ": {
+      "form": "ಸಾಮ್ರಾಜ್ಯ",
+      "lemmaIds": [
+        "lemma-samrajya"
+      ],
+      "status": "exact"
+    },
     "ಸಾರಂಗ": {
       "form": "ಸಾರಂಗ",
       "lemmaIds": [
         "lemma-saranga"
+      ],
+      "status": "exact"
+    },
+    "ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್": {
+      "form": "ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್",
+      "lemmaIds": [
+        "lemma-v8d64e42c"
       ],
       "status": "exact"
     },
@@ -3461,10 +4401,24 @@
       ],
       "status": "exact"
     },
+    "ಸೂಕ್ಷ್ಮ": {
+      "form": "ಸೂಕ್ಷ್ಮ",
+      "lemmaIds": [
+        "lemma-sukshma"
+      ],
+      "status": "exact"
+    },
     "ಸೂರ್ಯ": {
       "form": "ಸೂರ್ಯ",
       "lemmaIds": [
         "lemma-soorya"
+      ],
+      "status": "exact"
+    },
+    "ಸೊಬಗು": {
+      "form": "ಸೊಬಗು",
+      "lemmaIds": [
+        "lemma-sobagu"
       ],
       "status": "exact"
     },
@@ -3531,6 +4485,34 @@
       ],
       "status": "exact"
     },
+    "ಸ್ವಗತ": {
+      "form": "ಸ್ವಗತ",
+      "lemmaIds": [
+        "lemma-svagata"
+      ],
+      "status": "exact"
+    },
+    "ಸ್ವತಂತ್ರ ಹಳ್ಳಿ": {
+      "form": "ಸ್ವತಂತ್ರ ಹಳ್ಳಿ",
+      "lemmaIds": [
+        "lemma-svatantrahalli"
+      ],
+      "status": "exact"
+    },
+    "ಸ್ವರಚಿತ": {
+      "form": "ಸ್ವರಚಿತ",
+      "lemmaIds": [
+        "lemma-svarachita"
+      ],
+      "status": "exact"
+    },
+    "ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ": {
+      "form": "ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ",
+      "lemmaIds": [
+        "lemma-svatantryapurva"
+      ],
+      "status": "exact"
+    },
     "ಸ್ವಾಭಿಮಾನ": {
       "form": "ಸ್ವಾಭಿಮಾನ",
       "lemmaIds": [
@@ -3538,6 +4520,13 @@
         "lemma-swabhimana"
       ],
       "status": "ambiguous"
+    },
+    "ಹಚ್ಚು": {
+      "form": "ಹಚ್ಚು",
+      "lemmaIds": [
+        "lemma-haccu"
+      ],
+      "status": "exact"
     },
     "ಹಟ್ಟಿ": {
       "form": "ಹಟ್ಟಿ",
@@ -3630,6 +4619,13 @@
       ],
       "status": "exact"
     },
+    "ಹವಳ": {
+      "form": "ಹವಳ",
+      "lemmaIds": [
+        "lemma-havala"
+      ],
+      "status": "exact"
+    },
     "ಹಸನ್ಮುಖಿ": {
       "form": "ಹಸನ್ಮುಖಿ",
       "lemmaIds": [
@@ -3644,6 +4640,13 @@
       ],
       "status": "exact"
     },
+    "ಹಸೆ": {
+      "form": "ಹಸೆ",
+      "lemmaIds": [
+        "lemma-hase"
+      ],
+      "status": "exact"
+    },
     "ಹಾಡ್ಗತೆ": {
       "form": "ಹಾಡ್ಗತೆ",
       "lemmaIds": [
@@ -3655,6 +4658,13 @@
       "form": "ಹಾಳಾಗು",
       "lemmaIds": [
         "lemma-halaagu"
+      ],
+      "status": "exact"
+    },
+    "ಹಿಂಗಡೆ": {
+      "form": "ಹಿಂಗಡೆ",
+      "lemmaIds": [
+        "lemma-hingade"
       ],
       "status": "exact"
     },
@@ -3756,6 +4766,13 @@
       ],
       "status": "exact"
     },
+    "ಹೊಂಡ": {
+      "form": "ಹೊಂಡ",
+      "lemmaIds": [
+        "lemma-honda"
+      ],
+      "status": "exact"
+    },
     "ಹೊಕ್ಕು": {
       "form": "ಹೊಕ್ಕು",
       "lemmaIds": [
@@ -3774,6 +4791,13 @@
       "form": "ಹೊಡೆ",
       "lemmaIds": [
         "lemma-hode"
+      ],
+      "status": "exact"
+    },
+    "ಹೊನ್ನತ್ತಿ": {
+      "form": "ಹೊನ್ನತ್ತಿ",
+      "lemmaIds": [
+        "lemma-honnatti"
       ],
       "status": "exact"
     },
@@ -4206,6 +5230,42 @@
       ],
       "transliteration": "aḻimana"
     },
+    "lemma-alochane": {
+      "glosses": {
+        "en": "thinking",
+        "hi": "सोचना",
+        "kn": "ಯೋಚಿಸುವುದು"
+      },
+      "id": "lemma-alochane",
+      "lemma": "ಆಲೋಚನೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-alochane"
+        }
+      ],
+      "transliteration": "ālōcane"
+    },
+    "lemma-amaldara": {
+      "glosses": {
+        "en": "an officer appointed to collect land revenue and other taxes in a taluk (the present-day tahsildar)",
+        "hi": "तालुक में भूमि राजस्व आदि कर वसूलने के लिए नियुक्त अधिकारी (आज का तहसीलदार)",
+        "kn": "ತಾಲ್ಲೂಕಿನ ಭೂ ಕಂದಾಯ ಮುಂತಾದ ತೆರಿಗೆ ವಸೂಲು ಮಾಡಲು ಗೊತ್ತುಪಡಿಸಿರುವ ಅಧಿಕಾರಿ (ಈಗಿನ ತಹಸೀಲ್ದಾರ)"
+      },
+      "id": "lemma-amaldara",
+      "lemma": "ಅಮಲ್ದಾರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-amaldara"
+        }
+      ],
+      "transliteration": "Amaldaara"
+    },
     "lemma-amantrisu": {
       "glosses": {
         "en": "ask someone to come",
@@ -4223,6 +5283,24 @@
         }
       ],
       "transliteration": "Aamantrisu"
+    },
+    "lemma-ambari": {
+      "glosses": {
+        "en": "A pavilion-like secure seat placed on an elephant for sitting.",
+        "hi": "हाथी पर बैठने के लिए रखा जाने वाला मंडप जैसा सुरक्षित आसन।",
+        "kn": "ಆನೆಯ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳಲು ಹಾಕುವ ಮಂಟಪದಂತಹ ಭದ್ರಾಸನ."
+      },
+      "id": "lemma-ambari",
+      "lemma": "ಅಂಬಾರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-taayigondu-patra",
+          "editionId": "2026-27",
+          "segmentId": "note-ambari"
+        }
+      ],
+      "transliteration": "Ambaari"
     },
     "lemma-amerindian": {
       "glosses": {
@@ -4352,13 +5430,19 @@
     },
     "lemma-anivarya": {
       "glosses": {
-        "en": "absolutely necessary",
-        "hi": "अत्यंत आवश्यक",
-        "kn": "ಅತ್ಯಗತ್ಯ"
+        "en": "unavoidable",
+        "hi": "जिसे टाला न जा सके",
+        "kn": "ತಪ್ಪಿಸಲಾಗದ"
       },
       "id": "lemma-anivarya",
       "lemma": "ಅನಿವಾರ್ಯ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-anivarya"
+        },
         {
           "bookId": "ktbs-savi-kannada-g6-fl-p1",
           "chapterId": "ch05-besige",
@@ -4440,6 +5524,24 @@
       ],
       "transliteration": "antaraṅga"
     },
+    "lemma-antarjala": {
+      "glosses": {
+        "en": "Water inside the earth.",
+        "hi": "पृथ्वी के अंदर का पानी।",
+        "kn": "ಭೂಮಿ ಒಳಗಿನ ನೀರು."
+      },
+      "id": "lemma-antarjala",
+      "lemma": "ಅಂತರ್ಜಲ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-antarjala"
+        }
+      ],
+      "transliteration": "antarjala"
+    },
     "lemma-antima": {
       "glosses": {
         "en": "end",
@@ -4493,6 +5595,24 @@
         }
       ],
       "transliteration": "aparādhi"
+    },
+    "lemma-apaya": {
+      "glosses": {
+        "en": "harm, damage, trouble",
+        "hi": "हानि, नुकसान, कष्ट",
+        "kn": "ಕೇಡು, ಹಾನಿ, ತೊಂದರೆ"
+      },
+      "id": "lemma-apaya",
+      "lemma": "ಅಪಾಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-apaya"
+        }
+      ],
+      "transliteration": "apāya"
     },
     "lemma-appane": {
       "glosses": {
@@ -4568,13 +5688,19 @@
     },
     "lemma-arivu": {
       "glosses": {
-        "en": "knowledge, understanding",
-        "hi": "ज्ञान, समझ",
-        "kn": "ಜ್ಞಾನ, ತಿಳಿವಳಿಕೆ"
+        "en": "understanding",
+        "hi": "समझ",
+        "kn": "ತಿಳಿವಳಿಕೆ"
       },
       "id": "lemma-arivu",
       "lemma": "ಅರಿವು",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-arivu"
+        },
         {
           "bookId": "ktbs-savi-kannada-g5-fl-p1",
           "chapterId": "ch08-kannada-kannada-barri-namma-sangada",
@@ -4583,6 +5709,24 @@
         }
       ],
       "transliteration": "arivu"
+    },
+    "lemma-asahakara": {
+      "glosses": {
+        "en": "a path for people to express dissent, opposition and protest against the government",
+        "hi": "ಅಸಹಕಾರ ಚಳವಳಿ",
+        "kn": "ಸರ್ಕಾರದ ವಿರುದ್ಧ ಜನತೆ ತನ್ನ ಅಸಮ್ಮತಿ, ವಿರೋಧ ಮತ್ತು ಪ್ರತಿಭಟನೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಒಂದು ಮಾರ್ಗ"
+      },
+      "id": "lemma-asahakara",
+      "lemma": "ಅಸಹಕಾರ ಚಳವಳಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-asahakara"
+        }
+      ],
+      "transliteration": "asahakāra caḻavaḻi"
     },
     "lemma-asara": {
       "glosses": {
@@ -4638,6 +5782,24 @@
       ],
       "transliteration": "atikramaṇa"
     },
+    "lemma-atithi": {
+      "glosses": {
+        "en": "an invited person",
+        "hi": "आमंत्रित व्यक्ति",
+        "kn": "ಆಹ್ವಾನಿತ ವ್ಯಕ್ತಿ"
+      },
+      "id": "lemma-atithi",
+      "lemma": "ಅತಿಥಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-svatantrya-dinacharane",
+          "editionId": "2026-27",
+          "segmentId": "note-atithi"
+        }
+      ],
+      "transliteration": "Atithi"
+    },
     "lemma-atma": {
       "glosses": {
         "kn": "ತನ್ನ"
@@ -4690,6 +5852,24 @@
       ],
       "transliteration": "avivēka"
     },
+    "lemma-baba-saheb": {
+      "glosses": {
+        "en": "Dr B.R. Ambedkar",
+        "hi": "डॉ. बी.आर. अंबेडकर",
+        "kn": "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್"
+      },
+      "id": "lemma-baba-saheb",
+      "lemma": "ಬಾಬಾ ಸಾಹೇಬ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch07-ni-hoda-marudina",
+          "editionId": "2026-27",
+          "segmentId": "note-baba-saheb"
+        }
+      ],
+      "transliteration": "bābā sāheba"
+    },
     "lemma-badde": {
       "glosses": {
         "en": "bank, root, side",
@@ -4707,6 +5887,48 @@
         }
       ],
       "transliteration": "baḍḍè"
+    },
+    "lemma-badi": {
+      "glosses": {
+        "en": "next to",
+        "hi": "बगल में",
+        "kn": "ಪಕ್ಕ"
+      },
+      "id": "lemma-badi",
+      "lemma": "ಬದಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch05-halliya-dariya-badiyali",
+          "editionId": "2026-27",
+          "segmentId": "note-badi"
+        },
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-badi"
+        }
+      ],
+      "transliteration": "badi"
+    },
+    "lemma-badu": {
+      "glosses": {
+        "en": "An earthen bank created at the edge of fields.",
+        "hi": "खेतों के किनारे बनाई गई मिट्टी की मेड़।",
+        "kn": "ಹೊಲಗದ್ದೆಗಳ ಅಂಚಿನಲ್ಲಿ ರಚಿಸಿದ ಮಣ್ಣಿನ ದಂಡೆ."
+      },
+      "id": "lemma-badu",
+      "lemma": "ಬದು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-badu"
+        }
+      ],
+      "transliteration": "badu"
     },
     "lemma-bagga": {
       "glosses": {
@@ -4798,15 +6020,39 @@
       ],
       "transliteration": "bāḻè"
     },
+    "lemma-balehosuru": {
+      "glosses": {
+        "en": "a village in Shirahatti taluk, Gadag district",
+        "hi": "ಬಾಳೆಹೊಸೂರು",
+        "kn": "ಗದಗ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಒಂದು ಗ್ರಾಮ"
+      },
+      "id": "lemma-balehosuru",
+      "lemma": "ಬಾಳೆಹೊಸೂರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-balehosuru"
+        }
+      ],
+      "transliteration": "bāḻèhòsūru"
+    },
     "lemma-balidana": {
       "glosses": {
-        "en": "sacrifice of life",
-        "hi": "प्राणत्याग",
-        "kn": "ಪ್ರಾಣತ್ಯಾಗ"
+        "en": "giving one's life for a good cause",
+        "hi": "भलाई के लिए प्राण देना",
+        "kn": "ಒಳಿತಿಗಾಗಿ ಮಾಡುವ ಜೀವದಾನ"
       },
       "id": "lemma-balidana",
       "lemma": "ಬಲಿದಾನ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-balidana"
+        },
         {
           "bookId": "ktbs-savi-kannada-g7-fl-p1",
           "chapterId": "ch04-mailara-mahadeva",
@@ -4814,7 +6060,7 @@
           "segmentId": "vocab-balidana"
         }
       ],
-      "transliteration": "balidāna"
+      "transliteration": "Balidaana"
     },
     "lemma-ballida": {
       "glosses": {
@@ -4831,6 +6077,24 @@
         }
       ],
       "transliteration": "ballida"
+    },
+    "lemma-banabanaguttu": {
+      "glosses": {
+        "en": "To look empty; to be desolate.",
+        "hi": "खालि खालियागि काणु, नीरवतॆयिंद कूडिरु.",
+        "kn": "ಖಾಲಿ ಖಾಲಿಯಾಗಿ ಕಾಣು, ನೀರವತೆಯಿಂದ ಕೂಡಿರು."
+      },
+      "id": "lemma-banabanaguttu",
+      "lemma": "ಬಣಬಣಗುಟ್ಟು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch06-mangala-grahadalli-putti",
+          "editionId": "2026-27",
+          "segmentId": "note-banabanaguttu"
+        }
+      ],
+      "transliteration": "baṇabaṇaguṭṭu"
     },
     "lemma-bandelu": {
       "glosses": {
@@ -4973,6 +6237,24 @@
         }
       ],
       "transliteration": "Bedu"
+    },
+    "lemma-beesanige": {
+      "glosses": {
+        "en": "An instrument used to fan oneself with air.",
+        "hi": "हवा करने के लिए इस्तेमाल किया जाने वाला यंत्र।",
+        "kn": "ಗಾಳಿ ಬೀಸಿಕೊಳ್ಳಲು ಬಳಸುವ ಸಾಧನ."
+      },
+      "id": "lemma-beesanige",
+      "lemma": "ಬೀಸಣಿಗೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch04-kanda",
+          "editionId": "2026-27",
+          "segmentId": "note-beesanige"
+        }
+      ],
+      "transliteration": "Beesanige"
     },
     "lemma-belagu": {
       "glosses": {
@@ -5252,6 +6534,24 @@
       ],
       "transliteration": "Beeru"
     },
+    "lemma-bittu": {
+      "glosses": {
+        "en": "put seed",
+        "hi": "बीज डालना",
+        "kn": "ಬೀಜ ಹಾಕು"
+      },
+      "id": "lemma-bittu",
+      "lemma": "ಬಿತ್ತು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch02-sahakara",
+          "editionId": "2026-27",
+          "segmentId": "note-bittu"
+        }
+      ],
+      "transliteration": "bittu"
+    },
     "lemma-bobbidu": {
       "glosses": {
         "en": "to shout, to cry out",
@@ -5288,6 +6588,24 @@
       ],
       "transliteration": "boḍḍe"
     },
+    "lemma-buddhikalisuvudu": {
+      "glosses": {
+        "en": "to create understanding, to bring onto the right path.",
+        "hi": "तिळिवळिकॆयन्नुंटुमाडु, सरिदारिगॆ तरु.",
+        "kn": "ತಿಳಿವಳಿಕೆಯನ್ನುಂಟುಮಾಡು, ಸರಿದಾರಿಗೆ ತರು."
+      },
+      "id": "lemma-buddhikalisuvudu",
+      "lemma": "ಬುದ್ಧಿಕಲಿಸು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-buddhikalisuvudu"
+        }
+      ],
+      "transliteration": "buddhikalisu"
+    },
     "lemma-chala": {
       "glosses": {
         "en": "obstinacy, persistence",
@@ -5320,6 +6638,12 @@
           "chapterId": "ch06-esura-svagata",
           "editionId": "2026-27",
           "segmentId": "vocab-chaluvali"
+        },
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch07-pramanika-balaka",
+          "editionId": "2026-27",
+          "segmentId": "note-chaluvali"
         }
       ],
       "transliteration": "Chaluvali"
@@ -5344,13 +6668,19 @@
     },
     "lemma-chanda": {
       "glosses": {
-        "en": "well, nicely",
-        "hi": "ಚಂದ",
-        "kn": "ಚೆನ್ನಾಗಿ"
+        "en": "beautiful, nice, lovely",
+        "hi": "सुंदर, अच्छा, प्यारा",
+        "kn": "ಅಂದ, ಸೊಗಸು, ಚೆಲುವ"
       },
       "id": "lemma-chanda",
       "lemma": "ಚಂದ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch02-ooricobba-rajanante",
+          "editionId": "2026-27",
+          "segmentId": "note-chanda"
+        },
         {
           "bookId": "ktbs-savi-kannada-g7-fl-p1",
           "chapterId": "ch02-seena-settaru-namma-teacheru",
@@ -5364,7 +6694,7 @@
           "segmentId": "vocab-chanda"
         }
       ],
-      "transliteration": "caṃda"
+      "transliteration": "canda"
     },
     "lemma-chanjeeya": {
       "glosses": {
@@ -5562,6 +6892,24 @@
       ],
       "transliteration": "cuṃbana"
     },
+    "lemma-chutuku": {
+      "glosses": {
+        "en": "a short satirical poem",
+        "hi": "व्यंग्य से भरी छोटी कविता",
+        "kn": "ಅಣಕದಿಂದ ಕೂಡಿದ ಚಿಕ್ಕ ಪದ್ಯ"
+      },
+      "id": "lemma-chutuku",
+      "lemma": "ಚುಟುಕು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-chiguru",
+          "editionId": "2026-27",
+          "segmentId": "note-chutuku"
+        }
+      ],
+      "transliteration": "Chutuku"
+    },
     "lemma-dakku": {
       "glosses": {
         "en": "to get",
@@ -5579,6 +6927,24 @@
         }
       ],
       "transliteration": "dakku"
+    },
+    "lemma-dammayya": {
+      "glosses": {
+        "en": "Pleading humbly.",
+        "hi": "विनम्रता से प्रार्थना करना।",
+        "kn": "ದೀನತೆಯಿಂದ ಬೇಡುವುದು."
+      },
+      "id": "lemma-dammayya",
+      "lemma": "ದಮ್ಮಯ್ಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-kannadammana-harake",
+          "editionId": "2026-27",
+          "segmentId": "note-dammayya"
+        }
+      ],
+      "transliteration": "Dammayya"
     },
     "lemma-danda": {
       "glosses": {
@@ -5616,6 +6982,42 @@
       ],
       "transliteration": "Dande"
     },
+    "lemma-dandi": {
+      "glosses": {
+        "en": "On 12 March 1930 Gandhi began his famous salt satyagraha",
+        "hi": "12 मार्च 1930 को गांधीजी ने नमक सत्याग्रह आरंभ किया",
+        "kn": "1930ರ ಮಾರ್ಚ್ 12ರಂದು ಗಾಂಧಿಯವರು ತಮ್ಮ ಸುಪ್ರಸಿದ್ಧ ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹವನ್ನಾರಂಭಿಸಿದರು"
+      },
+      "id": "lemma-dandi",
+      "lemma": "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-dandi"
+        }
+      ],
+      "transliteration": "daṃḍi satyāgraha"
+    },
+    "lemma-dantu": {
+      "glosses": {
+        "en": "a kind of leafy vegetable",
+        "hi": "एक प्रकार की पत्तेदार सब्जी",
+        "kn": "ಒಂದು ಜಾತಿಯ ತರಕಾರಿ ಸೊಪ್ಪು"
+      },
+      "id": "lemma-dantu",
+      "lemma": "ದಂಟು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch03-ootada-aata",
+          "editionId": "2026-27",
+          "segmentId": "note-dantu"
+        }
+      ],
+      "transliteration": "daṃṭu"
+    },
     "lemma-daridrya": {
       "glosses": {
         "en": "poverty, hardship",
@@ -5633,6 +7035,42 @@
         }
       ],
       "transliteration": "dāridrya"
+    },
+    "lemma-darji": {
+      "glosses": {
+        "en": "one who sews clothes",
+        "hi": "कपड़े सिलने वाला",
+        "kn": "ಬಟ್ಟೆ ಹೊಲಿಯುವವ"
+      },
+      "id": "lemma-darji",
+      "lemma": "ದರ್ಜಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch02-ooricobba-rajanante",
+          "editionId": "2026-27",
+          "segmentId": "note-darji"
+        }
+      ],
+      "transliteration": "darji"
+    },
+    "lemma-dasare": {
+      "glosses": {
+        "en": "A ten-day festival from the first day to the tenth day of the bright fortnight.",
+        "hi": "शुक्ल पक्ष की प्रतिपदा से दशमी तक का दस दिनों का त्योहार।",
+        "kn": "ಶುಕ್ಲಪಕ್ಷ ಪಾಡ್ಯದಿಂದ ದಶಮಿಯವರೆಗಿನ ಹತ್ತು ದಿನಗಳ ಹಬ್ಬ."
+      },
+      "id": "lemma-dasare",
+      "lemma": "ದಸರೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-taayigondu-patra",
+          "editionId": "2026-27",
+          "segmentId": "note-dasare"
+        }
+      ],
+      "transliteration": "Dasare"
     },
     "lemma-dattikuppas": {
       "glosses": {
@@ -5796,6 +7234,24 @@
       ],
       "transliteration": "dharè"
     },
+    "lemma-dhavadhavaguttu": {
+      "glosses": {
+        "en": "To feel sudden fear; for the heart to pound.",
+        "hi": "ऒम्मॆलॆ भयवागु, हृदय जोरागि हॊडॆदुकॊळ्ळु.",
+        "kn": "ಒಮ್ಮೆಲೆ ಭಯವಾಗು, ಹೃದಯ ಜೋರಾಗಿ ಹೊಡೆದುಕೊಳ್ಳು."
+      },
+      "id": "lemma-dhavadhavaguttu",
+      "lemma": "ಢವಢವಗುಟ್ಟು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch06-mangala-grahadalli-putti",
+          "editionId": "2026-27",
+          "segmentId": "note-dhavadhavaguttu"
+        }
+      ],
+      "transliteration": "ḍhavaḍhavaguṭṭu"
+    },
     "lemma-dhikkarisu": {
       "glosses": {
         "en": "reject",
@@ -5904,6 +7360,42 @@
       ],
       "transliteration": "Dhvani"
     },
+    "lemma-dinaalu": {
+      "glosses": {
+        "en": "each day",
+        "hi": "प्रतिदिन",
+        "kn": "ಪ್ರತಿದಿನ"
+      },
+      "id": "lemma-dinaalu",
+      "lemma": "ದಿನಾಲೂ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch04-hoodota",
+          "editionId": "2026-27",
+          "segmentId": "note-dinaalu"
+        }
+      ],
+      "transliteration": "dinālū"
+    },
+    "lemma-dinasi": {
+      "glosses": {
+        "en": "grain, provision",
+        "hi": "अनाज, राशन",
+        "kn": "ಧಾನ್ಯ, ದವಸ"
+      },
+      "id": "lemma-dinasi",
+      "lemma": "ದಿನಸಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-dinasi"
+        }
+      ],
+      "transliteration": "dinasi"
+    },
     "lemma-dipti": {
       "glosses": {
         "en": "light, radiance",
@@ -5973,6 +7465,24 @@
         }
       ],
       "transliteration": "Dudi"
+    },
+    "lemma-duranta": {
+      "glosses": {
+        "en": "Ending in sorrow; ending in hardship.",
+        "hi": "दुःखदल्लि मुगियुव, कष्टदल्लि कॊनॆगॊळ्ळुव.",
+        "kn": "ದುಃಖದಲ್ಲಿ ಮುಗಿಯುವ, ಕಷ್ಟದಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ."
+      },
+      "id": "lemma-duranta",
+      "lemma": "ದುರಂತ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch06-mangala-grahadalli-putti",
+          "editionId": "2026-27",
+          "segmentId": "note-duranta"
+        }
+      ],
+      "transliteration": "duraṃta"
     },
     "lemma-dusthiti": {
       "glosses": {
@@ -6044,6 +7554,24 @@
       ],
       "transliteration": "eḍisalu"
     },
+    "lemma-elachi": {
+      "glosses": {
+        "en": "a kind of fruit",
+        "hi": "एक प्रकार का फल",
+        "kn": "ಒಂದು ಜಾತಿಯ ಹಣ್ಣು"
+      },
+      "id": "lemma-elachi",
+      "lemma": "ಎಲಚಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-sankranti",
+          "editionId": "2026-27",
+          "segmentId": "note-elachi"
+        }
+      ],
+      "transliteration": "Elachi"
+    },
     "lemma-enta-maga": {
       "glosses": {
         "en": "what, child",
@@ -6098,6 +7626,24 @@
       ],
       "transliteration": "Esooru"
     },
+    "lemma-gaabari": {
+      "glosses": {
+        "en": "fright",
+        "hi": "भय",
+        "kn": "ಹೆದರಿಕೆ"
+      },
+      "id": "lemma-gaabari",
+      "lemma": "ಗಾಬರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch07-koti-mattu-alilu",
+          "editionId": "2026-27",
+          "segmentId": "note-gaabari"
+        }
+      ],
+      "transliteration": "gābari"
+    },
     "lemma-gaddige": {
       "glosses": {
         "en": "seat / throne",
@@ -6149,6 +7695,60 @@
         }
       ],
       "transliteration": "gaḍi"
+    },
+    "lemma-gagana": {
+      "glosses": {
+        "en": "sky / heavens",
+        "hi": "आकाश",
+        "kn": "ಆಕಾಶ"
+      },
+      "id": "lemma-gagana",
+      "lemma": "ಗಗನ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch08-nanna-devaru",
+          "editionId": "2026-27",
+          "segmentId": "note-gagana"
+        }
+      ],
+      "transliteration": "gagana"
+    },
+    "lemma-gantalu-hariyu": {
+      "glosses": {
+        "en": "To shout loudly.",
+        "hi": "बॊब्बॆहाकि हेळु, जोरागि बॊब्बिडु.",
+        "kn": "ಬೊಬ್ಬೆಹಾಕಿ ಹೇಳು, ಜೋರಾಗಿ ಬೊಬ್ಬಿಡು."
+      },
+      "id": "lemma-gantalu-hariyu",
+      "lemma": "ಗಂಟಲು ಹರಿಯುವಂತೆ ಕೂಗು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch02-gandharvasena",
+          "editionId": "2026-27",
+          "segmentId": "note-gantalu-hariyu"
+        }
+      ],
+      "transliteration": "gaṃṭalu hariyuvaṃtè kūgu"
+    },
+    "lemma-garimuri": {
+      "glosses": {
+        "en": "cloth whose folds are still crisp",
+        "hi": "कपड़ा जिसकी तहें अभी नहीं खुली हैं",
+        "kn": "ಮಡಿಕೆ ಮುರಿಯದ ಬಟ್ಟೆ"
+      },
+      "id": "lemma-garimuri",
+      "lemma": "ಗರಿಮುರಿ ಬಟ್ಟೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-sankranti",
+          "editionId": "2026-27",
+          "segmentId": "note-garimuri"
+        }
+      ],
+      "transliteration": "Garimuri batte"
     },
     "lemma-gariyaru": {
       "glosses": {
@@ -6204,6 +7804,42 @@
       ],
       "transliteration": "gati"
     },
+    "lemma-geleya": {
+      "glosses": {
+        "en": "friend",
+        "hi": "मित्र",
+        "kn": "ಸ್ನೇಹಿತ"
+      },
+      "id": "lemma-geleya",
+      "lemma": "ಗೆಳೆಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-geleya"
+        }
+      ],
+      "transliteration": "geḷeya"
+    },
+    "lemma-ghalige": {
+      "glosses": {
+        "en": "a period of 24 minutes.",
+        "hi": "24 मिनट की अवधि।",
+        "kn": "24 ನಿಮಿಷಗಳ ಅವಧಿ."
+      },
+      "id": "lemma-ghalige",
+      "lemma": "ಘಳಿಗೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch04-male",
+          "editionId": "2026-27",
+          "segmentId": "note-ghalige"
+        }
+      ],
+      "transliteration": "Ghalige"
+    },
     "lemma-ghanate": {
       "glosses": {
         "en": "honour, greatness",
@@ -6252,6 +7888,12 @@
           "chapterId": "ch06-esura-svagata",
           "editionId": "2026-27",
           "segmentId": "vocab-ghoshane"
+        },
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch07-pramanika-balaka",
+          "editionId": "2026-27",
+          "segmentId": "note-ghoshane"
         }
       ],
       "transliteration": "Ghoshane"
@@ -6346,6 +7988,60 @@
       ],
       "transliteration": "goṇi"
     },
+    "lemma-gubbacchi": {
+      "glosses": {
+        "en": "gubbi, a kind of small bird",
+        "hi": "गुब्बी, एक छोटी चिड़िया",
+        "kn": "ಗುಬ್ಬಿ, ಒಂದು ಜಾತಿಯ ಸಣ್ಣ ಪಕ್ಷಿ"
+      },
+      "id": "lemma-gubbacchi",
+      "lemma": "ಗುಬ್ಬಚ್ಚಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch02-sahakara",
+          "editionId": "2026-27",
+          "segmentId": "note-gubbacchi"
+        }
+      ],
+      "transliteration": "gubbacci"
+    },
+    "lemma-guddali": {
+      "glosses": {
+        "en": "an iron tool with a wooden handle used for digging the ground.",
+        "hi": "ज़मीन खोदने के लिए इस्तेमाल होने वाला लकड़ी के हत्थे वाला लोहे का उपकरण।",
+        "kn": "ನೆಲವನ್ನು ಅಗೆಯಲು ಉಪಯೋಗಿಸುವ ಮರದ ಹಿಡಿಯುಳ್ಳ ಕಬ್ಬಿಣದ ಸಾಧನ."
+      },
+      "id": "lemma-guddali",
+      "lemma": "ಗುದ್ದಲಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-guddali"
+        }
+      ],
+      "transliteration": "guddali"
+    },
+    "lemma-gudi": {
+      "glosses": {
+        "en": "shrine",
+        "hi": "देवालय",
+        "kn": "ದೇಗುಲ"
+      },
+      "id": "lemma-gudi",
+      "lemma": "ಗುಡಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch04-kempegoudara-kanasu",
+          "editionId": "2026-27",
+          "segmentId": "note-gudi"
+        }
+      ],
+      "transliteration": "guḍi"
+    },
     "lemma-gudisalu": {
       "glosses": {
         "en": "small house, hut",
@@ -6435,6 +8131,24 @@
         }
       ],
       "transliteration": "habbu"
+    },
+    "lemma-haccu": {
+      "glosses": {
+        "en": "add, stick",
+        "hi": "जोड़, चिपका",
+        "kn": "ಸೇರಿಸು, ಅಂಟಿಸು"
+      },
+      "id": "lemma-haccu",
+      "lemma": "ಹಚ್ಚು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch01-bannada-hakki",
+          "editionId": "2026-27",
+          "segmentId": "note-haccu"
+        }
+      ],
+      "transliteration": "haccu"
     },
     "lemma-hadedavva": {
       "glosses": {
@@ -6604,6 +8318,24 @@
       ],
       "transliteration": "harigaḍiyadè"
     },
+    "lemma-hase": {
+      "glosses": {
+        "en": "a seat arranged for auspicious ceremonies",
+        "hi": "शुभ कार्यों में लगाया जाने वाला आसन",
+        "kn": "ಶುಭಕಾರ್ಯಗಳಿಗೆ ಹಾಕುವ ಆಸನ"
+      },
+      "id": "lemma-hase",
+      "lemma": "ಹಸೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-sankranti",
+          "editionId": "2026-27",
+          "segmentId": "note-hase"
+        }
+      ],
+      "transliteration": "Hase"
+    },
     "lemma-hatabhagya": {
       "glosses": {
         "en": "unlucky person",
@@ -6657,6 +8389,24 @@
         }
       ],
       "transliteration": "hattikku"
+    },
+    "lemma-havala": {
+      "glosses": {
+        "en": "A type of red-colored gem/bead; one of the nine gems (navaratna) — diamond, ruby, emerald, topaz, sapphire, hessonite (gomedhika), cat's eye (vaidurya), pearl, and coral.",
+        "hi": "एक प्रकार का लाल रंग का रत्न/मणि; नवरत्नों में से एक — हीरा, माणिक्य, पन्ना (मरकत), पुखराज, नीलम, गोमेद, वैडूर्य (लहसुनिया), मोती और मूँगा।",
+        "kn": "ಒಂದು ಜಾತಿಯ ಕೆಂಪು ಬಣ್ಣದ ಮಣಿ, ನವರತ್ನಗಳಲ್ಲಿ ಒಂದು. (ವಜ್ರ, ಮಾಣಿಕ್ಯ, ಮರಕತ, ಪುಷ್ಯರಾಗ, ನೀಲ, ಗೋಮೇಧಿಕ, ವೈಡೂರ್ಯ, ಮುತ್ತು, ಹವಳ)"
+      },
+      "id": "lemma-havala",
+      "lemma": "ಹವಳ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch04-kanda",
+          "editionId": "2026-27",
+          "segmentId": "note-havala"
+        }
+      ],
+      "transliteration": "Havala"
     },
     "lemma-hebbande": {
       "glosses": {
@@ -6782,6 +8532,24 @@
       ],
       "transliteration": "hima"
     },
+    "lemma-hingade": {
+      "glosses": {
+        "en": "behind",
+        "hi": "पीछे",
+        "kn": "ಹಿಂದೆ"
+      },
+      "id": "lemma-hingade",
+      "lemma": "ಹಿಂಗಡೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch01-bannada-hakki",
+          "editionId": "2026-27",
+          "segmentId": "note-hingade"
+        }
+      ],
+      "transliteration": "hiṅgaḍe"
+    },
     "lemma-hinnira-kovu": {
       "glosses": {
         "en": "land where the sea has pushed inland",
@@ -6854,6 +8622,24 @@
       ],
       "transliteration": "hoḻu"
     },
+    "lemma-honda": {
+      "glosses": {
+        "en": "A low-lying area filled with water.",
+        "hi": "पानी से भरा एक निचला क्षेत्र।",
+        "kn": "ನೀರು ತುಂಬಿದ ತಗ್ಗು ಪ್ರದೇಶ."
+      },
+      "id": "lemma-honda",
+      "lemma": "ಹೊಂಡ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-honda"
+        }
+      ],
+      "transliteration": "honda"
+    },
     "lemma-honganasu": {
       "glosses": {
         "en": "a beautiful dream; a pleasant dream",
@@ -6871,6 +8657,24 @@
         }
       ],
       "transliteration": "Honganasu"
+    },
+    "lemma-honnatti": {
+      "glosses": {
+        "en": "a village in Ranibennur taluk, Haveri district",
+        "hi": "ಹೊನ್ನತ್ತಿ",
+        "kn": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ರಾಣಿಬೆನ್ನೂರು ತಾಲ್ಲೂಕಿನ ಗ್ರಾಮ"
+      },
+      "id": "lemma-honnatti",
+      "lemma": "ಹೊನ್ನತ್ತಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-honnatti"
+        }
+      ],
+      "transliteration": "hònnatti"
     },
     "lemma-horaadu": {
       "glosses": {
@@ -6978,15 +8782,39 @@
       ],
       "transliteration": "huttari"
     },
+    "lemma-ihapara": {
+      "glosses": {
+        "en": "Earthly and spiritual life; this world and the next world.",
+        "hi": "लौकिक और अलौकिक जीवन; यह लोक और परलोक।",
+        "kn": "ಲೌಕಿಕ-ಅಲೌಕಿಕ ಬದುಕು; ಈ ಲೋಕ ಪರಲೋಕ"
+      },
+      "id": "lemma-ihapara",
+      "lemma": "ಇಹಪರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-kannadammana-harake",
+          "editionId": "2026-27",
+          "segmentId": "note-ihapara"
+        }
+      ],
+      "transliteration": "Ihapara"
+    },
     "lemma-ile": {
       "glosses": {
-        "en": "earth, ground",
-        "hi": "भूमि, धरती",
-        "kn": "ಭೂಮಿ, ಧರೆ"
+        "en": "earth / ground",
+        "hi": "भूमि",
+        "kn": "ಭೂಮಿ"
       },
       "id": "lemma-ile",
       "lemma": "ಇಳೆ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch05-halliya-dariya-badiyali",
+          "editionId": "2026-27",
+          "segmentId": "note-ile"
+        },
         {
           "bookId": "ktbs-savi-kannada-g6-fl-p1",
           "chapterId": "ch05-besige",
@@ -6994,7 +8822,7 @@
           "segmentId": "vocab-ile"
         }
       ],
-      "transliteration": "iḻè"
+      "transliteration": "iḷe"
     },
     "lemma-ingita": {
       "glosses": {
@@ -7142,13 +8970,19 @@
     },
     "lemma-jamba": {
       "glosses": {
-        "en": "pride, empty show",
-        "hi": "गर्व, खोखा आडंबर",
-        "kn": "ಗರ್ವ, ಒಣ ಆಡಂಬರ"
+        "en": "pride / arrogance",
+        "hi": "गर्व",
+        "kn": "ಗರ್ವ"
       },
       "id": "lemma-jamba",
       "lemma": "ಜಂಬ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-jamba"
+        },
         {
           "bookId": "ktbs-savi-kannada-g5-fl-p1",
           "chapterId": "ch01-ottige-baluva-ananda",
@@ -7194,6 +9028,24 @@
       ],
       "transliteration": "jammadu"
     },
+    "lemma-janaka-maharaja": {
+      "glosses": {
+        "en": "King of Mithila, Sita’s father.",
+        "hi": "मिथिलॆय राज, सीतॆय तंदॆ.",
+        "kn": "ಮಿಥಿಲೆಯ ರಾಜ, ಸೀತೆಯ ತಂದೆ."
+      },
+      "id": "lemma-janaka-maharaja",
+      "lemma": "ಜನಕ ಮಹಾರಾಜ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-janaka-maharaja"
+        }
+      ],
+      "transliteration": "janaka mahārāja"
+    },
     "lemma-janamanasa": {
       "glosses": {
         "en": "people’s minds",
@@ -7211,6 +9063,60 @@
         }
       ],
       "transliteration": "janamānasa"
+    },
+    "lemma-janapada": {
+      "glosses": {
+        "en": "study related to the folk",
+        "hi": "जनपद से संबंधित अध्ययन",
+        "kn": "ಜನಪದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅಧ್ಯಯನ"
+      },
+      "id": "lemma-janapada",
+      "lemma": "ಜಾನಪದ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch07-bhagyada-balegara",
+          "editionId": "2026-27",
+          "segmentId": "note-janapada"
+        }
+      ],
+      "transliteration": "jānapada"
+    },
+    "lemma-janapada-samanya": {
+      "glosses": {
+        "en": "that which relates to common people",
+        "hi": "जन सामान्य से संबंधित",
+        "kn": "ಜನ ಸಾಮಾನ್ಯರಿಗೆ ಸಂಬಂಧಿಸಿದ್ದು"
+      },
+      "id": "lemma-janapada-samanya",
+      "lemma": "ಜನಪದ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch07-bhagyada-balegara",
+          "editionId": "2026-27",
+          "segmentId": "note-janapada-samanya"
+        }
+      ],
+      "transliteration": "janapada"
+    },
+    "lemma-jaratari": {
+      "glosses": {
+        "en": "cloth decorated with metallic zari thread",
+        "hi": "ज़री से सजा वस्त्र",
+        "kn": "ಜರಿಯಿಂದ ಕೂಡಿದ ವಸ್ತ್ರ/ಬಟ್ಟೆ"
+      },
+      "id": "lemma-jaratari",
+      "lemma": "ಜರತಾರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-sankranti",
+          "editionId": "2026-27",
+          "segmentId": "note-jaratari"
+        }
+      ],
+      "transliteration": "Jarataari"
     },
     "lemma-jayaghosha": {
       "glosses": {
@@ -7247,6 +9153,42 @@
         }
       ],
       "transliteration": "Jodi"
+    },
+    "lemma-jogula": {
+      "glosses": {
+        "en": "A song sung to put children to sleep.",
+        "hi": "बच्चों को सुलाते समय गाया जाने वाला गीत।",
+        "kn": "ಮಕ್ಕಳನ್ನು ಮಲಗಿಸುವಾಗ ಹಾಡುವ ಪದ, ಲಾಲಿ ಹಾಡು."
+      },
+      "id": "lemma-jogula",
+      "lemma": "ಜೋಗುಳ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-kannadammana-harake",
+          "editionId": "2026-27",
+          "segmentId": "note-jogula"
+        }
+      ],
+      "transliteration": "Jogula"
+    },
+    "lemma-jokaali": {
+      "glosses": {
+        "en": "swing, hanging seat",
+        "hi": "झूला, लटकती सीट",
+        "kn": "ಉಯ್ಯಾಲೆ, ತೂಗುಮಣೆ"
+      },
+      "id": "lemma-jokaali",
+      "lemma": "ಜೋಕಾಲಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch04-hoodota",
+          "editionId": "2026-27",
+          "segmentId": "note-jokaali"
+        }
+      ],
+      "transliteration": "jokāli"
     },
     "lemma-jopana": {
       "glosses": {
@@ -7444,6 +9386,24 @@
       ],
       "transliteration": "Kaligalu"
     },
+    "lemma-kalige-buddhi": {
+      "glosses": {
+        "en": "To run away without a word; to flee.",
+        "hi": "हेळदॆ केळदॆ ओडि होगु, पलायन माडु.",
+        "kn": "ಹೇಳದೆ ಕೇಳದೆ ಓಡಿ ಹೋಗು, ಪಲಾಯನ ಮಾಡು."
+      },
+      "id": "lemma-kalige-buddhi",
+      "lemma": "ಕಾಲಿಗೆ ಬುದ್ಧಿ ಹೇಳು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch02-gandharvasena",
+          "editionId": "2026-27",
+          "segmentId": "note-kalige-buddhi"
+        }
+      ],
+      "transliteration": "kāligè buddhi heḻu"
+    },
     "lemma-kalmasha": {
       "glosses": {
         "en": "dirt, pollution",
@@ -7516,6 +9476,24 @@
       ],
       "transliteration": "kaṃbaḻigòppè"
     },
+    "lemma-kammina": {
+      "glosses": {
+        "en": "fragrance",
+        "hi": "सुगंध",
+        "kn": "ಸುಗಂಧ"
+      },
+      "id": "lemma-kammina",
+      "lemma": "ಕಮ್ಮಿನ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch05-halliya-dariya-badiyali",
+          "editionId": "2026-27",
+          "segmentId": "note-kammina"
+        }
+      ],
+      "transliteration": "kammina"
+    },
     "lemma-kampu": {
       "glosses": {
         "en": "fragrance",
@@ -7551,6 +9529,42 @@
         }
       ],
       "transliteration": "kaṃcu"
+    },
+    "lemma-kandaya": {
+      "glosses": {
+        "en": "A tax levied by the government on houses, land, trade, professions and related earnings.",
+        "hi": "मकान, भूमि, व्यापार, पेशे आदि की कमाई पर सरकार द्वारा लगाया गया कर।",
+        "kn": "ಮನೆ, ಭೂಮಿ, ವ್ಯಾಪಾರ, ವೃತ್ತಿ ಇತ್ಯಾದಿ ಗಳಿಕೆಯ ಮೇಲೆ ಸರ್ಕಾರ ವಿಧಿಸುವ ತೆರಿಗೆ."
+      },
+      "id": "lemma-kandaya",
+      "lemma": "ಕಂದಾಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-kandaya"
+        }
+      ],
+      "transliteration": "Kandaaya"
+    },
+    "lemma-kandi": {
+      "glosses": {
+        "en": "hole, opening",
+        "hi": "छिद्र, सुराख",
+        "kn": "ರಂಧ್ರ, ತೂತು"
+      },
+      "id": "lemma-kandi",
+      "lemma": "ಕಂಡಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-kandi"
+        }
+      ],
+      "transliteration": "kaṇḍi"
     },
     "lemma-kanna": {
       "glosses": {
@@ -7623,6 +9637,24 @@
         }
       ],
       "transliteration": "kāpiṭṭukòṃḍu"
+    },
+    "lemma-kappuhalage": {
+      "glosses": {
+        "en": "A board or part of a wall painted black for writing.",
+        "hi": "लिखने के लिए काले रंग से रंगा तख्ता या दीवार का हिस्सा।",
+        "kn": "ಬರೆಯುವುದಕ್ಕಾಗಿ ಕಪ್ಪುಬಣ್ಣ ಹಚ್ಚಿರುವ ಗೋಡೆಯ ಭಾಗ ಅಥವಾ ಹಲಗೆ."
+      },
+      "id": "lemma-kappuhalage",
+      "lemma": "ಕಪ್ಪು ಹಲಗೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-chiguru",
+          "editionId": "2026-27",
+          "segmentId": "note-kappuhalage"
+        }
+      ],
+      "transliteration": "Kappu halage"
     },
     "lemma-karakala": {
       "glosses": {
@@ -7710,6 +9742,60 @@
       ],
       "transliteration": "kartavya"
     },
+    "lemma-karulu-kittu": {
+      "glosses": {
+        "en": "A way of weeping to show one’s sorrow; intense weeping.",
+        "hi": "तनगाद दुःखवन्नु तोर्पडिसिकॊळ्ळलु अळुव ऒंदु रीति, अतीववाद अळु.",
+        "kn": "ತನಗಾದ ದುಃಖವನ್ನು ತೋರ್ಪಡಿಸಿಕೊಳ್ಳಲು ಅಳುವ ಒಂದು ರೀತಿ, ಅತೀವವಾದ ಅಳು."
+      },
+      "id": "lemma-karulu-kittu",
+      "lemma": "ಕರುಳು ಕಿತ್ತುಬರುವಂತೆ ಅಳು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch02-gandharvasena",
+          "editionId": "2026-27",
+          "segmentId": "note-karulu-kittu"
+        }
+      ],
+      "transliteration": "karuḻu kittubaruvaṃtè aḻu"
+    },
+    "lemma-karyakshetra": {
+      "glosses": {
+        "en": "field of work, the scope of the area where work is done.",
+        "hi": "कार्यरंग, कॆलस निर्वहिसुव वलयद व्याप्ति.",
+        "kn": "ಕಾರ್ಯರಂಗ, ಕೆಲಸ ನಿರ್ವಹಿಸುವ ವಲಯದ ವ್ಯಾಪ್ತಿ."
+      },
+      "id": "lemma-karyakshetra",
+      "lemma": "ಕಾರ್ಯಕ್ಷೇತ್ರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-karyakshetra"
+        }
+      ],
+      "transliteration": "kāryakṣetra"
+    },
+    "lemma-kasabu": {
+      "glosses": {
+        "en": "job / profession",
+        "hi": "व्यवसाय / शिल्प",
+        "kn": "ಉದ್ಯೋಗ"
+      },
+      "id": "lemma-kasabu",
+      "lemma": "ಕಸಬು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch04-kempegoudara-kanasu",
+          "editionId": "2026-27",
+          "segmentId": "note-kasabu"
+        }
+      ],
+      "transliteration": "kasabu"
+    },
     "lemma-kasi": {
       "glosses": {
         "en": "snatch away, pull out",
@@ -7727,6 +9813,42 @@
         }
       ],
       "transliteration": "kasi"
+    },
+    "lemma-kavalu-gopura": {
+      "glosses": {
+        "en": "a tower built at a high place to guard a town against enemies.",
+        "hi": "दुश्मनों के आने से बचने के लिए शहर की रखवाली करने के लिए ऊँचे स्थान पर बनाई गई मीनार।",
+        "kn": "ಶತ್ರುಗಳು ಬರದಂತೆ ಊರನ್ನು ಕಾಯಲು ಎತ್ತರದ ಜಾಗದಲ್ಲಿ ಕಟ್ಟಿಸುವ ಗೋಪುರ."
+      },
+      "id": "lemma-kavalu-gopura",
+      "lemma": "ಕಾವಲು ಗೋಪುರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch04-kempegoudara-kanasu",
+          "editionId": "2026-27",
+          "segmentId": "note-kavalu-gopura"
+        }
+      ],
+      "transliteration": "kāvalu gōpura"
+    },
+    "lemma-kavayatu": {
+      "glosses": {
+        "en": "Drill performed by soldiers, police, and home guards.",
+        "hi": "सैनिकों, पुलिस और होमगार्ड द्वारा किया जाने वाला अभ्यास।",
+        "kn": "ಸೈನಿಕರು, ಪೊಲೀಸರು, ಗೃಹರಕ್ಷಕರು ಮಾಡುವ ಕಸರತ್ತು."
+      },
+      "id": "lemma-kavayatu",
+      "lemma": "ಕವಾಯತು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-taayigondu-patra",
+          "editionId": "2026-27",
+          "segmentId": "note-kavayatu"
+        }
+      ],
+      "transliteration": "Kavaayatu"
     },
     "lemma-kaviyitu": {
       "glosses": {
@@ -7814,6 +9936,38 @@
       ],
       "transliteration": "khādi"
     },
+    "lemma-khaga": {
+      "glosses": {
+        "kn": "ಖ - ಆಕಾಶ; ಗ - ಗಮಿಸುವುದು; ಆಕಾಶದಲ್ಲಿ ಸಂಚರಿಸುವುದು - ಪಕ್ಷಿ"
+      },
+      "id": "lemma-khaga",
+      "lemma": "ಖಗ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g8-fl-p1",
+          "chapterId": "ch05-kannadigara-taayi",
+          "editionId": "2026-27",
+          "segmentId": "note-khaga"
+        }
+      ],
+      "transliteration": "khaga"
+    },
+    "lemma-khagamrugoragaali": {
+      "glosses": {
+        "kn": "ಖಗ - ಪಕ್ಷಿ; ಮೃಗ - ಪ್ರಾಣಿ; ಉರಗ - ಹಾವು; ಆಳಿ - ಸಮೂಹ; ಪ್ರಾಣಿ, ಪಕ್ಷಿ, ಹಾವುಗಳ ಸಮೂಹ"
+      },
+      "id": "lemma-khagamrugoragaali",
+      "lemma": "ಖಗಮೃಗೋರಗಾಳಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g8-fl-p1",
+          "chapterId": "ch05-kannadigara-taayi",
+          "editionId": "2026-27",
+          "segmentId": "note-khagamrugoragaali"
+        }
+      ],
+      "transliteration": "khagamṛgoragāḻi"
+    },
     "lemma-khajane": {
       "glosses": {
         "en": "treasury",
@@ -7849,6 +10003,42 @@
         }
       ],
       "transliteration": "khani"
+    },
+    "lemma-khatekirdi": {
+      "glosses": {
+        "en": "A revenue record book containing details of house and land owners.",
+        "hi": "मकान और भूमि के मालिकों का विवरण रखने वाली राजस्व पुस्तिका।",
+        "kn": "ಮನೆ, ಭೂಮಾಲೀಕರ ವಿವರವಿರುವ ಕಂದಾಯ ದಾಖಲೆ ಪುಸ್ತಕ."
+      },
+      "id": "lemma-khatekirdi",
+      "lemma": "ಖಾತೆ-ಕಿರ್ದಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-khatekirdi"
+        }
+      ],
+      "transliteration": "Khaate-kirdi"
+    },
+    "lemma-khushi": {
+      "glosses": {
+        "en": "joy, delight",
+        "hi": "आनंद, हर्ष",
+        "kn": "ಹಿಗ್ಗು, ಹರ್ಷ"
+      },
+      "id": "lemma-khushi",
+      "lemma": "ಖುಷಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-khushi"
+        }
+      ],
+      "transliteration": "khuṣi"
     },
     "lemma-kichchu": {
       "glosses": {
@@ -7921,6 +10111,24 @@
         }
       ],
       "transliteration": "kòbbu"
+    },
+    "lemma-kola": {
+      "glosses": {
+        "en": "a body of water, pond",
+        "hi": "जल का स्थान, तालाब",
+        "kn": "ನೀರಿನ ತಾಣ, ಕೆರೆ"
+      },
+      "id": "lemma-kola",
+      "lemma": "ಕೊಳ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-bannada-tagadina",
+          "editionId": "2026-27",
+          "segmentId": "note-kola"
+        }
+      ],
+      "transliteration": "Kola"
     },
     "lemma-kompe": {
       "glosses": {
@@ -8010,6 +10218,24 @@
       ],
       "transliteration": "kṣēma"
     },
+    "lemma-kshamisu": {
+      "glosses": {
+        "en": "pardon the fault",
+        "hi": "अपराध माफ़ करना",
+        "kn": "ಅಪರಾಧವನ್ನು ಮನ್ನಿಸು"
+      },
+      "id": "lemma-kshamisu",
+      "lemma": "ಕ್ಷಮಿಸು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch07-koti-mattu-alilu",
+          "editionId": "2026-27",
+          "segmentId": "note-kshamisu"
+        }
+      ],
+      "transliteration": "kṣamisu"
+    },
     "lemma-kshatra": {
       "glosses": {
         "en": "kshatriya clan, kshatriya splendour",
@@ -8061,6 +10287,24 @@
         }
       ],
       "transliteration": "kujanaru"
+    },
+    "lemma-kulapati": {
+      "glosses": {
+        "en": "head of a university.",
+        "hi": "विश्वविद्यालयद मुख्यस्थ.",
+        "kn": "ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಖ್ಯಸ್ಥ."
+      },
+      "id": "lemma-kulapati",
+      "lemma": "ಕುಲಪತಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-kulapati"
+        }
+      ],
+      "transliteration": "kulapati"
     },
     "lemma-kundu": {
       "glosses": {
@@ -8274,6 +10518,24 @@
       ],
       "transliteration": "laksuri"
     },
+    "lemma-maasa": {
+      "glosses": {
+        "en": "\"\"",
+        "hi": "\"\"",
+        "kn": "ತಿಂಗಳು"
+      },
+      "id": "lemma-maasa",
+      "lemma": "ಮಾಸ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch01-vandane",
+          "editionId": "2026-27",
+          "segmentId": "note-maasa"
+        }
+      ],
+      "transliteration": "\"\""
+    },
     "lemma-maddu": {
       "glosses": {
         "en": "medicine",
@@ -8406,6 +10668,42 @@
       ],
       "transliteration": "mahimè"
     },
+    "lemma-malenadu": {
+      "glosses": {
+        "en": "A land region of Karnataka covered with the Western Ghats.",
+        "hi": "पश्चिमी घाट से ढका कर्नाटक का एक भूभाग।",
+        "kn": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಿಂದ ಕೂಡಿದ ಕರ್ನಾಟಕದ ಭೂಭಾಗ."
+      },
+      "id": "lemma-malenadu",
+      "lemma": "ಮಲೆನಾಡು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-malenadu"
+        }
+      ],
+      "transliteration": "malenadu"
+    },
+    "lemma-mangalanangala": {
+      "glosses": {
+        "en": "The plain of Mars; the vast region of Mars.",
+        "hi": "मंगळ ग्रहद बयलु, मंगळ ग्रहद विस्तार प्रदेश.",
+        "kn": "ಮಂಗಳ ಗ್ರಹದ ಬಯಲು, ಮಂಗಳ ಗ್ರಹದ ವಿಸ್ತಾರ ಪ್ರದೇಶ."
+      },
+      "id": "lemma-mangalanangala",
+      "lemma": "ಮಂಗಳನಂಗಳ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch06-mangala-grahadalli-putti",
+          "editionId": "2026-27",
+          "segmentId": "note-mangalanangala"
+        }
+      ],
+      "transliteration": "maṃgaḻanaṃgaḻa"
+    },
     "lemma-manobhava": {
       "glosses": {
         "en": "state of mind",
@@ -8441,6 +10739,60 @@
         }
       ],
       "transliteration": "manojña"
+    },
+    "lemma-manoranjane": {
+      "glosses": {
+        "en": "making the mind happy.",
+        "hi": "मन को खुश करना।",
+        "kn": "ಮನಸ್ಸನ್ನು ಸಂತೋಷಗೊಳಿಸುವುದು."
+      },
+      "id": "lemma-manoranjane",
+      "lemma": "ಮನೋರಂಜನೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-manoranjane"
+        }
+      ],
+      "transliteration": "manōranjane"
+    },
+    "lemma-mantri": {
+      "glosses": {
+        "en": "king's advisor",
+        "hi": "राजा का सलाहकार",
+        "kn": "ರಾಜನ ಸಲಹೆಗಾರ"
+      },
+      "id": "lemma-mantri",
+      "lemma": "ಮಂತ್ರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch02-ooricobba-rajanante",
+          "editionId": "2026-27",
+          "segmentId": "note-mantri"
+        }
+      ],
+      "transliteration": "mantri"
+    },
+    "lemma-mantrimandala": {
+      "glosses": {
+        "en": "a council of ministers",
+        "hi": "मंत्रियों की समिति",
+        "kn": "ಮಂತ್ರಿಗಳ ಸಮಿತಿ"
+      },
+      "id": "lemma-mantrimandala",
+      "lemma": "ಮಂತ್ರಿಮಂಡಲ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch07-pramanika-balaka",
+          "editionId": "2026-27",
+          "segmentId": "note-mantrimandala"
+        }
+      ],
+      "transliteration": "Mantrimandala"
     },
     "lemma-margadarshana": {
       "glosses": {
@@ -8516,13 +10868,19 @@
     },
     "lemma-mevu": {
       "glosses": {
-        "en": "food, fodder",
-        "hi": "आहार, चारा",
-        "kn": "ಆಹಾರ, ಗ್ರಾಸ"
+        "en": "food",
+        "hi": "आहार",
+        "kn": "ಆಹಾರ"
       },
       "id": "lemma-mevu",
       "lemma": "ಮೇವು",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-mevu"
+        },
         {
           "bookId": "ktbs-savi-kannada-g5-fl-p1",
           "chapterId": "ch06-swatantryada-hanate",
@@ -8574,6 +10932,24 @@
       ],
       "transliteration": "miṃcāḍu"
     },
+    "lemma-minchu": {
+      "glosses": {
+        "en": "the streak of light that appears in the sky before thunder.",
+        "hi": "गरज से पहले आकाश में दिखने वाली प्रकाश की रेखा।",
+        "kn": "ಗುಡುಗಿಗಿಂತ ಮುಂಚೆ ಆಕಾಶದಲ್ಲಿ ಕಂಡುಬರುವ ಬೆಳಕಿನ ಬಳ್ಳಿ."
+      },
+      "id": "lemma-minchu",
+      "lemma": "ಮಿಂಚು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch04-male",
+          "editionId": "2026-27",
+          "segmentId": "note-minchu"
+        }
+      ],
+      "transliteration": "Minchu"
+    },
     "lemma-moga": {
       "glosses": {
         "kn": "ಮುಖ"
@@ -8589,6 +10965,24 @@
         }
       ],
       "transliteration": "mòga"
+    },
+    "lemma-mokaddame": {
+      "glosses": {
+        "en": "Preparation of a charge sheet against an accused person based on an allegation.",
+        "hi": "आरोप के आधार पर आरोपी के विरुद्ध आरोपपत्र तैयार करना।",
+        "kn": "ಆಪಾದನೆಯನ್ನು ಆಧರಿಸಿ ಆಪಾದಿತನ ಮೇಲೆ ಆರೋಪ ಪಟ್ಟಿ ಸಿದ್ಧತೆ."
+      },
+      "id": "lemma-mokaddame",
+      "lemma": "ಮೊಕದ್ದಮೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-mokaddame"
+        }
+      ],
+      "transliteration": "Mokaddame"
     },
     "lemma-molagabeku": {
       "glosses": {
@@ -8696,6 +11090,42 @@
       ],
       "transliteration": "muḍi"
     },
+    "lemma-mudiru": {
+      "glosses": {
+        "en": "cover, fold",
+        "hi": "ढकना, मोड़ना",
+        "kn": "ಮುಚ್ಚು, ಮಡಿಚು"
+      },
+      "id": "lemma-mudiru",
+      "lemma": "ಮುದಿರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch03-ootada-aata",
+          "editionId": "2026-27",
+          "segmentId": "note-mudiru"
+        }
+      ],
+      "transliteration": "mudiru"
+    },
+    "lemma-mugilu": {
+      "glosses": {
+        "en": "sky",
+        "hi": "आकाश",
+        "kn": "ಆಕಾಶ"
+      },
+      "id": "lemma-mugilu",
+      "lemma": "ಮುಗಿಲು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch06-besige-rajeyali",
+          "editionId": "2026-27",
+          "segmentId": "note-mugilu"
+        }
+      ],
+      "transliteration": "mugilu"
+    },
     "lemma-muka": {
       "glosses": {
         "en": "without speech",
@@ -8713,6 +11143,42 @@
         }
       ],
       "transliteration": "mūka"
+    },
+    "lemma-mukha-aralitu": {
+      "glosses": {
+        "en": "A smile filled the face, making the person's happiness clearly visible.",
+        "hi": "चेहरे पर मुस्कान छा गई और खुशी साफ दिखाई देने लगी।",
+        "kn": "ಮುಖದಲ್ಲಿ ನಗು ತುಂಬಿದ್ದು ಸಂತೋಷ ಎದ್ದು ಕಾಣುವುದು."
+      },
+      "id": "lemma-mukha-aralitu",
+      "lemma": "ಮುಖ ಅರಳಿತು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch02-buddhivanta-ramakrishna",
+          "editionId": "2026-27",
+          "segmentId": "note-mukha-aralitu"
+        }
+      ],
+      "transliteration": "Mukha aralitu"
+    },
+    "lemma-muktakantha": {
+      "glosses": {
+        "en": "speaking directly without hesitation",
+        "hi": "बिना संकोच सीधे कहना",
+        "kn": "ಸಂಕೋಚವಿಲ್ಲದೆ ನೇರವಾಗಿ ಹೇಳುವುದು"
+      },
+      "id": "lemma-muktakantha",
+      "lemma": "ಮುಕ್ತಕಂಠ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-muktakantha"
+        }
+      ],
+      "transliteration": "Muktakantha"
     },
     "lemma-mukti": {
       "glosses": {
@@ -8838,6 +11304,42 @@
       ],
       "transliteration": "nagāḻi"
     },
+    "lemma-nagehani": {
+      "glosses": {
+        "en": "a short saying or piece of writing that makes one laugh",
+        "hi": "हँसाने वाली छोटी बात या रचना",
+        "kn": "ನಗುವನ್ನುಂಟುಮಾಡುವ ಚುಟುಕಾದ ಮಾತು ಅಥವಾ ಬರೆಹ"
+      },
+      "id": "lemma-nagehani",
+      "lemma": "ನಗೆಹನಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-chiguru",
+          "editionId": "2026-27",
+          "segmentId": "note-nagehani"
+        }
+      ],
+      "transliteration": "Nagehani"
+    },
+    "lemma-nalage-udda": {
+      "glosses": {
+        "en": "Speaking as if one knows fully and making others believe; speaking excessively.",
+        "hi": "ऒंदु विषयद बग्गॆ तनगॆ पूर्ण गॊत्तिदॆ अंदुकॊळ्ळुत्ता नंबिसि हेळुवुदु; अतियागि मातनाडुवुदु.",
+        "kn": "ಒಂದು ವಿಷಯದ ಬಗ್ಗೆ ತನಗೆ ಪೂರ್ಣ ಗೊತ್ತಿದೆ ಅಂದುಕೊಳ್ಳುತ್ತಾ ನಂಬಿಸಿ ಹೇಳುವುದು; ಅತಿಯಾಗಿ ಮಾತನಾಡುವುದು."
+      },
+      "id": "lemma-nalage-udda",
+      "lemma": "ನಾಲಗೆಯನ್ನು ಉದ್ದ ಮಾಡಿ ಹೇಳು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch02-gandharvasena",
+          "editionId": "2026-27",
+          "segmentId": "note-nalage-udda"
+        }
+      ],
+      "transliteration": "nālagèyannu udda māḍi heḻu"
+    },
     "lemma-namrate": {
       "glosses": {
         "en": "marked by humility",
@@ -8948,13 +11450,19 @@
     },
     "lemma-negilu": {
       "glosses": {
-        "en": "a tool for ploughing the land",
-        "hi": "भूमि जोतने का साधन",
-        "kn": "ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ"
+        "en": "An implement used to plough the land.",
+        "hi": "भूमि जोतने के लिए उपयोग किया जाने वाला उपकरण।",
+        "kn": "ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ."
       },
       "id": "lemma-negilu",
       "lemma": "ನೇಗಿಲು",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-negilu"
+        },
         {
           "bookId": "ktbs-savi-kannada-g5-fl-p1",
           "chapterId": "ch01-ottige-baluva-ananda",
@@ -8962,7 +11470,7 @@
           "segmentId": "vocab-negilu"
         }
       ],
-      "transliteration": "nēgilu"
+      "transliteration": "negilu"
     },
     "lemma-nela": {
       "glosses": {
@@ -9039,6 +11547,24 @@
         }
       ],
       "transliteration": "nēsara"
+    },
+    "lemma-netti": {
+      "glosses": {
+        "en": "middle of the head",
+        "hi": "सिर का मध्य भाग",
+        "kn": "ತಲೆಯ ಮಧ್ಯಭಾಗ"
+      },
+      "id": "lemma-netti",
+      "lemma": "ನೆತ್ತಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch01-bannada-hakki",
+          "editionId": "2026-27",
+          "segmentId": "note-netti"
+        }
+      ],
+      "transliteration": "netti"
     },
     "lemma-nidukaru": {
       "glosses": {
@@ -9272,6 +11798,48 @@
       ],
       "transliteration": "niṭṭusiru"
     },
+    "lemma-nitya": {
+      "glosses": {
+        "en": "\"\"",
+        "hi": "\"\"",
+        "kn": "ಪ್ರತಿದಿನ"
+      },
+      "id": "lemma-nitya",
+      "lemma": "ನಿತ್ಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch01-vandane",
+          "editionId": "2026-27",
+          "segmentId": "note-nitya"
+        },
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch08-nanna-devaru",
+          "editionId": "2026-27",
+          "segmentId": "note-nitya"
+        }
+      ],
+      "transliteration": "\"\""
+    },
+    "lemma-noga": {
+      "glosses": {
+        "en": "A long wooden log placed on the ox's neck to pull the plough.",
+        "hi": "हल खींचने के लिए बैल की गर्दन पर रखा जाने वाला एक लंबा लकड़ी का लट्ठा।",
+        "kn": "ನೇಗಿಲನ್ನು ಎಳೆಯಲು ಎತ್ತಿನ ಕತ್ತಿನ ಮೇಲೆ ಇಡುವ ಉದ್ದವಾದ ಮರದ ದಿಂಡು."
+      },
+      "id": "lemma-noga",
+      "lemma": "ನೊಗ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-noga"
+        }
+      ],
+      "transliteration": "noga"
+    },
     "lemma-nrugrodha": {
       "glosses": {
         "kn": "ಆಲದಮರ"
@@ -9448,6 +12016,24 @@
       ],
       "transliteration": "òlmè"
     },
+    "lemma-oppanda": {
+      "glosses": {
+        "en": "consent, consensus",
+        "hi": "सहमति, एकमत",
+        "kn": "ಸಮ್ಮತಿ, ಒಮ್ಮತ"
+      },
+      "id": "lemma-oppanda",
+      "lemma": "ಒಪ್ಪಂದ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-oppanda"
+        }
+      ],
+      "transliteration": "oppanda"
+    },
     "lemma-osage": {
       "glosses": {
         "kn": "ಸಂತೋಷ, ಶುಭವಾರ್ತೆ"
@@ -9500,6 +12086,24 @@
       ],
       "transliteration": "paḍapośi"
     },
+    "lemma-padartha": {
+      "glosses": {
+        "en": "object",
+        "hi": "चीज़",
+        "kn": "ವಸ್ತು"
+      },
+      "id": "lemma-padartha",
+      "lemma": "ಪದಾರ್ಥ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-padartha"
+        }
+      ],
+      "transliteration": "padārtha"
+    },
     "lemma-pagade": {
       "glosses": {
         "en": "a kind of game",
@@ -9517,6 +12121,30 @@
         }
       ],
       "transliteration": "pagaḍè"
+    },
+    "lemma-pairu": {
+      "glosses": {
+        "en": "grain crop",
+        "hi": "अनाज की फसल",
+        "kn": "ಧಾನ್ಯದ ಬೆಳೆ"
+      },
+      "id": "lemma-pairu",
+      "lemma": "ಪೈರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch02-sahakara",
+          "editionId": "2026-27",
+          "segmentId": "note-pairu"
+        },
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-pairu"
+        }
+      ],
+      "transliteration": "pairu"
     },
     "lemma-pakkagu": {
       "glosses": {
@@ -9554,6 +12182,24 @@
       ],
       "transliteration": "pakkèlubu"
     },
+    "lemma-pakshapaati": {
+      "glosses": {
+        "en": "Someone who treats one person differently from another and shows favouritism.",
+        "hi": "जो एक व्यक्ति के साथ एक तरह और दूसरे के साथ दूसरी तरह का व्यवहार करता है; भेदभाव करने वाला।",
+        "kn": "ಒಬ್ಬರಿಗೊಂದು ಮತ್ತೊಬ್ಬರಿಗೊಂದು ಮಾಡುವವನು, ಭೇದಭಾವ ತೋರುವವನು."
+      },
+      "id": "lemma-pakshapaati",
+      "lemma": "ಪಕ್ಷಪಾತಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch02-buddhivanta-ramakrishna",
+          "editionId": "2026-27",
+          "segmentId": "note-pakshapaati"
+        }
+      ],
+      "transliteration": "Pakshapaati"
+    },
     "lemma-pakvatana": {
       "glosses": {
         "en": "ripened",
@@ -9571,6 +12217,24 @@
         }
       ],
       "transliteration": "pakvatana"
+    },
+    "lemma-palaayana": {
+      "glosses": {
+        "en": "Leaving a place without telling anyone or being seen.",
+        "hi": "किसी को बताए बिना और किसी की नजर में आए बिना उस स्थान को छोड़कर चले जाना।",
+        "kn": "ಯಾರಿಗೂ ತಿಳಿಸದಂತೆ ಹಾಗೂ ಕಾಣದಂತೆ ಆ ಜಾಗ ಬಿಟ್ಟು ಹೋಗುವುದು."
+      },
+      "id": "lemma-palaayana",
+      "lemma": "ಪಲಾಯನ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch02-buddhivanta-ramakrishna",
+          "editionId": "2026-27",
+          "segmentId": "note-palaayana"
+        }
+      ],
+      "transliteration": "Palaayana"
     },
     "lemma-palayana": {
       "glosses": {
@@ -9590,6 +12254,24 @@
       ],
       "transliteration": "palāyana paṭhisu"
     },
+    "lemma-palish": {
+      "glosses": {
+        "en": "making something shine.",
+        "hi": "हॊळपु बरुवंतॆ माडुविकॆ.",
+        "kn": "ಹೊಳಪು ಬರುವಂತೆ ಮಾಡುವಿಕೆ."
+      },
+      "id": "lemma-palish",
+      "lemma": "ಪಾಲಿಶ್",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-palish"
+        }
+      ],
+      "transliteration": "pāliś"
+    },
     "lemma-palisu": {
       "glosses": {
         "kn": "ಕಾಪಾಡು, ಸಲಹು"
@@ -9605,6 +12287,24 @@
         }
       ],
       "transliteration": "pālisu"
+    },
+    "lemma-palya": {
+      "glosses": {
+        "en": "a dish made from vegetables",
+        "hi": "सब्ज़ियों से बना पदार्थ",
+        "kn": "ತರಕಾರಿಯಿಂದ ಮಾಡಿದ ಪದಾರ್ಥ, ತಾಳದ"
+      },
+      "id": "lemma-palya",
+      "lemma": "ಪಲ್ಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch03-ootada-aata",
+          "editionId": "2026-27",
+          "segmentId": "note-palya"
+        }
+      ],
+      "transliteration": "palya"
     },
     "lemma-pana": {
       "glosses": {
@@ -9660,6 +12360,42 @@
       ],
       "transliteration": "pāṃḍitya"
     },
+    "lemma-panjara": {
+      "glosses": {
+        "en": "An enclosure for keeping birds, animals, etc.",
+        "hi": "पक्षियों, जानवरों आदि को रखने का बाड़ा।",
+        "kn": "ಹಕ್ಕಿ, ಪ್ರಾಣಿ ಮುಂತಾದವುಗಳನ್ನು ಇಡುವ ಗೂಡು."
+      },
+      "id": "lemma-panjara",
+      "lemma": "ಪಂಜರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-taayigondu-patra",
+          "editionId": "2026-27",
+          "segmentId": "note-panjara"
+        }
+      ],
+      "transliteration": "Pamjara"
+    },
+    "lemma-panju": {
+      "glosses": {
+        "en": "A lamp made by wrapping thick cloth around a stick, pouring oil or ghee, and lighting it.",
+        "hi": "डंडे पर मोटा कपड़ा लपेटकर तेल या घी डालकर जलाई जाने वाली बत्ती।",
+        "kn": "ಕೋಲಿಗೆ ದಪ್ಪ ಬಟ್ಟೆ ಸುತ್ತಿ ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ ಸುರಿದು ಉರಿಸುವ ದೀಪ."
+      },
+      "id": "lemma-panju",
+      "lemma": "ಪಂಜು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-taayigondu-patra",
+          "editionId": "2026-27",
+          "segmentId": "note-panju"
+        }
+      ],
+      "transliteration": "Pamju"
+    },
     "lemma-parakeeya": {
       "glosses": {
         "en": "other, foreign",
@@ -9677,6 +12413,24 @@
         }
       ],
       "transliteration": "Parakeeya"
+    },
+    "lemma-parimala": {
+      "glosses": {
+        "en": "good smell",
+        "hi": "अच्छी खुशबू",
+        "kn": "ಸುವಾಸನೆ"
+      },
+      "id": "lemma-parimala",
+      "lemma": "ಪರಿಮಳ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch05-halliya-dariya-badiyali",
+          "editionId": "2026-27",
+          "segmentId": "note-parimala"
+        }
+      ],
+      "transliteration": "parimaḷa"
     },
     "lemma-parisamapti": {
       "glosses": {
@@ -9789,6 +12543,24 @@
         }
       ],
       "transliteration": "patikārya"
+    },
+    "lemma-pattabhisheka": {
+      "glosses": {
+        "en": "ritually anointing a person who is to become king with sacred waters; crowning.",
+        "hi": "(राजा बनने वाले को) विधिवत पवित्र जल से अभिषेक करना; पट्ट बाँधना।",
+        "kn": "(ರಾಜನಾಗುವವನಿಗೆ) ವಿಧ್ಯುಕ್ತವಾಗಿ ಪವಿತ್ರಜಲಗಳಿಂದ ಅಭಿಷೇಕ ಮಾಡುವಿಕೆ, ಪಟ್ಟಕಟ್ಟುವಿಕೆ."
+      },
+      "id": "lemma-pattabhisheka",
+      "lemma": "ಪಟ್ಟಾಭಿಷೇಕ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-veeramate-jijabayi",
+          "editionId": "2026-27",
+          "segmentId": "note-pattabhisheka"
+        }
+      ],
+      "transliteration": "Pattaabhisheka"
     },
     "lemma-patte": {
       "glosses": {
@@ -9926,6 +12698,12 @@
           "segmentId": "vocab-phalaka"
         },
         {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch08-taayigondu-patra",
+          "editionId": "2026-27",
+          "segmentId": "note-phalaka"
+        },
+        {
           "bookId": "ktbs-savi-kannada-g5-fl-p1",
           "chapterId": "ch03-namma-matu-keli",
           "editionId": "2026-27",
@@ -9967,6 +12745,24 @@
         }
       ],
       "transliteration": "poṣaka"
+    },
+    "lemma-prabhatapheri": {
+      "glosses": {
+        "en": "a procession held early in the morning",
+        "hi": "सुबह-सवेरे निकाली जाने वाली शोभायात्रा",
+        "kn": "ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ನಡೆಸುವ ಮೆರವಣಿಗೆ"
+      },
+      "id": "lemma-prabhatapheri",
+      "lemma": "ಪ್ರಭಾತಫೇರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-svatantrya-dinacharane",
+          "editionId": "2026-27",
+          "segmentId": "note-prabhatapheri"
+        }
+      ],
+      "transliteration": "Prabhaatapheri"
     },
     "lemma-prabhe": {
       "glosses": {
@@ -10256,6 +13052,24 @@
       ],
       "transliteration": "Prerita"
     },
+    "lemma-puccha": {
+      "glosses": {
+        "en": "bird's feather",
+        "hi": "चिड़िया का पंख",
+        "kn": "ಹಕ್ಕಿಯ ಗರಿ / ಪುಕ್ಕ"
+      },
+      "id": "lemma-puccha",
+      "lemma": "ಪುಚ್ಚ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch01-bannada-hakki",
+          "editionId": "2026-27",
+          "segmentId": "note-puccha"
+        }
+      ],
+      "transliteration": "pucca"
+    },
     "lemma-purabhivriddhi": {
       "glosses": {
         "en": "city development",
@@ -10274,6 +13088,60 @@
       ],
       "transliteration": "purābhivṛddhi"
     },
+    "lemma-putti": {
+      "glosses": {
+        "en": "An affectionate way of addressing children.",
+        "hi": "मक्कळन्नु करॆयुव ऒंदु आप्त संबोधनॆ.",
+        "kn": "ಮಕ್ಕಳನ್ನು ಕರೆಯುವ ಒಂದು ಆಪ್ತ ಸಂಬೋಧನೆ."
+      },
+      "id": "lemma-putti",
+      "lemma": "ಪುಟ್ಟಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch06-mangala-grahadalli-putti",
+          "editionId": "2026-27",
+          "segmentId": "note-putti"
+        }
+      ],
+      "transliteration": "puṭṭi"
+    },
+    "lemma-raashi": {
+      "glosses": {
+        "en": "group, heap, collection",
+        "hi": "समूह, ढेर",
+        "kn": "ಗುಂಪು, ಗುಪ್ಪೆ, ಸಮೂಹ"
+      },
+      "id": "lemma-raashi",
+      "lemma": "ರಾಶಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-raashi"
+        }
+      ],
+      "transliteration": "rāśi"
+    },
+    "lemma-raita": {
+      "glosses": {
+        "en": "cultivator",
+        "hi": "कृषक",
+        "kn": "ಕೃಷಿಕ"
+      },
+      "id": "lemma-raita",
+      "lemma": "ರೈತ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch06-besige-rajeyali",
+          "editionId": "2026-27",
+          "segmentId": "note-raita"
+        }
+      ],
+      "transliteration": "raita"
+    },
     "lemma-raitha": {
       "glosses": {
         "en": "one who farms",
@@ -10291,6 +13159,78 @@
         }
       ],
       "transliteration": "raita"
+    },
+    "lemma-raja": {
+      "glosses": {
+        "en": "king / ruler",
+        "hi": "राजा",
+        "kn": "ಅರಸ"
+      },
+      "id": "lemma-raja",
+      "lemma": "ರಾಜ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch02-ooricobba-rajanante",
+          "editionId": "2026-27",
+          "segmentId": "note-raja"
+        }
+      ],
+      "transliteration": "rāja"
+    },
+    "lemma-rajadhani": {
+      "glosses": {
+        "en": "the main administrative center of a state or country",
+        "hi": "किसी राज्य या देश का मुख्य प्रशासनिक केंद्र",
+        "kn": "ಒಂದು ರಾಜ್ಯ ಅಥವಾ ದೇಶದ ಮುಖ್ಯ ಆಡಳಿತ ಕೇಂದ್ರ"
+      },
+      "id": "lemma-rajadhani",
+      "lemma": "ರಾಜಧಾನಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch04-kempegoudara-kanasu",
+          "editionId": "2026-27",
+          "segmentId": "note-rajadhani"
+        }
+      ],
+      "transliteration": "rājadhāni"
+    },
+    "lemma-rajiname": {
+      "glosses": {
+        "en": "a voluntarily written letter asking to be released from a job, position or office",
+        "hi": "नौकरी, पद या अधिकार आदि से मुक्त करने के लिए स्वेच्छा से लिखा गया पत्र",
+        "kn": "ಉದ್ಯೋಗ, ಸ್ಥಾನ, ಅಧಿಕಾರ — ಮೊದಲಾದವುಗಳಿಂದ ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆಂದು ಕೇಳಿ ತಾನೇ ಒಪ್ಪಿ ಬರೆದು ಕೊಡುವ ಪತ್ರ"
+      },
+      "id": "lemma-rajiname",
+      "lemma": "ರಾಜೀನಾಮೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch07-pramanika-balaka",
+          "editionId": "2026-27",
+          "segmentId": "note-rajiname"
+        }
+      ],
+      "transliteration": "Raajeenaame"
+    },
+    "lemma-rajyapala": {
+      "glosses": {
+        "en": "head of a state, first citizen of the state.",
+        "hi": "राज्यद मुख्यस्थ, राज्यद प्रथम प्रजॆ.",
+        "kn": "ರಾಜ್ಯದ ಮುಖ್ಯಸ್ಥ, ರಾಜ್ಯದ ಪ್ರಥಮ ಪ್ರಜೆ."
+      },
+      "id": "lemma-rajyapala",
+      "lemma": "ರಾಜ್ಯಪಾಲ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-rajyapala"
+        }
+      ],
+      "transliteration": "rājyapāla"
     },
     "lemma-rangabhumi": {
       "glosses": {
@@ -10364,6 +13304,24 @@
       ],
       "transliteration": "Raashtra"
     },
+    "lemma-rashtranayakaru": {
+      "glosses": {
+        "en": "great people who served the country",
+        "hi": "देश की सेवा करने वाले महान व्यक्ति",
+        "kn": "ದೇಶಸೇವೆ ಮಾಡಿದ ಮಹನೀಯರು"
+      },
+      "id": "lemma-rashtranayakaru",
+      "lemma": "ರಾಷ್ಟ್ರನಾಯಕರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-svatantrya-dinacharane",
+          "editionId": "2026-27",
+          "segmentId": "note-rashtranayakaru"
+        }
+      ],
+      "transliteration": "Raashtranaayakaru"
+    },
     "lemma-rashtrapathi": {
       "glosses": {
         "en": "head of state, first citizen of the nation",
@@ -10435,6 +13393,24 @@
         }
       ],
       "transliteration": "rèkkè"
+    },
+    "lemma-riperi": {
+      "glosses": {
+        "en": "fixing",
+        "hi": "ठीक करना",
+        "kn": "ಸರಿಪಡಿಸುವಿಕೆ"
+      },
+      "id": "lemma-riperi",
+      "lemma": "ರಿಪೇರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-riperi"
+        }
+      ],
+      "transliteration": "ripēri"
     },
     "lemma-rochaka": {
       "glosses": {
@@ -10508,15 +13484,39 @@
       ],
       "transliteration": "rōṣa"
     },
+    "lemma-sabarmati": {
+      "glosses": {
+        "en": "the world-famous ashram founded by Gandhiji",
+        "hi": "ಸಬರಮತಿ ಆಶ್ರಮ",
+        "kn": "ಗಾಂಧೀಜಿ ಸ್ಥಾಪಿಸಿದ ಪ್ರಪಂಚಪ್ರಸಿದ್ಧ ಆಶ್ರಮ"
+      },
+      "id": "lemma-sabarmati",
+      "lemma": "ಸಬರಮತಿ ಆಶ್ರಮ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-sabarmati"
+        }
+      ],
+      "transliteration": "sabaramati āśrama"
+    },
     "lemma-saddu": {
       "glosses": {
-        "en": "noise",
-        "hi": "शोर",
-        "kn": "ಸಪ್ಪಳ"
+        "en": "sound, noise",
+        "hi": "शब्द, हो-हल्ला",
+        "kn": "ಶಬ್ದ, ಗದ್ದಲ"
       },
       "id": "lemma-saddu",
       "lemma": "ಸದ್ದು",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-saddu"
+        },
         {
           "bookId": "ktbs-savi-kannada-g3-fl-p1",
           "chapterId": "ch01-bannada-tagadina",
@@ -10524,7 +13524,7 @@
           "segmentId": "vocab-saddu"
         }
       ],
-      "transliteration": "Saddu"
+      "transliteration": "saddu"
     },
     "lemma-sadhana": {
       "glosses": {
@@ -10650,6 +13650,42 @@
       ],
       "transliteration": "Salahe"
     },
+    "lemma-salahu": {
+      "glosses": {
+        "en": "\"\"",
+        "hi": "\"\"",
+        "kn": "ಆರೈಕೆ"
+      },
+      "id": "lemma-salahu",
+      "lemma": "ಸಲಹು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch01-vandane",
+          "editionId": "2026-27",
+          "segmentId": "note-salahu"
+        }
+      ],
+      "transliteration": "\"\""
+    },
+    "lemma-salakarane": {
+      "glosses": {
+        "en": "tool / equipment",
+        "hi": "औज़ार / सामान",
+        "kn": "ಉಪಕರಣ"
+      },
+      "id": "lemma-salakarane",
+      "lemma": "ಸಲಕರಣೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-salakarane"
+        }
+      ],
+      "transliteration": "salakaraṇe"
+    },
     "lemma-samachara": {
       "glosses": {
         "en": "News, matter",
@@ -10673,6 +13709,42 @@
         }
       ],
       "transliteration": "Samaachaara"
+    },
+    "lemma-samavastra": {
+      "glosses": {
+        "en": "clothing of the same design",
+        "hi": "एक जैसे कपड़े",
+        "kn": "ಒಂದೇ ರೂಪದ ವಸ್ತ್ರ"
+      },
+      "id": "lemma-samavastra",
+      "lemma": "ಸಮವಸ್ತ್ರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-svatantrya-dinacharane",
+          "editionId": "2026-27",
+          "segmentId": "note-samavastra"
+        }
+      ],
+      "transliteration": "Samavastra"
+    },
+    "lemma-sambaara": {
+      "glosses": {
+        "en": "spice item.",
+        "hi": "मसाले की चीज़।",
+        "kn": "ಮಸಾಲೆಯ ಪದಾರ್ಥ."
+      },
+      "id": "lemma-sambaara",
+      "lemma": "ಸಾಂಬಾರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-sambaara"
+        }
+      ],
+      "transliteration": "sāmbāra"
     },
     "lemma-sambhrama": {
       "glosses": {
@@ -10703,6 +13775,42 @@
         }
       ],
       "transliteration": "sambhrama"
+    },
+    "lemma-sameepa": {
+      "glosses": {
+        "en": "close by",
+        "hi": "पास",
+        "kn": "ಹತ್ತಿರ"
+      },
+      "id": "lemma-sameepa",
+      "lemma": "ಸಮೀಪ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-sameepa"
+        }
+      ],
+      "transliteration": "samīpa"
+    },
+    "lemma-sampadaka": {
+      "glosses": {
+        "en": "A team that edits and publishes news.",
+        "hi": "समाचार संपादित और प्रकाशित करने वाला दल।",
+        "kn": "ಸುದ್ದಿಯನ್ನು ಪರಿಷ್ಕರಿಸಿ ಪ್ರಕಟಿಸುವ ತಂಡ."
+      },
+      "id": "lemma-sampadaka",
+      "lemma": "ಸಂಪಾದಕ ಮಂಡಳಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-chiguru",
+          "editionId": "2026-27",
+          "segmentId": "note-sampadaka"
+        }
+      ],
+      "transliteration": "Sampaadaka mandali"
     },
     "lemma-sampanna": {
       "glosses": {
@@ -10737,6 +13845,24 @@
         }
       ],
       "transliteration": "saṃpannatè"
+    },
+    "lemma-samrajya": {
+      "glosses": {
+        "en": "a nation with sovereign power; an empire.",
+        "hi": "सार्वभौम अधिकार वाला राष्ट्र; चक्राधिपत्य।",
+        "kn": "ಸಾರ್ವಭೌಮ ಅಧಿಕಾರವುಳ್ಳ ರಾಷ್ಟ್ರ, ಚಕ್ರಾಧಿಪತ್ಯ."
+      },
+      "id": "lemma-samrajya",
+      "lemma": "ಸಾಮ್ರಾಜ್ಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-veeramate-jijabayi",
+          "editionId": "2026-27",
+          "segmentId": "note-samrajya"
+        }
+      ],
+      "transliteration": "Saamraajya"
     },
     "lemma-samrakshisu": {
       "glosses": {
@@ -10773,6 +13899,42 @@
         }
       ],
       "transliteration": "samsara"
+    },
+    "lemma-samskritika": {
+      "glosses": {
+        "en": "A programme related to culture.",
+        "hi": "संस्कृति से संबंधित कार्यक्रम।",
+        "kn": "ಸಂಸ್ಕೃತಿಗೆ ಸಂಬಂಧಿಸಿದ ಕಾರ್ಯಕ್ರಮ."
+      },
+      "id": "lemma-samskritika",
+      "lemma": "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-svatantrya-dinacharane",
+          "editionId": "2026-27",
+          "segmentId": "note-samskritika"
+        }
+      ],
+      "transliteration": "Saanskrutika kaaryakrama"
+    },
+    "lemma-samskruti": {
+      "glosses": {
+        "en": "the essence of a country’s civilization.",
+        "hi": "देशद नागरिकतॆय सार.",
+        "kn": "ದೇಶದ ನಾಗರಿಕತೆಯ ಸಾರ."
+      },
+      "id": "lemma-samskruti",
+      "lemma": "ಸಂಸ್ಕೃತಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-samskruti"
+        }
+      ],
+      "transliteration": "saṃskṛti"
     },
     "lemma-samvadisu": {
       "glosses": {
@@ -10827,6 +13989,24 @@
         }
       ],
       "transliteration": "sañcakāra"
+    },
+    "lemma-sangrahisu": {
+      "glosses": {
+        "en": "gather together",
+        "hi": "एकत्र करना",
+        "kn": "ಒಟ್ಟುಗೂಡಿಸು"
+      },
+      "id": "lemma-sangrahisu",
+      "lemma": "ಸಂಗ್ರಹಿಸು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch02-sahakara",
+          "editionId": "2026-27",
+          "segmentId": "note-sangrahisu"
+        }
+      ],
+      "transliteration": "saṃgrahisu"
     },
     "lemma-sanje": {
       "glosses": {
@@ -10936,6 +14116,24 @@
       ],
       "transliteration": "sāraṃga"
     },
+    "lemma-sarigama": {
+      "glosses": {
+        "en": "the seven musical notes of Indian classical music",
+        "hi": "भारतीय शास्त्रीय संगीत के सात स्वर",
+        "kn": "ಸಂಗೀತದ ಏಳು ಸ್ವರಗಳು"
+      },
+      "id": "lemma-sarigama",
+      "lemma": "ಸರಿಗಮಪದನಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-bannada-tagadina",
+          "editionId": "2026-27",
+          "segmentId": "note-sarigama"
+        }
+      ],
+      "transliteration": "Sarigamapadani"
+    },
     "lemma-sate": {
       "glosses": {
         "kn": "ಸುಳ್ಳು"
@@ -10988,6 +14186,24 @@
       ],
       "transliteration": "Satkarisu"
     },
+    "lemma-satyagraha": {
+      "glosses": {
+        "en": "the principle Gandhi found in life and the movement for freedom against the British",
+        "hi": "ಸತ್ಯಾಗ್ರಹ",
+        "kn": "ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರು ತಮ್ಮ ಜೀವನದಲ್ಲಿ ಕಂಡುಕೊಂಡ ಸಿದ್ಧಾಂತ ಹಾಗೂ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸ್ವಾತಂತ್ರ್ಯ ಪಡೆಯುವುದಕ್ಕಾಗಿ ನಡೆಸಿದ ಚಳವಳಿ"
+      },
+      "id": "lemma-satyagraha",
+      "lemma": "ಸತ್ಯಾಗ್ರಹ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-satyagraha"
+        }
+      ],
+      "transliteration": "satyāgraha"
+    },
     "lemma-saukaryya": {
       "glosses": {
         "en": "convenience",
@@ -11006,15 +14222,39 @@
       ],
       "transliteration": "saukarya"
     },
+    "lemma-savanuru": {
+      "glosses": {
+        "en": "a taluk in Haveri district",
+        "hi": "ಸವಣೂರು",
+        "kn": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಒಂದು ತಾಲ್ಲೂಕು"
+      },
+      "id": "lemma-savanuru",
+      "lemma": "ಸವಣೂರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g7-fl-p1",
+          "chapterId": "ch04-mailara-mahadeva",
+          "editionId": "2026-27",
+          "segmentId": "note-savanuru"
+        }
+      ],
+      "transliteration": "savaṇūru"
+    },
     "lemma-savi": {
       "glosses": {
-        "en": "Flavour",
-        "hi": "स्वाद",
+        "en": "flavour",
+        "hi": "रूचि",
         "kn": "ರುಚಿ"
       },
       "id": "lemma-savi",
       "lemma": "ಸವಿ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch06-besige-rajeyali",
+          "editionId": "2026-27",
+          "segmentId": "note-savi"
+        },
         {
           "bookId": "ktbs-savi-kannada-g3-fl-p1",
           "chapterId": "ch01-kannadammana-harake",
@@ -11022,7 +14262,7 @@
           "segmentId": "vocab-savi"
         }
       ],
-      "transliteration": "Savi"
+      "transliteration": "savi"
     },
     "lemma-shalake": {
       "glosses": {
@@ -11041,6 +14281,24 @@
         }
       ],
       "transliteration": "śalāke"
+    },
+    "lemma-shalapatrike": {
+      "glosses": {
+        "en": "a magazine brought out by a school",
+        "hi": "विद्यालय द्वारा निकाली जाने वाली पत्रिका",
+        "kn": "ಶಾಲೆಯಿಂದ ಹೊರತರುವ ಪತ್ರಿಕೆ"
+      },
+      "id": "lemma-shalapatrike",
+      "lemma": "ಶಾಲಾ ಪತ್ರಿಕೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-chiguru",
+          "editionId": "2026-27",
+          "segmentId": "note-shalapatrike"
+        }
+      ],
+      "transliteration": "Shaalaa patrike"
     },
     "lemma-sharva": {
       "glosses": {
@@ -11148,6 +14406,24 @@
       ],
       "transliteration": "śoka"
     },
+    "lemma-shokacharane": {
+      "glosses": {
+        "en": "Expressing sorrow for the dead.",
+        "hi": "सत्तवरिगागि संताप सूचिसुवुदु.",
+        "kn": "ಸತ್ತವರಿಗಾಗಿ ಸಂತಾಪ ಸೂಚಿಸುವುದು."
+      },
+      "id": "lemma-shokacharane",
+      "lemma": "ಶೋಕಾಚರಣೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch02-gandharvasena",
+          "editionId": "2026-27",
+          "segmentId": "note-shokacharane"
+        }
+      ],
+      "transliteration": "śokācaraṇè"
+    },
     "lemma-shreyassu": {
       "glosses": {
         "en": "Progress, development",
@@ -11234,6 +14510,24 @@
       ],
       "transliteration": "smaraṇè"
     },
+    "lemma-sobagu": {
+      "glosses": {
+        "en": "charm",
+        "hi": "सौंदर्य",
+        "kn": "ಚಂದ"
+      },
+      "id": "lemma-sobagu",
+      "lemma": "ಸೊಬಗು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch06-besige-rajeyali",
+          "editionId": "2026-27",
+          "segmentId": "note-sobagu"
+        }
+      ],
+      "transliteration": "sòbagu"
+    },
     "lemma-sonku": {
       "glosses": {
         "en": "contagion, catching",
@@ -11290,13 +14584,19 @@
     },
     "lemma-spardhe": {
       "glosses": {
-        "en": "contest",
-        "hi": "मुकाबला",
+        "en": "rivalry",
+        "hi": "प्रतिस्पर्धा",
         "kn": "ಪೈಪೋಟಿ"
       },
       "id": "lemma-spardhe",
       "lemma": "ಸ್ಪರ್ಧೆ",
       "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-spardhe"
+        },
         {
           "bookId": "ktbs-savi-kannada-g3-fl-p1",
           "chapterId": "ch03-svatantrya-dinacharane",
@@ -11304,7 +14604,7 @@
           "segmentId": "vocab-spardhe"
         }
       ],
-      "transliteration": "Spardhe"
+      "transliteration": "spardhe"
     },
     "lemma-sphatika": {
       "glosses": {
@@ -11396,6 +14696,24 @@
       ],
       "transliteration": "Subhaashita"
     },
+    "lemma-sukshma": {
+      "glosses": {
+        "en": "That which is extremely small.",
+        "hi": "जो अत्यंत छोटा हो।",
+        "kn": "ಅತ್ಯಂತ ಚಿಕ್ಕದಾಗಿರುವಂತಹುದು."
+      },
+      "id": "lemma-sukshma",
+      "lemma": "ಸೂಕ್ಷ್ಮ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-sukshma"
+        }
+      ],
+      "transliteration": "sukshma"
+    },
     "lemma-sumadhura": {
       "glosses": {
         "en": "Melodious",
@@ -11484,6 +14802,78 @@
       ],
       "transliteration": "Svaabhimaana"
     },
+    "lemma-svagata": {
+      "glosses": {
+        "en": "speaking to oneself",
+        "hi": "अपने आप से कहना",
+        "kn": "ತನಗೆ ತಾನೇ ಹೇಳಿಕೊಳ್ಳುವುದು"
+      },
+      "id": "lemma-svagata",
+      "lemma": "ಸ್ವಗತ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-svagata"
+        }
+      ],
+      "transliteration": "Svagata"
+    },
+    "lemma-svarachita": {
+      "glosses": {
+        "en": "created by oneself",
+        "hi": "स्वयं रचा हुआ",
+        "kn": "ತಾನೇ ರಚಿಸಿದ"
+      },
+      "id": "lemma-svarachita",
+      "lemma": "ಸ್ವರಚಿತ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-chiguru",
+          "editionId": "2026-27",
+          "segmentId": "note-svarachita"
+        }
+      ],
+      "transliteration": "Svarachita"
+    },
+    "lemma-svatantrahalli": {
+      "glosses": {
+        "en": "A village freed from foreign rule.",
+        "hi": "विदेशी शासन से मुक्त गाँव।",
+        "kn": "ಪರಕೀಯರ ಆಡಳಿತದಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿದ ಗ್ರಾಮ."
+      },
+      "id": "lemma-svatantrahalli",
+      "lemma": "ಸ್ವತಂತ್ರ ಹಳ್ಳಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-svatantrahalli"
+        }
+      ],
+      "transliteration": "Svatantra halli"
+    },
+    "lemma-svatantryapurva": {
+      "glosses": {
+        "en": "before the country became independent",
+        "hi": "देश के स्वतंत्र होने से पहले",
+        "kn": "ದೇಶ ಸ್ವತಂತ್ರವಾಗುವುದಕ್ಕೆ ಮುನ್ನ"
+      },
+      "id": "lemma-svatantryapurva",
+      "lemma": "ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch06-esura-svagata",
+          "editionId": "2026-27",
+          "segmentId": "note-svatantryapurva"
+        }
+      ],
+      "transliteration": "Svaatantryapoorva"
+    },
     "lemma-swabhimana": {
       "glosses": {
         "en": "self-respect; pride in oneself",
@@ -11535,6 +14925,60 @@
         }
       ],
       "transliteration": "ṭārā"
+    },
+    "lemma-taare": {
+      "glosses": {
+        "en": "star, speck",
+        "hi": "नक्षत्र, बिंदी",
+        "kn": "ನಕ್ಷತ್ರ, ಚುಕ್ಕೆ"
+      },
+      "id": "lemma-taare",
+      "lemma": "ತಾರೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch08-nanna-devaru",
+          "editionId": "2026-27",
+          "segmentId": "note-taare"
+        }
+      ],
+      "transliteration": "tāre"
+    },
+    "lemma-taaynudi": {
+      "glosses": {
+        "en": "A mother's language, one's native language, the language spoken at home.",
+        "hi": "माँ की बोली, मातृभाषा, घर की भाषा।",
+        "kn": "ತಾಯಿ ಮಾತು, ಮಾತೃಭಾಷೆ, ಮನೆಮಾತು."
+      },
+      "id": "lemma-taaynudi",
+      "lemma": "ತಾಯ್ನುಡಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-kannadammana-harake",
+          "editionId": "2026-27",
+          "segmentId": "note-taaynudi"
+        }
+      ],
+      "transliteration": "Taaynudi"
+    },
+    "lemma-tagadu": {
+      "glosses": {
+        "en": "thin sheet of metal",
+        "hi": "धातु की पतली चादर",
+        "kn": "ತೆಳುವಾದ ಲೋಹದ ಹಾಳೆ"
+      },
+      "id": "lemma-tagadu",
+      "lemma": "ತಗಡು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-bannada-tagadina",
+          "editionId": "2026-27",
+          "segmentId": "note-tagadu"
+        }
+      ],
+      "transliteration": "Tagadu"
     },
     "lemma-taila": {
       "glosses": {
@@ -11644,6 +15088,24 @@
       ],
       "transliteration": "Tanidu"
     },
+    "lemma-tannelalu": {
+      "glosses": {
+        "en": "cool shade",
+        "hi": "ठंडी छाया",
+        "kn": "ತಂಪಾದ ನೆರಳು"
+      },
+      "id": "lemma-tannelalu",
+      "lemma": "ತಣ್ಣೆಳಲು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch05-halliya-dariya-badiyali",
+          "editionId": "2026-27",
+          "segmentId": "note-tannelalu"
+        }
+      ],
+      "transliteration": "taṇṇeḷalu"
+    },
     "lemma-tanu": {
       "glosses": {
         "kn": "ದೇಹ"
@@ -11750,6 +15212,24 @@
       ],
       "transliteration": "tavaka"
     },
+    "lemma-tavarooru": {
+      "glosses": {
+        "en": "birthplace / hometown",
+        "hi": "जन्म स्थान / वह गाँव जहाँ किसी का जन्म हुआ हो",
+        "kn": "ಹುಟ್ಟಿದ ಊರು"
+      },
+      "id": "lemma-tavarooru",
+      "lemma": "ತವರೂರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch04-kempegoudara-kanasu",
+          "editionId": "2026-27",
+          "segmentId": "note-tavarooru"
+        }
+      ],
+      "transliteration": "tavarūru"
+    },
     "lemma-tavaru": {
       "glosses": {
         "en": "mother's home",
@@ -11767,6 +15247,24 @@
         }
       ],
       "transliteration": "tavaru"
+    },
+    "lemma-teermana": {
+      "glosses": {
+        "en": "judgment",
+        "hi": "निर्णय",
+        "kn": "ತೀರ್ಪು"
+      },
+      "id": "lemma-teermana",
+      "lemma": "ತೀರ್ಮಾನ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch03-geletana",
+          "editionId": "2026-27",
+          "segmentId": "note-teermana"
+        }
+      ],
+      "transliteration": "tīrmāna"
     },
     "lemma-tegalu": {
       "glosses": {
@@ -11856,6 +15354,24 @@
       ],
       "transliteration": "tèru"
     },
+    "lemma-thalmegedu": {
+      "glosses": {
+        "en": "to lose patience, to give in to anger.",
+        "hi": "सहनॆ कळॆदुकॊळ्ळु, कोपक्कॆ ऒळगागु.",
+        "kn": "ಸಹನೆ ಕಳೆದುಕೊಳ್ಳು, ಕೋಪಕ್ಕೆ ಒಳಗಾಗು."
+      },
+      "id": "lemma-thalmegedu",
+      "lemma": "ತಾಳ್ಮೆಗೆಡು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-thalmegedu"
+        }
+      ],
+      "transliteration": "tāḻmègèḍu"
+    },
     "lemma-tirikollu": {
       "glosses": {
         "en": "to pass away, to die",
@@ -11891,6 +15407,24 @@
         }
       ],
       "transliteration": "tīvra"
+    },
+    "lemma-tochade": {
+      "glosses": {
+        "en": "without seeing a way",
+        "hi": "रास्ता न सूझना",
+        "kn": "ದಿಕ್ಕು ಕಾಣದೆ"
+      },
+      "id": "lemma-tochade",
+      "lemma": "ತೋಚದೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch07-arive-guru",
+          "editionId": "2026-27",
+          "segmentId": "note-tochade"
+        }
+      ],
+      "transliteration": "tōcade"
     },
     "lemma-todaku": {
       "glosses": {
@@ -11964,6 +15498,24 @@
       ],
       "transliteration": "ṭòppigè"
     },
+    "lemma-totagarike": {
+      "glosses": {
+        "en": "Cultivating a garden.",
+        "hi": "बगीचा उगाना।",
+        "kn": "ತೋಟವನ್ನು ಬೆಳೆಸುವುದು."
+      },
+      "id": "lemma-totagarike",
+      "lemma": "ತೋಟಗಾರಿಕೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-totagarike"
+        }
+      ],
+      "transliteration": "totagarike"
+    },
     "lemma-trushe": {
       "glosses": {
         "kn": "ಬಾಯಾರಿಕೆ"
@@ -12015,6 +15567,24 @@
         }
       ],
       "transliteration": "tuḷukabēku"
+    },
+    "lemma-tutturi": {
+      "glosses": {
+        "en": "a blowing instrument",
+        "hi": "फूँककर बजाया जाने वाला वाद्य",
+        "kn": "ಊದುವ ವಾದ್ಯ"
+      },
+      "id": "lemma-tutturi",
+      "lemma": "ತುತ್ತೂರಿ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch01-bannada-tagadina",
+          "editionId": "2026-27",
+          "segmentId": "note-tutturi"
+        }
+      ],
+      "transliteration": "Tutturi"
     },
     "lemma-udgarisu": {
       "glosses": {
@@ -12140,6 +15710,24 @@
       ],
       "transliteration": "uḻisu"
     },
+    "lemma-ulke": {
+      "glosses": {
+        "en": "celestial body / meteor",
+        "hi": "आकाशकाय",
+        "kn": "ಆಕಾಶಕಾಯ"
+      },
+      "id": "lemma-ulke",
+      "lemma": "ಉಲ್ಕೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch08-nanna-devaru",
+          "editionId": "2026-27",
+          "segmentId": "note-ulke"
+        }
+      ],
+      "transliteration": "ulke"
+    },
     "lemma-unnata": {
       "glosses": {
         "en": "high, elevated",
@@ -12209,6 +15797,24 @@
         }
       ],
       "transliteration": "ūrjita"
+    },
+    "lemma-usiru": {
+      "glosses": {
+        "en": "life (the air taken into and let out of the body)",
+        "hi": "प्राण (शरीर के अंदर ली जाने वाली और बाहर छोड़ी जाने वाली हवा)",
+        "kn": "ಪ್ರಾಣ (ದೇಹದ ಒಳಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳುವ ಹಾಗೂ ಹೊರಗೆ ಬಿಡುವ ಗಾಳಿ)"
+      },
+      "id": "lemma-usiru",
+      "lemma": "ಉಸಿರು",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch05-halliya-dariya-badiyali",
+          "editionId": "2026-27",
+          "segmentId": "note-usiru"
+        }
+      ],
+      "transliteration": "usiru"
     },
     "lemma-uttama": {
       "glosses": {
@@ -12724,6 +16330,22 @@
       ],
       "transliteration": "hòkku"
     },
+    "lemma-v78a98558": {
+      "glosses": {
+        "kn": "ಮಹಮದೀಯ ಸಾಧುಗಳ ಪುಣ್ಯತಿಥಿ ಮತ್ತು ಅಂದು ನಡೆಸುವ ಜಾತ್ರೆ."
+      },
+      "id": "lemma-v78a98558",
+      "lemma": "ಉರುಸ್",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g8-fl-p1",
+          "chapterId": "ch01-maggada-saheba",
+          "editionId": "2026-27",
+          "segmentId": "note-v78a98558"
+        }
+      ],
+      "transliteration": "urus"
+    },
     "lemma-v78d5a231": {
       "glosses": {
         "kn": "ನಗುಮುಖ ಉಳ್ಳವನು."
@@ -12819,6 +16441,22 @@
         }
       ],
       "transliteration": "bhikāri"
+    },
+    "lemma-v8d64e42c": {
+      "glosses": {
+        "kn": "ಮೊಗಲ್ ರಾಜರ ಆಳ್ವಿಕೆಯ ಸಂದರ್ಭದಲ್ಲಿ ಸಮಾಜದ ಗಣ್ಯ ವ್ಯಕ್ತಿಗಳಿಗೆ ಕೊಡುತ್ತಿದ್ದ ಗೌರವ ಪೂರ್ವಕ ಬಿರುದು."
+      },
+      "id": "lemma-v8d64e42c",
+      "lemma": "ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g8-fl-p1",
+          "chapterId": "ch01-maggada-saheba",
+          "editionId": "2026-27",
+          "segmentId": "note-v8d64e42c"
+        }
+      ],
+      "transliteration": "sāheb bahāddūr"
     },
     "lemma-v8f35e075": {
       "glosses": {
@@ -12973,6 +16611,24 @@
         }
       ],
       "transliteration": "valase"
+    },
+    "lemma-vandane": {
+      "glosses": {
+        "en": "\"\"",
+        "hi": "\"\"",
+        "kn": "ನಮಸ್ಕಾರ"
+      },
+      "id": "lemma-vandane",
+      "lemma": "ವಂದನೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g1-fl-p1",
+          "chapterId": "ch01-vandane",
+          "editionId": "2026-27",
+          "segmentId": "note-vandane"
+        }
+      ],
+      "transliteration": "\"\""
     },
     "lemma-vara": {
       "glosses": {
@@ -13226,6 +16882,22 @@
       ],
       "transliteration": "haraḍu"
     },
+    "lemma-veb7c9a2a": {
+      "glosses": {
+        "kn": "ಕಲೆ, ವಿಜ್ಞಾನ, ಸಮಾಜಸೇವೆ, ಕ್ರೀಡೆ ಮುಂತಾದ ಯಾವುದಾದರೂ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಸಾಧನೆಯನ್ನು ಮಾಡಿದ ಸಾಧಕರಿಗೆ ಭಾರತ ಸರ್ಕಾರ ನೀಡುವ ಮೌಲಿಕ ಪ್ರಶಸ್ತಿ."
+      },
+      "id": "lemma-veb7c9a2a",
+      "lemma": "ಪದ್ಮಭೂಷಣ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g8-fl-p1",
+          "chapterId": "ch01-maggada-saheba",
+          "editionId": "2026-27",
+          "segmentId": "note-veb7c9a2a"
+        }
+      ],
+      "transliteration": "padmabhūṣaṇa"
+    },
     "lemma-veb9fd137": {
       "glosses": {
         "kn": "ಭಿಕ್ಷೆ"
@@ -13241,6 +16913,24 @@
         }
       ],
       "transliteration": "tirupè"
+    },
+    "lemma-vele": {
+      "glosses": {
+        "en": "time, moment",
+        "hi": "काल, समय",
+        "kn": "ಕಾಲ, ಸಮಯ"
+      },
+      "id": "lemma-vele",
+      "lemma": "ವೇಳೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch01-bannada-hakki",
+          "editionId": "2026-27",
+          "segmentId": "note-vele"
+        }
+      ],
+      "transliteration": "vēḷe"
     },
     "lemma-vf712e4f1": {
       "glosses": {
@@ -13382,6 +17072,24 @@
       ],
       "transliteration": "vidhana"
     },
+    "lemma-vijayotsava": {
+      "glosses": {
+        "en": "a joyful celebration held when victory is won.",
+        "hi": "जीत मिलने पर मनाया जाने वाला आनंद समारोह।",
+        "kn": "ಗೆಲುವು ಸಿಕ್ಕಿದಾಗ ಆಚರಿಸುವ ಸಂತೋಷ ಸಮಾರಂಭ."
+      },
+      "id": "lemma-vijayotsava",
+      "lemma": "ವಿಜಯೋತ್ಸವ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch03-veeramate-jijabayi",
+          "editionId": "2026-27",
+          "segmentId": "note-vijayotsava"
+        }
+      ],
+      "transliteration": "Vijayotsava"
+    },
     "lemma-vijetaru": {
       "glosses": {
         "en": "those who won",
@@ -13436,6 +17144,24 @@
       ],
       "transliteration": "vishala"
     },
+    "lemma-vishwavidyalaya": {
+      "glosses": {
+        "en": "an institution that provides higher education.",
+        "hi": "उन्नत विद्याभ्यास नीडुव संस्थॆ.",
+        "kn": "ಉನ್ನತ ವಿದ್ಯಾಭ್ಯಾಸ ನೀಡುವ ಸಂಸ್ಥೆ."
+      },
+      "id": "lemma-vishwavidyalaya",
+      "lemma": "ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch01-doddavara-daari",
+          "editionId": "2026-27",
+          "segmentId": "note-vishwavidyalaya"
+        }
+      ],
+      "transliteration": "viśvavidyālaya"
+    },
     "lemma-vrata": {
       "glosses": {
         "en": "vow, worship, religious observance",
@@ -13470,6 +17196,24 @@
       ],
       "transliteration": "vrati"
     },
+    "lemma-vyapara": {
+      "glosses": {
+        "en": "buying, selling.",
+        "hi": "खरीदना, बेचना।",
+        "kn": "ಕೊಳ್ಳುವುದು, ಮಾರುವುದು."
+      },
+      "id": "lemma-vyapara",
+      "lemma": "ವ್ಯಾಪಾರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g2-fl-p1",
+          "chapterId": "ch06-sante",
+          "editionId": "2026-27",
+          "segmentId": "note-vyapara"
+        }
+      ],
+      "transliteration": "vyāpāra"
+    },
     "lemma-vyasanga": {
       "glosses": {
         "en": "study, learning",
@@ -13487,6 +17231,24 @@
         }
       ],
       "transliteration": "vyāsaṅga"
+    },
+    "lemma-yantra": {
+      "glosses": {
+        "en": "An implement that does work.",
+        "hi": "काम करने वाला उपकरण।",
+        "kn": "ಕೆಲಸ ಮಾಡುವ ಸಾಧನ."
+      },
+      "id": "lemma-yantra",
+      "lemma": "ಯಂತ್ರ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g3-fl-p1",
+          "chapterId": "ch05-ajjiya-totadalli-ondu-dina",
+          "editionId": "2026-27",
+          "segmentId": "note-yantra"
+        }
+      ],
+      "transliteration": "yantra"
     },
     "lemma-yavattara": {
       "glosses": {
@@ -13521,9 +17283,27 @@
         }
       ],
       "transliteration": "yodha"
+    },
+    "lemma-yogi-bande": {
+      "glosses": {
+        "en": "A large rock said to have been found on Mars.",
+        "hi": "मंगळ ग्रहदल्लि कंडुबंदिदॆ ऎन्नलाद ऒंदु दॊड्ड बंडॆ.",
+        "kn": "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ ಎನ್ನಲಾದ ಒಂದು ದೊಡ್ಡ ಬಂಡೆ."
+      },
+      "id": "lemma-yogi-bande",
+      "lemma": "ಯೋಗಿ ಹೆಸರಿನ ಬಂಡೆ",
+      "sourceRefs": [
+        {
+          "bookId": "ktbs-savi-kannada-g6-fl-p1",
+          "chapterId": "ch06-mangala-grahadalli-putti",
+          "editionId": "2026-27",
+          "segmentId": "note-yogi-bande"
+        }
+      ],
+      "transliteration": "yogi hèsarina baṃḍè"
     }
   },
-  "license": "Derived from textbook vocabulary definitions; see chapter meta.license and contributor licenses",
-  "provenance": "Seeded from printed vocabulary_term/vocabulary_definition pairs (and en/hi/latin contributor maps) across Savi Kannada FL Part 1 editions 2026-27: ktbs-savi-kannada-g1-fl-p1, ktbs-savi-kannada-g2-fl-p1, ktbs-savi-kannada-g3-fl-p1, ktbs-savi-kannada-g5-fl-p1, ktbs-savi-kannada-g6-fl-p1, ktbs-savi-kannada-g7-fl-p1, ktbs-savi-kannada-g8-fl-p1. Per-book term counts: ktbs-savi-kannada-g1-fl-p1=0, ktbs-savi-kannada-g2-fl-p1=0, ktbs-savi-kannada-g3-fl-p1=139, ktbs-savi-kannada-g5-fl-p1=84, ktbs-savi-kannada-g6-fl-p1=102, ktbs-savi-kannada-g7-fl-p1=116, ktbs-savi-kannada-g8-fl-p1=118. Definitions linked by ref or {{termId}}-def id. No inferred morphology.",
+  "license": "Derived from textbook vocabulary and note definitions; see chapter meta.license and contributor licenses",
+  "provenance": "Seeded from printed vocabulary_term/vocabulary_definition and note_term/note_definition pairs (and en/hi/latin contributor maps) across Savi Kannada FL Part 1 editions 2026-27: ktbs-savi-kannada-g1-fl-p1, ktbs-savi-kannada-g2-fl-p1, ktbs-savi-kannada-g3-fl-p1, ktbs-savi-kannada-g5-fl-p1, ktbs-savi-kannada-g6-fl-p1, ktbs-savi-kannada-g7-fl-p1, ktbs-savi-kannada-g8-fl-p1. Per-book pair counts: ktbs-savi-kannada-g1-fl-p1=19, ktbs-savi-kannada-g2-fl-p1=49, ktbs-savi-kannada-g3-fl-p1=201, ktbs-savi-kannada-g5-fl-p1=84, ktbs-savi-kannada-g6-fl-p1=122, ktbs-savi-kannada-g7-fl-p1=125, ktbs-savi-kannada-g8-fl-p1=123. Definitions linked by ref or {{termId}}-def id. No inferred morphology. G1/G2 vocabulary lists without definitions are omitted; their Notes glosses are included.",
   "schemaVersion": 1
 }

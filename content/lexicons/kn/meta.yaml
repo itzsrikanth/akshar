@@ -1,9 +1,10 @@
 schemaVersion: 1
 language: kn
-license: Derived from textbook vocabulary definitions; see chapter meta.license and contributor licenses
-provenance: 'Seeded from printed vocabulary_term/vocabulary_definition pairs (and en/hi/latin contributor maps) across Savi
-  Kannada FL Part 1 editions 2026-27: ktbs-savi-kannada-g1-fl-p1, ktbs-savi-kannada-g2-fl-p1, ktbs-savi-kannada-g3-fl-p1,
-  ktbs-savi-kannada-g5-fl-p1, ktbs-savi-kannada-g6-fl-p1, ktbs-savi-kannada-g7-fl-p1, ktbs-savi-kannada-g8-fl-p1. Per-book
-  term counts: ktbs-savi-kannada-g1-fl-p1=0, ktbs-savi-kannada-g2-fl-p1=0, ktbs-savi-kannada-g3-fl-p1=139, ktbs-savi-kannada-g5-fl-p1=84,
-  ktbs-savi-kannada-g6-fl-p1=102, ktbs-savi-kannada-g7-fl-p1=116, ktbs-savi-kannada-g8-fl-p1=118. Definitions linked by ref
-  or {{termId}}-def id. No inferred morphology.'
+license: Derived from textbook vocabulary and note definitions; see chapter meta.license and contributor licenses
+provenance: 'Seeded from printed vocabulary_term/vocabulary_definition and note_term/note_definition pairs (and en/hi/latin
+  contributor maps) across Savi Kannada FL Part 1 editions 2026-27: ktbs-savi-kannada-g1-fl-p1, ktbs-savi-kannada-g2-fl-p1,
+  ktbs-savi-kannada-g3-fl-p1, ktbs-savi-kannada-g5-fl-p1, ktbs-savi-kannada-g6-fl-p1, ktbs-savi-kannada-g7-fl-p1, ktbs-savi-kannada-g8-fl-p1.
+  Per-book pair counts: ktbs-savi-kannada-g1-fl-p1=19, ktbs-savi-kannada-g2-fl-p1=49, ktbs-savi-kannada-g3-fl-p1=201, ktbs-savi-kannada-g5-fl-p1=84,
+  ktbs-savi-kannada-g6-fl-p1=122, ktbs-savi-kannada-g7-fl-p1=125, ktbs-savi-kannada-g8-fl-p1=123. Definitions linked by ref
+  or {{termId}}-def id. No inferred morphology. G1/G2 vocabulary lists without definitions are omitted; their Notes glosses
+  are included.'

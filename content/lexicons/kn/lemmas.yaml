@@ -1,4 +1,848 @@
 lemmas:
+- id: lemma-maasa
+  lemma: "ಮಾಸ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-vandane
+    segmentId: note-maasa
+  transliteration: '""'
+  glosses:
+    kn: "ತಿಂಗಳು"
+    en: '""'
+    hi: '""'
+- id: lemma-vandane
+  lemma: "ವಂದನೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-vandane
+    segmentId: note-vandane
+  transliteration: '""'
+  glosses:
+    kn: "ನಮಸ್ಕಾರ"
+    en: '""'
+    hi: '""'
+- id: lemma-salahu
+  lemma: "ಸಲಹು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-vandane
+    segmentId: note-salahu
+  transliteration: '""'
+  glosses:
+    kn: "ಆರೈಕೆ"
+    en: '""'
+    hi: '""'
+- id: lemma-nitya
+  lemma: "ನಿತ್ಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-vandane
+    segmentId: note-nitya
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-nanna-devaru
+    segmentId: note-nitya
+  transliteration: '""'
+  glosses:
+    kn: "ಪ್ರತಿದಿನ"
+    en: '""'
+    hi: '""'
+- id: lemma-gubbacchi
+  lemma: "ಗುಬ್ಬಚ್ಚಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-sahakara
+    segmentId: note-gubbacchi
+  transliteration: gubbacci
+  glosses:
+    kn: "ಗುಬ್ಬಿ, ಒಂದು ಜಾತಿಯ ಸಣ್ಣ ಪಕ್ಷಿ"
+    en: gubbi, a kind of small bird
+    hi: "गुब्बी, एक छोटी चिड़िया"
+- id: lemma-sangrahisu
+  lemma: "ಸಂಗ್ರಹಿಸು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-sahakara
+    segmentId: note-sangrahisu
+  transliteration: "saṃgrahisu"
+  glosses:
+    kn: "ಒಟ್ಟುಗೂಡಿಸು"
+    en: gather together
+    hi: "एकत्र करना"
+- id: lemma-bittu
+  lemma: "ಬಿತ್ತು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-sahakara
+    segmentId: note-bittu
+  transliteration: bittu
+  glosses:
+    kn: "ಬೀಜ ಹಾಕು"
+    en: put seed
+    hi: "बीज डालना"
+- id: lemma-pairu
+  lemma: "ಪೈರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-sahakara
+    segmentId: note-pairu
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-pairu
+  transliteration: pairu
+  glosses:
+    kn: "ಧಾನ್ಯದ ಬೆಳೆ"
+    en: grain crop
+    hi: "अनाज की फसल"
+- id: lemma-palya
+  lemma: "ಪಲ್ಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-ootada-aata
+    segmentId: note-palya
+  transliteration: palya
+  glosses:
+    kn: "ತರಕಾರಿಯಿಂದ ಮಾಡಿದ ಪದಾರ್ಥ, ತಾಳದ"
+    en: a dish made from vegetables
+    hi: "सब्ज़ियों से बना पदार्थ"
+- id: lemma-dantu
+  lemma: "ದಂಟು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-ootada-aata
+    segmentId: note-dantu
+  transliteration: "daṃṭu"
+  glosses:
+    kn: "ಒಂದು ಜಾತಿಯ ತರಕಾರಿ ಸೊಪ್ಪು"
+    en: a kind of leafy vegetable
+    hi: "एक प्रकार की पत्तेदार सब्जी"
+- id: lemma-mudiru
+  lemma: "ಮುದಿರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-ootada-aata
+    segmentId: note-mudiru
+  transliteration: mudiru
+  glosses:
+    kn: "ಮುಚ್ಚು, ಮಡಿಚು"
+    en: cover, fold
+    hi: "ढकना, मोड़ना"
+- id: lemma-dinaalu
+  lemma: "ದಿನಾಲೂ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-hoodota
+    segmentId: note-dinaalu
+  transliteration: "dinālū"
+  glosses:
+    kn: "ಪ್ರತಿದಿನ"
+    en: each day
+    hi: "प्रतिदिन"
+- id: lemma-jokaali
+  lemma: "ಜೋಕಾಲಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-hoodota
+    segmentId: note-jokaali
+  transliteration: "jokāli"
+  glosses:
+    kn: "ಉಯ್ಯಾಲೆ, ತೂಗುಮಣೆ"
+    en: swing, hanging seat
+    hi: "झूला, लटकती सीट"
+- id: lemma-raita
+  lemma: "ರೈತ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-besige-rajeyali
+    segmentId: note-raita
+  transliteration: raita
+  glosses:
+    kn: "ಕೃಷಿಕ"
+    en: cultivator
+    hi: "कृषक"
+- id: lemma-mugilu
+  lemma: "ಮುಗಿಲು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-besige-rajeyali
+    segmentId: note-mugilu
+  transliteration: mugilu
+  glosses:
+    kn: "ಆಕಾಶ"
+    en: sky
+    hi: "आकाश"
+- id: lemma-savi
+  lemma: "ಸವಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-besige-rajeyali
+    segmentId: note-savi
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-kannadammana-harake
+    segmentId: vocab-savi
+  transliteration: savi
+  glosses:
+    kn: "ರುಚಿ"
+    en: flavour
+    hi: "रूचि"
+- id: lemma-sobagu
+  lemma: "ಸೊಬಗು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-besige-rajeyali
+    segmentId: note-sobagu
+  transliteration: "sòbagu"
+  glosses:
+    kn: "ಚಂದ"
+    en: charm
+    hi: "सौंदर्य"
+- id: lemma-gaabari
+  lemma: "ಗಾಬರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-koti-mattu-alilu
+    segmentId: note-gaabari
+  transliteration: "gābari"
+  glosses:
+    kn: "ಹೆದರಿಕೆ"
+    en: fright
+    hi: "भय"
+- id: lemma-kshamisu
+  lemma: "ಕ್ಷಮಿಸು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g1-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-koti-mattu-alilu
+    segmentId: note-kshamisu
+  transliteration: "kṣamisu"
+  glosses:
+    kn: "ಅಪರಾಧವನ್ನು ಮನ್ನಿಸು"
+    en: pardon the fault
+    hi: "अपराध माफ़ करना"
+- id: lemma-vele
+  lemma: "ವೇಳೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-hakki
+    segmentId: note-vele
+  transliteration: "vēḷe"
+  glosses:
+    kn: "ಕಾಲ, ಸಮಯ"
+    en: time, moment
+    hi: "काल, समय"
+- id: lemma-haccu
+  lemma: "ಹಚ್ಚು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-hakki
+    segmentId: note-haccu
+  transliteration: haccu
+  glosses:
+    kn: "ಸೇರಿಸು, ಅಂಟಿಸು"
+    en: add, stick
+    hi: "जोड़, चिपका"
+- id: lemma-puccha
+  lemma: "ಪುಚ್ಚ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-hakki
+    segmentId: note-puccha
+  transliteration: pucca
+  glosses:
+    kn: "ಹಕ್ಕಿಯ ಗರಿ / ಪುಕ್ಕ"
+    en: bird's feather
+    hi: "चिड़िया का पंख"
+- id: lemma-netti
+  lemma: "ನೆತ್ತಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-hakki
+    segmentId: note-netti
+  transliteration: netti
+  glosses:
+    kn: "ತಲೆಯ ಮಧ್ಯಭಾಗ"
+    en: middle of the head
+    hi: "सिर का मध्य भाग"
+- id: lemma-hingade
+  lemma: "ಹಿಂಗಡೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-hakki
+    segmentId: note-hingade
+  transliteration: "hiṅgaḍe"
+  glosses:
+    kn: "ಹಿಂದೆ"
+    en: behind
+    hi: "पीछे"
+- id: lemma-raja
+  lemma: "ರಾಜ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-ooricobba-rajanante
+    segmentId: note-raja
+  transliteration: "rāja"
+  glosses:
+    kn: "ಅರಸ"
+    en: king / ruler
+    hi: "राजा"
+- id: lemma-darji
+  lemma: "ದರ್ಜಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-ooricobba-rajanante
+    segmentId: note-darji
+  transliteration: darji
+  glosses:
+    kn: "ಬಟ್ಟೆ ಹೊಲಿಯುವವ"
+    en: one who sews clothes
+    hi: "कपड़े सिलने वाला"
+- id: lemma-chanda
+  lemma: "ಚಂದ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-ooricobba-rajanante
+    segmentId: note-chanda
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-seena-settaru-namma-teacheru
+    segmentId: vocab-chanda
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: vocab-chanda
+  transliteration: canda
+  glosses:
+    kn: "ಅಂದ, ಸೊಗಸು, ಚೆಲುವ"
+    en: beautiful, nice, lovely
+    hi: "सुंदर, अच्छा, प्यारा"
+- id: lemma-mantri
+  lemma: "ಮಂತ್ರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-ooricobba-rajanante
+    segmentId: note-mantri
+  transliteration: mantri
+  glosses:
+    kn: "ರಾಜನ ಸಲಹೆಗಾರ"
+    en: king's advisor
+    hi: "राजा का सलाहकार"
+- id: lemma-geleya
+  lemma: "ಗೆಳೆಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-geleya
+  transliteration: "geḷeya"
+  glosses:
+    kn: "ಸ್ನೇಹಿತ"
+    en: friend
+    hi: "मित्र"
+- id: lemma-jamba
+  lemma: "ಜಂಬ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-jamba
+  - bookId: ktbs-savi-kannada-g5-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-ottige-baluva-ananda
+    segmentId: vocab-jamba
+  transliteration: jamba
+  glosses:
+    kn: "ಗರ್ವ"
+    en: pride / arrogance
+    hi: "गर्व"
+- id: lemma-teermana
+  lemma: "ತೀರ್ಮಾನ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-teermana
+  transliteration: "tīrmāna"
+  glosses:
+    kn: "ತೀರ್ಪು"
+    en: judgment
+    hi: "निर्णय"
+- id: lemma-spardhe
+  lemma: "ಸ್ಪರ್ಧೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-spardhe
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-svatantrya-dinacharane
+    segmentId: vocab-spardhe
+  transliteration: spardhe
+  glosses:
+    kn: "ಪೈಪೋಟಿ"
+    en: rivalry
+    hi: "प्रतिस्पर्धा"
+- id: lemma-oppanda
+  lemma: "ಒಪ್ಪಂದ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-oppanda
+  transliteration: oppanda
+  glosses:
+    kn: "ಸಮ್ಮತಿ, ಒಮ್ಮತ"
+    en: consent, consensus
+    hi: "सहमति, एकमत"
+- id: lemma-arivu
+  lemma: "ಅರಿವು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-arivu
+  - bookId: ktbs-savi-kannada-g5-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-kannada-kannada-barri-namma-sangada
+    segmentId: vocab-arivu
+  transliteration: arivu
+  glosses:
+    kn: "ತಿಳಿವಳಿಕೆ"
+    en: understanding
+    hi: "समझ"
+- id: lemma-alochane
+  lemma: "ಆಲೋಚನೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-geletana
+    segmentId: note-alochane
+  transliteration: "ālōcane"
+  glosses:
+    kn: "ಯೋಚಿಸುವುದು"
+    en: thinking
+    hi: "सोचना"
+- id: lemma-kasabu
+  lemma: "ಕಸಬು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kempegoudara-kanasu
+    segmentId: note-kasabu
+  transliteration: kasabu
+  glosses:
+    kn: "ಉದ್ಯೋಗ"
+    en: job / profession
+    hi: "व्यवसाय / शिल्प"
+- id: lemma-gudi
+  lemma: "ಗುಡಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kempegoudara-kanasu
+    segmentId: note-gudi
+  transliteration: "guḍi"
+  glosses:
+    kn: "ದೇಗುಲ"
+    en: shrine
+    hi: "देवालय"
+- id: lemma-tavarooru
+  lemma: "ತವರೂರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kempegoudara-kanasu
+    segmentId: note-tavarooru
+  transliteration: "tavarūru"
+  glosses:
+    kn: "ಹುಟ್ಟಿದ ಊರು"
+    en: birthplace / hometown
+    hi: "जन्म स्थान / वह गाँव जहाँ किसी का जन्म हुआ हो"
+- id: lemma-rajadhani
+  lemma: "ರಾಜಧಾನಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kempegoudara-kanasu
+    segmentId: note-rajadhani
+  transliteration: "rājadhāni"
+  glosses:
+    kn: "ಒಂದು ರಾಜ್ಯ ಅಥವಾ ದೇಶದ ಮುಖ್ಯ ಆಡಳಿತ ಕೇಂದ್ರ"
+    en: the main administrative center of a state or country
+    hi: "किसी राज्य या देश का मुख्य प्रशासनिक केंद्र"
+- id: lemma-kavalu-gopura
+  lemma: "ಕಾವಲು ಗೋಪುರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kempegoudara-kanasu
+    segmentId: note-kavalu-gopura
+  transliteration: "kāvalu gōpura"
+  glosses:
+    kn: "ಶತ್ರುಗಳು ಬರದಂತೆ ಊರನ್ನು ಕಾಯಲು ಎತ್ತರದ ಜಾಗದಲ್ಲಿ ಕಟ್ಟಿಸುವ ಗೋಪುರ."
+    en: a tower built at a high place to guard a town against enemies.
+    hi: "दुश्मनों के आने से बचने के लिए शहर की रखवाली करने के लिए ऊँचे स्थान पर बनाई गई मीनार।"
+- id: lemma-badi
+  lemma: "ಬದಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-halliya-dariya-badiyali
+    segmentId: note-badi
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-badi
+  transliteration: badi
+  glosses:
+    kn: "ಪಕ್ಕ"
+    en: next to
+    hi: "बगल में"
+- id: lemma-tannelalu
+  lemma: "ತಣ್ಣೆಳಲು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-halliya-dariya-badiyali
+    segmentId: note-tannelalu
+  transliteration: "taṇṇeḷalu"
+  glosses:
+    kn: "ತಂಪಾದ ನೆರಳು"
+    en: cool shade
+    hi: "ठंडी छाया"
+- id: lemma-kammina
+  lemma: "ಕಮ್ಮಿನ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-halliya-dariya-badiyali
+    segmentId: note-kammina
+  transliteration: kammina
+  glosses:
+    kn: "ಸುಗಂಧ"
+    en: fragrance
+    hi: "सुगंध"
+- id: lemma-parimala
+  lemma: "ಪರಿಮಳ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-halliya-dariya-badiyali
+    segmentId: note-parimala
+  transliteration: "parimaḷa"
+  glosses:
+    kn: "ಸುವಾಸನೆ"
+    en: good smell
+    hi: "अच्छी खुशबू"
+- id: lemma-usiru
+  lemma: "ಉಸಿರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-halliya-dariya-badiyali
+    segmentId: note-usiru
+  transliteration: usiru
+  glosses:
+    kn: "ಪ್ರಾಣ (ದೇಹದ ಒಳಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳುವ ಹಾಗೂ ಹೊರಗೆ ಬಿಡುವ ಗಾಳಿ)"
+    en: life (the air taken into and let out of the body)
+    hi: "प्राण (शरीर के अंदर ली जाने वाली और बाहर छोड़ी जाने वाली हवा)"
+- id: lemma-ile
+  lemma: "ಇಳೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-halliya-dariya-badiyali
+    segmentId: note-ile
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-besige
+    segmentId: vocab-ile
+  transliteration: "iḷe"
+  glosses:
+    kn: "ಭೂಮಿ"
+    en: earth / ground
+    hi: "भूमि"
+- id: lemma-khushi
+  lemma: "ಖುಷಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-khushi
+  transliteration: "khuṣi"
+  glosses:
+    kn: "ಹಿಗ್ಗು, ಹರ್ಷ"
+    en: joy, delight
+    hi: "आनंद, हर्ष"
+- id: lemma-padartha
+  lemma: "ಪದಾರ್ಥ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-padartha
+  transliteration: "padārtha"
+  glosses:
+    kn: "ವಸ್ತು"
+    en: object
+    hi: "चीज़"
+- id: lemma-raashi
+  lemma: "ರಾಶಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-raashi
+  transliteration: "rāśi"
+  glosses:
+    kn: "ಗುಂಪು, ಗುಪ್ಪೆ, ಸಮೂಹ"
+    en: group, heap, collection
+    hi: "समूह, ढेर"
+- id: lemma-riperi
+  lemma: "ರಿಪೇರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-riperi
+  transliteration: "ripēri"
+  glosses:
+    kn: "ಸರಿಪಡಿಸುವಿಕೆ"
+    en: fixing
+    hi: "ठीक करना"
+- id: lemma-salakarane
+  lemma: "ಸಲಕರಣೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-salakarane
+  transliteration: "salakaraṇe"
+  glosses:
+    kn: "ಉಪಕರಣ"
+    en: tool / equipment
+    hi: "औज़ार / सामान"
+- id: lemma-dinasi
+  lemma: "ದಿನಸಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-dinasi
+  transliteration: dinasi
+  glosses:
+    kn: "ಧಾನ್ಯ, ದವಸ"
+    en: grain, provision
+    hi: "अनाज, राशन"
+- id: lemma-sambaara
+  lemma: "ಸಾಂಬಾರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-sambaara
+  transliteration: "sāmbāra"
+  glosses:
+    kn: "ಮಸಾಲೆಯ ಪದಾರ್ಥ."
+    en: spice item.
+    hi: "मसाले की चीज़।"
+- id: lemma-vyapara
+  lemma: "ವ್ಯಾಪಾರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-vyapara
+  transliteration: "vyāpāra"
+  glosses:
+    kn: "ಕೊಳ್ಳುವುದು, ಮಾರುವುದು."
+    en: buying, selling.
+    hi: "खरीदना, बेचना।"
+- id: lemma-manoranjane
+  lemma: "ಮನೋರಂಜನೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-manoranjane
+  transliteration: "manōranjane"
+  glosses:
+    kn: "ಮನಸ್ಸನ್ನು ಸಂತೋಷಗೊಳಿಸುವುದು."
+    en: making the mind happy.
+    hi: "मन को खुश करना।"
+- id: lemma-guddali
+  lemma: "ಗುದ್ದಲಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-sante
+    segmentId: note-guddali
+  transliteration: guddali
+  glosses:
+    kn: "ನೆಲವನ್ನು ಅಗೆಯಲು ಉಪಯೋಗಿಸುವ ಮರದ ಹಿಡಿಯುಳ್ಳ ಕಬ್ಬಿಣದ ಸಾಧನ."
+    en: an iron tool with a wooden handle used for digging the ground.
+    hi: "ज़मीन खोदने के लिए इस्तेमाल होने वाला लकड़ी के हत्थे वाला लोहे का उपकरण।"
+- id: lemma-saddu
+  lemma: "ಸದ್ದು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-saddu
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-tagadina
+    segmentId: vocab-saddu
+  transliteration: saddu
+  glosses:
+    kn: "ಶಬ್ದ, ಗದ್ದಲ"
+    en: sound, noise
+    hi: "शब्द, हो-हल्ला"
+- id: lemma-mevu
+  lemma: "ಮೇವು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-mevu
+  - bookId: ktbs-savi-kannada-g5-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-swatantryada-hanate
+    segmentId: vocab-mevu
+  transliteration: "mēvu"
+  glosses:
+    kn: "ಆಹಾರ"
+    en: food
+    hi: "आहार"
+- id: lemma-anivarya
+  lemma: "ಅನಿವಾರ್ಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-anivarya
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-besige
+    segmentId: vocab-anivarya
+  transliteration: "anivārya"
+  glosses:
+    kn: "ತಪ್ಪಿಸಲಾಗದ"
+    en: unavoidable
+    hi: "जिसे टाला न जा सके"
+- id: lemma-apaya
+  lemma: "ಅಪಾಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-apaya
+  transliteration: "apāya"
+  glosses:
+    kn: "ಕೇಡು, ಹಾನಿ, ತೊಂದರೆ"
+    en: harm, damage, trouble
+    hi: "हानि, नुकसान, कष्ट"
+- id: lemma-tochade
+  lemma: "ತೋಚದೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-tochade
+  transliteration: "tōcade"
+  glosses:
+    kn: "ದಿಕ್ಕು ಕಾಣದೆ"
+    en: without seeing a way
+    hi: "रास्ता न सूझना"
+- id: lemma-sameepa
+  lemma: "ಸಮೀಪ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-sameepa
+  transliteration: "samīpa"
+  glosses:
+    kn: "ಹತ್ತಿರ"
+    en: close by
+    hi: "पास"
+- id: lemma-kandi
+  lemma: "ಕಂಡಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-arive-guru
+    segmentId: note-kandi
+  transliteration: "kaṇḍi"
+  glosses:
+    kn: "ರಂಧ್ರ, ತೂತು"
+    en: hole, opening
+    hi: "छिद्र, सुराख"
+- id: lemma-taare
+  lemma: "ತಾರೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-nanna-devaru
+    segmentId: note-taare
+  transliteration: "tāre"
+  glosses:
+    kn: "ನಕ್ಷತ್ರ, ಚುಕ್ಕೆ"
+    en: star, speck
+    hi: "नक्षत्र, बिंदी"
+- id: lemma-gagana
+  lemma: "ಗಗನ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-nanna-devaru
+    segmentId: note-gagana
+  transliteration: gagana
+  glosses:
+    kn: "ಆಕಾಶ"
+    en: sky / heavens
+    hi: "आकाश"
+- id: lemma-ulke
+  lemma: "ಉಲ್ಕೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g2-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-nanna-devaru
+    segmentId: note-ulke
+  transliteration: ulke
+  glosses:
+    kn: "ಆಕಾಶಕಾಯ"
+    en: celestial body / meteor
+    hi: "आकाशकाय"
 - id: lemma-kaasu
   lemma: "ಕಾಸು"
   sourceRefs:
@@ -35,18 +879,6 @@ lemmas:
     kn: "ಕೆಟ್ಟುಹೋಗು"
     en: to go bad / be spoiled
     hi: "खराब होना"
-- id: lemma-saddu
-  lemma: "ಸದ್ದು"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g3-fl-p1
-    editionId: 2026-27
-    chapterId: ch01-bannada-tagadina
-    segmentId: vocab-saddu
-  transliteration: Saddu
-  glosses:
-    kn: "ಸಪ್ಪಳ"
-    en: noise
-    hi: "शोर"
 - id: lemma-sanje
   lemma: "ಸಂಜೆ"
   sourceRefs:
@@ -59,6 +891,54 @@ lemmas:
     kn: "ಸಾಯಂಕಾಲ"
     en: evening / dusk
     hi: "शाम / सांझ"
+- id: lemma-tagadu
+  lemma: "ತಗಡು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-tagadina
+    segmentId: note-tagadu
+  transliteration: Tagadu
+  glosses:
+    kn: "ತೆಳುವಾದ ಲೋಹದ ಹಾಳೆ"
+    en: thin sheet of metal
+    hi: "धातु की पतली चादर"
+- id: lemma-kola
+  lemma: "ಕೊಳ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-tagadina
+    segmentId: note-kola
+  transliteration: Kola
+  glosses:
+    kn: "ನೀರಿನ ತಾಣ, ಕೆರೆ"
+    en: a body of water, pond
+    hi: "जल का स्थान, तालाब"
+- id: lemma-tutturi
+  lemma: "ತುತ್ತೂರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-tagadina
+    segmentId: note-tutturi
+  transliteration: Tutturi
+  glosses:
+    kn: "ಊದುವ ವಾದ್ಯ"
+    en: a blowing instrument
+    hi: "फूँककर बजाया जाने वाला वाद्य"
+- id: lemma-sarigama
+  lemma: "ಸರಿಗಮಪದನಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-bannada-tagadina
+    segmentId: note-sarigama
+  transliteration: Sarigamapadani
+  glosses:
+    kn: "ಸಂಗೀತದ ಏಳು ಸ್ವರಗಳು"
+    en: the seven musical notes of Indian classical music
+    hi: "भारतीय शास्त्रीय संगीत के सात स्वर"
 - id: lemma-kaapaadu
   lemma: "ಕಾಪಾಡು"
   sourceRefs:
@@ -155,18 +1035,54 @@ lemmas:
     kn: "ವೀರ, ಶೂರ"
     en: A brave person, a warrior
     hi: "बहादुर, शूरवीर"
-- id: lemma-savi
-  lemma: "ಸವಿ"
+- id: lemma-ihapara
+  lemma: "ಇಹಪರ"
   sourceRefs:
   - bookId: ktbs-savi-kannada-g3-fl-p1
     editionId: 2026-27
     chapterId: ch01-kannadammana-harake
-    segmentId: vocab-savi
-  transliteration: Savi
+    segmentId: note-ihapara
+  transliteration: Ihapara
   glosses:
-    kn: "ರುಚಿ"
-    en: Flavour
-    hi: "स्वाद"
+    kn: "ಲೌಕಿಕ-ಅಲೌಕಿಕ ಬದುಕು; ಈ ಲೋಕ ಪರಲೋಕ"
+    en: Earthly and spiritual life; this world and the next world.
+    hi: "लौकिक और अलौकिक जीवन; यह लोक और परलोक।"
+- id: lemma-jogula
+  lemma: "ಜೋಗುಳ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-kannadammana-harake
+    segmentId: note-jogula
+  transliteration: Jogula
+  glosses:
+    kn: "ಮಕ್ಕಳನ್ನು ಮಲಗಿಸುವಾಗ ಹಾಡುವ ಪದ, ಲಾಲಿ ಹಾಡು."
+    en: A song sung to put children to sleep.
+    hi: "बच्चों को सुलाते समय गाया जाने वाला गीत।"
+- id: lemma-taaynudi
+  lemma: "ತಾಯ್ನುಡಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-kannadammana-harake
+    segmentId: note-taaynudi
+  transliteration: Taaynudi
+  glosses:
+    kn: "ತಾಯಿ ಮಾತು, ಮಾತೃಭಾಷೆ, ಮನೆಮಾತು."
+    en: A mother's language, one's native language, the language spoken at home.
+    hi: "माँ की बोली, मातृभाषा, घर की भाषा।"
+- id: lemma-dammayya
+  lemma: "ದಮ್ಮಯ್ಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-kannadammana-harake
+    segmentId: note-dammayya
+  transliteration: Dammayya
+  glosses:
+    kn: "ದೀನತೆಯಿಂದ ಬೇಡುವುದು."
+    en: Pleading humbly.
+    hi: "विनम्रता से प्रार्थना करना।"
 - id: lemma-satkarisu
   lemma: "ಸತ್ಕರಿಸು"
   sourceRefs:
@@ -239,6 +1155,42 @@ lemmas:
     kn: "ಆಸನ, ಗದ್ದುಗೆ"
     en: A seat or throne
     hi: "बैठने का आसन, गद्दी"
+- id: lemma-palaayana
+  lemma: "ಪಲಾಯನ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-buddhivanta-ramakrishna
+    segmentId: note-palaayana
+  transliteration: Palaayana
+  glosses:
+    kn: "ಯಾರಿಗೂ ತಿಳಿಸದಂತೆ ಹಾಗೂ ಕಾಣದಂತೆ ಆ ಜಾಗ ಬಿಟ್ಟು ಹೋಗುವುದು."
+    en: Leaving a place without telling anyone or being seen.
+    hi: "किसी को बताए बिना और किसी की नजर में आए बिना उस स्थान को छोड़कर चले जाना।"
+- id: lemma-pakshapaati
+  lemma: "ಪಕ್ಷಪಾತಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-buddhivanta-ramakrishna
+    segmentId: note-pakshapaati
+  transliteration: Pakshapaati
+  glosses:
+    kn: "ಒಬ್ಬರಿಗೊಂದು ಮತ್ತೊಬ್ಬರಿಗೊಂದು ಮಾಡುವವನು, ಭೇದಭಾವ ತೋರುವವನು."
+    en: Someone who treats one person differently from another and shows favouritism.
+    hi: "जो एक व्यक्ति के साथ एक तरह और दूसरे के साथ दूसरी तरह का व्यवहार करता है; भेदभाव करने वाला।"
+- id: lemma-mukha-aralitu
+  lemma: "ಮುಖ ಅರಳಿತು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-buddhivanta-ramakrishna
+    segmentId: note-mukha-aralitu
+  transliteration: Mukha aralitu
+  glosses:
+    kn: "ಮುಖದಲ್ಲಿ ನಗು ತುಂಬಿದ್ದು ಸಂತೋಷ ಎದ್ದು ಕಾಣುವುದು."
+    en: A smile filled the face, making the person's happiness clearly visible.
+    hi: "चेहरे पर मुस्कान छा गई और खुशी साफ दिखाई देने लगी।"
 - id: lemma-chittara
   lemma: "ಚಿತ್ತಾರ"
   sourceRefs:
@@ -335,18 +1287,6 @@ lemmas:
     kn: "ಆತ್ಮಗೌರವ"
     en: respect for oneself
     hi: "आत्मसम्मान"
-- id: lemma-spardhe
-  lemma: "ಸ್ಪರ್ಧೆ"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g3-fl-p1
-    editionId: 2026-27
-    chapterId: ch03-svatantrya-dinacharane
-    segmentId: vocab-spardhe
-  transliteration: Spardhe
-  glosses:
-    kn: "ಪೈಪೋಟಿ"
-    en: contest
-    hi: "मुकाबला"
 - id: lemma-taliru
   lemma: "ತಳಿರು"
   sourceRefs:
@@ -471,6 +1411,66 @@ lemmas:
     kn: "ಗೆದ್ದವರು"
     en: those who won
     hi: "जीतने वाले"
+- id: lemma-atithi
+  lemma: "ಅತಿಥಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-svatantrya-dinacharane
+    segmentId: note-atithi
+  transliteration: Atithi
+  glosses:
+    kn: "ಆಹ್ವಾನಿತ ವ್ಯಕ್ತಿ"
+    en: an invited person
+    hi: "आमंत्रित व्यक्ति"
+- id: lemma-samskritika
+  lemma: "ಸಾಂಸ್ಕೃತಿಕ ಕಾರ್ಯಕ್ರಮ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-svatantrya-dinacharane
+    segmentId: note-samskritika
+  transliteration: Saanskrutika kaaryakrama
+  glosses:
+    kn: "ಸಂಸ್ಕೃತಿಗೆ ಸಂಬಂಧಿಸಿದ ಕಾರ್ಯಕ್ರಮ."
+    en: A programme related to culture.
+    hi: "संस्कृति से संबंधित कार्यक्रम।"
+- id: lemma-rashtranayakaru
+  lemma: "ರಾಷ್ಟ್ರನಾಯಕರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-svatantrya-dinacharane
+    segmentId: note-rashtranayakaru
+  transliteration: Raashtranaayakaru
+  glosses:
+    kn: "ದೇಶಸೇವೆ ಮಾಡಿದ ಮಹನೀಯರು"
+    en: great people who served the country
+    hi: "देश की सेवा करने वाले महान व्यक्ति"
+- id: lemma-prabhatapheri
+  lemma: "ಪ್ರಭಾತಫೇರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-svatantrya-dinacharane
+    segmentId: note-prabhatapheri
+  transliteration: Prabhaatapheri
+  glosses:
+    kn: "ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ ನಡೆಸುವ ಮೆರವಣಿಗೆ"
+    en: a procession held early in the morning
+    hi: "सुबह-सवेरे निकाली जाने वाली शोभायात्रा"
+- id: lemma-samavastra
+  lemma: "ಸಮವಸ್ತ್ರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-svatantrya-dinacharane
+    segmentId: note-samavastra
+  transliteration: Samavastra
+  glosses:
+    kn: "ಒಂದೇ ರೂಪದ ವಸ್ತ್ರ"
+    en: clothing of the same design
+    hi: "एक जैसे कपड़े"
 - id: lemma-pranama
   lemma: "ಪ್ರಣಾಮ"
   sourceRefs:
@@ -715,6 +1715,42 @@ lemmas:
     kn: "ಅಭಿವೃದ್ಧಿ"
     en: prosperity / advancement
     hi: "अभिवृद्धि"
+- id: lemma-vijayotsava
+  lemma: "ವಿಜಯೋತ್ಸವ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-veeramate-jijabayi
+    segmentId: note-vijayotsava
+  transliteration: Vijayotsava
+  glosses:
+    kn: "ಗೆಲುವು ಸಿಕ್ಕಿದಾಗ ಆಚರಿಸುವ ಸಂತೋಷ ಸಮಾರಂಭ."
+    en: a joyful celebration held when victory is won.
+    hi: "जीत मिलने पर मनाया जाने वाला आनंद समारोह।"
+- id: lemma-samrajya
+  lemma: "ಸಾಮ್ರಾಜ್ಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-veeramate-jijabayi
+    segmentId: note-samrajya
+  transliteration: Saamraajya
+  glosses:
+    kn: "ಸಾರ್ವಭೌಮ ಅಧಿಕಾರವುಳ್ಳ ರಾಷ್ಟ್ರ, ಚಕ್ರಾಧಿಪತ್ಯ."
+    en: a nation with sovereign power; an empire.
+    hi: "सार्वभौम अधिकार वाला राष्ट्र; चक्राधिपत्य।"
+- id: lemma-pattabhisheka
+  lemma: "ಪಟ್ಟಾಭಿಷೇಕ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch03-veeramate-jijabayi
+    segmentId: note-pattabhisheka
+  transliteration: Pattaabhisheka
+  glosses:
+    kn: "(ರಾಜನಾಗುವವನಿಗೆ) ವಿಧ್ಯುಕ್ತವಾಗಿ ಪವಿತ್ರಜಲಗಳಿಂದ ಅಭಿಷೇಕ ಮಾಡುವಿಕೆ, ಪಟ್ಟಕಟ್ಟುವಿಕೆ."
+    en: ritually anointing a person who is to become king with sacred waters; crowning.
+    hi: "(राजा बनने वाले को) विधिवत पवित्र जल से अभिषेक करना; पट्ट बाँधना।"
 - id: lemma-kudi
   lemma: "ಕುಡಿ"
   sourceRefs:
@@ -787,6 +1823,32 @@ lemmas:
     kn: "ಸಂಜೆಯ"
     en: of the evening
     hi: "शाम का"
+- id: lemma-beesanige
+  lemma: "ಬೀಸಣಿಗೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kanda
+    segmentId: note-beesanige
+  transliteration: Beesanige
+  glosses:
+    kn: "ಗಾಳಿ ಬೀಸಿಕೊಳ್ಳಲು ಬಳಸುವ ಸಾಧನ."
+    en: An instrument used to fan oneself with air.
+    hi: "हवा करने के लिए इस्तेमाल किया जाने वाला यंत्र।"
+- id: lemma-havala
+  lemma: "ಹವಳ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-kanda
+    segmentId: note-havala
+  transliteration: Havala
+  glosses:
+    kn: "ಒಂದು ಜಾತಿಯ ಕೆಂಪು ಬಣ್ಣದ ಮಣಿ, ನವರತ್ನಗಳಲ್ಲಿ ಒಂದು. (ವಜ್ರ, ಮಾಣಿಕ್ಯ, ಮರಕತ, ಪುಷ್ಯರಾಗ, ನೀಲ, ಗೋಮೇಧಿಕ, ವೈಡೂರ್ಯ, ಮುತ್ತು, ಹವಳ)"
+    en: "A type of red-colored gem/bead; one of the nine gems (navaratna) — diamond, ruby, emerald, topaz, sapphire, hessonite\
+      \ (gomedhika), cat's eye (vaidurya), pearl, and coral."
+    hi: "एक प्रकार का लाल रंग का रत्न/मणि; नवरत्नों में से एक — हीरा, माणिक्य, पन्ना (मरकत), पुखराज, नीलम, गोमेद, वैडूर्य\
+      \ (लहसुनिया), मोती और मूँगा।"
 - id: lemma-kadalu
   lemma: "ಕಡಲು"
   sourceRefs:
@@ -883,6 +1945,30 @@ lemmas:
     kn: "ತಂಪಾಗಿ"
     en: having cooled
     hi: "ठंडा होकर"
+- id: lemma-minchu
+  lemma: "ಮಿಂಚು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-male
+    segmentId: note-minchu
+  transliteration: Minchu
+  glosses:
+    kn: "ಗುಡುಗಿಗಿಂತ ಮುಂಚೆ ಆಕಾಶದಲ್ಲಿ ಕಂಡುಬರುವ ಬೆಳಕಿನ ಬಳ್ಳಿ."
+    en: the streak of light that appears in the sky before thunder.
+    hi: "गरज से पहले आकाश में दिखने वाली प्रकाश की रेखा।"
+- id: lemma-ghalige
+  lemma: "ಘಳಿಗೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-male
+    segmentId: note-ghalige
+  transliteration: Ghalige
+  glosses:
+    kn: "24 ನಿಮಿಷಗಳ ಅವಧಿ."
+    en: a period of 24 minutes.
+    hi: "24 मिनट की अवधि।"
 - id: lemma-dhanyavada
   lemma: "ಧನ್ಯವಾದ"
   sourceRefs:
@@ -991,6 +2077,118 @@ lemmas:
     kn: "ಅಗೆ, ಬಗಿ, ಹಳ್ಳಮಾಡು"
     en: To dig, scoop, make a pit
     hi: "खोदना, गड्ढा बनाना"
+- id: lemma-malenadu
+  lemma: "ಮಲೆನಾಡು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-malenadu
+  transliteration: malenadu
+  glosses:
+    kn: "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಿಂದ ಕೂಡಿದ ಕರ್ನಾಟಕದ ಭೂಭಾಗ."
+    en: A land region of Karnataka covered with the Western Ghats.
+    hi: "पश्चिमी घाट से ढका कर्नाटक का एक भूभाग।"
+- id: lemma-noga
+  lemma: "ನೊಗ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-noga
+  transliteration: noga
+  glosses:
+    kn: "ನೇಗಿಲನ್ನು ಎಳೆಯಲು ಎತ್ತಿನ ಕತ್ತಿನ ಮೇಲೆ ಇಡುವ ಉದ್ದವಾದ ಮರದ ದಿಂಡು."
+    en: A long wooden log placed on the ox's neck to pull the plough.
+    hi: "हल खींचने के लिए बैल की गर्दन पर रखा जाने वाला एक लंबा लकड़ी का लट्ठा।"
+- id: lemma-negilu
+  lemma: "ನೇಗಿಲು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-negilu
+  - bookId: ktbs-savi-kannada-g5-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-ottige-baluva-ananda
+    segmentId: vocab-negilu
+  transliteration: negilu
+  glosses:
+    kn: "ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ."
+    en: An implement used to plough the land.
+    hi: "भूमि जोतने के लिए उपयोग किया जाने वाला उपकरण।"
+- id: lemma-yantra
+  lemma: "ಯಂತ್ರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-yantra
+  transliteration: yantra
+  glosses:
+    kn: "ಕೆಲಸ ಮಾಡುವ ಸಾಧನ."
+    en: An implement that does work.
+    hi: "काम करने वाला उपकरण।"
+- id: lemma-sukshma
+  lemma: "ಸೂಕ್ಷ್ಮ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-sukshma
+  transliteration: sukshma
+  glosses:
+    kn: "ಅತ್ಯಂತ ಚಿಕ್ಕದಾಗಿರುವಂತಹುದು."
+    en: That which is extremely small.
+    hi: "जो अत्यंत छोटा हो।"
+- id: lemma-totagarike
+  lemma: "ತೋಟಗಾರಿಕೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-totagarike
+  transliteration: totagarike
+  glosses:
+    kn: "ತೋಟವನ್ನು ಬೆಳೆಸುವುದು."
+    en: Cultivating a garden.
+    hi: "बगीचा उगाना।"
+- id: lemma-antarjala
+  lemma: "ಅಂತರ್ಜಲ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-antarjala
+  transliteration: antarjala
+  glosses:
+    kn: "ಭೂಮಿ ಒಳಗಿನ ನೀರು."
+    en: Water inside the earth.
+    hi: "पृथ्वी के अंदर का पानी।"
+- id: lemma-badu
+  lemma: "ಬದು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-badu
+  transliteration: badu
+  glosses:
+    kn: "ಹೊಲಗದ್ದೆಗಳ ಅಂಚಿನಲ್ಲಿ ರಚಿಸಿದ ಮಣ್ಣಿನ ದಂಡೆ."
+    en: An earthen bank created at the edge of fields.
+    hi: "खेतों के किनारे बनाई गई मिट्टी की मेड़।"
+- id: lemma-honda
+  lemma: "ಹೊಂಡ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-ajjiya-totadalli-ondu-dina
+    segmentId: note-honda
+  transliteration: honda
+  glosses:
+    kn: "ನೀರು ತುಂಬಿದ ತಗ್ಗು ಪ್ರದೇಶ."
+    en: A low-lying area filled with water.
+    hi: "पानी से भरा एक निचला क्षेत्र।"
 - id: lemma-lekhana
   lemma: "ಲೇಖನ"
   sourceRefs:
@@ -1099,6 +2297,78 @@ lemmas:
     kn: "ಒಳ್ಳೆಯ ಮಾತು, ನೀತಿವಾಕ್ಯ"
     en: good words; a moral saying
     hi: "अच्छी बात, नीति-वाक्य"
+- id: lemma-sampadaka
+  lemma: "ಸಂಪಾದಕ ಮಂಡಳಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-chiguru
+    segmentId: note-sampadaka
+  transliteration: Sampaadaka mandali
+  glosses:
+    kn: "ಸುದ್ದಿಯನ್ನು ಪರಿಷ್ಕರಿಸಿ ಪ್ರಕಟಿಸುವ ತಂಡ."
+    en: A team that edits and publishes news.
+    hi: "समाचार संपादित और प्रकाशित करने वाला दल।"
+- id: lemma-shalapatrike
+  lemma: "ಶಾಲಾ ಪತ್ರಿಕೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-chiguru
+    segmentId: note-shalapatrike
+  transliteration: Shaalaa patrike
+  glosses:
+    kn: "ಶಾಲೆಯಿಂದ ಹೊರತರುವ ಪತ್ರಿಕೆ"
+    en: a magazine brought out by a school
+    hi: "विद्यालय द्वारा निकाली जाने वाली पत्रिका"
+- id: lemma-svarachita
+  lemma: "ಸ್ವರಚಿತ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-chiguru
+    segmentId: note-svarachita
+  transliteration: Svarachita
+  glosses:
+    kn: "ತಾನೇ ರಚಿಸಿದ"
+    en: created by oneself
+    hi: "स्वयं रचा हुआ"
+- id: lemma-nagehani
+  lemma: "ನಗೆಹನಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-chiguru
+    segmentId: note-nagehani
+  transliteration: Nagehani
+  glosses:
+    kn: "ನಗುವನ್ನುಂಟುಮಾಡುವ ಚುಟುಕಾದ ಮಾತು ಅಥವಾ ಬರೆಹ"
+    en: a short saying or piece of writing that makes one laugh
+    hi: "हँसाने वाली छोटी बात या रचना"
+- id: lemma-chutuku
+  lemma: "ಚುಟುಕು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-chiguru
+    segmentId: note-chutuku
+  transliteration: Chutuku
+  glosses:
+    kn: "ಅಣಕದಿಂದ ಕೂಡಿದ ಚಿಕ್ಕ ಪದ್ಯ"
+    en: a short satirical poem
+    hi: "व्यंग्य से भरी छोटी कविता"
+- id: lemma-kappuhalage
+  lemma: "ಕಪ್ಪು ಹಲಗೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-chiguru
+    segmentId: note-kappuhalage
+  transliteration: Kappu halage
+  glosses:
+    kn: "ಬರೆಯುವುದಕ್ಕಾಗಿ ಕಪ್ಪುಬಣ್ಣ ಹಚ್ಚಿರುವ ಗೋಡೆಯ ಭಾಗ ಅಥವಾ ಹಲಗೆ."
+    en: A board or part of a wall painted black for writing.
+    hi: "लिखने के लिए काले रंग से रंगा तख्ता या दीवार का हिस्सा।"
 - id: lemma-samsara
   lemma: "ಸಂಸಾರ"
   sourceRefs:
@@ -1270,6 +2540,10 @@ lemmas:
     editionId: 2026-27
     chapterId: ch06-esura-svagata
     segmentId: vocab-chaluvali
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-pramanika-balaka
+    segmentId: note-chaluvali
   transliteration: Chaluvali
   glosses:
     kn: "ಹೋರಾಟ"
@@ -1366,6 +2640,10 @@ lemmas:
     editionId: 2026-27
     chapterId: ch06-esura-svagata
     segmentId: vocab-ghoshane
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-pramanika-balaka
+    segmentId: note-ghoshane
   transliteration: Ghoshane
   glosses:
     kn: "ಗಟ್ಟಿಯಾಗಿ ಕೂಗು"
@@ -1414,6 +2692,10 @@ lemmas:
     editionId: 2026-27
     chapterId: ch06-esura-svagata
     segmentId: vocab-phalaka
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-taayigondu-patra
+    segmentId: note-phalaka
   - bookId: ktbs-savi-kannada-g5-fl-p1
     editionId: 2026-27
     chapterId: ch03-namma-matu-keli
@@ -1483,6 +2765,118 @@ lemmas:
     kn: "ಊರ ಮುಂದಿನ ಹೆಬ್ಬಾಗಿಲು/ಮುಖ್ಯದ್ವಾರ"
     en: the main gateway at the entrance to a village
     hi: "गाँव के आगे का मुख्य द्वार"
+- id: lemma-svatantryapurva
+  lemma: "ಸ್ವಾತಂತ್ರ್ಯಪೂರ್ವ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-svatantryapurva
+  transliteration: Svaatantryapoorva
+  glosses:
+    kn: "ದೇಶ ಸ್ವತಂತ್ರವಾಗುವುದಕ್ಕೆ ಮುನ್ನ"
+    en: before the country became independent
+    hi: "देश के स्वतंत्र होने से पहले"
+- id: lemma-svatantrahalli
+  lemma: "ಸ್ವತಂತ್ರ ಹಳ್ಳಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-svatantrahalli
+  transliteration: Svatantra halli
+  glosses:
+    kn: "ಪರಕೀಯರ ಆಡಳಿತದಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿದ ಗ್ರಾಮ."
+    en: A village freed from foreign rule.
+    hi: "विदेशी शासन से मुक्त गाँव।"
+- id: lemma-khatekirdi
+  lemma: "ಖಾತೆ-ಕಿರ್ದಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-khatekirdi
+  transliteration: Khaate-kirdi
+  glosses:
+    kn: "ಮನೆ, ಭೂಮಾಲೀಕರ ವಿವರವಿರುವ ಕಂದಾಯ ದಾಖಲೆ ಪುಸ್ತಕ."
+    en: A revenue record book containing details of house and land owners.
+    hi: "मकान और भूमि के मालिकों का विवरण रखने वाली राजस्व पुस्तिका।"
+- id: lemma-balidana
+  lemma: "ಬಲಿದಾನ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-balidana
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: vocab-balidana
+  transliteration: Balidaana
+  glosses:
+    kn: "ಒಳಿತಿಗಾಗಿ ಮಾಡುವ ಜೀವದಾನ"
+    en: giving one's life for a good cause
+    hi: "भलाई के लिए प्राण देना"
+- id: lemma-kandaya
+  lemma: "ಕಂದಾಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-kandaya
+  transliteration: Kandaaya
+  glosses:
+    kn: "ಮನೆ, ಭೂಮಿ, ವ್ಯಾಪಾರ, ವೃತ್ತಿ ಇತ್ಯಾದಿ ಗಳಿಕೆಯ ಮೇಲೆ ಸರ್ಕಾರ ವಿಧಿಸುವ ತೆರಿಗೆ."
+    en: A tax levied by the government on houses, land, trade, professions and related earnings.
+    hi: "मकान, भूमि, व्यापार, पेशे आदि की कमाई पर सरकार द्वारा लगाया गया कर।"
+- id: lemma-mokaddame
+  lemma: "ಮೊಕದ್ದಮೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-mokaddame
+  transliteration: Mokaddame
+  glosses:
+    kn: "ಆಪಾದನೆಯನ್ನು ಆಧರಿಸಿ ಆಪಾದಿತನ ಮೇಲೆ ಆರೋಪ ಪಟ್ಟಿ ಸಿದ್ಧತೆ."
+    en: Preparation of a charge sheet against an accused person based on an allegation.
+    hi: "आरोप के आधार पर आरोपी के विरुद्ध आरोपपत्र तैयार करना।"
+- id: lemma-amaldara
+  lemma: "ಅಮಲ್ದಾರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-amaldara
+  transliteration: Amaldaara
+  glosses:
+    kn: "ತಾಲ್ಲೂಕಿನ ಭೂ ಕಂದಾಯ ಮುಂತಾದ ತೆರಿಗೆ ವಸೂಲು ಮಾಡಲು ಗೊತ್ತುಪಡಿಸಿರುವ ಅಧಿಕಾರಿ (ಈಗಿನ ತಹಸೀಲ್ದಾರ)"
+    en: an officer appointed to collect land revenue and other taxes in a taluk (the present-day tahsildar)
+    hi: "तालुक में भूमि राजस्व आदि कर वसूलने के लिए नियुक्त अधिकारी (आज का तहसीलदार)"
+- id: lemma-muktakantha
+  lemma: "ಮುಕ್ತಕಂಠ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-muktakantha
+  transliteration: Muktakantha
+  glosses:
+    kn: "ಸಂಕೋಚವಿಲ್ಲದೆ ನೇರವಾಗಿ ಹೇಳುವುದು"
+    en: speaking directly without hesitation
+    hi: "बिना संकोच सीधे कहना"
+- id: lemma-svagata
+  lemma: "ಸ್ವಗತ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-esura-svagata
+    segmentId: note-svagata
+  transliteration: Svagata
+  glosses:
+    kn: "ತನಗೆ ತಾನೇ ಹೇಳಿಕೊಳ್ಳುವುದು"
+    en: speaking to oneself
+    hi: "अपने आप से कहना"
 - id: lemma-praveshisu
   lemma: "ಪ್ರವೇಶಿಸು"
   sourceRefs:
@@ -1519,6 +2913,30 @@ lemmas:
     kn: "ಸಹವಾಸ, ಜೊತೆಯಲ್ಲಿರುವುದು"
     en: association; being together
     hi: "साथ रहना, मेल-जोल"
+- id: lemma-mantrimandala
+  lemma: "ಮಂತ್ರಿಮಂಡಲ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-pramanika-balaka
+    segmentId: note-mantrimandala
+  transliteration: Mantrimandala
+  glosses:
+    kn: "ಮಂತ್ರಿಗಳ ಸಮಿತಿ"
+    en: a council of ministers
+    hi: "मंत्रियों की समिति"
+- id: lemma-rajiname
+  lemma: "ರಾಜೀನಾಮೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-pramanika-balaka
+    segmentId: note-rajiname
+  transliteration: Raajeenaame
+  glosses:
+    kn: "ಉದ್ಯೋಗ, ಸ್ಥಾನ, ಅಧಿಕಾರ — ಮೊದಲಾದವುಗಳಿಂದ ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆಂದು ಕೇಳಿ ತಾನೇ ಒಪ್ಪಿ ಬರೆದು ಕೊಡುವ ಪತ್ರ"
+    en: a voluntarily written letter asking to be released from a job, position or office
+    hi: "नौकरी, पद या अधिकार आदि से मुक्त करने के लिए स्वेच्छा से लिखा गया पत्र"
 - id: lemma-biru
   lemma: "ಬೀರು"
   sourceRefs:
@@ -1579,6 +2997,54 @@ lemmas:
     kn: "ಜೊತೆ"
     en: company; together
     hi: "साथ"
+- id: lemma-hase
+  lemma: "ಹಸೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-sankranti
+    segmentId: note-hase
+  transliteration: Hase
+  glosses:
+    kn: "ಶುಭಕಾರ್ಯಗಳಿಗೆ ಹಾಕುವ ಆಸನ"
+    en: a seat arranged for auspicious ceremonies
+    hi: "शुभ कार्यों में लगाया जाने वाला आसन"
+- id: lemma-jaratari
+  lemma: "ಜರತಾರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-sankranti
+    segmentId: note-jaratari
+  transliteration: Jarataari
+  glosses:
+    kn: "ಜರಿಯಿಂದ ಕೂಡಿದ ವಸ್ತ್ರ/ಬಟ್ಟೆ"
+    en: cloth decorated with metallic zari thread
+    hi: "ज़री से सजा वस्त्र"
+- id: lemma-elachi
+  lemma: "ಎಲಚಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-sankranti
+    segmentId: note-elachi
+  transliteration: Elachi
+  glosses:
+    kn: "ಒಂದು ಜಾತಿಯ ಹಣ್ಣು"
+    en: a kind of fruit
+    hi: "एक प्रकार का फल"
+- id: lemma-garimuri
+  lemma: "ಗರಿಮುರಿ ಬಟ್ಟೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-sankranti
+    segmentId: note-garimuri
+  transliteration: Garimuri batte
+  glosses:
+    kn: "ಮಡಿಕೆ ಮುರಿಯದ ಬಟ್ಟೆ"
+    en: cloth whose folds are still crisp
+    hi: "कपड़ा जिसकी तहें अभी नहीं खुली हैं"
 - id: lemma-samachara
   lemma: "ಸಮಾಚಾರ"
   sourceRefs:
@@ -1679,6 +3145,66 @@ lemmas:
     kn: "ಕಡ್ಲೆಕಾಯಿ, ನೆಲಗಡಲೆ"
     en: Groundnut, peanut
     hi: "मूंगफली"
+- id: lemma-dasare
+  lemma: "ದಸರೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-taayigondu-patra
+    segmentId: note-dasare
+  transliteration: Dasare
+  glosses:
+    kn: "ಶುಕ್ಲಪಕ್ಷ ಪಾಡ್ಯದಿಂದ ದಶಮಿಯವರೆಗಿನ ಹತ್ತು ದಿನಗಳ ಹಬ್ಬ."
+    en: A ten-day festival from the first day to the tenth day of the bright fortnight.
+    hi: "शुक्ल पक्ष की प्रतिपदा से दशमी तक का दस दिनों का त्योहार।"
+- id: lemma-ambari
+  lemma: "ಅಂಬಾರಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-taayigondu-patra
+    segmentId: note-ambari
+  transliteration: Ambaari
+  glosses:
+    kn: "ಆನೆಯ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳಲು ಹಾಕುವ ಮಂಟಪದಂತಹ ಭದ್ರಾಸನ."
+    en: A pavilion-like secure seat placed on an elephant for sitting.
+    hi: "हाथी पर बैठने के लिए रखा जाने वाला मंडप जैसा सुरक्षित आसन।"
+- id: lemma-panju
+  lemma: "ಪಂಜು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-taayigondu-patra
+    segmentId: note-panju
+  transliteration: Pamju
+  glosses:
+    kn: "ಕೋಲಿಗೆ ದಪ್ಪ ಬಟ್ಟೆ ಸುತ್ತಿ ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ ಸುರಿದು ಉರಿಸುವ ದೀಪ."
+    en: A lamp made by wrapping thick cloth around a stick, pouring oil or ghee, and lighting it.
+    hi: "डंडे पर मोटा कपड़ा लपेटकर तेल या घी डालकर जलाई जाने वाली बत्ती।"
+- id: lemma-kavayatu
+  lemma: "ಕವಾಯತು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-taayigondu-patra
+    segmentId: note-kavayatu
+  transliteration: Kavaayatu
+  glosses:
+    kn: "ಸೈನಿಕರು, ಪೊಲೀಸರು, ಗೃಹರಕ್ಷಕರು ಮಾಡುವ ಕಸರತ್ತು."
+    en: Drill performed by soldiers, police, and home guards.
+    hi: "सैनिकों, पुलिस और होमगार्ड द्वारा किया जाने वाला अभ्यास।"
+- id: lemma-panjara
+  lemma: "ಪಂಜರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g3-fl-p1
+    editionId: 2026-27
+    chapterId: ch08-taayigondu-patra
+    segmentId: note-panjara
+  transliteration: Pamjara
+  glosses:
+    kn: "ಹಕ್ಕಿ, ಪ್ರಾಣಿ ಮುಂತಾದವುಗಳನ್ನು ಇಡುವ ಗೂಡು."
+    en: An enclosure for keeping birds, animals, etc.
+    hi: "पक्षियों, जानवरों आदि को रखने का बाड़ा।"
 - id: lemma-kantaka
   lemma: "ಕಂಟಕ"
   sourceRefs:
@@ -1703,30 +3229,6 @@ lemmas:
     kn: "ಕಲಹ"
     en: conflict
     hi: "कलह"
-- id: lemma-jamba
-  lemma: "ಜಂಬ"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g5-fl-p1
-    editionId: 2026-27
-    chapterId: ch01-ottige-baluva-ananda
-    segmentId: vocab-jamba
-  transliteration: jamba
-  glosses:
-    kn: "ಗರ್ವ, ಒಣ ಆಡಂಬರ"
-    en: pride, empty show
-    hi: "गर्व, खोखा आडंबर"
-- id: lemma-negilu
-  lemma: "ನೇಗಿಲು"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g5-fl-p1
-    editionId: 2026-27
-    chapterId: ch01-ottige-baluva-ananda
-    segmentId: vocab-negilu
-  transliteration: "nēgilu"
-  glosses:
-    kn: "ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ"
-    en: a tool for ploughing the land
-    hi: "भूमि जोतने का साधन"
 - id: lemma-raitha
   lemma: "ರೈತ"
   sourceRefs:
@@ -2355,18 +3857,6 @@ lemmas:
     kn: "ತಲೆ, ಕೂದಲು"
     en: head, hair
     hi: "सिर, बाल"
-- id: lemma-mevu
-  lemma: "ಮೇವು"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g5-fl-p1
-    editionId: 2026-27
-    chapterId: ch06-swatantryada-hanate
-    segmentId: vocab-mevu
-  transliteration: "mēvu"
-  glosses:
-    kn: "ಆಹಾರ, ಗ್ರಾಸ"
-    en: food, fodder
-    hi: "आहार, चारा"
 - id: lemma-hanate
   lemma: "ಹಣತೆ"
   sourceRefs:
@@ -2575,18 +4065,6 @@ lemmas:
     kn: "ಸುಳ್ಳು"
     en: falsehood
     hi: "झूठ"
-- id: lemma-arivu
-  lemma: "ಅರಿವು"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g5-fl-p1
-    editionId: 2026-27
-    chapterId: ch08-kannada-kannada-barri-namma-sangada
-    segmentId: vocab-arivu
-  transliteration: arivu
-  glosses:
-    kn: "ಜ್ಞಾನ, ತಿಳಿವಳಿಕೆ"
-    en: knowledge, understanding
-    hi: "ज्ञान, समझ"
 - id: lemma-asara
   lemma: "ಆಸರ"
   sourceRefs:
@@ -2911,6 +4389,114 @@ lemmas:
     kn: "ಅಂದವಾಗಿ, ಸೊಗಸಾಗಿ"
     en: neatly, elegantly
     hi: "अंदवागि, सॊगसागि"
+- id: lemma-janaka-maharaja
+  lemma: "ಜನಕ ಮಹಾರಾಜ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-janaka-maharaja
+  transliteration: "janaka mahārāja"
+  glosses:
+    kn: "ಮಿಥಿಲೆಯ ರಾಜ, ಸೀತೆಯ ತಂದೆ."
+    en: "King of Mithila, Sita’s father."
+    hi: "मिथिलॆय राज, सीतॆय तंदॆ."
+- id: lemma-thalmegedu
+  lemma: "ತಾಳ್ಮೆಗೆಡು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-thalmegedu
+  transliteration: "tāḻmègèḍu"
+  glosses:
+    kn: "ಸಹನೆ ಕಳೆದುಕೊಳ್ಳು, ಕೋಪಕ್ಕೆ ಒಳಗಾಗು."
+    en: to lose patience, to give in to anger.
+    hi: "सहनॆ कळॆदुकॊळ्ळु, कोपक्कॆ ऒळगागु."
+- id: lemma-samskruti
+  lemma: "ಸಂಸ್ಕೃತಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-samskruti
+  transliteration: "saṃskṛti"
+  glosses:
+    kn: "ದೇಶದ ನಾಗರಿಕತೆಯ ಸಾರ."
+    en: "the essence of a country’s civilization."
+    hi: "देशद नागरिकतॆय सार."
+- id: lemma-rajyapala
+  lemma: "ರಾಜ್ಯಪಾಲ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-rajyapala
+  transliteration: "rājyapāla"
+  glosses:
+    kn: "ರಾಜ್ಯದ ಮುಖ್ಯಸ್ಥ, ರಾಜ್ಯದ ಪ್ರಥಮ ಪ್ರಜೆ."
+    en: head of a state, first citizen of the state.
+    hi: "राज्यद मुख्यस्थ, राज्यद प्रथम प्रजॆ."
+- id: lemma-vishwavidyalaya
+  lemma: "ವಿಶ್ವವಿದ್ಯಾಲಯ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-vishwavidyalaya
+  transliteration: "viśvavidyālaya"
+  glosses:
+    kn: "ಉನ್ನತ ವಿದ್ಯಾಭ್ಯಾಸ ನೀಡುವ ಸಂಸ್ಥೆ."
+    en: an institution that provides higher education.
+    hi: "उन्नत विद्याभ्यास नीडुव संस्थॆ."
+- id: lemma-kulapati
+  lemma: "ಕುಲಪತಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-kulapati
+  transliteration: kulapati
+  glosses:
+    kn: "ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಖ್ಯಸ್ಥ."
+    en: head of a university.
+    hi: "विश्वविद्यालयद मुख्यस्थ."
+- id: lemma-karyakshetra
+  lemma: "ಕಾರ್ಯಕ್ಷೇತ್ರ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-karyakshetra
+  transliteration: "kāryakṣetra"
+  glosses:
+    kn: "ಕಾರ್ಯರಂಗ, ಕೆಲಸ ನಿರ್ವಹಿಸುವ ವಲಯದ ವ್ಯಾಪ್ತಿ."
+    en: field of work, the scope of the area where work is done.
+    hi: "कार्यरंग, कॆलस निर्वहिसुव वलयद व्याप्ति."
+- id: lemma-palish
+  lemma: "ಪಾಲಿಶ್"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-palish
+  transliteration: "pāliś"
+  glosses:
+    kn: "ಹೊಳಪು ಬರುವಂತೆ ಮಾಡುವಿಕೆ."
+    en: making something shine.
+    hi: "हॊळपु बरुवंतॆ माडुविकॆ."
+- id: lemma-buddhikalisuvudu
+  lemma: "ಬುದ್ಧಿಕಲಿಸು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-doddavara-daari
+    segmentId: note-buddhikalisuvudu
+  transliteration: buddhikalisu
+  glosses:
+    kn: "ತಿಳಿವಳಿಕೆಯನ್ನುಂಟುಮಾಡು, ಸರಿದಾರಿಗೆ ತರು."
+    en: to create understanding, to bring onto the right path.
+    hi: "तिळिवळिकॆयन्नुंटुमाडु, सरिदारिगॆ तरु."
 - id: lemma-oddolaga
   lemma: "ಒಡ್ಡೋಲಗ"
   sourceRefs:
@@ -3091,6 +4677,66 @@ lemmas:
     kn: "ಇಬ್ಬದಿಯ ಎಲುಬುಗಳು"
     en: rib bones
     hi: "इब्बदिय ऎलुबुगळु"
+- id: lemma-shokacharane
+  lemma: "ಶೋಕಾಚರಣೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-gandharvasena
+    segmentId: note-shokacharane
+  transliteration: "śokācaraṇè"
+  glosses:
+    kn: "ಸತ್ತವರಿಗಾಗಿ ಸಂತಾಪ ಸೂಚಿಸುವುದು."
+    en: Expressing sorrow for the dead.
+    hi: "सत्तवरिगागि संताप सूचिसुवुदु."
+- id: lemma-nalage-udda
+  lemma: "ನಾಲಗೆಯನ್ನು ಉದ್ದ ಮಾಡಿ ಹೇಳು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-gandharvasena
+    segmentId: note-nalage-udda
+  transliteration: "nālagèyannu udda māḍi heḻu"
+  glosses:
+    kn: "ಒಂದು ವಿಷಯದ ಬಗ್ಗೆ ತನಗೆ ಪೂರ್ಣ ಗೊತ್ತಿದೆ ಅಂದುಕೊಳ್ಳುತ್ತಾ ನಂಬಿಸಿ ಹೇಳುವುದು; ಅತಿಯಾಗಿ ಮಾತನಾಡುವುದು."
+    en: Speaking as if one knows fully and making others believe; speaking excessively.
+    hi: "ऒंदु विषयद बग्गॆ तनगॆ पूर्ण गॊत्तिदॆ अंदुकॊळ्ळुत्ता नंबिसि हेळुवुदु; अतियागि मातनाडुवुदु."
+- id: lemma-karulu-kittu
+  lemma: "ಕರುಳು ಕಿತ್ತುಬರುವಂತೆ ಅಳು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-gandharvasena
+    segmentId: note-karulu-kittu
+  transliteration: "karuḻu kittubaruvaṃtè aḻu"
+  glosses:
+    kn: "ತನಗಾದ ದುಃಖವನ್ನು ತೋರ್ಪಡಿಸಿಕೊಳ್ಳಲು ಅಳುವ ಒಂದು ರೀತಿ, ಅತೀವವಾದ ಅಳು."
+    en: "A way of weeping to show one’s sorrow; intense weeping."
+    hi: "तनगाद दुःखवन्नु तोर्पडिसिकॊळ्ळलु अळुव ऒंदु रीति, अतीववाद अळु."
+- id: lemma-gantalu-hariyu
+  lemma: "ಗಂಟಲು ಹರಿಯುವಂತೆ ಕೂಗು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-gandharvasena
+    segmentId: note-gantalu-hariyu
+  transliteration: "gaṃṭalu hariyuvaṃtè kūgu"
+  glosses:
+    kn: "ಬೊಬ್ಬೆಹಾಕಿ ಹೇಳು, ಜೋರಾಗಿ ಬೊಬ್ಬಿಡು."
+    en: To shout loudly.
+    hi: "बॊब्बॆहाकि हेळु, जोरागि बॊब्बिडु."
+- id: lemma-kalige-buddhi
+  lemma: "ಕಾಲಿಗೆ ಬುದ್ಧಿ ಹೇಳು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch02-gandharvasena
+    segmentId: note-kalige-buddhi
+  transliteration: "kāligè buddhi heḻu"
+  glosses:
+    kn: "ಹೇಳದೆ ಕೇಳದೆ ಓಡಿ ಹೋಗು, ಪಲಾಯನ ಮಾಡು."
+    en: To run away without a word; to flee.
+    hi: "हेळदॆ केळदॆ ओडि होगु, पलायन माडु."
 - id: lemma-gudisalu
   lemma: "ಗುಡಿಸಲು"
   sourceRefs:
@@ -3467,18 +5113,6 @@ lemmas:
     kn: "ಬಿಸಿ, ಶಾಖ"
     en: heat, warmth
     hi: "गर्मी, उष्णता"
-- id: lemma-ile
-  lemma: "ಇಳೆ"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g6-fl-p1
-    editionId: 2026-27
-    chapterId: ch05-besige
-    segmentId: vocab-ile
-  transliteration: "iḻè"
-  glosses:
-    kn: "ಭೂಮಿ, ಧರೆ"
-    en: earth, ground
-    hi: "भूमि, धरती"
 - id: lemma-poshaka
   lemma: "ಪೋಷಕ"
   sourceRefs:
@@ -3491,18 +5125,6 @@ lemmas:
     kn: "ಸಲಹುವಾತ, ಪಾಲಕ"
     en: protector, nurturer
     hi: "पालक"
-- id: lemma-anivarya
-  lemma: "ಅನಿವಾರ್ಯ"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g6-fl-p1
-    editionId: 2026-27
-    chapterId: ch05-besige
-    segmentId: vocab-anivarya
-  transliteration: "anivārya"
-  glosses:
-    kn: "ಅತ್ಯಗತ್ಯ"
-    en: absolutely necessary
-    hi: "अत्यंत आवश्यक"
 - id: lemma-hogalu
   lemma: "ಹೊಗಳು"
   sourceRefs:
@@ -3747,6 +5369,78 @@ lemmas:
     kn: "ನಾಟು"
     en: to plant
     hi: "नाटु"
+- id: lemma-putti
+  lemma: "ಪುಟ್ಟಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-mangala-grahadalli-putti
+    segmentId: note-putti
+  transliteration: "puṭṭi"
+  glosses:
+    kn: "ಮಕ್ಕಳನ್ನು ಕರೆಯುವ ಒಂದು ಆಪ್ತ ಸಂಬೋಧನೆ."
+    en: An affectionate way of addressing children.
+    hi: "मक्कळन्नु करॆयुव ऒंदु आप्त संबोधनॆ."
+- id: lemma-mangalanangala
+  lemma: "ಮಂಗಳನಂಗಳ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-mangala-grahadalli-putti
+    segmentId: note-mangalanangala
+  transliteration: "maṃgaḻanaṃgaḻa"
+  glosses:
+    kn: "ಮಂಗಳ ಗ್ರಹದ ಬಯಲು, ಮಂಗಳ ಗ್ರಹದ ವಿಸ್ತಾರ ಪ್ರದೇಶ."
+    en: The plain of Mars; the vast region of Mars.
+    hi: "मंगळ ग्रहद बयलु, मंगळ ग्रहद विस्तार प्रदेश."
+- id: lemma-banabanaguttu
+  lemma: "ಬಣಬಣಗುಟ್ಟು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-mangala-grahadalli-putti
+    segmentId: note-banabanaguttu
+  transliteration: "baṇabaṇaguṭṭu"
+  glosses:
+    kn: "ಖಾಲಿ ಖಾಲಿಯಾಗಿ ಕಾಣು, ನೀರವತೆಯಿಂದ ಕೂಡಿರು."
+    en: To look empty; to be desolate.
+    hi: "खालि खालियागि काणु, नीरवतॆयिंद कूडिरु."
+- id: lemma-yogi-bande
+  lemma: "ಯೋಗಿ ಹೆಸರಿನ ಬಂಡೆ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-mangala-grahadalli-putti
+    segmentId: note-yogi-bande
+  transliteration: "yogi hèsarina baṃḍè"
+  glosses:
+    kn: "ಮಂಗಳ ಗ್ರಹದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ ಎನ್ನಲಾದ ಒಂದು ದೊಡ್ಡ ಬಂಡೆ."
+    en: A large rock said to have been found on Mars.
+    hi: "मंगळ ग्रहदल्लि कंडुबंदिदॆ ऎन्नलाद ऒंदु दॊड्ड बंडॆ."
+- id: lemma-duranta
+  lemma: "ದುರಂತ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-mangala-grahadalli-putti
+    segmentId: note-duranta
+  transliteration: "duraṃta"
+  glosses:
+    kn: "ದುಃಖದಲ್ಲಿ ಮುಗಿಯುವ, ಕಷ್ಟದಲ್ಲಿ ಕೊನೆಗೊಳ್ಳುವ."
+    en: Ending in sorrow; ending in hardship.
+    hi: "दुःखदल्लि मुगियुव, कष्टदल्लि कॊनॆगॊळ्ळुव."
+- id: lemma-dhavadhavaguttu
+  lemma: "ಢವಢವಗುಟ್ಟು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch06-mangala-grahadalli-putti
+    segmentId: note-dhavadhavaguttu
+  transliteration: "ḍhavaḍhavaguṭṭu"
+  glosses:
+    kn: "ಒಮ್ಮೆಲೆ ಭಯವಾಗು, ಹೃದಯ ಜೋರಾಗಿ ಹೊಡೆದುಕೊಳ್ಳು."
+    en: To feel sudden fear; for the heart to pound.
+    hi: "ऒम्मॆलॆ भयवागु, हृदय जोरागि हॊडॆदुकॊळ्ळु."
 - id: lemma-baradu
   lemma: "ಬರಡು"
   sourceRefs:
@@ -3783,6 +5477,18 @@ lemmas:
     kn: "ಡಾಂಬರು"
     en: tar, asphalt
     hi: "डामर"
+- id: lemma-baba-saheb
+  lemma: "ಬಾಬಾ ಸಾಹೇಬ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g6-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-ni-hoda-marudina
+    segmentId: note-baba-saheb
+  transliteration: "bābā sāheba"
+  glosses:
+    kn: "ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್"
+    en: Dr B.R. Ambedkar
+    hi: "डॉ. बी.आर. अंबेडकर"
 - id: lemma-giraviyangadi
   lemma: "ಗಿರವಿಯಂಗಡಿ"
   sourceRefs:
@@ -4047,22 +5753,6 @@ lemmas:
     kn: "ಏನು ಮಗು"
     en: what, child
     hi: "ಎಂತಾ ಮಗ"
-- id: lemma-chanda
-  lemma: "ಚಂದ"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g7-fl-p1
-    editionId: 2026-27
-    chapterId: ch02-seena-settaru-namma-teacheru
-    segmentId: vocab-chanda
-  - bookId: ktbs-savi-kannada-g7-fl-p1
-    editionId: 2026-27
-    chapterId: ch04-mailara-mahadeva
-    segmentId: vocab-chanda
-  transliteration: "caṃda"
-  glosses:
-    kn: "ಚೆನ್ನಾಗಿ"
-    en: well, nicely
-    hi: "ಚಂದ"
 - id: lemma-padaposhi
   lemma: "ಪಡಪೋಶಿ"
   sourceRefs:
@@ -4603,18 +6293,6 @@ lemmas:
     kn: "ಸೆರೆಮನೆ, ಬಂಧೀಖಾನೆ"
     en: prison
     hi: "ಜೈಲು"
-- id: lemma-balidana
-  lemma: "ಬಲಿದಾನ"
-  sourceRefs:
-  - bookId: ktbs-savi-kannada-g7-fl-p1
-    editionId: 2026-27
-    chapterId: ch04-mailara-mahadeva
-    segmentId: vocab-balidana
-  transliteration: "balidāna"
-  glosses:
-    kn: "ಪ್ರಾಣತ್ಯಾಗ"
-    en: sacrifice of life
-    hi: "प्राणत्याग"
 - id: lemma-sosidaru
   lemma: "ಸೋಸಿದರು"
   sourceRefs:
@@ -4627,6 +6305,90 @@ lemmas:
     kn: "ಅನುಭವಿಸಿದರು"
     en: endured
     hi: "ಸೋಸಿದರು"
+- id: lemma-savanuru
+  lemma: "ಸವಣೂರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-savanuru
+  transliteration: "savaṇūru"
+  glosses:
+    kn: "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಒಂದು ತಾಲ್ಲೂಕು"
+    en: a taluk in Haveri district
+    hi: "ಸವಣೂರು"
+- id: lemma-honnatti
+  lemma: "ಹೊನ್ನತ್ತಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-honnatti
+  transliteration: "hònnatti"
+  glosses:
+    kn: "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ರಾಣಿಬೆನ್ನೂರು ತಾಲ್ಲೂಕಿನ ಗ್ರಾಮ"
+    en: a village in Ranibennur taluk, Haveri district
+    hi: "ಹೊನ್ನತ್ತಿ"
+- id: lemma-balehosuru
+  lemma: "ಬಾಳೆಹೊಸೂರು"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-balehosuru
+  transliteration: "bāḻèhòsūru"
+  glosses:
+    kn: "ಗದಗ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಒಂದು ಗ್ರಾಮ"
+    en: a village in Shirahatti taluk, Gadag district
+    hi: "ಬಾಳೆಹೊಸೂರು"
+- id: lemma-asahakara
+  lemma: "ಅಸಹಕಾರ ಚಳವಳಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-asahakara
+  transliteration: "asahakāra caḻavaḻi"
+  glosses:
+    kn: "ಸರ್ಕಾರದ ವಿರುದ್ಧ ಜನತೆ ತನ್ನ ಅಸಮ್ಮತಿ, ವಿರೋಧ ಮತ್ತು ಪ್ರತಿಭಟನೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಒಂದು ಮಾರ್ಗ"
+    en: a path for people to express dissent, opposition and protest against the government
+    hi: "ಅಸಹಕಾರ ಚಳವಳಿ"
+- id: lemma-satyagraha
+  lemma: "ಸತ್ಯಾಗ್ರಹ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-satyagraha
+  transliteration: "satyāgraha"
+  glosses:
+    kn: "ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರು ತಮ್ಮ ಜೀವನದಲ್ಲಿ ಕಂಡುಕೊಂಡ ಸಿದ್ಧಾಂತ ಹಾಗೂ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸ್ವಾತಂತ್ರ್ಯ ಪಡೆಯುವುದಕ್ಕಾಗಿ ನಡೆಸಿದ ಚಳವಳಿ"
+    en: the principle Gandhi found in life and the movement for freedom against the British
+    hi: "ಸತ್ಯಾಗ್ರಹ"
+- id: lemma-sabarmati
+  lemma: "ಸಬರಮತಿ ಆಶ್ರಮ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-sabarmati
+  transliteration: "sabaramati āśrama"
+  glosses:
+    kn: "ಗಾಂಧೀಜಿ ಸ್ಥಾಪಿಸಿದ ಪ್ರಪಂಚಪ್ರಸಿದ್ಧ ಆಶ್ರಮ"
+    en: the world-famous ashram founded by Gandhiji
+    hi: "ಸಬರಮತಿ ಆಶ್ರಮ"
+- id: lemma-dandi
+  lemma: "ದಂಡಿ ಸತ್ಯಾಗ್ರಹ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch04-mailara-mahadeva
+    segmentId: note-dandi
+  transliteration: "daṃḍi satyāgraha"
+  glosses:
+    kn: "1930ರ ಮಾರ್ಚ್ 12ರಂದು ಗಾಂಧಿಯವರು ತಮ್ಮ ಸುಪ್ರಸಿದ್ಧ ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹವನ್ನಾರಂಭಿಸಿದರು"
+    en: On 12 March 1930 Gandhi began his famous salt satyagraha
+    hi: "12 मार्च 1930 को गांधीजी ने नमक सत्याग्रह आरंभ किया"
 - id: lemma-odal
   lemma: "ಒಡಲ್"
   sourceRefs:
@@ -5035,6 +6797,30 @@ lemmas:
     kn: "ತೆಗೆದುಕೊಂಡುಹೋಗು"
     en: take away
     hi: "ಕೊಂಡ್ಹೋಗು"
+- id: lemma-janapada
+  lemma: "ಜಾನಪದ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-bhagyada-balegara
+    segmentId: note-janapada
+  transliteration: "jānapada"
+  glosses:
+    kn: "ಜನಪದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅಧ್ಯಯನ"
+    en: study related to the folk
+    hi: "जनपद से संबंधित अध्ययन"
+- id: lemma-janapada-samanya
+  lemma: "ಜನಪದ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g7-fl-p1
+    editionId: 2026-27
+    chapterId: ch07-bhagyada-balegara
+    segmentId: note-janapada-samanya
+  transliteration: janapada
+  glosses:
+    kn: "ಜನ ಸಾಮಾನ್ಯರಿಗೆ ಸಂಬಂಧಿಸಿದ್ದು"
+    en: that which relates to common people
+    hi: "जन सामान्य से संबंधित"
 - id: lemma-harida
   lemma: "ಹರಿದ"
   sourceRefs:
@@ -5347,6 +7133,37 @@ lemmas:
   transliteration: hasanmukhi
   glosses:
     kn: "ನಗುಮುಖ ಉಳ್ಳವನು."
+- id: lemma-v8d64e42c
+  lemma: "ಸಾಹೇಬ್ ಬಹಾದ್ದೂರ್"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-maggada-saheba
+    segmentId: note-v8d64e42c
+  transliteration: "sāheb bahāddūr"
+  glosses:
+    kn: "ಮೊಗಲ್ ರಾಜರ ಆಳ್ವಿಕೆಯ ಸಂದರ್ಭದಲ್ಲಿ ಸಮಾಜದ ಗಣ್ಯ ವ್ಯಕ್ತಿಗಳಿಗೆ ಕೊಡುತ್ತಿದ್ದ ಗೌರವ ಪೂರ್ವಕ ಬಿರುದು."
+- id: lemma-v78a98558
+  lemma: "ಉರುಸ್"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-maggada-saheba
+    segmentId: note-v78a98558
+  transliteration: urus
+  glosses:
+    kn: "ಮಹಮದೀಯ ಸಾಧುಗಳ ಪುಣ್ಯತಿಥಿ ಮತ್ತು ಅಂದು ನಡೆಸುವ ಜಾತ್ರೆ."
+- id: lemma-veb7c9a2a
+  lemma: "ಪದ್ಮಭೂಷಣ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: 2026-27
+    chapterId: ch01-maggada-saheba
+    segmentId: note-veb7c9a2a
+  transliteration: "padmabhūṣaṇa"
+  glosses:
+    kn: "ಕಲೆ, ವಿಜ್ಞಾನ, ಸಮಾಜಸೇವೆ, ಕ್ರೀಡೆ ಮುಂತಾದ ಯಾವುದಾದರೂ ಕ್ಷೇತ್ರದಲ್ಲಿ ವಿಶೇಷ ಸಾಧನೆಯನ್ನು ಮಾಡಿದ ಸಾಧಕರಿಗೆ ಭಾರತ ಸರ್ಕಾರ ನೀಡುವ ಮೌಲಿಕ\
+      \ ಪ್ರಶಸ್ತಿ."
 - id: lemma-vf902b3f9
   lemma: "ಇಳೆ"
   sourceRefs:
@@ -5981,6 +7798,26 @@ lemmas:
   transliteration: surabhi
   glosses:
     kn: "ಸುಗಂಧ, ಸುವಾಸನೆ"
+- id: lemma-khaga
+  lemma: "ಖಗ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-kannadigara-taayi
+    segmentId: note-khaga
+  transliteration: khaga
+  glosses:
+    kn: "ಖ - ಆಕಾಶ; ಗ - ಗಮಿಸುವುದು; ಆಕಾಶದಲ್ಲಿ ಸಂಚರಿಸುವುದು - ಪಕ್ಷಿ"
+- id: lemma-khagamrugoragaali
+  lemma: "ಖಗಮೃಗೋರಗಾಳಿ"
+  sourceRefs:
+  - bookId: ktbs-savi-kannada-g8-fl-p1
+    editionId: 2026-27
+    chapterId: ch05-kannadigara-taayi
+    segmentId: note-khagamrugoragaali
+  transliteration: "khagamṛgoragāḻi"
+  glosses:
+    kn: "ಖಗ - ಪಕ್ಷಿ; ಮೃಗ - ಪ್ರಾಣಿ; ಉರಗ - ಹಾವು; ಆಳಿ - ಸಮೂಹ; ಪ್ರಾಣಿ, ಪಕ್ಷಿ, ಹಾವುಗಳ ಸಮೂಹ"
 - id: lemma-hima
   lemma: "ಹಿಮ"
   sourceRefs:
