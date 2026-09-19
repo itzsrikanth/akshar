@@ -11,6 +11,10 @@
     {
       "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch03-veeramate-jijabayi",
       "reason": "Editorial YAML for Grade 4 Chapter 3 under the same Git-only edition exception as Chapters 1–2. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch04-male",
+      "reason": "Editorial YAML for Grade 4 Chapter 4 under the same Git-only edition exception. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
     }
   ]
 }

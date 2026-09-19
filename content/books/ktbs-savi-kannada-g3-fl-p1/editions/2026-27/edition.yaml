@@ -12,10 +12,10 @@ provenance:
     sha256: bbb0b521d1ce16b21f94f7eec99e17441d739bdd523a7ada2ed5fec373faaefe
     url: https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/3rd%20%20STD/LANGUAGE%20TEXTBOOKS/3rd%20%20KANNADA%20FL%20%20Part%201%202026-27.pdf
   notes: Printed Grade 3 first-language book. Grade 5 second-language use is recorded as a separate adoption,
-    not a second edition. Three Grade 4 editorial drafts are temporarily colocated under this edition
-    as held chapters until their own book identity is verified; they stay out of production API. Source
-    YAML relocated from legacy KSEEB board paths into this edition's chapters/ folder; formerPath on each
-    chapter records the pre-move directory for rollback evidence.
+    not a second edition. Four Grade 4 editorial drafts are temporarily colocated under this edition as
+    held chapters until their own book identity is verified; they stay out of production API. Source YAML
+    relocated from legacy KSEEB board paths into this edition's chapters/ folder; formerPath on each chapter
+    records the pre-move directory for rollback evidence.
 chapters:
 - id: ch01-bannada-tagadina
   number: 1
@@ -74,4 +74,10 @@ chapters:
   title: ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ
   legacyPath: content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch03-veeramate-jijabayi
   formerPath: KSEEB/Karnataka/Kannada/Grade4/Kannada/ch03-veeramate-jijabayi
+  held: true
+- id: ch04-male
+  number: 12
+  title: ಮಳೆ
+  legacyPath: content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch04-male
+  formerPath: KSEEB/Karnataka/Kannada/Grade4/Kannada/ch04-male
   held: true

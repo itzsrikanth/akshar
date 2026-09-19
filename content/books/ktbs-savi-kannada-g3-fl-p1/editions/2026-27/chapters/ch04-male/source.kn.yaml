@@ -1,0 +1,435 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 4
+  subject: Kannada
+  chapter: 4
+  slug: ch04-male
+  title: ಮಳೆ
+  source_url: https://diksha.gov.in/dial/B5V6X7
+  original_publisher: Karnataka Textbook Society
+  author: ಪಳಕಳ ಸೀತಾರಾಮ ಭಟ್ಟ
+labels:
+  title: ಮಳೆ
+  intro: ಕಲಿಕೆಗೆ ದಾರಿ
+  poem: ಪದ್ಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದುದನ್ನು ಆಯ್ದು ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಪದ್ಯದಲ್ಲಿ ಬಿಟ್ಟಿರುವ ಸಾಲುಗಳನ್ನು ಬರೆಯಿರಿ.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಗುರುತಿಸಿ ಬರೆಯಿರಿ.
+  exercise-E: ಅಭ್ಯಾಸ ಉ — ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.
+  exercise-F: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಅಕ್ಷರ ಬಳಸಿ ಪದ ರಚಿಸು, ತಿರುಗಿಸಿ ಓದಿ ಆನಂದಿಸಿ.
+  exercise-G: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಸೂಚನೆಗಳನ್ನು ಅರ್ಥೈಸಿಕೊಂಡು ಪದಬಂಧ ಪೂರ್ಣಗೊಳಿಸಿ.
+  exercise-H: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ — ಮಾದರಿಯಂತೆ ಪ್ರಾಸ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.
+  exercise-I: ಭಾಷಾ ಚಟುವಟಿಕೆ ಈ — ಮಾದರಿಯಂತೆ ಜೋಡುನುಡಿಗಳನ್ನು ಬರೆಯಿರಿ.
+  exercise-J: ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ
+  exercise-K: ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ — ಯೋಚಿಸಿ ಬರೆಯಿರಿ.
+  competency: ಜಾಣ ಮರಿ — ಸಾಮರ್ಥ್ಯ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಕಾಮನಬಿಲ್ಲು ಎಲ್ಲಿ? ಯಾವಾಗ? ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ಎಂದು ಶಿಕ್ಷಕರ ಮಾರ್ಗದರ್ಶನದಲ್ಲಿ ತರಗತಿಯಲ್ಲಿ ಚರ್ಚಿಸಿ.
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಬಿಸಿಲ ಝಳಕೆ ಕಡಲ ನೀರು
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಆವಿಯಾಯಿತು |
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಆವಿಯಾಗಿ ನೆಲದ ಕಡೆಗೆ
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಬೀಸಿ ಬಂದಿತು॥
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನೆಲದ ಮೇಲೆ ಗುಡ್ಡಬೆಟ್ಟ
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಅಡ್ಡವಾಯಿತು |
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ತಡೆದು ನಿಂತ ಮೋಡವೆಲ್ಲ
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಮೇಲಕೇರಿತು॥
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಘಳಿಗೆಯೊಳಗೆ ಬಾನು ತುಂಬ
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಮೋಡ ಕವಿಯಿತು |
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಮಿಂಚು ಮಿಂಚಿ ಜಗವು ಬೆಳಗಿ
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಗುಡುಗು ಗುಡುಗಿತು॥
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಮೋಡ ಮೇಲಕೇರಿದಾಗ
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ತಂಪು ತಗುಲಿತು |
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಆವಿ ತಣಿದು ಭಾರವಾಗಿ
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಕುಸಿಯತೊಡಗಿತು॥
+- id: poem-s5l1
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಮುತ್ತಿನಂಥ ಮಳೆಯ ನೀರು
+- id: poem-s5l2
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಕೆಳಗೆ ಸುರಿಯಿತು |
+- id: poem-s5l3
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಕೆರೆಯು ತೊರೆಯು ಹಳ್ಳ ಹೊಳೆಯು
+- id: poem-s5l4
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ತುಂಬಿ ಹರಿಯಿತು॥
+- id: intro-2
+  type: prose
+  section: intro
+  text: ಅಂತರ್ಜಲ ಸಂರಕ್ಷಿಸು - ಜೀವಕುಲ ಉಳಿಸು
+- id: vocab-kadalu
+  type: vocabulary_term
+  text: ಕಡಲು
+- id: vocab-kadalu-def
+  type: vocabulary_definition
+  ref: vocab-kadalu
+  text: ಸಮುದ್ರ
+- id: vocab-adda
+  type: vocabulary_term
+  text: ಅಡ್ಡ
+- id: vocab-adda-def
+  type: vocabulary_definition
+  ref: vocab-adda
+  text: ತಡೆ
+- id: vocab-belagu
+  type: vocabulary_term
+  text: ಬೆಳಗು
+- id: vocab-belagu-def
+  type: vocabulary_definition
+  ref: vocab-belagu
+  text: ಪ್ರಕಾಶಿಸು
+- id: vocab-kaviyitu
+  type: vocabulary_term
+  text: ಕವಿಯಿತು
+- id: vocab-kaviyitu-def
+  type: vocabulary_definition
+  ref: vocab-kaviyitu
+  text: ಆವರಿಸಿತು
+- id: vocab-nela
+  type: vocabulary_term
+  text: ನೆಲ
+- id: vocab-nela-def
+  type: vocabulary_definition
+  ref: vocab-nela
+  text: ಭೂಮಿ
+- id: vocab-jaga
+  type: vocabulary_term
+  text: ಜಗ
+- id: vocab-jaga-def
+  type: vocabulary_definition
+  ref: vocab-jaga
+  text: ಲೋಕ
+- id: vocab-suri
+  type: vocabulary_term
+  text: ಸುರಿ
+- id: vocab-suri-def
+  type: vocabulary_definition
+  ref: vocab-suri
+  text: ಕೆಳಕ್ಕೆ ಬೀಳು, ಧಾರೆಯಾಗಿ ಬೀಳು
+- id: vocab-tanidu
+  type: vocabulary_term
+  text: ತಣಿದು
+- id: vocab-tanidu-def
+  type: vocabulary_definition
+  ref: vocab-tanidu
+  text: ತಂಪಾಗಿ
+- id: note-minchu
+  type: note_term
+  text: ಮಿಂಚು
+- id: note-minchu-def
+  type: note_definition
+  ref: note-minchu
+  text: ಗುಡುಗಿಗಿಂತ ಮುಂಚೆ ಆಕಾಶದಲ್ಲಿ ಕಂಡುಬರುವ ಬೆಳಕಿನ ಬಳ್ಳಿ.
+- id: note-ghalige
+  type: note_term
+  text: ಘಳಿಗೆ
+- id: note-ghalige-def
+  type: note_definition
+  ref: note-ghalige
+  text: 24 ನಿಮಿಷಗಳ ಅವಧಿ.
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಬಿಸಿಲ ಝಳಕೆ ನೀರು ಏನಾಯಿತು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ಮಳೆ ಸುರಿದಿದ್ದರಿಂದ ಏನೇನು ತುಂಬಿ ಹರಿಯಿತು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ಮೋಡ ಯಾವಾಗ ಭಾರವಾಯಿತು?
+- id: ex-b-p1
+  type: prose
+  exercise: B
+  text: (ತಂಪು, ಮಳೆಯ, ಗುಡ್ಡಬೆಟ್ಟ, ಮೋಡ, ಗುಡುಗು)
+- id: ex-b-q1
+  type: fill_blank
+  exercise: B
+  text: ಮುತ್ತಿನಂಥ ________ ನೀರು ಕೆಳಗೆ ಸುರಿಯಿತು.
+- id: ex-b-q2
+  type: fill_blank
+  exercise: B
+  text: ನೆಲದ ಮೇಲೆ ________ ಅಡ್ಡವಾಯಿತು.
+- id: ex-b-q3
+  type: fill_blank
+  exercise: B
+  text: ಘಳಿಗೆಯೊಳಗೆ ಬಾನು ತುಂಬ ________ ಕವಿಯಿತು.
+- id: ex-b-q4
+  type: fill_blank
+  exercise: B
+  text: ಮೋಡ ಮೇಲಕೇರಿದಾಗ ________ ತಗುಲಿತು.
+- id: ex-c-q1
+  type: fill_blank
+  exercise: C
+  text: 'ನೆಲದ ಮೇಲೆ ಗುಡ್ಡ ಬೆಟ್ಟ
+
+    ________
+
+    ________ ಮೋಡವೆಲ್ಲ
+
+    ಮೇಲಕೇರಿತು.'
+- id: ex-d-q1
+  type: fill_blank
+  exercise: D
+  text: 'ಕೆರೆ, ಕಟ್ಟೆ, ಸಮುದ್ರ, ಸೂರ್ಯ : ________'
+- id: ex-d-q2
+  type: fill_blank
+  exercise: D
+  text: 'ಮಿಂಚು, ಭೂಮಿ, ಮಳೆ, ಗುಡುಗು : ________'
+- id: ex-d-q3
+  type: fill_blank
+  exercise: D
+  text: 'ಸರೋವರ, ಪರ್ವತ, ಬೆಟ್ಟ, ಗುಡ್ಡ : ________'
+- id: ex-d-q4
+  type: fill_blank
+  exercise: D
+  text: 'ನೊಗ, ಕುಂಟೆ, ನೇಗಿಲು, ಮಂಚ : ________'
+- id: ex-e-q1
+  type: fill_blank
+  exercise: E
+  text: 'ಕಾಡು : ________'
+- id: ex-e-q2
+  type: fill_blank
+  exercise: E
+  text: 'ಸೂರ್ಯ : ________'
+- id: ex-e-q3
+  type: fill_blank
+  exercise: E
+  text: 'ಭೂಮಿ : ________'
+- id: ex-f-p1
+  type: prose
+  exercise: F
+  text: 'ಮಾದರಿ : ವಿ ಕ ಕ ಟ ವಿ - ವಿಕಟ ಕವಿ'
+- id: ex-f-q1
+  type: fill_blank
+  exercise: F
+  text: ಕಕನ ; ________
+- id: ex-f-q2
+  type: fill_blank
+  exercise: F
+  text: ಮನನ; ________
+- id: ex-f-q3
+  type: fill_blank
+  exercise: F
+  text: ರಸುರಸುರ; ________
+- id: ex-f-q4
+  type: fill_blank
+  exercise: F
+  text: ಜೀವವನನ; ________
+- id: ex-f-q5
+  type: fill_blank
+  exercise: F
+  text: ದ್ರಾಮನಸಿಮಸಿದ್ರಾ; ________
+- id: ex-g-p1
+  type: prose
+  exercise: G
+  text: ಎಡದಿಂದ ಬಲಕ್ಕೆ
+- id: ex-g-q1
+  type: question
+  exercise: G
+  text: 24 ನಿಮಿಷಗಳನ್ನು ಹೀಗೆ ಹೇಳುತ್ತಾರೆ. (3 ಅಕ್ಷರ)
+- id: ex-g-q2
+  type: question
+  exercise: G
+  text: ಜೀವ ರಾಶಿ ನೆಲೆಸಿರುವ ಪ್ರಪಂಚ. (3 ಅಕ್ಷರ)
+- id: ex-g-q3
+  type: question
+  exercise: G
+  text: ಕೆರೆ ಜೊತೆಯಲ್ಲಿರುವ ಜೋಡಿ ಪದ. (2 ಅಕ್ಷರ)
+- id: ex-g-q4
+  type: question
+  exercise: G
+  text: ನಾವು ನಿಂತಿರುವ ಸ್ಥಳ. (2 ಅಕ್ಷರ)
+- id: ex-g-q6
+  type: question
+  exercise: G
+  text: ಬೇಸಿಗೆ ಕಾಲದ ಪ್ರಭಾವವಿದು. (3 ಅಕ್ಷರ)
+- id: ex-g-q7
+  type: question
+  exercise: G
+  text: ಮೋಡ ಕರಗಿ ಬೀಳುವುದು. (2 ಅಕ್ಷರ)
+- id: ex-g-q8
+  type: question
+  exercise: G
+  text: ಮೇಲೆ ನೋಡಿದಾಗ ಕಾಣುವುದು. (3 ಅಕ್ಷರ)
+- id: ex-g-q9
+  type: question
+  exercise: G
+  text: ಈ ಸಮಯ ಮುತ್ತಿನಂಥದು. (2 ಅಕ್ಷರ)
+- id: ex-g-p2
+  type: prose
+  exercise: G
+  text: ಮೇಲಿನಿಂದ ಕೆಳಕ್ಕೆ
+- id: ex-g-d1
+  type: question
+  exercise: G
+  text: ಗಟ್ಟಿಯಾದ ಪದಾರ್ಥ ಇದು (2 ಅಕ್ಷರ)
+- id: ex-g-d2
+  type: question
+  exercise: G
+  text: ನೀರಿಗೆ ಮತ್ತೊಂದು ಹೆಸರು. (2 ಅಕ್ಷರ)
+- id: ex-g-d3
+  type: question
+  exercise: G
+  text: ಇದರೊಳಗಿರುವುದು ಉಪ್ಪಿನ ನೀರು. (3 ಅಕ್ಷರ)
+- id: ex-g-d5
+  type: question
+  exercise: G
+  text: ಭೂಮಿಗೆ ಇರುವ ಇನ್ನೊಂದು ಹೆಸರು. (2 ಅಕ್ಷರ)
+- id: ex-g-d6
+  type: question
+  exercise: G
+  text: ಮಲ್ಲಿಗೆಯ ಬಣ್ಣ. (2 ಅಕ್ಷರ)
+- id: ex-g-d7
+  type: question
+  exercise: G
+  text: ವಾಸ ಮಾಡಲು ಇದು ಬೇಕು. (2 ಅಕ್ಷರ)
+- id: ex-g-d8
+  type: question
+  exercise: G
+  text: ಕಪ್ಪೆ ಚಿಪ್ಪಿನಲ್ಲಿರುವುದು. (2 ಅಕ್ಷರ)
+- id: ex-h-p1
+  type: prose
+  exercise: H
+  text: 'ಮಾದರಿ : ಸುರಿಯಿತು - ಹರಿಯಿತು'
+- id: ex-h-q1
+  type: fill_blank
+  exercise: H
+  text: ತಗುಲಿತು ________
+- id: ex-h-q2
+  type: fill_blank
+  exercise: H
+  text: ಕವಿಯಿತು ________
+- id: ex-h-q3
+  type: fill_blank
+  exercise: H
+  text: ಅಡ್ಡವಾಯಿತು ________
+- id: ex-i-p1
+  type: prose
+  exercise: I
+  text: 'ಮಾದರಿ : ಬೆಟ್ಟ - ಬೆಟ್ಟಗುಡ್ಡ'
+- id: ex-i-q1
+  type: fill_blank
+  exercise: I
+  text: ಕೆರೆ ________
+- id: ex-i-q2
+  type: fill_blank
+  exercise: I
+  text: ಗುಡುಗು ________
+- id: ex-i-q3
+  type: fill_blank
+  exercise: I
+  text: ಕಸ ________
+- id: ex-i-q4
+  type: fill_blank
+  exercise: I
+  text: ಮುತ್ತು ________
+- id: ex-j-p1
+  type: prose
+  exercise: J
+  text: (ಕವಿಯಿತು, ಮಳೆ, ಇಳೆಗೆ, ಹೊಳೆ, ಬೆಳೆಯು, ಮೋಡ, ಬೆಳೆಯಿತು, ಬಂದಿತು, ಇಳಿಯಿತು, ತುಂಬಿತು)
+- id: ex-j-q1
+  type: question
+  exercise: J
+  text: 'ಚಿತ್ರ ಗಮನಿಸು, ಕೊಟ್ಟಿರುವ ಪದ ಬಳಸಿ ಕವನ ರಚಿಸಿ:'
+- id: ex-k-q1
+  type: question
+  exercise: K
+  text: ಮಳೆ ಹೆಚ್ಚಾಗುವುದರಿಂದ ಆಗುವ ಪರಿಣಾಮಗಳಾವುವು?
+- id: ex-k-q2
+  type: question
+  exercise: K
+  text: ಯಾವ ಕಾಲದಲ್ಲಿ ಮರಗಿಡಗಳು ಚಿಗುರುತ್ತವೆ?
+- id: ex-k-q3
+  type: question
+  exercise: K
+  text: ಮಳೆ ಬರುವ ಮುನ್ನ ಆಕಾಶದಲ್ಲಿ ಉಂಟಾಗುವ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಿ ಬರೆ.
+- id: ex-k-q4
+  type: question
+  exercise: K
+  text: ಮಳೆಯೇ ಬರದಿದ್ದರೆ ಏನಾಗುತ್ತಿತ್ತು? ಯೋಚಿಸಿ ಬರೆಯಿರಿ.
+- id: competency
+  type: competency
+  text: ನೀನೀಗ ಪಠ್ಯವನ್ನು ಓದಿದ ಅನಂತರ ಅದರಲ್ಲಿನ ವಿಚಾರ ಸರಣಿ ಮತ್ತು ಘಟನಾವಳಿಗಳಿಗೆ ಇರುವ ಸರಳ ಕಾರ್ಯ ಕಾರಣ ಸಂಬಂಧಗಳನ್ನು ಗುರುತಿಸಿ ಹೇಳಬಲ್ಲೆಯಲ್ಲವೆ?

@@ -1,0 +1,126 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  source: source.kn.yaml
+  script: latin
+  contributor: itzsrikanth
+labels:
+  title: Male
+  intro: Kalikege Daari
+  poem: Padya
+  vocab: Padagala Artha
+  notes: Tippani
+  exercise-A: Abhyaasa A — Ondondu vaakyadalli uttara bareyiri.
+  exercise-B: Abhyaasa Aa — Kottiruva padagalalli sariyaadudannu aaydu bitti sthaladalli bareyiri.
+  exercise-C: Abhyaasa I — Padyadalli bittiruva saalugalannu bareyiri.
+  exercise-D: Abhyaasa Ee — Gumpige serada pada gurutisi bareyiri.
+  exercise-E: Abhyaasa U — Kottiruva padagalige samaanaarthaka padagalannu bareyiri.
+  exercise-F: Bhaashaa Chatuvatike A — Akshara balasi pada rachisu, tirugisi oodi aanandisi.
+  exercise-G: Bhaashaa Chatuvatike Aa — Soochanegalannu arthaishikondu padabandha poornagolisi.
+  exercise-H: Bhaashaa Chatuvatike I — Maadariyante praasa padagalannu bareyiri.
+  exercise-I: Bhaashaa Chatuvatike Ee — Maadariyante joodunudigalannu bareyiri.
+  exercise-J: Balake Chatuvatike A
+  exercise-K: Balake Chatuvatike Aa — Yochisi bareyiri.
+  competency: Jaana Mari — Saamarthya
+intro-1: Kaamanabillu elli? yaavaaga? hege kaanisuttade endu shikshakara maargadarshanadalli taragatiyalli charchisi.
+poem-s1l1: Bisila jhalake kadala neeru
+poem-s1l2: Aaviyaayitu |
+poem-s1l3: Aaviyaagi nelada kadege
+poem-s1l4: Beesi banditu॥
+poem-s2l1: Nelada mele guddabetta
+poem-s2l2: Addavaayitu |
+poem-s2l3: Tadedu ninta modavella
+poem-s2l4: Melakeritu॥
+poem-s3l1: Ghaligeyolage baanu tunba
+poem-s3l2: Moda kaviyitu |
+poem-s3l3: Minchu minchi jagavu belagi
+poem-s3l4: Gudugu gudugitu॥
+poem-s4l1: Moda melakeridaaga
+poem-s4l2: Tanpu tagulitu |
+poem-s4l3: Aavi tanidu bhaaravaagi
+poem-s4l4: Kusiyatodagitu॥
+poem-s5l1: Muttinantha maleya neeru
+poem-s5l2: Kelage suriyitu |
+poem-s5l3: Kereyu toreyu halla holeyu
+poem-s5l4: Tunbi hariyitu॥
+intro-2: Antarjala sanrakshisu - jeevakula ulisu
+vocab-kadalu: Kadalu
+vocab-kadalu-def: Samudra
+vocab-adda: Adda
+vocab-adda-def: Tade
+vocab-belagu: Belagu
+vocab-belagu-def: Prakaashisu
+vocab-kaviyitu: Kaviyitu
+vocab-kaviyitu-def: Aavarisitu
+vocab-nela: Nela
+vocab-nela-def: Bhoomi
+vocab-jaga: Jaga
+vocab-jaga-def: Loka
+vocab-suri: Suri
+vocab-suri-def: Kelakke beelu, dhaareyaagi beelu
+vocab-tanidu: Tanidu
+vocab-tanidu-def: Tanpaagi
+note-minchu: Minchu
+note-minchu-def: Gudugiginta munche aakaashadalli kandubaruva belakina balli.
+note-ghalige: Ghalige
+note-ghalige-def: 24 Nimishagala avadhi.
+ex-a-q1: Bisila jhalake neeru enaayitu?
+ex-a-q2: Male surididdarinda enenu tunbi hariyitu?
+ex-a-q3: Moda yaavaaga bhaaravaayitu?
+ex-b-p1: (Tanpu, maleya, guddabetta, moda, gudugu)
+ex-b-q1: Muttinantha ________ neeru kelage suriyitu.
+ex-b-q2: Nelada mele ________ addavaayitu.
+ex-b-q3: Ghaligeyolage baanu tunba ________ kaviyitu.
+ex-b-q4: Moda melakeridaaga ________ tagulitu.
+ex-c-q1: 'Nelada mele gudda betta
+
+  ________
+
+  ________ modavella
+
+  melakeritu.'
+ex-d-q1: 'Kere, katte, samudra, soorya : ________'
+ex-d-q2: 'Minchu, bhoomi, male, gudugu : ________'
+ex-d-q3: 'Sarovara, parvata, betta, gudda : ________'
+ex-d-q4: 'Noga, kunte, negilu, mancha : ________'
+ex-e-q1: 'Kaadu : ________'
+ex-e-q2: 'Soorya : ________'
+ex-e-q3: 'Bhoomi : ________'
+ex-f-p1: 'Maadari : vi ka ka ta vi - vikata kavi'
+ex-f-q1: Kakana ; ________
+ex-f-q2: Manana; ________
+ex-f-q3: Rasurasura; ________
+ex-f-q4: Jeevavanana; ________
+ex-f-q5: Draamanasimasidraa; ________
+ex-g-p1: Edadinda balakke
+ex-g-q1: 24 Nimishagalannu heege heluttaare. (3 akshara)
+ex-g-q2: Jeeva raashi nelesiruva prapancha. (3 akshara)
+ex-g-q3: Kere joteyalliruva jodi pada. (2 akshara)
+ex-g-q4: Naavu nintiruva sthala. (2 akshara)
+ex-g-q6: Besige kaalada prabhaavavidu. (3 akshara)
+ex-g-q7: Moda karagi beeluvudu. (2 akshara)
+ex-g-q8: Mele nodidaaga kaanuvudu. (3 akshara)
+ex-g-q9: Ee samaya muttinanthadu. (2 akshara)
+ex-g-p2: Melininda kelakke
+ex-g-d1: Gattiyaada padaartha idu (2 akshara)
+ex-g-d2: Neerige mattondu hesaru. (2 akshara)
+ex-g-d3: Idarolagiruvudu uppina neeru. (3 akshara)
+ex-g-d5: Bhoomige iruva innondu hesaru. (2 akshara)
+ex-g-d6: Malligeya banna. (2 akshara)
+ex-g-d7: Vaasa maadalu idu beku. (2 akshara)
+ex-g-d8: Kappe chippinalliruvudu. (2 akshara)
+ex-h-p1: 'Maadari : suriyitu - hariyitu'
+ex-h-q1: Tagulitu ________
+ex-h-q2: Kaviyitu ________
+ex-h-q3: Addavaayitu ________
+ex-i-p1: 'Maadari : betta - bettagudda'
+ex-i-q1: Kere ________
+ex-i-q2: Gudugu ________
+ex-i-q3: Kasa ________
+ex-i-q4: Muttu ________
+ex-j-p1: (Kaviyitu, male, ilege, hole, beleyu, moda, beleyitu, banditu, iliyitu, tunbitu)
+ex-j-q1: 'Chitra gamanisu, kottiruva pada balasi kavana rachisi:'
+ex-k-q1: Male hechchaaguvudarinda aaguva parinaamagalaavuvu?
+ex-k-q2: Yaava kaaladalli maragidagalu chiguruttave?
+ex-k-q3: Male baruva munna aakaashadalli untaaguva badalaavanegalannu gamanisi bare.
+ex-k-q4: Maleye baradiddare enaaguttittu? yochisi bareyiri.
+competency: Neeneega pathyavannu odida anantara adarallina vichaara sarani mattu ghatanaavaligalige iruva sarala kaarya kaarana sanbandhagalannu gurutisi helaballeyallave?
