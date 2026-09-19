@@ -548,3 +548,1629 @@ forms:
   lemmaIds:
   - lemma-shenga
   status: exact
+- form: "ಕಂಟಕ"
+  lemmaIds:
+  - lemma-kantaka
+  status: exact
+- form: "ಜಗಳ"
+  lemmaIds:
+  - lemma-jagala
+  status: exact
+- form: "ಜಂಬ"
+  lemmaIds:
+  - lemma-jamba
+  status: exact
+- form: "ನೇಗಿಲು"
+  lemmaIds:
+  - lemma-negilu
+  status: exact
+- form: "ರೈತ"
+  lemmaIds:
+  - lemma-raitha
+  status: exact
+- form: "ವಿಭೂತಿ"
+  lemmaIds:
+  - lemma-vibhuthi
+  status: exact
+- form: "ಹಿಕ್ಕೆ"
+  lemmaIds:
+  - lemma-hikke
+  status: exact
+- form: "ಅಳಲು"
+  lemmaIds:
+  - lemma-alal
+  status: exact
+- form: "ಅನಾಹುತ"
+  lemmaIds:
+  - lemma-anahutha
+  status: exact
+- form: "ಕಲುಷಿತ"
+  lemmaIds:
+  - lemma-kalushita
+  status: exact
+- form: "ಜಲಚರ"
+  lemmaIds:
+  - lemma-jalachara
+  status: exact
+- form: "ತವಕ"
+  lemmaIds:
+  - lemma-tavaka
+  status: exact
+- form: "ದುಸ್ಥಿತಿ"
+  lemmaIds:
+  - lemma-dusthiti
+  status: exact
+- form: "ನಿರ್ಭಯ"
+  lemmaIds:
+  - lemma-nirbhaya
+  status: exact
+- form: "ಮೂರ್ಛೆ"
+  lemmaIds:
+  - lemma-murche
+  status: exact
+- form: "ರಾಸಾಯನಿಕ"
+  lemmaIds:
+  - lemma-rasayanika
+  status: exact
+- form: "ಸಂಚಕಾರ"
+  lemmaIds:
+  - lemma-sanchakara
+  status: exact
+- form: "ಸಹಪಾಠಿ"
+  lemmaIds:
+  - lemma-sahapathi
+  status: exact
+- form: "ಸೋಂಕು"
+  lemmaIds:
+  - lemma-sonku
+  status: exact
+- form: "ಅಧಿಪತಿ"
+  lemmaIds:
+  - lemma-adhipathi
+  status: exact
+- form: "ಅಮೂಲ್ಯ"
+  lemmaIds:
+  - lemma-amulya
+  status: exact
+- form: "ಕಲ್ಮಷ"
+  lemmaIds:
+  - lemma-kalmasha
+  status: exact
+- form: "ಕ್ಷೇಮ"
+  lemmaIds:
+  - lemma-ksema
+  status: exact
+- form: "ದಯೆ"
+  lemmaIds:
+  - lemma-daye
+  status: exact
+- form: "ಮೂಕ"
+  lemmaIds:
+  - lemma-muka
+  status: exact
+- form: "ಅಂಗವೈಕಲ್ಯ"
+  lemmaIds:
+  - lemma-angavaikalya
+  status: exact
+- form: "ಅನನ್ಯತೆ"
+  lemmaIds:
+  - lemma-ananyate
+  status: exact
+- form: "ಅವಿವೇಕ"
+  lemmaIds:
+  - lemma-aviveka
+  status: exact
+- form: "ಉಪಚಾರ"
+  lemmaIds:
+  - lemma-upachara
+  status: exact
+- form: "ಛಲ"
+  lemmaIds:
+  - lemma-chala
+  status: exact
+- form: "ತಪಾಸಣೆ"
+  lemmaIds:
+  - lemma-tapasane
+  status: exact
+- form: "ದಾರಿದ್ರ್ಯ"
+  lemmaIds:
+  - lemma-daridrya
+  status: exact
+- form: "ನ್ಯೂನತೆ"
+  lemmaIds:
+  - lemma-nyunate
+  status: exact
+- form: "ಪ್ರತಿಭಟ"
+  lemmaIds:
+  - lemma-pratibhata
+  status: exact
+- form: "ಪ್ರಸವ"
+  lemmaIds:
+  - lemma-prasava
+  status: exact
+- form: "ಮೌಲ್ಯ"
+  lemmaIds:
+  - lemma-moulya
+  status: exact
+- form: "ರಸದೌತಣ"
+  lemmaIds:
+  - lemma-rasadoutana
+  status: exact
+- form: "ವಲಸೆ"
+  lemmaIds:
+  - lemma-valase
+  status: exact
+- form: "ವ್ಯಾಸಂಗ"
+  lemmaIds:
+  - lemma-vyasanga
+  status: exact
+- form: "ಹತಭಾಗ್ಯ"
+  lemmaIds:
+  - lemma-hatabhagya
+  status: exact
+- form: "ಅರಳು"
+  lemmaIds:
+  - lemma-aralu
+  status: exact
+- form: "ಕಂಪು"
+  lemmaIds:
+  - lemma-kampu
+  status: exact
+- form: "ಕೊಂಪೆ"
+  lemmaIds:
+  - lemma-kompe
+  status: exact
+- form: "ಚೇತನ"
+  lemmaIds:
+  - lemma-chetana
+  - lemma-v3803d9fa
+  status: ambiguous
+- form: "ದಿವ್ಯ"
+  lemmaIds:
+  - lemma-divya
+  status: exact
+- form: "ಬೊಡ್ಡೆ"
+  lemmaIds:
+  - lemma-bodde
+  status: exact
+- form: "ವರ್ಣ"
+  lemmaIds:
+  - lemma-varna
+  status: exact
+- form: "ಅರಿವೆ"
+  lemmaIds:
+  - lemma-arive
+  status: exact
+- form: "ಕಸಿ"
+  lemmaIds:
+  - lemma-kasi
+  status: exact
+- form: "ಕುಂದು"
+  lemmaIds:
+  - lemma-kundu
+  status: exact
+- form: "ಘನತೆ"
+  lemmaIds:
+  - lemma-ghanate
+  status: exact
+- form: "ತೈಲ"
+  lemmaIds:
+  - lemma-taila
+  status: exact
+- form: "ದವನ"
+  lemmaIds:
+  - lemma-davana
+  status: exact
+- form: "ಪಾಯ"
+  lemmaIds:
+  - lemma-paya
+  status: exact
+- form: "ಮುಕ್ತಿ"
+  lemmaIds:
+  - lemma-mukti
+  status: exact
+- form: "ಮುಡಿ"
+  lemmaIds:
+  - lemma-mudi
+  status: exact
+- form: "ಮೇವು"
+  lemmaIds:
+  - lemma-mevu
+  status: exact
+- form: "ಹಣತೆ"
+  lemmaIds:
+  - lemma-hanate
+  status: exact
+- form: "ಅಂತರಂಗ"
+  lemmaIds:
+  - lemma-antaranga
+  status: exact
+- form: "ಅಂಜಿದರೆ"
+  lemmaIds:
+  - lemma-anjidare
+  status: exact
+- form: "ಅಜಾತ"
+  lemmaIds:
+  - lemma-ajata
+  status: exact
+- form: "ಕಿಂಕರ"
+  lemmaIds:
+  - lemma-kinkara
+  status: exact
+- form: "ದೀಪ್ತಿ"
+  lemmaIds:
+  - lemma-dipti
+  status: exact
+- form: "ನಿಂದೆ"
+  lemmaIds:
+  - lemma-ninda
+  status: exact
+- form: "ನುಚ್ಚು"
+  lemmaIds:
+  - lemma-nuchu
+  status: exact
+- form: "ಬಹಿರಂಗ"
+  lemmaIds:
+  - lemma-bahiranga
+  status: exact
+- form: "ಮುನಿ"
+  lemmaIds:
+  - lemma-muni
+  status: exact
+- form: "ಮೃಗ"
+  lemmaIds:
+  - lemma-mriga
+  status: exact
+- form: "ರೋಷ"
+  lemmaIds:
+  - lemma-rosha
+  status: exact
+- form: "ಶಲಾಕೆ"
+  lemmaIds:
+  - lemma-shalake
+  status: exact
+- form: "ಸ್ಫಟಿಕ"
+  lemmaIds:
+  - lemma-sphatika
+  status: exact
+- form: "ಸ್ತುತಿ"
+  lemmaIds:
+  - lemma-stuti
+  status: exact
+- form: "ಹಳಿ"
+  lemmaIds:
+  - lemma-hali
+  status: exact
+- form: "ಹುಸಿ"
+  lemmaIds:
+  - lemma-husi
+  status: exact
+- form: "ಅರಿವು"
+  lemmaIds:
+  - lemma-arivu
+  status: exact
+- form: "ಆಸರ"
+  lemmaIds:
+  - lemma-asara
+  status: exact
+- form: "ಕನ್ನ"
+  lemmaIds:
+  - lemma-kanna
+  status: exact
+- form: "ತುಳುಕಬೇಕು"
+  lemmaIds:
+  - lemma-tulukabeku
+  status: exact
+- form: "ನುಡಿ"
+  lemmaIds:
+  - lemma-nudi
+  status: exact
+- form: "ನೇಸರ"
+  lemmaIds:
+  - lemma-nesara
+  status: exact
+- form: "ಮೊಳಗಬೇಕು"
+  lemmaIds:
+  - lemma-molagabeku
+  status: exact
+- form: "ಸಿರಿನಾಡು"
+  lemmaIds:
+  - lemma-sirinadu
+  status: exact
+- form: "ರಾಷ್ಟ್ರಪತಿ"
+  lemmaIds:
+  - lemma-rashtrapathi
+  status: exact
+- form: "ಉನ್ನತ"
+  lemmaIds:
+  - lemma-unnata
+  status: exact
+- form: "ಹತ್ತಿಕ್ಕು"
+  lemmaIds:
+  - lemma-hattikku
+  status: exact
+- form: "ಚೆಲ್ಲಾಪಿಲ್ಲಿ"
+  lemmaIds:
+  - lemma-chellapilli
+  status: exact
+- form: "ಅನುಗುಣ"
+  lemmaIds:
+  - lemma-anuguna
+  status: exact
+- form: "ಆಕರ"
+  lemmaIds:
+  - lemma-akara
+  status: exact
+- form: "ಮನೋಭಾವ"
+  lemmaIds:
+  - lemma-manobhava
+  status: exact
+- form: "ದೌರ್ಬಲ್ಯ"
+  lemmaIds:
+  - lemma-daurbalya
+  status: exact
+- form: "ಭಂಗ"
+  lemmaIds:
+  - lemma-bhanga
+  status: exact
+- form: "ವರ್ತನೆ"
+  lemmaIds:
+  - lemma-vartane
+  status: exact
+- form: "ಆದೇಶ"
+  lemmaIds:
+  - lemma-adesha
+  status: exact
+- form: "ಸದೃಶ"
+  lemmaIds:
+  - lemma-sadrusha
+  status: exact
+- form: "ಸಂಯಮ"
+  lemmaIds:
+  - lemma-samyama
+  status: exact
+- form: "ಅಪರಾಧಿ"
+  lemmaIds:
+  - lemma-aparadhi
+  status: exact
+- form: "ಭಂಡಾರ"
+  lemmaIds:
+  - lemma-bhandara
+  status: exact
+- form: "ಜೋಪಾನ"
+  lemmaIds:
+  - lemma-jopana
+  status: exact
+- form: "ಪ್ರಗತಿ"
+  lemmaIds:
+  - lemma-pragati
+  status: exact
+- form: "ರೋಚಕ"
+  lemmaIds:
+  - lemma-rochaka
+  status: exact
+- form: "ಪ್ರವೇಶದ್ವಾರ"
+  lemmaIds:
+  - lemma-praveshadvara
+  status: exact
+- form: "ನೀಟಾಗಿ"
+  lemmaIds:
+  - lemma-neetagi
+  status: exact
+- form: "ಒಡ್ಡೋಲಗ"
+  lemmaIds:
+  - lemma-oddolaga
+  status: exact
+- form: "ರೋದನ"
+  lemmaIds:
+  - lemma-rodana
+  status: exact
+- form: "ಚುಂಬನ"
+  lemmaIds:
+  - lemma-chumbana
+  status: exact
+- form: "ಉದ್ಗರಿಸು"
+  lemmaIds:
+  - lemma-udgarisu
+  status: exact
+- form: "ಪರಿಸಮಾಪ್ತಿ"
+  lemmaIds:
+  - lemma-parisamapti
+  status: exact
+- form: "ಶೋಕ"
+  lemmaIds:
+  - lemma-shoka
+  status: exact
+- form: "ಗದ್ಗದ ಕಂಠ"
+  lemmaIds:
+  - lemma-gadgada-kantha
+  status: exact
+- form: "ಅಂತಃಪುರ"
+  lemmaIds:
+  - lemma-antahpura
+  status: exact
+- form: "ನಿಟ್ಟುಸಿರು"
+  lemmaIds:
+  - lemma-nittusiru
+  status: exact
+- form: "ತೀರಿಕೊಳ್ಳು"
+  lemmaIds:
+  - lemma-tirikollu
+  status: exact
+- form: "ಮಾರ್ನುಡಿ"
+  lemmaIds:
+  - lemma-marnudi
+  status: exact
+- form: "ಪತ್ತೆ"
+  lemmaIds:
+  - lemma-patte
+  status: exact
+- form: "ಬೊಬ್ಬಿಡು"
+  lemmaIds:
+  - lemma-bobbidu
+  status: exact
+- form: "ನಿಜಾಂಶ"
+  lemmaIds:
+  - lemma-nijamsha
+  status: exact
+- form: "ಪಕ್ಕೆಲುಬು"
+  lemmaIds:
+  - lemma-pakkelubu
+  status: exact
+- form: "ಗುಡಿಸಲು"
+  lemmaIds:
+  - lemma-gudisalu
+  status: exact
+- form: "ಶತಪತಿ"
+  lemmaIds:
+  - lemma-shatapati
+  status: exact
+- form: "ನಿರಾಸೆ"
+  lemmaIds:
+  - lemma-nirase
+  status: exact
+- form: "ಪಾಂಡಿತ್ಯ"
+  lemmaIds:
+  - lemma-panditya
+  status: exact
+- form: "ಸಂಕೋಚ"
+  lemmaIds:
+  - lemma-sankocha
+  status: exact
+- form: "ಅವಲಕ್ಕಿ"
+  lemmaIds:
+  - lemma-avalakki
+  status: exact
+- form: "ಸತ್ಕಾರ"
+  lemmaIds:
+  - lemma-satkara
+  status: exact
+- form: "ಇಂಗಿತ"
+  lemmaIds:
+  - lemma-ingita
+  status: exact
+- form: "ಕಾರ್ಪಣ್ಯ"
+  lemmaIds:
+  - lemma-karpanya
+  status: exact
+- form: "ಧನ್ಯ"
+  lemmaIds:
+  - lemma-dhanya
+  status: exact
+- form: "ಸೌಕರ್ಯ"
+  lemmaIds:
+  - lemma-saukaryya
+  status: exact
+- form: "ಜನಮಾನಸ"
+  lemmaIds:
+  - lemma-janamanasa
+  status: exact
+- form: "ನಾಡೋಜ"
+  lemmaIds:
+  - lemma-nadoja
+  status: exact
+- form: "ಉಜ್ವಲ"
+  lemmaIds:
+  - lemma-ujvala
+  status: exact
+- form: "ಸಜ್ಜನಿಕೆ"
+  lemmaIds:
+  - lemma-sajjanike
+  status: exact
+- form: "ಮೇರುವ್ಯಕ್ತಿತ್ವ"
+  lemmaIds:
+  - lemma-meru-vyaktitva
+  status: exact
+- form: "ವಿಕಾಸ"
+  lemmaIds:
+  - lemma-vikasa
+  status: exact
+- form: "ಹಿಗ್ಗಿಸು"
+  lemmaIds:
+  - lemma-higgisu
+  status: exact
+- form: "ರಂಗಭೂಮಿ"
+  lemmaIds:
+  - lemma-rangabhumi
+  status: exact
+- form: "ಅಕಾಲಿಕ"
+  lemmaIds:
+  - lemma-akalika
+  status: exact
+- form: "ಮಾಗು"
+  lemmaIds:
+  - lemma-magu
+  status: exact
+- form: "ಹೆಗಲೆಣೆ"
+  lemmaIds:
+  - lemma-hegalene
+  status: exact
+- form: "ಬೆಳ್ಳಿತೆರೆ"
+  lemmaIds:
+  - lemma-bellitere
+  status: exact
+- form: "ಮನೋಜ್ಞ"
+  lemmaIds:
+  - lemma-manojna
+  status: exact
+- form: "ಸಂಪನ್ನತೆ"
+  lemmaIds:
+  - lemma-sampannate
+  status: exact
+- form: "ಪ್ರತೀಕ"
+  lemmaIds:
+  - lemma-pratika
+  status: exact
+- form: "ತೊಡಕು"
+  lemmaIds:
+  - lemma-todaku
+  status: exact
+- form: "ಸಜಾ"
+  lemmaIds:
+  - lemma-saja
+  status: exact
+- form: "ಮಹಿಮೆ"
+  lemmaIds:
+  - lemma-mahime
+  status: exact
+- form: "ರವಿ"
+  lemmaIds:
+  - lemma-ravi
+  status: exact
+- form: "ತಾಪ"
+  lemmaIds:
+  - lemma-tapa
+  status: exact
+- form: "ಇಳೆ"
+  lemmaIds:
+  - lemma-ile
+  - lemma-vf902b3f9
+  status: ambiguous
+- form: "ಪೋಷಕ"
+  lemmaIds:
+  - lemma-poshaka
+  status: exact
+- form: "ಅನಿವಾರ್ಯ"
+  lemmaIds:
+  - lemma-anivarya
+  status: exact
+- form: "ಹೊಗಳು"
+  lemmaIds:
+  - lemma-hogalu
+  status: exact
+- form: "ತೆಗಳು"
+  lemmaIds:
+  - lemma-tegalu
+  status: exact
+- form: "ಮಿಡಿ"
+  lemmaIds:
+  - lemma-midi
+  status: exact
+- form: "ಊಡು"
+  lemmaIds:
+  - lemma-udu
+  status: exact
+- form: "ಕರ್ತವ್ಯ"
+  lemmaIds:
+  - lemma-kartavya
+  status: exact
+- form: "ಧನ್ಯತೆ"
+  lemmaIds:
+  - lemma-dhanyate
+  status: exact
+- form: "ಆಗಸ"
+  lemmaIds:
+  - lemma-agasa
+  status: exact
+- form: "ಇಷ್ಟ"
+  lemmaIds:
+  - lemma-ishta
+  status: exact
+- form: "ರೆಕ್ಕೆ"
+  lemmaIds:
+  - lemma-rekke
+  status: exact
+- form: "ಒಡಲು"
+  lemmaIds:
+  - lemma-odalu
+  status: exact
+- form: "ಸಾಗು"
+  lemmaIds:
+  - lemma-sagu
+  status: exact
+- form: "ಮಡಿಲು"
+  lemmaIds:
+  - lemma-madilu
+  status: exact
+- form: "ಧರೆ"
+  lemmaIds:
+  - lemma-dhare
+  status: exact
+- form: "ಹೆಬ್ಬಂಡೆ"
+  lemmaIds:
+  - lemma-hebbande
+  status: exact
+- form: "ಬರ"
+  lemmaIds:
+  - lemma-bara
+  status: exact
+- form: "ಅಳಿ"
+  lemmaIds:
+  - lemma-ali
+  status: exact
+- form: "ಗತಿ"
+  lemmaIds:
+  - lemma-gati
+  status: exact
+- form: "ಬಯಲು"
+  lemmaIds:
+  - lemma-bayalu
+  status: exact
+- form: "ಉಳಿಸು"
+  lemmaIds:
+  - lemma-ulisu
+  status: exact
+- form: "ನೆಡು"
+  lemmaIds:
+  - lemma-nedu
+  status: exact
+- form: "ಬರಡು"
+  lemmaIds:
+  - lemma-baradu
+  status: exact
+- form: "ಕೊತ್ತಿಗಳು"
+  lemmaIds:
+  - lemma-kottigalu
+  status: exact
+- form: "ಟಾರಾ"
+  lemmaIds:
+  - lemma-taara
+  status: exact
+- form: "ಗಿರವಿಯಂಗಡಿ"
+  lemmaIds:
+  - lemma-giraviyangadi
+  status: exact
+- form: "ಗುಜರಿ"
+  lemmaIds:
+  - lemma-gujari
+  status: exact
+- form: "ಪಕ್ವತನ"
+  lemmaIds:
+  - lemma-pakvatana
+  status: exact
+- form: "ಕೊಬ್ಬು"
+  lemmaIds:
+  - lemma-kobbu
+  status: exact
+- form: "ಕಮರು"
+  lemmaIds:
+  - lemma-kamaru
+  status: exact
+- form: "ಖನಿ"
+  lemmaIds:
+  - lemma-khani
+  status: exact
+- form: "ದಕ್ಕು"
+  lemmaIds:
+  - lemma-dakku
+  status: exact
+- form: "ಹಾಡ್ಗತೆ"
+  lemmaIds:
+  - lemma-hadgate
+  status: exact
+- form: "ತರಾವರಿ"
+  lemmaIds:
+  - lemma-taravari
+  status: exact
+- form: "ಭೀತಿ"
+  lemmaIds:
+  - lemma-bhiti
+  status: exact
+- form: "ಪ್ರಾಣಿಗಿಂಡಿ"
+  lemmaIds:
+  - lemma-pranigindi
+  status: exact
+- form: "ಅಂಗಳ"
+  lemmaIds:
+  - lemma-angala
+  status: exact
+- form: "ಸಾಂತ್ವನ"
+  lemmaIds:
+  - lemma-santvana
+  status: exact
+- form: "ಆಶ್ರಯ"
+  lemmaIds:
+  - lemma-ashraya
+  status: exact
+- form: "ಮದ್ದು"
+  lemmaIds:
+  - lemma-maddu
+  status: exact
+- form: "ಪಲಾಯನ ಪಠಿಸು"
+  lemmaIds:
+  - lemma-palayana
+  status: exact
+- form: "ಬಿಡೆ"
+  lemmaIds:
+  - lemma-bide
+  status: exact
+- form: "ಯಾವತ್ತಾರ"
+  lemmaIds:
+  - lemma-yavattara
+  status: exact
+- form: "ತೀವ್ರ"
+  lemmaIds:
+  - lemma-tivra
+  status: exact
+- form: "ಲಪ್ಪಟೆ"
+  lemmaIds:
+  - lemma-lappate
+  status: exact
+- form: "ಪಕ್ಕಾಗು"
+  lemmaIds:
+  - lemma-pakkagu
+  status: exact
+- form: "ಎಂತಾ ಮಗ"
+  lemmaIds:
+  - lemma-enta-maga
+  status: exact
+- form: "ಚಂದ"
+  lemmaIds:
+  - lemma-chanda
+  status: exact
+- form: "ಪಡಪೋಶಿ"
+  lemmaIds:
+  - lemma-padaposhi
+  status: exact
+- form: "ಕರ್ಸಿದಾರೆ"
+  lemmaIds:
+  - lemma-karsidare
+  status: exact
+- form: "ತಳಹದಿ"
+  lemmaIds:
+  - lemma-talahadi
+  status: exact
+- form: "ಸಂವಾದಿಸು"
+  lemmaIds:
+  - lemma-samvadisu
+  status: exact
+- form: "ಕಂಬಳಿಗೊಪ್ಪೆ"
+  lemmaIds:
+  - lemma-kambaligoppe
+  status: exact
+- form: "ತೆರವು"
+  lemmaIds:
+  - lemma-teravu
+  status: exact
+- form: "ನಾಟಿ"
+  lemmaIds:
+  - lemma-nati
+  status: exact
+- form: "ನೀರಾವು"
+  lemmaIds:
+  - lemma-niravu
+  status: exact
+- form: "ಹೋತು"
+  lemmaIds:
+  - lemma-hotu
+  status: exact
+- form: "ಕದ"
+  lemmaIds:
+  - lemma-kada
+  status: exact
+- form: "ಹೊಡೆ"
+  lemmaIds:
+  - lemma-hode
+  status: exact
+- form: "ತೆನೆ"
+  lemmaIds:
+  - lemma-tene
+  status: exact
+- form: "ಅಮೆರಿಂಡಿಯನ್ನರು"
+  lemmaIds:
+  - lemma-amerindian
+  status: exact
+- form: "ಧೂಳೀಪಟ"
+  lemmaIds:
+  - lemma-dhulipata
+  status: exact
+- form: "ಓಕ್"
+  lemmaIds:
+  - lemma-oak
+  status: exact
+- form: "ಗಾಲ್ಫ್"
+  lemmaIds:
+  - lemma-golf
+  status: exact
+- form: "ಗಾಲ್ಫ್ಕೋರ್ಸ್"
+  lemmaIds:
+  - lemma-golf-course
+  status: exact
+- form: "ಹಿನ್ನೀರ ಕೋವು"
+  lemmaIds:
+  - lemma-hinnira-kovu
+  status: exact
+- form: "ಸ್ಟೇಹೋಂ"
+  lemmaIds:
+  - lemma-stayhome
+  status: exact
+- form: "ಲಕ್ಸುರಿ"
+  lemmaIds:
+  - lemma-luxury
+  status: exact
+- form: "ಹೆಲಿ"
+  lemmaIds:
+  - lemma-heli
+  status: exact
+- form: "ಅತಿಕ್ರಮಣ"
+  lemmaIds:
+  - lemma-atikramana
+  status: exact
+- form: "ಪರ್ಯಾವರಣ"
+  lemmaIds:
+  - lemma-paryavarana
+  status: exact
+- form: "ತಟಸಸ್ಯಸಂಕುಲ"
+  lemmaIds:
+  - lemma-tatasasya
+  status: exact
+- form: "ಅಭಿಯಂತರ"
+  lemmaIds:
+  - lemma-abhiyantara
+  status: exact
+- form: "ರೇವನ್ ಮೈನಾ"
+  lemmaIds:
+  - lemma-raven-maina
+  status: exact
+- form: "ಕಾಪಿಟ್ಟುಕೊಂಡು"
+  lemmaIds:
+  - lemma-kapittu
+  status: exact
+- form: "ಪುರಾಭಿವೃದ್ಧಿ"
+  lemmaIds:
+  - lemma-purabhivriddhi
+  status: exact
+- form: "ಆಹುಟ"
+  lemmaIds:
+  - lemma-ahuta
+  status: exact
+- form: "ಲಿಬರ್ಟಿ"
+  lemmaIds:
+  - lemma-liberty
+  status: exact
+- form: "ಪಚ್ಚೆ"
+  lemmaIds:
+  - lemma-pacche
+  status: exact
+- form: "ಬಡ್ಡೆ"
+  lemmaIds:
+  - lemma-badde
+  status: exact
+- form: "ಟೊಪ್ಪಿಗೆ"
+  lemmaIds:
+  - lemma-toppige
+  status: exact
+- form: "ಚಿಕ್ಕವಯಸಿದ್ರು"
+  lemmaIds:
+  - lemma-chikkavayasidru
+  status: exact
+- form: "ಚೊಕ್ಕ"
+  lemmaIds:
+  - lemma-chokka
+  status: exact
+- form: "ಚೊಕ್ಕಬಂಗಾರ"
+  lemmaIds:
+  - lemma-chokkabangara
+  status: exact
+- form: "ಧಕ್ಕೆ"
+  lemmaIds:
+  - lemma-dhakke
+  status: exact
+- form: "ಅಣಿಯಾಗು"
+  lemmaIds:
+  - lemma-aniyagu
+  status: exact
+- form: "ಶೋಧ"
+  lemmaIds:
+  - lemma-shodha
+  status: exact
+- form: "ತುಕಡಿ"
+  lemmaIds:
+  - lemma-tukadi
+  status: exact
+- form: "ಮಡು"
+  lemmaIds:
+  - lemma-madu
+  status: exact
+- form: "ಖಜಾನೆ"
+  lemmaIds:
+  - lemma-khajane
+  status: exact
+- form: "ಖಾದಿ"
+  lemmaIds:
+  - lemma-khadi
+  status: exact
+- form: "ಗುನುಗು"
+  lemmaIds:
+  - lemma-gunugu
+  status: exact
+- form: "ಜೈಲು"
+  lemmaIds:
+  - lemma-jailu
+  status: exact
+- form: "ಬಲಿದಾನ"
+  lemmaIds:
+  - lemma-balidana
+  status: exact
+- form: "ಸೋಸಿದರು"
+  lemmaIds:
+  - lemma-sosidaru
+  status: exact
+- form: "ಒಡಲ್"
+  lemmaIds:
+  - lemma-odal
+  status: exact
+- form: "ಕಡುಗಲಿ"
+  lemmaIds:
+  - lemma-kadugali
+  status: exact
+- form: "ಕ್ಷಾತ್ರ"
+  lemmaIds:
+  - lemma-kshatra
+  status: exact
+- form: "ಗರಿಯರು"
+  lemmaIds:
+  - lemma-gariyaru
+  status: exact
+- form: "ಜಮ್ಮದು"
+  lemmaIds:
+  - lemma-jammadu
+  status: exact
+- form: "ದಟ್ಟಿಕುಪ್ಪಸ"
+  lemmaIds:
+  - lemma-dattikuppas
+  status: exact
+- form: "ಬಗ್ಗ"
+  lemmaIds:
+  - lemma-bagga
+  status: exact
+- form: "ಬಿಮ್ಮನೆ"
+  lemmaIds:
+  - lemma-bimmane
+  status: exact
+- form: "ಭೂರಮೆ"
+  lemmaIds:
+  - lemma-bhurame
+  status: exact
+- form: "ಹುತ್ತರಿ"
+  lemmaIds:
+  - lemma-huttari
+  status: exact
+- form: "ಹೊಯ್ಲು"
+  lemmaIds:
+  - lemma-hoylu
+  status: exact
+- form: "ನಿರ್ಭೀತ"
+  lemmaIds:
+  - lemma-nirbhita
+  status: exact
+- form: "ಮಸ್ತಕ"
+  lemmaIds:
+  - lemma-mastaka
+  status: exact
+- form: "ಹೋಳು"
+  lemmaIds:
+  - lemma-holu
+  status: exact
+- form: "ಹರಹ"
+  lemmaIds:
+  - lemma-haraha
+  status: exact
+- form: "ವಾಹಿನಿ"
+  lemmaIds:
+  - lemma-vahini
+  status: exact
+- form: "ಹರಿಗಡಿಯದೆ"
+  lemmaIds:
+  - lemma-harigadiyade
+  status: exact
+- form: "ವೈಶಾಲ್ಯ"
+  lemmaIds:
+  - lemma-vaishalya
+  status: exact
+- form: "ಧ್ರುವತಾರೆ"
+  lemmaIds:
+  - lemma-dhruvatara
+  status: exact
+- form: "ನಿರ್ಮುಕ್ತ"
+  lemmaIds:
+  - lemma-nirmukta
+  status: exact
+- form: "ತವರು"
+  lemmaIds:
+  - lemma-tavaru
+  status: exact
+- form: "ಬಾಳೆ"
+  lemmaIds:
+  - lemma-bale
+  status: exact
+- form: "ಸೀಬೆ"
+  lemmaIds:
+  - lemma-sibe
+  status: exact
+- form: "ಮುತ್ತೈದೆ"
+  lemmaIds:
+  - lemma-muttaide
+  status: exact
+- form: "ಕಂಚು"
+  lemmaIds:
+  - lemma-kanchu
+  status: exact
+- form: "ಮಿಂಚಾಡು"
+  lemmaIds:
+  - lemma-minchadu
+  status: exact
+- form: "ಗಿಣಿ"
+  lemmaIds:
+  - lemma-gini
+  status: exact
+- form: "ಆಲೆ"
+  lemmaIds:
+  - lemma-ale
+  status: exact
+- form: "ಸಾರಂಗ"
+  lemmaIds:
+  - lemma-saranga
+  status: exact
+- form: "ಪಗಡೆ"
+  lemmaIds:
+  - lemma-pagade
+  status: exact
+- form: "ನಟ್ಟ ನಡುವೆ"
+  lemmaIds:
+  - lemma-nattanaduve
+  status: exact
+- form: "ಹಟ್ಟಿ"
+  lemmaIds:
+  - lemma-hatti
+  status: exact
+- form: "ಹಡೆದವ್ವ"
+  lemmaIds:
+  - lemma-hadedavva
+  status: exact
+- form: "ಕೊಂಡ್ಹೋಗು"
+  lemmaIds:
+  - lemma-kondhogu
+  status: exact
+- form: "ಹರಿದ"
+  lemmaIds:
+  - lemma-harida
+  status: exact
+- form: "ಗೋಣಿ"
+  lemmaIds:
+  - lemma-goni
+  status: exact
+- form: "ಕಳವೆ"
+  lemmaIds:
+  - lemma-kalave
+  status: exact
+- form: "ಇರುಳು"
+  lemmaIds:
+  - lemma-irulu
+  status: exact
+- form: "ಸುಂಕ"
+  lemmaIds:
+  - lemma-sunka
+  status: exact
+- form: "ಅಂಧಕಾರ"
+  lemmaIds:
+  - lemma-andhakara
+  status: exact
+- form: "ಪ್ರಭೆ"
+  lemmaIds:
+  - lemma-prabhe
+  status: exact
+- form: "ನಿಂದಕರು"
+  lemmaIds:
+  - lemma-nindakaru
+  status: exact
+- form: "ಏಡಿಸಲು"
+  lemmaIds:
+  - lemma-edisalu
+  status: exact
+- form: "ಕುತರ್ಕ"
+  lemmaIds:
+  - lemma-kutarka
+  status: exact
+- form: "ಪಥ"
+  lemmaIds:
+  - lemma-patha
+  status: exact
+- form: "ವ್ರತ"
+  lemmaIds:
+  - lemma-vrata
+  status: exact
+- form: "ಬಟ್ಟೆ"
+  lemmaIds:
+  - lemma-batte
+  status: exact
+- form: "ಪ್ರಮಥರು"
+  lemmaIds:
+  - lemma-pramatharu
+  status: exact
+- form: "ಅಳಿಮನ"
+  lemmaIds:
+  - lemma-alimana
+  status: exact
+- form: "ಅದ್ದಿ"
+  lemmaIds:
+  - lemma-addi
+  status: exact
+- form: "ಅಭೀಷ್ಟ"
+  lemmaIds:
+  - lemma-va73615a3
+  status: exact
+- form: "ಆಚ್ಛಾದಿತ"
+  lemmaIds:
+  - lemma-v742958db
+  status: exact
+- form: "ಆಧಿಪತ್ಯ"
+  lemmaIds:
+  - lemma-v471874d2
+  status: exact
+- form: "ಕಳೇಬರ"
+  lemmaIds:
+  - lemma-v96db2c4b
+  status: exact
+- form: "ಗಣಿಸದೆ"
+  lemmaIds:
+  - lemma-vc7eb00f3
+  status: exact
+- form: "ಗೌಪ್ಯ"
+  lemmaIds:
+  - lemma-v5b3b40ca
+  status: exact
+- form: "ಚಿಂದಿ"
+  lemmaIds:
+  - lemma-v4d3a695c
+  status: exact
+- form: "ಪರಿವರ್ತನೆ"
+  lemmaIds:
+  - lemma-v0f0b4c7b
+  status: exact
+- form: "ಪ್ರಶಂಸೆ"
+  lemmaIds:
+  - lemma-v832bd05b
+  status: exact
+- form: "ಭಿಕಾರಿ"
+  lemmaIds:
+  - lemma-v8cfc6b61
+  status: exact
+- form: "ವಿಲಾಯತಿ"
+  lemmaIds:
+  - lemma-v517b7340
+  status: exact
+- form: "ಹಸನ್ಮುಖಿ"
+  lemmaIds:
+  - lemma-v78d5a231
+  status: exact
+- form: "ಕಾನನ"
+  lemmaIds:
+  - lemma-vff76c635
+  status: exact
+- form: "ತರ್ಕ"
+  lemmaIds:
+  - lemma-v08d25ffd
+  status: exact
+- form: "ತಿರುಪೆ"
+  lemmaIds:
+  - lemma-veb9fd137
+  status: exact
+- form: "ಪರಮೋಚ್ಚ"
+  lemmaIds:
+  - lemma-v32ff27d8
+  status: exact
+- form: "ಮೆಟ್ರಿಕ್ಯುಲೇಷನ್"
+  lemmaIds:
+  - lemma-v71fe98e2
+  status: exact
+- form: "ಮೇಧಾವಿ"
+  lemmaIds:
+  - lemma-v22459487
+  status: exact
+- form: "ವನ"
+  lemmaIds:
+  - lemma-v20672bf4
+  status: exact
+- form: "ಸಂಭಾವನೆ"
+  lemmaIds:
+  - lemma-v1f627c7c
+  status: exact
+- form: "ಸುಮ"
+  lemmaIds:
+  - lemma-v1881a9d0
+  status: exact
+- form: "ವಿಕಸನ"
+  lemmaIds:
+  - lemma-vcd045b79
+  status: exact
+- form: "ಅಗ್ಗ"
+  lemmaIds:
+  - lemma-vf712e4f1
+  status: exact
+- form: "ಅಲೆ"
+  lemmaIds:
+  - lemma-v115c44fd
+  status: exact
+- form: "ಅಸ್ತ್ರ"
+  lemmaIds:
+  - lemma-v43db04af
+  status: exact
+- form: "ಜನಪ್ರಿಯ"
+  lemmaIds:
+  - lemma-ve574a25a
+  status: exact
+- form: "ಪರಾಕಾಷ್ಠೆ"
+  lemmaIds:
+  - lemma-v297fb711
+  status: exact
+- form: "ಪುಕ್ಕಟ್ಟೆ"
+  lemmaIds:
+  - lemma-vae48d8bf
+  status: exact
+- form: "ಬುನಾದಿ"
+  lemmaIds:
+  - lemma-v799fb6ec
+  status: exact
+- form: "ಭಂಗಿ"
+  lemmaIds:
+  - lemma-vfe6fee94
+  status: exact
+- form: "ಮಣ"
+  lemmaIds:
+  - lemma-v817ad027
+  status: exact
+- form: "ಮರುಳು"
+  lemmaIds:
+  - lemma-v84d835f1
+  status: exact
+- form: "ಮಾಲೀಕ"
+  lemmaIds:
+  - lemma-v150d7709
+  status: exact
+- form: "ಹರಡು"
+  lemmaIds:
+  - lemma-ve824e588
+  status: exact
+- form: "ಹಿಂಜರಿಕೆ"
+  lemmaIds:
+  - lemma-v1d1d23e7
+  status: exact
+- form: "ಹುನ್ನಾರ"
+  lemmaIds:
+  - lemma-v8f35e075
+  status: exact
+- form: "ಹೊಕ್ಕು"
+  lemmaIds:
+  - lemma-v74d0a594
+  status: exact
+- form: "ಆಣ್ಮ"
+  lemmaIds:
+  - lemma-vdc305475
+  status: exact
+- form: "ಆಶಿಸು"
+  lemmaIds:
+  - lemma-vc5b4967c
+  status: exact
+- form: "ಉದ್ಗಾತೃ"
+  lemmaIds:
+  - lemma-vd8ae80e9
+  status: exact
+- form: "ಎನಿತು"
+  lemmaIds:
+  - lemma-vb4caad71
+  status: exact
+- form: "ಎಸಗಲಿ"
+  lemmaIds:
+  - lemma-vd40934ef
+  status: exact
+- form: "ಕವಿ"
+  lemmaIds:
+  - lemma-v3306b058
+  status: exact
+- form: "ತರಗು"
+  lemmaIds:
+  - lemma-vcd40d97e
+  status: exact
+- form: "ತುಡುಕಿ"
+  lemmaIds:
+  - lemma-v27b5921f
+  status: exact
+- form: "ತೊಳಲು"
+  lemmaIds:
+  - lemma-v21613cd8
+  status: exact
+- form: "ಪರಿಪಾಲಿಸು"
+  lemmaIds:
+  - lemma-v3446c5bb
+  status: exact
+- form: "ಬೇಹು"
+  lemmaIds:
+  - lemma-v3706966c
+  status: exact
+- form: "ಮಂಕು"
+  lemmaIds:
+  - lemma-v1b779bde
+  status: exact
+- form: "ವಿನೋದ"
+  lemmaIds:
+  - lemma-v6ca63575
+  status: exact
+- form: "ವೃಂದ"
+  lemmaIds:
+  - lemma-v47178e2d
+  status: exact
+- form: "ಸಂದೇಹ"
+  lemmaIds:
+  - lemma-vfa51cd38
+  status: exact
+- form: "ಸತಿ"
+  lemmaIds:
+  - lemma-v4363225d
+  status: exact
+- form: "ಸಲಹು"
+  lemmaIds:
+  - lemma-v31f08391
+  status: exact
+- form: "ಸುತೆ"
+  lemmaIds:
+  - lemma-vb36d7731
+  status: exact
+- form: "ಹವನ"
+  lemmaIds:
+  - lemma-v0e650276
+  status: exact
+- form: "ಹಸುಳೆ"
+  lemmaIds:
+  - lemma-vb9f02947
+  status: exact
+- form: "ಆಳ್ವೆ"
+  lemmaIds:
+  - lemma-aalve
+  status: exact
+- form: "ಒಸಗೆ"
+  lemmaIds:
+  - lemma-osage
+  status: exact
+- form: "ಕಾರಕಳ"
+  lemmaIds:
+  - lemma-karakala
+  status: exact
+- form: "ಕೆನೆ"
+  lemmaIds:
+  - lemma-kene
+  status: exact
+- form: "ತಾಳ್ವೆ"
+  lemmaIds:
+  - lemma-taalve
+  status: exact
+- form: "ತೃಷೆ"
+  lemmaIds:
+  - lemma-trushe
+  status: exact
+- form: "ದಿವಂ"
+  lemmaIds:
+  - lemma-divam
+  status: exact
+- form: "ನಗಾಳಿ"
+  lemmaIds:
+  - lemma-nagaali
+  status: exact
+- form: "ನಿಡುಕರು"
+  lemmaIds:
+  - lemma-nidukaru
+  status: exact
+- form: "ಬಸಿರು"
+  lemmaIds:
+  - lemma-basiru
+  status: exact
+- form: "ಬಿಳಿಯ ಕೊಳ"
+  lemmaIds:
+  - lemma-biliya-kola
+  status: exact
+- form: "ಬೇಲನಾಡು"
+  lemmaIds:
+  - lemma-belanadu
+  status: exact
+- form: "ಮೊಗ"
+  lemmaIds:
+  - lemma-moga
+  status: exact
+- form: "ಲತೆ"
+  lemmaIds:
+  - lemma-late
+  status: exact
+- form: "ಶರ್ವ"
+  lemmaIds:
+  - lemma-sharva
+  status: exact
+- form: "ಸುರಭಿ"
+  lemmaIds:
+  - lemma-surabhi
+  status: exact
+- form: "ಹಿಮ"
+  lemmaIds:
+  - lemma-hima
+  status: exact
+- form: "ಕರಾವಳಿ"
+  lemmaIds:
+  - lemma-karavali
+  status: exact
+- form: "ಪೆರ್ದೆರೆ"
+  lemmaIds:
+  - lemma-perdere
+  status: exact
+- form: "ಘೋಷ"
+  lemmaIds:
+  - lemma-ghosha
+  status: exact
+- form: "ಗಡಿ"
+  lemmaIds:
+  - lemma-gadi
+  status: exact
+- form: "ಯೋಧ"
+  lemmaIds:
+  - lemma-yodha
+  status: exact
+- form: "ಕೊರಳು"
+  lemmaIds:
+  - lemma-korulu
+  status: exact
+- form: "ತನು"
+  lemmaIds:
+  - lemma-tanu
+  status: exact
+- form: "ತೆರು"
+  lemmaIds:
+  - lemma-teru
+  status: exact
+- form: "ಹುತಾತ್ಮ"
+  lemmaIds:
+  - lemma-hutatma
+  status: exact
+- form: "ಸ್ಮರಣೆ"
+  lemmaIds:
+  - lemma-smarane
+  status: exact
+- form: "ನೆರಳು"
+  lemmaIds:
+  - lemma-neralu
+  status: exact
+- form: "ಮೊಳಗು"
+  lemmaIds:
+  - lemma-molagu
+  status: exact
+- form: "ಬೆಳಕು"
+  lemmaIds:
+  - lemma-belaku
+  status: exact
+- form: "ಕುಟಿಲ"
+  lemmaIds:
+  - lemma-kutila
+  status: exact
+- form: "ಕುಜನರು"
+  lemmaIds:
+  - lemma-kujanaru
+  status: exact
+- form: "ಕುಪಿತ"
+  lemmaIds:
+  - lemma-kupita
+  status: exact
+- form: "ಸಟೆ"
+  lemmaIds:
+  - lemma-sate
+  status: exact
+- form: "ಆತ್ಮ"
+  lemmaIds:
+  - lemma-atma
+  status: exact
+- form: "ಉಡುರಾಜ"
+  lemmaIds:
+  - lemma-uduraja
+  status: exact
+- form: "ಊರ್ಜಿತ"
+  lemmaIds:
+  - lemma-urjita
+  status: exact
+- form: "ಒಲ್ಮೆ"
+  lemmaIds:
+  - lemma-olme
+  status: exact
+- form: "ಕೆಲ"
+  lemmaIds:
+  - lemma-kele
+  status: exact
+- form: "ಕೈಯಾಸೆ"
+  lemmaIds:
+  - lemma-kaiyase
+  status: exact
+- form: "ಚತುರೋಪಾಯ"
+  lemmaIds:
+  - lemma-chaturopaya
+  status: exact
+- form: "ದ್ವಿಜ"
+  lemmaIds:
+  - lemma-dvija
+  status: exact
+- form: "ನೃಗ್ರೋಧ"
+  lemmaIds:
+  - lemma-nrugrodha
+  status: exact
+- form: "ಪತಿಕಾರ್ಯ"
+  lemmaIds:
+  - lemma-patikarya
+  status: exact
+- form: "ಪಾಲಿಸು"
+  lemmaIds:
+  - lemma-palisu
+  status: exact
+- form: "ಪೆರ್ಚು"
+  lemmaIds:
+  - lemma-perchu
+  status: exact
+- form: "ಪೆರ್ಮರ"
+  lemmaIds:
+  - lemma-permera
+  status: exact
+- form: "ಪೊರೆ"
+  lemmaIds:
+  - lemma-pore
+  status: exact
+- form: "ಬಲ್ಲಿದ"
+  lemmaIds:
+  - lemma-ballida
+  status: exact
+- form: "ಭಜಕ"
+  lemmaIds:
+  - lemma-bhajaka
+  status: exact
+- form: "ಭಟ"
+  lemmaIds:
+  - lemma-bhata
+  status: exact
+- form: "ವ್ರತಿ"
+  lemmaIds:
+  - lemma-vrati
+  status: exact
+- form: "ಶ್ರುತಿ"
+  lemmaIds:
+  - lemma-shruti
+  status: exact
+- form: "ಸಂಪನ್ನ"
+  lemmaIds:
+  - lemma-sampanna
+  status: exact
+- form: "ಸಾಧನ"
+  lemmaIds:
+  - lemma-sadhana
+  status: exact

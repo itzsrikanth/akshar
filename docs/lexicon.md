@@ -71,7 +71,7 @@ Rules:
 
 ## Seeding from printed vocabulary
 
-Initial Kannada coverage is seeded from Grade 3 FL printed `vocabulary_term` / `vocabulary_definition` pairs (and their contributor translations/transliterations) via `scripts/seed_lexicon_from_vocab.py`. Re-running the seeder refreshes only entries that still match that seed provenance; curated hand edits outside that set are preserved when the seeder is used carefully (see script docstring).
+Kannada coverage is seeded from printed `vocabulary_term` / `vocabulary_definition` pairs (and their contributor translations/transliterations) across all present Savi Kannada FL Part 1 books (`ktbs-savi-kannada-*-fl-p1`, grades 1–8 as published) via `scripts/seed_lexicon_from_vocab.py`. Definitions may use an explicit `ref` or a sibling `{termId}-def` id. Terms without a non-empty definition (e.g. G1/G2 word lists) are skipped — no guessed glosses or morphology. Re-running overwrites the seeded YAML files (see script docstring).
 
 Exact form match against a chapter’s own vocab pairs remains a runtime fallback even if the shared lexicon has not yet listed the form.
 

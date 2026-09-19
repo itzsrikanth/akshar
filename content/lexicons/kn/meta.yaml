@@ -1,5 +1,9 @@
 schemaVersion: 1
 language: kn
 license: Derived from textbook vocabulary definitions; see chapter meta.license and contributor licenses
-provenance: Seeded from ktbs-savi-kannada-g3-fl-p1 edition 2026-27 printed vocabulary_term/vocabulary_definition pairs and
-  their en/hi/latin contributor maps. No inferred morphology.
+provenance: 'Seeded from printed vocabulary_term/vocabulary_definition pairs (and en/hi/latin contributor maps) across Savi
+  Kannada FL Part 1 editions 2026-27: ktbs-savi-kannada-g1-fl-p1, ktbs-savi-kannada-g2-fl-p1, ktbs-savi-kannada-g3-fl-p1,
+  ktbs-savi-kannada-g5-fl-p1, ktbs-savi-kannada-g6-fl-p1, ktbs-savi-kannada-g7-fl-p1, ktbs-savi-kannada-g8-fl-p1. Per-book
+  term counts: ktbs-savi-kannada-g1-fl-p1=0, ktbs-savi-kannada-g2-fl-p1=0, ktbs-savi-kannada-g3-fl-p1=139, ktbs-savi-kannada-g5-fl-p1=84,
+  ktbs-savi-kannada-g6-fl-p1=102, ktbs-savi-kannada-g7-fl-p1=116, ktbs-savi-kannada-g8-fl-p1=118. Definitions linked by ref
+  or {{termId}}-def id. No inferred morphology.'
