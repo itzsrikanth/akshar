@@ -14,6 +14,7 @@ CHECKS = (
     ("Check generated chapter READMEs", "generate_readme.py", ("--check",)),
     ("Check compiled API JSON", "build_json.py", ("--check",)),
     ("Check v1/v2 acceptance contracts", "check_v2_acceptance.py", ()),
+    ("Smoke v2 cutover payloads", "smoke_v2_cutover.py", ()),
 )
 
 

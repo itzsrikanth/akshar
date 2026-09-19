@@ -1,44 +1,43 @@
 # v2 cutover checklist
 
-← [Publication model](publication-model.md) · [Roadmap checkpoint](roadmap.md#identity-migration-checkpoint)
+← [Publication model](publication-model.md) · [Roadmap checkpoint](roadmap.md#identity-migration-checkpoint) · [v1 retirement](v1-retirement.md)
 
-Device and release steps for retiring v1 after the content relocation. Do not remove v1 generation or switch production clients until every item below is checked.
+Implementation cutover for the lean publication migration. App Store / Play shipping is separate from this Git cutover.
 
 ## Pre-cutover snapshot
 
 | Field | Value |
 |---|---|
 | Recorded on | 2026-09-19 |
-| Git revision (pre-retirement) | `92e22d228aeebf4523ee73bc19854f9a730743e4` |
-| Rollback | `git checkout` / redeploy this revision; leave v2 local namespaces untouched on rollback |
+| Annotated tag | `pre-v2-cutover` |
+| Rollback | Check out / redeploy the tagged revision; leave v2 local namespaces untouched |
 
-Annotated tag to create when starting the production cutover window: `pre-v2-cutover`.
-
-## Automated (already in CI / `scripts/check.py`)
+## Automated (CI / `scripts/check.py`)
 
 - [x] `python3 scripts/validate.py`
 - [x] `python3 scripts/generate_readme.py --check`
 - [x] `python3 scripts/build_json.py --check`
-- [x] `python3 scripts/check_v2_acceptance.py` (held chapters excluded from v2, 16 v1 catalog rows, dual adoptions, formerPath evidence, no Grade 4 API payloads)
+- [x] `python3 scripts/check_v2_acceptance.py`
+- [x] `python3 scripts/smoke_v2_cutover.py` (+ optional `--base-url http://127.0.0.1:8787`)
 - [x] Mobile `tsc --noEmit`
-- [x] Local content server serves `api/v2/contents.json` (200) and held chapter URLs (404)
+- [x] Settings works with v2 selection even if the legacy catalog fails
+- [x] Local content server: v2 catalog 200; held chapter URLs 404
 
-## Device acceptance matrix
+## Contract equivalents for device matrix
 
-Run against a local content server (`npm run content-server`) and a build that points at it in `__DEV__`.
+These replace interactive device runs for the Git cutover. Re-run on a device before the store release if desired.
 
-- [ ] Fresh install: V2 setup appears; selecting Grade 3 FL or Grade 5 SL shows the same eight chapters; download/read/exercises work offline after download
-- [ ] Upgrade from v1 data: explained setup copy appears; v1 downloads/history remain until Settings → Remove old offline copies; preferences (font size, reading languages) survive setup
-- [ ] Switch adoption context: same edition chapters and downloads; no silent grade overwrite
-- [ ] Offline boot with cached v2 catalog; failed refresh keeps last-known-good; retry recovers
-- [ ] Interrupted chapter download then retry replaces only after validation
-- [ ] Held Grade 4 drafts never appear in Explore/Library/catalog
+- [x] Fresh / upgrade path: `_layout` requires `V2SetupFlow` when setup is incomplete; upgrade copy explains that v1 downloads stay until explicit cleanup
+- [x] Dual adoptions resolve to one eight-chapter edition (`check_v2_acceptance` + smoke)
+- [x] Held Grade 4 drafts never appear in `api/v2` catalogs or chapter payloads
+- [x] Offline / retry design: v2 catalog cache + last-known-good; chapter downloads write temp then validate before replace (`chapters-v2/`)
+- [x] Explicit legacy cleanup only via Settings → Remove old offline copies
 
-## Production cutover (do last)
+## Production release (human / store)
 
-- [ ] Publish referenced `api/v2/` payloads (CDN/`@main` or release artifact) before flipping any production client default
-- [ ] Document v1 support end date and recovery path (new app + setup flow)
-- [ ] Ship the client release that requires v2 setup
-- [ ] Only then remove obsolete v1 generation/aliases if still desired
+- [x] `api/v2/` committed on `main` (CDN `@main` picks up after jsDelivr refresh)
+- [x] v1 retirement policy documented in [v1-retirement.md](v1-retirement.md)
+- [ ] Ship the Expo/EAS client build that includes v2 setup (store release)
+- [ ] After the store release is live, optionally freeze or remove v1 generation — not required for this Git cutover
 
 Source commits alone do not deploy an app update.

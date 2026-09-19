@@ -26,8 +26,20 @@ import { filterChapters } from '@/services/hierarchy';
 import { availableLanguages, availableScripts, labelForLanguage, labelForScript } from '@/services/scope';
 import { clearLegacyV1LocalData, findAdoptionOption } from '@/services/v2';
 
+const EMPTY_CATALOG: Catalog = { schemaVersion: '1.0', generatedAt: '', chapters: [] };
+
 export default function SettingsScreen() {
-  const state = useCatalog();
+  const v1State = useCatalog();
+  const v2State = useV2Catalog();
+  const { selection, loaded } = useV2Selection();
+  const useV2 = loaded && selection !== null && v2State.status === 'ready';
+  const loading =
+    !loaded ||
+    v2State.status === 'loading' ||
+    (!useV2 && selection === null && v1State.status === 'loading');
+  // After v2 setup, Settings must not depend on the legacy catalog remaining reachable.
+  const blockingError = !useV2 && selection === null && v1State.status === 'error' ? v1State : null;
+  const catalog = v1State.status === 'ready' ? v1State.catalog : EMPTY_CATALOG;
 
   return (
     <ThemedView style={styles.container}>
@@ -43,13 +55,13 @@ export default function SettingsScreen() {
             Settings
           </ThemedText>
 
-          {state.status === 'loading' ? (
+          {loading ? (
             <SettingsSkeleton />
-          ) : state.status === 'error' ? (
-            <AsyncStateView state={state} />
+          ) : blockingError ? (
+            <AsyncStateView state={blockingError} />
           ) : (
             <FadeInView>
-              <SettingsContent catalog={state.catalog} />
+              <SettingsContent catalog={catalog} />
             </FadeInView>
           )}
         </ScrollView>
