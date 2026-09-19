@@ -72,14 +72,26 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
     () => (scope ? filterChapters(catalog.chapters, [scope.board, scope.state, scope.medium, scope.grade]) : catalog.chapters),
     [catalog, scope],
   );
-  const translationOptions = useMemo(
-    () => availableLanguages(scopedChapters).map((code) => ({ label: labelForLanguage(code), value: code })),
-    [scopedChapters],
-  );
-  const transliterationOptions = useMemo(
-    () => availableScripts(scopedChapters).map((code) => ({ label: labelForScript(code), value: code })),
-    [scopedChapters],
-  );
+  // Prefer languages available on the selected v2 edition so Settings tracks
+  // the publication catalog after setup, not only legacy board/grade filters.
+  const editionLanguageChapters = useMemo(() => {
+    if (!selection || v2Catalog.status !== 'ready') return null;
+    return v2Catalog.catalog.chapters.filter(
+      (chapter) => chapter.bookId === selection.bookId && chapter.editionId === selection.editionId,
+    );
+  }, [selection, v2Catalog]);
+  const translationOptions = useMemo(() => {
+    const codes = editionLanguageChapters
+      ? Array.from(new Set(editionLanguageChapters.flatMap((chapter) => chapter.translations))).sort()
+      : availableLanguages(scopedChapters);
+    return codes.map((code) => ({ label: labelForLanguage(code), value: code }));
+  }, [editionLanguageChapters, scopedChapters]);
+  const transliterationOptions = useMemo(() => {
+    const codes = editionLanguageChapters
+      ? Array.from(new Set(editionLanguageChapters.flatMap((chapter) => chapter.transliterations))).sort()
+      : availableScripts(scopedChapters);
+    return codes.map((code) => ({ label: labelForScript(code), value: code }));
+  }, [editionLanguageChapters, scopedChapters]);
   const { preference, setPreference } = useReadingPreference(catalog);
   const translation = preference.translationLanguage ?? translationOptions[0]?.value;
   const transliteration = preference.transliterationScript ?? transliterationOptions[0]?.value;

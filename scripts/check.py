@@ -13,17 +13,18 @@ CHECKS = (
     ("Validate schema, structure, and encoding", "validate.py", ()),
     ("Check generated chapter READMEs", "generate_readme.py", ("--check",)),
     ("Check compiled API JSON", "build_json.py", ("--check",)),
+    ("Check v1/v2 acceptance contracts", "check_v2_acceptance.py", ()),
 )
 
 
 def check_tree(root):
     for label, script, arguments in CHECKS:
         print(f"\n== {label} ==", flush=True)
-        subprocess.run(
-            [sys.executable, str(root / "scripts" / script), *arguments],
-            cwd=root,
-            check=True,
-        )
+        # Acceptance checks take an optional root so git-archive snapshots work.
+        cmd = [sys.executable, str(root / "scripts" / script), *arguments]
+        if script == "check_v2_acceptance.py":
+            cmd.append(str(root))
+        subprocess.run(cmd, cwd=root, check=True)
 
 
 def check_revision(revision):
