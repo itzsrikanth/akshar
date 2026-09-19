@@ -1,6 +1,6 @@
 # Lexicon — word selection and meaning lookup
 
-Design for the reader feature that lets a learner select one or more words in source-language text and open a **Meaning** action. Complements printed chapter vocabulary (`vocabulary_term` / `vocabulary_definition`) without changing the line-level source stitching model.
+Design for the reader feature that lets a learner tap a word in source-language text and open a bottom sheet with form, root/lemma, and gloss. Complements printed chapter vocabulary (`vocabulary_term` / `vocabulary_definition`) without changing the line-level source stitching model.
 
 Related: [mobile roadmap §6](../apps/mobile/docs/roadmap.md#6-word-selection-and-root-word-glosses), [repository roadmap](roadmap.md) (lemma/gloss data), [user feedback 2026-08-23](../apps/mobile/docs/user-feedback.md).
 
@@ -88,7 +88,7 @@ Each Meaning sheet shows glosses for the **currently selected word(s)**. Phrase-
 
 ## Reader UI
 
-Stock React Native `Text` selection cannot host a custom floating action bar (especially on iOS). The reader tokenizes the **source** line into grapheme-safe pressable tokens. **Tap selects one word** (tap again to clear; tap another word to move the selection). Multi-word lookup can be added later with an explicit gesture; do not expand a range between successive taps. Anchors a small action bar (Meaning first) near the selection, with a modal/sheet for the gloss list.
+Stock React Native `Text` selection cannot host a custom floating action bar (especially on iOS). The reader tokenizes the **source** line into grapheme-safe pressable tokens. **Tapping a word opens a bottom sheet** with the selected form, reviewed root/lemma when known, and gloss. Close via the sheet’s **X** or by tapping outside. No intermediate Meaning/Clear toolbar. Multi-word lookup can be added later with an explicit gesture.
 
 Do not split Kannada vowel signs or virama sequences. Test wrapped lines and font scaling.
 

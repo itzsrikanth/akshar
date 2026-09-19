@@ -1,6 +1,6 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { useCallback, useMemo, useState } from 'react';
-import { Modal, Platform, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Modal, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { ThemedText } from '@/components/themed-text';
@@ -9,7 +9,7 @@ import { Radius, Spacing, Typography } from '@/constants/theme';
 import { useFontScale } from '@/hooks/use-font-scale';
 import { useTheme } from '@/hooks/use-theme';
 import {
-  resolveMeanings,
+  resolveMeaning,
   tokenizeSource,
   type ChapterVocabPair,
   type LexiconBundle,
@@ -17,8 +17,7 @@ import {
   type SourceToken,
 } from '@/services/lexicon';
 
-/** Compact floating chrome — tinted surface + border so it doesn’t melt into reading text. */
-const floatingChrome = Platform.select({
+const cardChrome = Platform.select({
   ios: {
     shadowColor: '#000000',
     shadowOffset: { width: 0, height: 2 },
@@ -40,105 +39,113 @@ const sheetChrome = Platform.select({
   default: {},
 });
 
-type SelectionRange = { start: number; end: number };
-
-function selectedWordForms(tokens: SourceToken[], range: SelectionRange): string[] {
-  const forms: string[] = [];
-  for (let i = range.start; i <= range.end; i += 1) {
-    const token = tokens[i];
-    if (token?.selectable) forms.push(token.text);
-  }
-  return forms;
-}
-
-function MeaningRows({ results }: { results: MeaningResult[] }) {
+function MeaningDetail({ result }: { result: MeaningResult }) {
   const theme = useTheme();
   return (
-    <View style={styles.rows}>
-      {results.map((result, index) => (
-        <View
-          key={`${result.selectedForm}-${index}`}
-          style={[
-            styles.meaningCard,
-            floatingChrome,
-            {
-              backgroundColor: theme.background,
-              borderColor: theme.border,
-            },
-            index > 0 && styles.meaningCardGap,
-          ]}
-        >
-          <View style={[styles.meaningAccent, { backgroundColor: theme.tint }]} />
-          <View style={styles.meaningBody}>
-            {result.kind === 'function' ? (
+    <View
+      style={[
+        styles.meaningCard,
+        cardChrome,
+        {
+          backgroundColor: theme.background,
+          borderColor: theme.border,
+        },
+      ]}
+    >
+      <View style={[styles.meaningAccent, { backgroundColor: theme.tint }]} />
+      <View style={styles.meaningBody}>
+        {result.kind === 'function' ? (
+          <>
+            <ThemedText type="small" themeColor="textSecondary">
+              Selected word
+            </ThemedText>
+            <View style={styles.formRow}>
+              <MaterialCommunityIcons name="link-variant" size={16} color={theme.textSecondary} />
+              <ThemedText type="default" scalable>
+                {result.selectedForm}
+              </ThemedText>
+            </View>
+            <View style={[styles.glossWell, { backgroundColor: theme.backgroundElement, borderColor: theme.border }]}>
+              <ThemedText type="small" themeColor="textSecondary">
+                Connecting word — no dictionary gloss
+              </ThemedText>
+            </View>
+          </>
+        ) : result.kind === 'unavailable' ? (
+          <>
+            <ThemedText type="small" themeColor="textSecondary">
+              Selected word
+            </ThemedText>
+            <View style={styles.formRow}>
+              <MaterialCommunityIcons name="book-search-outline" size={16} color={theme.textSecondary} />
+              <ThemedText type="default" scalable>
+                {result.selectedForm}
+              </ThemedText>
+            </View>
+            <View style={[styles.glossWell, { backgroundColor: theme.backgroundElement, borderColor: theme.border }]}>
+              <ThemedText type="small" themeColor="textSecondary">
+                Root/meaning not available
+              </ThemedText>
+            </View>
+          </>
+        ) : (
+          <>
+            <ThemedText type="small" themeColor="textSecondary">
+              Selected word
+            </ThemedText>
+            <View style={styles.formRow}>
+              <MaterialCommunityIcons name="book-open-page-variant-outline" size={16} color={theme.tint} />
+              <ThemedText type="default" scalable themeColor="tint">
+                {result.selectedForm}
+              </ThemedText>
+            </View>
+
+            {result.lemma ? (
               <>
-                <View style={styles.formRow}>
-                  <MaterialCommunityIcons name="link-variant" size={16} color={theme.textSecondary} />
-                  <ThemedText type="smallBold" scalable>
-                    {result.selectedForm}
-                  </ThemedText>
-                </View>
-                <View style={[styles.glossWell, { backgroundColor: theme.backgroundElement, borderColor: theme.border }]}>
-                  <ThemedText type="small" themeColor="textSecondary">
-                    Connecting word — no dictionary gloss
-                  </ThemedText>
-                </View>
+                <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+                  Root / lemma
+                </ThemedText>
+                <ThemedText type="default" scalable>
+                  {result.lemma}
+                  {result.transliteration ? ` · ${result.transliteration}` : ''}
+                </ThemedText>
               </>
-            ) : result.kind === 'unavailable' ? (
-              <>
-                <View style={styles.formRow}>
-                  <MaterialCommunityIcons name="book-search-outline" size={16} color={theme.textSecondary} />
-                  <ThemedText type="smallBold" scalable>
-                    {result.selectedForm}
-                  </ThemedText>
-                </View>
-                <View style={[styles.glossWell, { backgroundColor: theme.backgroundElement, borderColor: theme.border }]}>
-                  <ThemedText type="small" themeColor="textSecondary">
-                    Root/meaning not available
-                  </ThemedText>
-                </View>
-              </>
-            ) : (
-              <>
-                <View style={styles.formRow}>
-                  <MaterialCommunityIcons name="book-open-page-variant-outline" size={16} color={theme.tint} />
-                  <ThemedText type="smallBold" scalable themeColor="tint">
-                    {result.selectedForm}
-                    {result.lemma && result.lemma !== result.selectedForm ? ` → ${result.lemma}` : ''}
-                  </ThemedText>
-                </View>
-                {result.transliteration ? (
-                  <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
-                    {result.transliteration}
-                  </ThemedText>
-                ) : null}
-                <View style={[styles.glossWell, { backgroundColor: theme.tintMuted, borderColor: theme.border }]}>
-                  <ThemedText type="small" scalable>
-                    {result.gloss ?? 'Root/meaning not available'}
-                  </ThemedText>
-                </View>
-                {result.ambiguous ? (
-                  <ThemedText type="small" themeColor="warning" style={styles.mt2}>
-                    Ambiguous mapping — more than one reviewed root
-                  </ThemedText>
-                ) : null}
-                {result.notes ? (
-                  <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
-                    {result.notes}
-                  </ThemedText>
-                ) : null}
-              </>
-            )}
-          </View>
-        </View>
-      ))}
+            ) : result.transliteration ? (
+              <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+                {result.transliteration}
+              </ThemedText>
+            ) : null}
+
+            <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+              Meaning
+            </ThemedText>
+            <View style={[styles.glossWell, { backgroundColor: theme.tintMuted, borderColor: theme.border }]}>
+              <ThemedText type="small" scalable>
+                {result.gloss ?? 'Root/meaning not available'}
+              </ThemedText>
+            </View>
+
+            {result.ambiguous ? (
+              <ThemedText type="small" themeColor="warning" style={styles.mt2}>
+                Ambiguous mapping — more than one reviewed root
+              </ThemedText>
+            ) : null}
+            {result.notes ? (
+              <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+                {result.notes}
+              </ThemedText>
+            ) : null}
+          </>
+        )}
+      </View>
     </View>
   );
 }
 
 /**
- * Grapheme-safe selectable source text with a Meaning action bar and sheet.
- * Stock RN Text selection cannot host a custom toolbar; tokens are tappable instead.
+ * Grapheme-safe tappable source text. Tapping a word opens a bottom sheet with
+ * form / root / gloss. Close via the X or by tapping outside. Stock RN Text
+ * selection cannot host a custom toolbar; tokens are tappable instead.
  */
 export function SelectableSourceText({
   source,
@@ -155,33 +162,24 @@ export function SelectableSourceText({
   const { scale } = useFontScale();
   const insets = useSafeAreaInsets();
   const tokens = useMemo(() => tokenizeSource(source), [source]);
-  const [range, setRange] = useState<SelectionRange | null>(null);
-  const [sheetOpen, setSheetOpen] = useState(false);
+  const [activeIndex, setActiveIndex] = useState<number | null>(null);
 
-  // One tap selects that word; tap again to clear. A second different word
-  // replaces the selection — do not expand a range between taps (that felt
-  // like a stuck first-word meaning when the sheet was reopened).
+  const closeSheet = useCallback(() => {
+    setActiveIndex(null);
+  }, []);
+
   const onTokenPress = useCallback((token: SourceToken) => {
     if (!token.selectable) return;
-    setRange((prev) => {
-      if (prev && prev.start === token.index && prev.end === token.index) return null;
-      return { start: token.index, end: token.index };
-    });
-    setSheetOpen(false);
+    setActiveIndex(token.index);
   }, []);
 
-  const clearSelection = useCallback(() => {
-    setRange(null);
-    setSheetOpen(false);
-  }, []);
+  const activeToken = activeIndex != null ? tokens[activeIndex] : null;
+  const result = useMemo(() => {
+    if (!activeToken?.selectable) return null;
+    return resolveMeaning(activeToken.text, lexicon, chapterVocab, preferredLanguage);
+  }, [activeToken, lexicon, chapterVocab, preferredLanguage]);
 
-  const results = useMemo(() => {
-    if (!range) return [];
-    return resolveMeanings(selectedWordForms(tokens, range), lexicon, chapterVocab, preferredLanguage);
-  }, [range, tokens, lexicon, chapterVocab, preferredLanguage]);
-
-  const contentOnly = results.filter((r) => r.kind !== 'function');
-  const meaningDisabled = results.length > 0 && contentOnly.length === 0;
+  const sheetOpen = result != null;
   const readingSize = {
     fontSize: Typography.reading.fontSize * scale,
     lineHeight: Typography.reading.lineHeight * scale,
@@ -191,8 +189,7 @@ export function SelectableSourceText({
     <View>
       <Text style={[{ color: theme.text }, readingSize]}>
         {tokens.map((token) => {
-          const selected =
-            range != null && token.index >= range.start && token.index <= range.end && token.selectable;
+          const selected = activeIndex === token.index && token.selectable;
           if (!token.selectable) {
             return (
               <Text key={token.index} style={readingSize}>
@@ -206,7 +203,7 @@ export function SelectableSourceText({
               onPress={() => onTokenPress(token)}
               style={[readingSize, selected ? { backgroundColor: theme.tintMuted, borderRadius: 2 } : null]}
               accessibilityRole="button"
-              accessibilityLabel={`Select word ${token.text}`}
+              accessibilityLabel={`Show meaning for ${token.text}`}
             >
               {token.text}
             </Text>
@@ -214,51 +211,13 @@ export function SelectableSourceText({
         })}
       </Text>
 
-      {range ? (
-        <View
-          style={[
-            styles.actionBar,
-            floatingChrome,
-            {
-              backgroundColor: theme.tintMuted,
-              borderColor: theme.border,
-            },
-          ]}
-        >
-          <Touchable
-            accessibilityRole="button"
-            accessibilityLabel="Show meaning"
-            disabled={meaningDisabled}
-            onPress={() => setSheetOpen(true)}
-            style={[styles.actionBtn, meaningDisabled && { opacity: 0.4 }]}
-          >
-            <ThemedText type="smallBold" themeColor={meaningDisabled ? 'textDisabled' : 'tint'}>
-              Meaning
-            </ThemedText>
-          </Touchable>
-          <View style={[styles.actionDivider, { backgroundColor: theme.border }]} />
-          <Touchable
-            accessibilityRole="button"
-            accessibilityLabel="Clear selection"
-            onPress={clearSelection}
-            style={styles.actionBtn}
-          >
-            <ThemedText type="small" themeColor="textSecondary">
-              Clear
-            </ThemedText>
-          </Touchable>
-        </View>
-      ) : null}
-
-      <Modal visible={sheetOpen} transparent animationType="fade" onRequestClose={() => setSheetOpen(false)}>
-        <Pressable style={styles.sheetBackdrop} onPress={() => setSheetOpen(false)}>
+      <Modal visible={sheetOpen} transparent animationType="slide" onRequestClose={closeSheet}>
+        <Pressable style={styles.sheetBackdrop} onPress={closeSheet}>
           <Pressable
             style={[
               styles.sheet,
               sheetChrome,
               {
-                // Distinct from the reader page (theme.background) so the panel
-                // does not read as more chapter text.
                 backgroundColor: theme.backgroundElement,
                 borderColor: theme.border,
                 paddingBottom: Math.max(insets.bottom, Spacing.three),
@@ -266,24 +225,28 @@ export function SelectableSourceText({
             ]}
             onPress={(e) => e.stopPropagation()}
           >
-            <Touchable
-              accessibilityRole="button"
-              accessibilityLabel="Collapse meanings"
-              onPress={() => setSheetOpen(false)}
-              style={styles.sheetHeader}
-              hitSlop={8}
-            >
-              <View style={[styles.sheetHandle, { backgroundColor: theme.textDisabled }]} />
-              <View style={styles.sheetTitleRow}>
-                <ThemedText type="smallBold" style={styles.sheetTitle}>
-                  Individual word meanings
-                </ThemedText>
-                <MaterialCommunityIcons name="chevron-down" size={22} color={theme.textSecondary} />
-              </View>
-            </Touchable>
-            <View style={[styles.sheetBody, { borderTopColor: theme.border }]}>
-              <MeaningRows results={results} />
+            <View style={[styles.sheetHandle, { backgroundColor: theme.textDisabled }]} />
+            <View style={styles.sheetTitleRow}>
+              <ThemedText type="smallBold" style={styles.sheetTitle}>
+                Word meaning
+              </ThemedText>
+              <Touchable
+                accessibilityRole="button"
+                accessibilityLabel="Close"
+                onPress={closeSheet}
+                hitSlop={12}
+                style={[styles.closeBtn, { backgroundColor: theme.backgroundSelected }]}
+              >
+                <MaterialCommunityIcons name="close" size={18} color={theme.textSecondary} />
+              </Touchable>
             </View>
+            <ScrollView
+              style={styles.sheetScroll}
+              contentContainerStyle={styles.sheetBody}
+              keyboardShouldPersistTaps="handled"
+            >
+              {result ? <MeaningDetail result={result} /> : null}
+            </ScrollView>
           </Pressable>
         </Pressable>
       </Modal>
@@ -292,23 +255,6 @@ export function SelectableSourceText({
 }
 
 const styles = StyleSheet.create({
-  actionBar: {
-    alignSelf: 'flex-start',
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: Spacing.one,
-    marginTop: Spacing.two,
-    paddingHorizontal: Spacing.two,
-    paddingVertical: Spacing.one,
-    borderWidth: 1,
-    borderRadius: Radius.medium,
-  },
-  actionBtn: { paddingHorizontal: Spacing.one, paddingVertical: Spacing.half },
-  actionDivider: {
-    width: StyleSheet.hairlineWidth,
-    alignSelf: 'stretch',
-    marginVertical: Spacing.half,
-  },
   sheetBackdrop: {
     flex: 1,
     justifyContent: 'flex-end',
@@ -322,11 +268,8 @@ const styles = StyleSheet.create({
     paddingTop: Spacing.two,
     maxHeight: '70%',
   },
-  sheetHeader: {
-    alignItems: 'center',
-    paddingBottom: Spacing.two,
-  },
   sheetHandle: {
+    alignSelf: 'center',
     width: 36,
     height: 4,
     borderRadius: Radius.pill,
@@ -336,35 +279,43 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    alignSelf: 'stretch',
+    marginBottom: Spacing.two,
   },
-  sheetTitle: { flex: 1 },
+  sheetTitle: { flex: 1, paddingRight: Spacing.two },
+  closeBtn: {
+    width: 32,
+    height: 32,
+    borderRadius: Radius.pill,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  sheetScroll: { flexGrow: 0 },
   sheetBody: {
-    borderTopWidth: 1,
-    paddingTop: Spacing.three,
     paddingBottom: Spacing.one,
   },
-  rows: {},
   meaningCard: {
     flexDirection: 'row',
     overflow: 'hidden',
     borderRadius: Radius.medium,
     borderWidth: 1,
   },
-  meaningCardGap: { marginTop: Spacing.two },
   meaningAccent: { width: 4 },
   meaningBody: {
     flex: 1,
     paddingHorizontal: Spacing.three,
-    paddingVertical: Spacing.two,
+    paddingVertical: Spacing.three,
   },
   formRow: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: Spacing.one,
+    marginTop: Spacing.half,
+  },
+  sectionLabel: {
+    marginTop: Spacing.three,
   },
   glossWell: {
-    marginTop: Spacing.two,
+    marginTop: Spacing.one,
     paddingHorizontal: Spacing.two,
     paddingVertical: Spacing.two,
     borderRadius: Radius.small,
