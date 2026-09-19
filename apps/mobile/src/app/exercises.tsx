@@ -23,7 +23,31 @@ import { DEFAULT_CHAPTER_PATH } from '@/constants/content';
 import { Radius, Spacing } from '@/constants/theme';
 import { useChapter } from '@/hooks/use-chapter';
 import { useTheme } from '@/hooks/use-theme';
+import { useV2Chapter } from '@/hooks/use-v2-chapter';
 import type { Chapter } from '@/services/content-repository';
+import type { V2Chapter } from '@/services/v2';
+
+function v2AsChapter(chapter: V2Chapter): Chapter {
+  const meta = chapter.meta as Chapter['meta'];
+  return {
+    schemaVersion: chapter.schemaVersion,
+    meta: {
+      board: String(meta.board ?? ''),
+      state: String(meta.state ?? ''),
+      medium: String(meta.medium ?? ''),
+      grade: Number(meta.grade ?? chapter.identity.number),
+      subject: String(meta.subject ?? ''),
+      chapter: Number(meta.chapter ?? chapter.identity.number),
+      slug: String(meta.slug ?? chapter.identity.chapterId),
+      title: String(meta.title ?? chapter.identity.chapterId),
+      source_url: String(meta.source_url ?? ''),
+      license: String(meta.license ?? ''),
+      original_publisher: String(meta.original_publisher ?? ''),
+    },
+    labels: chapter.labels,
+    segments: chapter.segments,
+  };
+}
 
 // Building all 5 exercise-type item lists from the same real segment array.
 // Answer/FillBlank/Match are backed by real ch01 content; TrueFalse/Reasons
@@ -91,8 +115,18 @@ function deriveExerciseData(chapter: Chapter) {
 }
 
 export default function ExercisesScreen() {
-  const { path } = useLocalSearchParams<{ path?: string }>();
-  const state = useChapter(path ?? DEFAULT_CHAPTER_PATH);
+  const params = useLocalSearchParams<{ path?: string; bookId?: string; editionId?: string; chapterId?: string }>();
+  const v2Identity =
+    params.bookId && params.editionId && params.chapterId
+      ? { bookId: params.bookId, editionId: params.editionId, chapterId: params.chapterId }
+      : null;
+  const v1State = useChapter(v2Identity ? null : (params.path ?? DEFAULT_CHAPTER_PATH));
+  const v2State = useV2Chapter(v2Identity);
+  const state = v2Identity
+    ? v2State.status === 'ready'
+      ? { status: 'ready' as const, chapter: v2AsChapter(v2State.chapter) }
+      : v2State
+    : v1State;
 
   return (
     <ThemedView style={styles.container}>

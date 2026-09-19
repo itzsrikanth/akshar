@@ -35,6 +35,24 @@ export {
 export { loadCachedV2Catalog, saveCachedV2Catalog } from './catalog-cache';
 
 export {
+  type AdoptionOption,
+  adoptionDisplayLabel,
+  chaptersForAdoption,
+  findAdoptionOption,
+  listAdoptionOptions,
+  selectionFromAdoption,
+} from './discovery';
+
+export { hasCompletedV2Setup, setV2SetupCompleted } from './setup-state';
+
+export {
+  forceV2CatalogRefresh,
+  getV2CatalogSnapshot,
+  primeV2Catalog,
+  subscribeToV2Catalog,
+} from './catalog-store';
+
+export {
   type V2ChapterHistoryEntry,
   historyEntryIdentity,
   historyEntryKey,

@@ -20,8 +20,37 @@ import { useChapter } from '@/hooks/use-chapter';
 import { useDownloads } from '@/hooks/use-downloads';
 import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useTheme } from '@/hooks/use-theme';
+import { useV2Chapter } from '@/hooks/use-v2-chapter';
+import { useV2Downloads } from '@/hooks/use-v2-downloads';
 import type { Catalog, Chapter, ChapterSegment } from '@/services/content-repository';
 import { recordChapterOpened } from '@/services/reading-history';
+import {
+  type ChapterIdentity,
+  type V2Chapter,
+  recordV2ChapterOpened,
+} from '@/services/v2';
+
+function v2ChapterAsReaderChapter(chapter: V2Chapter): Chapter {
+  const meta = chapter.meta as Chapter['meta'];
+  return {
+    schemaVersion: chapter.schemaVersion,
+    meta: {
+      board: String(meta.board ?? ''),
+      state: String(meta.state ?? ''),
+      medium: String(meta.medium ?? ''),
+      grade: Number(meta.grade ?? chapter.identity.number),
+      subject: String(meta.subject ?? ''),
+      chapter: Number(meta.chapter ?? chapter.identity.number),
+      slug: String(meta.slug ?? chapter.identity.chapterId),
+      title: String(meta.title ?? chapter.identity.chapterId),
+      source_url: String(meta.source_url ?? ''),
+      license: String(meta.license ?? ''),
+      original_publisher: String(meta.original_publisher ?? ''),
+    },
+    labels: chapter.labels,
+    segments: chapter.segments,
+  };
+}
 
 function deriveReaderData(chapter: Chapter) {
   const { segments } = chapter;
@@ -101,21 +130,31 @@ function TermPair({
 }
 
 export default function ReaderScreen() {
-  const { path } = useLocalSearchParams<{ path?: string }>();
-  const chapterPath = path ?? DEFAULT_CHAPTER_PATH;
-  const state = useChapter(chapterPath);
-  // Needed for useReadingPreference's fallback-to-first-available-language
-  // logic — the catalog is primed at boot and shared app-wide (see
-  // hooks/use-catalog.ts), so in practice this is already 'ready' by the
-  // time a chapter's been opened from anywhere in the app.
+  const params = useLocalSearchParams<{ path?: string; bookId?: string; editionId?: string; chapterId?: string }>();
+  const v2Identity =
+    params.bookId && params.editionId && params.chapterId
+      ? { bookId: params.bookId, editionId: params.editionId, chapterId: params.chapterId }
+      : null;
+  const chapterPath = params.path ?? (v2Identity ? null : DEFAULT_CHAPTER_PATH);
+  const v1State = useChapter(v2Identity ? null : chapterPath);
+  const v2State = useV2Chapter(v2Identity);
+  const state = v2Identity
+    ? v2State.status === 'ready'
+      ? { status: 'ready' as const, chapter: v2ChapterAsReaderChapter(v2State.chapter) }
+      : v2State
+    : v1State;
   const catalogState = useCatalog();
 
-  // Real "continue reading" signal for Home/Library (see
-  // services/reading-history.ts) — recorded once the chapter actually
-  // loads, not on navigation, so a failed/offline open doesn't count.
   useEffect(() => {
-    if (state.status === 'ready') recordChapterOpened(chapterPath);
-  }, [state.status, chapterPath]);
+    if (state.status !== 'ready') return;
+    if (v2Identity) {
+      void recordV2ChapterOpened(v2Identity);
+    } else if (chapterPath) {
+      void recordChapterOpened(chapterPath);
+    }
+  }, [state.status, chapterPath, v2Identity?.bookId, v2Identity?.editionId, v2Identity?.chapterId]);
+
+  const showCatalogLoading = !v2Identity && catalogState.status === 'loading';
 
   return (
     <ThemedView style={styles.container}>
@@ -126,26 +165,54 @@ export default function ReaderScreen() {
               ← Back
             </ThemedText>
           </Touchable>
-          {/* Only once the chapter's actually loaded — download/exercises
-              options both need real chapter data, not the skeleton/error state. */}
-          {state.status === 'ready' && (
+          {state.status === 'ready' && !v2Identity && chapterPath && (
             <View style={styles.topRowActions}>
               <FontSizeStepper />
               <ReaderMenu chapter={state.chapter} chapterPath={chapterPath} />
             </View>
           )}
+          {state.status === 'ready' && v2Identity && (
+            <View style={styles.topRowActions}>
+              <FontSizeStepper />
+              <V2ReaderMenu chapter={state.chapter} identity={v2Identity} />
+            </View>
+          )}
         </View>
 
-        {state.status === 'loading' || catalogState.status === 'loading' ? (
+        {state.status === 'loading' || showCatalogLoading ? (
           <ReaderSkeleton />
         ) : state.status === 'error' ? (
           <AsyncStateView state={state} />
-        ) : catalogState.status === 'error' ? (
+        ) : catalogState.status === 'error' && !v2Identity ? (
           <AsyncStateView state={catalogState} />
-        ) : (
+        ) : state.status === 'ready' ? (
           <FadeInView style={styles.fill}>
-            <ReaderContent chapter={state.chapter} chapterPath={chapterPath} catalog={catalogState.catalog} />
+            <ReaderContent
+              chapter={state.chapter}
+              chapterPath={chapterPath ?? ''}
+              catalog={
+                catalogState.status === 'ready'
+                  ? catalogState.catalog
+                  : ({ schemaVersion: '1.0', generatedAt: '', chapters: [] } as Catalog)
+              }
+              breadcrumbOverride={
+                v2Identity
+                  ? `${v2Identity.bookId} · ${v2Identity.editionId} · ${v2Identity.chapterId}`
+                  : undefined
+              }
+              exerciseParams={
+                v2Identity
+                  ? {
+                      bookId: v2Identity.bookId,
+                      editionId: v2Identity.editionId,
+                      chapterId: v2Identity.chapterId,
+                    }
+                  : { path: chapterPath ?? '' }
+              }
+            />
           </FadeInView>
+        ) : (
+          <ReaderSkeleton />
         )}
       </SafeAreaView>
     </ThemedView>
@@ -215,7 +282,83 @@ function ReaderMenu({ chapter, chapterPath }: { chapter: Chapter; chapterPath: s
   );
 }
 
-function ReaderContent({ chapter, chapterPath, catalog }: { chapter: Chapter; chapterPath: string; catalog: Catalog }) {
+function V2ReaderMenu({ chapter, identity }: { chapter: Chapter; identity: ChapterIdentity }) {
+  const theme = useTheme();
+  const insets = useSafeAreaInsets();
+  const downloads = useV2Downloads();
+  const [open, setOpen] = useState(false);
+  const downloaded = downloads.isDownloaded(identity);
+  const pending = downloads.isPending(identity);
+  const hasExercises = chapter.segments.some((s) => s.exercise);
+
+  return (
+    <>
+      <Touchable
+        onPress={() => setOpen(true)}
+        hitSlop={8}
+        style={[styles.settingsButton, { backgroundColor: theme.tintMuted }]}
+      >
+        <MaterialCommunityIcons name="dots-vertical" size={20} color={theme.tint} />
+      </Touchable>
+      <Modal visible={open} transparent animationType="fade" onRequestClose={() => setOpen(false)}>
+        <Pressable style={styles.menuBackdrop} onPress={() => setOpen(false)}>
+          <View style={[styles.menuCard, { top: insets.top + 52, borderColor: theme.border, backgroundColor: theme.background }]}>
+            {!downloaded && (
+              <Touchable
+                onPress={() => {
+                  void downloads.download(identity);
+                  setOpen(false);
+                }}
+                disabled={pending}
+                style={[styles.menuItem, hasExercises && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+              >
+                {pending ? (
+                  <ActivityIndicator size="small" color={theme.tint} />
+                ) : (
+                  <MaterialCommunityIcons name="download" size={18} color={theme.tint} />
+                )}
+                <ThemedText type="default">Download</ThemedText>
+              </Touchable>
+            )}
+            {hasExercises && (
+              <Touchable
+                onPress={() => {
+                  setOpen(false);
+                  router.push({
+                    pathname: '/exercises',
+                    params: {
+                      bookId: identity.bookId,
+                      editionId: identity.editionId,
+                      chapterId: identity.chapterId,
+                    },
+                  });
+                }}
+                style={styles.menuItem}
+              >
+                <MaterialCommunityIcons name="pencil-outline" size={18} color={theme.tint} />
+                <ThemedText type="default">Exercises</ThemedText>
+              </Touchable>
+            )}
+          </View>
+        </Pressable>
+      </Modal>
+    </>
+  );
+}
+
+function ReaderContent({
+  chapter,
+  chapterPath,
+  catalog,
+  breadcrumbOverride,
+  exerciseParams,
+}: {
+  chapter: Chapter;
+  chapterPath: string;
+  catalog: Catalog;
+  breadcrumbOverride?: string;
+  exerciseParams: Record<string, string>;
+}) {
   const theme = useTheme();
   const data = useMemo(() => deriveReaderData(chapter), [chapter]);
   const { preference } = useReadingPreference(catalog);
@@ -228,7 +371,7 @@ function ReaderContent({ chapter, chapterPath, catalog }: { chapter: Chapter; ch
     <ScrollView contentContainerStyle={styles.content}>
       <ThemedText type="subtitle">{chapter.meta.title}</ThemedText>
       <ThemedText type="small" themeColor="textSecondary" style={styles.breadcrumb}>
-        {data.breadcrumb}
+        {breadcrumbOverride ?? data.breadcrumb}
       </ThemedText>
 
       {data.competency && (
@@ -322,7 +465,7 @@ function ReaderContent({ chapter, chapterPath, catalog }: { chapter: Chapter; ch
       {data.exerciseLetters.length > 0 && (
         <View style={styles.section}>
           <Touchable
-            onPress={() => router.push({ pathname: '/exercises', params: { path: chapterPath } })}
+            onPress={() => router.push({ pathname: '/exercises', params: exerciseParams })}
             style={[styles.exercisesCard, { backgroundColor: theme.backgroundElement }]}
           >
             <View>

@@ -14,27 +14,50 @@ import { Touchable } from '@/components/touchable';
 import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
-import { useScope } from '@/hooks/use-scope';
 import { useReadingPreference } from '@/hooks/use-reading-preference';
+import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
+import { useV2Catalog } from '@/hooks/use-v2-catalog';
+import { useV2Downloads } from '@/hooks/use-v2-downloads';
+import { useV2Selection } from '@/hooks/use-v2-selection';
 import { forceCatalogRefresh } from '@/services/catalog-store';
 import type { Catalog } from '@/services/content-repository';
 import { autoResolve, filterChapters, LEVEL_KEYS, levelLabel, levelName, optionsAtLevel } from '@/services/hierarchy';
 import { labelForLanguage, labelForScript, scopesEqual, type Scope } from '@/services/scope';
 import type { LevelValue } from '@/services/hierarchy';
+import {
+  type V2Catalog,
+  type V2CatalogChapter,
+  type V2Selection,
+  catalogChapterIdentity,
+  chaptersForAdoption,
+  findAdoptionOption,
+  forceV2CatalogRefresh,
+  listAdoptionOptions,
+  selectionFromAdoption,
+} from '@/services/v2';
 
 export default function ExploreScreen() {
   const theme = useTheme();
-  const state = useCatalog();
+  const v1State = useCatalog();
+  const v2State = useV2Catalog();
+  const { selection, loaded: selectionLoaded, setSelection } = useV2Selection();
+  const preferenceCatalog =
+    v1State.status === 'ready'
+      ? v1State.catalog
+      : ({ schemaVersion: '1.0', generatedAt: '', chapters: [] } as Catalog);
+  const { preference } = useReadingPreference(preferenceCatalog);
   const [refreshing, setRefreshing] = useState(false);
   const onRefresh = useCallback(async () => {
     setRefreshing(true);
     try {
-      await forceCatalogRefresh();
+      await Promise.all([forceCatalogRefresh(), forceV2CatalogRefresh()]);
     } finally {
       setRefreshing(false);
     }
   }, []);
+
+  const useV2 = selectionLoaded && selection !== null && v2State.status === 'ready';
 
   return (
     <ThemedView style={styles.container}>
@@ -50,17 +73,30 @@ export default function ExploreScreen() {
             </Touchable>
           </View>
           <ThemedText type="small" themeColor="textSecondary" style={styles.subtitle}>
-            Browse the full catalog
+            {useV2 ? 'Browse by publication and learner context' : 'Browse the full catalog'}
           </ThemedText>
 
-          {state.status === 'loading' ? (
+          {!selectionLoaded || (useV2 ? false : v1State.status === 'loading') || (selection && v2State.status === 'loading') ? (
             <ExploreSkeleton />
-          ) : state.status === 'error' ? (
-            <AsyncStateView state={state} />
-          ) : (
+          ) : useV2 && v2State.status === 'ready' && selection ? (
             <FadeInView>
-              <ExploreContent catalog={state.catalog} />
+              <ExploreV2Content
+                catalog={v2State.catalog}
+                selection={selection}
+                onSelectionChange={setSelection}
+                preference={preference}
+              />
             </FadeInView>
+          ) : v1State.status === 'error' ? (
+            <AsyncStateView state={v1State} />
+          ) : v1State.status === 'ready' ? (
+            <FadeInView>
+              <ExploreContent catalog={v1State.catalog} />
+            </FadeInView>
+          ) : v2State.status === 'error' ? (
+            <AsyncStateView state={v2State} />
+          ) : (
+            <ExploreSkeleton />
           )}
         </ScrollView>
       </SafeAreaView>
@@ -68,16 +104,180 @@ export default function ExploreScreen() {
   );
 }
 
+function ExploreV2Content({
+  catalog,
+  selection,
+  onSelectionChange,
+  preference,
+}: {
+  catalog: V2Catalog;
+  selection: V2Selection;
+  onSelectionChange: (next: V2Selection) => void;
+  preference: { translationLanguage: string | null; transliterationScript: string | null };
+}) {
+  const theme = useTheme();
+  const downloads = useV2Downloads();
+  const options = useMemo(() => listAdoptionOptions(catalog), [catalog]);
+  const current = findAdoptionOption(catalog, selection.adoptionId);
+  const chapters = useMemo(() => chaptersForAdoption(catalog, selection), [catalog, selection]);
+  const notYetDownloaded = chapters.filter((c) => {
+    const identity = catalogChapterIdentity(c);
+    return !downloads.isDownloaded(identity) && !downloads.isPending(identity);
+  });
+  const [batchDownloading, setBatchDownloading] = useState(false);
+
+  const downloadAll = async () => {
+    setBatchDownloading(true);
+    try {
+      await Promise.all(notYetDownloaded.map((c) => downloads.download(catalogChapterIdentity(c))));
+    } finally {
+      setBatchDownloading(false);
+    }
+  };
+
+  return (
+    <>
+      <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+        LEARNER CONTEXT
+      </ThemedText>
+      {options.map((option, i) => {
+        const active = option.adoption.id === selection.adoptionId;
+        return (
+          <Touchable
+            key={option.adoption.id}
+            onPress={() => onSelectionChange(selectionFromAdoption(option.adoption))}
+            style={[
+              styles.optionRow,
+              i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border },
+            ]}
+          >
+            <View style={styles.f1}>
+              <ThemedText type={active ? 'smallBold' : 'default'} themeColor={active ? 'tint' : undefined}>
+                {option.displayLabel}
+              </ThemedText>
+              <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
+                {`${option.bookTitle} · ${option.chapterCount} chapters`}
+              </ThemedText>
+            </View>
+            <MaterialCommunityIcons
+              name={active ? 'check-circle' : 'circle-outline'}
+              size={20}
+              color={active ? theme.tint : theme.textDisabled}
+            />
+          </Touchable>
+        );
+      })}
+
+      {current && (
+        <ThemedText type="small" themeColor="textSecondary" style={[styles.sectionLabel, styles.mtSection]}>
+          {`${current.editionLabel} · ${chapters.length} CHAPTERS`}
+        </ThemedText>
+      )}
+
+      <View style={styles.sectionHeaderRow}>
+        <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+          SHARED BOOK
+        </ThemedText>
+        {notYetDownloaded.length > 0 && (
+          <Touchable onPress={downloadAll} disabled={batchDownloading} hitSlop={6}>
+            <ThemedText type="smallBold" themeColor="tint">
+              Download all
+            </ThemedText>
+          </Touchable>
+        )}
+      </View>
+
+      <View style={styles.relative}>
+        {chapters.map((chapter, i) => (
+          <V2ChapterRow
+            key={`${chapter.bookId}/${chapter.editionId}/${chapter.chapterId}`}
+            chapter={chapter}
+            preference={preference}
+            downloads={downloads}
+            showDivider={i < chapters.length - 1}
+          />
+        ))}
+        {batchDownloading && <LoadingOverlay message="Downloading chapters…" />}
+      </View>
+    </>
+  );
+}
+
+function V2ChapterRow({
+  chapter,
+  preference,
+  downloads,
+  showDivider,
+}: {
+  chapter: V2CatalogChapter;
+  preference: { translationLanguage: string | null; transliterationScript: string | null };
+  downloads: ReturnType<typeof useV2Downloads>;
+  showDivider: boolean;
+}) {
+  const theme = useTheme();
+  const identity = catalogChapterIdentity(chapter);
+  const downloaded = downloads.isDownloaded(identity);
+  const pending = downloads.isPending(identity);
+  const titleTranslation = preference.translationLanguage
+    ? chapter.titleTranslations?.[preference.translationLanguage]
+    : undefined;
+  const titleTransliteration = preference.transliterationScript
+    ? chapter.titleTransliterations?.[preference.transliterationScript]
+    : undefined;
+
+  return (
+    <Touchable
+      onPress={() =>
+        router.push({
+          pathname: '/reader',
+          params: {
+            bookId: identity.bookId,
+            editionId: identity.editionId,
+            chapterId: identity.chapterId,
+          },
+        })
+      }
+      style={[styles.chapterRow, showDivider && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+    >
+      <View style={styles.chapterRowInner}>
+        <View style={[styles.chapterIcon, { backgroundColor: downloaded ? theme.tintMuted : theme.backgroundElement }]}>
+          <MaterialCommunityIcons name="book-open-page-variant" size={22} color={downloaded ? theme.tint : theme.textDisabled} />
+        </View>
+        <View style={styles.f1}>
+          <ThemedText type="default">{chapter.title}</ThemedText>
+          {titleTransliteration && (
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
+              {titleTransliteration}
+            </ThemedText>
+          )}
+          {titleTranslation && (
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
+              {titleTranslation}
+            </ThemedText>
+          )}
+        </View>
+        <View style={styles.chapterActions}>
+          {pending ? (
+            <ActivityIndicator size="small" color={theme.tint} />
+          ) : (
+            <Touchable onPress={() => (downloaded ? downloads.remove(identity) : downloads.download(identity))} hitSlop={8}>
+              <MaterialCommunityIcons
+                name={downloaded ? 'delete-outline' : 'download'}
+                size={20}
+                color={downloaded ? theme.error : theme.tint}
+              />
+            </Touchable>
+          )}
+          <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
+        </View>
+      </View>
+    </Touchable>
+  );
+}
+
 function ExploreContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
-  // What the user has actually tapped — auto-filled with any level that
-  // only ever has one possible value (see services/hierarchy.ts).
   const [manualSelected, setManualSelected] = useState<LevelValue[]>([]);
-  // Set when the user taps a breadcrumb to go back up the tree — pins the
-  // display to that level instead of letting autoResolve immediately
-  // re-skip through it, which would otherwise make "going up" a no-op for
-  // any level that (like every level in today's catalog) has only one
-  // option. Cleared the moment they pick an option at that level again.
   const [pinnedLevel, setPinnedLevel] = useState<number | null>(null);
   const autoResolved = useMemo(() => autoResolve(catalog.chapters, manualSelected), [catalog, manualSelected]);
   const resolved = pinnedLevel !== null ? autoResolved.slice(0, pinnedLevel) : autoResolved;
@@ -86,9 +286,6 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
 
   const { scope, isSaved, setScope } = useScope(catalog);
   const { preference } = useReadingPreference(catalog);
-  // Scope is board/state/medium/grade only (see services/scope.ts) — offer
-  // to save it the moment those first 4 levels are resolved, regardless of
-  // which subject the user is currently browsing into.
   const candidateScope: Scope | null =
     resolved.length >= 4
       ? { board: resolved[0] as string, state: resolved[1] as string, medium: resolved[2] as string, grade: resolved[3] as number }
@@ -97,10 +294,6 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
 
   const downloads = useDownloads();
   const notYetDownloaded = chaptersInScope.filter((c) => !downloads.isDownloaded(c.slug) && !downloads.isPending(c.slug));
-
-  // A local flag, not just per-row `isPending` — "Download all" touches
-  // every row at once, so it needs its own block against a second tap
-  // firing a duplicate batch while the first is still in flight.
   const [batchDownloading, setBatchDownloading] = useState(false);
   const downloadAll = async () => {
     setBatchDownloading(true);
@@ -133,9 +326,6 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
                 <MaterialCommunityIcons name="chevron-right" size={15} color={theme.textDisabled} />
               </View>
             );
-          // Every crumb goes back up the tree to the picker for that level —
-          // including ones auto-filled because they only had one option, so
-          // there's always a way up even through a run of singleton levels.
           return (
             <Touchable
               key={key}
@@ -294,6 +484,7 @@ const styles = StyleSheet.create({
   subjectPill: { paddingVertical: 3, paddingHorizontal: 10, borderRadius: Radius.pill },
   sectionHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: Spacing.two },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
+  mtSection: { marginTop: Spacing.four },
   optionRow: {
     flexDirection: 'row',
     alignItems: 'center',
