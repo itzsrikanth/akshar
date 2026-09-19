@@ -1,0 +1,25 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the author
+  ashaya: Theme
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+intro-1: In the 15th–16th centuries of Kannada literary tradition, dasa literature arose among those who sought liberation through knowledge and devotion, took Vishnu as their chosen deity, and worked for spiritual, religious, social and cultural reform. It is also called dasa-vangmaya or haridasa literature. 'Dasa' means 'servant'.
+poem-s1l1: What fruit if neem is mixed into jaggery?
+poem-s1l2: What fruit if milk is poured for a snake?
+poem-s2l1: If crooked folk who will not leave deceit recite mantras,
+poem-s2l2: What fruit from that recitation?
+ashaya-1: Inborn nature does not go even if burned. One should not expect fruit from any work. Without pure devotion, even the work done becomes fruitless — Purandara Dasa shows this through simple examples.
+vocab-kutila: deceit
+vocab-kutila-def: deceit, fraud
+ex-a-q1: What is Purandara Dasa's signature (ankita)?

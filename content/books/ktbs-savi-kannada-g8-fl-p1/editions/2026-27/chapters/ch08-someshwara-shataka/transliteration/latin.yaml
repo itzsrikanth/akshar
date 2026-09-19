@@ -1,0 +1,93 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kṛtikārara paricaya
+  ashaya: āśaya
+  vocab: padagaḻa artha
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi.
+  exercise-C: i. kòṭṭiruva praśnègaḻigè aidu-āru vākyagaḻalli uttarisi.
+  exercise-D: ī. saṃdarbhasahita svārasyavannu vivarisi.
+intro-1: kannaḍa sāhitya caritrèyalli śataka sāhitya viśeṣatèyiṃda kūḍiddu. ī prakāradalli kṛti racanè māḍiruva kavi somanātha. ītana kṛti someśvara śatakavèṃde prasiddhipaḍèdidè. someśvara śatakavu kannaḍa nāḍina janapada kāvyavèṃbaṃtè janamanadalli nèlèsiruva kāvya. nīti bodhakavāda ī kāvyavu iṃdigū anukaraṇīyavādudāgidè. “mātṛdevobhava, pitṛdevobhava, ācārya devobhava” èṃbudu nammèlla dharmagaḻa mūla maṃtra.
+intro-2: ivarèllarū tamma tamma kartavyagaḻiṃda tappisikòḻḻalu sādhyavilla. pratiyòbbarū tamma tamma javābdārigaḻannu prāmāṇikavāgi niṣṭhèyiṃda māḍalebeku. rājyavāḻuva rājanāgali, maṃtriyāgali, rakṣakarāda bhaṭarāgali idariṃda hòratāguvudilla. ī kartavya prajñèye daivatvada sthāna-māna paḍèyalu sādhyavāguttadè. daivada anugrahavu svābhāvikavāgi enèlla parivartanègè kāraṇavāguttadè èṃbudannu manojñavāgi ī śatakadalli vivarisalāgiruvudariṃda iṃdigū prastutavāgidè.
+poem-s1l1: hitavaṃ toruvanātmabaṃdhu pòrèvātaṃ taṃdè saddharmadā |
+poem-s1l2: satiye sarvakè sādhanaṃ kalisidātaṃ varṇamātraṃ guru ||
+poem-s1l3: śrutimārgaṃ biḍadāta suvrati mahā sadvidyèye puṇyadaṃ |
+poem-s1l4: sutane sadgatidātanai haraharā śrīcènnasomeśvarā ||
+poem-s2l1: prajèyaṃ pālisaballòḍātanarasaṃ kaiyāsèyaṃ māḍadaṃ |
+poem-s2l2: nija maṃtrīśvara taṃdè tāya salahal ballātane dhārmikaṃ ||
+poem-s2l3: bhajakaṃ daivada bhaktiyuḻḻòḍè bhaṭaṃ nirbhīta tānādavaṃ |
+poem-s2l4: dvijanācāratèyuḻḻavaṃ haraharā śrīcènnasomeśvarā||
+poem-s3l1: ati gaṃbhīranudāra dhīranu mahā saṃpanna satyātmanū |
+poem-s3l2: rjita nānālipibhāṣèyòḻ paricitaṃ laṃcakkè kainīḍadaṃ ||
+poem-s3l3: vrata saddharma vicāraśāli caturopāyaṃgaḻaṃ ballavaṃ |
+poem-s3l4: patikāryaṃ vara maṃtriyai haraharā śrīcènnasomeśvarā ||
+poem-s4l1: uḍurājaṃ kaḻèguṃdi pèrcadihane nṛgrodhabījaṃ kèlaṃ |
+poem-s4l2: siḍiduṃ pèrmaranāgade èḻagaruṃ èttāgade lokadòḻ ||
+poem-s4l3: miḍi paṇṇāgadè daivanòlmèyiralā kālānukālakkè tāṃ |
+poem-s4l4: baḍavaṃ ballidanāgane haraharā śrīcènnasomeśvarā ||
+author-1: puligèrè somanātha sā.śa. sumāru 1299ralli dhāravāḍa jillèya śirahaṭṭi tāllūkina puligèrèyavanu. puligèrè somanāthanèṃde prasiddhi. kannaḍa, saṃskṛta bhāṣāpaṃḍitanāda ītana aṃkita haraharā śrī cannasomeśvarā. kannaḍa ratnakaraṃḍaka kāvyavannu caṃpuvinalliyū someśvara śatakavannu vṛtta chaṃdassinalliyū racisiddānè. prakṛta caupadigaḻannu kannaḍa sāhitya pariṣattu saṃpādisiruva someśvara śataka kṛtiyiṃda āykèmāḍikòḻḻalāgidè.
+ashaya-1: samājada avibhājya aṃgavāda taṃdè, tāyi, maga, patni, gurugaḻa javābdārigaḻannu, dvija, rāja, maṃtri, bhaṭa mòdalādavara kartavyagaḻannu ī nīti śatakadalli mārmikavāgi heḻalāgidè. nijavāda maṃtrigè irabekāda lakṣaṇa, devara anugrahadiṃda kālānukramadalli svābhāvikavāgi āguva badalāvaṇègaḻa baggèyū vivarisalāgidè. ī mūlaka pratiyòbbarū tamma tamma javābdārigaḻannaritāga sukhīsamājada nirmāṇavāguttadèṃbudu ī nīti śatakada āśaya.
+vocab-atma: ātma
+vocab-atma-def: tanna
+vocab-uduraja: uḍurāja
+vocab-uduraja-def: nakṣatrādhipati, caṃdra
+vocab-urjita: ūrjita
+vocab-urjita-def: rūḍhiyalliruva
+vocab-olme: òlmè
+vocab-olme-def: prīti
+vocab-kele: kèla
+vocab-kele-def: kèlavu
+vocab-kaiyase: kaiyāsè
+vocab-kaiyase-def: laṃca, āmiṣa
+vocab-chaturopaya: caturopāya
+vocab-chaturopaya-def: sāma, dāna mòdalāda upāyagaḻu
+vocab-dvija: dvija
+vocab-dvija-def: brāhmaṇa
+vocab-nrugrodha: nṛgrodha
+vocab-nrugrodha-def: āladamara
+vocab-patikarya: patikārya
+vocab-patikarya-def: svāmikārya
+vocab-palisu: pālisu
+vocab-palisu-def: kāpāḍu, salahu
+vocab-perchu: pèrcu
+vocab-perchu-def: hèccu, vṛddhisu
+vocab-permera: pèrmara
+vocab-permera-def: dòḍḍamara
+vocab-pore: pòrè
+vocab-pore-def: kāpāḍu
+vocab-ballida: ballida
+vocab-ballida-def: baliṣṭha, haṇavaṃta
+vocab-bhajaka: bhajaka
+vocab-bhajaka-def: pūjisuvavanu
+vocab-bhata: bhaṭa
+vocab-bhata-def: sainika
+vocab-midi: miḍi
+vocab-midi-def: hīcu
+vocab-varna: varṇa
+vocab-varna-def: akṣara
+vocab-vrati: vrati
+vocab-vrati-def: niyamavuḻḻavanu
+vocab-shruti: śruti
+vocab-shruti-def: veda
+vocab-sampanna: saṃpanna
+vocab-sampanna-def: guṇaśāli
+vocab-sadhana: sādhana
+vocab-sadhana-def: sahāya
+ex-a-q1: nijavāda baṃdhu yāru?
+ex-a-q2: dhārmikanèṃdu yārannu karèyalāgidè?
+ex-a-q3: rājanādavana kartavyavenu?
+ex-a-q4: ālada marada bīja siḍidu bhūmigè biddu enāguttadè?
+ex-a-q5: puligèrè somanāthana aṃkitanāmavenu?
+ex-b-q1: suvrati hāgū sutana bagègè kavi enu heḻiddānè?
+ex-b-q2: bhaṭa mattu dvijara lakṣaṇagaḻenu?
+ex-c-q1: śreṣṭha maṃtriyallirabekāda lakṣaṇagaḻenu?
+ex-c-q2: baḍava ballidanāguvanu èṃbudakkè kavi nīḍiruva nidarśanagaḻāvuvu?
+ex-d-q1: “saddharmadā satiye sarvakè sādhanaṃ”
+ex-d-q2: “ati gaṃbhīranudāra dhīranu”
+ex-d-q3: “uḍurājaṃ kaḻèguṃdi pèrcadihane”

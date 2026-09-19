@@ -1,0 +1,22 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the author
+  ashaya: Theme
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+  exercise-E: E. Explain with context.
+intro-1: In every language of the world, pride in land and speech finds expression in all literary forms. These are nectar streams of the people's mind. Country-pride born of pride in land and speech urges us to work for the land's rise. When the glorious Karnataka was split across many regions, many dreamed of unification. Through poems calling Kannada children to unite, many sang the greatness of land and speech and began Navodaya literature. This is one such poem.
+poem-s1l1: Come mother, show your face, O mother of Kannadigas!
+poem-s1l7: Body Kannada, mind Kannada, speech Kannada — these are ours.
+ex-a-q1: Who rules over us?

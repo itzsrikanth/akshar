@@ -1,0 +1,308 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 7
+  slug: ch07-bhagyada-balegara
+  title: ಭಾಗ್ಯದ ಬಳೆಗಾರ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಜನಪದಗೀತೆ
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  competency: ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ವಿವರಣೆ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: "ಶಾಲೆಯಲ್ಲಿ ನಾಡ ಹಬ್ಬದ ಸಂಭ್ರಮ. ಯಾವ ಯಾವ ಮನೋರಂಜನಾ ಕಾರ್ಯಕ್ರಮ ನೀಡಬೇಕೆಂದು ಮಕ್ಕಳಲ್ಲಿ ಚರ್ಚೆ ಪ್ರಾರಂಭವಾಯಿತು. ಹಾಡು, ನಾಟಕ, ನೃತ್ಯ, ಪ್ರಹಸನ ಹೀಗೆ ಪಟ್ಟಿ ಬೆಳೆಯಿತು. ಪೂರ್ಣಿಮಾಳ ಗುಂಪಿಗೆ ನೃತ್ಯಮಾಡುವ ಜವಾಬ್ದಾರಿ ನೀಡಲಾಯಿತು. ಯಾವ ನೃತ್ಯ ಎಂದಾಗ ಜನಪದ ನೃತ್ಯ ಎಂದು ಶ್ರುತಿ ಹೇಳಿದಳು. ಅರವಿಂದ ಸಿನೆಮಾ ಹಾಡಿಗೆ ನೃತ್ಯ ಮಾಡೋಣ ಎಂದ. ಆದರೆ ಉಳಿದವರು ಒಪ್ಪಲಿಲ್ಲ. ನಮ್ಮಲ್ಲಿ ಬಗೆಬಗೆಯ ಹಾಡುಗಳಿವೆ, ಹಳ್ಳಿಯ ಜನ ಪ್ರೀತಿಯಿಂದ ಅದನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಅದರಲ್ಲಿ ಸೊಗಸಾದ ಭಾಷೆ ಇದೆ. ತುಂಬಾ ಅರ್ಥವೂ ಇರುತ್ತದೆ. ರಾಗ ಹಾಕಲೂ ಚೆಂದ ಎಂಬ ಮಾತುಗಳು ಕೇಳಿಬಂದವು. ಮಕ್ಕಳು ಅಭ್ಯಾಸಮಾಡಿ ಒಂದು ಜನಪದ ನೃತ್ಯವನ್ನು ಪ್ರದರ್ಶನ ಮಾಡಿದರು. ಎಲ್ಲರೂ ಅದರ ಸೊಗಸನ್ನು ಮೆಚ್ಚಿದರು. ಹಲವು ದಿನಗಳು ಹಲವರ ಬಾಯಲ್ಲಿ ಆ ನೃತ್ಯದ ಹಾಡುಗಳು ಗುನುಗುಡುತ್ತಿದ್ದವು."
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಭಾಗ್ಯದ ಬಳೆಗಾರ ಹೋಗಿ ಬಾ ನನ್ತವರಿಗೆ ||"
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ನಿನ್ನ ತವರೂರ ನಾನೇನು ಬಲ್ಲೆನು
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಗೊತ್ತಿಲ್ಲ ಎನಗೆ ಗುರಿಯಿಲ್ಲ ಎಲೆ ಬಾಲೆ
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ತೋರಿಸು ಬಾರೇ ತವರೂರ
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಬಾಳೆ ಬಲಕ್ಕೆ ಬಿಡೊ ಸೀಬೆ ಎಡಕ್ಕೆ ಬಿಡೊ
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಟ್ಟನಡುವೇಲಿ ನೀ ಹೋಗೋ ಬಳೆಗಾರ
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ಅಲ್ಲಿಹುದೇ ನನ್ನ ತವರೂರು|"
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಮುತ್ತೈದೆ ಎಲೆ ಹೆಣ್ಣೆ ತೋರುಬಾರೆ ತವರೂರ
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಆಲೆ ಆಡುತಾವೆ ಗಾಣ ತಿರುಗುತಾವೆ
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನವಿಲು ಸಾರಂಗ ನಲಿತಾವೆ ಬಳೆಗಾರ
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: "ಅದೇ ಕಾಣೋ ನನ್ನ ತವರೂರು|"
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಮುತ್ತೈದೆ ಎಲೆ ಹೆಣ್ಣೆ ತೋರುಬಾರೆ ತವರೂರ
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಹಂಚಿನ ಮನೆ ಕಾಣೋ ಕಂಚಿನ ಕದ ಕಾಣೊ
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಮಿಂಚಾಡೊವೆರಡು ಗಿಣಿ ಕಾಣೊ ಬಳೆಗಾರ
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಅಲ್ಲಿಹುದೇ ನನ್ನ ತವರೂರು|"
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಮುತ್ತೈದೆ ಎಲೆ ಹೆಣ್ಣೆ ತೋರುಬಾರೆ ತವರೂರ
+- id: poem-s5l1
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಮುತ್ತೈದೆ ಹಟ್ಟೀಲಿ ಮುತ್ತೀನ ಚಪ್ಪರ ಹಾಕಿ
+- id: poem-s5l2
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ನಟ್ಟ ನಡುವೇಲಿ ಪಗಡೆಯ ಆಡುತಾಳೆ
+- id: poem-s5l3
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: "ಅವಳೆ ಕಾಣೊ ಎನ್ನ ಹಡೆದವ್ವಾ|"
+- id: poem-s5l4
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಮುತ್ತೈದೆ ಎಲೆ ಹೆಣ್ಣೆ ತೋರುಬಾರೆ ತವರೂರ
+- id: poem-s6l1
+  type: poem_line
+  section: poem
+  stanza: 6
+  text: ಅಚ್ಚ ಕೆಂಪಿನ ಬಳೆ ಹಸಿರು ಗೀರಿನ ಬಳೆ
+- id: poem-s6l2
+  type: poem_line
+  section: poem
+  stanza: 6
+  text: ಎನ್ನ ಹಡೆದವ್ಗೆ ಬಲು ಆಸೆ ಬಳೆಗಾರ
+- id: poem-s6l3
+  type: poem_line
+  section: poem
+  stanza: 6
+  text: "ಕೊಂಡ್ಹೋಗೊ ಎನ್ನ ತವರೀಗೆ|"
+- id: poem-s6l4
+  type: poem_line
+  section: poem
+  stanza: 6
+  text: ಭಾಗ್ಯದ ಬಳೆಗಾರ ಹೋಗಿ ಬಾ ನನ್ತವರೀಗೆ
+- id: competency
+  type: competency
+  section: competency
+  text: "ಕೌಶಲ: ಮಾತನಾಡುವುದು. ಸಾಮರ್ಥ್ಯ: ನಾಣ್ಣುಡಿ, ನುಡಿಗಟ್ಟು, ಗಾದೆಗಳನ್ನು ಬಳಸಿ ಮಾತನಾಡುವುದು. ಆಶಯ: ಬಳೆಗಾರ ಊರಿಂದೂರು ತಿರುಗಿ ಬಳೆಗಳನ್ನು ಮಾರುತ್ತಾನೆ. ಹತ್ತಾರು ಊರುಗಳ, ಹಲವು ಜನರ ಪರಿಚಯ ಅವನಿಗಿರುತ್ತದೆ. ಈ ಗೀತೆಯಲ್ಲಿ ತನ್ನ ತಾಯಿಗೆ ಬಳೆಗಳೆಂದರೆ ಇಷ್ಟ. ಅದನ್ನು ಕೊಂಡುಹೋಗಲು ಬಳೆಗಾರನಿಗೆ ಹೇಳುವ ಹೆಣ್ಣಿನ ಮತ್ತು ಪ್ರಶ್ನೆ ಕೇಳುವ ಬಳೆಗಾರನ ಸಂಭಾಷಣೆ ಈ ಗೀತೆಯಲ್ಲಿದೆ. ತಾಯಿಯ ಮನೆಯ ದಾರಿಯನ್ನು ಹೆಣ್ಣುಮಗಳು ತಿಳಿಸುವ ರೀತಿಯಲ್ಲಿ ಸೊಗಸಿದೆ. ಹಳ್ಳಿಯ ಮನೆಯ ಮತ್ತು ಪರಿಸರದ ಸುಂದರವಾದ ಚಿತ್ರಣವಿದೆ. ತನ್ನ ತವರಿನ ಬಗೆಗೆ ಮಗಳಿಗೆ ಅಪಾರ ಪ್ರೀತಿಯಿದೆ."
+- id: vocab-tavaru
+  type: vocabulary_term
+  section: vocab
+  text: ತವರು
+- id: vocab-tavaru-def
+  type: vocabulary_definition
+  section: vocab
+  text: ತಾಯಿಯ ಮನೆ
+- id: vocab-bale
+  type: vocabulary_term
+  section: vocab
+  text: ಬಾಳೆ
+- id: vocab-bale-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಬಾಳೆಯಗಿಡ
+- id: vocab-sibe
+  type: vocabulary_term
+  section: vocab
+  text: ಸೀಬೆ
+- id: vocab-sibe-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಪೇರಳೆ
+- id: vocab-muttaide
+  type: vocabulary_term
+  section: vocab
+  text: ಮುತ್ತೈದೆ
+- id: vocab-muttaide-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಮದುವೆಯಾದ ಹೆಣ್ಣು
+- id: vocab-kanchu
+  type: vocabulary_term
+  section: vocab
+  text: ಕಂಚು
+- id: vocab-kanchu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಒಂದು ಲೋಹ
+- id: vocab-minchadu
+  type: vocabulary_term
+  section: vocab
+  text: ಮಿಂಚಾಡು
+- id: vocab-minchadu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹೊಳೆಯುವುದು
+- id: vocab-gini
+  type: vocabulary_term
+  section: vocab
+  text: ಗಿಣಿ
+- id: vocab-gini-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಗಿಳಿ
+- id: vocab-ale
+  type: vocabulary_term
+  section: vocab
+  text: ಆಲೆ
+- id: vocab-ale-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಕಬ್ಬಿನ ರಸ ತೆಗೆಯುವ ಯಂತ್ರ, ಗಾಣ"
+- id: vocab-saranga
+  type: vocabulary_term
+  section: vocab
+  text: ಸಾರಂಗ
+- id: vocab-saranga-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಮೈಮೇಲೆ ಚುಕ್ಕೆಗಳಿರುವ ಜಿಂಕೆ
+- id: vocab-pagade
+  type: vocabulary_term
+  section: vocab
+  text: ಪಗಡೆ
+- id: vocab-pagade-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಒಂದು ರೀತಿಯ ಆಟ
+- id: vocab-nattanaduve
+  type: vocabulary_term
+  section: vocab
+  text: ನಟ್ಟ ನಡುವೆ
+- id: vocab-nattanaduve-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಮಧ್ಯೆ
+- id: vocab-hatti
+  type: vocabulary_term
+  section: vocab
+  text: ಹಟ್ಟಿ
+- id: vocab-hatti-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಮನೆ
+- id: vocab-hadedavva
+  type: vocabulary_term
+  section: vocab
+  text: ಹಡೆದವ್ವ
+- id: vocab-hadedavva-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹೆತ್ತ ತಾಯಿ
+- id: vocab-kondhogu
+  type: vocabulary_term
+  section: vocab
+  text: ಕೊಂಡ್ಹೋಗು
+- id: vocab-kondhogu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ತೆಗೆದುಕೊಂಡುಹೋಗು
+- id: note-janapada
+  type: note_term
+  section: notes
+  text: ಜಾನಪದ
+- id: note-janapada-def
+  type: note_definition
+  section: notes
+  text: ಜನಪದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಅಧ್ಯಯನ
+- id: note-janapada-samanya
+  type: note_term
+  section: notes
+  text: ಜನಪದ
+- id: note-janapada-samanya-def
+  type: note_definition
+  section: notes
+  text: ಜನ ಸಾಮಾನ್ಯರಿಗೆ ಸಂಬಂಧಿಸಿದ್ದು
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಬಳೆಗಾರ ಎಲ್ಲಿಗೆ ಹೋಗಿ ಬರಬೇಕೆಂದು ಹೆಣ್ಣು ಹೇಳುತ್ತಾಳೆ?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ತಾಯಿಯ ಮನೆ ಯಾವ ರೀತಿ ಇದೆ?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಚಪ್ಪರದ ನಡುವೆ ತಾಯಿ ಯಾವ ಆಟ ಆಡುತ್ತಾಳೆ?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಡೆದವ್ವನಿಗೆ ಯಾವ ಬಣ್ಣದ ಬಳೆ ಎಂದರೆ ಆಸೆ?
+- id: ex-b-q1
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ತವರು ಮನೆಗೆ ಹೋಗಲು ಗುರುತುಗಳೇನು?
+- id: ex-b-q2
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ತವರು ಮನೆ ನೋಡಲು ಹೇಗಿದೆ?

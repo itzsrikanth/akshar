@@ -1,0 +1,84 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kṛtikārara paricaya
+  ashaya: āśaya
+  vocab: padagaḻa artha
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu/mūru vākyagaḻalli uttarisi.
+  exercise-C: i. kòṭṭiruva praśnègè èṃṭu/hattu vākyagaḻalli uttarisi.
+  exercise-D: ī. ī heḻikègaḻigè saṃdarbhasahita svārasyavannu vivarisi.
+  exercise-E: u. biṭṭa sthaḻa tuṃbi.
+intro-1: ādhunika kannaḍa sāhityada kāvyaparaṃparèyalli navodaya, navya, pragatiśīla, baṃḍāya mattu dalita èṃba vividha majalugaḻivè. navodaya kavitègaḻalli prakṛtiya varṇanè, rāṣṭrīyatè mattu sāṃskṛtika hirimèyannu kavigaḻu tamma kavitègaḻalli anāvaraṇagòḻisuvudu òṃdu mukhya vastuvāgiddu, adakkòṃdu uttama udāharaṇè ī kavitèyāgidè.
+poem-s1l1: ākāśakkèddu niṃta parvata hima maunadalli
+poem-s1l2: karāvaḻigè muttaniḍuva pèrdèrègaḻa gānadalli
+poem-s1l3: bayala tuṃba hasira dīpa hacci hariva nadigaḻalli
+poem-s1l4: nīliyalli hògèya cèlli yaṃtraghoṣaveḻuvalli
+poem-s1l5: kaṇṇu berè, noṭavòṃdu-
+poem-s1l6: nāvu bhāratīyaru.
+poem-s2l1: nāḍinèlla gaḍigaḻalli bāninalli kaḍalinalli
+poem-s2l2: namma yodharètti hiḍida namma dhvajada nèraḻinalli
+poem-s2l3: òṃdè nèlada tòṭṭilalli bèḻèda namma kòraḻinalli
+poem-s2l4: namma yugada danigaḻāgi mūḍidèlla hāḍinalli
+poem-s2l5: bhāṣè berè, bhāvavòṃdu-
+poem-s2l6: nāvu bhāratīyaru.
+poem-s3l1: nāḍigāgi tanuva tètta hutātmara smaraṇèyalli
+poem-s3l2: namma kaṣṭadallu nèrègè nèraḻanīva karuṇèyalli
+poem-s3l3: dāri baḻasi eruvalli birugāḻiyè mòḻaguvalli
+poem-s3l4: namma guriya bèḻakinèḍègè naḍèva dhīra payaṇadalli
+poem-s3l5: èllè irali, nāvu òṃdu-
+poem-s3l6: nāvu bhāratīyaru.
+author-1: ādhunika kāvya saṃdarbhada pramukha kavigaḻalli òbbarāda kè.ès. narasiṃhasvāmi avaru 26-01-1915 ralli maṃḍya jillèya kṛṣṇarājapeṭè tālūkina kikkeriyalli janisidaru. ivara mòdala kavana saṃkalana maisūru malligè 1943ralli prakaṭavāyitu. ivaru śilālatè, airāvata, navapallava, iruvaṃtigè, dīpada malli, manèyiṃda manègè, tèrèda bāgilu mòdalāda kavana saṃkalanagaḻannu racisiddārè. 1977ralli ivara tèrèda bāgilu èṃba kavana saṃgrahakkè keṃdra sāhitya akāḍèmi praśasti labhisidè. 1990ralli maisūrinalli naḍèda akhila bhārata kannaḍa sāhitya sammeḻanada adhyakṣarāgiddaru. ivara duṃḍu malligè kavana saṃkalanakkè karnāṭaka sarkārada pratiṣṭhita paṃpa praśasti labhisidè. ivarannu kannaḍa sāhitya kṣetradalli premakavi èṃde gurutisalāgidè. 2004ralli daivādhīnarādaru.
+ashaya-1: bhāratīyatè kavanadalli kavi bhāratīyara ekatèyannu kuritu abhimānadiṃda heḻiddārè. bhārata deśada prākṛtika sauṃdarya, janara jīvana śaili, sāṃskṛtika paraṃparè, bhinnatèyalli ekatābhāva, deśabhakti, tyāga, paropakārabuddhi muṃtāda utkṛṣṭa guṇagaḻannu kavi illi viśadīkarisiddārè.
+vocab-hima: hima
+vocab-hima-def: maṃju
+vocab-karavali: karāvaḻi
+vocab-karavali-def: samudratīra
+vocab-perdere: pèrdèrè
+vocab-perdere-def: dòḍḍa alè
+vocab-ghosha: ghoṣa
+vocab-ghosha-def: gaṭṭiyāgi heḻuvudu
+vocab-gadi: gaḍi
+vocab-gadi-def: sīmè, èllè
+vocab-yodha: yodha
+vocab-yodha-def: sainika
+vocab-korulu: kòraḻu
+vocab-korulu-def: dhvani
+vocab-tanu: tanu
+vocab-tanu-def: deha
+vocab-teru: tèru
+vocab-teru-def: nīḍu, tyāga māḍu
+vocab-hutatma: hutātma
+vocab-hutatma-def: deśakkāgi prāṇa tèttava
+vocab-smarane: smaraṇè
+vocab-smarane-def: nènapu
+vocab-nere: nèrè
+vocab-nere-def: pakka
+vocab-neralu: nèraḻu
+vocab-neralu-def: āśraya
+vocab-molagu: mòḻagu
+vocab-molagu-def: abbara
+vocab-belaku: bèḻaku
+vocab-belaku-def: jñāna
+ex-a-q1: parvata hima yāva èttarakkè èddu niṃtidè?
+ex-a-q2: pèrdèrègaḻu yāvudakkè muttaniḍuttivè?
+ex-a-q3: hasiru dīpavannu èlli haccalāgidè?
+ex-a-q4: yaṃtraghoṣa eḻuttiruva bagè hegè?
+ex-a-q5: namma dhvajavannu ètti hiḍidiruvavaru yāru?
+ex-a-q6: namma payaṇa ètta sāgidè?
+ex-b-q1: kaṇṇu berèyādarū noṭa òṃdāguva saṃdarbhagaḻannu tiḻisi.
+ex-b-q2: ‘bhāṣè berèyādarū bhāva òṃdu’ - samarthisi.
+ex-c-q1: nāvu bhāratīyaru èṃba abhimāna miḍiyuva sanniveśagaḻannu vivarisi.
+ex-d-q1: “kaṇṇu berè, noṭavòṃdu”
+ex-d-q2: “bhāṣè berè, bhāvavòṃdu”
+ex-d-q3: “èllè irali, nāvu òṃdu”
+ex-e-q1: yaṃtra ______ veḻuvalli.
+ex-e-q2: òṃdè nèlada ______ .
+ex-e-q3: namma yugada danigaḻāgi mūḍidèlla _______ .
+ex-e-q4: èllè irali nāvu ______ .
+ex-e-q5: naḍèva _____ payaṇadalli.

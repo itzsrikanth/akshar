@@ -1,0 +1,312 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 3
+  slug: ch03-hilton-head-chalavali
+  title: ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಶಶಿಧರ ವಿಶ್ವಾಮಿತ್ರ
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ಕಥೆ
+  competency: ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಬಿಟ್ಟಸ್ಥಳ ತುಂಬಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: "ಯಾವುದೇ ವಸ್ತುವಿರಲಿ, ಅದು ನಮ್ಮ ಬಳಿ ಇದ್ದಾಗ ಅದರ ಬೆಲೆ ತಿಳಿಯುವುದಿಲ್ಲ. ಅದನ್ನು ನಾವು ಕಳೆದುಕೊಂಡಾಗ, ಅದೆಷ್ಟು ಅಮೂಲ್ಯವಾದ ವಸ್ತುವಾಗಿತ್ತೆಂಬುದು ಅರಿವಿಗೆ ಬರುತ್ತದೆ. ಪರಿಸರದ ವಿಷಯದಲ್ಲೂ ಇದು ನಿಜ. ಪರಿಸರವು ಚೆನ್ನಾಗಿದ್ದಾಗ, ಪ್ರಕೃತಿಯು ರಮಣೀಯವಾಗಿದ್ದಾಗ ಅದನ್ನು ನಾವು ಅಷ್ಟೇನೂ ಗಮನಿಸುವುದಿಲ್ಲ. ಅಥವಾ ಗಮನಿಸಿದರೂ ಅದು ವಿಶೇಷವಾದ ಸಂಗತಿ ಎಂದು ನಮಗನ್ನಿಸುವುದಿಲ್ಲ. ಆದರೆ ಪ್ರಕೃತಿ ಹಾಳಾದಾಗ, ಪ್ರದೂಷಣೆಗೆ ಒಳಗಾದಾಗ ನಾವು ಪರಿತಪಿಸತೊಡಗುತ್ತೇವೆ. ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಹಾಗೆ ಪ್ರಕೃತಿಯ ಮೇಲೆ ದೌರ್ಜನ್ಯ ನಡೆಯಲು ಶುರುವಾಗಿ ಹಲವು ದಿನಗಳ ನಂತರವಷ್ಟೇ ಸ್ಥಳೀಯರು ಜಾಗ್ರತರಾದರು. ತಮ್ಮ ಪ್ರಕೃತಿಗಾಗಿ ಅವರು ಹೋರಾಟ ಕೈಗೊಂಡರು. ಹಿಲ್ಟನ್ ಹೆಡ್ನ ಪರಿಸರ ಚಳವಳಿಯು ಯಾವುದೇ ಚಳವಳಿಗೂ ಸಣ್ಣದಲ್ಲ; ಚಳವಳಿಯು ಅದರ ಗಾತ್ರದಿಂದಲ್ಲ ಬದಲಿಗೆ ಉದ್ದೇಶದಿಂದ ದೊಡ್ಡದೋ ಚಿಕ್ಕದೋ ಎಂದು ಪರಿಗಣಿಸಲ್ಪಡುತ್ತದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+- id: story-n1
+  type: prose
+  section: story
+  text: "1986ರಲ್ಲಿ ಅಮೆರಿಕಾಗೆ ಹೋಗುವ ಪ್ರಸಂಗವಾಯಿತು. ಅಲ್ಲಿರುವಾಗ ನನ್ನ ತಮ್ಮ ಬಾಬುವಿನೊಡನೆ ಅಮೆರಿಕಾದ ಪೂರ್ವ ಸಮುದ್ರ ತೀರಕ್ಕಂಟಿದಂತೆ ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರದಲ್ಲಿರುವ ಹಿಲ್ಟನ್ ಹೆಡ್ ಎನ್ನುವ ಒಂದು ದ್ವೀಪಕ್ಕೆ ಹೋದೆವು. ಸುತ್ತ ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರ ಹರಡಿರುವ ಹಿಲ್ಟನ್ ಹೆಡ್ ನಿಜಕ್ಕೂ ಸುಂದರವಾದ ಪುಟ್ಟದ್ವೀಪ. ರಸ್ತೆಯಿಂದ ಅದನ್ನು ತಲುಪಲು ಆರು ಲೇನಿನ ಭಾರಿ ಸೇತುವೆ ಇದೆ. ಕಾಡೇ ನಾಡಿಗೆ ಸಾರ್ವಭೌಮವಾಗಿದ್ದಂಥ ಒಂದು ಕಾಲದಲ್ಲಿ ಈ ದ್ವೀಪದಲ್ಲೂ ಸ್ಥಳೀಯ ಅಮೆರಿಂಡಿಯನ್ನರು ವಾಸವಾಗಿದ್ದರು. ಯುರೋಪಿಯನ್ನರ ಆಗಮನವಾದ ಮೇಲೆ ಅಮೆರಿಂಡಿಯನ್ನರ ಧೂಳೀಪಟವಾಯಿತು, ಆಗ ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪವೂ ಬಿಳಿಯರದಾಯಿತು."
+- id: story-n2
+  type: prose
+  section: story
+  text: "ಒಳ್ಳೆಯ ಹವೆ ಇರುವ ಈ ದ್ವೀಪದಲ್ಲಿ ಕಾಡು ಕಡಿದು ನೀಲಿ ನಂತರ ಇನ್ನಿತರ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವ ತೋಟಗಳನ್ನಾಗಿ ಯುರೋಪಿಯನ್ನರು ಪರಿವರ್ತಿಸಿಬಿಟ್ಟರು. ಆದರೂ ಅಲ್ಲಲ್ಲಿ ಬೇಕಾದಷ್ಟು ಓಕ್ ಮರಗಳೂ ಇದ್ದವು. ಕಡಲತೀರದ ಸಸ್ಯಗಳಿದ್ದವು. ದಿನ ಕಳೆದಂತೆ ತೋಟತುಡಿಕೆಯಿಂದ ವರಮಾನ ಕಡಿಮೆ; ವರ್ಷವಿಡೀ ಉತ್ತಮ ಹವೆ, ಕಡಲತೀರ, ಒಳ್ಳೆಯ ಬಂದರು ಇರುವ ಈ ದ್ವೀಪದಲ್ಲಿ ತೋಟತುಡಿಕೆಗಳನ್ನು ತೆಗೆದು ರೆಸಾರ್ಟುಗಳು, ಗಾಲ್ಫ್ ಕೋರ್ಸುಗಳು, ಕ್ರೀಡಾಮೈದಾನಗಳು, ಬೋಟಿಂಗ್ ಇತ್ಯಾದಿಗಳನ್ನೆಬ್ಬಿಸಿದರೆ ಲಾಭ ಎನ್ನಿಸಿತೇನೋ."
+- id: story-n3
+  type: prose
+  section: story
+  text: "ಸಾಹುಕಾರರ ನಾಡಾದ ಅಮೆರಿಕದಲ್ಲಿ ಇಂಥ ಐಡಿಯಾಗಳಿಗೆ ಪ್ರೋತ್ಸಾಹ ಕೊಡುವವರು ಬೇಕಾದಷ್ಟು ಜನ. ಅರವತ್ತರ ದಶಕದಲ್ಲಿ ಈ ಸುಧಾರಣೆಗಳು ಜಾರಿಗೊಂಡು ತೋಟತುಡಿಕೆಗಳ ಬದಲು ಸೀಬೀಚ್ ಹೋಟೆಲ್ಗಳು, ಸ್ಟೇಹೋಂಗಳು, ಗಾಲ್ಫ್ಕೋರ್ಸ್ಗಳು, ಹೋಟೆಲ್ಗಳಿಗಾಗಿ ತೋಟ, ತುಡಿಕೆ, ಹಿನ್ನೀರ ಕೋವುಗಳು, ಹೊಂಡಗಳು, ಕಾಡು ಕೊಚ್ಚತೊಡಗಿದರು. ಲಕ್ಸುರಿಯ ನವಾವತಾರಗಳ ಆಹುಟ ಹೆಚ್ಚಿದಷ್ಟೂ ಕಾರು, ಪ್ಲೇನು, ಹೆಲಿಗಳಲ್ಲಿ ಬಂದಿಳಿಯುವ ಬೂಟು, ಚೆಡ್ಡಿ, ಟೀಶರ್ಟು, ಕೂಲಿಂಗ್ಗ್ಲಾಸ್, ಸ್ಕಲ್ಕ್ಯಾಪು ತೊಟ್ಟ ದುಡ್ಡುಳ್ಳ ಅಭಿಮಾನಿಗಳ ಭರಾಟೆಯೂ ಹೆಚ್ಚತೊಡಗಿತು."
+- id: story-n4
+  type: prose
+  section: story
+  text: "ಈ ರೀತಿಯ ಅತಿಕ್ರಮಣ ಸಲ್ಲದು ಎಂದು ಅಲ್ಲಿಯ ಕೆಲವರಾದರೂ ಪರ್ಯಾವರಣಾಭಿಮಾನಿಗಳಿಗೆ ಅನ್ನಿಸಿತೇನೋ. ಅವರುಗಳೂ ಕೂಡಿ ಇಲ್ಲಿನ ಪುರಾತನ ಸಸ್ಯಸಂಪತ್ತು, ಹಳೆಯ ಕಾಲದ ಹೊಂಡಗಳು, ಹಿನ್ನೀರಿನ ಕೋವುಗಳು, ಓಕ್ಮರ ತೋಪುಗಳು, ಕಡಲತೀರದ ಸಸ್ಯಗಳು ಮತ್ತು ಕಾಡಿನ ಮರಗಳನ್ನು ತರಿಯಲೇಕೂಡದು ಎನ್ನುವ ಚಳವಳಿಯನ್ನು ಆರಂಭಿಸಿದರು. ಆದರೂ ದುಡ್ಡು ಬುಲ್ಡೋಜರುಳ್ಳ ವೀರರ ಮುಂದೆ ಇವರ ಕೈಸಾಗಲಿಲ್ಲ. ಇಲ್ಲಿನ ಗಾಲ್ಫ್ ಕೋರ್ಸುಗಳು, ಕ್ರೀಡಾವಿನೋದಗಳೆಡೆಗಳು ಎಷ್ಟು ಚೆನ್ನಾಗಿದ್ದವೆಂದರೆ ಪ್ರಸಿದ್ಧರು ಮೋಜಿಗೆ ಬರುತ್ತಿದ್ದರು. ಅಮೆರಿಕದ ಪ್ರೆಸಿಡೆಂಟರೂ ಗಾಲ್ಫ್ಗೆ ಬಂದದ್ದುಂಟು."
+- id: story-n5
+  type: prose
+  section: story
+  text: "ದುಡ್ಡು ಮತ್ತು ದೌಲತ್ತುಗಳಿಂದ ಪರ್ಯಾವರಣದ ಚಳುವಳಿಗಳಿಗೆ ಹಿನ್ನಡೆ ಆಗತೊಡಗಿದಾಗ ಕೆಲವು ಆಸಕ್ತರು ಕೋರ್ಟಿನ ಮೆಟ್ಟಿಲಿಗೇರುವ ಆಲೋಚನೆ ಮಾಡತೊಡಗಿದರು. ಆಗ ಹೇಗೋ ಒಬ್ಬ ನೆಲದಳ್ಳಾಳಿಗೆ ಪರ್ಯಾವರಣದ ಸುಖದುಃಖಗಳಿಗೂ ಮನಸ್ಸು ಕೊಡುವ ಇಂಬಾಯಿತು. ಅವನೂ ಪರ್ಯಾವರಣದ ಆಸಕ್ತರೊಡನೆ ಕೂಡಿಕೊಂಡು ಕಡಲ ತೀರದ ಸಸ್ಯಸಂಪತ್ತು ಹಳೆಯ ಕಾಲದ ಹೊಂಡಗಳು, ಓಕ್ ಮರಗಳನ್ನು ಹೊಡೆದು ತರಿಯಲೇ ಕೂಡದು ಎನ್ನುವ ಚಳವಳಿ ಆರಂಭಿಸಿದ. ಆದರೆ ಸಾಹುಕಾರರು ಬಗ್ಗಲಿಲ್ಲ. ಇವರು ವಿಧಿಯಿಲ್ಲದೆ ಕೋರ್ಟು ಕಚೇರಿಗಳ ಮೆಟ್ಟಿಲೇರಿದರು."
+- id: story-n6
+  type: prose
+  section: story
+  text: "ಈ ಹೊಯ್ದಾಟದಲ್ಲಿ ಕ್ರಮೇಣ ಜನಸಮ್ಮತಿ ಪರ್ಯಾವರಣದತ್ತ ಒಲಿಯಿತು. ರಸ್ತೆ, ಕಟ್ಟಡ, ಕ್ರೀಡಾಂಗಣ, ಸೇತುವೆಗೆ ತೋರುತ್ತಿದ್ದ ಅಭಿಯಂತರ ಶ್ರದ್ಧೆಯನ್ನೇ ಪರಿಸರ ಸೌಂದರ್ಯ, ಗಿಡ, ಮರ, ತಟಸಸ್ಯ ಸಂಕುಲ, ಹೊಂಡಗಳಿಗೂ ತೋರಿಸತೊಡಗಿದರು. ಸ್ಥಳದ ನೆಲ ಜಲ ವನ ಸಂಪತ್ತು ಹೆಚ್ಚುವಂತೆ ನೆಲವನ್ನು ಕಾಪಿಟ್ಟುಕೊಂಡು ದ್ವೀಪದ ಸೌಂದರ್ಯವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಬೇಕು ಎನ್ನುವ ದೀಡಿನಲ್ಲಿ ಮಂತ್ರಾಲೋಚನೆಗಳಾದವು. ಪುರಾಭಿವೃದ್ಧಿ ಕಾರ್ಯ ಹಾಗೆಯೇ ಜರುಗತೊಡಗಿತು. ಪರಿಣಾಮವಾಗಿ, ನಾಲ್ಕಾರು ವರ್ಷಗಳಲ್ಲಿ ಹಿಲ್ಟನ್ ಹೆಡ್ ನಂದನವನದಂತೆ ಮರ, ಗಿಡ, ಹೊಂಡ, ತೀರದ ಸಸ್ಯಗಳಿಂದ ಕಂಗೊಳಿಸತೊಡಗಿತು. ಅವುಗಳ ನಡುವೆ ಕ್ರೀಡೆಗೆ ಎಡೆಗಳಾದವು. ಪ್ರೆಸಿಡೆಂಟರೂ ಪಚ್ಚೆಯಂತೆ ಹೊಳೆಯುವ ಇಲ್ಲಿಯ ಗಾಲ್ಫ್ ಕೋರ್ಸಿಗೆ ಆಡಲು ಬರುವುದೂ ಸಾಧಾರಣವಾಯಿತು."
+- id: story-n7
+  type: prose
+  section: story
+  text: "ದಿನವಿಡೀ ಸುತ್ತಾಡಿ ಸಂತೋಷಪಟ್ಟು ಕಡಲತಡಿಯ ಪುರಾತನ ಲೈಟ್ಹೌಸನ್ನೇರಿ ಅಟ್ಲಾಂಟಿಕ್ ಮಹಾಸಾಗರ, ಸಮುದ್ರದಲ್ಲೋಡಾಡುತ್ತಿದ್ದ ನೌಕೆಗಳು, ಕಡಲ ಕಾಗೆಗಳು, ನಮ್ಮ ಬಡ್ಡೆಗೇ ಬಂದಿಳಿಯುವ ರೇವನ್, ಮೈನಾಗಳನ್ನ ನೋಡಿ ನಾವೂ ಆನಂದಿಸಿದೆವು."
+- id: story-n8
+  type: prose
+  section: story
+  text: "ಅಲ್ಲಿಂದ ಕೆಳಗಿಳಿದ ಮೇಲೆ ಅಕಸ್ಮಾತ್ತಾಗಿ ಹಾವು ಬಳುಕಿನ ಹಿನ್ನೀರಿನ ದೊಣೆಯ ಒಂದು ಬದಿಯಲ್ಲಿ ದುಂಡನೆಯ ವೇದಿಕೆಯ ನಡುವೆ ಒಂದು ದೊಡ್ಡ ಓಕ್ ಮರವನ್ನು ಕಂಡೆವು. ಅದೇನೆಂದು ಅಲ್ಲಿಗೆ ಹೋದೆವು. ಅದೊಂದು ಹಳೆಯ ಓಕ್ ಮರ; ಅದರಡಿ ತೆಳ್ಳಗೆ ಅಗೆತ ಮಾಡಿ ದಪ್ಪ ಗೊಬ್ಬರ, ಮರದ ಚೆಕ್ಕೆ ಹರಡಿದ್ದರು. ಯಾರೂ ಕಾಲಿಕ್ಕದಂತೆ ಪರಿಧಿಯ ಸುತ್ತಲೂ ಕಟಕಟೆ ಕಟ್ಟಿದ್ದರು. ಇದು ಲಿಬರ್ಟಿ ಓಕ್ ಮರ. ಐವತ್ತರ ದಶಕದಲ್ಲಿ ಪರಿಸರ ರಕ್ಷಣೆಗಾಗಿ ಜನ ಒಗ್ಗೂಡಿ ಪಣತೊಟ್ಟಿದ್ದು ಈ ಮರದಲ್ಲಿಯೇ. ಇದು ಸಂರಕ್ಷಿತ ಜಾಗ. ದಯವಿಟ್ಟು ಕಟಕಟೆಯ ಒಳಗೆ ಪ್ರವೇಶಿಸಬೇಡಿ ಎನ್ನುವ ಫಲಕವನ್ನು ನೆಟ್ಟಿದ್ದರು. ಹೀಗೆ ಆ ಮರ ನೂರುಕಾಲ ಬಾಳುವಂತೆ ರಕ್ಷಿತವಾಗಿತ್ತು. ನಂತರದ ಕಾಲದಲ್ಲಿ ಈ ಮರದ ಪ್ರಸಿದ್ಧಿ ಎಷ್ಟು ಹರಡಿತೆಂದರೆ ಇದರ ಸಾನ್ನಿಧ್ಯವನ್ನು ಕಂಡು ಮರಳಿದ ಜನ ತಂತಮ್ಮ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಪರ್ಯಾವರಣ ರಕ್ಷಣೆಯಲ್ಲಿ ಚುರುಕುಗೊಂಡರು. ಈ ಮರದ ಸಾನ್ನಿಧ್ಯದಲ್ಲಿ ಎಷ್ಟೋ ವಿವಾಹಗಳಾಗಿವೆಯಂತೆ!"
+- id: competency
+  type: competency
+  section: competency
+  text: "ಕೌಶಲ: ಆಲಿಸುವುದು. ಸಾಮರ್ಥ್ಯ: ಗುಂಪು ಚಟುವಟಿಕೆಗಳ ನಿರ್ದೇಶನಗಳನ್ನು ಆಲಿಸಿ, ಅರ್ಥಮಾಡಿಕೊಂಡು ಆಂಗಿಕವಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸುವುದು. ಆಶಯ: ಮನುಷ್ಯನು ನಾಗರೀಕತೆಯ ವ್ಯಾಮೋಹಕ್ಕೆ ಸಿಲುಕಿ ಸುಂದರವಾದ ಪರಿಸರ ತಾಣಗಳನ್ನು ನಾಶಮಾಡುತ್ತಾ ಬಂದಿದ್ದಾನೆ. ಮರಗಿಡಗಳನ್ನು ಕತ್ತರಿಸಿ ಆ ಜಾಗಗಳನ್ನು ವ್ಯಾಪಾರ, ಮನರಂಜನಾ, ಕ್ರೀಡಾ ತಾಣಗಳನ್ನಾಗಿ ಪರಿವರ್ತಿಸುತ್ತಿರುವುದರಿಂದ ನಮ್ಮ ಪರಿಸರ ತಾಣಗಳು ಅಧೋಗತಿಯನ್ನು ಕಾಣುತ್ತಿವೆ. ಪ್ರಕೃತಿಯ ಮೇಲೆ ನಡೆಯುತ್ತಿರುವ ದೌರ್ಜನ್ಯವನ್ನು ತಡೆಗಟ್ಟಲು ಪರಿಸರವಾದಿಗಳು ಮೊದಲಿನಿಂದಲೂ ನಡೆಸುತ್ತಿರುವ ಹೋರಾಟಗಳು ಅವಿಸ್ಮರಣೀಯ. ಪ್ರಸ್ತುತ ಸನ್ನಿವೇಶದಲ್ಲಿ ಪರಿಸರವನ್ನು ಸಂರಕ್ಷಣೆ ಮಾಡಬೇಕಾಗಿರುವುದು ನಮ್ಮೆಲ್ಲರ ಆದ್ಯ ಕರ್ತವ್ಯವಾಗಬೇಕು ಎಂಬುದು ಈ ಪಾಠದ ಮುಖ್ಯ ಆಶಯ."
+- id: author-1
+  type: prose
+  section: author
+  text: "ಶಶಿಧರ ವಿಶ್ವಾಮಿತ್ರ 1940ರಲ್ಲಿ ಮೈಸೂರಿನಲ್ಲಿ ಹುಟ್ಟಿದರು. ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿನಲ್ಲಿ ಪದವೀಧರರಾದ ಮೇಲೆ ಭಾರತ ಸರಕಾರದ ರಾಷ್ಟ್ರೀಯ ಕ್ಷಯರೋಗ ಸಂಸ್ಥೆಯಲ್ಲಿ ಸಂಶೋಧಕರಾಗಿ ವೃತ್ತಿಜೀವನ ಪ್ರಾರಂಭಿಸಿದರು. ಕ್ಷಯರೋಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿವಿಧ ಸಂಸ್ಥೆಗಳಲ್ಲಿ, ವಿವಿಧ ಹುದ್ದೆಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿದ್ದಾರೆ. ಖಿಲ, ಪದ ಕುಸಿಯೆ ನೆಲವಿಹುದೆ, ಹಿಂದೂ ಧರ್ಮ, ಸೃಷ್ಟಿಯ ರಂಗವಲ್ಲಿ- ಮುಂತಾದವು ಇವರ ಕೆಲವು ಪ್ರಕಟಿತ ಕೃತಿಗಳು. ಸಂಚಿ ಎಂಬ ಆತ್ಮಕತೆಯನ್ನು ಬರೆದಿದ್ದಾರೆ."
+- id: vocab-amerindian
+  type: vocabulary_term
+  section: vocab
+  text: ಅಮೆರಿಂಡಿಯನ್ನರು
+- id: vocab-amerindian-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಅಮೆರಿಕಾ ಭೂಖಂಡದಲ್ಲಿ ಐರೋಪ್ಯರು ಬಂದು ವಸಾಹತು ಸ್ಥಾಪಿಸುವುದಕ್ಕೆ ಮೊದಲು ಅಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ಮೂಲನಿವಾಸಿಗಳು
+- id: vocab-dhulipata
+  type: vocabulary_term
+  section: vocab
+  text: ಧೂಳೀಪಟ
+- id: vocab-dhulipata-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸಂಪೂರ್ಣ ನಾಶ
+- id: vocab-oak
+  type: vocabulary_term
+  section: vocab
+  text: ಓಕ್
+- id: vocab-oak-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಎತ್ತರಕ್ಕೆ ಬೆಳೆಯುವ ಒಂದು ಜಾತಿಯ ಮರ
+- id: vocab-golf
+  type: vocabulary_term
+  section: vocab
+  text: ಗಾಲ್ಫ್
+- id: vocab-golf-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಶ್ರೀಮಂತರ ಆಟವೆಂದೇ ಪ್ರಸಿದ್ಧವಾಗಿರುವ ಒಂದು ಬಗೆಯ ವಿಲಾಸಿ ಆಟ
+- id: vocab-golf-course
+  type: vocabulary_term
+  section: vocab
+  text: ಗಾಲ್ಫ್ಕೋರ್ಸ್
+- id: vocab-golf-course-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಗಾಲ್ಫ್ ಆಟದ ಅಂಗಣ
+- id: vocab-hinnira-kovu
+  type: vocabulary_term
+  section: vocab
+  text: ಹಿನ್ನೀರ ಕೋವು
+- id: vocab-hinnira-kovu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸಮುದ್ರವು ಒಳಚಾಚಿರುವ ನೆಲಭಾಗ
+- id: vocab-stayhome
+  type: vocabulary_term
+  section: vocab
+  text: ಸ್ಟೇಹೋಂ
+- id: vocab-stayhome-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಪ್ರವಾಸಿಗಳು ಉಳಿದುಕೊಳ್ಳಲೆಂದು ಕಟ್ಟಿದ ವಸತಿ
+- id: vocab-luxury
+  type: vocabulary_term
+  section: vocab
+  text: ಲಕ್ಸುರಿ
+- id: vocab-luxury-def
+  type: vocabulary_definition
+  section: vocab
+  text: ವಿಲಾಸ
+- id: vocab-heli
+  type: vocabulary_term
+  section: vocab
+  text: ಹೆಲಿ
+- id: vocab-heli-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹೆಲಿಕಾಪ್ಟರ್
+- id: vocab-atikramana
+  type: vocabulary_term
+  section: vocab
+  text: ಅತಿಕ್ರಮಣ
+- id: vocab-atikramana-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಅಕ್ರಮವಾಗಿ ಅಥವಾ ಬಲಾತ್ಕಾರವಾಗಿ ವಶಪಡಿಸಿಕೊಳ್ಳುವುದು
+- id: vocab-paryavarana
+  type: vocabulary_term
+  section: vocab
+  text: ಪರ್ಯಾವರಣ
+- id: vocab-paryavarana-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಪರಿಸರ
+- id: vocab-tatasasya
+  type: vocabulary_term
+  section: vocab
+  text: ತಟಸಸ್ಯಸಂಕುಲ
+- id: vocab-tatasasya-def
+  type: vocabulary_definition
+  section: vocab
+  text: ನದಿ ಅಥವಾ ಸಮುದ್ರದ ದಂಡೆಯಲ್ಲಿ ಬೆಳೆಯುವ ಜಲಸಸ್ಯಗಳು
+- id: vocab-abhiyantara
+  type: vocabulary_term
+  section: vocab
+  text: ಅಭಿಯಂತರ
+- id: vocab-abhiyantara-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಇಂಜಿನಿಯರಿಂಗ್
+- id: vocab-raven-maina
+  type: vocabulary_term
+  section: vocab
+  text: ರೇವನ್ ಮೈನಾ
+- id: vocab-raven-maina-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹಕ್ಕಿಗಳು
+- id: vocab-kapittu
+  type: vocabulary_term
+  section: vocab
+  text: ಕಾಪಿಟ್ಟುಕೊಂಡು
+- id: vocab-kapittu-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ರಕ್ಷಿಸುವುದು, ಕಾಪಾಡುವುದು"
+- id: vocab-purabhivriddhi
+  type: vocabulary_term
+  section: vocab
+  text: ಪುರಾಭಿವೃದ್ಧಿ
+- id: vocab-purabhivriddhi-def
+  type: vocabulary_definition
+  section: vocab
+  text: ನಗರದ ಅಭಿವೃದ್ಧಿ
+- id: vocab-ahuta
+  type: vocabulary_term
+  section: vocab
+  text: ಆಹುಟ
+- id: vocab-ahuta-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಉಪಟಳ, ಉಪದ್ರವತೆ, ತೊಂದರೆ"
+- id: vocab-liberty
+  type: vocabulary_term
+  section: vocab
+  text: ಲಿಬರ್ಟಿ
+- id: vocab-liberty-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸ್ವಾತಂತ್ರ್ಯ (ಅಮೆರಿಕದ ‘ಸ್ಟಾಚ್ಯೂ ಆಫ್ ಲಿಬರ್ಟಿ’ ಪ್ರತಿಮೆ ಪ್ರಸಿದ್ಧ)
+- id: vocab-pacche
+  type: vocabulary_term
+  section: vocab
+  text: ಪಚ್ಚೆ
+- id: vocab-pacche-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹಸಿರು
+- id: vocab-badde
+  type: vocabulary_term
+  section: vocab
+  text: ಬಡ್ಡೆ
+- id: vocab-badde-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಬಂಡ, ಬೇರು, ಬದಿ"
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪ ಯಾವ ಸಾಗರದಲ್ಲಿದೆ?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಅಮೆರಿಕದಲ್ಲಿ ವಾಸವಾಗಿದ್ದ ಮೂಲನಿವಾಸಿಗಳನ್ನು ಏನೆನ್ನುತ್ತಾರೆ?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಬಂದಿಳಿಯುವ ಶ್ರೀಮಂತರ ಉಡುಗೆ ತೊಡುಗೆ ಹೇಗಿತ್ತು?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪದಲ್ಲಿ ಏನೇನು ಕ್ರೀಡೆಗಳನ್ನು ಆಯೋಜಿಸಲಾಗುತ್ತಿತ್ತು?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಕಡಲತಡಿಯ ಲೈಟ್ಹೌಸನ್ನೇರಿದರೆ ಯಾವ ಚಿತ್ರಣವು ಕಾಣಸಿಗುತ್ತದೆ?
+- id: ex-a-q6
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿರುವ ಸ್ಮಾರಕ ಯಾವುದು?
+- id: ex-b-q1
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಯುರೋಪಿಯನ್ನರು ಬಂದ ಮೇಲೆ ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಏನೇನು ಬದಲಾವಣೆಗಳಾದವು?
+- id: ex-b-q2
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ ಮೊದಲು ಹೇಗಿತ್ತು?
+- id: ex-b-q3
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ನ ಸ್ಮಾರಕ ಮರದ ಬಗ್ಗೆ ವಿವರಿಸಿ.
+- id: ex-b-q4
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ ದ್ವೀಪದಲ್ಲಿ ಏನೇನು ಕಟ್ಟಡಗಳು ನಿರ್ಮಾಣಗೊಂಡವು?
+- id: ex-b-q5
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹಿಲ್ಟನ್ ಹೆಡ್ನಲ್ಲಿ ಪರಿಸರ ಹೋರಾಟ ಹೇಗೆ ಪ್ರಾರಂಭವಾಯಿತು?
+- id: ex-c-q1
+  type: fill_blank
+  section: exercise-C
+  exercise: C
+  text: "ಯುರೋಪಿಯನ್ನರ ಆಗಮನವಾದ ಮೇಲೆ ಅಮೆರಿಂಡಿಯನ್ನರ ಸಮುದಾಯವು ________ ಆಯಿತು. (ಅಭಿವೃದ್ಧಿ, ಶಿಕ್ಷಿತ, ಧೂಳೀಪಟ)"
+- id: ex-c-q2
+  type: fill_blank
+  section: exercise-C
+  exercise: C
+  text: "ಅಟ್ಲಾಂಟಿಕ್ ಸಾಗರವು ಅಮೆರಿಕದ ______ ಭಾಗದಲ್ಲಿದೆ. (ಪೂರ್ವ, ಉತ್ತರ, ಪಶ್ಚಿಮ)"
+- id: ex-c-q3
+  type: fill_blank
+  section: exercise-C
+  exercise: C
+  text: "ವಿಧಿಯಿಲ್ಲದೆ ಕೊನೆಗೆ _____ ಮೊರೆ ಹೋಗಬೇಕಾಯಿತು. (ಧನಿಕರ, ಅಮೆರಿಕಾಧ್ಯಕ್ಷರ, ನ್ಯಾಯಾಲಯದ)"
+- id: ex-c-q4
+  type: fill_blank
+  section: exercise-C
+  exercise: C
+  text: "ಕಟ್ಟಡಗಳಿಗೆ ತೋರುತ್ತಿದ್ದ ________ ಶ್ರದ್ಧೆಯನ್ನೇ ಜನ ಪರಿಸರಕ್ಕೂ ನೀಡತೊಡಗಿದರು. (ಪಾರಂಪರಿಕ, ಅಭಿಯಂತರ, ರಾಜಕೀಯ)"
+- id: ex-c-q5
+  type: fill_blank
+  section: exercise-C
+  exercise: C
+  text: "ದ್ವೀಪದ ಸೌಂದರ್ಯವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಲು ಮೊದಲು ಎಲ್ಲರೂ ಸೇರಿ __________ ನಡೆಸಿದರು. (ಮಂತ್ರಾಲೋಚನೆ, ಜಾಥಾ, ಪ್ರತಿಭಟನೆ)"
+- id: ex-c-q6
+  type: fill_blank
+  section: exercise-C
+  exercise: C
+  text: "ಹೋರಾಟ ಮುಂದುವರಿದ ಬಳಿಕ ಹಿಲ್ಟನ್ ಹೆಡ್ _________ ಕಂಗೊಳಿಸತೊಡಗಿತು. (ರಾಜಧಾನಿಯಂತೆ, ನಂದನವನದಂತೆ, ಅಭಯಾರಣ್ಯದಂತೆ)"

@@ -1,0 +1,343 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 8
+  slug: ch08-vachanagala-bhavasangama
+  title: ವಚನಗಳ ಭಾವಸಂಗಮ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಜೇಡರ ದಾಸಿಮಯ್ಯ ಮತ್ತು ಇತರರು
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ವಚನಗಳು
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ 12 ನೆಯ ಶತಮಾನ ಅತ್ಯಮೂಲ್ಯವಾದದ್ದು. ವಚನ ಸಾಹಿತ್ಯ ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯ ಪ್ರಕಾರ. ಜನಸಾಮಾನ್ಯರು ತಮ್ಮ ಸ್ವಾನುಭೂತಿ, ನಿವೇದನೆಗಳನ್ನು ತಮ್ಮ ತಮ್ಮ ಇಷ್ಟ ದೇವರ ಹೆಸರಿನಲ್ಲಿ ಅಂಕಿತನಾಮನನ್ನಿಟ್ಟುಕೊಂಡು ವಚನಗಳ ರೂಪದಲ್ಲಿ ಹೊರಹೊಮ್ಮಿದ ಕಾಲವಿದು. ಈ ಕಾಲದಲ್ಲಿ ಜಾತಿ ಭೇದವಿಲ್ಲದೆ ಗಂಡು ಹೆಣ್ಣೆಂಬ ತಾರತಮ್ಯವಿಲ್ಲದೇ ಹಲವಾರು ಮಂದಿ ವಚನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಜೇಡರ ದಾಸಿಮಯ್ಯ, ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಚೆನ್ನಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಮಡಿವಾಳ ಮಾಚಿದೇವ, ಮುಕ್ತಾಯಕ್ಕ, ಸತ್ಯಕ್ಕ ಮೊದಲಾದವರ ವಚನಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹೇರಳವಾಗಿವೆ. ಈ ವಚನಕಾರರ ವಚನಗಳನ್ನು ಅವರವರ ವಚನಾಂಕಿತದಿಂದ ಸುಲಭವಾಗಿ ಅದರ ಕರ್ತೃವನ್ನು ರಚನೆಕಾರರನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗಿದೆ. ಇಂಥ ಅಮೂಲ್ಯ ವಚನಗಳ ಭಾವಾಂತರಂಗದಲ್ಲಿ ಭಕ್ತನ ಪರೀಕ್ಷೆ, ಪರಿಶುದ್ಧತೆ, ಆಚಾರ-ವಿಚಾರಗಳು ಹಾಗೂ ಭಕ್ತರ ಪ್ರಾಮಾಣಿಕ ನಡೆನುಡಿಗಳನ್ನು ಈ ವಚನಗಳ ಭಾವಸಂಗಮದಲ್ಲಿ ಕಾಣಬಹುದು."
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಹರಿದ ಗೋಣಿಯಲೊಬ್ಬ ಕಳವೆಯ ತುಂಬಿದ
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಇರುಳೆಲ್ಲಾ ನಡೆದನಾ ಸುಂಕಕಂಜಿ
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಕಳವೆಯೆಲ್ಲಾ ಹೋಗಿ ಬರಿಗೋಣಿ ಉಳಿಯಿತ್ತು
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಅಳಿಮನದವನ ಭಕ್ತಿ ಇಂತಾಯಿತ್ತು ರಾಮನಾಥ- ಜೇಡರ ದಾಸಿಮಯ್ಯ.
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಅಂಧಕಾರದ ದೆಸೆಯಿಂದ ಚಂದ್ರನ ಪ್ರಭೆಯಾಯಿತು
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಿಂದಕರ ನುಡಿಯಿಂದ ಏಡಿಸಲೈ ಶಿವಭಕ್ತಿಯ ಪ್ರಭೆಯಾಯಿತು
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಅಹುದೆಂದಡೆ ಅಲ್ಲವೆಂದತಿಗಳೆವರು
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಕುತರ್ಕಶಾಸ್ತ್ರದಿಂದ ಯಮಗತಿಗರ ಕೂಡೆ
+- id: poem-s2l5
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ನಾನಾ ಜನ್ಮಕ್ಕೇರದೆ, ಶಿವಾಚಾರದ ಪಥವ ತೋರಯ್ಯಾ"
+- id: poem-s2l6
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಕಲಿದೇವರ ದೇವ- ಮಡಿವಾಳ ಮಾಚಯ್ಯ
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನುಡಿಯಲುಬಾರದು ಕೆಟ್ಟ ನುಡಿಗಳ
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನಡೆಯಲುಬಾರದು ಕೆಟ್ಟ ನಡೆಗಳ
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: "ನುಡಿದಡೇನು, ನಡೆಯದಿರ್ದಡೇನು"
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಹಿಡಿದ ವ್ರತವ ಬಿಡದಿರಲು
+- id: poem-s3l5
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಅದೇ ಮಹಾಜ್ಞಾನದಾಚರಣೆ ಎಂಬೆನು ಅಜಗಣ್ಣ ತಂದೆ- ಮುಕ್ತಾಯಕ್ಕ
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಲಂಚವಂಚನಕ್ಕೆ ಕೈಯಾನದ ಭಾಷೆ
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಬಟ್ಟೆಯಲ್ಲಿ ಹೊನ್ನುವಸ್ತ್ರ ಬಿದ್ದಿದ್ದರೆ
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ನಾನು ಕೈಮುಟ್ಟಿ ಎತ್ತಿದೆನಾದರೆ
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ನಿಮ್ಮಾಣೆ ನಿಮ್ಮ ಪ್ರಮಥರಾಣೆ
+- id: poem-s4l5
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಅದೇನು ಕಾರಣವೆಂದರೆ ನೀವಿಕ್ಕಿದ ಭಿಕ್ಷದಲ್ಲಿಪ್ಪೆನಾಗಿ
+- id: poem-s4l6
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಇಂತಲ್ಲದೆ ನಾನು ಅಳಿಮನವ ಮಾಡಿ
+- id: poem-s4l7
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಪರದ್ರವ್ಯಕ್ಕೆ ಆಸೆ ಮಾಡಿದೆನಾದರೆ
+- id: poem-s4l8
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ನೀನಾಗಲೆ ಎನ್ನ ನರಕದಲ್ಲಿ ಅದ್ದಿ
+- id: poem-s4l9
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ನೀನೆದ್ದು ಹೋಗಾ ಶಂಭುಜಕ್ಕೇಶ್ವರಾ.- ಸತ್ಯಕ್ಕ
+- id: author-1
+  type: prose
+  section: author
+  text: "ಜೇಡರ ದಾಸಿಮಯ್ಯ: ಹನ್ನೊಂದನೆಯ ಶತಮಾನದಲ್ಲಿದ್ದ ಹಿರಿಯ ಶಿವಶರಣ. ಯಾದಗಿರಿ ಸನಿಹದ ಮುದೇನೂರಿನವರು. ದಾಸಿಮಯ್ಯ ಪ್ರಥಮ ವಚನಕಾರರೆಂದೇ ಮಾನ್ಯರಾಗಿದ್ದಾರೆ. ‘ರಾಮನಾಥ’ ಎಂಬ ಅಂಕಿತದಿಂದ ರಚಿಸಿರುವ ಇವರ 150 ವಚನಗಳು ದೊರೆತಿವೆ. ಸರಳ ಮತ್ತು ನೇರ ನಿರೂಪಣೆಯಿಂದ ಕೂಡಿದ ದಾಸಿಮಯ್ಯನವರ ವಚನಗಳು ಸಾಮಾಜಿಕ ಮೌಲ್ಯದಿಂದ ಜನಮಾನ್ಯವಾಗಿದೆ."
+- id: author-2
+  type: prose
+  section: author
+  text: "ಜೇಡರದಾಸಿಮಯ್ಯನವರು ಈ ವಚನದಲ್ಲಿ ದೃಢವಿಲ್ಲದ ಭಕ್ತಿ ಹೇಗೆ ಇರುತ್ತದೆ ಎಂಬುದನ್ನು ತಿಳಿಸಿದ್ದಾರೆ. ಮನದಲ್ಲಿ ಕೆಟ್ಟ ಉದ್ದೇಶವನ್ನು ಹೊಂದಿ, ಹೊರನೋಟಕ್ಕೆ ದೇವರಲ್ಲಿ ಒಲವುಳ್ಳವನಂತೆ ನಟಿಸುತ್ತಾ, ಜನರನ್ನು ಮತ್ತು ಸಮಾಜವನ್ನು ವಂಚಿಸುವ ವ್ಯಕ್ತಿಯು ಕಟ್ಟ ಕಡೆಗೆ ಜೀವನದಲ್ಲಿ ಏನನ್ನೂ ಗಳಿಸಲಾಗದೆ, ತನ್ನಲ್ಲಿರುವುದನ್ನೂ ಕಳೆದು ಕೊಳ್ಳುತ್ತಾನೆ."
+- id: author-3
+  type: prose
+  section: author
+  text: "ಮಡಿವಾಳ ಮಾಚಯ್ಯ: ಮಡಿವಾಳ ಮಾಚಯ್ಯ 12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ವಚನಕಾರರಲ್ಲಿ ಒಬ್ಬರು. ಇವರ ಜನ್ಮಸ್ಥಳ ವಿಜಯಪುರ ಜಿಲ್ಲೆಯ ಹಿಪ್ಪರಗಿ. ಬಸವಣ್ಣನವರ ಕೀರ್ತಿ ಕೇಳಿ ಹೊಸ ಧರ್ಮಕ್ಕೆ ಆಕರ್ಷಣೆಗೊಂಡು ಕಲ್ಯಾಣಕ್ಕೆ ಹೋದವರಲ್ಲಿ ಮೊದಲಿಗರು. ಮಾಚಯ್ಯ ಕಲ್ಯಾಣದಲ್ಲಿ ಶಿವಶರಣರ ಬಟ್ಟೆಗಳನ್ನು ಮಾತ್ರ ಮಡಿಮಾಡಿಕೊಂಡಿದ್ದವರು. ಇವರ 353 ವಚನಗಳು ಉಪಲಬ್ಧವಾಗಿವೆ. ಇವರ ವಚನಾಂಕಿತನಾಮ ‘ಕಲಿದೇವರ ದೇವ’ ಎಂಬುದು."
+- id: author-4
+  type: prose
+  section: author
+  text: ಶಿವಭಕ್ತರು ಅನೇಕ ಸತ್ವಪರೀಕ್ಷೆಗಳಿಂದ ಪರಿಶುದ್ಧರಾಗಿದ್ದಾರೆ. ಅನ್ಯಾಯ ಮಾರ್ಗವನ್ನಿಡಿದು ನಡೆಯುವ ಸಾಮಾನ್ಯ ಮನುಷ್ಯರು ತಮ್ಮ ಹೀನ ಕೃತ್ಯಗಳಿಂದ ಅನೇಕ ಜನ್ಮಾಂತರಗಳಲ್ಲಿ ಬಳಲುತ್ತಾರೆ. ಶಿವಭಕ್ತರನ್ನು ಈ ಜನ್ಮಾಂತರಗಳಿಂದ ಬಳಲಿಸದೆ ಅವರಿಗೆ ಶಿವಾಚಾರದ ಸನ್ಮಾರ್ಗ ತೋರಿಸು ಎಂಬುದು ಈ ವಚನದಲ್ಲಿದೆ.
+- id: author-5
+  type: prose
+  section: author
+  text: "ಮುಕ್ತಾಯಕ್ಕ: 12ನೆಯ ಶತಮಾನದಲ್ಲಿದ್ದ ಅನುಭಾವಿ ಶಿವಶರಣೆ. ಮುಕ್ತಾಯಕ್ಕನ ಜನ್ಮಸ್ಥಳ ಲಕ್ಕುಂಡಿ. ಅಜಗಣ್ಣ ಅಂಕಿತವಿರುವ ಇವರ 37 ವಚನಗಳು ದೊರೆತಿವೆ. ಆಧ್ಯಾತ್ಮ ಸಾಧನೆಯ ಗುಪ್ತಭಕ್ತ ಅಜಗಣ್ಣನವರು ಮುಕ್ತಾಯಕ್ಕನವರ ಸಹೋದರ ಮತ್ತು ಗುರು. ಶಿವಭಕ್ತನಿಗೆ ನಡೆ-ನುಡಿಗಳು ಬಹಳ ಮುಖ್ಯ, ನಡೆನುಡಿಗಳ ಪರಿಶುದ್ಧತೆಯೇ ನಿಜವಾದ ವ್ರತ. ಇದು ಮಹಾಜ್ಞಾನ ಸಂಪಾದನೆಯ ಮಾರ್ಗವೆಂಬುದು ಈ ವಚನದಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿದೆ."
+- id: author-6
+  type: prose
+  section: author
+  text: "ಸತ್ಯಕ್ಕ: 12ನೆಯ ಶತಮಾನದಲ್ಲಿದ್ದ ಶಿವಶರಣೆಯರಲ್ಲಿ ಒಬ್ಬರು. ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಶಿರಾಳಕೊಪ್ಪ ಸಮೀಪದ ಹಿರೇಜಂಬೂರು ಸತ್ಯಕ್ಕನವರ ಜನ್ಮಸ್ಥಳ. ಶಿವಭಕ್ತರ ಮನೆಯಂಗಳ ಕಸಗುಡಿಸುತ್ತ ಶಿವಭಕ್ತಿಯನ್ನು ಆಚರಿಸುವುದು ಇವರ ಕಾಯಕವಾಗಿತ್ತು. “ಶಂಭುಜಕ್ಕೇಶ್ವರ” ಎಂಬುದು ಸತ್ಯಕ್ಕನವರ ವಚನಗಳ ಅಂಕಿತನಾಮ. ಇವರ 27 ವಚನಗಳು ದೊರಕಿವೆ. ಪರರಧನ, ಪರಿಶ್ರಮವಿಲ್ಲದೆ ದೊರಕುವ ಯಾವುದೇ ಆಸೆ-ಆಮಿಷಗಳಿಗೆ ಶಿವಶರಣರು ಒಳಗಾಗಬಾರದು, ಹಾಗೇನಾದರೂ ಒಳಗಾದ ಪಕ್ಷದಲ್ಲಿ ಅಂಥವರಿಗೆ ನರಕ ತಪ್ಪಿದ್ದಲ್ಲ."
+- id: vocab-harida
+  type: vocabulary_term
+  section: vocab
+  text: ಹರಿದ
+- id: vocab-harida-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕಿತ್ತುಹೋಗಿರುವ
+- id: vocab-goni
+  type: vocabulary_term
+  section: vocab
+  text: ಗೋಣಿ
+- id: vocab-goni-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸೆಣಬಿನ ಚೀಲ
+- id: vocab-kalave
+  type: vocabulary_term
+  section: vocab
+  text: ಕಳವೆ
+- id: vocab-kalave-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಭತ್ತ
+- id: vocab-irulu
+  type: vocabulary_term
+  section: vocab
+  text: ಇರುಳು
+- id: vocab-irulu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ರಾತ್ರಿ
+- id: vocab-sunka
+  type: vocabulary_term
+  section: vocab
+  text: ಸುಂಕ
+- id: vocab-sunka-def
+  type: vocabulary_definition
+  section: vocab
+  text: ತೆರಿಗೆ
+- id: vocab-andhakara
+  type: vocabulary_term
+  section: vocab
+  text: ಅಂಧಕಾರ
+- id: vocab-andhakara-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಕತ್ತಲೆ, ತಿಮಿರ"
+- id: vocab-prabhe
+  type: vocabulary_term
+  section: vocab
+  text: ಪ್ರಭೆ
+- id: vocab-prabhe-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಕಾಂತಿ, ಪ್ರಕಾಶ"
+- id: vocab-nindakaru
+  type: vocabulary_term
+  section: vocab
+  text: ನಿಂದಕರು
+- id: vocab-nindakaru-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ನಿಂದಿಸುವವ, ಬಯ್ಯುವವ"
+- id: vocab-edisalu
+  type: vocabulary_term
+  section: vocab
+  text: ಏಡಿಸಲು
+- id: vocab-edisalu-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಛೇಡಿಸು, ಚೇಷ್ಟೆಮಾಡು"
+- id: vocab-kutarka
+  type: vocabulary_term
+  section: vocab
+  text: ಕುತರ್ಕ
+- id: vocab-kutarka-def
+  type: vocabulary_definition
+  section: vocab
+  text: ನ್ಯಾಯವಿಲ್ಲದ ಮಾತು
+- id: vocab-patha
+  type: vocabulary_term
+  section: vocab
+  text: ಪಥ
+- id: vocab-patha-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಮಾರ್ಗ, ದಾರಿ"
+- id: vocab-vrata
+  type: vocabulary_term
+  section: vocab
+  text: ವ್ರತ
+- id: vocab-vrata-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ನಿಯಮ, ಪೂಜೆ, ಧಾರ್ಮಿಕ ಅನುಷ್ಠಾನ"
+- id: vocab-batte
+  type: vocabulary_term
+  section: vocab
+  text: ಬಟ್ಟೆ
+- id: vocab-batte-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಮಾರ್ಗ, ದಾರಿ"
+- id: vocab-pramatharu
+  type: vocabulary_term
+  section: vocab
+  text: ಪ್ರಮಥರು
+- id: vocab-pramatharu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಶಿವನ ಭಕ್ತರು
+- id: vocab-alimana
+  type: vocabulary_term
+  section: vocab
+  text: ಅಳಿಮನ
+- id: vocab-alimana-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ದೃಢವಲ್ಲದ ಮನಸ್ಸು, ಅಸ್ಥಿರವಾದ ಮನಸ್ಸು"
+- id: vocab-addi
+  type: vocabulary_term
+  section: vocab
+  text: ಅದ್ದಿ
+- id: vocab-addi-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಮುಳುಗಿಸಿ, ತೋಯಿಸಿ"
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹರಿದ ಗೋಣಿಯಲೊಬ್ಬ ಇರುಳೆಲ್ಲಾ ಏಕೆ ನಡೆದನು?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಶಿವನ ಮೇಲಿನ ಭಕ್ತಿ ಯಾವುದರಿಂದ ಪ್ರಭೆಯಾಯಿತು?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮಹಾಜ್ಞಾನದಾಚರಣೆ ಯಾವುದು?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಯಾವುದಕ್ಕೆ ಆಸೆ ಮಾಡಿದರೆ ನರಕದಲ್ಲಿ ಅದ್ದ ಬೇಕು?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹೊನ್ನುವಸ್ತ್ರ ಎಲ್ಲಿ ಬಿದ್ದಿದ್ದರೆ ಕೈಮುಟ್ಟಿ ಎತ್ತುವುದಿಲ್ಲ?
+- id: ex-b-q1
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಶಿವಾಚಾರದ ಪಥವನ್ನು ತೋರಿಸಲು ಏನು ಮಾಡಬೇಕು?
+- id: ex-b-q2
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ನಡೆ-ನುಡಿಗಳ ಬಗೆಗೆ ಮುಕ್ತಾಯಕ್ಕನ ಅಭಿಪ್ರಾಯವೇನು?
+- id: ex-c-q1
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ಜೇಡರದಾಸಿಮಯ್ಯನವರು ಅಳಿಮನದವನ ಭಕ್ತಿಯನ್ನು ಹೇಗೆ ತಿಳಿಸಿದ್ದಾರೆ?
+- id: ex-c-q2
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ಆಸೆ ಆಮಿಷಗಳಿಂದ ಮುಕ್ತರಾಗುವ ಬಗೆಯನ್ನು ಸತ್ಯಕ್ಕ ತನ್ನ ವಚನದಲ್ಲಿ ಹೇಗೆ ವ್ಯಕ್ತಗೊಳಿಸಿದ್ದಾಳೆ?

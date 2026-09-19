@@ -1,0 +1,75 @@
+id: 2026-27
+bookId: ktbs-savi-kannada-g7-fl-p1
+label: Savi Kannada Grade 7 First Language Part 1 (2026–27)
+printedGrade: 7
+languageRole: first-language
+license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+academicYears:
+- 2026-27
+provenance:
+  sourceDocuments:
+  - label: g07-fl-p1-2026-27.pdf
+    sha256: 35195919c5a99782c4fff0f0cedcf56fd5c24a40d98a78c80d2dcbcc2be6c265
+  notes: Partial conversion checkpoint for Grade 7 FL Part 1. Chapters are held editorial
+    drafts; production API excluded until rights are verified.
+chapters:
+- id: ch01-puttajji-puttajji-kathe-helu
+  number: 1
+  title: ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch01-puttajji-puttajji-kathe-helu
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch01-puttajji-puttajji-kathe-helu
+  held: true
+- id: ch02-seena-settaru-namma-teacheru
+  number: 2
+  title: ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch02-seena-settaru-namma-teacheru
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch02-seena-settaru-namma-teacheru
+  held: true
+- id: ch03-hilton-head-chalavali
+  number: 3
+  title: ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch03-hilton-head-chalavali
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch03-hilton-head-chalavali
+  held: true
+- id: ch04-mailara-mahadeva
+  number: 4
+  title: ಮೈಲಾರ ಮಹಾದೇವ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch04-mailara-mahadeva
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch04-mailara-mahadeva
+  held: true
+- id: ch05-huttari-haadu
+  number: 5
+  title: ಹುತ್ತರಿ ಹಾಡು
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch05-huttari-haadu
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch05-huttari-haadu
+  held: true
+- id: ch06-swatantrya-swarga
+  number: 6
+  title: ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch06-swatantrya-swarga
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch06-swatantrya-swarga
+  held: true
+- id: ch07-bhagyada-balegara
+  number: 7
+  title: ಭಾಗ್ಯದ ಬಳೆಗಾರ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch07-bhagyada-balegara
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch07-bhagyada-balegara
+  held: true
+- id: ch08-vachanagala-bhavasangama
+  number: 8
+  title: ವಚನಗಳ ಭಾವಸಂಗಮ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch08-vachanagala-bhavasangama
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch08-vachanagala-bhavasangama
+  held: true
+- id: ch09-basavannanavara-jeevana-darshana
+  number: 9
+  title: ಬಸವಣ್ಣನವರ ಜೀವನ ದರ್ಶನ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch09-basavannanavara-jeevana-darshana
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch09-basavannanavara-jeevana-darshana
+  held: true
+- id: ch10-gombe-kalisuva-neeti
+  number: 10
+  title: ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ
+  legacyPath: content/books/ktbs-savi-kannada-g7-fl-p1/editions/2026-27/chapters/ch10-gombe-kalisuva-neeti
+  formerPath: KSEEB/Karnataka/Kannada/Grade7/Kannada/ch10-gombe-kalisuva-neeti
+  held: true

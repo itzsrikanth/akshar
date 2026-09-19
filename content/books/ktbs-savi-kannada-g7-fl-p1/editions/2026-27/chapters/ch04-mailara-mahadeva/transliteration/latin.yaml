@@ -1,0 +1,93 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  story: jīvana caritrè
+  competency: kauśala / sāmarthya / āśaya
+  vocab: padagaḻa artha
+  notes: ṭippaṇi
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kèḻagina praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi.
+  exercise-C: i. kèḻagina praśnègaḻigè aidu-āru vākyagaḻalli uttarisi.
+intro-1: nāvīga svataṃtra bhāratadalliddevè. 1947kkiṃta hiṃdè bhāratada āḍaḻita briṭiṣara kaiyallittu. briṭiṣariṃda bhāratavannu biḍisikòḻḻalu halavāru maṃdi horāḍidaru. mohanadāsa karamacaṃda gāṃdhi avara netṛtvadalli ahiṃsātmaka horāṭave naḍèyitu. bhāratadādyaṃta halavaru ī caḻavaḻiyalli bhāgavahisiddaru. karnāṭakadiṃdalū halavāru jana gāṃdhījiyavara karègè ogòṭṭu svātaṃtryakkāgi naḍèda caḻavaḻiyalli bhāgavahisidaru. kèlavaru ī horāṭadalli hutātmarū ādaru. hīgè horāṭamāḍi hutātmarādavaralli òbbaru mailāra mahādeva. avara jīvana caritrèyannu nīvilli kāṇabahudu. ivarèllara horāṭa mattu tyāgada phalavāgi namagè 1947ra āgasṭ 15raṃdu svātaṃtrya labhisitu. namagè svātaṃtryavannu taṃdukòṭṭa hiriyarannu smarisuvudu namma kartavya.
+story-n1: bhārata briṭiṣara āḍaḻitakkè seridda kāla. avara āḍaḻitadiṃda biḍisikòṃḍu bhāratavannu svataṃtravāda deśavannāgi māḍalu halavāru bhāratīyaru horāṭa māḍuttiddaru. hāveri jillèya moṭèbènnūru èṃbudòṃdu haḻḻi. ā haḻḻiyalli deśabhaktaròbbaru bhāṣaṇa māḍuttiddaru. avara bhāṣaṇadalli “videśī vastragaḻannu tyajisi namma deśadalle tayāru māḍida baṭṭègaḻannu tòḍabeku” èṃdèlla heḻuttiddaru. ā mātu keḻuttidda 8-10 varṣada òbba bālaka tanna talè muṭṭi noḍida. avana talèya melè videśi ṭòppigè ittu. kūḍalè ṭòppigèyannu tègèdu nèlakkèsèda. hīgè ṭòppigè nèlakkèsèda huḍugana hèsaru mailāra mahādeva. 8nèya jūn 1911raṃdu moṭèbènnūrinalli janisidaru. taṃdè mārtaṃḍappa, mahādevana tāyi basamma deśapremi. ā hòttigè briṭiṣara viruddha horāḍidda ā tāyi jailuvāsavannu anubhavisidavaru. ā tāyigè takka maga mahādeva. prāthamika vidyābhyāsavannu moṭèbènnūrinalli mugisidaru. muṃdina vidyābhyāsakkāgi hattiravidda haṃsabhāviya śālègè hodaru. ādarè avarigè odu rucisalilla. svadeśī baṭṭègaḻa vicāra yāvāgalū manassinalli
+  gunuguḍuttittu. mahātmā gāṃdhīji khādi baṭṭèya bagègè òlavu hòṃdiddu, èlla kaḍèyallū ā vicāra pracāra māḍuttiddaru. bālaka mahādevarigè khādi baṭṭèyannu kuritu pracāramāḍabekèṃba āsè hèccāyitu.
+story-n2: mahādevaravarigè hannèraḍu-hadimūrara harèya. vijayapura jillèyalli kalādagi èṃba òṃdu grāmavidè. alli ā kāladalli khādi baṭṭègaḻannu tayāru māḍuttiddaru. mahādevaru alligè hodaru. alli khādiyannu tayārisuvudu hegè èṃdu tiḻidukòṃḍaru. khādiyannu hòttu ūrūru tirugi mārāṭa māḍidaru. khādi baḻakèyannu kuritu pracāravannū naḍèsidaru.
+story-n3: mahādeva avarigè sabaramati āśramadiṃda karè baṃditu. mahādeva alligè hodaru. ā veḻègè prasiddha daṃḍi satyāgraha naḍèyuttittu. gāṃdhījiyavaròḍanè daṃḍiyātrèyalli hèjjè hākidaru. daṃḍi satyāgrahadalli bhāgavahisidavarigè sèrèmanè vāsada śikṣèyāyitu. mahādeva āru tiṃgaḻu sèrèmanèyalli kaḻèdaru. daṃḍiyātrè mugidu mahādeva huṭṭūrigè vāpassu baṃdaru. ā hòttigāgale daṃḍiyātrèyalli bhāgavahisidda karnāṭakada svātaṃtrya senāni èṃbudāgi avarigè hèsaru baṃdittu. ūrinalli mahādeva avarigè addūriya svāgata sikkitu.
+story-n4: mahādeva tamma hèṃḍati siddamma avarannu siddhamati èṃdu karèyuttiddaru. sabaramatiya sukhavāsa tanagaṣṭe alladè hèṃḍatigū āgabekèṃdu avarannū sabaramatigè karèdukòṃḍu hodaru. alli siddamma briṭiṣ sarakārakkè asahakāra nīḍuva caḻavaḻiyalli bhāgavahisi jailu seridaru. ūrigè baṃdidda mahādeva illi asahakāra caḻavaḻiyalli bhāgavahisi jailu seridaru. hiṃḍalagā jailinalliddāga gāṃdhījiyavaru alligè bheṭi nīḍi mahādevarannu kaṃḍu avarannu protsāhisidaru.
+story-n5: mahādevarigè jailiniṃda biḍugaḍèyāyitu. halavāru bāri jailigè hogiddariṃda dehada ārogyada bagègè avarigè kāḻaji uṃṭāyitu. śistubaddhavāda vyāyāmavannu kaliyabekènisitu. vyāyāmavannu kalitaru. vyāyāma kaliyuvāgale auṣadhagaḻa śāstravannu abhyāsa māḍidaru. haḻḻigara sevè māḍuva uddeśadiṃda òṃdu sevāśramavannu prāraṃbhisidaru. gaṃḍa-hèṃḍati ibbarū sevāśramada saṃcālakarāgi carakadiṃda nūlu tègèyuvudu, prakṛti cikitsè, vyāyāma muṃtādavugaḻannu haḻḻiya janarigè abhyāsa māḍisidaru. sevāśramadalli tayāriyāguttidda khādiyannu ūrūrigè kòṃḍu hogi mārāṭa māḍidaru. ‘mahādevana khādi’ èṃde idu prasiddhiyāyitu. idara jòtèyalli pati-patniyara svātaṃtryada tuḍita, horāṭa janapriyavāyitu. ūrina janaru ivara guṇagāna māḍidaru.
+poem-s1l1: cikkavayasidru òḻḻe còkka mātanāḍatānā|
+poem-s1l2: hakki tanna marigè muddukòṭṭāṃga|
+poem-s1l3: nakkaròṃdu caṃda avanu|
+poem-s1l4: nuḍidaròṃdu caṃda namagè|
+poem-s1l5: sikkòdillò iṃthā còkkabaṃgāradaṃthavā||
+story-n6: svātaṃtrya horāṭa dina dina bèḻèyutta hoyitu. 1942ralli gāṃdhījiyavaru ‘briṭiṣare bhārata biṭṭu tòlagi’ èṃba ghoṣaṇè māḍidaru. deśadèllèḍè gāṃdhījiyavara ghoṣaṇègè bhāratīyara bèṃbala dòrèyitu. dakṣiṇa bhāgada ī caḻuvaḻigè mailāra mahādeva netṛtva vahisidaru. haḻḻi haḻḻigaḻalli tirugi gāṃdhījiyavara ghoṣaṇèyannu pracāra māḍidaru. avara mātugaḻu deśabhaktiyannu baḍidèbbisidavu.
+story-n7: briṭiṣaru bhārata biṭṭu tòlagabekādarè avaru naḍèsuttiruva āḍaḻitakkè dhakkè uṃṭumāḍi avarigè āḍaḻita naḍèsuvudu sādhyavilla ènisabekittu. mahādeva tamma saṃgaḍigaròṃdigè iṃtha sāhasakkè aṇiyādaru. railu oḍāṭada melè ivaru gamanaviṭṭaru. savaṇūru èṃballi railu nildāṇavannu briṭiṣ pòlīsarigè gòttāgadaṃtè suṭṭuhākidaru. hònnatti èṃballi pòlīsara baṃdūku apaharisidaru. bāḻèhòsūrina pòlīs keṃdravannu suṭṭaru. mahādeva mattu saṃgaḍigara ī kṛtyagaḻiṃda briṭiṣ sarkāra naḍugitu. mahādevappanavarannu hiḍidukòṭṭavarigè bahumāna ghoṣisitu. hagaliruḻènnadè briṭiṣ pòlīsaru mahādeva hāgū avara taṃḍadavarigāgi śodha naḍèsidaru.
+story-n8: hāveri jillèya hòsarittiyalli kaṃdāyavannu balavaṃtavāgi vasūli māḍi janarannu hiṃsisuttidda sarakārada keṃdravittu. adannu ākramisikòḻḻabekèṃdu nirdhāravāyitu. tammòṭṭige idda patni siddammanannu hāgū magaḻāda kastūrideviyannu hubbaḻḻigè kaḻuhisidaru. 1943ra epril 1 raṃdu bèḻagina samaya. hòsarittiya samīpada vīrabhadra devālayadalli pòlīsara tukaḍiyittu. adara pakkadalle khajānè. mahādeva tanna saṃgaḍigaròṃdigè muttigè hākidaru. mahādeva avara dhairyakkè hèdari halavu pòlīsaru oṭa kittaru. mahādeva khajānèya bīga muriyuvudaralli niratarāgiddaru. aḍagi kuḻitidda òbba pòlīs mahādevana èdègè guṃḍu hòḍèda. mahādeva raktada maḍuvinalli biddaru. avara saṃgaḍigaru guṃḍu hòḍèda pòlīsanannu hòḍèyalu hodaru. nammadu ahiṃsātmaka horāṭa, pòlīsarannu kòlladiri, hiṃsè māḍadiri èṃdu mahādeva saṃgaḍigarannu taḍèdaru. mahādevana usirāṭa niṃtitu. deśadèllèḍè ī suddi haraḍitu. patni siddhamma gaṃḍana balidānada tyāgavannu dhairyavāgi èdurisidaru. mahādevarigāgi deśa marugitu. ī maruka hāḍāgi hariyitu.
+poem-s2l1: bhārata deśada baṃdha vimocanègè bhārī kaṣṭava sosidaru
+poem-s2l2: tāruṇyavèllava turaṃgadali kaḻèdu maḍida mahāśūra mailāraru
+poem-s2l3: tuṃṭara tuṃṭanu, bhaṃṭara bhaṃṭanu, sātvikaròḻagè saradāra!
+poem-s2l4: diṭṭana hèsaranu huṭṭida kūsigè iṭṭarū tīradu upakāra!
+competency: 'kauśala: mātanāḍuvudu. sāmarthya: samāraṃbhada kāryakramagaḻannu nirūpaṇè māḍuvudu. āśaya: svātaṃtryakkāgi horāṭa māḍidavarannu svātaṃtryayodharu èṃdu karèyuttārè. òṃdu uddeśakkāgi tamma badukanne mīsalāgiṭṭa iṃtha yodharu bhāratadalli halavāru maṃdi iddārè. deśave mukhya adara muṃdè uḻidèllavū gauṇa. deśada uḻivigāgi èṃtha tyāgakkū siddharāgiddavaru ī hiriyaru. svārthavannu marètu deśada pragatiyanne mukhya guriyāgirisikòṃḍaru iṃtha asaṃkhyāta yodharannu nāvu kṛtajñatèyiṃda smarisabeku.'
+vocab-toppige: ṭòppigè
+vocab-toppige-def: ṭopi
+vocab-chikkavayasidru: cikkavayasidru
+vocab-chikkavayasidru-def: cikka vayassiddarū
+vocab-chokka: còkka
+vocab-chokka-def: cènnāgi, accukaṭṭāgi
+vocab-chanda: caṃda
+vocab-chanda-def: cènna
+vocab-chokkabangara: còkkabaṃgāra
+vocab-chokkabangara-def: appaṭa baṃgāra, aparaṃji
+vocab-dhakke: dhakkè
+vocab-dhakke-def: tòṃdarè
+vocab-aniyagu: aṇiyāgu
+vocab-aniyagu-def: siddhavāgu
+vocab-shodha: śodha
+vocab-shodha-def: huḍukāṭa
+vocab-tukadi: tukaḍi
+vocab-tukadi-def: sainya
+vocab-madu: maḍu
+vocab-madu-def: kòḻḻa
+vocab-khajane: khajānè
+vocab-khajane-def: bòkkasa
+vocab-khadi: khādi
+vocab-khadi-def: kainūliniṃda nèyda baṭṭè
+vocab-gunugu: gunugu
+vocab-gunugu-def: satatavāgi dhvanimāḍu
+vocab-jailu: jailu
+vocab-jailu-def: sèrèmanè, baṃdhīkhānè
+vocab-balidana: balidāna
+vocab-balidana-def: prāṇatyāga
+vocab-sosidaru: sosidaru
+vocab-sosidaru-def: anubhavisidaru
+note-savanuru: savaṇūru
+note-savanuru-def: hāveri jillèya òṃdu tāllūku
+note-honnatti: hònnatti
+note-honnatti-def: hāveri jillèya rāṇibènnūru tāllūkina grāma
+note-balehosuru: bāḻèhòsūru
+note-balehosuru-def: gadaga jillèya śirahaṭṭi tāllūkina òṃdu grāma
+note-asahakara: asahakāra caḻavaḻi
+note-asahakara-def: sarkārada viruddha janatè tanna asammati, virodha mattu pratibhaṭanèyannu vyaktapaḍisuva òṃdu mārga
+note-satyagraha: satyāgraha
+note-satyagraha-def: mahātmā gāṃdhiyavaru tamma jīvanadalli kaṃḍukòṃḍa siddhāṃta hāgū briṭiṣara viruddha svātaṃtrya paḍèyuvudakkāgi naḍèsida caḻavaḻi
+note-sabarmati: sabaramati āśrama
+note-sabarmati-def: gāṃdhīji sthāpisida prapaṃcaprasiddha āśrama
+note-dandi: daṃḍi satyāgraha
+note-dandi-def: 1930ra mārc 12raṃdu gāṃdhiyavaru tamma suprasiddha uppina satyāgrahavannāraṃbhisidaru
+ex-a-q1: moṭèbènnūru èṃba haḻḻi yāva jillèyallidè?
+ex-a-q2: yāva baṭṭègaḻa vicāra yāvāgalū mailārara manassinalli gunuguḍuttittu?
+ex-a-q3: mahādevanigè gāṃdhiyavaròḍanè yāva āśramadalli irabekèṃdu āsèyāyitu?
+ex-a-q4: vijayapura jillèyalli yāva grāmadalli khādi baṭṭègaḻannu tayāru māḍuttiddaru?
+ex-a-q5: 1942ralli gāṃdhījiyavaru yāva ghoṣaṇè māḍidaru?
+ex-a-q6: mahādeva avaru èlli pòlīsara baṃdūku apaharisidaru?
+ex-b-q1: mahādeva kalādagi èṃba òṃdu grāmakkè hogi enu tiḻidukòṃḍaru?
+ex-b-q2: daṃḍiyātrèyalli hèjjè hākida mahādevarigè āda śikṣè enu?
+ex-b-q3: mahādeva mattu siddhamati ibbarū sevāśramada saṃcālakarāgi māḍida kèlasagaḻenu?
+ex-b-q4: mahādeva raktada maḍuvinalli biddaddu ekè?
+ex-c-q1: mahādeva avaru jailiniṃda biḍugaḍèyāda melè māḍida kāryagaḻāvuvu?
+ex-c-q2: briṭiṣaru bhārata biṭṭu tòlagabekādarè enu māḍabekèṃdu mahādeva yocisidaru?
+ex-c-q3: hòsarittiyalli naḍèda ghaṭanègaḻāvuvu?

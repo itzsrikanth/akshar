@@ -1,0 +1,23 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: प्रवेश
+  story: कहानी
+  author: कृतिकार परिचय
+  ashaya: आशय
+  vocab: शब्दार्थ
+  notes: टिप्पणी
+  exercise-A: अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-B: आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-C: इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-D: ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-E: उ. संदर्भ सहित व्याख्या कीजिए।
+  exercise-F: ऊ. रिक्त स्थान भरिए।
+intro-1: लोकप्रिय साहित्य प्रकारों में लघुकथा एक है। कहानी कहना-सुनना मनुष्य का स्वभाव है।
+story-n1: मग्गद साहेब यानी अब्दुल रहीम साहेब। उन्होंने बीस से अधिक वर्षों से करघा नहीं छुआ, फिर भी उन्हें मग्गद साहेब कहते हैं।
+ex-a-q1: रहीम ने करघा बिना छुए कितने वर्ष बिताए थे?
+ex-a-q3: अब्दुल रहीम का हठ क्या था?

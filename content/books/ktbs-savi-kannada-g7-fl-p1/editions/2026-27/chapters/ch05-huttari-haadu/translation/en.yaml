@@ -1,0 +1,144 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  poem: 'Poem'
+  competency: 'Skill / ability'
+  author: 'About the author'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the following questions.'
+
+intro-1: 'Huttari song is one that reflects Kodava and Kodagu life. It is the song Kodavas sing at the harvest festival. It describes Kodagu’s natural beauty and heroic glory. It includes the coating of Kodagu culture and tradition and a folk background.'
+
+poem-s1l1: 'Where did Earth-goddess, wishing the god’s presence, suddenly come?'
+
+poem-s1l2: 'Where did she stand in the wondrous form of the charming hill?'
+
+poem-s1l3: 'Where in the sky like lightning does Kaveri gleam and gleam?'
+
+poem-s1l4: 'Where cooling the land does she clear the weeds of people’s fields?'
+
+poem-s1l5: 'Look that way there!'
+
+poem-s1l6: 'There is the Kodaga land'
+
+poem-s1l7: 'There is the Kodava home!'
+
+poem-s2l1: 'Who in the east tasted the tiger’s milk-feed?'
+
+poem-s2l2: 'Who pulled the great snake to the rope in the game of stones?'
+
+poem-s2l3: 'Who stroked the elephant’s trunk and made the war-horn roar?'
+
+poem-s2l4: 'Who displayed the undiminished daring of kshatriya hunt?'
+
+poem-s2l5: 'They are the unbeaten saviors!'
+
+poem-s2l6: 'They are the fierce great ones!'
+
+poem-s2l7: 'They are the elders of Kodagu!'
+
+poem-s3l1: 'As if the neck of their land would not bend to the yoke-weight of slavery'
+
+poem-s3l2: 'As elders who struck pride and foes would not bow hungry and leaping'
+
+poem-s3l3: 'This country grown from Bommagiri to Pushpagiri'
+
+poem-s3l4: 'A treasury of dharma-gift, bonds, rules, ways and ethics'
+
+poem-s3l5: 'Our Kodagu is jammu;'
+
+poem-s3l6: 'Jammu Kodagu is ours;'
+
+poem-s3l7: 'Our body will not leave it!'
+
+poem-s4l1: 'This is Agastya’s house of penance, Kaveri mother’s parental home,'
+
+poem-s4l2: 'Here Chandravarma rocked the cradle of battle fortune!'
+
+poem-s4l3: 'Look! the splendour of Chengalva kings, dancing Sriranga'
+
+poem-s4l4: 'Look! look! the right-side peak of the Haleri who ruled here'
+
+poem-s4l5: 'Kodagu of fate’s craft'
+
+poem-s4l6: 'First ours, at the end this'
+
+poem-s4l7: 'Does not shake us; it is charm.'
+
+poem-s5l1: 'Where is one mind, unity, one heart—tell!'
+
+poem-s5l2: 'Did they quietly give the waist-cloth? Listen to the Huttari song!'
+
+poem-s5l3: 'Let the dancing verse ring out to the leaping paturakolu beat!'
+
+poem-s5l4: 'This land mother blessed—let it stay ours among us!'
+
+poem-s5l5: 'Let this hold peace'
+
+poem-s5l6: 'Under mother’s strong arm'
+
+poem-s5l7: 'Let our Kodagu live'
+
+competency: 'Skill: speaking. Ability: describing situational events.'
+
+author-1: 'Sri Panje Mangesh Rao, famous by the pen-name ‘Kavishishya’, was born in 1874 at Bantwal in Dakshina Kannada district. Famous as the jewel of children’s poems, he composed Huttari Haadu, Nagara Have, Koti Chennayya, Gudugudu Gummatadevaru, Matado Ramappa and others. He was president of the 20th All India Kannada Literary Conference in 1934.'
+
+vocab-odal: 'ಒಡಲ್'
+
+vocab-odal-def: 'body'
+
+vocab-kadugali: 'ಕಡುಗಲಿ'
+
+vocab-kadugali-def: 'great warrior'
+
+vocab-kshatra: 'ಕ್ಷಾತ್ರ'
+
+vocab-kshatra-def: 'kshatriya clan, kshatriya splendour'
+
+vocab-gariyaru: 'ಗರಿಯರು'
+
+vocab-gariyaru-def: 'those of greatness'
+
+vocab-jammadu: 'ಜಮ್ಮದು'
+
+vocab-jammadu-def: 'land given by a king as inam'
+
+vocab-dattikuppas: 'ದಟ್ಟಿಕುಪ್ಪಸ'
+
+vocab-dattikuppas-def: 'cloth tied at the waist'
+
+vocab-bagga: 'ಬಗ್ಗ'
+
+vocab-bagga-def: 'tiger'
+
+vocab-bimmane: 'ಬಿಮ್ಮನೆ'
+
+vocab-bimmane-def: 'swiftly, simply'
+
+vocab-bhurame: 'ಭೂರಮೆ'
+
+vocab-bhurame-def: 'Earth goddess'
+
+vocab-huttari: 'ಹುತ್ತರಿ'
+
+vocab-huttari-def: 'festival when Kodavas bring new rice home; Kodagu harvest festival'
+
+vocab-hoylu: 'ಹೊಯ್ಲು'
+
+vocab-hoylu-def: 'strike, beat'
+
+ex-a-q1: 'How does the Kaveri shine?'
+
+ex-a-q2: 'Who are the unbeaten saviors?'
+
+ex-a-q3: 'From which hill to which hill has Kodagu grown?'
+
+ex-a-q4: 'What is Kaveri’s maternal home?'
+
+ex-a-q5: 'To which beat should the dancing verse ring out?'

@@ -1,0 +1,20 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: प्रवेश
+  poem: कविता
+  author: कृतिकार परिचय
+  ashaya: आशय
+  vocab: शब्दार्थ
+  exercise-A: अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-B: आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-C: इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-D: ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+intro-1: कन्नड़ साहित्य इतिहास में शतक साहित्य विशेष है। सोमनाथ की कृति सोमेश्वर शतक जनमन में बसी है।
+poem-s1l4: सद्गति देने वाला पुत्र — हरहरा श्री चेन्नसोमेश्वर
+ex-a-q1: सच्चा बंधु कौन है?
+ex-a-q5: पुलिगेरे सोमनाथ का अंकितनाम क्या है?

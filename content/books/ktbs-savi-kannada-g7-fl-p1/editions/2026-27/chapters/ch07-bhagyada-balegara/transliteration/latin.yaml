@@ -1,0 +1,77 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  competency: kauśala / sāmarthya / āśaya
+  vocab: padagaḻa artha
+  notes: vivaraṇè
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi.
+intro-1: śālèyalli nāḍa habbada saṃbhrama. yāva yāva manoraṃjanā kāryakrama nīḍabekèṃdu makkaḻalli carcè prāraṃbhavāyitu. hāḍu, nāṭaka, nṛtya, prahasana hīgè paṭṭi bèḻèyitu. pūrṇimāḻa guṃpigè nṛtyamāḍuva javābdāri nīḍalāyitu. yāva nṛtya èṃdāga janapada nṛtya èṃdu śruti heḻidaḻu. araviṃda sinèmā hāḍigè nṛtya māḍoṇa èṃda. ādarè uḻidavaru òppalilla. nammalli bagèbagèya hāḍugaḻivè, haḻḻiya jana prītiyiṃda adannu racisiddārè. adaralli sògasāda bhāṣè idè. tuṃbā arthavū iruttadè. rāga hākalū cèṃda èṃba mātugaḻu keḻibaṃdavu. makkaḻu abhyāsamāḍi òṃdu janapada nṛtyavannu pradarśana māḍidaru. èllarū adara sògasannu mèccidaru. halavu dinagaḻu halavara bāyalli ā nṛtyada hāḍugaḻu gunuguḍuttiddavu.
+poem-s1l1: bhāgyada baḻègāra hogi bā nantavarigè ||
+poem-s1l2: ninna tavarūra nānenu ballènu
+poem-s1l3: gòttilla ènagè guriyilla èlè bālè
+poem-s1l4: torisu bāre tavarūra
+poem-s2l1: bāḻè balakkè biḍò sībè èḍakkè biḍò
+poem-s2l2: naṭṭanaḍuveli nī hogo baḻègāra
+poem-s2l3: allihude nanna tavarūru|
+poem-s2l4: muttaidè èlè hèṇṇè torubārè tavarūra
+poem-s3l1: ālè āḍutāvè gāṇa tirugutāvè
+poem-s3l2: navilu sāraṃga nalitāvè baḻègāra
+poem-s3l3: ade kāṇo nanna tavarūru|
+poem-s3l4: muttaidè èlè hèṇṇè torubārè tavarūra
+poem-s4l1: haṃcina manè kāṇo kaṃcina kada kāṇò
+poem-s4l2: miṃcāḍòvèraḍu giṇi kāṇò baḻègāra
+poem-s4l3: allihude nanna tavarūru|
+poem-s4l4: muttaidè èlè hèṇṇè torubārè tavarūra
+poem-s5l1: muttaidè haṭṭīli muttīna cappara hāki
+poem-s5l2: naṭṭa naḍuveli pagaḍèya āḍutāḻè
+poem-s5l3: avaḻè kāṇò ènna haḍèdavvā|
+poem-s5l4: muttaidè èlè hèṇṇè torubārè tavarūra
+poem-s6l1: acca kèṃpina baḻè hasiru gīrina baḻè
+poem-s6l2: ènna haḍèdavgè balu āsè baḻègāra
+poem-s6l3: kòṃḍhogò ènna tavarīgè|
+poem-s6l4: bhāgyada baḻègāra hogi bā nantavarīgè
+competency: 'kauśala: mātanāḍuvudu. sāmarthya: nāṇṇuḍi, nuḍigaṭṭu, gādègaḻannu baḻasi mātanāḍuvudu. āśaya: baḻègāra ūriṃdūru tirugi baḻègaḻannu māruttānè. hattāru ūrugaḻa, halavu janara paricaya avanigiruttadè. ī gītèyalli tanna tāyigè baḻègaḻèṃdarè iṣṭa. adannu kòṃḍuhogalu baḻègāranigè heḻuva hèṇṇina mattu praśnè keḻuva baḻègārana saṃbhāṣaṇè ī gītèyallidè. tāyiya manèya dāriyannu hèṇṇumagaḻu tiḻisuva rītiyalli sògasidè. haḻḻiya manèya mattu parisarada suṃdaravāda citraṇavidè. tanna tavarina bagègè magaḻigè apāra prītiyidè.'
+vocab-tavaru: tavaru
+vocab-tavaru-def: tāyiya manè
+vocab-bale: bāḻè
+vocab-bale-def: bāḻèyagiḍa
+vocab-sibe: sībè
+vocab-sibe-def: peraḻè
+vocab-muttaide: muttaidè
+vocab-muttaide-def: maduvèyāda hèṇṇu
+vocab-kanchu: kaṃcu
+vocab-kanchu-def: òṃdu loha
+vocab-minchadu: miṃcāḍu
+vocab-minchadu-def: hòḻèyuvudu
+vocab-gini: giṇi
+vocab-gini-def: giḻi
+vocab-ale: ālè
+vocab-ale-def: kabbina rasa tègèyuva yaṃtra, gāṇa
+vocab-saranga: sāraṃga
+vocab-saranga-def: maimelè cukkègaḻiruva jiṃkè
+vocab-pagade: pagaḍè
+vocab-pagade-def: òṃdu rītiya āṭa
+vocab-nattanaduve: naṭṭa naḍuvè
+vocab-nattanaduve-def: madhyè
+vocab-hatti: haṭṭi
+vocab-hatti-def: manè
+vocab-hadedavva: haḍèdavva
+vocab-hadedavva-def: hètta tāyi
+vocab-kondhogu: kòṃḍhogu
+vocab-kondhogu-def: tègèdukòṃḍuhogu
+note-janapada: jānapada
+note-janapada-def: janapadakkè saṃbaṃdhisida adhyayana
+note-janapada-samanya: janapada
+note-janapada-samanya-def: jana sāmānyarigè saṃbaṃdhisiddu
+ex-a-q1: baḻègāra èlligè hogi barabekèṃdu hèṇṇu heḻuttāḻè?
+ex-a-q2: tāyiya manè yāva rīti idè?
+ex-a-q3: capparada naḍuvè tāyi yāva āṭa āḍuttāḻè?
+ex-a-q4: haḍèdavvanigè yāva baṇṇada baḻè èṃdarè āsè?
+ex-b-q1: tavaru manègè hogalu gurutugaḻenu?
+ex-b-q2: tavaru manè noḍalu hegidè?

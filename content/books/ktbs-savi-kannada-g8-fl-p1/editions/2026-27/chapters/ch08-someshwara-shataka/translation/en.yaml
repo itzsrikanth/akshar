@@ -1,0 +1,20 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the author
+  ashaya: Theme
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+intro-1: In Kannada literary history, shataka literature is distinctive. The poet Somanatha composed Someshwara Shataka, which lives in people's minds like folk poetry. This didactic work is still worthy of imitation. 'Matru-devo bhava, pitru-devo bhava, acharya-devo bhava' is a root mantra of all our faiths.
+poem-s1l4: The son who grants a good path — Hara Hara Shri Chennasomeshwara
+ex-a-q1: Who is a true relative?
+ex-a-q5: What is Puligere Somanatha's ankita?

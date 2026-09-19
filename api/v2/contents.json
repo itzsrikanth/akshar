@@ -89,6 +89,34 @@
       },
       "subjectLanguage": "kn",
       "title": "ಸವಿ ಕನ್ನಡ"
+    },
+    {
+      "id": "ktbs-savi-kannada-g7-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "series": {
+        "id": "savi-kannada",
+        "name": "ಸವಿ ಕನ್ನಡ"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
+    },
+    {
+      "id": "ktbs-savi-kannada-g8-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "series": {
+        "id": "savi-kannada",
+        "name": "ಸವಿ ಕನ್ನಡ"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
     }
   ],
   "chapters": [
@@ -716,8 +744,178 @@
           }
         ]
       }
+    },
+    {
+      "academicYears": [
+        "2026-27"
+      ],
+      "bookId": "ktbs-savi-kannada-g7-fl-p1",
+      "chapters": [
+        {
+          "held": true,
+          "id": "ch01-puttajji-puttajji-kathe-helu",
+          "number": 1,
+          "title": "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು"
+        },
+        {
+          "held": true,
+          "id": "ch02-seena-settaru-namma-teacheru",
+          "number": 2,
+          "title": "ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು"
+        },
+        {
+          "held": true,
+          "id": "ch03-hilton-head-chalavali",
+          "number": 3,
+          "title": "ಹಿಲ್ಟನ್ ಹೆಡ್ ಚಳವಳಿ"
+        },
+        {
+          "held": true,
+          "id": "ch04-mailara-mahadeva",
+          "number": 4,
+          "title": "ಮೈಲಾರ ಮಹಾದೇವ"
+        },
+        {
+          "held": true,
+          "id": "ch05-huttari-haadu",
+          "number": 5,
+          "title": "ಹುತ್ತರಿ ಹಾಡು"
+        },
+        {
+          "held": true,
+          "id": "ch06-swatantrya-swarga",
+          "number": 6,
+          "title": "ಸ್ವಾತಂತ್ರ್ಯ ಸ್ವರ್ಗ"
+        },
+        {
+          "held": true,
+          "id": "ch07-bhagyada-balegara",
+          "number": 7,
+          "title": "ಭಾಗ್ಯದ ಬಳೆಗಾರ"
+        },
+        {
+          "held": true,
+          "id": "ch08-vachanagala-bhavasangama",
+          "number": 8,
+          "title": "ವಚನಗಳ ಭಾವಸಂಗಮ"
+        },
+        {
+          "held": true,
+          "id": "ch09-basavannanavara-jeevana-darshana",
+          "number": 9,
+          "title": "ಬಸವಣ್ಣನವರ ಜೀವನ ದರ್ಶನ"
+        },
+        {
+          "held": true,
+          "id": "ch10-gombe-kalisuva-neeti",
+          "number": 10,
+          "title": "ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 7 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "printedGrade": 7,
+      "provenance": {
+        "notes": "Partial conversion checkpoint for Grade 7 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "sourceDocuments": [
+          {
+            "label": "g07-fl-p1-2026-27.pdf",
+            "sha256": "35195919c5a99782c4fff0f0cedcf56fd5c24a40d98a78c80d2dcbcc2be6c265"
+          }
+        ]
+      }
+    },
+    {
+      "academicYears": [
+        "2026-27"
+      ],
+      "bookId": "ktbs-savi-kannada-g8-fl-p1",
+      "chapters": [
+        {
+          "held": true,
+          "id": "ch01-maggada-saheba",
+          "number": 1,
+          "title": "ಮಗ್ಗದ ಸಾಹೇಬ"
+        },
+        {
+          "held": true,
+          "id": "ch02-sarthaka-badukina-sadhaka-dvg",
+          "number": 2,
+          "title": "ಸಾರ್ಥಕ ಬದುಕಿನ ಸಾಧಕ-ಡಿ.ವಿ.ಜಿ."
+        },
+        {
+          "held": true,
+          "id": "ch03-neeru-kodada-nadinalli",
+          "number": 3,
+          "title": "ನೀರು ಕೊಡದ ನಾಡಿನಲ್ಲಿ"
+        },
+        {
+          "held": true,
+          "id": "ch04-yashodhare",
+          "number": 4,
+          "title": "ಯಶೋಧರೆ"
+        },
+        {
+          "held": true,
+          "id": "ch05-kannadigara-taayi",
+          "number": 5,
+          "title": "ಕನ್ನಡಿಗರ ತಾಯಿ"
+        },
+        {
+          "held": true,
+          "id": "ch06-bharathiyate",
+          "number": 6,
+          "title": "ಭಾರತೀಯತೆ"
+        },
+        {
+          "held": true,
+          "id": "ch07-bevu-belladoludalenu-phala",
+          "number": 7,
+          "title": "ಬೇವೂ ಬೆಲ್ಲದೊಳುದಲೆನು ಫಲ"
+        },
+        {
+          "held": true,
+          "id": "ch08-someshwara-shataka",
+          "number": 8,
+          "title": "ಸೋಮೇಶ್ವರ ಶತಕ"
+        },
+        {
+          "held": true,
+          "id": "ch09-sarthaka",
+          "number": 9,
+          "title": "ಸಾರ್ಥಕ"
+        },
+        {
+          "held": true,
+          "id": "ch10-ahuti",
+          "number": 10,
+          "title": "ಆಹುತಿ"
+        },
+        {
+          "held": true,
+          "id": "ch11-magalige-bareda-patra",
+          "number": 11,
+          "title": "ಮಗಳಿಗೆ ಬರೆದ ಪತ್ರ"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 8 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "printedGrade": 8,
+      "provenance": {
+        "notes": "Partial conversion checkpoint for Grade 8 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "sourceDocuments": [
+          {
+            "label": "g08-fl-p1-2026-27.pdf",
+            "sha256": "3ddcf95cddf917b7aad3cd6db92ef2c4dea265e94dc0f30b9dfd13b68d86aab7"
+          }
+        ]
+      }
     }
   ],
-  "generatedAt": "2026-09-19T05:40:54Z",
+  "generatedAt": "2026-09-19T06:32:40Z",
   "schemaVersion": "2.0"
 }

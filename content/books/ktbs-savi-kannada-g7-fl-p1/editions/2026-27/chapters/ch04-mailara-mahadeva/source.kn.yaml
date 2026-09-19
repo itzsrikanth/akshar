@@ -1,0 +1,358 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 4
+  slug: ch04-mailara-mahadeva
+  title: ಮೈಲಾರ ಮಹಾದೇವ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ರಚನಾ ಸಮಿತಿ
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ಜೀವನ ಚರಿತ್ರೆ
+  competency: ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ನಾವೀಗ ಸ್ವತಂತ್ರ ಭಾರತದಲ್ಲಿದ್ದೇವೆ. 1947ಕ್ಕಿಂತ ಹಿಂದೆ ಭಾರತದ ಆಡಳಿತ ಬ್ರಿಟಿಷರ ಕೈಯಲ್ಲಿತ್ತು. ಬ್ರಿಟಿಷರಿಂದ ಭಾರತವನ್ನು ಬಿಡಿಸಿಕೊಳ್ಳಲು ಹಲವಾರು ಮಂದಿ ಹೋರಾಡಿದರು. ಮೋಹನದಾಸ ಕರಮಚಂದ ಗಾಂಧಿ ಅವರ ನೇತೃತ್ವದಲ್ಲಿ ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟವೇ ನಡೆಯಿತು. ಭಾರತದಾದ್ಯಂತ ಹಲವರು ಈ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿದ್ದರು. ಕರ್ನಾಟಕದಿಂದಲೂ ಹಲವಾರು ಜನ ಗಾಂಧೀಜಿಯವರ ಕರೆಗೆ ಓಗೊಟ್ಟು ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ನಡೆದ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿದರು. ಕೆಲವರು ಈ ಹೋರಾಟದಲ್ಲಿ ಹುತಾತ್ಮರೂ ಆದರು. ಹೀಗೆ ಹೋರಾಟಮಾಡಿ ಹುತಾತ್ಮರಾದವರಲ್ಲಿ ಒಬ್ಬರು ಮೈಲಾರ ಮಹಾದೇವ. ಅವರ ಜೀವನ ಚರಿತ್ರೆಯನ್ನು ನೀವಿಲ್ಲಿ ಕಾಣಬಹುದು. ಇವರೆಲ್ಲರ ಹೋರಾಟ ಮತ್ತು ತ್ಯಾಗದ ಫಲವಾಗಿ ನಮಗೆ 1947ರ ಆಗಸ್ಟ್ 15ರಂದು ಸ್ವಾತಂತ್ರ್ಯ ಲಭಿಸಿತು. ನಮಗೆ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ತಂದುಕೊಟ್ಟ ಹಿರಿಯರನ್ನು ಸ್ಮರಿಸುವುದು ನಮ್ಮ ಕರ್ತವ್ಯ.
+- id: story-n1
+  type: prose
+  section: story
+  text: "ಭಾರತ ಬ್ರಿಟಿಷರ ಆಡಳಿತಕ್ಕೆ ಸೇರಿದ್ದ ಕಾಲ. ಅವರ ಆಡಳಿತದಿಂದ ಬಿಡಿಸಿಕೊಂಡು ಭಾರತವನ್ನು ಸ್ವತಂತ್ರವಾದ ದೇಶವನ್ನಾಗಿ ಮಾಡಲು ಹಲವಾರು ಭಾರತೀಯರು ಹೋರಾಟ ಮಾಡುತ್ತಿದ್ದರು. ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಮೋಟೆಬೆನ್ನೂರು ಎಂಬುದೊಂದು ಹಳ್ಳಿ. ಆ ಹಳ್ಳಿಯಲ್ಲಿ ದೇಶಭಕ್ತರೊಬ್ಬರು ಭಾಷಣ ಮಾಡುತ್ತಿದ್ದರು. ಅವರ ಭಾಷಣದಲ್ಲಿ “ವಿದೇಶೀ ವಸ್ತ್ರಗಳನ್ನು ತ್ಯಜಿಸಿ ನಮ್ಮ ದೇಶದಲ್ಲೇ ತಯಾರು ಮಾಡಿದ ಬಟ್ಟೆಗಳನ್ನು ತೊಡಬೇಕು” ಎಂದೆಲ್ಲ ಹೇಳುತ್ತಿದ್ದರು. ಆ ಮಾತು ಕೇಳುತ್ತಿದ್ದ 8-10 ವರ್ಷದ ಒಬ್ಬ ಬಾಲಕ ತನ್ನ ತಲೆ ಮುಟ್ಟಿ ನೋಡಿದ. ಅವನ ತಲೆಯ ಮೇಲೆ ವಿದೇಶಿ ಟೊಪ್ಪಿಗೆ ಇತ್ತು. ಕೂಡಲೆ ಟೊಪ್ಪಿಗೆಯನ್ನು ತೆಗೆದು ನೆಲಕ್ಕೆಸೆದ. ಹೀಗೆ ಟೊಪ್ಪಿಗೆ ನೆಲಕ್ಕೆಸೆದ ಹುಡುಗನ ಹೆಸರು ಮೈಲಾರ ಮಹಾದೇವ. 8ನೆಯ ಜೂನ್ 1911ರಂದು ಮೋಟೆಬೆನ್ನೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಮಾರ್ತಂಡಪ್ಪ, ಮಹಾದೇವನ ತಾಯಿ ಬಸಮ್ಮ ದೇಶಪ್ರೇಮಿ. ಆ ಹೊತ್ತಿಗೆ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ್ದ ಆ ತಾಯಿ ಜೈಲುವಾಸವನ್ನು ಅನುಭವಿಸಿದವರು. ಆ ತಾಯಿಗೆ ತಕ್ಕ ಮಗ ಮಹಾದೇವ. ಪ್ರಾಥಮಿಕ ವಿದ್ಯಾಭ್ಯಾಸವನ್ನು ಮೋಟೆಬೆನ್ನೂರಿನಲ್ಲಿ ಮುಗಿಸಿದರು. ಮುಂದಿನ ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕಾಗಿ ಹತ್ತಿರವಿದ್ದ ಹಂಸಭಾವಿಯ ಶಾಲೆಗೆ ಹೋದರು. ಆದರೆ ಅವರಿಗೆ ಓದು ರುಚಿಸಲಿಲ್ಲ. ಸ್ವದೇಶೀ ಬಟ್ಟೆಗಳ ವಿಚಾರ ಯಾವಾಗಲೂ ಮನಸ್ಸಿನಲ್ಲಿ ಗುನುಗುಡುತ್ತಿತ್ತು. ಮಹಾತ್ಮಾ ಗಾಂಧೀಜಿ ಖಾದಿ ಬಟ್ಟೆಯ ಬಗೆಗೆ ಒಲವು ಹೊಂದಿದ್ದು, ಎಲ್ಲ ಕಡೆಯಲ್ಲೂ\
+    \ ಆ ವಿಚಾರ ಪ್ರಚಾರ ಮಾಡುತ್ತಿದ್ದರು. ಬಾಲಕ ಮಹಾದೇವರಿಗೆ ಖಾದಿ ಬಟ್ಟೆಯನ್ನು ಕುರಿತು ಪ್ರಚಾರಮಾಡಬೇಕೆಂಬ ಆಸೆ ಹೆಚ್ಚಾಯಿತು."
+- id: story-n2
+  type: prose
+  section: story
+  text: ಮಹಾದೇವರವರಿಗೆ ಹನ್ನೆರಡು-ಹದಿಮೂರರ ಹರೆಯ. ವಿಜಯಪುರ ಜಿಲ್ಲೆಯಲ್ಲಿ ಕಲಾದಗಿ ಎಂಬ ಒಂದು ಗ್ರಾಮವಿದೆ. ಅಲ್ಲಿ ಆ ಕಾಲದಲ್ಲಿ ಖಾದಿ ಬಟ್ಟೆಗಳನ್ನು ತಯಾರು ಮಾಡುತ್ತಿದ್ದರು. ಮಹಾದೇವರು ಅಲ್ಲಿಗೆ ಹೋದರು. ಅಲ್ಲಿ ಖಾದಿಯನ್ನು ತಯಾರಿಸುವುದು ಹೇಗೆ ಎಂದು ತಿಳಿದುಕೊಂಡರು. ಖಾದಿಯನ್ನು ಹೊತ್ತು ಊರೂರು ತಿರುಗಿ ಮಾರಾಟ ಮಾಡಿದರು. ಖಾದಿ ಬಳಕೆಯನ್ನು ಕುರಿತು ಪ್ರಚಾರವನ್ನೂ ನಡೆಸಿದರು.
+- id: story-n3
+  type: prose
+  section: story
+  text: ಮಹಾದೇವ ಅವರಿಗೆ ಸಬರಮತಿ ಆಶ್ರಮದಿಂದ ಕರೆ ಬಂದಿತು. ಮಹಾದೇವ ಅಲ್ಲಿಗೆ ಹೋದರು. ಆ ವೇಳೆಗೆ ಪ್ರಸಿದ್ಧ ದಂಡಿ ಸತ್ಯಾಗ್ರಹ ನಡೆಯುತ್ತಿತ್ತು. ಗಾಂಧೀಜಿಯವರೊಡನೆ ದಂಡಿಯಾತ್ರೆಯಲ್ಲಿ ಹೆಜ್ಜೆ ಹಾಕಿದರು. ದಂಡಿ ಸತ್ಯಾಗ್ರಹದಲ್ಲಿ ಭಾಗವಹಿಸಿದವರಿಗೆ ಸೆರೆಮನೆ ವಾಸದ ಶಿಕ್ಷೆಯಾಯಿತು. ಮಹಾದೇವ ಆರು ತಿಂಗಳು ಸೆರೆಮನೆಯಲ್ಲಿ ಕಳೆದರು. ದಂಡಿಯಾತ್ರೆ ಮುಗಿದು ಮಹಾದೇವ ಹುಟ್ಟೂರಿಗೆ ವಾಪಸ್ಸು ಬಂದರು. ಆ ಹೊತ್ತಿಗಾಗಲೇ ದಂಡಿಯಾತ್ರೆಯಲ್ಲಿ ಭಾಗವಹಿಸಿದ್ದ ಕರ್ನಾಟಕದ ಸ್ವಾತಂತ್ರ್ಯ ಸೇನಾನಿ ಎಂಬುದಾಗಿ ಅವರಿಗೆ ಹೆಸರು ಬಂದಿತ್ತು. ಊರಿನಲ್ಲಿ ಮಹಾದೇವ ಅವರಿಗೆ ಅದ್ದೂರಿಯ ಸ್ವಾಗತ ಸಿಕ್ಕಿತು.
+- id: story-n4
+  type: prose
+  section: story
+  text: ಮಹಾದೇವ ತಮ್ಮ ಹೆಂಡತಿ ಸಿದ್ದಮ್ಮ ಅವರನ್ನು ಸಿದ್ಧಮತಿ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು. ಸಬರಮತಿಯ ಸುಖವಾಸ ತನಗಷ್ಟೇ ಅಲ್ಲದೆ ಹೆಂಡತಿಗೂ ಆಗಬೇಕೆಂದು ಅವರನ್ನೂ ಸಬರಮತಿಗೆ ಕರೆದುಕೊಂಡು ಹೋದರು. ಅಲ್ಲಿ ಸಿದ್ದಮ್ಮ ಬ್ರಿಟಿಷ್ ಸರಕಾರಕ್ಕೆ ಅಸಹಕಾರ ನೀಡುವ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಜೈಲು ಸೇರಿದರು. ಊರಿಗೆ ಬಂದಿದ್ದ ಮಹಾದೇವ ಇಲ್ಲಿ ಅಸಹಕಾರ ಚಳವಳಿಯಲ್ಲಿ ಭಾಗವಹಿಸಿ ಜೈಲು ಸೇರಿದರು. ಹಿಂಡಲಗಾ ಜೈಲಿನಲ್ಲಿದ್ದಾಗ ಗಾಂಧೀಜಿಯವರು ಅಲ್ಲಿಗೆ ಭೇಟಿ ನೀಡಿ ಮಹಾದೇವರನ್ನು ಕಂಡು ಅವರನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿದರು.
+- id: story-n5
+  type: prose
+  section: story
+  text: "ಮಹಾದೇವರಿಗೆ ಜೈಲಿನಿಂದ ಬಿಡುಗಡೆಯಾಯಿತು. ಹಲವಾರು ಬಾರಿ ಜೈಲಿಗೆ ಹೋಗಿದ್ದರಿಂದ ದೇಹದ ಆರೋಗ್ಯದ ಬಗೆಗೆ ಅವರಿಗೆ ಕಾಳಜಿ ಉಂಟಾಯಿತು. ಶಿಸ್ತುಬದ್ಧವಾದ ವ್ಯಾಯಾಮವನ್ನು ಕಲಿಯಬೇಕೆನಿಸಿತು. ವ್ಯಾಯಾಮವನ್ನು ಕಲಿತರು. ವ್ಯಾಯಾಮ ಕಲಿಯುವಾಗಲೇ ಔಷಧಗಳ ಶಾಸ್ತ್ರವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿದರು. ಹಳ್ಳಿಗರ ಸೇವೆ ಮಾಡುವ ಉದ್ದೇಶದಿಂದ ಒಂದು ಸೇವಾಶ್ರಮವನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಗಂಡ-ಹೆಂಡತಿ ಇಬ್ಬರೂ ಸೇವಾಶ್ರಮದ ಸಂಚಾಲಕರಾಗಿ ಚರಕದಿಂದ ನೂಲು ತೆಗೆಯುವುದು, ಪ್ರಕೃತಿ ಚಿಕಿತ್ಸೆ, ವ್ಯಾಯಾಮ ಮುಂತಾದವುಗಳನ್ನು ಹಳ್ಳಿಯ ಜನರಿಗೆ ಅಭ್ಯಾಸ ಮಾಡಿಸಿದರು. ಸೇವಾಶ್ರಮದಲ್ಲಿ ತಯಾರಿಯಾಗುತ್ತಿದ್ದ ಖಾದಿಯನ್ನು ಊರೂರಿಗೆ ಕೊಂಡು ಹೋಗಿ ಮಾರಾಟ ಮಾಡಿದರು. ‘ಮಹಾದೇವನ ಖಾದಿ’ ಎಂದೇ ಇದು ಪ್ರಸಿದ್ಧಿಯಾಯಿತು. ಇದರ ಜೊತೆಯಲ್ಲಿ ಪತಿ-ಪತ್ನಿಯರ ಸ್ವಾತಂತ್ರ್ಯದ ತುಡಿತ, ಹೋರಾಟ ಜನಪ್ರಿಯವಾಯಿತು. ಊರಿನ ಜನರು ಇವರ ಗುಣಗಾನ ಮಾಡಿದರು."
+- id: poem-s1l1
+  type: poem_line
+  section: story
+  stanza: 1
+  text: "ಚಿಕ್ಕವಯಸಿದ್ರು ಒಳ್ಳೇ ಚೊಕ್ಕ ಮಾತನಾಡತಾನಾ|"
+- id: poem-s1l2
+  type: poem_line
+  section: story
+  stanza: 1
+  text: "ಹಕ್ಕಿ ತನ್ನ ಮರಿಗೆ ಮುದ್ದುಕೊಟ್ಟಾಂಗ|"
+- id: poem-s1l3
+  type: poem_line
+  section: story
+  stanza: 1
+  text: "ನಕ್ಕರೊಂದು ಚಂದ ಅವನು|"
+- id: poem-s1l4
+  type: poem_line
+  section: story
+  stanza: 1
+  text: "ನುಡಿದರೊಂದು ಚಂದ ನಮಗೆ|"
+- id: poem-s1l5
+  type: poem_line
+  section: story
+  stanza: 1
+  text: "ಸಿಕ್ಕೊದಿಲ್ಲೊ ಇಂಥಾ ಚೊಕ್ಕಬಂಗಾರದಂಥವಾ||"
+- id: story-n6
+  type: prose
+  section: story
+  text: ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ದಿನ ದಿನ ಬೆಳೆಯುತ್ತ ಹೋಯಿತು. 1942ರಲ್ಲಿ ಗಾಂಧೀಜಿಯವರು ‘ಬ್ರಿಟಿಷರೇ ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಿ’ ಎಂಬ ಘೋಷಣೆ ಮಾಡಿದರು. ದೇಶದೆಲ್ಲೆಡೆ ಗಾಂಧೀಜಿಯವರ ಘೋಷಣೆಗೆ ಭಾರತೀಯರ ಬೆಂಬಲ ದೊರೆಯಿತು. ದಕ್ಷಿಣ ಭಾಗದ ಈ ಚಳುವಳಿಗೆ ಮೈಲಾರ ಮಹಾದೇವ ನೇತೃತ್ವ ವಹಿಸಿದರು. ಹಳ್ಳಿ ಹಳ್ಳಿಗಳಲ್ಲಿ ತಿರುಗಿ ಗಾಂಧೀಜಿಯವರ ಘೋಷಣೆಯನ್ನು ಪ್ರಚಾರ ಮಾಡಿದರು. ಅವರ ಮಾತುಗಳು ದೇಶಭಕ್ತಿಯನ್ನು ಬಡಿದೆಬ್ಬಿಸಿದವು.
+- id: story-n7
+  type: prose
+  section: story
+  text: ಬ್ರಿಟಿಷರು ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಬೇಕಾದರೆ ಅವರು ನಡೆಸುತ್ತಿರುವ ಆಡಳಿತಕ್ಕೆ ಧಕ್ಕೆ ಉಂಟುಮಾಡಿ ಅವರಿಗೆ ಆಡಳಿತ ನಡೆಸುವುದು ಸಾಧ್ಯವಿಲ್ಲ ಎನಿಸಬೇಕಿತ್ತು. ಮಹಾದೇವ ತಮ್ಮ ಸಂಗಡಿಗರೊಂದಿಗೆ ಇಂಥ ಸಾಹಸಕ್ಕೆ ಅಣಿಯಾದರು. ರೈಲು ಓಡಾಟದ ಮೇಲೆ ಇವರು ಗಮನವಿಟ್ಟರು. ಸವಣೂರು ಎಂಬಲ್ಲಿ ರೈಲು ನಿಲ್ದಾಣವನ್ನು ಬ್ರಿಟಿಷ್ ಪೊಲೀಸರಿಗೆ ಗೊತ್ತಾಗದಂತೆ ಸುಟ್ಟುಹಾಕಿದರು. ಹೊನ್ನತ್ತಿ ಎಂಬಲ್ಲಿ ಪೊಲೀಸರ ಬಂದೂಕು ಅಪಹರಿಸಿದರು. ಬಾಳೆಹೊಸೂರಿನ ಪೊಲೀಸ್ ಕೇಂದ್ರವನ್ನು ಸುಟ್ಟರು. ಮಹಾದೇವ ಮತ್ತು ಸಂಗಡಿಗರ ಈ ಕೃತ್ಯಗಳಿಂದ ಬ್ರಿಟಿಷ್ ಸರ್ಕಾರ ನಡುಗಿತು. ಮಹಾದೇವಪ್ಪನವರನ್ನು ಹಿಡಿದುಕೊಟ್ಟವರಿಗೆ ಬಹುಮಾನ ಘೋಷಿಸಿತು. ಹಗಲಿರುಳೆನ್ನದೆ ಬ್ರಿಟಿಷ್ ಪೊಲೀಸರು ಮಹಾದೇವ ಹಾಗೂ ಅವರ ತಂಡದವರಿಗಾಗಿ ಶೋಧ ನಡೆಸಿದರು.
+- id: story-n8
+  type: prose
+  section: story
+  text: "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಹೊಸರಿತ್ತಿಯಲ್ಲಿ ಕಂದಾಯವನ್ನು ಬಲವಂತವಾಗಿ ವಸೂಲಿ ಮಾಡಿ ಜನರನ್ನು ಹಿಂಸಿಸುತ್ತಿದ್ದ ಸರಕಾರದ ಕೇಂದ್ರವಿತ್ತು. ಅದನ್ನು ಆಕ್ರಮಿಸಿಕೊಳ್ಳಬೇಕೆಂದು ನಿರ್ಧಾರವಾಯಿತು. ತಮ್ಮೊಟ್ಟಿಗೇ ಇದ್ದ ಪತ್ನಿ ಸಿದ್ದಮ್ಮನನ್ನು ಹಾಗೂ ಮಗಳಾದ ಕಸ್ತೂರಿದೇವಿಯನ್ನು ಹುಬ್ಬಳ್ಳಿಗೆ ಕಳುಹಿಸಿದರು. 1943ರ ಏಪ್ರಿಲ್ 1 ರಂದು ಬೆಳಗಿನ ಸಮಯ. ಹೊಸರಿತ್ತಿಯ ಸಮೀಪದ ವೀರಭದ್ರ ದೇವಾಲಯದಲ್ಲಿ ಪೊಲೀಸರ ತುಕಡಿಯಿತ್ತು. ಅದರ ಪಕ್ಕದಲ್ಲೇ ಖಜಾನೆ. ಮಹಾದೇವ ತನ್ನ ಸಂಗಡಿಗರೊಂದಿಗೆ ಮುತ್ತಿಗೆ ಹಾಕಿದರು. ಮಹಾದೇವ ಅವರ ಧೈರ್ಯಕ್ಕೆ ಹೆದರಿ ಹಲವು ಪೊಲೀಸರು ಓಟ ಕಿತ್ತರು. ಮಹಾದೇವ ಖಜಾನೆಯ ಬೀಗ ಮುರಿಯುವುದರಲ್ಲಿ ನಿರತರಾಗಿದ್ದರು. ಅಡಗಿ ಕುಳಿತಿದ್ದ ಒಬ್ಬ ಪೊಲೀಸ್ ಮಹಾದೇವನ ಎದೆಗೆ ಗುಂಡು ಹೊಡೆದ. ಮಹಾದೇವ ರಕ್ತದ ಮಡುವಿನಲ್ಲಿ ಬಿದ್ದರು. ಅವರ ಸಂಗಡಿಗರು ಗುಂಡು ಹೊಡೆದ ಪೊಲೀಸನನ್ನು ಹೊಡೆಯಲು ಹೋದರು. ನಮ್ಮದು ಅಹಿಂಸಾತ್ಮಕ ಹೋರಾಟ, ಪೊಲೀಸರನ್ನು ಕೊಲ್ಲದಿರಿ, ಹಿಂಸೆ ಮಾಡದಿರಿ ಎಂದು ಮಹಾದೇವ ಸಂಗಡಿಗರನ್ನು ತಡೆದರು. ಮಹಾದೇವನ ಉಸಿರಾಟ ನಿಂತಿತು. ದೇಶದೆಲ್ಲೆಡೆ ಈ ಸುದ್ದಿ ಹರಡಿತು. ಪತ್ನಿ ಸಿದ್ಧಮ್ಮ ಗಂಡನ ಬಲಿದಾನದ ತ್ಯಾಗವನ್ನು ಧೈರ್ಯವಾಗಿ ಎದುರಿಸಿದರು. ಮಹಾದೇವರಿಗಾಗಿ ದೇಶ ಮರುಗಿತು. ಈ ಮರುಕ ಹಾಡಾಗಿ ಹರಿಯಿತು."
+- id: poem-s2l1
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಭಾರತ ದೇಶದ ಬಂಧ ವಿಮೋಚನೆಗೆ ಭಾರೀ ಕಷ್ಟವ ಸೋಸಿದರು
+- id: poem-s2l2
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ತಾರುಣ್ಯವೆಲ್ಲವ ತುರಂಗದಲಿ ಕಳೆದು ಮಡಿದ ಮಹಾಶೂರ ಮೈಲಾರರು
+- id: poem-s2l3
+  type: poem_line
+  section: story
+  stanza: 2
+  text: "ತುಂಟರ ತುಂಟನು, ಭಂಟರ ಭಂಟನು, ಸಾತ್ವಿಕರೊಳಗೆ ಸರದಾರ!"
+- id: poem-s2l4
+  type: poem_line
+  section: story
+  stanza: 2
+  text: "ದಿಟ್ಟನ ಹೆಸರನು ಹುಟ್ಟಿದ ಕೂಸಿಗೆ ಇಟ್ಟರೂ ತೀರದು ಉಪಕಾರ!"
+- id: competency
+  type: competency
+  section: competency
+  text: "ಕೌಶಲ: ಮಾತನಾಡುವುದು. ಸಾಮರ್ಥ್ಯ: ಸಮಾರಂಭದ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ನಿರೂಪಣೆ ಮಾಡುವುದು. ಆಶಯ: ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಹೋರಾಟ ಮಾಡಿದವರನ್ನು ಸ್ವಾತಂತ್ರ್ಯಯೋಧರು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಒಂದು ಉದ್ದೇಶಕ್ಕಾಗಿ ತಮ್ಮ ಬದುಕನ್ನೇ ಮೀಸಲಾಗಿಟ್ಟ ಇಂಥ ಯೋಧರು ಭಾರತದಲ್ಲಿ ಹಲವಾರು ಮಂದಿ ಇದ್ದಾರೆ. ದೇಶವೇ ಮುಖ್ಯ ಅದರ ಮುಂದೆ ಉಳಿದೆಲ್ಲವೂ ಗೌಣ. ದೇಶದ ಉಳಿವಿಗಾಗಿ ಎಂಥ ತ್ಯಾಗಕ್ಕೂ ಸಿದ್ಧರಾಗಿದ್ದವರು ಈ ಹಿರಿಯರು. ಸ್ವಾರ್ಥವನ್ನು ಮರೆತು ದೇಶದ ಪ್ರಗತಿಯನ್ನೇ ಮುಖ್ಯ ಗುರಿಯಾಗಿರಿಸಿಕೊಂಡರು ಇಂಥ ಅಸಂಖ್ಯಾತ ಯೋಧರನ್ನು ನಾವು ಕೃತಜ್ಞತೆಯಿಂದ ಸ್ಮರಿಸಬೇಕು."
+- id: vocab-toppige
+  type: vocabulary_term
+  section: vocab
+  text: ಟೊಪ್ಪಿಗೆ
+- id: vocab-toppige-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಟೋಪಿ
+- id: vocab-chikkavayasidru
+  type: vocabulary_term
+  section: vocab
+  text: ಚಿಕ್ಕವಯಸಿದ್ರು
+- id: vocab-chikkavayasidru-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಚಿಕ್ಕ ವಯಸ್ಸಿದ್ದರೂ
+- id: vocab-chokka
+  type: vocabulary_term
+  section: vocab
+  text: ಚೊಕ್ಕ
+- id: vocab-chokka-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಚೆನ್ನಾಗಿ, ಅಚ್ಚುಕಟ್ಟಾಗಿ"
+- id: vocab-chanda
+  type: vocabulary_term
+  section: vocab
+  text: ಚಂದ
+- id: vocab-chanda-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಚೆನ್ನ
+- id: vocab-chokkabangara
+  type: vocabulary_term
+  section: vocab
+  text: ಚೊಕ್ಕಬಂಗಾರ
+- id: vocab-chokkabangara-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಅಪ್ಪಟ ಬಂಗಾರ, ಅಪರಂಜಿ"
+- id: vocab-dhakke
+  type: vocabulary_term
+  section: vocab
+  text: ಧಕ್ಕೆ
+- id: vocab-dhakke-def
+  type: vocabulary_definition
+  section: vocab
+  text: ತೊಂದರೆ
+- id: vocab-aniyagu
+  type: vocabulary_term
+  section: vocab
+  text: ಅಣಿಯಾಗು
+- id: vocab-aniyagu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸಿದ್ಧವಾಗು
+- id: vocab-shodha
+  type: vocabulary_term
+  section: vocab
+  text: ಶೋಧ
+- id: vocab-shodha-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹುಡುಕಾಟ
+- id: vocab-tukadi
+  type: vocabulary_term
+  section: vocab
+  text: ತುಕಡಿ
+- id: vocab-tukadi-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸೈನ್ಯ
+- id: vocab-madu
+  type: vocabulary_term
+  section: vocab
+  text: ಮಡು
+- id: vocab-madu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕೊಳ್ಳ
+- id: vocab-khajane
+  type: vocabulary_term
+  section: vocab
+  text: ಖಜಾನೆ
+- id: vocab-khajane-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಬೊಕ್ಕಸ
+- id: vocab-khadi
+  type: vocabulary_term
+  section: vocab
+  text: ಖಾದಿ
+- id: vocab-khadi-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕೈನೂಲಿನಿಂದ ನೆಯ್ದ ಬಟ್ಟೆ
+- id: vocab-gunugu
+  type: vocabulary_term
+  section: vocab
+  text: ಗುನುಗು
+- id: vocab-gunugu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸತತವಾಗಿ ಧ್ವನಿಮಾಡು
+- id: vocab-jailu
+  type: vocabulary_term
+  section: vocab
+  text: ಜೈಲು
+- id: vocab-jailu-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಸೆರೆಮನೆ, ಬಂಧೀಖಾನೆ"
+- id: vocab-balidana
+  type: vocabulary_term
+  section: vocab
+  text: ಬಲಿದಾನ
+- id: vocab-balidana-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಪ್ರಾಣತ್ಯಾಗ
+- id: vocab-sosidaru
+  type: vocabulary_term
+  section: vocab
+  text: ಸೋಸಿದರು
+- id: vocab-sosidaru-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಅನುಭವಿಸಿದರು
+- id: note-savanuru
+  type: note_term
+  section: notes
+  text: ಸವಣೂರು
+- id: note-savanuru-def
+  type: note_definition
+  section: notes
+  text: ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಒಂದು ತಾಲ್ಲೂಕು
+- id: note-honnatti
+  type: note_term
+  section: notes
+  text: ಹೊನ್ನತ್ತಿ
+- id: note-honnatti-def
+  type: note_definition
+  section: notes
+  text: ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ರಾಣಿಬೆನ್ನೂರು ತಾಲ್ಲೂಕಿನ ಗ್ರಾಮ
+- id: note-balehosuru
+  type: note_term
+  section: notes
+  text: ಬಾಳೆಹೊಸೂರು
+- id: note-balehosuru-def
+  type: note_definition
+  section: notes
+  text: ಗದಗ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಒಂದು ಗ್ರಾಮ
+- id: note-asahakara
+  type: note_term
+  section: notes
+  text: ಅಸಹಕಾರ ಚಳವಳಿ
+- id: note-asahakara-def
+  type: note_definition
+  section: notes
+  text: "ಸರ್ಕಾರದ ವಿರುದ್ಧ ಜನತೆ ತನ್ನ ಅಸಮ್ಮತಿ, ವಿರೋಧ ಮತ್ತು ಪ್ರತಿಭಟನೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಒಂದು ಮಾರ್ಗ"
+- id: note-satyagraha
+  type: note_term
+  section: notes
+  text: ಸತ್ಯಾಗ್ರಹ
+- id: note-satyagraha-def
+  type: note_definition
+  section: notes
+  text: ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರು ತಮ್ಮ ಜೀವನದಲ್ಲಿ ಕಂಡುಕೊಂಡ ಸಿದ್ಧಾಂತ ಹಾಗೂ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಸ್ವಾತಂತ್ರ್ಯ ಪಡೆಯುವುದಕ್ಕಾಗಿ ನಡೆಸಿದ ಚಳವಳಿ
+- id: note-sabarmati
+  type: note_term
+  section: notes
+  text: ಸಬರಮತಿ ಆಶ್ರಮ
+- id: note-sabarmati-def
+  type: note_definition
+  section: notes
+  text: ಗಾಂಧೀಜಿ ಸ್ಥಾಪಿಸಿದ ಪ್ರಪಂಚಪ್ರಸಿದ್ಧ ಆಶ್ರಮ
+- id: note-dandi
+  type: note_term
+  section: notes
+  text: ದಂಡಿ ಸತ್ಯಾಗ್ರಹ
+- id: note-dandi-def
+  type: note_definition
+  section: notes
+  text: 1930ರ ಮಾರ್ಚ್ 12ರಂದು ಗಾಂಧಿಯವರು ತಮ್ಮ ಸುಪ್ರಸಿದ್ಧ ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹವನ್ನಾರಂಭಿಸಿದರು
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮೋಟೆಬೆನ್ನೂರು ಎಂಬ ಹಳ್ಳಿ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಯಾವ ಬಟ್ಟೆಗಳ ವಿಚಾರ ಯಾವಾಗಲೂ ಮೈಲಾರರ ಮನಸ್ಸಿನಲ್ಲಿ ಗುನುಗುಡುತ್ತಿತ್ತು?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮಹಾದೇವನಿಗೆ ಗಾಂಧಿಯವರೊಡನೆ ಯಾವ ಆಶ್ರಮದಲ್ಲಿ ಇರಬೇಕೆಂದು ಆಸೆಯಾಯಿತು?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ವಿಜಯಪುರ ಜಿಲ್ಲೆಯಲ್ಲಿ ಯಾವ ಗ್ರಾಮದಲ್ಲಿ ಖಾದಿ ಬಟ್ಟೆಗಳನ್ನು ತಯಾರು ಮಾಡುತ್ತಿದ್ದರು?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: 1942ರಲ್ಲಿ ಗಾಂಧೀಜಿಯವರು ಯಾವ ಘೋಷಣೆ ಮಾಡಿದರು?
+- id: ex-a-q6
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮಹಾದೇವ ಅವರು ಎಲ್ಲಿ ಪೊಲೀಸರ ಬಂದೂಕು ಅಪಹರಿಸಿದರು?
+- id: ex-b-q1
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಮಹಾದೇವ ಕಲಾದಗಿ ಎಂಬ ಒಂದು ಗ್ರಾಮಕ್ಕೆ ಹೋಗಿ ಏನು ತಿಳಿದುಕೊಂಡರು?
+- id: ex-b-q2
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ದಂಡಿಯಾತ್ರೆಯಲ್ಲಿ ಹೆಜ್ಜೆ ಹಾಕಿದ ಮಹಾದೇವರಿಗೆ ಆದ ಶಿಕ್ಷೆ ಏನು?
+- id: ex-b-q3
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಮಹಾದೇವ ಮತ್ತು ಸಿದ್ಧಮತಿ ಇಬ್ಬರೂ ಸೇವಾಶ್ರಮದ ಸಂಚಾಲಕರಾಗಿ ಮಾಡಿದ ಕೆಲಸಗಳೇನು?
+- id: ex-b-q4
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಮಹಾದೇವ ರಕ್ತದ ಮಡುವಿನಲ್ಲಿ ಬಿದ್ದದ್ದು ಏಕೆ?
+- id: ex-c-q1
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ಮಹಾದೇವ ಅವರು ಜೈಲಿನಿಂದ ಬಿಡುಗಡೆಯಾದ ಮೇಲೆ ಮಾಡಿದ ಕಾರ್ಯಗಳಾವುವು?
+- id: ex-c-q2
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ಬ್ರಿಟಿಷರು ಭಾರತ ಬಿಟ್ಟು ತೊಲಗಬೇಕಾದರೆ ಏನು ಮಾಡಬೇಕೆಂದು ಮಹಾದೇವ ಯೋಚಿಸಿದರು?
+- id: ex-c-q3
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ಹೊಸರಿತ್ತಿಯಲ್ಲಿ ನಡೆದ ಘಟನೆಗಳಾವುವು?

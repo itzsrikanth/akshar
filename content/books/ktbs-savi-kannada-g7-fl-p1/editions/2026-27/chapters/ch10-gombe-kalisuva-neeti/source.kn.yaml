@@ -1,0 +1,107 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 10
+  slug: ch10-gombe-kalisuva-neeti
+  title: ಗೊಂಬೆ ಕಲಿಸುವ ನೀತಿ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಚಿ. ಉದಯಶಂಕರ
+labels:
+  poem: ಪದ್ಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+segments:
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಆಡಿಸಿ ನೋಡು, ಬೀಳಿಸಿ ನೋಡು, ಉರುಳಿ ಹೋಗದು"
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಏನೇ ಬರಲಿ, ಯಾರಿಗು ಸೋತು ತಲೆಯ ಬಾಗದು"
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಎಂದಿಗೂ ನಾನು ಹೀಗೇ ಇರುವೆ ಎಂದು ನಗುವುದು, ಹೀಗೇ ನಗುತಲಿರುವುದು"
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ಗುಡಿಸಲೇ ಆಗಲಿ ಅರಮನೆಯಾಗಲಿ, ಆಟ ನಿಲ್ಲದು"
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ಹಿರಿಯರೆ ಇರಲಿ ಕಿರಿಯರೆ ಬರಲಿ, ಭೇದ ತೋರದು"
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಕಷ್ಟವೊ ಸುಖವೊ ಅಳುಕದೆ ಆಡಿ ತೂಗುತಿರುವುದು
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: "ಮೈಯನು ಹಿಂಡಿ ನೊಂದರು ಕಬ್ಬು, ಸಿಹಿಯ ಕೊಡುವುದು"
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: "ತೇಯುತಲಿದ್ದರೂ ಗಂಧದ ಪರಿಮಳ, ತುಂಬಿ ಬರುವುದು"
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ತಾನೆ ಉರಿದರೂ ದೀಪವು ಮನೆಗೆ ಬೆಳಕ ತರುವುದು
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಆಡಿಸುವಾತನ ಕೈಚಳಕದಲಿ ಎಲ್ಲ ಅಡಗಿದೆ
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಆತನ ಕರುಣೆಯು ಜೀವವ ತುಂಬಿ, ಕುಣಿಸಿ ನಲಿಸಿದೆ"
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಆ ಕೈ ಸೋತರೆ, ಬೊಂಬೆಯ ಕಥೆಯು, ಕೊನೆಯಾಗುವುದೇ!"
+- id: author-1
+  type: prose
+  section: author
+  text: "ಚಿಟ್ಟನಹಳ್ಳಿ ಸದಾಶಿವಯ್ಯ ಉದಯಶಂಕರ, ಚಿ. ಉದಯಶಂಕರ್ ಎಂದೇ ಪ್ರಸಿದ್ಧರು. ಇವರು 1934ರ ಫೆಬ್ರವರಿ 18ರಂದು ಹೊಳೆನರಸೀಪುರದಲ್ಲಿ ಜನಿಸಿದರು. ಸುಮಾರು 4,000ದಷ್ಟು ಸಿನೆಮಾ ಗೀತೆಗಳನ್ನು ರಚಿಸಿದ ಕೀರ್ತಿ ಇವರದು. ಕನ್ನಡದ ಚಿತ್ರಸಾಹಿತಿಯಾಗಿದ್ದ ಚಿ. ಸದಾಶಿವಯ್ಯನವರ ಪುತ್ರರಾದ ಉದಯಶಂಕರ್ ತಮ್ಮ ಎಳವೆಯ ದಿನಗಳಿಂದಲೇ ಸಿನೆಮಾ ಕ್ಷೇತ್ರವನ್ನು ಹತ್ತಿರದಿಂದ ನೋಡಿದವರು. “ಸಂತ ತುಕಾರಾಮ್” ಸಿನೆಮಾದ ಮೂಲಕ ಅವರ ಸಾಹಿತ್ಯಕೃಷಿ ಪ್ರಾರಂಭವಾಯಿತು. ಡಾ. ರಾಜ್ಕುಮಾರ್ ಅವರ ಸಿನೆಮಾಗಳಿಗಾಗಿ ಸುಮಾರು 400ಕ್ಕೂ ಹೆಚ್ಚು ಗೀತೆಗಳನ್ನು ಬರೆದುಕೊಟ್ಟ ಉದಯಶಂಕರ್, ರಾಜಕುಮಾರ್ ಅವರ ಜೊತೆ ಸಹನಟನಾಗಿಯೂ ಕೆಲ ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಅಭಿನಯಿಸಿದ್ದರು. ರಾಜಕುಮಾರ್ ಅವರ 88 ಚಿತ್ರಗಳಿಗೆ ಸಂಭಾಷಣೆ ಬರೆದದ್ದು ಕೂಡ ಚಿ. ಉದಯಶಂಕರ್. “ಮಾಮರವೆಲ್ಲೋ ಕೋಗಿಲೆಯೆಲ್ಲೋ”, “ಬಾಡಿಹೋದ ಬಳ್ಳಿಯಿಂದ ಹೂವು ಅರಳಬಲ್ಲುದೆ”, “ಸ್ನೇಹದ ಕಡಲಲ್ಲಿ”, “ಇನ್ನಾದರೂ ಜೀವನದಲ್ಲಿ ಮುಂದೆ ಬನ್ನಿ” ಮುಂತಾದ ಅವರ ಹಲವು ಗೀತೆಗಳು ಕನ್ನಡ ಜನಮಾನಸದಲ್ಲಿ ಅಚ್ಚಳಿಯದೆ ಉಳಿದಿವೆ. ಕುಲಗೌರವ, ನಾಗರಹಾವು, ಜೀವನಚೈತ್ರ, ಪ್ರೇಮದ ಕಾಣಿಕೆ, ಆನಂದ್ ಮುಂತಾದ ಚಲನಚಿತ್ರಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ್ದಕ್ಕಾಗಿ ಅವರು ಹಲವು ಪ್ರಶಸ್ತಿಗಳನ್ನು ಪಡೆದಿದ್ದಾರೆ. ತಮ್ಮ 59ನೆಯ ವಯಸ್ಸಿನಲ್ಲಿ (1993 ಜುಲೈ 3) ಚಿ. ಉದಯಶಂಕರ್ ತೀರಿಕೊಂಡರು."
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಜೀವನದಲ್ಲಿ ಸೋತವರಿಗೆ ಗೊಂಬೆಯು ಕೊಡುವ ಧೈರ್ಯವೇನು?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಗೊಂಬೆಯು ಹೇಗೆ ತೂಗುತ್ತಿರುತ್ತದೆ?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ತಾವು ಕಷ್ಟಪಟ್ಟರೂ ಲೋಕಕ್ಕೆ ಉಪಕಾರ ಮಾಡುವ ಮೂರು ಸಂಗತಿಗಳು ಯಾವುವು?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಗೊಂಬೆಯು ನಿಶ್ಚಲವಾಗುವುದು ಯಾವಾಗ?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಗೊಂಬೆಯು ಹೇಳುವ ನೀತಿಯ ಸಾರಾಂಶವೇನು?

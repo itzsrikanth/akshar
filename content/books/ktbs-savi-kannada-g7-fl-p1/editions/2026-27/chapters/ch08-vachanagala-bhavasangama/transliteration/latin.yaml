@@ -1,0 +1,85 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: vacanagaḻu
+  author: kṛtikārara paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyadalli uttarisi.
+  exercise-C: i. kòṭṭiruva praśnègaḻigè aidu-āru vākyagaḻalli uttarisi.
+intro-1: kannaḍa sāhitya caritrèyalli 12 nèya śatamāna atyamūlyavādaddu. vacana sāhitya kannaḍa sāhityavannu śrīmaṃtagòḻisida viśiṣṭa sāhitya prakāra. janasāmānyaru tamma svānubhūti, nivedanègaḻannu tamma tamma iṣṭa devara hèsarinalli aṃkitanāmananniṭṭukòṃḍu vacanagaḻa rūpadalli hòrahòmmida kālavidu. ī kāladalli jāti bhedavilladè gaṃḍu hèṇṇèṃba tāratamyavillade halavāru maṃdi vacanagaḻannu racisiddārè. jeḍara dāsimayya, basavaṇṇa, allamaprabhu, cènnabasavaṇṇa, akkamahādevi, maḍivāḻa mācideva, muktāyakka, satyakka mòdalādavara vacanagaḻu kannaḍa sāhityadalli heraḻavāgivè. ī vacanakārara vacanagaḻannu avaravara vacanāṃkitadiṃda sulabhavāgi adara kartṛvannu racanèkārarannu gurutisalu sādhyavāgidè. iṃtha amūlya vacanagaḻa bhāvāṃtaraṃgadalli bhaktana parīkṣè, pariśuddhatè, ācāra-vicāragaḻu hāgū bhaktara prāmāṇika naḍènuḍigaḻannu ī vacanagaḻa bhāvasaṃgamadalli kāṇabahudu.
+poem-s1l1: harida goṇiyalòbba kaḻavèya tuṃbida
+poem-s1l2: iruḻèllā naḍèdanā suṃkakaṃji
+poem-s1l3: kaḻavèyèllā hogi barigoṇi uḻiyittu
+poem-s1l4: aḻimanadavana bhakti iṃtāyittu rāmanātha- jeḍara dāsimayya.
+poem-s2l1: aṃdhakārada dèsèyiṃda caṃdrana prabhèyāyitu
+poem-s2l2: niṃdakara nuḍiyiṃda eḍisalai śivabhaktiya prabhèyāyitu
+poem-s2l3: ahudèṃdaḍè allavèṃdatigaḻèvaru
+poem-s2l4: kutarkaśāstradiṃda yamagatigara kūḍè
+poem-s2l5: nānā janmakkeradè, śivācārada pathava torayyā
+poem-s2l6: kalidevara deva- maḍivāḻa mācayya
+poem-s3l1: nuḍiyalubāradu kèṭṭa nuḍigaḻa
+poem-s3l2: naḍèyalubāradu kèṭṭa naḍègaḻa
+poem-s3l3: nuḍidaḍenu, naḍèyadirdaḍenu
+poem-s3l4: hiḍida vratava biḍadiralu
+poem-s3l5: ade mahājñānadācaraṇè èṃbènu ajagaṇṇa taṃdè- muktāyakka
+poem-s4l1: laṃcavaṃcanakkè kaiyānada bhāṣè
+poem-s4l2: baṭṭèyalli hònnuvastra biddiddarè
+poem-s4l3: nānu kaimuṭṭi èttidènādarè
+poem-s4l4: nimmāṇè nimma pramatharāṇè
+poem-s4l5: adenu kāraṇavèṃdarè nīvikkida bhikṣadallippènāgi
+poem-s4l6: iṃtalladè nānu aḻimanava māḍi
+poem-s4l7: paradravyakkè āsè māḍidènādarè
+poem-s4l8: nīnāgalè ènna narakadalli addi
+poem-s4l9: nīnèddu hogā śaṃbhujakkeśvarā.- satyakka
+author-1: 'jeḍara dāsimayya: hannòṃdanèya śatamānadallidda hiriya śivaśaraṇa. yādagiri sanihada mudenūrinavaru. dāsimayya prathama vacanakārarèṃde mānyarāgiddārè. ‘rāmanātha’ èṃba aṃkitadiṃda racisiruva ivara 150 vacanagaḻu dòrètivè. saraḻa mattu nera nirūpaṇèyiṃda kūḍida dāsimayyanavara vacanagaḻu sāmājika maulyadiṃda janamānyavāgidè.'
+author-2: jeḍaradāsimayyanavaru ī vacanadalli dṛḍhavillada bhakti hegè iruttadè èṃbudannu tiḻisiddārè. manadalli kèṭṭa uddeśavannu hòṃdi, hòranoṭakkè devaralli òlavuḻḻavanaṃtè naṭisuttā, janarannu mattu samājavannu vaṃcisuva vyaktiyu kaṭṭa kaḍègè jīvanadalli enannū gaḻisalāgadè, tannalliruvudannū kaḻèdu kòḻḻuttānè.
+author-3: 'maḍivāḻa mācayya: maḍivāḻa mācayya 12ne śatamānada pramukha vacanakāraralli òbbaru. ivara janmasthaḻa vijayapura jillèya hipparagi. basavaṇṇanavara kīrti keḻi hòsa dharmakkè ākarṣaṇègòṃḍu kalyāṇakkè hodavaralli mòdaligaru. mācayya kalyāṇadalli śivaśaraṇara baṭṭègaḻannu mātra maḍimāḍikòṃḍiddavaru. ivara 353 vacanagaḻu upalabdhavāgivè. ivara vacanāṃkitanāma ‘kalidevara deva’ èṃbudu.'
+author-4: śivabhaktaru aneka satvaparīkṣègaḻiṃda pariśuddharāgiddārè. anyāya mārgavanniḍidu naḍèyuva sāmānya manuṣyaru tamma hīna kṛtyagaḻiṃda aneka janmāṃtaragaḻalli baḻaluttārè. śivabhaktarannu ī janmāṃtaragaḻiṃda baḻalisadè avarigè śivācārada sanmārga torisu èṃbudu ī vacanadallidè.
+author-5: 'muktāyakka: 12nèya śatamānadallidda anubhāvi śivaśaraṇè. muktāyakkana janmasthaḻa lakkuṃḍi. ajagaṇṇa aṃkitaviruva ivara 37 vacanagaḻu dòrètivè. ādhyātma sādhanèya guptabhakta ajagaṇṇanavaru muktāyakkanavara sahodara mattu guru. śivabhaktanigè naḍè-nuḍigaḻu bahaḻa mukhya, naḍènuḍigaḻa pariśuddhatèye nijavāda vrata. idu mahājñāna saṃpādanèya mārgavèṃbudu ī vacanadalli vyaktavāgidè.'
+author-6: 'satyakka: 12nèya śatamānadallidda śivaśaraṇèyaralli òbbaru. śivamògga jillèya śirāḻakòppa samīpada hirejaṃbūru satyakkanavara janmasthaḻa. śivabhaktara manèyaṃgaḻa kasaguḍisutta śivabhaktiyannu ācarisuvudu ivara kāyakavāgittu. “śaṃbhujakkeśvara” èṃbudu satyakkanavara vacanagaḻa aṃkitanāma. ivara 27 vacanagaḻu dòrakivè. pararadhana, pariśramavilladè dòrakuva yāvude āsè-āmiṣagaḻigè śivaśaraṇaru òḻagāgabāradu, hāgenādarū òḻagāda pakṣadalli aṃthavarigè naraka tappiddalla.'
+vocab-harida: harida
+vocab-harida-def: kittuhogiruva
+vocab-goni: goṇi
+vocab-goni-def: sèṇabina cīla
+vocab-kalave: kaḻavè
+vocab-kalave-def: bhatta
+vocab-irulu: iruḻu
+vocab-irulu-def: rātri
+vocab-sunka: suṃka
+vocab-sunka-def: tèrigè
+vocab-andhakara: aṃdhakāra
+vocab-andhakara-def: kattalè, timira
+vocab-prabhe: prabhè
+vocab-prabhe-def: kāṃti, prakāśa
+vocab-nindakaru: niṃdakaru
+vocab-nindakaru-def: niṃdisuvava, bayyuvava
+vocab-edisalu: eḍisalu
+vocab-edisalu-def: cheḍisu, ceṣṭèmāḍu
+vocab-kutarka: kutarka
+vocab-kutarka-def: nyāyavillada mātu
+vocab-patha: patha
+vocab-patha-def: mārga, dāri
+vocab-vrata: vrata
+vocab-vrata-def: niyama, pūjè, dhārmika anuṣṭhāna
+vocab-batte: baṭṭè
+vocab-batte-def: mārga, dāri
+vocab-pramatharu: pramatharu
+vocab-pramatharu-def: śivana bhaktaru
+vocab-alimana: aḻimana
+vocab-alimana-def: dṛḍhavallada manassu, asthiravāda manassu
+vocab-addi: addi
+vocab-addi-def: muḻugisi, toyisi
+ex-a-q1: harida goṇiyalòbba iruḻèllā ekè naḍèdanu?
+ex-a-q2: śivana melina bhakti yāvudariṃda prabhèyāyitu?
+ex-a-q3: mahājñānadācaraṇè yāvudu?
+ex-a-q4: yāvudakkè āsè māḍidarè narakadalli adda beku?
+ex-a-q5: hònnuvastra èlli biddiddarè kaimuṭṭi èttuvudilla?
+ex-b-q1: śivācārada pathavannu torisalu enu māḍabeku?
+ex-b-q2: naḍè-nuḍigaḻa bagègè muktāyakkana abhiprāyavenu?
+ex-c-q1: jeḍaradāsimayyanavaru aḻimanadavana bhaktiyannu hegè tiḻisiddārè?
+ex-c-q2: āsè āmiṣagaḻiṃda muktarāguva bagèyannu satyakka tanna vacanadalli hegè vyaktagòḻisiddāḻè?

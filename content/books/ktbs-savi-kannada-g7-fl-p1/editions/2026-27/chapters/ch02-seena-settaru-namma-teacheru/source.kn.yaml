@@ -1,0 +1,404 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 2
+  slug: ch02-seena-settaru-namma-teacheru
+  title: ಸೀನ ಸೆಟ್ಟರು ನಮ್ಮ ಟೀಚರು
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ವಿ. ಗಾಯತ್ರಿ
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ಕಥೆ
+  competency: ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೆಳಗಿನ ಮಾತುಗಳನ್ನು ಯಾರು, ಯಾರಿಗೆ ಹೇಳಿದರು? ತಿಳಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: "ಪ್ರತಿದಿನ ಮಕ್ಕಳಿಗೆ ಒಂದಲ್ಲ ಒಂದು ರೀತಿಯ ಕಲಿಕೆಯಾಗುತ್ತಿರುತ್ತದೆ. ಮನೆಯಲ್ಲಿ ತಾಯಿ, ತಂದೆ, ಬಂಧುಬಳಗ, ಶಾಲೆಯಲ್ಲಿ ಗುರುಗಳು, ಸಹಪಾಠಿಗಳು ಹೀಗೆ ಎಲ್ಲರಿಂದಲೂ ಒಂದಲ್ಲ ಒಂದು ಕಲಿಕೆಯಾಗುತ್ತಿರುತ್ತದೆ. ಸೈಕಲ್ ಹೇಳಿಕೊಟ್ಟ ಸ್ನೇಹಿತನೂ ಕೂಡ ಒಂದು ರೀತಿಯಲ್ಲಿ ಟೀಚರೇ ಆಗಿದ್ದಾನೆ. ಹೀಗಾಗಿ ನಮ್ಮ ಜೀವನದಲ್ಲಿ ಹಲವಾರು ಟೀಚರ್ಗಳು ಬಂದು ಹೋಗುತ್ತಿರುತ್ತಾರೆ."
+- id: intro-2
+  type: prose
+  section: intro
+  text: "ಈಜುವುದು, ಹಾಡುವುದು, ಕಸೂತಿ ಕೆಲಸ ಯಾವುದೇ ಆಗಲಿ ಅಲ್ಲಿ ಒಬ್ಬ ಟೀಚರ್ ಇರುತ್ತಾರೆ. ಅದೇ ರೀತಿ ಯಾರಿಂದ ಏನೇ ಕಲಿತರೂ ಅಲ್ಲಿ ಗುರುವಿನ ಸ್ಥಾನದಲ್ಲಿ ಒಬ್ಬರನ್ನು ಕಾಣಬಹುದು. ಇದೇ ರೀತಿ ನಮಗೆ ಅನೇಕ ವ್ಯಕ್ತಿಗಳಿಂದ ಸಹಾಯ, ಸಹಕಾರ, ಮಾರ್ಗದರ್ಶನ ಸಿಕ್ಕೇ ಸಿಕ್ಕಿರುತ್ತದೆ. ಅವರಲ್ಲೂ ಕೂಡ ಟೀಚರ್ರನ್ನು ಕಾಣಬಹುದು. ಅಂತಹ ಒಬ್ಬ ಟೀಚರರ ಕಥೆ ಇಲ್ಲಿದೆ."
+- id: story-n1
+  type: prose
+  section: story
+  text: "“ಇವರು ಇವತ್ತಿನಿಂದ ನಿಮ್ಮ ಟೀಚರು. ಇವರು ನಿಮಗೆ ಏನೆಲ್ಲಾ ಕಲಿಸಿಕೊಡುತ್ತಾರೆ ನೋಡ್ತಾ ಇರಿ” - ಮಳೆಗಾಲ ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದ ಆ ದಿನ ಮಾಂಡವಿ ಹೊಸಾ ಟೀಚರನ್ನು ಮಕ್ಕಳಿಗೆ ಪರಿಚಯಿಸಿದರು. ತುಂಗಾ ಅವರನ್ನು ಸರಿಯಾಗಿ ನೋಡಿದಳು. ಮೊದಲನೆಯದಾಗಿ, ಆತ ವೇಷಭೂಷಣದಿಂದ ಟೀಚರರಂತೆ ಕಾಣುತ್ತಿರಲಿಲ್ಲ. ತುಂಬಾ ಹಳೆಯದಾದ ಒಗೆದ ಪಂಚೆಯೊಂದನ್ನು ಸೊಂಟಕ್ಕೆ ಸುತ್ತಿ ಮೇಲಕ್ಕೆ ಎತ್ತಿ ಕಟ್ಟಿದ್ದರು. ಒಗೆದ ಚೌಕುಳಿಯ ಅಂಗಿ, ಅದಕ್ಕಿಂತ ಹಳೆಯ ಟವಲಿನಿಂದ ತಲೆಗೆ ಲಪ್ಪಟೆ ಸುತ್ತಿಕೊಂಡಿದ್ದರು. ಅವರು ಪಂಚೆ ಸುತ್ತಿರುವ ರೀತಿ ಅಭ್ಯಾಸವಿಲ್ಲದ್ದೆಂದು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಗೊತ್ತಾಗುತ್ತಿತ್ತೆಂದರೆ, ಚಡ್ಡಿಗೆ ದೊರೆತ ಪ್ರಾಮುಖ್ಯ ಪಂಚೆಗೆ ಸಿಗದೆ ಅದು ತುಂಬಾ ಅಮುಖ್ಯನಂತೆ ಮುದುರಿ ಕುಳಿತಿತ್ತು. ಮಕ್ಕಳಿಗೆಲ್ಲಾ “ಇವರೆಂತಾ ಟೀಚರಪ್ಪಾ” ಎಂದು ನಿರಾಸೆಯೂ ಕುತೂಹಲವೂ ಆಗಿತ್ತು."
+- id: story-n2
+  type: prose
+  section: story
+  text: "ಮಾಂಡವಿಯ ಆದೇಶದಂತೆ ಮಕ್ಕಳೆಲ್ಲಾ ಹಳ್ಳದ ದಂಡೆಯಲ್ಲಿ ಕೂಡಿಕೊಂಡರು. ತುಂಗಾಗೆ ತಾನು ಆ ಟೀಚರನ್ನು ಎಲ್ಲೋ ನೋಡಿದ್ದೇನೆ ಅನ್ನಿಸುತ್ತಿತ್ತು. ಎಲ್ಲಿ ಎನ್ನುವುದು ಅಷ್ಟು ಸುಲಭವಾಗಿ ಹೊಳೆಯಲಿಲ್ಲ. ಆತನ ಸ್ನೇಹಮಯ ಮುಖ ಬಿಸಿಲು-ಮಳೆ-ಚಳಿಗಳಿಗೆ ಪಕ್ಕಾಗಿ ಕರ್ರಗೆ ಸುಕ್ಕುಗಟ್ಟಿತ್ತು. ಆತ ತಲೆಗೆ ಸುತ್ತಿದ ಲಪ್ಪಟೆಯಂತೂ ತೀರಾ ಪರಿಚಿತವಾಗಿತ್ತು. “ಹಾಂ, ಹೌದು” ನೆನಪಾಯಿತು. ಪ್ರತಿಸಲ ಸಾಮೇರ ಮನೆ ಆಲೆಮನೆಗೆ ಕೋಣ ಹೊಡೆದು ತರುವ ಸೀನಸೆಟ್ಟರು ಇವರು. ತಮ್ಮ ಮೂರೆಕರೆ ಜಮೀನಿನಲ್ಲಿ ತಪ್ಪದೆ ಸಾಸಿವೆ ಬೆಳೆಯುತ್ತಿದ್ದ ಒಬ್ಬರೇ ರೈತ ಇವರು. ತುಂಗಾಳ ದೂರದ ಸಂಬಂಧಿಯಾದ ಸೀನಸೆಟ್ಟರಿಗೂ ಇವಳ ನೆನಪಿತ್ತು. ಪ್ರೀತಿಯಿಂದ ಅವಳ ತಲೆ ಸವರಿ, “ಎಂತಾ, ಮಗಾ, ಆರಾಮಾ? ಅವ್ವ-ಅಪ್ಪಯ್ಯ ಚಂದ ಅದಾರಾ?” ಎಂದು ಕೇಳಿದರು. ‘ಓ’ ತುಂಗಾ ಸ್ವಲ್ಪ ಜೋರಾಗೇ ಹೇಳಿದಳು. ಹೊಸ ಟೀಚರು ತನ್ನ ಪರಿಚಯಸ್ಥರು ಎಂದು ಇತರ ಮಕ್ಕಳೆದುರಿಗೆ ತೋರಿಸಿಕೊಳ್ಳುವುದು ಅವಳಿಗೆ ಹೆಮ್ಮೆಯೆನಿಸಿತ್ತು."
+- id: story-d1
+  type: dialogue
+  section: story
+  speaker: ತುಂಗಾ
+  text: ಹಂಗಾರೆ ಸೀನಸೆಟ್ರು ಇನ್ನು ನಮ್ಮ ಟೀಚರು
+- id: story-d2
+  type: dialogue
+  section: story
+  speaker: ಸೀನಸೆಟ್ಟರು
+  text: ನಾ ಟೀಚರಲ್ಲ. ಎಂತಾ ಅಲ್ಲ. ನಾನೊಬ್ಬ ಪಡಪೋಶಿ ರೈತ. ನಿಮ್ಮ ಹೆಡ್ಮೇಡಮ್ಮ ನಿಮ್ಗೆಲ್ಲಾ ಗದ್ದೆ ಕೆಲ್ಸ ಹೇಳ್ಕೊಡಾಕೆ ನನ್ನ ಕರ್ಸಿದಾರೆ
+- id: story-d3
+  type: dialogue
+  section: story
+  speaker: ಮಾಂಡವಿ
+  text: "ಹೌದು. ಹೌದು, ಇವರು ನಿಮ್ಮ ಬೇಸಾಯದ ಟೀಚರು, ನಿಮಗೆ ಬೇಸಾಯದಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು ಇವರು ಒಪ್ಪಿಕೊಂಡಿರುವುದು ನಮ್ಮ ಪುಣ್ಯ. ಸರಿ ಮೇಷ್ಟ್ರೆ, ಈಗ ನೀವು ಪ್ರಾರಂಭಿಸಬಹುದು"
+- id: story-n3
+  type: prose
+  section: story
+  text: ಚಿಣ್ಣರ ಲೋಕದ ಬಹುಪಾಲು ಮಕ್ಕಳು ರೈತ ಕುಟುಂಬದವರೇ. ಒಂದಲ್ಲಾ ಒಂದು ರೀತಿಯಲ್ಲಿ ಬೇಸಾಯದಲ್ಲಿ ತೊಡಗಿಕೊಳ್ಳುತ್ತಿದ್ದ ಅವರಿಗೆ ಹೊಸದಾಗಿ ಬೇಸಾಯವನ್ನೇನೂ ಕಲಿಸಬೇಕಾಗಿರಲಿಲ್ಲ. ಆದರೆ ಶಾಲೆಯ ಕಲಿಕೆಯಲ್ಲಿ ಬೇಸಾಯವನ್ನು ಅಳವಡಿಸುವ ಮಾಂಡವಿಯ ಉದ್ದೇಶವೇ ಬೇರೆಯಾಗಿತ್ತು. ಶಾಲಾ ಶಿಕ್ಷಣ ನಿಜ ಬದುಕಿನ ಜೊತೆಗೆ ಹಾಸುಹೊಕ್ಕಿನ ಸಂಬಂಧ ಹೊಂದಿರಬೇಕೆಂಬುದೇ ಮಾಂಡವಿಯ ನಂಬಿಕೆಯಾಗಿತ್ತು. ಅದೇ ಅವರ ಶಿಕ್ಷಣ ಮಾದರಿಯ ತಳಹದಿ ಕೂಡಾ. ಶಾಲಾ ಶಿಕ್ಷಣದಲ್ಲಿ ಅವರು ಬೇಸಾಯವನ್ನು ಅಳವಡಿಸಲು ಮುಖ್ಯಕಾರಣ ಇದಾಗಿದ್ದರೂ ಕೂಡ ಅದು ಇನ್ನೂ ಅನೇಕ ವಿಚಾರಗಳಿಗೆ ಸಹಾಯವಾಗಿತ್ತು.
+- id: story-n4
+  type: prose
+  section: story
+  text: "ಮೊದಲನೆಯದಾಗಿ, ಮಣ್ಣಿನ ಕಣಕಣಗಳೊಟ್ಟಿಗೆ ಸಂವಾದಿಸಬಲ್ಲ ಸೀನಸೆಟ್ಟರಂತಹ ರೈತರ ಅನುಭವಜನ್ಯ ವಿವರಣೆ ತರಗತಿಯೊಳಗೆ ನಡೆಯಬೇಕಾದ ಅರ್ಧಪಾಲು ವಿಜ್ಞಾನದ ಪಾಠವನ್ನು ಗದ್ದೆಯಲ್ಲೇ ಕಲಿಸಿಬಿಡುತ್ತಿತ್ತು. ಎರಡನೆಯದಾಗಿ, ಮಕ್ಕಳು ಕುಟುಂಬದೊಂದಿಗೆ ವ್ಯವಸಾಯದಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳುತ್ತಿದ್ದರೂ ಅವರಿಗೆ ಸಿಗುತ್ತಿದ್ದುದು ಎರಡನೇ ಸ್ಥಾನ, ಸೀಮಿತ ಒಳಗೊಳ್ಳುವಿಕೆ. ಆದರೆ ಇಲ್ಲಿ ಬೇಸಾಯದ ಎಲ್ಲಾ ಹಂತಗಳಲ್ಲೂ ಎಲ್ಲಾ ಕೆಲಸಗಳನ್ನು, ಜವಾಬ್ದಾರಿಗಳನ್ನು ಸ್ವತಃ ತಾವೇ ಮಾಡಬೇಕಾದ್ದರಿಂದ ಅವರಿಗೆ ಇಡಿಯಾದ ಅನುಭವ ಸಿಗುತ್ತಿತ್ತು."
+- id: story-n5
+  type: prose
+  section: story
+  text: ಹಳ್ಳದ ಬದಿಯ ಎರಡೆಕರೆ ಜಮೀನನ್ನು ಮಾಂಡವಿ ಬೇಸಾಯಕ್ಕೆಂದೇ ಕೊಂಡುಕೊಂಡಿದ್ದರು. ಹಾಗೆಯೇ ಮನೆಯಲ್ಲಿ ಮುಂದುಗಡೆಯ ಒಂದು ರೂಮನ್ನು ಮಕ್ಕಳಿಗೆ ಬೇಸಾಯದ ಸಾಮಗ್ರಿಗಳನ್ನು ಇಟ್ಟುಕೊಳ್ಳಲೆಂದು ತೆರವು ಮಾಡಲಾಗಿತ್ತು. ಈಗಾಗಲೇ ಭತ್ತ ಬಿತ್ತಿದ್ದ ಗದ್ದೆಯದು. ನಿಲ್ಲಲಿ ಎಂದರೂ ಕೇಳದೆ ಜಡಿಮಳೆಯಲ್ಲೇ ಶಾಲೆಯ ಐವತ್ತೂ ಮಕ್ಕಳು ಕಂಬಳಿಗೊಪ್ಪೆ ಹಾಕಿಕೊಂಡು ಸಂಭ್ರಮದಿಂದ ಗದ್ದೆಗಿಳಿದರು ಸೀನಸೆಟ್ಟರ ಜೊತೆ.
+- id: story-d4
+  type: dialogue
+  section: story
+  speaker: ಸೀನಸೆಟ್ಟರು
+  text: ಮುಂಚೆ ನಾವು ಸಸಿಗಳನ್ನು ಕೀಳಾಣ. ಇವತ್ತೇ ಸಸಿ ಕಿತ್ತು ಮುಗೀತಂದ್ರೆ ನಾಳೆಯಿಂದ ನಾಟಿ ಮಾಡಾಣ
+- id: story-n6
+  type: prose
+  section: story
+  text: ಮೊದಮೊದಲು ಮಕ್ಕಳಿಗೆ ಹಿಡಿ ತುಂಬಾ ಸಸಿಗಳನ್ನು ಬುಡಸಮೇತ ಕೀಳುವುದು ಸುಲಭವಾಗಲಿಲ್ಲ. ಅನೇಕ ಸಸಿಗಳನ್ನು ಹಾಳು ಮಾಡಿದರು. ಹತ್ತಾರು ಬಾರಿ ಕಿತ್ತು ಕಿತ್ತು ಪ್ರಯತ್ನಿಸಿ ಅನಂತರ ಅವರಿಗೆ ಕೀಳುವುದು ಅಭ್ಯಾಸವಾಗಿ ವೇಗವೂ ಹಿಡಿಯಿತು. ಅವುಗಳನ್ನು ಸಣ್ಣ ಸಣ್ಣ ಕಟ್ಟುಗಳಲ್ಲಿ ಕಟ್ಟಿ ಕೆಸರು ಗದ್ದೆಯಲ್ಲಿಡುವುದನ್ನು ‘ಟೀಚರು’ ಕಲಿಸಿಕೊಟ್ಟರು.
+- id: story-n7
+  type: prose
+  section: story
+  text: "ಒಂದು ಗಂಟೆಯ ಕೆಲಸದ ಅನಂತರ ಸೀನಸೆಟ್ಟರು “ಇವತ್ತಿಗೆ ಸಾಕು, ನಾಳೆ ಉಳಿದದ್ದು” ಎಂದರು. ಸಂಭ್ರಮ ಹಿಡಿಸಿಕೊಂಡಿದ್ದ ಮಕ್ಕಳು ಕೇಳಿಯಾರೆ? “ಸೀನ ಸೆಟ್ರೆ, ನಿಮ್ಮ ದಮ್ಮಯ್ಯ, ಇವತ್ತು ಪೂರಾ ಕಿತ್ತೇ ಹೋಗಾಣ” ಎಂದು ಒಕ್ಕೊರಲಿನಿಂದ ಒತ್ತಾಯಪೂರ್ವಕವಾಗಿ ಗೋಗರೆದರು. ಅಷ್ಟರಲ್ಲೇ ಒಂದು ಸಣ್ಣ ಹಾವು ಅವಸರದಿಂದ ಸರಿಯುತ್ತಾ ಹಾಲಪ್ಪ ಎನ್ನುವವನ ಕಾಲನ್ನು ಕಚ್ಚಿಬಿಟ್ಟಿತು. ಅವನು ಹೌಹಾರಿ ಬಿದ್ದ. ತಕ್ಷಣ ಸೀನಸೆಟ್ಟರು ಅವನನ್ನು ಹಿಡಿದುಕೊಂಡರು."
+- id: story-d5
+  type: dialogue
+  section: story
+  speaker: ಸೀನಸೆಟ್ಟರು
+  text: "ಹೆದರ್ಬೇಡಾ ಮಗಾ, ಎಂತಾ ಆಗಲ್ಲ. ಅದು ನೀರಾವು. ವಿಷದ ಹಾವಲ್ಲ. ಒಂದು ಮೀನು ಕಚ್ಚಿದ್ರೆ ಹೆಂಗೋ ಅಷ್ಟೇ"
+- id: story-n8
+  type: prose
+  section: story
+  text: "ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ನಾಟಿ. ಇದು ಸಸಿ ಕೀಳುವುದಕ್ಕಿಂತಲೂ ಕಷ್ಟಕರವಾದ ಕೆಲಸ. ಅನೇಕ ಸಸಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಹಿಡಿದು ಒಂದೇ ಸಲಕ್ಕೆ ಬೇರು ನಾಟುವಂತೆ ಹೆಬ್ಬೆಟ್ಟಿನಿಂದ ಗಟ್ಟಿಯಾಗಿ ಒತ್ತಿ ಊರಬೇಕು. ಮೊದಮೊದಲಿಗೆ ಕೆಲ ಮಕ್ಕಳಿಗಂತೂ ಇದು ತಮ್ಮಿಂದ ಸಾಧ್ಯವೇ ಇಲ್ಲ ಎನಿಸಿಬಿಟ್ಟಿತು. ಆದರೆ ಸೀನಸೆಟ್ಟರ ಅಪಾರ ತಾಳ್ಮೆ, ಉತ್ತೇಜನಗಳು ಅವರನ್ನು ಕೆಲಸಕ್ಕೆ ಹೊಂದಿಸಿಬಿಟ್ಟವು. “ಹಾಡು ಹೇಳ್ಕ್ಯಂಡು ಕೆಲಸ ಮಾಡಿ. ಆಗ ಕಷ್ಟಾನೇ ತಿಳಿಯಲ್ಲ” ಎಂದು ಉತ್ತೇಜಿಸಿದರು. ತಕ್ಷಣ ಎಲ್ಲರೂ, “ಚಂದ್ರಕಾಂತ ಸುರು ಮಾಡೋ” ಎಂದು ಕೂಗಿಕೊಂಡರು. ಅವನ ಧ್ವನಿಗೆ ತಮ್ಮ ಧ್ವನಿಯ ಅಲೆ ಸೇರಿಸಿದರು."
+- id: story-n9
+  type: prose
+  section: story
+  text: ಮಾರನೆಯ ದಿನ ಯಶೋದ ಹೊಸತನ್ನು ಹುಡುಕಿದ್ದಳು. ಇಬ್ಬರು ಆಡುವ ಆಟವನ್ನು ಎಲ್ಲರೂ ಭಾಗವಹಿಸುವಂತೆ ಪರಿವರ್ತಿಸಿದ್ದಳು. ‘ಕೈ ಎಲ್ಲಿಗ್ ಹೋತು?’ ಎಂದು ಒಬ್ಬ ಪ್ರಾರಂಭಿಸಿದರೆ ಪಕ್ಕದಲ್ಲಿರುವವಳು ‘ಸಂತೆಗೆ’ ಎನ್ನಬೇಕು. ಮತ್ತೆ ಅವಳ ಪಕ್ಕಕ್ಕೆ ನಿಂತವನು “ಸಂತೆಯಿಂದ ಏನ್ತಂದೆ” ಎಂದರೆ ಮುಂದಿನವಳು ‘ಬಾಳೆಹಣ್ಣು’ ಎನ್ನುವಳು. ಹೀಗೆ ಆಟ ಸಾಗುವುದು.
+- id: poem-s1l1
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬಾಳೆಹಣ್ಣು ಏನ್ಮಾಡ್ದೆ?
+- id: poem-s1l2
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ತಿಂದೆ
+- id: poem-s1l3
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಸಿಪ್ಪೆ ಏನ್ಮಾಡ್ದೆ?
+- id: poem-s1l4
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಕದದ ಮೂಲೆಗೆ ಹಾಕ್ದೆ
+- id: poem-s1l5
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಕದದ ಮೂಲೆ ಏನ್ ಕೊಡ್ತು?
+- id: poem-s1l6
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಚಕ್ಕೆ ಕೊಡ್ತು
+- id: poem-s1l7
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಚಕ್ಕೆ ಏನ್ ಮಾಡ್ದೆ?
+- id: poem-s1l8
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಒಲೆಗೆ ಹಾಕ್ದೆ
+- id: poem-s1l9
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಒಲೆ ಏನ್ ಕೊಡ್ತು?
+- id: poem-s1l10
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬೂದಿ ಕೊಡ್ತು
+- id: poem-s1l11
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬೂದಿ ಏನ್ ಮಾಡ್ದೆ?
+- id: poem-s1l12
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಗೊಬ್ಬರದ ಗುಂಡಿಗೆ ಹಾಕ್ದೆ
+- id: poem-s1l13
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಗೊಬ್ಬರದ ಗುಂಡಿ ಏನ್ ಕೊಡ್ತು?
+- id: poem-s1l14
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಗೊಬ್ರಕೊಡ್ತು
+- id: poem-s1l15
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಗೊಬ್ರ ಏನ್ ಮಾಡ್ದೆ?
+- id: poem-s1l16
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬಾಳೆಗಿಡಕ್ಕೆ ಹಾಕ್ದೆ
+- id: poem-s1l17
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬಾಳೆಗಿಡ ಏನ್ ಕೊಡ್ತು?
+- id: poem-s1l18
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬಾಳೆಹಣ್ಣುಕೊಡ್ತು
+- id: poem-s1l19
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಬಾಳೆಹಣ್ಣು ಏನ್ ಮಾಡ್ದೆ?
+- id: poem-s1l20
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಗುಳುಂಗುಳುಂ ತಿಂದೆ.
+- id: story-n10
+  type: prose
+  section: story
+  text: ಹೀಗೆ ಮತ್ತೆ ಇಡೀ ಪ್ರಶ್ನೆಯುತ್ತರದ ಚಕ್ರ ತಿರುಗುವುದು. ಯಶೋದಳ ಈ ಆಟದಿಂದ ಅಂದು ನಾಟಿ ಮುಗಿಯುವ ವೇಳೆಗೆ ಪ್ರತಿ ಮಕ್ಕಳೂ ನಾಲ್ಕು ಬಾಳೆಹಣ್ಣುಗಳನ್ನಾದರೂ ತಿಂದಿದ್ದರು. ನಾಟಿ ಮುಗಿಯುವವರೆಗೂ ಸೀನಸೆಟ್ರು ಮಕ್ಕಳ ಜೊತೆಗೆ ಇದ್ದು ಅಲ್ಲಿಂದ ಕಾಲಕಾಲಕ್ಕೆ ಅವರು ಗಮನಿಸಿಕೊಳ್ಳಬೇಕಾದ ವಿಷಯಗಳನ್ನೆಲ್ಲಾ ಹೇಳಿಕೊಟ್ಟರು.
+- id: story-n11
+  type: prose
+  section: story
+  text: "ನಾಟಿ ಮುಗಿದ ಮೇಲೆ ಇನ್ನು ಯಾವಾಗ ಹೊಡೆ ಹೊರಟಿತೋ, ಯಾವಾಗ ತೆನೆ ಬಂದಿತೋ ಎಂದು ಮಕ್ಕಳ ಚಡಪಡಿಕೆ. ತುಂಗಾಗಂತೂ ಪ್ರತಿದಿನ ಶಾಲೆಗೆ ಬಂದ ತಕ್ಷಣ ಗದ್ದೆಯನ್ನು ನೋಡುವವರೆಗೆ ಎಂತದೋ ಚಡಪಡಿಕೆ. ಅವಳೂ - ಕಿಟ್ಟನೂ ಸೇರಿ ಮನೆಯ ಅಟ್ಟದ ಮೇಲೆ ಹತ್ತಿ ಕಿಟಕಿ ಕಂಡಿಯಲ್ಲಿ ನೋಡಿದರೆ ಗದ್ದೆ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಕಾಣುತ್ತದೆಂದು ಕಂಡುಕೊಂಡಿದ್ದರು. ಈ ರಹಸ್ಯ ಯಾರಿಗೂ ತಿಳಿಯಬಾರದೆಂದೂ ಗುಟ್ಟಾಗಿಡಲು ಪ್ರಯತ್ನಿಸಿದಷ್ಟೂ ಅದು ಬಯಲಾಗಿಬಿಟ್ಟು ಕೊನೆಗೆ ಅಟ್ಟ, ಗದ್ದೆ ವೀಕ್ಷಣೆಯ ಟವರ್ ಆಗಿ ಪರಿವರ್ತಿತಗೊಂಡಿತ್ತು."
+- id: competency
+  type: competency
+  section: competency
+  text: "ಕೌಶಲ: ಓದುವುದು. ಸಾಮರ್ಥ್ಯ: ವಿವಿಧ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿರುವ ಧ್ವನಿಸಾಮ್ಯತೆ, ಧ್ವನಿವ್ಯತ್ಯಾಸಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಂಡು ಓದುವುದು. ಆಶಯ: ನಮ್ಮ ಜೀವನದ ಪ್ರತಿ ಹಂತದಲ್ಲೂ ನಾವು ಕಲಿಯುತ್ತಿರುತ್ತೇವೆ. ನಮ್ಮ ವ್ಯಕ್ತಿತ್ವದ ಬೆಳವಣಿಗೆ ಕೇವಲ ಶಾಲೆಯಿಂದಲ್ಲ; ಮನೆ, ಇತರರ ಒಡನಾಟ, ಪರಿಸರ, ಮಾಧ್ಯಮಗಳಿಂದ ಜೀವನದ ಪಾಠವನ್ನು ಕಲಿಯುತ್ತ ಬೆಳೆಯುತ್ತೇವೆ. ಶಾಲೆಯಲ್ಲಿ ಗುರುಗಳಿದ್ದಂತೆ ಶಾಲೆಯ ಹೊರಗೂ ಹಲವು ಗುರುಗಳು ನಮಗಿರುತ್ತಾರೆ. ಅವರೆಲ್ಲರ ಕೊಡುಗೆಯಿಂದ ಬೋಧನೆಯಿಂದ ನಾವೆಲ್ಲ ಬೆಳೆಯುತ್ತಾ ಹೋಗುತ್ತೇವೆ. ಈ ವಿಚಾರ ಮನದಲ್ಲಿ ಮೂಡಿದಾಗ ಲೋಕವೇ ನಮ್ಮ ಗುರು ಎಂಬ ಭಾವನೆ ಮೂಡುತ್ತದೆ."
+- id: author-1
+  type: prose
+  section: author
+  text: "ಶ್ರೀಮತಿ ವಿ. ಗಾಯತ್ರಿ ಲೇಖಕಿ, ಅನುವಾದಕಿ, ಶಿಕ್ಷಣ ಇಲಾಖೆಯ ‘ಮಹಿಳಾ ಸಮಖ್ಯ’ ಮತ್ತು ನೀರಾವರಿ ಇಲಾಖೆಯ ‘ಜಲ ಸಂವರ್ಧನೆ ಯೋಜನೆ’ಗಳಲ್ಲಿ ಹಿರಿಯ ಅಧಿಕಾರಿಯಾಗಿ ಅನೇಕ ವರ್ಷಗಳವರೆಗೆ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಇವರ ಪ್ರಮುಖ ಪ್ರಕಟಿತ ಕೃತಿಗಳು, ‘ತುಂಗಾ’-ಮಕ್ಕಳ ಸೃಜನಶೀಲ ಕಲಿಕೆಯ ಸುತ್ತ ಹೆಣೆದ ಕಾದಂಬರಿ; ‘ತೊತ್ತೋಚಾನ್’ ವಿಶ್ವವಿಖ್ಯಾತ ಜಪಾನಿ ಕಾದಂಬರಿಯ ಕನ್ನಡ ಅನುವಾದ. ‘ಕರ್ನಾಟಕದಲ್ಲಿ ಸಾವಯವ ಪರಂಪರೆಯ ಕಥನ ಭಾಗ 1 ಮತ್ತು 2’, ‘ಸಹಜ/ಸಾವಯವ ರೈತರ ಕೃಷಿ ಮತ್ತು ಬದುಕುಗಳು’, ಕೇಂದ್ರ ಪರಿಸರ ಮಂತ್ರಾಲಯದ ಪರಿಸರ ಶಿಕ್ಷಣ ಕೇಂದ್ರಕ್ಕಾಗಿ ‘ಪರಿಸರ ಶಿಕ್ಷಣದಲ್ಲಿ ಅಗತ್ಯ ಕಲಿಕೆಗಳು’, ‘ಎಳೆಯರಿಗಾಗಿ ಪರಿಸರ’ ಮುಂತಾದ ಮಹತ್ವದ ಕೃತಿಗಳ ಅನುವಾದ ಮತ್ತು ಸಂಪಾದನೆ. ಇವು ಶಾಲಾ ಶಿಕ್ಷಕರರಿಗೆ ಓದುವ ಸಾಮಗ್ರಿಗಳಾಗಿವೆ. ಮೇಲಿನ ಪಾಠವನ್ನು ಅವರ ‘ತುಂಗಾ’ ಕೃತಿಯಿಂದ ಆರಿಸಲಾಗಿದೆ."
+- id: vocab-tivra
+  type: vocabulary_term
+  section: vocab
+  text: ತೀವ್ರ
+- id: vocab-tivra-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹೆಚ್ಚು
+- id: vocab-lappate
+  type: vocabulary_term
+  section: vocab
+  text: ಲಪ್ಪಟೆ
+- id: vocab-lappate-def
+  type: vocabulary_definition
+  section: vocab
+  text: ತಲೆಗೆ ಸುತ್ತಿದ ಬಟ್ಟೆ
+- id: vocab-pakkagu
+  type: vocabulary_term
+  section: vocab
+  text: ಪಕ್ಕಾಗು
+- id: vocab-pakkagu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಒಳಗಾಗು
+- id: vocab-enta-maga
+  type: vocabulary_term
+  section: vocab
+  text: ಎಂತಾ ಮಗ
+- id: vocab-enta-maga-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಏನು ಮಗು
+- id: vocab-chanda
+  type: vocabulary_term
+  section: vocab
+  text: ಚಂದ
+- id: vocab-chanda-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಚೆನ್ನಾಗಿ
+- id: vocab-padaposhi
+  type: vocabulary_term
+  section: vocab
+  text: ಪಡಪೋಶಿ
+- id: vocab-padaposhi-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕೆಲಸಕ್ಕೆ ಬಾರದ
+- id: vocab-karsidare
+  type: vocabulary_term
+  section: vocab
+  text: ಕರ್ಸಿದಾರೆ
+- id: vocab-karsidare-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕರೆಸಿದ್ದಾರೆ
+- id: vocab-talahadi
+  type: vocabulary_term
+  section: vocab
+  text: ತಳಹದಿ
+- id: vocab-talahadi-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಬುನಾದಿ
+- id: vocab-samvadisu
+  type: vocabulary_term
+  section: vocab
+  text: ಸಂವಾದಿಸು
+- id: vocab-samvadisu-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಮಾತನಾಡು, ಚರ್ಚೆಮಾಡು"
+- id: vocab-kambaligoppe
+  type: vocabulary_term
+  section: vocab
+  text: ಕಂಬಳಿಗೊಪ್ಪೆ
+- id: vocab-kambaligoppe-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಮಳೆಯಿಂದ ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಕಂಬಳಿಯಿಂದ ಮಾಡಿದ ಮುಸುಕು
+- id: vocab-teravu
+  type: vocabulary_term
+  section: vocab
+  text: ತೆರವು
+- id: vocab-teravu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಖಾಲಿ
+- id: vocab-nati
+  type: vocabulary_term
+  section: vocab
+  text: ನಾಟಿ
+- id: vocab-nati-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಪೈರಿನ ಸಸಿಗಳನ್ನು ನೆಡುವುದು
+- id: vocab-niravu
+  type: vocabulary_term
+  section: vocab
+  text: ನೀರಾವು
+- id: vocab-niravu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ನೀರಿನಲ್ಲಿ ಬದುಕುವ ಹಾವು
+- id: vocab-hotu
+  type: vocabulary_term
+  section: vocab
+  text: ಹೋತು
+- id: vocab-hotu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹೋಯಿತು
+- id: vocab-kada
+  type: vocabulary_term
+  section: vocab
+  text: ಕದ
+- id: vocab-kada-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಬಾಗಿಲು
+- id: vocab-hode
+  type: vocabulary_term
+  section: vocab
+  text: ಹೊಡೆ
+- id: vocab-hode-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕಾಳು ತುಂಬುವ ಮುನ್ನ ಕಾಣುವ ಪೈರಿನ ತುದಿ
+- id: vocab-tene
+  type: vocabulary_term
+  section: vocab
+  text: ತೆನೆ
+- id: vocab-tene-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕಾಳು ತುಂಬಿದ ಪೈರಿನ ತುದಿ
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮಾಂಡವಿ ಟೀಚರ್ ಯಾರನ್ನು ಪರಿಚಯಿಸಿದರು?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಸೀನಸೆಟ್ಟರು ಜಮೀನಿನಲ್ಲಿ ಏನನ್ನು ಬೆಳೆಯುತ್ತಿದ್ದರು?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮಕ್ಕಳು ಏನು ಹಾಕಿಕೊಂಡು ಗದ್ದೆಗೆ ಇಳಿದರು?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಾಲಪ್ಪನ ಕಾಲನ್ನು ಏನು ಕಚ್ಚಿತು?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಮನೆಯ ಅಟ್ಟ ಮಕ್ಕಳಿಗೆ ಯಾವ ಟವರ್ ಆಗಿ ಪರಿವರ್ತಿತಗೊಂಡಿತ್ತು?
+- id: ex-b-q1
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಸೀನಸೆಟ್ಟರ ವೇಷ ಹೇಗಿತ್ತು?
+- id: ex-b-q2
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಮಕ್ಕಳು ಸಸಿ ಕಿತ್ತ ಬಗೆ ಹೇಗಿತ್ತು?
+- id: ex-b-q3
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹಾಲಪ್ಪನಿಗೆ ಹಾವು ಕಚ್ಚಿದಾಗ ಸೀನಸೆಟ್ಟರು ಏನು ಹೇಳಿದರು?
+- id: ex-c-q1
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ‘ಹಂಗಾರೆ ಸೀನಸೆಟ್ರು ನಮ್ಮ ಟೀಚರು’
+- id: ex-c-q2
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ‘ಮುಂಚೆ ಸಸಿಗಳನ್ನು ಕೀಳಾಣ’
+- id: ex-c-q3
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ‘ಇವತ್ತು ಪೂರಾ ಕಿತ್ತೇ ಹೋಗಾಣ’
+- id: ex-c-q4
+  type: question
+  section: exercise-C
+  exercise: C
+  text: ‘ಕೈ ಎಲ್ಲಿಗ್ ಹೋತು’

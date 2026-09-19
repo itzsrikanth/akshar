@@ -1,0 +1,444 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 8
+  subject: Kannada
+  chapter: 4
+  slug: ch04-yashodhare
+  title: ಯಶೋಧರೆ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ನಾಟಕ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  ashaya: ಆಶಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ನಾಲ್ಕು-ಐದು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-D: ಈ. ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಿಗೆ ಸಂದರ್ಭ ಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ಬರೆಯಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಲ್ಲಿ ನಾಟಕವು ಒಂದು. “ಕಾವ್ಯಗಳಲ್ಲಿ ನಾಟಕ ಮನೋಹರವಾದದ್ದು” ನಾಟಕದಲ್ಲಿ ಪಾತ್ರಗಳ ಅಭಿನಯ, ದೃಶ್ಯಾವಳಿಗಳು, ಸಂಭಾಷಣೆ, ಸಂಗೀತ ಮೊದಲಾದವು ನೋಡುಗರ ಮನಸ್ಸನ್ನು ಸೂರೆಗೊಳ್ಳುತ್ತವೆ.
+- id: intro-2
+  type: prose
+  section: intro
+  text: ಇತಿಹಾಸದಲ್ಲಿ ಬರುವ ಮಹಾಪುರುಷರು, ಯುಗಪ್ರವರ್ತಕರು ಮೊದಲಾದವರ ಪರಿಚಯವನ್ನು ಹಾಗೂ ಅಂದಿನ ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆಗಳ ಪ್ರತಿಬಿಂಬವಾಗಿ ಮೂಡಿಬಂದವುಗಳೇ ಐತಿಹಾಸಿಕ ನಾಟಕಗಳು. ಈ ನಿಟ್ಟಿನಲ್ಲಿ ಕಪಿಲವಸ್ತುವಿನ ರಾಜಕುಮಾರ ‘ಸಿದ್ಧಾರ್ಥ’, ಬುದ್ಧನಾಗ ಬಯಸಿ ರಾತ್ರೋರಾತ್ರಿ ಯಾರಿಗೂ ತಿಳಿಸದೆ ರಾಜ್ಯವನ್ನು ಪರಿತ್ಯಾಗ ಮಾಡಿ ಹೋಗುತ್ತಾನೆ. ಆದರೆ ಇತ್ತ ಆತನ ಮಡದಿ ‘ಯಶೋಧರೆ’ ಅನುಭವಿಸುತ್ತಿದ್ದ ಭಯ, ಆತಂಕ ಹಾಗೂ ಮಾನಸಿಕ ತುಮುಲಗಳನ್ನು ಈ ನಾಟಕದಲ್ಲಿ ಪ್ರೇಕ್ಷಕರ ಮನಮುಟ್ಟುವಂತೆ ಮನೋಜ್ಞವಾಗಿ ಚಿತ್ರಿಸಲಾಗಿದೆ.
+- id: story-n1
+  type: prose
+  section: story
+  text: (ಯಶೋಧರೆ ಪಠದ ಅಡಿಗೆ ತಲೆಯಿಟ್ಟು ದುಃಖಿಸುವಳು. ರಾಹುಲನು ಹೂಗಳನ್ನು ತೆಗೆದು ಪೀಠದ ಮೇಲೆ ಹಾಕುವನು. ತಾಯ ಹೆರಳಿಗೆ ಒಂದು ಹೂವನಿಟ್ಟು ಸೊಗಸು ನೋಡುವನು. ಅದೇ ವೇಳೆಗೆ ರಾಜನೂ, ಅಂಬಿಕೆಯೂ ಬರುವರು)
+- id: story-d1
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಅಮ್ಮಾಜಿ, ಬಂದಿಹೆನು.
+- id: story-d2
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: (ಎದ್ದು ಬಂದು ನಮಸ್ಕರಿಸಿ) ಪೀಠವನು ಕೊಳಬೇಕು. ನಾನು ಬಹುದಿನದಿಂದ ನಿಮ್ಮ ಬೇಡುತಲಿದ್ದೆ. ಸೋದರಿಯ ಸುತೆಯೆಂದು ಎಳೆತನದಲೇ ನನ್ನ ಕರೆತಂದಿರಿ, ಸಾಕಿ ಸಲಹಿದಿರಿ; ಸೊಸೆಯಾಗಿ ಮನೆಗೆ ಹೋಗಿಸಿದಿರಿ, ಬಾಳುವೆಯನುದ್ಧರಿಸಿದಿರಿ. ಕನಸಿರಲಿ ಎಣಿಸಲಾಗದ ಸೌಖ್ಯಗಳ ನಾನು ನಿಮ್ಮ ಅರಮನೆಯಲ್ಲಿ ಅನುಭವಿಸಿ ಸುಖಿಸಿದೆನು.
+- id: story-d3
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ನನ್ನ ಅರಮನೆಯಲ್ಲಿ ?
+- id: story-d4
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ನಮ್ಮ ಅರಮನೆಯಲ್ಲಿ. ನಿಮ್ಮ ಐಶ್ವರ್ಯದಲಿ ಕಣಮಾತ್ರವನು ನನಗೆ ಇಲ್ಲವೆನ್ನದೆ ನನ್ನ ಪರಿಪಾಲಿಸಿದಿರಿ. ಪತಿಯನಿತ್ತರಿ ; ಬಾಲ ದೇವರಾಗಿರಲೆಂದು ; ಪತಿಯನಿನ್ನೊಮ್ಮೆ ನೀಡಿರಿ ; ನನ್ನ ರಕ್ಷಿಸಿರಿ.
+- id: story-d5
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಏನಮಾಡೆಂದು ಕೇಳುವೆ ?
+- id: story-d6
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ನಮ್ಮ ಅಣ್ಣಾಜಿ ತಂದೆಯನು ಕರೆತರಲು ಹೋಗುವೆನು ಎನಲಾಗಿ ನೀವು ಒಪ್ಪಿದಿರಂತೆ. ನಾನು ನಿಮ್ಮನು ಮೊದಲೆ ಬೇಡಿಕೊಂಡಿದ್ದೆ. ನಾನವರೆಡೆಗೆ ಹೋಗುವೆನು ಇವನನ್ನಿಲ್ಲಿಯೇ ನಿಲಿಸಿಕೊಳ್ಳಿರಿ.
+- id: story-d7
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಅಮ್ಮಾಜಿ, ಬಾಲಕನು ತಂದೆಯನು ಕರೆತರುವೆನೆಂದೆನಲು ಕೇವಲ ವಿನೋದದಲಿ ಆಗಬಹುದೆಂದೆನು. ನಮ್ಮ ಕುವರನ ಕರೆದುತರಬೇಕು ಎನಲಾಗಿ ಹೋಹ ಬೇಹಿಲ್ಲವೇ? ಎಳೆಯನನು ಕಳುಹುವರೆ?
+- id: story-d8
+  type: dialogue
+  section: story
+  speaker: ರಾಹುಲ
+  text: ಏನು ತಾತ, ಮುನ್ನ ಹೋಹಬಹುದೆಂದವರು ಈಗ ಉಂಟೇ ಎಂದು ಹೇಳುವಿರಿ ? ದೊಡ್ಡವರು ನನಗೊಂದು ಮಾತನಾಡುತ ತಾಯಿ ಕೇಳಿದರೆ ಬೇರೊಂದು ಮಾತ ಹೇಳುವಿರೊ ? ನಾ ಹೋಹುವೆನು. ಅಮ್ಮ ಇಂದಳುತಲಿದ್ದರು. ಅಣ್ಣ ಬಾರದಿರೆ ಅಳುತಲೇ ಇರುವರು. ನಾ ಹೋಗಿ ಕರತರುವೆನು.
+- id: story-d9
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಕೇಳಿದಿರ ಹಸುಳೆಯಾಡುವ ಮಾತ ? ನನಗೋ ನಿನ್ನೆ ನೋಡಿದ ಒಂದು ಕನಸು ಮನವು ತುಡುಕಿ ಉಸಿರಿಂದ ಉಸಿರು ಕಳವಾಗಿ ಚೇತನವೆಲ್ಲ ಬೆಂಡಾಗಿ ಹೋಗಿಹುದು ; ಒಣಗಿ ತರಗಾಗಿಹುದು.
+- id: story-d10
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಹೌದು. ಅಂಬಿಕೆ ಕನಸ ಮಾತ ಹೇಳಿದಳೆನಗೆ. ನಿಜದಿಂದ ಬಂದಿರುವ ನೋವು ಸಾಕಾಗಿರಲು ಕನಸೊಂದು ಬೇರೆ ನಿನ್ನನು ಹಿಂಸೆಪಡಿಸುತಿದೆ.
+- id: story-d11
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಇಂದು ಇರುಳಾಗುವುದು ; ಇನ್ನೇನ ಮಾಡುವ ; ನಿದ್ದೆಯಲಿ ಮುಳುಗಲಿನ್ನಾವ ಕನಸಿನ ಮೊಸಳೆ ಹಿಡಿಯುವುದೊ; ಇನ್ನೆನಿತು ತೊಳಲಬೇಕೋ, ಎಂದು ಚೇತನಗಳೆಲ್ಲ ಭೀತಿಯಲಿ ಕಲಕಿಹವೆನಗೆ. ನನ್ನನುದ್ಧರಿಸಬೇಕು. (ಮಂಡಿಯೂರಿ ನಮಸ್ಕರಿಸುವಳು.)
+- id: story-d12
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಏಳು, ಅಮ್ಮಾಜಿ ; ನಿನ್ನ ದುಃಖವ ನಾನು ಕಾಣೆನೇ ? ಏಳಮ್ಮ,
+- id: story-n2
+  type: prose
+  section: story
+  text: (ಯಶೋಧರಾ ಎದ್ದು ಕುಳಿತುಕೊಳ್ಳುವಳು)
+- id: story-d13
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಹೋಗಿ ಕೇಳುವೆನು.
+- id: story-d14
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಸಂನ್ಯಾಸಿಯಾದವನು ಸತಿಯ ನೋಡುವ ಮಾತು ಸಂಪ್ರದಾಯಕೆ ವಿರೋಧ.
+- id: story-d15
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಪೂರ್ವದಲಿ ಗಾರ್ಗಿ ಸಂನ್ಯಾಸದಲಿ ತನ್ನ ಪತಿಯೊಡನೆ ಕಾನನಕೆ ತೆರಳಿದಳು ಎಂದು ಕೇಳಿಹೆನು. ನಾನಂತೆಯೇ ಸಂನ್ಯಾಸವನು ಕೊಂಡು ಪತಿಯೆಡೆಗೆ ಸಾರಿದರೆ.....
+- id: story-d16
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಈಗ ನೀನಿಹ ರೀತಿ ಸಂನ್ಯಾಸವಲ್ಲವೆ ?
+- id: story-d17
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಆಣ್ಮ ಸಂನ್ಯಾಸಿಯಾಗಿಹರೆಂಬುದನು ನೆನೆವ ಸಾಧನೆಯ ವೇಷವಿದು. ಇಂದು ನಿಜದಲಿ ನಾನು. ಸಂನ್ಯಾಸವನು ಕೊಂಡು ಪತಿಯೆಡೆಗೆ ಸಾರಿದರೆ.....
+- id: story-d18
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: "ಪತಿಯೆಡೆಗೆ ಸಾರುವರೆ ಸಂನ್ಯಾಸನು ಕೊಳಲು ಅದನು ಸಂನ್ಯಾಸವೆನ್ನುವುದೆಂತು ಅಮ್ಮಾಜಿ ? ಯಶೋಧರೆ :ನನಗೆ ಕವಿದಿರುವ ಮಂಕನು ನೆನೆಯೆ ನನಗೇ ನಗೆ ಬರುತಲಿದೆ, ಅಂತೆ ಅಳು ಬರುತಲಿದೆ. ಇನ್ನು ಏನಮಾಡುವುದೋ ತೋರದು. ಎಂತು ನಡೆಯಲಿ ? ನೀವೆ ಅಪ್ಪಣೆಮಾಡಿ. ಅದರಂತೆ ನಡೆಯುವೆನು."
+- id: story-d19
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಕುವರನಿಗೆ ಹೇಳಿ ಕಳುಹಿಸುವ, ಅವನಿಷ್ಟವನು ತಿಳಿದು ಅದರಂತೆ ನಡೆಯುವ.
+- id: story-d20
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಆಗಬಹುದು, ಇಂದೆ ಬೇಹನು ಕಳುಹಿ.
+- id: story-d21
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಕಳುಹುವೆನು, ಯಾರಲ್ಲಿ ?
+- id: story-d22
+  type: dialogue
+  section: story
+  speaker: ರಾಹುಲ
+  text: ತಾತ ಅಣ್ಣನ ನೋಡೆ ಯಾರನೋ ಕಳುಹುವಿರ ? ನಾ ಹೋಗಿಬರುವೆ. ನನ್ನನು ಕಳುಹಿ.
+- id: story-d23
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಅಣ್ಣಯ್ಯ ಮೊದಲು ಬೇಹಿನ ಜನರು ಹೋಗಿ ಅವರಿಚ್ಛೆಯನು ತಿಳಿದು ಮರಳಲಿ.
+- id: story-d24
+  type: dialogue
+  section: story
+  speaker: ರಾಹುಲ
+  text: "ಮತ್ತೆ ಹೋಗುವುದಂತೆ ! ಮತ್ತೆ ! ನಾನೊಲ್ಲೆ. ನಾನೀಗಲೇ ಹೋಗಬೇಕು. ನಿಮಗೇನು ? ಅಣ್ಣನನು ನೋಡಿಹಿರಿ : ನೋಡಬೇಕೆಂದಾಸೆ ಅಷ್ಟು ಬಲವಾಗಿಲ್ಲ. ನಾನವರ ನೋಡಿಲ್ಲ. ಇನ್ನೆಷ್ಟು ದಿನಕೆ ನೋಡುವುದು ? ಅಮ್ಮಾಜಿ, ನಿನಗೆ ಭಯ ಬೇಡಮ್ಮ, ನಾ ಮರಳಿ ಬಹೆನಮ್ಮ ; ನಿಜವಾಗಿಯೂ ಬಹೆನು, ಅಲ್ಲಿಯೇ ನಿಲೆನಮ್ಮ ; ನನ್ನ ಕಳುಹಿಸಮ್ಮ ; ಅವರ ನಾ ಕರೆತರುವೆನು. ತಾತ ನನ್ನನು ಕಳುಹಿ ; ನಾ ಮರಳಿ ಬರುವೆನು. ಅಣ್ಣನನು ನೋಡಬೇಕೆಂದು, ಅವರೊಡನಿದ್ದು ಮಾತಾಡಬೇಕೆಂದು, ನನಗೆ ಬಹು ಆಸೆಯಿದೆ."
+- id: story-d25
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಇರಲಿ ಸುಮ್ಮನಿರಣ್ಣ.
+- id: story-d26
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಕನಸು ನಿಜವಾಯಿತು. ಕನಸಿನಲಿ ಕಂಡ ಹುಲಿ ನಿಜದೊಳೆದುರಿಗೆ ಬಂದು, ಕೊಡು ನಿನ್ನ ಜೀವವನು, ಎಂದು ಕೇಳುತಲಿಹುದು.
+- id: story-d27
+  type: dialogue
+  section: story
+  speaker: ರಾಹುಲ
+  text: ಅಮ್ಮಾಜಿ, ನಾನು ಬರುವೆನೊ ಇಲ್ಲವೋ ಎಂದು ನಿನಗೆ ಭಯವಿಹುದಾಗೆ ನನ್ನ ಜೊತೆಯಲಿ ನಮ್ಮ ಅಂಬಿಕೆಯ ಕಳುಹಮ್ಮ. ನಾವಿಬ್ಬರೂ ಹೋಗಿ ಅಣ್ಣನನು ಕರೆದಹೆವಮ್ಮ. ಒಪ್ಪಮ್ಮ.
+- id: story-d28
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: "ಅಂಬಿಕೆ. ಅಂಬಿಕ :ಸ್ವಾಮಿ."
+- id: story-d29
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: "ಬಾಲನಾಡಿದ ಮಾತ ಕೇಳಿದೆಯ? ಏನೆಂಬೆ ? ಅಂಬಿಕ :ಕೇಳಿದೆ. ಅಮ್ಮಾಜಿ ಭಯಪಡುತಲಿಹರು. ತಾವರಿಯದಿಹದೇನುಂಟು ?"
+- id: story-d30
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ಅಮ್ಮಾಜಿ ಏನೆಂಬೆ ? ಅಂಬಿಕೆಯ ಜೊತೆಯಲ್ಲಿ ರಾಹುಲನ ಕಳುಹಿಸಲು ಧೈರ್ಯವಾಗಿರಬಹುದು. ಏನಹೇಳುವೆ ?
+- id: story-d31
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ನನಗೆ ಯಾವುದೂ ತೋಚದಿದೆ. ಅವರ ನೋಡುವ ಪುಣ್ಯ ನನ್ನ ಈ ಕಣ್ಗಳಿಗೆ ಇರುವುದೋ ಇಲ್ಲವೋ ನಾನರಿಯೆ. ಬಾಲಕನು ತನ್ನ ತಂದೆಯ ನೋಡಬೇಕೆಂದು ಆಶಿಸಲು ಬೇಡವೆನ್ನುವುದು ಸರಿಯೇ ಎಂದು ಆಂತರ್ಯ ಸಂದೇಹದೊಳಗಿಹುದು. ಕಳುಹುವುದು ಸರಿಯೆಂದು. ನಿಮಗೆ ತೋರಿದರೆ ಕಳುಹಿರಿ. ಬೇಡವೆನೆ ನಾನು.
+- id: story-d32
+  type: dialogue
+  section: story
+  speaker: ರಾಹುಲ
+  text: ಅಮ್ಮಾ, ಎಷ್ಟು ಒಳ್ಳೆಯವಳಮ್ಮಾ ನೀನು ! ಅಂಬಿಕೇ, ನಡೆ, ಹೋಗಿ ಅಣ್ಣನನು ಕರೆತರುವ. ತಾತಾ ನಾ ಹೋಗಿಬರಲೆ ? ಅಮ್ಮಾಜೀ. ನಾವು ಹೋಗಿ ಬರೋಣವೇನಮ್ಮ ?
+- id: story-d33
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಆಹಾ, ಏನು ಉತ್ಸಾಹವಿದು ! ಅಪ್ಪಾಜಿ ಹೋಗಿಬಾ. ಅಣ್ಣಯ್ಯ, ನನ್ನ ಮರೆಯದಿರಣ್ಣ. ನಿಮ್ಮಣ್ಣ ನಮ್ಮ ಮರೆತರು, ನನ್ನ ಬದುಕೆಲ್ಲ ಬಯಲಾಯ್ತು. ಅವರು ಬಿಟ್ಟಂತೆ ನೀನೆನ್ನ ಕೈ ಬಿಡಬೇಡ. ಹೋಗಿಬಾ. ಹೋಗಿಬಾ ; ಅಂಬಿಕೆ, ಜೊತೆಯೊಳಿರು; ನನ್ನ ಮರೆಯದಿರು.
+- id: story-d34
+  type: dialogue
+  section: story
+  speaker: ಅಂಬಿಕೆ
+  text: ನನ್ನಾಣೆ ಮರೆಯುವೆನೆ ತಾಯಿ ?
+- id: story-d35
+  type: dialogue
+  section: story
+  speaker: ಯಶೋಧರೆ
+  text: ಮರೆತರೂ ತಪ್ಪಲ್ಲ. ಅದು ನನ್ನ ವಿಧಿ ಎಂಬೆ.
+- id: story-d36
+  type: dialogue
+  section: story
+  speaker: ರಾಜ
+  text: ನಿನ್ನ ವಿಧಿ ಕೆಟ್ಟುದೆಂದೆಣಿಸದಿರು ಅಮ್ಮಾಜಿ. ನಿನ್ನರಸನೀಗ ಲೋಕಕೆ ಪೂಜ್ಯನೆನಿಸಿಹನು. ರಾಜ್ಯವಾಳುವುದೆಂಬ ಕಿರಿಯ ಹಿರಿಮೆಯನು. ಜಗದ ಜೀವಗಳ ಉದ್ಧರಿಪ ಹಿರಿಹಿರಿಮೆಯನು ಅಳವಟ್ಟು, ರಾಜ ಅಧಿರಾಜ ವೃಂದಗಳಿಂದ ಓಲೈಸಿಕೊಳ್ಳುತ್ತ ಚಕ್ರಾಧಿಪತಿಯಂತೆ ನಿಂದಿಹನು. ಏಕೆ ಚಿಂತಿಸುವೆ ? ಈ ಬಾಲಕನು ನಿನ್ನ ಈ ಹತ್ತು ವರುಷದ ತಪವೆ ಮೆಯ್ವೆತ್ತು ನಿನ್ನಾಣ್ಮನನು ಕರೆಯಹೊರಟಂತೆ ಹೊರಟಿಹನು. ವಿಧಿಯರಿತು ನಡೆವ ಹವನದಲಿ ಉದ್ಗಾತೃಗಳು ಸ್ವರಹಿಡಿದು ಸೊಗಸಾಗಿ ನುಡಿದ ಶಕ್ತಿಯ ಮಂತ್ರ ದೇವರನು ತರುವಂತೆ ನಮ್ಮ ಈ ಬಾಲಕನು ನಮ್ಮ ಸಿದ್ಧಾರ್ಥನನು ಬಿಡದೆ ತಂದೇತಹನು. ಬಾ ನನ್ನ ಅಣ್ಣಯ್ಯ, ತಾಯಿಗಭಿವಂದಿಸು. ಬಹು ಹಿರಿಯ ಜೀವವಯ್ಯಾ ನಿನ್ನ ತಾಯಿಯದು ; ಬಹು ಹಿರಿಯ ತಪ ಪುಣ್ಯ, ಬೀಳ್ಕೊಳುವ ಮೊದಲಲ್ಲಿ ಹರಕೆಯನು ಕೊಳು. ಇಲ್ಲಿ ಬಾ, ಒಮ್ಮೆ ವಂದಿಸು. ತಾಯ್ತಂದೆಗಳ ಪುಣ್ಯ ನಿನ್ನಲ್ಲಿ ಫಲಿಸಲಿ. ಸಿದ್ಧಾರ್ಥನನು ಕರೆದುತಹ ಕಾರ್ಯದಲಿ ನೀನು ಸಿದ್ಧಾರ್ಥನಪ್ಪಂತೆ ದೇವರ್ಕಳೆಸಗಲಿ.
+- id: story-n3
+  type: prose
+  section: story
+  text: (ರಾಹುಲನು ಇವರಿಗೆ ನಮಿಸುವನು. ತೆರೆ ಬೀಳುವುದು)
+- id: author-1
+  type: prose
+  section: author
+  text: ನ್ನಡ ಸಾಹಿತ್ಯ ಲೋಕದಲ್ಲಿ‘ಸಣ್ಣಕಥೆಗಳ ಜನಕ’ರೆಂದೇ ಖ್ಯಾತಿಪಡೆದು, ‘ಶ್ರೀನಿವಾಸ’ಕಾವ್ಯನಾಮದಿಂದ ಹೆಸರಾಂತ ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರರು ಕೋಲಾರ ಜಿಲ್ಲೆಯ ಮಾಲೂರು ತಾಲ್ಲೂಕಿನ ಮಾಸ್ತಿಎಂಬ ಗ್ರಾಮದಲ್ಲಿ6-6-1891ರಲ್ಲಿ ಜನಿಸಿದರು. ತುಂಬು ಬಡತನವಿದ್ದರೂ ಕಷ್ಟಪಟ್ಟು ವಿದ್ಯಾಭ್ಯಾಸ ಮಾಡಿ ಉತ್ತಮ ದರ್ಜೆಯಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಎಂ.ಎ. ಪದವಿ ಪಡೆದರು.‘ಮೈಸೂರು ಸಿವಿಲ್ ಸರ್ವಿಸ್’ಪರೀಕ್ಷೆಯಲ್ಲಿ ಮೊದಲ ಸ್ಥಾನ ಪಡೆದು ಅಸಿಸ್ಟೆಂಟ್ ಕಮಿಷನರ್ ಆಗಿ ರಾಜ್ಯದ ವಿವಿಧೆಡೆ ಸೇವೆ ಸಲ್ಲಿಸಿರುತ್ತಾರೆ. ಇವರು ಕಾವ್ಯ, ನಾಟಕ, ಕಾದಂಬರಿ ವಿಮರ್ಶೆ - ಹೀಗೆ ಕನ್ನಡ ಸಾಹಿತ್ಯ ವಿವಿಧ ಪ್ರಕಾರಗಳಲ್ಲಿ ಕೃತಿ ರಚಿಸಿದ್ದಾರೆ. ಇವರ ಸಣ್ಣಕಥೆಗಳು ಒಟ್ಟು ಹದಿಮೂರು ಸಂಪುಟಗಳಲ್ಲಿ ಪ್ರಕಟವಾಗಿವೆ.`ಗೌತಮಿ ಹೇಳಿದ ಕಥೆ’, `ಸಾರಿಪುತ್ರನ ಕೊನೆಯ ದಿನಗಳು’, `ಕುಚೇಲನ ಭಾಗ್ಯ, `ಹೇಮಕೂಟದಿಂದ ಬಂದ ಮೇಲೆ’, `ಚಿಕವೀರ ರಾಜೇಂದ್ರ’ಮೊದಲಾದವು ಪ್ರಮುಖ ಕೃತಿಗಳು. ಇವರ ಚಿಕವೀರ ರಾಜೇಂದ್ರ ಕಾದಂಬರಿಗೆ 1983 ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ. ಇವರು 6-6-1986ರಲ್ಲಿ ನಿಧನರಾದರು.
+- id: ashaya-1
+  type: prose
+  section: ashaya
+  text: ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರರ‘ಯಶೋಧರೆ’ನಾಟಕದಿಂದ ಸಂಪಾದಿಸಿ ನಿಗದಿಪಡಿಸಿದೆ. ಪೂರ್ವ ಕಥೆ ಸಿದ್ಧಾರ್ಥ ರಾಜ್ಯವನ್ನು ಪರಿತ್ಯಾಗ ಮಾಡಿ ಹೋಗಿ ಹತ್ತು ವರ್ಷಗಳು ಕಳೆದಿವೆ. ತಂದೆಯನ್ನೇ ಕಾಣದ ಮಗು ರಾಹುಲನಿಗೂ ಹತ್ತು ವರ್ಷಗಳಾಗಿವೆ. ಇತ್ತ ಕಪಿಲವಸ್ತುವಿನ ಅರಮನೆಯ ಅಂತಃಪುರದಲ್ಲಿ ಯಶೋಧರಾ ಒಬ್ಬಳೇ ಚಿಂತಾಮಗ್ನಳಾಗಿ ಸಿದ್ಧಾರ್ಥನ ಪಠವನ್ನು ನೋಡುತ್ತಾ ಕಣ್ಣೀರಿಡುತ್ತಾ ಕುಳಿತಿರುತ್ತಾಳೆ. ದುಃಖಿಸಲು ಕಾರಣವನ್ನು ಆಕೆಯ ಸಖಿ ಅಂಬಿಕೆ ಕೇಳಲಾಗಿ ಹಿಂದಿನ ರಾತ್ರಿ ಅಮಂಗಳವನ್ನು ಸೂಚಿಸುವ ಕನಸೊಂದನ್ನು ಕಂಡೆನೆಂದು ಹೇಳುತ್ತಾ, ಹತ್ತು ವರ್ಷಗಳ ಹಿಂದೆ ಇಂಥಹ ಕನಸೊಂದನ್ನು ಕಂಡು ಎಚ್ಚರವಾಗಿ ನೋಡಿದರೆ ನನ್ನ ಮನದನ್ನ ಇರದೇ ರಾಜ್ಯ ತೊರೆದು ಹೋಗಿದ್ದ. ಇಂದು ಕನಸಿನಿಂದ ಎಚ್ಚೆತ್ತು ನೋಡಿದರೆ ಮಗ ಇದ್ದಾನೆ. ಆದರೆ ಎಲ್ಲಿ ನನ್ನನ್ನು ತೊರೆದು ಹೋಗುತ್ತಾನೆಂದು ವ್ಯಾಕುಲತೆಗೆ ಒಳಗಾಗಿರುವುದಾಗಿ ತಿಳಿಸುತ್ತಾಳೆ. ಅಭ್ಯಾಸಕ್ಕೆ ಹೋಗಿದ್ದ ರಾಹುಲನು ಬಂದು ಅಮ್ಮ ತಂದೆಯನ್ನು ನಾನು ನೋಡಿಯೇ ಇಲ್ಲ, ಆತನನ್ನು ಕರೆತರಲು ನಾನು ಹೋಗುವುದಾಗಿ ತಿಳಿಸುತ್ತಾ ಇದಕ್ಕೆ ತಾತನ ಅನುಮತಿ ಪಡೆದಿರುವುದಾಗಿ ತಿಳಿಸುತ್ತಾನೆ. ಇದರಿಂದ ಆತಂಕಗೊಂಡು ರಾಜನನ್ನು ಕರೆಯಲು ಸಖಿ ಅಂಬಿಕೆಯನ್ನು ಕಳಿಸುತ್ತಾಳೆ. ರಾಜ ಅಂತಃಪುರಕ್ಕೆ ಅಂಬಿಕೆಯೊಂದಿಗೆ ಆಗಮಿಸುತ್ತಾÉ.
+- id: vocab-vdc305475
+  type: vocabulary_term
+  text: ಆಣ್ಮ
+- id: vocab-vdc305475-def
+  type: vocabulary_definition
+  text: ಒಡೆಯ,
+- id: vocab-vc5b4967c
+  type: vocabulary_term
+  text: ಆಶಿಸು
+- id: vocab-vc5b4967c-def
+  type: vocabulary_definition
+  text: ಬಯಸು
+- id: vocab-vd8ae80e9
+  type: vocabulary_term
+  text: ಉದ್ಗಾತೃ
+- id: vocab-vd8ae80e9-def
+  type: vocabulary_definition
+  text: ಋತ್ವಿಜ,
+- id: vocab-vb4caad71
+  type: vocabulary_term
+  text: ಎನಿತು
+- id: vocab-vb4caad71-def
+  type: vocabulary_definition
+  text: ಎಷ್ಟು
+- id: vocab-vd40934ef
+  type: vocabulary_term
+  text: ಎಸಗಲಿ
+- id: vocab-vd40934ef-def
+  type: vocabulary_definition
+  text: ಆರ್ಶೀವದಿಸಲಿ
+- id: vocab-v3306b058
+  type: vocabulary_term
+  text: ಕವಿ
+- id: vocab-v3306b058-def
+  type: vocabulary_definition
+  text: ಆವರಿಸು,
+- id: vocab-vff76c635
+  type: vocabulary_term
+  text: ಕಾನನ
+- id: vocab-vff76c635-def
+  type: vocabulary_definition
+  text: ಕಾಡು, ಅರಣ್ಯ
+- id: vocab-v3803d9fa
+  type: vocabulary_term
+  text: ಚೇತನ
+- id: vocab-v3803d9fa-def
+  type: vocabulary_definition
+  text: ಶಕ್ತಿ, ಚೈತನ್ಯ
+- id: vocab-vcd40d97e
+  type: vocabulary_term
+  text: ತರಗು
+- id: vocab-vcd40d97e-def
+  type: vocabulary_definition
+  text: ಕುಂದುವಿಕೆ, ಇರುಳು-ರಾತ್ರಿ
+- id: vocab-v27b5921f
+  type: vocabulary_term
+  text: ತುಡುಕಿ
+- id: vocab-v27b5921f-def
+  type: vocabulary_definition
+  text: ಕಸಿದುಕೊಂಡು, ಕಿತ್ತುಕೊಳ್ಳು
+- id: vocab-v21613cd8
+  type: vocabulary_term
+  text: ತೊಳಲು
+- id: vocab-v21613cd8-def
+  type: vocabulary_definition
+  text: ಚಿಂತೆಮಾಡು, ಶ್ರಮಪಡು
+- id: vocab-v3446c5bb
+  type: vocabulary_term
+  text: ಪರಿಪಾಲಿಸು
+- id: vocab-v3446c5bb-def
+  type: vocabulary_definition
+  text: ರಕ್ಷಣೆಮಾಡು, ಕಾಪಾಡು
+- id: vocab-v3706966c
+  type: vocabulary_term
+  text: ಬೇಹು
+- id: vocab-v3706966c-def
+  type: vocabulary_definition
+  text: ಗುಪ್ತಾಚಾರ
+- id: vocab-v1b779bde
+  type: vocabulary_term
+  text: ಮಂಕು
+- id: vocab-v1b779bde-def
+  type: vocabulary_definition
+  text: ಭ್ರಾಂತಿ
+- id: vocab-v6ca63575
+  type: vocabulary_term
+  text: ವಿನೋದ
+- id: vocab-v6ca63575-def
+  type: vocabulary_definition
+  text: ಹಾಸ್ಯ,
+- id: vocab-v47178e2d
+  type: vocabulary_term
+  text: ವೃಂದ
+- id: vocab-v47178e2d-def
+  type: vocabulary_definition
+  text: ಸಮೂಹ, ಗುಂಪು
+- id: vocab-vfa51cd38
+  type: vocabulary_term
+  text: ಸಂದೇಹ
+- id: vocab-vfa51cd38-def
+  type: vocabulary_definition
+  text: ಅನುಮಾನ
+- id: vocab-v4363225d
+  type: vocabulary_term
+  text: ಸತಿ
+- id: vocab-v4363225d-def
+  type: vocabulary_definition
+  text: ಹೆಂಡತಿ
+- id: vocab-v31f08391
+  type: vocabulary_term
+  text: ಸಲಹು
+- id: vocab-v31f08391-def
+  type: vocabulary_definition
+  text: ಕಾಪಾಡು
+- id: vocab-vb36d7731
+  type: vocabulary_term
+  text: ಸುತೆ
+- id: vocab-vb36d7731-def
+  type: vocabulary_definition
+  text: ಮಗಳು
+- id: vocab-v0e650276
+  type: vocabulary_term
+  text: ಹವನ
+- id: vocab-v0e650276-def
+  type: vocabulary_definition
+  text: ಹೋಮ, ಯಜ್ಞ
+- id: vocab-vb9f02947
+  type: vocabulary_term
+  text: ಹಸುಳೆ
+- id: vocab-vb9f02947-def
+  type: vocabulary_definition
+  text: ಮಗು
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಯಶೋಧರೆ ಮತ್ತೊಮ್ಮೆ ಯಾರನ್ನು ನೀಡಬೇಕೆಂದು ರಾಜನಲ್ಲಿ ಬೇಡುತ್ತಾಳೆ?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ತಂದೆಯನ್ನು ಕರೆತರಲು ಹೋಗುವೆನೆಂದು ಹೇಳಿದವರಾರು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ರಾಜನಿಗೆ ಕನಸಿನ ವಿಚಾರವನ್ನು ತಿಳಿಸಿದವರಾರು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಸಂಪ್ರದಾಯಕ್ಕೆ ವಿರುದ್ಧವಾದದ್ದು ಯಾವುದು?
+- id: ex-a-q5
+  type: question
+  exercise: A
+  text: ಈಗ ನೀನಿರುವ ರೀತಿ ಯಾವುದೆಂದು ಯಶೋಧರೆಯನ್ನು ರಾಜ ಕೇಳಿದನು?
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: ರಾಜನನ್ನು ಪೀಠದಲ್ಲಿ ಕುಳ್ಳಿರಿಸಿ ಯಶೋಧರೆ ಏನೆಂದು ವಿನಂತಿಸುತ್ತಾಳೆ?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: ಯಶೋಧರೆ ಮಂಡಿಯೂರಿ ನಮಸ್ಕರಿಸುತ್ತಾ ಏನು ಹೇಳುತ್ತಾಳೆ?
+- id: ex-b-q3
+  type: question
+  exercise: B
+  text: ರಾಜನು ಈಗ ನೀನಿರುವ ರೀತಿ ಸನ್ಯಾಸವಲ್ಲವೆ ಎನ್ನಲು ಕಾರಣವೇನು?
+- id: ex-b-q4
+  type: question
+  exercise: B
+  text: ಯಶೋಧರೆಯ ಆಂತರ್ಯದಲ್ಲಿರುವ ಸಂದೇಹವೇನು?
+- id: ex-c-q1
+  type: question
+  exercise: C
+  text: ಬೇಹಿನವರನ್ನು ಕಳಿಸುವ ವಿಚಾರದಲ್ಲಿ ರಾಹುಲನ ಅಭಿಪ್ರಾಯವೇನು?
+- id: ex-c-q2
+  type: question
+  exercise: C
+  text: ಯಶೋಧರೆಯ ವಿಧಿಯ ಬಗ್ಗೆ ರಾಜನು ಏನೆಂದು ಹೇಳಿದನು?
+- id: ex-d-q1
+  type: question
+  exercise: D
+  text: “ಸೋದರಿಯ ಸುತೆಯೆಂದು ಎಳೆತನದಲೇ ನನ್ನ ಕರೆತಂದು ಸಾಕಿದಿರಿ”
+- id: ex-d-q2
+  type: question
+  exercise: D
+  text: “ಅಮ್ಮಾಜಿ, ನಿನಗೆ ಭಯ ಬೇಡಮ್ಮ ನಾ ಮರಳಿ ಬಹೆನಮ್ಮ”
+- id: ex-d-q3
+  type: question
+  exercise: D
+  text: “ನಿನ್ನ ವಿಧಿ ಕೆಟ್ಟುದೆಂದೆಣಿಸದಿರು ಅಮ್ಮಾಜಿ”
+- id: ex-d-q4
+  type: question
+  exercise: D
+  text: “ನಿದ್ದೆಯಲಿ ಮುಳುಗಲಿನ್ನಾವ ಕನಸಿನ ಮೊಸಳೆ ಹಿಡಿಯುವುದೋ”
+- id: ex-f-q1
+  type: question
+  exercise: F
+  text: ಯಶೋಧರೆ - ಸಖಿ
+- id: ex-f-q2
+  type: question
+  exercise: F
+  text: ಶುದ್ಧೋದನ - ಬುದ್ಧನ ಮಗ
+- id: ex-f-q3
+  type: question
+  exercise: F
+  text: ಅಂಬಿಕೆ - ರಾಜ
+- id: ex-f-q4
+  type: question
+  exercise: F
+  text: ರಾಹುಲ - ಗೌತಮ ಬುದ್ಧ
+- id: ex-f-q5
+  type: question
+  exercise: F
+  text: ಸಿದ್ಧಾರ್ಥ - ಯುವರಾಣಿ ಋ. ಈ ಕೆಳಗಿನ ಪದಗಳಿಗೆ ತದ್ಭವ ಪದಗಳನ್ನು ಬರೆಯಿರಿ. ವಿನೋದ, ದುಃಖ, ರಾಜ, ಕಾರ್ಯ. ಎ. ಈ ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಸಂಧಿಯನ್ನು ಹೆಸರಿಸಿ. ನಿನ್ನಾಣ್ಮ , ಚಕ್ರಾಧಿಪತಿ, ಹರಕೆಯನು, ಪತಿಯೊಡನೆ, ಇಂದಳುತ,

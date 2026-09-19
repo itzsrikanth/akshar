@@ -1,0 +1,72 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'प्रवेश'
+  poem: 'वचन'
+  author: 'कृतिकार परिचय'
+  vocab: 'शब्दार्थ'
+  exercise-A: 'अ. एक वाक्य में उत्तर दीजिए।'
+  exercise-B: 'आ. दो-तीन वाक्यों में उत्तर दीजिए।'
+  exercise-C: 'इ. पाँच-छह वाक्यों में उत्तर दीजिए।'
+
+intro-1: 'कन्नड़ साहित्य इतिहास में 12वीं शताब्दी अत्यंत अमूल्य है। वचन साहित्य विशिष्ट विधा है। जाति-भेद और स्त्री-पुरुष भेद के बिना अनेक ने वचन रचे।'
+
+author-1: 'जेडर दासिमय्य 11वीं शताब्दी के वरिष्ठ शिवशरण। ‘रामानाथ’ अंकित से 150 वचन उपलब्ध।'
+
+author-3: 'मडिवाल माचय्य 12वीं शताब्दी के प्रमुख वचनकार। अंकितनाम ‘कलिदेवर देव’।'
+
+author-5: 'मुक्तायक्क 12वीं शताब्दी की अनुभावी शिवशरणे। अजगण्ण अंकित से 37 वचन।'
+
+author-6: 'सत्यक्क की कायक शिवभक्तों के आँगन साफ़ करना। अंकित ‘शंभुजक्केश्वर’।'
+
+vocab-harida: 'ಹರಿದ'
+
+vocab-goni: 'ಗೋಣಿ'
+
+vocab-kalave: 'ಕಳವೆ'
+
+vocab-kalave-def: 'धान'
+
+vocab-irulu: 'ಇರುಳು'
+
+vocab-sunka: 'ಸುಂಕ'
+
+vocab-andhakara: 'ಅಂಧಕಾರ'
+
+vocab-prabhe: 'ಪ್ರಭೆ'
+
+vocab-nindakaru: 'ನಿಂದಕರು'
+
+vocab-edisalu: 'ಏಡಿಸಲು'
+
+vocab-kutarka: 'ಕುತರ್ಕ'
+
+vocab-patha: 'ಪಥ'
+
+vocab-vrata: 'ವ್ರತ'
+
+vocab-vrata-def: 'व्रत, नियम'
+
+vocab-batte: 'ಬಟ್ಟೆ'
+
+vocab-pramatharu: 'ಪ್ರಮಥರು'
+
+vocab-alimana: 'ಅಳಿಮನ'
+
+vocab-alimana-def: 'अस्थिर मन'
+
+vocab-addi: 'ಅದ್ದಿ'
+
+ex-a-q1: 'फटे गोणी में एक व्यक्ति रात भर क्यों चला?'
+
+ex-a-q3: 'महाज्ञान का आचरण क्या है?'
+
+ex-a-q4: 'किसकी आस करने पर नरक में डुबोना चाहिए?'
+
+ex-b-q2: 'नाच-नुडि के बारे में मुक्तायक्क का मत क्या है?'
+
+ex-c-q1: 'जेडर दासिमय्य अस्थिर मन वाले की भक्ति कैसे समझाते हैं?'

@@ -1,0 +1,65 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'प्रवेश'
+  poem: 'पद्य'
+  competency: 'कौशल / सामर्थ्य'
+  author: 'कृतिकार परिचय'
+  vocab: 'शब्दार्थ'
+  exercise-A: 'अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।'
+
+intro-1: 'हुत्तरी गीत कोडव और कोडगु जीवन को प्रतिबिंबित करता है। कोडव कटाई के उत्सव में गाते हैं। यह कोडगु की प्राकृतिक सुंदरता और वीरता का वर्णन करता है।'
+
+poem-s1l5: 'वहाँ उस ओर देखो!'
+
+poem-s1l6: 'वहाँ कोडग भूमि है'
+
+poem-s1l7: 'वहाँ कोडव का घर है!'
+
+poem-s5l7: 'हमारा कोडगु जिए'
+
+competency: 'कौशल: बोलना। सामर्थ्य: परिस्थिति-घटनाओं का वर्णन करना।'
+
+author-1: 'श्री पंजे मंगेशराव ‘कविशिश्य’ काव्यनाम से प्रसिद्ध। 1874 में दक्षिण कन्नड़ के बंटवाल में जन्म। 1934 में 20वें अखिल भारत कन्नड़ साहित्य सम्मेलन के अध्यक्ष रहे।'
+
+vocab-odal: 'ಒಡಲ್'
+
+vocab-kadugali: 'ಕಡುಗಲಿ'
+
+vocab-kadugali-def: 'महाशूर'
+
+vocab-kshatra: 'ಕ್ಷಾತ್ರ'
+
+vocab-gariyaru: 'ಗರಿಯರು'
+
+vocab-jammadu: 'ಜಮ್ಮದು'
+
+vocab-dattikuppas: 'ದಟ್ಟಿಕುಪ್ಪಸ'
+
+vocab-bagga: 'ಬಗ್ಗ'
+
+vocab-bimmane: 'ಬಿಮ್ಮನೆ'
+
+vocab-bhurame: 'ಭೂರಮೆ'
+
+vocab-bhurame-def: 'भूदेवी'
+
+vocab-huttari: 'ಹುತ್ತರಿ'
+
+vocab-huttari-def: 'कोडव नए चावल घर लाते समय का त्योहार; कोडगु की फसलोत्सव'
+
+vocab-hoylu: 'ಹೊಯ್ಲು'
+
+ex-a-q1: 'कावेरी कैसे चमकती है?'
+
+ex-a-q2: 'सोल सावरियद कौन हैं?'
+
+ex-a-q3: 'कोडगु किस पहाड़ से किस पहाड़ तक फैला है?'
+
+ex-a-q4: 'कावेरी का मायका कौन-सा है?'
+
+ex-a-q5: 'किस ठेके पर नाच का पद बाहर गूंजे?'

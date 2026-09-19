@@ -1,0 +1,77 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  competency: kauśala / sāmarthya
+  author: kṛtikārara paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. kèḻagina praśnègaḻigè uttarisi.
+intro-1: kòḍavara hāgū kòḍagina jīvanavannu pratibiṃbisuva huttari hāḍu òṃdu. kòḍavaru suggiya habbada saṃdarbhadalli hāḍuva hāḍu idāgidè. idu kòḍagina prākṛtika sauṃdaryavannu, vīraśrīyannu varṇisuvudu. kòḍagina saṃskṛti, saṃpradāyada lepana hāgū janapada hinnèlèyannu idu òḻagòṃḍidè.
+poem-s1l1: èlli bhūramè deva sannidhi bayasi bimmanè baṃdaḻo?
+poem-s1l2: èlli mohana giriya bèragina rūpiniṃdali niṃdaḻo?
+poem-s1l3: èlli mugilali miṃcinol kāveri hòḻè hòḻè hòḻèvaḻo?
+poem-s1l4: èlli nèlavanu taṇisi janamana hòlada kaḻèkaḻè kaḻèvaḻo?
+poem-s1l5: allè ā kaḍè noḍalā!
+poem-s1l6: allè kòḍagara nāḍalā
+poem-s1l7: allè kòḍavara bīḍalā!
+poem-s2l1: savidu mèddarò yāru pūrvadi huliya hālina mevanu?
+poem-s2l2: kavaṇè tirikallāṭa haggakè sèḻèdaro hèbbāvanu?
+poem-s2l3: savari ānèya sòṃḍalina raṇakòṃbanār bhorgarèdaro?
+poem-s2l4: savèdu savèyada sāhasatvada kṣātra beṭèya mèrèdaro?
+poem-s2l5: avaru sol sāvariyaru!
+poem-s2l6: avaru kaḍugali gariyaru!
+poem-s2l7: avarè kòḍagina hiriyaru!
+poem-s3l1: tamma nāḍina kòraḻu dāsyada nògada bhārakè baggadol
+poem-s3l2: hèmmèhagègaḻa hòḍèdu hiriyaru hasidu hāruva baggadol
+poem-s3l3: bòmmagiriyiṃ puṣpagiri paryaṃta bèḻèdī deśavu
+poem-s3l4: dharmadānava kaṭṭu kaṭṭaḻè rīti nītiya kośavu
+poem-s3l5: namma kòḍagidu jammadu;
+poem-s3l6: jamma kòḍagidu nammadu;
+poem-s3l7: nammòḍal biḍalammadu !
+poem-s4l1: idu agastyana tapada manè, kāveri tāya tavarmanè,
+poem-s4l2: kadana siriguyyālè tūgidanilli caṃdaravarmanè!
+poem-s4l3: idakò! cèṃgāḻvarasarāḍaṃbaravu kuṇida śrīraṃgavu
+poem-s4l4: idò! idò! illaruḻda hāleriyara balagiriśṛṃgavu
+poem-s4l5: vidhiya māṭada kòḍagidu
+poem-s4l6: mòdalè nammadu, kaḍègidu
+poem-s4l7: kadaladèmmanu; bèḍagidu.
+poem-s5l1: òmmatavu òggaṭṭu òṃde manavu èllidè heḻiri?
+poem-s5l2: summanittarò daṭṭikuppasa? hāḍuhuttarigeḻiri!
+poem-s5l3: cimmi pāturèkola hòyligè kuṇiva pada hòra hòmmali!
+poem-s5l4: ammè harasida sīmè namagidu irali nammadè nammali!
+poem-s5l5: nèmmadiyanidu tāḻali
+poem-s5l6: ammèyā balatoḻali
+poem-s5l7: namma kòḍagidu bāḻali
+competency: 'kauśala: mātanāḍuvudu. sāmarthya: sanniveśa ghaṭanègaḻannu vivarisuvudu.'
+author-1: 'śrī paṃjè maṃgeśarāv: ‘kaviśiṣya’ èṃba kāvyanāmadiṃda prasiddharāda śrī paṃjè maṃgeśarāv avaru sā. śa. 1874 ralli dakṣiṇa kannaḍa jillè baṃṭvāḻadalli janisidaru. makkaḻa kavitègaḻa kaṇmaṇi èṃdu prasiddharāda ivaru huttariya hāḍu, nāgara hāve, koṭi cènnayya, guḍuguḍu gummaṭa devaru, mātāḍo rāmappa mòdalāda kṛtigaḻannu racisiddārè. ivaru sā. śa. 1934 ralli naḍèda 20 nèya akhila bhārata kannaḍa sāhitya sammeḻanada adhyakṣarāgiddaru.'
+vocab-odal: òḍal
+vocab-odal-def: śarīra, deha
+vocab-kadugali: kaḍugali
+vocab-kadugali-def: mahāśūra
+vocab-kshatra: kṣātra
+vocab-kshatra-def: kṣatriya kula, kṣatriyana tejassu
+vocab-gariyaru: gariyaru
+vocab-gariyaru-def: hirimèyuḻḻavaru
+vocab-jammadu: jammadu
+vocab-jammadu-def: arasanu ināmāgi kòṭṭa bhūmi
+vocab-dattikuppas: daṭṭikuppasa
+vocab-dattikuppas-def: sòṃṭakkè kaṭṭuva vastra
+vocab-bagga: bagga
+vocab-bagga-def: huli, vyāghra
+vocab-bimmane: bimmanè
+vocab-bimmane-def: vegavāgi, summanè
+vocab-bhurame: bhūramè
+vocab-bhurame-def: bhūdevi
+vocab-huttari: huttari
+vocab-huttari-def: kòḍagaru hòsa akkiyannu manègè taruvāga ācarisuva habba, kòḍagina suggi habba
+vocab-hoylu: hòylu
+vocab-hoylu-def: hòḍèta
+ex-a-q1: kāveriyu hegè hòḻèyuttāḻè?
+ex-a-q2: solu sāvariyadavaru yāru?
+ex-a-q3: kòḍagu yāva giriyiṃda yāva giriya paryaṃta bèḻèdidè?
+ex-a-q4: kāveriya tavarmanè yāvudu?
+ex-a-q5: yāva hòyligè kuṇiva pada hòra hòmmabeku?

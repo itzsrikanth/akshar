@@ -1,0 +1,28 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  poem: padya
+  author: kṛtikārara paricaya
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+poem-s1l1: āḍisi noḍu, bīḻisi noḍu, uruḻi hogadu
+poem-s1l2: ene barali, yārigu sotu talèya bāgadu
+poem-s1l3: èṃdigū nānu hīge iruvè èṃdu naguvudu, hīge nagutaliruvudu
+poem-s2l1: guḍisale āgali aramanèyāgali, āṭa nilladu
+poem-s2l2: hiriyarè irali kiriyarè barali, bheda toradu
+poem-s2l3: kaṣṭavò sukhavò aḻukadè āḍi tūgutiruvudu
+poem-s3l1: maiyanu hiṃḍi nòṃdaru kabbu, sihiya kòḍuvudu
+poem-s3l2: teyutaliddarū gaṃdhada parimaḻa, tuṃbi baruvudu
+poem-s3l3: tānè uridarū dīpavu manègè bèḻaka taruvudu
+poem-s4l1: āḍisuvātana kaicaḻakadali èlla aḍagidè
+poem-s4l2: ātana karuṇèyu jīvava tuṃbi, kuṇisi nalisidè
+poem-s4l3: ā kai sotarè, bòṃbèya kathèyu, kònèyāguvude!
+author-1: ciṭṭanahaḻḻi sadāśivayya udayaśaṃkara, ci. udayaśaṃkar èṃde prasiddharu. ivaru 1934ra phèbravari 18raṃdu hòḻènarasīpuradalli janisidaru. sumāru 4,000daṣṭu sinèmā gītègaḻannu racisida kīrti ivaradu. kannaḍada citrasāhitiyāgidda ci. sadāśivayyanavara putrarāda udayaśaṃkar tamma èḻavèya dinagaḻiṃdale sinèmā kṣetravannu hattiradiṃda noḍidavaru. “saṃta tukārām” sinèmāda mūlaka avara sāhityakṛṣi prāraṃbhavāyitu. ḍā. rājkumār avara sinèmāgaḻigāgi sumāru 400kkū hèccu gītègaḻannu barèdukòṭṭa udayaśaṃkar, rājakumār avara jòtè sahanaṭanāgiyū kèla calanacitragaḻalli abhinayisiddaru. rājakumār avara 88 citragaḻigè saṃbhāṣaṇè barèdaddu kūḍa ci. udayaśaṃkar. “māmaravèllo kogilèyèllo”, “bāḍihoda baḻḻiyiṃda hūvu araḻaballudè”, “snehada kaḍalalli”, “innādarū jīvanadalli muṃdè banni” muṃtāda avara halavu gītègaḻu kannaḍa janamānasadalli accaḻiyadè uḻidivè. kulagaurava, nāgarahāvu, jīvanacaitra, premada kāṇikè, ānaṃd muṃtāda calanacitragaḻalli kèlasa māḍiddakkāgi avaru halavu praśastigaḻannu paḍèdiddārè.
+  tamma 59nèya vayassinalli (1993 julai 3) ci. udayaśaṃkar tīrikòṃḍaru.
+ex-a-q1: jīvanadalli sotavarigè gòṃbèyu kòḍuva dhairyavenu?
+ex-a-q2: gòṃbèyu hegè tūguttiruttadè?
+ex-a-q3: tāvu kaṣṭapaṭṭarū lokakkè upakāra māḍuva mūru saṃgatigaḻu yāvuvu?
+ex-a-q4: gòṃbèyu niścalavāguvudu yāvāga?
+ex-a-q5: gòṃbèyu heḻuva nītiya sārāṃśavenu?

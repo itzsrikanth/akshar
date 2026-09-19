@@ -1,0 +1,31 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  poem: padya
+  author: kṛtikārara paricaya
+  exercise-A: a. kòṭṭiruva praśnègaḻigè uttarisi.
+poem-s1l1: nanna dehada būdi - gāḻiyali tūribiḍi,
+poem-s1l2: 'hogi bīḻali bhatta bèḻèyuvalli:'
+poem-s1l3: būdi-gòbbaradiṃda tènèyòṃdu nègèdubarè,
+poem-s1l4: dhanyavāyitu huṭṭu sāvinalli
+poem-s2l1: nanna dehada būdi-hòḻèyalli hariya biḍi
+poem-s2l2: teli bīḻali mīna bāyiyalli;
+poem-s2l3: muṣṭi būdiya tiṃdu - puṣṭavāgalu mīnu
+poem-s2l4: dhanyavāyitu huṭṭu sāvinalli
+poem-s3l1: nanna dehada būdi-kòḻadalli bīgi biḍi
+poem-s3l2: tāvarèyu dinadinavū araḻuvalli;
+poem-s3l3: būdi kèsaranu kūḍi hòsa paṃkajavu mūḍè,
+poem-s3l4: dhanyavāyitu huṭṭu sāvinalli
+poem-s4l1: sattamelādarū deha sevègè nilali,
+poem-s4l2: iṃdigī narajanma sevèyèṃdu
+poem-s4l3: tanna svārthava nènèdu vyarthavāgidè deha,
+poem-s4l4: nijasevè gaiyalikè barali muṃdu.
+author-1: hòsagannaḍa sāhityadalli cuṭuku brahmanèṃdu prakhyātarādavaru dinakara desāyiyavaru (1909). uttara kannaḍa jillèya aṃkola tāllūkina alageri èṃba puṭṭa haḻḻiyavaru. taṃdè dattātreya desāyi śālā māstaru. tāyi aṃbikā. maisūrinalli bi.è. padaviyannu paḍèda ivaru muṃbaina saiṃṭ jheviyar kālejinalli èṃ.è. padaviyannu paḍèdaru. vividha saṃghaṭanègaḻa saṃghaṭakarāgi, patrikā varadigārarāgi, saṃsadarāgi duḍidu navèṃbar 6, 1982 ralli ihaloka tyajisidaru. ivara pramukha kṛtigaḻu hūgòṃcalu, taruṇara dasarè, kaḍala kannaḍa, dinakarana caupadi, nākaṃḍa paḍuvaṇa (pravāsa sāhitya) hīgè 12 kṛtigaḻannu racisiddārè. ivara dinakarana caupadi kṛtigè karnāṭaka sāhitya akāḍèmi puraskāra dòrètidè.
+ex-a-q1: gāḻiyalli būdiyannu tūridāga èlli bīḻuttadè?
+ex-a-q2: būdiyannu hòḻèyalli hariyabiṭṭāga yārigè siguttadè?
+ex-a-q3: deha ekè vyarthavāgidè?
+ex-a-q4: būdiyannu kòḻadalli biḍuvudariṃda baduku dhanyavāguvudu hegè? vivarisi.
+ex-a-q5: sārthaka padyada yāva aṃśagaḻannu nīvu mèccuviri?

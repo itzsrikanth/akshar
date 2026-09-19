@@ -1,0 +1,67 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  competency: kauśala / sāmarthya / āśaya
+  author: kṛtikārara paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. kòṭṭiruva praśnègaḻigè uttarisi.
+intro-1: rājuvina manèyalli òṃdu paṃjara, ā paṃjaradalli òṃdu puṭṭa giḻi. ā giḻi manèyavarigèlla accu mèccu. kèlavu dinagaḻa anaṃtara giḻi sariyāgi kāḻu tinnuttilla, lavalavikèyiṃda illa èṃdu rājuvigè tuṃbā besaravāytu. adannu tanna manèya pakkadallidda paśu vaidyarigè heḻida. avaru baṃdu giḻiyannu parīkṣè māḍi heḻidaru “idakkè yāva rogavū illa baṃdhanave roga idannu paṃjaradiṃda hòragè biṭṭarè tanna itara giḻigaḻannu kūḍikòṃḍu saṃtoṣadiṃda iruttadè. giḍamaragaḻiruva jāgadalli idannu biṭṭu banni èṃdaru’’ rāju hāge māḍida. baṃdhanadiṃda biḍugaḍègòṃḍa giḻi purrèṃdu hāri hoyitu. rājuvigū adannu noḍi saṃtoṣavāyitu. nannannu nanna manèyiṃda dūramāḍi giḻiyaṃtè baṃdhanadalliṭṭiddarè enāgabahudittu èṃdu rāju yocisatòḍagida.
+poem-s1l1: nirbhīta nirmukta manavu tānèllihudu;
+poem-s1l2: abhimānadhanavènipa mastakavadu
+poem-s1l3: jaggadèyè kuggadèyè taggadèyè baggadèyè
+poem-s1l4: melmògadi nīṭāgi niṃdiruvudu;-
+poem-s1l5: alli ā svātaṃtrya -svargadali, o taṃdè!
+poem-s1l6: eḻalai bāḻalai nāḍèmmadu!
+poem-s2l1: arivu tān sarvasvataṃtravāgalihudu;
+poem-s2l2: saṃkucitatana manovṛttiyaḻidu
+poem-s2l3: viśvavèṃbuvudèlla hoḻu hoḻāgadèyè
+poem-s2l4: òṃdāgi cèṃdāgi bāḻutihudu;-
+poem-s2l5: alli ā svātaṃtrya - svargadali, o taṃdè!
+poem-s2l6: eḻalai bāḻalai nāḍèmmadu!
+poem-s3l1: nannitanadāḻadiṃdèlli nuḍi hòrabahudu;
+poem-s3l2: duḍimèyèṃbuvudèlli muṃduvaridu,
+poem-s3l3: daṇivannu ariyadèyè daṇiviṃgè maṇiyadèyè,
+poem-s3l4: pūrṇatègè tanna kaicācutihudu;-
+poem-s3l5: alli ā svātaṃtrya -svargadali, o taṃdè!
+poem-s3l6: eḻalai bāḻalai nāḍèmmadu!
+poem-s4l1: saṃpradāyadaniṣṭa rūḍhi-niyamagaḻèṃba
+poem-s4l2: nirjanada marubhūmi harahinalli
+poem-s4l3: suvicāravèṃdèṃba pariśuddha vāhiniyu
+poem-s4l4: harigaḍiyadèyè muṃduvariyuvalli;-
+poem-s4l5: alli ā svātaṃtrya -svargadali, o taṃdè!
+poem-s4l6: eḻalai bāḻalai nāḍèmmadu!
+poem-s5l1: nitya vaiśālyavaha naḍè-nuḍigaḻiṃdāgi
+poem-s5l2: manavaraḻi tānalli muṃdarivudu,
+poem-s5l3: ninnòlavu, ninna dayè, ninna kṛpèyiṃdāgi
+poem-s5l4: ninnannè dhruvatārèyèṃdarivudu;-
+poem-s5l5: alli ā svātaṃtrya -svargadali, o taṃdè!
+poem-s5l6: eḻalai bāḻalai nāḍèmmadu!
+competency: 'kauśala: ālisuvudu. sāmarthya: kavitè, kathè, nāṭaka, prabaṃdha, prahasana ivugaḻannu ālisi arthamāḍikòḻḻuvudu. āśaya: ‘svātaṃtryave svarga’ èṃba mātidè. ā svātaṃtrya èṃtaha svargavāgabeku èṃbudu praśnè. adu svecchèya svargavalla. alli hèdarikè iruvudilla, nāvu namma baggè, nammavara baggè, namma nāḍina baggè hèmmèyiṃda talèyètti naḍèyuvaṃtirabeku. èllarū òṃdu èṃba bhāvanèyirabeku. saṃtasada duḍimèyāgabeku. òḻḻè vicāragaḻu namma manassigè haridu baruvaṃtirabeku, jīvaprītigè alli avakāśa virabeku. aṃtaha svātaṃtryave svarga.'
+author-1: ḍā. èṃ. akabara ali avaru 1925ra mārc 3raṃdu bèḻagāvi jillè, hukkeri tāllūkina uḻḻāgaḍḍi khānāpuradalli janisidaru. bèḻagāvi, sāṃgli hāgū puṇègaḻalli tamma vidyābhyāsa naḍèsidaru. maisūrina aṃcè mattu tèrapina śikṣaṇa saṃsthè (iṃdina karnāṭaka mukta viśvavidyānilaya)yalli prādhyāpakarāgi nivṛttarāgiddārè. ḍā akabara aliyavaru ‘viṣasiṃdhu’ èṃba aṣṭa ṣaṭpadigaḻa saṃgrahavannū, ‘navacetana’ ‘gaṃdhakeśara’, ‘sumanasaurabha’ èṃba kavana saṃgrahagaḻannū, ‘avva’ èṃba cuṭukugaḻa saṃgrahavannū, ‘nirīkṣèyalli’ èṃba kādaṃbariyannū racisiruvaru. 1989riṃda karnāṭaka vidhāna pariṣat sadasyarāgiddaru. ivarigè karnāṭaka sāhitya akāḍami praśasti labhisidè. ī kavanavannu avara ‘tamasānadi - èḍabaladi’ èṃba kavana saṃkalanadiṃda ārisalāgidè.
+vocab-nirbhita: nirbhīta
+vocab-nirbhita-def: bhayavillada
+vocab-mastaka: mastaka
+vocab-mastaka-def: talè
+vocab-holu: hoḻu
+vocab-holu-def: tuṃḍu
+vocab-haraha: haraha
+vocab-haraha-def: vistāra
+vocab-vahini: vāhini
+vocab-vahini-def: nadi
+vocab-harigadiyade: harigaḍiyadè
+vocab-harigadiyade-def: hariyuvikèyu nilladè
+vocab-vaishalya: vaiśālya
+vocab-vaishalya-def: viśālatè
+vocab-dhruvatara: dhruvatārè
+vocab-dhruvatara-def: dhruvanakṣatra (sthiravāda lakṣya)
+vocab-nirmukta: nirmukta
+vocab-nirmukta-def: sarvasvataṃtra
+ex-a-q1: svātaṃtrya svargadali abhimānadhanavènipa mastakavu hegiruttadè?
+ex-a-q2: kaviyu bāḻu hegirabekèṃdu āśisiddārè?
+ex-a-q3: kaviyu saṃpradāyada aniṣṭa rūḍhi niyamagaḻannu enèṃdu karèyuttārè?
+ex-a-q4: dhruvatārè èṃdu kavi yārannu karèyuttārè?

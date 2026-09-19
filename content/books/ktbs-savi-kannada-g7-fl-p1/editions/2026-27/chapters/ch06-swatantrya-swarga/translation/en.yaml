@@ -1,0 +1,124 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  poem: 'Poem'
+  competency: 'Skill / ability / intent'
+  author: 'About the author'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the given questions.'
+
+intro-1: 'In Raju’s house a cage, in that cage a little parrot. That parrot was the darling of the whole household. After some days the parrot was not eating grain properly and was not lively, and Raju was very upset. He told the veterinary doctor next door. He came, examined the parrot and said, “It has no disease; bondage itself is the disease. If you let it out of the cage it will join its other parrots and live happily. Leave it where there are trees and come.” Raju did so. Freed from bondage the parrot flew off with a whir. Seeing it Raju too was happy. He began to think what would have happened if he himself had been kept in bondage like the parrot away from home.'
+
+poem-s1l1: 'Where is the fearless free mind;'
+
+poem-s1l2: 'That head which is the wealth of pride'
+
+poem-s1l3: 'Without shrinking, without drooping, without lowering, without bowing'
+
+poem-s1l4: 'Stands upright facing upward;-'
+
+poem-s1l5: 'There in that freedom-heaven, O Father!'
+
+poem-s1l6: 'Rise, live—our land!'
+
+poem-s2l1: 'Where awareness itself remains wholly free;'
+
+poem-s2l2: 'Narrowness of mind having vanished'
+
+poem-s2l3: 'The whole called world without splitting into pieces'
+
+poem-s2l4: 'Lives as one and beautifully;-'
+
+poem-s2l5: 'There in that freedom-heaven, O Father!'
+
+poem-s2l6: 'Rise, live—our land!'
+
+poem-s3l1: 'Where speech can come from the depth of selfhood;'
+
+poem-s3l2: 'Where work called labour advances,'
+
+poem-s3l3: 'Without knowing fatigue, without yielding to fatigue,'
+
+poem-s3l4: 'Reaches its hand toward completeness;-'
+
+poem-s3l5: 'There in that freedom-heaven, O Father!'
+
+poem-s3l6: 'Rise, live—our land!'
+
+poem-s4l1: 'In the expanse of the deserted desert'
+
+poem-s4l2: 'Called tradition’s harmful custom-rules'
+
+poem-s4l3: 'Where the pure stream called good thought'
+
+poem-s4l4: 'Goes on without ceasing to flow;-'
+
+poem-s4l5: 'There in that freedom-heaven, O Father!'
+
+poem-s4l6: 'Rise, live—our land!'
+
+poem-s5l1: 'From daily spacious walk and speech'
+
+poem-s5l2: 'The mind blossoms and knows further there,'
+
+poem-s5l3: 'From your love, your mercy, your grace'
+
+poem-s5l4: 'Knows you alone as the pole star;-'
+
+poem-s5l5: 'There in that freedom-heaven, O Father!'
+
+poem-s5l6: 'Rise, live—our land!'
+
+competency: 'Skill: listening. Ability: listening to poem, story, play, essay, farce and understanding. Intent: There is a saying ‘freedom itself is heaven’. The question is what kind of heaven that freedom should be. It is not a heaven of license. There should be no fear; we should walk with head held high in pride about ourselves, our people and our land. There should be a feeling that all are one. There should be joyful work. Good thoughts should flow into our minds; there should be room for love of life. Such freedom alone is heaven.'
+
+author-1: 'Dr M. Akbar Ali was born on 3 March 1925 at Ullagaddi Khanapur, Hukkeri taluk, Belagavi district. He studied in Belagavi, Sangli and Pune. He retired as professor at Mysore’s correspondence education institute (today’s Karnataka State Open University). He composed Vishasindhu, Navachetana, Gandhakeshara, Sumanasaurabha, Avva, and the novel Niriksheyalli. From 1989 he was a member of the Karnataka Legislative Council. He received the Karnataka Sahitya Academy award. This poem is selected from his collection Tamasaanadi - Edabaladi.'
+
+vocab-nirbhita: 'ನಿರ್ಭೀತ'
+
+vocab-nirbhita-def: 'without fear'
+
+vocab-mastaka: 'ಮಸ್ತಕ'
+
+vocab-mastaka-def: 'head'
+
+vocab-holu: 'ಹೋಳು'
+
+vocab-holu-def: 'piece, fragment'
+
+vocab-haraha: 'ಹರಹ'
+
+vocab-haraha-def: 'expanse'
+
+vocab-vahini: 'ವಾಹಿನಿ'
+
+vocab-vahini-def: 'river'
+
+vocab-harigadiyade: 'ಹರಿಗಡಿಯದೆ'
+
+vocab-harigadiyade-def: 'without the flow stopping'
+
+vocab-vaishalya: 'ವೈಶಾಲ್ಯ'
+
+vocab-vaishalya-def: 'vastness'
+
+vocab-dhruvatara: 'ಧ್ರುವತಾರೆ'
+
+vocab-dhruvatara-def: 'pole star (a fixed aim)'
+
+vocab-nirmukta: 'ನಿರ್ಮುಕ್ತ'
+
+vocab-nirmukta-def: 'completely free'
+
+ex-a-q1: 'In freedom-heaven how does the head that is wealth of pride stand?'
+
+ex-a-q2: 'How does the poet wish life should be?'
+
+ex-a-q3: 'What does the poet call tradition’s harmful customs and rules?'
+
+ex-a-q4: 'Whom does the poet call the pole star?'

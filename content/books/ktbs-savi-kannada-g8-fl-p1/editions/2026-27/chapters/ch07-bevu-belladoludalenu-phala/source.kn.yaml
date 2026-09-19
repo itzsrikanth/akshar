@@ -1,0 +1,194 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 8
+  subject: Kannada
+  chapter: 7
+  slug: ch07-bevu-belladoludalenu-phala
+  title: ಬೇವೂ ಬೆಲ್ಲದೊಳುದಲೆನು ಫಲ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಪುರಂದರದಾಸರು
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  ashaya: ಆಶಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಮೂರು-ನಾಲ್ಕು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಿಗೆ ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ಬರೆಯಿರಿ.
+  exercise-D: ಈ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎಂಟು ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಂಪರೆಯಲ್ಲಿ 15-16ನೆಯ ಶತಮಾನದಲ್ಲಿ ಜ್ಞಾನ ಮತ್ತು ಭಕ್ತಿಯ ಮೂಲಕ ಮುಕ್ತಿಯನ್ನು ಕಾಣಬಯಸಿ, ವಿಷ್ಣುವನ್ನು ಆರಾಧ್ಯ ದೈವನನ್ನಾಗಿಸಿಕೊಂಡು, ಆಧ್ಯಾತ್ಮಿಕ, ಧಾರ್ಮಿಕ, ಸಾಮಾಜಿಕ, ಸಾಂಸ್ಕೃತಿಕ ಸುಧಾರಣೆಗಾಗಿ ಶ್ರಮಿಸಿದ ಸಾಹಿತ್ಯ ಪ್ರಕಾರವೇ ದಾಸ ಸಾಹಿತ್ಯ. ದಾಸ ಸಾಹಿತ್ಯವನ್ನು ದಾಸವಾಙ್ಮಯ, ಹರಿದಾಸ ಸಾಹಿತ್ಯವೆಂತಲೂ ಕರೆಯುತ್ತಾರೆ. ‘ದಾಸ’ ಎಂದರೆ ‘ಸೇವಕ’ ಎಂದರ್ಥ. ಶ್ರೀಹರಿಯಲ್ಲಿ ಭಕ್ತಿಯನ್ನಿಟ್ಟು, ಮನಸ್ಸನ್ನು ನಿರ್ಮಲಮಾಡಿಕೊಂಡು, ತ್ಯಾಗ ಜೀವನ ನಡೆಸುತ್ತಾ, ಹರಿನಾಮ ಜಪಿಸುತ್ತಾ ರಚಿಸಿದ ಸಾಹಿತ್ಯ ಇದಾಗಿದೆ.
+- id: intro-2
+  type: prose
+  section: intro
+  text: ಈ ಸಾಹಿತ್ಯ ಪ್ರಕಾರದಲ್ಲಿ ಬರುವ ನರಹರಿತೀರ್ಥರು, ಶ್ರೀಪಾದರಾಜರು, ವ್ಯಾಸರು, ವಿಜಯದಾಸರು, ಕನಕ - ಪುರಂದರದಾಸರು, ರಾಘವೇಂದ್ರತೀರ್ಥರೇ ಮೊದಲಾದವರು. ಭಕ್ತಿ-ಆಧ್ಯಾತ್ಮಿಕ ವಿಷಯಗಳನ್ನು ಸುಂದರ ಕಾವ್ಯವನ್ನಾಗಿಸುವ ಮೂಲಕ ಕೀರ್ತನೆಗಳು, ಉಗಾಭೋಗ, ಸುಳಾದಿ, ಮಂಡಿಗೆ ಮೊದಲಾದ ರಚನೆಗಳನ್ನು ರಚಿಸುವ ಮೂಲಕ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿದ್ದಾರೆ.
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಬೇವು ಬೆಲ್ಲದೊಳಿಡಲೇನು ಫಲ
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಹಾವಿಗೆ ಹಾಲೆರೆದರೇನು ಫಲ
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಕುಟಿಲವ ಬಿಡದಿಹ ಕುಜನರು ಮಂತ್ರವ
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಪಠನೆಯ ಮಾಡಿದರೇನು ಫಲ
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಸಟೆಯನ್ನಾಡುವ ಮನುಜರು ಮನದಲಿ
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ವಿಠಲನ ನೆನೆದರೇನು ಫಲ
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಮಾತಾ-ಪಿತರನು ಬಳಲಿಸುವಾತನು
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಯಾತ್ರೆಯ ಮಾಡಿದರೇನು ಫಲ
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಘಾತಕತನವನು ಬಿಡದೆ ನಿರಂತರ
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಗೀತೆಯನೋದಿದರೇನು ಫಲ
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಕಪಟತನದಲಿ ಕಾಡುವವರೆಲ್ಲರು
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಜಪಗಳ ಮಾಡಿದರೇನು ಫಲ
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಕುಪಿತಬುದ್ಧಿಯನು ಬಿಡದೆ ನಿರಂತರ
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಉಪವಾಸ ಮಾಡಿದರೇನು ಫಲ
+- id: poem-s5l1
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಹೀನಕೃತ್ಯಗಳ ಮಾಡುತ ನದಿಯಲಿ
+- id: poem-s5l2
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಸ್ನಾನವ ಮಾಡಿದರೇನು ಫಲ
+- id: poem-s5l3
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಶ್ರೀನಿಧಿ ಪುರಂದರವಿಠಲನ ನೆನೆಯದೆ
+- id: poem-s5l4
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಮೌನವ ಮಾಡಿದರೇನು ಫಲ
+- id: author-1
+  type: prose
+  section: author
+  text: "ಪುರಂದರದಾಸರು: ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಅಶ್ವಿನಿದೇವತೆಗಳಲ್ಲಿ ಒಬ್ಬರು. ಈಗಿನ ಮಹಾರಾಷ್ಟ್ರದ ಪುರಂದರಗಡದಲ್ಲಿ ಸಾ.ಶ. ಸುಮಾರು 1480 ರಲ್ಲಿ ಜನಿಸಿದರು. ಪೂರ್ವದ ಹೆಸರು ಶ್ರೀನಿವಾಸನಾಯಕ. ಆಭರಣ ವ್ಯಾಪಾರಿಯಾಗಿದ್ದ ಇವರು ಜೀವನದಲ್ಲಿ ನಡೆದ ಘಟನೆಯಿಂದಾಗಿ ವೈರಾಗ್ಯ ತಾಳಿದರು. ಹರಿಭಕ್ತರಾಗಿ ನೂರಾರು ಕೀರ್ತನೆಗಳನ್ನು ರಚಿಸಿದರು. ‘ದಾಸರೆಂದರೆ ಪುರಂದರದಾಸರಯ್ಯ’ ಎಂದು ತಮ್ಮ ಗುರುಗಳಾದ ವ್ಯಾಸರಾಯರಿಂದಲೇ ಹೊಗಳಿಕೆಗೆ ಪಾತ್ರರಾದರು. ಪುರಂದರದಾಸರು ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿಳ್ಳಾರಿ ಗೀತೆಗಳನ್ನು ರಚಿಸಿ ‘ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ’ ಎನಿಸಿಕೊಂಡರು. ಇವರ ಅಂಕಿತ ‘ಪುರಂದರವಿಠಲ.’"
+- id: ashaya-1
+  type: prose
+  section: ashaya
+  text: ಹುಟ್ಟುಗುಣ ಸುಟ್ಟರೂ ಹೋಗುವುದಿಲ್ಲ. ಯಾವುದೇ ಕೆಲಸ ನಿರ್ವಹಿಸಿದರೂ ಅದರಿಂದ ಫಲಾಫಲವನ್ನು ಅಪೇಕ್ಷಿಸಬಾರದು. ನಿರ್ಮಲ ಭಕ್ತಿ ಇಲ್ಲದಿದ್ದರೆ ಮಾಡಿದ ಕೆಲಸ ಕೂಡ ನಿಷ್ಫಲವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಪುರಂದರದಾಸರು ಸರಳ ಉದಾಹರಣೆಗಳ ಮೂಲಕ ಇಲ್ಲಿ ನಿರೂಪಿಸಿದ್ದಾರೆ.
+- id: vocab-kutila
+  type: vocabulary_term
+  text: ಕುಟಿಲ
+- id: vocab-kutila-def
+  type: vocabulary_definition
+  text: ಮೋಸ, ವಂಚನೆ
+- id: vocab-kujanaru
+  type: vocabulary_term
+  text: ಕುಜನರು
+- id: vocab-kujanaru-def
+  type: vocabulary_definition
+  text: ಕೆಟ್ಟ ಜನರು
+- id: vocab-kupita
+  type: vocabulary_term
+  text: ಕುಪಿತ
+- id: vocab-kupita-def
+  type: vocabulary_definition
+  text: ಸಿಟ್ಟಿನಿಂದ ಕೂಡಿದ
+- id: vocab-sate
+  type: vocabulary_term
+  text: ಸಟೆ
+- id: vocab-sate-def
+  type: vocabulary_definition
+  text: ಸುಳ್ಳು
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಪುರಂದರದಾಸರ ಅಂಕಿತ ಯಾವುದು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ‘ಜಪದ ಫಲ’ ನಮಗೆ ಸಿಗಬೇಕಾದರೆ ಯಾವುದನ್ನು ಬಿಡಬೇಕು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ಮಂತ್ರ ಪಠನೆಯ ಫಲ ಸಿಗಬೇಕೆಂದರೆ ಮನುಜ ಏನನ್ನು ಬಿಡಬೇಕು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಗೀತೆಯನ್ನು ಓದಿದಷ್ಟು ಫಲ ಯಾವಾಗ ದೊರೆಯುತ್ತದೆ?
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: ಯಾತ್ರೆ ಮಾಡುವುದು ಮತ್ತು ಗೀತೆಯನ್ನು ಓದಿದರೆ ದೊರೆಯುವ ಫಲವೇನು?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: ಜಪ ಹಾಗೂ ಉಪವಾಸ ವ್ರತಗಳ ಫಲ ಯಾವಾಗ ದೊರೆಯುವುದಿಲ್ಲ?
+- id: ex-c-q1
+  type: question
+  exercise: C
+  text: “ಮಂತ್ರವ ಪಠನೆಯ ಮಾಡಿದರೇನು ಫಲ”
+- id: ex-c-q2
+  type: question
+  exercise: C
+  text: “ಮಾತಾಪಿತರನು ಬಳಲಿಸುವಾತನು”
+- id: ex-c-q3
+  type: question
+  exercise: C
+  text: “ಸ್ನಾನವ ಮಾಡಿದರೇನು ಫಲ”
+- id: ex-d-q1
+  type: question
+  exercise: D
+  text: ಪುರಂದರ ದಾಸರ ದೃಷ್ಟಿಯಲ್ಲಿ ನಮ್ಮ ಶ್ರಮಕ್ಕೆ ಫಲ ದೊರೆಯುವುದು ಯಾವಾಗ? ವಿವರಿಸಿ.

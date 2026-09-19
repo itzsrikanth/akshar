@@ -1,0 +1,19 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: प्रवेश
+  story: कहानी
+  author: कृतिकार परिचय
+  ashaya: आशय
+  vocab: शब्दार्थ
+  exercise-A: अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-B: आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-C: इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-D: ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+intro-1: कन्नड़ साहित्य में नाटक एक प्रकार है। इस नाटक में कपिलवस्तु के राजकुमार सिद्धार्थ के राज्यत्याग और उनकी पत्नी यशोधरा के मानसिक द्वंद्व को चित्रित किया गया है।
+story-d1: अम्माजी, मैं आया हूँ।
+ex-a-q1: यशोधरा राजा से किसे एक बार फिर देने को कहती है?

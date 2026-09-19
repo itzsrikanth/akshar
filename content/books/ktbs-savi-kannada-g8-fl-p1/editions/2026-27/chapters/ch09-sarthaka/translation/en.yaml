@@ -1,0 +1,32 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  poem: Poem
+  author: About the author
+  exercise-A: A. Answer the following questions.
+poem-s1l1: Scatter the ash of my body in the wind,
+poem-s1l2: 'Let it fall where paddy grows:'
+poem-s1l3: When from ash-manure an ear of grain springs up,
+poem-s1l4: Birth is blessed even in death
+poem-s2l1: Let the ash of my body flow in the stream
+poem-s2l2: Let it float into a fish's mouth;
+poem-s2l3: When the fish eats a fistful of ash and grows strong
+poem-s2l4: Birth is blessed even in death
+poem-s3l1: Let the ash of my body settle in the pond
+poem-s3l2: Where the lotus blossoms day by day;
+poem-s3l3: When ash mixes with mud and a new lotus appears,
+poem-s3l4: Birth is blessed even in death
+poem-s4l1: Even after death let the body stand for service,
+poem-s4l2: This human birth is for service today
+poem-s4l3: Remembering its selfishness the body has become useless,
+poem-s4l4: May true service come forward to be done.
+author-1: Dinakara Desai (1909), famed as the master of short verse in modern Kannada literature, was from Alageri village in Ankola taluk of Uttara Kannada. He earned a B.A. in Mysore and an M.A. at St. Xavier's College, Mumbai. He worked as an organiser, journalist and parliamentarian, and passed away on 6 November 1982. Among about twelve works are Hoogonchalu, Tarunara Dasara, Kadala Kannada and Dinakarana Chaupadi, which received a Karnataka Sahitya Akademi award.
+ex-a-q1: Where does the ash fall when scattered in the wind?
+ex-a-q2: When ash is released in the stream, who receives it?
+ex-a-q3: Why has the body become useless?
+ex-a-q4: How does life become blessed by leaving ash in the pond? Explain.
+ex-a-q5: Which aspects of the poem Sarthaka do you admire?

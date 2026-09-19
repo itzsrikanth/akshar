@@ -1,0 +1,19 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  story: Story
+  author: About the author
+  ashaya: Theme
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+intro-1: Among Kannada literary forms, drama is one. 'Among poems, drama is delightful.' Acting, scenery, dialogue and music captivate the audience. Historical plays introduce great figures and reflect social systems of their time. In this spirit the play portrays prince Siddhartha of Kapilavastu leaving the kingdom by night to become the Buddha, and the fear, anxiety and turmoil of his wife Yashodhara.
+story-d1: Mother, I have come.
+ex-a-q1: Whom does Yashodhara beg the king to give once more?

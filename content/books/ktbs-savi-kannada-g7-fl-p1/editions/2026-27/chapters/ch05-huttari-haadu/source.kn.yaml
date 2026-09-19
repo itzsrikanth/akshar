@@ -1,0 +1,321 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 5
+  slug: ch05-huttari-haadu
+  title: ಹುತ್ತರಿ ಹಾಡು
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಪಂಜೆ ಮಂಗೇಶರಾವ್
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  competency: ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: "ಕೊಡವರ ಹಾಗೂ ಕೊಡಗಿನ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಹುತ್ತರಿ ಹಾಡು ಒಂದು. ಕೊಡವರು ಸುಗ್ಗಿಯ ಹಬ್ಬದ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಹಾಡು ಇದಾಗಿದೆ. ಇದು ಕೊಡಗಿನ ಪ್ರಾಕೃತಿಕ ಸೌಂದರ್ಯವನ್ನು, ವೀರಶ್ರೀಯನ್ನು ವರ್ಣಿಸುವುದು. ಕೊಡಗಿನ ಸಂಸ್ಕೃತಿ, ಸಂಪ್ರದಾಯದ ಲೇಪನ ಹಾಗೂ ಜನಪದ ಹಿನ್ನೆಲೆಯನ್ನು ಇದು ಒಳಗೊಂಡಿದೆ."
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಎಲ್ಲಿ ಭೂರಮೆ ದೇವ ಸನ್ನಿಧಿ ಬಯಸಿ ಬಿಮ್ಮನೆ ಬಂದಳೋ?
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಎಲ್ಲಿ ಮೋಹನ ಗಿರಿಯ ಬೆರಗಿನ ರೂಪಿನಿಂದಲಿ ನಿಂದಳೋ?
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಎಲ್ಲಿ ಮುಗಿಲಲಿ ಮಿಂಚಿನೋಲ್ ಕಾವೇರಿ ಹೊಳೆ ಹೊಳೆ ಹೊಳೆವಳೋ?
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಎಲ್ಲಿ ನೆಲವನು ತಣಿಸಿ ಜನಮನ ಹೊಲದ ಕಳೆಕಳೆ ಕಳೆವಳೋ?
+- id: poem-s1l5
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಅಲ್ಲೆ ಆ ಕಡೆ ನೋಡಲಾ!"
+- id: poem-s1l6
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಅಲ್ಲೆ ಕೊಡಗರ ನಾಡಲಾ
+- id: poem-s1l7
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಅಲ್ಲೆ ಕೊಡವರ ಬೀಡಲಾ!"
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಸವಿದು ಮೆದ್ದರೊ ಯಾರು ಪೂರ್ವದಿ ಹುಲಿಯ ಹಾಲಿನ ಮೇವನು?
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಕವಣೆ ತಿರಿಕಲ್ಲಾಟ ಹಗ್ಗಕೆ ಸೆಳೆದರೋ ಹೆಬ್ಬಾವನು?
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಸವರಿ ಆನೆಯ ಸೊಂಡಲಿನ ರಣಕೊಂಬನಾರ್ ಭೋರ್ಗರೆದರೋ?
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಸವೆದು ಸವೆಯದ ಸಾಹಸತ್ವದ ಕ್ಷಾತ್ರ ಬೇಟೆಯ ಮೆರೆದರೋ?
+- id: poem-s2l5
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ಅವರು ಸೋಲ್ ಸಾವರಿಯರು!"
+- id: poem-s2l6
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ಅವರು ಕಡುಗಲಿ ಗರಿಯರು!"
+- id: poem-s2l7
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: "ಅವರೆ ಕೊಡಗಿನ ಹಿರಿಯರು!"
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ತಮ್ಮ ನಾಡಿನ ಕೊರಳು ದಾಸ್ಯದ ನೊಗದ ಭಾರಕೆ ಬಗ್ಗದೋಲ್
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಹೆಮ್ಮೆಹಗೆಗಳ ಹೊಡೆದು ಹಿರಿಯರು ಹಸಿದು ಹಾರುವ ಬಗ್ಗದೋಲ್
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಬೊಮ್ಮಗಿರಿಯಿಂ ಪುಷ್ಪಗಿರಿ ಪರ್ಯಂತ ಬೆಳೆದೀ ದೇಶವು
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಧರ್ಮದಾನವ ಕಟ್ಟು ಕಟ್ಟಳೆ ರೀತಿ ನೀತಿಯ ಕೋಶವು
+- id: poem-s3l5
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನಮ್ಮ ಕೊಡಗಿದು ಜಮ್ಮದು;
+- id: poem-s3l6
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಜಮ್ಮ ಕೊಡಗಿದು ನಮ್ಮದು;
+- id: poem-s3l7
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: "ನಮ್ಮೊಡಲ್ ಬಿಡಲಮ್ಮದು !"
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಇದು ಅಗಸ್ತ್ಯನ ತಪದ ಮನೆ, ಕಾವೇರಿ ತಾಯ ತವರ್ಮನೆ,"
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಕದನ ಸಿರಿಗುಯ್ಯಾಲೆ ತೂಗಿದನಿಲ್ಲಿ ಚಂದರವರ್ಮನೆ!"
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಇದಕೊ! ಚೆಂಗಾಳ್ವರಸರಾಡಂಬರವು ಕುಣಿದ ಶ್ರೀರಂಗವು"
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಇದೊ! ಇದೊ! ಇಲ್ಲರುಳ್ದ ಹಾಲೇರಿಯರ ಬಲಗಿರಿಶೃಂಗವು"
+- id: poem-s4l5
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ವಿಧಿಯ ಮಾಟದ ಕೊಡಗಿದು
+- id: poem-s4l6
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: "ಮೊದಲೆ ನಮ್ಮದು, ಕಡೆಗಿದು"
+- id: poem-s4l7
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಕದಲದೆಮ್ಮನು; ಬೆಡಗಿದು.
+- id: poem-s5l1
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಒಮ್ಮತವು ಒಗ್ಗಟ್ಟು ಒಂದೇ ಮನವು ಎಲ್ಲಿದೆ ಹೇಳಿರಿ?
+- id: poem-s5l2
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: "ಸುಮ್ಮನಿತ್ತರೊ ದಟ್ಟಿಕುಪ್ಪಸ? ಹಾಡುಹುತ್ತರಿಗೇಳಿರಿ!"
+- id: poem-s5l3
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: "ಚಿಮ್ಮಿ ಪಾತುರೆಕೋಲ ಹೊಯ್ಲಿಗೆ ಕುಣಿವ ಪದ ಹೊರ ಹೊಮ್ಮಲಿ!"
+- id: poem-s5l4
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: "ಅಮ್ಮೆ ಹರಸಿದ ಸೀಮೆ ನಮಗಿದು ಇರಲಿ ನಮ್ಮದೆ ನಮ್ಮಲಿ!"
+- id: poem-s5l5
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ನೆಮ್ಮದಿಯನಿದು ತಾಳಲಿ
+- id: poem-s5l6
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ಅಮ್ಮೆಯಾ ಬಲತೋಳಲಿ
+- id: poem-s5l7
+  type: poem_line
+  section: poem
+  stanza: 5
+  text: ನಮ್ಮ ಕೊಡಗಿದು ಬಾಳಲಿ
+- id: competency
+  type: competency
+  section: competency
+  text: "ಕೌಶಲ: ಮಾತನಾಡುವುದು. ಸಾಮರ್ಥ್ಯ: ಸನ್ನಿವೇಶ ಘಟನೆಗಳನ್ನು ವಿವರಿಸುವುದು."
+- id: author-1
+  type: prose
+  section: author
+  text: "ಶ್ರೀ ಪಂಜೆ ಮಂಗೇಶರಾವ್: ‘ಕವಿಶಿಷ್ಯ’ ಎಂಬ ಕಾವ್ಯನಾಮದಿಂದ ಪ್ರಸಿದ್ಧರಾದ ಶ್ರೀ ಪಂಜೆ ಮಂಗೇಶರಾವ್ ಅವರು ಸಾ. ಶ. 1874 ರಲ್ಲಿ ದಕ್ಷಿಣ ಕನ್ನಡ ಜಿಲ್ಲೆ ಬಂಟ್ವಾಳದಲ್ಲಿ ಜನಿಸಿದರು. ಮಕ್ಕಳ ಕವಿತೆಗಳ ಕಣ್ಮಣಿ ಎಂದು ಪ್ರಸಿದ್ಧರಾದ ಇವರು ಹುತ್ತರಿಯ ಹಾಡು, ನಾಗರ ಹಾವೇ, ಕೋಟಿ ಚೆನ್ನಯ್ಯ, ಗುಡುಗುಡು ಗುಮ್ಮಟ ದೇವರು, ಮಾತಾಡೋ ರಾಮಪ್ಪ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರು ಸಾ. ಶ. 1934 ರಲ್ಲಿ ನಡೆದ 20 ನೆಯ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು."
+- id: vocab-odal
+  type: vocabulary_term
+  section: vocab
+  text: ಒಡಲ್
+- id: vocab-odal-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಶರೀರ, ದೇಹ"
+- id: vocab-kadugali
+  type: vocabulary_term
+  section: vocab
+  text: ಕಡುಗಲಿ
+- id: vocab-kadugali-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಮಹಾಶೂರ
+- id: vocab-kshatra
+  type: vocabulary_term
+  section: vocab
+  text: ಕ್ಷಾತ್ರ
+- id: vocab-kshatra-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಕ್ಷತ್ರಿಯ ಕುಲ, ಕ್ಷತ್ರಿಯನ ತೇಜಸ್ಸು"
+- id: vocab-gariyaru
+  type: vocabulary_term
+  section: vocab
+  text: ಗರಿಯರು
+- id: vocab-gariyaru-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹಿರಿಮೆಯುಳ್ಳವರು
+- id: vocab-jammadu
+  type: vocabulary_term
+  section: vocab
+  text: ಜಮ್ಮದು
+- id: vocab-jammadu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಅರಸನು ಇನಾಮಾಗಿ ಕೊಟ್ಟ ಭೂಮಿ
+- id: vocab-dattikuppas
+  type: vocabulary_term
+  section: vocab
+  text: ದಟ್ಟಿಕುಪ್ಪಸ
+- id: vocab-dattikuppas-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಸೊಂಟಕ್ಕೆ ಕಟ್ಟುವ ವಸ್ತ್ರ
+- id: vocab-bagga
+  type: vocabulary_term
+  section: vocab
+  text: ಬಗ್ಗ
+- id: vocab-bagga-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಹುಲಿ, ವ್ಯಾಘ್ರ"
+- id: vocab-bimmane
+  type: vocabulary_term
+  section: vocab
+  text: ಬಿಮ್ಮನೆ
+- id: vocab-bimmane-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ವೇಗವಾಗಿ, ಸುಮ್ಮನೆ"
+- id: vocab-bhurame
+  type: vocabulary_term
+  section: vocab
+  text: ಭೂರಮೆ
+- id: vocab-bhurame-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಭೂದೇವಿ
+- id: vocab-huttari
+  type: vocabulary_term
+  section: vocab
+  text: ಹುತ್ತರಿ
+- id: vocab-huttari-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಕೊಡಗರು ಹೊಸ ಅಕ್ಕಿಯನ್ನು ಮನೆಗೆ ತರುವಾಗ ಆಚರಿಸುವ ಹಬ್ಬ, ಕೊಡಗಿನ ಸುಗ್ಗಿ ಹಬ್ಬ"
+- id: vocab-hoylu
+  type: vocabulary_term
+  section: vocab
+  text: ಹೊಯ್ಲು
+- id: vocab-hoylu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹೊಡೆತ
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಕಾವೇರಿಯು ಹೇಗೆ ಹೊಳೆಯುತ್ತಾಳೆ?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಸೋಲು ಸಾವರಿಯದವರು ಯಾರು?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಕೊಡಗು ಯಾವ ಗಿರಿಯಿಂದ ಯಾವ ಗಿರಿಯ ಪರ್ಯಂತ ಬೆಳೆದಿದೆ?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಕಾವೇರಿಯ ತವರ್ಮನೆ ಯಾವುದು?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಯಾವ ಹೊಯ್ಲಿಗೆ ಕುಣಿವ ಪದ ಹೊರ ಹೊಮ್ಮಬೇಕು?

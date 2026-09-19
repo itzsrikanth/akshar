@@ -1,0 +1,143 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  poem: 'Poem'
+  competency: 'Skill / ability / intent'
+  vocab: 'Word meanings'
+  notes: 'Notes'
+  exercise-A: 'A. Answer in one sentence.'
+  exercise-B: 'B. Answer in two or three sentences.'
+
+intro-1: 'Joy of Nada Habba at school. Discussion began among children about what entertainment programmes to give. Song, play, dance, farce—the list grew. Poornima’s group got the duty of dancing. When asked which dance, Shruti said folk dance. Aravind said let’s dance to a cinema song. But the others did not agree. We have all kinds of songs; village people composed them with love. There is lovely language. There is much meaning too. Nice to set to tune—such words were heard. Children practiced and presented a folk dance. Everyone appreciated its beauty. For many days the dance songs hummed in many mouths.'
+
+poem-s1l1: 'Fortunate bangle-seller, go and come to my maternal kin ||'
+
+poem-s1l2: 'What do I know of your maternal village'
+
+poem-s1l3: 'I don’t know, I have no aim, O girl'
+
+poem-s1l4: 'Come show the maternal village'
+
+poem-s2l1: 'Leave banana to the right, leave guava to the left'
+
+poem-s2l2: 'Go right through the middle, bangle-seller'
+
+poem-s2l3: 'There indeed is my maternal village|'
+
+poem-s2l4: 'Married woman, O girl, come show the maternal village'
+
+poem-s3l1: 'Oil-presses work, mills turn'
+
+poem-s3l2: 'Peacock and deer play, bangle-seller'
+
+poem-s3l3: 'That indeed appears my maternal village|'
+
+poem-s3l4: 'Married woman, O girl, come show the maternal village'
+
+poem-s4l1: 'See the tiled house, see the bronze door'
+
+poem-s4l2: 'See two shining parrots, bangle-seller'
+
+poem-s4l3: 'There indeed is my maternal village|'
+
+poem-s4l4: 'Married woman, O girl, come show the maternal village'
+
+poem-s5l1: 'In the married woman’s hut, putting a pearl canopy'
+
+poem-s5l2: 'In the very middle she plays pagade'
+
+poem-s5l3: 'She indeed appears—my birth mother|'
+
+poem-s5l4: 'Married woman, O girl, come show the maternal village'
+
+poem-s6l1: 'Deep red bangles, green-lined bangles'
+
+poem-s6l2: 'My birth mother greatly desires, bangle-seller'
+
+poem-s6l3: 'Take them to my maternal home|'
+
+poem-s6l4: 'Fortunate bangle-seller, go and come to my maternal kin'
+
+competency: 'Skill: speaking. Ability: speaking using proverbs, idioms and sayings. Intent: The bangle-seller goes village to village selling bangles. He knows dozens of villages and many people. In this song the girl who loves bangles for her mother and the questioning bangle-seller converse. The way the daughter describes the path to her mother’s house is lovely. There is a beautiful picture of village house and surroundings. The daughter has immense love for her maternal home.'
+
+vocab-tavaru: 'ತವರು'
+
+vocab-tavaru-def: 'mother''s home'
+
+vocab-bale: 'ಬಾಳೆ'
+
+vocab-bale-def: 'banana plant'
+
+vocab-sibe: 'ಸೀಬೆ'
+
+vocab-sibe-def: 'guava'
+
+vocab-muttaide: 'ಮುತ್ತೈದೆ'
+
+vocab-muttaide-def: 'married woman'
+
+vocab-kanchu: 'ಕಂಚು'
+
+vocab-kanchu-def: 'a metal'
+
+vocab-minchadu: 'ಮಿಂಚಾಡು'
+
+vocab-minchadu-def: 'to shine'
+
+vocab-gini: 'ಗಿಣಿ'
+
+vocab-gini-def: 'parrot'
+
+vocab-ale: 'ಆಲೆ'
+
+vocab-ale-def: 'machine for extracting sugarcane juice, mill'
+
+vocab-saranga: 'ಸಾರಂಗ'
+
+vocab-saranga-def: 'spotted deer'
+
+vocab-pagade: 'ಪಗಡೆ'
+
+vocab-pagade-def: 'a kind of game'
+
+vocab-nattanaduve: 'ನಟ್ಟ ನಡುವೆ'
+
+vocab-nattanaduve-def: 'in the middle'
+
+vocab-hatti: 'ಹಟ್ಟಿ'
+
+vocab-hatti-def: 'house'
+
+vocab-hadedavva: 'ಹಡೆದವ್ವ'
+
+vocab-hadedavva-def: 'birth mother'
+
+vocab-kondhogu: 'ಕೊಂಡ್ಹೋಗು'
+
+vocab-kondhogu-def: 'take away'
+
+note-janapada: 'ಜಾನಪದ'
+
+note-janapada-def: 'study related to the folk'
+
+note-janapada-samanya: 'ಜನಪದ'
+
+note-janapada-samanya-def: 'that which relates to common people'
+
+ex-a-q1: 'Where does the girl tell the bangle-seller to go and return from?'
+
+ex-a-q2: 'What is the mother’s house like?'
+
+ex-a-q3: 'What game does the mother play under the canopy?'
+
+ex-a-q4: 'What colour bangles does the birth-mother desire?'
+
+ex-b-q1: 'What are the landmarks to go to the maternal home?'
+
+ex-b-q2: 'How does the maternal home look?'

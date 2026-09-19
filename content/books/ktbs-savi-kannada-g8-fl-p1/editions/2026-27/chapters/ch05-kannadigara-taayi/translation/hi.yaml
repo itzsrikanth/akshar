@@ -1,0 +1,22 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: प्रवेश
+  poem: कविता
+  author: कृतिकार परिचय
+  ashaya: आशय
+  vocab: शब्दार्थ
+  notes: टिप्पणी
+  exercise-A: अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-B: आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-C: इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-D: ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-E: उ. संदर्भ सहित व्याख्या कीजिए।
+intro-1: विश्व की सभी भाषाओं में नाडु-नुडि पर अभिमान साहित्य में व्यक्त होता है। कर्नाटक एकीकरण के पहले कन्नड़ माता की स्तुति में लिखा यह काव्य उनमें एक है।
+poem-s1l1: आओ माता, मुख दिखाओ, कन्नड़ियों की माता!
+poem-s1l7: तन कन्नड़, मन कन्नड़, वाणी कन्नड़ — हमारे हैं।
+ex-a-q1: हम पर शासन कौन करती है?

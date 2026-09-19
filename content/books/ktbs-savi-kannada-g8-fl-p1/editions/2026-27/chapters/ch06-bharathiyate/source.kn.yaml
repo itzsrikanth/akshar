@@ -1,0 +1,285 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 8
+  subject: Kannada
+  chapter: 6
+  slug: ch06-bharathiyate
+  title: ಭಾರತೀಯತೆ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  ashaya: ಆಶಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು/ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗೆ ಎಂಟು/ಹತ್ತು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-D: ಈ. ಈ ಹೇಳಿಕೆಗಳಿಗೆ ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ.
+  exercise-E: ಉ. ಬಿಟ್ಟ ಸ್ಥಳ ತುಂಬಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾವ್ಯಪರಂಪರೆಯಲ್ಲಿ ನವೋದಯ, ನವ್ಯ, ಪ್ರಗತಿಶೀಲ, ಬಂಡಾಯ ಮತ್ತು ದಲಿತ ಎಂಬ ವಿವಿಧ ಮಜಲುಗಳಿವೆ. ನವೋದಯ ಕವಿತೆಗಳಲ್ಲಿ ಪ್ರಕೃತಿಯ ವರ್ಣನೆ, ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಹಿರಿಮೆಯನ್ನು ಕವಿಗಳು ತಮ್ಮ ಕವಿತೆಗಳಲ್ಲಿ ಅನಾವರಣಗೊಳಿಸುವುದು ಒಂದು ಮುಖ್ಯ ವಸ್ತುವಾಗಿದ್ದು, ಅದಕ್ಕೊಂದು ಉತ್ತಮ ಉದಾಹರಣೆ ಈ ಕವಿತೆಯಾಗಿದೆ.
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಆಕಾಶಕ್ಕೆದ್ದು ನಿಂತ ಪರ್ವತ ಹಿಮ ಮೌನದಲ್ಲಿ
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಕರಾವಳಿಗೆ ಮುತ್ತನಿಡುವ ಪೆರ್ದೆರೆಗಳ ಗಾನದಲ್ಲಿ
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಬಯಲ ತುಂಬ ಹಸಿರ ದೀಪ ಹಚ್ಚಿ ಹರಿವ ನದಿಗಳಲ್ಲಿ
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ನೀಲಿಯಲ್ಲಿ ಹೊಗೆಯ ಚೆಲ್ಲಿ ಯಂತ್ರಘೋಷವೇಳುವಲ್ಲಿ
+- id: poem-s1l5
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಕಣ್ಣು ಬೇರೆ, ನೋಟವೊಂದು-
+- id: poem-s1l6
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ನಾವು ಭಾರತೀಯರು.
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಾಡಿನೆಲ್ಲ ಗಡಿಗಳಲ್ಲಿ ಬಾನಿನಲ್ಲಿ ಕಡಲಿನಲ್ಲಿ
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಮ್ಮ ಯೋಧರೆತ್ತಿ ಹಿಡಿದ ನಮ್ಮ ಧ್ವಜದ ನೆರಳಿನಲ್ಲಿ
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಒಂದೆ ನೆಲದ ತೊಟ್ಟಿಲಲ್ಲಿ ಬೆಳೆದ ನಮ್ಮ ಕೊರಳಿನಲ್ಲಿ
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಮ್ಮ ಯುಗದ ದನಿಗಳಾಗಿ ಮೂಡಿದೆಲ್ಲ ಹಾಡಿನಲ್ಲಿ
+- id: poem-s2l5
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಭಾಷೆ ಬೇರೆ, ಭಾವವೊಂದು-
+- id: poem-s2l6
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಾವು ಭಾರತೀಯರು.
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನಾಡಿಗಾಗಿ ತನುವ ತೆತ್ತ ಹುತಾತ್ಮರ ಸ್ಮರಣೆಯಲ್ಲಿ
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನಮ್ಮ ಕಷ್ಟದಲ್ಲು ನೆರೆಗೆ ನೆರಳನೀವ ಕರುಣೆಯಲ್ಲಿ
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ದಾರಿ ಬಳಸಿ ಏರುವಲ್ಲಿ ಬಿರುಗಾಳಿಯೆ ಮೊಳಗುವಲ್ಲಿ
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನಮ್ಮ ಗುರಿಯ ಬೆಳಕಿನೆಡೆಗೆ ನಡೆವ ಧೀರ ಪಯಣದಲ್ಲಿ
+- id: poem-s3l5
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಎಲ್ಲೆ ಇರಲಿ, ನಾವು ಒಂದು-
+- id: poem-s3l6
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನಾವು ಭಾರತೀಯರು.
+- id: author-1
+  type: prose
+  section: author
+  text: ಆಧುನಿಕ ಕಾವ್ಯ ಸಂದರ್ಭದ ಪ್ರಮುಖ ಕವಿಗಳಲ್ಲಿ ಒಬ್ಬರಾದ ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ ಅವರು 26-01-1915 ರಲ್ಲಿ ಮಂಡ್ಯ ಜಿಲ್ಲೆಯ ಕೃಷ್ಣರಾಜಪೇಟೆ ತಾಲೂಕಿನ ಕಿಕ್ಕೇರಿಯಲ್ಲಿ ಜನಿಸಿದರು. ಇವರ ಮೊದಲ ಕವನ ಸಂಕಲನ ಮೈಸೂರು ಮಲ್ಲಿಗೆ 1943ರಲ್ಲಿ ಪ್ರಕಟವಾಯಿತು. ಇವರು ಶಿಲಾಲತೆ, ಐರಾವತ, ನವಪಲ್ಲವ, ಇರುವಂತಿಗೆ, ದೀಪದ ಮಲ್ಲಿ, ಮನೆಯಿಂದ ಮನೆಗೆ, ತೆರೆದ ಬಾಗಿಲು ಮೊದಲಾದ ಕವನ ಸಂಕಲನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. 1977ರಲ್ಲಿ ಇವರ ತೆರೆದ ಬಾಗಿಲು ಎಂಬ ಕವನ ಸಂಗ್ರಹಕ್ಕೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ. 1990ರಲ್ಲಿ ಮೈಸೂರಿನಲ್ಲಿ ನಡೆದ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು. ಇವರ ದುಂಡು ಮಲ್ಲಿಗೆ ಕವನ ಸಂಕಲನಕ್ಕೆ ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಪ್ರತಿಷ್ಠಿತ ಪಂಪ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ. ಇವರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪ್ರೇಮಕವಿ ಎಂದೇ ಗುರುತಿಸಲಾಗಿದೆ. 2004ರಲ್ಲಿ ದೈವಾಧೀನರಾದರು.
+- id: ashaya-1
+  type: prose
+  section: ashaya
+  text: ಭಾರತೀಯತೆ ಕವನದಲ್ಲಿ ಕವಿ ಭಾರತೀಯರ ಏಕತೆಯನ್ನು ಕುರಿತು ಅಭಿಮಾನದಿಂದ ಹೇಳಿದ್ದಾರೆ. ಭಾರತ ದೇಶದ ಪ್ರಾಕೃತಿಕ ಸೌಂದರ್ಯ, ಜನರ ಜೀವನ ಶೈಲಿ, ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ, ಭಿನ್ನತೆಯಲ್ಲಿ ಏಕತಾಭಾವ, ದೇಶಭಕ್ತಿ, ತ್ಯಾಗ, ಪರೋಪಕಾರಬುದ್ಧಿ ಮುಂತಾದ ಉತ್ಕೃಷ್ಟ ಗುಣಗಳನ್ನು ಕವಿ ಇಲ್ಲಿ ವಿಶದೀಕರಿಸಿದ್ದಾರೆ.
+- id: vocab-hima
+  type: vocabulary_term
+  text: ಹಿಮ
+- id: vocab-hima-def
+  type: vocabulary_definition
+  text: ಮಂಜು
+- id: vocab-karavali
+  type: vocabulary_term
+  text: ಕರಾವಳಿ
+- id: vocab-karavali-def
+  type: vocabulary_definition
+  text: ಸಮುದ್ರತೀರ
+- id: vocab-perdere
+  type: vocabulary_term
+  text: ಪೆರ್ದೆರೆ
+- id: vocab-perdere-def
+  type: vocabulary_definition
+  text: ದೊಡ್ಡ ಅಲೆ
+- id: vocab-ghosha
+  type: vocabulary_term
+  text: ಘೋಷ
+- id: vocab-ghosha-def
+  type: vocabulary_definition
+  text: ಗಟ್ಟಿಯಾಗಿ ಹೇಳುವುದು
+- id: vocab-gadi
+  type: vocabulary_term
+  text: ಗಡಿ
+- id: vocab-gadi-def
+  type: vocabulary_definition
+  text: ಸೀಮೆ, ಎಲ್ಲೆ
+- id: vocab-yodha
+  type: vocabulary_term
+  text: ಯೋಧ
+- id: vocab-yodha-def
+  type: vocabulary_definition
+  text: ಸೈನಿಕ
+- id: vocab-korulu
+  type: vocabulary_term
+  text: ಕೊರಳು
+- id: vocab-korulu-def
+  type: vocabulary_definition
+  text: ಧ್ವನಿ
+- id: vocab-tanu
+  type: vocabulary_term
+  text: ತನು
+- id: vocab-tanu-def
+  type: vocabulary_definition
+  text: ದೇಹ
+- id: vocab-teru
+  type: vocabulary_term
+  text: ತೆರು
+- id: vocab-teru-def
+  type: vocabulary_definition
+  text: ನೀಡು, ತ್ಯಾಗ ಮಾಡು
+- id: vocab-hutatma
+  type: vocabulary_term
+  text: ಹುತಾತ್ಮ
+- id: vocab-hutatma-def
+  type: vocabulary_definition
+  text: ದೇಶಕ್ಕಾಗಿ ಪ್ರಾಣ ತೆತ್ತವ
+- id: vocab-smarane
+  type: vocabulary_term
+  text: ಸ್ಮರಣೆ
+- id: vocab-smarane-def
+  type: vocabulary_definition
+  text: ನೆನಪು
+- id: vocab-nere
+  type: vocabulary_term
+  text: ನೆರೆ
+- id: vocab-nere-def
+  type: vocabulary_definition
+  text: ಪಕ್ಕ
+- id: vocab-neralu
+  type: vocabulary_term
+  text: ನೆರಳು
+- id: vocab-neralu-def
+  type: vocabulary_definition
+  text: ಆಶ್ರಯ
+- id: vocab-molagu
+  type: vocabulary_term
+  text: ಮೊಳಗು
+- id: vocab-molagu-def
+  type: vocabulary_definition
+  text: ಅಬ್ಬರ
+- id: vocab-belaku
+  type: vocabulary_term
+  text: ಬೆಳಕು
+- id: vocab-belaku-def
+  type: vocabulary_definition
+  text: ಜ್ಞಾನ
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಪರ್ವತ ಹಿಮ ಯಾವ ಎತ್ತರಕ್ಕೆ ಎದ್ದು ನಿಂತಿದೆ?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ಪೆರ್ದೆರೆಗಳು ಯಾವುದಕ್ಕೆ ಮುತ್ತನಿಡುತ್ತಿವೆ?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ಹಸಿರು ದೀಪವನ್ನು ಎಲ್ಲಿ ಹಚ್ಚಲಾಗಿದೆ?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಯಂತ್ರಘೋಷ ಏಳುತ್ತಿರುವ ಬಗೆ ಹೇಗೆ?
+- id: ex-a-q5
+  type: question
+  exercise: A
+  text: ನಮ್ಮ ಧ್ವಜವನ್ನು ಎತ್ತಿ ಹಿಡಿದಿರುವವರು ಯಾರು?
+- id: ex-a-q6
+  type: question
+  exercise: A
+  text: ನಮ್ಮ ಪಯಣ ಎತ್ತ ಸಾಗಿದೆ?
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: ಕಣ್ಣು ಬೇರೆಯಾದರೂ ನೋಟ ಒಂದಾಗುವ ಸಂದರ್ಭಗಳನ್ನು ತಿಳಿಸಿ.
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: ‘ಭಾಷೆ ಬೇರೆಯಾದರೂ ಭಾವ ಒಂದು’ - ಸಮರ್ಥಿಸಿ.
+- id: ex-c-q1
+  type: question
+  exercise: C
+  text: ನಾವು ಭಾರತೀಯರು ಎಂಬ ಅಭಿಮಾನ ಮಿಡಿಯುವ ಸನ್ನಿವೇಶಗಳನ್ನು ವಿವರಿಸಿ.
+- id: ex-d-q1
+  type: question
+  exercise: D
+  text: “ಕಣ್ಣು ಬೇರೆ, ನೋಟವೊಂದು”
+- id: ex-d-q2
+  type: question
+  exercise: D
+  text: “ಭಾಷೆ ಬೇರೆ, ಭಾವವೊಂದು”
+- id: ex-d-q3
+  type: question
+  exercise: D
+  text: “ಎಲ್ಲೆ ಇರಲಿ, ನಾವು ಒಂದು”
+- id: ex-e-q1
+  type: fill_blank
+  exercise: E
+  text: ಯಂತ್ರ ______ ವೇಳುವಲ್ಲಿ.
+- id: ex-e-q2
+  type: fill_blank
+  exercise: E
+  text: ಒಂದೆ ನೆಲದ ______ .
+- id: ex-e-q3
+  type: fill_blank
+  exercise: E
+  text: ನಮ್ಮ ಯುಗದ ದನಿಗಳಾಗಿ ಮೂಡಿದೆಲ್ಲ _______ .
+- id: ex-e-q4
+  type: fill_blank
+  exercise: E
+  text: ಎಲ್ಲೆ ಇರಲಿ ನಾವು ______ .
+- id: ex-e-q5
+  type: fill_blank
+  exercise: E
+  text: ನಡೆವ _____ ಪಯಣದಲ್ಲಿ.

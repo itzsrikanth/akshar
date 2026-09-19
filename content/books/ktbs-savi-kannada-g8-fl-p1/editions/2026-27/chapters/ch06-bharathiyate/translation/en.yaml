@@ -1,0 +1,26 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  poem: Poem
+  author: About the author
+  ashaya: Theme
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+  exercise-E: E. Explain with context.
+intro-1: In the modern Kannada poetic tradition there are stages such as Navodaya, Navy, progressive, Bandaya and Dalit. In Navodaya poems, nature description, nationalism and cultural greatness are major themes; this poem is a fine example.
+poem-s1l5: Eyes differ, the gaze is one—
+poem-s1l6: We are Indians.
+poem-s2l5: Languages differ, feeling is one—
+poem-s2l6: We are Indians.
+poem-s3l5: Wherever we are, we are one—
+poem-s3l6: We are Indians.
+ashaya-1: In Bharatiyate the poet speaks proudly of the unity of Indians — natural beauty, way of life, cultural heritage, unity in diversity, patriotism, sacrifice and generosity.
+ex-a-q5: Who hold up our flag?

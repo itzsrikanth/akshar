@@ -1,0 +1,19 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  story: Story
+  author: About the author
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+  ashaya: Theme
+intro-1: It is alarming that the world, in the name of globalisation, is turning essentials freely available from nature — air, light, water and food — into ways of making money. We Indians, valuing humanity, have protected a culture of giving water to the weary and food to the hungry — something the world can be proud of.
+story-n1: My experience so far is that once you step outside India, everywhere else is a 'land that does not give water'. Two weeks have passed. I have wandered town to town. Every day unbearable thirst. Colas, French wine, beer, bottled fruit juice are abundant. Drinking water is not to be found.
+ex-a-q1: Where is water not freely available?

@@ -1,0 +1,598 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 7
+  subject: Kannada
+  chapter: 1
+  slug: ch01-puttajji-puttajji-kathe-helu
+  title: ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ನಾ. ಡಿಸೋಜ
+labels:
+  intro: ಪ್ರವೇಶ
+  story: ಕತೆ
+  competency: ಕೌಶಲ / ಸಾಮರ್ಥ್ಯ / ಆಶಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಈ ವಾಕ್ಯಗಳನ್ನು ಯಾರು-ಯಾರಿಗೆ? ಹೇಳಿದರು ಎಂಬುದನ್ನು ಬರೆಯಿರಿ.
+  exercise-D: ಈ. ಕೆಳಗೆ ನೀಡಿರುವ ಸೂಚನೆಯಂತೆ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-E: ಉ. ಕೆಳಗಿನ ಪದಗಳಿಗೆ ಅರ್ಥ ಬರೆಯಿರಿ.
+  exercise-F: ಊ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಬೆಳಗ್ಗೆ ಶಾಲೆಗೆ ಬಂದ ವಿದ್ಯಾರ್ಥಿನಿಯರು ಶಾಲಾ ಆವರಣದಲ್ಲಿ ಕುಳಿತು ಮಾತಿಗಿಳಿಯುತ್ತಾರೆ.
+- id: story-d1
+  type: dialogue
+  section: intro
+  speaker: ಮಾಲಾ
+  text: ನಿನ್ನೆ ನಮ್ಮ ಮನೆಯ ಸಮೀಪದ ದೇವಸ್ಥಾನದಲ್ಲಿ ಪುರಾಣದ ಕತೆ ಹೇಳುವ ಕಾರ್ಯಕ್ರಮ ಇತ್ತು. ನಾನು ನಮ್ಮಮ್ಮ ಹೋಗಿದ್ದೆವು. ತುಂಬಾ ಚೆನ್ನಾಗಿತ್ತು.
+- id: story-d2
+  type: dialogue
+  section: intro
+  speaker: ರೇಖಾ
+  text: ಪುರಾಣದ ಕತೆ ಹೇಳುವಾಗ ಮಧ್ಯೆ ಮಧ್ಯೆ ದೇವರನಾಮಗಳನ್ನು ಹಾಡುತ್ತಾರೆ. ನನಗದು ತುಂಬಾ ಇಷ್ಟ.
+- id: story-d3
+  type: dialogue
+  section: intro
+  speaker: ಮೇರಿ
+  text: ರೇಖಾ.... ನನಗೆ ನೀತಿಕತೆಗಳು ಎಂದರೆ ಇಷ್ಟ. ನನ್ನ ಬಳಿ ಕೆಲವು ನೀತಿಕತೆಗಳ ಪುಸ್ತಕಗಳು ಇವೆ.
+- id: story-d4
+  type: dialogue
+  section: intro
+  speaker: ಫಾತಿಮಾ
+  text: ಮಾಲಾ.... ಕೆಲವು ಕತೆಗಳನ್ನು ಹಾಡಿನ ರೂಪದಲ್ಲಿ ಹೇಳುತ್ತಾರಲ್ಲಾ....
+- id: story-d5
+  type: dialogue
+  section: intro
+  speaker: ಮಾಲಾ
+  text: "ಹೌದು, ಇದನ್ನು ಕಥನ-ಕವನ ಎನ್ನುತ್ತಾರೆ."
+- id: story-d6
+  type: dialogue
+  section: intro
+  speaker: ರೇಖಾ
+  text: ಕೆಲವು ಕಡೆಗಳಲ್ಲಿ ಜಾನಪದ ಹಾಡುಗಳ ರೂಪದಲ್ಲಿ ಕತೆ ಹೇಳುತ್ತಾರೆ. ಇವು ತುಂಬಾ ಚೆನ್ನಾಗಿರುತ್ತವೆ.
+- id: story-d7
+  type: dialogue
+  section: intro
+  speaker: ಮಾಲಾ
+  text: "ನಾನು ಚಿಕ್ಕವಳಿರುವಾಗ ನಮ್ಮಜ್ಜ ನನಗೆ ರಾಮಾಯಣ, ಮಹಾಭಾರತದ ಕತೆ ಹೇಳುತ್ತಿದ್ದರು. ಬೇರೆ ಬೇರೆ ಕತೆ ಪುಸ್ತಕಗಳನ್ನೆಲ್ಲಾ ತಂದುಕೊಟ್ಟು ಓದಿಸುತ್ತಿದ್ದರು."
+- id: story-d8
+  type: dialogue
+  section: intro
+  speaker: ಫಾತಿಮಾ
+  text: ನನಗಂತೂ ಕತೆಗಳೆಂದರೆ ತುಂಬಾ ಇಷ್ಟ.
+- id: story-d9
+  type: dialogue
+  section: intro
+  speaker: ಮೇರಿ
+  text: ನನಗೂ ಅಷ್ಟೆ.
+- id: intro-2
+  type: prose
+  section: intro
+  text: ವಿದ್ಯಾರ್ಥಿನಿಯರು ಮಾತಾಡುತ್ತಿರುವಾಗ ಅಲ್ಲಿಗೆ ಬಂದ ತರಗತಿ ಶಿಕ್ಷಕಿಯ ಕಿವಿಗೆ ವಿದ್ಯಾರ್ಥಿನಿಯರ ಮಾತುಗಳು ಕೇಳಿದವು.
+- id: story-d10
+  type: dialogue
+  section: intro
+  speaker: ಶಿಕ್ಷಕಿ
+  text: ನಿಮಗೆಲ್ಲಾ ಕತೆಗಳೆಂದರೆ ಅಷ್ಟೊಂದು ಇಷ್ಟವೇ? ಇವತ್ತಿನ ನಮ್ಮ ಪಾಠ ಕೂಡಾ ಸ್ವಾರಸ್ಯಕರವಾದ ಕತೆಯೇ; ಪುಟ್ಟಜ್ಜಿ ಹೇಳುವ ಕತೆ ಕೇಳುವ ಆಯ್ತೇ?
+- id: intro-3
+  type: prose
+  section: intro
+  text: ಇದನ್ನು ಕೇಳಿದ ಮಕ್ಕಳ ಮುಖ ಅರಳಿತು.
+- id: story-n1
+  type: prose
+  section: story
+  text: "ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳು ಅಂದರೆ, ‘ಬಾ ಮಗ ಹೇಳ್ತೀನಿ ಒಳ್ಳೇದೊಂದು ಕತೆಯ’ ಅಂತಾಳೆ ಪುಟ್ಟಜ್ಜಿ. ಕತೆಹೇಳುವುದರಲ್ಲಿ ನಮ್ಮ ಪುಟ್ಟಜ್ಜಿ ಯಾವಾಗಲೂ ಫಷ್ಟು. ದೊಡ್ಡ ಕತೆ, ಸಣ್ಣ ಕತೆ, ಪುಟಾಣಿ ಕತೆ, ತಮಾಷೆ ಕತೆ, ಹಾಡ್ಗತೆ ಹೀಗೆ ತರಾವರಿ ಕತೆ ಹೇಳುತ್ತಾಳೆ ಪುಟ್ಟಜ್ಜಿ. ಮೊನ್ನೆ ನಾನು ಪುಟ್ಟಜ್ಜಿ ಮನೆ ಕಡೆ ಹೋಗಿದ್ದೆ."
+- id: story-n2
+  type: prose
+  section: story
+  text: ಪುಟ್ಟಜ್ಜಿ ಮನೆ ಜಗಲಿ ಮೇಲೆ ಕೂತಿದ್ದಳು. ಅವಳು ಸಂತಸದಿಂದ ಇದ್ದಾಳೆ ಅಂತ ಅವಳ ಮುಖವೇ ಹೇಳುತ್ತಿತ್ತು.
+- id: story-d11
+  type: dialogue
+  section: story
+  speaker: ಹುಡುಗ
+  text: ಪುಟ್ಟಜ್ಜಿ ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಹೇಳುತೀಯಾ?
+- id: story-d12
+  type: dialogue
+  section: story
+  speaker: ಪುಟ್ಟಜ್ಜಿ
+  text: ಬಾ ಮಗ ಹೇಳ್ತೀನಿ ಒಳ್ಳೇದೊಂದು ಕತೆಯಾ
+- id: story-n3
+  type: prose
+  section: story
+  text: ಅವಳ ಮನೆ ಜಗಲಿ ಹತ್ತಿ ಕಂಬಕ್ಕೆ ಒರಗಿ ಕೂತು ಅವಳ ಮುಖ ನೋಡಿದೆ.
+- id: story-d13
+  type: dialogue
+  section: story
+  speaker: ಪುಟ್ಟಜ್ಜಿ
+  text: ಯಾವ ಕತೆ ಹೇಳಲಿ?
+- id: story-d14
+  type: dialogue
+  section: story
+  speaker: ಹುಡುಗ
+  text: ಯಾವುದಾದರೂ ಒಂದು ಹಾಡ್ಗತೆ ಹೇಳು
+- id: story-n4
+  type: prose
+  section: story
+  text: "ಪುಟ್ಟಜ್ಜಿ ಸ್ಪೆಷಾಲಿಟಿ ಅಂದರೆ ಹಾಡ್ಗತೆ. ಅದರಲ್ಲಿ ಹಾಡೂ ಇರುತ್ತೆ, ಕತೇನೂ ಇರುತ್ತೆ. ಪುಟ್ಟಜ್ಜಿ ಗಂಟಲು ಸರಿಪಡಿಸಿಕೊಂಡಳು. ಹಾಗೇ ತಣ್ಣನೆ ಗಾಳಿ ಬೀಸಿದ ಹಾಗೆ ಹೇಳಲಿಕ್ಕೆ ಪ್ರಾರಂಭ ಮಾಡಿದಳು."
+- id: poem-s1l1
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಪುಟ್ಟದೊಂದು ಊರ ಹೊರಗೆ
+- id: poem-s1l2
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಒಂದು ಹಳ್ಳ ಹರಿದಿದೆ
+- id: poem-s1l3
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಹಳ್ಳ ಅಲ್ಲಿ ಹರಿದು ಹರಿದು
+- id: poem-s1l4
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಊರ ಜನರ ಪೆರೆದಿದೆ
+- id: poem-s1l5
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಹರಿವ ಹಳ್ಳ ಊರಿಗೊಂದು
+- id: poem-s1l6
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಸೊಬಗ ತಂದು ಕೊಟ್ಟಿದೆ
+- id: poem-s1l7
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಹಸಿರು ಕಾಡು ಮರಗಳಲ್ಲಿ
+- id: poem-s1l8
+  type: poem_line
+  section: story
+  stanza: 1
+  text: ಹಕ್ಕಿ ಹಾಡು ಕೇಳಿದೆ
+- id: story-n5
+  type: prose
+  section: story
+  text: "ಇಂತಹ ಒಂದು ಸೊಗಸಾದ ಸ್ಥಳದಲ್ಲಿ ಒಂದು ಕಾಲದಲ್ಲಿ ಜನ ಇರಲಿಲ್ಲ. ಹಳ್ಳ ತನ್ನ ಪಾಡಿಗೆ ತಾನು ಹರಿದು ಹೋಗುತ್ತಾ ಇತ್ತು. ಹಕ್ಕಿಗಳು ಹಾಡಿಕೊಂಡಿದ್ದವು. ಒಂದು ದಿನ ಬಹಳ ದೂರದಿಂದ ಒಬ್ಬ ಯುವಕ ಅಲ್ಲಿಗೆ ಬಂದ. ಇಲ್ಲಿ ಇಷ್ಟೊಂದು ಚೆನ್ನಾಗಿದೆಯಲ್ಲ ಅಂತ ಅಲ್ಲಿ ಉಳಿಯೋ ಯೋಚನೆ ಮಾಡಿದ. ಒಂದು ಮನೆ ಕಟ್ಟಿದ. ಮನೆ ಮುಂದೆ ತೋಟ ಮಾಡಿದ. ತನಗೆ ಏನು ಬೇಕೋ ಅದನ್ನು ಬೆಳೆಸಿಕೊಂಡು ಅಲ್ಲಿ ಉಳಿದ. ಹಳ್ಳ, ಹಳ್ಳದ ದಡದಲ್ಲಿ ಇವನ ಮನೆ. ಮನೆಯ ಹಿಂದೆಯೇ ಭಾರೀ ಕಾಡು. ಅಲ್ಲಿ ಹುಲಿ, ಚಿರತೆ, ಕಾಡುಕೋಣ, ಆನೆ ಎಂದೆಲ್ಲ ಕಾಡುಪ್ರಾಣಿಗಳು. ಈ ಯುವಕನಿಗೆ ಯಾವುದೇ ಭೀತಿ ಇರಲಿಲ್ಲ. ಏಕೆಂದರೆ ಇವನು ಅವುಗಳ ಸುದ್ದಿಗೇ ಹೋಗುತ್ತಿರಲಿಲ್ಲ. ಅವೂ ಇವನ ಸುದ್ದಿಗೆ ಬರುತ್ತಿರಲಿಲ್ಲ. ಅವರವರ ಪಾಡಿಗೆ ಅವರೆಲ್ಲ ಸುಖವಾಗಿ ಇದ್ದರು. ಇವನ ಮನೆಯ ಹತ್ತಿರವೇ ಪ್ರಾಣಿಗಿಂಡಿ ಇದ್ದಿತು. ಅಲ್ಲಿಗೆ ಬಂದು ಪ್ರಾಣಿಗಳೆಲ್ಲ ನೀರು ಕುಡಿದು ಹೋಗುತ್ತಿದ್ದವು. ಒಂದು ದಿನ ಯುವಕ ಮನೆ ಜಗಲಿ ಮೇಲೆ ಕುಳಿತಿದ್ದಾನೆ. ಆಗ ಹೆದರಿ ಗಾಬರಿಯಾದ ಒಂದು ಜಿಂಕೆ ಅಂಗಳಕ್ಕೆ ಧಾವಿಸಿ ಬಂದಿತು. ಆ ಜಿಂಕೆಯ ಕುತ್ತಿಗೆಯಲ್ಲಿ ಒಂದು ಗೆಜ್ಜೆ ಬೇರೆ ಇತ್ತು. ಜಿಂಕೆಯ ಮೈ ನಡುಗುತ್ತಿತ್ತು. ಈ ಜಿಂಕೆ ಹೀಗೆ ಓಡಿ ಬರಲು ಒಂದು ಕಾರಣವಿತ್ತು."
+- id: poem-s2l1
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಕಾಡಿನಲ್ಲಿ ಒಂದು ಹುಲಿ
+- id: poem-s2l2
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಜಿಂಕೆಯನ್ನು ಕಂಡಿತು
+- id: poem-s2l3
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಅದರ ಬೆನ್ನು ಹತ್ತಿ ಹುಲಿ
+- id: poem-s2l4
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಹಳ್ಳದೆಡೆಗೆ ಬಂದಿತು
+- id: poem-s2l5
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಪ್ರಾಣಭಯದಿ ಜಿಂಕೆ ಬಂದು
+- id: poem-s2l6
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಮನೆಯನೊಂದ ಹೊಕ್ಕಿತು
+- id: poem-s2l7
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ನನ್ನ ಪ್ರಾಣ ಉಳಿಸು ಎಂದು
+- id: poem-s2l8
+  type: poem_line
+  section: story
+  stanza: 2
+  text: ಮನೆಯೊಡೆಯನ ಕೇಳಿತು.
+- id: story-n6
+  type: prose
+  section: story
+  text: ಈ ಯುವಕನಿಗೆ ಜಿಂಕೆ ಹುಲಿಗೆ ಹೆದರಿ ಇಲ್ಲಿ ಬಂದಿದೆ ಅನ್ನುವುದು ತಿಳಿಯಿತು. ಅವನು ಎದ್ದು ಅದನ್ನ ಅಪ್ಪಿಕೊಂಡು ಅದಕ್ಕೆ ಸಾಂತ್ವನ ನೀಡಿದ. ಅದೇ ಸಮಯಕ್ಕೆ ಒಂದು ಹುಲಿ ಬಂದು ಯುವಕನ ಮನೆಯ ಮುಂದೆ ನಿಂತಿತು.
+- id: story-d15
+  type: dialogue
+  section: story
+  speaker: ಹುಲಿ
+  text: "ಏಯ್! ಯುವಕ, ಈ ಜಿಂಕೆ ನನ್ನ ಆಹಾರ. ನೀನು ಇದಕ್ಕೆ ರಕ್ಷಣೆ ನೀಡಿದರೆ ಅದು ಅರಣ್ಯ ನಿಯಮಕ್ಕೆ ವಿರೋಧವಾಗುತ್ತದೆ. ಜಿಂಕೆಯನ್ನ ಬಿಟ್ಟುಕೊಡು"
+- id: story-d16
+  type: dialogue
+  section: story
+  speaker: ಯುವಕ
+  text: "ನೋಡು, ಇದು ಅರಣ್ಯದ ಜಿಂಕೆಯಲ್ಲ. ಯಾರೋ ಸಾಕಿದ ಪ್ರಾಣಿ. ಇದರ ಕುತ್ತಿಗೆಯಲ್ಲಿ ಗೆಜ್ಜೆ ಇದೆ. ಅರಣ್ಯದ ಪ್ರಾಣಿಯನ್ನು ಕೊಂದು ತಿನ್ನಲು ನಿನಗೆ ಅಧಿಕಾರವಿದೆ. ಆದರೆ ಹೀಗೆ ಯಾರೋ ಸಾಕಿದ ಪ್ರಾಣಿಯನ್ನು ಕೊಲ್ಲಲು ನಿನಗೆ ಅಧಿಕಾರವಿಲ್ಲ. ನಾನು ಇದನ್ನ ಬಿಟ್ಟು ಕೊಡುವುದಿಲ್ಲ"
+- id: story-n7
+  type: prose
+  section: story
+  text: "ಈ ಮಾತು ಕೇಳಿ ಹುಲಿಗೆ ಸಿಟ್ಟು ಬಂದಿತು. ಆ ಸಿಟ್ಟಿನಲ್ಲಿ ಅದು ಅಬ್ಬರಿಸಿತು. ಯುವಕ ಜಿಂಕೆಗೆ ತನ್ನ ಮನೆಯೊಳಗೆ ಆಶ್ರಯ ನೀಡಿ ಹುಲಿಯನ್ನ ಎದುರಿಸಿದ. ತನ್ನಲ್ಲಿ ರಕ್ಷಣೆ ಬೇಡಿ ಬಂದವರನ್ನು ತಾನು ಬಿಟ್ಟುಕೊಡಲಾರೆ! ಎಂದ."
+- id: story-n8
+  type: prose
+  section: story
+  text: ಹುಲಿಗೂ ಆ ಯುವಕನಿಗೂ ಜಗಳವಾಯಿತು. ಹುಲಿ ಯುವಕನನ್ನು ಸಿಕ್ಕಲ್ಲಿ ಕಚ್ಚಿತು. ಗಾಯ ಮಾಡಿತು. ಕಷ್ಟಪಟ್ಟು ಬದುಕು ಸಾಗಿಸುತ್ತಿದ್ದ ಯುವಕ ಸೋಲಲಿಲ್ಲ. ಹುಲಿ ಕೊನೆಗೆ ಸೋತು ಪಲಾಯನ ಪಠಿಸಿತು. ಮತ್ತೆ ನಾನು ನಿನ್ನ ಸಹವಾಸಕ್ಕೆ ಬರುವುದಿಲ್ಲ ಅಂದಿತು ಹುಲಿ. ಅದಕ್ಕೂ ಹೊಡೆದು ಬಡಿದು ಗಾಯ ಮಾಡಿದ್ದ ಯುವಕ. ಜಿಂಕೆ ಯುವಕನ ಸ್ಥಿತಿಯನ್ನು ನೋಡಿತು. ಪಾಪ ಎಂದು ಮರುಗಿತು.
+- id: story-d17
+  type: dialogue
+  section: story
+  speaker: ಜಿಂಕೆ
+  text: "ನನ್ನನ್ನು ಉಳಿಸಲು ಹೋಗಿ ನಿನಗೆ ಹೀಗಾಯಿತೇ!"
+- id: story-n9
+  type: prose
+  section: story
+  text: ಎಂದು ಕಣ್ಣೀರು ಸುರಿಸಿತು. ಹಾಗೆಯೇ ಕಾಡಿಗೆ ಹೋಗಿ -
+- id: poem-s3l1
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಸೊಪ್ಪು ಸದೆ ಬೇರು ತೊಗಟೆ
+- id: poem-s3l2
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಎಲ್ಲವನ್ನ ತಂದಿತು
+- id: poem-s3l3
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಅರೆದು ಕುಟ್ಟಿ ಮದ್ದುಮಾಡಿ
+- id: poem-s3l4
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಗಾಯಗಳಿಗೆ ಹಚ್ಚಿತು
+- id: poem-s3l5
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಗಾಯ ಮಾಗಿ ಅವನು ಮತ್ತೆ
+- id: poem-s3l6
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಎದ್ದು ನಡೆಯತೊಡಗಿದ
+- id: poem-s3l7
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಇದನ್ನು ಕಂಡು ಜಿಂಕೆಗಾಯ್ತು
+- id: poem-s3l8
+  type: poem_line
+  section: story
+  stanza: 3
+  text: ಅಪರಿಮಿತ ಆನಂದ
+- id: story-n10
+  type: prose
+  section: story
+  text: ಹೀಗೆ ಆ ಜಿಂಕೆಗೂ ಆ ಯುವಕನಿಗೂ ಏನೋ ಸಂಬಂಧಕೂಡಿ ಬಂದಿತು. ಆದರೂ ಜಿಂಕೆಯ ಮನಸ್ಸಿನಲ್ಲಿ ಏನೋ ಚಿಂತೆ ಇರುವುದನ್ನು ಯುವಕ ಗಮನಿಸಿದ. ಒಂದು ದಿನ ಯುವಕ ಏನೋ ಮಾಡುತ್ತ ಅಂಗಳದಲ್ಲಿ ಕುಳಿತಿದ್ದಾನೆ. ಅಷ್ಟು ದೂರದಲ್ಲಿ ಮಲಗಿದ್ದ ಜಿಂಕೆ ತಟ್ಟನೆ ಎದ್ದು ನಿಂತಿದೆ. ಹೊರಗೆ ಕಿವಿಗೊಟ್ಟು ಏನನ್ನೋ ಕೇಳುತ್ತಿದೆ. ಆಗ ಯುವಕನ ಮನೆಯ ಹತ್ತಿರವೇ ಒಂದು ಇಂಪಾದ ದನಿ ಕೇಳಿಸುತ್ತಿದೆ. ಜಿಂಕೆ ಮತ್ತೂ ಸಂಭ್ರಮದಿಂದ ಎದ್ದು ನಿಲ್ಲುತ್ತದೆ.
+- id: story-d18
+  type: dialogue
+  section: story
+  speaker: ಯುವತಿ
+  text: ಚುಕ್ಕಿ ಎಲ್ಲಿದ್ದಿಯಾ..... ಚುಕ್ಕಿ ಎಲ್ಲಿದ್ದಿಯಾ?
+- id: story-n11
+  type: prose
+  section: story
+  text: ಜಿಂಕೆ ಹೊರ ಓಡುತ್ತದೆ. ಯುವಕ ಗಾಬರಿಯಿಂದ ಅದರ ಹಿಂದೆ ಓಡುತ್ತಾನೆ. ಅಲ್ಲಿ ಓರ್ವ ಯುವತಿ ಜಿಂಕೆಯನ್ನು ತಬ್ಬಿ ಹಿಡಿದಿದ್ದಾಳೆ. ಜಿಂಕೆ ಅವಳ ಕೈ ನೆಕ್ಕುತ್ತಿದೆ. ಅವಳ ಮೈಗೆ ತನ್ನ ಮೈ ತಿಕ್ಕುತ್ತಿದೆ. ಆಕೆ ಜಿಂಕೆಯ ಮುಖಕ್ಕೆ ತನ್ನ ಮುಖ ತಾಗಿಸಿ ಅಳುತ್ತಿದ್ದಾಳೆ. ಆ ಯುವತಿ ಈ ಯುವಕನನ್ನು ನೋಡಿದ ಕೂಡಲೇ ತನ್ನ ಪರಿಚಯ ಹೇಳಿಕೊಂಡಳು.
+- id: story-d19
+  type: dialogue
+  section: story
+  speaker: ಯುವತಿ
+  text: ಇದು ನಾವು ಸಾಕಿಕೊಂಡ ಜಿಂಕೆ.... ಇದರ ಮೇಲಿನ ಈ ಚುಕ್ಕೆಯ ಗುರುತಿಗೆ ಇದಕ್ಕೆ ನಾವು ಚುಕ್ಕಿ ಎಂದು ಕರೆದೆವು.... ಇದು ಕೆಲ ದಿನಗಳ ಹಿಂದೆ ಕಾಡಿಗೆ ಬಂದುಬಿಟ್ಟಿತು..... ಇದನ್ನ ಒಂದು ಹುಲಿ ಅಟ್ಟಿಸಿಕೊಂಡು ಬಂದುದನ್ನ ಕೆಲ ಹಳ್ಳಿ ಜನ ನೋಡಿದರು... ಚುಕ್ಕಿಯ ಕತೆ ಮುಗಿಯಿತು ಅಂತ ನಾವು ತಿಳಿದೆವು..... ಆದರೂ ನನಗೆ ಏನೋ ನಂಬಿಕೆ ..... ಚುಕ್ಕಿ ಬದುಕಿದೆ ಎಂದು.... ನಾನು ಆವತ್ತಿನಿಂದ ಅದನ್ನ ಹುಡುಕುತ್ತಿದ್ದೆ. ಇಂದು ಇದು ಸಿಕ್ಕಿದೆ....
+- id: story-n12
+  type: prose
+  section: story
+  text: ಆ ಯುವತಿ ಸಂತಸದಿಂದಲೇ ಇದೆಲ್ಲವನ್ನು ನುಡಿದಳು. ಆ ಯುವಕ ತಾನು ಚುಕ್ಕಿಯನ್ನ ಉಳಿಸಿದ ಕತೆ ಹೇಳಿದ. ಹುಲಿಗೂ ತನಗೂ ನಡೆದ ಹೋರಾಟದಲ್ಲಿ ತನಗಾದ ಗಾಯಗಳನ್ನು ತೋರಿಸಿದ. ಚುಕ್ಕಿಯು ಕಾಡಿನಲ್ಲಿ ಮದ್ದು ಮಾಡಿದ್ದನ್ನು ಹೇಳಿದ.
+- id: story-d20
+  type: dialogue
+  section: story
+  speaker: ಯುವತಿ
+  text: ಚಿಕ್ಕಂದಿನಿಂದ ಚುಕ್ಕಿ ನಮ್ಮ ಮನೆಯಲ್ಲಿಯೇ ದೊಡ್ಡದಾಗಿದೆ. ನಾನು ಚುಕ್ಕಿಯನ್ನು ಬಿಟ್ಟು ಇರಲಾರೆ.... ಇದನ್ನ ಮನೆಗೆ ಕರೆದೊಯ್ಯುತ್ತೇನೆ
+- id: story-n13
+  type: prose
+  section: story
+  text: ಅವಳು ಹಾಗೆ ಹೇಳುವಾಗ ಚುಕ್ಕಿಗೆ ವಿಷಯ ತಿಳಿದುಹೋಯಿತು. ಅದು ಹೋಗಿ ಆ ಯುವಕನ ಮನೆಯೊಳಗೆ ಅವಿತುಕೊಂಡಿತು.
+- id: story-d21
+  type: dialogue
+  section: story
+  speaker: ಯುವಕ
+  text: ನಾನೂ ಅದನ್ನ ಬಿಟ್ಟು ಇರಲಾರೆ ..... ಹುಲಿ ಬಾಯಿಂದ ಅದನ್ನು ಕಾಪಾಡಿದ್ದೇನೆ..... ಈಗ ನಿನಗೆ ಇದನ್ನ ಕೊಡಲಾರೆ....
+- id: story-d22
+  type: dialogue
+  section: story
+  speaker: ಯುವತಿ
+  text: ಹಾಗಾದರೆ ನಾನೂ ಇಲ್ಲಿಯೇ ಇರುತ್ತೇನೆ.. ಚುಕ್ಕಿಯ ಜೊತೆಯಲ್ಲಿ
+- id: story-n14
+  type: prose
+  section: story
+  text: ಯುವತಿ ಯುವಕನ ಮನೆಯೊಳಗೆ ಹೋಗಿ ಚುಕ್ಕಿಯನ್ನ ಅಪ್ಪಿಕೊಂಡಳು.
+- id: poem-s4l1
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಚುಕ್ಕಿಯೆಂಬ ಜಿಂಕೆ ಪಾಪ
+- id: poem-s4l2
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಹುಲಿಯ ಕಣ್ಗೆ ಬಿದ್ದಿತು
+- id: poem-s4l3
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಯುವಕನೊಬ್ಬ ಅದನು ಉಳಿಸಿ
+- id: poem-s4l4
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಮನೆಯಲಿರಿಸಿ ಸಾಕಿದ
+- id: poem-s4l5
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಹುಡುಕಿಕೊಂಡು ಬಂದ ಹುಡುಗಿ
+- id: poem-s4l6
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಅದನು ಬಿಡೆ ಎಂದಳು
+- id: poem-s4l7
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಹುಡುಗ ಹುಡುಗಿ ಒಂದಾಗಲು
+- id: poem-s4l8
+  type: poem_line
+  section: story
+  stanza: 4
+  text: ಚುಕ್ಕಿಯೇ ಮುಂದಾಯಿತು
+- id: story-n15
+  type: prose
+  section: story
+  text: ಹೀಗೆ ಹಳ್ಳದ ದಂಡೆಯ ಮೇಲಿನ ಊರು ಬೆಳೆಯಿತು. ಅನಂತರ ಇಲ್ಲಿ ಎಲ್ಲ ಸುಖವಾಗಿದ್ದರು. ಪುಟ್ಟಜ್ಜಿ ಕತೆ ಮುಗಿಸಿ ಎದ್ದಳು.
+- id: story-d23
+  type: dialogue
+  section: story
+  speaker: ಪುಟ್ಟಜ್ಜಿ
+  text: ಮತ್ತೆ ಯಾವತ್ತಾರ ಬಾ. ಬೇರೆ ಬೇರೆ ಕತೆ ಹೇಳತೇನೆ
+- id: story-n16
+  type: prose
+  section: story
+  text: ನಾನು ಸಂತಸದಿಂದ ಅಲ್ಲಿಂದ ಹೊರಟೆ.
+- id: competency
+  type: competency
+  section: competency
+  text: "ಕೌಶಲ: ಆಲಿಸುವುದು. ಸಾಮರ್ಥ್ಯ: ಅಪರಿಚಿತ ಸನ್ನಿವೇಶದ ಘಟನೆಗಳನ್ನು ಆಲಿಸಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು. ಆಶಯ: ಕತೆ ಹೇಳುವುದು ಎಂದಾಗ- ಅಜ್ಜಿಯ ನೆನಪಾಗುತ್ತದೆ. ಅನಾದಿಯಿಂದಲೂ ಸುತ್ತಲೂ ಮಕ್ಕಳನ್ನು ಕುಳ್ಳಿರಿಸಿಕೊಂಡು ಹಾವ-ಭಾವದಿಂದ ಕೂಡಿ, ಅಭಿನಯ ಸಹಿತ ಅಜ್ಜಿ ಹೇಳುವ ಕತೆಯ ಗಮ್ಮತ್ತೇ ಗಮ್ಮತ್ತು. ಹೊಟ್ಟೆ ಹುಣ್ಣಾಗುವಂತೆ ನಗುತ್ತಾ, ಕತೆಯ ಪಾತ್ರದ ದುಃಖ ಸನ್ನಿವೇಶಕ್ಕೆ ಕಣ್ಣೀರಿಡುತ್ತ, ಹೆದರಿಕೆಯಿಂದ ನಡುಗುತ್ತ ಕತೆ ಕೇಳುವುದೆಂದರೆ ಮಕ್ಕಳಿಗೆ ನಿದ್ದೆಯೂ ಬಾರದು; ಹಸಿವೆಯೂ ಕಾಣಿಸದು. ಇಂತಹ ಕತೆಗಳು ಮಕ್ಕಳ ಜೀವನದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚಾಗಿದೆ. ಹಾಗಾಗಿ ಉದಾತ್ತ ಭಾವನೆಗಳನ್ನೊಳಗೊಂಡ, ಧೈರ್ಯ ಸಾಹಸ ಪ್ರಧಾನವಾದ, ನೀತಿ ಬೋಧನೆಯ ಕಥೆಗಳು ಬಳಕೆಗೆ ಬಂದಲ್ಲಿ ಮುಂದೆ ಉತ್ತಮ ಗುಣನಡತೆಯ ಜನಾಂಗವನ್ನು ನಿರೀಕ್ಷಿಸಲು ಸಾಧ್ಯ."
+- id: author-1
+  type: prose
+  section: author
+  text: "ಡಾ. ನಾರ್ಬಟ್ ಡಿಸೋಜರವರು 1937 ಜೂನ್ 6ರಂದು ಜನಿಸಿದರು. ತಂದೆ ಎಫ್.ಪಿ.ಡಿಸೋಜ ತಾಯಿ ರೂಪಿನಾ ಡಿಸೋಜ. ನಾ.ಡಿಸೋಜರವರು ಈವರೆಗೆ 37 ಕಾದಂಬರಿಗಳನ್ನು, ನಾಲ್ಕು ನಾಟಕಗಳನ್ನು, ಇಪ್ಪತ್ತೆಂಟು ಮಕ್ಕಳ ಕೃತಿಗಳನ್ನು ನೂರಾರು ಕತೆಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ. ಇವರ ಕಾದಂಬರಿ ‘ಕಾಡಿನ ಬೆಂಕಿ’ ಹಾಗೂ ‘ದ್ವೀಪ’ ಚಲನಚಿತ್ರಗಳಾಗಿ ‘ರಜತಕಮಲ’ ಹಾಗೂ ‘ಸ್ವರ್ಣಕಮಲ’ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಪಡೆದಿವೆ."
+- id: author-2
+  type: prose
+  section: author
+  text: "‘ಬಳುವಳಿ’ ಕಾದಂಬರಿ ಕೊಂಕಣಿಯಲ್ಲಿ ಚಲನಚಿತ್ರವಾಗಿದೆ. ‘ಸಾರ್ಕ್’ ದೇಶಗಳ ಸಾಹಿತಿಗಳ ಸಮ್ಮೇಳನದಲ್ಲಿ ಸ್ವಂತ ಕಥಾವಾಚನ ಮಾಡಿದ್ದರು. ಇವರ ‘ಮುಳುಗಡೆಯ ಊರಿಗೆ ಬಂದವರು’ ಕಿರು ಕಾದಂಬರಿಗೆ 2011ರ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಬಾಲ ಸಾಹಿತ್ಯ ಪುರಸ್ಕಾರ ದೊರೆತಿದೆ. ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಗುಲ್ವಾಡಿ ವೆಂಕಟರಾವ್ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ಮಂಗಳೂರು ಸಂದೇಶ ಪ್ರಶಸ್ತಿ, ನವದೆಹಲಿ ಕಥಾ ಪ್ರಶಸ್ತಿ, ಪುತ್ತೂರು ನಿರಂಜನ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ ಮುಂತಾದವುಗಳಿಂದ ಪುರಸ್ಕೃತರಾಗಿದ್ದಾರೆ. ಜನವರಿ 2014ರಲ್ಲಿ ಮಡಿಕೇರಿಯಲ್ಲಿ ನಡೆದ ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು."
+- id: vocab-hadgate
+  type: vocabulary_term
+  section: vocab
+  text: ಹಾಡ್ಗತೆ
+- id: vocab-hadgate-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಹಾಡು ಸೇರಿರುವ ಕತೆ
+- id: vocab-taravari
+  type: vocabulary_term
+  section: vocab
+  text: ತರಾವರಿ
+- id: vocab-taravari-def
+  type: vocabulary_definition
+  section: vocab
+  text: ವಿಧವಿಧವಾದ
+- id: vocab-bhiti
+  type: vocabulary_term
+  section: vocab
+  text: ಭೀತಿ
+- id: vocab-bhiti-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಭಯ, ಹೆದರಿಕೆ"
+- id: vocab-pranigindi
+  type: vocabulary_term
+  section: vocab
+  text: ಪ್ರಾಣಿಗಿಂಡಿ
+- id: vocab-pranigindi-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಕಾಡಿನಲ್ಲಿರುವ ಪ್ರಾಣಿಗಳು ನೀರನ್ನು ಕುಡಿಯುವುದಕ್ಕಾಗಿ ಹೋಗಲು ಮಾಡಿಕೊಂಡ ಕಿಂಡಿ
+- id: vocab-angala
+  type: vocabulary_term
+  section: vocab
+  text: ಅಂಗಳ
+- id: vocab-angala-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಅಂಗಣ, ಮನೆಯ ಮುಂದಿನ ಅಥವಾ ಹಿಂದಿನ ಬಯಲು ಭಾಗ"
+- id: vocab-santvana
+  type: vocabulary_term
+  section: vocab
+  text: ಸಾಂತ್ವನ
+- id: vocab-santvana-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಸಮಾಧಾನ, ಸಂತೈಸುವಿಕೆಯ ನುಡಿ"
+- id: vocab-ashraya
+  type: vocabulary_term
+  section: vocab
+  text: ಆಶ್ರಯ
+- id: vocab-ashraya-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಆಸರೆ, ಸಹಾಯ, ರಕ್ಷಣೆ"
+- id: vocab-maddu
+  type: vocabulary_term
+  section: vocab
+  text: ಮದ್ದು
+- id: vocab-maddu-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಔಷಧ
+- id: vocab-palayana
+  type: vocabulary_term
+  section: vocab
+  text: ಪಲಾಯನ ಪಠಿಸು
+- id: vocab-palayana-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಓಡಿಹೋಗು
+- id: vocab-magu
+  type: vocabulary_term
+  section: vocab
+  text: ಮಾಗು
+- id: vocab-magu-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಒಣಗು, ವಾಸಿಯಾಗು"
+- id: vocab-sambhrama
+  type: vocabulary_term
+  section: vocab
+  text: ಸಂಭ್ರಮ
+- id: vocab-sambhrama-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಉತ್ಸಾಹ, ಸಡಗರ, ಸಂತೋಷ"
+- id: vocab-bide
+  type: vocabulary_term
+  section: vocab
+  text: ಬಿಡೆ
+- id: vocab-bide-def
+  type: vocabulary_definition
+  section: vocab
+  text: ಬಿಡುವುದಿಲ್ಲ
+- id: vocab-yavattara
+  type: vocabulary_term
+  section: vocab
+  text: ಯಾವತ್ತಾರ
+- id: vocab-yavattara-def
+  type: vocabulary_definition
+  section: vocab
+  text: "ಯಾವತ್ತಾದರೂ, ಇನ್ನೊಂದು ದಿನ"
+- id: ex-a-q1
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಪುಟ್ಟಜ್ಜಿಯ ಬಳಿ ಹುಡುಗ ಯಾವ ಕತೆ ಹೇಳಬೇಕೆಂದು ಕೇಳಿದನು?
+- id: ex-a-q2
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಯುವಕ ಮನೆಯ ಮುಂದೆ ಏನು ಮಾಡಿದನು?
+- id: ex-a-q3
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಜಿಂಕೆಯ ಕುತ್ತಿಗೆಯಲ್ಲಿ ಏನಿತ್ತು?
+- id: ex-a-q4
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹುಲಿ ಸೋತು ಏನು ಮಾಡಿತು?
+- id: ex-a-q5
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಯುವತಿ ಕರೆದುಕೊಂಡು ಹೋಗುತ್ತೇನೆ ಎಂದಾಗ ಚುಕ್ಕಿ ಏನು ಮಾಡಿತು?
+- id: ex-a-q6
+  type: question
+  section: exercise-A
+  exercise: A
+  text: ಹಳ್ಳದ ದಂಡೆಯ ಮೇಲಿನ ಊರು ಏನಾಯಿತು?
+- id: ex-b-q1
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹಳ್ಳ ಹರಿದು ಊರ ಜನರಿಗೆ ಏನು ಮಾಡಿದೆ?
+- id: ex-b-q2
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಯುವಕ ಹಳ್ಳದ ಬಳಿಗೆ ಬಂದು ಏನು ಮಾಡಿದನು?
+- id: ex-b-q3
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಹುಲಿ ಮತ್ತು ಯುವಕನ ನಡುವೆ ನಡೆದ ಸಂಭಾಷಣೆ ಏನು?
+- id: ex-b-q4
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಜಿಂಕೆಯನ್ನು ನೋಡಿದ ಯುವತಿ ಏನು ಮಾಡಿದಳು?
+- id: ex-b-q5
+  type: question
+  section: exercise-B
+  exercise: B
+  text: ಯುವಕ ಚುಕ್ಕಿಯ ಬಗೆಗೆ ಯುವತಿಗೆ ಏನು ಹೇಳಿದನು?
+- id: ex-c-q1
+  type: question
+  section: exercise-C
+  exercise: C
+  text: “ಯಾವುದಾದರೊಂದು ಹಾಡ್ಗತೆ ಹೇಳು.”
+- id: ex-c-q2
+  type: question
+  section: exercise-C
+  exercise: C
+  text: "“ಏಯ್! ಯುವಕ, ಈ ಜಿಂಕೆ ನನ್ನ ಆಹಾರ.”"
+- id: ex-c-q3
+  type: question
+  section: exercise-C
+  exercise: C
+  text: “ಇದು ನಾವು ಸಾಕಿಕೊಂಡ ಜಿಂಕೆ.”
+- id: ex-c-q4
+  type: question
+  section: exercise-C
+  exercise: C
+  text: “ನಾನು ಚುಕ್ಕಿಯನ್ನು ಬಿಟ್ಟು ಇರಲಾರೆ.”
+- id: ex-d-q1
+  type: question
+  section: exercise-D
+  exercise: D
+  text: ಈ ಪಾಠದಲ್ಲಿ ಬಂದಿರುವ ಪ್ರಾಣಿಗಳ ಹೆಸರನ್ನು ಪಟ್ಟಿಮಾಡಿ.
+- id: ex-d-q2
+  type: question
+  section: exercise-D
+  exercise: D
+  text: ಈ ಪಾಠದಲ್ಲಿ ಬಂದಿರುವ ವ್ಯಕ್ತಿಗಳ ಹೆಸರನ್ನು ಪಟ್ಟಿಮಾಡಿ.
+- id: ex-d-q3
+  type: question
+  section: exercise-D
+  exercise: D
+  text: ಅಜ್ಜಿ ಮತ್ತು ಕತೆ ಕೇಳುವ ಹುಡುಗನ ಸಂಭಾಷಣೆ ಬರೆಯಿರಿ.
+- id: ex-d-q4
+  type: question
+  section: exercise-D
+  exercise: D
+  text: ಯುವಕ ಮತ್ತು ಯುವತಿಯ ನಡುವೆ ನಡೆದ ಸಂಭಾಷಣೆಯನ್ನು ಬರೆಯಿರಿ.
+- id: ex-e-q1
+  type: question
+  section: exercise-E
+  exercise: E
+  text: "ಕೆಳಗಿನ ಪದಗಳಿಗೆ ಅರ್ಥ ಬರೆಯಿರಿ: ಪೆರೆ, ಪ್ರಾಣಿಗಿಂಡಿ, ಭಯ, ತೊಗಟೆ, ಮದ್ದು, ಯಾವತ್ತಾರ."
+- id: ex-f-q1
+  type: question
+  section: exercise-F
+  exercise: F
+  text: "ಹೊಂದಿಸಿ ಬರೆಯಿರಿ: ಪುಟ್ಟಜ್ಜಿ / ಕತೆ; ಕಾಡು / ಹುಲಿ, ಚಿರತೆ, ಕಾಡುಕೋಣ; ಚುಕ್ಕಿ / ಜಿಂಕೆ; ಮದ್ದು / ಸೊಪ್ಪುಸದೆ, ಬೇರು, ತೊಗಟೆ; ಹಳ್ಳದ ದಂಡೆ / ಊರು ಬೆಳೆಯಿತು; ಜಗಳ / ಹುಲಿಗೂ ಯುವಕನಿಗೂ."

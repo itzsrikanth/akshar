@@ -1,0 +1,55 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kṛtikārara paricaya
+  ashaya: āśaya
+  vocab: padagaḻa artha
+  exercise-A: a. kèḻagina praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kèḻagina praśnègaḻigè mūru-nālku vākyadalli uttarisi.
+  exercise-C: i. kèḻagina heḻikègaḻigè saṃdarbhasahita svārasyavannu barèyiri.
+  exercise-D: ī. kèḻagina praśnègaḻigè èṃṭu hattu vākyagaḻalli uttarisi.
+intro-1: kannaḍa sāhitya paraṃparèyalli 15-16nèya śatamānadalli jñāna mattu bhaktiya mūlaka muktiyannu kāṇabayasi, viṣṇuvannu ārādhya daivanannāgisikòṃḍu, ādhyātmika, dhārmika, sāmājika, sāṃskṛtika sudhāraṇègāgi śramisida sāhitya prakārave dāsa sāhitya. dāsa sāhityavannu dāsavāṅmaya, haridāsa sāhityavèṃtalū karèyuttārè. ‘dāsa’ èṃdarè ‘sevaka’ èṃdartha. śrīhariyalli bhaktiyanniṭṭu, manassannu nirmalamāḍikòṃḍu, tyāga jīvana naḍèsuttā, harināma japisuttā racisida sāhitya idāgidè.
+intro-2: ī sāhitya prakāradalli baruva naraharitīrtharu, śrīpādarājaru, vyāsaru, vijayadāsaru, kanaka - puraṃdaradāsaru, rāghaveṃdratīrthare mòdalādavaru. bhakti-ādhyātmika viṣayagaḻannu suṃdara kāvyavannāgisuva mūlaka kīrtanègaḻu, ugābhoga, suḻādi, maṃḍigè mòdalāda racanègaḻannu racisuva mūlaka kannaḍa sāhityakkè kòḍugè nīḍiddārè.
+poem-s1l1: bevu bèlladòḻiḍalenu phala
+poem-s1l2: hāvigè hālèrèdarenu phala
+poem-s2l1: kuṭilava biḍadiha kujanaru maṃtrava
+poem-s2l2: paṭhanèya māḍidarenu phala
+poem-s2l3: saṭèyannāḍuva manujaru manadali
+poem-s2l4: viṭhalana nènèdarenu phala
+poem-s3l1: mātā-pitaranu baḻalisuvātanu
+poem-s3l2: yātrèya māḍidarenu phala
+poem-s3l3: ghātakatanavanu biḍadè niraṃtara
+poem-s3l4: gītèyanodidarenu phala
+poem-s4l1: kapaṭatanadali kāḍuvavarèllaru
+poem-s4l2: japagaḻa māḍidarenu phala
+poem-s4l3: kupitabuddhiyanu biḍadè niraṃtara
+poem-s4l4: upavāsa māḍidarenu phala
+poem-s5l1: hīnakṛtyagaḻa māḍuta nadiyali
+poem-s5l2: snānava māḍidarenu phala
+poem-s5l3: śrīnidhi puraṃdaraviṭhalana nènèyadè
+poem-s5l4: maunava māḍidarenu phala
+author-1: 'puraṃdaradāsaru: haridāsa sāhityada aśvinidevatègaḻalli òbbaru. īgina mahārāṣṭrada puraṃdaragaḍadalli sā.śa. sumāru 1480 ralli janisidaru. pūrvada hèsaru śrīnivāsanāyaka. ābharaṇa vyāpāriyāgidda ivaru jīvanadalli naḍèda ghaṭanèyiṃdāgi vairāgya tāḻidaru. haribhaktarāgi nūrāru kīrtanègaḻannu racisidaru. ‘dāsarèṃdarè puraṃdaradāsarayya’ èṃdu tamma gurugaḻāda vyāsarāyariṃdale hògaḻikègè pātrarādaru. puraṃdaradāsaru karnāṭaka saṃgītada piḻḻāri gītègaḻannu racisi ‘karnāṭaka saṃgītada pitāmaha’ ènisikòṃḍaru. ivara aṃkita ‘puraṃdaraviṭhala.’'
+ashaya-1: huṭṭuguṇa suṭṭarū hoguvudilla. yāvude kèlasa nirvahisidarū adariṃda phalāphalavannu apekṣisabāradu. nirmala bhakti illadiddarè māḍida kèlasa kūḍa niṣphalavāguttadè èṃbudannu puraṃdaradāsaru saraḻa udāharaṇègaḻa mūlaka illi nirūpisiddārè.
+vocab-kutila: kuṭila
+vocab-kutila-def: mosa, vaṃcanè
+vocab-kujanaru: kujanaru
+vocab-kujanaru-def: kèṭṭa janaru
+vocab-kupita: kupita
+vocab-kupita-def: siṭṭiniṃda kūḍida
+vocab-sate: saṭè
+vocab-sate-def: suḻḻu
+ex-a-q1: puraṃdaradāsara aṃkita yāvudu?
+ex-a-q2: ‘japada phala’ namagè sigabekādarè yāvudannu biḍabeku?
+ex-a-q3: maṃtra paṭhanèya phala sigabekèṃdarè manuja enannu biḍabeku?
+ex-a-q4: gītèyannu odidaṣṭu phala yāvāga dòrèyuttadè?
+ex-b-q1: yātrè māḍuvudu mattu gītèyannu odidarè dòrèyuva phalavenu?
+ex-b-q2: japa hāgū upavāsa vratagaḻa phala yāvāga dòrèyuvudilla?
+ex-c-q1: “maṃtrava paṭhanèya māḍidarenu phala”
+ex-c-q2: “mātāpitaranu baḻalisuvātanu”
+ex-c-q3: “snānava māḍidarenu phala”
+ex-d-q1: puraṃdara dāsara dṛṣṭiyalli namma śramakkè phala dòrèyuvudu yāvāga? vivarisi.

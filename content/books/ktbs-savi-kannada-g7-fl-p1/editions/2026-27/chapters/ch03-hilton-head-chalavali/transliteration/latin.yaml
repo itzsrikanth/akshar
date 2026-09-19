@@ -1,0 +1,82 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  story: kathè
+  competency: kauśala / sāmarthya / āśaya
+  author: kṛtikārara paricaya
+  vocab: padagaḻa artha
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi.
+  exercise-C: i. biṭṭasthaḻa tuṃbiri.
+intro-1: yāvude vastuvirali, adu namma baḻi iddāga adara bèlè tiḻiyuvudilla. adannu nāvu kaḻèdukòṃḍāga, adèṣṭu amūlyavāda vastuvāgittèṃbudu arivigè baruttadè. parisarada viṣayadallū idu nija. parisaravu cènnāgiddāga, prakṛtiyu ramaṇīyavāgiddāga adannu nāvu aṣṭenū gamanisuvudilla. athavā gamanisidarū adu viśeṣavāda saṃgati èṃdu namagannisuvudilla. ādarè prakṛti hāḻādāga, pradūṣaṇègè òḻagādāga nāvu paritapisatòḍaguttevè. hilṭan hèḍnalli hāgè prakṛtiya melè daurjanya naḍèyalu śuruvāgi halavu dinagaḻa naṃtaravaṣṭe sthaḻīyaru jāgratarādaru. tamma prakṛtigāgi avaru horāṭa kaigòṃḍaru. hilṭan hèḍna parisara caḻavaḻiyu yāvude caḻavaḻigū saṇṇadalla; caḻavaḻiyu adara gātradiṃdalla badaligè uddeśadiṃda dòḍḍado cikkado èṃdu parigaṇisalpaḍuttadè èṃbudannu sūcisuttadè.
+story-n1: 1986ralli amèrikāgè hoguva prasaṃgavāyitu. alliruvāga nanna tamma bābuvinòḍanè amèrikāda pūrva samudra tīrakkaṃṭidaṃtè aṭlāṃṭik sāgaradalliruva hilṭan hèḍ ènnuva òṃdu dvīpakkè hodèvu. sutta aṭlāṃṭik sāgara haraḍiruva hilṭan hèḍ nijakkū suṃdaravāda puṭṭadvīpa. rastèyiṃda adannu talupalu āru lenina bhāri setuvè idè. kāḍe nāḍigè sārvabhaumavāgiddaṃtha òṃdu kāladalli ī dvīpadallū sthaḻīya amèriṃḍiyannaru vāsavāgiddaru. yuropiyannara āgamanavāda melè amèriṃḍiyannara dhūḻīpaṭavāyitu, āga hilṭan hèḍ dvīpavū biḻiyaradāyitu.
+story-n2: òḻḻèya havè iruva ī dvīpadalli kāḍu kaḍidu nīli naṃtara innitara bèḻègaḻannu bèḻèyuva toṭagaḻannāgi yuropiyannaru parivartisibiṭṭaru. ādarū allalli bekādaṣṭu ok maragaḻū iddavu. kaḍalatīrada sasyagaḻiddavu. dina kaḻèdaṃtè toṭatuḍikèyiṃda varamāna kaḍimè; varṣaviḍī uttama havè, kaḍalatīra, òḻḻèya baṃdaru iruva ī dvīpadalli toṭatuḍikègaḻannu tègèdu rèsārṭugaḻu, gālph korsugaḻu, krīḍāmaidānagaḻu, boṭiṃg ityādigaḻannèbbisidarè lābha ènnisiteno.
+story-n3: sāhukārara nāḍāda amèrikadalli iṃtha aiḍiyāgaḻigè protsāha kòḍuvavaru bekādaṣṭu jana. aravattara daśakadalli ī sudhāraṇègaḻu jārigòṃḍu toṭatuḍikègaḻa badalu sībīc hoṭèlgaḻu, sṭehoṃgaḻu, gālphkorsgaḻu, hoṭèlgaḻigāgi toṭa, tuḍikè, hinnīra kovugaḻu, hòṃḍagaḻu, kāḍu kòccatòḍagidaru. laksuriya navāvatāragaḻa āhuṭa hèccidaṣṭū kāru, plenu, hèligaḻalli baṃdiḻiyuva būṭu, cèḍḍi, ṭīśarṭu, kūliṃgglās, skalkyāpu tòṭṭa duḍḍuḻḻa abhimānigaḻa bharāṭèyū hèccatòḍagitu.
+story-n4: ī rītiya atikramaṇa salladu èṃdu alliya kèlavarādarū paryāvaraṇābhimānigaḻigè annisiteno. avarugaḻū kūḍi illina purātana sasyasaṃpattu, haḻèya kālada hòṃḍagaḻu, hinnīrina kovugaḻu, okmara topugaḻu, kaḍalatīrada sasyagaḻu mattu kāḍina maragaḻannu tariyalekūḍadu ènnuva caḻavaḻiyannu āraṃbhisidaru. ādarū duḍḍu bulḍojaruḻḻa vīrara muṃdè ivara kaisāgalilla. illina gālph korsugaḻu, krīḍāvinodagaḻèḍègaḻu èṣṭu cènnāgiddavèṃdarè prasiddharu mojigè baruttiddaru. amèrikada prèsiḍèṃṭarū gālphgè baṃdadduṃṭu.
+story-n5: duḍḍu mattu daulattugaḻiṃda paryāvaraṇada caḻuvaḻigaḻigè hinnaḍè āgatòḍagidāga kèlavu āsaktaru korṭina mèṭṭiligeruva ālocanè māḍatòḍagidaru. āga hego òbba nèladaḻḻāḻigè paryāvaraṇada sukhaduḥkhagaḻigū manassu kòḍuva iṃbāyitu. avanū paryāvaraṇada āsaktaròḍanè kūḍikòṃḍu kaḍala tīrada sasyasaṃpattu haḻèya kālada hòṃḍagaḻu, ok maragaḻannu hòḍèdu tariyale kūḍadu ènnuva caḻavaḻi āraṃbhisida. ādarè sāhukāraru baggalilla. ivaru vidhiyilladè korṭu kacerigaḻa mèṭṭileridaru.
+story-n6: ī hòydāṭadalli krameṇa janasammati paryāvaraṇadatta òliyitu. rastè, kaṭṭaḍa, krīḍāṃgaṇa, setuvègè toruttidda abhiyaṃtara śraddhèyanne parisara sauṃdarya, giḍa, mara, taṭasasya saṃkula, hòṃḍagaḻigū torisatòḍagidaru. sthaḻada nèla jala vana saṃpattu hèccuvaṃtè nèlavannu kāpiṭṭukòṃḍu dvīpada sauṃdaryavannu hèccisikòḻḻabeku ènnuva dīḍinalli maṃtrālocanègaḻādavu. purābhivṛddhi kārya hāgèye jarugatòḍagitu. pariṇāmavāgi, nālkāru varṣagaḻalli hilṭan hèḍ naṃdanavanadaṃtè mara, giḍa, hòṃḍa, tīrada sasyagaḻiṃda kaṃgòḻisatòḍagitu. avugaḻa naḍuvè krīḍègè èḍègaḻādavu. prèsiḍèṃṭarū paccèyaṃtè hòḻèyuva illiya gālph korsigè āḍalu baruvudū sādhāraṇavāyitu.
+story-n7: dinaviḍī suttāḍi saṃtoṣapaṭṭu kaḍalataḍiya purātana laiṭhausanneri aṭlāṃṭik mahāsāgara, samudradalloḍāḍuttidda naukègaḻu, kaḍala kāgègaḻu, namma baḍḍège baṃdiḻiyuva revan, maināgaḻanna noḍi nāvū ānaṃdisidèvu.
+story-n8: alliṃda kèḻagiḻida melè akasmāttāgi hāvu baḻukina hinnīrina dòṇèya òṃdu badiyalli duṃḍanèya vedikèya naḍuvè òṃdu dòḍḍa ok maravannu kaṃḍèvu. adenèṃdu alligè hodèvu. adòṃdu haḻèya ok mara; adaraḍi tèḻḻagè agèta māḍi dappa gòbbara, marada cèkkè haraḍiddaru. yārū kālikkadaṃtè paridhiya suttalū kaṭakaṭè kaṭṭiddaru. idu libarṭi ok mara. aivattara daśakadalli parisara rakṣaṇègāgi jana òggūḍi paṇatòṭṭiddu ī maradalliye. idu saṃrakṣita jāga. dayaviṭṭu kaṭakaṭèya òḻagè praveśisabeḍi ènnuva phalakavannu nèṭṭiddaru. hīgè ā mara nūrukāla bāḻuvaṃtè rakṣitavāgittu. naṃtarada kāladalli ī marada prasiddhi èṣṭu haraḍitèṃdarè idara sānnidhyavannu kaṃḍu maraḻida jana taṃtamma kṣetragaḻalli paryāvaraṇa rakṣaṇèyalli curukugòṃḍaru. ī marada sānnidhyadalli èṣṭo vivāhagaḻāgivèyaṃtè!
+competency: 'kauśala: ālisuvudu. sāmarthya: guṃpu caṭuvaṭikègaḻa nirdeśanagaḻannu ālisi, arthamāḍikòṃḍu āṃgikavāgi pratikriyisuvudu. āśaya: manuṣyanu nāgarīkatèya vyāmohakkè siluki suṃdaravāda parisara tāṇagaḻannu nāśamāḍuttā baṃdiddānè. maragiḍagaḻannu kattarisi ā jāgagaḻannu vyāpāra, manaraṃjanā, krīḍā tāṇagaḻannāgi parivartisuttiruvudariṃda namma parisara tāṇagaḻu adhogatiyannu kāṇuttivè. prakṛtiya melè naḍèyuttiruva daurjanyavannu taḍègaṭṭalu parisaravādigaḻu mòdaliniṃdalū naḍèsuttiruva horāṭagaḻu avismaraṇīya. prastuta sanniveśadalli parisaravannu saṃrakṣaṇè māḍabekāgiruvudu nammèllara ādya kartavyavāgabeku èṃbudu ī pāṭhada mukhya āśaya.'
+author-1: śaśidhara viśvāmitra 1940ralli maisūrinalli huṭṭidaru. sèṃṭral kālejinalli padavīdhararāda melè bhārata sarakārada rāṣṭrīya kṣayaroga saṃsthèyalli saṃśodhakarāgi vṛttijīvana prāraṃbhisidaru. kṣayarogakkè saṃbaṃdhisida vividha saṃsthègaḻalli, vividha huddègaḻalli kāryanirvahisiddārè. khila, pada kusiyè nèlavihudè, hiṃdū dharma, sṛṣṭiya raṃgavalli- muṃtādavu ivara kèlavu prakaṭita kṛtigaḻu. saṃci èṃba ātmakatèyannu barèdiddārè.
+vocab-amerindian: amèriṃḍiyannaru
+vocab-amerindian-def: amèrikā bhūkhaṃḍadalli airopyaru baṃdu vasāhatu sthāpisuvudakkè mòdalu alli vāsavāgidda mūlanivāsigaḻu
+vocab-dhulipata: dhūḻīpaṭa
+vocab-dhulipata-def: saṃpūrṇa nāśa
+vocab-oak: ok
+vocab-oak-def: èttarakkè bèḻèyuva òṃdu jātiya mara
+vocab-golf: gālph
+vocab-golf-def: śrīmaṃtara āṭavèṃde prasiddhavāgiruva òṃdu bagèya vilāsi āṭa
+vocab-golf-course: gālphkors
+vocab-golf-course-def: gālph āṭada aṃgaṇa
+vocab-hinnira-kovu: hinnīra kovu
+vocab-hinnira-kovu-def: samudravu òḻacāciruva nèlabhāga
+vocab-stayhome: sṭehoṃ
+vocab-stayhome-def: pravāsigaḻu uḻidukòḻḻalèṃdu kaṭṭida vasati
+vocab-luxury: laksuri
+vocab-luxury-def: vilāsa
+vocab-heli: hèli
+vocab-heli-def: hèlikāpṭar
+vocab-atikramana: atikramaṇa
+vocab-atikramana-def: akramavāgi athavā balātkāravāgi vaśapaḍisikòḻḻuvudu
+vocab-paryavarana: paryāvaraṇa
+vocab-paryavarana-def: parisara
+vocab-tatasasya: taṭasasyasaṃkula
+vocab-tatasasya-def: nadi athavā samudrada daṃḍèyalli bèḻèyuva jalasasyagaḻu
+vocab-abhiyantara: abhiyaṃtara
+vocab-abhiyantara-def: iṃjiniyariṃg
+vocab-raven-maina: revan mainā
+vocab-raven-maina-def: hakkigaḻu
+vocab-kapittu: kāpiṭṭukòṃḍu
+vocab-kapittu-def: rakṣisuvudu, kāpāḍuvudu
+vocab-purabhivriddhi: purābhivṛddhi
+vocab-purabhivriddhi-def: nagarada abhivṛddhi
+vocab-ahuta: āhuṭa
+vocab-ahuta-def: upaṭaḻa, upadravatè, tòṃdarè
+vocab-liberty: libarṭi
+vocab-liberty-def: svātaṃtrya (amèrikada ‘sṭācyū āph libarṭi’ pratimè prasiddha)
+vocab-pacche: paccè
+vocab-pacche-def: hasiru
+vocab-badde: baḍḍè
+vocab-badde-def: baṃḍa, beru, badi
+ex-a-q1: hilṭan hèḍ dvīpa yāva sāgaradallidè?
+ex-a-q2: amèrikadalli vāsavāgidda mūlanivāsigaḻannu enènnuttārè?
+ex-a-q3: hilṭan hèḍnalli baṃdiḻiyuva śrīmaṃtara uḍugè tòḍugè hegittu?
+ex-a-q4: hilṭan hèḍ dvīpadalli enenu krīḍègaḻannu āyojisalāguttittu?
+ex-a-q5: kaḍalataḍiya laiṭhausanneridarè yāva citraṇavu kāṇasiguttadè?
+ex-a-q6: hilṭan hèḍnalliruva smāraka yāvudu?
+ex-b-q1: yuropiyannaru baṃda melè hilṭan hèḍnalli enenu badalāvaṇègaḻādavu?
+ex-b-q2: hilṭan hèḍ mòdalu hegittu?
+ex-b-q3: hilṭan hèḍna smāraka marada baggè vivarisi.
+ex-b-q4: hilṭan hèḍ dvīpadalli enenu kaṭṭaḍagaḻu nirmāṇagòṃḍavu?
+ex-b-q5: hilṭan hèḍnalli parisara horāṭa hegè prāraṃbhavāyitu?
+ex-c-q1: yuropiyannara āgamanavāda melè amèriṃḍiyannara samudāyavu ________ āyitu. (abhivṛddhi, śikṣita, dhūḻīpaṭa)
+ex-c-q2: aṭlāṃṭik sāgaravu amèrikada ______ bhāgadallidè. (pūrva, uttara, paścima)
+ex-c-q3: vidhiyilladè kònègè _____ mòrè hogabekāyitu. (dhanikara, amèrikādhyakṣara, nyāyālayada)
+ex-c-q4: kaṭṭaḍagaḻigè toruttidda ________ śraddhèyanne jana parisarakkū nīḍatòḍagidaru. (pāraṃparika, abhiyaṃtara, rājakīya)
+ex-c-q5: dvīpada sauṃdaryavannu hèccisikòḻḻalu mòdalu èllarū seri __________ naḍèsidaru. (maṃtrālocanè, jāthā, pratibhaṭanè)
+ex-c-q6: horāṭa muṃduvarida baḻika hilṭan hèḍ _________ kaṃgòḻisatòḍagitu. (rājadhāniyaṃtè, naṃdanavanadaṃtè, abhayāraṇyadaṃtè)

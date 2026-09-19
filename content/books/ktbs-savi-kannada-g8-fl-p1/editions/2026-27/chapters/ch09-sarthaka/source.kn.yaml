@@ -1,0 +1,122 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 8
+  subject: Kannada
+  chapter: 9
+  slug: ch09-sarthaka
+  title: ಸಾರ್ಥಕ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ದಿನಕರ ದೇಸಾಯಿ
+labels:
+  poem: ಪದ್ಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+segments:
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ನನ್ನ ದೇಹದ ಬೂದಿ - ಗಾಳಿಯಲಿ ತೂರಿಬಿಡಿ,
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: "ಹೋಗಿ ಬೀಳಲಿ ಭತ್ತ ಬೆಳೆಯುವಲ್ಲಿ:"
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಬೂದಿ-ಗೊಬ್ಬರದಿಂದ ತೆನೆಯೊಂದು ನೆಗೆದುಬರೆ,
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಧನ್ಯವಾಯಿತು ಹುಟ್ಟು ಸಾವಿನಲ್ಲಿ
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನನ್ನ ದೇಹದ ಬೂದಿ-ಹೊಳೆಯಲ್ಲಿ ಹರಿಯ ಬಿಡಿ
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ತೇಲಿ ಬೀಳಲಿ ಮೀನ ಬಾಯಿಯಲ್ಲಿ;
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಮುಷ್ಟಿ ಬೂದಿಯ ತಿಂದು - ಪುಷ್ಟವಾಗಲು ಮೀನು
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಧನ್ಯವಾಯಿತು ಹುಟ್ಟು ಸಾವಿನಲ್ಲಿ
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ನನ್ನ ದೇಹದ ಬೂದಿ-ಕೊಳದಲ್ಲಿ ಬೀಗಿ ಬಿಡಿ
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ತಾವರೆಯು ದಿನದಿನವೂ ಅರಳುವಲ್ಲಿ;
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಬೂದಿ ಕೆಸರನು ಕೂಡಿ ಹೊಸ ಪಂಕಜವು ಮೂಡೆ,
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಧನ್ಯವಾಯಿತು ಹುಟ್ಟು ಸಾವಿನಲ್ಲಿ
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಸತ್ತಮೇಲಾದರೂ ದೇಹ ಸೇವೆಗೆ ನಿಲಲಿ,
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಇಂದಿಗೀ ನರಜನ್ಮ ಸೇವೆಯೆಂದು
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ತನ್ನ ಸ್ವಾರ್ಥವ ನೆನೆದು ವ್ಯರ್ಥವಾಗಿದೆ ದೇಹ,
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ನಿಜಸೇವೆ ಗೈಯಲಿಕೆ ಬರಲಿ ಮುಂದು.
+- id: author-1
+  type: prose
+  section: author
+  text: ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಚುಟುಕು ಬ್ರಹ್ಮನೆಂದು ಪ್ರಖ್ಯಾತರಾದವರು ದಿನಕರ ದೇಸಾಯಿಯವರು (1909). ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆಯ ಅಂಕೋಲ ತಾಲ್ಲೂಕಿನ ಅಲಗೇರಿ ಎಂಬ ಪುಟ್ಟ ಹಳ್ಳಿಯವರು. ತಂದೆ ದತ್ತಾತ್ರೇಯ ದೇಸಾಯಿ ಶಾಲಾ ಮಾಸ್ತರು. ತಾಯಿ ಅಂಬಿಕಾ. ಮೈಸೂರಿನಲ್ಲಿ ಬಿ.ಎ. ಪದವಿಯನ್ನು ಪಡೆದ ಇವರು ಮುಂಬೈನ ಸೈಂಟ್ ಝೇವಿಯರ್ ಕಾಲೇಜಿನಲ್ಲಿ ಎಂ.ಎ. ಪದವಿಯನ್ನು ಪಡೆದರು. ವಿವಿಧ ಸಂಘಟನೆಗಳ ಸಂಘಟಕರಾಗಿ, ಪತ್ರಿಕಾ ವರದಿಗಾರರಾಗಿ, ಸಂಸದರಾಗಿ ದುಡಿದು ನವೆಂಬರ್ 6, 1982 ರಲ್ಲಿ ಇಹಲೋಕ ತ್ಯಜಿಸಿದರು. ಇವರ ಪ್ರಮುಖ ಕೃತಿಗಳು ಹೂಗೊಂಚಲು, ತರುಣರ ದಸರೆ, ಕಡಲ ಕನ್ನಡ, ದಿನಕರನ ಚೌಪದಿ, ನಾಕಂಡ ಪಡುವಣ (ಪ್ರವಾಸ ಸಾಹಿತ್ಯ) ಹೀಗೆ 12 ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರ ದಿನಕರನ ಚೌಪದಿ ಕೃತಿಗೆ ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪುರಸ್ಕಾರ ದೊರೆತಿದೆ.
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಗಾಳಿಯಲ್ಲಿ ಬೂದಿಯನ್ನು ತೂರಿದಾಗ ಎಲ್ಲಿ ಬೀಳುತ್ತದೆ?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ಬೂದಿಯನ್ನು ಹೊಳೆಯಲ್ಲಿ ಹರಿಯಬಿಟ್ಟಾಗ ಯಾರಿಗೆ ಸಿಗುತ್ತದೆ?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ದೇಹ ಏಕೆ ವ್ಯರ್ಥವಾಗಿದೆ?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಬೂದಿಯನ್ನು ಕೊಳದಲ್ಲಿ ಬಿಡುವುದರಿಂದ ಬದುಕು ಧನ್ಯವಾಗುವುದು ಹೇಗೆ? ವಿವರಿಸಿ.
+- id: ex-a-q5
+  type: question
+  exercise: A
+  text: ಸಾರ್ಥಕ ಪದ್ಯದ ಯಾವ ಅಂಶಗಳನ್ನು ನೀವು ಮೆಚ್ಚುವಿರಿ?

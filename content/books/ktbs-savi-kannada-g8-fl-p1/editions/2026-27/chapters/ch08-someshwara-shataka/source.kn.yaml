@@ -1,0 +1,306 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 8
+  subject: Kannada
+  chapter: 8
+  slug: ch08-someshwara-shataka
+  title: ಸೋಮೇಶ್ವರ ಶತಕ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+  author: ಪುಲಿಗೆರೆ ಸೋಮನಾಥ
+labels:
+  intro: ಪ್ರವೇಶ
+  poem: ಪದ್ಯ
+  author: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  ashaya: ಆಶಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಐದು-ಆರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-D: ಈ. ಸಂದರ್ಭಸಹಿತ ಸ್ವಾರಸ್ಯವನ್ನು ವಿವರಿಸಿ.
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ ಶತಕ ಸಾಹಿತ್ಯ ವಿಶೇಷತೆಯಿಂದ ಕೂಡಿದ್ದು. ಈ ಪ್ರಕಾರದಲ್ಲಿ ಕೃತಿ ರಚನೆ ಮಾಡಿರುವ ಕವಿ ಸೋಮನಾಥ. ಈತನ ಕೃತಿ ಸೋಮೇಶ್ವರ ಶತಕವೆಂದೇ ಪ್ರಸಿದ್ಧಿಪಡೆದಿದೆ. ಸೋಮೇಶ್ವರ ಶತಕವು ಕನ್ನಡ ನಾಡಿನ ಜನಪದ ಕಾವ್ಯವೆಂಬಂತೆ ಜನಮನದಲ್ಲಿ ನೆಲೆಸಿರುವ ಕಾವ್ಯ. ನೀತಿ ಬೋಧಕವಾದ ಈ ಕಾವ್ಯವು ಇಂದಿಗೂ ಅನುಕರಣೀಯವಾದುದಾಗಿದೆ. “ಮಾತೃದೇವೋಭವ, ಪಿತೃದೇವೋಭವ, ಆಚಾರ್ಯ ದೇವೋಭವ” ಎಂಬುದು ನಮ್ಮೆಲ್ಲ ಧರ್ಮಗಳ ಮೂಲ ಮಂತ್ರ.
+- id: intro-2
+  type: prose
+  section: intro
+  text: ಇವರೆಲ್ಲರೂ ತಮ್ಮ ತಮ್ಮ ಕರ್ತವ್ಯಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ತಮ್ಮ ಜವಾಬ್ದಾರಿಗಳನ್ನು ಪ್ರಾಮಾಣಿಕವಾಗಿ ನಿಷ್ಠೆಯಿಂದ ಮಾಡಲೇಬೇಕು. ರಾಜ್ಯವಾಳುವ ರಾಜನಾಗಲಿ, ಮಂತ್ರಿಯಾಗಲಿ, ರಕ್ಷಕರಾದ ಭಟರಾಗಲಿ ಇದರಿಂದ ಹೊರತಾಗುವುದಿಲ್ಲ. ಈ ಕರ್ತವ್ಯ ಪ್ರಜ್ಞೆಯೇ ದೈವತ್ವದ ಸ್ಥಾನ-ಮಾನ ಪಡೆಯಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ದೈವದ ಅನುಗ್ರಹವು ಸ್ವಾಭಾವಿಕವಾಗಿ ಏನೆಲ್ಲ ಪರಿವರ್ತನೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಮನೋಜ್ಞವಾಗಿ ಈ ಶತಕದಲ್ಲಿ ವಿವರಿಸಲಾಗಿರುವುದರಿಂದ ಇಂದಿಗೂ ಪ್ರಸ್ತುತವಾಗಿದೆ.
+- id: poem-s1l1
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಹಿತವಂ ತೋರುವನಾತ್ಮಬಂಧು ಪೊರೆವಾತಂ ತಂದೆ ಸದ್ಧರ್ಮದಾ |
+- id: poem-s1l2
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಸತಿಯೇ ಸರ್ವಕೆ ಸಾಧನಂ ಕಲಿಸಿದಾತಂ ವರ್ಣಮಾತ್ರಂ ಗುರು ||
+- id: poem-s1l3
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಶ್ರುತಿಮಾರ್ಗಂ ಬಿಡದಾತ ಸುವ್ರತಿ ಮಹಾ ಸದ್ವಿದ್ಯೆಯೇ ಪುಣ್ಯದಂ |
+- id: poem-s1l4
+  type: poem_line
+  section: poem
+  stanza: 1
+  text: ಸುತನೇ ಸದ್ಗತಿದಾತನೈ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ ||
+- id: poem-s2l1
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಪ್ರಜೆಯಂ ಪಾಲಿಸಬಲ್ಲೊಡಾತನರಸಂ ಕೈಯಾಸೆಯಂ ಮಾಡದಂ |
+- id: poem-s2l2
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ನಿಜ ಮಂತ್ರೀಶ್ವರ ತಂದೆ ತಾಯ ಸಲಹಲ್ ಬಲ್ಲಾತನೇ ಧಾರ್ಮಿಕಂ ||
+- id: poem-s2l3
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ಭಜಕಂ ದೈವದ ಭಕ್ತಿಯುಳ್ಳೊಡೆ ಭಟಂ ನಿರ್ಭೀತ ತಾನಾದವಂ |
+- id: poem-s2l4
+  type: poem_line
+  section: poem
+  stanza: 2
+  text: ದ್ವಿಜನಾಚಾರತೆಯುಳ್ಳವಂ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ||
+- id: poem-s3l1
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಅತಿ ಗಂಭೀರನುದಾರ ಧೀರನು ಮಹಾ ಸಂಪನ್ನ ಸತ್ಯಾತ್ಮನೂ |
+- id: poem-s3l2
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ರ್ಜಿತ ನಾನಾಲಿಪಿಭಾಷೆಯೊಳ್ ಪರಿಚಿತಂ ಲಂಚಕ್ಕೆ ಕೈನೀಡದಂ ||
+- id: poem-s3l3
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ವ್ರತ ಸದ್ಧರ್ಮ ವಿಚಾರಶಾಲಿ ಚತುರೋಪಾಯಂಗಳಂ ಬಲ್ಲವಂ |
+- id: poem-s3l4
+  type: poem_line
+  section: poem
+  stanza: 3
+  text: ಪತಿಕಾರ್ಯಂ ವರ ಮಂತ್ರಿಯೈ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ ||
+- id: poem-s4l1
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಉಡುರಾಜಂ ಕಳೆಗುಂದಿ ಪೆರ್ಚದಿಹನೇ ನೃಗ್ರೋಧಬೀಜಂ ಕೆಲಂ |
+- id: poem-s4l2
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಸಿಡಿದುಂ ಪೆರ್ಮರನಾಗದೇ ಎಳಗರುಂ ಎತ್ತಾಗದೇ ಲೋಕದೊಳ್ ||
+- id: poem-s4l3
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಮಿಡಿ ಪಣ್ಣಾಗದೆ ದೈವನೊಲ್ಮೆಯಿರಲಾ ಕಾಲಾನುಕಾಲಕ್ಕೆ ತಾಂ |
+- id: poem-s4l4
+  type: poem_line
+  section: poem
+  stanza: 4
+  text: ಬಡವಂ ಬಲ್ಲಿದನಾಗನೇ ಹರಹರಾ ಶ್ರೀಚೆನ್ನಸೋಮೇಶ್ವರಾ ||
+- id: author-1
+  type: prose
+  section: author
+  text: ಪುಲಿಗೆರೆ ಸೋಮನಾಥ ಸಾ.ಶ. ಸುಮಾರು 1299ರಲ್ಲಿ ಧಾರವಾಡ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಪುಲಿಗೆರೆಯವನು. ಪುಲಿಗೆರೆ ಸೋಮನಾಥನೆಂದೇ ಪ್ರಸಿದ್ಧಿ. ಕನ್ನಡ, ಸಂಸ್ಕೃತ ಭಾಷಾಪಂಡಿತನಾದ ಈತನ ಅಂಕಿತ ಹರಹರಾ ಶ್ರೀ ಚನ್ನಸೋಮೇಶ್ವರಾ. ಕನ್ನಡ ರತ್ನಕರಂಡಕ ಕಾವ್ಯವನ್ನು ಚಂಪುವಿನಲ್ಲಿಯೂ ಸೋಮೇಶ್ವರ ಶತಕವನ್ನು ವೃತ್ತ ಛಂದಸ್ಸಿನಲ್ಲಿಯೂ ರಚಿಸಿದ್ದಾನೆ. ಪ್ರಕೃತ ಚೌಪದಿಗಳನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಸಂಪಾದಿಸಿರುವ ಸೋಮೇಶ್ವರ ಶತಕ ಕೃತಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಲಾಗಿದೆ.
+- id: ashaya-1
+  type: prose
+  section: ashaya
+  text: ಸಮಾಜದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾದ ತಂದೆ, ತಾಯಿ, ಮಗ, ಪತ್ನಿ, ಗುರುಗಳ ಜವಾಬ್ದಾರಿಗಳನ್ನು, ದ್ವಿಜ, ರಾಜ, ಮಂತ್ರಿ, ಭಟ ಮೊದಲಾದವರ ಕರ್ತವ್ಯಗಳನ್ನು ಈ ನೀತಿ ಶತಕದಲ್ಲಿ ಮಾರ್ಮಿಕವಾಗಿ ಹೇಳಲಾಗಿದೆ. ನಿಜವಾದ ಮಂತ್ರಿಗೆ ಇರಬೇಕಾದ ಲಕ್ಷಣ, ದೇವರ ಅನುಗ್ರಹದಿಂದ ಕಾಲಾನುಕ್ರಮದಲ್ಲಿ ಸ್ವಾಭಾವಿಕವಾಗಿ ಆಗುವ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆಯೂ ವಿವರಿಸಲಾಗಿದೆ. ಈ ಮೂಲಕ ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ತಮ್ಮ ಜವಾಬ್ದಾರಿಗಳನ್ನರಿತಾಗ ಸುಖೀಸಮಾಜದ ನಿರ್ಮಾಣವಾಗುತ್ತದೆಂಬುದು ಈ ನೀತಿ ಶತಕದ ಆಶಯ.
+- id: vocab-atma
+  type: vocabulary_term
+  text: ಆತ್ಮ
+- id: vocab-atma-def
+  type: vocabulary_definition
+  text: ತನ್ನ
+- id: vocab-uduraja
+  type: vocabulary_term
+  text: ಉಡುರಾಜ
+- id: vocab-uduraja-def
+  type: vocabulary_definition
+  text: ನಕ್ಷತ್ರಾಧಿಪತಿ, ಚಂದ್ರ
+- id: vocab-urjita
+  type: vocabulary_term
+  text: ಊರ್ಜಿತ
+- id: vocab-urjita-def
+  type: vocabulary_definition
+  text: ರೂಢಿಯಲ್ಲಿರುವ
+- id: vocab-olme
+  type: vocabulary_term
+  text: ಒಲ್ಮೆ
+- id: vocab-olme-def
+  type: vocabulary_definition
+  text: ಪ್ರೀತಿ
+- id: vocab-kele
+  type: vocabulary_term
+  text: ಕೆಲ
+- id: vocab-kele-def
+  type: vocabulary_definition
+  text: ಕೆಲವು
+- id: vocab-kaiyase
+  type: vocabulary_term
+  text: ಕೈಯಾಸೆ
+- id: vocab-kaiyase-def
+  type: vocabulary_definition
+  text: ಲಂಚ, ಆಮಿಷ
+- id: vocab-chaturopaya
+  type: vocabulary_term
+  text: ಚತುರೋಪಾಯ
+- id: vocab-chaturopaya-def
+  type: vocabulary_definition
+  text: ಸಾಮ, ದಾನ ಮೊದಲಾದ ಉಪಾಯಗಳು
+- id: vocab-dvija
+  type: vocabulary_term
+  text: ದ್ವಿಜ
+- id: vocab-dvija-def
+  type: vocabulary_definition
+  text: ಬ್ರಾಹ್ಮಣ
+- id: vocab-nrugrodha
+  type: vocabulary_term
+  text: ನೃಗ್ರೋಧ
+- id: vocab-nrugrodha-def
+  type: vocabulary_definition
+  text: ಆಲದಮರ
+- id: vocab-patikarya
+  type: vocabulary_term
+  text: ಪತಿಕಾರ್ಯ
+- id: vocab-patikarya-def
+  type: vocabulary_definition
+  text: ಸ್ವಾಮಿಕಾರ್ಯ
+- id: vocab-palisu
+  type: vocabulary_term
+  text: ಪಾಲಿಸು
+- id: vocab-palisu-def
+  type: vocabulary_definition
+  text: ಕಾಪಾಡು, ಸಲಹು
+- id: vocab-perchu
+  type: vocabulary_term
+  text: ಪೆರ್ಚು
+- id: vocab-perchu-def
+  type: vocabulary_definition
+  text: ಹೆಚ್ಚು, ವೃದ್ಧಿಸು
+- id: vocab-permera
+  type: vocabulary_term
+  text: ಪೆರ್ಮರ
+- id: vocab-permera-def
+  type: vocabulary_definition
+  text: ದೊಡ್ಡಮರ
+- id: vocab-pore
+  type: vocabulary_term
+  text: ಪೊರೆ
+- id: vocab-pore-def
+  type: vocabulary_definition
+  text: ಕಾಪಾಡು
+- id: vocab-ballida
+  type: vocabulary_term
+  text: ಬಲ್ಲಿದ
+- id: vocab-ballida-def
+  type: vocabulary_definition
+  text: ಬಲಿಷ್ಠ, ಹಣವಂತ
+- id: vocab-bhajaka
+  type: vocabulary_term
+  text: ಭಜಕ
+- id: vocab-bhajaka-def
+  type: vocabulary_definition
+  text: ಪೂಜಿಸುವವನು
+- id: vocab-bhata
+  type: vocabulary_term
+  text: ಭಟ
+- id: vocab-bhata-def
+  type: vocabulary_definition
+  text: ಸೈನಿಕ
+- id: vocab-midi
+  type: vocabulary_term
+  text: ಮಿಡಿ
+- id: vocab-midi-def
+  type: vocabulary_definition
+  text: ಹೀಚು
+- id: vocab-varna
+  type: vocabulary_term
+  text: ವರ್ಣ
+- id: vocab-varna-def
+  type: vocabulary_definition
+  text: ಅಕ್ಷರ
+- id: vocab-vrati
+  type: vocabulary_term
+  text: ವ್ರತಿ
+- id: vocab-vrati-def
+  type: vocabulary_definition
+  text: ನಿಯಮವುಳ್ಳವನು
+- id: vocab-shruti
+  type: vocabulary_term
+  text: ಶ್ರುತಿ
+- id: vocab-shruti-def
+  type: vocabulary_definition
+  text: ವೇದ
+- id: vocab-sampanna
+  type: vocabulary_term
+  text: ಸಂಪನ್ನ
+- id: vocab-sampanna-def
+  type: vocabulary_definition
+  text: ಗುಣಶಾಲಿ
+- id: vocab-sadhana
+  type: vocabulary_term
+  text: ಸಾಧನ
+- id: vocab-sadhana-def
+  type: vocabulary_definition
+  text: ಸಹಾಯ
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ನಿಜವಾದ ಬಂಧು ಯಾರು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ಧಾರ್ಮಿಕನೆಂದು ಯಾರನ್ನು ಕರೆಯಲಾಗಿದೆ?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ರಾಜನಾದವನ ಕರ್ತವ್ಯವೇನು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಆಲದ ಮರದ ಬೀಜ ಸಿಡಿದು ಭೂಮಿಗೆ ಬಿದ್ದು ಏನಾಗುತ್ತದೆ?
+- id: ex-a-q5
+  type: question
+  exercise: A
+  text: ಪುಲಿಗೆರೆ ಸೋಮನಾಥನ ಅಂಕಿತನಾಮವೇನು?
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: ಸುವ್ರತಿ ಹಾಗೂ ಸುತನ ಬಗೆಗೆ ಕವಿ ಏನು ಹೇಳಿದ್ದಾನೆ?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: ಭಟ ಮತ್ತು ದ್ವಿಜರ ಲಕ್ಷಣಗಳೇನು?
+- id: ex-c-q1
+  type: question
+  exercise: C
+  text: ಶ್ರೇಷ್ಠ ಮಂತ್ರಿಯಲ್ಲಿರಬೇಕಾದ ಲಕ್ಷಣಗಳೇನು?
+- id: ex-c-q2
+  type: question
+  exercise: C
+  text: ಬಡವ ಬಲ್ಲಿದನಾಗುವನು ಎಂಬುದಕ್ಕೆ ಕವಿ ನೀಡಿರುವ ನಿದರ್ಶನಗಳಾವುವು?
+- id: ex-d-q1
+  type: question
+  exercise: D
+  text: “ಸದ್ಧರ್ಮದಾ ಸತಿಯೇ ಸರ್ವಕೆ ಸಾಧನಂ”
+- id: ex-d-q2
+  type: question
+  exercise: D
+  text: “ಅತಿ ಗಂಭೀರನುದಾರ ಧೀರನು”
+- id: ex-d-q3
+  type: question
+  exercise: D
+  text: “ಉಡುರಾಜಂ ಕಳೆಗುಂದಿ ಪೆರ್ಚದಿಹನೇ”

@@ -1,0 +1,47 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  poem: 'Poem'
+  author: 'About the author'
+  exercise-A: 'A. Answer the given questions in one sentence.'
+
+poem-s1l1: 'Make it play, make it fall—it does not roll away'
+
+poem-s1l2: 'Whatever comes, to no one does it bow the head in defeat'
+
+poem-s1l3: 'It smiles saying I will always be like this, smiling like this'
+
+poem-s2l1: 'Whether hut or palace, the play does not stop'
+
+poem-s2l2: 'Whether elders are there or young ones come, it shows no difference'
+
+poem-s2l3: 'Whether hardship or joy, without fear it plays and swings'
+
+poem-s3l1: 'Though the body is crushed and hurts, sugarcane gives sweetness'
+
+poem-s3l2: 'Though being rubbed, sandal’s fragrance keeps filling'
+
+poem-s3l3: 'Though itself burning, the lamp brings light to the house'
+
+poem-s4l1: 'In the skill of the player’s hand all is hidden'
+
+poem-s4l2: 'His mercy fills life, makes it dance and delight'
+
+poem-s4l3: 'If that hand fails, the puppet’s story ends!'
+
+author-1: 'Chittanahalli Sadashivayya Udayashankar, famous as Chi. Udayashankar, was born on 18 February 1934 at Holenarasipura. Fame of composing about 4,000 cinema songs is his. Son of Kannada film litterateur Chi. Sadashivayya, Udayashankar saw cinema from childhood. His literary work began with the film “Santa Tukaram.” He wrote over 400 songs for Dr Rajkumar’s films and acted as co-actor in some. Dialogues for Rajkumar’s 88 films were also by Chi. Udayashankar. Songs like “Mamaravello Kogileyello,” “Badihoda Balliyinda Huvu Aralaballude,” “Snehada Kadalli,” “Innadaru Jivanadalli Munde Banni” remain unfaded in Kannada minds. For work in Kulagaurava, Nagarahavu, Jeevanachaitra, Premada Kanike, Anand and others he received many awards. At age 59 (3 July 1993) Chi. Udayashankar passed away.'
+
+ex-a-q1: 'What courage does the puppet give to those defeated in life?'
+
+ex-a-q2: 'How does the puppet keep swinging?'
+
+ex-a-q3: 'What are the three things that help the world even while suffering themselves?'
+
+ex-a-q4: 'When does the puppet become still?'
+
+ex-a-q5: 'What is the essence of the moral the puppet teaches?'

@@ -1,0 +1,122 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  story: nāṭaka
+  author: kṛtikārara paricaya
+  ashaya: āśaya
+  vocab: padagaḻa artha
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi.
+  exercise-C: i. kòṭṭiruva praśnègaḻigè nālku-aidu vākyagaḻalli uttarisi.
+  exercise-D: ī. kèḻagina heḻikègaḻigè saṃdarbha sahita svārasyavannu barèyiri.
+intro-1: kannaḍa sāhitya prakāragaḻalli nāṭakavu òṃdu. “kāvyagaḻalli nāṭaka manoharavādaddu” nāṭakadalli pātragaḻa abhinaya, dṛśyāvaḻigaḻu, saṃbhāṣaṇè, saṃgīta mòdalādavu noḍugara manassannu sūrègòḻḻuttavè.
+intro-2: itihāsadalli baruva mahāpuruṣaru, yugapravartakaru mòdalādavara paricayavannu hāgū aṃdina sāmājika vyavasthègaḻa pratibiṃbavāgi mūḍibaṃdavugaḻe aitihāsika nāṭakagaḻu. ī niṭṭinalli kapilavastuvina rājakumāra ‘siddhārtha’, buddhanāga bayasi rātrorātri yārigū tiḻisadè rājyavannu parityāga māḍi hoguttānè. ādarè itta ātana maḍadi ‘yaśodharè’ anubhavisuttidda bhaya, ātaṃka hāgū mānasika tumulagaḻannu ī nāṭakadalli prekṣakara manamuṭṭuvaṃtè manojñavāgi citrisalāgidè.
+story-n1: (yaśodharè paṭhada aḍigè talèyiṭṭu duḥkhisuvaḻu. rāhulanu hūgaḻannu tègèdu pīṭhada melè hākuvanu. tāya hèraḻigè òṃdu hūvaniṭṭu sògasu noḍuvanu. ade veḻègè rājanū, aṃbikèyū baruvaru)
+story-d1: ammāji, baṃdihènu.
+story-d2: (èddu baṃdu namaskarisi) pīṭhavanu kòḻabeku. nānu bahudinadiṃda nimma beḍutaliddè. sodariya sutèyèṃdu èḻètanadale nanna karètaṃdiri, sāki salahidiri; sòsèyāgi manègè hogisidiri, bāḻuvèyanuddharisidiri. kanasirali èṇisalāgada saukhyagaḻa nānu nimma aramanèyalli anubhavisi sukhisidènu.
+story-d3: nanna aramanèyalli ?
+story-d4: namma aramanèyalli. nimma aiśvaryadali kaṇamātravanu nanagè illavènnadè nanna paripālisidiri. patiyanittari ; bāla devarāgiralèṃdu ; patiyaninnòmmè nīḍiri ; nanna rakṣisiri.
+story-d5: enamāḍèṃdu keḻuvè ?
+story-d6: namma aṇṇāji taṃdèyanu karètaralu hoguvènu ènalāgi nīvu òppidiraṃtè. nānu nimmanu mòdalè beḍikòṃḍiddè. nānavarèḍègè hoguvènu ivanannilliye nilisikòḻḻiri.
+story-d7: ammāji, bālakanu taṃdèyanu karètaruvènèṃdènalu kevala vinodadali āgabahudèṃdènu. namma kuvarana karèdutarabeku ènalāgi hoha behillave? èḻèyananu kaḻuhuvarè?
+story-d8: enu tāta, munna hohabahudèṃdavaru īga uṃṭe èṃdu heḻuviri ? dòḍḍavaru nanagòṃdu mātanāḍuta tāyi keḻidarè beròṃdu māta heḻuvirò ? nā hohuvènu. amma iṃdaḻutaliddaru. aṇṇa bāradirè aḻutale iruvaru. nā hogi karataruvènu.
+story-d9: keḻidira hasuḻèyāḍuva māta ? nanago ninnè noḍida òṃdu kanasu manavu tuḍuki usiriṃda usiru kaḻavāgi cetanavèlla bèṃḍāgi hogihudu ; òṇagi taragāgihudu.
+story-d10: haudu. aṃbikè kanasa māta heḻidaḻènagè. nijadiṃda baṃdiruva novu sākāgiralu kanasòṃdu berè ninnanu hiṃsèpaḍisutidè.
+story-d11: iṃdu iruḻāguvudu ; innena māḍuva ; niddèyali muḻugalinnāva kanasina mòsaḻè hiḍiyuvudò; innènitu tòḻalabeko, èṃdu cetanagaḻèlla bhītiyali kalakihavènagè. nannanuddharisabeku. (maṃḍiyūri namaskarisuvaḻu.)
+story-d12: eḻu, ammāji ; ninna duḥkhava nānu kāṇène ? eḻamma,
+story-n2: (yaśodharā èddu kuḻitukòḻḻuvaḻu)
+story-d13: hogi keḻuvènu.
+story-d14: saṃnyāsiyādavanu satiya noḍuva mātu saṃpradāyakè virodha.
+story-d15: pūrvadali gārgi saṃnyāsadali tanna patiyòḍanè kānanakè tèraḻidaḻu èṃdu keḻihènu. nānaṃtèye saṃnyāsavanu kòṃḍu patiyèḍègè sāridarè.....
+story-d16: īga nīniha rīti saṃnyāsavallavè ?
+story-d17: āṇma saṃnyāsiyāgiharèṃbudanu nènèva sādhanèya veṣavidu. iṃdu nijadali nānu. saṃnyāsavanu kòṃḍu patiyèḍègè sāridarè.....
+story-d18: patiyèḍègè sāruvarè saṃnyāsanu kòḻalu adanu saṃnyāsavènnuvudèṃtu ammāji ? yaśodharè :nanagè kavidiruva maṃkanu nènèyè nanage nagè barutalidè, aṃtè aḻu barutalidè. innu enamāḍuvudo toradu. èṃtu naḍèyali ? nīvè appaṇèmāḍi. adaraṃtè naḍèyuvènu.
+story-d19: kuvaranigè heḻi kaḻuhisuva, avaniṣṭavanu tiḻidu adaraṃtè naḍèyuva.
+story-d20: āgabahudu, iṃdè behanu kaḻuhi.
+story-d21: kaḻuhuvènu, yāralli ?
+story-d22: tāta aṇṇana noḍè yārano kaḻuhuvira ? nā hogibaruvè. nannanu kaḻuhi.
+story-d23: aṇṇayya mòdalu behina janaru hogi avaricchèyanu tiḻidu maraḻali.
+story-d24: 'mattè hoguvudaṃtè ! mattè ! nānòllè. nānīgale hogabeku. nimagenu ? aṇṇananu noḍihiri : noḍabekèṃdāsè aṣṭu balavāgilla. nānavara noḍilla. innèṣṭu dinakè noḍuvudu ? ammāji, ninagè bhaya beḍamma, nā maraḻi bahènamma ; nijavāgiyū bahènu, alliye nilènamma ; nanna kaḻuhisamma ; avara nā karètaruvènu. tāta nannanu kaḻuhi ; nā maraḻi baruvènu. aṇṇananu noḍabekèṃdu, avaròḍaniddu mātāḍabekèṃdu, nanagè bahu āsèyidè.'
+story-d25: irali summaniraṇṇa.
+story-d26: kanasu nijavāyitu. kanasinali kaṃḍa huli nijadòḻèdurigè baṃdu, kòḍu ninna jīvavanu, èṃdu keḻutalihudu.
+story-d27: ammāji, nānu baruvènò illavo èṃdu ninagè bhayavihudāgè nanna jòtèyali namma aṃbikèya kaḻuhamma. nāvibbarū hogi aṇṇananu karèdahèvamma. òppamma.
+story-d28: aṃbikè. aṃbika :svāmi.
+story-d29: bālanāḍida māta keḻidèya? enèṃbè ? aṃbika :keḻidè. ammāji bhayapaḍutaliharu. tāvariyadihadenuṃṭu ?
+story-d30: ammāji enèṃbè ? aṃbikèya jòtèyalli rāhulana kaḻuhisalu dhairyavāgirabahudu. enaheḻuvè ?
+story-d31: nanagè yāvudū tocadidè. avara noḍuva puṇya nanna ī kaṇgaḻigè iruvudo illavo nānariyè. bālakanu tanna taṃdèya noḍabekèṃdu āśisalu beḍavènnuvudu sariye èṃdu āṃtarya saṃdehadòḻagihudu. kaḻuhuvudu sariyèṃdu. nimagè toridarè kaḻuhiri. beḍavènè nānu.
+story-d32: ammā, èṣṭu òḻḻèyavaḻammā nīnu ! aṃbike, naḍè, hogi aṇṇananu karètaruva. tātā nā hogibaralè ? ammājī. nāvu hogi baroṇavenamma ?
+story-d33: āhā, enu utsāhavidu ! appāji hogibā. aṇṇayya, nanna marèyadiraṇṇa. nimmaṇṇa namma marètaru, nanna badukèlla bayalāytu. avaru biṭṭaṃtè nīnènna kai biḍabeḍa. hogibā. hogibā ; aṃbikè, jòtèyòḻiru; nanna marèyadiru.
+story-d34: nannāṇè marèyuvènè tāyi ?
+story-d35: marètarū tappalla. adu nanna vidhi èṃbè.
+story-d36: ninna vidhi kèṭṭudèṃdèṇisadiru ammāji. ninnarasanīga lokakè pūjyanènisihanu. rājyavāḻuvudèṃba kiriya hirimèyanu. jagada jīvagaḻa uddharipa hirihirimèyanu aḻavaṭṭu, rāja adhirāja vṛṃdagaḻiṃda olaisikòḻḻutta cakrādhipatiyaṃtè niṃdihanu. ekè ciṃtisuvè ? ī bālakanu ninna ī hattu varuṣada tapavè mèyvèttu ninnāṇmananu karèyahòraṭaṃtè hòraṭihanu. vidhiyaritu naḍèva havanadali udgātṛgaḻu svarahiḍidu sògasāgi nuḍida śaktiya maṃtra devaranu taruvaṃtè namma ī bālakanu namma siddhārthananu biḍadè taṃdetahanu. bā nanna aṇṇayya, tāyigabhivaṃdisu. bahu hiriya jīvavayyā ninna tāyiyadu ; bahu hiriya tapa puṇya, bīḻkòḻuva mòdalalli harakèyanu kòḻu. illi bā, òmmè vaṃdisu. tāytaṃdègaḻa puṇya ninnalli phalisali. siddhārthananu karèdutaha kāryadali nīnu siddhārthanappaṃtè devarkaḻèsagali.
+story-n3: (rāhulanu ivarigè namisuvanu. tèrè bīḻuvudu)
+author-1: nnaḍa sāhitya lokadalli‘saṇṇakathègaḻa janaka’rèṃde khyātipaḍèdu, ‘śrīnivāsa’kāvyanāmadiṃda hèsarāṃta māsti vèṃkaṭeśa ayyaṃgāraru kolāra jillèya mālūru tāllūkina māstièṃba grāmadalli6-6-1891ralli janisidaru. tuṃbu baḍatanaviddarū kaṣṭapaṭṭu vidyābhyāsa māḍi uttama darjèyalli iṃgliṣ èṃ.è. padavi paḍèdaru.‘maisūru sivil sarvis’parīkṣèyalli mòdala sthāna paḍèdu asisṭèṃṭ kamiṣanar āgi rājyada vividhèḍè sevè sallisiruttārè. ivaru kāvya, nāṭaka, kādaṃbari vimarśè - hīgè kannaḍa sāhitya vividha prakāragaḻalli kṛti racisiddārè. ivara saṇṇakathègaḻu òṭṭu hadimūru saṃpuṭagaḻalli prakaṭavāgivè.`gautami heḻida kathè’, `sāriputrana kònèya dinagaḻu’, `kucelana bhāgya, `hemakūṭadiṃda baṃda melè’, `cikavīra rājeṃdra’mòdalādavu pramukha kṛtigaḻu. ivara cikavīra rājeṃdra kādaṃbarigè 1983 ralli jñānapīṭha praśasti dòrètidè. ivaru 6-6-1986ralli nidhanarādaru.
+ashaya-1: māsti vèṃkaṭeśa ayyaṃgārara‘yaśodharè’nāṭakadiṃda saṃpādisi nigadipaḍisidè. pūrva kathè siddhārtha rājyavannu parityāga māḍi hogi hattu varṣagaḻu kaḻèdivè. taṃdèyanne kāṇada magu rāhulanigū hattu varṣagaḻāgivè. itta kapilavastuvina aramanèya aṃtaḥpuradalli yaśodharā òbbaḻe ciṃtāmagnaḻāgi siddhārthana paṭhavannu noḍuttā kaṇṇīriḍuttā kuḻitiruttāḻè. duḥkhisalu kāraṇavannu ākèya sakhi aṃbikè keḻalāgi hiṃdina rātri amaṃgaḻavannu sūcisuva kanasòṃdannu kaṃḍènèṃdu heḻuttā, hattu varṣagaḻa hiṃdè iṃthaha kanasòṃdannu kaṃḍu èccaravāgi noḍidarè nanna manadanna irade rājya tòrèdu hogidda. iṃdu kanasiniṃda èccèttu noḍidarè maga iddānè. ādarè èlli nannannu tòrèdu hoguttānèṃdu vyākulatègè òḻagāgiruvudāgi tiḻisuttāḻè. abhyāsakkè hogidda rāhulanu baṃdu amma taṃdèyannu nānu noḍiye illa, ātanannu karètaralu nānu hoguvudāgi tiḻisuttā idakkè tātana anumati paḍèdiruvudāgi tiḻisuttānè. idariṃda ātaṃkagòṃḍu rājanannu karèyalu sakhi aṃbikèyannu kaḻisuttāḻè. rāja aṃtaḥpurakkè aṃbikèyòṃdigè āgamisuttāÉ.
+vocab-vdc305475: āṇma
+vocab-vdc305475-def: òḍèya,
+vocab-vc5b4967c: āśisu
+vocab-vc5b4967c-def: bayasu
+vocab-vd8ae80e9: udgātṛ
+vocab-vd8ae80e9-def: ṛtvija,
+vocab-vb4caad71: ènitu
+vocab-vb4caad71-def: èṣṭu
+vocab-vd40934ef: èsagali
+vocab-vd40934ef-def: ārśīvadisali
+vocab-v3306b058: kavi
+vocab-v3306b058-def: āvarisu,
+vocab-vff76c635: kānana
+vocab-vff76c635-def: kāḍu, araṇya
+vocab-v3803d9fa: cetana
+vocab-v3803d9fa-def: śakti, caitanya
+vocab-vcd40d97e: taragu
+vocab-vcd40d97e-def: kuṃduvikè, iruḻu-rātri
+vocab-v27b5921f: tuḍuki
+vocab-v27b5921f-def: kasidukòṃḍu, kittukòḻḻu
+vocab-v21613cd8: tòḻalu
+vocab-v21613cd8-def: ciṃtèmāḍu, śramapaḍu
+vocab-v3446c5bb: paripālisu
+vocab-v3446c5bb-def: rakṣaṇèmāḍu, kāpāḍu
+vocab-v3706966c: behu
+vocab-v3706966c-def: guptācāra
+vocab-v1b779bde: maṃku
+vocab-v1b779bde-def: bhrāṃti
+vocab-v6ca63575: vinoda
+vocab-v6ca63575-def: hāsya,
+vocab-v47178e2d: vṛṃda
+vocab-v47178e2d-def: samūha, guṃpu
+vocab-vfa51cd38: saṃdeha
+vocab-vfa51cd38-def: anumāna
+vocab-v4363225d: sati
+vocab-v4363225d-def: hèṃḍati
+vocab-v31f08391: salahu
+vocab-v31f08391-def: kāpāḍu
+vocab-vb36d7731: sutè
+vocab-vb36d7731-def: magaḻu
+vocab-v0e650276: havana
+vocab-v0e650276-def: homa, yajña
+vocab-vb9f02947: hasuḻè
+vocab-vb9f02947-def: magu
+ex-a-q1: yaśodharè mattòmmè yārannu nīḍabekèṃdu rājanalli beḍuttāḻè?
+ex-a-q2: taṃdèyannu karètaralu hoguvènèṃdu heḻidavarāru?
+ex-a-q3: rājanigè kanasina vicāravannu tiḻisidavarāru?
+ex-a-q4: saṃpradāyakkè viruddhavādaddu yāvudu?
+ex-a-q5: īga nīniruva rīti yāvudèṃdu yaśodharèyannu rāja keḻidanu?
+ex-b-q1: rājanannu pīṭhadalli kuḻḻirisi yaśodharè enèṃdu vinaṃtisuttāḻè?
+ex-b-q2: yaśodharè maṃḍiyūri namaskarisuttā enu heḻuttāḻè?
+ex-b-q3: rājanu īga nīniruva rīti sanyāsavallavè ènnalu kāraṇavenu?
+ex-b-q4: yaśodharèya āṃtaryadalliruva saṃdehavenu?
+ex-c-q1: behinavarannu kaḻisuva vicāradalli rāhulana abhiprāyavenu?
+ex-c-q2: yaśodharèya vidhiya baggè rājanu enèṃdu heḻidanu?
+ex-d-q1: “sodariya sutèyèṃdu èḻètanadale nanna karètaṃdu sākidiri”
+ex-d-q2: “ammāji, ninagè bhaya beḍamma nā maraḻi bahènamma”
+ex-d-q3: “ninna vidhi kèṭṭudèṃdèṇisadiru ammāji”
+ex-d-q4: “niddèyali muḻugalinnāva kanasina mòsaḻè hiḍiyuvudo”
+ex-f-q1: yaśodharè - sakhi
+ex-f-q2: śuddhodana - buddhana maga
+ex-f-q3: aṃbikè - rāja
+ex-f-q4: rāhula - gautama buddha
+ex-f-q5: siddhārtha - yuvarāṇi ṛ. ī kèḻagina padagaḻigè tadbhava padagaḻannu barèyiri. vinoda, duḥkha, rāja, kārya. è. ī padagaḻannu biḍisi saṃdhiyannu hèsarisi. ninnāṇma , cakrādhipati, harakèyanu, patiyòḍanè, iṃdaḻuta,

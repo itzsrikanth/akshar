@@ -1,0 +1,23 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  story: Story
+  author: About the author
+  ashaya: Theme
+  vocab: Word meanings
+  notes: Notes
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+  exercise-E: E. Explain with context.
+  exercise-F: F. Fill in the blanks.
+intro-1: Among popular literary forms the short story is one. Telling and hearing stories is human nature. Elders told stories to stir interest, curiosity and delight in children. Storytelling grew; writers changed subject, style and narration to popularise the short story, marked by brevity and realism.
+story-n1: Maggada Saheba means Abdul Rahim Saheb. He has not touched a loom for more than twenty years. Still people call him Maggada Saheba. His ancestors Saheb Bahadur Maggada Hussein Saheb were popular and wealthy. They built not only a mosque but also a temple. Even today at the temple chariot festival their family's elder has the right to receive prasada first.
+ex-a-q1: How many years had Rahim gone without touching a loom?
+ex-a-q3: What was Abdul Rahim's stubborn resolve?

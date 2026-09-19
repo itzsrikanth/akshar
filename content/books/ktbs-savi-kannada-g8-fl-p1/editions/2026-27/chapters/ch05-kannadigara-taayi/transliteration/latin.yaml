@@ -1,0 +1,112 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: draft-transliteration.py
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: praveśa
+  poem: padya
+  author: kṛtikārara paricaya
+  ashaya: āśaya
+  vocab: padagaḻa artha
+  notes: ṭippaṇi
+  exercise-A: a. kòṭṭiruva praśnègaḻigè òṃdu vākyadalli uttarisi.
+  exercise-B: ā. kòṭṭiruva praśnègaḻigè èraḍu-mūru vākyagaḻalli uttarisi.
+  exercise-C: i. kòṭṭiruva praśnègaḻigè nālku-aidu vākyagaḻalli uttarisi.
+  exercise-D: ī. kòṭṭiruva praśnègaḻigè èṃṭu-hattu vākyagaḻalli uttarisi.
+  exercise-E: u. ī heḻikègaḻigè saṃdarbhasahita svārasyavannu vivarisi.
+intro-1: jagattinalliruva èllā bhāṣègaḻalliyū nāḍu - nuḍiya melina abhimānavu āyāya bhāṣèya sāhityada èllā prakāragaḻalliyū abhivyaktagòṃḍidè. ivu janamānasada amṛtadhārègaḻāgivè. nāḍu-nuḍiya ātmābhimānadiṃda kūḍida deśābhimānavu nāḍina eḻigègāgi duḍiyuvaṃtè nammèllarannu prerepisuttavè. bhavya paraṃparèyuḻḻa karunāḍu aneka prāṃtyagaḻalli haridu haṃci hogidda kāladalli karnāṭaka ekīkaraṇada kanasannu kaṃḍavaru anekaru. kannaḍada makkaḻèlla òṃdāgi banni, udayavāgali cèluva kannaḍa nāḍu, bārisu kannaḍa ḍiṃḍimava, haccevu kannaḍada dīpa èṃdèlla anekaru nāḍu nuḍiya śreṣṭhatè, pāvitryatèyannu sāruva mūlaka navodaya sāhityakkè nāṃdi hāḍidaru. jòtègè kannaḍigarannu òggūḍisuva kāryadalli tòḍagidaru. ī niṭṭinalli mūḍibaṃda kavanagaḻalli idu òṃdāgidè.
+poem-s1l1: tāyè bāra, mògava tora, kannaḍigara mātèyè!
+poem-s1l2: harasu tāyè, sutara kāyè, namma janmadātèyè!
+poem-s1l3: namma tappanènitò tāḻvè,
+poem-s1l4: akkarèyiṃdèmmanāḻvè,
+poem-s1l5: nīnè kaṇā namma bāḻvè,
+poem-s1l6: ninna marèyalammèvu!
+poem-s1l7: tanu kannaḍa, mana kannaḍa, nuḍi kannaḍavèmmavu.
+poem-s2l1: haṇṇanīva kāyanīva paripariya maraṃgaḻò,
+poem-s2l2: patramīva puṣpamīva latèya tarataraṃgaḻò,
+poem-s2l3: tènèya kènèya gāḻiyò,
+poem-s2l4: khagamṛgoragāḻiyò,
+poem-s2l5: nadi nagara nagāḻiyò!
+poem-s2l6: illilladuduḻidudè?
+poem-s2l7: jenu suriva hālu hariva divaṃ bhūmigiḻidudè?
+poem-s3l1: jainarāda pūjyapāda kòṃḍakuṃdavaryara,
+poem-s3l2: madhvayatiyè basavapatiyè mukhya matācāryara,
+poem-s3l3: śarva paṃpa rannara,
+poem-s3l4: lakṣmīpati jannara,
+poem-s3l5: ṣaḍakṣari muddaṇṇara,
+poem-s3l6: puraṃdaravareṇyara,
+poem-s3l7: tāyè, ninna basirè hònnagani vidyāraṇyara!
+poem-s4l1: haḻèya bīḍa belanāḍa māḍamènitò suṃdaraṃ!
+poem-s4l2: biḻiya kòḻada kārakaḻada niḍukarènitò baṃdhuraṃ!
+poem-s4l3: illillada śilpamilla;
+poem-s4l4: ninna kallè nuḍivudalla!
+poem-s4l5: hiṃgatèyinivāla sòlla
+poem-s4l6: nèmmatṛṣègè dakkisu!
+poem-s4l7: hòsatu kinnariyali ninna haḻèya hāḍanukkisu!
+poem-s5l1: tanna marèya kaṃpanariyadadanè hòragè huḍukuva
+poem-s5l2: mṛgada seḍu namma pāḍu parara nuḍigè miḍukuva!
+poem-s5l3: kannaḍa kastūriyanna
+poem-s5l4: hòsatusiriṃ tīḍadanna
+poem-s5l5: surabhi èlli? nīnadanna
+poem-s5l6: navaśaktiyinèbbisu-
+poem-s5l7: hòsa sugaṃdhadòsagèyiṃda jagadi hèsara habbisu|
+poem-s6l1: nammèdèyaṃ tāyè balisu,
+poem-s6l2: èllara bāyalli nèlasu,
+poem-s6l3: namma manamanòṃdè kalasu!
+poem-s6l4: idanòṃdanè koruvè!
+poem-s6l5: ninna mūrti jagatkīrti èṃdigèmagè toruvè?
+author-1: 'rāṣṭrakavi èṃ. goviṃda pai avaru kāsaragoḍu jillèya maṃjeśvaradalli 23.03.1883ralli janisidaru. taṃdè sāhukāra timmapai, tāyi devakiyamma. bi.è. padaviyannu paḍèdidda goviṃda pai avaru deśī bhāṣègaḻallalladè videśi bhāṣègaḻa pāṃḍityavannuḻḻavarāgiddaru. prāsa biṭṭu padya racisida mòdala kavi èṃba hèggaḻikègū pātrarādavaru. saṃśodhaka, vimarśaka, anuvādakarāgiyū janapriyarāda rāṣṭrakavi goviṃda pai avara (‘suvāsini’) mòdala kavitè 1900ralli suvāsini patrikèyalli prakaṭavāyitu. avara kavana saṃkalanagaḻu iṃtivè: giḻiviṃḍu, naṃdādīpa mòdalādavu. 1949ralli madrās sarkāra rāṣṭrakavi birudu nīḍi gauravisidè. ivaru kannaḍada mòdala rāṣṭrakavi hèggaḻikègè pātrarādavaru. 06.09.1963 ralli goviṃda pai avaru daivādhīnarādaru.'
+ashaya-1: idu karnāṭaka ekīkaraṇada pūrvadalli kannaḍatāyiyannu stutisi barèda kavana. kannaḍatāyi tanna mukhavannu toruva mūlaka kannaḍada makkaḻannu òṃdāgisabeku ènnuvudu padyada mukhya āśaya. kannaḍanāḍinalli èllā saṃpattu idè. tāyiya mukha kaṃḍāga adèllavū gocaravāguttadè. hīgè gocarisidāga mātra kannaḍa tāyiya kīrti jagattinādyaṃta pasarisalu sādhya. adakkāgi kannaḍatāyi èllara naḍè-nuḍi, ācāra-vicāragaḻalli nèlèyāgabeku. kannaḍigarigè kannaḍave usiru, kannaḍigara dhamanidhamanigaḻalliyū kannaḍave usirāgabeku. kannaḍa nāḍu nuḍiya śreṣṭhatè, bhavyaparaṃparè, itihāsa, prākṛtika, sāhityika, vāstuśilpagaḻa bhavyatèyiṃda jagattinèllaḍè haraḍabekèṃbudu kaviya āśayavāgidè.
+vocab-aalve: āḻvè
+vocab-aalve-def: āḻuvè
+vocab-osage: òsagè
+vocab-osage-def: saṃtoṣa, śubhavārtè
+vocab-karakala: kārakaḻa
+vocab-karakala-def: kārkaḻa (uḍupi jillèya òṃdu tālūku keṃdra)
+vocab-kene: kènè
+vocab-kene-def: sāra, tiruḻu
+vocab-taalve: tāḻvè
+vocab-taalve-def: sahisuvè
+vocab-trushe: tṛṣè
+vocab-trushe-def: bāyārikè
+vocab-divam: divaṃ
+vocab-divam-def: ākāśa
+vocab-nagaali: nagāḻi
+vocab-nagaali-def: parvatagaḻa samūha
+vocab-nidukaru: niḍukaru
+vocab-nidukaru-def: niḍidāgi niṃtiruva gòmmaṭa mūrti
+vocab-basiru: basiru
+vocab-basiru-def: garbha, garbhāśaya
+vocab-biliya-kola: biḻiya kòḻa
+vocab-biliya-kola-def: bèḻagòḻa, śravaṇabèḻagòḻa
+vocab-belanadu: belanāḍu
+vocab-belanadu-def: belūru
+vocab-moga: mòga
+vocab-moga-def: mukha
+vocab-late: latè
+vocab-late-def: baḻḻi
+vocab-sharva: śarva
+vocab-sharva-def: nṛpatuṃgana mattòṃdu hèsaru
+vocab-surabhi: surabhi
+vocab-surabhi-def: sugaṃdha, suvāsanè
+note-khaga: khaga
+note-khaga-def: kha - ākāśa; ga - gamisuvudu; ākāśadalli saṃcarisuvudu - pakṣi
+note-khagamrugoragaali: khagamṛgoragāḻi
+note-khagamrugoragaali-def: khaga - pakṣi; mṛga - prāṇi; uraga - hāvu; āḻi - samūha; prāṇi, pakṣi, hāvugaḻa samūha
+ex-a-q1: nammannu āḻuvavaḻu yāru?
+ex-a-q2: latè yāvudanèllā nīḍuttadè?
+ex-a-q3: kannaḍa tāyiya basira hònnagani yāru?
+ex-a-q4: kannaḍa tāyiya hāḍannu yāvudariṃda ukkisabeku?
+ex-a-q5: kannaḍigara pāḍu enu?
+ex-b-q1: kannaḍa nāḍina prakṛti vaiśiṣṭyavenu?
+ex-b-q2: kannaḍada kaviśreṣṭhara hirimèyenu?
+ex-b-q3: kannaḍada hèsarannu hegè habbisabekèṃdu kavi āśisuttārè?
+ex-c-q1: kannaḍa tāyiyannu marèyalu sādhyavilla ekè?
+ex-c-q2: kavi kannaḍa tāyiyalli enèṃdu koruttārè?
+ex-c-q3: goviṃda pai avara pramukha kṛtigaḻāvuvu?
+ex-d-q1: kannaḍigara tāyi mòga torabekèṃdu kavi ekè bayasuttārè? vivarisi.
+ex-d-q2: kannaḍa nāḍina kavi hāgū kalèya mahatvavenu? - vivarisi.
+ex-e-q1: “khaga mṛgoragāḻiyo”
+ex-e-q2: “ninna kallè nuḍivudalla!”
+ex-e-q3: “namma manamanòṃdè kalasu!”

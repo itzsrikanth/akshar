@@ -1,0 +1,74 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'प्रवेश'
+  poem: 'पद्य'
+  competency: 'कौशल / सामर्थ्य / आशय'
+  vocab: 'शब्दार्थ'
+  notes: 'विवरण'
+  exercise-A: 'अ. एक वाक्य में उत्तर दीजिए।'
+  exercise-B: 'आ. दो-तीन वाक्यों में उत्तर दीजिए।'
+
+intro-1: 'स्कूल में नाड हब्ब का उत्सव। लोकनृत्य करने का निर्णय हुआ। बच्चों ने अभ्यास कर लोकनृत्य प्रस्तुत किया।'
+
+poem-s1l1: 'भाग्यवान चूड़ीवाले, जा मेरे ननियाल आ ||'
+
+competency: 'कौशल: बोलना। आशय: चूड़ी बेचने वाला गाँव-गाँव घूमता है। इस गीत में माँ के लिए चूड़ियाँ चाहने वाली बेटी और प्रश्न पूछते चूड़ीवाले का संवाद है।'
+
+vocab-tavaru: 'ತವರು'
+
+vocab-tavaru-def: 'मायका'
+
+vocab-bale: 'ಬಾಳೆ'
+
+vocab-sibe: 'ಸೀಬೆ'
+
+vocab-muttaide: 'ಮುತ್ತೈದೆ'
+
+vocab-kanchu: 'ಕಂಚು'
+
+vocab-minchadu: 'ಮಿಂಚಾಡು'
+
+vocab-gini: 'ಗಿಣಿ'
+
+vocab-ale: 'ಆಲೆ'
+
+vocab-saranga: 'ಸಾರಂಗ'
+
+vocab-pagade: 'ಪಗಡೆ'
+
+vocab-pagade-def: 'एक प्रकार का खेल'
+
+vocab-nattanaduve: 'ನಟ್ಟ ನಡುವೆ'
+
+vocab-hatti: 'ಹಟ್ಟಿ'
+
+vocab-hadedavva: 'ಹಡೆದವ್ವ'
+
+vocab-hadedavva-def: 'जन्मदात्री माँ'
+
+vocab-kondhogu: 'ಕೊಂಡ್ಹೋಗು'
+
+note-janapada: 'ಜಾನಪದ'
+
+note-janapada-def: 'जनपद से संबंधित अध्ययन'
+
+note-janapada-samanya: 'ಜನಪದ'
+
+note-janapada-samanya-def: 'जन सामान्य से संबंधित'
+
+ex-a-q1: 'लड़की चूड़ीवाले से कहाँ जाकर आने को कहती है?'
+
+ex-a-q2: 'माँ का घर कैसा है?'
+
+ex-a-q3: 'छप्पर के बीच माँ कौन-सा खेल खेलती है?'
+
+ex-a-q4: 'हडेदव्वा को किस रंग की चूड़ी चाहिए?'
+
+ex-b-q1: 'मायके जाने के निशान क्या हैं?'
+
+ex-b-q2: 'मायका देखने में कैसा है?'

@@ -1,0 +1,159 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  poem: 'Vachanas'
+  author: 'About the authors'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer in one sentence.'
+  exercise-B: 'B. Answer in two or three sentences.'
+  exercise-C: 'C. Answer in five or six sentences.'
+
+intro-1: 'In the history of Kannada literature the 12th century is most precious. Vachana literature is a distinctive form that enriched Kannada literature. This was the time when common people poured out their experience and dedication in the form of vachanas, placing signature-names in the name of their chosen deity. In this time without caste difference and without male-female disparity many composed vachanas. Vachanas of Jedara Dasimayya, Basavanna, Allama Prabhu, Chennabasavanna, Akkamahadevi, Madivala Machideva, Muktayakka, Satyakka and others abound in Kannada literature. From their signature marks one can easily recognize the author. In this confluence of feelings of such precious vachanas one can see the devotee’s test, purity, conduct-thought and devotees’ honest walk and speech.'
+
+poem-s1l1: 'One filled stolen paddy in a torn sack'
+
+poem-s1l2: 'Walked all night fearing the toll'
+
+poem-s1l3: 'All the stolen grain gone, only the empty sack remained'
+
+poem-s1l4: 'Such became the devotion of the unsteady-minded, Ramanatha — Jedara Dasimayya.'
+
+poem-s2l1: 'From the side of darkness came the moon’s radiance'
+
+poem-s2l2: 'From the words of revilers, O mockery, Shiva-devotion’s radiance came'
+
+poem-s2l3: 'Those who say yes then no and exceed'
+
+poem-s2l4: 'With false logic joining those bound for Yama'
+
+poem-s2l5: 'Without climbing many births, show the path of Shivachara'
+
+poem-s2l6: 'God of Kalideva — Madivala Machayya'
+
+poem-s3l1: 'One must not speak bad words'
+
+poem-s3l2: 'One must not walk bad walks'
+
+poem-s3l3: 'What if spoken, what if not walking'
+
+poem-s3l4: 'Not abandoning the vow taken'
+
+poem-s3l5: 'That alone I call the practice of great knowledge, Father Ajaganna — Muktayakka'
+
+poem-s4l1: 'Speech that does not raise hand to bribery and deceit'
+
+poem-s4l2: 'If gold-cloth has fallen on the path'
+
+poem-s4l3: 'If I have touched and picked it up'
+
+poem-s4l4: 'By your oath and your Pramatha’s oath'
+
+poem-s4l5: 'The reason is that I live in the alms you gave'
+
+poem-s4l6: 'Otherwise if I make an unsteady mind'
+
+poem-s4l7: 'And desire others’ wealth'
+
+poem-s4l8: 'Then you yourself immerse me in hell'
+
+poem-s4l9: 'And rise and go, O Shambhujakkeshvara. — Satyakka'
+
+author-1: 'Jedara Dasimayya: An elder Shivasharana of the 11th century. Of Mudenur near Yadagiri. Dasimayya is honoured as the first vachana poet. 150 vachanas composed under the signature ‘Ramanatha’ are available. His vachanas with simple direct narration are popular for social values.'
+
+author-2: 'In this vachana Jedara Dasimayya tells how unsteady devotion is. One who has evil intent in mind yet acts as if devoted to God outwardly, deceiving people and society, finally gains nothing in life and loses even what he has.'
+
+author-3: 'Madivala Machayya: One of the major 12th-century vachana poets. Birthplace Hipparagi in Vijayapura district. Attracted by Basavanna’s fame to the new faith, among the first to go to Kalyana. Machayya only washed the clothes of Shivasharanas at Kalyana. 353 of his vachanas are available. His signature is ‘Kalidevara Deva’.'
+
+author-4: 'Shiva devotees have become pure through many tests of essence. Ordinary people who take unjust paths suffer through many rebirths by their base deeds. Show Shiva devotees the right path of Shivachara without making them suffer these rebirths—this is in this vachana.'
+
+author-5: 'Muktayakka: An experiential Shivasharane of the 12th century. Birthplace Lakkundi. 37 vachanas with the signature Ajaganna are available. Her brother and guru Ajaganna was a secret devotee of spiritual practice. For a Shiva devotee walk and speech are most important; purity of walk and speech is true vow. This is the path of gaining great knowledge—this is expressed in this vachana.'
+
+author-6: 'Satyakka: One of the 12th-century Shivasharanes. Birthplace Hirejamburu near Shiralakoppa, Shivamogga district. Sweeping the courtyards of Shiva devotees’ homes while practicing Shiva devotion was her kayaka. “Shambhujakkeshvara” is her vachana signature. 27 of her vachanas are available. Shivasharanas must not fall for any desire or lure got without others’ wealth or effort; if they do, hell is not escaped.'
+
+vocab-harida: 'ಹರಿದ'
+
+vocab-harida-def: 'torn'
+
+vocab-goni: 'ಗೋಣಿ'
+
+vocab-goni-def: 'jute sack'
+
+vocab-kalave: 'ಕಳವೆ'
+
+vocab-kalave-def: 'paddy'
+
+vocab-irulu: 'ಇರುಳು'
+
+vocab-irulu-def: 'night'
+
+vocab-sunka: 'ಸುಂಕ'
+
+vocab-sunka-def: 'tax'
+
+vocab-andhakara: 'ಅಂಧಕಾರ'
+
+vocab-andhakara-def: 'darkness'
+
+vocab-prabhe: 'ಪ್ರಭೆ'
+
+vocab-prabhe-def: 'radiance, light'
+
+vocab-nindakaru: 'ನಿಂದಕರು'
+
+vocab-nindakaru-def: 'one who reviles'
+
+vocab-edisalu: 'ಏಡಿಸಲು'
+
+vocab-edisalu-def: 'to mock, tease'
+
+vocab-kutarka: 'ಕುತರ್ಕ'
+
+vocab-kutarka-def: 'unjust argument'
+
+vocab-patha: 'ಪಥ'
+
+vocab-patha-def: 'path, way'
+
+vocab-vrata: 'ವ್ರತ'
+
+vocab-vrata-def: 'vow, worship, religious observance'
+
+vocab-batte: 'ಬಟ್ಟೆ'
+
+vocab-batte-def: 'path, way'
+
+vocab-pramatharu: 'ಪ್ರಮಥರು'
+
+vocab-pramatharu-def: 'devotees of Shiva'
+
+vocab-alimana: 'ಅಳಿಮನ'
+
+vocab-alimana-def: 'unsteady mind'
+
+vocab-addi: 'ಅದ್ದಿ'
+
+vocab-addi-def: 'immersing, soaking'
+
+ex-a-q1: 'Why did one walk all night with a torn sack?'
+
+ex-a-q2: 'From what did devotion to Shiva become radiant?'
+
+ex-a-q3: 'What is the practice of great knowledge?'
+
+ex-a-q4: 'Desiring what must one be immersed in hell?'
+
+ex-a-q5: 'If gold-cloth has fallen where will one not touch and pick it up?'
+
+ex-b-q1: 'What must be done to show the path of Shivachara?'
+
+ex-b-q2: 'What is Muktayakka’s opinion about walk and speech?'
+
+ex-c-q1: 'How does Jedara Dasimayya explain the devotion of the unsteady-minded?'
+
+ex-c-q2: 'How does Satyakka express becoming free of desire and lure in her vachana?'

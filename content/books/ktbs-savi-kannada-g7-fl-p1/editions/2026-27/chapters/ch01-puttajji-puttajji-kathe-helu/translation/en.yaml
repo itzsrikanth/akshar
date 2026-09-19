@@ -1,0 +1,267 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: 'Introduction'
+  story: 'Story'
+  competency: 'Skill / ability / intent'
+  author: 'About the author'
+  vocab: 'Word meanings'
+  exercise-A: 'A. Answer the given questions in one sentence.'
+  exercise-B: 'B. Answer the given questions in two or three sentences.'
+  exercise-C: 'C. Who said these sentences to whom? Write.'
+  exercise-D: 'D. Answer as directed below.'
+  exercise-E: 'E. Write the meanings of the following words.'
+  exercise-F: 'F. Match and write.'
+
+intro-1: 'In the morning, girls who have come to school sit in the school grounds and start talking.'
+
+story-d1: 'Yesterday near our house there was a programme of telling a puranic story at the temple. My mother and I went. It was very nice.'
+
+story-d2: 'When they tell a puranic story they sing God’s names in between. I like that a lot.'
+
+story-d3: 'Rekha.... I like moral stories. I have some books of moral stories with me.'
+
+story-d4: 'Mala.... Some stories are told in the form of song, aren’t they....'
+
+story-d5: 'Yes, that is called kathana-kavana (story-poem).'
+
+story-d6: 'In some places they tell stories in the form of folk songs. These are very nice.'
+
+story-d7: 'When I was little my grandfather used to tell me Ramayana and Mahabharata stories. He would bring all kinds of story books and make me read them.'
+
+story-d8: 'I really like stories a lot.'
+
+story-d9: 'Same with me.'
+
+intro-2: 'While the girls were talking, the class teacher who had come there overheard their words.'
+
+story-d10: 'Do you all like stories that much? Today’s lesson of ours is also an interesting story; shall we listen to the story Puttajji tells?'
+
+intro-3: 'Hearing this, the children’s faces lit up.'
+
+story-n1: 'When you say “Puttajji, Puttajji, tell a story,” Puttajji says, “Come, child, I’ll tell you a good story.” Our Puttajji is always first-rate at storytelling. Big stories, small stories, tiny stories, funny stories, song-stories—Puttajji tells all kinds of stories. The other day I went towards Puttajji’s house.'
+
+story-n2: 'Puttajji was sitting on the house veranda. Her face itself said she was happy.'
+
+story-d11: 'Puttajji, Puttajji, will you tell a story?'
+
+story-d12: 'Come, child, I’ll tell you a good story.'
+
+story-n3: 'I climbed onto her house veranda, leaned against the pillar, sat down and looked at her face.'
+
+story-d13: 'Which story shall I tell?'
+
+story-d14: 'Tell any song-story.'
+
+story-n4: 'Puttajji’s specialty is the song-story. In it there is both song and story. Puttajji cleared her throat. Then, as if a cool breeze were blowing, she began to tell.'
+
+poem-s1l1: 'Outside a tiny village'
+
+poem-s1l2: 'a stream is flowing'
+
+poem-s1l3: 'The stream flowing and flowing there'
+
+poem-s1l4: 'has nourished the village people'
+
+poem-s1l5: 'The flowing stream has brought'
+
+poem-s1l6: 'beauty to the village'
+
+poem-s1l7: 'In the green forest among the trees'
+
+poem-s1l8: 'birdsong is heard'
+
+story-n5: 'In such a lovely place, once there were no people. The stream was flowing along on its own. Birds were singing. One day a youth came there from far away. Thinking how nice it was here, he decided to stay. He built a house. In front of the house he made a garden. He grew whatever he needed and stayed there. The stream—his house on the bank of the stream. Right behind the house was a thick forest. There were wild animals—tiger, leopard, wild buffalo, elephant and all. This youth had no fear. Because he never went after their affairs. And they never came after his. Each lived happily in their own way. Near his house itself there was an animal watering hole. Animals would come there, drink water and go. One day the youth is sitting on the house veranda. Then a frightened startled deer rushed into the courtyard. Around that deer’s neck there was also a bell. The deer’s body was trembling. There was a reason this deer had come running like this.'
+
+poem-s2l1: 'In the forest a tiger'
+
+poem-s2l2: 'saw the deer'
+
+poem-s2l3: 'Chasing after it the tiger'
+
+poem-s2l4: 'came towards the stream'
+
+poem-s2l5: 'In fear for its life the deer came'
+
+poem-s2l6: 'and entered a house'
+
+poem-s2l7: 'Save my life, it said'
+
+poem-s2l8: 'and asked the master of the house.'
+
+story-n6: 'The youth understood that the deer had come here fearing the tiger. He got up, hugged it and comforted it. At that very time a tiger came and stood in front of the youth’s house.'
+
+story-d15: 'Hey! Youth, this deer is my food. If you give it protection, that goes against the law of the forest. Let the deer go.'
+
+story-d16: 'Look, this is not a forest deer. It is someone’s pet. There is a bell on its neck. You have the right to kill and eat a forest animal. But you have no right to kill an animal someone has raised like this. I will not let this one go.'
+
+story-n7: 'Hearing these words the tiger got angry. In that anger it roared. The youth gave the deer shelter inside his house and faced the tiger. He would not abandon those who had come seeking his protection!'
+
+story-n8: 'There was a fight between the tiger and that youth. The tiger bit the youth wherever it could. It wounded him. The youth who had been struggling to make a living did not lose. At last the tiger was defeated and fled. “I will not come into your company again,” said the tiger. The youth too had beaten and wounded it. The deer saw the youth’s condition. It felt pity.'
+
+story-d17: 'Was it for saving me that this happened to you!'
+
+story-n9: 'it said, shedding tears. Then going to the forest—'
+
+poem-s3l1: 'Leaves, twigs, roots, bark'
+
+poem-s3l2: 'it brought them all'
+
+poem-s3l3: 'Ground and crushed them into medicine'
+
+poem-s3l4: 'and applied it to the wounds'
+
+poem-s3l5: 'The wounds healed and he again'
+
+poem-s3l6: 'got up and began to walk'
+
+poem-s3l7: 'Seeing this the deer felt'
+
+poem-s3l8: 'boundless joy'
+
+story-n10: 'Thus some bond formed between that deer and that youth. Even so the youth noticed that there was some worry in the deer’s mind. One day the youth is sitting in the courtyard doing something. The deer lying a little away suddenly stands up. Listening outside, it is hearing something. Then near the youth’s house itself a sweet voice is heard. The deer stands up even more excitedly.'
+
+story-d18: 'Chukki, where are you..... Chukki, where are you?'
+
+story-n11: 'The deer runs out. The youth runs after it in alarm. There a young woman has clasped the deer in her arms. The deer is licking her hand. It is rubbing its body against hers. She is crying with her face against the deer’s face. As soon as that young woman saw this youth she introduced herself.'
+
+story-d19: 'This is the deer we raised.... Because of this spot mark on it we called it Chukki.... A few days ago it went into the forest..... Some village people saw a tiger chasing it... We thought Chukki’s story was over..... Even so I had some faith ..... that Chukki was alive.... From that day I had been searching for it. Today I have found it....'
+
+story-n12: 'The young woman said all this with joy. The youth told how he had saved Chukki. He showed the wounds he got in the fight with the tiger. He told how Chukki had made medicine in the forest.'
+
+story-d20: 'From childhood Chukki has grown up in our house itself. I cannot live without Chukki.... I will take it home.'
+
+story-n13: 'When she said that, Chukki understood the matter. It went and hid inside that youth’s house.'
+
+story-d21: 'I too cannot live without it ..... I have protected it from the tiger’s mouth..... Now I cannot give it to you....'
+
+story-d22: 'Then I too will stay right here.. with Chukki'
+
+story-n14: 'The young woman went inside the youth’s house and hugged Chukki.'
+
+poem-s4l1: 'The deer named Chukki, poor thing'
+
+poem-s4l2: 'fell into the tiger’s eye'
+
+poem-s4l3: 'A youth saved it'
+
+poem-s4l4: 'kept it in the house and raised it'
+
+poem-s4l5: 'The girl who came searching'
+
+poem-s4l6: 'said she would not let it go'
+
+poem-s4l7: 'For the boy and girl to become one'
+
+poem-s4l8: 'Chukki herself led the way'
+
+story-n15: 'Thus the village on the bank of the stream grew. Afterwards everyone lived happily here. Puttajji finished the story and got up.'
+
+story-d23: 'Come again sometime. I’ll tell different stories.'
+
+story-n16: 'I left from there happily.'
+
+competency: 'Skill: listening. Ability: listening to events in unfamiliar situations and understanding them. Intent: When we say storytelling, we remember grandmother. From time immemorial the fun of grandmother telling stories with expression and acting, seating children around her, is unmatched. Laughing till the stomach hurts, shedding tears at sad situations in the story, trembling with fear while listening—children feel neither sleep nor hunger. Such stories are more likely to influence children’s lives. So if stories that contain noble feelings, courage and adventure, and moral teaching come into use, we can hope for a people of good character ahead.'
+
+author-1: 'Dr Norbert D’Souza was born on 6 June 1937. Father F.P. D’Souza, mother Rupina D’Souza. Na. D’Souza has so far written 37 novels, four plays, twenty-eight children’s works and hundreds of stories. His novels ‘Kadina Benki’ and ‘Dweepa’ became films and received the Rajat Kamal and Swarna Kamal awards.'
+
+author-2: 'The novel ‘Baluvali’ became a film in Konkani. He did his own story-reading at the SAARC writers’ conference. His short novel ‘Mulugadeya Ourige Bandavaru’ received the 2011 Central Sahitya Akademi Bal Sahitya Puraskar. He has been honoured with the Karnataka Sahitya Academy award, Gulvadi Venkatarao award, Karnataka Rajyotsava award, Mangaluru Sandesh award, New Delhi Katha award, Puttur Niranjana Sahitya award and others. In January 2014 he was president of the All India Kannada Literary Conference held at Madikeri.'
+
+vocab-hadgate: 'ಹಾಡ್ಗತೆ'
+
+vocab-hadgate-def: 'a story that includes song'
+
+vocab-taravari: 'ತರಾವರಿ'
+
+vocab-taravari-def: 'of various kinds'
+
+vocab-bhiti: 'ಭೀತಿ'
+
+vocab-bhiti-def: 'fear, fright'
+
+vocab-pranigindi: 'ಪ್ರಾಣಿಗಿಂಡಿ'
+
+vocab-pranigindi-def: 'a hollow made in the forest for animals to drink water'
+
+vocab-angala: 'ಅಂಗಳ'
+
+vocab-angala-def: 'courtyard, the open space in front of or behind the house'
+
+vocab-santvana: 'ಸಾಂತ್ವನ'
+
+vocab-santvana-def: 'consolation, comforting words'
+
+vocab-ashraya: 'ಆಶ್ರಯ'
+
+vocab-ashraya-def: 'support, help, protection'
+
+vocab-maddu: 'ಮದ್ದು'
+
+vocab-maddu-def: 'medicine'
+
+vocab-palayana: 'ಪಲಾಯನ ಪಠಿಸು'
+
+vocab-palayana-def: 'to flee, run away'
+
+vocab-magu: 'ಮಾಗು'
+
+vocab-magu-def: 'to dry, to heal'
+
+vocab-sambhrama: 'ಸಂಭ್ರಮ'
+
+vocab-sambhrama-def: 'enthusiasm, excitement, joy'
+
+vocab-bide: 'ಬಿಡೆ'
+
+vocab-bide-def: 'will not let go'
+
+vocab-yavattara: 'ಯಾವತ್ತಾರ'
+
+vocab-yavattara-def: 'sometime, another day'
+
+ex-a-q1: 'What story did the boy ask Puttajji to tell?'
+
+ex-a-q2: 'What did the youth do in front of the house?'
+
+ex-a-q3: 'What was around the deer’s neck?'
+
+ex-a-q4: 'What did the tiger do when it lost?'
+
+ex-a-q5: 'When the young woman said she would take it away, what did Chukki do?'
+
+ex-a-q6: 'What happened to the village on the bank of the stream?'
+
+ex-b-q1: 'What did the flowing stream do for the village people?'
+
+ex-b-q2: 'What did the youth do when he came near the stream?'
+
+ex-b-q3: 'What was the conversation between the tiger and the youth?'
+
+ex-b-q4: 'What did the young woman do when she saw the deer?'
+
+ex-b-q5: 'What did the youth tell the young woman about Chukki?'
+
+ex-c-q1: '"Tell any song-story."'
+
+ex-c-q2: '"Hey! Youth, this deer is my food."'
+
+ex-c-q3: '"This is the deer we raised."'
+
+ex-c-q4: '"I cannot live without Chukki."'
+
+ex-d-q1: 'List the names of the animals that appear in this lesson.'
+
+ex-d-q2: 'List the names of the people that appear in this lesson.'
+
+ex-d-q3: 'Write the conversation between the grandmother and the boy listening to the story.'
+
+ex-d-q4: 'Write the conversation that took place between the youth and the young woman.'
+
+ex-e-q1: 'Write the meanings of the following words: pere, pranigindi, bhaya, togatte, maddu, yavattara.'
+
+ex-f-q1: 'Match: Puttajji / story; forest / tiger, leopard, wild buffalo; Chukki / deer; medicine / leaves twigs roots bark; stream bank / village grew; quarrel / between tiger and youth.'

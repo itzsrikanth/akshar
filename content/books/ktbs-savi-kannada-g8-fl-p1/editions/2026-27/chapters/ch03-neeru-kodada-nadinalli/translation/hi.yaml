@@ -1,0 +1,19 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: प्रवेश
+  story: कहानी
+  author: कृतिकार परिचय
+  vocab: शब्दार्थ
+  exercise-A: अ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-B: आ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-C: इ. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  exercise-D: ई. निम्नलिखित प्रश्नों के उत्तर दीजिए।
+  ashaya: आशय
+intro-1: वैश्वीकरण के नाम पर प्रकृति से मुफ्त मिलने वाली हवा, रोशनी, पानी और भोजन को कमाने का मार्ग बनाना चिंताजनक है।
+story-n1: भारत से बाहर कदम रखने पर बाकी सब 'पानी न देने वाले देश' हैं — अब तक का मेरा अनुभव।
+ex-a-q1: मुफ्त पानी कहाँ नहीं मिलता?

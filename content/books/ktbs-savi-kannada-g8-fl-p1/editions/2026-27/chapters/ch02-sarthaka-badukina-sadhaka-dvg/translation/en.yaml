@@ -1,0 +1,18 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: composer
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  intro: Introduction
+  story: Story
+  author: About the author
+  vocab: Word meanings
+  exercise-A: A. Answer the following questions.
+  exercise-B: B. Answer the following questions.
+  exercise-C: C. Answer the following questions.
+  exercise-D: D. Answer the following questions.
+  ashaya: Theme
+intro-1: The meaningfulness of human birth can take shape only by living a values-based life. Though everyone has chances to climb the ladder of achievement, only a few make achievement possible. Recording major events in the lives of such great people artistically is the 'character sketch' (vyaktichitra).
+ex-a-q1: Where was D.V.G. born?
