@@ -1,5 +1,5 @@
 {
-  "contentHash": "38f6401ac79d60f3",
+  "contentHash": "1676ec9f9e33eafa",
   "forms": {
     "ಅಂಗಳ": {
       "form": "ಅಂಗಳ",
@@ -771,6 +771,34 @@
         "lemma-kanna"
       ],
       "status": "exact"
+    },
+    "ಕನ್ನಡ": {
+      "form": "ಕನ್ನಡ",
+      "lemmaIds": [
+        "lemma-kannada"
+      ],
+      "status": "exact"
+    },
+    "ಕನ್ನಡಕೆ": {
+      "form": "ಕನ್ನಡಕೆ",
+      "lemmaIds": [
+        "lemma-kannada"
+      ],
+      "status": "reviewed-inflection"
+    },
+    "ಕನ್ನಡದ": {
+      "form": "ಕನ್ನಡದ",
+      "lemmaIds": [
+        "lemma-kannada"
+      ],
+      "status": "reviewed-inflection"
+    },
+    "ಕನ್ನಡವ": {
+      "form": "ಕನ್ನಡವ",
+      "lemmaIds": [
+        "lemma-kannada"
+      ],
+      "status": "reviewed-inflection"
     },
     "ಕಪ್ಪು ಹಲಗೆ": {
       "form": "ಕಪ್ಪು ಹಲಗೆ",
@@ -2229,6 +2257,20 @@
       ],
       "status": "exact"
     },
+    "ನಾಡಿನ": {
+      "form": "ನಾಡಿನ",
+      "lemmaIds": [
+        "lemma-naadu"
+      ],
+      "status": "reviewed-inflection"
+    },
+    "ನಾಡು": {
+      "form": "ನಾಡು",
+      "lemmaIds": [
+        "lemma-naadu"
+      ],
+      "status": "exact"
+    },
     "ನಾಡೋಜ": {
       "form": "ನಾಡೋಜ",
       "lemmaIds": [
@@ -2905,6 +2947,13 @@
       "form": "ಬಗ್ಗ",
       "lemmaIds": [
         "lemma-bagga"
+      ],
+      "status": "exact"
+    },
+    "ಬಗ್ಗೆ": {
+      "form": "ಬಗ್ಗೆ",
+      "lemmaIds": [
+        "lemma-bagge"
       ],
       "status": "exact"
     },
@@ -5947,6 +5996,17 @@
         }
       ],
       "transliteration": "bagga"
+    },
+    "lemma-bagge": {
+      "glosses": {
+        "en": "about, concerning",
+        "hi": "के बारे में",
+        "kn": "ವಿಷಯದಲ್ಲಿ, ಕುರಿತು"
+      },
+      "id": "lemma-bagge",
+      "lemma": "ಬಗ್ಗೆ",
+      "notes": "Curated; common postposition in ch01 intro.",
+      "transliteration": "Bagge"
     },
     "lemma-bahala": {
       "glosses": {
@@ -9584,6 +9644,17 @@
       ],
       "transliteration": "kanna"
     },
+    "lemma-kannada": {
+      "glosses": {
+        "en": "Kannada (the language; the land of Kannada)",
+        "hi": "कन्नड़ (भाषा / प्रदेश)",
+        "kn": "ಕನ್ನಡ ಭಾಷೆ; ಕನ್ನಡ ನಾಡು"
+      },
+      "id": "lemma-kannada",
+      "lemma": "ಕನ್ನಡ",
+      "notes": "Curated for Savi FL running-text coverage (e.g. ch01 ಕನ್ನಡಮ್ಮನ ಹರಕೆ).",
+      "transliteration": "Kannada"
+    },
     "lemma-kantaka": {
       "glosses": {
         "en": "harm, calamity",
@@ -11269,6 +11340,17 @@
         }
       ],
       "transliteration": "muttaidè"
+    },
+    "lemma-naadu": {
+      "glosses": {
+        "en": "land, country, region",
+        "hi": "देश, प्रदेश",
+        "kn": "ದೇಶ, ಪ್ರದೇಶ"
+      },
+      "id": "lemma-naadu",
+      "lemma": "ನಾಡು",
+      "notes": "Curated; form ನಾಡಿನ appears in ch01 intro.",
+      "transliteration": "Naadu"
     },
     "lemma-nadoja": {
       "glosses": {

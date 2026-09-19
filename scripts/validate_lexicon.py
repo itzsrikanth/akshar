@@ -59,6 +59,21 @@ def validate_language(lang_dir: Path, errors: Errors):
     validate_schema(errors, lemmas_path, lemmas_doc, load_schema("lexicon-lemmas.schema.json"))
     validate_schema(errors, forms_path, forms_doc, load_schema("lexicon-forms.schema.json"))
 
+    curated_lemmas_path = lang_dir / "curated-lemmas.yaml"
+    curated_forms_path = lang_dir / "curated-forms.yaml"
+    if curated_lemmas_path.is_file():
+        curated_lemmas = load_yaml(curated_lemmas_path)
+        validate_schema(
+            errors, curated_lemmas_path, curated_lemmas, load_schema("lexicon-lemmas.schema.json")
+        )
+        lemmas_doc.setdefault("lemmas", []).extend(curated_lemmas.get("lemmas") or [])
+    if curated_forms_path.is_file():
+        curated_forms = load_yaml(curated_forms_path)
+        validate_schema(
+            errors, curated_forms_path, curated_forms, load_schema("lexicon-forms.schema.json")
+        )
+        forms_doc.setdefault("forms", []).extend(curated_forms.get("forms") or [])
+
     if meta.get("language") != lang_dir.name:
         errors.add(meta_path, f"language {meta.get('language')!r} must match directory name {lang_dir.name!r}")
 

@@ -1,0 +1,28 @@
+# Curated lemmas for exact surface forms in running text that are not
+# covered by printed vocabulary/note pairs. Not overwritten by
+# scripts/seed_lexicon_from_vocab.py — merged at compile time.
+lemmas:
+  - id: lemma-kannada
+    lemma: "ಕನ್ನಡ"
+    transliteration: Kannada
+    glosses:
+      kn: "ಕನ್ನಡ ಭಾಷೆ; ಕನ್ನಡ ನಾಡು"
+      en: Kannada (the language; the land of Kannada)
+      hi: "कन्नड़ (भाषा / प्रदेश)"
+    notes: Curated for Savi FL running-text coverage (e.g. ch01 ಕನ್ನಡಮ್ಮನ ಹರಕೆ).
+  - id: lemma-naadu
+    lemma: "ನಾಡು"
+    transliteration: Naadu
+    glosses:
+      kn: "ದೇಶ, ಪ್ರದೇಶ"
+      en: land, country, region
+      hi: "देश, प्रदेश"
+    notes: Curated; form ನಾಡಿನ appears in ch01 intro.
+  - id: lemma-bagge
+    lemma: "ಬಗ್ಗೆ"
+    transliteration: Bagge
+    glosses:
+      kn: "ವಿಷಯದಲ್ಲಿ, ಕುರಿತು"
+      en: about, concerning
+      hi: "के बारे में"
+    notes: Curated; common postposition in ch01 intro.

@@ -52,6 +52,16 @@ def compile_language(lang_dir: Path) -> dict:
     for entry in forms_doc.get("forms") or []:
         forms[entry["form"]] = entry
 
+    # Optional curated overlays (not wiped by the vocab seeder).
+    curated_lemmas_path = lang_dir / "curated-lemmas.yaml"
+    curated_forms_path = lang_dir / "curated-forms.yaml"
+    if curated_lemmas_path.is_file():
+        for entry in (load_yaml(curated_lemmas_path).get("lemmas") or []):
+            lemmas[entry["id"]] = entry
+    if curated_forms_path.is_file():
+        for entry in (load_yaml(curated_forms_path).get("forms") or []):
+            forms[entry["form"]] = entry
+
     function_words = sorted({e["form"] for e in (func.get("forms") or [])})
 
     bundle = {

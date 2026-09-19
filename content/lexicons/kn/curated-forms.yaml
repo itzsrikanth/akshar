@@ -1,0 +1,31 @@
+# Curated form → lemma mappings (exact or reviewed inflection).
+# Merged at compile time; not overwritten by the vocab seeder.
+forms:
+  - form: "ಕನ್ನಡ"
+    lemmaIds:
+      - lemma-kannada
+    status: exact
+  - form: "ಕನ್ನಡಕೆ"
+    lemmaIds:
+      - lemma-kannada
+    status: reviewed-inflection
+  - form: "ಕನ್ನಡದ"
+    lemmaIds:
+      - lemma-kannada
+    status: reviewed-inflection
+  - form: "ಕನ್ನಡವ"
+    lemmaIds:
+      - lemma-kannada
+    status: reviewed-inflection
+  - form: "ನಾಡು"
+    lemmaIds:
+      - lemma-naadu
+    status: exact
+  - form: "ನಾಡಿನ"
+    lemmaIds:
+      - lemma-naadu
+    status: reviewed-inflection
+  - form: "ಬಗ್ಗೆ"
+    lemmaIds:
+      - lemma-bagge
+    status: exact

@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import {
   ensureLexicon,
   getCachedLexicon,
+  refreshLexicon,
   type LexiconBundle,
 } from '@/services/lexicon';
 
@@ -21,8 +22,14 @@ export function useLexicon(language: string | null) {
     if (cached) setBundle(cached);
     let cancelled = false;
     void ensureLexicon(language)
-      .then((loaded) => {
+      .then(async (loaded) => {
         if (!cancelled) setBundle(loaded);
+        try {
+          const refreshed = await refreshLexicon(language);
+          if (!cancelled) setBundle(refreshed);
+        } catch {
+          // Keep the last good bundle when offline refresh fails.
+        }
       })
       .catch(() => {
         if (!cancelled && !getCachedLexicon(language)) setBundle(null);
