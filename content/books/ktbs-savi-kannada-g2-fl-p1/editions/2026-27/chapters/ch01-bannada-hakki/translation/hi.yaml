@@ -1,0 +1,88 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: कविता
+  vocab: सुने गए शब्द
+  notes: शब्दों के अर्थ
+  exercise-A: "अ) कविता की अगली पंक्तियाँ बताएँ:"
+  exercise-B: "आ) इन प्रश्नों के उत्तर एक शब्द में लिखें:"
+  exercise-C: "इ) कोष्ठक में दिए गए शब्दों में से उचित शब्द चुनकर रिक्त स्थान में लिखें:"
+  exercise-D: 'ई) ये तुकांत शब्द बताएँ:'
+  title: रंग-बिरंगी चिड़िया
+
+poem-s1l1: आ जा चिड़िया, रंग-बिरंगी चिड़िया
+poem-s1l2: आ जा चिड़िया, उड़ने वाली चिड़िया
+poem-s1l3: खेलने के लिए कोई दोस्त नहीं है
+poem-s1l4: सारा समय कैसे बिताऊँ
+
+poem-s2l1: आ आ मुझे भी गाना सिखा
+poem-s2l2: आ आ मुझे भी उड़ना सिखा
+poem-s2l3: माँ पानी लेने गई है
+poem-s2l4: पिताजी बाज़ार गए हैं
+
+poem-s3l1: माँ को आने दे, पिताजी को आने दे
+poem-s3l2: मैं तुझे खाने के लिए फल दिलाऊँगा
+poem-s3l3: मुझे भी दो पंख लगा दे
+poem-s3l4: पीछे एक रंगीन पंख चुभा दे
+
+poem-s4l1: सिर के ऊपर एक चोटी लगा दे
+poem-s4l2: धीरे-से मुझे ऊपर उड़ना सिखा दे
+poem-s4l3: मैं और तू दोनों मिलकर
+poem-s4l4: आ, आसमान की ओर उड़ें
+
+poem-s5l1: वहाँ से यहाँ, यहाँ से वहाँ
+poem-s5l2: आ, उड़ें, गाएँ और खुशियाँ मनाएँ
+
+vocab-hakki: चिड़िया
+vocab-avva: माँ
+vocab-appa: पिताजी
+vocab-hannu: फल
+vocab-rekke: पंख
+vocab-vele: समय
+vocab-netti: सिर का ऊपरी भाग
+vocab-haaruva: उड़ने वाली
+vocab-pucchava: पंख (पूंछ का)
+vocab-haadalu: गाने के लिए
+vocab-ibbaru: दोनों
+vocab-hogihalu: वह गई है
+vocab-hogihanu: वह गया है
+vocab-allinditta: वहाँ से यहाँ
+vocab-illindatta: यहाँ से वहाँ
+vocab-mugilina: आसमान की
+vocab-naliyuva: खुश होने वाला
+
+note-vele: समय
+note-vele-def: काल, समय
+note-haccu: लगा
+note-haccu-def: जोड़, चिपका
+note-puccha: पर / पंख
+note-puccha-def: चिड़िया का पंख
+note-netti: सिर का ऊपरी भाग
+note-netti-def: सिर का मध्य भाग
+note-hingade: पीछे
+note-hingade-def: पीछे
+
+ex-a-q1: खेलने के लिए कोई दोस्त नहीं है
+ex-a-q2: माँ को आने दे, पिताजी को आने दे
+ex-a-q3: मुझे भी दो पंख लगा दे
+ex-a-q4: मैं और तू दोनों मिलकर
+
+ex-b-q1: बच्चा किस चिड़िया को बुला रहा है?
+ex-b-q2: माँ कहाँ गई है?
+ex-b-q3: बच्चा खाने के लिए क्या दिलाने की बात कह रहा है?
+ex-b-q4: बच्चा दोनों मिलकर किस ओर उड़ने को बुला रहा है?
+
+ex-c-q1: आ आ मुझे भी _____ सिखा।
+ex-c-q2: पिताजी _____ गए हैं।
+ex-c-q3: मुझे भी दो पंख _____।
+ex-c-q4: सिर के ऊपर _____ लगा दे।
+ex-c-q5: आसमान की ओर _____ आ।
+
+ex-d-q1: हाडलु - हारलु
+ex-d-q2: हच्चु - चुच्चु
+ex-d-q3: अल्लिन्दित्त - इल्लिन्दत्त

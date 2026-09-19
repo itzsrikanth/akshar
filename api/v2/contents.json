@@ -25,11 +25,67 @@
   ],
   "books": [
     {
+      "id": "ktbs-savi-kannada-g1-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "series": {
+        "id": "savi-kannada",
+        "name": "ಸವಿ ಕನ್ನಡ"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
+    },
+    {
+      "id": "ktbs-savi-kannada-g2-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "series": {
+        "id": "savi-kannada",
+        "name": "ಸವಿ ಕನ್ನಡ"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
+    },
+    {
       "id": "ktbs-savi-kannada-g3-fl-p1",
       "part": 1,
       "publisher": {
         "id": "ktbs",
         "name": "Karnataka Textbook Society"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
+    },
+    {
+      "id": "ktbs-savi-kannada-g5-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "series": {
+        "id": "savi-kannada",
+        "name": "ಸವಿ ಕನ್ನಡ"
+      },
+      "subjectLanguage": "kn",
+      "title": "ಸವಿ ಕನ್ನಡ"
+    },
+    {
+      "id": "ktbs-savi-kannada-g6-fl-p1",
+      "part": 1,
+      "publisher": {
+        "id": "ktbs",
+        "name": "Karnataka Textbook Society"
+      },
+      "series": {
+        "id": "savi-kannada",
+        "name": "ಸವಿ ಕನ್ನಡ"
       },
       "subjectLanguage": "kn",
       "title": "ಸವಿ ಕನ್ನಡ"
@@ -242,6 +298,98 @@
       "academicYears": [
         "2026-27"
       ],
+      "bookId": "ktbs-savi-kannada-g1-fl-p1",
+      "chapters": [
+        {
+          "held": true,
+          "id": "ch01-vandane",
+          "number": 1,
+          "title": "ವಂದನೆ"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 1 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "printedGrade": 1,
+      "provenance": {
+        "notes": "Partial conversion checkpoint for Grade 1 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "sourceDocuments": [
+          {
+            "label": "g01-fl-p1-2026-27.pdf",
+            "sha256": "3a7610c55e27735fab3388d1fbaf1d28232e8d213a0f49c854aeeb6713e1675e"
+          }
+        ]
+      }
+    },
+    {
+      "academicYears": [
+        "2026-27"
+      ],
+      "bookId": "ktbs-savi-kannada-g2-fl-p1",
+      "chapters": [
+        {
+          "held": true,
+          "id": "ch01-bannada-hakki",
+          "number": 1,
+          "title": "ಬಣ್ಣದ ಹಕ್ಕಿ"
+        },
+        {
+          "held": true,
+          "id": "ch02-ooricobba-rajanante",
+          "number": 2,
+          "title": "ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ"
+        },
+        {
+          "held": true,
+          "id": "ch03-geletana",
+          "number": 3,
+          "title": "ಗೆಳತನ"
+        },
+        {
+          "held": true,
+          "id": "ch04-kempegoudara-kanasu",
+          "number": 4,
+          "title": "ಕೆಂಪೇಗೌಡರ ಕನಸು"
+        },
+        {
+          "held": true,
+          "id": "ch05-halliya-dariya-badiyali",
+          "number": 5,
+          "title": "ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ"
+        },
+        {
+          "held": true,
+          "id": "ch06-sante",
+          "number": 6,
+          "title": "ಸಂತೆ"
+        },
+        {
+          "held": true,
+          "id": "ch07-arive-guru",
+          "number": 7,
+          "title": "ಅರಿವೇ ಗುರು"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 2 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "printedGrade": 2,
+      "provenance": {
+        "notes": "Partial conversion checkpoint for Grade 2 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "sourceDocuments": [
+          {
+            "label": "g02-fl-p1-2026-27.pdf",
+            "sha256": "0aae1d58354d99950f522e27d2cb82c22c2f66e60900f427bedbc335da598e05"
+          }
+        ]
+      }
+    },
+    {
+      "academicYears": [
+        "2026-27"
+      ],
       "bookId": "ktbs-savi-kannada-g3-fl-p1",
       "chapters": [
         {
@@ -356,8 +504,118 @@
           }
         ]
       }
+    },
+    {
+      "academicYears": [
+        "2026-27"
+      ],
+      "bookId": "ktbs-savi-kannada-g5-fl-p1",
+      "chapters": [
+        {
+          "held": true,
+          "id": "ch01-ottige-baluva-ananda",
+          "number": 1,
+          "title": "ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ"
+        },
+        {
+          "held": true,
+          "id": "ch02-nadiya-alalu",
+          "number": 2,
+          "title": "ನದಿಯ ಅಳಲು"
+        },
+        {
+          "held": true,
+          "id": "ch03-namma-matu-keli",
+          "number": 3,
+          "title": "ನಮ್ಮ ಮಾತು ಕೇಳಿ"
+        },
+        {
+          "held": true,
+          "id": "ch04-jivada-moulya",
+          "number": 4,
+          "title": "ಜೀವದ ಮೌಲ್ಯ"
+        },
+        {
+          "held": true,
+          "id": "ch05-gidamara",
+          "number": 5,
+          "title": "ಗಿಡ ಮರ"
+        },
+        {
+          "held": true,
+          "id": "ch06-swatantryada-hanate",
+          "number": 6,
+          "title": "ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ"
+        },
+        {
+          "held": true,
+          "id": "ch07-vachanagalu",
+          "number": 7,
+          "title": "ವಚನಗಳು"
+        },
+        {
+          "held": true,
+          "id": "ch08-kannada-kannada-barri-namma-sangada",
+          "number": 8,
+          "title": "ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ"
+        },
+        {
+          "held": true,
+          "id": "ch09-kamana-billu",
+          "number": 9,
+          "title": "ಕಾಮನ ಬಿಲ್ಲು"
+        },
+        {
+          "held": true,
+          "id": "ch10-nanu-mattu-hunchimara",
+          "number": 10,
+          "title": "ನಾನು ಮತ್ತು ಹುಂಚಿಮರ"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 5 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "printedGrade": 5,
+      "provenance": {
+        "notes": "Partial conversion checkpoint for Grade 5 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "sourceDocuments": [
+          {
+            "label": "g05-fl-p1-2026-27.pdf",
+            "sha256": "5ceacb6069ad617dca7755228faae95f5669d60646780e6bcdedf4b098ea68ab"
+          }
+        ]
+      }
+    },
+    {
+      "academicYears": [
+        "2026-27"
+      ],
+      "bookId": "ktbs-savi-kannada-g6-fl-p1",
+      "chapters": [
+        {
+          "held": true,
+          "id": "ch01-doddavara-daari",
+          "number": 1,
+          "title": "ದೊಡ್ಡವರ ದಾರಿ"
+        }
+      ],
+      "id": "2026-27",
+      "label": "Savi Kannada Grade 6 First Language Part 1 (2026–27)",
+      "languageRole": "first-language",
+      "license": "Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted",
+      "printedGrade": 6,
+      "provenance": {
+        "notes": "Partial conversion checkpoint for Grade 6 FL Part 1. Chapters are held editorial drafts; production API excluded until rights are verified.",
+        "sourceDocuments": [
+          {
+            "label": "g06-fl-p1-2026-27.pdf",
+            "sha256": "dfae3d6f934bbc385a33767c1eb84fe6f03bb04fe76cc9fbc494a1280edce7f3"
+          }
+        ]
+      }
     }
   ],
-  "generatedAt": "2026-09-19T04:29:42Z",
+  "generatedAt": "2026-09-19T05:16:37Z",
   "schemaVersion": "2.0"
 }

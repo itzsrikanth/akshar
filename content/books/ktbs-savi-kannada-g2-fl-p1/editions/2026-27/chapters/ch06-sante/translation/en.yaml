@@ -1,0 +1,100 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: 'A) Answer these questions:'
+  exercise-B: B) Who said this to whom?
+  exercise-C: 'C) Write as per the model:'
+  title: Market
+
+prose-p1: It was Saturday, a half-day at school. Anita, John, Rashid, and Kumara, all four of them, set out to see their village market. They felt very happy that Anita's uncle was with them. The market had gathered in the field at the edge of the village. It was full of noise and bustle. The children were eager to rush into the market. But Anita's uncle made them stand at the front of the market and said, "Children, do not scatter in a hurry. Come with me, I will show you around the market." Everyone happily agreed. They came inside the market.
+prose-p2: There were rows of grocery shops. Piles of grains like rice, jowar, ragi, tur dal, and gram were on one side. On another side, they had kept coconuts, tender coconuts, and dry coconuts. In the next row, there were heaps of onions and garlic. Next to that, there were green chilies, and betel leaves, banana leaves, and betel nuts at the base of a tree. Going further, they had kept vegetables like brinjal, cucumber, lady's finger, ivy gourd, tomato, etc. Next to it, they were selling various greens.
+prose-p3: Oho! Look there, sweet-smelling flowers.
+prose-p4: They have kept them in the shade so that they do not wither in the sun. There are chrysanthemum, jasmine, crossandra, rose, and marigold flowers.
+prose-p5: Where do they bring all these from to here?
+prose-p6: The farmers grow all these in their fields, paddy fields, and farms. They bring them from there and sell them here.
+prose-p7: Uncle, people are walking around holding handbags, bags, and baskets there, why?
+prose-p8: They have all come to buy the things they need.
+prose-p9: Are all things available here?
+prose-p10: Yes, come. In this shop, there are semolina, wheat, lentils, spices, turmeric, kumkum, coffee powder, tea powder, chocolates, biscuits, and many more things.
+prose-p11: Look, ribbons, bangles, necklaces, and powders that my elder sister uses are also here.
+prose-p12: Yes, look at the shop next to it. All kinds of ready-made clothes and blankets are available there.
+prose-p13: Wow! So many shops in the market.
+prose-p14: Look there. There are pickaxes, crowbars, pickaxes, ploughshares, sickles, and various types of ropes. These are all implements needed by farmers. People from surrounding villages come and buy the things they need here.
+prose-p15: They are repairing something there, what is it?
+prose-p16: They are repairing broken locks and umbrellas there.
+prose-p17: Uncle, something seems to be happening in that corner?
+prose-p18: A 'Hagaluvesha' (daytime costume) play is going on there. A market is not just a place for doing business. Entertainment like songs and plays also happen here.
+prose-p19: Shall we also watch that play? (Everyone watches the Hagaluvesha play)
+prose-p20: Come, they have kept apples, oranges, sweet limes, papayas, and bananas here. I will buy fruits for all of you. (Everyone eats bananas. Kumara throws the peel on the path)
+prose-p21: Kumara, you should not throw the peel on the path.
+prose-p22: There are dustbins to put unwanted things in school and at home. But where to put the garbage in this market, uncle?
+prose-p23: Children, there are dustbins here too. Look there, put the peel in that bin.
+prose-p24: They put the banana peel in the dustbin. Happy to have seen the market, everyone left for home.
+
+vocab-sante: market
+vocab-gaddala: noise / bustle
+vocab-angadi: shop
+vocab-vyapara: business
+vocab-togari: tur dal
+vocab-veelyadele: betel leaf
+vocab-raashi: pile / heap
+vocab-kadale: bengal gram
+vocab-dhanya: grain
+vocab-guddali: pickaxe / hoe
+vocab-menasinakayi: green chilli
+vocab-eerulli: onion
+vocab-kasada-totti: dustbin
+vocab-raita: farmer
+vocab-bellulli: garlic
+vocab-akki: rice
+vocab-padartha: thing / item
+vocab-jola: jowar
+vocab-maidana: field / ground
+vocab-haare: crowbar
+vocab-salakarane: implement / tool
+vocab-khushi: happiness
+
+note-khushi: happiness
+note-khushi-def: joy, delight
+note-padartha: thing
+note-padartha-def: object
+note-raashi: pile
+note-raashi-def: group, heap, collection
+note-riperi: repair
+note-riperi-def: fixing
+note-salakarane: implement
+note-salakarane-def: tool / equipment
+note-dinasi: groceries
+note-dinasi-def: grain, provision
+note-badi: side
+note-badi-def: next to, beside
+note-sambaara: spice
+note-sambaara-def: spice item.
+note-vyapara: business
+note-vyapara-def: buying, selling.
+note-manoranjane: entertainment
+note-manoranjane-def: making the mind happy.
+note-guddali: pickaxe
+note-guddali-def: an iron tool with a wooden handle used for digging the ground.
+
+ex-a-q1: Where did all the friends go together?
+ex-a-q2: What were they repairing in the market?
+ex-a-q3: Which play were they playing in the market?
+ex-a-q4: Where did the children put the banana peel?
+
+ex-b-q1: "Do not scatter in a hurry."
+ex-b-q2: "Look there, sweet-smelling flowers."
+ex-b-q3: "Where do they bring all these from to here?"
+ex-b-q4: "You should not throw the peel on the path."
+
+ex-c-q1: Father -
+ex-c-q2: Elder uncle -
+ex-c-q3: Maternal uncle -

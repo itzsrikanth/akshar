@@ -1,0 +1,94 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: 'A) Answer these questions:'
+  exercise-B: 'B) Identify whether these sentences are true or false:'
+  exercise-C: 'C) Fill in the correct word in the blank spaces:'
+  exercise-D: 'D) Read and copy the conjunct consonant words given below:'
+  exercise-E: 'E) Write the following words as per the model:'
+  exercise-F: 'F) Create meaningful conjunct consonant words using the letters given in the boxes:'
+  exercise-G: 'G) Copy the given sentences neatly:'
+  title: Kempegowda's Dream
+
+prose-p1: Bengaluru is one of the beautiful cities in India. It is now the capital of Karnataka state. About four hundred years ago, there was a forest in the place where present-day Bengaluru city is. A little distance to the north of that forest, there was a small village called Bengaluru. To the south of the forest, there was a village called Shivasamudra. In the forest between these two villages, Bengaluru was born. The kings named Kempegowda built it in the common era 1537. He made it his capital and ruled.
+prose-p2: Kempegowda was the king of Yalahanka Nadu. Then Yalahankanadu was a part of the Vijayanagara empire. The village Yalahanka, to the north of present-day Bengaluru, was Kempegowda's first capital. Kempegowda was brave, kind, and devoted to God. He loved his subjects like his own children. The subjects too respected him like a father.
+prose-p3: One day Kempegowda had a dream. In the dream, a Goddess came and disappeared in the forest near Shivasamudra. Kempegowda did not understand the meaning of that dream. He had the same dream again and again. Kempegowda was surprised. He was devoted to God. He wanted to know what the Goddess's command could be. The next day he called his ministers and elders. He told them about his dream. The ministers and elders said it was a good dream. The Goddess who appeared and disappeared in the dream told him to build a city in the forest. Accordingly, Kempegowda decided to build a city.
+prose-p4: He marked the place near Shivasamudra. He called sculptors from different parts of the country. He built the new city. Since the new city was near Shivasamudra, it had to be named Shivasamudra. But Kempegowda did not agree to that name. The village Bengaluru, the maternal home of Kempegowda's mother Lingamambe, was nearby. The maternal home of Kempegowda's wife Chennambe and daughter-in-law Lakshmambe was also Bengaluru village. Kempegowda loved his mother, wife, and daughter-in-law very much. He treated them with great respect. Therefore, in their sweet memory, he named the new city he built Bengaluru.
+prose-p5: The news of building Bengaluru city spread all around. Artisans came from different parts of the country. Kempegowda built different streets for different artisans so that their crafts could grow well. Industries grew because of the artisans. Bengaluru's wealth increased. Along with wealth, the town also began to grow. He built four watchtowers in the four corners of the town. These towers can still be seen in Bengaluru today.
+prose-p6: Kempegowda built many temples and lakes. Among them, the big Basavanna temple, Gavi Gangadhareshwara temple, and Kempambudhi lake in Bengaluru are important. Achyutaraya, the king of Vijayanagara, appreciated Kempegowda's devotion to God, love for subjects, and intelligence very much. The king was very happy to hear the news of the beautiful Bengaluru city. The Maharaja of Vijayanagara invited Kempegowda to the Dasara festival. He donated ten villages near Bengaluru to Kempegowda. The Bengaluru built by Kempegowda grew into a big city and is now the capital of our state.
+
+vocab-bengalooru: Bengaluru
+vocab-karnataka: Karnataka
+vocab-rajadhani: capital
+vocab-kaadu: forest
+vocab-uttara: north
+vocab-halli: village
+vocab-shivasamudra: Shivasamudra
+vocab-yalahanka: Yalahanka
+vocab-vijayanagara: Vijayanagara
+vocab-samrajya: empire
+vocab-dayalu: kind
+vocab-bhakti: devotion
+vocab-praje: subject / citizen
+vocab-preeti: love
+vocab-gourava: respect
+vocab-kanasu: dream
+vocab-mantri: minister
+vocab-nagara: city
+vocab-shilpi: sculptor
+vocab-kasabu: craft / occupation
+vocab-sampattu: wealth
+vocab-kaavalu: watch / guard
+vocab-gopura: tower
+vocab-prajaprema: love for subjects
+vocab-dasare: Dasara
+vocab-buddhivantike: intelligence
+vocab-santosha: happiness
+
+note-kasabu: occupation
+note-kasabu-def: job / profession
+note-gudi: temple
+note-gudi-def: shrine
+note-tavarooru: maternal home
+note-tavarooru-def: birthplace / hometown
+note-rajadhani: capital
+note-rajadhani-def: the main administrative center of a state or country
+note-kavalu-gopura: watchtower
+note-kavalu-gopura-def: a tower built at a high place to guard a town against enemies.
+
+ex-a-q1: Which is the capital of our state?
+ex-a-q2: Which was Kempegowda's first capital?
+ex-a-q3: Why did Kempegowda build Bengaluru?
+ex-a-q4: Why did Kempegowda name the new city he built Bengaluru?
+ex-a-q5: What was the reason for Achyutaraya to donate ten villages to Kempegowda?
+ex-a-q6: Why did Kempegowda build the towers?
+
+ex-b-q1: Vijayanagara was Kempegowda's capital.
+ex-b-q2: Kempegowda built the new city in the Shivasamudra forest.
+ex-b-q3: The inspiration to build the new city came from a dream.
+ex-b-q4: Kempegowda's mother's village was Bengaluru.
+ex-b-q5: Achyutaraya built the Kempambudhi lake.
+
+ex-c-q1: Kempegowda loved the _____ like his own children.
+ex-c-q2: The Goddess who appeared and disappeared in the dream told him to build a _____ in the forest.
+ex-c-q3: _____ grew because of the artisans.
+
+ex-d-q1: north
+ex-d-q2: good
+ex-d-q3: agreement
+ex-d-q4: Chennambe
+ex-d-q5: wealth
+
+ex-e-q1: forest
+ex-e-q2: village
+ex-e-q3: tree
+ex-e-q4: sculptor
+ex-e-q5: lake

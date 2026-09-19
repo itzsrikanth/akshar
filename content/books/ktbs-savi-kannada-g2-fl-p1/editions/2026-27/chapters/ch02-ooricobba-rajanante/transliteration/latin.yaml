@@ -1,0 +1,91 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: padya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: "a) koṭṭa sālugaḷannu ōdi khāli biṭṭa sthaḷakke sariyāda pada bareyiri:"
+  exercise-B: "ā) ī padyabhāgada mundina sālugaḷannu hēḷiri:"
+  exercise-C: "i) 'a' paṭṭiyallina padagaḷige sariyāda padavannu 'ā' paṭṭiyinda ārisi hondisi bare:"
+  title: ūrigobba rājanante
+
+poem-s1l1: ondānondu ūrittante
+poem-s1l2: ūrigobba rājanante
+poem-s1l3: rājagobba mantriyante
+poem-s1l4: mantrigobba magaḷante
+poem-s1l5: magaḷigondu gombeyante
+
+poem-s2l1: gombegondu aṅgiyante
+poem-s2l2: aṅgigondu guṇḍiyante
+poem-s2l3: guṇḍi kittu hōyitante
+poem-s2l4: darjiyannu karedarante
+poem-s2l5: darji bandu nōḍidanante
+
+poem-s3l1: guṇḍi balu haḷeyadante
+poem-s3l2: bēre guṇḍi tandanante
+poem-s3l3: aṅgigiṭṭu holidanante
+poem-s3l4: aṅgi sariyāyitante
+poem-s3l5: mantri magaḷa āseyante
+
+poem-s4l1: gombegaṅgi hākidarante
+poem-s4l2: tumba canda kaṇḍitante
+poem-s4l3: gombeyāṭa āḍidaḷante
+poem-s4l4: bēre gombe tandaḷante
+poem-s4l5: eraḍakkū maduveyante
+
+poem-s5l1: ūrina rāja baruvanante
+poem-s5l2: nintu maduve māḍuvanante
+poem-s5l3: nānū nīnū hōgōṇante
+poem-s5l4: maduve nōḍi barōṇante
+
+vocab-ondanondu: ondānondu
+vocab-ooru: ūru
+vocab-obba: obba
+vocab-raja: rāja
+vocab-mantri: mantri
+vocab-magalu: magaḷu
+vocab-gombe: gombe
+vocab-angi: aṅgi
+vocab-gundi: guṇḍi
+vocab-kittu: kittu
+vocab-hogu: hōgu
+vocab-darji: darji
+vocab-kare: kare
+vocab-nodu: nōḍu
+vocab-haleyadu: haḷeyadu
+vocab-tande: tande
+vocab-holi: holi
+vocab-aase: āse
+vocab-haaku: hāku
+vocab-tumba: tumba
+vocab-chanda: canda
+vocab-aata: āṭa
+vocab-maduve: maduve
+vocab-nillu: nillu
+vocab-hogonante: hōgōṇante
+
+note-raja: rāja
+note-raja-def: arasa
+note-darji: darji
+note-darji-def: baṭṭe holiyuvava
+note-chanda: canda
+note-chanda-def: anda, sogasu, celuva
+note-mantri: mantri
+note-mantri-def: rājana salahegāra
+
+ex-a-q1: rājagobba mantriyante mantrigobba _____
+ex-a-q2: magaḷigondu gombeyante gombegondu _____
+ex-a-q3: guṇḍi balu haḷeyadante bēre _____ tandanante
+
+ex-b-q1: darjiyannu karedarante
+ex-b-q2: aṅgigiṭṭu holidanante
+ex-b-q3: nānū nīnū hōgōṇante
+
+ex-c-q1: ūrigobba _____
+ex-c-q2: guṇḍi balu _____
+ex-c-q3: mantri magaḷa _____
+ex-c-q4: ūrina rāja _____

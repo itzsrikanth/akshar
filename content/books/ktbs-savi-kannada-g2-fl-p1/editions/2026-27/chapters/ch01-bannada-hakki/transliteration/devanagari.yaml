@@ -1,0 +1,87 @@
+meta:
+  source: source.kn.yaml
+  script: devanagari
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: पद्य
+  vocab: केळिद पदगळु
+  notes: पदगळ अर्थ
+  exercise-A: 'अ) पद्यद मुन्दिन सालुगळन्नु हेळि:'
+  exercise-B: 'आ) ई प्रश्नेगळिगे ओन्दु पददल्लि उत्तर बरेयिरि:'
+  exercise-C: 'इ) आवरणदल्लि इरुव पदगळल्लि सूक्त पद आरिसि खालि बिट्ट स्थळदल्लि बरेयिरि:'
+  exercise-D: 'ई) ई प्रास पदगळन्नु हेळु:'
+  title: बण्णद हक्कि
+
+poem-s1l1: बारले हक्कि बण्णद हक्कि
+poem-s1l2: बारले हक्कि हारुव हक्कि
+poem-s1l3: गेळेयरु आडलु यारू इल्ल
+poem-s1l4: कळेयुवुदेन्तु वेळेयनेल्ल
+
+poem-s2l1: बा बा ननगू हाडलु कलिसु
+poem-s2l2: बा बा ननगू हारलु कलिसु
+poem-s2l3: अव्वनु नीरिगे होगिहळु
+poem-s2l4: अप्पनु पेटेगे होगिहनु
+
+poem-s3l1: अव्वनु बरलि अप्पनु बरलि
+poem-s3l2: तिन्नलु हण्णनु कोडिसुवेनु
+poem-s3l3: ननगू एरडु रेक्केय हच्चु
+poem-s3l4: हिङ्गडे बण्णद पुच्चव चुच्चु
+
+poem-s4l1: नेत्तिय मेले जुट्टनु हच्चु
+poem-s4l2: मेल्लने मेले हारलु हच्चु
+poem-s4l3: नानु नीनू इब्बरु कूडि
+poem-s4l4: मुगिलिन कडेगे हारुव बा
+
+poem-s5l1: अल्लिन्दित्त इल्लिन्दत्त
+poem-s5l2: हारुत हाडुत नलियुव बा
+
+vocab-hakki: हक्कि
+vocab-avva: अव्व
+vocab-appa: अप्प
+vocab-hannu: हण्णु
+vocab-rekke: रेक्के
+vocab-vele: वेळे
+vocab-netti: नेत्ति
+vocab-haaruva: हारुव
+vocab-pucchava: पुच्चव
+vocab-haadalu: हाडलु
+vocab-ibbaru: इब्बरु
+vocab-hogihalu: होगिहळु
+vocab-hogihanu: होगिहनु
+vocab-allinditta: अल्लिन्दित्त
+vocab-illindatta: इल्लिन्दत्त
+vocab-mugilina: मुगिलिन
+vocab-naliyuva: नलियुव
+
+note-vele: वेळे
+note-vele-def: काल, समय
+note-haccu: हच्चु
+note-haccu-def: सेरिसु, अण्टिसु
+note-puccha: पुच्च
+note-puccha-def: हक्किय गरि / पुक्क
+note-netti: नेत्ति
+note-netti-def: तलेय मध्यभाग
+note-hingade: हिङ्गडे
+note-hingade-def: हिन्दे
+
+ex-a-q1: गेळेयरु आडलु यारू इल्ल
+ex-a-q2: अव्वनु बरलि अप्पनु बरलि
+ex-a-q3: ननगू एरडु रेक्केय हच्चु
+ex-a-q4: नानु नीनू इब्बरु कूडि
+
+ex-b-q1: मगु याव हक्कियन्नु करेयुत्तिदे?
+ex-b-q2: अव्व एल्लिगे होगिहळु?
+ex-b-q3: मगु तिन्नलु एनन्नु कोडिसुवेनु एन्दितु?
+ex-b-q4: मगु इब्बरु कूडि याव कडेगे हारुव बा एन्दु करेयितु?
+
+ex-c-q1: बा बा ननगू _____ कलिसु.
+ex-c-q2: अप्पनु _____ होगिहनु.
+ex-c-q3: ननगू एरडु रेक्केय _____
+ex-c-q4: नेत्तिय मेले _____ हच्चु.
+ex-c-q5: मुगिलिन कडेगे _____ बा.
+
+ex-d-q1: हाडलु - हारलु
+ex-d-q2: हच्चu - चुच्चु
+ex-d-q3: अल्लिन्दित्त - इल्लिन्दत्त

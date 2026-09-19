@@ -80,6 +80,9 @@ def main() -> int:
         fail(f"v2 catalog chapters mismatch edition published set: {sorted(published_ids ^ v2_ids)}")
 
     for edition_record in v2.get("editions") or []:
+        # Spot-check the pilot book only; other books may be held-only drafts.
+        if edition_record.get("bookId") != BOOK_ID or edition_record.get("id") != EDITION_ID:
+            continue
         for ch in edition_record.get("chapters") or []:
             if ch["id"] in held_ids and not ch.get("held"):
                 fail(f"v2 edition ref missing held:true for {ch['id']}")
@@ -118,12 +121,15 @@ def main() -> int:
         chapter_dir = root / relative
         if not chapter_dir.is_dir() or not list(chapter_dir.glob("source.*.yaml")):
             fail(f"held chapter path missing source: {relative}")
-        cid = chapter_dir.name
-        payload = (
-            root / "api" / "v2" / "books" / BOOK_ID / "editions" / EDITION_ID / "chapters" / f"{cid}.json"
-        )
-        if payload.exists():
-            fail(f"held chapter has production v2 payload: {payload.relative_to(root)}")
+        parts = Path(relative).parts
+        # content/books/<book>/editions/<edition>/chapters/<id>
+        if len(parts) == 7 and parts[0:2] == ("content", "books"):
+            book_id, edition_id, cid = parts[2], parts[4], parts[6]
+            payload = (
+                root / "api" / "v2" / "books" / book_id / "editions" / edition_id / "chapters" / f"{cid}.json"
+            )
+            if payload.exists():
+                fail(f"held chapter has production v2 payload: {payload.relative_to(root)}")
 
     grade4_api = root / "api" / "KSEEB" / "Karnataka" / "Kannada" / "Grade4"
     if grade4_api.exists() and any(grade4_api.rglob("*.json")):

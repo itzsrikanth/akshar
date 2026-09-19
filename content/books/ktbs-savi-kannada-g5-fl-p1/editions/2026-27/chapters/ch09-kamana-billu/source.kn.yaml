@@ -1,0 +1,137 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 9
+  slug: ch09-kamana-billu
+  title: ಕಾಮನ ಬಿಲ್ಲು
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ನಿಂಗಣ್ಣ ಕುಂಟಿ
+
+labels:
+  author_intro: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+
+segments:
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ರವಿಯದೊ ಹೊರಟನು ಪಡುವಣಕೆ
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ತಾಯಿಯ ಮನೆಯನು ಸೇರಲಿಕೆ
+
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಸಂಜೆಯ ಹೊತ್ತಿನ ಹೂಬಿಸಿಲು
+
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಕಣ್ಣಿಗೆ ಹಿಗ್ಗಿನ ಅಂದದ ಹೊನಲು
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಬಿಳಿತೆರೆ ಮೋಡದ ಅಂಚಿನಲಿ
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಹನಿಮಳೆ ಬೀಳುವ ಹೊತ್ತಿನಲಿ
+
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ತುಂತುರು ಹನಿಗಳು ಬೀಳುತ್ತಿವೆ.
+
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಕಾಮನ ಬಿಲ್ಲನು ಮೂಡಿಸಿವೆ
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಕಾಮನ ಬಿಲ್ಲನು ನೋಡಲ್ಲಿ
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಮಣಿದಿಹ ಬಿಲ್ಲದು ಮುಗಿಲಲ್ಲಿ
+
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಕಿತ್ತಳೆ ಕೇಸರಿ ಹಳದಿ ಕೆಂಪು
+
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ನೀಲಿ ಕಂದು ನೇರಿಳೆ ತಂಪು
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ನೆಲಕೂ ಮುಗಿಲಿಗೂ ಮುಟ್ಟಿಹುದು
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಕಣ್ಣಿಗೆ ಹಬ್ಬವ ತಂದಿಹುದು
+
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ಸೂರ್ಯನು ಮುಳುಗಿದ ಕತ್ತಲು ಬಂದಿತು
+
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಮೋಡವು ಚದುರಿತು ಮಳೆಯೂ ನಿಂತಿತು
+
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಮರೆಯಲಿ ಓಡಿತು ಕಾಮನ ಬಿಲ್ಲು
+
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಕಾಣದಾಯಿತು ಮಾಯದ ಬಿಲ್ಲು
+
+  - id: author-intro-1
+    type: prose
+    section: author_intro
+    text: ನಿಂಗಪ್ಪ ಹನುಮಪ್ಪ ಕುಂಟಿ (ನಿಂಗಣ್ಣ ಕುಂಟಿ ಇಟಗಿ) ಇವರು 1943ರಲ್ಲಿ ಗದಗ ಜಿಲ್ಲೆಯ ಶಿರಹಟ್ಟಿ ತಾಲ್ಲೂಕಿನ ಇಟಗಿಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ಇವರು ಪ್ರಾಥಮಿಕ ಶಾಲಾ ಶಿಕ್ಷಕರಾಗಿ ಹಾಗೂ ಮಕ್ಕಳ ಸಾಹಿತಿಗಳಾಗಿ ಕನ್ನಡ ಸೇವೆಯನ್ನು ಸಲ್ಲಿಸಿದ್ದಾರೆ. ಮಕ್ಕಳ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕೃಷಿ ಮಾಡಿರುವ ಇವರು ಅನೇಕ ಶಿಶುಪ್ರಾಸಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರ ‘ಚಂದಪ್ಪನ ಶಾಲೆ’ ಕವನ ಸಂಕಲನ ಪ್ರಕಟಗೊಂಡಿದೆ. ಶ್ರೀಯುತರಿಗೆ ಮಕ್ಕಳ ಸಾಹಿತ್ಯ ರಚನೆಗಾಗಿ ಹಲವು ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: 1. ರವಿಯು ಯಾವ ದಿಕ್ಕಿಗೆ ಹೊರಟನು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: 2. ಕಾಮನ ಬಿಲ್ಲು ಎಲ್ಲಿಂದ ಎಲ್ಲಿಯವರೆಗೆ ಆವರಿಸಿದೆ?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: 3. ಕಾಮನ ಬಿಲ್ಲಿನಲ್ಲಿರುವ ಬಣ್ಣಗಳನ್ನು ಹೆಸರಿಸಿ.
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: 4. ಕಾಮನ ಬಿಲ್ಲು ಯಾವಾಗ ಮರೆಯಾಯಿತು?
+
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: 5. ಕಾಮನ ಬಿಲ್ಲು ಯಾವಾಗ ಮೂಡುತ್ತದೆ?

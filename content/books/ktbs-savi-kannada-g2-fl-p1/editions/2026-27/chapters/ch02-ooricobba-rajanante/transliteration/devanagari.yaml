@@ -1,0 +1,91 @@
+meta:
+  source: source.kn.yaml
+  script: devanagari
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: पद्य
+  vocab: केळिद पदगळु
+  notes: पदगळ अर्थ
+  exercise-A: 'अ) कोट्ट सालुगळन्नु ओदि खालि बिट्ट स्थळक्के सरियाद पद बरेयिरि:'
+  exercise-B: "आ) ई पद्यभागद मुन्दिन सालुगळन्नु हेळिरि:"
+  exercise-C: "इ) 'अ' पट्टियल्लिन पदगळिगे सरियाद पदवन्नु 'आ' पट्टियिन्द आरिसि होन्दिगि बरे:"
+  title: ऊरिगोब्ब राजनन्ते
+
+poem-s1l1: ओन्दानोन्दु ऊरित्तन्ते
+poem-s1l2: ऊरिगोब्ब राजनन्ते
+poem-s1l3: राजगोब्ब मन्त्रियन्ते
+poem-s1l4: मन्त्रिगोब्ब मगळन्ते
+poem-s1l5: मगळिगोन्दु गोम्बेयन्ते
+
+poem-s2l1: गोम्बेगोन्दु अङ्गियन्ते
+poem-s2l2: अङ्गिगोन्दु गुण्डियन्ते
+poem-s2l3: गुण्डि कित्तु होयितन्ते
+poem-s2l4: दर्जियन्नु करेदरन्ते
+poem-s2l5: दर्जि बन्दु नोडिदनन्ते
+
+poem-s3l1: गुण्डि बलु हळयदन्ते
+poem-s3l2: बेरे गुण्डि तन्दनन्ते
+poem-s3l3: अङ्गिगिट्टु होलिदनन्ते
+poem-s3l4: अङ्गि सरियायितन्ते
+poem-s3l5: मन्त्रि मगळ आसेयन्ते
+
+poem-s4l1: गोम्बेगङ्गि हाकिदरन्ते
+poem-s4l2: तुम्ब चन्द कण्डितन्ते
+poem-s4l3: गोम्बेयाट आडिदळन्ते
+poem-s4l4: बेरे गोम्बे तन्दळन्ते
+poem-s4l5: एरडक्कू मधुवेयन्ते
+
+poem-s5l1: ऊरिन राज बरुवनन्ते
+poem-s5l2: निन्तु मधुवे माडुवनन्ते
+poem-s5l3: नानू नीनू होगोणन्ते
+poem-s5l4: मधुवे नोडि बरोणन्ते
+
+vocab-ondanondu: ओन्दानोन्दु
+vocab-ooru: ऊरु
+vocab-obba: ओब्ब
+vocab-raja: राज
+vocab-mantri: मन्त्रि
+vocab-magalu: मगळु
+vocab-gombe: गोम्बे
+vocab-angi: अङ्गि
+vocab-gundi: गुण्डि
+vocab-kittu: कित्तु
+vocab-hogu: होगु
+vocab-darji: दर्जि
+vocab-kare: करे
+vocab-nodu: नोडु
+vocab-haleyadu: हळयदु
+vocab-tande: तन्दे
+vocab-holi: होलि
+vocab-aase: आसे
+vocab-haaku: हाकु
+vocab-tumba: तुम्ब
+vocab-chanda: चन्द
+vocab-aata: आट
+vocab-maduve: मधुवे
+vocab-nillu: निल्लु
+vocab-hogonante: होगोणन्ते
+
+note-raja: राज
+note-raja-def: अरस
+note-darji: दर्जि
+note-darji-def: बट्टे होलियुवव
+note-chanda: चन्द
+note-chanda-def: अन्द, सोगसु, चेलुव
+note-mantri: मन्त्रि
+note-mantri-def: राजन सलाहेगार
+
+ex-a-q1: राजगोब्ब मन्त्रियन्ते मन्त्रिगोब्ब _____
+ex-a-q2: मगळिगोन्दु गोम्बेयन्ते गोम्बेगोन्दु _____
+ex-a-q3: गुण्डि बलु हळयदन्ते बेरे _____ तन्दनन्ते
+
+ex-b-q1: दर्जियन्नु करेदरन्ते
+ex-b-q2: अङ्गिगिट्टु होलिदनन्ते
+ex-b-q3: नानू नीनू होगोणन्ते
+
+ex-c-q1: ऊरिगोब्ब _____
+ex-c-q2: गुण्डि बलु _____
+ex-c-q3: मन्त्रि मगळ _____
+ex-c-q4: ऊरिन राज _____

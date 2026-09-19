@@ -1,0 +1,238 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 5
+  slug: ch05-halliya-dariya-badiyali
+  title: ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ
+  source_url: 'https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf'
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: 'ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಹೇಳಿ:'
+  exercise-B: 'ಆ) ಖಾಲಿ ಬಿಟ್ಟಿರುವ ಜಾಗಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಬರೆಯಿರಿ:'
+  exercise-C: 'ಇ) ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಪ್ರಾಸ ಪದ ಹೇಳಿ ಬರೆಯಿರಿ :'
+
+segments:
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ ಒಂದು
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಮಾವಿನ ಮರವಿತ್ತು
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಹಲವು ಕೊಂಬೆಗಳನು ಚಾಚಿ
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ತಣ್ಣೆಳಲನು ಹರಡಿತ್ತು
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಹಕ್ಕಿ ಪಕ್ಷಿಗಳು ಗೂಡನು ಕಟ್ಟಿದೆ
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಮರಿಗಳ ಚಿಲಿಪಿಲಿ ಹಾಡಿತ್ತು
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಎಲೆಗಳ ಜೊತೆಗೆ ಕಾಯಿ ತೂಗಿ
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಬಾಯಲಿ ನೀರನು ತಂದಿತ್ತು
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಮಾವಿನ ಮರದಡಿ ಕಮ್ಮಿನ ಪರಿಮಳ
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಜನರ ಮನವನು ಸೆಳೆದಿತ್ತು
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಮರವೊಂದಾದರು ಉಪಕಾರವು ನೂರು
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಹಿರಿಮೆಯ ತೋರಿತ್ತು
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಶುದ್ಧ ಗಾಳಿ ಮಳೆ ನಂದನವೇ ಇಳೆ
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಹೂ ಹಸಿರಿನ ತಾಕತ್ತು
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ಹಸಿರಿದ್ದರೆ ಉಸಿರು ನಿಲ್ಲುವುದು
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ತಿಳಿದುಕೊ ಈ ಹೊತ್ತು
+
+  - id: vocab-halli
+    type: vocabulary_term
+    text: ಹಳ್ಳಿ
+  - id: vocab-daari
+    type: vocabulary_term
+    text: ದಾರಿ
+  - id: vocab-mavina-mara
+    type: vocabulary_term
+    text: ಮಾವಿನ ಮರ
+  - id: vocab-kombe
+    type: vocabulary_term
+    text: ಕೊಂಬೆ
+  - id: vocab-tannelalu
+    type: vocabulary_term
+    text: ತಣ್ಣೆಳಲು
+  - id: vocab-pakshigalu
+    type: vocabulary_term
+    text: ಪಕ್ಷಿಗಳು
+  - id: vocab-chilipili
+    type: vocabulary_term
+    text: ಚಿಲಿಪಿಲಿ
+  - id: vocab-marigalu
+    type: vocabulary_term
+    text: ಮರಿಗಳು
+  - id: vocab-elegalu
+    type: vocabulary_term
+    text: ಎಲೆಗಳು
+  - id: vocab-neeru
+    type: vocabulary_term
+    text: ನೀರು
+  - id: vocab-parimala
+    type: vocabulary_term
+    text: ಪರಿಮಳ
+  - id: vocab-jana
+    type: vocabulary_term
+    text: ಜನ
+  - id: vocab-upakara
+    type: vocabulary_term
+    text: ಉಪಕಾರ
+  - id: vocab-nooru
+    type: vocabulary_term
+    text: ನೂರು
+  - id: vocab-hirime
+    type: vocabulary_term
+    text: ಹಿರಿಮೆ
+  - id: vocab-shuddha
+    type: vocabulary_term
+    text: ಶುದ್ಧ
+  - id: vocab-gaali
+    type: vocabulary_term
+    text: ಗಾಳಿ
+  - id: vocab-hasiru
+    type: vocabulary_term
+    text: ಹಸಿರು
+  - id: vocab-usiru
+    type: vocabulary_term
+    text: ಉಸಿರು
+  - id: vocab-hottu
+    type: vocabulary_term
+    text: ಹೊತ್ತು
+
+  - id: note-badi
+    type: note_term
+    text: ಬದಿ
+  - id: note-badi-def
+    type: note_definition
+    text: ಪಕ್ಕ
+  - id: note-tannelalu
+    type: note_term
+    text: ತಣ್ಣೆಳಲು
+  - id: note-tannelalu-def
+    type: note_definition
+    text: ತಂಪಾದ ನೆರಳು
+  - id: note-kammina
+    type: note_term
+    text: ಕಮ್ಮಿನ
+  - id: note-kammina-def
+    type: note_definition
+    text: ಸುಗಂಧ
+  - id: note-parimala
+    type: note_term
+    text: ಪರಿಮಳ
+  - id: note-parimala-def
+    type: note_definition
+    text: ಸುವಾಸನೆ
+  - id: note-usiru
+    type: note_term
+    text: ಉಸಿರು
+  - id: note-usiru-def
+    type: note_definition
+    text: ಪ್ರಾಣ (ದೇಹದ ಒಳಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳುವ ಹಾಗೂ ಹೊರಗೆ ಬಿಡುವ ಗಾಳಿ)
+  - id: note-ile
+    type: note_term
+    text: ಇಳೆ
+  - id: note-ile-def
+    type: note_definition
+    text: ಭೂಮಿ
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಹಳ್ಳಿಯ ದಾರಿಯ ಬದಿಯಲಿ ಏನಿತ್ತು?
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಹಕ್ಕಿಗಳು ಗೂಡನು ಎಲ್ಲಿ ಕಟ್ಟಿದ್ದವು?
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಹಕ್ಕಿಯ ಮರಿಗಳು ಏನೆಂದು ಹಾಡಿದವು?
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಜನರ ಮನವನ್ನು ಯಾವುದು ಸೆಳೆದಿತ್ತು?
+
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: ಹಲವು ಕೊಂಬೆಗಳನ್ನು _____ ತಣ್ಣೆಳಲನು ಹರಡಿತ್ತು.
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: ಬಾಯಲಿ _____ ತಂದಿತ್ತು.
+  - id: ex-b-q3
+    type: fill_blank
+    exercise: B
+    text: ಮರವೊಂದಾದರು _____ ನೂರು.
+  - id: ex-b-q4
+    type: fill_blank
+    exercise: B
+    text: ಶುದ್ಧ _____ ನಂದನವೇ ಇಳೆ.
+
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: 'ಮರವಿತ್ತು : __________'
+  - id: ex-c-q2
+    type: fill_blank
+    exercise: C
+    text: 'ಹಾಡಿತ್ತು : __________'
+  - id: ex-c-q3
+    type: fill_blank
+    exercise: C
+    text: 'ಸೆಳೆದಿತ್ತು : __________'
+  - id: ex-c-q4
+    type: fill_blank
+    exercise: C
+    text: 'ತಾಕತ್ತು : __________'

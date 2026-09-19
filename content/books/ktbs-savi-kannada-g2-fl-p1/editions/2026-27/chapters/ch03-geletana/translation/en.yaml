@@ -1,0 +1,77 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: "A) Answer these questions in one sentence:"
+  exercise-B: 'B) Who said this to whom:'
+  exercise-C: 'C) Identify the words with conjunct consonants in the lesson and write them in the blanks:'
+  exercise-D: 'D) Pronounce the given letters clearly:'
+  exercise-E: 'E) Arrange the given letters correctly and write:'
+  title: Friendship
+
+prose-p1: The horse and the camel were good friends. They lived in the same place. They would find food and eat together. Once, the horse had an idea. It asked the camel, "Who is greater among us both?". To that, the camel replied, "Brother horse, aren't we both equal?". The horse was not satisfied with those words. Then it said, "Brother elephant is there, let's go ask him." The camel agreed.
+prose-p2: 'They went to the elephant. The horse asked, "Brother elephant, you should tell us who is greater among us both." The elephant thought for a while and gave this advice: "Younger brothers, it is not right to simply say who is greater. Let''s arrange a running race for you both. But let the race be held twice, and then we''ll decide." Both friends agreed.'
+prose-p3: The elephant decided the place and time for the race. It gave the instruction, "Start from this neem tree and run up to that pond. I will be near the pond."
+prose-p4: The elephant went there. The horse and the camel started to run. The horse itself ran fast and reached the goal first. The winning horse proudly said, "Did you see! Now do you know that I am greater?". The elephant said, "Horse, according to our agreement, there is a race at another place. Let that also happen, then we can decide who is greater." The horse proudly said, "Oho! Let it be so, I am ready."
+prose-p5: The elephant arranged the second running race in a place with more sand. It marked the starting point and the goal point of the race there. The elephant stood at the place where the goal was to be reached. The running race started. The camel ran smoothly on the sand. But it was difficult for the horse to run there.
+prose-p6: The camel won the second running race. Then the defeated horse realized its mistake. It apologized to the elephant and the camel. The elephant said, "Younger brothers, neither of you is greater, nor lesser. Everyone has their own special quality. You both were good friends. Remain the same in the future too. Share the joy of friendship and live." The horse and the camel thanked the elephant. They remained happy as friends as usual.
+
+vocab-olleya: good
+vocab-huduku: search
+vocab-alochane: thought / idea
+vocab-geleya: friend
+vocab-nammibbaru: we both
+vocab-hecchu: more / greater
+vocab-spardhe: competition / race
+vocab-erpadisu: arrange
+vocab-salahe: advice
+vocab-teermanisu: decide
+vocab-arambha: start / beginning
+vocab-jamba: pride / boast
+vocab-soochane: instruction
+vocab-shuru: start
+vocab-praramhba: start / beginning
+vocab-maralu: sand
+vocab-arivu: realization / awareness
+vocab-visheshate: specialty
+vocab-ananda: joy
+
+note-geleya: friend
+note-geleya-def: friend
+note-jamba: pride
+note-jamba-def: pride / arrogance
+note-teermana: decision
+note-teermana-def: judgment
+note-spardhe: competition
+note-spardhe-def: rivalry
+note-oppanda: agreement
+note-oppanda-def: consent, consensus
+note-arivu: realization
+note-arivu-def: understanding
+note-alochane: thought
+note-alochane-def: thinking
+
+ex-a-q1: Who were good friends?
+ex-a-q2: Who did the friends appoint as the judge for the running race?
+ex-a-q3: Who reached the goal first in the first running race?
+ex-a-q4: Where did the elephant arrange the second running race?
+
+ex-b-q1: "Aren't we both equal?"
+ex-b-q2: "Brother elephant is there. Let's go ask him"
+ex-b-q3: "Everyone has their own special quality."
+
+ex-c-q1: 'Identify the words with conjunct consonants in the lesson and write them in the blanks:'
+
+ex-d-q1: 'Pronounce the given letters clearly: Ī, Ai, Au, Kha, Gha, Śa, Ṣa, Cha, Jha, Ṇa, Ṭha, Ḍha, Pha'
+
+ex-e-q1: rekudu
+ex-e-q2: lasahe
+ex-e-q3: kuhuḍu
+ex-e-q4: yaoḷḷe

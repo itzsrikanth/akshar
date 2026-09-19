@@ -1,0 +1,272 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 1
+  subject: Kannada
+  chapter: 1
+  slug: ch01-vandane
+  title: ವಂದನೆ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KSEEB
+  author: ಎಲ್. ಕೆ. ಕಂಬಾರ
+
+labels:
+  title: ವಂದನೆ
+  intro: "ಪಾಠ - ೧ : ಪಾಠಪೂರ್ವ ಚಟುವಟಿಕೆ"
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ
+  exercise-B: ಅಭ್ಯಾಸ ಆ
+  exercise-C: ಅಭ್ಯಾಸ ಇ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಅ) ಚಿತ್ರÀ ತೋರಿಸಿ ಪದ ಹೇಳಿಸಿ.
+  - id: intro-taayi
+    type: vocabulary_term
+    section: intro
+    text: ತಾಯಿ
+  - id: intro-raita
+    type: vocabulary_term
+    section: intro
+    text: ರೈತ
+  - id: intro-vaidya
+    type: vocabulary_term
+    section: intro
+    text: ವೈದ್ಯ
+  - id: intro-sainika
+    type: vocabulary_term
+    section: intro
+    text: ಸೈನಿಕ
+  - id: intro-tande
+    type: vocabulary_term
+    section: intro
+    text: ತಂದೆ
+  - id: poem-intro
+    type: prose
+    section: poem
+    text: (ಈ ಪದ್ಯವನ್ನು ರಾಗವಾಗಿ ಓದಿ, ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ)
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ನವಮಾಸ ಹೊತ್ತು
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ನನ್ನನು ಹೆತ್ತು
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಸಾಕಿದ ತಾಯಿಗೆ ವಂದನೆ
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಮೈಮುರಿ ದುಡಿದು
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ನನ್ನನು ಸಲುಹಿ
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಬೆಳೆಸಿದ ತಂದೆಗೆ ವಂದನೆ
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ವಿದ್ಯಾ ಬುದ್ಧಿ
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಬಾಲ್ಯದಿ ಕಲಿಸಿ
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಹರಸಿದ ಗುರುವಿಗೆ ವಂದನೆ
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಬಗೆ ಬಗೆ ರೋಗವ
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ವಾಸಿ ಮಾಡುವ
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ವೈದ್ಯೆಗೆ ಮಾಡುವೆ ವಂದನೆ
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ನಿತ್ಯದಿ ದುಡಿದು
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಅನ್ನವ ನೀಡುವ
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ರೈತಗೆ ಮಾಡುವೆ ವಂದನೆ
+  - id: poem-s6l1
+    type: poem_line
+    stanza: 6
+    text: ನಾಡಿನ ರಕ್ಷಣೆ
+  - id: poem-s6l2
+    type: poem_line
+    stanza: 6
+    text: ನಿತ್ಯದಿ ಮಾಡುವ
+  - id: poem-s6l3
+    type: poem_line
+    stanza: 6
+    text: ಯೋಧಗೆ ಮಾಡುವೆ ವಂದನೆ
+  - id: vocab-maasa
+    type: vocabulary_term
+    text: ಮಾಸ
+  - id: vocab-hottu
+    type: vocabulary_term
+    text: ಹೊತ್ತು
+  - id: vocab-hettu
+    type: vocabulary_term
+    text: ಹೆತ್ತು
+  - id: vocab-taayi
+    type: vocabulary_term
+    text: ತಾಯಿ
+  - id: vocab-dudi
+    type: vocabulary_term
+    text: ದುಡಿ
+  - id: vocab-tande
+    type: vocabulary_term
+    text: ತಂದೆ
+  - id: vocab-vidye
+    type: vocabulary_term
+    text: ವಿದ್ಯೆ
+  - id: vocab-buddhi
+    type: vocabulary_term
+    text: ಬುದ್ಧಿ
+  - id: vocab-baalya
+    type: vocabulary_term
+    text: ಬಾಲ್ಯ
+  - id: vocab-guru
+    type: vocabulary_term
+    text: ಗುರು
+  - id: vocab-roga
+    type: vocabulary_term
+    text: ರೋಗ
+  - id: vocab-vaidye
+    type: vocabulary_term
+    text: ವೈದ್ಯೆ
+  - id: vocab-raita
+    type: vocabulary_term
+    text: ರೈತ
+  - id: vocab-naadu
+    type: vocabulary_term
+    text: ನಾಡು
+  - id: vocab-nitya
+    type: vocabulary_term
+    text: ನಿತ್ಯ
+  - id: vocab-yodha
+    type: vocabulary_term
+    text: ಯೋಧ
+  - id: note-maasa
+    type: note_term
+    text: ಮಾಸ
+  - id: note-maasa-def
+    type: note_definition
+    ref: note-maasa
+    text: ತಿಂಗಳು
+  - id: note-vandane
+    type: note_term
+    text: ವಂದನೆ
+  - id: note-vandane-def
+    type: note_definition
+    ref: note-vandane
+    text: ನಮಸ್ಕಾರ
+  - id: note-salahu
+    type: note_term
+    text: ಸಲಹು
+  - id: note-salahu-def
+    type: note_definition
+    ref: note-salahu
+    text: ಆರೈಕೆ
+  - id: note-nitya
+    type: note_term
+    text: ನಿತ್ಯ
+  - id: note-nitya-def
+    type: note_definition
+    ref: note-nitya
+    text: ಪ್ರತಿದಿನ
+  - id: ex-a-intro
+    type: prose
+    exercise: A
+    text: ಅ) ಬಿಟ್ಟಿರುವ ಪದವನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+  - id: ex-a-q1
+    type: fill_blank
+    exercise: A
+    text: 1) ನವಮಾಸ ಹೊತ್ತು ಸಾಕಿದ _________
+  - id: ex-a-q2
+    type: fill_blank
+    exercise: A
+    text: 2) ಮೈಮುರಿ ದುಡಿದು ಬೆಳೆಸಿದ _________
+  - id: ex-a-q3
+    type: fill_blank
+    exercise: A
+    text: 3) ವಿದ್ಯಾ ಬುದ್ಧಿ ಕಲಿಸಿ ಹರಸಿದ _________
+  - id: ex-a-q4
+    type: fill_blank
+    exercise: A
+    text: 4) ನಿತ್ಯದಿ ದುಡಿದು ಅನ್ನವ ನೀಡುವ _________
+  - id: ex-a-q5
+    type: fill_blank
+    exercise: A
+    text: 5) ರೋಗ ವಾಸಿ ಮಾಡುವ_________
+  - id: ex-a-q6
+    type: fill_blank
+    exercise: A
+    text: 6) ನಾಡಿನ ರಕ್ಷಣೆ ಮಾಡುವ_________
+  - id: ex-b-intro
+    type: prose
+    exercise: B
+    text: ಆ) ಬಿಟ್ಟಿರುವ ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಮಕ್ಕಳಿಂದ ಹೇಳಿಸಿ.
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: 1) ನವಮಾಸ ಹೊತ್ತು ನನ್ನನು
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: 2) ಮೈಮುರಿ ದುಡಿದು ನನ್ನನು ಸಲುಹಿ
+  - id: ex-b-q3
+    type: fill_blank
+    exercise: B
+    text: 3) ವಿದ್ಯಾ ಬುದ್ಧಿ ಬಾಲ್ಯದಿ ಕಲಿಸಿ
+  - id: ex-b-q4
+    type: fill_blank
+    exercise: B
+    text: 4) ಬಗೆ ಬಗೆ ರೋಗವ ವಾಸಿ ಮಾಡುವ
+  - id: ex-b-q5
+    type: fill_blank
+    exercise: B
+    text: 5) ನಿತ್ಯದಿ ದುಡಿದು ಅನ್ನವ ನೀಡುವ
+  - id: ex-b-q6
+    type: fill_blank
+    exercise: B
+    text: 6) ನಾಡಿನ ರಕ್ಷಣೆ ನಿತ್ಯದಿ ಮಾಡುವ
+  - id: ex-c-intro
+    type: prose
+    exercise: C
+    text: ಇ) ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಿ ಪ್ರಶ್ನೆಗಳನ್ನು ಕೇಳಿ ಉತ್ತರ ಪಡೆಯಿರಿ
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: 1. ವೈದ್ಯೆ ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: 2. ರೈತರು ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: 3. ಶಿಕ್ಷಕಿ ಏನು ಮಾಡುತ್ತಿದ್ದಾರೆ?

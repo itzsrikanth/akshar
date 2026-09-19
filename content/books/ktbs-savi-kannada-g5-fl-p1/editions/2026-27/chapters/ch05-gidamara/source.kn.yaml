@@ -1,0 +1,334 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 5
+  slug: ch05-gidamara
+  title: ಗಿಡ ಮರ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಸತ್ಯಾನಂದ ಪಾತ್ರೋಟ
+
+labels:
+  intro: ಪ್ರವೇಶ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಕೊಟ್ಟಿರುವ ಪದ್ಯದ ಸಾಲುಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿರಿ.
+  exercise-D: ಈ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+  grammar-B: ಆ. ಲಿಂಗ ಬದಲಿಸಿ ಬರೆಯಿರಿ.
+  grammar-C: ಇ. ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಪುಲ್ಲಿಂಗ, ಸ್ತ್ರೀಲಿಂಗ ಹಾಗೂ ನಪುಂಸಕಲಿಂಗಗಳಾಗಿ ಆರಿಸಿ ಬರೆಯಿರಿ.
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಅ. ಕೆಳಗೆ ನೀಡಿರುವ ವಾಕ್ಯಗಳನ್ನು ಆವರಣದಲ್ಲಿ ನೀಡಿರುವ ಪದಗಳಲ್ಲಿ ಸೂಕ್ತವಾದುದನ್ನು ಆರಿಸಿ ವಾಕ್ಯ ಪೂರ್ಣಗೊಳಿಸಿ.
+  language-exercise-B: ಆ. ಕೆಳಗೆ ನೀಡಿರುವ ವಾಕ್ಯಗಳನ್ನು ಆವರಣದಲ್ಲಿ ನೀಡಿರುವ ಅಕ್ಷರಗಳಲ್ಲಿ ಸೂಕ್ತವಾದುದನ್ನು ಆರಿಸಿ ಪೂರ್ಣಗೊಳಿಸಿ.
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ನಮ್ಮ ಕೈಯಲ್ಲಿರುವ ಐದು ಬೆರಳುಗಳೂ ಒಂದೇ ರೀತಿಯಿಲ್ಲ. ಪ್ರತಿಯೊಂದು ಬೆರಳನ್ನು ಅದರದೇ ಆದ ಕಾರ್ಯಗಳಿಗೆ ನಾವು ಬಳಸುತ್ತೇವೆ. ಏನನ್ನಾದರೂ ಹಿಡಿಯಬೇಕಾದರೆ ಐದೂ ಬೆರಳುಗಳನ್ನು ಒಟ್ಟಾಗಿ ಬಳಸುತ್ತೇವೆ. ಬೆರಳಿನ ಆಕಾರ, ಸ್ವರೂಪ ನಮ್ಮ ಗಮನಕ್ಕೆ ಬರುವುದಿಲ್ಲ. ಒಂದು ಮರ ಕಾಯನ್ನು, ಹಣ್ಣನ್ನು, ನೆರಳನ್ನು ನೀಡಬಹುದು. ಹಾಗೆಯೇ, ಹಲವು ಹಕ್ಕಿಗಳು ಗೂಡುಕಟ್ಟಲು ಅವಕಾಶ ಮಾಡಬಲ್ಲದು. ಮನುಷ್ಯರಾದ ನಾವೂ ಸಹಕಾರಿಯಾಗಿ ಬದುಕಿದರೆ ಎಷ್ಟು ಚಂದ ಅಲ್ಲವೆ? ಪ್ರಕೃತಿಯನ್ನು ಅನುಸರಿಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನ ಅಪಾರ.
+
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಬೊಡ್ಡೆ ಕರಿದು ಎಲೆ ಹಸಿರು
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಹೂವು ನಾನಾ ತರತರ
+
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಎಂಥ ಸೊಗಸು ಏನು ಕಂಪು
+
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಬೆಳೆದು ನಿಂತ ಗಿಡ ಮರ
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಯಾರೇ ಬಂದು ಏನೇ ಮಾಡಲಿ
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಎಲ್ಲದಕ್ಕೂ ದಿವ್ಯ ಮೌನ
+
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ರೆಂಬೆ ಕೊಂಬೆ ಚಿಗುರುವಲ್ಲಿ
+
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಕಡಲುಕ್ಕುವ ಚೇತನ
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಮನುಷ್ಯನಲ್ಲಿ ಮಾತು ಉಂಟು
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಮಾತಿನಂತೆ ಇಲ್ಲ ಮನ
+
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಲಿಂಗ ವರ್ಣ ಜಾತಿ ಧರ್ಮ
+
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಹಾಳು ಕೊಂಪೆ ಇವನ ಮನ
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಜಾತಿ-ಗೀತಿ, ಲಿಂಗ-ಧರ್ಮ
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಮೀರಿ ಬೆಳೆದ ಗಿಡಮರ
+
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ಅವನು ಇವಳು ಅದು ಇದು
+
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಎಣಿಸುತಿಲ್ಲ ಒಂದು ದಿನ
+
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಬೊಡ್ಡೆ ಕರಿದು ಎಲೆ ಹಸಿರು
+
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಹೂವು ನಾನಾ ತರತರ
+
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ಬಿಸಿಲು ಮಳೆ ಚಳಿಯ ತಡೆದು
+
+  - id: poem-s5l4
+    type: poem_line
+    stanza: 5
+    text: ಅರಳುತಿಹವು ಅನುದಿನ.
+
+  - id: vocab-aralu
+    type: vocabulary_term
+    text: ಅರಳು
+
+  - id: vocab-aralu-def
+    type: vocabulary_definition
+    text: ವಿಕಾಸವಾಗು, ಹೂಬಿಡು
+
+  - id: vocab-kampu
+    type: vocabulary_term
+    text: ಕಂಪು
+
+  - id: vocab-kampu-def
+    type: vocabulary_definition
+    text: ಸುವಾಸನೆ
+
+  - id: vocab-kompe
+    type: vocabulary_term
+    text: ಕೊಂಪೆ
+
+  - id: vocab-kompe-def
+    type: vocabulary_definition
+    text: ಕೊಳಕು ಪ್ರದೇಶ
+
+  - id: vocab-chetana
+    type: vocabulary_term
+    text: ಚೇತನ
+
+  - id: vocab-chetana-def
+    type: vocabulary_definition
+    text: ಜೀವ, ಪ್ರಾಣ, ಶಕ್ತಿ
+
+  - id: vocab-divya
+    type: vocabulary_term
+    text: ದಿವ್ಯ
+
+  - id: vocab-divya-def
+    type: vocabulary_definition
+    text: ಶ್ರೇಷ್ಠ, ಪವಿತ್ರ
+
+  - id: vocab-bodde
+    type: vocabulary_term
+    text: ಬೊಡ್ಡೆ
+
+  - id: vocab-bodde-def
+    type: vocabulary_definition
+    text: ಮರದ ಕಾಂಡ
+
+  - id: vocab-varna
+    type: vocabulary_term
+    text: ವರ್ಣ
+
+  - id: vocab-varna-def
+    type: vocabulary_definition
+    text: ಬಣ್ಣ
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಗಿಡಮರಗಳ ಬೊಡ್ಡೆ ಹಾಗೂ ಎಲೆ ಯಾವ ಬಣ್ಣದಲ್ಲಿವೆ?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಗಿಡಮರಗಳು ಏನನ್ನು ತಡೆದು ಬೆಳೆಯುತ್ತವೆ?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಮನುಷ್ಯನ ಮನಸ್ಸು ಯಾವುದರಿಂದ ಹಾಳು ಕೊಂಪೆಯಾಗಿದೆ?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ಗಿಡಮರಗಳ ಸ್ವಭಾವ ಎಂಥದ್ದು?
+
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಗಿಡಮರಗಳು ಏನನ್ನು ಮೀರಿ ಬೆಳೆದಿವೆ?
+
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: ಬೊಡ್ಡೆ ಕರಿದು ______________\n______________ ತರತರ\nಎಂಥ ಸೊಗಸು ______________\n______________ ಗಿಡ ಮರ
+
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: "‘ಅ’\n1. ದಿವ್ಯ\n2. ಹಾಳು\n3. ಕಡಲುಕ್ಕುವ\n\n‘ಬ’\nಚೇತನ\nಮೌನ\nಕೊಂಪೆ"
+
+  - id: grammar-p1
+    type: prose
+    section: grammar
+    text: "ಲಿಂಗಗಳು\nಪುರುಷ, ಸ್ತ್ರೀ ಮತ್ತು ಇತರ ವಸ್ತುಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ ಹೇಳುವುದಕ್ಕೆ ಲಿಂಗ ಎನ್ನುತ್ತಾರೆ."
+
+  - id: grammar-p2
+    type: prose
+    section: grammar
+    text: "ಲಿಂಗಗಳಲ್ಲಿ ಮೂರು ವಿಧ.\n1. ಪುಲ್ಲಿಂಗ\n2. ಸ್ತ್ರೀಲಿಂಗ\n3. ನಪುಂಸಕಲಿಂಗ"
+
+  - id: grammar-p3
+    type: prose
+    section: grammar
+    text: "1. ಪುಲ್ಲಿಂಗ\nಪುರುಷ ವಾಚಕ ಶಬ್ದಗಳೆಲ್ಲವೂ ಪುಲ್ಲಿಂಗಗಳು. ಅಂದರೆ ಗಂಡಸರನ್ನು ಕುರಿತು ಹೇಳುವ ಪದಗಳು ಪುಲ್ಲಿಂಗ.\nಉದಾ: ರಾಮ, ಅರಸ, ಹುಡುಗ, ತಂದೆ, ಅಣ್ಣ ಇತ್ಯಾದಿ."
+
+  - id: grammar-p4
+    type: prose
+    section: grammar
+    text: "2. ಸ್ತ್ರೀಲಿಂಗ\nಸ್ತ್ರೀ ವಾಚಕ ಶಬ್ದಗಳೆಲ್ಲವೂ ಸ್ತ್ರೀಲಿಂಗಗಳು. ಅಂದರೆ ಹೆಂಗಸರನ್ನು ಕುರಿತು ಹೇಳುವ ಪದಗಳು ಸ್ತ್ರೀಲಿಂಗ.\nಉದಾ: ಸೀತೆ, ಅರಸಿ, ಹುಡುಗಿ, ತಾಯಿ, ಅಕ್ಕ ಇತ್ಯಾದಿ."
+
+  - id: grammar-p5
+    type: prose
+    section: grammar
+    text: "3. ನಪುಂಸಕಲಿಂಗ\nಪುರುಷ ವಾಚಕ ಮತ್ತು ಸ್ತ್ರೀ ವಾಚಕ ಶಬ್ದಗಳನ್ನು ಬಿಟ್ಟು ಉಳಿದೆಲ್ಲ ಶಬ್ದಗಳು ನಪುಂಸಕಲಿಂಗಗಳು. (ಪ್ರಾಣಿ, ಪಕ್ಷಿ, ಮರ, ಗಿಡ, ವಸ್ತು ಇತ್ಯಾದಿ)\nಉದಾ: ಹಸು, ಗಿಳಿ, ಮರ, ಕಲ್ಲು, ಮನೆ ಇತ್ಯಾದಿ."
+
+  - id: grammar-a-q1
+    type: question
+    exercise: grammar-A
+    text: ಅ) ಲಿಂಗ ಎಂದರೇನು?
+
+  - id: grammar-a-q2
+    type: question
+    exercise: grammar-A
+    text: ಆ) ಲಿಂಗಗಳಲ್ಲಿ ಎಷ್ಟು ವಿಧ? ಅವು ಯಾವುವು?
+
+  - id: grammar-a-q3
+    type: question
+    exercise: grammar-A
+    text: ಇ) ಸ್ತ್ರೀಲಿಂಗ ಎಂದರೇನು? ಉದಾಹರಣೆ ಕೊಡಿ.
+
+  - id: grammar-b-q1
+    type: fill_blank
+    exercise: grammar-B
+    text: "1. ಹುಡುಗ : ___________________"
+
+  - id: grammar-b-q2
+    type: fill_blank
+    exercise: grammar-B
+    text: "2. ತಂಗಿ : ___________________"
+
+  - id: grammar-b-q3
+    type: fill_blank
+    exercise: grammar-B
+    text: "3. ಗೌಡತಿ : ___________________"
+
+  - id: grammar-b-q4
+    type: fill_blank
+    exercise: grammar-B
+    text: "4. ಅತ್ತೆ : ___________________"
+
+  - id: grammar-b-q5
+    type: fill_blank
+    exercise: grammar-B
+    text: "5. ಅವನು : ___________________"
+
+  - id: grammar-c-q1
+    type: question
+    exercise: grammar-C
+    text: ಕೋಗಿಲೆ, ಆತ, ಅಣ್ಣ, ಜಿಂಕೆ, ಗಿಳಿ, ತಾತ, ಅರಸಿ, ಗಂಗೆ, ಗೆಳೆಯ, ತಾಯಿ, ಹಣ್ಣು, ರಾಧೆ
+
+  - id: lang-ex-a-q1
+    type: fill_blank
+    exercise: language-exercise-A
+    text: 1. ಬೆಳದಿಂಗಳ ರಾತ್ರಿಯಲ್ಲಿ ಚಂದ್ರನಿರುವ __________ ನೋಡುವುದೇ ಆನಂದ (ಅಗಸನನ್ನು/ಆಗಸವನ್ನು)
+
+  - id: lang-ex-a-q2
+    type: fill_blank
+    exercise: language-exercise-A
+    text: 2. ನಿನಗೆ ಪೆಟ್ಟಾಗಿರುವುದನ್ನು ಕಂಡಾಗ ನನಗೆ __________ ಬಂದಿತು. (ಆಳು/ಅಳು)
+
+  - id: lang-ex-a-q3
+    type: fill_blank
+    exercise: language-exercise-A
+    text: 3. ನನ್ನ __________ ಬೆಂಗಳೂರು. (ಉರು/ಊರು)
+
+  - id: lang-ex-a-q4
+    type: fill_blank
+    exercise: language-exercise-A
+    text: 4. ಸಂಜೆ ಆಟ ಆಡಿ __________ ಅನಂತರ ಊಟಮಾಡುತ್ತೇನೆ. (ಓದಿದ/ಒದಿದ)
+
+  - id: lang-ex-a-q5
+    type: fill_blank
+    exercise: language-exercise-A
+    text: 5. __________ ಮೇಲೆ ಹಾಲನ್ನು ಇಡಲಾಗಿದೆ. (ಒಲೆಯ/ಓಲೆಯ)
+
+  - id: lang-ex-b-q1
+    type: fill_blank
+    exercise: language-exercise-B
+    text: 1. ಕಾ__________ವೇರಿ ಕೊ__________ಡಗಿನ ಭಾಗಮಂಡಲದ ಬೆಟ್ಟದ ಬಳಿ ಸಣ್ಣ__________ರಿದಾಗಿ ಹುಟ್ಟಿ ಕೆ__________ಳಗೆ ಹರಿಯುತ್ತದೆ. (ಕ/ಕಾ/ಕಿ/ಕೀ/ಕೆ/ಕೊ)
+
+  - id: lang-ex-b-q2
+    type: fill_blank
+    exercise: language-exercise-B
+    text: 2. ನದಿಯನ್ನು ದಾ__________ಟಿ ಆಚೆಯ ದ__________ಡ ಸೇರಿದರೆ ದೊ__________ಡ್ಡ ಆಲದ ಮರ ಕಾಣುತ್ತ__________ದೆ (ದ/ದಾ/ದೆ/ದೊ)
+
+  - id: lang-ex-b-q3
+    type: fill_blank
+    exercise: language-exercise-B
+    text: 3. ಕಾವೇರಿ ಹಾ__________ವಿನಂತೆ ಹೊ__________ರಳಿ ಹ__________ರಿಯುವ ನದಿ (ಹ/ಹಾ/ಹಿ/ಹೊ)

@@ -1,0 +1,84 @@
+meta:
+  source: source.kn.yaml
+  language: hi
+  locale: hi-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: कविता
+  vocab: सुने गए शब्द
+  notes: शब्दों के अर्थ
+  exercise-A: 'अ) इन प्रश्नों के उत्तर एक वाक्य में दें:'
+  exercise-B: 'आ) खाली जगहों में सही शब्द लिखें:'
+  exercise-C: 'इ) दिए गए शब्दों के लिए तुकांत शब्द बताएँ और लिखें:'
+  title: गाँव के रास्ते के किनारे
+
+poem-s1l1: गाँव के रास्ते के किनारे एक
+poem-s1l2: आम का पेड़ था
+poem-s1l3: अपनी कई शाखाएँ फैलाकर
+poem-s1l4: उसने ठंडी छाया फैलाई थी
+
+poem-s2l1: पक्षियों ने घोंसला बनाया है
+poem-s2l2: बच्चे चीं-चीं गा रहे थे
+poem-s2l3: पत्तों के साथ कच्चे आम झूलते हुए
+poem-s2l4: मुँह में पानी लाते थे
+
+poem-s3l1: आम के पेड़ के नीचे की मीठी महक
+poem-s3l2: लोगों के मन को लुभाती थी
+poem-s3l3: भले ही यह एक पेड़ है, इसके उपकार सौ हैं
+poem-s3l4: इसने अपनी महानता दिखाई
+
+poem-s4l1: शुद्ध हवा, बारिश, यह धरती ही नंदनवन (स्वर्ग) है
+poem-s4l2: फूलों और हरियाली की ताकत
+poem-s4l3: हरियाली होगी तभी साँस चलेगी
+poem-s4l4: यह आज ही जान लो
+
+vocab-halli: गाँव
+vocab-daari: रास्ता
+vocab-mavina-mara: आम का पेड़
+vocab-kombe: शाखा
+vocab-tannelalu: ठंडी छाया
+vocab-pakshigalu: पक्षी
+vocab-chilipili: चीं-चीं (पक्षियों की आवाज़)
+vocab-marigalu: बच्चे (पक्षियों या जानवरों के)
+vocab-elegalu: पत्ते
+vocab-neeru: पानी
+vocab-parimala: महक
+vocab-jana: लोग
+vocab-upakara: उपकार / भलाई
+vocab-nooru: सौ
+vocab-hirime: महानता
+vocab-shuddha: शुद्ध
+vocab-gaali: हवा
+vocab-hasiru: हरियाली
+vocab-usiru: साँस
+vocab-hottu: समय / आज
+
+note-badi: किनारा
+note-badi-def: बगल में
+note-tannelalu: ठंडी छाया
+note-tannelalu-def: ठंडी छाया
+note-kammina: मीठी महक वाली
+note-kammina-def: सुगंध
+note-parimala: महक
+note-parimala-def: अच्छी खुशबू
+note-usiru: साँस
+note-usiru-def: प्राण (शरीर के अंदर ली जाने वाली और बाहर छोड़ी जाने वाली हवा)
+note-ile: धरती
+note-ile-def: भूमि
+
+ex-a-q1: गाँव के रास्ते के किनारे क्या था?
+ex-a-q2: पक्षियों ने घोंसला कहाँ बनाया था?
+ex-a-q3: पक्षियों के बच्चे क्या गा रहे थे?
+ex-a-q4: लोगों के मन को किसने लुभाया?
+
+ex-b-q1: कई शाखाएँ फैलाकर _____ ठंडी छाया फैलाई थी।
+ex-b-q2: मुँह में _____ लाया था।
+ex-b-q3: भले ही एक पेड़ है _____ सौ।
+ex-b-q4: शुद्ध _____ यह धरती ही नंदनवन है।
+
+ex-c-q1: 'मरवित्तु (पेड़ था) : __________'
+ex-c-q2: 'हाडित्तु (गा रहे थे) : __________'
+ex-c-q3: 'सेळेदित्तु (लुभाया था) : __________'
+ex-c-q4: 'ताकत्तु (ताकत) : __________'

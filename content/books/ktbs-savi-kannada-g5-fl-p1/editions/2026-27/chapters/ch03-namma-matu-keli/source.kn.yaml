@@ -1,0 +1,322 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 3
+  slug: ch03-namma-matu-keli
+  title: ನಮ್ಮ ಮಾತು ಕೇಳಿ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಸಮಿತಿ ರಚನೆ
+
+labels:
+  intro: ಪ್ರವೇಶ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಯಾರು, ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise-D: ಈ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ವಚನ ಬದಲಿಸಿ ಬರೆಯಿರಿ.
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಆ. ಯೋಜನೆ
+  language-exercise-B: ಇ. ಓದಿಗೆ ಮನ್ನಣೆ
+  language-exercise-C: ಈ. ಶುಭನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಎಲ್ಲ ಜೀವಿಗಳಿಗೂ ಬದುಕಲು ಸಮಾನ ಹಕ್ಕಿದೆ. ಆದರೆ ಮನುಷ್ಯ ತನ್ನ ಸ್ವಾರ್ಥ ನಿಮಿತ್ತನಾಗಿ ಅದಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತಿಲ್ಲ. ಕೆಲವೊಮ್ಮೆ ಆತ ತನ್ನ ಶಾಂತಿ ನೆಮ್ಮದಿಗಳಿಗೆ ತಾನೇ ಅಡ್ಡಿಯಾಗುತ್ತಾನೆ. ಮನುಷ್ಯ ಮಾಡುತ್ತಿರುವ ಸಾಧುವಲ್ಲದ ಕಾರ್ಯಗಳನ್ನು ಪ್ರಾಣಿಗಳ ಮೂಲಕ ಹೇಳಿಸಿ, ಆ ಮೂಲಕ ಆತನನ್ನು ಯೋಚನೆಗೆ ಹಚ್ಚುವುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.
+
+  - id: story-n1
+    type: prose
+    section: story
+    text: ಒಂದಾನೊಂದು ಕಾಡು. ಅಲ್ಲಿ ಬಗೆಬಗೆಯ ಪ್ರಾಣಿಗಳು ವಾಸವಾಗಿದ್ದವು. ಆನೆಯು ಆ ಕಾಡಿನ ಅಧಿಪತಿಯಾಗಿತ್ತು. ಅದು ಆಗಾಗ ಸಭೆ ಕರೆದು ಅವುಗಳ ಕ್ಷೇಮ ಸಮಾಚಾರವನ್ನು ವಿಚಾರಿಸುತ್ತಿತ್ತು. ಊರಿನಲ್ಲಿರುವ ಪ್ರಾಣಿಗಳೊಂದಿಗೂ ಸ್ನೇಹವನ್ನು ಬೆಳೆಸಿತ್ತು. ಅವುಗಳಿಗೂ ಸಭೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಲು ಅವಕಾಶ ನೀಡುತ್ತಿತ್ತು. ಉತ್ತಮ ನಾಯಕತ್ವ ಗುಣ ಹೊಂದಿರುವ ಆನೆಯು ಎಲ್ಲಾ ಪ್ರಾಣಿಗಳಿಂದಲೂ ಮೆಚ್ಚುಗೆಯನ್ನು ಗಳಿಸಿತ್ತು.
+
+  - id: story-n2
+    type: prose
+    section: story
+    text: ಹೀಗೆಯೇ ಒಂದು ದಿನ ಸಭೆ ಕರೆದಿತ್ತು. ಎಲ್ಲ ಪ್ರಾಣಿಗಳು ಅಂದು ಮನುಷ್ಯರ ಮೇಲೆ ಬಹಳವಾಗಿ ದೂರು ಹೇಳುತ್ತಿದ್ದವು. ಮಾನವನಿಂದ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಹಾಗೂ ಪರಿಹಾರ ಕುರಿತು ಚರ್ಚಿಸಿದ್ದವು. ಮನುಷ್ಯನಿಗೆ ತಿಳಿಹೇಳಲು ಫಲಕದಲ್ಲಿ ವಿವರ ಬರೆದು ತರಲು ಆನೆಯು ಪ್ರಾಣಿಗಳಿಗೆ ಸೂಚನೆ ನೀಡಿತ್ತು. ಅದರಂತೆ ಪ್ರಾಣಿಗಳು ಈ ದಿನದ ಸಭೆಗೆ ಸಿದ್ದವಾಗಿ ಬಂದಿದ್ದವು. ನಾಯಕನ ಸೂಚನೆಯಂತೆ ಅವುಗಳು ತಮ್ಮ ಫಲಕಗಳನ್ನು ಹಿಡಿದುಕೊಂಡು ಸಾಲಾಗಿ ನಿಂತಿದ್ದವು. ಆನೆಯು ಅವುಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಓದುತ್ತಾ ಮುನ್ನಡೆಯಿತು.
+
+  - id: story-d1
+    type: dialogue
+    section: story
+    speaker: ಎತ್ತು
+    text: “ನಮ್ಮನ್ನು ಹೆಚ್ಚು ಹೆಚ್ಚು ದುಡಿಸಿಕೊಳ್ಳುತ್ತೀರಿ. ಕಡಿಮೆ ಆಹಾರ ನೀಡುತ್ತೀರಿ. ನಮ್ಮ ಸೇವೆ ಬೇಕು; ನಾವು ಮಾತ್ರ ಬೇಡ ಅಲ್ಲವೇ? ನಮ್ಮ ಸೇವೆಯನ್ನು ಮರೆಯದಿರಿ.” “ದಯೆಯಿರಲಿ ಸಕಲ ಪ್ರಾಣಿಗಳಲ್ಲಿ.”
+
+  - id: story-d2
+    type: dialogue
+    section: story
+    speaker: ಜಿಂಕೆ
+    text: “ನಮ್ಮ ಬದುಕಿನ ಆಧಾರತಾಣ ಕಾಡು. ಅದನ್ನು ನಾಶ ಮಾಡುತ್ತಿದ್ದೀರಿ. ನಮಗೆ ತಿನ್ನಲು ಹುಲ್ಲಿಲ್ಲ. ಮಲಗಲು ಮರದ ನೆರಳಿಲ್ಲ. ಕಾಡು ನಿಮಗೂ ಬೇಕು. ನಮಗೂ ಬೇಕು.” “ನಮ್ಮನ್ನು ಉಳಿಸಿರಿ, ನೀವೂ ಉಳಿಯಿರಿ.”
+
+  - id: story-d3
+    type: dialogue
+    section: story
+    speaker: ಆಮೆ
+    text: “ನೀರು ಅಮೂಲ್ಯ ಸಂಪತ್ತು. ಅದನ್ನು ಹಾಳು ಮಾಡುತ್ತಿದ್ದೀರಿ. ಕಸಕಡ್ಡಿ ಹಾಕಿ ಕಲ್ಮಷಗೊಳಿಸುತ್ತಿದ್ದೀರಿ. ನಮಗೆ ನೀರಿನಲ್ಲಿರಲು ಆಗುತ್ತಿಲ್ಲ. ಶುದ್ಧ ನೀರು ನಮಗೂ ಬೇಕು, ನಿಮಗೂ ಬೇಕು.” “ನೀರು ಉಳಿಸಿ, ನಾಡು ಬೆಳೆಸಿ.”
+
+  - id: story-d4
+    type: dialogue
+    section: story
+    speaker: ನಾಯಿ
+    text: “ನಾನು ನಿಮ್ಮ ಮನೆಯ ಕಾವಲುಗಾರ. ನಿಮ್ಮ ಮನೆಗೆ ಬರುವ ಕಳ್ಳರನ್ನು ಓಡಿಸುವೆ. ಆದರೆ ನೀವು ನನ್ನನ್ನು ಪ್ರೀತಿಯಿಂದ ಕಾಣುವುದಿಲ್ಲ. ಕಲ್ಲುಗಳಿಂದ ಹೊಡೆಯುತ್ತೀರಿ. ಇದು ಸರಿಯೇ?” “ಮೂಕ ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೀತಿಸಿರಿ.”
+
+  - id: story-d5
+    type: dialogue
+    section: story
+    speaker: ಕರಡಿ
+    text: “ನಮ್ಮ ಚರ್ಮ, ಉಗುರು, ಕೂದಲು, ದಂತಗಳಿಗಾಗಿ ನಮ್ಮನ್ನು ಕೊಲ್ಲುವಿರಿ. ನಮ್ಮ ಸಂತತಿಯನ್ನು ನಾಶಮಾಡುವ ಹಕ್ಕು ನಿಮಗಿಲ್ಲ.” “ಪ್ರಾಣಿ ಹಿಂಸೆ ಮಹಾಪಾಪ.”
+
+  - id: story-d6
+    type: dialogue
+    section: story
+    speaker: ಆನೆ
+    text: “ಮನುಷ್ಯರೇ, ಅತಿಯಾಸೆ ಬಿಡಿ. ಪ್ರಾಣಿಗಳನ್ನು ಪ್ರೀತಿಸಿ. ಕಾಡನ್ನು ಬೆಳೆಸಿ. ನೀರನ್ನು ಶುದ್ಧವಾಗಿಡಿ. ಪರಿಸರವನ್ನು ರಕ್ಷಿಸಿ. ಆಗ ಮಾತ್ರ ನೀವು ನೆಮ್ಮದಿಯಿಂದ ಬಾಳಲು ಸಾಧ್ಯ.”
+
+  - id: vocab-adhipathi
+    type: vocabulary_term
+    text: ಅಧಿಪತಿ
+
+  - id: vocab-adhipathi-def
+    type: vocabulary_definition
+    text: ಒಡೆಯ, ಯಜಮಾನ
+
+  - id: vocab-amulya
+    type: vocabulary_term
+    text: ಅಮೂಲ್ಯ
+
+  - id: vocab-amulya-def
+    type: vocabulary_definition
+    text: ಬೆಲೆಕಟ್ಟಲಾಗದ, ಶ್ರೇಷ್ಠವಾದ
+
+  - id: vocab-kalmasha
+    type: vocabulary_term
+    text: ಕಲ್ಮಷ
+
+  - id: vocab-kalmasha-def
+    type: vocabulary_definition
+    text: ಕೊಳೆ, ಮಲಿನ
+
+  - id: vocab-ksema
+    type: vocabulary_term
+    text: ಕ್ಷೇಮ
+
+  - id: vocab-ksema-def
+    type: vocabulary_definition
+    text: ಕುಶಲ, ಸುಖ
+
+  - id: vocab-daye
+    type: vocabulary_term
+    text: ದಯೆ
+
+  - id: vocab-daye-def
+    type: vocabulary_definition
+    text: ಕರುಣೆ, ಕನಿಕರ
+
+  - id: vocab-phalaka
+    type: vocabulary_term
+    text: ಫಲಕ
+
+  - id: vocab-phalaka-def
+    type: vocabulary_definition
+    text: ಹಲಗೆ
+
+  - id: vocab-muka
+    type: vocabulary_term
+    text: ಮೂಕ
+
+  - id: vocab-muka-def
+    type: vocabulary_definition
+    text: ಮಾತಿಲ್ಲದ
+
+  - id: vocab-samachara
+    type: vocabulary_term
+    text: ಸಮಾಚಾರ
+
+  - id: vocab-samachara-def
+    type: vocabulary_definition
+    text: ಸುದ್ದಿ, ವರದಿ
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಕಾಡಿನ ಅಧಿಪತಿ ಯಾರು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಪ್ರಾಣಿಗಳು ಯಾರ ಮೇಲೆ ದೂರು ಹೇಳುತ್ತಿದ್ದವು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಆನೆಯು ಪ್ರಾಣಿಗಳಿಗೆ ಯಾವ ಸೂಚನೆ ನೀಡಿತ್ತು?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಆಮೆ ಹಿಡಿದಿದ್ದ ಫಲಕದಲ್ಲಿ ಏನೆಂದು ಬರೆದಿತ್ತು?
+
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: ನಾಯಿ ಮನುಷ್ಯರಿಗೆ ಏನೆಂದು ಹೇಳಿತು?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ಎತ್ತು ಮನುಷ್ಯರ ಬಗ್ಗೆ ಏನೆಂದು ಹೇಳಿತು?
+
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಜಿಂಕೆಯು ತನ್ನ ಫಲಕದಲ್ಲಿ ಏನೆಂದು ಬರೆದಿತ್ತು?
+
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ಕರಡಿಯು ಮನುಷ್ಯರಿಗೆ ಏನೆಂದು ಬುದ್ಧಿವಾದ ಹೇಳಿತು?
+
+  - id: ex-b-q4
+    type: question
+    exercise: B
+    text: ಆನೆಯು ಮನುಷ್ಯರಿಗೆ ನೀಡಿದ ಸಂದೇಶವೇನು?
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: "ನಮ್ಮನ್ನು ಹೆಚ್ಚು ಹೆಚ್ಚು ದುಡಿಸಿಕೊಳ್ಳುತ್ತೀರಿ."
+
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: "ನಮ್ಮ ಬದುಕಿನ ಆಧಾರತಾಣ ಕಾಡು."
+
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: "ನಾನು ನಿಮ್ಮ ಮನೆಯ ಕಾವಲುಗಾರ."
+
+  - id: ex-c-q4
+    type: question
+    exercise: C
+    text: "ನಮ್ಮ ಸಂತತಿಯನ್ನು ನಾಶಮಾಡುವ ಹಕ್ಕು ನಿಮಗಿಲ್ಲ."
+
+  - id: ex-d-q1
+    type: fill_blank
+    exercise: D
+    text: ಆನೆಯು ಆಗಾಗ ಸಭೆ ಕರೆದು ಅವುಗಳ __________ ವಿಚಾರಿಸುತ್ತಿತ್ತು.
+
+  - id: ex-d-q2
+    type: fill_blank
+    exercise: D
+    text: ದಯೆಯಿರಲಿ __________ ಪ್ರಾಣಿಗಳಲ್ಲಿ.
+
+  - id: ex-d-q3
+    type: fill_blank
+    exercise: D
+    text: ನೀರು __________ ಸಂಪತ್ತು.
+
+  - id: ex-d-q4
+    type: fill_blank
+    exercise: D
+    text: ಪ್ರಾಣಿ ಹಿಂಸೆ __________.
+
+  - id: grammar-p1
+    type: prose
+    section: grammar
+    text: "ವಚನಗಳು\nವಚನ ಎಂದರೆ ಸಂಖ್ಯೆ ಎಂದರ್ಥ. ವಚನಗಳಲ್ಲಿ ಎರಡು ವಿಧ.\n1. ಏಕವಚನ\n2. ಬಹುವಚನ"
+
+  - id: grammar-p2
+    type: prose
+    section: grammar
+    text: "1. ಏಕವಚನ\nಒಂದು ವಸ್ತುವನ್ನಾಗಲೀ ಅಥವಾ ಒಬ್ಬ ವ್ಯಕ್ತಿಯನ್ನಾಗಲೀ ಕುರಿತು ಹೇಳುವುದು ಏಕವಚನ.\nಉದಾ: ಮರ, ಹಸು, ಹುಡುಗ, ಪುಸ್ತಕ ಇತ್ಯಾದಿ."
+
+  - id: grammar-p3
+    type: prose
+    section: grammar
+    text: "2. ಬಹುವಚನ\nಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ವಸ್ತುಗಳನ್ನಾಗಲೀ ಅಥವಾ ವ್ಯಕ್ತಿಗಳನ್ನಾಗಲೀ ಕುರಿತು ಹೇಳುವುದು ಬಹುವಚನ.\nಉದಾ: ಮರಗಳು, ಹಸುಗಳು, ಹುಡುಗರು, ಪುಸ್ತಕಗಳು ಇತ್ಯಾದಿ."
+
+  - id: grammar-a-q1
+    type: fill_blank
+    exercise: grammar-A
+    text: "1. ಎತ್ತು : _________________"
+
+  - id: grammar-a-q2
+    type: fill_blank
+    exercise: grammar-A
+    text: "2. ನಾಯಕ : _________________"
+
+  - id: grammar-a-q3
+    type: fill_blank
+    exercise: grammar-A
+    text: "3. ಅಣ್ಣಂದಿರು : _________________"
+
+  - id: grammar-a-q4
+    type: fill_blank
+    exercise: grammar-A
+    text: "4. ಪತ್ರಿಕೆಗಳು : _________________"
+
+  - id: grammar-a-q5
+    type: fill_blank
+    exercise: grammar-A
+    text: "5. ಪತ್ರಗಳು : _________________"
+
+  - id: grammar-a-q6
+    type: fill_blank
+    exercise: grammar-A
+    text: "6. ಮಿತ್ರರು : _________________"
+
+  - id: grammar-a-q7
+    type: fill_blank
+    exercise: grammar-A
+    text: "7. ಅದು : _________________"
+
+  - id: grammar-a-q8
+    type: fill_blank
+    exercise: grammar-A
+    text: "8. ನೀವು : _________________"
+
+  - id: lang-ex-a-q1
+    type: question
+    exercise: language-exercise-A
+    text: 1. ವಿವಿಧ ಭಿತ್ತಿಪತ್ರಗಳನ್ನು ತಯಾರಿಸಿ ಶಾಲೆಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಿರಿ.
+
+  - id: lang-ex-a-q2
+    type: question
+    exercise: language-exercise-A
+    text: 2. ಮಿಂಚುಪಟ್ಟಿಯಲ್ಲಿ ಏಕವಚನ-ಬಹುವಚನ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.
+
+  - id: lang-ex-b-q1
+    type: question
+    exercise: language-exercise-B
+    text: 1. ವಿವಿಧ ಪ್ರಾಣಿಗಳ ಜೀವನ ಕ್ರಮದ ಬಗ್ಗೆ ಓದಿ ತಿಳಿಯಿರಿ.
+
+  - id: lang-ex-b-q2
+    type: question
+    exercise: language-exercise-B
+    text: 2. ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬರುವ ವಾಚಕರ ಸಲಹೆಗಳನ್ನು ಓದಿರಿ.
+
+  - id: lang-ex-b-q3
+    type: question
+    exercise: language-exercise-B
+    text: 3. ಚಿತ್ರಕಥೆ, ಭಿತ್ತಿಪತ್ರಗಳನ್ನು ಗೆಳೆಯರೊಂದಿಗೆ ಓದಿ ನಲಿಯಿರಿ.
+
+  - id: lang-ex-c-q1
+    type: question
+    exercise: language-exercise-C
+    text: 1. ಇತರರ ಮಾತುಗಳಿಗೂ ಮನ್ನಣೆ ಕೊಡಿರಿ.
+
+  - id: lang-ex-c-q2
+    type: question
+    exercise: language-exercise-C
+    text: 2. ಸಂಪನ್ಮೂಲಗಳನ್ನು ಅಗತ್ಯವಿದ್ದಷ್ಟು ಮಾತ್ರ ಬಳಸಿರಿ.
+
+  - id: lang-ex-c-q3
+    type: question
+    exercise: language-exercise-C
+    text: 3. ವನಗಳನ್ನು ಬೆಳೆಸಿರಿ, ವನ್ಯ ಜೀವಿಗಳನ್ನು ಉಳಿಸಿರಿ.

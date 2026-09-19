@@ -1,0 +1,84 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: Poem
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: 'A) Answer these questions in one sentence:'
+  exercise-B: 'B) Write the correct word in the blank spaces:'
+  exercise-C: 'C) Say and write rhyming words for the given words:'
+  title: By the Side of the Village Path
+
+poem-s1l1: By the side of the village path, there was a
+poem-s1l2: Mango tree
+poem-s1l3: Spreading its many branches
+poem-s1l4: It spread cool shade
+
+poem-s2l1: Birds have built a nest
+poem-s2l2: The chicks sang tweet-tweet
+poem-s2l3: Mangoes swaying along with the leaves
+poem-s2l4: Brought water to the mouth
+
+poem-s3l1: The sweet fragrance under the mango tree
+poem-s3l2: Attracted people's minds
+poem-s3l3: Even though it is one tree, it does a hundred favors
+poem-s3l4: It showed its greatness
+
+poem-s4l1: Pure air, rain, the earth is a garden
+poem-s4l2: The power of flowers and greenery
+poem-s4l3: If there is greenery, there will be breath
+poem-s4l4: Know this today
+
+vocab-halli: village
+vocab-daari: path
+vocab-mavina-mara: mango tree
+vocab-kombe: branch
+vocab-tannelalu: cool shade
+vocab-pakshigalu: birds
+vocab-chilipili: tweet-tweet
+vocab-marigalu: chicks
+vocab-elegalu: leaves
+vocab-neeru: water
+vocab-parimala: fragrance
+vocab-jana: people
+vocab-upakara: favor / help
+vocab-nooru: hundred
+vocab-hirime: greatness
+vocab-shuddha: pure
+vocab-gaali: air / wind
+vocab-hasiru: green / greenery
+vocab-usiru: breath
+vocab-hottu: time / today
+
+note-badi: side
+note-badi-def: next to
+note-tannelalu: cool shade
+note-tannelalu-def: cool shade
+note-kammina: sweet-smelling
+note-kammina-def: fragrance
+note-parimala: fragrance
+note-parimala-def: good smell
+note-usiru: breath
+note-usiru-def: life (the air taken into and let out of the body)
+note-ile: earth
+note-ile-def: earth / ground
+
+ex-a-q1: What was by the side of the village path?
+ex-a-q2: Where had the birds built the nest?
+ex-a-q3: What did the chicks sing?
+ex-a-q4: What attracted the people's minds?
+
+ex-b-q1: Spreading its many branches _____ it spread cool shade.
+ex-b-q2: It brought _____ to the mouth.
+ex-b-q3: Even though it is one tree _____ a hundred.
+ex-b-q4: Pure _____ the earth is a garden.
+
+ex-c-q1: 'maravittu : __________'
+ex-c-q2: 'haadittu : __________'
+ex-c-q3: 'seledittu : __________'
+ex-c-q4: 'taakattu : __________'

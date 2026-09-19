@@ -1,0 +1,246 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 1
+  slug: ch01-bannada-hakki
+  title: ಬಣ್ಣದ ಹಕ್ಕಿ
+  source_url: https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: "ಅ) ಪದ್ಯದ ಮುಂದಿನ ಸಾಲುಗಳನ್ನು ಹೇಳಿ:"
+  exercise-B: "ಆ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ಪದದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ:"
+  exercise-C: "ಇ) ಆವರಣದಲ್ಲಿ ಇರುವ ಪದಗಳಲ್ಲಿ ಸೂಕ್ತ ಪದ ಆರಿಸಿ ಖಾಲಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ:"
+  exercise-D: "ಈ) ಈ ಪ್ರಾಸ ಪದಗಳನ್ನು ಹೇಳು:"
+
+segments:
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಬಾರಲೆ ಹಕ್ಕಿ ಬಣ್ಣದ ಹಕ್ಕಿ
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಬಾರಲೆ ಹಕ್ಕಿ ಹಾರುವ ಹಕ್ಕಿ
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಗೆಳೆಯರು ಆಡಲು ಯಾರೂ ಇಲ್ಲ
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಕಳೆಯುವುದೆಂತು ವೇಳೆಯನೆಲ್ಲ
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಬಾ ಬಾ ನನಗೂ ಹಾಡಲು ಕಲಿಸು
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಬಾ ಬಾ ನನಗೂ ಹಾರಲು ಕಲಿಸು
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಅವ್ವನು ನೀರಿಗೆ ಹೋಗಿಹಳು
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಅಪ್ಪನು ಪೇಟೆಗೆ ಹೋಗಿಹನು
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಅವ್ವನು ಬರಲಿ ಅಪ್ಪನು ಬರಲಿ
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ತಿನ್ನಲು ಹಣ್ಣನು ಕೊಡಿಸುವೆನು
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ನನಗೂ ಎರಡು ರೆಕ್ಕೆಯ ಹಚ್ಚು
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಹಿಂಗಡೆ ಬಣ್ಣದ ಪುಚ್ಚವ ಚುಚ್ಚು
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ನೆತ್ತಿಯ ಮೇಲೆ ಜುಟ್ಟನು ಹಚ್ಚು
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಮೆಲ್ಲನೆ ಮೇಲೆ ಹಾರಲು ಹಚ್ಚು
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ನಾನು ನೀನೂ ಇಬ್ಬರು ಕೂಡಿ
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಮುಗಿಲಿನ ಕಡೆಗೆ ಹಾರುವ ಬಾ
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಅಲ್ಲಿಂದಿತ್ತ ಇಲ್ಲಿಂದತ್ತ
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಹಾರುತ ಹಾಡುತ ನಲಿಯುವ ಬಾ
+
+  - id: vocab-hakki
+    type: vocabulary_term
+    text: ಹಕ್ಕಿ
+  - id: vocab-avva
+    type: vocabulary_term
+    text: ಅವ್ವ
+  - id: vocab-appa
+    type: vocabulary_term
+    text: ಅಪ್ಪ
+  - id: vocab-hannu
+    type: vocabulary_term
+    text: ಹಣ್ಣು
+  - id: vocab-rekke
+    type: vocabulary_term
+    text: ರೆಕ್ಕೆ
+  - id: vocab-vele
+    type: vocabulary_term
+    text: ವೇಳೆ
+  - id: vocab-netti
+    type: vocabulary_term
+    text: ನೆತ್ತಿ
+  - id: vocab-haaruva
+    type: vocabulary_term
+    text: ಹಾರುವ
+  - id: vocab-pucchava
+    type: vocabulary_term
+    text: ಪುಚ್ಚವ
+  - id: vocab-haadalu
+    type: vocabulary_term
+    text: ಹಾಡಲು
+  - id: vocab-ibbaru
+    type: vocabulary_term
+    text: ಇಬ್ಬರು
+  - id: vocab-hogihalu
+    type: vocabulary_term
+    text: ಹೋಗಿಹಳು
+  - id: vocab-hogihanu
+    type: vocabulary_term
+    text: ಹೋಗಿಹನು
+  - id: vocab-allinditta
+    type: vocabulary_term
+    text: ಅಲ್ಲಿಂದಿತ್ತ
+  - id: vocab-illindatta
+    type: vocabulary_term
+    text: ಇಲ್ಲಿಂದತ್ತ
+  - id: vocab-mugilina
+    type: vocabulary_term
+    text: ಮುಗಿಲಿನ
+  - id: vocab-naliyuva
+    type: vocabulary_term
+    text: ನಲಿಯುವ
+
+  - id: note-vele
+    type: note_term
+    text: ವೇಳೆ
+  - id: note-vele-def
+    type: note_definition
+    text: ಕಾಲ, ಸಮಯ
+  - id: note-haccu
+    type: note_term
+    text: ಹಚ್ಚು
+  - id: note-haccu-def
+    type: note_definition
+    text: ಸೇರಿಸು, ಅಂಟಿಸು
+  - id: note-puccha
+    type: note_term
+    text: ಪುಚ್ಚ
+  - id: note-puccha-def
+    type: note_definition
+    text: ಹಕ್ಕಿಯ ಗರಿ / ಪುಕ್ಕ
+  - id: note-netti
+    type: note_term
+    text: ನೆತ್ತಿ
+  - id: note-netti-def
+    type: note_definition
+    text: ತಲೆಯ ಮಧ್ಯಭಾಗ
+  - id: note-hingade
+    type: note_term
+    text: ಹಿಂಗಡೆ
+  - id: note-hingade-def
+    type: note_definition
+    text: ಹಿಂದೆ
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಗೆಳೆಯರು ಆಡಲು ಯಾರೂ ಇಲ್ಲ
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಅವ್ವನು ಬರಲಿ ಅಪ್ಪನು ಬರಲಿ
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ನನಗೂ ಎರಡು ರೆಕ್ಕೆಯ ಹಚ್ಚು
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ನಾನು ನೀನೂ ಇಬ್ಬರು ಕೂಡಿ
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ಮಗು ಯಾವ ಹಕ್ಕಿಯನ್ನು ಕರೆಯುತ್ತಿದೆ?
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಅವ್ವ ಎಲ್ಲಿಗೆ ಹೋಗಿಹಳು?
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ಮಗು ತಿನ್ನಲು ಏನನ್ನು ಕೊಡಿಸುವೆನು ಎಂದಿತು?
+  - id: ex-b-q4
+    type: question
+    exercise: B
+    text: ಮಗು ಇಬ್ಬರು ಕೂಡಿ ಯಾವ ಕಡೆಗೆ ಹಾರುವ ಬಾ ಎಂದು ಕರೆಯಿತು?
+
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: ಬಾ ಬಾ ನನಗೂ _____ ಕಲಿಸು.
+  - id: ex-c-q2
+    type: fill_blank
+    exercise: C
+    text: ಅಪ್ಪನು _____ ಹೋಗಿಹನು.
+  - id: ex-c-q3
+    type: fill_blank
+    exercise: C
+    text: ನನಗೂ ಎರಡು ರೆಕ್ಕೆಯ _____
+  - id: ex-c-q4
+    type: fill_blank
+    exercise: C
+    text: ನೆತ್ತಿಯ ಮೇಲೆ _____ ಹಚ್ಚು.
+  - id: ex-c-q5
+    type: fill_blank
+    exercise: C
+    text: ಮುಗಿಲಿನ ಕಡೆಗೆ _____ ಬಾ.
+
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: ಹಾಡಲು - ಹಾರಲು
+  - id: ex-d-q2
+    type: question
+    exercise: D
+    text: ಹಚ್ಚು - ಚುಚ್ಚು
+  - id: ex-d-q3
+    type: question
+    exercise: D
+    text: ಅಲ್ಲಿಂದಿತ್ತ - ಇಲ್ಲಿಂದತ್ತ

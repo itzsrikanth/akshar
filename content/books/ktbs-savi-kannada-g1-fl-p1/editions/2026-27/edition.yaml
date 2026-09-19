@@ -1,0 +1,21 @@
+id: 2026-27
+bookId: ktbs-savi-kannada-g1-fl-p1
+label: Savi Kannada Grade 1 First Language Part 1 (2026–27)
+printedGrade: 1
+languageRole: first-language
+license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+academicYears:
+- 2026-27
+provenance:
+  sourceDocuments:
+  - label: g01-fl-p1-2026-27.pdf
+    sha256: 3a7610c55e27735fab3388d1fbaf1d28232e8d213a0f49c854aeeb6713e1675e
+  notes: Partial conversion checkpoint for Grade 1 FL Part 1. Chapters are held editorial
+    drafts; production API excluded until rights are verified.
+chapters:
+- id: ch01-vandane
+  number: 1
+  title: ವಂದನೆ
+  legacyPath: content/books/ktbs-savi-kannada-g1-fl-p1/editions/2026-27/chapters/ch01-vandane
+  formerPath: KSEEB/Karnataka/Kannada/Grade1/Kannada/ch01-vandane
+  held: true

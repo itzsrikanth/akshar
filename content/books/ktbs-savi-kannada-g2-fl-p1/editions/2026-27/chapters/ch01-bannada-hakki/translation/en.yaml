@@ -1,0 +1,88 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: Poem
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: "A) Say the next lines of the poem:"
+  exercise-B: "B) Write the answer to these questions in one word:"
+  exercise-C: "C) Choose the appropriate word from brackets and write in the blanks:"
+  exercise-D: "D) Say these rhyming words:"
+  title: Colorful Bird
+
+poem-s1l1: Come bird, colorful bird
+poem-s1l2: Come bird, flying bird
+poem-s1l3: There is no one to play with
+poem-s1l4: How to spend all the time
+
+poem-s2l1: Come come, teach me to sing too
+poem-s2l2: Come come, teach me to fly too
+poem-s2l3: Mother has gone to fetch water
+poem-s2l4: Father has gone to the market
+
+poem-s3l1: Let mother come, let father come
+poem-s3l2: I will buy you fruit to eat
+poem-s3l3: Stick two wings on me too
+poem-s3l4: Poke a colorful feather behind
+
+poem-s4l1: Stick a tuft on top of the head
+poem-s4l2: Gently make me fly up
+poem-s4l3: You and I, both together
+poem-s4l4: Come, let's fly towards the sky
+
+poem-s5l1: From there to here, from here to there
+poem-s5l2: Come, let's fly, sing, and rejoice
+
+vocab-hakki: bird
+vocab-avva: mother
+vocab-appa: father
+vocab-hannu: fruit
+vocab-rekke: wing
+vocab-vele: time
+vocab-netti: top of head
+vocab-haaruva: flying
+vocab-pucchava: feather
+vocab-haadalu: to sing
+vocab-ibbaru: both
+vocab-hogihalu: she has gone
+vocab-hogihanu: he has gone
+vocab-allinditta: from there to here
+vocab-illindatta: from here to there
+vocab-mugilina: of the sky
+vocab-naliyuva: rejoicing
+
+note-vele: time
+note-vele-def: time, moment
+note-haccu: stick
+note-haccu-def: add, stick
+note-puccha: tail feather
+note-puccha-def: bird's feather
+note-netti: top of the head
+note-netti-def: middle of the head
+note-hingade: behind
+note-hingade-def: behind
+
+ex-a-q1: There is no one to play with
+ex-a-q2: Let mother come, let father come
+ex-a-q3: Stick two wings on me too
+ex-a-q4: You and I, both together
+
+ex-b-q1: Which bird is the child calling?
+ex-b-q2: Where did mother go?
+ex-b-q3: What did the child say it will buy to eat?
+ex-b-q4: Where did the child call to fly together?
+
+ex-c-q1: Come come, _____ me to sing too.
+ex-c-q2: Father has gone to _____.
+ex-c-q3: _____ two wings on me too.
+ex-c-q4: Stick a _____ on top of the head.
+ex-c-q5: Come let's _____ towards the sky.
+
+ex-d-q1: haadalu (sing) - haaralu (fly)
+ex-d-q2: haccu (stick) - cucchu (poke)
+ex-d-q3: allinditta (from there to here) - illindatta (from here to there)

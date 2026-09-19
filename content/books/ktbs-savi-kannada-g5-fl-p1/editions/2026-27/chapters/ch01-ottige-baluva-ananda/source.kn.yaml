@@ -1,0 +1,328 @@
+meta:
+  board: 'KSEEB'
+  state: 'Karnataka'
+  medium: 'Kannada'
+  grade: 5
+  subject: 'Kannada'
+  chapter: 1
+  slug: 'ch01-ottige-baluva-ananda'
+  title: 'ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ'
+  license: 'Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted'
+  original_publisher: 'ktbs'
+  author: 'ಜನಪದ ಕಥೆ'
+
+labels:
+  intro: 'ಪ್ರವೇಶ'
+  vocab: 'ಪದಗಳ ಅರ್ಥ'
+  exercise-A: 'ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.'
+  exercise-B: 'ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.'
+  exercise-C: 'ಇ. ಖಾಲಿ ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ಸೂಕ್ತ ಪದಗಳಿಂದ ತುಂಬಿರಿ.'
+  grammar: 'ವ್ಯಾಕರಣ ಮಾಹಿತಿ'
+  grammar-A: 'ಅ.ವರ್ಣಮಾಲೆ'
+  grammar-B: 'ಆ.ಸ್ವರಾಕ್ಷರಗಳು'
+  grammar-C: 'ಇ.ವ್ಯಂಜನಾಕ್ಷರಗಳು'
+  grammar-D: 'ಈ. ಯೋಗವಾಹಗಳು'
+  language-exercise: 'ಭಾಷಾಭ್ಯಾಸ'
+  language-exercise-A: 'ಅ.ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ಭರ್ತಿಮಾಡಿರಿ.'
+  language-exercise-B: 'ಆ.ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.'
+  language-exercise-C: 'ಇ. ಅವರ್ಗೀಯ ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.'
+  language-exercise-D: 'ಈ. ಯೋಜನೆ'
+  language-exercise-E: 'ಉ. ಓದಿಗೆ ಮನ್ನಣೆ'
+  language-exercise-F: 'ಊ. ಶುಭನುಡಿ'
+
+segments:
+  - id: 'intro-1'
+    type: 'prose'
+    section: 'intro'
+    text: '‘ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ’. ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಬಾಳಿದರೆ ಎಲ್ಲರೂ ಸುಖವಾಗಿ ಇರಬಹುದು. ನಮ್ಮ ನಮ್ಮ ನಡುವೆ ಇರುವ ದ್ವೇಷ ಅಸೂಯೆಗಳನ್ನು ಮರೆತು ಎಲ್ಲರನ್ನು ಪ್ರೀತಿಸುತ್ತಾ ಬಾಳಿದರೆ ನಮ್ಮ ಬದುಕು ಸುಖಮಯವಾಗಿರುತ್ತದೆ.'
+
+  - id: 'story-n1'
+    type: 'prose'
+    section: 'story'
+    text: 'ಒಂದು ಹಳ್ಳಿ, ಅಲ್ಲಿ ರೈತನೊಬ್ಬನ ಹೊಲ ಇತ್ತು. ಅಲ್ಲಿ ಒಂದು ಬೇವಿನ ಮರವಿತ್ತು. ಹೇಗೋ ಏನೋ ಅದರ ಕೆಳಗೆ ಒಂದು ಗುಂಡನೆಯ ಕಲ್ಲು ಬಂದು ನಿಂತುಕೊಂಡಿತು. ಮರದ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳುತ್ತಿದ್ದ ಹಕ್ಕಿಗಳ ಹಿಕ್ಕೆ ಕಲ್ಲಿನ ಮೇಲೆ ಬಿದ್ದು ಬಿದ್ದು, ಆ ಕಲ್ಲು ಬೆಳ್ಳಗಾಗಿ, ವಿಭೂತಿ ಬಳಿದಂತೆ ಕಾಣಿಸುತ್ತಿತ್ತು. ಇದರಿಂದಾಗಿ ಆ ಬಿಳಿಯ ಕಲ್ಲು ಎಲ್ಲರಿಗೂ ಅಮ್ಮನ ಕಲ್ಲಿನಂತೆ ಕಾಣಿಸುತ್ತಿತ್ತು. ಆದ್ದರಿಂದ, ಬೇವಿನ ಮರವನ್ನು ಜನ ‘ಅಮ್ಮನ ಮರ’ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು. ಆ ಕಲ್ಲು ಬೇವಿನ ಮರದ ಕೆಳಗಿದ್ದುದರಿಂದ ಅದಕ್ಕೆ ‘ಅಮ್ಮನ ಕಲ್ಲು’ ಎಂಬ ಹೆಸರು ರೂಢಿಗೆ ಬಂದಿತ್ತು. ಹೀಗೆ ಒಂದರಿಂದ ಇನ್ನೊಂದು ಹೆಸರು ಪಡೆದುಕೊಂಡು ಎರಡೂ ಸುಖವಾಗಿದ್ದವು. ‘ಅಮ್ಮನ ಮರ’, ‘ಅಮ್ಮನ ಕಲ್ಲು’ ಎಂದು ಊರಿನ ಜನಗಳು ಅವುಗಳ ತಂಟೆಗೆ ಹೋಗುತ್ತಿರಲಿಲ್ಲ.'
+
+  - id: 'story-n2'
+    type: 'prose'
+    section: 'story'
+    text: 'ಒಂದು ಸಲ, ತನ್ನಿಂದ ಇನ್ನೊಂದು ಸುಖವಾಗಿದೆ ಎಂದು ಎರಡಕ್ಕೂ ಜಂಬ ಬಂತು. ಬೇವಿನ ಮರ “ನಾನು ಅಮ್ಮನ ಮರ, ನೀನು ನನ್ನ ಕೆಳಗಿರುವುದರಿಂದ ನಿನ್ನನ್ನು ಅಮ್ಮನ ಕಲ್ಲು, ಎಂದು ಜನ ಕರೆಯುತ್ತಾರೆ” ಎಂದು ಹೇಳಿತು. ಅದಕ್ಕೆ ಕಲ್ಲು “ನಾನು ಅಮ್ಮನ ಕಲ್ಲು, ನನ್ನ ಪಕ್ಕದಲ್ಲಿ ನೀನಿರುವುದರಿಂದ ನಿನ್ನನ್ನು ಅಮ್ಮನ ಮರ ಎಂದು ಕರೆಯುತ್ತಾರೆ” ಎಂದಿತು. ಹೀಗೆ ಎರಡೂ ಜಗಳ ಮಾಡಿದವು. ಕೊನೆಗೆ ಕಲ್ಲು ಕೋಪದಿಂದ ಉರುಳಿ ಉರುಳಿ ಬೇವಿನ ಮರದಿಂದ ದೂರ ಹೋಗಿ ನಿಂತಿತು. “ನಾನಿಲ್ಲದಿದ್ದರೆ ಮರವನ್ನು ಕಡಿದುಹಾಕುತ್ತಾರೆ” ಎಂದು ಕಲ್ಲು, “ನನ್ನ ಕೆಳಗಿರದಿದ್ದರೆ ಕಲ್ಲನ್ನು ಒಡೆದು ಹಾಕುತ್ತಾರೆ” ಎಂದು ಮರ-ಹೀಗೆ ಎರಡೂ ತಮ್ಮೊಳಗೆ ಆಲೋಚಿಸುತ್ತಿದ್ದವು.'
+
+  - id: 'story-n3'
+    type: 'prose'
+    section: 'story'
+    text: 'ಒಂದು ದಿನ ಹೊಲವನ್ನು ಉಳಲಿಕ್ಕೆ ಆ ಹಳ್ಳಿಯ ರೈತ ತನ್ನ ಮಕ್ಕಳ ಜೊತೆ ಬಂದನು. ಅಮ್ಮನ ಕಲ್ಲು ಇಲ್ಲದ ಆ ಬೇವಿನ ಮರವನ್ನು ನೋಡಿ “ಇದನ್ನು ನಾಳೆ ಕಡಿಸಿ, ನೇಗಿಲು, ಚಕ್ರ ಮಾಡಿಸಿ” ಎಂದು ತನ್ನ ಮಕ್ಕಳಿಗೆ ಹೇಳಿದ. ಬೇವಿನ ಮರದಿಂದ ದೂರ ಬಿದ್ದಿದ್ದ ಕಲ್ಲನ್ನು ನೋಡಿ “ಈ ಕಲ್ಲನ್ನು ನಾಳೆÀ ಕಲ್ಲು ಒಡೆಯುವವರಿಂದ ಒಡೆಸಿದರೆ ನೇಗಿಲನ್ನು ಕಟ್ಟಿ ಉಳಲು ಬರುತ್ತದೆ” ಎಂದು ತನ್ನ ಮಕ್ಕಳಿಗೆ ಹೇಳಿದ. ಇದನ್ನು ಕೇಳಿ ಮರ ಮತ್ತು ಕಲ್ಲು ಎರಡೂ ಭಯದಿಂದ ನಡುಗಿದವು. ನಾವಿಬ್ಬರೂ ಒಬ್ಬರಿಂದ ಒಬ್ಬರು ದೂರವಾಗಿದ್ದರೆ ಜನರು ನಮ್ಮಿಬ್ಬರನ್ನು ನಾಶಮಾಡುತ್ತಾರೆ. ಆದ್ದರಿಂದ ನಾವಿಬ್ಬರೂ ಉಳಿಯುವುದಿಲ್ಲ ಎಂಬ ತಿಳಿವಳಿಕೆ ಮರ ಮತ್ತು ಕಲ್ಲಿಗೆ ಬಂದಿತು. ರೈತ ಮತ್ತು ರೈತನ ಮಕ್ಕಳು ಅತ್ತ ಹೋಗುವುದನ್ನೇ ಕಾದಿದ್ದು, ಕಲ್ಲು “ಬರಲಾ” ಎಂದು ಬೇವಿನ ಮರವನ್ನು ಕೇಳಿತು. ಮರ “ಬೇಗ ಬಾ” ಎಂದು ಕಲ್ಲಿಗೆ ಹೇಳಿತು. ತಾನು ಇನ್ನೊಂದರಿಂದ ಸುಖವಾಗಿರುವುದು ಎಂದು ಈಗ ಎರಡಕ್ಕೂ ತಿಳಿಯಿತು. ಬೇವಿನ ಮರ ಮತ್ತು ಕಲ್ಲು ಮತ್ತೆ ಸ್ನೇಹಿತರಾದವು.'
+
+  - id: 'story-n4'
+    type: 'prose'
+    section: 'story'
+    text: 'ಮಾರನೆಯ ದಿನ ಮರಕಡಿಯುವವರು ಬಂದು ನೋಡಿದರು. ಕಲ್ಲು ಮರದ ಕೆಳಗೆ ಮೊದಲಿನಂತೆ ನಿಂತಿತ್ತು. ಅವರಿಗೆ ಮರ ಮತ್ತು ಕಲ್ಲಿನ ಬಗೆಗೆ ಭಯ-ಭಕ್ತಿ ಉಂಟಾಯಿತು. “ಇದು ಅಮ್ಮನ ಮರ, ಕಡಿಯುವುದು ಬೇಡ” ಎಂದು ಹೊರಟು ಹೋದರು. ಕಲ್ಲು ಒಡೆಯುವವರು ಬಂದು “ಇದು ಅಮ್ಮನ ಕಲ್ಲು, ಒಡೆಯುವುದು ಬೇಡ” ಎಂದು ಅವರೂ ಹೊರಟು ಹೋದರು.'
+
+  - id: 'story-n5'
+    type: 'prose'
+    section: 'story'
+    text: 'ಬೇವಿನ ಮರ ಮತ್ತು ಕಲ್ಲು ಕಂಟಕದಿಂದ ಪಾರಾದವು. ಈಗ ಎರಡೂ ಸಹ ಯಾರ ಭಯವಿಲ್ಲದೆ ಸುಖವಾಗಿದ್ದವು.'
+
+  - id: 'story-n6'
+    type: 'prose'
+    section: 'story'
+    text: 'ಹೀಗೆ ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಬಾಳಿದರೆ, ಎಲ್ಲರೂ ಸುಖವಾಗಿ ಇರಬಹುದು.'
+
+  - id: 'vocab-kantaka'
+    type: 'vocabulary_term'
+    text: 'ಕಂಟಕ'
+
+  - id: 'vocab-kantaka-def'
+    type: 'vocabulary_definition'
+    text: 'ಕೇಡು, ವಿಪತ್ತು'
+
+  - id: 'vocab-jagala'
+    type: 'vocabulary_term'
+    text: 'ಜಗಳ'
+
+  - id: 'vocab-jagala-def'
+    type: 'vocabulary_definition'
+    text: 'ಕಲಹ'
+
+  - id: 'vocab-jamba'
+    type: 'vocabulary_term'
+    text: 'ಜಂಬ'
+
+  - id: 'vocab-jamba-def'
+    type: 'vocabulary_definition'
+    text: 'ಗರ್ವ, ಒಣ ಆಡಂಬರ'
+
+  - id: 'vocab-negilu'
+    type: 'vocabulary_term'
+    text: 'ನೇಗಿಲು'
+
+  - id: 'vocab-negilu-def'
+    type: 'vocabulary_definition'
+    text: 'ಭೂಮಿಯನ್ನು ಉಳುವ ಸಾಧನ'
+
+  - id: 'vocab-raitha'
+    type: 'vocabulary_term'
+    text: 'ರೈತ'
+
+  - id: 'vocab-raitha-def'
+    type: 'vocabulary_definition'
+    text: 'ಬೇಸಾಯ ಮಾಡುವವನು'
+
+  - id: 'vocab-vibhuthi'
+    type: 'vocabulary_term'
+    text: 'ವಿಭೂತಿ'
+
+  - id: 'vocab-vibhuthi-def'
+    type: 'vocabulary_definition'
+    text: 'ಭಸ್ಮ, ಬೂದಿ'
+
+  - id: 'vocab-hikke'
+    type: 'vocabulary_term'
+    text: 'ಹಿಕ್ಕೆ'
+
+  - id: 'vocab-hikke-def'
+    type: 'vocabulary_definition'
+    text: 'ಹಕ್ಕಿಗಳ ಮಲ'
+
+  - id: 'ex-a-q1'
+    type: 'question'
+    exercise: 'A'
+    text: 'ಗುಂಡನೆಯ ಕಲ್ಲು ಎಲ್ಲಿತ್ತು?'
+
+  - id: 'ex-a-q2'
+    type: 'question'
+    exercise: 'A'
+    text: 'ಬೇವಿನ ಮರವನ್ನು ಜನ ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?'
+
+  - id: 'ex-a-q3'
+    type: 'question'
+    exercise: 'A'
+    text: 'ಕಲ್ಲು ಕೋಪದಿಂದ ಏನು ಮಾಡಿತು?'
+
+  - id: 'ex-a-q4'
+    type: 'question'
+    exercise: 'A'
+    text: 'ಮರ ಕಡಿಯುವವರು ಏನೆಂದು ಹೇಳಿ ಹೊರಟು ಹೋದರು?'
+
+  - id: 'ex-a-q5'
+    type: 'question'
+    exercise: 'A'
+    text: 'ಕಲ್ಲು ಹೊಡೆಯುವವರು ಏನೆಂದು ಹೇಳಿ ಹೊರಟು ಹೋದರು?'
+
+  - id: 'ex-b-q1'
+    type: 'question'
+    exercise: 'B'
+    text: 'ಜಂಬದಿಂದ ಬೇವಿನ ಮರ ಅಮ್ಮನ ಕಲ್ಲಿಗೆ ಏನೆಂದು ಹೇಳಿತು?'
+
+  - id: 'ex-b-q2'
+    type: 'question'
+    exercise: 'B'
+    text: 'ಜಂಬದಿಂದ ಅಮ್ಮನ ಕಲ್ಲು ಬೇವಿನ ಮರಕ್ಕೆ ಏನೆಂದು ಹೇಳಿತು?'
+
+  - id: 'ex-b-q3'
+    type: 'question'
+    exercise: 'B'
+    text: 'ಬೇರೆ ಬೇರೆಯಾಗಿದ್ದ ಬೇವಿನ ಮರ ಮತ್ತು ಕಲ್ಲನ್ನು ನೋಡಿ ರೈತನು ತನ್ನ ಮಕ್ಕಳಿಗೆ ಏನು ಹೇಳಿದನು?'
+
+  - id: 'ex-b-q4'
+    type: 'question'
+    exercise: 'B'
+    text: 'ಬೇವಿನ ಮರ ಮತ್ತು ಅಮ್ಮನ ಕಲ್ಲು ಮತ್ತೆ ಹೇಗೆ ಸ್ನೇಹಿತರಾದವು?'
+
+  - id: 'ex-c-q1'
+    type: 'fill_blank'
+    exercise: 'C'
+    text: 'ಬೇವಿನ ಮರವನ್ನು ಜನ __________ ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು.'
+
+  - id: 'ex-c-q2'
+    type: 'fill_blank'
+    exercise: 'C'
+    text: 'ನಾವಿಬ್ಬರೂ ಒಬ್ಬರಿಂದ ಒಬ್ಬರು __________ ಜನರು ನಮ್ಮಿಬ್ಬರನ್ನು ನಾಶಮಾಡುತ್ತಾರೆ.'
+
+  - id: 'ex-c-q3'
+    type: 'fill_blank'
+    exercise: 'C'
+    text: 'ಇದು ಅಮ್ಮನ ಮರ ___________ ಬೇಡ" ಎಂದು ಹೊರಟುಹೋದರು.'
+
+  - id: 'ex-c-q4'
+    type: 'fill_blank'
+    exercise: 'C'
+    text: 'ಕಲ್ಲು ಒಡೆಯುವವರು ಬಂದು "ಇದು ಅಮ್ಮನ ಕಲ್ಲು, _________ ಬೇಡ ಎಂದು ಅವರೂ ಹೊರಟುಹೋದರು.'
+
+  - id: 'ex-c-q5'
+    type: 'fill_blank'
+    exercise: 'C'
+    text: 'ಎಲ್ಲರೂ ಒಟ್ಟಾಗಿ ಬಾಳಿದರೆ, ಎಲ್ಲರೂ _________ ಇರಬಹುದು.'
+
+  - id: 'grammar-a-p1'
+    type: 'prose'
+    section: 'grammar-A'
+    text: 'ಕನ್ನಡದಲ್ಲಿ ಒಟ್ಟು 49 ಅಕ್ಷರಗಳಿವೆ. ಇವುಗಳನ್ನು ವರ್ಣಗಳೆಂದು ಕರೆಯುತ್ತಾರೆ. ಈ ಅಕ್ಷರಗಳ ಕ್ರಮಬದ್ಧ ಜೋಡಣೆಗೆ ‘ವರ್ಣಮಾಲೆ’ ಅಥವಾ ‘ಅಕ್ಷರಮಾಲೆ’ ಎಂದು ಹೆಸರು.'
+
+  - id: 'grammar-a-p2'
+    type: 'prose'
+    section: 'grammar-A'
+    text: 'ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಮೂರು ವಿಧಗಳು ಅ) ಸ್ವರಾಕ್ಷರಗಳು ಆ) ವ್ಯಂಜನಾಕ್ಷರಗಳು ಇ) ಯೋಗವಾಹಗಳು'
+
+  - id: 'grammar-b-p1'
+    type: 'prose'
+    section: 'grammar-B'
+    text: 'ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಲಾಗುವ ಅಕ್ಷರಗಳು ಸ್ವರಾಕ್ಷರಗಳು. ಒಟ್ಟು ಸ್ವರಾಕ್ಷರಗಳು 13.'
+
+  - id: 'grammar-b-p2'
+    type: 'prose'
+    section: 'grammar-B'
+    text: 'ಸ್ವರಾಕ್ಷರಗಳಲ್ಲಿ ಎರಡು ವಿಧ.: 1) ಹ್ರಸ್ವಸ್ವರಗಳು 2) ದೀರ್ಘಸ್ವರಗಳು'
+
+  - id: 'grammar-b-p3'
+    type: 'prose'
+    section: 'grammar-B'
+    text: '1) ಹ್ರಸ್ವಸ್ವರ - ಒಂದು ಮಾತ್ರಾ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುವ (ಅ, ಇ, ಉ, ಋ, ಎ, ಒ) ಅಕ್ಷರಗಳು ಹ್ರಸ್ವಸ್ವರಗಳು.'
+
+  - id: 'grammar-b-p4'
+    type: 'prose'
+    section: 'grammar-B'
+    text: '2) ದೀರ್ಘಸ್ವರ - ಎರಡು ಮಾತ್ರಾ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುವ (ಆ, ಈ, ಊ, ಏ, ಐ, ಓ, ಔ) ಅಕ್ಷರಗಳು ದೀರ್ಘಸ್ವರಗಳು.'
+
+  - id: 'grammar-c-p1'
+    type: 'prose'
+    section: 'grammar-C'
+    text: 'ಸ್ವರಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ಅಕ್ಷರಗಳು ವ್ಯಂಜನಾಕ್ಷರಗಳು. (ಉದಾ : ಕ್ + ಅ = ಕ ; ಚ್ + ಅ = ಚ) ಒಟ್ಟು ವ್ಯಂಜನಾಕ್ಷರಗಳು = 34'
+
+  - id: 'grammar-c-p2'
+    type: 'prose'
+    section: 'grammar-C'
+    text: 'ವ್ಯಂಜನಾಕ್ಷರಗಳಲ್ಲಿ ಎರಡು ವಿಧ : 1) ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು 2) ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು'
+
+  - id: 'grammar-c-p3'
+    type: 'prose'
+    section: 'grammar-C'
+    text: '1. ವರ್ಗೀಯ ವ್ಯಂಜನ ಕೋಷ್ಟಕ. ಕ್ ವರ್ಗ: ಕ್ ಖ್ ಗ್ ಘ್ ಙ. ಚ್ ವರ್ಗ: ಚ್ ಛ್ ಜ್ ಝ್ ಞ. ಟ್ ವರ್ಗ: ಟ್ ಠ್ ಡ್ ಢ್ ಣ್. ತ್ ವರ್ಗ: ತ್ ಥ್ ದ್ ಧ್ ನ್. ಪ್ ವರ್ಗ: ಪ್ ಫ್ ಬ್ ಭ್ ಮ್. ಒಟ್ಟು 25. ಇವು ಉತ್ಪತ್ತಿಯಾಗುವ ಸ್ಥಾನಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ವರ್ಗ ಮಾಡಿರುವುದರಿಂದ ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು.'
+
+  - id: 'grammar-c-p4'
+    type: 'prose'
+    section: 'grammar-C'
+    text: 'ಅಲ್ಪಪ್ರಾಣಾಕ್ಷರಗಳು = ಕಡಿಮೆ ಉಸಿರಿನಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ವ್ಯಂಜನಗಳು ಅಲ್ಪಪ್ರಾಣಾಕ್ಷರಗಳು. ಉದಾ : ಕ್, ಚ್, ಟ್, ತ್, ಪ್, ಗ್, ಜ್, ಡ್, ದ್, ಬ್.'
+
+  - id: 'grammar-c-p5'
+    type: 'prose'
+    section: 'grammar-C'
+    text: 'ಮಹಾಪ್ರಾಣಾಕ್ಷರಗಳು = ಹೆಚ್ಚು ಉಸಿರಿನಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ವ್ಯಂಜನಗಳು ಮಹಾಪ್ರಾಣಾಕ್ಷರಗಳು. ಉದಾ : ಖ್, ಛ್, ಠ್, ಥ್, ಫ್. ಘ್, ಝ್, ಢ್, ಧ್, ಭ್.'
+
+  - id: 'grammar-c-p6'
+    type: 'prose'
+    section: 'grammar-C'
+    text: 'ಅನುನಾಸಿಕಾಕ್ಷರಗಳು = ಮೂಗಿನ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲಾಗುವ ವ್ಯಂಜನಗಳು ಅನುನಾಸಿಕಾಕ್ಷರಗಳು. ಉದಾ : ಙ, ಞ, ಣ್, ನ್, ಮ್.'
+
+  - id: 'grammar-c-p7'
+    type: 'prose'
+    section: 'grammar-C'
+    text: '2. ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು. ‘ಯ್’ ಕಾರದಿಂದ ‘ಳ್’ ಕಾರದವರೆಗಿನ 9 ಅಕ್ಷರಗಳು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು. ಉದಾ : ಯ್, ರ್, ಲ್, ವ್, ಶ್, ಷ್, ಸ್, ಹ್, ಳ್. ಇವು ಉತ್ಪತ್ತಿಯಾಗುವ ಸ್ಥಾನಗಳು ಬೇರೆಬೇರೆಯಾಗಿರುವುದರಿಂದ, ಇವುಗಳನ್ನು ನಿರ್ದಿಷ್ಟವಾದ ವರ್ಗಗಳಲ್ಲಿ ಸೇರಿಸಿ ಹೇಳಲು ಬರುವುದಿಲ್ಲವಾದ್ದರಿಂದ ಇವನ್ನು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಎಂದು ಕರೆಯುವರು.'
+
+  - id: 'grammar-d-p1'
+    type: 'prose'
+    section: 'grammar-D'
+    text: '‘ಯೋಗ’ ಎಂದರೆ ‘ಕೂಡು, ‘ವಾಹ’ ಎಂದರೆ ಹೋಗುವ ಎಂದರ್ಥ. ‘ಯೋಗವಾಹ'' ಎಂದರೆ ಕೂಡಿಹೋಗುವ (ಕೂಡಿಕೊಂಡಿರುವ) ಅಂದರೆ ಬೇರೆ ಅಕ್ಷರಗಳ ಜೊತೆಯಲ್ಲಿ ಮಾತ್ರ ಉಚ್ಚರಿಸಬಹುದಾದ ಅಕ್ಷರ ಎಂದರ್ಥ.'
+
+  - id: 'grammar-d-p2'
+    type: 'prose'
+    section: 'grammar-D'
+    text: 'ಯೋಗವಾಹಗಳಲ್ಲಿ ಎರಡು ವಿಧ: 1) ಅನುಸ್ವಾರ (ಂ) 2) ವಿಸರ್ಗ (ಃ) ಉದಾ : ಸಿಂಹ, ದುಃಖ'
+
+  - id: 'lang-ex-a-q1'
+    type: 'fill_blank'
+    exercise: 'language-exercise-A'
+    text: 'ಸ್ವರಾಕ್ಷರಗಳ ಸಂಖ್ಯೆ _________'
+
+  - id: 'lang-ex-a-q2'
+    type: 'fill_blank'
+    exercise: 'language-exercise-A'
+    text: 'ವ್ಯಂಜನಗಳ ಸಂಖ್ಯೆ _________'
+
+  - id: 'lang-ex-a-q3'
+    type: 'fill_blank'
+    exercise: 'language-exercise-A'
+    text: 'ಯೋಗವಾಹಗಳ ಸಂಖ್ಯೆ _________'
+
+  - id: 'lang-ex-a-q4'
+    type: 'fill_blank'
+    exercise: 'language-exercise-A'
+    text: '1. ಹ್ರಸ್ವ ಸ್ವರಾಕ್ಷರಗಳು = _________'
+
+  - id: 'lang-ex-a-q5'
+    type: 'fill_blank'
+    exercise: 'language-exercise-A'
+    text: '2. ದೀರ್ಘ ಸ್ವರಾಕ್ಷರಗಳು = _________'
+
+  - id: 'lang-ex-b-q1'
+    type: 'fill_blank'
+    exercise: 'language-exercise-B'
+    text: 'ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.'
+
+  - id: 'lang-ex-c-q1'
+    type: 'fill_blank'
+    exercise: 'language-exercise-C'
+    text: 'ಅವರ್ಗೀಯ ವ್ಯಂಜನಾಕ್ಷರಗಳ ಕೋಷ್ಟಕ ಪೂರ್ಣಗೊಳಿಸಿರಿ.'
+
+  - id: 'lang-ex-d-q1'
+    type: 'question'
+    exercise: 'language-exercise-D'
+    text: '1. ದಿನಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬರುವ ನಾಲ್ಕು ಮಕ್ಕಳ ಕಥೆಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ, ತೂಗುಪಟದಲ್ಲಿ ಅಂಟಿಸಿ.'
+
+  - id: 'lang-ex-e-q1'
+    type: 'question'
+    exercise: 'language-exercise-E'
+    text: '1. ಗ್ರಂಥಾಲಯದಲ್ಲಿ ದೊರಕುವ ಪರಿಚಿತ ವಿಷಯಗಳ ಕುರಿತ ಕಥೆಗಳನ್ನು ಓದಿರಿ.'
+
+  - id: 'lang-ex-f-q1'
+    type: 'question'
+    exercise: 'language-exercise-F'
+    text: '1. ಸದ್ಗುಣಗಳಿರುವಲ್ಲಿ ಸದ್ಗತಿಯಿದೆ.'
+
+  - id: 'lang-ex-f-q2'
+    type: 'question'
+    exercise: 'language-exercise-F'
+    text: '2. ನಿಸ್ವಾರ್ಥ ಸೇವೆಗೆ ಅಗ್ರಪೂಜೆ.'
+
+  - id: 'lang-ex-f-q3'
+    type: 'question'
+    exercise: 'language-exercise-F'
+    text: '3. ಪರೋಪಕಾರವೇ ಪರಮ ಶ್ರೇಷ್ಠ ಗುಣ.'

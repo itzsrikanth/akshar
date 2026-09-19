@@ -1,0 +1,83 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: padya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: 'a) ī praśnegaḷige ondu vākyadalli uttara hēḷi:'
+  exercise-B: 'ā) khāli biṭṭiruva jāgagaḷalli sariyāda pada bareyiri:'
+  exercise-C: 'i) koṭṭiruva padagaḷige prāsa pada hēḷi bareyiri :'
+  title: haḷḷiya dāriya badiyali
+
+poem-s1l1: haḷḷiya dāriya badiyali ondu
+poem-s1l2: māvina maravittu
+poem-s1l3: halavu kombegaḷanu cāci
+poem-s1l4: taṇṇeḷalanu haraḍittu
+
+poem-s2l1: hakki pakṣigaḷu gūḍanu kaṭṭide
+poem-s2l2: marigaḷa cilipili hāḍittu
+poem-s2l3: elegaḷa jotege kāyi tūgi
+poem-s2l4: bāyali nīranu tandittu
+
+poem-s3l1: māvina maradaḍi kammina parimaḷa
+poem-s3l2: janara manavanu seḷedittu
+poem-s3l3: maravondādaru upakāravu nūru
+poem-s3l4: hirimeya tōrittu
+
+poem-s4l1: śuddha gāḷi maḷe nandanavē iḷe
+poem-s4l2: hū hasirina tākattu
+poem-s4l3: hasiriddare usiru nilluvudu
+poem-s4l4: tiḷiduko ī hottu
+
+vocab-halli: haḷḷi
+vocab-daari: dāri
+vocab-mavina-mara: māvina mara
+vocab-kombe: kombe
+vocab-tannelalu: taṇṇeḷalu
+vocab-pakshigalu: pakṣigaḷu
+vocab-chilipili: cilipili
+vocab-marigalu: marigaḷu
+vocab-elegalu: elegaḷu
+vocab-neeru: nīru
+vocab-parimala: parimaḷa
+vocab-jana: jana
+vocab-upakara: upakāra
+vocab-nooru: nūru
+vocab-hirime: hirime
+vocab-shuddha: śuddha
+vocab-gaali: gāḷi
+vocab-hasiru: hasiru
+vocab-usiru: usiru
+vocab-hottu: hottu
+
+note-badi: badi
+note-badi-def: pakka
+note-tannelalu: taṇṇeḷalu
+note-tannelalu-def: tampāda neraḷu
+note-kammina: kammina
+note-kammina-def: sugandha
+note-parimala: parimaḷa
+note-parimala-def: suvāsane
+note-usiru: usiru
+note-usiru-def: prāṇa (dēhada oḷakke tegedukoḷḷuva hāgū horage biḍuva gāḷi)
+note-ile: iḷe
+note-ile-def: bhūmi
+
+ex-a-q1: haḷḷiya dāriya badiyali ēnittu?
+ex-a-q2: hakkigaḷu gūḍanu elli kaṭṭiddavu?
+ex-a-q3: hakkiya marigaḷu ēnendu hāḍidavu?
+ex-a-q4: janara manavannu yāvudu seḷedittu?
+
+ex-b-q1: halavu kombegaḷannu _____ taṇṇeḷalanu haraḍittu.
+ex-b-q2: bāyali _____ tandittu.
+ex-b-q3: maravondādaru _____ nūru.
+ex-b-q4: śuddha _____ nandanavē iḷe.
+
+ex-c-q1: 'maravittu : __________'
+ex-c-q2: 'hāḍittu : __________'
+ex-c-q3: 'seḷedittu : __________'
+ex-c-q4: 'tākattu : __________'

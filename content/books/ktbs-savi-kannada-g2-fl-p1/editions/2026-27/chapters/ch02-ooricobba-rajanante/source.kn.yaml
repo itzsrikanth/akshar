@@ -1,0 +1,266 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 2
+  slug: ch02-ooricobba-rajanante
+  title: ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ
+  source_url: https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  poem: ಪದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: "ಅ) ಕೊಟ್ಟ ಸಾಲುಗಳನ್ನು ಓದಿ ಖಾಲಿ ಬಿಟ್ಟ ಸ್ಥಳಕ್ಕೆ ಸರಿಯಾದ ಪದ ಬರೆಯಿರಿ:"
+  exercise-B: "ಆ) ಈ ಪದ್ಯಭಾಗದ ಮುಂದಿನ ಸಾಲುಗಳನ್ನು ಹೇಳಿರಿ:"
+  exercise-C: "ಇ) 'ಅ' ಪಟ್ಟಿಯಲ್ಲಿನ ಪದಗಳಿಗೆ ಸರಿಯಾದ ಪದವನ್ನು 'ಆ' ಪಟ್ಟಿಯಿಂದ ಆರಿಸಿ ಹೊಂದಿಸಿ ಬರೆ:"
+
+segments:
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಒಂದಾನೊಂದು ಊರಿತ್ತಂತೆ
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಊರಿಗೊಬ್ಬ ರಾಜನಂತೆ
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ರಾಜಗೊಬ್ಬ ಮಂತ್ರಿಯಂತೆ
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಮಂತ್ರಿಗೊಬ್ಬ ಮಗಳಂತೆ
+  - id: poem-s1l5
+    type: poem_line
+    stanza: 1
+    text: ಮಗಳಿಗೊಂದು ಗೊಂಬೆಯಂತೆ
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಗೊಂಬೆಗೊಂದು ಅಂಗಿಯಂತೆ
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಅಂಗಿಗೊಂದು ಗುಂಡಿಯಂತೆ
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಗುಂಡಿ ಕಿತ್ತು ಹೋಯಿತಂತೆ
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ದರ್ಜಿಯನ್ನು ಕರೆದರಂತೆ
+  - id: poem-s2l5
+    type: poem_line
+    stanza: 2
+    text: ದರ್ಜಿ ಬಂದು ನೋಡಿದನಂತೆ
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಗುಂಡಿ ಬಲು ಹಳೆಯದಂತೆ
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಬೇರೆ ಗುಂಡಿ ತಂದನಂತೆ
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಅಂಗಿಗಿಟ್ಟು ಹೊಲಿದನಂತೆ
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ಅಂಗಿ ಸರಿಯಾಯಿತಂತೆ
+  - id: poem-s3l5
+    type: poem_line
+    stanza: 3
+    text: ಮಂತ್ರಿ ಮಗಳ ಆಸೆಯಂತೆ
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಗೊಂಬೆಗಂಗಿ ಹಾಕಿದರಂತೆ
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ತುಂಬ ಚಂದ ಕಂಡಿತಂತೆ
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ಗೊಂಬೆಯಾಟ ಆಡಿದಳಂತೆ
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಬೇರೆ ಗೊಂಬೆ ತಂದಳಂತೆ
+  - id: poem-s4l5
+    type: poem_line
+    stanza: 4
+    text: ಎರಡಕ್ಕೂ ಮದುವೆಯಂತೆ
+
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಊರಿನ ರಾಜ ಬರುವನಂತೆ
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ನಿಂತು ಮದುವೆ ಮಾಡುವನಂತೆ
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ನಾನೂ ನೀನೂ ಹೋಗೋಣಂತೆ
+  - id: poem-s5l4
+    type: poem_line
+    stanza: 5
+    text: ಮದುವೆ ನೋಡಿ ಬರೋಣಂತೆ
+
+  - id: vocab-ondanondu
+    type: vocabulary_term
+    text: ಒಂದಾನೊಂದು
+  - id: vocab-ooru
+    type: vocabulary_term
+    text: ಊರು
+  - id: vocab-obba
+    type: vocabulary_term
+    text: ಒಬ್ಬ
+  - id: vocab-raja
+    type: vocabulary_term
+    text: ರಾಜ
+  - id: vocab-mantri
+    type: vocabulary_term
+    text: ಮಂತ್ರಿ
+  - id: vocab-magalu
+    type: vocabulary_term
+    text: ಮಗಳು
+  - id: vocab-gombe
+    type: vocabulary_term
+    text: ಗೊಂಬೆ
+  - id: vocab-angi
+    type: vocabulary_term
+    text: ಅಂಗಿ
+  - id: vocab-gundi
+    type: vocabulary_term
+    text: ಗುಂಡಿ
+  - id: vocab-kittu
+    type: vocabulary_term
+    text: ಕಿತ್ತು
+  - id: vocab-hogu
+    type: vocabulary_term
+    text: ಹೋಗು
+  - id: vocab-darji
+    type: vocabulary_term
+    text: ದರ್ಜಿ
+  - id: vocab-kare
+    type: vocabulary_term
+    text: ಕರೆ
+  - id: vocab-nodu
+    type: vocabulary_term
+    text: ನೋಡು
+  - id: vocab-haleyadu
+    type: vocabulary_term
+    text: ಹಳೆಯದು
+  - id: vocab-tande
+    type: vocabulary_term
+    text: ತಂದೆ
+  - id: vocab-holi
+    type: vocabulary_term
+    text: ಹೊಲಿ
+  - id: vocab-aase
+    type: vocabulary_term
+    text: ಆಸೆ
+  - id: vocab-haaku
+    type: vocabulary_term
+    text: ಹಾಕು
+  - id: vocab-tumba
+    type: vocabulary_term
+    text: ತುಂಬ
+  - id: vocab-chanda
+    type: vocabulary_term
+    text: ಚಂದ
+  - id: vocab-aata
+    type: vocabulary_term
+    text: ಆಟ
+  - id: vocab-maduve
+    type: vocabulary_term
+    text: ಮದುವೆ
+  - id: vocab-nillu
+    type: vocabulary_term
+    text: ನಿಲ್ಲು
+  - id: vocab-hogonante
+    type: vocabulary_term
+    text: ಹೋಗೋಣಂತೆ
+
+  - id: note-raja
+    type: note_term
+    text: ರಾಜ
+  - id: note-raja-def
+    type: note_definition
+    text: ಅರಸ
+  - id: note-darji
+    type: note_term
+    text: ದರ್ಜಿ
+  - id: note-darji-def
+    type: note_definition
+    text: ಬಟ್ಟೆ ಹೊಲಿಯುವವ
+  - id: note-chanda
+    type: note_term
+    text: ಚಂದ
+  - id: note-chanda-def
+    type: note_definition
+    text: ಅಂದ, ಸೊಗಸು, ಚೆಲುವ
+  - id: note-mantri
+    type: note_term
+    text: ಮಂತ್ರಿ
+  - id: note-mantri-def
+    type: note_definition
+    text: ರಾಜನ ಸಲಹೆಗಾರ
+
+  - id: ex-a-q1
+    type: fill_blank
+    exercise: A
+    text: ರಾಜಗೊಬ್ಬ ಮಂತ್ರಿಯಂತೆ ಮಂತ್ರಿಗೊಬ್ಬ _____
+  - id: ex-a-q2
+    type: fill_blank
+    exercise: A
+    text: ಮಗಳಿಗೊಂದು ಗೊಂಬೆಯಂತೆ ಗೊಂಬೆಗೊಂದು _____
+  - id: ex-a-q3
+    type: fill_blank
+    exercise: A
+    text: ಗುಂಡಿ ಬಲು ಹಳೆಯದಂತೆ ಬೇರೆ _____ ತಂದನಂತೆ
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ದರ್ಜಿಯನ್ನು ಕರೆದರಂತೆ
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಅಂಗಿಗಿಟ್ಟು ಹೊಲಿದನಂತೆ
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ನಾನೂ ನೀನೂ ಹೋಗೋಣಂತೆ
+
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: ಊರಿಗೊಬ್ಬ _____
+  - id: ex-c-q2
+    type: fill_blank
+    exercise: C
+    text: ಗುಂಡಿ ಬಲು _____
+  - id: ex-c-q3
+    type: fill_blank
+    exercise: C
+    text: ಮಂತ್ರಿ ಮಗಳ _____
+  - id: ex-c-q4
+    type: fill_blank
+    exercise: C
+    text: ಊರಿನ ರಾಜ _____

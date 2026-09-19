@@ -1,0 +1,193 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 7
+  slug: ch07-arive-guru
+  title: ಅರಿವೇ ಗುರು
+  source_url: 'https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf'
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  prose: ಗದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: 'ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ:'
+  exercise-B: 'ಆ) ಆವರಣದಲ್ಲಿರುವ ಸೂಕ್ತ ಪದವನ್ನು ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ:'
+  exercise-C: ಇ) ಈ ಮಾತುಗಳನ್ನು ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise-D: 'ಈ) ಸಾಕು ಪ್ರಾಣಿಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ :'
+  exercise-E: ಉ) ಈ ಭಿತ್ತಿ ಪತ್ರವನ್ನು ಓದಿ.
+
+segments:
+  - id: prose-p1
+    type: prose
+    text: ಒಂದು ದಟ್ಟವಾದ ಕಾಡು. ಅಲ್ಲಿ ನರಿ ಮತ್ತು ಅದರ ಮರಿ ಆಹಾರಕ್ಕಾಗಿ ಅಲೆದವು. ಆದರೆ ಏನೂ ಸಿಗಲಿಲ್ಲ. ತಿರುಗುತ್ತಾ ತಿರುಗುತ್ತಾ ಕಾಡಿನಿಂದ ಹೊರಬಂದವು. ಅವುಗಳಿಗೆ ದೂರದಲ್ಲಿ ತೋಟದ ಮನೆಯೊಂದು ಕಾಣಿಸಿತು. ಕೊಕ್ಕೊ, ಕೊಕ್ಕೊ, ಕೊಕ್ಕೊ ಎಂಬ ಸದ್ದು ಸಹ ಕೇಳಿಸಿತು. ಅವು ಧ್ವನಿಯನ್ನು ಅನುಸರಿಸಿಕೊಂಡು ಹೋದವು. ಕೋಳಿಗಳು ತೋಟದ ಬೇಲಿ ಸಾಲಿನಲ್ಲಿ ಮೇವು ಆರಿಸುತ್ತಿದ್ದವು.
+  - id: prose-p2
+    type: prose
+    text: ಕೋಳಿಗಳನ್ನು ಕಂಡು ನರಿಯ ಮರಿ ಮನದಲ್ಲೇ ಹಿಗ್ಗಿತು. ಆ ಸಂತೋಷದಲ್ಲಿ `ಅಮ್ಮಾ.. ಎಷ್ಟೊಂದು ಕೋಳಿಗಳು!' ಎನ್ನುತ್ತಾ ಆ ಕಡೆಗೆ ನುಗ್ಗಿತು. ಬೇಲಿ ಅಂಚಿನಲ್ಲಿದ್ದ ಬಲೆಯಲ್ಲಿ ನರಿಯ ಮರಿ ಸಿಕ್ಕಿ ಹಾಕಿಕೊಂಡಿತು. ಗಾಬರಿಯಿಂದ ಅದು ಕಿರುಚಿಕೊಳ್ಳತೊಡಗಿತು. ನರಿ ತನ್ನ ಮರಿಯನ್ನು ಬಿಡಿಸಿಕೊಳ್ಳಲು ಹತ್ತಿರ ಬಂದಿತು. ಅಷ್ಟರಲ್ಲಿ ತೋಟದ ಒಳಗಿನಿಂದ ರೈತನು ಬರುವುದು ಕಂಡಿತು. ಭಯದಿಂದ ಹಿಂದೆ ಸರಿಯಿತು. ಮರಿಯನ್ನು ಉಳಿಸಲು ಸಮಯ ಸಾಧಿಸಿ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ಕುಳಿತಿತ್ತು. ಆದರೆ ಜನರ ಓಡಾಟ ಹೆಚ್ಚಾದುದರಿಂದ ಅನಿವಾರ್ಯವಾಗಿ ಅಲ್ಲಿಂದ ಅದು ಜಾಗ ಖಾಲಿ ಮಾಡಿತು.
+  - id: prose-p3
+    type: prose
+    text: ತಾಯಿ ನರಿಗೆ ತನ್ನ ಮರಿಯನ್ನು ಅಗಲಿ ಇರಲಾಗಲಿಲ್ಲ. ಮರುದಿನ ಹೇಗಾದರೂ ಮಾಡಿ ಮರಿಯನ್ನು ಬಿಡಿಸಿಕೊಂಡು ಬರಬೇಕೆಂದು ತೋಟಕ್ಕೆ ಬಂದಿತು. ಸಂಜೆಯವರೆಗೆ ಕಾದು ಕುಳಿತಿತ್ತು. ಆದರೆ ತನ್ನ ಮರಿಯ ಸುಳಿವೇ ಕಾಣಲಿಲ್ಲ. ದುಃಖದಿಂದ ತೋಟದ ಬೇಲಿ ಸುತ್ತ ತಿರುಗಿತು. ಅಲ್ಲೊಂದು ಕಂಡಿ ಇತ್ತು. ಅದರೊಳಗೆ ಉಪಾಯವಾಗಿ ನುಸುಳಿ ತೋಟದ ಒಳಗೆ ಬಂದು ಹುಡುಕಿತು. ತನ್ನ ಮರಿಯ ಸುಳಿವು ಅಲ್ಲೂ ಸಿಗಲಿಲ್ಲ. ಆದರೆ ಮನೆಯ ಪಕ್ಕದಲ್ಲಿ ಕೋಳಿಗಳು ಅಡಗಿ ಕುಳಿತಿದ್ದವು. ಹಸಿದಿದ್ದ ನರಿಗೆ ಕೋಳಿಗಳನ್ನು ಕಂಡು ಆಸೆ ಮೂಡಿತು. ಸುಲಭವಾಗಿ ದೊರಕಿದ ಆಹಾರ ಬಿಡಲು ಅದಕ್ಕೆ ಮನಸ್ಸಾಗಲಿಲ್ಲ. ಮೆಲ್ಲನೆ ಕೋಳಿ ಹಿಡಿಯಲು ತೆವಳಿತು. ಆದರೆ ಅಲ್ಲಿ ಒಡ್ಡಿದ್ದ ಬಲೆಗೆ ತಾನೂ ಸಿಕ್ಕಿಕೊಂಡಿತು.
+  - id: prose-p4
+    type: prose
+    text: ನರಿಗೆ ರೈತನ ಜಾಣತನ ಅರಿವಿಗೆ ಬಂದಿತು. ತನ್ನ ತಪ್ಪಿಗೆ ನರಿ ಸಂಕಟ ಪಡತೊಡಗಿತು. ಅಷ್ಟರಲ್ಲಿ ಅಲ್ಲೇ ಜಿಗಿದಾಡುತ್ತಿದ್ದ ಇಲಿಗಳನ್ನು ಕಂಡಿತು. ನರಿಗೆ ತಕ್ಷಣ ಉಪಾಯವೊಂದು ಹೊಳೆಯಿತು. ಮೆಲ್ಲನೆ ಇಲಿಗಳನ್ನು ಹತ್ತಿರ ಕರೆದು “ನಿಮ್ಮ ಹಲ್ಲುಗಳು ಬಲಹೀನವಾಗಿವೆಯಲ್ಲವೆ?” ಎಂದಿತು. ಇಲಿಗಳು ''ಇಲ್ಲ ನರಿಯಣ್ಣಾ, ನಮ್ಮ ಹಲ್ಲುಗಳು ಗಟ್ಟಿಯಾಗಿಯೇ ಇವೆ” ಎಂದವು. ಅದಕ್ಕೆ ನರಿಯು “ಹಾಗಾದರೆ ಈ ಬಲೆಯನ್ನು ಕತ್ತರಿಸಿ ನೋಡೋಣ” ಎಂದಿತು. ಇಲಿಗಳು ಕ್ಷಣದಲ್ಲಿ ಆ ಬಲೆಯನ್ನು ಹಲ್ಲುಗಳಿಂದ ಕತ್ತರಿಸಿ ಹಾಕಿದವು.
+  - id: prose-p5
+    type: prose
+    text: ನರಿ ಬಲೆಯಿಂದ ಹೊರ ಬಂದಿತು. ಆಗ ನರಿಯು “ಇಲಿಗಳಿರಾ, ನಿಮ್ಮ ಹಲ್ಲುಗಳು ಗಟ್ಟಿಯಾಗಿಯೇ ಇವೆ, ನಾನು ರೈತ ಒಡ್ಡಿದ್ದ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿದ್ದೆನು. ನೀವು ನನ್ನನ್ನು ಪಾರು ಮಾಡಿದಿರಿ. ನಿಮಗೆ ಧನ್ಯವಾದಗಳು” ಎಂದು ಹೇಳಿತು.
+  - id: prose-p6
+    type: prose
+    text: ಇಲಿಗಳು ನರಿಯ ಜಾಣತನವನ್ನು ಹೊಗಳಿದವು. ಆಗ ನರಿಯು ಇಲಿಗಳನ್ನು ಕುರಿತು “ರೈತನ ಬಲೆಗೆ ಸಿಕ್ಕಿ ಹಾಕಿಕೊಂಡ ನನ್ನ ಕಂದನನ್ನು ಪಾರು ಮಾಡಲೆಂದು ಬಂದೆ. ಆದರೆ ಕೋಳಿಯ ಆಸೆಯಿಂದ ನಾನೂ ಈ ಬಲೆಗೆ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡೆ. ನೀವು ನನಗೆ ಉಪಕಾರ ಮಾಡಿದಿರಿ. ಆದರೆ ನನ್ನ ಕಂದ ಮಾತ್ರ ಸಿಗಲಿಲ್ಲ” ಎಂದು ದುಃಖದಿಂದ ಹೇಳಿತು. ಆಗ ಇಲಿಗಳು ರೈತ ಬಚ್ಚಿಟ್ಟಿದ್ದ ನರಿಯ ಮರಿಯನ್ನು ತಾಯಿನರಿಗೆ ತೋರಿಸಿದವು. ತನ್ನ ಮರಿಯನ್ನು ನೋಡಿ ತಾಯಿನರಿಗೆ ಆನಂದವಾಯಿತು. ಅವು ಮತ್ತೊಮ್ಮೆ ಇಲಿಗಳಿಗೆ ಧನ್ಯವಾದ ಹೇಳಿದವು. ಸಂತೋಷದಿಂದ ಕಾಡಿನತ್ತ ಓಡಿಹೋದವು.
+
+  - id: vocab-dhvani
+    type: vocabulary_term
+    text: ಧ್ವನಿ
+  - id: vocab-saddu
+    type: vocabulary_term
+    text: ಸದ್ದು
+  - id: vocab-tota
+    type: vocabulary_term
+    text: ತೋಟ
+  - id: vocab-koli
+    type: vocabulary_term
+    text: ಕೋಳಿ
+  - id: vocab-beli
+    type: vocabulary_term
+    text: ಬೇಲಿ
+  - id: vocab-svalpa
+    type: vocabulary_term
+    text: ಸ್ವಲ್ಪ
+  - id: vocab-bale
+    type: vocabulary_term
+    text: ಬಲೆ
+  - id: vocab-aahara
+    type: vocabulary_term
+    text: ಆಹಾರ
+  - id: vocab-higgitthu
+    type: vocabulary_term
+    text: ಹಿಗ್ಗಿತು
+  - id: vocab-nuggittu
+    type: vocabulary_term
+    text: ನುಗ್ಗಿತು
+  - id: vocab-aathanka
+    type: vocabulary_term
+    text: ಆತಂಕ
+  - id: vocab-hattira
+    type: vocabulary_term
+    text: ಹತ್ತಿರ
+  - id: vocab-sulivu
+    type: vocabulary_term
+    text: ಸುಳಿವು
+  - id: vocab-upaya
+    type: vocabulary_term
+    text: ಉಪಾಯ
+  - id: vocab-adagi
+    type: vocabulary_term
+    text: ಅಡಗಿ
+  - id: vocab-anivarya
+    type: vocabulary_term
+    text: ಅನಿವಾರ್ಯ
+  - id: vocab-jigidaadu
+    type: vocabulary_term
+    text: ಜಿಗಿದಾಡು
+  - id: vocab-balaheena
+    type: vocabulary_term
+    text: ಬಲಹೀನ
+
+  - id: note-saddu
+    type: note_term
+    text: ಸದ್ದು
+  - id: note-saddu-def
+    type: note_definition
+    text: ಶಬ್ದ, ಗದ್ದಲ
+  - id: note-mevu
+    type: note_term
+    text: ಮೇವು
+  - id: note-mevu-def
+    type: note_definition
+    text: ಆಹಾರ
+  - id: note-anivarya
+    type: note_term
+    text: ಅನಿವಾರ್ಯ
+  - id: note-anivarya-def
+    type: note_definition
+    text: ತಪ್ಪಿಸಲಾಗದ
+  - id: note-apaya
+    type: note_term
+    text: ಅಪಾಯ
+  - id: note-apaya-def
+    type: note_definition
+    text: ಕೇಡು, ಹಾನಿ, ತೊಂದರೆ
+  - id: note-tochade
+    type: note_term
+    text: ತೋಚದೆ
+  - id: note-tochade-def
+    type: note_definition
+    text: ದಿಕ್ಕು ಕಾಣದೆ
+  - id: note-sameepa
+    type: note_term
+    text: ಸಮೀಪ
+  - id: note-sameepa-def
+    type: note_definition
+    text: ಹತ್ತಿರ
+  - id: note-kandi
+    type: note_term
+    text: ಕಂಡಿ
+  - id: note-kandi-def
+    type: note_definition
+    text: ರಂಧ್ರ, ತೂತು
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಕಾಡಿನಲ್ಲಿ ಆಹಾರ ಹುಡುಕುತ್ತಾ ಯಾರು ಬಂದರು?
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ನರಿಗೆ ತೋಟದ ಕಡೆಯಿಂದ ಯಾವ ಸದ್ದು ಕೇಳಿತು?
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ನರಿಯ ಮರಿ ಎಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿತು?
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ನರಿಯು ಬಲೆಯಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡಿದವರು ಯಾರು?
+
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: ನರಿಗೆ ದೂರದಲ್ಲಿ ತೋಟದ................................. ಕಾಣಿಸಿತು. (ಕೊಳವೊಂದು, ಗುಹೆಯೊಂದು, ಮನೆಯೊಂದು)
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: ಸಮಯ ಸಾಧಿಸಿ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿ ................................. (ಮಲಗಿತ್ತು, ನಿಂತಿತ್ತು, ಕುಳಿತಿತ್ತು)
+  - id: ex-b-q3
+    type: fill_blank
+    exercise: B
+    text: ಕೋಳಿಗಳನ್ನು ಕಂಡು ನರಿಯ ಮರಿಯು ಮನದಲ್ಲೇ ................................. (ಕುಗ್ಗಿತು, ಓಡಿತು, ಹಿಗ್ಗಿತು,)
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: “ಅಮ್ಮಾ, ಎಷ್ಟೊಂದು ಕೋಳಿಗಳು!”
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: “ನಿಮ್ಮ ಹಲ್ಲುಗಳು ಬಲಹೀನವಾಗಿವೆಯಲ್ಲವೆ?”
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: “ನಮ್ಮ ಹಲ್ಲುಗಳು ಗಟ್ಟಿಯಾಗಿಯೇ ಇವೆ”.
+
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: 'ಸಾಕು ಪ್ರಾಣಿಗಳ ಹೆಸರನ್ನು ಬರೆಯಿರಿ :'
+
+  - id: ex-e-q1
+    type: question
+    exercise: E
+    text: ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಆರೋಗ್ಯ ಮತ್ತು ಕುಟುಂಬ ಕಲ್ಯಾಣ ಇಲಾಖೆ ಏರ್ಪಡಿಸಿರುವ ಪಲ್ಸ್ ಪೋಲಿಯೋ ಲಸಿಕೆ ಹಾಕುವ ಕಾರ್ಯಕ್ರಮ ಐದು ವರ್ಷದವರೆಗಿನ ಎಲ್ಲಾ ಮಕ್ಕಳಿಗೂ ಪೋಲಿಯೋ ಹನಿ ಹಾಕಿಸಿ, ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಪೋಲಿಯೋ ರೋಗದಿಂದ ಮುಕ್ತಗೊಳಿಸಿ. ಬನ್ನಿ, ಈ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ನಾವೆಲ್ಲರೂ ಸಹಕರಿಸೋಣ.

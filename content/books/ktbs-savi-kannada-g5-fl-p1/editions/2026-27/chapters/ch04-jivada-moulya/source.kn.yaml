@@ -1,0 +1,409 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 4
+  slug: ch04-jivada-moulya
+  title: ಜೀವದ ಮೌಲ್ಯ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಕಾನ್ಸ್ಟನ್ಸ್ ಜೆ ಫಾಸ್ಟರ್
+
+labels:
+  intro: ಪ್ರವೇಶ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಯಾರು, ಯಾರಿಗೆ, ಏಕೆ ಹೇಳಿದರು?
+  exercise-D: ಈ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+  grammar-B: ಆ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.
+  grammar-C: ಇ. ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ರೂಢನಾಮ, ಅಂಕಿತ ನಾಮ ಹಾಗೂ ಅನ್ವರ್ಥನಾಮಗಳಾಗಿ ವಿಂಗಡಿಸಿ ಬರೆಯಿರಿ.
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಈ. ಯೋಜನೆ
+  language-exercise-B: ಉ. ಓದಿಗೆ ಮನ್ನಣೆ
+  language-exercise-C: ಊ. ಶುಭನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಭೂಮಿಯ ಮೇಲಿರುವ ಪ್ರತಿಯೊಂದು ಜೀವಿಗೂ ಬದುಕುವ ಹಕ್ಕಿದೆ. ನಾವು ಬದುಕಬೇಕು. ಬದುಕುವುದಕ್ಕೂ ಬಿಡಬೇಕು. ಜಗತ್ತಿನಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಜೀವಿಗೂ ತನ್ನದೇ ಆದ ವಿಶೇಷತೆ ಹಾಗೂ ಅನನ್ಯತೆ ಇದ್ದೇ ಇರುತ್ತದೆ. ಅಂಗವೈಕಲ್ಯ ಎಂಬುದು ಶಾಪವಲ್ಲ. ಅದನ್ನು ಮೀರಿ ಸಾಧನೆ ಮಾಡಬಹುದು. ತಮ್ಮ ನ್ಯೂನತೆಯನ್ನು ಮರೆತು ಯಾವ ಕ್ಷೇತ್ರದಲ್ಲಿ ತಮ್ಮ ಸಾಮಥ್ರ್ಯವಿದೆ ಎಂಬುದನ್ನು ಅರಿತುಕೊಂಡು ಸಾಧನೆ ಮಾಡಬೇಕು.
+
+  - id: story-n1
+    type: prose
+    section: story
+    text: “ಒಬ್ಬ ವ್ಯಕ್ತಿಗೆ ಗುಣವಾಗದ ಕಾಯಿಲೆ ಇದ್ದರೆ ಆತನನ್ನು ಬದುಕಿಸಿ ಉಳಿಸಿ ಸಾಧಿಸುವುದೇನಿದೆ? ಹಾಗೆ ಆತನಿಗೆ ವೈದ್ಯಕೀಯ ಉಪಚಾರ ಮಾಡುತ್ತ ಬದುಕಿಸುವುದು ಶುದ್ಧ ಅವಿವೇಕ” - ಎಂಬುದು ವೈದ್ಯಕೀಯ ವಿದ್ಯಾರ್ಥಿಯಾಗಿದ್ದಾಗ ತರುಣ ಡಾಕ್ಟರ್ ತೇಡ್ಡಿಯಸ್ ಮಾರ್ಲಿನನ ನಿಶ್ಚಿತ ಅಭಿಪ್ರಾಯವಾಗಿತ್ತು. “ಹಾಗೆ ವಾಸಿಯಾಗದ ಕಾಯಿಲೆಗಳಿಂದ ನರಳುವ ರೋಗಿಗಳಿಗೆ ಮತ್ತು ಅತಿಯಾದ ನೋವು-ನರಳುವಿಕೆ ಅನುಭವಿಸುವ ರೋಗಿಗಳಿಗೆ ಸುಖ ಮರಣ ಉಂಟಾಗುವಂತೆ ಮಾಡುವುದೇ ಲೇಸು”- ಎಂದು ಅವನು ತನ್ನ ತರಗತಿಯ ಇತರ ವಿದ್ಯಾರ್ಥಿಗಳೊಡನೆ ವಾದಿಸುತ್ತಿದ್ದನು.
+
+  - id: story-n2
+    type: prose
+    section: story
+    text: “ಆದರೆ ನಾವು ಇಲ್ಲಿರುವುದು ಅಂಗಹೀನರಾದ ಹತಭಾಗ್ಯರ ಆರೈಕೆಗಾಗಿ!” - ಎಂದು ಅವರು ಪ್ರತಿಭಟಿಸುತ್ತಿದ್ದರು.
+
+  - id: story-n3
+    type: prose
+    section: story
+    text: “ಡಾಕ್ಟರರು ಇರುವುದು ರೋಗಿಗಳನ್ನು ಆರೋಗ್ಯವಂತರನ್ನಾಗಿ ಮಾಡಲಿಕ್ಕೇ. ನಿಜ, ಒಪ್ಪುತ್ತೇನೆ. ಆದರೆ, ಯಾವುದೂ ಅವರನ್ನು ಗುಣಪಡಿಸುವಂತಿಲ್ಲವಾದರೆ ಅವರು ನರಳುವುದಕ್ಕಿಂತ ಸಾಯುವುದೇ ಲೇಸು!” ಎಂದು ಮಾರ್ಲಿನನು ಛಲದಿಂದ ನುಡಿಯುತ್ತಿದ್ದನು.
+
+  - id: story-n4
+    type: prose
+    section: story
+    text: 'ಮಾರ್ಲಿನನ ವ್ಯಾಸಂಗದ ಕೊನೆಯ ವರ್ಷವಾಗಿತ್ತು. ಅದೊಂದು ರಾತ್ರೆ ಮಾರ್ಲಿನನು ಆಸ್ಪತ್ರೆಯ ಕೆಲಸದಲ್ಲಿದ್ದನು. ನಗರದ ಒಂದು ಕೊಳಕು ಭಾಗದಿಂದ ಒಂದು ಪ್ರಸವಕ್ಕಾಗಿ ಕರೆ ಬಂತು. ಮಾರ್ಲಿನನು ಕೂಡಲೇ ಹೋಗಿ, ಜರ್ಮನಿಯಿಂದ ವಲಸೆ ಬಂದ ಓರ್ವ ಹೆಂಗಸಿನ ಪ್ರಸವದಲ್ಲಿ ನೆರವಾದನು. ಅದು ಅವಳ ಹತ್ತನೆಯ ಮಗುವಾಗಿತ್ತು. ಒಂದು ಕಾಲಿಗಿಂತ ಇನ್ನೊಂದು ಕಾಲು ಗಿಡ್ಡವಾಗಿ ಆ ಮಗು ಹುಟ್ಟಿತ್ತು. ಡಾಕ್ಟರನ ಅಭ್ಯಾಸದಂತೆ, ಅವನು ಆ ಮಗುವು ಉಸಿರಾಡುವಂತೆ ಮಾಡಲು ಅದರ ಬಾಯಿಯೊಳಗೆ ಊದಿದನು. ಆದರೆ, ಮರುಕ್ಷಣವೇ ಅವನಿಗನಿಸಿತು: “ಏನು ದುರಂತವೀ ಶಿಶು! ಅದು ಬೆಳೆದಾಗ ಜೀವನವಿಡೀ ಕುಂಟು ಕಾಲಿನಲ್ಲೇ ನಡೆಯಬೇಕು. ಇತರ ಮಕ್ಕಳು ಅಣಕಿಸಿ ಗೇಲಿ ಮಾಡುವರು. ಈ ಮಗು ಜೀವಿಸುವಂತೆ ಮಾಡುವುದೇಕೆ? ಇದು ಸತ್ತರೆ ಜಗತ್ತಿಗೆ ಏನು ನಷ್ಟ!”'
+
+  - id: story-n5
+    type: prose
+    section: story
+    text: ಆದರೆ ಅವನು ಹೇಳಿಕೇಳಿ ವೈದ್ಯ. ಮಗುವನ್ನು ಹುಟ್ಟಿನಲ್ಲೇ ಸಾಯಿಸುವ ಯೋಚನೆ ಬಂದರೂ ಆತನ ವೈದ್ಯ ಬುದ್ಧಿ ಜಾಗ್ರತವಾಗಿತ್ತು. ಬೆನ್ನು-ಹೊಟ್ಟೆಗಳ ಭಾಗಕ್ಕೆ ನಯವಾಗಿ ಬಡಿದು ಆತ ಆ ಮಗುವಿನ ಉಸಿರಾಟದ ಪ್ರಕ್ರಿಯೆ ಪ್ರಾರಂಭವಾಗುವಂತೆ ಮಾಡಿದನು. ಕೊನೆಗೆ ಅವನು ನಿರೀಕ್ಷಿಸುತ್ತಿದ್ದ ಉಸಿರೆಳೆಯು ಬಂತು. ಮಗುವಿನ ಮುಖವು ಕೆಂಪಗಾಯಿತು. ಮಗು ಹುಟ್ಟಿದ ಮೇಲೆ ಪ್ರತಿಯೊಬ್ಬರೂ ನಿರೀಕ್ಷಿಸುವ ಆ ಮೊದಲ ಅಳು - ಅದು ಕೊನೆಗೂ ಮಗುವಿನಿಂದ ಹೊರಟಿತು. ತೇಡ್ಡಿಯಸ್ಗೆ ನೆಮ್ಮದಿಯಾಯಿತು.
+
+  - id: story-n6
+    type: prose
+    section: story
+    text: ಆತ ತನ್ನ ಉಪಕರಣಗಳನ್ನು ಚೀಲದೊಳಗೆ ತುಂಬಿ, ನಗರದ ಕಡೆಗೆ ಹೊರಟುಹೋದನು. ತಾನು ಮಾಡಿದ ಕೆಲಸಕ್ಕಾಗಿ ಅವನು ಬಹಳ ಅಸಮಾಧಾನಪಟ್ಟಿದ್ದನು. “ನಾನೇಕೆ ಹಾಗೆ ಮಾಡಿದೆನೆಂದು ನನಗೇ ತಿಳಿಯದು, ದಾರಿದ್ರ್ಯ ತುಂಬಿದ ಆ ಮನೆಯಲ್ಲಿ, ಈ ಮೊದಲೇ, ಬೇಕಾದುದಕ್ಕಿಂತ ಹೆಚ್ಚು ಮಕ್ಕಳಿರುವರು. ನ್ಯೂನತೆಯುಳ್ಳ ಇದನ್ನು ನಾನೇಕೆ ಬದುಕಿಸಿದೆ? ಇಂಥ ಕುಂಟರಿಲ್ಲದಿದ್ದರೆ ಜಗತ್ತು ಉತ್ತಮವಾಗದೇ?” ಎಂದು ಅವನು ತನ್ನೊಳಗೇ ಗೊಣಗುತ್ತಿದ್ದನು.
+
+  - id: story-n7
+    type: prose
+    section: story
+    text: ವರುಷಗಳು ಉರುಳಿದುವು. ಡಾಕ್ಟರ್ ಮಾರ್ಲಿನನು, ಒಂದು ಕೈಗಾರಿಕಾ ನಗರಕ್ಕೆ ಹೋಗಿ ತನ್ನ ವೃತ್ತಿ ಸ್ಥಾಪಿಸಿದ್ದನು. ಚೆನ್ನಾಗಿ ಸಂಪಾದನೆಯಾಗುತ್ತಿತ್ತು. ತಾರುಣ್ಯದಲ್ಲಿದ್ದ ಆ ಸುಧಾರಣಾ ಮನೋಭಾವ ಈಗ ಮಾಯವಾಗಿತ್ತು.
+
+  - id: story-n8
+    type: prose
+    section: story
+    text: ಒಂದು ದಿನ ಬೇಸಿಗೆಯ ಸಂಜೆ. ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ರೋಗಿಗಳ ತಪಾಸಣೆಯ ಕೆಲಸ ಮುಗಿದಿತ್ತು. ಆತ ತನ್ನ ಕೋಣೆಯಲ್ಲಿ ಕುಳಿತು, ನುರಿತ ಸಂಗೀತಗಾರನೊಬ್ಬ ನುಡಿಸುತ್ತಿದ್ದ ಪಿಯಾನೋ ವಾದನವನ್ನು ರೇಡಿಯೋದಲ್ಲಿ ಆಲಿಸುತ್ತಿದ್ದನು. ಅದು ಎಂತಹ ಅದ್ಭುತ ಸಂಗೀತ! ಅದೊಂದು ಸಂಗೀತದ ರಸದೌತಣ!
+
+  - id: story-n9
+    type: prose
+    section: story
+    text: ಡಾಕ್ಟರ್ ಮಾರ್ಲಿನನು ಉಲ್ಲಸಿತನಾದನು. ಅವನಲ್ಲಿದ್ದ ದಣಿವೆಲ್ಲಾ ಮಾಯವಾಯಿತು. ಸಂಗೀತ ಮುಗಿದ ಬಳಿಕ ರೇಡಿಯೋದಲ್ಲಿ ಘೋಷಣೆಯಾಯಿತು.
+
+  - id: story-n10
+    type: prose
+    section: story
+    text: “ಇದುವರೆಗೆ ನೀವು ಆಲಿಸಿದ ಪಿಯಾನೋ ವಾದನವನ್ನು ನುಡಿಸಿದವರು ಪ್ರವೀಣ ಮಿಲ್ಲರ್ ಬಾರ್ಬರಾ. ಇವರು ಹುಟ್ಟಿನಿಂದಲೇ ಅಂಗವಿಕಲರು. ಒಂದು ಕಾಲು ಗಿಡ್ಡವಾಗಿರುವುದರಿಂದ ನಡೆಯಲು ಸಾಧ್ಯವಾಗದಿದ್ದರೂ ತಮ್ಮ ಸಂಗೀತದ ಮೂಲಕ ಜಗತ್ತನ್ನೇ ಗೆದ್ದಿದ್ದಾರೆ.”
+
+  - id: story-n11
+    type: prose
+    section: story
+    text: ಡಾಕ್ಟರ್ ಮಾರ್ಲಿನನಿಗೆ ಆಶ್ಚರ್ಯವಾಯಿತು. ತಾನು ಹುಟ್ಟಿನಲ್ಲೇ ಸಾಯಿಸಬೇಕೆಂದಿದ್ದ ಮಗು ಇದೇ ಇರಬಹುದೇ? ಎಂದು ಯೋಚಿಸಿದನು. ಆತನಿಗೆ ತನ್ನ ಹಳೆಯ ನೆನಪುಗಳು ಮರುಕಳಿಸಿದವು. “ನಾನು ಅಂದು ಆ ಮಗುವನ್ನು ಸಾಯಿಸಿದ್ದರೆ, ಇಂದು ಇಂತಹ ಅದ್ಭುತ ಸಂಗೀತವನ್ನು ಕೇಳಲು ಸಾಧ್ಯವಾಗುತ್ತಿತ್ತೇ? ಜೀವದ ಮೌಲ್ಯವನ್ನು ಅರಿಯದೆ ನಾನು ಎಂತಹ ತಪ್ಪು ಮಾಡಹೊರಟಿದ್ದೆ!” ಎಂದು ಪಶ್ಚಾತ್ತಾಪಪಟ್ಟನು.
+
+  - id: story-n12
+    type: prose
+    section: story
+    text: ಪ್ರತಿಯೊಂದು ಜೀವಿಗೂ ತನ್ನದೇ ಆದ ಮೌಲ್ಯವಿದೆ. ಯಾರನ್ನೂ ಕೀಳಾಗಿ ಕಾಣಬಾರದು. ಅಂಗವೈಕಲ್ಯವು ಸಾಧನೆಗೆ ಅಡ್ಡಿಯಾಗಲಾರದು ಎಂಬ ಸತ್ಯವನ್ನು ಡಾಕ್ಟರ್ ಮಾರ್ಲಿನನು ಅರಿತುಕೊಂಡನು.
+
+  - id: vocab-angavaikalya
+    type: vocabulary_term
+    text: ಅಂಗವೈಕಲ್ಯ
+
+  - id: vocab-angavaikalya-def
+    type: vocabulary_definition
+    text: ದೇಹದ ಅಂಗಾಂಗಳ ಊನ
+
+  - id: vocab-ananyate
+    type: vocabulary_term
+    text: ಅನನ್ಯತೆ
+
+  - id: vocab-ananyate-def
+    type: vocabulary_definition
+    text: ವಿಶಿಷ್ಟತೆ, ಬೇರೆಯವರಿಗಿಲ್ಲದ ಗುಣ
+
+  - id: vocab-aviveka
+    type: vocabulary_term
+    text: ಅವಿವೇಕ
+
+  - id: vocab-aviveka-def
+    type: vocabulary_definition
+    text: ತಿಳಿವಳಿಕೆಯಿಲ್ಲದ, ಮೂರ್ಖತನ
+
+  - id: vocab-upachara
+    type: vocabulary_term
+    text: ಉಪಚಾರ
+
+  - id: vocab-upachara-def
+    type: vocabulary_definition
+    text: ಆರೈಕೆ, ಸೇವೆ
+
+  - id: vocab-chala
+    type: vocabulary_term
+    text: ಛಲ
+
+  - id: vocab-chala-def
+    type: vocabulary_definition
+    text: ಹಠ, ಪಟ್ಟು
+
+  - id: vocab-tapasane
+    type: vocabulary_term
+    text: ತಪಾಸಣೆ
+
+  - id: vocab-tapasane-def
+    type: vocabulary_definition
+    text: ಪರೀಕ್ಷೆ, ತನಿಖೆ
+
+  - id: vocab-daridrya
+    type: vocabulary_term
+    text: ದಾರಿದ್ರ್ಯ
+
+  - id: vocab-daridrya-def
+    type: vocabulary_definition
+    text: ಬಡತನ, ಬವಣೆ
+
+  - id: vocab-nyunate
+    type: vocabulary_term
+    text: ನ್ಯೂನತೆ
+
+  - id: vocab-nyunate-def
+    type: vocabulary_definition
+    text: ಕೊರತೆ, ದೋಷ
+
+  - id: vocab-pratibhata
+    type: vocabulary_term
+    text: ಪ್ರತಿಭಟ
+
+  - id: vocab-pratibhata-def
+    type: vocabulary_definition
+    text: ವಿರೋಧಿಸು, ಎದುರಿಸು
+
+  - id: vocab-prasava
+    type: vocabulary_term
+    text: ಪ್ರಸವ
+
+  - id: vocab-prasava-def
+    type: vocabulary_definition
+    text: ಹೆರಿಗೆ, ಜನನ
+
+  - id: vocab-moulya
+    type: vocabulary_term
+    text: ಮೌಲ್ಯ
+
+  - id: vocab-moulya-def
+    type: vocabulary_definition
+    text: ಬೆಲೆ, ಮಹತ್ವ
+
+  - id: vocab-rasadoutana
+    type: vocabulary_term
+    text: ರಸದೌತಣ
+
+  - id: vocab-rasadoutana-def
+    type: vocabulary_definition
+    text: ರುಚಿಯಾದ ಊಟ, ಆನಂದ
+
+  - id: vocab-valase
+    type: vocabulary_term
+    text: ವಲಸೆ
+
+  - id: vocab-valase-def
+    type: vocabulary_definition
+    text: ಒಂದು ಊರಿನಿಂದ ಇನ್ನೊಂದು ಊರಿಗೆ ಹೋಗಿ ನೆಲೆಸುವುದು
+
+  - id: vocab-vyasanga
+    type: vocabulary_term
+    text: ವ್ಯಾಸಂಗ
+
+  - id: vocab-vyasanga-def
+    type: vocabulary_definition
+    text: ಓದು, ಅಧ್ಯಯನ
+
+  - id: vocab-hatabhagya
+    type: vocabulary_term
+    text: ಹತಭಾಗ್ಯ
+
+  - id: vocab-hatabhagya-def
+    type: vocabulary_definition
+    text: ದುರದೃಷ್ಟವಂತ
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಡಾಕ್ಟರ್ ಮಾರ್ಲಿನನ ನಿಶ್ಚಿತ ಅಭಿಪ್ರಾಯವೇನಾಗಿತ್ತು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಮಾರ್ಲಿನನು ಪ್ರಸವಕ್ಕಾಗಿ ಎಲ್ಲಿಗೆ ಹೋದನು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಹುಟ್ಟಿದ ಮಗು ಹೇಗಿತ್ತು?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಡಾಕ್ಟರ್ ಮಾರ್ಲಿನನು ರೇಡಿಯೋದಲ್ಲಿ ಏನನ್ನು ಆಲಿಸುತ್ತಿದ್ದನು?
+
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: ಪಿಯಾನೋ ನುಡಿಸಿದವರು ಯಾರು?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ಮಾರ್ಲಿನನು ತನ್ನ ತರಗತಿಯ ವಿದ್ಯಾರ್ಥಿಗಳೊಡನೆ ಏನೆಂದು ವಾದಿಸುತ್ತಿದ್ದನು?
+
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಮಗುವನ್ನು ನೋಡಿದಾಗ ಮಾರ್ಲಿನನಿಗೆ ಏನೆನಿಸಿತು?
+
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ಮಾರ್ಲಿನನು ಮಗುವಿನ ಉಸಿರಾಟ ಪ್ರಾರಂಭವಾಗಲು ಏನು ಮಾಡಿದನು?
+
+  - id: ex-b-q4
+    type: question
+    exercise: B
+    text: ರೇಡಿಯೋದಲ್ಲಿ ಘೋಷಣೆಯಾದದ್ದೇನು?
+
+  - id: ex-b-q5
+    type: question
+    exercise: B
+    text: ಮಾರ್ಲಿನನು ಯಾವ ಸತ್ಯವನ್ನು ಅರಿತುಕೊಂಡನು?
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: “ಆದರೆ ನಾವು ಇಲ್ಲಿರುವುದು ಅಂಗಹೀನರಾದ ಹತಭಾಗ್ಯರ ಆರೈಕೆಗಾಗಿ!”
+
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: “ಏನು ದುರಂತವೀ ಶಿಶು!”
+
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: “ಇಂಥ ಕುಂಟರಿಲ್ಲದಿದ್ದರೆ ಜಗತ್ತು ಉತ್ತಮವಾಗದೇ?”
+
+  - id: ex-c-q4
+    type: question
+    exercise: C
+    text: “ಜೀವದ ಮೌಲ್ಯವನ್ನು ಅರಿಯದೆ ನಾನು ಎಂತಹ ತಪ್ಪು ಮಾಡಹೊರಟಿದ್ದೆ!”
+
+  - id: ex-d-q1
+    type: fill_blank
+    exercise: D
+    text: ಆತನಿಗೆ ವೈದ್ಯಕೀಯ ಉಪಚಾರ ಮಾಡುತ್ತ ಬದುಕಿಸುವುದು ಶುದ್ಧ __________.
+
+  - id: ex-d-q2
+    type: fill_blank
+    exercise: D
+    text: ಡಾಕ್ಟರರು ಇರುವುದು ರೋಗಿಗಳನ್ನು __________ ಮಾಡಲಿಕ್ಕೇ.
+
+  - id: ex-d-q3
+    type: fill_blank
+    exercise: D
+    text: ಮಗುವನ್ನು ಹುಟ್ಟಿನಲ್ಲೇ ಸಾಯಿಸುವ ಯೋಚನೆ ಬಂದರೂ ಆತನ __________ ಜಾಗ್ರತವಾಗಿತ್ತು.
+
+  - id: ex-d-q4
+    type: fill_blank
+    exercise: D
+    text: ಅದು ಎಂತಹ ಅದ್ಭುತ ಸಂಗೀತ! ಅದೊಂದು ಸಂಗೀತದ __________.
+
+  - id: ex-d-q5
+    type: fill_blank
+    exercise: D
+    text: __________ ಸಾಧನೆಗೆ ಅಡ್ಡಿಯಾಗಲಾರದು.
+
+  - id: grammar-p1
+    type: prose
+    section: grammar
+    text: "ನಾಮಪದ\nವ್ಯಕ್ತಿ, ವಸ್ತು, ಸ್ಥಳ, ಪ್ರಾಣಿ, ಪಕ್ಷಿ ಇತ್ಯಾದಿಗಳ ಹೆಸರನ್ನು ಸೂಚಿಸುವ ಪದಗಳಿಗೆ ನಾಮಪದ ಎನ್ನುವರು.\nಉದಾ: ರಾಮ, ಪುಸ್ತಕ, ಊರು, ಹಸು, ಗಿಳಿ ಇತ್ಯಾದಿ."
+
+  - id: grammar-p2
+    type: prose
+    section: grammar
+    text: "ನಾಮಪದಗಳಲ್ಲಿ ಮುಖ್ಯವಾಗಿ ಮೂರು ವಿಧ.\n1. ವಸ್ತುವಾಚಕ\n2. ಗುಣವಾಚಕ\n3. ಸಂಖ್ಯಾವಾಚಕ"
+
+  - id: grammar-p3
+    type: prose
+    section: grammar
+    text: "1. ವಸ್ತುವಾಚಕ\nವಸ್ತುಗಳ ಹೆಸರನ್ನು ಸೂಚಿಸುವ ಪದಗಳಿಗೆ ವಸ್ತುವಾಚಕ ಎನ್ನುವರು. ಇದರಲ್ಲಿ ಮೂರು ವಿಧ.\nಅ) ರೂಢನಾಮ\nಆ) ಅಂಕಿತ ನಾಮ\nಇ) ಅನ್ವರ್ಥ ನಾಮ"
+
+  - id: grammar-p4
+    type: prose
+    section: grammar
+    text: "ಅ) ರೂಢನಾಮ : ರೂಢಿಯಿಂದ ಬಂದ ಪದಗಳು ರೂಢನಾಮಗಳು.\nಉದಾ: ನದಿ, ಪರ್ವತ, ಮನುಷ್ಯ, ಪಟ್ಟಣ ಇತ್ಯಾದಿ."
+
+  - id: grammar-p5
+    type: prose
+    section: grammar
+    text: "ಆ) ಅಂಕಿತ ನಾಮ : ಗುರುತಿಗಾಗಿ ಹಾಗೂ ವ್ಯವಹಾರದ ಉಪಯೋಗಕ್ಕೆ ಇಟ್ಟುಕೊಂಡ ಹೆಸರುಗಳು ಅಂಕಿತ ನಾಮಗಳು.\nಉದಾ: ಗಂಗಾ, ಹಿಮಾಲಯ, ರಾಮ, ಬೆಂಗಳೂರು ಇತ್ಯಾದಿ."
+
+  - id: grammar-p6
+    type: prose
+    section: grammar
+    text: "ಇ) ಅನ್ವರ್ಥ ನಾಮ : ರೂಪ, ಗುಣ, ಸ್ವಭಾವಾದಿ ವಿಶೇಷವಾದ ಅರ್ಥಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಬಂದ ಹೆಸರುಗಳು ಅನ್ವರ್ಥ ನಾಮಗಳು.\nಉದಾ: ಕುಂಟ, ಕುರುಡ, ಕಿವುಡ, ವ್ಯಾಪಾರಿ, ಶಿಕ್ಷಕ ಇತ್ಯಾದಿ."
+
+  - id: grammar-a-q1
+    type: question
+    exercise: grammar-A
+    text: ಅ) ನಾಮಪದ ಎಂದರೇನು? ಉದಾಹರಣೆ ಕೊಡಿ.
+
+  - id: grammar-a-q2
+    type: question
+    exercise: grammar-A
+    text: ಆ) ನಾಮಪದಗಳಲ್ಲಿ ಎಷ್ಟು ವಿಧ?
+
+  - id: grammar-a-q3
+    type: question
+    exercise: grammar-A
+    text: ಇ) ವಸ್ತುವಾಚಕ ನಾಮಪದ ಎಂದರೇನು? ಅವುಗಳಲ್ಲಿ ಎಷ್ಟು ವಿಧ?
+
+  - id: grammar-b-q1
+    type: question
+    exercise: grammar-B
+    text: "1. ಅಂಕಿತ ನಾಮ - ರೂಢಿಯಿಂದ ಬಂದ ಪದಗಳು"
+
+  - id: grammar-b-q2
+    type: question
+    exercise: grammar-B
+    text: "2. ರೂಢನಾಮ - ರೂಪ, ಗುಣ, ಸ್ವಭಾವಾದಿ ವಿಶೇಷವಾದ ಅರ್ಥಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಬಂದ ಹೆಸರು"
+
+  - id: grammar-b-q3
+    type: question
+    exercise: grammar-B
+    text: "3. ಅನ್ವರ್ಥ ನಾಮ - ಗುರುತಿಗಾಗಿ ಹಾಗೂ ವ್ಯವಹಾರದ ಉಪಯೋಗಕ್ಕೆ ಇಟ್ಟುಕೊಂಡ ಹೆಸರು"
+
+  - id: grammar-c-q1
+    type: question
+    exercise: grammar-C
+    text: ಮಾರ್ಲಿನ್, ಮಿಲ್ಲರ್, ವೈದ್ಯ, ರೋಗಿ, ಹೆಂಗಸು, ಶಿಶು, ಬಾರ್ಬರಾ, ಪ್ರವೀಣ, ಬಾಲಕಿ, ವಿದ್ಯಾರ್ಥಿ
+
+  - id: lang-ex-a-q1
+    type: question
+    exercise: language-exercise-A
+    text: 1. ಕರಪತ್ರ, ಲಗ್ನಪತ್ರಿಕೆಗಳು ಹಾಗೂ ಸಾಹಿತಿಗಳ ಕೈಬರೆಹಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಆಲ್ಬಂ ತಯಾರಿಸಿ.
+
+  - id: lang-ex-b-q1
+    type: question
+    exercise: language-exercise-B
+    text: 1. ಮುದ್ರಿತ ಕರಪತ್ರ ಹಾಗೂ ಲಗ್ನ ಪತ್ರಿಕೆಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಓದಿರಿ.
+
+  - id: lang-ex-b-q2
+    type: question
+    exercise: language-exercise-B
+    text: 2. ಶಿಶು ಗೀತೆಗಳನ್ನು ಓದಿರಿ.
+
+  - id: lang-ex-b-q3
+    type: question
+    exercise: language-exercise-B
+    text: 3. ರಾಜರತ್ನಂ, ಡುಂಡಿರಾಜ್ ಮೊದಲಾದ ಲೇಖಕರು ಬರೆದ ಮಕ್ಕಳ ಕವಿತೆಗಳನ್ನು ಓದಿರಿ.
+
+  - id: lang-ex-c-q1
+    type: question
+    exercise: language-exercise-C
+    text: 1. ಕನ್ನಡಿ ನಿನಗೆ ಬೇಡ, ಕನ್ನಡಿಯೆ ನೀನಾಗು.
+
+  - id: lang-ex-c-q2
+    type: question
+    exercise: language-exercise-C
+    text: 2. ನುಡಿದರೆ ಮುತ್ತಿನ ಹಾರದಂತಿರಬೇಕು.
+
+  - id: lang-ex-c-q3
+    type: question
+    exercise: language-exercise-C
+    text: 3. ಮಾತಿನ ರೀತಿಗೆ ಪ್ರೀತಿಯ ಬೆಸುಗೆ.

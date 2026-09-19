@@ -1,0 +1,474 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 2
+  slug: ch02-nadiya-alalu
+  title: ನದಿಯ ಅಳಲು
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಸಮಿತಿ ರಚನೆ
+
+labels:
+  intro: ಪ್ರವೇಶ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೊಟ್ಟಿರುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಯಾರು, ಯಾರಿಗೆ, ಏಕೆ ಹೇಳಿದರು?
+  exercise-D: ಈ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.
+  exercise-E: ಉ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಆ. ಯೋಜನೆ
+  language-exercise-B: ಇ. ಓದಿಗೆ ಮನ್ನಣೆ
+  language-exercise-C: ಈ. ಶುಭನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ನಾವು ಇಂದು ನೀರಿನ ಮೂಲಗಳಾದ ಕೆರೆ, ಬಾವಿ, ನದಿ ಮೊದಲಾದವುಗಳನ್ನು ಸರಿಯಾದ ರೀತಿಯಲ್ಲಿ ರಕ್ಷಿಸದೆ ಅವುಗಳನ್ನು ಕಲುಷಿತಗೊಳಿಸುತ್ತಿದ್ದೇವೆ. ಇದರಿಂದಾಗಿ ನಮ್ಮ ಬದುಕಿಗೆ ಸಂಚಕಾರ ಎದುರಾಗುತ್ತಿದೆ. ನಮ್ಮ ಸುತ್ತಲಿನ ನೀರಿನ ಮೂಲಗಳನ್ನು ಶುದ್ಧವಾಗಿಡುವುದು ಅತ್ಯಗತ್ಯ.
+
+  - id: intro-2
+    type: prose
+    section: intro
+    text: "[ಶಾಲಾ ಮಕ್ಕಳು ಗುಂಪುಗುಂಪಾಗಿ ಸೇರಿದ್ದಾರೆ. ಎಲ್ಲರ ಮುಖದಲ್ಲೂ ಆತಂಕ. ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ದಾಖಲಾಗಿರುವ ಸಹಪಾಠಿಗಳ ಆರೋಗ್ಯವನ್ನು ತಿಳಿಯುವ ತವಕ. ಮಕ್ಕಳು ತಮ್ಮ ತಮ್ಮಲ್ಲಿಯೇ ಸಂಭಾಷಿಸುತ್ತಿದ್ದಾರೆ.]"
+
+  - id: story-d1
+    type: dialogue
+    section: story
+    speaker: ಕಲಾವತಿ
+    text: ಎಂಥ ಅನಾಹುತ ನಡೆದುಹೋಯಿತು! ನಮ್ಮ ಗೆಳೆಯ ಗೆಳತಿಯರಿಗೆ ಹೀಗೆ ಆಗಬಾರದಿತ್ತು.
+
+  - id: story-d2
+    type: dialogue
+    section: story
+    speaker: ಸ್ನೇಹ
+    text: ಅವರಿಗೆ ಏನಾಯಿತು?
+
+  - id: story-d3
+    type: dialogue
+    section: story
+    speaker: ಮನು
+    text: ಅಯ್ಯೋ! ನಿನಗೆ ತಿಳಿದಿಲ್ಲವೆ? ಈಜಲು ಹೋದ ಅವರೆಲ್ಲರೂ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಿದ್ದಾರೆ.
+
+  - id: story-d4
+    type: dialogue
+    section: story
+    speaker: ಶಾಂತಲೆ
+    text: ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಲು ಅವರಿಗೆ ಏನಾಗಿತ್ತು?
+
+  - id: story-d5
+    type: dialogue
+    section: story
+    speaker: ಸಲೀಮುಲ್ಲಾ
+    text: ನಿನ್ನೆ ಭಾನುವಾರ ಶಾಲೆಗೆ ರಜೆ ಇತ್ತಲ್ಲವೇ? ಅವರೆಲ್ಲರೂ ಬೆಳಗ್ಗೆ ಆಟವಾಡಲು ಹೋಗಿದ್ದರು. ಮಧ್ಯಾಹ್ನದವರೆಗೂ ಆಟವಾಡಿ ಅನಂತರ ಸೆಕೆಯನ್ನು ತಾಳಲಾರದೆ ಊರಿನ ಪಕ್ಕದ ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡಿದರು.
+
+  - id: story-d6
+    type: dialogue
+    section: story
+    speaker: ಸಲೀಮುಲ್ಲಾ
+    text: ಪರಿಣಾಮವಾಗಿ ಅವರ ಮೈಮೇಲೆಲ್ಲಾ ದಪ್ಪ ದಪ್ಪ ಗುಳ್ಳೆಗಳು ಎದ್ದು ವಿಪರೀತ ತುರಿಕೆ ಪ್ರಾರಂಭವಾಯಿತು. ನೋವು ತಾಳಲಾರದೆ ದಂಡೆಯಲ್ಲಿ ಬಿದ್ದು ಹೊರಳಾಡಿದರು. ಯಾರೋ ದಾರಿಹೋಕರು ನರಳಾಟ ಕಂಡು ಅವರನ್ನು ಎತ್ತಿಕೊಂಡು ಹೋಗಿ ಆಸ್ಪತ್ರೆಗೆ ಸೇರಿಸಿದರು. ಅವರ ಆರೋಗ್ಯ ತೀರ ಹದಗೆಟ್ಟಿತ್ತು.
+
+  - id: story-n1
+    type: prose
+    section: story
+    text: (ಮಕ್ಕಳು ಆಸ್ಪತ್ರೆಗೆ ಬರುತ್ತಾರೆ. ವೈದ್ಯರು ಪರೀಕ್ಷಾ ಕೊಠಡಿಯಿಂದ ಹೊರಬರುತ್ತಾರೆ.)
+
+  - id: story-d7
+    type: dialogue
+    section: story
+    speaker: ದಿಲೀಪ್
+    text: ನಮ್ಮ ಗೆಳೆಯರ ಸ್ಥಿತಿ ಹೇಗಿದೆ ಡಾಕ್ಟರ್?
+
+  - id: story-d8
+    type: dialogue
+    section: story
+    speaker: ವೈದ್ಯರು
+    text: ಇನ್ನೂ ಏನನ್ನು ಹೇಳುವಂತಿಲ್ಲ ಮಕ್ಕಳೆ! ಆದರೆ ಚಿಂತೆಗೆ ಕಾರಣವಿಲ್ಲ ಅಂತ ತೋರುತ್ತದೆ.
+
+  - id: story-d9
+    type: dialogue
+    section: story
+    speaker: ರಮ್ಯ
+    text: ಅವರಿಗೆ ಏನಾಗಿತ್ತು ಡಾಕ್ಟರ್?
+
+  - id: story-d10
+    type: dialogue
+    section: story
+    speaker: ವೈದ್ಯರು
+    text: ಅವರಿಗೆ ನದಿಯ ನೀರಿನ ಮಾಲಿನ್ಯದ ಸೋಂಕು ತಗುಲಿದೆ. ಪರಿಣಾಮವಾಗಿ ಇಡೀ ದೇಹದಲ್ಲಿ ಗುಳ್ಳೆಗಳೆದ್ದಿವೆ. ತುರಿಕೆ ತಡೆಯಲಾರದೆ ಮೂರ್ಛೆ ಹೋಗಿದ್ದಾರೆ.
+
+  - id: story-d11
+    type: dialogue
+    section: story
+    speaker: ದೀಪಕ್
+    text: ಹಾಗಾದರೆ ನದಿಯ ನೀರು ಮಲಿನವಾಗಲು ಕಾರಣವೇನು?
+
+  - id: story-d12
+    type: dialogue
+    section: story
+    speaker: ವೈದ್ಯರು
+    text: ಮನುಷ್ಯರ ಸ್ವಾರ್ಥವೇ ಇದಕ್ಕೆ ಕಾರಣ.
+
+  - id: story-d13
+    type: dialogue
+    section: story
+    speaker: ದಿಲೀಪ್
+    text: ಡಾಕ್ಟರ್, ನಾವು ನದಿಯ ಹತ್ತಿರ ಹೋಗಿ ಬರೋಣವೆ?
+
+  - id: story-d14
+    type: dialogue
+    section: story
+    speaker: ವೈದ್ಯರು
+    text: ಆಗಬಹುದು, ಹೋಗಿ ಬನ್ನಿ.
+
+  - id: story-n2
+    type: prose
+    section: story
+    text: (ಮಕ್ಕಳೆಲ್ಲರೂ ನದಿಯ ಹತ್ತಿರ ಬರುತ್ತಾರೆ. ನದಿಯ ದಡದಲ್ಲಿ ನಿಂತು ನೋಡುತ್ತಾರೆ.)
+
+  - id: story-d15
+    type: dialogue
+    section: story
+    speaker: ಶಾಂತಲೆ
+    text: ಛೇ! ಎಂಥ ವಾಸನೆ! ಇಲ್ಲಿ ನಿಲ್ಲಲು ಆಗುತ್ತಿಲ್ಲ.
+
+  - id: story-d16
+    type: dialogue
+    section: story
+    speaker: ದೀಪಕ್
+    text: ಹೌದು, ಈ ನದಿಯ ನೀರು ಎಷ್ಟು ಕಲುಷಿತವಾಗಿದೆ.
+
+  - id: story-d17
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: (ಅಳುತ್ತಾ) ಮಕ್ಕಳೇ, ನೀವು ಹೇಳುತ್ತಿರುವುದು ನಿಜ.
+
+  - id: story-d18
+    type: dialogue
+    section: story
+    speaker: ದಿಲೀಪ್
+    text: (ಆಶ್ಚರ್ಯದಿಂದ) ಯಾರು ಮಾತನಾಡುತ್ತಿರುವುದು?
+
+  - id: story-d19
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: ನಾನೇ ನದಿ ಮಾತನಾಡುತ್ತಿರುವುದು.
+
+  - id: story-d20
+    type: dialogue
+    section: story
+    speaker: ರಮ್ಯ
+    text: ಅಯ್ಯೋ ನದಿಯೇ, ನೀನೇಕೆ ಅಳುತ್ತಿದ್ದೀಯೆ? ನಿನಗೇನಾಗಿದೆ?
+
+  - id: story-d21
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: ನನ್ನ ಅಳಲನ್ನು ಯಾರ ಬಳಿ ಹೇಳಿಕೊಳ್ಳಲಿ? ನನ್ನ ಈ ದುಸ್ಥಿತಿಗೆ ಮನುಷ್ಯರೇ ಕಾರಣ.
+
+  - id: story-d22
+    type: dialogue
+    section: story
+    speaker: ದಿಲೀಪ್
+    text: ಮನುಷ್ಯರು ನಿನಗೇನು ಮಾಡಿದರು?
+
+  - id: story-d23
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: ಹಿಂದೆ ನಾನು ಎಷ್ಟು ಶುದ್ಧವಾಗಿದ್ದೆ ಗೊತ್ತೆ? ನನ್ನ ನೀರು ಗಾಜಿನಂತೆ ಸ್ವಚ್ಛವಾಗಿತ್ತು. ನನ್ನ ಒಡಲಲ್ಲಿ ಜಲಚರಗಳು ನಿರ್ಭಯವಾಗಿ ಜೀವಿಸುತ್ತಿದ್ದವು. ಪ್ರಾಣಿ, ಪಕ್ಷಿಗಳು, ಮನುಷ್ಯರು ನನ್ನ ನೀರನ್ನು ಕುಡಿದು ಸಂತೋಷದಿಂದ ಬದುಕುತ್ತಿದ್ದರು. ಆದರೆ, ಈಗ ನನ್ನ ನೀರು ವಿಷವಾಗಿದೆ.
+
+  - id: story-d24
+    type: dialogue
+    section: story
+    speaker: ಶಾಂತಲೆ
+    text: ನಿನ್ನ ನೀರು ವಿಷವಾಗಲು ಕಾರಣವೇನು?
+
+  - id: story-d25
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: ಕಾರ್ಖಾನೆಗಳಿಂದ ಹೊರಬರುವ ರಾಸಾಯನಿಕ ವಸ್ತುಗಳು, ಊರಿನ ಚರಂಡಿ ನೀರು, ಕಸಕಡ್ಡಿ, ಪ್ಲಾಸ್ಟಿಕ್ ಎಲ್ಲವೂ ನನ್ನ ಒಡಲು ಸೇರುತ್ತಿವೆ. ಇದರಿಂದ ನನ್ನ ನೀರು ಕಲುಷಿತಗೊಂಡು ವಿಷವಾಗಿದೆ.
+
+  - id: story-d26
+    type: dialogue
+    section: story
+    speaker: ದೀಪಕ್
+    text: ಹೌದು, ನಿನ್ನ ನೀರನ್ನು ಕುಡಿದು ಎಷ್ಟೋ ಪ್ರಾಣಿ ಪಕ್ಷಿಗಳು ಸತ್ತಿವೆ. ನಮ್ಮ ಗೆಳೆಯರು ನಿನ್ನ ನೀರಿನಲ್ಲಿ ಈಜಿದ್ದರಿಂದಲೇ ಆಸ್ಪತ್ರೆ ಸೇರಿದ್ದಾರೆ.
+
+  - id: story-d27
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: (ದುಃಖದಿಂದ) ನನ್ನಿಂದ ಯಾರಿಗೂ ತೊಂದರೆಯಾಗಬಾರದು ಎಂಬುದು ನನ್ನ ಆಸೆ. ಆದರೆ, ಮನುಷ್ಯರು ನನ್ನನ್ನು ಹಾಳುಮಾಡುತ್ತಿದ್ದಾರೆ.
+
+  - id: story-d28
+    type: dialogue
+    section: story
+    speaker: ಕಲಾವತಿ
+    text: ನದಿಯೇ, ಅಳಬೇಡ. ನಿನ್ನನ್ನು ರಕ್ಷಿಸುವ ಜವಾಬ್ದಾರಿ ನಮ್ಮದು. ನಾವು ಇನ್ನು ಮುಂದೆ ನಿನ್ನನ್ನು ಕಲುಷಿತಗೊಳಿಸುವುದಿಲ್ಲ.
+
+  - id: story-d29
+    type: dialogue
+    section: story
+    speaker: ನದಿ
+    text: (ಸಂತೋಷದಿಂದ) ಮಕ್ಕಳೇ, ನಿಮ್ಮ ಮಾತು ಕೇಳಿ ನನಗೆ ತುಂಬಾ ಸಂತೋಷವಾಯಿತು. ನೀವು ಹೇಳಿದಂತೆ ನಡೆದರೆ ನನ್ನ ಬದುಕು ಸಾರ್ಥಕವಾಗುತ್ತದೆ.
+
+  - id: story-d30
+    type: dialogue
+    section: story
+    speaker: ಎಲ್ಲರೂ
+    text: ಖಂಡಿತವಾಗಿಯೂ ನಾವು ನಿನ್ನನ್ನು ರಕ್ಷಿಸುತ್ತೇವೆ.
+
+  - id: vocab-alal
+    type: vocabulary_term
+    text: ಅಳಲು
+
+  - id: vocab-alal-def
+    type: vocabulary_definition
+    text: ದುಃಖ, ಸಂಕಟ
+
+  - id: vocab-anahutha
+    type: vocabulary_term
+    text: ಅನಾಹುತ
+
+  - id: vocab-anahutha-def
+    type: vocabulary_definition
+    text: ಆಪತ್ತು, ತೊಂದರೆ
+
+  - id: vocab-kalushita
+    type: vocabulary_term
+    text: ಕಲುಷಿತ
+
+  - id: vocab-kalushita-def
+    type: vocabulary_definition
+    text: ಮಲಿನ, ಹೊಲಸು
+
+  - id: vocab-jalachara
+    type: vocabulary_term
+    text: ಜಲಚರ
+
+  - id: vocab-jalachara-def
+    type: vocabulary_definition
+    text: ನೀರಿನಲ್ಲಿ ವಾಸಿಸುವ ಪ್ರಾಣಿಗಳು
+
+  - id: vocab-tavaka
+    type: vocabulary_term
+    text: ತವಕ
+
+  - id: vocab-tavaka-def
+    type: vocabulary_definition
+    text: ಆತುರ, ಅವಸರ
+
+  - id: vocab-dusthiti
+    type: vocabulary_term
+    text: ದುಸ್ಥಿತಿ
+
+  - id: vocab-dusthiti-def
+    type: vocabulary_definition
+    text: ಕೆಟ್ಟ ಸ್ಥಿತಿ
+
+  - id: vocab-nirbhaya
+    type: vocabulary_term
+    text: ನಿರ್ಭಯ
+
+  - id: vocab-nirbhaya-def
+    type: vocabulary_definition
+    text: ಭಯವಿಲ್ಲದೆ
+
+  - id: vocab-murche
+    type: vocabulary_term
+    text: ಮೂರ್ಛೆ
+
+  - id: vocab-murche-def
+    type: vocabulary_definition
+    text: ಪ್ರಜ್ಞೆತಪ್ಪು, ಎಚ್ಚರತಪ್ಪು
+
+  - id: vocab-rasayanika
+    type: vocabulary_term
+    text: ರಾಸಾಯನಿಕ
+
+  - id: vocab-rasayanika-def
+    type: vocabulary_definition
+    text: ರಸಾಯನಶಾಸ್ತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ
+
+  - id: vocab-sanchakara
+    type: vocabulary_term
+    text: ಸಂಚಕಾರ
+
+  - id: vocab-sanchakara-def
+    type: vocabulary_definition
+    text: ಕೇಡು, ನಾಶ
+
+  - id: vocab-sahapathi
+    type: vocabulary_term
+    text: ಸಹಪಾಠಿ
+
+  - id: vocab-sahapathi-def
+    type: vocabulary_definition
+    text: ಜೊತೆಯಲ್ಲಿ ಓದುವವನು
+
+  - id: vocab-sonku
+    type: vocabulary_term
+    text: ಸೋಂಕು
+
+  - id: vocab-sonku-def
+    type: vocabulary_definition
+    text: ಅಂಟು, ತಗುಲು
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಮಕ್ಕಳೆಲ್ಲರೂ ಆಸ್ಪತ್ರೆಗೆ ಏಕೆ ದಾಖಲಾಗಿದ್ದರು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಮಕ್ಕಳಿಗೆ ಯಾವ ಸೋಂಕು ತಗುಲಿತ್ತು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ನದಿಯ ನೀರು ಮಲಿನವಾಗಲು ಕಾರಣವೇನು?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ನದಿಯ ಒಡಲಿನಲ್ಲಿ ಯಾರು ನಿರ್ಭಯವಾಗಿ ಜೀವಿಸುತ್ತಿದ್ದರು?
+
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: ನದಿಯ ನೀರು ಯಾವುದರಿಂದ ಕಲುಷಿತಗೊಂಡು ವಿಷವಾಗಿದೆ?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ನದಿಯಲ್ಲಿ ಸ್ನಾನ ಮಾಡಿದ ಮಕ್ಕಳಿಗೆ ಏನಾಯಿತು?
+
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಹಿಂದೆ ನದಿ ಹೇಗಿತ್ತು?
+
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ನದಿಯು ತನ್ನ ದುಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಮಕ್ಕಳ ಬಳಿ ಏನೆಂದು ಹೇಳಿತು?
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: "ಅವರಿಗೆ ನದಿಯ ನೀರಿನ ಮಾಲಿನ್ಯದ ಸೋಂಕು ತಗುಲಿದೆ."
+
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: "ಛೇ! ಎಂಥ ವಾಸನೆ! ಇಲ್ಲಿ ನಿಲ್ಲಲು ಆಗುತ್ತಿಲ್ಲ."
+
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: "ನನ್ನ ಅಳಲನ್ನು ಯಾರ ಬಳಿ ಹೇಳಿಕೊಳ್ಳಲಿ?"
+
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: "೧. ನದಿ\n೨. ಆಸ್ಪತ್ರೆ\n೩. ನೀರು\n೪. ಕಾರ್ಖಾನೆ\n\nಅ. ಗುಳ್ಳೆ\nಆ. ರಾಸಾಯನಿಕ\nಇ. ಅಳಲು\nಈ. ವೈದ್ಯರು\nಉ. ಕಲುಷಿತ"
+
+  - id: ex-e-q1
+    type: fill_blank
+    exercise: E
+    text: ಎಂಥ __________ ನಡೆದುಹೋಯಿತು!
+
+  - id: ex-e-q2
+    type: fill_blank
+    exercise: E
+    text: ತುರಿಕೆ ತಡೆಯಲಾರದೆ __________ ಹೋಗಿದ್ದಾರೆ.
+
+  - id: ex-e-q3
+    type: fill_blank
+    exercise: E
+    text: ನನ್ನ ಈ ದುಸ್ಥಿತಿಗೆ __________ ಕಾರಣ.
+
+  - id: ex-e-q4
+    type: fill_blank
+    exercise: E
+    text: ನನ್ನ ನೀರು __________ ಸ್ವಚ್ಛವಾಗಿತ್ತು.
+
+  - id: ex-e-q5
+    type: fill_blank
+    exercise: E
+    text: ನಿನ್ನನ್ನು ರಕ್ಷಿಸುವ __________ ನಮ್ಮದು.
+
+  - id: grammar-p1
+    type: prose
+    section: grammar
+    text: "ಸಂಯುಕ್ತಾಕ್ಷರಗಳು (ಒತ್ತಕ್ಷರಗಳು)\nಎರಡು ಅಥವಾ ಎರಡಕ್ಕಿಂತ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳಿಗೆ ಒಂದು ಸ್ವರ ಸೇರಿ ಆಗುವ ಅಕ್ಷರವೇ ಸಂಯುಕ್ತಾಕ್ಷರ ಅಥವಾ ಒತ್ತಕ್ಷರ. (ವ್ಯಂಜನ + ವ್ಯಂಜನ + ಸ್ವರ = ಸಂಯುಕ್ತಾಕ್ಷರ)"
+
+  - id: grammar-p2
+    type: prose
+    section: grammar
+    text: ಸಂಯುಕ್ತಾಕ್ಷರಗಳಲ್ಲಿ ಎರಡು ವಿಭಾಗಗಳಿವೆ. 1) ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು 2) ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು
+
+  - id: grammar-p3
+    type: prose
+    section: grammar
+    text: 'ಒಂದೇ ಜಾತಿಯ ಎರಡು ವ್ಯಂಜನಗಳು (ಸ್ವರದ ಸಹಾಯದಿಂದ) ಒಂದಕ್ಕೊಂದು ಸೇರಿದರೆ ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳಾಗುವುವು. ಉದಾ :- ಅ + ಕ್ + ಕ್ + ಅ = ಅಕ್ಕ. ಇಲ್ಲಿ ಕ್ + ಕ್ (+ಅ) ಇವು ಸಜಾತೀಯ ವ್ಯಂಜನಗಳಾಗಿದ್ದು, ಇವು ಒಂದಕ್ಕೊಂದು ಕೂಡಿ ‘ಕ್ಕ’ ಎಂಬ ಸಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರವಾಗಿದೆ. ಉದಾ :- ಅಪ್ಪ, ಅಮ್ಮ, ಅಣ್ಣ, ಅಕ್ಕರ, ಅಕ್ಕಪಕ್ಕ, ರಕ್ಕಸ ಇತ್ಯಾದಿ.'
+
+  - id: grammar-p4
+    type: prose
+    section: grammar
+    text: 'ಬೇರೆ ಬೇರೆ ಜಾತಿಯ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳು (ಸ್ವರದ ಸಹಾಯದಿಂದ) ಒಂದಕ್ಕೊಂದು ಕೂಡಿಕೊಂಡು ಉಂಟಾಗುವ ಅಕ್ಷರವು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ವೆನಿಸುವುದು. ಉದಾ : ಭ್ + ಅ + ಕ್ + ತ್ + ಅ = ಭಕ್ತ. ಇಲ್ಲಿ ಕ್ + ತ್ (+ ಅ).ಇವು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರ ವ್ಯಂಜನಗಳಾಗಿದ್ದು, ಇವೆರಡು ಕೂಡಿ ‘ಕ್ತ’ ಎಂಬ ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರವಾಗಿದೆ. ಉದಾ:- ಚಕ್ರ, ಆಜ್ಞೆ, ಸ್ತ್ರೀ, ವಸ್ತ್ರ ಇತ್ಯಾದಿ.'
+
+  - id: grammar-a-q1
+    type: question
+    exercise: grammar-A
+    text: 1. ಸಂಯುಕ್ತಾಕ್ಷರಗಳು ಎಂದರೇನು ?
+
+  - id: grammar-a-q2
+    type: question
+    exercise: grammar-A
+    text: 2. ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನು ಸಜಾತೀಯ, ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನಾಗಿ ವಿಂಗಡಿಸಿ ಬರೆಯಿರಿ. ಕ್ಕ, ಪ್ತ, ಸ್ವ, ರ್ರ, ಜ್ಜ, ಸ್ವ, ಸ್ಥ, ರ್ಯ, ಡ್ಗ, ಮ್ಮ
+
+  - id: grammar-a-q3
+    type: question
+    exercise: grammar-A
+    text: 3. ಐದು ಸಜಾತೀಯ ಹಾಗೂ ಐದು ವಿಜಾತೀಯ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ಶಬ್ದಗಳನ್ನು ಬರೆಯಿರಿ.
+
+  - id: lang-ex-a-q1
+    type: question
+    exercise: language-exercise-A
+    text: 1. ನದಿಗಳ ಮಾಲಿನ್ಯವನ್ನು ತಡೆಗಟ್ಟುವ ಅಂಶಗಳನ್ನು ಪಟ್ಟಿಮಾಡಿ ಬರೆಯಿರಿ.
+
+  - id: lang-ex-b-q1
+    type: question
+    exercise: language-exercise-B
+    text: 1. ನದಿಗಳ ಮಾಲಿನ್ಯ ಯಾವ ಕಾರಣಗಳಿಂದಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ಓದಿ ತಿಳಿಯಿರಿ ಹಾಗೂ ಹಿರಿಯರಿಂದ ಕೇಳಿ ತಿಳಿಯಿರಿ.
+
+  - id: lang-ex-b-q2
+    type: question
+    exercise: language-exercise-B
+    text: 2. ದಿನಪತ್ರಿಕೆಯಲ್ಲಿ ಬರುವ ನದಿಗಳ ಮಾಲಿನ್ಯ ಕುರಿತಾದ ಲೇಖನಗಳನ್ನು ಓದಿ ತಿಳಿಯಿರಿ ಹಾಗೂ ನಿಮ್ಮ ಸಹಪಾಠಿಗಳೊಂದಿಗೆ ಚರ್ಚಿಸಿರಿ.
+
+  - id: lang-ex-c-q1
+    type: question
+    exercise: language-exercise-C
+    text: 1. ಮಾಲಿನ್ಯರಹಿತ ನದಿ ಮನುಕುಲದ ಭದ್ರತೆಗೆ ಬುನಾದಿ.
+
+  - id: lang-ex-c-q2
+    type: question
+    exercise: language-exercise-C
+    text: 2. ಅಶುದ್ಧ ನೀರು ಅನಾರೋಗ್ಯಕ್ಕೆ ಆಹ್ವಾನ.
+
+  - id: lang-ex-c-q3
+    type: question
+    exercise: language-exercise-C
+    text: 3. ನೀರಿನಿಂದ ಉಸಿರು ನೀರಿನಿಂದ ಹಸಿರು.

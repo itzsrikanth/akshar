@@ -1,0 +1,87 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: padya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: 'a) padyada mundina sālugaḷannu hēḷi:'
+  exercise-B: "ā) ī praśnegaḷige ondu padadalli uttara bareyiri:"
+  exercise-C: "i) āvaraṇadalli iruva padagaḷalli sūkta pada ārisi khāli biṭṭa sthaḷadalli bareyiri:"
+  exercise-D: "ī) ī prāsa padagaḷannu hēḷu:"
+  title: baṇṇada hakki
+
+poem-s1l1: bārale hakki baṇṇada hakki
+poem-s1l2: bārale hakki hāruva hakki
+poem-s1l3: geḷeyaru āḍalu yārū illa
+poem-s1l4: kaḷeyuvudentu vēḷeyanella
+
+poem-s2l1: bā bā nanagū hāḍalu kalisu
+poem-s2l2: bā bā nanagū hāralu kalisu
+poem-s2l3: avvanu nīrige hōgihaḷu
+poem-s2l4: appanu pēṭege hōgihanu
+
+poem-s3l1: avvanu barali appanu barali
+poem-s3l2: tinnalu haṇṇanu koḍisuvenu
+poem-s3l3: nanagū eraḍu rekkeya haccu
+poem-s3l4: hiṅgaḍe baṇṇada puccava cuccu
+
+poem-s4l1: nettiya mēle juṭṭanu haccu
+poem-s4l2: mellane mēle hāralu haccu
+poem-s4l3: nānu nīnū ibbaru kūḍi
+poem-s4l4: mugilina kaḍege hāruva bā
+
+poem-s5l1: allinditta illindatta
+poem-s5l2: hāruta hāḍuta naliyuva bā
+
+vocab-hakki: hakki
+vocab-avva: avva
+vocab-appa: appa
+vocab-hannu: haṇṇu
+vocab-rekke: rekke
+vocab-vele: vēḷe
+vocab-netti: netti
+vocab-haaruva: hāruva
+vocab-pucchava: puccava
+vocab-haadalu: hāḍalu
+vocab-ibbaru: ibbaru
+vocab-hogihalu: hōgihaḷu
+vocab-hogihanu: hōgihanu
+vocab-allinditta: allinditta
+vocab-illindatta: illindatta
+vocab-mugilina: mugilina
+vocab-naliyuva: naliyuva
+
+note-vele: vēḷe
+note-vele-def: kāla, samaya
+note-haccu: haccu
+note-haccu-def: sērisu, aṇṭisu
+note-puccha: pucca
+note-puccha-def: hakkiya gari / pukka
+note-netti: netti
+note-netti-def: taleya madhyabhāga
+note-hingade: hiṅgaḍe
+note-hingade-def: hinde
+
+ex-a-q1: geḷeyaru āḍalu yārū illa
+ex-a-q2: avvanu barali appanu barali
+ex-a-q3: nanagū eraḍu rekkeya haccu
+ex-a-q4: nānu nīnū ibbaru kūḍi
+
+ex-b-q1: magu yāva hakkiyannu kareyuttide?
+ex-b-q2: avva ellige hōgihaḷu?
+ex-b-q3: magu tinnalu ēnannu koḍisuvenu enditu?
+ex-b-q4: magu ibbaru kūḍi yāva kaḍege hāruva bā endu kareyitu?
+
+ex-c-q1: bā bā nanagū _____ kalisu.
+ex-c-q2: appanu _____ hōgihanu.
+ex-c-q3: nanagū eraḍu rekkeya _____
+ex-c-q4: nettiya mēle _____ haccu.
+ex-c-q5: mugilina kaḍege _____ bā.
+
+ex-d-q1: hāḍalu - hāralu
+ex-d-q2: haccu - cuccu
+ex-d-q3: allinditta - illindatta

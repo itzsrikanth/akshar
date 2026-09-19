@@ -1,0 +1,74 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: gadya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: 'a) ī praśnegaḷige ondu vākyadalli uttara bareyiri:'
+  exercise-B: 'ā) āvaraṇadalliruva sūkta padavannu ārisi biṭṭa sthaḷadalli bareyiri:'
+  exercise-C: i) ī mātugaḷannu yāru yārige hēḷidaru?
+  exercise-D: 'ī) sāku prāṇigaḷa hesarannu bareyiri :'
+  exercise-E: u) ī bhitti patravannu ōdi.
+  title: arivē guru
+
+prose-p1: ondu daṭṭavāda kāḍu. alli nari mattu adara mari āhārakkāgi aledavu. ādare ēnū sigalilla. tiruguttā tiruguttā kāḍininda horabandavu. avugaḷige dūradalli tōṭada maneyondu kāṇisitu. kokko, kokko, kokko emba saddu saha kēḷisitu. avu dhvaniyannu anusarisikoṇḍu hōdavu. kōḷigaḷu tōṭada bēli sālinalli mēvu ārisuttiddavu.
+prose-p2: kōḷigaḷannu kaṇḍu nariya mari manadallē higgitu. ā santōṣadalli `ammā.. eṣṭondu kōḷigaḷu!' ennuttā ā kaḍege nuggitu. bēli ancinallidda baleyalli nariya mari sikki hākikoṇḍitu. gābariyinda adu kirucikoḷḷatoḍagitu. nari tanna mariyannu biḍisikoḷḷalu hattira banditu. aṣṭaralli tōṭada oḷagininda raitanu baruvudu kaṇḍitu. bhayadinda hinde sariyitu. mariyannu uḷisalu samaya sādhisi svalpa dūradalli kuḷitittu. ādare janara ōḍāṭa heccādudarinda anivāryavāgi allinda adu jāga khāli māḍitu.
+prose-p3: tāyi narige tanna mariyannu agali iralāgalilla. marudina hēgādaru māḍi mariyannu biḍisikoṇḍu barabēkendu tōṭakke banditu. sanjeyavarege kādu kuḷitittu. ādare tanna mariya suḷivē kāṇalilla. duḥkhadinda tōṭada bēli sutta tirugitu. allondu kaṇḍi ittu. adaroḷage upāyavāgi nusuḷi tōṭada oḷage bandu huḍukitu. tanna mariya suḷivu allū sigalilla. ādare maneya pakkadalli kōḷigaḷu aḍagi kuḷitiddavu. hasididda narige kōḷigaḷannu kaṇḍu āse mūḍitu. sulabhavāgi dorakida āhāra biḍalu adakke manassāgalilla. mellane kōḷi hiḍiyalu tevaḷitu. ādare alli oḍḍidda balege tānū sikkikoṇḍitu.
+prose-p4: narige raitana jāṇatana arivige banditu. tanna tappige nari saṅkaṭa paḍatoḍagitu. aṣṭaralli allē jigidāḍuttidda iligaḷannu kaṇḍitu. narige takṣaṇa upāyavondu hoḷeyitu. mellane iligaḷannu hattira karedu “nimma hallugaḷu balahīnavāgiveyallave?” enditu. iligaḷu ''illa nariyaṇṇā, namma hallugaḷu gaṭṭiyāgiyē ive” endavu. adakke nariyu “hāgādare ī baleyannu kattarisi nōḍōṇa” enditu. iligaḷu kṣaṇadalli ā baleyannu hallugaḷinda kattarisi hākidavu.
+prose-p5: nari baleyinda hora banditu. āga nariyu “iligaḷirā, nimma hallugaḷu gaṭṭiyāgiyē ive, nānu raita oḍḍidda baleyalli sikkikoṇḍiddenu. nīvu nannannu pāru māḍidiri. nimage dhanyavādagaḷu” endu hēḷitu.
+prose-p6: iligaḷu nariya jāṇatanavannu hogaḷidavu. āga nariyu iligaḷannu kuritu “raitana balege sikki hākikoṇḍa nanna kandanannu pāru māḍalendu bande. ādare kōḷiya āseyinda nānū ī balege sikkihākikoṇḍe. nīvu nanage upakāra māḍidiri. ādare nanna kanda mātra sigalilla” endu duḥkhadinda hēḷitu. āga iligaḷu raita bacciṭṭidda nariya mariyannu tāyinarige tōrisidavu. tanna mariyannu nōḍi tāyinarige ānandavāyitu. avu mattomme iligaḷige dhanyavāda hēḷidavu. santōṣadinda kāḍinatta ōḍihōdavu.
+
+vocab-dhvani: dhvani
+vocab-saddu: saddu
+vocab-tota: tōṭa
+vocab-koli: kōḷi
+vocab-beli: bēli
+vocab-svalpa: svalpa
+vocab-bale: bale
+vocab-aahara: āhāra
+vocab-higgitthu: higgitu
+vocab-nuggittu: nuggitu
+vocab-aathanka: ātaṅka
+vocab-hattira: hattira
+vocab-sulivu: suḷivu
+vocab-upaya: upāya
+vocab-adagi: aḍagi
+vocab-anivarya: anivārya
+vocab-jigidaadu: jigidāḍu
+vocab-balaheena: balahīna
+
+note-saddu: saddu
+note-saddu-def: śabda, gaddala
+note-mevu: mēvu
+note-mevu-def: āhāra
+note-anivarya: anivārya
+note-anivarya-def: tappisalāgada
+note-apaya: apāya
+note-apaya-def: kēḍu, hāni, tondare
+note-tochade: tōcade
+note-tochade-def: dikku kāṇade
+note-sameepa: samīpa
+note-sameepa-def: hattira
+note-kandi: kaṇḍi
+note-kandi-def: randhra, tūtu
+
+ex-a-q1: kāḍinalli āhāra huḍukuttā yāru bandaru?
+ex-a-q2: narige tōṭada kaḍeyinda yāva saddu kēḷitu?
+ex-a-q3: nariya mari elli sikkikoṇḍitu?
+ex-a-q4: nariyu baleyinda tappisikoḷḷalu sahāya māḍidavaru yāru?
+
+ex-b-q1: narige dūradalli tōṭada................................. kāṇisitu. (koḷavondu, guheyondu, maneyondu)
+ex-b-q2: samaya sādhisi svalpa dūradalli ................................. (malagittu, nintittu, kuḷitittu)
+ex-b-q3: kōḷigaḷannu kaṇḍu nariya mariyu manadallē ................................. (kuggitu, ōḍitu, higgitu,)
+
+ex-c-q1: “ammā, eṣṭondu kōḷigaḷu!”
+ex-c-q2: “nimma hallugaḷu balahīnavāgiveyallave?”
+ex-c-q3: “namma hallugaḷu gaṭṭiyāgiyē ive”.
+
+ex-d-q1: 'sāku prāṇigaḷa hesarannu bareyiri :'
+
+ex-e-q1: karnāṭaka sarkāra ārōgya mattu kuṭumba kalyāṇa ilākhe ērpaḍisiruva pals pōliyō lasike hākuva kāryakrama aidu varṣadavaregina ellā makkaḷigū pōliyō hani hākisi, nimma makkaḷannu pōliyō rōgadinda muktagoḷisi. banni, ī kāryakramakke nāvellarū sahakarisōṇa.

@@ -73,11 +73,18 @@ def main() -> int:
         if not payload.get("segments"):
             fail(f"no segments in {relative}")
 
-    # Held chapters must 404 / be absent
+    # Held chapters must 404 / be absent from their own book payload paths
     holds = load_json(REPO_ROOT / "api-publication-holds.json")
     for entry in holds.get("chapters") or []:
-        cid = Path(entry["path"]).name
-        payload = REPO_ROOT / "api" / "v2" / "books" / BOOK_ID / "editions" / EDITION_ID / "chapters" / f"{cid}.json"
+        parts = Path(entry["path"]).parts
+        if len(parts) == 7 and parts[0:2] == ("content", "books"):
+            book_id, edition_id, cid = parts[2], parts[4], parts[6]
+            payload = (
+                REPO_ROOT / "api" / "v2" / "books" / book_id / "editions" / edition_id / "chapters" / f"{cid}.json"
+            )
+        else:
+            cid = Path(entry["path"]).name
+            payload = REPO_ROOT / "api" / "v2" / "books" / BOOK_ID / "editions" / EDITION_ID / "chapters" / f"{cid}.json"
         if payload.exists():
             fail(f"held payload present: {payload.relative_to(REPO_ROOT)}")
 

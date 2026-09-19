@@ -1,0 +1,75 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: Prose
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: 'A) Answer these questions in one sentence:'
+  exercise-B: 'B) Choose the appropriate word from the brackets and write in the blank space:'
+  exercise-C: C) Who said these words to whom?
+  exercise-D: 'D) Write the names of domestic animals:'
+  exercise-E: E) Read this poster.
+  title: Awareness is the Teacher
+
+prose-p1: A dense forest. There a fox and its cub wandered for food. But they didn't get anything. Wandering and wandering, they came out of the forest. They saw a farm house in the distance. They also heard a "Kokko, kokko, kokko" sound. They followed the sound. Chickens were pecking at feed along the farm fence.
+prose-p2: Seeing the chickens, the fox cub rejoiced in its mind. In that happiness, saying "Mother.. so many chickens!", it rushed towards that side. The fox cub got caught in the net at the edge of the fence. Out of fear, it started screaming. The fox came near to free its cub. Just then, it saw the farmer coming from inside the farm. Out of fear, it moved back. Biding its time to save the cub, it sat a little distance away. But because people's movement increased, it inevitably vacated the place from there.
+prose-p3: The mother fox could not bear to be separated from its cub. The next day, it came to the farm thinking it must somehow free the cub and bring it back. It waited until evening. But there was no sign of its cub. With grief, it roamed around the farm fence. There was a small hole there. It cleverly squeezed through it and came inside the farm and searched. There was no sign of its cub there either. But the chickens were hiding next to the house. The hungry fox felt greedy seeing the chickens. It didn't feel like leaving the easily available food. It crawled slowly to catch a chicken. But it itself got caught in the net spread there.
+prose-p4: The fox realized the farmer's cleverness. The fox started feeling distressed for its mistake. Just then, it saw mice jumping around there. A trick suddenly struck the fox. Calling the mice near slowly, it said, "Your teeth are weak, aren't they?". The mice said, "No brother fox, our teeth are indeed strong." To that, the fox said, "Then let's cut this net and see." The mice cut the net with their teeth in a moment.
+prose-p5: The fox came out of the net. Then the fox said, "Mice, your teeth are indeed strong, I was caught in the net spread by the farmer. You saved me. Thank you."
+prose-p6: The mice praised the fox's cleverness. Then the fox said to the mice with grief, "I came to save my child who got caught in the farmer's net. But out of greed for the chicken, I too got caught in this net. You did me a favor. But I just didn't find my child." Then the mice showed the mother fox her cub that the farmer had hidden. The mother fox was overjoyed to see her cub. They thanked the mice once again. They happily ran towards the forest.
+
+vocab-dhvani: sound
+vocab-saddu: noise
+vocab-tota: farm / garden
+vocab-koli: chicken
+vocab-beli: fence
+vocab-svalpa: a little
+vocab-bale: net
+vocab-aahara: food
+vocab-higgitthu: rejoiced
+vocab-nuggittu: rushed in
+vocab-aathanka: anxiety
+vocab-hattira: near
+vocab-sulivu: clue / sign
+vocab-upaya: idea / trick
+vocab-adagi: hiding
+vocab-anivarya: inevitable
+vocab-jigidaadu: jumping around
+vocab-balaheena: weak
+
+note-saddu: noise
+note-saddu-def: sound, noise
+note-mevu: feed
+note-mevu-def: food
+note-anivarya: inevitable
+note-anivarya-def: unavoidable
+note-apaya: danger
+note-apaya-def: harm, damage, trouble
+note-tochade: without a clue
+note-tochade-def: without seeing a way
+note-sameepa: near
+note-sameepa-def: close by
+note-kandi: hole
+note-kandi-def: hole, opening
+
+ex-a-q1: Who came wandering in the forest searching for food?
+ex-a-q2: What sound did the fox hear from the farm side?
+ex-a-q3: Where did the fox cub get caught?
+ex-a-q4: Who helped the fox to escape from the net?
+
+ex-b-q1: The fox saw a farm _____ in the distance. (pond, cave, house)
+ex-b-q2: Biding its time, it _____ a little distance away. (slept, stood, sat)
+ex-b-q3: Seeing the chickens, the fox cub _____ in its mind. (shrank, ran, rejoiced)
+
+ex-c-q1: "Mother, so many chickens!"
+ex-c-q2: "Your teeth are weak, aren't they?"
+ex-c-q3: "Our teeth are indeed strong."
+
+ex-d-q1: 'Write the names of domestic animals:'
+
+ex-e-q1: Pulse Polio vaccination program organized by Government of Karnataka, Department of Health and Family Welfare. Give Polio drops to all children up to five years of age and make your children free from Polio disease. Come, let us all cooperate in this program.

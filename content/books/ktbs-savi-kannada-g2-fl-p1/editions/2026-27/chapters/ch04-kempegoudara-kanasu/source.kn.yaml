@@ -1,0 +1,258 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 4
+  slug: ch04-kempegoudara-kanasu
+  title: ಕೆಂಪೇಗೌಡರ ಕನಸು
+  source_url: 'https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf'
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  prose: ಗದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: 'ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಹೇಳಿ:'
+  exercise-B: 'ಆ) ಈ ಕೆಳಗಿನ ವಾಕ್ಯಗಳು ಸರಿ ಅಥವಾ ತಪ್ಪು ಎಂಬುದನ್ನು ಗುರುತಿಸಿ:'
+  exercise-C: 'ಇ) ಖಾಲಿ ಬಿಟ್ಟಿರುವ ಜಾಗಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ತುಂಬಿ:'
+  exercise-D: 'ಈ) ಕೆಳಗೆ ಕೊಟ್ಟಿರುವ ಒತ್ತಕ್ಷರ ಪದಗಳನ್ನು ಓದಿ ನಕಲು ಮಾಡಿ:'
+  exercise-E: 'ಉ) ಮಾದರಿಯಂತೆ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಬರೆಯಿರಿ:'
+  exercise-F: 'ಊ) ಚೌಕಗಳಲ್ಲಿ ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಿ ಅರ್ಥಬರುವ ಒತ್ತಕ್ಷರ ಪದಗಳನ್ನು ರಚಿಸಿ:'
+  exercise-G: 'ಋ) ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳನ್ನು ದುಂಡಾಗಿ ನಕಲು ಮಾಡಿ:'
+
+segments:
+  - id: prose-p1
+    type: prose
+    text: ಬೆಂಗಳೂರು ಭಾರತ ದೇಶದ ಸುಂದರ ನಗರಗಳಲ್ಲಿ ಒಂದು. ಅದು ಈಗ ಕರ್ನಾಟಕ ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾಗಿದೆ. ಸುಮಾರು ನಾಲ್ಕನೂರು ವರ್ಷಗಳ ಹಿಂದೆ ಈಗಿನ ಬೆಂಗಳೂರು ನಗರವು ಇರುವ ಸ್ಥಳದಲ್ಲಿ ಒಂದು ಕಾಡು ಇತ್ತು. ಆ ಕಾಡಿನ ಉತ್ತರಕ್ಕೆ ತುಸು ದೂರದಲ್ಲಿ ಬೆಂಗಳೂರು ಎಂಬ ಒಂದು ಚಿಕ್ಕ ಹಳ್ಳಿಯಿತ್ತು. ಕಾಡಿನ ದಕ್ಷಿಣಕ್ಕೆ ಶಿವಸಮುದ್ರವೆಂಬ ಹಳ್ಳಿಯಿತ್ತು. ಇವೆರಡು ಹಳ್ಳಿಗಳ ನಡುವಿದ್ದ ಕಾಡಿನಲ್ಲಿ ಬೆಂಗಳೂರು ಹುಟ್ಟಿತು. ಅದನ್ನು ಕೆಂಪೇಗೌಡರೆಂಬ ದೊರೆಗಳು ಸಾಮಾನ್ಯ ಶಕ 1537ರಲ್ಲಿ ಕಟ್ಟಿಸಿದರು. ಅದನ್ನು ತನ್ನ ರಾಜಧಾನಿಯಾಗಿ ಮಾಡಿಕೊಂಡು ಆಳಿದರು.
+  - id: prose-p2
+    type: prose
+    text: ಕೆಂಪೇಗೌಡರು ಯಲಹಂಕ ನಾಡಿನ ದೊರೆ. ಆಗ ಯಲಹಂಕನಾಡು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಒಂದು ಭಾಗವಾಗಿತ್ತು. ಈಗಿನ ಬೆಂಗಳೂರಿನ ಉತ್ತರಕ್ಕಿರುವ ಯಲಹಂಕ ಎಂಬ ಊರೇ ಕೆಂಪೇಗೌಡರ ಮೊದಲಿನ ರಾಜಧಾನಿಯಾಗಿತ್ತು. ಕೆಂಪೇಗೌಡರು ಶೂರರೂ ದಯಾಳುವೂ ದೇವರಲ್ಲಿ ಭಕ್ತಿಯುಳ್ಳವರೂ ಆಗಿದ್ದರು. ಪ್ರಜೆಗಳನ್ನು ತನ್ನ ಮಕ್ಕಳಂತೆ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ಪ್ರಜೆಗಳೂ ಅವರನ್ನು ತಂದೆಯಂತೆ ಗೌರವಿಸುತ್ತಿದ್ದರು.
+  - id: prose-p3
+    type: prose
+    text: ಒಂದು ದಿನ ಕೆಂಪೇಗೌಡರಿಗೆ ಒಂದು ಕನಸು ಬಿತ್ತು. ಕನಸಿನಲ್ಲಿ ಒಬ್ಬ ದೇವಿಯು ಬಂದು ಶಿವಸಮುದ್ರದ ಬಳಿಯ ಕಾಡಿನಲ್ಲಿ ಕಾಣದಾದಳು. ಕೆಂಪೇಗೌಡರಿಗೆ ಆ ಕನಸಿನ ಅರ್ಥ ತಿಳಿಯಲಿಲ್ಲ. ಮತ್ತೆ ಮತ್ತೆ ಅದೇ ಕನಸು ಬಿತ್ತು. ಕೆಂಪೇಗೌಡರಿಗೆ ಆಶ್ಚರ್ಯವಾಯಿತು. ಅವರು ದೈವಭಕ್ತರು. ದೇವಿಯ ಅಪ್ಪಣೆ ಏನಿರಬೇಕೆಂದು ತಿಳಿಯಬಯಸಿದರು. ಮರುದಿನ ತನ್ನ ಮಂತ್ರಿಗಳನ್ನೂ ಗುರುಹಿರಿಯರನ್ನೂ ಕರೆಯಿಸಿಕೊಂಡರು. ತನ್ನ ಕನಸನ್ನು ಅವರಿಗೆ ತಿಳಿಸಿದರು. ಅದು ಒಳ್ಳೆಯ ಕನಸೆಂದು ಮಂತ್ರಿಗಳೂ ಗುರುಹಿರಿಯರೂ ಹೇಳಿದರು. ಕನಸಿನಲ್ಲಿ ದೇವಿಯು ಕಾಣಿಸಿಕೊಂಡು ಮರೆಯಾದ ಕಾಡಿನಲ್ಲಿ ಒಂದು ನಗರವನ್ನು ಕಟ್ಟಬೇಕೆಂದು ತಿಳಿಸಿದರು. ಅದರಂತೆ ಕೆಂಪೇಗೌಡರು ಒಂದು ನಗರವನ್ನು ಕಟ್ಟಿಸಲು ನಿಶ್ಚಯಿಸಿದರು.
+  - id: prose-p4
+    type: prose
+    text: ಶಿವಸಮುದ್ರದ ಬಳಿಯಲ್ಲಿ ಸ್ಥಳವನ್ನು ಗುರುತು ಮಾಡಿಕೊಂಡರು. ದೇಶದ ನಾನಾ ಭಾಗಗಳಿಂದ ಶಿಲ್ಪಿಗಳನ್ನು ಕರೆಸಿದರು. ಹೊಸ ನಗರವನ್ನು ಕಟ್ಟಿಸಿದರು. ಹೊಸ ನಗರವು ಶಿವಸಮುದ್ರದ ಬಳಿ ಇದ್ದುದರಿಂದ ಶಿವಸಮುದ್ರವೆಂದು ಅದಕ್ಕೆ ಹೆಸರು ಇಡಬೇಕಾಗಿತ್ತು. ಆದರೆ ಕೆಂಪೇಗೌಡರಿಗೆ ಆ ಹೆಸರು ಒಪ್ಪಿಗೆಯಾಗಲಿಲ್ಲ. ಕೆಂಪೇಗೌಡರ ತಾಯಿ ಲಿಂಗಮಾಂಬೆಯವರ ತವರೂರಾದ ಬೆಂಗಳೂರು ಎಂಬ ಹಳ್ಳಿ ಸಮೀಪದಲ್ಲಿಯೇ ಇತ್ತು. ಕೆಂಪೇಗೌಡರ ಹೆಂಡತಿ ಚೆನ್ನಾಂಬೆ ಹಾಗೂ ಸೊಸೆ ಲಕ್ಷ್ಮಾಂಬೆಯರ ತವರೂರು ಬೆಂಗಳೂರು ಹಳ್ಳಿಯೇ. ತನ್ನ ತಾಯಿ, ಹೆಂಡತಿ ಹಾಗೂ ಸೊಸೆ ಇವರನ್ನು ಕೆಂಪೇಗೌಡರು ಬಹಳವಾಗಿ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು. ಅವರನ್ನು ಬಹು ಗೌರವದಿಂದ ಕಾಣುತ್ತಿದ್ದರು. ಆದುದರಿಂದ ಅವರ ಸವಿನೆನಪಿಗಾಗಿ ತಾನು ಕಟ್ಟಿಸಿದ ಹೊಸ ನಗರಕ್ಕೆ ಬೆಂಗಳೂರೆಂದು ಹೆಸರಿಟ್ಟರು.
+  - id: prose-p5
+    type: prose
+    text: ಬೆಂಗಳೂರು ನಗರವನ್ನು ಕಟ್ಟಿಸಿದ ಸುದ್ದಿಯು ಸುತ್ತಲೂ ಹರಡಿತು. ದೇಶದ ನಾನಾ ಭಾಗಗಳಿಂದ ಕಸಬುದಾರರು ಬಂದರು. ಕಸಬುಗಳು ಚೆನ್ನಾಗಿ ಬೆಳೆಯಲೆಂದು ಬೇರೆ ಬೇರೆ ಕಸಬುದಾರರಿಗೆ ಕೆಂಪೇಗೌಡರು ಬೇರೆ ಬೇರೆ ಕೇರಿಗಳನ್ನು ಕಟ್ಟಿಸಿಕೊಟ್ಟರು. ಕಸಬುದಾರರಿಂದ ಕೈಗಾರಿಕೆಗಳು ಬೆಳೆದವು. ಬೆಂಗಳೂರಿನ ಸಂಪತ್ತು ಹೆಚ್ಚಿತು. ಸಂಪತ್ತಿನೊಡನೆ ಪಟ್ಟಣವೂ ಬೆಳೆಯತೊಡಗಿತು. ಪಟ್ಟಣದ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ ನಾಲ್ಕು ಕಾವಲು ಗೋಪುರಗಳನ್ನು ಕಟ್ಟಿಸಿದರು. ಬೆಂಗಳೂರಲ್ಲಿ ಈ ಗೋಪುರಗಳನ್ನು ಈಗಲೂ ನೋಡಬಹುದು.
+  - id: prose-p6
+    type: prose
+    text: ಕೆಂಪೇಗೌಡರು ಅನೇಕ ಗುಡಿಗಳನ್ನೂ ಕೆರೆಗಳನ್ನೂ ಕಟ್ಟಿಸಿದರು. ಅವುಗಳಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿರುವ ದೊಡ್ಡ ಬಸವಣ್ಣನ ಗುಡಿ, ಗವಿ ಗಂಗಾಧರೇಶ್ವರ ಗುಡಿ ಮತ್ತು ಕೆಂಪಾಂಬುಧಿ ಕೆರೆ ಇವು ಮುಖ್ಯವಾದವು. ಕೆಂಪೇಗೌಡರ ದೈವಭಕ್ತಿ, ಪ್ರಜಾಪ್ರೇಮ, ಬುದ್ಧಿವಂತಿಕೆ ಇವುಗಳನ್ನು ವಿಜಯನಗರದ ಅರಸರಾಗಿದ್ದ ಅಚ್ಯುತರಾಯರು ಬಹಳ ಮೆಚ್ಚಿದರು. ಅಂದವಾದ ಬೆಂಗಳೂರು ನಗರದ ಸುದ್ದಿ ಕೇಳಿ ಅರಸರಿಗೆ ಬಹಳ ಸಂತೋಷವಾಯಿತು. ದಸರೆಯ ಉತ್ಸವಕ್ಕೆ ವಿಜಯನಗರದ ಮಹಾರಾಜರು ಕೆಂಪೇಗೌಡರನ್ನು ಬರಮಾಡಿಕೊಂಡರು. ಬೆಂಗಳೂರು ಸಮೀಪದ ಹತ್ತು ಊರುಗಳನ್ನು ಅವರು ಕೆಂಪೇಗೌಡರಿಗೆ ದಾನವಾಗಿ ಕೊಟ್ಟರು. ಕೆಂಪೇಗೌಡರು ಕಟ್ಟಿಸಿದ ಬೆಂಗಳೂರು ದೊಡ್ಡ ನಗರವಾಗಿ ಬೆಳೆದು ಈಗ ನಮ್ಮ ರಾಜ್ಯದ ರಾಜಧಾನಿಯಾಗಿದೆ.
+
+  - id: vocab-bengalooru
+    type: vocabulary_term
+    text: ಬೆಂಗಳೂರು
+  - id: vocab-karnataka
+    type: vocabulary_term
+    text: ಕರ್ನಾಟಕ
+  - id: vocab-rajadhani
+    type: vocabulary_term
+    text: ರಾಜಧಾನಿ
+  - id: vocab-kaadu
+    type: vocabulary_term
+    text: ಕಾಡು
+  - id: vocab-uttara
+    type: vocabulary_term
+    text: ಉತ್ತರ
+  - id: vocab-halli
+    type: vocabulary_term
+    text: ಹಳ್ಳಿ
+  - id: vocab-shivasamudra
+    type: vocabulary_term
+    text: ಶಿವಸಮುದ್ರ
+  - id: vocab-yalahanka
+    type: vocabulary_term
+    text: ಯಲಹಂಕ
+  - id: vocab-vijayanagara
+    type: vocabulary_term
+    text: ವಿಜಯನಗರ
+  - id: vocab-samrajya
+    type: vocabulary_term
+    text: ಸಾಮ್ರಾಜ್ಯ
+  - id: vocab-dayalu
+    type: vocabulary_term
+    text: ದಯಾಳು
+  - id: vocab-bhakti
+    type: vocabulary_term
+    text: ಭಕ್ತಿ
+  - id: vocab-praje
+    type: vocabulary_term
+    text: ಪ್ರಜೆ
+  - id: vocab-preeti
+    type: vocabulary_term
+    text: ಪ್ರೀತಿ
+  - id: vocab-gourava
+    type: vocabulary_term
+    text: ಗೌರವ
+  - id: vocab-kanasu
+    type: vocabulary_term
+    text: ಕನಸು
+  - id: vocab-mantri
+    type: vocabulary_term
+    text: ಮಂತ್ರಿ
+  - id: vocab-nagara
+    type: vocabulary_term
+    text: ನಗರ
+  - id: vocab-shilpi
+    type: vocabulary_term
+    text: ಶಿಲ್ಪಿ
+  - id: vocab-kasabu
+    type: vocabulary_term
+    text: ಕಸಬು
+  - id: vocab-sampattu
+    type: vocabulary_term
+    text: ಸಂಪತ್ತು
+  - id: vocab-kaavalu
+    type: vocabulary_term
+    text: ಕಾವಲು
+  - id: vocab-gopura
+    type: vocabulary_term
+    text: ಗೋಪುರ
+  - id: vocab-prajaprema
+    type: vocabulary_term
+    text: ಪ್ರಜಾಪ್ರೇಮ
+  - id: vocab-dasare
+    type: vocabulary_term
+    text: ದಸರೆ
+  - id: vocab-buddhivantike
+    type: vocabulary_term
+    text: ಬುದ್ಧಿವಂತಿಕೆ
+  - id: vocab-santosha
+    type: vocabulary_term
+    text: ಸಂತೋಷ
+
+  - id: note-kasabu
+    type: note_term
+    text: ಕಸಬು
+  - id: note-kasabu-def
+    type: note_definition
+    text: ಉದ್ಯೋಗ
+  - id: note-gudi
+    type: note_term
+    text: ಗುಡಿ
+  - id: note-gudi-def
+    type: note_definition
+    text: ದೇಗುಲ
+  - id: note-tavarooru
+    type: note_term
+    text: ತವರೂರು
+  - id: note-tavarooru-def
+    type: note_definition
+    text: ಹುಟ್ಟಿದ ಊರು
+  - id: note-rajadhani
+    type: note_term
+    text: ರಾಜಧಾನಿ
+  - id: note-rajadhani-def
+    type: note_definition
+    text: ಒಂದು ರಾಜ್ಯ ಅಥವಾ ದೇಶದ ಮುಖ್ಯ ಆಡಳಿತ ಕೇಂದ್ರ
+  - id: note-kavalu-gopura
+    type: note_term
+    text: ಕಾವಲು ಗೋಪುರ
+  - id: note-kavalu-gopura-def
+    type: note_definition
+    text: ಶತ್ರುಗಳು ಬರದಂತೆ ಊರನ್ನು ಕಾಯಲು ಎತ್ತರದ ಜಾಗದಲ್ಲಿ ಕಟ್ಟಿಸುವ ಗೋಪುರ.
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ನಮ್ಮ ರಾಜ್ಯದ ರಾಜಧಾನಿ ಯಾವುದು?
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಕೆಂಪೇಗೌಡರ ಮೊದಲಿನ ರಾಜಧಾನಿ ಯಾವುದು?
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರನ್ನು ಏಕೆ ಕಟ್ಟಿಸಿದರು?
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಕೆಂಪೇಗೌಡರು ತಾನು ಕಟ್ಟಿಸಿದ ಹೊಸ ನಗರಕ್ಕೆ ಬೆಂಗಳೂರೆಂದು ಏಕೆ ಹೆಸರಿಟ್ಟರು?
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: ಅಚ್ಯುತರಾಯರು ಕೆಂಪೇಗೌಡರಿಗೆ ಹತ್ತು ಊರುಗಳನ್ನು ದಾನ ಕೊಡಲು ಕಾರಣವೇನು?
+  - id: ex-a-q6
+    type: question
+    exercise: A
+    text: ಕೆಂಪೇಗೌಡರು ಗೋಪುರವನ್ನು ಏಕೆ ಕಟ್ಟಿಸಿದರು?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ವಿಜಯನಗರವು ಕೆಂಪೇಗೌಡರ ರಾಜಧಾನಿಯಾಗಿತ್ತು.
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಶಿವಸಮುದ್ರದ ಕಾಡಿನಲ್ಲಿ ಹೊಸ ನಗರವನ್ನು ಕೆಂಪೇಗೌಡರು ಕಟ್ಟಿಸಿದರು.
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ಹೊಸ ನಗರವನ್ನು ಕಟ್ಟಲು ಪ್ರೇರಣೆ ಸಿಕ್ಕಿದ್ದು ಒಂದು ಕನಸಿನಿಂದ.
+  - id: ex-b-q4
+    type: question
+    exercise: B
+    text: ಕೆಂಪೇಗೌಡರ ತಾಯಿಯ ಊರು ಬೆಂಗಳೂರೆಂಬ ಹಳ್ಳಿ.
+  - id: ex-b-q5
+    type: question
+    exercise: B
+    text: ಕೆಂಪಾಂಬುಧಿ ಕೆರೆಯನ್ನು ಅಚ್ಯುತರಾಯರು ಕಟ್ಟಿಸಿದರು.
+
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: ಕೆಂಪೇಗೌಡರು _____ಗಳನ್ನು ತನ್ನ ಮಕ್ಕಳಂತೆ ಪ್ರೀತಿಸುತ್ತಿದ್ದರು.
+  - id: ex-c-q2
+    type: fill_blank
+    exercise: C
+    text: ಕನಸಿನಲ್ಲಿ ದೇವಿಯು ಕಾಣಿಸಿಕೊಂಡು ಮರೆಯಾದ ಕಾಡಿನಲ್ಲಿ ಒಂದು _____ವನ್ನು ಕಟ್ಟಬೇಕು ಎಂದು ತಿಳಿಸಿದರು.
+  - id: ex-c-q3
+    type: fill_blank
+    exercise: C
+    text: ಕಸಬುದಾರರಿಂದ __________ ಬೆಳೆದವು.
+
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: ಉತ್ತರ
+  - id: ex-d-q2
+    type: question
+    exercise: D
+    text: ಒಳ್ಳೆಯ
+  - id: ex-d-q3
+    type: question
+    exercise: D
+    text: ಒಪ್ಪಿಗೆ
+  - id: ex-d-q4
+    type: question
+    exercise: D
+    text: ಚೆನ್ನಾಂಬೆ
+  - id: ex-d-q5
+    type: question
+    exercise: D
+    text: ಸಂಪತ್ತು
+
+  - id: ex-e-q1
+    type: question
+    exercise: E
+    text: ಕಾಡು
+  - id: ex-e-q2
+    type: question
+    exercise: E
+    text: ಹಳ್ಳಿ
+  - id: ex-e-q3
+    type: question
+    exercise: E
+    text: ಮರ
+  - id: ex-e-q4
+    type: question
+    exercise: E
+    text: ಶಿಲ್ಪಿ
+  - id: ex-e-q5
+    type: question
+    exercise: E
+    text: ಕೆರೆ

@@ -1,0 +1,92 @@
+meta:
+  source: source.kn.yaml
+  language: en
+  locale: en-IN
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: Poem
+  vocab: Words heard
+  notes: Word meanings
+  exercise-A: "A) Read the given lines and write the correct word in the blank space:"
+  exercise-B: "B) Say the next lines of this poem section:"
+  exercise-C: "C) Choose the correct word from list 'B' for the words in list 'A' and match them:"
+  title: Like a King for a Town
+
+poem-s1l1: There was once a town, it seems
+poem-s1l2: Like a king for the town, it seems
+poem-s1l3: Like a minister for the king, it seems
+poem-s1l4: Like a daughter for the minister, it seems
+poem-s1l5: Like a doll for the daughter, it seems
+
+poem-s2l1: Like a shirt for the doll, it seems
+poem-s2l2: Like a button for the shirt, it seems
+poem-s2l3: The button tore and fell off, it seems
+poem-s2l4: They called the tailor, it seems
+poem-s2l5: The tailor came and saw, it seems
+
+poem-s3l1: The button is very old, it seems
+poem-s3l2: He brought another button, it seems
+poem-s3l3: He put it on the shirt and sewed it, it seems
+poem-s3l4: The shirt was fixed, it seems
+poem-s3l5: Like the minister's daughter's wish, it seems
+
+poem-s4l1: They put the shirt on the doll, it seems
+poem-s4l2: It looked very beautiful, it seems
+poem-s4l3: She played with the doll, it seems
+poem-s4l4: She brought another doll, it seems
+poem-s4l5: Marriage for both of them, it seems
+
+poem-s5l1: The king of the town will come, it seems
+poem-s5l2: He will stand and perform the marriage, it seems
+poem-s5l3: Let's you and I go, it seems
+poem-s5l4: Let's see the marriage and come back, it seems
+
+vocab-ondanondu: once upon a time
+vocab-ooru: town / village
+vocab-obba: one person
+vocab-raja: king
+vocab-mantri: minister
+vocab-magalu: daughter
+vocab-gombe: doll
+vocab-angi: shirt
+vocab-gundi: button
+vocab-kittu: tore / plucked
+vocab-hogu: go
+vocab-darji: tailor
+vocab-kare: call
+vocab-nodu: see
+vocab-haleyadu: old one
+vocab-tande: brought
+vocab-holi: sew
+vocab-aase: wish / desire
+vocab-haaku: put
+vocab-tumba: very / much
+vocab-chanda: beautiful
+vocab-aata: play / game
+vocab-maduve: marriage
+vocab-nillu: stand
+vocab-hogonante: let's go, it seems
+
+note-raja: king
+note-raja-def: king / ruler
+note-darji: tailor
+note-darji-def: one who sews clothes
+note-chanda: beautiful
+note-chanda-def: beautiful, nice, lovely
+note-mantri: minister
+note-mantri-def: king's advisor
+
+ex-a-q1: Like a minister for the king, it seems. Like a _____ for the minister, it seems.
+ex-a-q2: Like a doll for the daughter, it seems. Like a _____ for the doll, it seems.
+ex-a-q3: The button is very old, it seems. He brought another _____, it seems.
+
+ex-b-q1: They called the tailor, it seems
+ex-b-q2: He put it on the shirt and sewed it, it seems
+ex-b-q3: Let's you and I go, it seems
+
+ex-c-q1: Like a _____ for the town
+ex-c-q2: The button is very _____
+ex-c-q3: The minister's daughter's _____
+ex-c-q4: The king of the town _____

@@ -1,0 +1,75 @@
+id: 2026-27
+bookId: ktbs-savi-kannada-g5-fl-p1
+label: Savi Kannada Grade 5 First Language Part 1 (2026–27)
+printedGrade: 5
+languageRole: first-language
+license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+academicYears:
+- 2026-27
+provenance:
+  sourceDocuments:
+  - label: g05-fl-p1-2026-27.pdf
+    sha256: 5ceacb6069ad617dca7755228faae95f5669d60646780e6bcdedf4b098ea68ab
+  notes: Partial conversion checkpoint for Grade 5 FL Part 1. Chapters are held editorial
+    drafts; production API excluded until rights are verified.
+chapters:
+- id: ch01-ottige-baluva-ananda
+  number: 1
+  title: ಒಟ್ಟಿಗೆ ಬಾಳುವ ಆನಂದ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch01-ottige-baluva-ananda
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch01-ottige-baluva-ananda
+  held: true
+- id: ch02-nadiya-alalu
+  number: 2
+  title: ನದಿಯ ಅಳಲು
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch02-nadiya-alalu
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch02-nadiya-alalu
+  held: true
+- id: ch03-namma-matu-keli
+  number: 3
+  title: ನಮ್ಮ ಮಾತು ಕೇಳಿ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch03-namma-matu-keli
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch03-namma-matu-keli
+  held: true
+- id: ch04-jivada-moulya
+  number: 4
+  title: ಜೀವದ ಮೌಲ್ಯ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch04-jivada-moulya
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch04-jivada-moulya
+  held: true
+- id: ch05-gidamara
+  number: 5
+  title: ಗಿಡ ಮರ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch05-gidamara
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch05-gidamara
+  held: true
+- id: ch06-swatantryada-hanate
+  number: 6
+  title: ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch06-swatantryada-hanate
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch06-swatantryada-hanate
+  held: true
+- id: ch07-vachanagalu
+  number: 7
+  title: ವಚನಗಳು
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch07-vachanagalu
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch07-vachanagalu
+  held: true
+- id: ch08-kannada-kannada-barri-namma-sangada
+  number: 8
+  title: ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch08-kannada-kannada-barri-namma-sangada
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch08-kannada-kannada-barri-namma-sangada
+  held: true
+- id: ch09-kamana-billu
+  number: 9
+  title: ಕಾಮನ ಬಿಲ್ಲು
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch09-kamana-billu
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch09-kamana-billu
+  held: true
+- id: ch10-nanu-mattu-hunchimara
+  number: 10
+  title: ನಾನು ಮತ್ತು ಹುಂಚಿಮರ
+  legacyPath: content/books/ktbs-savi-kannada-g5-fl-p1/editions/2026-27/chapters/ch10-nanu-mattu-hunchimara
+  formerPath: KSEEB/Karnataka/Kannada/Grade5/Kannada/ch10-nanu-mattu-hunchimara
+  held: true

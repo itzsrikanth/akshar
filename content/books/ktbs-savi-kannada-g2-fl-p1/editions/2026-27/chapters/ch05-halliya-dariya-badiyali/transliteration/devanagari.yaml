@@ -1,0 +1,83 @@
+meta:
+  source: source.kn.yaml
+  script: devanagari
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  poem: पद्य
+  vocab: केळिद पदगळु
+  notes: पदगळ अर्थ
+  exercise-A: 'अ) ई प्रश्नेगळिगे ओन्दु वाक्यदल्लि उत्तर हेळि:'
+  exercise-B: 'आ) खालि बिट्टिरुव जागगळल्लि सरियाद पद बरेयिरि:'
+  exercise-C: 'इ) कोट्टिरुव पदगळिगे प्रास पद हेळि बरेयिरि :'
+  title: हळ्ळिय दारिय बदियलि
+
+poem-s1l1: हळ्ळिय दारिय बदियलि ओन्दु
+poem-s1l2: माविन मरवित्तु
+poem-s1l3: हलवु कोम्बेगळनु चाचि
+poem-s1l4: तण्णेळलनु हरडित्तु
+
+poem-s2l1: हक्कि पक्षिगळु गूडनु कट्टिदे
+poem-s2l2: मरिगळ चिलिपिलि हाडित्तु
+poem-s2l3: एलेगळ जोतेगे कायि तूगि
+poem-s2l4: बायलि नीरनु तन्दित्तु
+
+poem-s3l1: माविन मरदडि कम्मिंन परिमळ
+poem-s3l2: जनर मनवनु सेळेदित्तु
+poem-s3l3: मरवोन्दादरु उपकारवु नूरु
+poem-s3l4: हिरिमेय तोरित्तु
+
+poem-s4l1: शुद्ध गाळि मळे नन्दनवे इळे
+poem-s4l2: हू हसिरिन ताकत्तु
+poem-s4l3: हसिरिद्दरे उसिरु निल्लुवुदु
+poem-s4l4: तिळिदुको ई होत्तु
+
+vocab-halli: हळ्ळि
+vocab-daari: दारि
+vocab-mavina-mara: माविन मर
+vocab-kombe: कोम्बे
+vocab-tannelalu: तण्णेळलु
+vocab-pakshigalu: पक्षिगळु
+vocab-chilipili: चिलिपिलि
+vocab-marigalu: मरिगळु
+vocab-elegalu: एलेगळु
+vocab-neeru: नीरु
+vocab-parimala: परिमळ
+vocab-jana: जन
+vocab-upakara: उपकार
+vocab-nooru: नूरु
+vocab-hirime: हिरिमे
+vocab-shuddha: शुद्ध
+vocab-gaali: गाळि
+vocab-hasiru: हसिरु
+vocab-usiru: उसिरु
+vocab-hottu: होत्तु
+
+note-badi: बदि
+note-badi-def: पक्क
+note-tannelalu: तण्णेळलु
+note-tannelalu-def: तम्पाद नेरळु
+note-kammina: कम्मिंन
+note-kammina-def: सुगन्ध
+note-parimala: परिमळ
+note-parimala-def: सुवासने
+note-usiru: उसिरु
+note-usiru-def: प्राण (देहद ओळक्के तेगेदुकोळ्ळुव हागू होरगे बिडुव गाळि)
+note-ile: इळे
+note-ile-def: भूमि
+
+ex-a-q1: हळ्ळिय दारिय बदियलि एनित्तु?
+ex-a-q2: हक्किगळु गूडनु एल्लि कट्टिद्दवु?
+ex-a-q3: हक्किय मरिगळु एनेन्दु हाडिदवु?
+ex-a-q4: जनर मनवन्नु यावुदु सेळेदित्तु?
+
+ex-b-q1: हलवु कोम्बेगळन्नु _____ तण्णेळलनु हरडित्तु.
+ex-b-q2: बायलि _____ तन्दित्तु.
+ex-b-q3: मरवोन्दादरु _____ नूरु.
+ex-b-q4: शुद्ध _____ नन्दनवे इळे.
+
+ex-c-q1: 'मरवित्तु : __________'
+ex-c-q2: 'हाडित्तु : __________'
+ex-c-q3: 'सेळेदित्तु : __________'
+ex-c-q4: 'ताकत्तु : __________'

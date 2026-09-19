@@ -1,0 +1,99 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: gadya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: 'a) ī praśnegaḷige uttara hēḷi:'
+  exercise-B: ā) ī mātannu yāru yārige hēḷidaru?
+  exercise-C: 'i) mādariyante bareyiri:'
+  title: sante
+
+prose-p1: andu śanivāra śālege madhyāhna raje. anitā, jān, raśīd mattu kumāra nālvarū tammūrina sante nōḍalu horaṭaru. anitāḷa cikkappa joteyalliruvudu avarige tumbā santōṣavenisitu. ūrancina maidānadalli sante neredittu. alli saddu-gaddala tumbittu. makkaḷige santeyoḷage nugguva ātura. ādare anitāḷa cikkappa avarannu santeya mumbhāgadalli nillisikoṇḍu "makkaḷē, avasaradinda caduri hōgabēḍi. nanna joteyallē banni, santeyalli suttisuve" endaru. ellarū khuṣiyinda oppidaru. santeya oḷage bandaru.
+prose-p2: alli dinasi aṅgaḍigaḷu sālu sālāgiddavu. akki, jōḷa, rāgi, togari, kaḍale muntāda dhānyagaḷa rāśi ondu kaḍe ide. innondu badiyalli teṅginakāyi, eḷanīru, kobbari iṭṭiddāre. mundina sālinalli īruḷḷi, beḷḷuḷḷi guḍḍegaḷive. adara pakkadalli meṇasina kāyi, marada buḍadalli vīḷyadele, bāḷeele, aḍike ive. munde hōdare badane, saute, beṇḍekāyi, toṇḍekāyi, ṭomeṭo muntāda tarakārigaḷannu iṭṭiddāre. pakkadalli vividha soppannu māruttiddāre.
+prose-p3: ōhō ! alli nōḍi, ghamaghamisuva hūgaḷu.
+prose-p4: bisilige bāḍadirali endu neraḷalli iṭṭiddāre. alli sēvantige, mallige, kanakāmbara, gulābi, ceṇḍu hūgaḷive.
+prose-p5: illige ivellavannū ellinda taruttāre?
+prose-p6: ivellavannū raitaru tamma hola, gadde, tōṭagaḷalli beḷeyuttāre. allinda tandu illi māruttāre.
+prose-p7: cikkappa, alli kaicīla, cīla, buṭṭi hiḍidu janaru ōḍāḍuttiddāralla ēke?
+prose-p8: avarella tamage bēkāda padārthagaḷannu koḷḷalu bandiddāre.
+prose-p9: illi ellā padārthagaḷu siguttaveyē?
+prose-p10: haudu, banni ī aṅgaḍiyalli rave, gōdhi, bēḷe, sāmbāra padārthagaḷu, ariśina, kuṅkuma, kāfipuḍi, ṭīpuḍi, cāklēṭ, biskat innu muntāda padārthagaḷū ive.
+prose-p11: nōḍi, nanna akka baḷasuva ribban, baḷe, sara, pauḍargaḷū illive.
+prose-p12: haudu, adara pakkada aṅgaḍi nōḍi. alli ellā bageya siddhavāda uḍupugaḷu, hodikegaḷu siguttave.
+prose-p13: abbā ! santeyalli eṣṭellā aṅgaḍigaḷu.
+prose-p14: alli nōḍi. guddali, hāre, pikāsi, kuḷa, kuḍugōlu, vividha bageya haggagaḷive. ivellavū raitarige bēkāda salakaraṇegaḷu. suttamuttalina haḷḷiya janaru bandu tamage bēkāda vastugaḷannu illi kharīdisuttāre.
+prose-p15: alli ēnō ripēri māḍuttiddāre, ēnadu?
+prose-p16: alli hāḷāgiruva bīga hāgū koḍe ripēri māḍuttiddāre.
+prose-p17: cikkappā, ā mūleyalli ēnō naḍeyuttiruvantide?
+prose-p18: alli 'hagaluvēṣa' āṭa naḍeyuttide. sante endare kēvala vyāpāra māḍuva sthaḷa alla. hāḍu, āṭagaḷantaha manōranjanegaḷū illi naḍeyuttave.
+prose-p19: nāvū ā āṭavannu nōḍōṇavē? (ellarū hagaluvēṣada āṭavannu nōḍuvaru)
+prose-p20: banni, illi sēbu, kittaḷe, mūsambi, pappāyi, bāḷehaṇṇugaḷannu iṭṭiddāre. nimigellarigū haṇṇu koḍisuve. (ellarū bāḷe haṇṇutinnuvaru. kumāranu sippeyannu dārige eseyuvanu)
+prose-p21: kumāra, sippeyannu dārige eseyabāradu.
+prose-p22: śāle hāgū maneyalli bēḍavāda vastugaḷannu hākalu kasada buṭṭigaḷive. ādare ī santeyalli kasavannu elli hākuvudu cikkappa?
+prose-p23: makkaḷē illū kasada toṭṭigaḷive. alli nōḍi, ā toṭṭiyalli sippe hākiri.
+prose-p24: bāḷehaṇṇina sippeyannu kasada toṭṭige hākidaru. sante nōḍida khuṣiyalli ellarū manege horaṭaru.
+
+vocab-sante: sante
+vocab-gaddala: gaddala
+vocab-angadi: aṅgaḍi
+vocab-vyapara: vyāpāra
+vocab-togari: togari
+vocab-veelyadele: vīḷyadele
+vocab-raashi: rāśi
+vocab-kadale: kaḍale
+vocab-dhanya: dhānya
+vocab-guddali: guddali
+vocab-menasinakayi: meṇasina kāyi
+vocab-eerulli: īruḷḷi
+vocab-kasada-totti: kasada toṭṭi
+vocab-raita: raita
+vocab-bellulli: beḷḷuḷḷi
+vocab-akki: akki
+vocab-padartha: padārtha
+vocab-jola: jōḷa
+vocab-maidana: maidāna
+vocab-haare: hāre
+vocab-salakarane: salakaraṇe
+vocab-khushi: khuṣi
+
+note-khushi: khuṣi
+note-khushi-def: higgu, harṣa
+note-padartha: padārtha
+note-padartha-def: vastu
+note-raashi: rāśi
+note-raashi-def: gumpu, guppe, samūha
+note-riperi: ripēri
+note-riperi-def: saripaḍisuvike
+note-salakarane: salakaraṇe
+note-salakarane-def: upakaraṇa
+note-dinasi: dinasi
+note-dinasi-def: dhānya, davasa
+note-badi: badi
+note-badi-def: pakka, maggulu
+note-sambaara: sāmbāra
+note-sambaara-def: masāleya padārtha.
+note-vyapara: vyāpāra
+note-vyapara-def: koḷḷuvudu, māruvudu.
+note-manoranjane: manōranjane
+note-manoranjane-def: manassannu santōṣagoḷisuvudu.
+note-guddali: guddali
+note-guddali-def: nelavannu ageyalu upayōgisuva marada hiḍiyuḷḷa kabbiṇada sādhana.
+
+ex-a-q1: geḷeyarella kūḍi ellige hōdaru?
+ex-a-q2: santeyalli ēnannu ripēri māḍuttiddaru?
+ex-a-q3: santeyalli yāva āṭa āḍuttiddaru?
+ex-a-q4: makkaḷu bāḷehaṇṇina sippeyannu elli hākidaru?
+
+ex-b-q1: “avasaradinda caduri hōgabēḍi''.
+ex-b-q2: “alli nōḍi, ghamaghamisuva hūgaḷu”.
+ex-b-q3: “illige ivellavannū ellinda taruttāre?”
+ex-b-q4: “sippeyannu dārige eseyabāradu.”
+
+ex-c-q1: appa -
+ex-c-q2: doḍḍappa -
+ex-c-q3: māva -

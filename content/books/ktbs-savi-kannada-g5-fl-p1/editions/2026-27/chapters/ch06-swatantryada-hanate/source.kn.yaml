@@ -1,0 +1,269 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 6
+  slug: ch06-swatantryada-hanate
+  title: ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್
+
+labels:
+  intro: ಪ್ರವೇಶ
+  author_intro: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪದ್ಯಭಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ, ಕಂಠಪಾಠ ಮಾಡಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ಗುಣ ವಿಶೇಷಣ.
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+  language-exercise-B: ಈ. ಓದಿಗೆ ಮನ್ನಣೆ
+  language-exercise-C: ಉ. ಶುಭನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ನಮಗೆ ಬಂದಿರುವ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಸದಾ ರಕ್ಷಣೆ ಮಾಡಿಕೊಳ್ಳಬೇಕು. ನಮ್ಮ ದೇಶದ ಅಭಿವೃದ್ಧಿಗಾಗಿ ಸದಾ ದುಡಿಯುತ್ತಿರಬೇಕು. ಧೀರತನದಿಂದ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಬೇಕು. ನಮ್ಮ ಸಾಧನೆಯ ಕಡೆಗೆ ಗಮನವಿರಬೇಕು. ದೇಶಕ್ಕಾಗಿ ಹೋರಾಡಿದ ಹುತಾತ್ಮರಿಗೆ ಗೌರವವನ್ನು ಸದಾ ಸಲ್ಲಿಸಬೇಕು ಎಂಬುದು ಈ ಪದ್ಯದ ಆಶಯವಾಗಿದೆ.
+
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಸದಾ ಉರಿಯುತಿರುವ ಹಾಗೆ ಸ್ವಾತಂತ್ರ್ಯದ ಹಣತೆ
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ದುಡಿಮೆ ತೈಲವೆರೆಯುತಿರಲು ಬಿಡುವಿಲ್ಲದೆ ಜನತೆ
+
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಎಂತು ಕುಂದಬಹುದು ಎಮ್ಮ ತಾಯ್ನಾಡಿನ ಘನತೆ || ಸದಾ ||
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಮುಳ್ಳಿನಿಂದ ಅರಿವೆ ಬಿಡಿಸಿದಂತೆ ಬಂತೆ ಮುಕ್ತಿ?
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಹುಲಿಯ ಬಾಯ ಮೇವ ಕಸಿಯುವಂತೆ ಧೀರಶಕ್ತಿ
+
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಪಡೆಯಿತದನು ಜನತೆ, ಬಾಳ ಬೆಸೆಯೆ ನಾಡ ಭಕ್ತಿ || ಸದಾ ||
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಸ್ವಾತಂತ್ರ್ಯದ ಜೊತೆಗೆ ಬಂದು ಕೂಡಲಿಲ್ಲ ಗಳಿಕೆ
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ವ್ಯಕ್ತಿ ವ್ಯಕ್ತಿ ಬೆವರ ಹೀರಿ ಮರವಾಗಿದೆ ಮೊಳಕೆ,
+
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಮೇಲೇರಿದ ಹಾಗೆ ಭದ್ರ ಪಾಯವುಂಟು ಗೃಹಕೆ || ಸದಾ ||
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ಸಾಗಿದಂತೆ ಸಲ್ಲುತ್ತಿರಲಿ ಸಾಧನೆಯೆಡೆ ಗಮನ
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಪ್ರಾಣವನ್ನೆ ಪಗಡೆಯಾಡಿದವರಿಗೆಮ್ಮ ನಮನ,
+
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ತಾಯ ಮುಡಿಗೆ ದಿನವು ಏರುತಿರಲಿ ಹೂವು ದವನ || ಸದಾ ||
+
+  - id: author-intro-1
+    type: prose
+    section: author_intro
+    text: 'ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್ : ಕವಿ ಕೊಕ್ಕರೆಹೊಸಹಳ್ಳಿ ಷೇಕ್ ಹೈದರ್ ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಅವರು 05-02-1936 ರಲ್ಲಿ ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ ಜಿಲ್ಲೆಯ ದೇವನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಷೇಕ್ ಹೈದರ್, ತಾಯಿ ಹಮೀದಾ ಬೇಗಂ. ಭೂಗರ್ಭಶಾಸ್ತ್ರದಲ್ಲಿ ಪದವಿಯನ್ನು ಪಡೆದು ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಅಧ್ಯಾಪಕರಾಗಿ ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಇವರು ಮನಸು ಗಾಂಧಿಬಜಾರು, ನೆನೆದವರ ಮನದಲ್ಲಿ, ನಿತ್ಯೋತ್ಸವ, ಸುಮೂರ್ತ ಮೊದಲಾದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರಿಗೆ ಪಂಪ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಪ್ರಶಸ್ತಿ, ಕೇಂದ್ರ ಮತ್ತು ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡಿ ಗೌರವಿಸಲಾಗಿದೆ.'
+
+  - id: vocab-arive
+    type: vocabulary_term
+    text: ಅರಿವೆ
+
+  - id: vocab-arive-def
+    type: vocabulary_definition
+    text: ಬಟ್ಟೆ, ವಸ್ತ್ರ
+
+  - id: vocab-kasi
+    type: vocabulary_term
+    text: ಕಸಿ
+
+  - id: vocab-kasi-def
+    type: vocabulary_definition
+    text: ಕಿತ್ತುಕೊಳ್ಳು
+
+  - id: vocab-kundu
+    type: vocabulary_term
+    text: ಕುಂದು
+
+  - id: vocab-kundu-def
+    type: vocabulary_definition
+    text: ಕೊರತೆ, ಕಡಿಮೆ
+
+  - id: vocab-ghanate
+    type: vocabulary_term
+    text: ಘನತೆ
+
+  - id: vocab-ghanate-def
+    type: vocabulary_definition
+    text: ಗೌರವ, ಹಿರಿಮೆ
+
+  - id: vocab-taila
+    type: vocabulary_term
+    text: ತೈಲ
+
+  - id: vocab-taila-def
+    type: vocabulary_definition
+    text: ಎಣ್ಣೆ
+
+  - id: vocab-davana
+    type: vocabulary_term
+    text: ದವನ
+
+  - id: vocab-davana-def
+    type: vocabulary_definition
+    text: ಸುವಾಸನೆಯುಳ್ಳ ಒಂದು ಗಿಡ
+
+  - id: vocab-paya
+    type: vocabulary_term
+    text: ಪಾಯ
+
+  - id: vocab-paya-def
+    type: vocabulary_definition
+    text: ತಳಪಾಯ, ಅಡಿಪಾಯ
+
+  - id: vocab-mukti
+    type: vocabulary_term
+    text: ಮುಕ್ತಿ
+
+  - id: vocab-mukti-def
+    type: vocabulary_definition
+    text: ಬಿಡುಗಡೆ
+
+  - id: vocab-mudi
+    type: vocabulary_term
+    text: ಮುಡಿ
+
+  - id: vocab-mudi-def
+    type: vocabulary_definition
+    text: ತಲೆ, ಕೂದಲು
+
+  - id: vocab-mevu
+    type: vocabulary_term
+    text: ಮೇವು
+
+  - id: vocab-mevu-def
+    type: vocabulary_definition
+    text: ಆಹಾರ, ಗ್ರಾಸ
+
+  - id: vocab-hanate
+    type: vocabulary_term
+    text: ಹಣತೆ
+
+  - id: vocab-hanate-def
+    type: vocabulary_definition
+    text: ಮಣ್ಣಿನ ದೀಪ
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ನಮ್ಮ ತಾಯ್ನಾಡಿನ ಘನತೆ ಹೇಗೆ ಕುಂದಬಾರದು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಧೀರಶಕ್ತಿ ಉಳ್ಳವರು ಏನು ಮಾಡಬಲ್ಲರು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಮೊಳಕೆ ಉಂಟಾದುದು ಹೇಗೆ?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ನಮ್ಮ ಗಮನ ಯಾವುದರ ಕಡೆಗೆ ಸಲ್ಲಬೇಕು?
+
+  - id: ex-b-q1
+    type: fill_blank
+    exercise: B
+    text: ಸದಾ ________________________________\n____________________________________\n________________________ ಘನತೆ || ಸದಾ ||
+
+  - id: ex-b-q2
+    type: fill_blank
+    exercise: B
+    text: ಸಾಗಿದಂತೆ ____________________________\n____________________________________\n________________________ ದವನ || ಸದಾ ||
+
+  - id: grammar-a-p1
+    type: prose
+    section: grammar-A
+    text: 'ನಾಮಪದದ ವಿಶೇಷ ಗುಣವನ್ನು ತಿಳಿಸುವ ಅಥವಾ ಸೂಚಿಸುವ ಪದವೇ `ಗುಣ ವಿಶೇಷಣ''. ಉದಾ : ರಿತೇಶನ ಬಳಿ ಕರಿಯ ಮೊಲವಿದೆ. ಇಲ್ಲಿ ‘ಕರಿಯ’ ಎಂಬುದು ಮೊಲದ ಬಣ್ಣವನ್ನು ತಿಳಿಸುತ್ತದೆ.'
+
+  - id: grammar-a-p2
+    type: prose
+    section: grammar-A
+    text: 1. ಕಾಂಚನಾ ಸುಂದರ ಹುಡುಗಿ.
+
+  - id: grammar-a-p3
+    type: prose
+    section: grammar-A
+    text: 2. ದರ್ಶಿನಿ ಕೆಂಪು ಲಂಗವನ್ನು ತೊಟ್ಟಿದ್ದಾಳೆ.
+
+  - id: grammar-a-p4
+    type: prose
+    section: grammar-A
+    text: 3. ರಾಘುವಿನ ಹತ್ತಿರ ದೊಡ್ಡ ವಿಮಾನವಿದೆ.
+
+  - id: grammar-a-p5
+    type: prose
+    section: grammar-A
+    text: ಇಲ್ಲಿ ಅಡಿಗೆರೆ ಎಳೆಯಲಾದ ‘ಸುಂದರ’, ‘ಕೆಂಪು’, ‘ದೊಡ್ಡ’ ಈ ಪದಗಳನ್ನು ಗಮನಿಸಿರಿ. ಬಣ್ಣ, ಗುಣ, ರೀತಿ, ಸ್ವಭಾವಗಳನ್ನು ತಿಳಿಸುವ ವಿಶೇಷಣಗಳಾಗಿವೆ. ಇವುಗಳನ್ನು ‘ಗುಣ ವಿಶೇಷಣ’ಗಳೆನ್ನುವರು.
+
+  - id: lang-ex-a-q1
+    type: question
+    exercise: language-exercise-A
+    text: ಅ) ಗುಣವಿಶೇಷಣ ಎಂದರೇನು? ಉದಾಹರಣೆಯೊಂದಿಗೆ ವಿವರಿಸಿರಿ.
+
+  - id: lang-ex-a-q2
+    type: question
+    exercise: language-exercise-A
+    text: ಆ) ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳಲ್ಲಿ ಗುಣವಿಶೇಷಣವನ್ನು ಗುರುತಿಸಿ ಅಡಿ ಗೆರೆ ಹಾಕಿರಿ. 1. ಲಾರಿಯು ತುಂಬಾ ಲಗೇಜನ್ನು ಹೊರಬಲ್ಲದು. 2. ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ವಿಶೇಷ ಅತಿಥಿಗಳ ಕೊಠಡಿಗಳಿರುತ್ತವೆ. 3. ವಿಮಾನ ನಿಲ್ದಾಣ ತುಂಬಾ ಸುಂದರವಾಗಿದೆ. 4. ಹಡಗು ಬಹಳ ದೊಡ್ಡದಾಗಿದೆ. 5. ಪ್ರಿಯಾಳ ಲಂಗ ಹಚ್ಚ ಹಸುರಾಗಿದೆ.
+
+  - id: lang-ex-b-q1
+    type: question
+    exercise: language-exercise-B
+    text: 1. ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಅವರ ಬಗೆಗೆ ಹೆಚ್ಚಿನ ವಿವರವನ್ನು ತಿಳಿಯಿರಿ.
+
+  - id: lang-ex-b-q2
+    type: question
+    exercise: language-exercise-B
+    text: 2. ಕೆ. ಎಸ್. ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಅವರ ‘ನಿತ್ಯೋತ್ಸವ’ ಕವನವನ್ನು ಸಂಗ್ರಹಿಸಿ, ಹಾಡಿರಿ.
+
+  - id: lang-ex-c-q1
+    type: question
+    exercise: language-exercise-C
+    text: 1. ದೇಶಕ್ಕಾಗಿ ದುಡಿ; ದೇಶಕ್ಕಾಗಿ ಮಡಿ.
+
+  - id: lang-ex-c-q2
+    type: question
+    exercise: language-exercise-C
+    text: 2. ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ.

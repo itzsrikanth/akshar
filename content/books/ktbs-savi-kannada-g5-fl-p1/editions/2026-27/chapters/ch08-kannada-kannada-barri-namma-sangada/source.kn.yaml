@@ -1,0 +1,331 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 8
+  slug: ch08-kannada-kannada-barri-namma-sangada
+  title: ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ
+
+labels:
+  intro: ಪ್ರವೇಶ
+  author_intro: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ಪದಗಳನ್ನು ಕೂಡಿಸಿ ಬರೆಯಿರಿ.
+  grammar-B: ಆ. ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಸಂಧಿಯ ಹೆಸರು ತಿಳಿಸಿರಿ.
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಆ. ಓದಿಗೆ ಮನ್ನಣೆ
+  language-exercise-B: ಇ. ಶುಭನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಕನ್ನಡ ನಾಡು ನುಡಿಯ ಬಗೆಗೆ ಅಭಿಮಾನವಿರಬೇಕು. ಕನ್ನಡ ನಾಡು ನುಡಿಯ ರಕ್ಷಣೆ ನಮ್ಮೆಲ್ಲರ ಕರ್ತವ್ಯವಾಗಬೇಕು. ಅದಕ್ಕಾಗಿ ನಾವೆಲ್ಲರೂ ಒಂದಾಗಬೇಕು. ಕನ್ನಡ ನಾಡನ್ನು ಕಟ್ಟುವ ಕಾರ್ಯಕ್ಕೆ ಮುಂದಾಗಬೇಕು. ಕನ್ನಡ ಬಾಳಿಗೆ ಅನ್ನ ಕೊಡುವ ಭಾಷೆಯಾಗಬೇಕು. ಇದಕ್ಕಾಗಿ ಎಲ್ಲರೂ ಬನ್ನಿ ಕೈಜೋಡಿಸೋಣ ಎಂಬುದು ಕವಿಯ ಆಶಯವಾಗಿದೆ.
+
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಎಲ್ಲೆಲ್ಲೂ ಉಸಿರಬೇಕು
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ನಮ್ಮ ನುಡಿ ಕನ್ನಡ
+
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ಸಿರಿನಾಡನು ಕಟ್ಟಲಿಕ್ಕೆ
+
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಕೈಯ ತುಂಬ ಕೆಲಸಬೇಕು
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಬೇಕು ಹೊಟ್ಟೆಗನ್ನ
+
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಅಕ್ಷರಗಳ ಕನ್ನ ಕೊರೆದು
+
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಬರಲಿ ಅರಿವು - ಚಿನ್ನ
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಮೈಯ ತುಂಬ ಬಟ್ಟೆಬೇಕು
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ನೆತ್ತಿಗೊಂದು ಆಸರ
+
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಭೂಮಿ ತುಂಬ ಬಿತ್ತಬೇಕು
+
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ತನ್ನ ಬೆಳಕು ನೇಸರ
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ತಲೆಯ ತುಂಬ ಬೆಂಕಿ ತುಂಬಿ
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ಮಿಂಚಬೇಕು ಕಂಗಳು
+
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ಎದೆಯ ತುಂಬಿ ತುಳುಕಬೇಕು
+
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ಪ್ರೀತಿಯ ಬೆಳದಿಂಗಳು
+
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಇಂಥ ನಾಡು ಕಟ್ಟಬೇಕು
+
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ
+
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ಎಲ್ಲೆಲ್ಲೂ ಮೊಳಗಬೇಕು
+
+  - id: poem-s5l4
+    type: poem_line
+    stanza: 5
+    text: ಕನ್ನಡ ಕನ್ನಡ
+
+  - id: poem-s5l5
+    type: poem_line
+    stanza: 5
+    text: ಕನ್ನಡ ಕನ್ನಡ ಬರ್ರಿ ನಮ್ಮ ಸಂಗಡ
+
+  - id: author-intro-1
+    type: prose
+    section: author_intro
+    text: 'ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ : ‘ಚಂಪಾ’ಎಂಬ ಸಂಕ್ಷಿಪ್ತನಾಮದಿಂದ ಪ್ರಸಿದ್ಧರಾದ ಚಂದ್ರಶೇಖರ ಪಾಟೀಲ ಅವರು ಸಾ. ಶ. 1939 ರಲ್ಲಿ ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಸವಣೂರು ತಾಲ್ಲೂಕಿನ ಹತ್ತಿಮತ್ತೂರಿನಲ್ಲಿ ಜನಿಸಿದರು. ಇವರು ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಇಂಗ್ಲಿಷ್ ವಿಭಾಗದ ನಿರ್ದೇಶಕರಾಗಿ ಕಾರ್ಯ ನಿರ್ವಹಿಸಿದರು. ಇವರು ಬಾನುಲಿ, ಮಧ್ಯಬಿಂದು, ಹೂವು-ಹಣ್ಣು, ಅರ್ಧಸತ್ಯದ ಹುಡುಗಿ ಮೊದಲಾದ ಕವನ ಸಂಕಲನಗಳನ್ನು; ಕೊಡೆಗಳು, ಅಪ್ಪ, ಕುಂಟಕುಂಟ ಕುರುವತ್ತಿ, ಟಿಂಗರಬುಡ್ಡಣ್ಣ ಮೊದಲಾದ ನಾಟಕಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ. ಇವರಿಗೆ ರಾಜ್ಯ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿಗಳು ಲಭಿಸಿವೆ.'
+
+  - id: vocab-arivu
+    type: vocabulary_term
+    text: ಅರಿವು
+
+  - id: vocab-arivu-def
+    type: vocabulary_definition
+    text: ಜ್ಞಾನ, ತಿಳಿವಳಿಕೆ
+
+  - id: vocab-asara
+    type: vocabulary_term
+    text: ಆಸರ
+
+  - id: vocab-asara-def
+    type: vocabulary_definition
+    text: ನೆರಳು, ಆಶ್ರಯ
+
+  - id: vocab-kanna
+    type: vocabulary_term
+    text: ಕನ್ನ
+
+  - id: vocab-kanna-def
+    type: vocabulary_definition
+    text: ರಂಧ್ರ
+
+  - id: vocab-tulukabeku
+    type: vocabulary_term
+    text: ತುಳುಕಬೇಕು
+
+  - id: vocab-tulukabeku-def
+    type: vocabulary_definition
+    text: ತುಂಬಿ ಹರಿಯಬೇಕು
+
+  - id: vocab-nudi
+    type: vocabulary_term
+    text: ನುಡಿ
+
+  - id: vocab-nudi-def
+    type: vocabulary_definition
+    text: ಮಾತು
+
+  - id: vocab-nesara
+    type: vocabulary_term
+    text: ನೇಸರ
+
+  - id: vocab-nesara-def
+    type: vocabulary_definition
+    text: ಸೂರ್ಯ
+
+  - id: vocab-molagabeku
+    type: vocabulary_term
+    text: ಮೊಳಗಬೇಕು
+
+  - id: vocab-molagabeku-def
+    type: vocabulary_definition
+    text: ಶಬ್ದಮಾಡಬೇಕು
+
+  - id: vocab-sirinadu
+    type: vocabulary_term
+    text: ಸಿರಿನಾಡು
+
+  - id: vocab-sirinadu-def
+    type: vocabulary_definition
+    text: ಸಂಪತ್ತಿನಿಂದ ಕೂಡಿದ ನಾಡು
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಎಲ್ಲೆಲ್ಲೂ ಯಾವ ನುಡಿ ಉಸಿರಬೇಕು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಅಕ್ಷರಗಳ ಕನ್ನ ಕೊರೆದು ಏನು ಬರಬೇಕು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಭೂಮಿಯ ತುಂಬ ಬೆಳಕನ್ನು ಬಿತ್ತುವವನು ಯಾರು?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಕಂಗಳು ಹೇಗೆ ಮಿಂಚಬೇಕು?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ಸಿರಿನಾಡನ್ನು ಕಟ್ಟಲು ಏನೇನು ಬೇಕು?
+
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಕವಿಯು ಎಂಥ ನಾಡು ಕಟ್ಟಬೇಕು ಎನ್ನುತ್ತಾರೆ?
+
+  - id: ex-c-q1
+    type: fill_blank
+    exercise: C
+    text: ಕೈಯ ತುಂಬ __________ ಬೇಕು.
+
+  - id: ex-c-q2
+    type: fill_blank
+    exercise: C
+    text: ಎಲ್ಲೆಲ್ಲೂ __________ ಕನ್ನಡ ಕನ್ನಡ.
+
+  - id: ex-c-q3
+    type: fill_blank
+    exercise: C
+    text: ಮೈಯ ತುಂಬ __________ ಬೇಕು.
+
+  - id: ex-c-q4
+    type: fill_blank
+    exercise: C
+    text: ಎದೆಯ ತುಂಬಿ __________ ಪ್ರೀತಿಯ ಬೆಳದಿಂಗಳು.
+
+  - id: grammar-p1
+    type: prose
+    section: grammar
+    text: "ಆಗಮ ಸಂಧಿ\nಮಳೆ + ಅನ್ನು = ಮಳೆಯನ್ನು\nಇಲ್ಲಿ ಮಳೆ ಎಂಬ ಪೂರ್ವಪದದ ಅಂತ್ಯದಲ್ಲಿರುವ ‘ಎ’ ಕಾರಕ್ಕೂ, ಅನ್ನು ಎಂಬ ಉತ್ತರಪದದ ಆದಿಯಲ್ಲಿರುವ ‘ಅ’ ಕಾರಕ್ಕೂ ಸಂಧಿ ಆಗುವಾಗ ‘ಯ್’ ಎಂಬ ಅಕ್ಷರ ಹೊಸದಾಗಿ ಬಂದಿದೆ.\nಹೀಗೆ ಸಂಧಿಯಾಗುವಾಗ ಹೊಸದಾಗಿ ಒಂದು ಅಕ್ಷರ ಬಂದರೆ ಅದನ್ನು ಆಗಮಸಂಧಿ ಎನ್ನುವರು. ಇದರಲ್ಲಿ ಯಕಾರಾಗಮ ಸಂಧಿ ಮತ್ತು ವಕಾರಾಗಮ ಸಂಧಿ ಎಂದು ಎರಡು ವಿಧಗಳಿವೆ."
+
+  - id: grammar-p2
+    type: prose
+    section: grammar
+    text: "ಆದೇಶ ಸಂಧಿ\nಮೈ + ತೊಳೆ = ಮೈದೊಳೆ\nಇಲ್ಲಿ ಮೈದೊಳೆ ಎಂಬ ಪದದಲ್ಲಿ ‘ತ’ (ತೊ) ಅಕ್ಷರದ ಬದಲಿಗೆ ‘ದ’ (ದೊ) ಅಕ್ಷರ ಬಂದಿದೆ.\nಹೀಗೆ ಸಂಧಿಯಾಗುವಾಗ ಒಂದು ಅಕ್ಷರದ ಸ್ಥಾನದಲ್ಲಿ ಬೇರೊಂದು ಅಕ್ಷರ ಬಂದರೆ ಅದನ್ನು ಆದೇಶಸಂಧಿ ಎನ್ನುವರು. ಇಲ್ಲಿ ಉತ್ತರ ಪದದ ಮೊದಲನೆಯ ಅಕ್ಷರವು ಬದಲಾಗುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ ಕ,ತ,ಪ ಗಳಿಗೆ ಕ್ರಮವಾಗಿ ಗ,ದ,ಬ ಗಳು ಆದೇಶವಾಗಿ ಬರುತ್ತವೆ."
+
+  - id: grammar-p3
+    type: prose
+    section: grammar
+    text: "ಈ ರೀತಿಯಾದ ಇನ್ನು ಕೆಲವು ಉದಾಹರಣೆಗಳನ್ನು ಗಮನಿಸೋಣ :\nಕುಡು + ಕೋಲು = ಕುಡುಗೋಲು : ‘ಕ’ ದ ಬದಲು ‘ಗ’ ಆಗಿದೆ.\nಬೆಟ್ಟ + ತಾವರೆ = ಬೆಟ್ಟದಾವರೆ : ‘ತ’ ದ ಬದಲು ‘ದ’ ಆಗಿದೆ.\nಕಣ್ + ಪನಿ = ಕಂಬನಿ : ‘ಪ’ ದ ಬದಲು ‘ಬ’ ಆಗಿದೆ."
+
+  - id: grammar-a-q1
+    type: question
+    exercise: grammar-A
+    text: 1. ಮೇಲೆ + ಇಟ್ಟುಕೊಂಡು
+
+  - id: grammar-a-q2
+    type: question
+    exercise: grammar-A
+    text: 2. ಶುಭ್ರ + ಆಯಿತು
+
+  - id: grammar-a-q3
+    type: question
+    exercise: grammar-A
+    text: 3. ಬಂಡೆ + ಅನ್ನು
+
+  - id: grammar-b-q1
+    type: question
+    exercise: grammar-B
+    text: ಸವಿಗನ್ನಡ, ಮರವನ್ನು, ನಾವೆಲ್ಲಾ, ದಾರಿಯಲ್ಲಿ, ಒಂದೊಂದು.
+
+  - id: lang-ex-a-q1
+    type: question
+    exercise: language-exercise-A
+    text: 1. ಕನ್ನಡ ನಾಡಿನ ಅರಣ್ಯ ಸಂಪತ್ತಿನ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ.
+
+  - id: lang-ex-a-q2
+    type: question
+    exercise: language-exercise-A
+    text: 2. ಕನ್ನಡ ನಾಡಿನ ಶ್ರೇಷ್ಠ ವ್ಯಕ್ತಿಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ.
+
+  - id: lang-ex-a-q3
+    type: question
+    exercise: language-exercise-A
+    text: 3. ಕನ್ನಡ ನಾಡು ಕುರಿತ ಕವನಗಳನ್ನು ಓದಿರಿ.
+
+  - id: lang-ex-a-q4
+    type: question
+    exercise: language-exercise-A
+    text: 4. ಕನ್ನಡ ನಾಡಿನ ಪ್ರಸಿದ್ಧ ಸ್ಥಳಗಳಿಗೆ ಪ್ರವಾಸ ಹೋಗಿರಿ.
+
+  - id: lang-ex-b-q1
+    type: question
+    exercise: language-exercise-B
+    text: 1. ಹೆತ್ತತಾಯಿ ಹೊತ್ತನಾಡು ಸ್ವರ್ಗಕ್ಕಿಂತಲೂ ಮಿಗಿಲು.
+
+  - id: lang-ex-b-q2
+    type: question
+    exercise: language-exercise-B
+    text: 2. ಕನ್ನಡವೇ ಸತ್ಯ; ಕನ್ನಡವೇ ನಿತ್ಯ.
+
+  - id: lang-ex-b-q3
+    type: question
+    exercise: language-exercise-B
+    text: 3. ಎಲ್ಲಾದರು ಇರು ಎಂತಾದರು ಇರು ಎಂದೆಂದಿಗೂ ನೀ ಕನ್ನಡವಾಗಿರು.
+
+  - id: lang-ex-b-q4
+    type: question
+    exercise: language-exercise-B
+    text: 4. ಕನ್ನಡಕ್ಕಾಗಿ ಕೈ ಎತ್ತು ನಿನ್ನ ಕೈ ಕಲ್ಪವೃಕ್ಷವಾಗುವುದು.

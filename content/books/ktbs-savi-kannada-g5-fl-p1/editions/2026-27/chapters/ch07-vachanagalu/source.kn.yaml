@@ -1,0 +1,526 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 5
+  subject: Kannada
+  chapter: 7
+  slug: ch07-vachanagalu
+  title: ವಚನಗಳು
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+  author: ಬಸವಣ್ಣ, ಅಂಬಿಗರ ಚೌಡಯ್ಯ, ಅಕ್ಕಮಹಾದೇವಿ, ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ
+
+labels:
+  intro: ಪ್ರವೇಶ
+  author_intro: ಕೃತಿಕಾರರ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಒಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-B: ಆ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರಿಸಿ.
+  exercise-C: ಇ. ಯಾರು, ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise-D: ಈ. ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.
+  exercise-E: ಉ. ಬಿಟ್ಟ ಸ್ಥಳಗಳನ್ನು ತುಂಬಿರಿ.
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  grammar-A: ಅ. ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸಿ.
+  language-exercise: ಭಾಷಾಭ್ಯಾಸ
+  language-exercise-A: ಆ. ಓದಿಗೆ ಮನ್ನಣೆ
+  language-exercise-B: ಇ. ಶುಭನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಜೀವನದಲ್ಲಿ ದೇವರನ್ನು ಕಾಣಲು ಅಂತರಂಗಶುದ್ಧಿ ಬಹಳ ಮುಖ್ಯ. ಅನ್ಯ ಚಿಂತೆಗಿಂತ ದೇವರನ್ನು ಕಾಣಬೇಕು ಎಂಬ ಚಿಂತೆ ಮುಖ್ಯ. ಜೀವನದಲ್ಲಿ ಸ್ತುತಿ-ನಿಂದೆಗಳು ಬಂದಾಗ ಮನದಲ್ಲಿ ಕೋಪ ಮಾಡಿಕೊಳ್ಳದೆ ಸಮಾಧಾನಿಯಾಗಿರುವುದು ಮುಖ್ಯ. ಮಾನವನು ನಿರಹಂಕಾರಿಯಾಗಿ ನುಡಿಗೆ ತಕ್ಕ ನಡೆಯುಳ್ಳವರಾಗಿ, ದಾನಿಗಳಾಗಿ ಇರುವುದು ಮುಖ್ಯ ಎಂಬುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ.
+
+  - id: poem-s1l1
+    type: poem_line
+    stanza: 1
+    text: ಕಳಬೇಡ, ಕೊಲಬೇಡ, ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ,
+
+  - id: poem-s1l2
+    type: poem_line
+    stanza: 1
+    text: ಮುನಿಯಬೇಡ, ಅನ್ಯರಿಗೆ ಅಸಹ್ಯಪಡಬೇಡ,
+
+  - id: poem-s1l3
+    type: poem_line
+    stanza: 1
+    text: ತನ್ನ ಬಣ್ಣಿಸಬೇಡ, ಇದಿರ ಹಳಿಯಲು ಬೇಡ,
+
+  - id: poem-s1l4
+    type: poem_line
+    stanza: 1
+    text: ಇದೇ ಅಂತರಂಗಶುದ್ಧಿ; ಇದೇ ಬಹಿರಂಗಶುದ್ಧಿ;
+
+  - id: poem-s1l5
+    type: poem_line
+    stanza: 1
+    text: ಇದೇ ನಮ್ಮ ಕೂಡಲ ಸಂಗಮದೇವನೊಲಿಸುವ ಪರಿ.
+
+  - id: poem-s1l6
+    type: poem_line
+    stanza: 1
+    text: "- ಬಸವಣ್ಣ"
+
+  - id: poem-s2l1
+    type: poem_line
+    stanza: 2
+    text: ಬಡತನಕ್ಕೆ ಉಂಬುವ ಚಿಂತೆ, ಉಣಲಾದರೆ ಉಡುವ ಚಿಂತೆ,
+
+  - id: poem-s2l2
+    type: poem_line
+    stanza: 2
+    text: ಉಡಲಾದರೆ ಇಡುವ ಚಿಂತೆ, ಇಡಲಾದರೆ ಹೆಂಡಿರ ಚಿಂತೆ,
+
+  - id: poem-s2l3
+    type: poem_line
+    stanza: 2
+    text: ಹೆಂಡಿರಾದರೆ ಮಕ್ಕಳ ಚಿಂತೆ, ಮಕ್ಕಳಾದರೆ ಬದುಕಿನ ಚಿಂತೆ,
+
+  - id: poem-s2l4
+    type: poem_line
+    stanza: 2
+    text: ಬದುಕಾದರೆ ಕೇಡಿನ ಚಿಂತೆ, ಕೇಡಾದರೆ ಮರಣದ ಚಿಂತೆ,
+
+  - id: poem-s2l5
+    type: poem_line
+    stanza: 2
+    text: ಇಂತೀ ಹಲವು ಚಿಂತೆಯಲಿ ಇಪ್ಪವರನು ಕಂಡೆನು.
+
+  - id: poem-s2l6
+    type: poem_line
+    stanza: 2
+    text: ಶಿವನ ಚಿಂತೆಯಲಿದ್ದವರೊಬ್ಬರನು ಕಾಣೆನೆಂದಾತ
+
+  - id: poem-s2l7
+    type: poem_line
+    stanza: 2
+    text: ನಮ್ಮ ಅಂಬಿಗರ ಚೌಡಯ್ಯ ನಿಜಶರಣ.
+
+  - id: poem-s2l8
+    type: poem_line
+    stanza: 2
+    text: "- ಅಂಬಿಗರ ಚೌಡಯ್ಯ"
+
+  - id: poem-s3l1
+    type: poem_line
+    stanza: 3
+    text: ಬೆಟ್ಟದ ಮೇಲೊಂದು ಮನೆಯ ಮಾಡಿ,
+
+  - id: poem-s3l2
+    type: poem_line
+    stanza: 3
+    text: ಮೃಗಗಳಿಗಂಜಿದಡೆಂತಯ್ಯಾ?
+
+  - id: poem-s3l3
+    type: poem_line
+    stanza: 3
+    text: ಸಮುದ್ರದ ತಡಿಯಲೊಂದು ಮನೆಯ ಮಾಡಿ,
+
+  - id: poem-s3l4
+    type: poem_line
+    stanza: 3
+    text: ನೊರೆತೆರೆಗಳಿಗಂಜಿದಡೆಂತಯ್ಯಾ?
+
+  - id: poem-s3l5
+    type: poem_line
+    stanza: 3
+    text: ಸಂತೆಯೊಳಗೊಂದು ಮನೆಯ ಮಾಡಿ,
+
+  - id: poem-s3l6
+    type: poem_line
+    stanza: 3
+    text: ಶಬ್ದಕ್ಕೆ ನಾಚಿದಡೆಂತಯ್ಯಾ?
+
+  - id: poem-s3l7
+    type: poem_line
+    stanza: 3
+    text: ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ ದೇವ ಕೇಳಯ್ಯಾ,
+
+  - id: poem-s3l8
+    type: poem_line
+    stanza: 3
+    text: ಲೋಕದೊಳಗೆ ಹುಟ್ಟಿದ ಬಳಿಕ ಸ್ತುತಿನಿಂದೆಗಳು ಬಂದಡೆ
+
+  - id: poem-s3l9
+    type: poem_line
+    stanza: 3
+    text: ಮನದಲ್ಲಿ ಕೋಪವ ತಾಳದೆ ಸಮಾಧಾನಿಯಾಗಿರಬೇಕು.
+
+  - id: poem-s3l10
+    type: poem_line
+    stanza: 3
+    text: "- ಅಕ್ಕಮಹಾದೇವಿ"
+
+  - id: poem-s4l1
+    type: poem_line
+    stanza: 4
+    text: ನುಡಿದರೆ ಮುತ್ತಿನ ಹಾರದಂತಿರಬೇಕು.
+
+  - id: poem-s4l2
+    type: poem_line
+    stanza: 4
+    text: ನುಡಿದರೆ ಮಾಣಿಕ್ಯದ ದೀಪ್ತಿಯಂತಿರಬೇಕು.
+
+  - id: poem-s4l3
+    type: poem_line
+    stanza: 4
+    text: ನುಡಿದರೆ ಸ್ಫಟಿಕದ ಶಲಾಕೆಯಂತಿರಬೇಕು.
+
+  - id: poem-s4l4
+    type: poem_line
+    stanza: 4
+    text: ನುಡಿದರೆ ಲಿಂಗ ಮೆಚ್ಚಿ ಅಹುದಹುದೆನಬೇಕು.
+
+  - id: poem-s4l5
+    type: poem_line
+    stanza: 4
+    text: ನುಡಿಯೊಳಗಾಗಿ ನಡೆಯದಿದ್ದರೆ
+
+  - id: poem-s4l6
+    type: poem_line
+    stanza: 4
+    text: ಕೂಡಲಸಂಗಮದೇವನೆಂತೊಲಿವನಯ್ಯಾ?
+
+  - id: poem-s4l7
+    type: poem_line
+    stanza: 4
+    text: "- ಬಸವಣ್ಣ"
+
+  - id: poem-s5l1
+    type: poem_line
+    stanza: 5
+    text: ಆಸೆ ಎಂಬುದು ಅರಸಿಗಲ್ಲದೆ ಶಿವಭಕ್ತರಿಗುಂಟೆ?
+
+  - id: poem-s5l2
+    type: poem_line
+    stanza: 5
+    text: ರೋಷವೆಂಬುದು ಯಮನ ಕಿಂಕರರಿಗಲ್ಲದೆ ಅಜಾತರಿಗುಂಟೆ?
+
+  - id: poem-s5l3
+    type: poem_line
+    stanza: 5
+    text: ಈಸಕ್ಕಿ ಆಸೆ ನಿಮಗೇಕೆ? ಈಶ್ವರನೊಪ್ಪ,
+
+  - id: poem-s5l4
+    type: poem_line
+    stanza: 5
+    text: ಮಾರಯ್ಯಪ್ರಿಯ ಅಮರೇಶ್ವರಲಿಂಗಕ್ಕೆ ದೂರ,
+
+  - id: poem-s5l5
+    type: poem_line
+    stanza: 5
+    text: ನುಚ್ಚು ತರಿ, ಬೇಗ ನಡೆಯಯ್ಯಾ.
+
+  - id: poem-s5l6
+    type: poem_line
+    stanza: 5
+    text: "- ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ"
+
+  - id: author-intro-1
+    type: prose
+    section: author_intro
+    text: "ಬಸವಣ್ಣ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರರು. ಇವರು ವಿಜಯಪುರ ಜಿಲ್ಲೆಯ ಬಸವನಬಾಗೇವಾಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಮಾದರಸ, ತಾಯಿ ಮಾದಲಾಂಬಿಕೆ. ಇವರ ಅಂಕಿತನಾಮ ಕೂಡಲಸಂಗಮದೇವ."
+
+  - id: author-intro-2
+    type: prose
+    section: author_intro
+    text: "ಅಂಬಿಗರ ಚೌಡಯ್ಯ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರರು. ಇವರು ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ರಾಣೆಬೆನ್ನೂರು ತಾಲ್ಲೂಕಿನ ಚೌಡದಾನಪುರದಲ್ಲಿ ಜನಿಸಿದರು. ಇವರ ಅಂಕಿತನಾಮ ಅಂಬಿಗರ ಚೌಡಯ್ಯ."
+
+  - id: author-intro-3
+    type: prose
+    section: author_intro
+    text: "ಅಕ್ಕಮಹಾದೇವಿ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರ್ತಿ. ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಶಿಕಾರಿಪುರ ತಾಲ್ಲೂಕಿನ ಉಡುತಡಿಯಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ನಿರ್ಮಲಶೆಟ್ಟಿ, ತಾಯಿ ಸುಮತಿ. ಇವರ ಅಂಕಿತನಾಮ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ."
+
+  - id: author-intro-4
+    type: prose
+    section: author_intro
+    text: "ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ : 12ನೇ ಶತಮಾನದ ವಚನಕಾರ್ತಿ. ರಾಯಚೂರು ಜಿಲ್ಲೆಯ ಅಮರೇಶ್ವರ ಇವರ ಜನ್ಮಸ್ಥಳ. ಇವರ ಅಂಕಿತನಾಮ ಮಾರಯ್ಯಪ್ರಿಯ ಅಮರೇಶ್ವರಲಿಂಗ."
+
+  - id: vocab-antaranga
+    type: vocabulary_term
+    text: ಅಂತರಂಗ
+
+  - id: vocab-antaranga-def
+    type: vocabulary_definition
+    text: ಒಳಮನಸ್ಸು
+
+  - id: vocab-anjidare
+    type: vocabulary_term
+    text: ಅಂಜಿದರೆ
+
+  - id: vocab-anjidare-def
+    type: vocabulary_definition
+    text: ಹೆದರಿದರೆ
+
+  - id: vocab-ajata
+    type: vocabulary_term
+    text: ಅಜಾತ
+
+  - id: vocab-ajata-def
+    type: vocabulary_definition
+    text: ಹುಟ್ಟಿಲ್ಲದವನು
+
+  - id: vocab-kinkara
+    type: vocabulary_term
+    text: ಕಿಂಕರ
+
+  - id: vocab-kinkara-def
+    type: vocabulary_definition
+    text: ಸೇವಕ, ಆಳು
+
+  - id: vocab-dipti
+    type: vocabulary_term
+    text: ದೀಪ್ತಿ
+
+  - id: vocab-dipti-def
+    type: vocabulary_definition
+    text: ಬೆಳಕು
+
+  - id: vocab-ninda
+    type: vocabulary_term
+    text: ನಿಂದೆ
+
+  - id: vocab-ninda-def
+    type: vocabulary_definition
+    text: ಬೈಗುಳ
+
+  - id: vocab-nuchu
+    type: vocabulary_term
+    text: ನುಚ್ಚು
+
+  - id: vocab-nuchu-def
+    type: vocabulary_definition
+    text: ಮುರಿದ ಅಕ್ಕಿ
+
+  - id: vocab-bahiranga
+    type: vocabulary_term
+    text: ಬಹಿರಂಗ
+
+  - id: vocab-bahiranga-def
+    type: vocabulary_definition
+    text: ಹೊರಗಿನ
+
+  - id: vocab-muni
+    type: vocabulary_term
+    text: ಮುನಿ
+
+  - id: vocab-muni-def
+    type: vocabulary_definition
+    text: ಕೋಪ
+
+  - id: vocab-mriga
+    type: vocabulary_term
+    text: ಮೃಗ
+
+  - id: vocab-mriga-def
+    type: vocabulary_definition
+    text: ಪ್ರಾಣಿ
+
+  - id: vocab-rosha
+    type: vocabulary_term
+    text: ರೋಷ
+
+  - id: vocab-rosha-def
+    type: vocabulary_definition
+    text: ಸಿಟ್ಟು, ಕೋಪ
+
+  - id: vocab-shalake
+    type: vocabulary_term
+    text: ಶಲಾಕೆ
+
+  - id: vocab-shalake-def
+    type: vocabulary_definition
+    text: ಕಡ್ಡಿ
+
+  - id: vocab-sphatika
+    type: vocabulary_term
+    text: ಸ್ಫಟಿಕ
+
+  - id: vocab-sphatika-def
+    type: vocabulary_definition
+    text: ಬೆಣಚುಕಲ್ಲು
+
+  - id: vocab-stuti
+    type: vocabulary_term
+    text: ಸ್ತುತಿ
+
+  - id: vocab-stuti-def
+    type: vocabulary_definition
+    text: ಹೊಗಳಿಕೆ
+
+  - id: vocab-hali
+    type: vocabulary_term
+    text: ಹಳಿ
+
+  - id: vocab-hali-def
+    type: vocabulary_definition
+    text: ನಿಂದಿಸು
+
+  - id: vocab-husi
+    type: vocabulary_term
+    text: ಹುಸಿ
+
+  - id: vocab-husi-def
+    type: vocabulary_definition
+    text: ಸುಳ್ಳು
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಬಸವಣ್ಣನವರ ಪ್ರಕಾರ ಅಂತರಂಗ ಬಹಿರಂಗ ಶುದ್ಧಿ ಯಾವುದು?
+
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರ ಪ್ರಕಾರ ನಿಜಶರಣ ಯಾರು?
+
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಬೆಟ್ಟದ ಮೇಲೆ ಮನೆಮಾಡಿ ಯಾವುದಕ್ಕೆ ಅಂಜಬಾರದು?
+
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ನಮ್ಮ ನುಡಿ ಹೇಗಿರಬೇಕು?
+
+  - id: ex-a-q5
+    type: question
+    exercise: A
+    text: ಆಸೆ ಎಂಬುದು ಯಾರಿಗೆ ಇರಬೇಕು?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: ಕೂಡಲಸಂಗಮದೇವನನ್ನು ಒಲಿಸುವ ಬಗೆ ಹೇಗೆ?
+
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರು ಯಾವ ಯಾವ ಚಿಂತೆಯಲ್ಲಿರುವವರನ್ನು ಕಂಡಿದ್ದಾರೆ?
+
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: ಅಕ್ಕಮಹಾದೇವಿಯವರ ಪ್ರಕಾರ ನಾವು ಸಮಾಧಾನಿಯಾಗಿರಬೇಕಾದದ್ದು ಯಾವಾಗ?
+
+  - id: ex-b-q4
+    type: question
+    exercise: B
+    text: ಕೂಡಲಸಂಗಮದೇವನು ಯಾವಾಗ ಒಲಿಯುವುದಿಲ್ಲ?
+
+  - id: ex-b-q5
+    type: question
+    exercise: B
+    text: ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ ಮಾರಯ್ಯನಿಗೆ ಏನೆಂದು ಹೇಳಿದಳು?
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: "ಶಬ್ದಕ್ಕೆ ನಾಚಿದಡೆಂತಯ್ಯಾ?"
+
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: "ನುಡಿದರೆ ಮುತ್ತಿನ ಹಾರದಂತಿರಬೇಕು."
+
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: "ಈಸಕ್ಕಿ ಆಸೆ ನಿಮಗೇಕೆ?"
+
+  - id: ex-d-q1
+    type: question
+    exercise: D
+    text: "೧. ಅಂಬಿಗರ ಚೌಡಯ್ಯ\n೨. ಆಯ್ದಕ್ಕಿ ಲಕ್ಕಮ್ಮ\n೩. ಬಸವಣ್ಣ\n೪. ಅಕ್ಕಮಹಾದೇವಿ\n\nಅ. ಕೂಡಲಸಂಗಮದೇವ\nಆ. ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ\nಇ. ಅಂಬಿಗರ ಚೌಡಯ್ಯ\nಈ. ಗುಹೇಶ್ವರ\nಉ. ಮಾರಯ್ಯಪ್ರಿಯ ಅಮರೇಶ್ವರಲಿಂಗ"
+
+  - id: ex-e-q1
+    type: fill_blank
+    exercise: E
+    text: ಇದೇ ನಮ್ಮ __________ ಒಲಿಸುವ ಪರಿ.
+
+  - id: ex-e-q2
+    type: fill_blank
+    exercise: E
+    text: __________ ಚಿಂತೆಯಲಿದ್ದವರೊಬ್ಬರನು ಕಾಣೆನೆಂದಾತ.
+
+  - id: ex-e-q3
+    type: fill_blank
+    exercise: E
+    text: ಸಮುದ್ರದ ತಡಿಯಲೊಂದು ಮನೆಯ ಮಾಡಿ __________ ಅಂಜಿದಡೆಂತಯ್ಯಾ?
+
+  - id: ex-e-q4
+    type: fill_blank
+    exercise: E
+    text: ನುಡಿದರೆ __________ ದೀಪ್ತಿಯಂತಿರಬೇಕು.
+
+  - id: ex-e-q5
+    type: fill_blank
+    exercise: E
+    text: ರೋಷವೆಂಬುದು ಯಮನ __________ ಅಲ್ಲದೆ ಅಜಾತರಿಗುಂಟೆ?
+
+  - id: grammar-p1
+    type: prose
+    section: grammar
+    text: "ಸಂಧಿಗಳು\nಎರಡು ಅಕ್ಷರಗಳು ಕಾಲ ವಿಳಂಬವಿಲ್ಲದೆ ಅರ್ಥಕ್ಕೆ ಅನುಸಾರವಾಗಿ ಸೇರುವುದೇ ಸಂಧಿ.\nಉದಾಹರಣೆಗೆ :\nಮಳೆ + ಕಾಲ = ಮಳೆಗಾಲ\nಹೀಗೆ ಒಂದು ಪದ ಇನ್ನೊಂದು ಪದದೊಡನೆ ಸೇರಿದಾಗ ಪೂರ್ವಪದದ ಅಂತ್ಯದಲ್ಲಿ ಮತ್ತು ಉತ್ತರಪದದ ಆದಿಯಲ್ಲಿ ಮೂರು ಬಗೆಯ ಕಾರ್ಯಗಳು ನಡೆಯಬಹುದು. ಅಕ್ಷರವೊಂದು ಲೋಪವಾಗಬಹುದು, ಇನ್ನೊಂದು ಆಗಮಿಸಬಹುದು, ಒಂದು ಅಕ್ಷರ ಹೋಗಿ ಅದರ ಸ್ಥಾನದಲ್ಲಿ ಬೇರೆಯೇ ಅಕ್ಷರ ಬರಬಹುದು. ಇದನ್ನು ‘ಸಂಧಿಕಾರ್ಯ’ ಎನ್ನುವರು.\nಪೂರ್ವಪದ + ಉತ್ತರಪದ = ಸಂಧಿಕಾರ್ಯ\nಮಾತು + ಅನ್ನು = ಮಾತನ್ನು\n(ಉ) + (ಅ) = ಉ ಲೋಪ\nಸಂಧಿಯ ವಿವಿಧ ಪ್ರಕಾರಗಳ ಬಗ್ಗೆ ಮುಂದಿನ ಪಾಠದಲ್ಲಿ ತಿಳಿದುಕೊಳ್ಳೋಣ."
+
+  - id: grammar-a-q1
+    type: question
+    exercise: grammar-A
+    text: 1. ಸಂಧಿ ಎಂದರೇನು? ಒಂದು ಉದಾಹರಣೆ ಕೊಡಿ.
+
+  - id: grammar-a-q2
+    type: question
+    exercise: grammar-A
+    text: 2. ಸಂಧಿ ಕಾರ್ಯ ಎಂದರೇನು?
+
+  - id: grammar-a-q3
+    type: question
+    exercise: grammar-A
+    text: 3. ತೆನೆ + ಅನ್ನು. ಇದರಲ್ಲಿ ಪೂರ್ವಪದ, ಉತ್ತರಪದ ಯಾವುದು ತಿಳಿಸಿರಿ. ಇದರಲ್ಲಿ ನಡೆದ ಸಂಧಿಕಾರ್ಯವನ್ನು ಬರೆಯಿರಿ.
+
+  - id: grammar-a-q4
+    type: question
+    exercise: grammar-A
+    text: 4. ಈ ಪದಗಳನ್ನು ಬಿಡಿಸಿ ಬರೆಯಿರಿ. ಸಂಧಿ ಕಾರ್ಯ ಹೇಳಿರಿ. ಸಕ್ಕರೆಯಾಯಿತು, ಕೆಟ್ಟವಳೇನೂ, ದುಃಖಿತನಾದನು
+
+  - id: lang-ex-a-q1
+    type: question
+    exercise: language-exercise-A
+    text: 1. ವಿವಿಧ ವಚನಕಾರರ ವಚನಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಓದಿರಿ.
+
+  - id: lang-ex-a-q2
+    type: question
+    exercise: language-exercise-A
+    text: 2. ಧ್ವನಿ ಸುರುಳಿಯಲ್ಲಿರುವ ವಚನಗಳನ್ನು ಆಲಿಸಿರಿ.
+
+  - id: lang-ex-a-q3
+    type: question
+    exercise: language-exercise-A
+    text: 3. ಸಾಮೂಹಿಕವಾಗಿ ವಚನಗಳನ್ನು ಹಾಡಿರಿ.
+
+  - id: lang-ex-a-q4
+    type: question
+    exercise: language-exercise-A
+    text: 4. ವಚನಕಾರರ ಜೀವನ ಚರಿತ್ರೆಗಳನ್ನು ಓದಿರಿ.
+
+  - id: lang-ex-b-q1
+    type: question
+    exercise: language-exercise-B
+    text: 1. ಬಹಿರಂಗಶುದ್ಧಿಗಿಂತ ಅಂತರಂಗಶುದ್ಧಿ ಬಹಳ ಮುಖ್ಯ.
+
+  - id: lang-ex-b-q2
+    type: question
+    exercise: language-exercise-B
+    text: 2. ದೈವ ಚಿಂತನೆಯಿಂದ ಮನಸ್ಸಿಗೆ ಆನಂದ ದೊರೆಯುತ್ತದೆ.
+
+  - id: lang-ex-b-q3
+    type: question
+    exercise: language-exercise-B
+    text: 3. ಹೊಗಳಿಕೆಗೆ ಹಿಗ್ಗಬಾರದು; ತೆಗಳಿಕೆಗೆ ಕುಗ್ಗಬಾರದು.
+
+  - id: lang-ex-b-q4
+    type: question
+    exercise: language-exercise-B
+    text: 4. ನಡೆನುಡಿಗಳು ಒಂದಾಗಿರಬೇಕು.

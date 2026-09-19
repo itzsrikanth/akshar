@@ -1,0 +1,296 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 2
+  subject: Kannada
+  chapter: 6
+  slug: ch06-sante
+  title: ಸಂತೆ
+  source_url: 'https://textbooks.karnataka.gov.in/uploads/Karnataka_Textbook_Society/2026-27%20TEXTBOOKS/2nd%20STD/LANGUAGE%20TEXTBOOKS/2nd%20KANNADA%20FL%20Part%201%202026-27.pdf'
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: ktbs
+
+labels:
+  prose: ಗದ್ಯ
+  vocab: ಕೇಳಿದ ಪದಗಳು
+  notes: ಪದಗಳ ಅರ್ಥ
+  exercise-A: 'ಅ) ಈ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರ ಹೇಳಿ:'
+  exercise-B: ಆ) ಈ ಮಾತನ್ನು ಯಾರು ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise-C: 'ಇ) ಮಾದರಿಯಂತೆ ಬರೆಯಿರಿ:'
+
+segments:
+  - id: prose-p1
+    type: prose
+    text: ಅಂದು ಶನಿವಾರ ಶಾಲೆಗೆ ಮಧ್ಯಾಹ್ನ ರಜೆ. ಅನಿತಾ, ಜಾನ್, ರಶೀದ್ ಮತ್ತು ಕುಮಾರ ನಾಲ್ವರೂ ತಮ್ಮೂರಿನ ಸಂತೆ ನೋಡಲು ಹೊರಟರು. ಅನಿತಾಳ ಚಿಕ್ಕಪ್ಪ ಜೊತೆಯಲ್ಲಿರುವುದು ಅವರಿಗೆ ತುಂಬಾ ಸಂತೋಷವೆನಿಸಿತು. ಊರಂಚಿನ ಮೈದಾನದಲ್ಲಿ ಸಂತೆ ನೆರೆದಿತ್ತು. ಅಲ್ಲಿ ಸದ್ದು-ಗದ್ದಲ ತುಂಬಿತ್ತು. ಮಕ್ಕಳಿಗೆ ಸಂತೆಯೊಳಗೆ ನುಗ್ಗುವ ಆತುರ. ಆದರೆ ಅನಿತಾಳ ಚಿಕ್ಕಪ್ಪ ಅವರನ್ನು ಸಂತೆಯ ಮುಂಭಾಗದಲ್ಲಿ ನಿಲ್ಲಿಸಿಕೊಂಡು “ಮಕ್ಕಳೇ, ಅವಸರದಿಂದ ಚದುರಿ ಹೋಗಬೇಡಿ. ನನ್ನ ಜೊತೆಯಲ್ಲೇ ಬನ್ನಿ, ಸಂತೆಯಲ್ಲಿ ಸುತ್ತಿಸುವೆ” ಎಂದರು. ಎಲ್ಲರೂ ಖುಷಿಯಿಂದ ಒಪ್ಪಿದರು. ಸಂತೆಯ ಒಳಗೆ ಬಂದರು.
+  - id: prose-p2
+    type: prose
+    text: ಅಲ್ಲಿ ದಿನಸಿ ಅಂಗಡಿಗಳು ಸಾಲು ಸಾಲಾಗಿದ್ದವು. ಅಕ್ಕಿ, ಜೋಳ, ರಾಗಿ, ತೊಗರಿ, ಕಡಲೆ ಮುಂತಾದ ಧಾನ್ಯಗಳ ರಾಶಿ ಒಂದು ಕಡೆ ಇದೆ. ಇನ್ನೊಂದು ಬದಿಯಲ್ಲಿ ತೆಂಗಿನಕಾಯಿ, ಎಳನೀರು, ಕೊಬ್ಬರಿ ಇಟ್ಟಿದ್ದಾರೆ. ಮುಂದಿನ ಸಾಲಿನಲ್ಲಿ ಈರುಳ್ಳಿ, ಬೆಳ್ಳುಳ್ಳಿ ಗುಡ್ಡೆಗಳಿವೆ. ಅದರ ಪಕ್ಕದಲ್ಲಿ ಮೆಣಸಿನ ಕಾಯಿ, ಮರದ ಬುಡದಲ್ಲಿ ವೀಳ್ಯದೆಲೆ, ಬಾಳೆಎಲೆ, ಅಡಿಕೆ ಇವೆ. ಮುಂದೆ ಹೋದರೆ ಬದನೆ, ಸೌತೆ, ಬೆಂಡೆಕಾಯಿ, ತೊಂಡೆಕಾಯಿ, ಟೊಮೆಟೊ ಮುಂತಾದ ತರಕಾರಿಗಳನ್ನು ಇಟ್ಟಿದ್ದಾರೆ. ಪಕ್ಕದಲ್ಲಿ ವಿವಿಧ ಸೊಪ್ಪನ್ನು ಮಾರುತ್ತಿದ್ದಾರೆ.
+  - id: prose-p3
+    type: dialogue
+    speaker: ಅನಿತಾ
+    text: ಓಹೋ ! ಅಲ್ಲಿ ನೋಡಿ, ಘಮಘಮಿಸುವ ಹೂಗಳು.
+  - id: prose-p4
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಬಿಸಿಲಿಗೆ ಬಾಡದಿರಲಿ ಎಂದು ನೆರಳಲ್ಲಿ ಇಟ್ಟಿದ್ದಾರೆ. ಅಲ್ಲಿ ಸೇವಂತಿಗೆ, ಮಲ್ಲಿಗೆ, ಕನಕಾಂಬರ, ಗುಲಾಬಿ, ಚೆಂಡು ಹೂಗಳಿವೆ.
+  - id: prose-p5
+    type: dialogue
+    speaker: ಜಾನ್
+    text: ಇಲ್ಲಿಗೆ ಇವೆಲ್ಲವನ್ನೂ ಎಲ್ಲಿಂದ ತರುತ್ತಾರೆ?
+  - id: prose-p6
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಇವೆಲ್ಲವನ್ನೂ ರೈತರು ತಮ್ಮ ಹೊಲ, ಗದ್ದೆ, ತೋಟಗಳಲ್ಲಿ ಬೆಳೆಯುತ್ತಾರೆ. ಅಲ್ಲಿಂದ ತಂದು ಇಲ್ಲಿ ಮಾರುತ್ತಾರೆ.
+  - id: prose-p7
+    type: dialogue
+    speaker: ರಶೀದ್
+    text: ಚಿಕ್ಕಪ್ಪ, ಅಲ್ಲಿ ಕೈಚೀಲ, ಚೀಲ, ಬುಟ್ಟಿ ಹಿಡಿದು ಜನರು ಓಡಾಡುತ್ತಿದ್ದಾರಲ್ಲ ಏಕೆ?
+  - id: prose-p8
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಅವರೆಲ್ಲ ತಮಗೆ ಬೇಕಾದ ಪದಾರ್ಥಗಳನ್ನು ಕೊಳ್ಳಲು ಬಂದಿದ್ದಾರೆ.
+  - id: prose-p9
+    type: dialogue
+    speaker: ಕುಮಾರ
+    text: ಇಲ್ಲಿ ಎಲ್ಲಾ ಪದಾರ್ಥಗಳು ಸಿಗುತ್ತವೆಯೇ?
+  - id: prose-p10
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಹೌದು, ಬನ್ನಿ ಈ ಅಂಗಡಿಯಲ್ಲಿ ರವೆ, ಗೋಧಿ, ಬೇಳೆ, ಸಾಂಬಾರ ಪದಾರ್ಥಗಳು, ಅರಿಶಿನ, ಕುಂಕುಮ, ಕಾಫಿಪುಡಿ, ಟೀಪುಡಿ, ಚಾಕ್ಲೇಟ್, ಬಿಸ್ಕತ್ ಇನ್ನು ಮುಂತಾದ ಪದಾರ್ಥಗಳೂ ಇವೆ.
+  - id: prose-p11
+    type: dialogue
+    speaker: ಕುಮಾರ
+    text: ನೋಡಿ, ನನ್ನ ಅಕ್ಕ ಬಳಸುವ ರಿಬ್ಬನ್, ಬಳೆ, ಸರ, ಪೌಡರ್ಗಳೂ ಇಲ್ಲಿವೆ.
+  - id: prose-p12
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಹೌದು, ಅದರ ಪಕ್ಕದ ಅಂಗಡಿ ನೋಡಿ. ಅಲ್ಲಿ ಎಲ್ಲಾ ಬಗೆಯ ಸಿದ್ಧವಾದ ಉಡುಪುಗಳು, ಹೊದಿಕೆಗಳು ಸಿಗುತ್ತವೆ.
+  - id: prose-p13
+    type: dialogue
+    speaker: ಅನಿತಾ
+    text: ಅಬ್ಬಾ ! ಸಂತೆಯಲ್ಲಿ ಎಷ್ಟೆಲ್ಲಾ ಅಂಗಡಿಗಳು.
+  - id: prose-p14
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಅಲ್ಲಿ ನೋಡಿ. ಗುದ್ದಲಿ, ಹಾರೆ, ಪಿಕಾಸಿ, ಕುಳ, ಕುಡುಗೋಲು, ವಿವಿಧ ಬಗೆಯ ಹಗ್ಗಗಳಿವೆ. ಇವೆಲ್ಲವೂ ರೈತರಿಗೆ ಬೇಕಾದ ಸಲಕರಣೆಗಳು. ಸುತ್ತಮುತ್ತಲಿನ ಹಳ್ಳಿಯ ಜನರು ಬಂದು ತಮಗೆ ಬೇಕಾದ ವಸ್ತುಗಳನ್ನು ಇಲ್ಲಿ ಖರೀದಿಸುತ್ತಾರೆ.
+  - id: prose-p15
+    type: dialogue
+    speaker: ಜಾನ್
+    text: ಅಲ್ಲಿ ಏನೋ ರಿಪೇರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ, ಏನದು?
+  - id: prose-p16
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಅಲ್ಲಿ ಹಾಳಾಗಿರುವ ಬೀಗ ಹಾಗೂ ಕೊಡೆ ರಿಪೇರಿ ಮಾಡುತ್ತಿದ್ದಾರೆ.
+  - id: prose-p17
+    type: dialogue
+    speaker: ಅನಿತಾ
+    text: ಚಿಕ್ಕಪ್ಪಾ, ಆ ಮೂಲೆಯಲ್ಲಿ ಏನೋ ನಡೆಯುತ್ತಿರುವಂತಿದೆ?
+  - id: prose-p18
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಅಲ್ಲಿ 'ಹಗಲುವೇಷ' ಆಟ ನಡೆಯುತ್ತಿದೆ. ಸಂತೆ ಎಂದರೆ ಕೇವಲ ವ್ಯಾಪಾರ ಮಾಡುವ ಸ್ಥಳ ಅಲ್ಲ. ಹಾಡು, ಆಟಗಳಂತಹ ಮನೋರಂಜನೆಗಳೂ ಇಲ್ಲಿ ನಡೆಯುತ್ತವೆ.
+  - id: prose-p19
+    type: dialogue
+    speaker: ಕುಮಾರ
+    text: ನಾವೂ ಆ ಆಟವನ್ನು ನೋಡೋಣವೇ? (ಎಲ್ಲರೂ ಹಗಲುವೇಷದ ಆಟವನ್ನು ನೋಡುವರು)
+  - id: prose-p20
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಬನ್ನಿ, ಇಲ್ಲಿ ಸೇಬು, ಕಿತ್ತಳೆ, ಮೂಸಂಬಿ, ಪಪ್ಪಾಯಿ, ಬಾಳೆಹಣ್ಣುಗಳನ್ನು ಇಟ್ಟಿದ್ದಾರೆ. ನಿಮಗೆಲ್ಲರಿಗೂ ಹಣ್ಣು ಕೊಡಿಸುವೆ. (ಎಲ್ಲರೂ ಬಾಳೆ ಹಣ್ಣುತಿನ್ನುವರು. ಕುಮಾರನು ಸಿಪ್ಪೆಯನ್ನು ದಾರಿಗೆ ಎಸೆಯುವನು)
+  - id: prose-p21
+    type: dialogue
+    speaker: ರಶೀದ್
+    text: ಕುಮಾರ, ಸಿಪ್ಪೆಯನ್ನು ದಾರಿಗೆ ಎಸೆಯಬಾರದು.
+  - id: prose-p22
+    type: dialogue
+    speaker: ಅನಿತಾ
+    text: ಶಾಲೆ ಹಾಗೂ ಮನೆಯಲ್ಲಿ ಬೇಡವಾದ ವಸ್ತುಗಳನ್ನು ಹಾಕಲು ಕಸದ ಬುಟ್ಟಿಗಳಿವೆ. ಆದರೆ ಈ ಸಂತೆಯಲ್ಲಿ ಕಸವನ್ನು ಎಲ್ಲಿ ಹಾಕುವುದು ಚಿಕ್ಕಪ್ಪ?
+  - id: prose-p23
+    type: dialogue
+    speaker: ಚಿಕ್ಕಪ್ಪ
+    text: ಮಕ್ಕಳೇ ಇಲ್ಲೂ ಕಸದ ತೊಟ್ಟಿಗಳಿವೆ. ಅಲ್ಲಿ ನೋಡಿ, ಆ ತೊಟ್ಟಿಯಲ್ಲಿ ಸಿಪ್ಪೆ ಹಾಕಿರಿ.
+  - id: prose-p24
+    type: prose
+    text: ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಕಸದ ತೊಟ್ಟಿಗೆ ಹಾಕಿದರು. ಸಂತೆ ನೋಡಿದ ಖುಷಿಯಲ್ಲಿ ಎಲ್ಲರೂ ಮನೆಗೆ ಹೊರಟರು.
+
+  - id: vocab-sante
+    type: vocabulary_term
+    text: ಸಂತೆ
+  - id: vocab-gaddala
+    type: vocabulary_term
+    text: ಗದ್ದಲ
+  - id: vocab-angadi
+    type: vocabulary_term
+    text: ಅಂಗಡಿ
+  - id: vocab-vyapara
+    type: vocabulary_term
+    text: ವ್ಯಾಪಾರ
+  - id: vocab-togari
+    type: vocabulary_term
+    text: ತೊಗರಿ
+  - id: vocab-veelyadele
+    type: vocabulary_term
+    text: ವೀಳ್ಯದೆಲೆ
+  - id: vocab-raashi
+    type: vocabulary_term
+    text: ರಾಶಿ
+  - id: vocab-kadale
+    type: vocabulary_term
+    text: ಕಡಲೆ
+  - id: vocab-dhanya
+    type: vocabulary_term
+    text: ಧಾನ್ಯ
+  - id: vocab-guddali
+    type: vocabulary_term
+    text: ಗುದ್ದಲಿ
+  - id: vocab-menasinakayi
+    type: vocabulary_term
+    text: ಮೆಣಸಿನ ಕಾಯಿ
+  - id: vocab-eerulli
+    type: vocabulary_term
+    text: ಈರುಳ್ಳಿ
+  - id: vocab-kasada-totti
+    type: vocabulary_term
+    text: ಕಸದ ತೊಟ್ಟಿ
+  - id: vocab-raita
+    type: vocabulary_term
+    text: ರೈತ
+  - id: vocab-bellulli
+    type: vocabulary_term
+    text: ಬೆಳ್ಳುಳ್ಳಿ
+  - id: vocab-akki
+    type: vocabulary_term
+    text: ಅಕ್ಕಿ
+  - id: vocab-padartha
+    type: vocabulary_term
+    text: ಪದಾರ್ಥ
+  - id: vocab-jola
+    type: vocabulary_term
+    text: ಜೋಳ
+  - id: vocab-maidana
+    type: vocabulary_term
+    text: ಮೈದಾನ
+  - id: vocab-haare
+    type: vocabulary_term
+    text: ಹಾರೆ
+  - id: vocab-salakarane
+    type: vocabulary_term
+    text: ಸಲಕರಣೆ
+  - id: vocab-khushi
+    type: vocabulary_term
+    text: ಖುಷಿ
+
+  - id: note-khushi
+    type: note_term
+    text: ಖುಷಿ
+  - id: note-khushi-def
+    type: note_definition
+    text: ಹಿಗ್ಗು, ಹರ್ಷ
+  - id: note-padartha
+    type: note_term
+    text: ಪದಾರ್ಥ
+  - id: note-padartha-def
+    type: note_definition
+    text: ವಸ್ತು
+  - id: note-raashi
+    type: note_term
+    text: ರಾಶಿ
+  - id: note-raashi-def
+    type: note_definition
+    text: ಗುಂಪು, ಗುಪ್ಪೆ, ಸಮೂಹ
+  - id: note-riperi
+    type: note_term
+    text: ರಿಪೇರಿ
+  - id: note-riperi-def
+    type: note_definition
+    text: ಸರಿಪಡಿಸುವಿಕೆ
+  - id: note-salakarane
+    type: note_term
+    text: ಸಲಕರಣೆ
+  - id: note-salakarane-def
+    type: note_definition
+    text: ಉಪಕರಣ
+  - id: note-dinasi
+    type: note_term
+    text: ದಿನಸಿ
+  - id: note-dinasi-def
+    type: note_definition
+    text: ಧಾನ್ಯ, ದವಸ
+  - id: note-badi
+    type: note_term
+    text: ಬದಿ
+  - id: note-badi-def
+    type: note_definition
+    text: ಪಕ್ಕ, ಮಗ್ಗುಲು
+  - id: note-sambaara
+    type: note_term
+    text: ಸಾಂಬಾರ
+  - id: note-sambaara-def
+    type: note_definition
+    text: ಮಸಾಲೆಯ ಪದಾರ್ಥ.
+  - id: note-vyapara
+    type: note_term
+    text: ವ್ಯಾಪಾರ
+  - id: note-vyapara-def
+    type: note_definition
+    text: ಕೊಳ್ಳುವುದು, ಮಾರುವುದು.
+  - id: note-manoranjane
+    type: note_term
+    text: ಮನೋರಂಜನೆ
+  - id: note-manoranjane-def
+    type: note_definition
+    text: ಮನಸ್ಸನ್ನು ಸಂತೋಷಗೊಳಿಸುವುದು.
+  - id: note-guddali
+    type: note_term
+    text: ಗುದ್ದಲಿ
+  - id: note-guddali-def
+    type: note_definition
+    text: ನೆಲವನ್ನು ಅಗೆಯಲು ಉಪಯೋಗಿಸುವ ಮರದ ಹಿಡಿಯುಳ್ಳ ಕಬ್ಬಿಣದ ಸಾಧನ.
+
+  - id: ex-a-q1
+    type: question
+    exercise: A
+    text: ಗೆಳೆಯರೆಲ್ಲ ಕೂಡಿ ಎಲ್ಲಿಗೆ ಹೋದರು?
+  - id: ex-a-q2
+    type: question
+    exercise: A
+    text: ಸಂತೆಯಲ್ಲಿ ಏನನ್ನು ರಿಪೇರಿ ಮಾಡುತ್ತಿದ್ದರು?
+  - id: ex-a-q3
+    type: question
+    exercise: A
+    text: ಸಂತೆಯಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತಿದ್ದರು?
+  - id: ex-a-q4
+    type: question
+    exercise: A
+    text: ಮಕ್ಕಳು ಬಾಳೆಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಎಲ್ಲಿ ಹಾಕಿದರು?
+
+  - id: ex-b-q1
+    type: question
+    exercise: B
+    text: “ಅವಸರದಿಂದ ಚದುರಿ ಹೋಗಬೇಡಿ''.
+  - id: ex-b-q2
+    type: question
+    exercise: B
+    text: “ಅಲ್ಲಿ ನೋಡಿ, ಘಮಘಮಿಸುವ ಹೂಗಳು”.
+  - id: ex-b-q3
+    type: question
+    exercise: B
+    text: “ಇಲ್ಲಿಗೆ ಇವೆಲ್ಲವನ್ನೂ ಎಲ್ಲಿಂದ ತರುತ್ತಾರೆ?”
+  - id: ex-b-q4
+    type: question
+    exercise: B
+    text: “ಸಿಪ್ಪೆಯನ್ನು ದಾರಿಗೆ ಎಸೆಯಬಾರದು.”
+
+  - id: ex-c-q1
+    type: question
+    exercise: C
+    text: ಅಪ್ಪ -
+  - id: ex-c-q2
+    type: question
+    exercise: C
+    text: ದೊಡ್ಡಪ್ಪ -
+  - id: ex-c-q3
+    type: question
+    exercise: C
+    text: ಮಾವ -

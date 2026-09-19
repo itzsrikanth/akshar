@@ -1,0 +1,376 @@
+meta:
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 6
+  subject: Kannada
+  chapter: 1
+  slug: ch01-doddavara-daari
+  title: ದೊಡ್ಡವರ ದಾರಿ
+  source_url: "https://diksha.gov.in"
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  original_publisher: KTBS
+
+labels:
+  intro: ಪ್ರವೇಶ
+  rajendra_prasad: ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್
+  zakir_hussain: ಡಾ. ಜಾಕಿರ್ ಹುಸೇನ್
+  author: ಕವಿ ಕೃತಿ ಪರಿಚಯ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ವಿವರ ತಿಳಿಯಿರಿ
+  exercise: ಅಭ್ಯಾಸಗಳು
+  grammar: ವ್ಯಾಕರಣ ಮಾಹಿತಿ
+  activity: ಭಾಷಾ ಆಟಗಳು
+  project: ಯೋಜನೆ
+  further_reading: ಪೂರಕ ಓದು
+  quote: ಶುಭ ನುಡಿ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: "ಪ್ರತಿಯೊಬ್ಬರ ಜೀವನದಲ್ಲಿಯೂ ಹಲವಾರು ಮರೆಯಲಾಗದ ಘಟನೆಗಳು ನಡೆಯುತ್ತವೆ. ಅವುಗಳ ಫಲ ಒಮ್ಮೆ ಸಿಹಿ, ಮತ್ತೊಮ್ಮೆ ಕಹಿ. ಕೆಲವು ಘಟನೆಗಳು ಇತರರಿಗೆ ಎಷ್ಟೋ ಅನುಭವ, ಜೀವನ ಪಾಠಗಳನ್ನು ಕಲಿಸಿದ್ದಿವೆ. ಅದರಿಂದ ಮನುಷ್ಯ ಎಚ್ಚರವಾದದ್ದೂ ಇದೆ. ದಾರ್ಶನಿಕರ ಜೀವನದಲ್ಲಿ ನಡೆದ ಘಟನೆಗಳು ದಾರಿದೀಪಗಳಾಗಿ ಇತರರಿಗೆ ಬೆಳಕು ನೀಡುತ್ತವೆ. ಅಂಥವರ ಜೀವನದಲ್ಲಿನ ಘಟನೆಗಳನ್ನು ನಮ್ಮ ಜೀವನದ ಬೆಳಕಿನ ಕಿರಣಗಳನ್ನಾಗಿಸಿಕೊಳ್ಳಬೇಕೆಂಬುದು ಇಲ್ಲಿನ ಆಶಯವಾಗಿದೆ."
+  
+  - id: rp-1
+    type: prose
+    section: rajendra_prasad
+    text: "ಡಾ. ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು ಭಾರತದ ಪ್ರಥಮ ರಾಷ್ಟ್ರಪತಿಗಳು. ಅತ್ಯಂತ ಉನ್ನತ ಸ್ಥಾನಕ್ಕೇರಿದರೂ ಸರಳ ಜೀವನ ನಡೆಸಿದವರು. ಜನಕ ಮಹಾರಾಜನಂತೆ ಅವರದು ಋಷಿಸದೃಶ ಜೀವನ. ಅವರು ಕೋಪವನ್ನು ಹತ್ತಿಕ್ಕಬಲ್ಲವರಾಗಿದ್ದರು. ಬಾಳಿನಲ್ಲಿ ಶಿಸ್ತು, ಸಂಯಮ, ಸಮಯಪಾಲನೆ ಇವುಗಳಿಗೆ ಭಾರಿ ಮಹತ್ವ ನೀಡುತ್ತಿದ್ದರು. ತಾವು ಜನರ ಸೇವಕ ಎಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು."
+  - id: rp-2
+    type: prose
+    section: rajendra_prasad
+    text: "ಒಂದು ದಿನ ಕಚೇರಿಯ ಕೆಲಸ ಮುಗಿಸಿ ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು ಮನೆಗೆ ಬಂದಾಗ ಅವರ ಒಂದು ಪುಸ್ತಕದ ಹಲವು ಪುಟಗಳು ಅಲ್ಲಲ್ಲಿ ಚೆಲ್ಲಾಪಿಲ್ಲಿಯಾಗಿ ಹರಿದು ಬಿದ್ದಿರುವುದನ್ನು ನೋಡಿದರು. ಇದೆಲ್ಲ ಮಕ್ಕಳ ಕೆಲಸ ಎಂಬುದು ಅವರಿಗೆ ಹೊಳೆಯಲು ಹೆಚ್ಚು ವೇಳೆ ಬೇಕಾಗಲಿಲ್ಲ. ಮಕ್ಕಳಿಗೆ ತಮ್ಮ ತಪ್ಪಿನ ಅರಿವಾಗಬೇಕು ಎಂದೆನಿಸಿತು. ಆದರೆ ಆ ಮಕ್ಕಳನ್ನು ಅಪರಾಧಿಗಳಾಗಿಸಲು ಅವರ ಮನ ಒಪ್ಪಲಿಲ್ಲ. ಒಂದು ಉಪಾಯ ಹೂಡಿದರು."
+  - id: rp-3
+    type: prose
+    section: rajendra_prasad
+    text: "ಪ್ರಸಾದರು ಮುಖ ಕೈಕಾಲು ತೊಳೆದು ಬಂದರು. ನಿಧಾನವಾಗಿ ಕೋಣೆಯಲ್ಲಿ ಹರಿದು ಬಿದ್ದಿದ್ದ ಪುಸ್ತಕದ ಪುಟಗಳನ್ನು ಒಂದೊಂದಾಗಿ ಎತ್ತಿ ಮೇಜಿನ ಮೇಲಿಟ್ಟರು. ಬಳಿಕ ಮಕ್ಕಳನ್ನೆಲ್ಲ ಬಳಿಗೆ ಕರೆದರು. ಮಕ್ಕಳು ಓಡೋಡಿ ಬಂದರು. ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು “ಮಕ್ಕಳೇ, ನೋಡಿ ಇಲ್ಲಿ ಎಷ್ಟೊಂದು ಕಾಗದಗಳು ಹರಿದು ಹೋಗಿವೆ. ಇವೆಲ್ಲ ಪುಸ್ತಕದ ಪುಟಗಳು. ನಿಮ್ಮಲ್ಲಿ ಯಾರು ಯಾರು ಎಷ್ಟೆಷ್ಟು ಪುಟಗಳನ್ನು ಹರಿದಿದ್ದೀರೊ ಅವರಿಗೆ ಆ ಪುಟಗಳ ಸಂಖ್ಯೆಗನುಗುಣವಾಗಿ ಕಾಸು ಕೊಡುತ್ತೇನೆ. ಆಗಬಹುದೆ?” ಎಂದರು."
+  - id: rp-4
+    type: prose
+    section: rajendra_prasad
+    text: "ಮಕ್ಕಳು ಒಬ್ಬರ ಮುಖ ಒಬ್ಬರು ನೋಡಿಕೊಂಡರು. ಒಬ್ಬೊಬ್ಬರು ಕಾಸು ಸಿಗುವುದಲ್ಲ ಎಂಬ ಸಂತೋಷದಿಂದ ತಾವು ಹರಿದ ಪುಟಗಳ ಸಂಖ್ಯೆಯನ್ನು ತಿಳಿಸಿದರು. ಪ್ರಸಾದರು ಅವರಿಗೆಲ್ಲ ಅಷ್ಟಷ್ಟು ಕಾಸು ಕೊಟ್ಟರು. ಹುಡುಗರಿಗೆ ಖುಷಿಯೋ ಖುಷಿ! ಆಗ ಪ್ರಸಾದರು “ನೋಡಿ ಮಕ್ಕಳೇ, ಪುಸ್ತಕಗಳು ಜ್ಞಾನ ಭಂಡಾರ. ನಮ್ಮ ತಿಳಿವಳಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಆಕರಗಳು. ಪುಸ್ತಕದ ಪುಟಗಳನ್ನು ಹರಿದು ಹಾಕುವುದು ಒಳ್ಳೆಯ ಅಭ್ಯಾಸವಲ್ಲ. ತಿಳಿಯಿತೆ?” ಎಂದು ಮಕ್ಕಳಿಗೆ ತಿಳಿಯುವಂತೆ ಹೇಳಿದರು."
+  - id: rp-5
+    type: prose
+    section: rajendra_prasad
+    text: "ಮಕ್ಕಳಿಗೆ ತಮ್ಮ ತಪ್ಪಿನ ಅರಿವಾಯಿತು. ಅವರೆಲ್ಲ ರಾಜೇಂದ್ರರಿಗೆ, “ತಾತಾ ನಾವು ಇನ್ನು ಮುಂದೆ ಎಂದೂ ಪುಸ್ತಕಗಳ ಪುಟಗಳನ್ನು ಹರಿಯುವುದಿಲ್ಲ. ಜೋಪಾನ ಮಾಡುತ್ತೇವೆ” ಎಂದು ಪ್ರಮಾಣಮಾಡಿ ಹೇಳಿದರು. ಪ್ರಸಾದರಿಗೆ ಸಮಾಧಾನವಾಯಿತು. ಮಕ್ಕಳಲ್ಲಿ ಅಪರಾಧಿ ಮನೋಭಾವ ಮೂಡಲಿಲ್ಲ. ದೊಡ್ಡ ವ್ಯಕ್ತಿಗಳೇ ಹಾಗೆ. ಕೋಪ, ಅಸಹನೆ, ತಾಳ್ಮೆಗೆಡುವುದು ಇವೆಲ್ಲ ಅವರಿಂದ ದೂರ. ಪ್ರಗತಿಯ ಗುಟ್ಟೇ ಅದು."
+
+  - id: zh-1
+    type: prose
+    section: zakir_hussain
+    text: "ಡಾ. ಜಾಕಿರ್ ಹುಸೇನರು ಭಾರತೀಯ ಶಿಕ್ಷಣದ ಅಭಿವೃದ್ಧಿ ಹಾಗೂ ಸುಧಾರಣೆ ಕುರಿತಂತೆ ಹಲವು ಪುಸ್ತಕಗಳನ್ನು ಬರೆದವರು. ಭಾರತಕ್ಕೆ ಸ್ವಾತಂತ್ರ್ಯ ಬಂದ ಬಳಿಕ ಬಿಹಾರದ ರಾಜ್ಯಪಾಲರಾಗಿ, ಭಾರತದ ಉಪರಾಷ್ಟ್ರಪತಿಗಳಾಗಿ, ಅನಂತರ ರಾಷ್ಟ್ರಪತಿಗಳಾಗಿ ದುಡಿದವರು. ಕೆಲಕಾಲ ಅಲಿಗಢ ಮುಸ್ಲಿಂ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಕುಲಪತಿಗಳೂ ಆಗಿದ್ದರು. ಶಿಕ್ಷಣ ಅವರ ಪ್ರಮುಖ ಕಾರ್ಯಕ್ಷೇತ್ರವಾಗಿತ್ತು."
+  - id: zh-2
+    type: prose
+    section: zakir_hussain
+    text: "ದೆಹಲಿಯ ಜಾಮಿಯಾ ಮಿಲಿಯಾ ವಿಶ್ವವಿದ್ಯಾಲಯ ಉನ್ನತ ಶಿಕ್ಷಣಕ್ಕೆ ಹೆಸರಾದ ಸಂಸ್ಥೆ. ಅದರ ಸ್ಥಾಪಕರು ಡಾ. ಜಾಕಿರ್ ಹುಸೇನರು. ಅವರು ತಮ್ಮ ಜೀವನದ ಬಹುಭಾಗವನ್ನು ಆ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿಯೇ ಕಳೆದರೆನ್ನಬಹುದು. ಅಲ್ಲಿನ ಒಂದು ಘಟನೆ ತುಂಬಾ ರೋಚಕವಾಗಿದೆ."
+  - id: zh-3
+    type: prose
+    section: zakir_hussain
+    text: "ಡಾ. ಜಾಕಿರ್ ಹುಸೇನರು ಶಿಸ್ತು ಮತ್ತು ಶುಚಿಗೆ ಅಪಾರ ಮಹತ್ವ ನೀಡುತ್ತಿದ್ದರು. ಎಲ್ಲ ವಿದ್ಯಾರ್ಥಿಗಳೂ ಪ್ರತಿನಿತ್ಯ ಶುಚಿಯಾದ ಬಟ್ಟೆಗಳನ್ನು ಧರಿಸಿ ಕಾಲೇಜಿಗೆ ಬರಬೇಕು ಹಾಗೂ ಕಾಲಿಗೆ ಹಾಕಿದ ಬೂಟುಗಳನ್ನು ಚೆನ್ನಾಗಿ ಪಾಲಿಶ್ ಮಾಡಿರಬೇಕು ಎಂದು ಹೇಳುತ್ತಿದ್ದರು. ಆದರೆ ಎಷ್ಟೋ ವಿದ್ಯಾರ್ಥಿಗಳು ಜಾಕಿರ್ ಹುಸೇನರು ಹೇಳಿದುದನ್ನು ಸರಿಯಾಗಿ ಪಾಲಿಸುತ್ತಿರಲಿಲ್ಲ. ಇದರಿಂದ ಶಿಸ್ತಿಗೆ ಭಂಗವಾಗುವುದೆಂದು ಹುಸೇನರು ಅಭಿಪ್ರಾಯಪಟ್ಟರು. ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿಕಲಿಸಲು ತಾವೇ ಒಂದು ದಾರಿ ಕಂಡುಕೊಂಡರು."
+  - id: zh-4
+    type: prose
+    section: zakir_hussain
+    text: "ಒಂದು ದಿನ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಪ್ರವೇಶದ್ವಾರದಲ್ಲಿ ಜಾಕಿರ್ ಹುಸೇನರು ಒಬ್ಬ ಬೂಟ್ಪಾಲಿಶ್ ಹಾಕುವವನ ವೇಷದಲ್ಲಿ ಕುಳಿತಿದ್ದು ವಿದ್ಯಾರ್ಥಿಗಳ ಗಮನಕ್ಕೆ ಬಂತು. ಕುಲಪತಿಗಳು ಕೈಯಲ್ಲಿ ಪಾಲಿಶ್ ಡಬ್ಬಿ, ಬ್ರಷ್ ಹಿಡಿದು ಕುಳಿತಿದ್ದ ದೃಶ್ಯ ಕಂಡ ವಿದ್ಯಾರ್ಥಿಗಳು ತಮ್ಮ ವರ್ತನೆಗೆ ನಾಚಿದರು. ಒಂದಿಬ್ಬರು ಪಾಲಿಶ್ ಹಾಕಿಸಿಕೊಂಡೂ ಆಗಿತ್ತು."
+  - id: zh-5
+    type: prose
+    section: zakir_hussain
+    text: "ಅಂದಿನಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳು ನೀಟಾಗಿ ಬಟ್ಟೆ ಧರಿಸಿಕೊಂಡು, ಬೂಟುಗಳಿಗೆ ಪಾಲಿಶ್ ಹಾಕಿಕೊಂಡು ಕಾಲೇಜಿಗೆ ಬರತೊಡಗಿದರು. ಇದು ವಿದ್ಯಾರ್ಥಿಗಳ ಬಾಳಿನಲ್ಲಿ ಶಿಸ್ತು ಬೆಳೆಸಿಕೊಳ್ಳಲು ನೆರವಾಯಿತು."
+  - id: zh-6
+    type: prose
+    section: zakir_hussain
+    text: "“ಶಿಸ್ತು ಮೂಡಿಸಿಕೊಳ್ಳಿ” ಇದು ಜಾಕಿರ್ ಹುಸೇನರ ಆದೇಶವಾಗಿತ್ತು."
+
+  - id: author-1
+    type: prose
+    section: author
+    text: "ಬೆ. ಗೋ. ರಮೇಶ್ ಅವರು 1945ರ ಆಗಸ್ಟ್ 22ರಂದು ಮೈಸೂರು ಜಿಲ್ಲೆಯ ಕೃಷ್ಣರಾಜನಗರ ತಾಲ್ಲೂಕಿನ ದೊಡ್ಡಹನಸೋಗೆ ಗ್ರಾಮದಲ್ಲಿ ಜನಿಸಿದರು. ತಂದೆ ಬಿ.ಎಸ್. ಗೋವಿಂದರಾಜು, ತಾಯಿ ರಾಧಮ್ಮ."
+  - id: author-2
+    type: prose
+    section: author
+    text: "ರಮೇಶ್ ಬಿ.ಇ. ಪದವೀಧರರಾಗಿ ಕರ್ನಾಟಕ ವಿದ್ಯುತ್ ನಿಗಮದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಾಹಕ ಅಭಿಯಂತರರಾಗಿ ಸೇವೆಸಲ್ಲಿಸಿ ನಿವೃತ್ತರಾಗಿರುವರು. ಪ್ರವೃತ್ತಿಯಿಂದ ಸಾಹಿತಿಗಳಾಗಿರುವ ಇವರು ಉತ್ತಮ ಭಾಷಾಂತರಕಾರರೂ ಗಮಕಿಗಳೂ ಆಗಿರುವರು. ಕರ್ನಾಟಕ ಗಮಕ ಕಲಾ ಪರಿಷತ್ತಿನ ಅಧ್ಯಕ್ಷರಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿರುವರು, ಕನ್ನಡದಲ್ಲಿ ವಿವಿಧ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಲ್ಲಿ ಸುಮಾರು ಐನೂರು ಪುಸ್ತಕಗಳನ್ನು ರಚಿಸಿರುವರು. ಜೀವನಚರಿತ್ರೆ, ವ್ಯಕ್ತಿ ಚಿತ್ರಗಳನ್ನು ಬರೆಯುವುದರಲ್ಲಿ ಸಿದ್ಧಹಸ್ತರು. ವಿಶ್ವವಿಖ್ಯಾತ ಮಹಿಳೆಯರು, ನಮ್ಮ ಗಮಕಿಗಳು, ಕನ್ನಡ ಕವಿರತ್ನತ್ರಯರು, ವಿಜ್ಞಾನಿಗಳ ಹಾಗೂ ದೇಶಭಕ್ತರ ಜೀವನ ಚರಿತ್ರೆಗಳು ಇವರ ಗಮನಾರ್ಹ ಕೃತಿಗಳು."
+  - id: author-3
+    type: prose
+    section: author
+    text: "`ಶಾಂತಿಪ್ರಿಯ' ಅಂಕಿತದಲ್ಲಿ ಇವರು ರಚಿಸಿದ ಆರುನೂರು ವಚನಗಳ ಸಂಕಲನ ‘ವಚನಸಾಗರ’ ಕೃತಿಗೆ ವಚನ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಪ್ರಶಸ್ತಿ ಬಂದಿರುತ್ತದೆ. ಸರ್ ಎಂ.ವಿ.ರವರ ಪ್ರಶಸ್ತಿ, ಡೆಪ್ಯುಟಿ ಚನ್ನಬಸಪ್ಪ ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮೊದಲಾದ ಪ್ರಶಸ್ತಿಗಳು ಸಂದಿವೆ."
+  - id: author-4
+    type: prose
+    section: author
+    text: "ಪ್ರಸ್ತುತ ಪಠ್ಯಭಾಗವನ್ನು ಇವರ “ಪ್ರಸಿದ್ಧ ವ್ಯಕ್ತಿಗಳ ಬಾಳಿನಲ್ಲಿ ಒಂದು ಘಟನೆ” ಕೃತಿಯಿಂದ ಆಯ್ದುಕೊಳ್ಳಲಾಗಿದೆ."
+
+  - id: vocab-rashtrapathi
+    type: vocabulary_term
+    section: vocab
+    text: "ರಾಷ್ಟ್ರಪತಿ"
+  - id: vocab-rashtrapathi-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ರಾಷ್ಟ್ರಾಧ್ಯಕ್ಷ, ರಾಷ್ಟ್ರದ ಪ್ರಥಮ ಪ್ರಜೆ"
+  - id: vocab-unnata
+    type: vocabulary_term
+    section: vocab
+    text: "ಉನ್ನತ"
+  - id: vocab-unnata-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಎತ್ತರವಾದ, ಮೇಲಾದ"
+  - id: vocab-hattikku
+    type: vocabulary_term
+    section: vocab
+    text: "ಹತ್ತಿಕ್ಕು"
+  - id: vocab-hattikku-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಅಡಗಿಸು, ದಮನಮಾಡು"
+  - id: vocab-chellapilli
+    type: vocabulary_term
+    section: vocab
+    text: "ಚೆಲ್ಲಾಪಿಲ್ಲಿ"
+  - id: vocab-chellapilli-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಅಸ್ತವ್ಯಸ್ತ, ಚೆದುರು"
+  - id: vocab-anuguna
+    type: vocabulary_term
+    section: vocab
+    text: "ಅನುಗುಣ"
+  - id: vocab-anuguna-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಅನುಸಾರ, ಹೊಂದಿಕೊಂಡು"
+  - id: vocab-akara
+    type: vocabulary_term
+    section: vocab
+    text: "ಆಕರ"
+  - id: vocab-akara-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಮೂಲ ಆಧಾರ"
+  - id: vocab-manobhava
+    type: vocabulary_term
+    section: vocab
+    text: "ಮನೋಭಾವ"
+  - id: vocab-manobhava-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಮನಸ್ಸಿನಭಾವನೆ"
+  - id: vocab-daurbalya
+    type: vocabulary_term
+    section: vocab
+    text: "ದೌರ್ಬಲ್ಯ"
+  - id: vocab-daurbalya-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಬಲಹೀನತೆ"
+  - id: vocab-bhanga
+    type: vocabulary_term
+    section: vocab
+    text: "ಭಂಗ"
+  - id: vocab-bhanga-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಸೋಲು, ವೈಫಲ್ಯ"
+  - id: vocab-vartane
+    type: vocabulary_term
+    section: vocab
+    text: "ವರ್ತನೆ"
+  - id: vocab-vartane-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ನಡತೆ, ರೀತಿ"
+  - id: vocab-adesha
+    type: vocabulary_term
+    section: vocab
+    text: "ಆದೇಶ"
+  - id: vocab-adesha-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಆಜ್ಞೆ, ಅಪ್ಪಣೆ"
+  - id: vocab-sadrusha
+    type: vocabulary_term
+    section: vocab
+    text: "ಸದೃಶ"
+  - id: vocab-sadrusha-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಹೋಲುವ, ಸಾಟಿಯಾದ"
+  - id: vocab-samyama
+    type: vocabulary_term
+    section: vocab
+    text: "ಸಂಯಮ"
+  - id: vocab-samyama-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಹತೋಟಿ, ನಿಯಂತ್ರಣ"
+  - id: vocab-aparadhi
+    type: vocabulary_term
+    section: vocab
+    text: "ಅಪರಾಧಿ"
+  - id: vocab-aparadhi-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ತಪ್ಪುಮಾಡಿದವನು"
+  - id: vocab-bhandara
+    type: vocabulary_term
+    section: vocab
+    text: "ಭಂಡಾರ"
+  - id: vocab-bhandara-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಬೊಕ್ಕಸ, ಖಜಾನೆ"
+  - id: vocab-jopana
+    type: vocabulary_term
+    section: vocab
+    text: "ಜೋಪಾನ"
+  - id: vocab-jopana-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ರಕ್ಷಣೆ, ಜತನ"
+  - id: vocab-pragati
+    type: vocabulary_term
+    section: vocab
+    text: "ಪ್ರಗತಿ"
+  - id: vocab-pragati-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಮುನ್ನಡೆ, ಅಭಿವೃದ್ಧಿ"
+  - id: vocab-rochaka
+    type: vocabulary_term
+    section: vocab
+    text: "ರೋಚಕ"
+  - id: vocab-rochaka-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಕುತೂಹಲಕಾರಿ, ಸೋಜಿಗದಾಯಕ"
+  - id: vocab-praveshadvara
+    type: vocabulary_term
+    section: vocab
+    text: "ಪ್ರವೇಶದ್ವಾರ"
+  - id: vocab-praveshadvara-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಒಳಹೋಗುವ ಮುಖ್ಯ ಬಾಗಿಲು"
+  - id: vocab-neetagi
+    type: vocabulary_term
+    section: vocab
+    text: "ನೀಟಾಗಿ"
+  - id: vocab-neetagi-def
+    type: vocabulary_definition
+    section: vocab
+    text: "ಅಂದವಾಗಿ, ಸೊಗಸಾಗಿ"
+
+  - id: note-janaka-maharaja
+    type: note_term
+    section: notes
+    text: "ಜನಕ ಮಹಾರಾಜ"
+  - id: note-janaka-maharaja-def
+    type: note_definition
+    section: notes
+    text: "ಮಿಥಿಲೆಯ ರಾಜ, ಸೀತೆಯ ತಂದೆ."
+  - id: note-thalmegedu
+    type: note_term
+    section: notes
+    text: "ತಾಳ್ಮೆಗೆಡು"
+  - id: note-thalmegedu-def
+    type: note_definition
+    section: notes
+    text: "ಸಹನೆ ಕಳೆದುಕೊಳ್ಳು, ಕೋಪಕ್ಕೆ ಒಳಗಾಗು."
+  - id: note-samskruti
+    type: note_term
+    section: notes
+    text: "ಸಂಸ್ಕೃತಿ"
+  - id: note-samskruti-def
+    type: note_definition
+    section: notes
+    text: "ದೇಶದ ನಾಗರಿಕತೆಯ ಸಾರ."
+  - id: note-rajyapala
+    type: note_term
+    section: notes
+    text: "ರಾಜ್ಯಪಾಲ"
+  - id: note-rajyapala-def
+    type: note_definition
+    section: notes
+    text: "ರಾಜ್ಯದ ಮುಖ್ಯಸ್ಥ, ರಾಜ್ಯದ ಪ್ರಥಮ ಪ್ರಜೆ."
+  - id: note-vishwavidyalaya
+    type: note_term
+    section: notes
+    text: "ವಿಶ್ವವಿದ್ಯಾಲಯ"
+  - id: note-vishwavidyalaya-def
+    type: note_definition
+    section: notes
+    text: "ಉನ್ನತ ವಿದ್ಯಾಭ್ಯಾಸ ನೀಡುವ ಸಂಸ್ಥೆ."
+  - id: note-kulapati
+    type: note_term
+    section: notes
+    text: "ಕುಲಪತಿ"
+  - id: note-kulapati-def
+    type: note_definition
+    section: notes
+    text: "ವಿಶ್ವವಿದ್ಯಾಲಯದ ಮುಖ್ಯಸ್ಥ."
+  - id: note-karyakshetra
+    type: note_term
+    section: notes
+    text: "ಕಾರ್ಯಕ್ಷೇತ್ರ"
+  - id: note-karyakshetra-def
+    type: note_definition
+    section: notes
+    text: "ಕಾರ್ಯರಂಗ, ಕೆಲಸ ನಿರ್ವಹಿಸುವ ವಲಯದ ವ್ಯಾಪ್ತಿ."
+  - id: note-palish
+    type: note_term
+    section: notes
+    text: "ಪಾಲಿಶ್"
+  - id: note-palish-def
+    type: note_definition
+    section: notes
+    text: "ಹೊಳಪು ಬರುವಂತೆ ಮಾಡುವಿಕೆ."
+  - id: note-buddhikalisuvudu
+    type: note_term
+    section: notes
+    text: "ಬುದ್ಧಿಕಲಿಸು"
+  - id: note-buddhikalisuvudu-def
+    type: note_definition
+    section: notes
+    text: "ತಿಳಿವಳಿಕೆಯನ್ನುಂಟುಮಾಡು, ಸರಿದಾರಿಗೆ ತರು."
+
+  - id: ex-a-q1
+    type: fill_blank
+    section: exercise
+    text: "ಮಕ್ಕಳಿಗೆ ತಮ್ಮ _______________ ಅರಿವಾಗಬೇಕು ಎಂದೆನಿಸಿತು."
+  - id: ex-a-q2
+    type: fill_blank
+    section: exercise
+    text: "ಪ್ರಸಾದರು ಅವರಿಗೆಲ್ಲ ಅಷ್ಟಷ್ಟು ___________ ಕೊಟ್ಟರು."
+  - id: ex-a-q3
+    type: fill_blank
+    section: exercise
+    text: "ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಲು ತಾವೇ ಒಂದು __________ ಕಂಡುಕೊಂಡರು."
+  - id: ex-a-q4
+    type: fill_blank
+    section: exercise
+    text: "ಒಂದಿಬ್ಬರು ______________ ಹಾಕಿಸಿಕೊಂಡೂ ಆಗಿತ್ತು."
+    
+  - id: ex-c-q1
+    type: question
+    section: exercise
+    text: "ರಾಜೇಂದ್ರ ಪ್ರಸಾದರು ತಾವು ಯಾರ ಸೇವಕ ಎಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದರು?"
+  - id: ex-c-q2
+    type: question
+    section: exercise
+    text: "ಪುಸ್ತಕದ ಪುಟಗಳನ್ನು ಹರಿದ ಮಕ್ಕಳಿಗೆ ಪ್ರಸಾದರು ಏನನ್ನು ಕೊಟ್ಟರು?"
+  - id: ex-c-q3
+    type: question
+    section: exercise
+    text: "ಯಾವುದು ಒಳ್ಳೆಯ ಅಭ್ಯಾಸವಲ್ಲ ಎಂದು ಪ್ರಸಾದರು ಮಕ್ಕಳಿಗೆ ಹೇಳಿದರು?"
+  - id: ex-c-q4
+    type: question
+    section: exercise
+    text: "ಜಾಮಿಯಾ ಮಿಲಿಯಾ ಎಲ್ಲಿದೆ?"
+  - id: ex-c-q5
+    type: question
+    section: exercise
+    text: "ಜಾಕಿರ್ ಹುಸೇನರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಲು ಯಾವ ವೇಷ ಹಾಕಿದರು?"
+
+  - id: ex-e-q1
+    type: question
+    section: exercise
+    text: "ರಾಜೇಂದ್ರ ಪ್ರಸಾದ್ ಅವರ ವ್ಯಕ್ತಿತ್ವವನ್ನು ವಿವರಿಸಿರಿ."
+  - id: ex-e-q2
+    type: question
+    section: exercise
+    text: "ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಬುದ್ಧಿ ಕಲಿಸಲು ಜಾಕಿರ್ ಹುಸೇನ್ ಏನು ಮಾಡಿದರು?"

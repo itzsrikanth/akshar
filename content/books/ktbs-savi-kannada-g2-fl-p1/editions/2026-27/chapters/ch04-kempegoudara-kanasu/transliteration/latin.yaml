@@ -1,0 +1,93 @@
+meta:
+  source: source.kn.yaml
+  script: latin
+  contributor: gemini-3.1-pro
+  license: CC BY 4.0
+
+labels:
+  prose: gadya
+  vocab: kēḷida padagaḷu
+  notes: padagaḷa artha
+  exercise-A: 'a) ī praśnegaḷige uttara hēḷi:'
+  exercise-B: 'ā) ī keḷagina vākyagaḷu sari athavā tappu embudannu gurutisi:'
+  exercise-C: 'i) khāli biṭṭiruva jāgagaḷalli sariyāda pada tumbi:'
+  exercise-D: 'ī) keḷage koṭṭiruva ottakṣara padagaḷannu ōdi nakalu māḍi:'
+  exercise-E: 'u) mādariyante keḷagina padagaḷannu bareyiri:'
+  exercise-F: 'ū) caukagaḷalli koṭṭiruva akṣaragaḷannu baḷasi arthabaruva ottakṣara padagaḷannu racisi:'
+  exercise-G: 'r̥) koṭṭiruva vākyagaḷannu duṇḍāgi nakalu māḍi:'
+  title: kempēgauḍara kanasu
+
+prose-p1: beṅgaḷūru bhārata dēśada sundara nagaragaḷalli ondu. adu īga karnāṭaka rājyada rājadhāniyāgide. sumāru nālkanūru varṣagaḷa hinde īgina beṅgaḷūru nagaravu iruva sthaḷadalli ondu kāḍu ittu. ā kāḍina uttarakke tusu dūradalli beṅgaḷūru emba ondu cikka haḷḷiyittu. kāḍina dakṣiṇakke śivasamudravemba haḷḷiyittu. iveraḍu haḷḷigaḷa naḍuvidda kāḍinalli beṅgaḷūru huṭṭitu. adannu kempēgauḍaremba doregaḷu sāmānya śaka 1537ralli kaṭṭisidaru. adannu tanna rājadhāniyāgi māḍikoṇḍu āḷidaru.
+prose-p2: kempēgauḍaru yalahaṅka nāḍina dore. āga yalahaṅkanāḍu vijayanagara sāmrājyada ondu bhāgavāgittu. īgina beṅgaḷūrina uttarakkiruva yalahaṅka emba ūrē kempēgauḍara modalina rājadhāniyāgittu. kempēgauḍaru śūrarū dayāḷuvū dēvaralli bhaktiyuḷḷavarū āgiddaru. prajegaḷannu tanna makkaḷante prītisuttiddaru. prajegaḷū avarannu tandeyante gauravisuttiddaru.
+prose-p3: ondu dina kempēgauḍarige ondu kanasu bittu. kanasinalli obba dēviyu bandu śivasamudrada baḷiya kāḍinalli kāṇadādaḷu. kempēgauḍarige ā kanasina artha tiḷiyalilla. matte matte adē kanasu bittu. kempēgauḍarige āścaryavāyitu. avaru daivabhaktaru. dēviya appaṇe ēnirabēkendu tiḷiyabayasidaru. marudina tanna mantrigaḷannū guruhiriyarannū kareyisikoṇḍaru. tanna kanasannu avarige tiḷisidaru. adu oḷḷeya kanasendu mantrigaḷū guruhiriyarū hēḷidaru. kanasinalli dēviyu kāṇisikoṇḍu mareyāda kāḍinalli ondu nagaravannu kaṭṭabēkendu tiḷisidaru. adarante kempēgauḍaru ondu nagaravannu kaṭṭisalu niścayisidaru.
+prose-p4: śivasamudrada baḷiyalli sthaḷavannu gurutu māḍikoṇḍaru. dēśada nānā bhāgagaḷinda śilpigaḷannu karesidaru. hosa nagaravannu kaṭṭisidaru. hosa nagaravu śivasamudrada baḷi iddudarinda śivasamudravendu adakke hesaru iḍabēkāgittu. ādare kempēgauḍarige ā hesaru oppigeyāgalilla. kempēgauḍara tāyi liṅgamāmbeyavara tavarūrāda beṅgaḷūru emba haḷḷi samīpadalliyē ittu. kempēgauḍara heṇḍati cennāmbe hāgū sose lakṣmāmbeyara tavarūru beṅgaḷūru haḷḷiyē. tanna tāyi, heṇḍati hāgū sose ivarannu kempēgauḍaru bahaḷavāgi prītisuttiddaru. avarannu bahu gauravadinda kāṇuttiddaru. ādudarinda avara savinenapigāgi tānu kaṭṭisida hosa nagarakke beṅgaḷūrendu hesariṭṭaru.
+prose-p5: beṅgaḷūru nagaravannu kaṭṭisida suddiyu suttalū haraḍitu. dēśada nānā bhāgagaḷinda kasabudāraru bandaru. kasabugaḷu cennāgi beḷeyalendu bēre bēre kasabudārarige kempēgauḍaru bēre bēre kērigaḷannu kaṭṭisikoṭṭaru. kasabudārarinda kaigārikegaḷu beḷedavu. beṅgaḷūrina sampattu heccitu. sampattinoḍane paṭṭaṇavū beḷeyatoḍagitu. paṭṭaṇada nālku mūlegaḷalli nālku kāvalu gōpuragaḷannu kaṭṭisidaru. beṅgaḷūralli ī gōpuragaḷannu īgalū nōḍabahudu.
+prose-p6: kempēgauḍaru anēka guḍigaḷannū keregaḷannū kaṭṭisidaru. avugaḷalli beṅgaḷūrinalliruva doḍḍa basavaṇṇana guḍi, gavi gaṅgādharēśvara guḍi mattu kempāmbudhi kere ivu mukhyavādavu. kempēgauḍara daivabhakti, prajāprēma, buddhivantike ivugaḷannu vijayanagarada arasarāgidda acyutarāyaru bahaḷa meccidaru. andavāda beṅgaḷūru nagarada suddi kēḷi arasarige bahaḷa santōṣavāyitu. dasareya utsavakke vijayanagarada mahārājaru kempēgauḍarannu baramāḍikoṇḍaru. beṅgaḷūru samīpada hattu ūrugaḷannu avaru kempēgauḍarige dānavāgi koṭṭaru. kempēgauḍaru kaṭṭisida beṅgaḷūru doḍḍa nagaravāgi beḷedu īga namma rājyada rājadhāniyāgide.
+
+vocab-bengalooru: beṅgaḷūru
+vocab-karnataka: karnāṭaka
+vocab-rajadhani: rājadhāni
+vocab-kaadu: kāḍu
+vocab-uttara: uttara
+vocab-halli: haḷḷi
+vocab-shivasamudra: śivasamudra
+vocab-yalahanka: yalahaṅka
+vocab-vijayanagara: vijayanagara
+vocab-samrajya: sāmrājya
+vocab-dayalu: dayāḷu
+vocab-bhakti: bhakti
+vocab-praje: praje
+vocab-preeti: prīti
+vocab-gourava: gaurava
+vocab-kanasu: kanasu
+vocab-mantri: mantri
+vocab-nagara: nagara
+vocab-shilpi: śilpi
+vocab-kasabu: kasabu
+vocab-sampattu: sampattu
+vocab-kaavalu: kāvalu
+vocab-gopura: gōpura
+vocab-prajaprema: prajāprēma
+vocab-dasare: dasare
+vocab-buddhivantike: buddhivantike
+vocab-santosha: santōṣa
+
+note-kasabu: kasabu
+note-kasabu-def: udyōga
+note-gudi: guḍi
+note-gudi-def: dēgula
+note-tavarooru: tavarūru
+note-tavarooru-def: huṭṭida ūru
+note-rajadhani: rājadhāni
+note-rajadhani-def: ondu rājya athavā dēśada mukhya āḍaḷita kēndra
+note-kavalu-gopura: kāvalu gōpura
+note-kavalu-gopura-def: śatrugaḷu baradante ūrannu kāyalu ettarada jāgadalli kaṭṭisuva gōpura.
+
+ex-a-q1: namma rājyada rājadhāni yāvudu?
+ex-a-q2: kempēgauḍara modalina rājadhāni yāvudu?
+ex-a-q3: kempēgauḍaru beṅgaḷūrannu ēke kaṭṭisidaru?
+ex-a-q4: kempēgauḍaru tānu kaṭṭisida hosa nagarakke beṅgaḷūrendu ēke hesariṭṭaru?
+ex-a-q5: acyutarāyaru kempēgauḍarige hattu ūrugaḷannu dāna koḍalu kāraṇavēnu?
+ex-a-q6: kempēgauḍaru gōpuravannu ēke kaṭṭisidaru?
+
+ex-b-q1: vijayanagaravu kempēgauḍara rājadhāniyāgittu.
+ex-b-q2: śivasamudrada kāḍinalli hosa nagaravannu kempēgauḍaru kaṭṭisidaru.
+ex-b-q3: hosa nagaravannu kaṭṭalu prēraṇe sikkiddu ondu kanasininda.
+ex-b-q4: kempēgauḍara tāyiya ūru beṅgaḷūremba haḷḷi.
+ex-b-q5: kempāmbudhi kereyannu acyutarāyaru kaṭṭisidaru.
+
+ex-c-q1: kempēgauḍaru _____gaḷannu tanna makkaḷante prītisuttiddaru.
+ex-c-q2: kanasinalli dēviyu kāṇisikoṇḍu mareyāda kāḍinalli ondu _____vannu kaṭṭabēku endu tiḷisidaru.
+ex-c-q3: kasabudārarinda __________ beḷedavu.
+
+ex-d-q1: uttara
+ex-d-q2: oḷḷeya
+ex-d-q3: oppige
+ex-d-q4: cennāmbe
+ex-d-q5: sampattu
+
+ex-e-q1: kāḍu
+ex-e-q2: haḷḷi
+ex-e-q3: mara
+ex-e-q4: śilpi
+ex-e-q5: kere

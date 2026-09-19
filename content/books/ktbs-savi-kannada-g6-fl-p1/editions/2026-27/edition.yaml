@@ -1,0 +1,21 @@
+id: 2026-27
+bookId: ktbs-savi-kannada-g6-fl-p1
+label: Savi Kannada Grade 6 First Language Part 1 (2026–27)
+printedGrade: 6
+languageRole: first-language
+license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+academicYears:
+- 2026-27
+provenance:
+  sourceDocuments:
+  - label: g06-fl-p1-2026-27.pdf
+    sha256: dfae3d6f934bbc385a33767c1eb84fe6f03bb04fe76cc9fbc494a1280edce7f3
+  notes: Partial conversion checkpoint for Grade 6 FL Part 1. Chapters are held editorial
+    drafts; production API excluded until rights are verified.
+chapters:
+- id: ch01-doddavara-daari
+  number: 1
+  title: ದೊಡ್ಡವರ ದಾರಿ
+  legacyPath: content/books/ktbs-savi-kannada-g6-fl-p1/editions/2026-27/chapters/ch01-doddavara-daari
+  formerPath: KSEEB/Karnataka/Kannada/Grade6/Kannada/ch01-doddavara-daari
+  held: true
