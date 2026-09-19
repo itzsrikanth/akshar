@@ -14,13 +14,27 @@ import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
 import { useReadingHistoryMap } from '@/hooks/use-reading-history';
+import { useV2ReadingHistoryMap } from '@/hooks/use-v2-reading-history';
 import { useTheme } from '@/hooks/use-theme';
+import { useV2Catalog } from '@/hooks/use-v2-catalog';
+import { useV2Downloads } from '@/hooks/use-v2-downloads';
+import { useV2Selection } from '@/hooks/use-v2-selection';
 import type { Catalog } from '@/services/content-repository';
 import { canonicalChapterPath } from '@/services/catalog-compatibility';
 import { formatRelativeTime } from '@/services/reading-history';
+import {
+  type V2Catalog,
+  type V2Selection,
+  canonicalChapterKey,
+  catalogChapterIdentity,
+  chaptersForAdoption,
+} from '@/services/v2';
 
 export default function LibraryScreen() {
-  const state = useCatalog();
+  const v1State = useCatalog();
+  const v2State = useV2Catalog();
+  const { selection, loaded } = useV2Selection();
+  const useV2 = loaded && selection !== null && v2State.status === 'ready';
 
   return (
     <ThemedView style={styles.container}>
@@ -31,14 +45,20 @@ export default function LibraryScreen() {
             Chapters you've downloaded for offline reading
           </ThemedText>
 
-          {state.status === 'loading' ? (
+          {!loaded || (useV2 ? false : v1State.status === 'loading') || (selection && v2State.status === 'loading') ? (
             <LibrarySkeleton />
-          ) : state.status === 'error' ? (
-            <AsyncStateView state={state} />
-          ) : (
+          ) : useV2 && v2State.status === 'ready' && selection ? (
             <FadeInView>
-              <LibraryContent catalog={state.catalog} />
+              <LibraryV2Content catalog={v2State.catalog} selection={selection} />
             </FadeInView>
+          ) : v1State.status === 'error' ? (
+            <AsyncStateView state={v1State} />
+          ) : v1State.status === 'ready' ? (
+            <FadeInView>
+              <LibraryContent catalog={v1State.catalog} />
+            </FadeInView>
+          ) : (
+            <LibrarySkeleton />
           )}
 
           <Touchable onPress={() => router.push('/explore')} style={styles.browseLink}>
@@ -49,6 +69,68 @@ export default function LibraryScreen() {
         </ScrollView>
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+function LibraryV2Content({ catalog, selection }: { catalog: V2Catalog; selection: V2Selection }) {
+  const theme = useTheme();
+  const downloads = useV2Downloads();
+  const history = useV2ReadingHistoryMap();
+  const chapters = useMemo(() => chaptersForAdoption(catalog, selection), [catalog, selection]);
+  const downloaded = useMemo(
+    () => chapters.filter((c) => downloads.isDownloaded(catalogChapterIdentity(c))),
+    [chapters, downloads.downloadedKeys],
+  );
+
+  if (downloaded.length === 0) {
+    return (
+      <ThemedText type="small" themeColor="textSecondary">
+        Nothing downloaded yet — browse Explore and tap the download icon on a chapter to read it offline. Chapters are
+        shared across learner contexts for the same book edition.
+      </ThemedText>
+    );
+  }
+
+  return (
+    <>
+      <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+        {`DOWNLOADED · ${downloaded.length}`}
+      </ThemedText>
+      {downloaded.map((chapter, i) => {
+        const identity = catalogChapterIdentity(chapter);
+        const key = canonicalChapterKey(identity);
+        const opened = history.get(key);
+        return (
+          <Touchable
+            key={key}
+            onPress={() =>
+              router.push({
+                pathname: '/reader',
+                params: {
+                  bookId: identity.bookId,
+                  editionId: identity.editionId,
+                  chapterId: identity.chapterId,
+                },
+              })
+            }
+            style={[styles.row, i < downloaded.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+          >
+            <View style={[styles.icon, { backgroundColor: theme.tintMuted }]}>
+              <MaterialCommunityIcons name="book-open-page-variant" size={22} color={theme.tint} />
+            </View>
+            <View style={styles.f1}>
+              <ThemedText type="default">{chapter.title}</ThemedText>
+              <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
+                {opened ? `Opened ${formatRelativeTime(opened.openedAt)}` : 'Not opened yet'}
+              </ThemedText>
+            </View>
+            <Touchable onPress={() => downloads.remove(identity)} hitSlop={8}>
+              <MaterialCommunityIcons name="delete-outline" size={20} color={theme.error} />
+            </Touchable>
+          </Touchable>
+        );
+      })}
+    </>
   );
 }
 

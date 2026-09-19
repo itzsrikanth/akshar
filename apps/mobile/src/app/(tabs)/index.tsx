@@ -15,30 +15,149 @@ import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useDownloads } from '@/hooks/use-downloads';
 import { useLastOpenedChapter } from '@/hooks/use-reading-history';
+import { useLastOpenedV2Chapter } from '@/hooks/use-v2-reading-history';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
+import { useV2Catalog } from '@/hooks/use-v2-catalog';
+import { useV2Downloads } from '@/hooks/use-v2-downloads';
+import { useV2Selection } from '@/hooks/use-v2-selection';
 import type { Catalog } from '@/services/content-repository';
 import { canonicalChapterPath } from '@/services/catalog-compatibility';
 import { formatRelativeTime } from '@/services/reading-history';
+import {
+  catalogChapterIdentity,
+  chaptersForAdoption,
+  findAdoptionOption,
+} from '@/services/v2';
 
 export default function HomeScreen() {
-  const state = useCatalog();
+  const v1State = useCatalog();
+  const v2State = useV2Catalog();
+  const { selection, loaded } = useV2Selection();
+  const useV2 = loaded && selection !== null && v2State.status === 'ready';
 
   return (
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea} edges={['top']}>
         <AppHeader onSettingsPress={() => router.push('/settings')} />
-        {state.status === 'loading' ? (
+        {!loaded || (useV2 ? false : v1State.status === 'loading') || (selection && v2State.status === 'loading') ? (
           <HomeSkeleton />
-        ) : state.status === 'error' ? (
-          <AsyncStateView state={state} />
-        ) : (
+        ) : useV2 && v2State.status === 'ready' && selection ? (
           <FadeInView style={styles.fill}>
-            <HomeContent catalog={state.catalog} />
+            <HomeV2Content catalog={v2State.catalog} selection={selection} />
           </FadeInView>
+        ) : v1State.status === 'error' ? (
+          <AsyncStateView state={v1State} />
+        ) : v1State.status === 'ready' ? (
+          <FadeInView style={styles.fill}>
+            <HomeContent catalog={v1State.catalog} />
+          </FadeInView>
+        ) : (
+          <HomeSkeleton />
         )}
       </SafeAreaView>
     </ThemedView>
+  );
+}
+
+function HomeV2Content({
+  catalog,
+  selection,
+}: {
+  catalog: import('@/services/v2').V2Catalog;
+  selection: import('@/services/v2').V2Selection;
+}) {
+  const theme = useTheme();
+  const downloads = useV2Downloads();
+  const lastOpened = useLastOpenedV2Chapter();
+  const adoption = findAdoptionOption(catalog, selection.adoptionId);
+  const chapters = useMemo(() => chaptersForAdoption(catalog, selection), [catalog, selection]);
+  const continueReading = lastOpened
+    ? chapters.find(
+        (chapter) =>
+          chapter.bookId === lastOpened.bookId &&
+          chapter.editionId === lastOpened.editionId &&
+          chapter.chapterId === lastOpened.chapterId,
+      )
+    : undefined;
+  const downloadedCount = chapters.filter((c) => downloads.isDownloaded(catalogChapterIdentity(c))).length;
+
+  return (
+    <ScrollView contentContainerStyle={styles.content}>
+      {continueReading && lastOpened && (
+        <View style={styles.section}>
+          <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+            CONTINUE READING
+          </ThemedText>
+          <ThemedView type="backgroundElement" style={[styles.card, { borderRadius: Radius.large }]}>
+            <ThemedText type="subtitle">{continueReading.title}</ThemedText>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt4}>
+              {adoption?.displayLabel ?? `${selection.bookId} · ${selection.editionId}`}
+            </ThemedText>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt6}>
+              {`Opened ${formatRelativeTime(lastOpened.openedAt)}`}
+            </ThemedText>
+            <Touchable
+              onPress={() =>
+                router.push({
+                  pathname: '/reader',
+                  params: {
+                    bookId: continueReading.bookId,
+                    editionId: continueReading.editionId,
+                    chapterId: continueReading.chapterId,
+                  },
+                })
+              }
+              style={[styles.pillButton, { backgroundColor: theme.tint }]}
+            >
+              <ThemedText type="smallBold" themeColor="onTint">
+                Continue reading
+              </ThemedText>
+            </Touchable>
+          </ThemedView>
+        </View>
+      )}
+
+      {adoption && (
+        <View style={styles.section}>
+          <View style={styles.sectionHeaderRow}>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+              YOUR CONTEXT
+            </ThemedText>
+            <Touchable onPress={() => router.push('/adoption-setup')} hitSlop={8}>
+              <ThemedText type="smallBold" themeColor="tint">
+                Edit
+              </ThemedText>
+            </Touchable>
+          </View>
+          <View style={styles.chipsRow}>
+            {[adoption.displayLabel, adoption.bookTitle].map((label) => (
+              <View key={label} style={[styles.chip, { borderColor: theme.border }]}>
+                <ThemedText type="small">{label}</ThemedText>
+              </View>
+            ))}
+          </View>
+        </View>
+      )}
+
+      <View style={styles.section}>
+        <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+          BOOK
+        </ThemedText>
+        <Touchable onPress={() => router.push('/explore')} style={[styles.subjectRow, { borderColor: theme.border }]}>
+          <View style={[styles.subjectIcon, { backgroundColor: theme.tintMuted }]}>
+            <MaterialCommunityIcons name="book-open-page-variant" size={22} color={theme.tint} />
+          </View>
+          <View style={styles.f1}>
+            <ThemedText type="default">{adoption?.bookTitle ?? selection.bookId}</ThemedText>
+            <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+              {`${downloadedCount} chapter${downloadedCount === 1 ? '' : 's'} downloaded · ${chapters.length} available`}
+            </ThemedText>
+          </View>
+          <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
+        </Touchable>
+      </View>
+    </ScrollView>
   );
 }
 
@@ -47,10 +166,6 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
   const { scope } = useScope(catalog);
   const downloads = useDownloads();
   const lastOpened = useLastOpenedChapter();
-  // Real chapter, looked up by the path actually opened — not
-  // catalog.chapters[0] (that was a fabricated stand-in for "the user's
-  // current chapter" with no basis in what they'd actually read). Section
-  // simply doesn't render until there's a real entry (see JSX below).
   const continueReading = lastOpened
     ? catalog.chapters.find((chapter) => canonicalChapterPath(chapter.path) === canonicalChapterPath(lastOpened.path))
     : undefined;

@@ -69,6 +69,15 @@ export function deleteChapter(slug: string): void {
 
 export function clearDownloadedChapters(): void {
   if (!__DEV__) throw new Error('Clearing all downloads is only available in development builds.');
+  removeDownloadsDirectory();
+}
+
+/** Explicit post-migration cleanup — allowed outside __DEV__. */
+export function clearDownloadedChaptersForMigration(): void {
+  removeDownloadsDirectory();
+}
+
+function removeDownloadsDirectory(): void {
   if (downloadsDir.exists) downloadsDir.delete();
   invalidate();
 }

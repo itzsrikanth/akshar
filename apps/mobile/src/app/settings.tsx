@@ -2,8 +2,8 @@ import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Host, Picker } from '@expo/ui';
 import Constants from 'expo-constants';
 import { router } from 'expo-router';
-import { useMemo } from 'react';
-import { Linking, ScrollView, StyleSheet, View } from 'react-native';
+import { useMemo, useState } from 'react';
+import { Alert, Linking, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
@@ -18,10 +18,13 @@ import { useCatalog } from '@/hooks/use-catalog';
 import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useScope } from '@/hooks/use-scope';
 import { useTheme } from '@/hooks/use-theme';
+import { useV2Catalog } from '@/hooks/use-v2-catalog';
+import { useV2Selection } from '@/hooks/use-v2-selection';
 import { openFeedbackForm } from '@/services/crash-reporting';
 import type { Catalog } from '@/services/content-repository';
 import { filterChapters } from '@/services/hierarchy';
 import { availableLanguages, availableScripts, labelForLanguage, labelForScript } from '@/services/scope';
+import { clearLegacyV1LocalData, findAdoptionOption } from '@/services/v2';
 
 export default function SettingsScreen() {
   const state = useCatalog();
@@ -58,11 +61,13 @@ export default function SettingsScreen() {
 function SettingsContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
   const { scope, isSaved } = useScope(catalog);
-  // Scoped to the saved default scope, not the whole catalog — a parent
-  // should never be offered a language/script that isn't actually available
-  // for their kid's board/state/medium/grade (see services/scope.ts).
-  // Today this is a no-op (one scope, one language, one script exist) — it
-  // stops being one the moment content grows.
+  const v2Catalog = useV2Catalog();
+  const { selection } = useV2Selection();
+  const adoption =
+    selection && v2Catalog.status === 'ready'
+      ? findAdoptionOption(v2Catalog.catalog, selection.adoptionId)
+      : undefined;
+  const [clearingLegacy, setClearingLegacy] = useState(false);
   const scopedChapters = useMemo(
     () => (scope ? filterChapters(catalog.chapters, [scope.board, scope.state, scope.medium, scope.grade]) : catalog.chapters),
     [catalog, scope],
@@ -79,6 +84,28 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
   const translation = preference.translationLanguage ?? translationOptions[0]?.value;
   const transliteration = preference.transliterationScript ?? transliterationOptions[0]?.value;
 
+  const confirmClearLegacy = () => {
+    Alert.alert(
+      'Remove old offline copies?',
+      'This deletes legacy folder-based downloads, reading history, and the old saved scope on this device. Your new book downloads, learner context, and reading preferences stay. This cannot be undone.',
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'Remove old copies',
+          style: 'destructive',
+          onPress: () => {
+            setClearingLegacy(true);
+            clearLegacyV1LocalData()
+              .catch((err) => {
+                Alert.alert('Could not clear old data', err instanceof Error ? err.message : String(err));
+              })
+              .finally(() => setClearingLegacy(false));
+          },
+        },
+      ],
+    );
+  };
+
   return (
     <>
       {translationOptions.length > 0 && (
@@ -89,11 +116,6 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
           <View style={[styles.card, { borderColor: theme.border }]}>
             <View style={[styles.row, { borderBottomWidth: 1, borderBottomColor: theme.border }]}>
               <ThemedText type="default">Translation language</ThemedText>
-              {/* `useTheme()` is hardcoded to Colors.light for v1 (dark mode isn't wired up
-                  yet) — but Host's embedded SwiftUI content follows the device's actual
-                  system appearance unless told otherwise, so on a phone set to system Dark
-                  Mode this picker would render with dark-scheme native styling (a washed,
-                  disabled-looking pill) inside an otherwise all-light page. Pin it. */}
               <Host matchContents colorScheme="light">
                 <Picker
                   selectedValue={translation}
@@ -107,7 +129,6 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
             </View>
             <View style={styles.row}>
               <ThemedText type="default">Transliteration script</ThemedText>
-              {/* Same reasoning as the Host above. */}
               <Host matchContents colorScheme="light">
                 <Picker
                   selectedValue={transliteration}
@@ -131,7 +152,27 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
         <FontSizeStepper showLabel />
       </View>
 
-      {scope && (
+      {(adoption || selection) && (
+        <>
+          <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+            LEARNER CONTEXT
+          </ThemedText>
+          <Touchable
+            onPress={() => router.push('/adoption-setup')}
+            style={[styles.card, styles.row, { borderColor: theme.border }]}
+          >
+            <View style={styles.f1}>
+              <ThemedText type="small">{adoption?.displayLabel ?? selection!.adoptionId}</ThemedText>
+              <ThemedText type="small" themeColor="textDisabled" style={styles.mt2}>
+                {adoption ? `${adoption.bookTitle} · tap to switch context` : 'Tap to choose a learner context'}
+              </ThemedText>
+            </View>
+            <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
+          </Touchable>
+        </>
+      )}
+
+      {scope && !selection && (
         <>
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             DEFAULT SCOPE
@@ -148,6 +189,27 @@ function SettingsContent({ catalog }: { catalog: Catalog }) {
               )}
             </View>
             <MaterialCommunityIcons name="chevron-right" size={18} color={theme.textDisabled} />
+          </Touchable>
+        </>
+      )}
+
+      {selection && (
+        <>
+          <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
+            STORAGE
+          </ThemedText>
+          <Touchable
+            onPress={confirmClearLegacy}
+            disabled={clearingLegacy}
+            style={[styles.card, styles.row, { borderColor: theme.border, opacity: clearingLegacy ? 0.5 : 1 }]}
+          >
+            <View style={styles.f1}>
+              <ThemedText type="small">Remove old offline copies</ThemedText>
+              <ThemedText type="small" themeColor="textDisabled" style={styles.mt2}>
+                Clears legacy downloads and history only. Keeps your current book downloads and learner context.
+              </ThemedText>
+            </View>
+            <MaterialCommunityIcons name="delete-outline" size={18} color={theme.error} />
           </Touchable>
         </>
       )}
@@ -209,7 +271,13 @@ const styles = StyleSheet.create({
   pageTitle: { marginTop: Spacing.three, marginBottom: Spacing.four },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
   card: { borderWidth: 1, borderRadius: Radius.medium, marginBottom: Spacing.four, overflow: 'hidden' },
-  row: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three, paddingHorizontal: Spacing.three },
+  row: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingVertical: Spacing.three,
+    paddingHorizontal: Spacing.three,
+  },
   f1: { flex: 1 },
   mt2: { marginTop: 2 },
   versionText: { textAlign: 'center', marginTop: Spacing.two, marginBottom: Spacing.four },

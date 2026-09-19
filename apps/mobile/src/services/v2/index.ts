@@ -75,3 +75,5 @@ export {
 } from './downloads';
 
 export { loadV2Chapter, refreshDownloadedV2Chapter } from './use-chapter-support';
+
+export { clearLegacyV1LocalData } from './clear-legacy-v1';

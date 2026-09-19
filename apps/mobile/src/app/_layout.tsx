@@ -93,6 +93,7 @@ function RootLayout() {
         <Stack.Screen name="(tabs)" />
         <Stack.Screen name="settings" />
         <Stack.Screen name="scope-setup" />
+        <Stack.Screen name="adoption-setup" />
         <Stack.Screen name="reader" />
         <Stack.Screen name="exercises" />
         <Stack.Screen name="search" />
