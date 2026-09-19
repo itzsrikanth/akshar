@@ -14,7 +14,6 @@ EDITION_SCHEMA = json.loads((SCHEMA_DIR / "edition.schema.json").read_text(encod
 ADOPTIONS_SCHEMA = json.loads((SCHEMA_DIR / "adoptions.schema.json").read_text(encoding="utf-8"))
 
 PUBLICATION_ROOTS = (
-    Path("fixtures/publication"),
     Path("content"),
 )
 
@@ -148,6 +147,13 @@ def validate_publication_identity(repo_root: Path, errors, holds: dict | None = 
                 errors.add(path, f"legacyPath does not exist: {legacy!r}")
             elif not list(chapter_dir.glob("source.*.yaml")):
                 errors.add(path, f"legacyPath has no source.*.yaml: {legacy!r}")
+
+            former = chapter.get("formerPath")
+            if former is not None:
+                if not isinstance(former, str) or not former:
+                    errors.add(path, f"invalid formerPath for chapter {chapter_id!r}")
+                elif not is_safe_relative(Path(former)):
+                    errors.add(path, f"unsafe formerPath: {former!r}")
 
             if holds is not None:
                 held_by_config = legacy in holds

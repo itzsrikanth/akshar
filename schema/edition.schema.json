@@ -81,7 +81,12 @@
           "legacyPath": {
             "type": "string",
             "minLength": 1,
-            "description": "Repo-relative chapter directory until content is relocated under content/books/."
+            "description": "Repo-relative chapter directory (content/books/.../chapters/<id> after relocation)."
+          },
+          "formerPath": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Optional pre-relocation board-tree path retained as migration/rollback evidence."
           },
           "held": {
             "type": "boolean",

@@ -8,7 +8,7 @@ This repository, and any `apps/`/`packages/` code added to it later, is **public
 
 ## Planned layout (monorepo)
 
-Content currently lives under the legacy `{board}/...` tree. The target publication/edition layout and migration are documented in `docs/publication-model.md`; implementation is authorized but the schema is not implemented yet. Keep content, schemas, and scripts separate from `apps/` and `packages/` so non-developer contributors never have to navigate app code. Do not move legacy content into `content/books/...` until the validator, compiler, publication holds, and new-client support are implemented and tested together. `api/` holds generated JSON compiled from YAML (see `scripts/build_json.py`), served as-is via a CDN — never hand-edit it. `apps/` and `packages/` are reserved for app code; don't add unrelated content there.
+Pilot published YAML lives under `content/books/<book-id>/editions/<edition-id>/chapters/<chapter-id>/` with book/edition/adoption metadata beside it; see `docs/publication-model.md`. Legacy `{board}/...` trees may still appear for unmoved content. Keep content, schemas, and scripts separate from `apps/` and `packages/` so non-developer contributors never have to navigate app code. Further moves into `content/books/...` must keep validator, compiler, publication holds, and client support working together; v1 API paths are derived from chapter `meta`, not filesystem location. `api/` holds generated JSON compiled from YAML (see `scripts/build_json.py`), served as-is via a CDN — never hand-edit it. `apps/` and `packages/` are reserved for app code; don't add unrelated content there.
 
 ## Publication identity and supported-client compatibility
 

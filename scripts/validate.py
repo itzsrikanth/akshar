@@ -17,14 +17,31 @@ from publication_identity import validate_publication_identity
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_DIR = REPO_ROOT / "schema"
 
-# Directories that may contain source.*.yaml but are not legacy board trees.
+# Directories that may contain source.*.yaml but are not chapter content trees.
 SKIP_CHAPTER_ROOT_PREFIXES = (
     "fixtures/",
     "apps/",
     "packages/",
     "api/",
-    "content/",
 )
+
+SOURCE_SCHEMA = json.loads((SCHEMA_DIR / "source.schema.json").read_text(encoding="utf-8"))
+CONTRIBUTOR_SCHEMA = json.loads((SCHEMA_DIR / "contributor.schema.json").read_text(encoding="utf-8"))
+
+INVISIBLE_CHARS = {
+    "﻿": "BOM / zero-width no-break space (U+FEFF)",
+    "�": "replacement character (U+FFFD) — indicates a prior encoding error",
+    "​": "zero-width space (U+200B)",
+    "‌": "zero-width non-joiner (U+200C)",
+    "‍": "zero-width joiner (U+200D)",
+    "⁠": "word joiner (U+2060)",
+}
+
+
+class Errors(list):
+    def add(self, path, msg):
+        self.append(f"{path.relative_to(REPO_ROOT)}: {msg}")
+
 
 SOURCE_SCHEMA = json.loads((SCHEMA_DIR / "source.schema.json").read_text(encoding="utf-8"))
 CONTRIBUTOR_SCHEMA = json.loads((SCHEMA_DIR / "contributor.schema.json").read_text(encoding="utf-8"))
@@ -49,6 +66,16 @@ def find_chapter_dirs(root):
         relative = path.relative_to(root).as_posix()
         if any(relative.startswith(prefix) for prefix in SKIP_CHAPTER_ROOT_PREFIXES):
             continue
+        # Under content/, only edition chapter folders are sources of truth.
+        if relative.startswith("content/"):
+            parts = path.relative_to(root).parts
+            if not (
+                len(parts) == 8
+                and parts[0:2] == ("content", "books")
+                and parts[3] == "editions"
+                and parts[5] == "chapters"
+            ):
+                continue
         yield path.parent
 
 
@@ -111,11 +138,23 @@ def validate_source(path, errors):
                     path,
                     f"meta.grade ({grade!r}) — expected folder {expected_grade_part!r}, found {grade_part!r}",
                 )
+    elif (
+        len(parts) == 8
+        and parts[0:2] == ("content", "books")
+        and parts[3] == "editions"
+        and parts[5] == "chapters"
+    ):
+        book_id, edition_id, chapter_id = parts[2], parts[4], parts[6]
+        if slug and slug != chapter_id:
+            errors.add(path, f"meta.slug ({slug!r}) does not match content chapter id ({chapter_id!r})")
+        if not book_id or not edition_id:
+            errors.add(path, f"invalid content chapter path: {path.relative_to(REPO_ROOT)}")
     else:
         errors.add(
             path,
             "unexpected path depth — expected "
-            "{board}/{state}/{medium}/{grade}/{subject}/{chapter}/source.*.yaml, got "
+            "{board}/{state}/{medium}/{grade}/{subject}/{chapter}/source.*.yaml or "
+            "content/books/{book}/editions/{edition}/chapters/{chapter}/source.*.yaml, got "
             f"{path.relative_to(REPO_ROOT)}",
         )
 

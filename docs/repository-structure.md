@@ -2,7 +2,7 @@
 
 ## Repository structure
 
-**Current legacy layout, not the long-term identity model.** The validator, generated v1 API paths, and installed clients currently depend on the structure below. The [publication/edition design and migration plan](publication-model.md) replaces fixed board/state/medium/grade/subject identity with stable books and editions plus metadata-driven browsing. No source move is safe until the compatibility bridge is implemented.
+**Pilot sources now live under `content/books/...`; v1 API paths still look like the legacy layout below.** The validator accepts both on-disk shapes. Generated v1 JSON paths come from chapter `meta` (board/state/medium/grade/subject/slug), so installed clients keep the same URLs after the publication move. The [publication/edition model](publication-model.md) is the long-term identity; step-6 cutover retires obsolete v1 generation later.
 
 ```
 /{board}/{state}/{medium}/{grade}/{subject}/{chapter}/
@@ -36,7 +36,7 @@ ch01-bannada-tagadina/
 └── README.md                   ← auto-generated, do not edit manually
 ```
 
-**Top-level layout, with app development in mind:** content (`{board}/...`), `schema/`, and `scripts/` stay at the repo root exactly as above — no coding knowledge is needed to reach or edit them. `api/` holds JSON compiled from the YAML by `scripts/build_json.py` (never hand-edit it — see below). `apps/` and `packages/` are reserved for app code (e.g. a future React Native app) as it's added.
+**Top-level layout, with app development in mind:** pilot chapter YAML lives under `content/books/...`; `schema/` and `scripts/` stay at the repo root — no coding knowledge is needed to reach or edit them. Legacy `{board}/...` trees may remain for unmoved content. `api/` holds JSON compiled from the YAML by `scripts/build_json.py` (never hand-edit it — see below). `apps/` and `packages/` are reserved for app code (e.g. a future React Native app) as it's added.
 
 ### Machine-readable API (`api/`)
 
@@ -52,4 +52,4 @@ api/
 
 This is generated and committed (like the chapter READMEs), and checked in CI with `build_json.py --check`. It's deliberately flat and doesn't group by section/stanza/exercise — segments carry that as metadata (`section`, `stanza`, `exercise`, `speaker`, `ref`) so any consumer can group them however its own UI needs, rather than inheriting one baked-in shape. Since content only changes via PR (no runtime writes), this can be served directly from the repo via a free CDN (e.g. jsDelivr) with no backend server required. The mobile app (`apps/mobile`) reads this `api/` folder through exactly that CDN in production; for local development there's also a trivial local server (`npm run content-server` at the repo root) so content edits show up instantly instead of waiting on the CDN's cache — see [`apps/mobile/docs/local-dev-content-server.md`](../apps/mobile/docs/local-dev-content-server.md).
 
-The existing Kannada book also has generated historical English/Grade5 API views for supported clients. These are compatibility outputs from the same eight canonical source folders, not a second YAML book. The current app deduplicates the views and corrects display metadata through the [catalog compatibility bridge](catalog-unification.md). Optional title translation/transliteration dictionaries accompany catalog entries; older availability arrays remain supported.
+The existing Kannada book also has generated historical English/Grade5 API views for supported clients. These are compatibility outputs from the same eight canonical chapter folders under `content/books/...`, not a second YAML book. The current app deduplicates the views and corrects display metadata through the [catalog compatibility bridge](catalog-unification.md). Optional title translation/transliteration dictionaries accompany catalog entries; older availability arrays remain supported.

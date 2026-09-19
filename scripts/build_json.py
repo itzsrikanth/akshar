@@ -36,7 +36,6 @@ SKIP_CHAPTER_ROOT_PREFIXES = (
     "apps/",
     "packages/",
     "api/",
-    "content/",
 )
 
 
@@ -45,6 +44,15 @@ def find_chapter_dirs(root):
         relative = path.relative_to(root).as_posix()
         if any(relative.startswith(prefix) for prefix in SKIP_CHAPTER_ROOT_PREFIXES):
             continue
+        if relative.startswith("content/"):
+            parts = path.relative_to(root).parts
+            if not (
+                len(parts) == 8
+                and parts[0:2] == ("content", "books")
+                and parts[3] == "editions"
+                and parts[5] == "chapters"
+            ):
+                continue
         yield path.parent
 
 
@@ -118,10 +126,16 @@ def compile_chapter(chapter_dir, source_path):
 
 
 def api_path_for(source_path):
-    chapter_dir = source_path.parent
-    rel_parts = chapter_dir.relative_to(REPO_ROOT).parts  # board/state/medium/Grade{n}/subject/slug
-    *parent_parts, slug = rel_parts
-    return API_DIR.joinpath(*parent_parts, f"{slug}.json")
+    """v1 API path from chapter meta — independent of on-disk content/ layout."""
+    source = load_yaml(source_path)
+    meta = source["meta"]
+    board = meta["board"]
+    state = meta["state"]
+    medium = meta["medium"]
+    grade = meta["grade"]
+    subject = meta["subject"]
+    slug = meta["slug"]
+    return API_DIR / board / state / medium / f"Grade{grade}" / subject / f"{slug}.json"
 
 
 def add_compatibility_views(written, manifest_chapters):

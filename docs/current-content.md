@@ -6,7 +6,7 @@ Repository audit: September 13, 2026. The following describes checked-in source/
 
 | Current source classification | Chapters | Checked-in compiled API |
 |---|---|---|
-| `KSEEB/Karnataka/Kannada/Grade3/Kannada/` | 1–8 | One canonical source tree; generated v1 compatibility views retain old URLs |
+| `content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/` | 1–8 (+2 held Grade 4 drafts) | Canonical YAML under the publication edition; generated v1 API paths still use `KSEEB/...` from chapter `meta` |
 
 Chapters 1, 2, and 4 previously had a different folder/metadata classification from the other five chapters of the same book. They now share the Kannada/Grade3 source classification. This corrects book organization, not learners' school grades: maintainer-reported Grade 5 second-language use remains valid, and saved Grade 5 preferences are retained.
 
