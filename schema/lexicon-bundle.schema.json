@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/lexicon-bundle.schema.json",
+  "title": "Akshar compiled lexicon bundle",
+  "description": "Compiled offline payload at api/v2/lexicons/<lang>.json",
+  "type": "object",
+  "required": ["schemaVersion", "language", "license", "provenance", "functionWords", "lemmas", "forms"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "integer", "const": 1 },
+    "language": { "type": "string", "minLength": 2 },
+    "license": { "type": "string", "minLength": 1 },
+    "provenance": { "type": "string", "minLength": 1 },
+    "contentHash": { "type": "string", "minLength": 1 },
+    "functionWords": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "lemmas": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["id", "lemma"],
+        "properties": {
+          "id": { "type": "string" },
+          "lemma": { "type": "string" },
+          "transliteration": { "type": "string" },
+          "glosses": {
+            "type": "object",
+            "additionalProperties": { "type": "string" }
+          },
+          "notes": { "type": "string" },
+          "sourceRefs": { "type": "array" }
+        }
+      }
+    },
+    "forms": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["form", "lemmaIds", "status"],
+        "properties": {
+          "form": { "type": "string" },
+          "lemmaIds": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "status": {
+            "type": "string",
+            "enum": ["exact", "reviewed-inflection", "ambiguous"]
+          }
+        }
+      }
+    }
+  }
+}

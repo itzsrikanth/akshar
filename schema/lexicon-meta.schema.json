@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/lexicon-meta.schema.json",
+  "title": "Akshar lexicon meta",
+  "type": "object",
+  "required": ["schemaVersion", "language", "license", "provenance"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "integer", "const": 1 },
+    "language": {
+      "type": "string",
+      "minLength": 2,
+      "pattern": "^[a-z]{2,3}(-[a-z]+)?$",
+      "description": "ISO language code for the lexicon (e.g. kn)."
+    },
+    "license": { "type": "string", "minLength": 1 },
+    "provenance": {
+      "type": "string",
+      "minLength": 1,
+      "description": "How entries were reviewed or seeded."
+    }
+  }
+}

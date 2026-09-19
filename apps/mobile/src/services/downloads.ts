@@ -4,18 +4,48 @@
 // CdnContentRepository's in-memory fetch cache, which clears on restart:
 // files written here persist across app launches, which is what makes
 // "downloaded" in Library/Explore true instead of a hardcoded placeholder.
-import { Directory, File, Paths } from 'expo-file-system';
+//
+// Directory construction is lazy: Expo's web FileSystem stub lacks
+// validatePath(), so a top-level `new Directory(Paths.document, …)` crashes
+// Metro/app boot when this module is imported via the v2 barrel.
+import type { Directory } from 'expo-file-system';
+import { File } from 'expo-file-system';
 
 import type { Chapter } from './content-repository';
+import {
+  childFile,
+  documentSubdir,
+  memoryClearPrefix,
+  memoryDelete,
+  memoryHas,
+  memoryList,
+  memoryRead,
+  memoryWrite,
+} from './chapter-fs';
+import { downloadLexiconInBackground } from './lexicon';
 import { isLocalDataResetting } from './local-reset-state';
 
-const downloadsDir = new Directory(Paths.document, 'chapters');
+const DIR_NAME = 'chapters';
+const MEMORY_PREFIX = 'chapters';
 
 /** On-disk envelope — older installs may still have a bare Chapter JSON. */
 type StoredDownload = { contentHash: string; chapter: Chapter };
 
-function fileFor(slug: string): File {
-  return new File(downloadsDir, `${slug}.json`);
+let downloadsDir: Directory | null | undefined;
+
+function getDownloadsDir(): Directory | null {
+  if (downloadsDir === undefined) downloadsDir = documentSubdir(DIR_NAME);
+  return downloadsDir;
+}
+
+function fileFor(slug: string): File | null {
+  const dir = getDownloadsDir();
+  if (!dir) return null;
+  return childFile(dir, `${slug}.json`);
+}
+
+function memoryPath(slug: string): string {
+  return `${MEMORY_PREFIX}/${slug}.json`;
 }
 
 function isStoredDownload(value: unknown): value is StoredDownload {
@@ -24,23 +54,40 @@ function isStoredDownload(value: unknown): value is StoredDownload {
   return typeof record.contentHash === 'string' && record.chapter != null && typeof record.chapter === 'object';
 }
 
+function parseStored(raw: string): { contentHash: string | null; chapter: Chapter } | null {
+  try {
+    const parsed = JSON.parse(raw) as unknown;
+    if (isStoredDownload(parsed)) {
+      return { contentHash: parsed.contentHash, chapter: parsed.chapter };
+    }
+    return { contentHash: null, chapter: parsed as Chapter };
+  } catch {
+    return null;
+  }
+}
+
 function readStored(slug: string): { contentHash: string | null; chapter: Chapter } | null {
   const file = fileFor(slug);
-  if (!file.exists) return null;
-  const parsed = JSON.parse(file.textSync()) as unknown;
-  if (isStoredDownload(parsed)) {
-    return { contentHash: parsed.contentHash, chapter: parsed.chapter };
+  if (file) {
+    if (!file.exists) return null;
+    return parseStored(file.textSync());
   }
-  // Legacy bare chapter JSON — no revision metadata; treat as unknown hash.
-  return { contentHash: null, chapter: parsed as Chapter };
+  const raw = memoryRead(memoryPath(slug));
+  return raw ? parseStored(raw) : null;
 }
 
 function listSlugsFromDisk(): string[] {
-  if (!downloadsDir.exists) return [];
-  return downloadsDir
-    .list()
-    .filter((entry): entry is File => entry instanceof File && entry.name.endsWith('.json'))
-    .map((file) => file.name.replace(/\.json$/, ''));
+  const dir = getDownloadsDir();
+  if (dir) {
+    if (!dir.exists) return [];
+    return dir
+      .list()
+      .filter((entry): entry is File => entry instanceof File && entry.name.endsWith('.json'))
+      .map((file) => file.name.replace(/\.json$/, ''));
+  }
+  return memoryList(MEMORY_PREFIX)
+    .filter((rel) => rel.endsWith('.json') && !rel.includes('/'))
+    .map((rel) => rel.replace(/\.json$/, ''));
 }
 
 // A single in-memory snapshot shared across every useDownloads() call —
@@ -69,23 +116,37 @@ export function getDownloadedSlugsSnapshot(): string[] {
 }
 
 export function isDownloaded(slug: string): boolean {
-  return fileFor(slug).exists;
+  const file = fileFor(slug);
+  if (file) return file.exists;
+  return memoryHas(memoryPath(slug));
 }
 
 export function downloadChapter(slug: string, chapter: Chapter, contentHash?: string): void {
   if (isLocalDataResetting()) throw new Error('Local data is being reset. Restart the app before downloading.');
-  if (!downloadsDir.exists) downloadsDir.create({ intermediates: true, idempotent: true });
-  const file = fileFor(slug);
-  if (!file.exists) file.create({ overwrite: true });
   const payload: StoredDownload | Chapter =
     contentHash && contentHash.length > 0 ? { contentHash, chapter } : chapter;
-  file.write(JSON.stringify(payload));
+  const raw = JSON.stringify(payload);
+
+  const dir = getDownloadsDir();
+  if (dir) {
+    if (!dir.exists) dir.create({ intermediates: true, idempotent: true });
+    const file = childFile(dir, `${slug}.json`);
+    if (!file.exists) file.create({ overwrite: true });
+    file.write(raw);
+  } else {
+    memoryWrite(memoryPath(slug), raw);
+  }
+  downloadLexiconInBackground('kn');
   invalidate();
 }
 
 export function deleteChapter(slug: string): void {
   const file = fileFor(slug);
-  if (file.exists) file.delete();
+  if (file) {
+    if (file.exists) file.delete();
+  } else {
+    memoryDelete(memoryPath(slug));
+  }
   invalidate();
 }
 
@@ -100,7 +161,9 @@ export function clearDownloadedChaptersForMigration(): void {
 }
 
 function removeDownloadsDirectory(): void {
-  if (downloadsDir.exists) downloadsDir.delete();
+  const dir = getDownloadsDir();
+  if (dir?.exists) dir.delete();
+  memoryClearPrefix(MEMORY_PREFIX);
   invalidate();
 }
 

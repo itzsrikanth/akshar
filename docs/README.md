@@ -9,7 +9,10 @@
 - [Roadmap](roadmap.md)
 - [Current content](current-content.md)
 - [Kannada expansion checkpoint](kannada-expansion-todo.md) — resumable official-PDF acquisition and chapter-by-chapter school-demo work
-- [Pronunciation audio and object storage](media-delivery.md) — clip/sprite decision, cloud-credit caveats, IaC plan, and offline availability
+- [Pronunciation audio and object storage](media-delivery.md) — clip/sprite decision, R2 free-tier costs, OpenTofu IaC, and offline availability
+- [Audio clip encoding (locked)](audio-clip-encoding.md) — **24 kHz mono AAC `.m4a`**; sample-mode testing notes
+- [Lexicon — word selection and meaning lookup](lexicon.md) — separate lemma/form data, function-word policy, reader selection UI, offline bundle
+- [Cloudflare R2 OpenTofu stack](../infra/cloudflare/README.md) — apply/publish steps (secrets stay local)
 
 ## Contributing content
 

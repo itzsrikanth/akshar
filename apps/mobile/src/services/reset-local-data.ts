@@ -3,6 +3,7 @@ import { reloadAppAsync } from 'expo';
 
 import { clearDownloadedChapters } from './downloads';
 import { invalidateContentCache } from './index';
+import { clearDownloadedLexicons } from './lexicon';
 import { beginLocalDataReset } from './local-reset-state';
 import { clearDownloadedV2Chapters, invalidateV2ContentCache } from './v2';
 
@@ -13,6 +14,7 @@ async function performReset(): Promise<void> {
   try {
     clearDownloadedChapters();
     clearDownloadedV2Chapters();
+    clearDownloadedLexicons();
     await AsyncStorage.clear();
     invalidateContentCache();
     invalidateV2ContentCache();

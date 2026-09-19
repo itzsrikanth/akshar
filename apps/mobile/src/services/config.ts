@@ -15,3 +15,17 @@ export type ContentSourceId = keyof typeof CONTENT_SOURCES;
 export const CONTENT_BASE_URL = __DEV__ ? CONTENT_SOURCES.local : CONTENT_SOURCES.cdn;
 
 export const MEDIA_HEALTH_URL = process.env.EXPO_PUBLIC_MEDIA_HEALTH_URL?.trim() || undefined;
+
+/**
+ * Public origin for media objects (no trailing slash), e.g. https://pub-….r2.dev.
+ * Used when real per-segment clips are published; sample mode uses a bundled clip.
+ */
+export const MEDIA_BASE_URL = process.env.EXPO_PUBLIC_MEDIA_BASE_URL?.trim().replace(/\/$/, '') || undefined;
+
+/**
+ * When true, speakable reader lines play a bundled placeholder m4a so playback UI
+ * can be tested before TTS generation. Turn off once real manifests/assets exist.
+ */
+export const MEDIA_SAMPLE_MODE =
+  (process.env.EXPO_PUBLIC_MEDIA_SAMPLE_MODE ?? (__DEV__ ? '1' : '0')).trim() === '1';
+

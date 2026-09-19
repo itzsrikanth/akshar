@@ -17,6 +17,7 @@ from pathlib import Path
 
 import yaml
 
+from build_lexicon import build_all as build_lexicons
 from publication_holds import load_publication_holds
 from publication_identity import (
     find_adoption_files,
@@ -373,6 +374,7 @@ def build_all():
     manifest = {"schemaVersion": SCHEMA_VERSION, "generatedAt": generated_at, "chapters": manifest_chapters}
     written[API_DIR / "contents.json"] = manifest
     written.update(build_v2(holds))
+    written.update(build_lexicons())
     return written
 
 

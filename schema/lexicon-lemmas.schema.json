@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/lexicon-lemmas.schema.json",
+  "title": "Akshar lexicon lemmas",
+  "type": "object",
+  "required": ["lemmas"],
+  "additionalProperties": false,
+  "properties": {
+    "lemmas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "lemma"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^lemma-[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "lemma": { "type": "string", "minLength": 1 },
+          "transliteration": { "type": "string", "minLength": 1 },
+          "glosses": {
+            "type": "object",
+            "additionalProperties": { "type": "string", "minLength": 1 },
+            "propertyNames": { "pattern": "^[a-z]{2,3}(-[a-z]+)?$" }
+          },
+          "notes": { "type": "string", "minLength": 1 },
+          "sourceRefs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["bookId", "editionId", "chapterId", "segmentId"],
+              "additionalProperties": false,
+              "properties": {
+                "bookId": { "type": "string", "minLength": 1 },
+                "editionId": { "type": "string", "minLength": 1 },
+                "chapterId": { "type": "string", "minLength": 1 },
+                "segmentId": { "type": "string", "minLength": 1 }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

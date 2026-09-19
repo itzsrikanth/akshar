@@ -18,11 +18,13 @@ import { Radius, Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useChapter } from '@/hooks/use-chapter';
 import { useDownloads } from '@/hooks/use-downloads';
+import { useLexicon } from '@/hooks/use-lexicon';
 import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useTheme } from '@/hooks/use-theme';
 import { useV2Chapter } from '@/hooks/use-v2-chapter';
 import { useV2Downloads } from '@/hooks/use-v2-downloads';
 import type { Catalog, Chapter, ChapterSegment } from '@/services/content-repository';
+import type { ChapterVocabPair } from '@/services/lexicon';
 import { recordChapterOpened } from '@/services/reading-history';
 import {
   type ChapterIdentity,
@@ -50,6 +52,35 @@ function v2ChapterAsReaderChapter(chapter: V2Chapter): Chapter {
     labels: chapter.labels,
     segments: chapter.segments,
   };
+}
+
+function deriveChapterVocab(
+  chapter: Chapter,
+  translationLanguage: string | null,
+  transliterationScript: string | null,
+): ChapterVocabPair[] {
+  const defs = new Map(
+    chapter.segments.filter((s) => s.type === 'vocabulary_definition').map((s) => [s.ref, s]),
+  );
+  const pairs: ChapterVocabPair[] = [];
+  for (const term of chapter.segments.filter((s) => s.type === 'vocabulary_term')) {
+    const definition = defs.get(term.id);
+    if (!definition?.text) continue;
+    const glosses: Record<string, string> = { kn: definition.text };
+    if (translationLanguage && definition.translations?.[translationLanguage]) {
+      glosses[translationLanguage] = definition.translations[translationLanguage];
+    }
+    for (const [lang, text] of Object.entries(definition.translations ?? {})) {
+      if (!glosses[lang]) glosses[lang] = text;
+    }
+    pairs.push({
+      term: term.text,
+      definitionKn: definition.text,
+      glosses,
+      transliteration: transliterationScript ? term.transliterations?.[transliterationScript] : undefined,
+    });
+  }
+  return pairs;
 }
 
 function deriveReaderData(chapter: Chapter) {
@@ -363,9 +394,21 @@ function ReaderContent({
   const data = useMemo(() => deriveReaderData(chapter), [chapter]);
   const { preference } = useReadingPreference(catalog);
   const { translationLanguage, transliterationScript } = preference;
+  const lexicon = useLexicon('kn');
+  const chapterVocab = useMemo(
+    () => deriveChapterVocab(chapter, translationLanguage, transliterationScript),
+    [chapter, translationLanguage, transliterationScript],
+  );
   const translationFor = (seg: ChapterSegment) => (translationLanguage ? seg.translations?.[translationLanguage] : undefined);
   const transliterationFor = (seg: ChapterSegment) =>
     transliterationScript ? seg.transliterations?.[transliterationScript] : undefined;
+
+  const lineProps = {
+    enableWordSelection: true as const,
+    lexicon,
+    chapterVocab,
+    preferredLanguage: translationLanguage,
+  };
 
   return (
     <ScrollView contentContainerStyle={styles.content}>
@@ -378,9 +421,12 @@ function ReaderContent({
         <View style={[styles.calloutCard, { backgroundColor: theme.tintMuted }]}>
           <SectionLabel>{chapter.labels?.competency?.en ?? 'Competency'}</SectionLabel>
           <SegmentLine
+            segmentId={data.competency.id}
+            segmentType={data.competency.type}
             source={data.competency.text}
             transliteration={transliterationFor(data.competency)}
             translation={translationFor(data.competency)}
+            {...lineProps}
           />
         </View>
       )}
@@ -391,10 +437,13 @@ function ReaderContent({
           {section.segments.map((seg, i) => (
             <View key={seg.id} style={i > 0 ? styles.mt4 : undefined}>
               <SegmentLine
+                segmentId={seg.id}
+                segmentType={seg.type}
                 source={seg.text}
                 transliteration={transliterationFor(seg)}
                 translation={translationFor(seg)}
                 speaker={seg.speaker}
+                {...lineProps}
               />
             </View>
           ))}
@@ -410,9 +459,12 @@ function ReaderContent({
               .map((line, i, arr) => (
                 <View key={line.id} style={i < arr.length - 1 ? styles.poemLineSpacing : undefined}>
                   <SegmentLine
+                    segmentId={line.id}
+                    segmentType={line.type}
                     source={line.text}
                     transliteration={transliterationFor(line)}
                     translation={translationFor(line)}
+                    {...lineProps}
                   />
                 </View>
               ))}

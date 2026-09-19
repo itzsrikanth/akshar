@@ -11,6 +11,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CHECKS = (
     ("Validate schema, structure, and encoding", "validate.py", ()),
+    ("Validate lexicons", "validate_lexicon.py", ()),
     ("Check generated chapter READMEs", "generate_readme.py", ("--check",)),
     ("Check compiled API JSON", "build_json.py", ("--check",)),
     ("Check v1/v2 acceptance contracts", "check_v2_acceptance.py", ()),

@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/itzsrikanth/akshar/schema/lexicon-function-words.schema.json",
+  "title": "Akshar lexicon function words",
+  "type": "object",
+  "required": ["forms"],
+  "additionalProperties": false,
+  "properties": {
+    "forms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["form", "class"],
+        "additionalProperties": false,
+        "properties": {
+          "form": { "type": "string", "minLength": 1 },
+          "class": { "type": "string", "const": "function" },
+          "note": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

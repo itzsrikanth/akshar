@@ -1,32 +1,64 @@
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import { StyleSheet, View } from 'react-native';
+import { useEffect, useState } from 'react';
+import { ActivityIndicator, StyleSheet, View } from 'react-native';
 
+import { SelectableSourceText } from '@/components/selectable-source-text';
 import { ThemedText } from '@/components/themed-text';
+import { Touchable } from '@/components/touchable';
 import { useTheme } from '@/hooks/use-theme';
+import type { ChapterVocabPair, LexiconBundle } from '@/services/lexicon';
+import {
+  canPlayPronunciation,
+  getPlayingSegmentId,
+  playPronunciation,
+  subscribeToPronunciationPlayback,
+} from '@/services/pronunciation-audio';
 
 /**
- * One source/transliteration/translation line, used anywhere the Reader or
- * Exercises screens show a single piece of content (intro prose, poem
- * lines, exercise passages). Read-aloud icon is rendered dimmed and
- * non-interactive — audio generation/caching (docs/roadmap.md) isn't built
- * yet, so a tinted, tappable-looking icon would promise a feature that
- * doesn't work. Falls back to an explicit "not yet available" line rather
- * than a blank gap when a chapter has partial coverage (see
- * docs/product-brief.md #5).
+ * One source/transliteration/translation line. Source text supports word
+ * selection + Meaning when lexicon props are provided. Read-aloud is enabled
+ * in sample mode for speakable types that already have a translation.
  */
 export function SegmentLine({
+  segmentId,
+  segmentType,
   source,
   transliteration,
   translation,
   speaker,
+  lexicon,
+  chapterVocab,
+  preferredLanguage,
+  enableWordSelection = false,
 }: {
+  segmentId?: string;
+  segmentType?: string;
   source: string;
   transliteration?: string;
   translation?: string;
   /** Character name for a dialogue segment (schema's `speaker` field) — shown above the line. */
   speaker?: string;
+  lexicon?: LexiconBundle | null;
+  chapterVocab?: ChapterVocabPair[];
+  preferredLanguage?: string | null;
+  enableWordSelection?: boolean;
 }) {
   const theme = useTheme();
+  const playable = !!segmentId && canPlayPronunciation(segmentType, translation);
+  const [playingId, setPlayingId] = useState(getPlayingSegmentId);
+  const [busy, setBusy] = useState(false);
+  const isPlaying = playable && playingId === segmentId;
+
+  useEffect(() => subscribeToPronunciationPlayback(() => setPlayingId(getPlayingSegmentId())), []);
+
+  const onPlay = () => {
+    if (!segmentId || !playable) return;
+    // Do not gate on local `busy` — another line's tap must cut this one off
+    // immediately (handled inside playPronunciation via playGeneration).
+    setBusy(true);
+    void playPronunciation(segmentId).finally(() => setBusy(false));
+  };
+
   return (
     <View style={styles.row}>
       <View style={styles.f1}>
@@ -35,9 +67,18 @@ export function SegmentLine({
             {speaker}
           </ThemedText>
         )}
-        <ThemedText type="reading" scalable>
-          {source}
-        </ThemedText>
+        {enableWordSelection ? (
+          <SelectableSourceText
+            source={source}
+            lexicon={lexicon ?? null}
+            chapterVocab={chapterVocab ?? []}
+            preferredLanguage={preferredLanguage ?? null}
+          />
+        ) : (
+          <ThemedText type="reading" scalable>
+            {source}
+          </ThemedText>
+        )}
         {transliteration ? (
           <ThemedText type="small" scalable themeColor="textSecondary" style={styles.mt2}>
             {transliteration}
@@ -57,7 +98,26 @@ export function SegmentLine({
           </ThemedText>
         )}
       </View>
-      <MaterialCommunityIcons name="volume-high" size={18} color={theme.textDisabled} style={styles.icon} />
+      {playable ? (
+        <Touchable
+          accessibilityRole="button"
+          accessibilityLabel={isPlaying ? 'Playing pronunciation' : 'Play pronunciation'}
+          onPress={onPlay}
+          style={styles.iconHit}
+        >
+          {busy ? (
+            <ActivityIndicator size="small" color={theme.tint} />
+          ) : (
+            <MaterialCommunityIcons
+              name={isPlaying ? 'volume-high' : 'volume-high'}
+              size={18}
+              color={isPlaying ? theme.tint : theme.text}
+            />
+          )}
+        </Touchable>
+      ) : (
+        <MaterialCommunityIcons name="volume-high" size={18} color={theme.textDisabled} style={styles.icon} />
+      )}
     </View>
   );
 }
@@ -67,5 +127,6 @@ const styles = StyleSheet.create({
   f1: { flex: 1 },
   speaker: { marginBottom: 2 },
   icon: { marginTop: 4 },
+  iconHit: { marginTop: 2, padding: 4 },
   mt2: { marginTop: 2 },
 });
