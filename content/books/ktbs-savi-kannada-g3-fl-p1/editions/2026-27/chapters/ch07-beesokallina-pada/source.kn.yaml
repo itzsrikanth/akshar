@@ -1,0 +1,392 @@
+meta:
+  source: source.kn.yaml
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 4
+  subject: Kannada
+  chapter: 7
+  slug: ch07-beesokallina-pada
+  title: ಬೀಸೋಕಲ್ಲಿನ ಪದ
+  original_publisher: Karnataka Textbook Society
+
+labels:
+  intro: ಕಲಿಕೆಗೆ ದಾರಿ
+  poem: ಬೀಸೋಕಲ್ಲಿನ ಪದ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-B: ಎರಡು-ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-C: ಪದ್ಯದ ಮೊದಲರ್ಧ ಸಾಲಿಗೆ ಎರಡನೆಯ ಅರ್ಧ ಸಾಲನ್ನು ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.
+  exercise-D: ಮಾದರಿಯಂತೆ ಕೊಟ್ಟಿರುವ ಪದಗಳಿಗೆ ಭಿನ್ನ ಅರ್ಥದಲ್ಲಿ ಸ್ವಂತ ವಾಕ್ಯ ಬರೆಯಿರಿ.
+  language-activity: ಭಾಷಾ ಚಟುವಟಿಕೆ
+  language-activity-A: ಆಡುಮಾತು ಮತ್ತು ಬರೆಹದ ಮಾತಿನ ನಡುವಿನ ವ್ಯತ್ಯಾಸ ಗಮನಿಸಿ.
+  language-activity-B: ಅಕ್ಷರ ಬಳಸಿ ಪದ ಬರೆ.
+  language-activity-C: ಕೆಳಗಿನ ಆಡುನುಡಿಗಳನ್ನು ಮಾದರಿಯಂತೆ ಬರೆಹದ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಿರಿ.
+  usage-activity: ಬಳಕೆ ಚಟುವಟಿಕೆ
+  usage-activity-A: ಒಗಟು ಬಿಡಿಸಿ.
+  usage-activity-B: ಕೊಟ್ಟಿರುವ ಕತೆ ಓದಿ, ಇದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಗಾದೆಗಳನ್ನು ಬರೆಯಿರಿ.
+  usage-activity-C: ಕೊಟ್ಟಿರುವ ಗಾದೆ ಮಾತನ್ನು ಬರೆಹದ ಭಾಷೆಗೆ ಬದಲಾಯಿಸಿ.
+  usage-activity-D: ಕೆಳಗಿನ ಆಡುನುಡಿಗಳನ್ನು ಓದಿ ಬರೆಯಿರಿ.
+  competency: ಸಾಮರ್ಥ್ಯ
+
+segments:
+  - id: intro-1
+    type: prose
+    section: intro
+    text: ಜೋಗುಳ ಹಾಡು, ಗೀಗೀ ಪದ, ಸೋಬಾನೆ ಪದ, ಇವುಗಳಲ್ಲಿ ನಿನಗೆ ಗೊತ್ತಿರುವ ಯಾವುದಾದರೊಂದು ಹಾಡನ್ನು ತರಗತಿಯಲ್ಲಿ ಗೆಳೆಯರೊಡಗೂಡಿ ಹಾಡು.
+
+  - id: poem-s1l1
+    type: poem_line
+    section: poem
+    stanza: 1
+    text: ಕಲ್ಲಮ್ಮ ತಾಯಿ ಮೆಲ್ಲಮ್ಮ ರಾಗಿಯ
+  - id: poem-s1l2
+    type: poem_line
+    section: poem
+    stanza: 1
+    text: ಜಲ್ಲಜಲ್ಲಾನೆ ಉದುರಮ್ಮ | ನಾ ನಿನಗೆ
+  - id: poem-s1l3
+    type: poem_line
+    section: poem
+    stanza: 1
+    text: ಬೆಲ್ಲಾದಾರತಿಯಾ ಬೆಳಗೇನು ||
+
+  - id: poem-s2l1
+    type: poem_line
+    section: poem
+    stanza: 2
+    text: ಅಂದುಳ್ಳ ಅಡಿಗಲ್ಲು ಚಂದುಳ್ಳ ಮೇಗಲ್ಲು
+  - id: poem-s2l2
+    type: poem_line
+    section: poem
+    stanza: 2
+    text: ಚಂದ್ರಮತಿಯೆಂಬ ಹಿಡಿಗೂಟ | ಹಿಡುಕೊಂಡು
+  - id: poem-s2l3
+    type: poem_line
+    section: poem
+    stanza: 2
+    text: ತಂದೆ ತಾಯಿಗಳ ನೆನೆದೇನ ||
+
+  - id: poem-s3l1
+    type: poem_line
+    section: poem
+    stanza: 3
+    text: ರಾಗಿಯು ಮುಗಿದಾವು ರಾಜಾನ್ನ ಹೆಚ್ಚ್ಯಾವು
+  - id: poem-s3l2
+    type: poem_line
+    section: poem
+    stanza: 3
+    text: ನಾನ್ಹಿಡಿದ ಕೆಲಸ ವದಗ್ಯಾವು | ರಾಗೀಕಲ್ಲೆ
+  - id: poem-s3l3
+    type: poem_line
+    section: poem
+    stanza: 3
+    text: ನಾ ತೂಗಿ ಬಿಡುತೀನಿ ಬಲದೋಳು ||
+
+  - id: poem-s4l1
+    type: poem_line
+    section: poem
+    stanza: 4
+    text: ಕಲ್ಲು ಬಿಟ್ಟೇನೆಂದು ಸಿಟ್ಯಾಕೆ ಸರಸತಿಯೇ
+  - id: poem-s4l2
+    type: poem_line
+    section: poem
+    stanza: 4
+    text: ಕುಕ್ಕೇಲಿ ರಾಗಿ ಬೆಳೆಯಾಲಿ | ತಕ್ಕೊಂಡು
+  - id: poem-s4l3
+    type: poem_line
+    section: poem
+    stanza: 4
+    text: ಮತ್ತೆ ರಾತ್ರೀಗೆ ಬರುತೀನಿ ||
+
+  - id: poem-s5l1
+    type: poem_line
+    section: poem
+    stanza: 5
+    text: ಕಲ್ಲು ಕೊಟ್ಟಮ್ಮಗೆ ಎಲ್ಲಾ ಭಾಗ್ಯವು ಬರಲಿ
+  - id: poem-s5l2
+    type: poem_line
+    section: poem
+    stanza: 5
+    text: ಪಲ್ಲಕ್ಕಿ ಮೇಲೆ ಮಗ ಬರಲಿ | ಆ ಮನೆಗೆ
+  - id: poem-s5l3
+    type: poem_line
+    section: poem
+    stanza: 5
+    text: ಮಲ್ಲಿಗೆ ಮುಡಿಯೋ ಸೊಸಿ ಬರಲಿ ||
+
+  - id: poem-s6l1
+    type: poem_line
+    section: poem
+    stanza: 6
+    text: -ಜನಪದ
+
+  - id: poem-s7l1
+    type: poem_line
+    section: poem
+    stanza: 7
+    text: ಜನವಾಣಿ ಬೇರು, ಕವಿವಾಣಿ ಹೂವು.
+
+  - id: vocab-ಪಲ್ಲಕ್ಕಿ
+    type: vocabulary_term
+    section: vocab
+    text: ಪಲ್ಲಕ್ಕಿ
+  - id: vocab-ಪಲ್ಲಕ್ಕಿ-def
+    type: vocabulary_definition
+    section: vocab
+    text: ಮೇನೆ, ಡೋಲಿ
+  - id: vocab-ಉದುರು
+    type: vocabulary_term
+    section: vocab
+    text: ಉದುರು
+  - id: vocab-ಉದುರು-def
+    type: vocabulary_definition
+    section: vocab
+    text: ಕೆಳಗೆ ಬೀಳು
+  - id: vocab-ಕುಕ್ಕೆ
+    type: vocabulary_term
+    section: vocab
+    text: ಕುಕ್ಕೆ
+  - id: vocab-ಕುಕ್ಕೆ-def
+    type: vocabulary_definition
+    section: vocab
+    text: ಬಿದಿರಿನ ಬುಟ್ಟಿ
+
+  - id: note-ರಾಜಾನ್ನ
+    type: note_term
+    section: notes
+    text: ರಾಜಾನ್ನ
+  - id: note-ರಾಜಾನ್ನ-def
+    type: note_definition
+    section: notes
+    text: ಸುವಾಸನೆಯುಳ್ಳ ಅಕ್ಕಿ.
+  - id: note-ಸೊಸಿ
+    type: note_term
+    section: notes
+    text: ಸೊಸಿ
+  - id: note-ಸೊಸಿ-def
+    type: note_definition
+    section: notes
+    text: ಸೊಸೆ, ಮಗನ ಹೆಂಡತಿ.
+
+  - id: ex-A-q1
+    type: question
+    section: exercise-A
+    text: 1. ರಾಗಿ ಹೇಗೆ ಉದುರುತ್ತದೆ?
+  - id: ex-A-q2
+    type: question
+    section: exercise-A
+    text: 2. ಬೀಸುವ ಕಲ್ಲಿನ ಹಿಡಿಗೂಟ ಹಿಡಿದು ಯಾರನ್ನು ನೆನೆಯುತ್ತಾರೆ?
+  - id: ex-A-q3
+    type: question
+    section: exercise-A
+    text: 3. ಸರಸತಿಗೆ ಸಿಟ್ಟು ಬಂತು ಏಕೆ?
+
+  - id: ex-B-q1
+    type: question
+    section: exercise-B
+    text: 1. ಕಲ್ಲು ಕೊಟ್ಟಮ್ಮನನ್ನು ಏನೆಂದು ಹರಸುವಳು?
+  - id: ex-B-q2
+    type: question
+    section: exercise-B
+    text: 2. ಸಿಟ್ಟುಗೊಂಡ ಸರಸತಿಯನ್ನು ಸಮಾಧಾನ ಮಾಡಿದ ಬಗೆ ಹೇಗೆ?
+
+  - id: ex-C-hdr1
+    type: prose
+    section: exercise-C
+    text: ಅ ಬ
+  - id: ex-C-q1
+    type: question
+    section: exercise-C
+    text: 1. ಬೆಲ್ಲಾದಾರತಿಯಾ
+  - id: ex-C-opt1
+    type: prose
+    section: exercise-C
+    text: ಬರುತೀನಿ
+  - id: ex-C-q2
+    type: question
+    section: exercise-C
+    text: 2. ಮತ್ತೆ ರಾತ್ರೀಗೆ
+  - id: ex-C-opt2
+    type: prose
+    section: exercise-C
+    text: ಬೆಳಗೇನು
+  - id: ex-C-q3
+    type: question
+    section: exercise-C
+    text: 3. ರಾಗಿಯು ಮುಗಿದಾವು
+  - id: ex-C-opt3
+    type: prose
+    section: exercise-C
+    text: ನಡಿಸೇನು
+  - id: ex-C-q4
+    type: question
+    section: exercise-C
+    text: 4. ಅಂದುಳ್ಳ ಅಡಿಗಲ್ಲು
+  - id: ex-C-opt4
+    type: prose
+    section: exercise-C
+    text: ರಾಜಾನ್ನ ಹೆಚ್ಚ್ಯಾವು
+  - id: ex-C-opt5
+    type: prose
+    section: exercise-C
+    text: ಚಂದುಳ್ಳ ಮೇಗಲ್ಲು
+
+  - id: ex-D-ex1-term1
+    type: prose
+    section: exercise-D
+    text: "ಮಾದರಿ : ಅತ್ತೆ - ನನ್ನ ಕಾಲಿಗೆ ಮುಳ್ಳು ಚುಚ್ಚಿದಾಗ ಅತ್ತೆನು."
+  - id: ex-D-ex1-term2
+    type: prose
+    section: exercise-D
+    text: ಅತ್ತೆ - ನಮ್ಮ ಅತ್ತೆ ನನಗೆ ಹೊಸ ಬಟ್ಟೆ ತಂದರು.
+  - id: ex-D-q1-term1
+    type: question
+    section: exercise-D
+    text: "1. ತಂದೆ :"
+  - id: ex-D-q1-term2
+    type: question
+    section: exercise-D
+    text: "ತಂದೆ :"
+  - id: ex-D-q2-term1
+    type: question
+    section: exercise-D
+    text: "2. ಕಳೆ:"
+  - id: ex-D-q2-term2
+    type: question
+    section: exercise-D
+    text: "ಕಳೆ:"
+  - id: ex-D-q3-term1
+    type: question
+    section: exercise-D
+    text: "3. ಆಡು :"
+  - id: ex-D-q3-term2
+    type: question
+    section: exercise-D
+    text: "ಆಡು :"
+
+  - id: lang-A-hdr1
+    type: prose
+    section: language-activity-A
+    text: ಆಡುಮಾತು - ಬರೆಹದ ರೂಪ
+  - id: lang-A-word1
+    type: prose
+    section: language-activity-A
+    text: ಬರ್ತಾನೆ - ಬರುತ್ತಾನೆ
+  - id: lang-A-word2
+    type: prose
+    section: language-activity-A
+    text: ಯಿಲ್ಲ - ಇಲ್ಲ
+  - id: lang-A-word3
+    type: prose
+    section: language-activity-A
+    text: ಅರಕೆ - ಹರಕೆ
+  - id: lang-A-word4
+    type: prose
+    section: language-activity-A
+    text: ಅತ್ತಿರ - ಹತ್ತಿರ
+  - id: lang-A-word5
+    type: prose
+    section: language-activity-A
+    text: ಕರೆವೋಲೆ - ಕರೆಯೋಲೆ
+
+  - id: lang-B-chart1
+    type: fill_blank
+    section: language-activity-B
+    text: ಕ ಣ್ಣು -
+  - id: lang-B-chart2
+    type: fill_blank
+    section: language-activity-B
+    text: ಮ ಗ್ಗಿ -
+  - id: lang-B-chart3
+    type: fill_blank
+    section: language-activity-B
+    text: ಸಿ ಠ -
+  - id: lang-B-chart4
+    type: fill_blank
+    section: language-activity-B
+    text: ಹಿ ಟ್ಟ -
+  - id: lang-B-chart5
+    type: fill_blank
+    section: language-activity-B
+    text: ಸ ಡ್ಡಿ -
+
+  - id: lang-C-ex1
+    type: prose
+    section: language-activity-C
+    text: "ಮಾದರಿ : ಹೆಚ್ಚ್ಯಾವು - ಹೆಚ್ಚಾದವು"
+  - id: lang-C-q1
+    type: fill_blank
+    section: language-activity-C
+    text: "ವದಗ್ಯಾವು :"
+  - id: lang-C-q2
+    type: fill_blank
+    section: language-activity-C
+    text: "ಮುಗಿದಾವು :"
+  - id: lang-C-q3
+    type: fill_blank
+    section: language-activity-C
+    text: "ಸಿಟ್ಟ್ಯಾಕೆ :"
+  - id: lang-C-q4
+    type: fill_blank
+    section: language-activity-C
+    text: "ಬೆಳೆಯಾಲಿ :"
+
+  - id: usage-A-q1
+    type: question
+    section: usage-activity-A
+    text: 1. ಅವ್ವನ ಹಾಸಿಗೆ ಸುತ್ತಾಕಾಗೋಲ್ಲ, ಅಪ್ಪನ ದುಡ್ಡು ಎಣಿಸಾಕಾಗೋಲ್ಲ.
+  - id: usage-A-q2
+    type: question
+    section: usage-activity-A
+    text: 2. ಕರಿ ಸೀರಿ ಉಟ್ಟಾಳ, ಕಾಲುಂಗುರ ಇಟ್ಟಾಳ, ಮೇಲೆ ಹೋಗತಾಳ, ಕೆಳಗೆ ಬರತಾಳ.
+  - id: usage-A-q3
+    type: question
+    section: usage-activity-A
+    text: 3. ಅಪ್ಪಾ ಎಂದರೆ ಮುಚ್ಚುತಾವ, ಅವ್ವ ಎಂದರೆ ತೆರಿತಾವ.
+
+  - id: usage-B-story1
+    type: prose
+    section: usage-activity-B
+    text: ಒಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ರೈತನಿದ್ದನು. ಅವನಿಗೆ ಇಬ್ಬರು ಸೋಮಾರಿ ಮಕ್ಕಳಿದ್ದರು. ಅನಾರೋಗ್ಯದಿಂದ ರೈತ ಹಾಸಿಗೆ ಹಿಡಿದನು. ಮಕ್ಕಳನ್ನು ಹತ್ತಿರ ಕರೆದು ‘‘ಮಕ್ಕಳೇ ನಾನು ಸಂಪಾದಿಸಿದ ಸಂಪತ್ತನ್ನು ನಿಮಗಾಗಿ ಹೊಲದಲ್ಲಿ ಹೂತಿಟ್ಟಿದ್ದೇನೆ’’ ಎಂದು ಹೇಳಿದನು. ಮಕ್ಕಳಿಬ್ಬರು ಹಾರೆ ಗುದ್ದಲಿ ಹಿಡಿದು ಹೊಲಕ್ಕೆ ಹೋದರು. ಅಗೆದು ಅಗೆದು ನಿಧಿಗಾಗಿ ಹುಡುಕಿದರು. ನಿಧಿ ಸಿಗಲಿಲ್ಲ. ಅದೇ ದಿನ ಮಳೆ ಸುರಿಯಿತು. ಇನ್ನೇನು ಮಾಡುವುದು ಎಂದು ಧಾನ್ಯ ಬಿತ್ತಿದರು. ಉತ್ತಮ ಬೆಳೆ ಬಂತು. ಕೈ ತುಂಬ ಹಣ ಸಂಪಾದಿಸಿದರು. ರೈತ ಮಕ್ಕಳನ್ನು ಕರೆದು ‘‘ಇದೇ ನಾನು ಹೊಲದಲ್ಲಿ ಹೂತಿಟ್ಟ ಸಂಪತ್ತು’’ ಎಂದು ಹೇಳಿದನು.
+
+  - id: usage-C-q1
+    type: question
+    section: usage-activity-C
+    text: "*ಒಡಾಡ್ಕೊಂಡು ದನ ಕಾದ್ರೆ ಬೇಗ್ನೆ ಹೊತ್ತು ಮುಳುಗುತ್ತಾ?"
+  - id: usage-C-q2
+    type: question
+    section: usage-activity-C
+    text: "*ಕಡ್ಲೆ ಇದ್ದಾಗ ಹಲ್ಲಿಲ್ಲ, ಹಲ್ಲಿದ್ದಾಗ ಕಡ್ಲಿಲ್ಲ."
+  - id: usage-C-q3
+    type: question
+    section: usage-activity-C
+    text: "*ಕುಟ್ಟಾಕ ಬರದೋಳು ಕೇರಿ ಕೇರಿ ನೋಡಿದಳಂತ."
+
+  - id: usage-D-sec1
+    type: prose
+    section: usage-activity-D
+    text: ಅ. ರವಿ ಶಾಲೆಗೆ ಹೋದನು.
+  - id: usage-D-sec2
+    type: prose
+    section: usage-activity-D
+    text: ರವಿ ಸಾಲಿಗೆ ಹೋದ.
+  - id: usage-D-sec3
+    type: prose
+    section: usage-activity-D
+    text: ರವಿ ಸಾಲಿಗೆ ಹೊಗ್ಯಾನ್ರೀ.
+  - id: usage-D-sec4
+    type: prose
+    section: usage-activity-D
+    text: ಆ. ಕಿರಣ ತಿಂಡಿ ತಿನ್ನುತ್ತಿದ್ದಾನೆ.
+  - id: usage-D-sec5
+    type: prose
+    section: usage-activity-D
+    text: ಕಿರಣ ತಿಂಡಿ ತಿಂತಾನ.
+
+  - id: comp-1
+    type: prose
+    section: competency
+    text: ನೀನೀಗ ಆಡುಭಾಷೆ ಹಾಗೂ ಬರೆಹದ ಭಾಷೆಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಗುರುತಿಸಬಲ್ಲೆಯಲ್ಲವೇ?

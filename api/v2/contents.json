@@ -315,6 +315,30 @@
           "id": "ch04-male",
           "number": 12,
           "title": "ಮಳೆ"
+        },
+        {
+          "held": true,
+          "id": "ch05-ajjiya-totadalli-ondu-dina",
+          "number": 13,
+          "title": "ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ"
+        },
+        {
+          "held": true,
+          "id": "ch06-doddavaru-yaaru",
+          "number": 14,
+          "title": "ದೊಡ್ಡವರು ಯಾರು?"
+        },
+        {
+          "held": true,
+          "id": "ch07-beesokallina-pada",
+          "number": 15,
+          "title": "ಬೀಸೋಕಲ್ಲಿನ ಪದ"
+        },
+        {
+          "held": true,
+          "id": "ch08-taayigondu-patra",
+          "number": 16,
+          "title": "ತಾಯಿಗೊಂದು ಪತ್ರ"
         }
       ],
       "id": "2026-27",
@@ -323,7 +347,7 @@
       "license": "CC BY 4.0",
       "printedGrade": 3,
       "provenance": {
-        "notes": "Printed Grade 3 first-language book. Grade 5 second-language use is recorded as a separate adoption, not a second edition. Four Grade 4 editorial drafts are temporarily colocated under this edition as held chapters until their own book identity is verified; they stay out of production API. Source YAML relocated from legacy KSEEB board paths into this edition's chapters/ folder; formerPath on each chapter records the pre-move directory for rollback evidence.",
+        "notes": "Printed Grade 3 first-language book. Grade 5 second-language use is recorded as a separate adoption, not a second edition. Eight Grade 4 editorial drafts are temporarily colocated under this edition as held chapters until their own book identity is verified; they stay out of production API. Source YAML relocated from legacy KSEEB board paths into this edition's chapters/ folder; formerPath on each chapter records the pre-move directory for rollback evidence.",
         "sourceDocuments": [
           {
             "label": "3rd KANNADA FL Part 1 2026-27.pdf",
@@ -334,6 +358,6 @@
       }
     }
   ],
-  "generatedAt": "2026-09-19T04:04:13Z",
+  "generatedAt": "2026-09-19T04:29:42Z",
   "schemaVersion": "2.0"
 }

@@ -1,0 +1,111 @@
+meta:
+  contributor: itzsrikanth
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  source: source.kn.yaml
+  script: latin
+labels:
+  title: Taayigomdu patra
+  intro: Kalikege daari
+  story: Patra
+  vocab: Padagala artha
+  notes: Tippani
+  exercise-A: Abhyaasa a — omdomdu vaakyadalli uttara bareyiri.
+  exercise-B: Abhyaasa aa — eradu - mooru vaakyagalalli uttara bareyiri.
+  exercise-C: Abhyaasa i — khaali bittiruva jaagadalli sariyaada pada tumbi.
+  exercise-D: Abhyaasa ee — kottiruva vaakyagalu sari iddare ✓ tappu iddare ✗ gurutu haaki.
+  exercise-E: Bhaashaabhyaasa a — maadariyamte limga badalisi bareyiri.
+  exercise-F: Bhaashaabhyaasa aa — maadariyalli soochisiruvamte sookta pada bareyiri.
+  exercise-G: Bhaashaabhyaasa i — gumpige serada pada aarisi bare.
+  exercise-H: Bhaashaabhyaasa ee — ee padagalannu upayoogisi svamta vaakya rachisu.
+  exercise-I: Balake chatuvatike
+  competency: Saamarthya
+intro-1: Ninagishtavaada omdu praaniya bagge naalkaidu vaakya baredu snehitanimda oodisu.
+story-n1: Kshema
+story-n2: Shree
+story-n3: 9neya aktoobar-2024
+story-n4: Basavana baagevaadi
+story-n5: Preetiya ammanige nimma maganaada ullaasa beduva aasheervaadagalu. naanu, ajja, ajji, maavamdiru, tejasvini haagoo dhanusha ellaroo kshemavaagiddeve. nimmellara kshema samaachaarakkaagi ee kaagada talupida koodale kaagada bareyutteeremdu nambiruttene.
+story-n6: Amma, ee dasare rajeyalli ajja nammannu maisooru dasarege karedukomdu hoogiddaru. dasare meravanigeyallina stabdha chitragalu, kalaa tamdagala pradarshanagalu aakarshakavaagiddavu. aane mele ambaariyallidda chaamumdeshvari devi noodi tumbaa samtooshavaayitu. samje noodida pamjina kavaayatu eegaloo kannige kattidamtide.
+story-n7: Dasare mugida marudina chaamumdibettakke hoogi devige pooje maadisidevu. ajji nanage mattu dhanushanige aatada saamaanu kodisidaru. tejasvini akkanige sara, bale kodisidaru. allimda nagara saarige bassu hatti praani samgrahaalayakke bamdevu.
+story-n8: Shree jayachaamaraajemdra mrugaalayadalli vividha reetiya pakshigalannu noodidevu. banna bannada hakkigalu avugala 'chimv chimv' dhvani kelalu sumadhuravaagittu. allimda mumde kempu mattu kappu mukhada kootigalannu kamdevu. dhanushanu avugalige timdi padaartha koduvudannu noodida kaavalugaara 'haage maadabaaradu' emdanu. allalli baredu haakiruva 'muttabedi', 'praanigalige timdi padaartha kodabedi' emba soochanaa phalakagalannu noodi emdu toorisidanu. ade samayadalli simha gharjisi nammannu aa kadege seleyitu. maavanavaru 'galaate maadade maunavaagi banni' emdaru.
+story-n9: Naavu shemgaa tinnuttaa omdu kadeyimda aane, jimke himdu, huli, chirate, simha, ghemdaamruga noodi khushipattevu. pakkada marada kombeya mele kaadu manushya namma haage nadedaaduttittu. mumde haavugala saamraajya. alli kaalimga sarpa, hebbaavu mumtaada berebere jaatiya haavugalannu kamdu mai jum! emditu. 'ee haavugalannu ellimda tamdaddu?' emdaaga, allidda kaavalugaara 'bamdeepurada kaadinimda' emdanu. allimda mumde jiraaphe noodidevu. adu tanna marige haalu unisuttittu. jiraapheya kattu noodi aashcharyavaayitu. alliye idda vastu samgrahaalayakke bheti needidevu. allittidda praanigala maadarigalu nijavaada praanigale embamtiddavu. ivellavannu nooduvashtaralli samje aayitu.
+story-n10: Aamele aramaneyannu noodikomdu oorige himdirugidevu.
+story-n11: Amma, bahala samtooshavaayitu. naanu oorige bamdaaga ellaroo mattomme maisoorige hoogoona.
+story-n12: Tumbaa khushiyimda ee kaagada barediruttene. ellarigoo nanna namaskaaragalannu tilisi.
+story-n13: Iti nimma preetiya maga
+story-n14: Ullaasa
+story-n15: Ivarige,
+story-n16: Shreemati sampige
+story-n17: Kastoori nivaasa
+story-n18: Yalamdooru taalooku-571441
+vocab-samachara: Samaachaara
+vocab-samachara-def: Vishaya, samgati
+vocab-stabdachitra: Stabdhachitra
+vocab-stabdachitra-def: Nishchalavaada chitra, aakruti
+vocab-tanda: Tamda
+vocab-tanda-def: Gumpu, samooha
+vocab-dhvani: Dhvani
+vocab-dhvani-def: Dani, svara
+vocab-sumadhura: Sumadhura
+vocab-sumadhura-def: Impaada
+vocab-udyanavana: Udyaanavana
+vocab-udyanavana-def: Kaitoota
+vocab-garjane: Garjane
+vocab-garjane-def: Gattiyaagi koogu, aarbhatisu
+vocab-shenga: Shemgaa
+vocab-shenga-def: Kadlekaayi, nelagadale
+note-dasare: Dasare
+note-dasare-def: Shuklapaksha paadyadimda dashamiyavaregina hattu dinagala habba.
+note-ambari: Ambaari
+note-ambari-def: Aaneya mele kulitukollalu haakuva mamtapadamtaha bhadraasana.
+note-panju: Pamju
+note-panju-def: Koolige dappa batte sutti enne athavaa tuppa suridu urisuva deepa.
+note-kavayatu: Kavaayatu
+note-kavayatu-def: Sainikaru, poleesaru, gruharakshakaru maaduva kasarattu.
+note-phalaka: Phalaka
+note-phalaka-def: Looha, mara, gaaju mumtaadavugala teluvaada haale.
+note-panjara: Pamjara
+note-panjara-def: Hakki, praani mumtaadavugalannu iduva goodu.
+ex-a-q1: Ajja makkalannu ellige karedukomdu hoogiddaru?
+ex-a-q2: Ajji makkalige enenu kodisidaru?
+ex-a-q3: Makkalu enu noodi aashcharyapattaru?
+ex-a-q4: Ammanige kaagada baredavaru yaaru?
+ex-b-q1: Maisooru dasareyalli ullaasanu enenu noodidanu?
+ex-b-q2: Praani samgrahaalayadalli yaava yaava praanigalu iddavu?
+ex-b-q3: Ullaasanige samtooshavaagalu kaaranavenu?
+ex-c-q1: Ajja nammannu maisooru ________ ge karedukomdu hoogiddaru.
+ex-c-q2: Aaneya melina ambaariyalli ________ ittiddaru.
+ex-c-q3: Maisoorinalli ________ mrugaalayavide.
+ex-c-q4: Simhada ________ namma gamana seleyitu.
+ex-c-q5: Kombeya mele ________ namma haageye nadeyuttittu.
+ex-d-q1: Ullaasanu tanna tamdege kaagada baredanu.
+ex-d-q2: Kempu mattu kappu bannada kootigalu 'chimv chimv' emdu shabda maaduttiddavu.
+ex-d-q3: Dasare mugida marudina chaamumdibettakke hoodevu.
+ex-d-q4: Jiraaphe tanna marige haalu unisuttittu.
+ex-d-q5: Mrugaalayadallidda haavugalannu bamdeepurada kaadinimda taralaagide.
+ex-d-q6: Dasare habba aaru dina nadeyuttade.
+ex-e-p1: 'Maadari: ajja - ajji'
+ex-e-q1: 'Tamde : ________'
+ex-e-q2: 'Maava : ________'
+ex-e-q3: 'Chikkappa : ________'
+ex-e-q4: 'Magalu : ________'
+ex-e-q5: 'Tamma : ________'
+ex-f-p1: 'Maadari : namma - nammadu - nammavaru'
+ex-f-q1: 'Nanna : ________ - ________'
+ex-f-q2: 'Ninna : ________ - ________'
+ex-f-q3: 'Nimma : ________ - ________'
+ex-f-q4: 'Tamma : ________ - ________'
+ex-g-q1: 'Shemgaa, maavu, genasu, aaloogadde : ________'
+ex-g-q2: 'Kaage, goobe, koogile, ghemdaamruga : ________'
+ex-g-q3: 'Baalehannu, idli, vade, doose : ________'
+ex-g-q4: 'Chirate, gili, simha, huli : ________'
+ex-h-q1: 'Kshema : ________'
+ex-h-q2: 'Praani samgrahaalaya : ________'
+ex-h-q3: 'Udyaanavana : ________'
+ex-h-q4: 'Soochanaa phalaka : ________'
+ex-i-q1: Ninage ishtavaada omdu vishaya kuritu nimma geleya/gelatige patravannu (ninna barevanige pustakadalli) baredu, ninna geleya / gelatige oodalu kodu.
+ex-i-q2: Ninage tilidiruva kavigala kaibarehagalannu samgrahisu.
+ex-i-q3: Ninage gottiruva vyaktigala kaibarehagalannu samgrahisu.
+ex-i-q4: Shikshakara sahaaya padedu dodda/sanna lakootegalannu tayaarisu.
+ex-i-q5: Vividha patragala bagge shikshakara hattira keli tiliduko.
+competency: Neeneega kaibarehada patragalannu mattu itarara barevanigeyannu oodi arthaisikolluviyallave?

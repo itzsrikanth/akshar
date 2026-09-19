@@ -1,0 +1,105 @@
+meta:
+  source: source.kn.yaml
+  contributor: itzsrikanth
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: kalikege daari
+  poem: beesokallina pada
+  vocab: padagala artha
+  notes: tippani
+  exercise-A: ondondu vakyadalli uttara bareyiri.
+  exercise-B: eradu-mooru vakyagalalli uttara bareyiri.
+  exercise-C: padyada modalardha saalige eradaneya ardha saalannu hondisi bareyiri.
+  exercise-D: maudariyante kottiruva padagalige bhinna arthadalli swanta vakya bareyiri.
+  language-activity: bhasha chatuvatike
+  language-activity-A: aadumaatu mattu barehada maatina naduvina vyatyasa gamanisi.
+  language-activity-B: akshara balasi pada bare.
+  language-activity-C: kelagina aadunudigalannu maudariyante barehada bhashayalli bareyiri.
+  usage-activity: balake chatuvatike
+  usage-activity-A: ogatu bidisi.
+  usage-activity-B: kottiruva kate oodi, idakke sambandhisida gadegalannu bareyiri.
+  usage-activity-C: kottiruva gade maatannu barehada bhashage badalayisi.
+  usage-activity-D: kelagina aadunudigalannu oodi bareyiri.
+  competency: samarthya
+
+intro-1: jogula haadu, geegi pada, sobane pada, ivugalalli ninage gottiruva yavudadarondu haadannu taragatiyalli geleyarodagoodi haadu.
+poem-s1l1: kallamma taayi mellamma ragiya
+poem-s1l2: jhallajhallane uduramma | naa ninage
+poem-s1l3: belladaaratiya belagenu ||
+poem-s2l1: andulla adigallu chandulla meegallu
+poem-s2l2: chandramatiyemba hidigoota | hidukondu
+poem-s2l3: tande taayigala nenedena ||
+poem-s3l1: raagiyu mugidaavu raajanna heccyaavu
+poem-s3l2: naanhidida kelasa vadagyaavu | raagikalle
+poem-s3l3: naa toogi biduteeni baladolu ||
+poem-s4l1: kallu bittenedu sittyake sarasatiye
+poem-s4l2: kukkeli ragi beleyali | takkondu
+poem-s4l3: matte raatrige baruteeni ||
+poem-s5l1: kallu kottammage ella bhagyavu barali
+poem-s5l2: pallakki mele maga barali | aa manege
+poem-s5l3: mallige mudiyo sosi barali ||
+poem-s6l1: -janapada
+poem-s7l1: janavaani beeru, kavivaani hoovu.
+vocab-ಪಲ್ಲಕ್ಕಿ: pallakki
+vocab-ಪಲ್ಲಕ್ಕಿ-def: mene, doli
+vocab-ಉದುರು: uduru
+vocab-ಉದುರು-def: kelage beelu
+vocab-ಕುಕ್ಕೆ: kukke
+vocab-ಕುಕ್ಕೆ-def: bidirina butti
+note-ರಾಜಾನ್ನ: rajanna
+note-ರಾಜಾನ್ನ-def: suvasaneyulla akki.
+note-ಸೊಸಿ: sosi
+note-ಸೊಸಿ-def: sose, magana hendati.
+ex-A-q1: 1. ragi heege uduruttade?
+ex-A-q2: 2. beesuva kallina hidigoota hididu yarannu neneyuttare?
+ex-A-q3: 3. sarasatige sittu bantu eeke?
+ex-B-q1: 1. kallu kottammanannu eenendu harasuvalu?
+ex-B-q2: 2. sittugonda sarasatiyannu samadhana maadida bage heege?
+ex-C-hdr1: a ba
+ex-C-q1: 1. belladaaratiya
+ex-C-opt1: baruteeni
+ex-C-q2: 2. matte raatrige
+ex-C-opt2: belagenu
+ex-C-q3: 3. raagiyu mugidaavu
+ex-C-opt3: nadisenu
+ex-C-q4: 4. andulla adigallu
+ex-C-opt4: raajanna heccyaavu
+ex-C-opt5: chandulla meegallu
+ex-D-ex1-term1: "maadari : atte - nanna kaalige mullu chucchidaga attenu."
+ex-D-ex1-term2: atte - namma atte nanage hosa batte tandaru.
+ex-D-q1-term1: "1. tande :"
+ex-D-q1-term2: "tande :"
+ex-D-q2-term1: "2. kale:"
+ex-D-q2-term2: "kale:"
+ex-D-q3-term1: "3. aadu :"
+ex-D-q3-term2: "aadu :"
+lang-A-hdr1: aadumaatu - barehada roopa
+lang-A-word1: bartane - baruttane
+lang-A-word2: yilla - illa
+lang-A-word3: arake - harake
+lang-A-word4: attira - hattira
+lang-A-word5: karevole - kareyole
+lang-B-chart1: ka nnu -
+lang-B-chart2: ma ggi -
+lang-B-chart3: si tha -
+lang-B-chart4: hi tta -
+lang-B-chart5: sa ddi -
+lang-C-ex1: "maadari : heccyaavu - heccadavu"
+lang-C-q1: "vadagyaavu :"
+lang-C-q2: "mugidaavu :"
+lang-C-q3: "sittyake :"
+lang-C-q4: "beleyali :"
+usage-A-q1: 1. avvana haasige suttaakagolla, appana duddu enisaakagolla.
+usage-A-q2: 2. kari seeri uttaala, kaalungura ittaala, meele hogataala, kelage barataala.
+usage-A-q3: 3. appa endare mucchutaava, avva endare teritaava.
+usage-B-story1: ondu oorinalli obba raitaniddanu. avanige ibbaru soomaari makkaliddaru. anarogyadinda raita haasige hididanu. makkalannu hattira karedu ‘‘makkale naanu sampadisida sampattannu nimagagi holadalli hootittiddene’’ endu helidanu. makkalibbaru haare guddali hididu holakke hodaru. agedu agedu nidhigaagi hudukidaru. nidhi sigalilla. aade dina male suriyitu. innenu maaduvudu endu dhaanya bittidaru. uttama bele bantu. kai tumba hana sampadisidaru. raita makkalannu karedu ‘‘idee naanu holadalli hootitta sampattu’’ endu helidanu.
+usage-C-q1: "*odaadkondu dana kaadre beegne hottu muluguttaa?"
+usage-C-q2: "*kadle iddaga hallilla, halliddaga kadlilla."
+usage-C-q3: "*kuttaaka baradolu keeri keeri nodidalanta."
+usage-D-sec1: a. ravi shaalege hoodanu.
+usage-D-sec2: ravi saalige hooda.
+usage-D-sec3: ravi saalige hogyaanri.
+usage-D-sec4: aa. kirana tindi tinnuttiddane.
+usage-D-sec5: kirana tindi tintaana.
+comp-1: neeneega aadubhasha hagu barehada bhashagala naduvina vyatyasavannu gurutisaballeyallave?

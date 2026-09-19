@@ -1,0 +1,105 @@
+meta:
+  source: source.kn.yaml
+  contributor: itzsrikanth
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  title: Who is Great?
+  intro: Path to Learning
+  story: Who is Great?
+  vocab: Meanings of Words
+  exercise-A: Exercise A — Write the answer in one sentence each.
+  exercise-B: Exercise B — Who said the given words? To whom?
+  exercise-C: Exercise C — Observe the sentences. Identify true/false, correct and write if false.
+  exercise-D: Exercise D — Arrange the given words correctly to form sentences.
+  exercise-E: Exercise E — Frame your own sentences using the following words.
+  exercise-F: Language Activity A — Choose the correct word from the given words and write in the blank.
+  exercise-G: Language Activity B — Using the given letters, make a list of animal names.
+  exercise-H: Language Activity C — Match the animals/birds to their sounds by drawing a line.
+  exercise-I: Language Activity D — Identify and write the correct form among the given words.
+  exercise-J: Language Activity E — Read and write the following words.
+  exercise-K: Usage Activity A — Copy the models of the following sentences.
+  exercise-L: Usage Activity B
+  exercise-M: Usage Activity C
+  exercise-N: Usage Activity D
+  competency: Competency
+intro-1: An argument took place between a pumpkin, a snake gourd, and a bitter gourd about who among them is great. Guess what their argument might have been and discuss it with your friends in class.
+story-n1: In a town, there lived a family of mice. They had a daughter in their family.
+story-n2: The parent mice thought of finding a suitable groom for their daughter.
+story-n3: 'The mother mouse said, "The sun, who lights up the whole world, is very great. He is the suitable groom for our daughter."'
+story-n4: 'The mice went to the sun. They informed him about the marriage. Hearing this, the sun said, "There is someone else greater than me. Ask him."'
+story-n6: '"Then who is he?" asked the father mouse. To that, the sun said, "The cloud is greater than me." Everyone together went to the cloud.'
+story-n5: 'Hearing about the marriage, the cloud said, "No! No! The king of the mountains is greater than me. Go to him."'
+story-n7: 'The mice went to the king of the mountains and told him the matter. Then the king of the mountains said, "There is another person greater than me. He is the mouse king, go to him."'
+story-n8: 'The father mouse said, "We had the groom right here with us and wandered around for nothing." Deciding that "The mouse king is the suitable groom for our daughter", they gave their daughter to the mouse king and celebrated the marriage grandly.'
+story-proverb: Like wandering around town for ghee while holding butter in the palm.
+vocab-samsara: family
+vocab-samsara-def: family, household
+vocab-vara: groom
+vocab-vara-def: boy to be married, bridegroom
+vocab-jagattu: world
+vocab-jagattu-def: world, universe
+vocab-takka: suitable
+vocab-takka-def: worthy, capable
+vocab-soorya: sun
+vocab-soorya-def: sun
+vocab-betta: mountain
+vocab-betta-def: mountain, hill
+vocab-sambhrama: celebration
+vocab-sambhrama-def: enthusiasm, festivity
+vocab-vichara: matter
+vocab-vichara-def: matter, subject
+vocab-bahala: very
+vocab-bahala-def: more, excessive
+vocab-maduve: marriage
+vocab-maduve-def: wedding, matrimony
+ex-a-q1: Where did the family of mice live?
+ex-a-q2: What did the parent mice think?
+ex-a-q3: What did the mother mouse say?
+ex-a-q4: Who lights up the world?
+ex-a-q5: What matter did the mice tell the sun?
+ex-a-q6: With whom did the mouse get married?
+ex-b-q1: "The sun, who lights up the whole world, is very great."
+ex-b-q1-who: Who?
+ex-b-q1-whom: To whom?
+ex-b-q2: "No! No! The king of the mountains is greater than me."
+ex-b-q2-who: Who?
+ex-b-q2-whom: To whom?
+ex-b-q3: "The mouse king is the suitable groom for our daughter."
+ex-b-q3-who: Who?
+ex-b-q3-whom: To whom?
+ex-c-q1: In a town, there lived a family of tigers.
+ex-c-q2: The mice thought of finding a suitable groom for their son.
+ex-c-q3: The ants went to the king of the mountains.
+ex-d-q1: father mice thought mother
+ex-d-q2: lighting very sun great world
+ex-d-q3: mice mountain went to king
+ex-e-q1: think
+ex-e-q2: decide
+ex-e-q3: capable
+ex-e-q4: marriage
+ex-f-p1: (intelligent, beautiful, melodiously, well)
+ex-f-q1: The peacock is a ________ bird.
+ex-f-q2: Pallavi is a very ________ student.
+ex-f-q3: The cuckoo sings ________.
+ex-f-q4: Mohana dances ________.
+ex-g-p1: "b ha su sa ma da i ra ka tte\nhu li ba ra e to ka na di mme\nba la na ri da"
+ex-g-q1: 'Model: cow'
+ex-h-q1: hen
+ex-h-q2: crow
+ex-h-q3: cat
+ex-h-q4: dog
+ex-h-q5: cuckoo
+ex-h-p1: (meow meow, bow bow, caw caw, coo coo, cock-a-doodle-doo)
+ex-i-q1: heṇṇu - eṇṇu
+ex-i-q2: tāyi - tāi
+ex-i-q3: mōḍa - mōḍha
+ex-i-q4: sūrya - sūriya
+ex-i-q5: vara - ora
+ex-i-q6: beṭṭa - beṭṭha
+ex-j-p1: ge li sa ha ja ni ma ra la hu ha ku ra
+ex-j-q1: 'Model: salige'
+ex-k-p1: Using plastic is harmful to the environment.
+ex-l-q1: Act out the dialogue of the characters from the lesson "Who is Great?" with your friends in school.
+ex-m-q1: Collect various comic strips that appear in newspapers and prepare a comic strip dictionary.
+ex-n-q1: Prepare a poster with the help of your teachers to promote the 'Republic Day' program conducted in your school.
+competency: Can you now read and understand various comic strips and posters?

@@ -43,7 +43,11 @@ The official 2026–27 catalog has separate first-/second-language publications.
 - [ ] Grade 4 Chapters 1–2 production release: resolve edition rights and exercise rendering, set evidenced licenses, remove holds, regenerate the API and verify supported clients before release.
 - [x] Grade 4 Chapter 3: review PDF pages 27–35, write source plus four contributor maps (120 segments), add production hold, generate draft README; full schema checks pass.
 - [x] Grade 4 Chapter 4: review PDF pages 36–42 (`ಮಳೆ`), write source plus four contributor maps (97 segments), add production hold; full schema checks pass.
-- [ ] Continue remaining Grade 4 chapters sequentially from Chapter 5 (PDF pages 43–52), recording chapter-specific checkpoints before proceeding.
+- [x] Continue remaining Grade 4 chapters sequentially from Chapter 5 (PDF pages 43–52), recording chapter-specific checkpoints before proceeding.
+- [x] Grade 4 Chapter 5: review PDF pages 43–52, write source plus four contributor maps, add production hold; full schema checks pass.
+- [x] Grade 4 Chapter 6: review PDF pages 53–59, write source plus four contributor maps, add production hold; full schema checks pass.
+- [x] Grade 4 Chapter 7: review PDF pages 60–65, write source plus four contributor maps, add production hold; full schema checks pass.
+- [x] Grade 4 Chapter 8: review PDF pages 66–72, write source plus four contributor maps, add production hold; full schema checks pass.
 - [ ] Grade 5 first-language Part 1, then Grades 1/2 and 6–10: identify chapters and convert sequentially; do not confuse this separate Grade 5 publication with Grade 5 students using the Grade 3 book.
 - [ ] Download/convert Part 2 and second-language publications in a later explicit priority pass.
 
@@ -105,10 +109,10 @@ The contents page was visually inspected. All ranges are inclusive; Chapters 1�
 | 2 | ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ | 6–12 | 20–26 | Five YAML files stored in Git-only delivery; full schema checks pass; production API and renderer holds remain |
 | 3 | ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ | 13–21 | 27–35 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
 | 4 | ಮಳೆ | 22–28 | 36–42 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
-| 5 | ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ | 29–38 | 43–52 | Pending |
-| 6 | ದೊಡ್ಡವರು ಯಾರು? | 39–45 | 53–59 | Pending |
-| 7 | ಬೀಸೋಕಲ್ಲಿನ ಪದ | 46–51 | 60–65 | Pending |
-| 8 | ತಾಯಿಗೊಂದು ಪತ್ರ | 52–58 | 66–72 | Pending; confirm end matter during page review |
+| 5 | ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ | 29–38 | 43–52 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
+| 6 | ದೊಡ್ಡವರು ಯಾರು? | 39–45 | 53–59 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
+| 7 | ಬೀಸೋಕಲ್ಲಿನ ಪದ | 46–51 | 60–65 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
+| 8 | ತಾಯಿಗೊಂದು ಪತ್ರ | 52–58 | 66–72 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
 
 ## Related work in this session
 

@@ -1,0 +1,346 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 4
+  subject: Kannada
+  chapter: 6
+  slug: ch06-doddavaru-yaaru
+  title: ದೊಡ್ಡವರು ಯಾರು?
+  source_url: https://diksha.gov.in/dial/B5V6X7
+  original_publisher: Karnataka Textbook Society
+labels:
+  title: ದೊಡ್ಡವರು ಯಾರು?
+  intro: ಕಲಿಕೆಗೆ ದಾರಿ
+  story: ದೊಡ್ಡವರು ಯಾರು?
+  vocab: ಪದಗಳ ಅರ್ಥ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆ.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಮಾತನ್ನು ಯಾರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ವಾಕ್ಯಗಳನ್ನು ಗಮನಿಸಿ. ಸರಿ/ತಪ್ಪುಗಳನ್ನು ಗುರುತಿಸು, ತಪ್ಪಿದ್ದರೆ ಸರಿಪಡಿಸಿ ಬರೆಯಿರಿ.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿ ವಾಕ್ಯ ರಚಿಸಿ.
+  exercise-E: ಅಭ್ಯಾಸ ಉ — ಈ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಬಳಸಿ ಸ್ವಂತವಾಕ್ಯ ರಚಿಸಿ.
+  exercise-F: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ
+  exercise-G: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಕೊಟ್ಟಿರುವ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಿ, ಪ್ರಾಣಿಗಳ ಹೆಸರು ಪಟ್ಟಿ ಮಾಡಿ.
+  exercise-H: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ — ಪ್ರಾಣಿ-ಪಕ್ಷಿಗಳ ಕೂಗನ್ನು ಅನುಸರಿಸಿ ಸೂಕ್ತವಾದುದಕ್ಕೆ ಗೆರೆ ಎಳೆದು ಹೊಂದಿಸಿ.
+  exercise-I: ಭಾಷಾ ಚಟುವಟಿಕೆ ಈ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ರೂಪವನ್ನು ಗುರುತಿಸಿ ಬರೆ.
+  exercise-J: ಭಾಷಾ ಚಟುವಟಿಕೆ ಉ — ಈ ಕೆಳಗಿನ ಪದಗಳನ್ನು ಓದಿ ಬರೆ.
+  exercise-K: ಬಳಕೆ ಚಟುವಟಿಕೆ ಅ — ಈ ಕೆಳಗಿನ ವಾಕ್ಯಗಳ ಮಾದರಿಗಳನ್ನು ನಕಲುಮಾಡಿ.
+  exercise-L: ಬಳಕೆ ಚಟುವಟಿಕೆ ಆ
+  exercise-M: ಬಳಕೆ ಚಟುವಟಿಕೆ ಇ
+  exercise-N: ಬಳಕೆ ಚಟುವಟಿಕೆ ಈ
+  competency: ಸಾಮರ್ಥ್ಯ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಕುಂಬಳಕಾಯಿ, ಪಡುವಲಕಾಯಿ ಮತ್ತು ಹಾಗಲಕಾಯಿ ನಡುವೆ ದೊಡ್ಡವರು ಯಾರು ಎಂಬ ಬಗ್ಗೆ ವಾದ ನಡೆಯಿತು. ಅವರ ನಡುವೆ ಏನು ವಾದ ನಡೆದಿರಬಹುದು ಎಂದು ಊಹಿಸಿಕೊಂಡು ತರಗತಿಯಲ್ಲಿ ಸ್ನೇಹಿತರ ಜೊತೆ ಸೇರಿ ಚರ್ಚಿಸಿ.
+- id: story-n1
+  type: prose
+  section: story
+  text: ಒಂದು ಊರು, ಅಲ್ಲೊಂದು ಇಲಿಗಳ ಸಂಸಾರ. ಆ ಸಂಸಾರದಲ್ಲಿ ಒಬ್ಬ ಮಗಳಿದ್ದಳು.
+- id: story-n2
+  type: prose
+  section: story
+  text: ಮಗಳಿಗೆ ತಕ್ಕ ವರನನ್ನು ಹುಡುಕಬೇಕೆಂದು ತಂದೆ ತಾಯಿ ಇಲಿಗಳು ಯೋಚಿಸಿದವು.
+- id: story-n3
+  type: prose
+  section: story
+  text: ಜಗತ್ತನ್ನೇ ಬೆಳಗುವ ಸೂರ್ಯ ಬಹಳ ದೊಡ್ಡವನು. ಅವನೇ ನಮ್ಮ ಮಗಳಿಗೆ ತಕ್ಕ ವರ, ಎಂದು ತಾಯಿ ಇಲಿ ಹೇಳಿತು.
+- id: story-n4
+  type: prose
+  section: story
+  text: ಸೂರ್ಯನ ಬಳಿಗೆ ಇಲಿಗಳು ಹೋದವು. ಮದುವೆ ವಿಚಾರ ತಿಳಿಸಿದವು. ಈ ವಿಚಾರವನ್ನು ಕೇಳಿದ ಸೂರ್ಯನು ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಇನ್ನೊಬ್ಬನಿದ್ದಾನೆ. ಅವನನ್ನು ಕೇಳಿ ಎಂದು ಹೇಳಿದನು.
+- id: story-n6
+  type: prose
+  section: story
+  text: ಹಾಗಾದರೆ ‘ಅವನು ಯಾರು?’ ಎಂದು ತಂದೆ ಇಲಿ ಕೇಳಿತು. ಅದಕ್ಕೆ ಸೂರ್ಯನು 'ಮೋಡ ನನಗಿಂತಲೂ ದೊಡ್ಡವನು' ಎಂದು ಹೇಳಿದನು. ಎಲ್ಲರೂ ಸೇರಿ ಮೋಡದ ಬಳಿಗೆ ಹೋದವು.
+- id: story-n5
+  type: prose
+  section: story
+  text: ಮದುವೆ ವಿಚಾರ ಕೇಳಿದ ಮೋಡವು 'ಇಲ್ಲಾ! ಇಲ್ಲಾ! ನನಗಿಂತ ದೊಡ್ಡವನು ಬೆಟ್ಟದ ರಾಜನಿದ್ದಾನೆ. ಅವನಲ್ಲಿ ಹೋಗಿ' ಎಂದು ಹೇಳಿತು.
+- id: story-n7
+  type: prose
+  section: story
+  text: ಬೆಟ್ಟದ ರಾಜನ ಬಳಿಗೆ ಇಲಿಗಳು ಹೋಗಿ ವಿಷಯ ತಿಳಿಸಿದವು. ಆಗ ಬೆಟ್ಟದ ರಾಜ 'ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಮತ್ತೊಬ್ಬನಿದ್ದಾನೆ. ಅವನೇ ಇಲಿರಾಯ ಅವನಲ್ಲಿಗೆ ಹೋಗಿ' ಎಂದನು.
+- id: story-n8
+  type: prose
+  section: story
+  text: '"ನಮ್ಮಲ್ಲೆ ವರನನ್ನು ಇಟ್ಟುಕೊಂಡು ಸುಮ್ಮನೆ ಪರದಾಡಿದೆವು" ಎಂದು ತಂದೆ ಇಲಿ ಹೇಳಿತು. "ನಮ್ಮ ಮಗಳಿಗೆ ಇಲಿರಾಯನೇ ತಕ್ಕ ವರ" ಎಂದು ತೀರ್ಮಾನಿಸಿ, ಮಗಳನ್ನು ಇಲಿರಾಯನಿಗೆ ಕೊಟ್ಟು ವೈಭವದಿಂದ ಮದುವೆ ಮಾಡಿದವು.'
+- id: story-proverb
+  type: prose
+  section: story
+  text: ಅಂಗೈಯಲ್ಲಿ ಬೆಣ್ಣೆ ಇಟ್ಟುಕೊಂಡು ತುಪ್ಪಕ್ಕಾಗಿ ಊರು ಅಲೆದಂತೆ.
+- id: vocab-samsara
+  type: vocabulary_term
+  text: ಸಂಸಾರ
+- id: vocab-samsara-def
+  type: vocabulary_definition
+  ref: vocab-samsara
+  text: ಪರಿವಾರ, ಕುಟುಂಬ
+- id: vocab-vara
+  type: vocabulary_term
+  text: ವರ
+- id: vocab-vara-def
+  type: vocabulary_definition
+  ref: vocab-vara
+  text: ಮದುವೆಯಾಗುವ ಹುಡುಗ, ಮದುಮಗ
+- id: vocab-jagattu
+  type: vocabulary_term
+  text: ಜಗತ್ತು
+- id: vocab-jagattu-def
+  type: vocabulary_definition
+  ref: vocab-jagattu
+  text: ಲೋಕ, ವಿಶ್ವ
+- id: vocab-takka
+  type: vocabulary_term
+  text: ತಕ್ಕ
+- id: vocab-takka-def
+  type: vocabulary_definition
+  ref: vocab-takka
+  text: ಯೋಗ್ಯವಾದ, ಸಮರ್ಥ
+- id: vocab-soorya
+  type: vocabulary_term
+  text: ಸೂರ್ಯ
+- id: vocab-soorya-def
+  type: vocabulary_definition
+  ref: vocab-soorya
+  text: ರವಿ
+- id: vocab-betta
+  type: vocabulary_term
+  text: ಬೆಟ್ಟ
+- id: vocab-betta-def
+  type: vocabulary_definition
+  ref: vocab-betta
+  text: ಪರ್ವತ, ಗಿರಿ
+- id: vocab-sambhrama
+  type: vocabulary_term
+  text: ಸಂಭ್ರಮ
+- id: vocab-sambhrama-def
+  type: vocabulary_definition
+  ref: vocab-sambhrama
+  text: ಉತ್ಸಾಹ, ಸಡಗರ
+- id: vocab-vichara
+  type: vocabulary_term
+  text: ವಿಚಾರ
+- id: vocab-vichara-def
+  type: vocabulary_definition
+  ref: vocab-vichara
+  text: ವಿಷಯ, ಸಂಗತಿ
+- id: vocab-bahala
+  type: vocabulary_term
+  text: ಬಹಳ
+- id: vocab-bahala-def
+  type: vocabulary_definition
+  ref: vocab-bahala
+  text: ಹೆಚ್ಚು, ಅಧಿಕ
+- id: vocab-maduve
+  type: vocabulary_term
+  text: ಮದುವೆ
+- id: vocab-maduve-def
+  type: vocabulary_definition
+  ref: vocab-maduve
+  text: ಲಗ್ನ, ವಿವಾಹ, ಕಲ್ಯಾಣ
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಇಲಿಗಳ ಸಂಸಾರ ಎಲ್ಲಿ ವಾಸವಾಗಿತ್ತು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ತಂದೆ-ತಾಯಿ ಇಲಿಗಳು ಏನೆಂದು ಯೋಚಿಸಿದವು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ತಾಯಿ ಇಲಿ ಏನೆಂದು ಹೇಳಿತು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಜಗತ್ತನ್ನು ಬೆಳಗುವವರು ಯಾರು?
+- id: ex-a-q5
+  type: question
+  exercise: A
+  text: ಸೂರ್ಯನಿಗೆ ಇಲಿಗಳು ಯಾವ ವಿಚಾರ ತಿಳಿಸಿದವು?
+- id: ex-a-q6
+  type: question
+  exercise: A
+  text: ಯಾರ ಜೊತೆಯಲ್ಲಿ ಇಲಿಯ ಮದುವೆಯಾಯಿತು?
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: '‘‘ಜಗತ್ತನ್ನೇ ಬೆಳಗುವ ಸೂರ್ಯ ಬಹಳ ದೊಡ್ಡವನು.’’'
+- id: ex-b-q1-who
+  type: fill_blank
+  exercise: B
+  text: 'ಯಾರು ? ________'
+- id: ex-b-q1-whom
+  type: fill_blank
+  exercise: B
+  text: 'ಯಾರಿಗೆ ? ________'
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: '‘‘ಇಲ್ಲಾ! ಇಲ್ಲಾ! ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಬೆಟ್ಟದ ರಾಜನಿದ್ದಾನೆ.’’'
+- id: ex-b-q2-who
+  type: fill_blank
+  exercise: B
+  text: 'ಯಾರು ? ________'
+- id: ex-b-q2-whom
+  type: fill_blank
+  exercise: B
+  text: 'ಯಾರಿಗೆ ? ________'
+- id: ex-b-q3
+  type: question
+  exercise: B
+  text: '‘‘ನಮ್ಮ ಮಗಳಿಗೆ ಇಲಿರಾಯನೇ ತಕ್ಕ ವರ.’’'
+- id: ex-b-q3-who
+  type: fill_blank
+  exercise: B
+  text: 'ಯಾರು ? ________'
+- id: ex-b-q3-whom
+  type: fill_blank
+  exercise: B
+  text: 'ಯಾರಿಗೆ ? ________'
+- id: ex-c-q1
+  type: question
+  exercise: C
+  text: ಒಂದು ಊರು, ಅಲ್ಲೊಂದು ಹುಲಿಗಳ ಸಂಸಾರ ಇತ್ತು.
+- id: ex-c-q2
+  type: question
+  exercise: C
+  text: ಮಗನಿಗೆ ಸರಿಯಾದ ವರ ಬೇಕೆಂದು ಇಲಿಗಳು ಯೋಚಿಸಿದವು.
+- id: ex-c-q3
+  type: question
+  exercise: C
+  text: ಬೆಟ್ಟದ ರಾಜನ ಬಳಿಗೆ ಇರುವೆಗಳು ಹೋದವು.
+- id: ex-d-q1
+  type: fill_blank
+  exercise: D
+  text: 'ತಂದೆ ಇಲಿಗಳು ಯೋಚಿಸಿದವು ತಾಯಿ : ________'
+- id: ex-d-q2
+  type: fill_blank
+  exercise: D
+  text: 'ಬೆಳಗುವ ಬಹಳ ಸೂರ್ಯ ದೊಡ್ಡವನು ಜಗತ್ತನ್ನೇ : ________'
+- id: ex-d-q3
+  type: fill_blank
+  exercise: D
+  text: 'ಇಲಿಗಳು ಬೆಟ್ಟದ ಹೋದವು ಬಳಿಗೆ ರಾಜನ : ________'
+- id: ex-e-q1
+  type: fill_blank
+  exercise: E
+  text: 'ಯೋಚಿಸು : ________'
+- id: ex-e-q2
+  type: fill_blank
+  exercise: E
+  text: 'ತೀರ್ಮಾನಿಸು : ________'
+- id: ex-e-q3
+  type: fill_blank
+  exercise: E
+  text: 'ಸಮರ್ಥ : ________'
+- id: ex-e-q4
+  type: fill_blank
+  exercise: E
+  text: 'ಮದುವೆ : ________'
+- id: ex-f-p1
+  type: prose
+  exercise: F
+  text: (ಬುದ್ಧಿವಂತ, ಸುಂದರವಾದ, ಇಂಪಾಗಿ, ಚೆನ್ನಾಗಿ)
+- id: ex-f-q1
+  type: fill_blank
+  exercise: F
+  text: ನವಿಲು ________ ಪಕ್ಷಿ.
+- id: ex-f-q2
+  type: fill_blank
+  exercise: F
+  text: ಪಲ್ಲವಿ ಬಹಳ ________ ವಿದ್ಯಾರ್ಥಿನಿ.
+- id: ex-f-q3
+  type: fill_blank
+  exercise: F
+  text: ಕೋಗಿಲೆ ________ ಹಾಡುತ್ತದೆ.
+- id: ex-f-q4
+  type: fill_blank
+  exercise: F
+  text: ಮೋಹನ ________ ನೃತ್ಯ ಮಾಡುತ್ತಾನೆ.
+- id: ex-g-p1
+  type: prose
+  exercise: G
+  text: "ಬ ಹ ಸು ಸ ಮ ಡ ಇ ರ ಕ ತ್ತೆ\nಹು ಲಿ ಬ ರ ಎ ತೋ ಕ ನ ಡಿ ಮ್ಮೆ\nಬ ಳ ನ ರಿ ಡ"
+- id: ex-g-q1
+  type: fill_blank
+  exercise: G
+  text: 'ಮಾದರಿ: ಹಸು ________ ________ ________ ________ ________ ________'
+- id: ex-h-q1
+  type: fill_blank
+  exercise: H
+  text: 'ಕೋಳಿ : ________'
+- id: ex-h-q2
+  type: fill_blank
+  exercise: H
+  text: 'ಕಾಗೆ : ________'
+- id: ex-h-q3
+  type: fill_blank
+  exercise: H
+  text: 'ಬೆಕ್ಕು : ________'
+- id: ex-h-q4
+  type: fill_blank
+  exercise: H
+  text: 'ನಾಯಿ : ________'
+- id: ex-h-q5
+  type: fill_blank
+  exercise: H
+  text: 'ಕೋಗಿಲೆ : ________'
+- id: ex-h-p1
+  type: prose
+  exercise: H
+  text: (ಮೀಯಾಂವ್ ಮೀಯಾಂವ್, ಬೌ ಬೌ, ಕಾ ಕಾ, ಕುಹೂ ಕುಹೂ, ಕೊಕ್ಕೊ ಕ್ಕೋ)
+- id: ex-i-q1
+  type: fill_blank
+  exercise: I
+  text: 'ಹೆಣ್ಣು - ಎಣ್ಣು : ________'
+- id: ex-i-q2
+  type: fill_blank
+  exercise: I
+  text: 'ತಾಯಿ - ತಾಇ : ________'
+- id: ex-i-q3
+  type: fill_blank
+  exercise: I
+  text: 'ಮೋಡ - ಮೋಢ : ________'
+- id: ex-i-q4
+  type: fill_blank
+  exercise: I
+  text: 'ಸೂರ್ಯ - ಸೂರಿಯ : ________'
+- id: ex-i-q5
+  type: fill_blank
+  exercise: I
+  text: 'ವರ - ಒರ : ________'
+- id: ex-i-q6
+  type: fill_blank
+  exercise: I
+  text: 'ಬೆಟ್ಟ - ಬೆಟ್ಠ : ________'
+- id: ex-j-p1
+  type: prose
+  exercise: J
+  text: 'ಗೆ ಲಿ ಸ ಹ ಜ ನಿ ಮ ರ ಲ ಹು ಹ ಕು ರ'
+- id: ex-j-q1
+  type: fill_blank
+  exercise: J
+  text: 'ಮಾದರಿ: ಸಲಿಗೆ ________ ________ ________ ________ ________ ________'
+- id: ex-k-p1
+  type: prose
+  exercise: K
+  text: ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಪರಿಸರಕ್ಕೆ ಹಾನಿಕರ.
+- id: ex-l-q1
+  type: question
+  exercise: L
+  text: '''ದೊಡ್ಡವರು ಯಾರು?'' ಪಾಠದಲ್ಲಿ ಬರುವ ಪಾತ್ರಗಳ ಸಂಭಾಷಣೆಯನ್ನು ಶಾಲೆಯಲ್ಲಿ ಗೆಳೆಯರೊಂದಿಗೆ ಸೇರಿ ಅಭಿನಯಿಸು.'
+- id: ex-m-q1
+  type: question
+  exercise: M
+  text: ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಬರುವ ವಿವಿಧ ಚಿತ್ರ ಕಥೆಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ, ಚಿತ್ರಕಥಾ ಕೋಶ ತಯಾರಿಸು.
+- id: ex-n-q1
+  type: question
+  exercise: N
+  text: ನಿಮ್ಮ ಶಾಲೆಯಲ್ಲಿ ನಡೆಸುವ 'ಗಣರಾಜ್ಯೋತ್ಸವ' ಕಾರ್ಯಕ್ರಮದ ಪ್ರಚಾರಕ್ಕಾಗಿ ಒಂದು ಬಿತ್ತಿ ಪತ್ರವನ್ನು ಶಿಕ್ಷಕರ ಸಹಾಯದಿಂದ ಸಿದ್ಧಪಡಿಸು.
+- id: competency
+  type: competency
+  text: ನೀನೀಗ ವಿವಿಧ ವಿನೋದ ಚಿತ್ರಸರಣಿಗಳನ್ನು ಮತ್ತು ಭಿತ್ತಿಪತ್ರಗಳನ್ನು ಓದಿ ಅರ್ಥೈಸಿಕೊಳ್ಳಬಲ್ಲೆಯಲ್ಲವೇ?

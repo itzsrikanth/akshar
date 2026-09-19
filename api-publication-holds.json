@@ -15,6 +15,22 @@
     {
       "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch04-male",
       "reason": "Editorial YAML for Grade 4 Chapter 4 under the same Git-only edition exception. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch05-ajjiya-totadalli-ondu-dina",
+      "reason": "Editorial YAML for Grade 4 Chapter 5 under the same Git-only edition exception. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch06-doddavaru-yaaru",
+      "reason": "Editorial YAML for Grade 4 Chapter 6 under the same Git-only edition exception. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch07-beesokallina-pada",
+      "reason": "Editorial YAML for Grade 4 Chapter 7 under the same Git-only edition exception. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch08-taayigondu-patra",
+      "reason": "Editorial YAML for Grade 4 Chapter 8 under the same Git-only edition exception. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
     }
   ]
 }

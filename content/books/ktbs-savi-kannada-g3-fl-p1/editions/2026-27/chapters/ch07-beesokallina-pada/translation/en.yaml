@@ -1,0 +1,105 @@
+meta:
+  source: source.kn.yaml
+  contributor: itzsrikanth
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+
+labels:
+  intro: Way to learning
+  poem: Grinding stone song
+  vocab: Meanings of words
+  notes: Notes
+  exercise-A: Write the answer in a single sentence each.
+  exercise-B: Write the answers in two to three sentences.
+  exercise-C: Match the first half of the poem line with the second half and write.
+  exercise-D: Write your own sentences with different meanings for the given words as shown in the example.
+  language-activity: Language activity
+  language-activity-A: Observe the difference between spoken language and written language.
+  language-activity-B: Use letters and write words.
+  language-activity-C: Write the following spoken words in written language as shown in the example.
+  usage-activity: Usage activity
+  usage-activity-A: Solve the riddles.
+  usage-activity-B: Read the given story and write proverbs related to it.
+  usage-activity-C: Change the given proverb to written language.
+  usage-activity-D: Read and write the following spoken words.
+  competency: Competency
+
+intro-1: Sing a lullaby, gigi song, or sobane song, whichever you know among these, along with your friends in the class.
+poem-s1l1: Mother stone, gentle mother, let the ragi
+poem-s1l2: shower down jhalla-jhallane | I will
+poem-s1l3: wave a jaggery aarti to you ||
+poem-s2l1: Beautiful base stone and beautiful top stone
+poem-s2l2: Holding the handle peg called Chandramati |
+poem-s2l3: I shall remember my parents ||
+poem-s3l1: The ragi will get over, the fragrant rice will increase
+poem-s3l2: The work I have taken up will be done | Ragi stone,
+poem-s3l3: I will swing and release you with my right arm ||
+poem-s4l1: Why are you angry, Saraswati, thinking I left the stone?
+poem-s4l2: Let the ragi grow in the basket | I will take it
+poem-s4l3: and come back again at night ||
+poem-s5l1: Let all fortunes come to the mother who gave the stone
+poem-s5l2: Let a son come on a palanquin | To that house,
+poem-s5l3: let a daughter-in-lock wearing jasmine come ||
+poem-s6l1: -Folk
+poem-s7l1: People's voice is the root, poet's voice is the flower.
+vocab-ಪಲ್ಲಕ್ಕಿ: Pallakki
+vocab-ಪಲ್ಲಕ್ಕಿ-def: palanquin
+vocab-ಉದುರು: Udhuru
+vocab-ಉದುರು-def: to fall down
+vocab-ಕುಕ್ಕೆ: Kukke
+vocab-ಕುಕ್ಕೆ-def: bamboo basket
+note-ರಾಜಾನ್ನ: Rajanna
+note-ರಾಜಾನ್ನ-def: fragrant rice.
+note-ಸೊಸಿ: Sosi
+note-ಸೊಸಿ-def: daughter-in-law, son's wife.
+ex-A-q1: 1. How does the ragi shower down?
+ex-A-q2: 2. Holding the handle of the grinding stone, whom do they remember?
+ex-A-q3: 3. Why did Saraswati get angry?
+ex-B-q1: 1. What does she bless the mother who gave the stone with?
+ex-B-q2: 2. How did she calm down the angry Saraswati?
+ex-C-hdr1: A B
+ex-C-q1: 1. Jaggery aarti
+ex-C-opt1: will come
+ex-C-q2: 2. Again at night
+ex-C-opt2: will wave
+ex-C-q3: 3. The ragi will get over
+ex-C-opt3: will walk
+ex-C-q4: 4. Beautiful base stone
+ex-C-opt4: fragrant rice will increase
+ex-C-opt5: beautiful top stone
+ex-D-ex1-term1: "Example: Atte - I cried when a thorn pricked my foot."
+ex-D-ex1-term2: Atte - My aunt brought me new clothes.
+ex-D-q1-term1: "1. Tande :"
+ex-D-q1-term2: "Tande :"
+ex-D-q2-term1: "2. Kale:"
+ex-D-q2-term2: "Kale:"
+ex-D-q3-term1: "3. Aadu :"
+ex-D-q3-term2: "Aadu :"
+lang-A-hdr1: Spoken word - Written form
+lang-A-word1: bartane - baruttane
+lang-A-word2: yilla - illa
+lang-A-word3: arake - harake
+lang-A-word4: attira - hattira
+lang-A-word5: karevole - kareyole
+lang-B-chart1: ka nnu -
+lang-B-chart2: ma ggi -
+lang-B-chart3: si tha -
+lang-B-chart4: hi tta -
+lang-B-chart5: sa ddi -
+lang-C-ex1: "Example: heccyavu - heccadavu"
+lang-C-q1: "vadagyavu :"
+lang-C-q2: "mugidavu :"
+lang-C-q3: "sittyake :"
+lang-C-q4: "beleyali :"
+usage-A-q1: 1. You can't roll up mother's bed, you can't count father's money.
+usage-A-q2: 2. She wears a black saree, puts on a toe ring, goes up, comes down.
+usage-A-q3: 3. When you say Appa they close, when you say Avva they open.
+usage-B-story1: In a village, there lived a farmer. He had two lazy sons. Due to illness, the farmer became bedridden. Calling his sons near, he said, "Children, I have buried the wealth I earned in the field for you." The two children took spades and pickaxes and went to the field. They dug and dug, searching for the treasure. They didn't find the treasure. It rained the same day. Thinking what else to do, they sowed grains. A good crop grew. They earned a handful of money. The farmer called the children and said, "This is the wealth I buried in the field."
+usage-C-q1: "*If you graze cows by walking around, will the sun set early?"
+usage-C-q2: "*When there are gram seeds there are no teeth, when there are teeth there are no gram seeds."
+usage-C-q3: "*The one who doesn't know how to pound, looked after winnowing."
+usage-D-sec1: a. Ravi went to school.
+usage-D-sec2: Ravi went to school.
+usage-D-sec3: Ravi went to school, sir.
+usage-D-sec4: b. Kiran is eating snacks.
+usage-D-sec5: Kiran is eating snacks.
+comp-1: Now you can recognize the difference between spoken language and written language, can't you?

@@ -1,0 +1,105 @@
+meta:
+  source: source.kn.yaml
+  contributor: itzsrikanth
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+labels:
+  title: doddavaru yaaru?
+  intro: kalikege daari
+  story: doddavaru yaaru?
+  vocab: padagala artha
+  exercise-A: abhyasa a — ondondu vakyadalli uttara bare.
+  exercise-B: abhyasa aa — kottiruva maatannu yaaru? yaarige helidaru?
+  exercise-C: abhyasa i — vakyagalannu gamanisi. sari/tappugalannu gurutisu, tappiddare saripadisi bareyiri.
+  exercise-D: abhyasa ee — kottiruva padagalannu sariyagi jodisi vakya rachisi.
+  exercise-E: abhyasa u — ee kelagina padagalannu balasi svantavakya rachisi.
+  exercise-F: bhasha chatuvatike a — kottiruva padagalalli sariyada pada aarisi bitta sthaladalli bareyiri
+  exercise-G: bhasha chatuvatike aa — kottiruva aksharagalannu balasi, pranigala hesaru patti maadi.
+  exercise-H: bhasha chatuvatike i — prani-pakshigala koogannu anusarisi sooktavadudakke gere eledu hondisi.
+  exercise-I: bhasha chatuvatike ee — kottiruva padagalalli sariyada roopavannu gurutisi bare.
+  exercise-J: bhasha chatuvatike u — ee kelagina padagalannu oodi bare.
+  exercise-K: balake chatuvatike a — ee kelagina vakyagala madarigalannu nakalumaadi.
+  exercise-L: balake chatuvatike aa
+  exercise-M: balake chatuvatike i
+  exercise-N: balake chatuvatike ee
+  competency: samarthya
+intro-1: kumbalakayi, paduvalakayi mattu hagalakayi naduve doddavaru yaaru emba bagge vaada nadeyitu. avara naduve eenu vaada nadedirabahudu endu oohisikondu taragatiyalli snehitara jote seri charchisi.
+story-n1: ondu ooru, allondu iligala samsara. aa samsaradalli obba magaliddalu.
+story-n2: magalige takka varanannu hudukabekendu tande taayi iligalu yochisidavu.
+story-n3: jagattanne belaguva soorya bahala doddavanu. avane namma magalige takka vara, endu taayi ili helitu.
+story-n4: sooryana balige iligalu hodavu. maduve vichara tilisidavu. ee vicharavannu kelida sooryanu nanigintaloo doddavanu innobbaniddane. avanannu keli endu helidanu.
+story-n6: "hagadare ‘avanu yaaru?’ endu tande ili kelitu. adakke sooryanu 'moda nanigintaloo doddavanu' endu helidanu. ellaroo seri modada balige hodavu."
+story-n5: "maduve vichara kelida modavu 'illa! illa! naniginta doddavanu bettada rajaniddane. avanalli hogi' endu helitu."
+story-n7: "bettada rajana balige iligalu hogi vishaya tilisidavu. aaga bettada raja 'nanigintaloo doddavanu mattobbaniddane. avane iliraya avanallige hogi' endanu."
+story-n8: "'nammalle varanannu ittukondu summane paradaadidevu' endu tande ili helitu. 'namma magalige ilirayane takka vara' endu teermanisi, magalannu ilirayanige kottu vaibhavadinda maduve maadidavu."
+story-proverb: angaiyalli benne ittukondu tuppakkagi ooru aledante.
+vocab-samsara: samsara
+vocab-samsara-def: parivara, kutumba
+vocab-vara: vara
+vocab-vara-def: maduveyaguva huduga, madumaga
+vocab-jagattu: jagattu
+vocab-jagattu-def: loka, vishva
+vocab-takka: takka
+vocab-takka-def: yogyavada, samartha
+vocab-soorya: soorya
+vocab-soorya-def: ravi
+vocab-betta: betta
+vocab-betta-def: parvata, giri
+vocab-sambhrama: sambhrama
+vocab-sambhrama-def: utsaha, sadagara
+vocab-vichara: vichara
+vocab-vichara-def: vishaya, sangati
+vocab-bahala: bahala
+vocab-bahala-def: hecchu, adhika
+vocab-maduve: maduve
+vocab-maduve-def: lagna, vivaha, kalyana
+ex-a-q1: iligala samsara elli vasavagittu?
+ex-a-q2: tande-taayi iligalu eenendu yochisidavu?
+ex-a-q3: taayi ili eenendu helitu."
+ex-a-q4: jagattannu belaguvavaru yaaru?
+ex-a-q5: sooryanige iligalu yaava vichara tilisidavu?
+ex-a-q6: yaara joteyalli iliya maduveyayitu?
+ex-b-q1: '‘‘jagattanne belaguva soorya bahala doddavanu.’’'
+ex-b-q1-who: 'yaaru ? ________'
+ex-b-q1-whom: 'yaarige ? ________'
+ex-b-q2: '‘‘illa! illa! nanigintaloo doddavanu bettada rajaniddane.’’'
+ex-b-q2-who: 'yaaru ? ________'
+ex-b-q2-whom: 'yaarige ? ________'
+ex-b-q3: '‘‘namma magalige ilirayane takka vara.’’'
+ex-b-q3-who: 'yaaru ? ________'
+ex-b-q3-whom: 'yaarige ? ________'
+ex-c-q1: ondu ooru, allondu huligala samsara ittu.
+ex-c-q2: maganige sariyada vara bekendu iligalu yochisidavu.
+ex-c-q3: bettada rajana balige iruvegalu hodavu.
+ex-d-q1: 'tande iligalu yochisidavu taayi : ________'
+ex-d-q2: 'belaguva bahala soorya doddavanu jagattanne : ________'
+ex-d-q3: 'iligalu bettada hodavu balige rajana : ________'
+ex-e-q1: 'yochisu : ________'
+ex-e-q2: 'teermanisu : ________'
+ex-e-q3: 'samartha : ________'
+ex-e-q4: 'maduve : ________'
+ex-f-p1: (buddhivanta, sundaravada, impagi, chennagi)
+ex-f-q1: navilu ________ pakshi.
+ex-f-q2: pallavi bahala ________ vidyarthini.
+ex-f-q3: kogile ________ haaduttade.
+ex-f-q4: mohana ________ nrutya maaduttane.
+ex-g-p1: "ba ha su sa ma da i ra ka tte\nhu li ba ra e to ka na di mme\nba la na ri da"
+ex-g-q1: 'maadari: hasu ________ ________ ________ ________ ________ ________'
+ex-h-q1: 'kooli : ________'
+ex-h-q2: 'kaage : ________'
+ex-h-q3: 'bekku : ________'
+ex-h-q4: 'nayi : ________'
+ex-h-q5: 'kogile : ________'
+ex-h-p1: (meeyaamv meeyaamv, bau bau, kaa kaa, kuhoo kuhoo, kokko kko)
+ex-i-q1: 'hennu - ennu : ________'
+ex-i-q2: 'taayi - taai : ________'
+ex-i-q3: 'moda - modha : ________'
+ex-i-q4: 'soorya - sooriya : ________'
+ex-i-q5: 'vara - ora : ________'
+ex-i-q6: 'betta - bettha : ________'
+ex-j-p1: ge li sa ha ja ni ma ra la hu ha ku ra
+ex-j-q1: 'maadari: salige ________ ________ ________ ________ ________ ________'
+ex-k-p1: plastic balake parisarakke haanikara.
+ex-l-q1: '"doddavaru yaaru?'' pathadalli baruva patragala sambhashaneyannu shaleyalli geleyarondige seri abhinayisu."'
+ex-m-q1: patrikegalalli baruva vividha chitra kathegalannu sangrahisi, chitrakatha kosha tayarisu.
+ex-n-q1: "nimma shaleyalli nadesuva 'ganarajyotsava' karyakramada pracharakkagi ondu bitti patravannu shikshakara sahayadinda siddhapadisu."
+competency: neeniga vividha vinoda chitrasaranigalannu mattu bhittipatragalannu oodi arthaisikollaballeyallave?

@@ -1,0 +1,375 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 4
+  subject: Kannada
+  chapter: 8
+  slug: ch08-taayigondu-patra
+  title: ತಾಯಿಗೊಂದು ಪತ್ರ
+  source_url: https://diksha.gov.in/dial/B5V6X7
+  original_publisher: Karnataka Textbook Society
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ತಾಯಿಗೊಂದು ಪತ್ರ
+  intro: ಕಲಿಕೆಗೆ ದಾರಿ
+  story: ಪತ್ರ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಎರಡು - ಮೂರು ವಾಕ್ಯಗಳಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಖಾಲಿ ಬಿಟ್ಟಿರುವ ಜಾಗದಲ್ಲಿ ಸರಿಯಾದ ಪದ ತುಂಬಿ.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಕೊಟ್ಟಿರುವ ವಾಕ್ಯಗಳು ಸರಿ ಇದ್ದರೆ ✓ ತಪ್ಪು ಇದ್ದರೆ ✗ ಗುರುತು ಹಾಕಿ.
+  exercise-E: ಭಾಷಾಭ್ಯಾಸ ಅ — ಮಾದರಿಯಂತೆ ಲಿಂಗ ಬದಲಿಸಿ ಬರೆಯಿರಿ.
+  exercise-F: ಭಾಷಾಭ್ಯಾಸ ಆ — ಮಾದರಿಯಲ್ಲಿ ಸೂಚಿಸಿರುವಂತೆ ಸೂಕ್ತ ಪದ ಬರೆಯಿರಿ.
+  exercise-G: ಭಾಷಾಭ್ಯಾಸ ಇ — ಗುಂಪಿಗೆ ಸೇರದ ಪದ ಆರಿಸಿ ಬರೆ.
+  exercise-H: ಭಾಷಾಭ್ಯಾಸ ಈ — ಈ ಪದಗಳನ್ನು ಉಪಯೋಗಿಸಿ ಸ್ವಂತ ವಾಕ್ಯ ರಚಿಸು.
+  exercise-I: ಬಳಕೆ ಚಟುವಟಿಕೆ
+  competency: ಸಾಮರ್ಥ್ಯ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ನಿನಗಿಷ್ಟವಾದ ಒಂದು ಪ್ರಾಣಿಯ ಬಗ್ಗೆ ನಾಲ್ಕೈದು ವಾಕ್ಯ ಬರೆದು ಸ್ನೇಹಿತನಿಂದ ಓದಿಸು.
+- id: story-n1
+  type: prose
+  section: story
+  text: ಕ್ಷೇಮ
+- id: story-n2
+  type: prose
+  section: story
+  text: ಶ್ರೀ
+- id: story-n3
+  type: prose
+  section: story
+  text: 9ನೆಯ ಅಕ್ಟೋಬರ್-2024
+- id: story-n4
+  type: prose
+  section: story
+  text: ಬಸವನ ಬಾಗೇವಾಡಿ
+- id: story-n5
+  type: prose
+  section: story
+  text: ಪ್ರೀತಿಯ ಅಮ್ಮನಿಗೆ ನಿಮ್ಮ ಮಗನಾದ ಉಲ್ಲಾಸ ಬೇಡುವ ಆಶೀರ್ವಾದಗಳು. ನಾನು, ಅಜ್ಜ, ಅಜ್ಜಿ, ಮಾವಂದಿರು, ತೇಜಸ್ವಿನಿ ಹಾಗೂ ಧನುಷ ಎಲ್ಲರೂ ಕ್ಷೇಮವಾಗಿದ್ದೇವೆ. ನಿಮ್ಮೆಲ್ಲರ ಕ್ಷೇಮ ಸಮಾಚಾರಕ್ಕಾಗಿ ಈ ಕಾಗದ ತಲುಪಿದ ಕೂಡಲೇ ಕಾಗದ ಬರೆಯುತ್ತೀರೆಂದು ನಂಬಿರುತ್ತೇನೆ.
+- id: story-n6
+  type: prose
+  section: story
+  text: ಅಮ್ಮ, ಈ ದಸರೆ ರಜೆಯಲ್ಲಿ ಅಜ್ಜ ನಮ್ಮನ್ನು ಮೈಸೂರು ದಸರೆಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದರು. ದಸರೆ ಮೆರವಣಿಗೆಯಲ್ಲಿನ ಸ್ತಬ್ಧ ಚಿತ್ರಗಳು, ಕಲಾ ತಂಡಗಳ ಪ್ರದರ್ಶನಗಳು ಆಕರ್ಷಕವಾಗಿದ್ದವು. ಆನೆ ಮೇಲೆ ಅಂಬಾರಿಯಲ್ಲಿದ್ದ ಚಾಮುಂಡೇಶ್ವರಿ ದೇವಿ ನೋಡಿ ತುಂಬಾ ಸಂತೋಷವಾಯಿತು. ಸಂಜೆ ನೋಡಿದ ಪಂಜಿನ ಕವಾಯತು ಈಗಲೂ ಕಣ್ಣಿಗೆ ಕಟ್ಟಿದಂತಿದೆ.
+- id: story-n7
+  type: prose
+  section: story
+  text: ದಸರೆ ಮುಗಿದ ಮರುದಿನ ಚಾಮುಂಡಿಬೆಟ್ಟಕ್ಕೆ ಹೋಗಿ ದೇವಿಗೆ ಪೂಜೆ ಮಾಡಿಸಿದೆವು. ಅಜ್ಜಿ ನನಗೆ ಮತ್ತು ಧನುಷನಿಗೆ ಆಟದ ಸಾಮಾನು ಕೊಡಿಸಿದರು. ತೇಜಸ್ವಿನಿ ಅಕ್ಕನಿಗೆ ಸರ, ಬಳೆ ಕೊಡಿಸಿದರು. ಅಲ್ಲಿಂದ ನಗರ ಸಾರಿಗೆ ಬಸ್ಸು ಹತ್ತಿ ಪ್ರಾಣಿ ಸಂಗ್ರಹಾಲಯಕ್ಕೆ ಬಂದೆವು.
+- id: story-n8
+  type: prose
+  section: story
+  text: ಶ್ರೀ ಜಯಚಾಮರಾಜೇಂದ್ರ ಮೃಗಾಲಯದಲ್ಲಿ ವಿವಿಧ ರೀತಿಯ ಪಕ್ಷಿಗಳನ್ನು ನೋಡಿದೆವು. ಬಣ್ಣ ಬಣ್ಣದ ಹಕ್ಕಿಗಳು ಅವುಗಳ 'ಚಿಂವ್ ಚಿಂವ್' ಧ್ವನಿ ಕೇಳಲು ಸುಮಧುರವಾಗಿತ್ತು. ಅಲ್ಲಿಂದ ಮುಂದೆ ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಮುಖದ ಕೋತಿಗಳನ್ನು ಕಂಡೆವು. ಧನುಷನು ಅವುಗಳಿಗೆ ತಿಂಡಿ ಪದಾರ್ಥ ಕೊಡುವುದನ್ನು ನೋಡಿದ ಕಾವಲುಗಾರ 'ಹಾಗೆ ಮಾಡಬಾರದು' ಎಂದನು. ಅಲ್ಲಲ್ಲಿ ಬರೆದು ಹಾಕಿರುವ 'ಮುಟ್ಟಬೇಡಿ', 'ಪ್ರಾಣಿಗಳಿಗೆ ತಿಂಡಿ ಪದಾರ್ಥ ಕೊಡಬೇಡಿ' ಎಂಬ ಸೂಚನಾ ಫಲಕಗಳನ್ನು ನೋಡಿ ಎಂದು ತೋರಿಸಿದನು. ಅದೇ ಸಮಯದಲ್ಲಿ ಸಿಂಹ ಘರ್ಜಿಸಿ ನಮ್ಮನ್ನು ಆ ಕಡೆಗೆ ಸೆಳೆಯಿತು. ಮಾವನವರು 'ಗಲಾಟೆ ಮಾಡದೆ ಮೌನವಾಗಿ ಬನ್ನಿ' ಎಂದರು.
+- id: story-n9
+  type: prose
+  section: story
+  text: ನಾವು ಶೇಂಗಾ ತಿನ್ನುತ್ತಾ ಒಂದು ಕಡೆಯಿಂದ ಆನೆ, ಜಿಂಕೆ ಹಿಂಡು, ಹುಲಿ, ಚಿರತೆ, ಸಿಂಹ, ಘೇಂಡಾಮೃಗ ನೋಡಿ ಖುಷಿಪಟ್ಟೆವು. ಪಕ್ಕದ ಮರದ ಕೊಂಬೆಯ ಮೇಲೆ ಕಾಡು ಮನುಷ್ಯ ನಮ್ಮ ಹಾಗೇ ನಡೆದಾಡುತ್ತಿತ್ತು. ಮುಂದೆ ಹಾವುಗಳ ಸಾಮ್ರಾಜ್ಯ. ಅಲ್ಲಿ ಕಾಳಿಂಗ ಸರ್ಪ, ಹೆಬ್ಬಾವು ಮುಂತಾದ ಬೇರೆಬೇರೆ ಜಾತಿಯ ಹಾವುಗಳನ್ನು ಕಂಡು ಮೈ ಜುಮ್! ಎಂದಿತು. 'ಈ ಹಾವುಗಳನ್ನು ಎಲ್ಲಿಂದ ತಂದದ್ದು?' ಎಂದಾಗ, ಅಲ್ಲಿದ್ದ ಕಾವಲುಗಾರ 'ಬಂಡೀಪುರದ ಕಾಡಿನಿಂದ' ಎಂದನು. ಅಲ್ಲಿಂದ ಮುಂದೆ ಜಿರಾಫೆ ನೋಡಿದೆವು. ಅದು ತನ್ನ ಮರಿಗೆ ಹಾಲು ಉಣಿಸುತ್ತಿತ್ತು. ಜಿರಾಫೆಯ ಕತ್ತು ನೋಡಿ ಆಶ್ಚರ್ಯವಾಯಿತು. ಅಲ್ಲಿಯೇ ಇದ್ದ ವಸ್ತು ಸಂಗ್ರಹಾಲಯಕ್ಕೆ ಭೇಟಿ ನೀಡಿದೆವು. ಅಲ್ಲಿಟ್ಟಿದ್ದ ಪ್ರಾಣಿಗಳ ಮಾದರಿಗಳು ನಿಜವಾದ ಪ್ರಾಣಿಗಳೇ ಎಂಬಂತಿದ್ದವು. ಇವೆಲ್ಲವನ್ನು ನೋಡುವಷ್ಟರಲ್ಲಿ ಸಂಜೆ ಆಯಿತು.
+- id: story-n10
+  type: prose
+  section: story
+  text: ಆಮೇಲೆ ಅರಮನೆಯನ್ನು ನೋಡಿಕೊಂಡು ಊರಿಗೆ ಹಿಂದಿರುಗಿದೆವು.
+- id: story-n11
+  type: prose
+  section: story
+  text: ಅಮ್ಮ, ಬಹಳ ಸಂತೋಷವಾಯಿತು. ನಾನು ಊರಿಗೆ ಬಂದಾಗ ಎಲ್ಲರೂ ಮತ್ತೊಮ್ಮೆ ಮೈಸೂರಿಗೆ ಹೋಗೋಣ.
+- id: story-n12
+  type: prose
+  section: story
+  text: ತುಂಬಾ ಖುಷಿಯಿಂದ ಈ ಕಾಗದ ಬರೆದಿರುತ್ತೇನೆ. ಎಲ್ಲರಿಗೂ ನನ್ನ ನಮಸ್ಕಾರಗಳನ್ನು ತಿಳಿಸಿ.
+- id: story-n13
+  type: prose
+  section: story
+  text: ಇತಿ ನಿಮ್ಮ ಪ್ರೀತಿಯ ಮಗ
+- id: story-n14
+  type: prose
+  section: story
+  text: ಉಲ್ಲಾಸ
+- id: story-n15
+  type: prose
+  section: story
+  text: ಇವರಿಗೆ,
+- id: story-n16
+  type: prose
+  section: story
+  text: ಶ್ರೀಮತಿ ಸಂಪಿಗೆ
+- id: story-n17
+  type: prose
+  section: story
+  text: ಕಸ್ತೂರಿ ನಿವಾಸ
+- id: story-n18
+  type: prose
+  section: story
+  text: ಯಳಂದೂರು ತಾಲೂಕು-571441
+- id: vocab-samachara
+  type: vocabulary_term
+  text: ಸಮಾಚಾರ
+- id: vocab-samachara-def
+  type: vocabulary_definition
+  ref: vocab-samachara
+  text: ವಿಷಯ, ಸಂಗತಿ
+- id: vocab-stabdachitra
+  type: vocabulary_term
+  text: ಸ್ತಬ್ಧಚಿತ್ರ
+- id: vocab-stabdachitra-def
+  type: vocabulary_definition
+  ref: vocab-stabdachitra
+  text: ನಿಶ್ಚಲವಾದ ಚಿತ್ರ, ಆಕೃತಿ
+- id: vocab-tanda
+  type: vocabulary_term
+  text: ತಂಡ
+- id: vocab-tanda-def
+  type: vocabulary_definition
+  ref: vocab-tanda
+  text: ಗುಂಪು, ಸಮೂಹ
+- id: vocab-dhvani
+  type: vocabulary_term
+  text: ಧ್ವನಿ
+- id: vocab-dhvani-def
+  type: vocabulary_definition
+  ref: vocab-dhvani
+  text: ದನಿ, ಸ್ವರ
+- id: vocab-sumadhura
+  type: vocabulary_term
+  text: ಸುಮಧುರ
+- id: vocab-sumadhura-def
+  type: vocabulary_definition
+  ref: vocab-sumadhura
+  text: ಇಂಪಾದ
+- id: vocab-udyanavana
+  type: vocabulary_term
+  text: ಉದ್ಯಾನವನ
+- id: vocab-udyanavana-def
+  type: vocabulary_definition
+  ref: vocab-udyanavana
+  text: ಕೈತೋಟ
+- id: vocab-garjane
+  type: vocabulary_term
+  text: ಗರ್ಜನೆ
+- id: vocab-garjane-def
+  type: vocabulary_definition
+  ref: vocab-garjane
+  text: ಗಟ್ಟಿಯಾಗಿ ಕೂಗು, ಆರ್ಭಟಿಸು
+- id: vocab-shenga
+  type: vocabulary_term
+  text: ಶೇಂಗಾ
+- id: vocab-shenga-def
+  type: vocabulary_definition
+  ref: vocab-shenga
+  text: ಕಡ್ಲೆಕಾಯಿ, ನೆಲಗಡಲೆ
+- id: note-dasare
+  type: note_term
+  text: ದಸರೆ
+- id: note-dasare-def
+  type: note_definition
+  ref: note-dasare
+  text: ಶುಕ್ಲಪಕ್ಷ ಪಾಡ್ಯದಿಂದ ದಶಮಿಯವರೆಗಿನ ಹತ್ತು ದಿನಗಳ ಹಬ್ಬ.
+- id: note-ambari
+  type: note_term
+  text: ಅಂಬಾರಿ
+- id: note-ambari-def
+  type: note_definition
+  ref: note-ambari
+  text: ಆನೆಯ ಮೇಲೆ ಕುಳಿತುಕೊಳ್ಳಲು ಹಾಕುವ ಮಂಟಪದಂತಹ ಭದ್ರಾಸನ.
+- id: note-panju
+  type: note_term
+  text: ಪಂಜು
+- id: note-panju-def
+  type: note_definition
+  ref: note-panju
+  text: ಕೋಲಿಗೆ ದಪ್ಪ ಬಟ್ಟೆ ಸುತ್ತಿ ಎಣ್ಣೆ ಅಥವಾ ತುಪ್ಪ ಸುರಿದು ಉರಿಸುವ ದೀಪ.
+- id: note-kavayatu
+  type: note_term
+  text: ಕವಾಯತು
+- id: note-kavayatu-def
+  type: note_definition
+  ref: note-kavayatu
+  text: ಸೈನಿಕರು, ಪೊಲೀಸರು, ಗೃಹರಕ್ಷಕರು ಮಾಡುವ ಕಸರತ್ತು.
+- id: note-phalaka
+  type: note_term
+  text: ಫಲಕ
+- id: note-phalaka-def
+  type: note_definition
+  ref: note-phalaka
+  text: ಲೋಹ, ಮರ, ಗಾಜು ಮುಂತಾದವುಗಳ ತೆಳುವಾದ ಹಾಳೆ.
+- id: note-panjara
+  type: note_term
+  text: ಪಂಜರ
+- id: note-panjara-def
+  type: note_definition
+  ref: note-panjara
+  text: ಹಕ್ಕಿ, ಪ್ರಾಣಿ ಮುಂತಾದವುಗಳನ್ನು ಇಡುವ ಗೂಡು.
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ಅಜ್ಜ ಮಕ್ಕಳನ್ನು ಎಲ್ಲಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದರು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ಅಜ್ಜಿ ಮಕ್ಕಳಿಗೆ ಏನೇನು ಕೊಡಿಸಿದರು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ಮಕ್ಕಳು ಏನು ನೋಡಿ ಆಶ್ಚರ್ಯಪಟ್ಟರು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಅಮ್ಮನಿಗೆ ಕಾಗದ ಬರೆದವರು ಯಾರು?
+- id: ex-b-q1
+  type: question
+  exercise: B
+  text: ಮೈಸೂರು ದಸರೆಯಲ್ಲಿ ಉಲ್ಲಾಸನು ಏನೇನು ನೋಡಿದನು?
+- id: ex-b-q2
+  type: question
+  exercise: B
+  text: ಪ್ರಾಣಿ ಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಯಾವ ಯಾವ ಪ್ರಾಣಿಗಳು ಇದ್ದವು?
+- id: ex-b-q3
+  type: question
+  exercise: B
+  text: ಉಲ್ಲಾಸನಿಗೆ ಸಂತೋಷವಾಗಲು ಕಾರಣವೇನು?
+- id: ex-c-q1
+  type: fill_blank
+  exercise: C
+  text: ಅಜ್ಜ ನಮ್ಮನ್ನು ಮೈಸೂರು ________ ಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದರು.
+- id: ex-c-q2
+  type: fill_blank
+  exercise: C
+  text: ಆನೆಯ ಮೇಲಿನ ಅಂಬಾರಿಯಲ್ಲಿ ________ ಇಟ್ಟಿದ್ದರು.
+- id: ex-c-q3
+  type: fill_blank
+  exercise: C
+  text: ಮೈಸೂರಿನಲ್ಲಿ ________ ಮೃಗಾಲಯವಿದೆ.
+- id: ex-c-q4
+  type: fill_blank
+  exercise: C
+  text: ಸಿಂಹದ ________ ನಮ್ಮ ಗಮನ ಸೆಳೆಯಿತು.
+- id: ex-c-q5
+  type: fill_blank
+  exercise: C
+  text: ಕೊಂಬೆಯ ಮೇಲೆ ________ ನಮ್ಮ ಹಾಗೆಯೇ ನಡೆಯುತ್ತಿತ್ತು.
+- id: ex-d-q1
+  type: true_false
+  exercise: D
+  text: ಉಲ್ಲಾಸನು ತನ್ನ ತಂದೆಗೆ ಕಾಗದ ಬರೆದನು.
+- id: ex-d-q2
+  type: true_false
+  exercise: D
+  text: ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಬಣ್ಣದ ಕೋತಿಗಳು 'ಚಿಂವ್ ಚಿಂವ್' ಎಂದು ಶಬ್ದ ಮಾಡುತ್ತಿದ್ದವು.
+- id: ex-d-q3
+  type: true_false
+  exercise: D
+  text: ದಸರೆ ಮುಗಿದ ಮರುದಿನ ಚಾಮುಂಡಿಬೆಟ್ಟಕ್ಕೆ ಹೋದೆವು.
+- id: ex-d-q4
+  type: true_false
+  exercise: D
+  text: ಜಿರಾಫೆ ತನ್ನ ಮರಿಗೆ ಹಾಲು ಉಣಿಸುತ್ತಿತ್ತು.
+- id: ex-d-q5
+  type: true_false
+  exercise: D
+  text: ಮೃಗಾಲಯದಲ್ಲಿದ್ದ ಹಾವುಗಳನ್ನು ಬಂಡೀಪುರದ ಕಾಡಿನಿಂದ ತರಲಾಗಿದೆ.
+- id: ex-d-q6
+  type: true_false
+  exercise: D
+  text: ದಸರೆ ಹಬ್ಬ ಆರು ದಿನ ನಡೆಯುತ್ತದೆ.
+- id: ex-e-p1
+  type: prose
+  exercise: E
+  text: 'ಮಾದರಿ: ಅಜ್ಜ - ಅಜ್ಜಿ'
+- id: ex-e-q1
+  type: fill_blank
+  exercise: E
+  text: 'ತಂದೆ : ________'
+- id: ex-e-q2
+  type: fill_blank
+  exercise: E
+  text: 'ಮಾವ : ________'
+- id: ex-e-q3
+  type: fill_blank
+  exercise: E
+  text: 'ಚಿಕ್ಕಪ್ಪ : ________'
+- id: ex-e-q4
+  type: fill_blank
+  exercise: E
+  text: 'ಮಗಳು : ________'
+- id: ex-e-q5
+  type: fill_blank
+  exercise: E
+  text: 'ತಮ್ಮ : ________'
+- id: ex-f-p1
+  type: prose
+  exercise: F
+  text: 'ಮಾದರಿ : ನಮ್ಮ - ನಮ್ಮದು - ನಮ್ಮವರು'
+- id: ex-f-q1
+  type: fill_blank
+  exercise: F
+  text: 'ನನ್ನ : ________ - ________'
+- id: ex-f-q2
+  type: fill_blank
+  exercise: F
+  text: 'ನಿನ್ನ : ________ - ________'
+- id: ex-f-q3
+  type: fill_blank
+  exercise: F
+  text: 'ನಿಮ್ಮ : ________ - ________'
+- id: ex-f-q4
+  type: fill_blank
+  exercise: F
+  text: 'ತಮ್ಮ : ________ - ________'
+- id: ex-g-q1
+  type: fill_blank
+  exercise: G
+  text: 'ಶೇಂಗಾ, ಮಾವು, ಗೆಣಸು, ಆಲೂಗಡ್ಡೆ : ________'
+- id: ex-g-q2
+  type: fill_blank
+  exercise: G
+  text: 'ಕಾಗೆ, ಗೂಬೆ, ಕೋಗಿಲೆ, ಘೇಂಡಾಮೃಗ : ________'
+- id: ex-g-q3
+  type: fill_blank
+  exercise: G
+  text: 'ಬಾಳೆಹಣ್ಣು, ಇಡ್ಲಿ, ವಡೆ, ದೋಸೆ : ________'
+- id: ex-g-q4
+  type: fill_blank
+  exercise: G
+  text: 'ಚಿರತೆ, ಗಿಳಿ, ಸಿಂಹ, ಹುಲಿ : ________'
+- id: ex-h-q1
+  type: fill_blank
+  exercise: H
+  text: 'ಕ್ಷೇಮ : ________'
+- id: ex-h-q2
+  type: fill_blank
+  exercise: H
+  text: 'ಪ್ರಾಣಿ ಸಂಗ್ರಹಾಲಯ : ________'
+- id: ex-h-q3
+  type: fill_blank
+  exercise: H
+  text: 'ಉದ್ಯಾನವನ : ________'
+- id: ex-h-q4
+  type: fill_blank
+  exercise: H
+  text: 'ಸೂಚನಾ ಫಲಕ : ________'
+- id: ex-i-q1
+  type: question
+  exercise: I
+  text: ನಿನಗೆ ಇಷ್ಟವಾದ ಒಂದು ವಿಷಯ ಕುರಿತು ನಿಮ್ಮ ಗೆಳೆಯ/ಗೆಳತಿಗೆ ಪತ್ರವನ್ನು (ನಿನ್ನ ಬರೆವಣಿಗೆ ಪುಸ್ತಕದಲ್ಲಿ) ಬರೆದು, ನಿನ್ನ ಗೆಳೆಯ / ಗೆಳತಿಗೆ ಓದಲು ಕೊಡು.
+- id: ex-i-q2
+  type: question
+  exercise: I
+  text: ನಿನಗೆ ತಿಳಿದಿರುವ ಕವಿಗಳ ಕೈಬರೆಹಗಳನ್ನು ಸಂಗ್ರಹಿಸು.
+- id: ex-i-q3
+  type: question
+  exercise: I
+  text: ನಿನಗೆ ಗೊತ್ತಿರುವ ವ್ಯಕ್ತಿಗಳ ಕೈಬರೆಹಗಳನ್ನು ಸಂಗ್ರಹಿಸು.
+- id: ex-i-q4
+  type: question
+  exercise: I
+  text: ಶಿಕ್ಷಕರ ಸಹಾಯ ಪಡೆದು ದೊಡ್ಡ/ಸಣ್ಣ ಲಕೋಟೆಗಳನ್ನು ತಯಾರಿಸು.
+- id: ex-i-q5
+  type: question
+  exercise: I
+  text: ವಿವಿಧ ಪತ್ರಗಳ ಬಗ್ಗೆ ಶಿಕ್ಷಕರ ಹತ್ತಿರ ಕೇಳಿ ತಿಳಿದುಕೊ.
+- id: competency
+  type: competency
+  text: ನೀನೀಗ ಕೈಬರೆಹದ ಪತ್ರಗಳನ್ನು ಮತ್ತು ಇತರರ ಬರೆವಣಿಗೆಯನ್ನು ಓದಿ ಅರ್ಥೈಸಿಕೊಳ್ಳುವಿಯಲ್ಲವೆ?
