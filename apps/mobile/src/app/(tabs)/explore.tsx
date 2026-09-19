@@ -1,6 +1,6 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { router } from 'expo-router';
-import { useCallback, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { ActivityIndicator, RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -82,7 +82,9 @@ export default function ExploreScreen() {
             </Touchable>
           </View>
           <ThemedText type="small" themeColor="textSecondary" style={styles.subtitle}>
-            {useV2 ? 'Browse by publication and learner context' : 'Browse the full catalog'}
+            {useV2
+              ? 'Chapters for your learner context — switch below to browse another'
+              : 'Opens in your grade — use the path to browse elsewhere'}
           </ThemedText>
 
           {!selectionLoaded || (useV2 ? false : v1State.status === 'loading') || (selection && v2State.status === 'loading') ? (
@@ -284,16 +286,35 @@ function V2ChapterRow({
   );
 }
 
+function scopeSeedKey(scope: Scope | null): string {
+  return scope ? `${scope.board}|${scope.state}|${scope.medium}|${scope.grade}` : '';
+}
+
+function scopeSeedLevels(scope: Scope | null): LevelValue[] {
+  return scope ? [scope.board, scope.state, scope.medium, scope.grade] : [];
+}
+
 function ExploreContent({ catalog }: { catalog: Catalog }) {
   const theme = useTheme();
-  const [manualSelected, setManualSelected] = useState<LevelValue[]>([]);
+  const { scope, isSaved, setScope } = useScope(catalog);
+  const [manualSelected, setManualSelected] = useState<LevelValue[]>(() => scopeSeedLevels(scope));
   const [pinnedLevel, setPinnedLevel] = useState<number | null>(null);
+  const [seededScopeKey, setSeededScopeKey] = useState(() => scopeSeedKey(scope));
+
+  // Re-seed only when the saved scope itself changes — breadcrumb navigation must not fight this.
+  const scopeKey = scopeSeedKey(scope);
+  useEffect(() => {
+    if (!scope || seededScopeKey === scopeKey) return;
+    setManualSelected(scopeSeedLevels(scope));
+    setPinnedLevel(null);
+    setSeededScopeKey(scopeKey);
+  }, [scope, scopeKey, seededScopeKey]);
+
   const autoResolved = useMemo(() => autoResolve(catalog.chapters, manualSelected), [catalog, manualSelected]);
   const resolved = pinnedLevel !== null ? autoResolved.slice(0, pinnedLevel) : autoResolved;
   const atChapterList = resolved.length === LEVEL_KEYS.length;
   const chaptersInScope = useMemo(() => filterChapters(catalog.chapters, resolved), [catalog, resolved]);
 
-  const { scope, isSaved, setScope } = useScope(catalog);
   const { preference } = useReadingPreference(catalog);
   const candidateScope: Scope | null =
     resolved.length >= 4

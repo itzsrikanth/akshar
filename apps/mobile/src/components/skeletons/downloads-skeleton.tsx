@@ -20,12 +20,12 @@ function Row({ last }: { last?: boolean }) {
   );
 }
 
-/** Matches Library's real layout ((tabs)/library.tsx). */
-export function LibrarySkeleton() {
+/** Matches Downloads' real layout ((tabs)/downloads.tsx). */
+export function DownloadsSkeleton() {
   return (
     <View>
       <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
-        DOWNLOADED
+        ON THIS DEVICE
       </ThemedText>
       <Row />
       <Row last />

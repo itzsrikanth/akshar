@@ -9,3 +9,10 @@ __pycache__/
 *.pyc
 .expo/
 /.conversion-local/
+
+# Media publish credentials (Cloudflare R2) — never commit
+.env.media
+infra/cloudflare/terraform.tfvars
+infra/cloudflare/*.tfstate
+infra/cloudflare/*.tfstate.*
+infra/cloudflare/.terraform/

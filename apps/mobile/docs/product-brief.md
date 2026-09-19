@@ -24,14 +24,16 @@ Five tabs exist as route stubs today; this gives each a real purpose:
 | Tab | Purpose |
 |---|---|
 | **Home** | Dashboard — recently-read/in-progress chapters ("continue reading"), quick access into the user's saved scope. |
-| **Library** | The user's downloaded/saved chapters, default-scoped to their saved board/state/medium/grade/subject (see Content scoping). Also doubles as storage management (see Downloads). |
-| **Explore** | Free browse of the full board/state/medium/grade/subject hierarchy, independent of saved scope — for finding content outside what's already scoped. |
+| **Downloads** | Chapters saved on this device. Open offline, delete to free space. Empty is honest: CTA into Explore. Not a catalog browser. |
+| **Explore** | Catalog browser. Opens at the saved grade (subjects/chapters). Breadcrumb climbs the hierarchy when the user needs something outside that scope (sibling grade, another board). Download happens here. |
 | **Search** | Keyword/filter search across the full catalog (`api/contents.json`). |
 | **Reader** | The per-segment reading screen — see below. |
 
 ## Content scoping — hybrid model
 
-The parent/student sets a default scope (board/state/medium/grade/subject) once, during setup. Home and Library default to that scope, so daily homework-time use is low-friction — no re-navigating the hierarchy every time. Explore remains an unscoped, full-hierarchy browse for anything outside the saved default (e.g. a sibling in a different grade, or just looking around).
+The parent/student sets a default scope (board/state/medium/grade) once during setup. Home and Explore use that as the default landing so daily homework use is low-friction. Scope is not overcomplicating — without it, every visit restarts at board root. Explore is the hierarchy; Downloads is only what's already on disk. Do not put a second board/grade/chapter picker on Downloads — that duplicates Explore and empties the word "library" of meaning.
+
+**Why keep Downloads instead of removing the tab:** Explore already downloads, but once several chapters are saved, parents need a short "what's offline / delete this" list without re-walking the tree. Removing the tab would bury that in Settings. Renaming Library → Downloads is enough; inventing a fuller "library" experience is not.
 
 ## Reader screen — layout and behavior
 
@@ -63,7 +65,7 @@ Design the full experience now; build it in phases.
 
 **Build in phases (sequencing note for later work, not a design constraint):** v1 code wires up per-chapter download + delete only. Group-level bulk download and re-sync land in a later iteration, reusing the screens/states designed now rather than redesigning them later.
 
-Library is the natural home for this — downloaded chapters and storage management live in one place, matching a Netflix-style "download to watch offline, delete to free space" mental model.
+The **Downloads** tab is the natural home for this — saved chapters and storage management live in one place, matching a Netflix-style "download to watch offline, delete to free space" mental model. Explore is where download *actions* happen; Downloads is where the results live.
 
 ## Explicit non-goals for this design pass
 

@@ -37,9 +37,9 @@ export default function AppTabs() {
         <NativeTabs.Trigger.Label>Home</NativeTabs.Trigger.Label>
         {tabIcon('home-outline')}
       </NativeTabs.Trigger>
-      <NativeTabs.Trigger name="library">
-        <NativeTabs.Trigger.Label>Library</NativeTabs.Trigger.Label>
-        {tabIcon('bookshelf')}
+      <NativeTabs.Trigger name="downloads">
+        <NativeTabs.Trigger.Label>Downloads</NativeTabs.Trigger.Label>
+        {tabIcon('download-outline')}
       </NativeTabs.Trigger>
       <NativeTabs.Trigger name="explore">
         <NativeTabs.Trigger.Label>Explore</NativeTabs.Trigger.Label>

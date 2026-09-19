@@ -57,13 +57,34 @@ function RootLayout() {
 
   if (!ready) return <SplashView />;
 
-  // Prefer v2 setup when the publication catalog is ready. Fall back to the
-  // legacy board/medium/grade onboarding only if v2 is unavailable.
+  // Fresh installs: board / state / medium / grade onboarding over the v1
+  // catalog. The v2 adoption picker is the right long-term model once more
+  // publications are live, but today it only lists the two learner contexts
+  // for the one published Grade 3 book — hiding the familiar hierarchy that
+  // Explore still uses when no v2 selection exists.
+  if (needsOnboarding && catalogState.status === 'ready' && deriveScope(catalogState.catalog)) {
+    return (
+      <OnboardingFlow
+        catalog={catalogState.catalog}
+        onComplete={() => {
+          setNeedsOnboarding(false);
+          setNeedsV2Setup(false);
+        }}
+      />
+    );
+  }
+
+  if (needsOnboarding && catalogState.status === 'loading') {
+    return <SplashView />;
+  }
+
+  // Existing v1 users who have not completed the explained v2 cutover still
+  // get the adoption picker once (Settings can re-run it anytime).
   if (needsV2Setup && v2CatalogState.status === 'ready') {
     return (
       <V2SetupFlow
         catalog={v2CatalogState.catalog}
-        isUpgrade={!needsOnboarding}
+        isUpgrade
         onComplete={() => {
           setNeedsV2Setup(false);
           setNeedsOnboarding(false);
@@ -75,16 +96,8 @@ function RootLayout() {
     );
   }
 
-  if (needsV2Setup && v2CatalogState.status === 'error' && needsOnboarding && catalogState.status === 'ready' && deriveScope(catalogState.catalog)) {
-    return <OnboardingFlow catalog={catalogState.catalog} onComplete={() => setNeedsOnboarding(false)} />;
-  }
-
   if (needsV2Setup && v2CatalogState.status === 'loading') {
     return <SplashView />;
-  }
-
-  if (needsOnboarding && catalogState.status === 'ready' && deriveScope(catalogState.catalog) && v2CatalogState.status !== 'ready') {
-    return <OnboardingFlow catalog={catalogState.catalog} onComplete={() => setNeedsOnboarding(false)} />;
   }
 
   return (

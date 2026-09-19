@@ -1,12 +1,12 @@
 # Privacy Policy — Akshar
 
-**Effective date:** 2026-08-08
+**Effective date:** 2026-09-19
 
 Akshar ("the app") is an open-source, free app that helps parents and children read and translate Indian school textbook content across scripts. This policy describes what data the app collects and how it's used. The app's full source code is public — every claim below can be verified directly against it (see the file references in each section).
 
 ## Summary
 
-**Akshar does not collect, store, or transmit any personal data.** There is no account, no sign-in, and no backend server that receives data from your device. Everything the app remembers about you (your saved scope, downloaded chapters, reading history) stays on your device, in your device's local storage, and is never sent anywhere.
+**Akshar does not create accounts and does not sell personal data.** Textbook content is fetched from a public CDN. Preferences, downloads, and reading history stay on your device. Production builds may send crash/error reports (and optional user-submitted feedback) to Sentry — see “Crash reporting” below.
 
 ## What the app does *not* do
 
@@ -16,8 +16,8 @@ Akshar ("the app") is an open-source, free app that helps parents and children r
 - No camera or microphone access.
 - No contacts access.
 - No advertising, and no ad-tracking identifiers.
-- No analytics.
-- Crash reporting (Sentry) is present in the app's code but **inactive** — see "Crash reporting" below.
+- No product-usage analytics (for example PostHog) in the current release.
+- Crash reporting (Sentry) runs in **production builds only** — see "Crash reporting" below.
 
 ## What the app stores, and where
 
@@ -25,7 +25,7 @@ Everything below is stored **only on your device**, using standard on-device sto
 
 | Data | Purpose | Source |
 |---|---|---|
-| Your selected board/state/medium/grade ("scope") | Remembers what to show by default on Home/Library | `src/services/scope-storage.ts` |
+| Your selected board/state/medium/grade ("scope") | Remembers what to show by default on Home/Explore | `src/services/scope-storage.ts` |
 | Downloaded chapter content | Lets you read chapters offline | `src/services/downloads.ts` |
 | Which chapters you've opened, and when | Powers the "Continue reading" card | `src/services/reading-history.ts` |
 | A cached copy of the content catalog | Faster app startup | `src/services/catalog-cache.ts` |
@@ -38,15 +38,27 @@ The app fetches textbook content (chapter text, translations, transliterations) 
 
 ## Crash reporting
 
-The app includes the Sentry crash-reporting SDK (`@sentry/react-native`), but it is currently **configured off** (`src/services/crash-reporting.ts`) — no crash reports, error data, or device information are sent anywhere by the current version of the app. This will change once the project has a real Sentry account set up; when that happens, this section will be updated first, before that release ships, to describe exactly what's collected (typically: error/crash details and basic device info such as OS version, never chapter content or anything you've typed) and why. Crash data, if and when it's turned on, is used only to fix bugs — never for advertising or tracking.
+Production builds of the app send crash and error reports to [Sentry](https://sentry.io/) (`@sentry/react-native`, initialized in `src/services/crash-reporting.ts`). That data is used only to find and fix bugs — never for advertising or tracking.
+
+What may be included in a crash/error report (typical Sentry mobile SDK fields):
+
+- Error/crash details and stack traces
+- App version and basic device/OS information
+- Optional diagnostics such as breadcrumbs (recent screens/actions in the app)
+
+What is **not** intentionally collected for crash reporting: your name or contact details, saved preferences as a profile, downloaded chapter text as a bulk upload, or advertising identifiers.
+
+**Shake to report / “Report a problem”:** you can voluntarily open Sentry’s in-app feedback form (including an optional screenshot). If you attach a screenshot, it may show whatever is on screen at that moment (for example part of a textbook page). Submit only if you are comfortable sharing that image.
+
+Crash reporting is **disabled in development builds** (`enabled: Boolean(dsn) && !__DEV__`) so local testing does not send events. Uninstalling the app removes on-device data; it does not delete reports already submitted to Sentry.
 
 ## Children's privacy
 
-Akshar is built to be used by children doing schoolwork, typically alongside a parent. Because the app collects no personal data from anyone — child or adult — there is nothing to disclose under children's privacy regulations (e.g. COPPA). No data about a child (or anyone) is ever collected, stored remotely, or shared.
+Akshar is built to be used by children doing schoolwork, typically alongside a parent. The app does not create accounts or profile children. Crash reports (production) and optional feedback you choose to send may include device/app technical details or a screenshot you attach — see “Crash reporting”. There is no advertising and no third-party analytics SDK in the current release.
 
 ## Future changes
 
-This project's technical roadmap (`docs/tech-implementation.md`) lists one further optional addition not yet built at all: basic product-usage analytics (PostHog). If it's added in a future release, this policy will be updated first to disclose exactly what's collected and why, before that release ships — same commitment already made above for crash reporting.
+This project's technical roadmap (`docs/tech-implementation.md`) lists one further optional addition not yet built: basic product-usage analytics (PostHog). If it's added in a future release, this policy will be updated first to disclose exactly what's collected and why, before that release ships.
 
 ## Open source
 

@@ -23,6 +23,7 @@ import { useV2Downloads } from '@/hooks/use-v2-downloads';
 import { useV2Selection } from '@/hooks/use-v2-selection';
 import type { Catalog } from '@/services/content-repository';
 import { canonicalChapterPath } from '@/services/catalog-compatibility';
+import { filterChapters } from '@/services/hierarchy';
 import { formatRelativeTime } from '@/services/reading-history';
 import {
   catalogChapterIdentity,
@@ -171,15 +172,18 @@ function HomeContent({ catalog }: { catalog: Catalog }) {
     : undefined;
 
   const subjects = useMemo(() => {
+    const scoped = scope
+      ? filterChapters(catalog.chapters, [scope.board, scope.state, scope.medium, scope.grade])
+      : catalog.chapters;
     const bySubject = new Map<string, { total: number; downloaded: number }>();
-    for (const c of catalog.chapters) {
+    for (const c of scoped) {
       const entry = bySubject.get(c.subject) ?? { total: 0, downloaded: 0 };
       entry.total += 1;
       if (downloads.isDownloaded(c.slug)) entry.downloaded += 1;
       bySubject.set(c.subject, entry);
     }
     return Array.from(bySubject, ([subject, counts]) => ({ subject, ...counts }));
-  }, [catalog, downloads.downloadedSlugs]);
+  }, [catalog, scope, downloads.downloadedSlugs]);
 
   return (
     <ScrollView contentContainerStyle={styles.content}>

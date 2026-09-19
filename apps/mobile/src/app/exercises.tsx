@@ -198,6 +198,8 @@ function ExercisesContent({ chapter }: { chapter: Chapter }) {
                 {data.passageItems.map((p) => (
                   <View key={p.id} style={styles.mt3}>
                     <SegmentLine
+                      segmentId={p.id}
+                      segmentType={p.type}
                       source={p.text}
                       transliteration={p.transliterations?.devanagari}
                       translation={p.translations?.en}

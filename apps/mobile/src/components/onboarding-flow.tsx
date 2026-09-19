@@ -12,6 +12,7 @@ import type { Catalog } from '@/services/content-repository';
 import { setOnboardingCompleted } from '@/services/onboarding-storage';
 import { saveReadingPreference } from '@/services/reading-preference-storage';
 import { saveScope } from '@/services/scope-storage';
+import { setV2SetupCompleted } from '@/services/v2';
 
 type Step = 'welcome' | 'flow';
 
@@ -27,10 +28,18 @@ export function OnboardingFlow({ catalog, onComplete }: { catalog: Catalog; onCo
           <ScopeSetupFlow
             catalog={catalog}
             onSave={(scope, preference) => {
-              saveScope(scope);
-              saveReadingPreference(preference);
-              setOnboardingCompleted();
-              onComplete();
+              void (async () => {
+                saveScope(scope);
+                saveReadingPreference(preference);
+                await setOnboardingCompleted();
+                // Stay on v1 board/medium/grade browse after first-run setup.
+                // Marking v2 setup complete without a selection skips the
+                // adoption-only gate (which currently only lists published
+                // Grade 3 contexts). Users can still pick a publication
+                // context later from Settings → adoption setup.
+                await setV2SetupCompleted();
+                onComplete();
+              })();
             }}
           />
         )}

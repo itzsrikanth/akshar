@@ -40,7 +40,8 @@
           "organization": "srikanth-5c",
           "project": "akshar"
         }
-      ]
+      ],
+      "expo-audio"
     ],
     "experiments": {
       "typedRoutes": true,

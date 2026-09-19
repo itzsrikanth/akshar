@@ -18,6 +18,10 @@ type Step = 'scope' | 'board' | 'state' | 'medium' | 'grade' | 'translation' | '
  * onboarding (components/onboarding-flow.tsx, first run, no initial values)
  * and by app/scope-setup.tsx (editing an existing saved scope from
  * Settings, prefilled via initialScope/initialPreference).
+ *
+ * Levels with exactly one catalog option are auto-selected (e.g. only KSEEB).
+ * Levels with multiple options stay empty until the user picks, unless this
+ * is an edit session with an initialScope / initialPreference.
  */
 export function ScopeSetupFlow({
   catalog,
@@ -35,20 +39,15 @@ export function ScopeSetupFlow({
   const [step, setStep] = useState<Step>('scope');
 
   // Only an *editing* session (Settings → scope-setup, initialScope/
-  // initialPreference passed in) falls back to "first option" for a level
-  // that isn't explicitly set — a genuinely fresh onboarding starts every
-  // field truly empty (see ScopeStep below), even though today's catalog
-  // has exactly one option at every level, so a new user always makes a
-  // real, visible choice rather than inheriting a silent default.
+  // initialPreference passed in) falls back to "first option" when a level
+  // has multiple choices and nothing is set yet. A single-option level is
+  // always auto-selected (see board/state/medium/grade below).
   const hasInitialScope = initialScope != null;
   const hasInitialPreference = initialPreference != null;
 
-  // Every level (board/state/medium/grade) is independently tappable, same
-  // as Explore's hierarchy browse — even a level with only one real option
-  // today still opens a real picker (of one item), rather than being
-  // silently auto-filled and non-interactive. Picking a higher level clears
-  // everything below it (including translation/transliteration — see below)
-  // so stale/invalid combinations can't linger.
+  // Every level (board/state/medium/grade) is independently tappable.
+  // Picking a higher level clears everything below it (including
+  // translation/transliteration) so stale combinations can't linger.
   const [obBoard, setObBoard] = useState<string | null>(initialScope?.board ?? null);
   const [obState, setObState] = useState<string | null>(initialScope?.state ?? null);
   const [obMedium, setObMedium] = useState<string | null>(initialScope?.medium ?? null);
@@ -58,26 +57,36 @@ export function ScopeSetupFlow({
     initialPreference?.transliterationScript ?? null,
   );
 
+  // Auto-select whenever a level has exactly one option (e.g. only KSEEB).
+  // Fresh onboarding still requires an explicit tap when multiple choices exist.
   const boardOptions = useMemo(() => optionsAtLevel(catalog.chapters, [], 0) as string[], [catalog]);
-  const board = obBoard ?? (hasInitialScope ? boardOptions[0] ?? null : null);
+  const board =
+    obBoard ??
+    (boardOptions.length === 1 ? boardOptions[0]! : hasInitialScope ? (boardOptions[0] ?? null) : null);
 
   const stateOptions = useMemo(
     () => (board ? (optionsAtLevel(catalog.chapters, [board], 1) as string[]) : []),
     [catalog, board],
   );
-  const state = obState ?? (hasInitialScope ? stateOptions[0] ?? null : null);
+  const state =
+    obState ??
+    (stateOptions.length === 1 ? stateOptions[0]! : hasInitialScope ? (stateOptions[0] ?? null) : null);
 
   const mediumOptions = useMemo(
     () => (board && state ? (optionsAtLevel(catalog.chapters, [board, state], 2) as string[]) : []),
     [catalog, board, state],
   );
-  const medium = obMedium ?? (hasInitialScope ? mediumOptions[0] ?? null : null);
+  const medium =
+    obMedium ??
+    (mediumOptions.length === 1 ? mediumOptions[0]! : hasInitialScope ? (mediumOptions[0] ?? null) : null);
 
   const gradeOptions = useMemo(
     () => (board && state && medium ? (optionsAtLevel(catalog.chapters, [board, state, medium], 3) as number[]) : []),
     [catalog, board, state, medium],
   );
-  const grade = obGrade ?? (hasInitialScope ? gradeOptions[0] ?? null : null);
+  const grade =
+    obGrade ??
+    (gradeOptions.length === 1 ? gradeOptions[0]! : hasInitialScope ? (gradeOptions[0] ?? null) : null);
 
   // Translation (meaning) and transliteration (pronunciation) are separate
   // axes — same split Settings already has, not one combined "reading
@@ -90,9 +99,21 @@ export function ScopeSetupFlow({
     [catalog, board, state, medium, grade],
   );
   const translationOptions = useMemo(() => availableLanguages(scopedChapters), [scopedChapters]);
-  const translation = obTranslation ?? (hasInitialPreference ? translationOptions[0] ?? null : null);
+  const translation =
+    obTranslation ??
+    (translationOptions.length === 1
+      ? translationOptions[0]!
+      : hasInitialPreference
+        ? (translationOptions[0] ?? null)
+        : null);
   const transliterationOptions = useMemo(() => availableScripts(scopedChapters), [scopedChapters]);
-  const transliteration = obTransliteration ?? (hasInitialPreference ? transliterationOptions[0] ?? null : null);
+  const transliteration =
+    obTransliteration ??
+    (transliterationOptions.length === 1
+      ? transliterationOptions[0]!
+      : hasInitialPreference
+        ? (transliterationOptions[0] ?? null)
+        : null);
 
   // Any change to board/state/medium/grade clears everything downstream —
   // including translation/transliteration, since those are scoped to the
@@ -121,10 +142,8 @@ export function ScopeSetupFlow({
     setObTransliteration(null);
   };
 
-  // A fresh onboarding starts every field null (see hasInitialScope/
-  // hasInitialPreference above) until the user actually taps through each
-  // picker, so — unlike before — board/state/medium/grade genuinely can be
-  // unset here. canSave/handleSave gate on that instead of an early return.
+  // canSave gates on every required field being set (auto-selected singles
+  // count). handleSave refuses to fire until that is true.
   const canSave = board !== null && state !== null && medium !== null && grade !== null && translation !== null && transliteration !== null;
 
   const handleSave = () => {
