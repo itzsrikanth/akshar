@@ -7,6 +7,10 @@
     {
       "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch02-buddhivanta-ramakrishna",
       "reason": "Editorial YAML committed at the maintainer's request. Edition licensing remains unverified and exercise poem/dialogue/example rendering needs review; excluded from production API and the repository's CC BY grant."
+    },
+    {
+      "path": "content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch03-veeramate-jijabayi",
+      "reason": "Editorial YAML for Grade 4 Chapter 3 under the same Git-only edition exception as Chapters 1–2. Temporarily colocated under the Grade 3 book until Grade 4 book identity is verified; excluded from production API."
     }
   ]
 }

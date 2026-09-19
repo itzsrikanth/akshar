@@ -1,0 +1,508 @@
+meta:
+  license: Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted
+  board: KSEEB
+  state: Karnataka
+  medium: Kannada
+  grade: 4
+  subject: Kannada
+  chapter: 3
+  slug: ch03-veeramate-jijabayi
+  title: ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ
+  source_url: https://diksha.gov.in/dial/D6K7E4
+  original_publisher: Karnataka Textbook Society
+  author: ಸಮಿತಿ ರಚನೆ
+labels:
+  title: ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ
+  intro: ಕಲಿಕೆಗೆ ದಾರಿ
+  story: ಕಥೆ
+  vocab: ಪದಗಳ ಅರ್ಥ
+  notes: ಟಿಪ್ಪಣಿ
+  exercise-A: ಅಭ್ಯಾಸ ಅ — ಒಂದೊಂದು ವಾಕ್ಯದಲ್ಲಿ ಉತ್ತರ ಬರೆಯಿರಿ.
+  exercise-B: ಅಭ್ಯಾಸ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳಲ್ಲಿ ಸರಿಯಾದ ಪದ ಆರಿಸಿ ಬಿಟ್ಟ ಸ್ಥಳದಲ್ಲಿ ಬರೆಯಿರಿ.
+  exercise-C: ಅಭ್ಯಾಸ ಇ — ಕೊಟ್ಟಿರುವ ಪದ ಗಮನಿಸಿ ವಿರುದ್ಧಾರ್ಥಕ ಪದ ಬರೆಯಿರಿ.
+  exercise-D: ಅಭ್ಯಾಸ ಈ — ಮಾದರಿಯಂತೆ ಕೊಟ್ಟಿರುವ ಪದ ಗಮನಿಸಿ ಎರಡೆರಡು ಸಮಾನಾರ್ಥಕ ಪದಗಳನ್ನು ಬರೆಯಿರಿ.
+  exercise-E: ಅಭ್ಯಾಸ ಉ — ಕೊಟ್ಟಿರುವ ಪದ ಬಳಸಿ ಸ್ವಂತ ವಾಕ್ಯ ಬರೆಯಿರಿ.
+  exercise-F: ಅಭ್ಯಾಸ ಊ — ಕೊಟ್ಟಿರುವ ಮಾತನ್ನು ಯಾರು? ಯಾರಿಗೆ ಹೇಳಿದರು?
+  exercise-G: ಅಭ್ಯಾಸ ಋ — ಪದಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿ ವಾಕ್ಯ ರಚಿಸಿ ಬರೆಯಿರಿ.
+  exercise-H: ಭಾಷಾ ಚಟುವಟಿಕೆ ಅ — ಮಾದರಿಯಲ್ಲಿ ಸೂಚಿಸಿರುವಂತೆ ಸೂಕ್ತ ಪದ ರಚಿಸಿ ಬರೆಯಿರಿ.
+  exercise-I: ಭಾಷಾ ಚಟುವಟಿಕೆ ಆ — ಕೊಟ್ಟಿರುವ ಪದಗಳನ್ನು ಗಮನಿಸಿ ಓದಿ.
+  exercise-J: ಭಾಷಾ ಚಟುವಟಿಕೆ ಇ — ಆವರಣದಲ್ಲಿರುವ ಪದಗಳನ್ನು ಗಮನಿಸಿ. ಅವುಗಳ ಸಹಾಯದಿಂದ ಗಾದೆಗಳನ್ನು ಪೂರ್ಣ ಮಾಡಿ.
+  exercise-K: ಬಳಕೆ ಚಟುವಟಿಕೆ
+  competency: ಜಾಣ ಮರಿ — ಸಾಮರ್ಥ್ಯ
+segments:
+- id: intro-1
+  type: prose
+  section: intro
+  text: ಶಿಕ್ಷಕರ ಸಹಾಯದಿಂದ ಈ ವೀರಮಾತೆಯರ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ.
+- id: intro-2
+  type: prose
+  section: intro
+  text: ಚೆನ್ನಭೈರಾದೇವಿ
+- id: intro-3
+  type: prose
+  section: intro
+  text: ಬೆಳವಡಿ ಮಲ್ಲಮ್ಮ
+- id: intro-4
+  type: prose
+  section: intro
+  text: ಝಾನ್ಸಿ ರಾಣಿ ಲಕ್ಷೀಬಾಯಿ
+- id: intro-5
+  type: prose
+  section: intro
+  text: ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ
+- id: intro-6
+  type: prose
+  section: intro
+  text: ರಾಣಿ ಅಬ್ಬಕ್ಕ
+- id: intro-7
+  type: prose
+  section: intro
+  text: ಕೆಳದಿ ಚೆನ್ನಮ್ಮ
+- id: story-n1
+  type: prose
+  section: story
+  text: '"ಮಾತಾಜಿಯವರಿಗೆ ನನ್ನ ಪ್ರಣಾಮಗಳು" ಚಿಗುರು ಮೀಸೆಯ ವೀರಬಾಲಕ ನಮ್ರತೆಯಿಂದ ನುಡಿದನು. ಹುಸಿನಗೆ ಬೀರುತ್ತಾ ಅವನ ತಾಯಿ "ಬಾ ಕಂದ ಇಲ್ಲಿ ಕುಳಿತುಕೊ". "ಆಗಲಿ ತಾಯಿ" ಎಂದು ಬಾಲಕ ಕುಳಿತುಕೊಂಡನು.'
+- id: story-n2
+  type: prose
+  section: story
+  text: '"ಅಮ್ಮಾ ನನ್ನನ್ನು ಕರೆಸಿದ ಕಾರಣವೇನು? ನನ್ನಿಂದ ಏನಾಗಬೇಕು ಕೇಳು ತಾಯಿ?" ಎಂದನು ಬಾಲಕ. "ನಾನು ಕೇಳಿದ್ದನ್ನು ಕೊಡುವೆಯಾ ಮಗನೆ?" ಎಂದು ತಾಯಿ ಅಭಿಮಾನದಿಂದ ನುಡಿದಳು.'
+- id: story-n3
+  type: prose
+  section: story
+  text: '"ಆಗಲಿ ಮಾತಾಜಿ... ಭವಾನಿ ತಾಯಿಯ ಮೇಲೆ ಆಣೆ. ನೀನು ಕೇಳಿದ್ದನ್ನು ಕೊಡುವೆ" ಎಂದನು ಮಗ.'
+- id: story-n4
+  type: prose
+  section: story
+  text: ತಾಯಿ ಮನಸ್ಸಿನಲ್ಲೆ ಯೋಚಿಸುತ್ತಾ "ಕುಮಾರ, ಆಡಿದ ಮಾತಿನಂತೆ ನಾನು ಕೇಳಿದ್ದನ್ನು ಕೊಡಬೇಕು" ಎಂದಳು.
+- id: story-n5
+  type: prose
+  section: story
+  text: '"ಕೇಳು ತಾಯಿ ಅಗತ್ಯವಾಗಿ ನೀಡುತ್ತೇನೆ" ಎಂದನು ಮಗ ಸಂತೋಷದಿಂದ. "ನಾನು ಧನ್ಯ ಕಂದಾ, ಈಗ ಹೇಳುವೆನು ಕೇಳು. ಕೊಂಡಾಣದುರ್ಗವು ಮೊಘಲರ ವಶದಲ್ಲಿದೆ. ಅದನ್ನು ನೀನು ಗೆದ್ದು ನನಗೆ ಬಹುಮಾನವಾಗಿ ಕೊಡಬೇಕು" ಎಂದಳು ಹೆಮ್ಮೆಯಿಂದ ಮಗನನ್ನು ನೋಡುತ್ತಾ ತಾಯಿ.'
+- id: story-n6
+  type: prose
+  section: story
+  text: ಈ ರೀತಿ ಸಂಭಾಷಣೆ ನಡೆಸಿದ ತಾಯಿಮಗ ಯಾರು ಗೊತ್ತೇ? ಇವರೇ ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿ ಶಾಶ್ವತ ಸ್ಥಾನ ಪಡೆದಿರುವ ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ ಹಾಗೂ ಅವಳ ಪುತ್ರ ಮರಾಠ ಸಾಮ್ರಾಜ್ಯದ ಉನ್ನತಿಗೆ ಕಾರಣನಾದ 'ಛತ್ರಪತಿ ಶಿವಾಜಿ'.
+- id: story-n7
+  type: prose
+  section: story
+  text: ಜೀಜಾಬಾಯಿ ಕ್ರಿ.ಶ. 1594ರಲ್ಲಿ ಲಖೂಜಿ ಜಾಧವರಾವ್ ಅವರ ಮಗಳಾಗಿ ಜನಿಸಿದಳು. ಕ್ರಿ.ಶ. 1603ರಲ್ಲಿ ಷಹಾಜಿಯನ್ನು ವಿವಾಹವಾದಳು. ಷಹಾಜಿಯು ಬಿಜಾಪುರದ ಆದಿಲ್ ಶಾಹಿಯಲ್ಲಿ ಉದ್ಯೋಗ ಮಾಡುತ್ತಿದ್ದನು. ಕ್ರಿ.ಶ. 1627ರಲ್ಲಿ ಶಿವನೇರಿ ದುರ್ಗದಲ್ಲಿ ಈ ದಂಪತಿಗಳ ಮಗನಾಗಿ ಶಿವಾಜಿಯು ಜನಿಸಿದನು. ಷಹಾಜಿಯು ಮಗ ಶಿವಾಜಿಯನ್ನು ಗುರುವಾದ ದಾದಾಜಿಕೊಂಡದೇವನಲ್ಲಿ ವಿದ್ಯಾಭ್ಯಾಸಕ್ಕಾಗಿ ಕಳುಹಿಸಿದನು. ಗುರು ದಾದಾಜಿಕೊಂಡದೇವನು ಶಿವಾಜಿಗೆ ಕತ್ತಿವರಸೆ, ಕುದುರೆ ಸವಾರಿ ಮುಂತಾದ ಯುದ್ಧಕಲೆಗಳನ್ನು ಕಲಿಸಿದನು.
+- id: story-n8
+  type: prose
+  section: story
+  text: ಷಹಾಜಿ ಅನಿವಾರ್ಯವಾಗಿ ತನ್ನಿಂದ ದೂರವಾದಾಗ ಜೀಜಾಬಾಯಿ ಬಹಳ ನೊಂದುಕೊಂಡಳು. ಆದರೂ ಎದೆಗುಂದದೆ ಸ್ವತಂತ್ರವಾಗಿ ಬದುಕಲು ಪ್ರಾರಂಭಿಸಿದಳು.
+- id: story-n9
+  type: prose
+  section: story
+  text: ಮಗನನ್ನು ಓರ್ವ ವೀರಯೋಧನನ್ನಾಗಿ ಬೆಳೆಸುವ ಹೊಂಗನಸಿನೊಂದಿಗೆ ಪುಣೆಗೆ ಬಂದು ಅವನೊಂದಿಗೆ ನೆಲೆಸಿದಳು. ಜೀಜಾಬಾಯಿ ಚಾಣಾಕ್ಷ ಹೆಣ್ಣುಮಗಳು. ಕೇವಲ ಓರ್ವ ಸಾಮಾನ್ಯ ಮಹಿಳೆಯಂತೆ ಬದುಕಿನ ಆಗುಹೋಗುಗಳನ್ನು ನೆನೆದು ದುಃಖಿಸುವ ಹೆಣ್ಣಾಗಿರಲಿಲ್ಲ. ಅಖಂಡ ಭಾರತದಲ್ಲಿ ಮೊಘಲರ ಆಳ್ವಿಕೆಯನ್ನು ಕೊನೆಗೊಳಿಸಲು ಪಣತೊಟ್ಟಳು. ಭಾರತದಾದ್ಯಂತ ಮರಾಠ ಸಾಮ್ರಾಜ್ಯದ ವಿಜಯ ಪತಾಕೆಯನ್ನು ಹಾರಿಸಬೇಕು ಎಂದು ತೀರ್ಮಾನಿಸಿದಳು. ಪರಕೀಯರ ಗುಲಾಮಗಿರಿಯಿಂದ ಹೊರಬಂದು ಸ್ವತಂತ್ರವಾಗಿ ಬಾಳಬೇಕು ಎಂದು ನಿರ್ಧರಿಸಿದಳು.
+- id: story-n10
+  type: prose
+  section: story
+  text: ಶಿವಾಜಿಗೆ ಪ್ರತಿನಿತ್ಯ ರಾಮಾಯಣ - ಮಹಾಭಾರತ ಮುಂತಾದ ಪುರಾಣ ಪುಣ್ಯಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದಳು. ನ್ಯಾಯ-ನೀತಿ, ಸ್ತ್ರೀಯರಲ್ಲಿ ಗೌರವ, ಕಷ್ಟಸಹಿಷ್ಣುತೆ ಇತ್ಯಾದಿ ಗುಣಗಳನ್ನು ಚಿಕ್ಕಂದಿನಿಂದಲೇ ಮಗನಲ್ಲಿ ಬೆಳೆಸಿದಳು. ಶಿವಾಜಿಗೆ ವೀರಪುರುಷರ ಕಥೆಗಳನ್ನು ಕೇಳುವ, ಸಾಹಸಿ ಕೆಲಸಗಳನ್ನು ಮಾಡುವ ಆದರ್ಶಗಳನ್ನು ಬಾಲ್ಯದಿಂದಲೇ ಬಿತ್ತಿದಳು. ಹೀಗೆ ಜೀಜಾಬಾಯಿ ಮಗನಲ್ಲಿ ಧೈರ್ಯ, ಸ್ವಾಭಿಮಾನ, ಸಾಹಸ, ಸೇವೆ, ತ್ಯಾಗ ಮುಂತಾದ ಮೌಲ್ಯಗಳನ್ನು ಬಾಲ್ಯದಲ್ಲಿಯೇ ತುಂಬಿದಳು. ಅವನನ್ನು ಉತ್ತಮ ದೇಶಭಕ್ತನನ್ನಾಗಿ ಬೆಳೆಸಿದಳು. ಅಖಂಡ ಮರಾಠ ಸಾಮ್ರಾಜ್ಯದ ಉನ್ನತಿಗೆ ದಾರಿದೀಪವಾದಳು.
+- id: story-n11
+  type: prose
+  section: story
+  text: ಮುಂದೆ ಶಿವಾಜಿಯು ಪ್ರಬಲ ಮೊಘಲ ಸಾಮ್ರಾಟ ಔರಂಗಜೇಬನ ವಿರುದ್ಧ ಹೋರಾಡಿ ಜಯಗಳಿಸಿದನು. ಜೀಜಾಬಾಯಿ ಮಗನ ವಿಜಯೋತ್ಸವಕ್ಕೆ ಬಹಳ ಸಂತೋಷಪಟ್ಟಳು. ರಾಯಗಡದಲ್ಲಿ ಶಿವಾಜಿಯ ಪಟ್ಟಾಭಿಷೇಕವು ಅತ್ಯಂತ ವೈಭವದಿಂದ ನಡೆಯಿತು. ಸ್ವಾಮಿ ರಾಮದಾಸರು ಬಂದು ತಮ್ಮ ಹಸ್ತದಿಂದ ಶಿವಾಜಿಗೆ ಮುಕುಟ ಧಾರಣೆ ಮಾಡಿದರು. ಜೀಜಾಬಾಯಿ ಶಿವಾಜಿಯು ಬಾಲ್ಯದಲ್ಲಿದ್ದಾಗ ತಾನು ಕಂಡ ಕನಸು ನನಸಾಯಿತು ಎಂದು ಖುಷಿಪಟ್ಟು ಶಿವಾಜಿಯನ್ನು ಆಶೀರ್ವದಿಸಿದಳು. ಅಂದು ಅವಳೂ ಸಹ ರಾಜಮಾತೆ ಎನಿಸಿಕೊಂಡಳು. ಈ ಸಂತೋಷದ ದಿನಗಳನ್ನು ಅನುಭವಿಸಲು ಹೆಚ್ಚು ಅವಕಾಶ ಜೀಜಾಬಾಯಿಗೆ ಲಭಿಸಲಿಲ್ಲ. ಶಿವಾಜಿ ಗದ್ದಿಗೆಯನ್ನೇರಿದ ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಹಾಸಿಗೆ ಹಿಡಿದಳು.
+- id: story-n12
+  type: prose
+  section: story
+  text: ಸುಮಾರು ಎಂಬತ್ತು ವರ್ಷಗಳ ಕಾಲ ಜೀವಿಸಿದ್ದ ಜೀಜಾಬಾಯಿ ಮರಾಠರ ಅಭ್ಯುದಯ ಕಂಡಳು. ಅನಂತರ ರಾಯಗಡದ ಬಳಿಯಿರುವ ಪಾಚಾಡ ಎಂಬ ಹಳ್ಳಿಯಲ್ಲಿ ಕ್ರಿ.ಶ. 1674ರಲ್ಲಿ ನಿಧನ ಹೊಂದಿದಳು.
+- id: story-n13
+  type: prose
+  section: story
+  text: ಮನೆಯೇ ಮೊದಲ ಪಾಠಶಾಲೆ, ಜನನಿ ತಾನೇ ಮೊದಲ ಗುರುವು. ಜನನಿಯಿಂದ ಪಾಠ ಕಲಿತ ಜನರೇ ಧನ್ಯರು.
+- id: vocab-pranama
+  type: vocabulary_term
+  text: ಪ್ರಣಾಮ
+- id: vocab-pranama-def
+  type: vocabulary_definition
+  ref: vocab-pranama
+  text: ನಮಸ್ಕಾರ, ವಂದನೆ
+- id: vocab-namrate
+  type: vocabulary_term
+  text: ನಮ್ರತೆ
+- id: vocab-namrate-def
+  type: vocabulary_definition
+  ref: vocab-namrate
+  text: ವಿನಯದಿಂದ ಕೂಡಿದ
+- id: vocab-gaddige
+  type: vocabulary_term
+  text: ಗದ್ದಿಗೆ
+- id: vocab-gaddige-def
+  type: vocabulary_definition
+  ref: vocab-gaddige
+  text: ಪೀಠ
+- id: vocab-prarambha
+  type: vocabulary_term
+  text: ಪ್ರಾರಂಭ
+- id: vocab-prarambha-def
+  type: vocabulary_definition
+  ref: vocab-prarambha
+  text: ಮೊದಲು, ಆರಂಭ
+- id: vocab-antima
+  type: vocabulary_term
+  text: ಅಂತಿಮ
+- id: vocab-antima-def
+  type: vocabulary_definition
+  ref: vocab-antima
+  text: ಕೊನೆ
+- id: vocab-shashwata
+  type: vocabulary_term
+  text: ಶಾಶ್ವತ
+- id: vocab-shashwata-def
+  type: vocabulary_definition
+  ref: vocab-shashwata
+  text: ನಾಶ ಹೊಂದದ
+- id: vocab-swabhimana
+  type: vocabulary_term
+  text: ಸ್ವಾಭಿಮಾನ
+- id: vocab-swabhimana-def
+  type: vocabulary_definition
+  ref: vocab-swabhimana
+  text: ಆತ್ಮಗೌರವ, ತನ್ನ ಬಗೆಗೆ ಇರುವ ಅಭಿಮಾನ
+- id: vocab-udyoga
+  type: vocabulary_term
+  text: ಉದ್ಯೋಗ
+- id: vocab-udyoga-def
+  type: vocabulary_definition
+  ref: vocab-udyoga
+  text: ವೃತ್ತಿ
+- id: vocab-unnati
+  type: vocabulary_term
+  text: ಉನ್ನತಿ
+- id: vocab-unnati-def
+  type: vocabulary_definition
+  ref: vocab-unnati
+  text: ಹಿರಿಮೆ, ಏಳಿಗೆ
+- id: vocab-edegundade
+  type: vocabulary_term
+  text: ಎದೆಗುಂದದೆ
+- id: vocab-edegundade-def
+  type: vocabulary_definition
+  ref: vocab-edegundade
+  text: ಭಯವಿಲ್ಲದೆ, ಅಂಜದೆ, ಅಳುಕಿಲ್ಲದೆ, ತಳಮಳಗೊಳ್ಳದೆ
+- id: vocab-nirdhara
+  type: vocabulary_term
+  text: ನಿರ್ಧಾರ
+- id: vocab-nirdhara-def
+  type: vocabulary_definition
+  ref: vocab-nirdhara
+  text: ನಿಶ್ಚಯ, ತೀರ್ಮಾನ
+- id: vocab-honganasu
+  type: vocabulary_term
+  text: ಹೊಂಗನಸು
+- id: vocab-honganasu-def
+  type: vocabulary_definition
+  ref: vocab-honganasu
+  text: ಸುಂದರ ಸ್ವಪ್ನ, ಹಿತಕರವಾದ ಕನಸು
+- id: vocab-chanaksha
+  type: vocabulary_term
+  text: ಚಾಣಾಕ್ಷ
+- id: vocab-chanaksha-def
+  type: vocabulary_definition
+  ref: vocab-chanaksha
+  text: ಸೂಕ್ಷ್ಮದೃಷ್ಟಿಯುಳ್ಳವನು, ವ್ಯವಹಾರ ಚತುರ
+- id: vocab-pana
+  type: vocabulary_term
+  text: ಪಣ
+- id: vocab-pana-def
+  type: vocabulary_definition
+  ref: vocab-pana
+  text: ಪ್ರತಿಜ್ಞೆ
+- id: vocab-patake
+  type: vocabulary_term
+  text: ಪತಾಕೆ
+- id: vocab-patake-def
+  type: vocabulary_definition
+  ref: vocab-patake
+  text: ಧ್ವಜ, ಬಾವುಟ
+- id: vocab-parakeeya
+  type: vocabulary_term
+  text: ಪರಕೀಯ
+- id: vocab-parakeeya-def
+  type: vocabulary_definition
+  ref: vocab-parakeeya
+  text: ಬೇರೆಯ, ಅನ್ಯ
+- id: vocab-gulamagiri
+  type: vocabulary_term
+  text: ಗುಲಾಮಗಿರಿ
+- id: vocab-gulamagiri-def
+  type: vocabulary_definition
+  ref: vocab-gulamagiri
+  text: ಅಡಿಯಾಳುತನ, ದಾಸ್ಯ, ಪರಾಧೀನತೆ
+- id: vocab-vaibhava
+  type: vocabulary_term
+  text: ವೈಭವ
+- id: vocab-vaibhava-def
+  type: vocabulary_definition
+  ref: vocab-vaibhava
+  text: ಆಡಂಬರ
+- id: vocab-mukuta
+  type: vocabulary_term
+  text: ಮುಕುಟ
+- id: vocab-mukuta-def
+  type: vocabulary_definition
+  ref: vocab-mukuta
+  text: ಕಿರೀಟ
+- id: vocab-abhyudaya
+  type: vocabulary_term
+  text: ಅಭ್ಯುದಯ
+- id: vocab-abhyudaya-def
+  type: vocabulary_definition
+  ref: vocab-abhyudaya
+  text: ಅಭಿವೃದ್ಧಿ
+- id: note-vijayotsava
+  type: note_term
+  text: ವಿಜಯೋತ್ಸವ
+- id: note-vijayotsava-def
+  type: note_definition
+  ref: note-vijayotsava
+  text: ಗೆಲುವು ಸಿಕ್ಕಿದಾಗ ಆಚರಿಸುವ ಸಂತೋಷ ಸಮಾರಂಭ.
+- id: note-samrajya
+  type: note_term
+  text: ಸಾಮ್ರಾಜ್ಯ
+- id: note-samrajya-def
+  type: note_definition
+  ref: note-samrajya
+  text: ಸಾರ್ವಭೌಮ ಅಧಿಕಾರವುಳ್ಳ ರಾಷ್ಟ್ರ, ಚಕ್ರಾಧಿಪತ್ಯ.
+- id: note-pattabhisheka
+  type: note_term
+  text: ಪಟ್ಟಾಭಿಷೇಕ
+- id: note-pattabhisheka-def
+  type: note_definition
+  ref: note-pattabhisheka
+  text: (ರಾಜನಾಗುವವನಿಗೆ) ವಿಧ್ಯುಕ್ತವಾಗಿ ಪವಿತ್ರಜಲಗಳಿಂದ ಅಭಿಷೇಕ ಮಾಡುವಿಕೆ, ಪಟ್ಟಕಟ್ಟುವಿಕೆ.
+- id: ex-a-q1
+  type: question
+  exercise: A
+  text: ತಾಯಿಗೆ ಮಗನು ಏನೆಂದು ಕೇಳಿದನು?
+- id: ex-a-q2
+  type: question
+  exercise: A
+  text: ಕೊಂಡಾಣದುರ್ಗವು ಯಾರ ವಶದಲ್ಲಿತ್ತು?
+- id: ex-a-q3
+  type: question
+  exercise: A
+  text: ಜೀಜಾಬಾಯಿಯ ತಂದೆಯ ಹೆಸರೇನು?
+- id: ex-a-q4
+  type: question
+  exercise: A
+  text: ಶಿವಾಜಿಯ ಗುರುವಿನ ಹೆಸರೇನು?
+- id: ex-b-p1
+  type: prose
+  exercise: B
+  text: (ಮಹಾಭಾರತ, ಜೀಜಾಬಾಯಿ, ರಾಯಗಡ, ಷಹಾಜಿ, ರಾಮಾಯಣ)
+- id: ex-b-q1
+  type: fill_blank
+  exercise: B
+  text: ಛತ್ರಪತಿ ಶಿವಾಜಿ ತಾಯಿಯ ಹೆಸರು ________
+- id: ex-b-q2
+  type: fill_blank
+  exercise: B
+  text: ಜೀಜಾಬಾಯಿ ________ ಎಂಬುವವನನ್ನು ವಿವಾಹವಾದಳು.
+- id: ex-b-q3
+  type: fill_blank
+  exercise: B
+  text: ಜೀಜಾಬಾಯಿ ಶಿವಾಜಿಗೆ ಪ್ರತಿನಿತ್ಯ ________ ಮತ್ತು ________ ಕಥೆಗಳನ್ನು ಹೇಳುತ್ತಿದ್ದಳು.
+- id: ex-b-q4
+  type: fill_blank
+  exercise: B
+  text: ಶಿವಾಜಿ ಪಟ್ಟಾಭಿಷೇಕವು ________ ದಲ್ಲಿ ನಡೆಯಿತು.
+- id: ex-c-q1
+  type: fill_blank
+  exercise: C
+  text: ಧೈರ್ಯ × ________
+- id: ex-c-q2
+  type: fill_blank
+  exercise: C
+  text: ಜಯ × ________
+- id: ex-c-q3
+  type: fill_blank
+  exercise: C
+  text: ಗೌರವ × ________
+- id: ex-c-q4
+  type: fill_blank
+  exercise: C
+  text: ನೀತಿ × ________
+- id: ex-d-p1
+  type: prose
+  exercise: D
+  text: 'ಮಾದರಿ: ಸಾಗರ : ಸಮುದ್ರ, ಕಡಲು'
+- id: ex-d-q1
+  type: fill_blank
+  exercise: D
+  text: 'ಪುತ್ರ: ________'
+- id: ex-d-q2
+  type: fill_blank
+  exercise: D
+  text: 'ರಾಜ: ________'
+- id: ex-d-q3
+  type: fill_blank
+  exercise: D
+  text: 'ಯುದ್ಧ: ________'
+- id: ex-e-q1
+  type: fill_blank
+  exercise: E
+  text: 'ಬಹುಮಾನ : ________'
+- id: ex-e-q2
+  type: fill_blank
+  exercise: E
+  text: 'ಉದ್ಯೋಗ : ________'
+- id: ex-e-q3
+  type: fill_blank
+  exercise: E
+  text: 'ಗುಲಾಮಗಿರಿ : ________'
+- id: ex-e-q4
+  type: fill_blank
+  exercise: E
+  text: 'ವೈಭವ : ________'
+- id: ex-e-q5
+  type: fill_blank
+  exercise: E
+  text: 'ಆಶೀರ್ವಾದ : ________'
+- id: ex-f-q1
+  type: question
+  exercise: F
+  text: '''ಮಾತಾಜಿಯವರಿಗೆ ನನ್ನ ಪ್ರಣಾಮಗಳು''
+
+    ಯಾರು?: ________
+
+    ಯಾರಿಗೆ?: ________'
+- id: ex-f-q2
+  type: question
+  exercise: F
+  text: '''ನೀನು ಗೆದ್ದು ನನಗೆ ಬಹುಮಾನವಾಗಿ ಕೊಡಬೇಕು''.
+
+    ಯಾರು?: ________
+
+    ಯಾರಿಗೆ?: ________'
+- id: ex-g-q1
+  type: fill_blank
+  exercise: G
+  text: 'ತಾಯಿ ನೀಡುತ್ತೇನೆ ಕೇಳು ಅಗತ್ಯವಾಗಿ.
+
+    ________'
+- id: ex-g-q2
+  type: fill_blank
+  exercise: G
+  text: 'ಚಾಣಾಕ್ಷ ಜೀಜಾಬಾಯಿ ಹೆಣ್ಣುಮಗಳು.
+
+    ________'
+- id: ex-g-q3
+  type: fill_blank
+  exercise: G
+  text: 'ಪಟ್ಟಾಭಿಷೇಕವು ಅತಿ ಶಿವಾಜಿಯ ನಡೆಯಿತು ವೈಭವದಿಂದ.
+
+    ________'
+- id: ex-h-p1
+  type: prose
+  exercise: H
+  text: 'ಮಾದರಿ : ಬರು+ಅಂತೆ = ಬರುವಂತೆ'
+- id: ex-h-q1
+  type: fill_blank
+  exercise: H
+  text: ಹೋಗು + ಅಂತೆ = ________
+- id: ex-h-q2
+  type: fill_blank
+  exercise: H
+  text: ನೋಡು + ಅಂತೆ = ________
+- id: ex-h-q3
+  type: fill_blank
+  exercise: H
+  text: ಮಗು + ಅಂತೆ = ________
+- id: ex-h-p2
+  type: prose
+  exercise: H
+  text: 'ಮಾದರಿ : ಹುಡುಗ+ಆಟ = ಹುಡುಗಾಟ'
+- id: ex-h-q4
+  type: fill_blank
+  exercise: H
+  text: ಬಂದು + ಆಗ = ________
+- id: ex-h-q5
+  type: fill_blank
+  exercise: H
+  text: ಕಾಡು + ಆನೆ = ________
+- id: ex-h-q6
+  type: fill_blank
+  exercise: H
+  text: ಬಾಯಿ + ಆರಿಕೆ = ________
+- id: ex-i-p1
+  type: prose
+  exercise: I
+  text: ಪದೇ - ಪದೇ
+- id: ex-i-p2
+  type: prose
+  exercise: I
+  text: ಸಣ್ಣ - ಸಣ್ಣ
+- id: ex-i-p3
+  type: prose
+  exercise: I
+  text: ಓಡಿ - ಓಡಿ
+- id: ex-j-p1
+  type: prose
+  exercise: J
+  text: (ಪರರಿಗೆ ಉಪಕಾರಿ, ಬಾಳಿಯಾರು, ಮೌನ ಬಂಗಾರ, ಬಾಯಿ ಮೊಸರು)
+- id: ex-j-q1
+  type: fill_blank
+  exercise: J
+  text: ತಾಳಿದವರು ________
+- id: ex-j-q2
+  type: fill_blank
+  exercise: J
+  text: ಕೈ ಕೆಸರಾದರೆ ________
+- id: ex-j-q3
+  type: fill_blank
+  exercise: J
+  text: ಮಾತು ಬೆಳ್ಳಿ ________
+- id: ex-j-q4
+  type: fill_blank
+  exercise: J
+  text: ಮನೆಗೆ ಮಾರಿ ________
+- id: ex-k-q1
+  type: question
+  exercise: K
+  text: ನೀನು ಜೀಜಾಬಾಯಿಯ ಯಾವ ಗುಣವನ್ನು ಇಷ್ಟಪಡುವೆ? ಏಕೆ?
+- id: ex-k-q2
+  type: question
+  exercise: K
+  text: ನಿನಗೆ ಗೊತ್ತಿರುವ ವೀರಮಹಿಳೆಯರ ಹೆಸರುಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ, ಪಟ್ಟಿ ಮಾಡಿ.
+- id: ex-k-q3
+  type: question
+  exercise: K
+  text: ನಿನ್ನ ಮತ್ತು ತಾಯಿಯ ನಡುವೆ ಬೆಳಗ್ಗೆ ಶಾಲೆಗೆ ಹೊರಡುವ ಸಮಯದಲ್ಲಿ ನಡೆಯುವ ಸಂಭಾಷಣೆಯನ್ನು ಊಹಿಸಿ ಬರೆದು, ಸೂಕ್ತ ಲೇಖನ ಚಿಹ್ನೆಗಳನ್ನು ಹಾಕು.
+- id: ex-k-d1
+  type: dialogue
+  exercise: K
+  speaker: ಮಗ/ಳು
+  text: ________
+- id: ex-k-d2
+  type: dialogue
+  exercise: K
+  speaker: ಅಮ್ಮ
+  text: ________
+- id: ex-k-d3
+  type: dialogue
+  exercise: K
+  speaker: ಮಗ/ಳು
+  text: ________
+- id: ex-k-d4
+  type: dialogue
+  exercise: K
+  speaker: ಅಮ್ಮ
+  text: ________
+- id: ex-k-d5
+  type: dialogue
+  exercise: K
+  speaker: ಮಗ/ಳು
+  text: ________
+- id: ex-k-d6
+  type: dialogue
+  exercise: K
+  speaker: ಅಮ್ಮ
+  text: ________
+- id: ex-k-q4
+  type: question
+  exercise: K
+  text: ಈ ಗದ್ಯದಲ್ಲಿ ಬರುವ ಶಿವಾಜಿ ಮತ್ತು ಜೀಜಾಬಾಯಿ ಅವರ ಸಂಭಾಷಣೆಗಳನ್ನು ತರಗತಿಯಲ್ಲಿ ಗೆಳೆಯರೊಂದಿಗೆ ಸೇರಿ ಅಭಿನಯದ ಮೂಲಕ ಪ್ರದರ್ಶಿಸಿ.
+- id: competency
+  type: competency
+  text: ನೀನೀಗ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ ಲೇಖನ ಚಿಹ್ನೆ ಸಹಿತ ಪರಿಚ್ಛೇದಗಳನ್ನು ಬರೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪಡೆದಿರುವೆಯಲ್ಲವೇ?

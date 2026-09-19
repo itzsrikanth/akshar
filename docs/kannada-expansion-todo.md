@@ -4,22 +4,22 @@ Status: started September 13, 2026. This file is the handoff checkpoint; update 
 
 ## Resume here
 
-Lean workflow: actual YAML in Git is the checkpoint; no new YAML ZIP deliverables. Reuse the checked-in Grade 4 Chapters 1–2, cached PDFs and existing book-level provenance. Continue at Chapter 3 only when conversion is the active task. Stabilize its Kannada source, exercise coverage and IDs before translating; transliteration drafts can be generated mechanically and reviewed. Optional answers, language polish, audio and word-level glosses can wait. Partial contributor maps are valid and must be labeled honestly. For this known Grade 4 edition, keep unresolved-license editorial chapters behind explicit production API holds and commit/push the session's YAML plus necessary generated/tracking files. Do not repeat licensing investigations without new evidence or a production-release task.
+Lean workflow: actual YAML in Git is the checkpoint; no new YAML ZIP deliverables. Reuse the checked-in Grade 4 Chapters 1–3, cached PDFs and existing book-level provenance. Continue at Chapter 4 only when conversion is the active task. Stabilize its Kannada source, exercise coverage and IDs before translating; transliteration drafts can be generated mechanically and reviewed. Optional answers, language polish, audio and word-level glosses can wait. Partial contributor maps are valid and must be labeled honestly. For this known Grade 4 edition, keep unresolved-license editorial chapters behind explicit production API holds and commit/push the session's YAML plus necessary generated/tracking files. Do not repeat licensing investigations without new evidence or a production-release task.
 
 1. Read `AGENTS.md`, `CONTRIBUTING.md`, this file, and `docs/kannada-pdf-inventory.json`; inspect `git status` before editing. Existing Grade 3 chapters and their Grade 5 adoption remain protected.
-2. Chapters 1–2 now have all ten YAML files in `KSEEB/Karnataka/Kannada/Grade4/Kannada/`. Resume from these files, not temporary extraction or historical ZIPs; do not reconvert them. PDFs remain outside Git in `/tmp/akshar-kannada-2026-27/`. Fetch again only when needed for further page review; inventory URLs/checksums remain authoritative.
-3. Work on one chapter at a time, starting with Grade 4 first-language Part 1. Verify its printed grade/role, school-medium evidence, chapter boundaries, DIKSHA license, and edition provenance before publishing. Public downloads alone do not grant redistribution rights.
+2. Chapters 1–3 YAML live under `content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/` as held Grade 4 drafts colocated until a Grade 4 book identity exists (fifteen files for ch01–ch03). Resume from these files, not temporary extraction or historical ZIPs; do not reconvert them. PDFs remain outside Git in `/tmp/akshar-kannada-2026-27/` (`g04-fl-p1-2026-27.pdf`). Fetch again only when needed for further page review; inventory URLs/checksums remain authoritative.
+3. Continue one chapter at a time with Grade 4 first-language Part 1 Chapter 4 next (PDF pages 36–42). Verify printed grade/role, school-medium evidence, chapter boundaries, DIKSHA license, and edition provenance before publishing. Public downloads alone do not grant redistribution rights.
 4. Preserve chapter/segment identities and contributor joins. Never guess inflected-word roots, image content, speakers, or unsupported answers. Minor OCR repairs use conservative editorial judgment; new schema types still require a separate proposal.
 5. After each chapter: validate, generate only its README, compile API, run `python3 scripts/check.py`, and update this file with exact paths/page ranges and outstanding work. Do not call an extraction draft a completed chapter.
-6. At the end of each conversion session, commit and push the authorized changes. Follow `AGENTS.md` → Conversion-session checkpoints, including the explicit Git-only exception for Grade 4 Chapters 1–2. This upload includes the actual YAML, not merely task metadata. The exception does not automatically authorize other unresolved-rights chapters or release these chapters through the production API.
+6. At the end of each conversion session, commit and push the authorized changes. Follow `AGENTS.md` → Conversion-session checkpoints, including the explicit Git-only exception for this Grade 4 edition. This upload includes the actual YAML, not merely task metadata. The exception does not authorize release of these chapters through the production API.
 
 ### Current Git-only delivery
 
-The maintainer overrode the earlier Git-upload blockers while requiring production safety. Both chapters' source, English/Hindi translations and Latin/Devanagari transliterations are stored in the normal Grade 4 directories. The only change from the checksummed archives is the addition of an honest `meta.license` statement: `Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted`. Full existing schemas and structural validation now pass; no content/schema requirements were waived. This is structural validity, not verified redistribution permission.
+The maintainer overrode the earlier Git-upload blockers while requiring production safety. Chapters 1–3 source, English/Hindi translations and Latin/Devanagari transliterations are stored as held chapters under the temporary content/books colocation (until Grade 4 book identity is verified). The only change from the checksummed archives is the addition of an honest `meta.license` statement: `Unverified; source PDF states NOT TO BE REPUBLISHED; no CC license asserted`. Full existing schemas and structural validation now pass; no content/schema requirements were waived. This is structural validity, not verified redistribution permission.
 
 `api-publication-holds.json` excludes these exact chapter directories from production manifests and payloads. The generated READMEs are draft notices linking to all five YAML files, not partially rendered lessons. The complete `api/` tree, including its timestamps/hashes and all Grade 3/Grade 5 compatibility views, remains byte-for-byte unchanged. Existing Grade 3 chapter READMEs also remain unchanged. No app code or schema changed.
 
-The next release work is to resolve rights and the documented Chapter 2 renderer gaps, then clear holds only after full compatibility checks. New editorial conversion can resume at Chapter 3, PDF pages 27–35, when requested; do not repeat Chapters 1–2. Historical archives remain untouched as local recovery artifacts. Their missing-license reports below describe the old archived versions, not the current Git YAML.
+The next release work is to resolve rights and the documented Chapter 2 renderer gaps, then clear holds only after full compatibility checks. Chapter 3 (`ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ`, QR `D6K7E4`, PDF pages 27–35) is now Git-only with the same truthful unverified license and production hold. New editorial conversion resumes at Chapter 4, PDF pages 36–42; do not repeat Chapters 1–3. Historical archives remain untouched as local recovery artifacts. Their missing-license reports below describe the old archived versions, not the current Git YAML.
 
 ### Reuse and cost checkpoint
 
@@ -41,7 +41,8 @@ The official 2026–27 catalog has separate first-/second-language publications.
 - [x] Grade 4 Chapter 2: review PDF pages 20–26, prepare the source and four contributor maps, check all exercises and preserve a local archive (82 segments, 328 contributor entries, 14 labels per file). This is editorial progress, not publication.
 - [x] Grade 4 Chapters 1–2: prepare all ten actual YAML files for the authorized combined Git-only upload, with truthful license status, generated draft notices and explicit production exclusions.
 - [ ] Grade 4 Chapters 1–2 production release: resolve edition rights and exercise rendering, set evidenced licenses, remove holds, regenerate the API and verify supported clients before release.
-- [ ] Continue remaining Grade 4 chapters sequentially, recording chapter-specific checkpoints before proceeding.
+- [x] Grade 4 Chapter 3: review PDF pages 27–35, write source plus four contributor maps (120 segments), add production hold, generate draft README; full schema checks pass.
+- [ ] Continue remaining Grade 4 chapters sequentially from Chapter 4 (PDF pages 36–42), recording chapter-specific checkpoints before proceeding.
 - [ ] Grade 5 first-language Part 1, then Grades 1/2 and 6–10: identify chapters and convert sequentially; do not confuse this separate Grade 5 publication with Grade 5 students using the Grade 3 book.
 - [ ] Download/convert Part 2 and second-language publications in a later explicit priority pass.
 
@@ -95,13 +96,13 @@ Before running the converter, compare its SHA-256 to `94bb8421e0e3179ff2a51e1188
 
 ### Grade 4 Part 1 chapter queue
 
-The contents page was visually inspected. All ranges are inclusive; Chapters 1–2 have local drafts, and Chapters 3–8 are not yet extracted or converted.
+The contents page was visually inspected. All ranges are inclusive; Chapters 1–3 are in Git-only delivery; Chapters 4–8 are not yet extracted or converted.
 
 | Chapter | Printed title | Printed pages | PDF pages | State |
 |---|---|---|---|---|
 | 1 | ಕನ್ನಡಮ್ಮನ ಹರಕೆ | 1–5 | 15–19 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
 | 2 | ಬುದ್ಧಿವಂತ ರಾಮಕೃಷ್ಣ | 6–12 | 20–26 | Five YAML files stored in Git-only delivery; full schema checks pass; production API and renderer holds remain |
-| 3 | ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ | 13–21 | 27–35 | Pending |
+| 3 | ವೀರಮಾತೆ ಜೀಜಾಬಾಯಿ | 13–21 | 27–35 | Five YAML files stored in Git-only delivery; full schema checks pass; production API hold remains |
 | 4 | ಮಳೆ | 22–28 | 36–42 | Pending |
 | 5 | ಅಜ್ಜಿಯ ತೋಟದಲ್ಲಿ ಒಂದು ದಿನ | 29–38 | 43–52 | Pending |
 | 6 | ದೊಡ್ಡವರು ಯಾರು? | 39–45 | 53–59 | Pending |
