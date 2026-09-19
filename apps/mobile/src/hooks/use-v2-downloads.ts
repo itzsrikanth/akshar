@@ -19,7 +19,14 @@ export function useV2Downloads() {
     setPending((p) => new Set(p).add(key));
     try {
       const chapter = await v2ContentRepository.getChapter(identity);
-      downloadV2Chapter(identity, chapter);
+      const catalog = await v2ContentRepository.getCatalog();
+      const contentHash = catalog.chapters.find(
+        (c) =>
+          c.bookId === identity.bookId &&
+          c.editionId === identity.editionId &&
+          c.chapterId === identity.chapterId,
+      )?.contentHash;
+      downloadV2Chapter(identity, chapter, contentHash);
     } finally {
       setPending((p) => {
         const next = new Set(p);

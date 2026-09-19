@@ -14,6 +14,9 @@ import { type V2Chapter, validateV2Chapter } from './types';
 
 const downloadsDir = new Directory(Paths.document, 'chapters-v2');
 
+/** On-disk envelope — older installs may still have a bare V2Chapter JSON. */
+type StoredV2Download = { contentHash: string; chapter: V2Chapter };
+
 function fileFor(identity: ChapterIdentity): File {
   const { bookId, editionId, chapterId } = assertChapterIdentity(identity);
   const bookDir = new Directory(downloadsDir, bookId);
@@ -30,6 +33,32 @@ function ensureParent(identity: ChapterIdentity): void {
   if (!editionDir.exists) editionDir.create({ intermediates: true, idempotent: true });
 }
 
+function isStoredV2Download(value: unknown): value is StoredV2Download {
+  if (!value || typeof value !== 'object') return false;
+  const record = value as Record<string, unknown>;
+  return typeof record.contentHash === 'string' && record.chapter != null && typeof record.chapter === 'object';
+}
+
+function readStored(identity: ChapterIdentity): { contentHash: string | null; chapter: V2Chapter } | null {
+  const file = fileFor(identity);
+  if (!file.exists) return null;
+  try {
+    const parsed = JSON.parse(file.textSync()) as unknown;
+    if (isStoredV2Download(parsed)) {
+      return {
+        contentHash: parsed.contentHash,
+        chapter: validateV2Chapter(parsed.chapter, identity),
+      };
+    }
+    return {
+      contentHash: null,
+      chapter: validateV2Chapter(parsed as V2Chapter, identity),
+    };
+  } catch {
+    return null;
+  }
+}
+
 function listKeysFromDisk(): string[] {
   if (!downloadsDir.exists) return [];
   const keys: string[] = [];
@@ -38,7 +67,7 @@ function listKeysFromDisk(): string[] {
     for (const editionEntry of bookEntry.list()) {
       if (!(editionEntry instanceof Directory)) continue;
       for (const file of editionEntry.list()) {
-        if (!(file instanceof File) || !file.name.endsWith('.json')) continue;
+        if (!(file instanceof File) || !file.name.endsWith('.json') || file.name.endsWith('.tmp.json')) continue;
         keys.push(`${bookEntry.name}/${editionEntry.name}/${file.name.replace(/\.json$/, '')}`);
       }
     }
@@ -73,7 +102,7 @@ export function isV2Downloaded(identity: ChapterIdentity): boolean {
  * replaces the target only after validation — keeps the previous good copy
  * if the new payload is rejected.
  */
-export function downloadV2Chapter(identity: ChapterIdentity, chapter: V2Chapter): void {
+export function downloadV2Chapter(identity: ChapterIdentity, chapter: V2Chapter, contentHash?: string): void {
   if (isLocalDataResetting()) throw new Error('Local data is being reset. Restart the app before downloading.');
   const validated = validateV2Chapter(chapter, identity);
   ensureParent(identity);
@@ -82,10 +111,13 @@ export function downloadV2Chapter(identity: ChapterIdentity, chapter: V2Chapter)
   const editionDir = new Directory(new Directory(downloadsDir, bookId), editionId);
   const temp = new File(editionDir, `${chapterId}.tmp.json`);
   if (!temp.exists) temp.create({ overwrite: true });
-  temp.write(JSON.stringify(validated));
+  const payload: StoredV2Download | V2Chapter =
+    contentHash && contentHash.length > 0 ? { contentHash, chapter: validated } : validated;
+  temp.write(JSON.stringify(payload));
   try {
-    const parsed = JSON.parse(temp.textSync()) as V2Chapter;
-    validateV2Chapter(parsed, identity);
+    const parsed = JSON.parse(temp.textSync()) as unknown;
+    const chapterBody = isStoredV2Download(parsed) ? parsed.chapter : (parsed as V2Chapter);
+    validateV2Chapter(chapterBody, identity);
   } catch (error) {
     if (temp.exists) temp.delete();
     throw error;
@@ -111,14 +143,11 @@ export function clearDownloadedV2Chapters(): void {
 }
 
 export function getDownloadedV2Chapter(identity: ChapterIdentity): V2Chapter | null {
-  const file = fileFor(identity);
-  if (!file.exists) return null;
-  try {
-    return validateV2Chapter(JSON.parse(file.textSync()) as V2Chapter, identity);
-  } catch {
-    // Corrupt download must not poison the session — treat as missing.
-    return null;
-  }
+  return readStored(identity)?.chapter ?? null;
+}
+
+export function getDownloadedV2ChapterHash(identity: ChapterIdentity): string | null {
+  return readStored(identity)?.contentHash ?? null;
 }
 
 export function downloadedKeyToIdentity(key: string): ChapterIdentity {

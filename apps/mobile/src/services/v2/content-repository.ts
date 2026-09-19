@@ -70,17 +70,18 @@ export class V2CdnContentRepository implements V2ContentRepository {
   }
 
   getChapter(identity: ChapterIdentity): Promise<V2Chapter> {
-    const key = `${identity.bookId}/${identity.editionId}/${identity.chapterId}`;
-    let cached = this.chapterCache.get(key);
-    if (!cached) {
-      cached = this.resolveContentHash(identity).then(async (versionKey) => {
-        const payload = await this.fetchJson<V2Chapter>(v2ChapterApiPath(identity), versionKey);
-        return validateV2Chapter(payload, identity);
-      });
-      this.chapterCache.set(key, cached);
-      cached.catch(() => this.chapterCache.delete(key));
-    }
-    return cached;
+    return this.resolveContentHash(identity).then((versionKey) => {
+      const cacheKey = `${identity.bookId}/${identity.editionId}/${identity.chapterId}::${versionKey ?? ''}`;
+      let cached = this.chapterCache.get(cacheKey);
+      if (!cached) {
+        cached = this.fetchJson<V2Chapter>(v2ChapterApiPath(identity), versionKey).then((payload) =>
+          validateV2Chapter(payload, identity),
+        );
+        this.chapterCache.set(cacheKey, cached);
+        cached.catch(() => this.chapterCache.delete(cacheKey));
+      }
+      return cached;
+    });
   }
 
   private async resolveContentHash(identity: ChapterIdentity): Promise<string | undefined> {

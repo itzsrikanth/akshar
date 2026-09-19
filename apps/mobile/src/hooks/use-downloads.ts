@@ -15,7 +15,9 @@ export function useDownloads() {
     setPending((p) => new Set(p).add(slug));
     try {
       const chapter = await contentRepository.getChapter(path);
-      downloadChapter(slug, chapter);
+      const catalog = await contentRepository.getCatalog();
+      const contentHash = catalog.chapters.find((c) => c.path === path)?.contentHash;
+      downloadChapter(slug, chapter, contentHash);
     } finally {
       setPending((p) => {
         const next = new Set(p);

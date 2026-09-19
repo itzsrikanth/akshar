@@ -11,8 +11,28 @@ import { isLocalDataResetting } from './local-reset-state';
 
 const downloadsDir = new Directory(Paths.document, 'chapters');
 
+/** On-disk envelope — older installs may still have a bare Chapter JSON. */
+type StoredDownload = { contentHash: string; chapter: Chapter };
+
 function fileFor(slug: string): File {
   return new File(downloadsDir, `${slug}.json`);
+}
+
+function isStoredDownload(value: unknown): value is StoredDownload {
+  if (!value || typeof value !== 'object') return false;
+  const record = value as Record<string, unknown>;
+  return typeof record.contentHash === 'string' && record.chapter != null && typeof record.chapter === 'object';
+}
+
+function readStored(slug: string): { contentHash: string | null; chapter: Chapter } | null {
+  const file = fileFor(slug);
+  if (!file.exists) return null;
+  const parsed = JSON.parse(file.textSync()) as unknown;
+  if (isStoredDownload(parsed)) {
+    return { contentHash: parsed.contentHash, chapter: parsed.chapter };
+  }
+  // Legacy bare chapter JSON — no revision metadata; treat as unknown hash.
+  return { contentHash: null, chapter: parsed as Chapter };
 }
 
 function listSlugsFromDisk(): string[] {
@@ -52,12 +72,14 @@ export function isDownloaded(slug: string): boolean {
   return fileFor(slug).exists;
 }
 
-export function downloadChapter(slug: string, chapter: Chapter): void {
+export function downloadChapter(slug: string, chapter: Chapter, contentHash?: string): void {
   if (isLocalDataResetting()) throw new Error('Local data is being reset. Restart the app before downloading.');
   if (!downloadsDir.exists) downloadsDir.create({ intermediates: true, idempotent: true });
   const file = fileFor(slug);
   if (!file.exists) file.create({ overwrite: true });
-  file.write(JSON.stringify(chapter));
+  const payload: StoredDownload | Chapter =
+    contentHash && contentHash.length > 0 ? { contentHash, chapter } : chapter;
+  file.write(JSON.stringify(payload));
   invalidate();
 }
 
@@ -83,9 +105,12 @@ function removeDownloadsDirectory(): void {
 }
 
 export function getDownloadedChapter(slug: string): Chapter | null {
-  const file = fileFor(slug);
-  if (!file.exists) return null;
-  return JSON.parse(file.textSync()) as Chapter;
+  return readStored(slug)?.chapter ?? null;
+}
+
+/** Catalog revision stored with the download, or null for legacy bare files. */
+export function getDownloadedChapterHash(slug: string): string | null {
+  return readStored(slug)?.contentHash ?? null;
 }
 
 /** A chapter's `path` (e.g. ".../ch01-bannada-tagadina.json") always ends in `<slug>.json`. */

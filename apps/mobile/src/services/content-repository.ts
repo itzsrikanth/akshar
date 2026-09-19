@@ -130,15 +130,18 @@ export class CdnContentRepository implements ContentRepository {
   }
 
   getChapter(path: string): Promise<Chapter> {
-    let cached = this.chapterCache.get(path);
-    if (!cached) {
-      cached = this.resolveContentHash(path).then((versionKey) => this.fetchJson<Chapter>(`api/${path}`, versionKey));
-      this.chapterCache.set(path, cached);
-      // Don't cache a rejected fetch — a transient network error shouldn't
-      // permanently poison this path for the rest of the session.
-      cached.catch(() => this.chapterCache.delete(path));
-    }
-    return cached;
+    // Cache by path+contentHash so a catalog refresh that bumps the hash does
+    // not keep serving a chapter fetched earlier in the same session.
+    return this.resolveContentHash(path).then((versionKey) => {
+      const cacheKey = `${path}::${versionKey ?? ''}`;
+      let cached = this.chapterCache.get(cacheKey);
+      if (!cached) {
+        cached = this.fetchJson<Chapter>(`api/${path}`, versionKey);
+        this.chapterCache.set(cacheKey, cached);
+        cached.catch(() => this.chapterCache.delete(cacheKey));
+      }
+      return cached;
+    });
   }
 
   /** Looks up a chapter's contentHash from the catalog for version-keyed caching (see

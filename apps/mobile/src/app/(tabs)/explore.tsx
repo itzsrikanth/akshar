@@ -20,9 +20,10 @@ import { useTheme } from '@/hooks/use-theme';
 import { useV2Catalog } from '@/hooks/use-v2-catalog';
 import { useV2Downloads } from '@/hooks/use-v2-downloads';
 import { useV2Selection } from '@/hooks/use-v2-selection';
-import { forceCatalogRefresh } from '@/services/catalog-store';
+import { forceCatalogRefresh, getCatalogSnapshot } from '@/services/catalog-store';
 import type { Catalog } from '@/services/content-repository';
 import { autoResolve, filterChapters, LEVEL_KEYS, levelLabel, levelName, optionsAtLevel } from '@/services/hierarchy';
+import { refreshStaleDownloads } from '@/services/load-chapter';
 import { labelForLanguage, labelForScript, scopesEqual, type Scope } from '@/services/scope';
 import type { LevelValue } from '@/services/hierarchy';
 import {
@@ -33,7 +34,9 @@ import {
   chaptersForAdoption,
   findAdoptionOption,
   forceV2CatalogRefresh,
+  getV2CatalogSnapshot,
   listAdoptionOptions,
+  refreshStaleV2Downloads,
   selectionFromAdoption,
 } from '@/services/v2';
 
@@ -52,6 +55,12 @@ export default function ExploreScreen() {
     setRefreshing(true);
     try {
       await Promise.all([forceCatalogRefresh(), forceV2CatalogRefresh()]);
+      const v1Catalog = getCatalogSnapshot().catalog;
+      const v2Catalog = getV2CatalogSnapshot().catalog;
+      await Promise.all([
+        v1Catalog ? refreshStaleDownloads(v1Catalog) : Promise.resolve(),
+        v2Catalog ? refreshStaleV2Downloads(v2Catalog) : Promise.resolve(),
+      ]);
     } finally {
       setRefreshing(false);
     }

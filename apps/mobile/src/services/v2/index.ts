@@ -68,12 +68,13 @@ export {
   downloadV2Chapter,
   downloadedKeyToIdentity,
   getDownloadedV2Chapter,
+  getDownloadedV2ChapterHash,
   getDownloadedV2KeysSnapshot,
   identityToDownloadedKey,
   isV2Downloaded,
   subscribeToV2Downloads,
 } from './downloads';
 
-export { loadV2Chapter, refreshDownloadedV2Chapter } from './use-chapter-support';
+export { loadV2Chapter, refreshDownloadedV2Chapter, refreshStaleV2Downloads } from './use-chapter-support';
 
 export { clearLegacyV1LocalData } from './clear-legacy-v1';
