@@ -1,0 +1,575 @@
+meta:
+  schemaVersion: 1
+  bookId: ktbs-savi-kannada-g3-fl-p1
+  editionId: 2026-27
+  chapterId: ch05-ajjiya-totadalli-ondu-dina
+  sourceLanguage: kn
+  sourceFile: content/books/ktbs-savi-kannada-g3-fl-p1/editions/2026-27/chapters/ch05-ajjiya-totadalli-ondu-dina/source.kn.yaml
+  voice:
+    id: sample-voice-v1
+    provider: akshar
+    model: placeholder-beep
+    version: '1'
+    license: Placeholder beep for UI/offline wiring; not textbook TTS. Replace before production.
+  notes: 'Sample-mode: every speakable+translated segment maps to one shared placeholder clip.'
+assets:
+  intro-1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 0970a2fb1d8df0720bb1f6450c5dadc737967bb57526d83e1357be6c6f4b5455
+    segmentType: prose
+  intro-2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: c457a3d58067351eb04dfef8a4605f139b3fe6f0973841de2a9441c820238776
+    segmentType: prose
+  intro-3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 69e219bf50612735adb65d84e044712f6b7af34a4e5393ef0acd326ac504c3c3
+    segmentType: prose
+  story-p1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 820654e0dfaef5d82309d5b77e6c6ba423f528c68489004f02b084ad7690e5c9
+    segmentType: prose
+  story-p2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 3b154c2c274f3aaf30e29aa3b3bdd9b89b55e70786700b4dc03d623398644780
+    segmentType: prose
+  story-p3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 4c814aaa007da1bd12aa169d4125053c5ce6dfe1bc0cfeb7393757b500fc30b4
+    segmentType: prose
+  story-p4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: ded69d777c626f25e53541d8d9865968448e2b06575db4aaf604ad498361fbd8
+    segmentType: prose
+  story-p5:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 4123ccd3108350c5d257623977e0f9c849a3aa6492ece14739526cdc0a26fb64
+    segmentType: prose
+  story-p6:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 1be4e36f108d6264c626858a517d0b37b7c670c66f02c101ad365d585419004f
+    segmentType: prose
+  story-p7:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: aa8b5817aadd51d22c965d8d8872e7ac1408d337e8228d80ce95a52a66a4c163
+    segmentType: prose
+  story-p8:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: ebd9c647fc907447f08e66b82c868c4f21e10a34f30a341c9720a11048747a3e
+    segmentType: prose
+  story-p9:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 573ee549c12633220dc5da4db3b4e4a88d596914f3df4e889d7fe1615dbed64e
+    segmentType: prose
+  story-p10:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 6ff5f03d222648a26f701c8e8d7c2d6a9cf20a72daadf403a3b3f26bc3cdcbd5
+    segmentType: prose
+  story-p11:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 867efd54070a7be916964fcf714facc3595f261697fef33bf0bb347b22a44f3f
+    segmentType: prose
+  vocab-dhanyavada:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: dd9b91befae81daca3374870f5bf9b1cc821d5335f4acf2c2b7d79fe11a559d5
+    segmentType: vocabulary_term
+  vocab-charchisu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: c37c73a76365f8cd31de244004a8b7db7fc9361dca0638c4fbb72aaa06dec6f5
+    segmentType: vocabulary_term
+  vocab-vishala:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 254fe3de2dbf4d9678ad2b220ad11668b5f71e64f1ca99f11db4777be5450dd7
+    segmentType: vocabulary_term
+  vocab-prakruti:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: b9d959b8b34f0c6d6a39ec7c683a5a0d446800e3c62b3f3f29d8a236e7a0569b
+    segmentType: vocabulary_term
+  vocab-vidhana:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 24be8005d6ff71c51b088a8c21ece369ddd57f9a75fade95c845e5706c1d930d
+    segmentType: vocabulary_term
+  vocab-hekku:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 0b29608ac39b4f96aaeba9924beb6cfbb5be58bbf302b62705d6a5d70c8cf807
+    segmentType: vocabulary_term
+  vocab-bahushaha:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 318c1411d8cfcad5be09e83eee5942763715af5c7d064f69b3c94f0ec19d470d
+    segmentType: vocabulary_term
+  vocab-habbu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: f9157d2f0dbad933093de742aa8da2103d4edfd9e45b55053d07d49b491775a1
+    segmentType: vocabulary_term
+  vocab-todu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 2615396fe1dd88606b8456d916cfc8638b81ab971672261c9bf605b3d9043863
+    segmentType: vocabulary_term
+  note-malenadu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 776a5cc4eedf232e3bc1d6a2174107313332a69a38ffb97b0934b252690c475c
+    segmentType: note_term
+  note-pairu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: b0fce09b1b7a29c0037195effffceac6ee362d367fccdf7f3153ac1aee30b98e
+    segmentType: note_term
+  note-noga:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 541af79b04e8054f0014ffd7127b42cd1ce31a2e1410434acf4dace002a18c69
+    segmentType: note_term
+  note-negilu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 116d73937eb6dce2413e5191f8b2a1fb551c5865dcda4ce8feb1d6d8691ceb12
+    segmentType: note_term
+  note-yantra:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: d605d18b8df7a70e9c7614826a0f430aba2f78b4530b315651684348a82d806a
+    segmentType: note_term
+  note-sukshma:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: ef170385ec83da97ae484de7c59c653ba86826589d7ce21f79108a388277dbf9
+    segmentType: note_term
+  note-totagarike:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 9f0e35c52e146daf56956bba6f193cdb32fdc229cdeb70a98d065a1850354d38
+    segmentType: note_term
+  note-antarjala:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 5aa4d5e72ad741ae77fca803c255376757d326d9f27e0f09218e57397b7b8250
+    segmentType: note_term
+  note-badu:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: a42bbc6b0a22f2ead14f4e0d27bc0c73b7a3a7164ea3ce31ffa8a4d8b326ed0c
+    segmentType: note_term
+  note-honda:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: a556ab223935288153e877539a1367da6754ae42788cbbcde8e05960e088e7a9
+    segmentType: note_term
+  ex-d-p1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 3bd7112c65de5399d12333d2da72b96a3a5b9a27da329f28005e132953340506
+    segmentType: prose
+  ex-g-p1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 8830319c9dce7c60ba72712c60f0cea068426ad07663483283d4f4d1147f0c0f
+    segmentType: prose
+  ex-h-p1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 0e65ab3b4b2dd6eb38aae7fb98f0fd64b552a9d3558dd55f913be6c28afb8669
+    segmentType: prose
+  ex-l-p1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 99b3222a1b26749c01d397f7f0b463e8ef70edd5a0abc06cdded1aeec11bc2af
+    segmentType: prose
+  ex-l-p2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: a4da89549d0cd087c33a71931e7b92dc04a90c8acea068d3199427a44aff8785
+    segmentType: prose
+  ex-l-p3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 80a818061f38a7b874dc712088fb72a7bbb77cdbb1fd985d5bde61833423891b
+    segmentType: prose
+  ex-l-p4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 2d54bcf41abecea9775317b5d8750ff8a878b1b3638b3c9abf70ef813bac0f02
+    segmentType: prose
+  ex-l-p5:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: e507f27cfd97aa60941927da377c91b84ce79c9c0fbc0eac457561b281bc4ba9
+    segmentType: prose
+  ex-l-p6:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 4d80695b9288fbad575c260d36da5c76dc37d4846bc0e2af249735db5e4e55e3
+    segmentType: prose
+  ex-m-p1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: d75642a10aa7c7227bbb83864b2405989f5114975bb3300f6d58730861dfc329
+    segmentType: prose
+  ex-m-p2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 46a2125774e687342a2fcf2cce6581479a4601c69bb30278569a91a12d673a96
+    segmentType: prose
+  poem-s1l1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: a7b20b8cea203ae0709830943f9fc9a6f87204825f25b029dfe7aadc35b42a35
+    segmentType: poem_line
+  poem-s1l2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 44447bb94072a9274b6f5dba367e046083670a1bf3cd6820e14a924b9433b42e
+    segmentType: poem_line
+  poem-s1l3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 4271490d12181462321dd608369784f88151b8e92d9380b3d0d7b9450016a7d3
+    segmentType: poem_line
+  poem-s1l4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 1c940f713ba26ae6f179d115d048caca0daed20ff47973c489f27b76df99010b
+    segmentType: poem_line
+  poem-s2l1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 02af95fdb2d05dc09374365df372f3ef1734865ca45a18192892ce141d10439a
+    segmentType: poem_line
+  poem-s2l2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 33aa78b74901df35d4f515c017990ad5e248ec2bdc142002a924935b7d899869
+    segmentType: poem_line
+  poem-s2l3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 42612a7f5fc03c824f24c3e5dfe3428f4767fc19d7d3742f98a5f1f9fea16aff
+    segmentType: poem_line
+  poem-s2l4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 0e1265885a47bb68147250ad7f88993c91957460d9648553226c74afef75167f
+    segmentType: poem_line
+  poem-s3l1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 6784175d6551d65b95117c20c4c57c1c27b30b6b42cdf68ffb2888af01f91cae
+    segmentType: poem_line
+  poem-s3l2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 5297c25f19043890ed9209c262bf0ed9cbf47eebdc9da79a4f27165f204b5d55
+    segmentType: poem_line
+  poem-s3l3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 4f8a3c26b69aa18bf9fa221d2befd9b24d398a15b0f9cb0af9cf755dd123e10a
+    segmentType: poem_line
+  poem-s3l4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 7d85f47f05b23dd5e1907a6a67cc00a2cadba7651056bed3df530bac912ef1c8
+    segmentType: poem_line
+  poem-s4l1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 63fe84437907be05d8f85f3941c9aa8a82d5fe0cd9d6f5c043d6f502a885e7cc
+    segmentType: poem_line
+  poem-s4l2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: bb7ca9e085f645d7fea0881ff62eb2a8553b8c78663671f14581a61aeee02872
+    segmentType: poem_line
+  poem-s4l3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: fe2139105d3aef210880e2e8b32cc37ec5bd83c5237d7d1be0c826372e8ace88
+    segmentType: poem_line
+  poem-s4l4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: edb347f8961534d2d00b3182574acd5032e3ca9fde428f7854a1faf037eed07e
+    segmentType: poem_line
+  poem-s5l1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 7ab4ebc10e96a3c5f4c9298bc916f33c63d1c4aed4e7c0f7e39dce84cba48b38
+    segmentType: poem_line
+  poem-s5l2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 8e10c0068ddc2ef0ec0d5e4b2131bd18b58c6683764e7927f43e41596c5bb506
+    segmentType: poem_line
+  poem-s5l3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: a6aeb27e9cf3a4e8f654b0442258d61c17ae92df207cb02458f6574e5523b65d
+    segmentType: poem_line
+  poem-s5l4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 0e1265885a47bb68147250ad7f88993c91957460d9648553226c74afef75167f
+    segmentType: poem_line
+  poem-s6l1:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: a5f3b220ed26ba311446f5eab087059c54fb9b76ffe3094c2bfab1cbb058b23c
+    segmentType: poem_line
+  poem-s6l2:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 884be6b2c5260944bc872a83b519d13aed9e2e58cbd8d53b841b46bfd3182b46
+    segmentType: poem_line
+  poem-s6l3:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: 3274cd2a0bf792dc7447eccc4dd69d4314af5f281ac8d46e18ba140d7f76329e
+    segmentType: poem_line
+  poem-s6l4:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: fc675111ac20ebbca2472c7906b7623bd62e049877e7f45bdf969a3dcf7fd175
+    segmentType: poem_line
+  poem-author:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: b0a999894ecb82b78ae156588757867e1badcb4efa0716de7a8dcbf7b0bb8294
+    segmentType: prose
+  competency:
+    assetId: bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0
+    objectKey: audio/kn/sample-voice-v1/bb/bb0ef5499046e66f6d007f2edb8ad62018b173f168025a6f219f718be9a088e0.m4a
+    contentType: audio/mp4
+    bytes: 9311
+    sha256: c0b7e14f2208c98ac38c1af5b9f721006f8a7465b3fa55423cbe7ac33ccef3f2
+    textDigest: eaea6486700311de181a5f618304d1a538666026641bfd721c1bdeae516e3003
+    segmentType: competency

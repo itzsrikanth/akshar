@@ -394,19 +394,33 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
           <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
             {`CHOOSE A ${levelName(LEVEL_KEYS[resolved.length]).toUpperCase()}`}
           </ThemedText>
-          {optionsAtLevel(catalog.chapters, resolved, resolved.length).map((option, i, options) => (
-            <Touchable
-              key={String(option)}
-              onPress={() => {
-                setManualSelected([...resolved, option]);
-                setPinnedLevel(null);
-              }}
-              style={[styles.optionRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
-            >
-              <ThemedText type="default">{levelLabel(LEVEL_KEYS[resolved.length], option)}</ThemedText>
-              <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
-            </Touchable>
-          ))}
+          {optionsAtLevel(catalog.chapters, resolved, resolved.length).map((option, i, options) => {
+            const levelKey = LEVEL_KEYS[resolved.length];
+            const englishGradeHint =
+              levelKey === 'grade' && resolved[2] === 'English'
+                ? `Kannada FL Grade ${Number(option) - 2}`
+                : null;
+            return (
+              <Touchable
+                key={String(option)}
+                onPress={() => {
+                  setManualSelected([...resolved, option]);
+                  setPinnedLevel(null);
+                }}
+                style={[styles.optionRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+              >
+                <View style={styles.f1}>
+                  <ThemedText type="default">{levelLabel(levelKey, option)}</ThemedText>
+                  {englishGradeHint ? (
+                    <ThemedText type="small" themeColor="textSecondary" style={styles.mt5}>
+                      {englishGradeHint}
+                    </ThemedText>
+                  ) : null}
+                </View>
+                <MaterialCommunityIcons name="chevron-right" size={20} color={theme.textDisabled} />
+              </Touchable>
+            );
+          })}
         </View>
       ) : (
         <View style={styles.relative}>
@@ -422,6 +436,11 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
               </Touchable>
             )}
           </View>
+          {resolved[2] === 'English' && chaptersInScope.length > 0 ? (
+            <ThemedText type="small" themeColor="textSecondary" style={styles.adoptionHint}>
+              {`English medium Grade ${resolved[3]} uses the Kannada first-language Grade ${Number(resolved[3]) - 2} book`}
+            </ThemedText>
+          ) : null}
 
           {chaptersInScope.map((chapter, i) => {
             const downloaded = downloads.isDownloaded(chapter.slug);
@@ -486,7 +505,21 @@ function ExploreContent({ catalog }: { catalog: Catalog }) {
             return (
               <Touchable
                 key={chapter.slug}
-                onPress={() => router.push({ pathname: '/reader', params: { path: chapter.path } })}
+                onPress={() =>
+                  router.push({
+                    pathname: '/reader',
+                    params: {
+                      path: chapter.path,
+                      // Learner context from Explore breadcrumb — may differ from
+                      // printed book meta (English Grade N → Kannada FL Grade N−2).
+                      learnerBoard: String(resolved[0]),
+                      learnerState: String(resolved[1]),
+                      learnerMedium: String(resolved[2]),
+                      learnerGrade: String(resolved[3]),
+                      learnerSubject: String(resolved[4] ?? chapter.subject),
+                    },
+                  })
+                }
                 style={rowStyle}
               >
                 {row}
@@ -514,6 +547,7 @@ const styles = StyleSheet.create({
   subjectPill: { paddingVertical: 3, paddingHorizontal: 10, borderRadius: Radius.pill },
   sectionHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: Spacing.two },
   sectionLabel: { textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: Spacing.two },
+  adoptionHint: { marginBottom: Spacing.three, lineHeight: 18 },
   mtSection: { marginTop: Spacing.four },
   optionRow: {
     flexDirection: 'row',

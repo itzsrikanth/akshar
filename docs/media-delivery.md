@@ -1,14 +1,14 @@
 # Pronunciation audio and object storage
 
-← [Documentation index](README.md) · [Repository roadmap](roadmap.md) · [Mobile roadmap](../apps/mobile/docs/roadmap.md)
+← [Documentation index](README.md) · [Repository roadmap](roadmap.md) · [Mobile roadmap](../apps/mobile/docs/roadmap.md) · [OpenTofu R2 stack](../infra/cloudflare/README.md)
 
-Status: researched September 13, 2026. The optional mobile health probe is implemented; audio generation, asset manifests, local audio downloads, playback, and cloud provisioning are not. No provider account was accessed and no paid resources were created. Storage is shared infrastructure; reader controls are mobile work.
+Status: researched September 13, 2026; **IaC + publish tooling landed September 19, 2026**; **sample-mode reader playback** uses a content-addressed R2 clip (plus bundled fallback) with Git chapter manifests and offline prefetch on chapter download. Real TTS generation is not implemented. Storage is shared infrastructure; reader controls are mobile work.
 
 ## Individual clips first; optional chapter packs later
 
 Use one immutable audio object per pronunciation segment initially, addressed by a digest of normalized source text, language, voice/model/version, and synthesis settings. A segment is not necessarily a grammatical sentence: poems have lines and exercises may have shorter prompts. One source-language clip serves its transliterations too; an actual translated-language pronunciation is a different clip. Keep the source text/segment revision in the mapping so a corrected sentence cannot silently play stale audio.
 
-Suggested object key: `audio/kn/<voice-version>/<hash-prefix>/<asset-hash>.m4a`. This is an illustrative key, not a committed codec/provider decision. Object-store prefixes organize objects; they do not require separate buckets or directories for every grade/student/chapter. The book/edition/chapter/segment-to-asset mapping belongs in a versioned manifest, allowing the same clip to be reused across adoption contexts without storing it twice. Retain immutable older assets while supported clients/editions reference them.
+Suggested object key: `audio/kn/<voice-id>/<hash-prefix>/<asset-hash>.m4a`. **Locked encoding:** see [audio-clip-encoding.md](audio-clip-encoding.md) — **24 kHz mono AAC `.m4a`**. Implemented helpers: [`scripts/media_asset_id.py`](../scripts/media_asset_id.py). Object-store prefixes organize objects; they do not require separate buckets or directories for every grade/student/chapter. **Do not mirror `content/books/...` paths in R2** — the bucket holds bytes (+ `health.json`) only. The book/edition/chapter/segment-to-asset mapping belongs in versioned Git manifests under [`content/media/manifests/`](../content/media/manifests/) ([`schema/media-asset-manifest.schema.json`](../schema/media-asset-manifest.schema.json)), allowing the same clip to be reused across adoption contexts without storing it twice. Retain immutable older assets while supported clients/editions reference them.
 
 | Delivery form | Benefit | Trade-off | Decision |
 |---|---|---|---|
@@ -20,49 +20,66 @@ Audio sprites are real: [Howler's official documentation](https://github.com/gol
 
 Use small chapter/section packs if experiments justify them, not one enormous textbook recording. Keep original segment clips as the editable/generation units and derive packs reproducibly. An individual clip can be downloaded for one tap; a chapter pack is justified by offline chapter download or measured request overhead, not by directory aesthetics.
 
-## Provider comparison and recommendation
+## Provider decision (September 19, 2026)
 
-The user's only account-specific inputs are $150/month Azure credits and an existing unused AWS account. The exact Azure offer and AWS account eligibility are unverified. Public price pages cannot determine the user's subscription terms, taxes, region, account age, or remaining credits.
+**Pilot / free-tier delivery: Cloudflare R2 Standard**, provisioned with OpenTofu under [`infra/cloudflare/`](../infra/cloudflare/). Public reads start on the managed **`*.r2.dev`** URL (`enable_r2_dev = true`). That origin is rate-limited and is **not** production. A **custom domain** remains a later toggle (`enable_custom_domain`) once a domain is on a Cloudflare zone.
+
+Azure Blob remains a viable credit-funded *compute/storage* option for experiments, but this repository’s versioned delivery IaC targets R2 so public egress stays free and the stack is not coupled to Visual Studio credit terms. Do not provision parallel clouds “just in case.” Keep asset IDs and manifests provider-independent so a future migration is an origin/base-URL change, not a chapter rewrite.
+
+**Easy switch-over (option reserved, not coded):** treat `infra/cloudflare/` as replaceable. A later `infra/<provider>/` module would provision a new bucket/container; object keys and Git manifests stay. Clients only change the public media base URL / health URL after a one-time object copy. Publish tooling stays S3-shaped where the target supports it; otherwise add a small alternate uploader later — no multi-cloud abstraction layer until a real second provider is chosen.
 
 | Provider | Official-source finding | Implication for Akshar |
 |---|---|---|
-| Azure Blob Storage | Pricing depends on region, redundancy, storage tier, operations, and transfers. Microsoft's $150 Visual Studio Enterprise credit offer explicitly permits individual dev/test, not production. | Provisional first choice for eligible development because of the reported credits; verify the actual offer before serving a school production workload. Start pricing with Standard StorageV2, Hot, LRS, not a costly CDN/gateway by default. |
-| AWS S3 | New-customer credits introduced July 15, 2025 are not available to existing customers; AWS says existing benefits remain under their original rules. | An unused account is not automatically eligible for a new free period. Check Billing/Free Tier before assuming free S3; estimate storage, requests, and delivery. |
-| Cloudflare R2 Standard | Current free allowance: 10 GB-month storage, 1 million Class A and 10 million Class B operations/month; internet egress is free. | Strong public-delivery alternative if Azure credits cannot cover the intended use. Do not assume unlimited free operations or apply Standard free allowances to Infrequent Access. |
-| Google Cloud Storage | Free storage allowance is 5 GB-month with regional restrictions to US-WEST1, US-CENTRAL1, and US-EAST1, plus stated operation/transfer limits. | Not a generic free India-region bucket; compare latency and full costs, not only free storage. |
-| Backblaze B2 | Current page lists the first 10 GB free, pricing starting at $6.95/TB/month, and free egress up to 3× average stored data, with further partner/overage rules. | Worth comparing for storage-heavy collections; a small repeatedly streamed audio corpus needs an egress/CDN calculation. |
+| Cloudflare R2 Standard | Free: 10 GB-month, 1M Class A, 10M Class B ops/month; **internet egress free**. Paid overage: storage $0.015/GB-month, Class A $4.50/M, Class B $0.36/M ([R2 pricing](https://developers.cloudflare.com/r2/pricing/)). | **Selected for Git-versioned free-tier pilot.** |
+| Azure Blob Storage | Credits may be limited to Visual Studio Enterprise **dev/test**, not production. | Optional for eligible private experiments; not the committed delivery IaC. |
+| AWS S3 | Existing accounts are not automatically on a new free period. | Viable later; idle account alone is not a cost advantage. |
+| Google Cloud Storage / Backblaze B2 | Free tiers exist with regional or egress caveats. | Not selected for the first IaC stack. |
 
-**Decision gate:** verify whether the Azure credits are Visual Studio dev/test credits, sponsorship, or another offer, and whether the school demonstration is within that offer's permitted use. Recommend Azure for an eligible development pilot; do not commit a production Azure deployment purely because credits are present. If those credits cannot cover production, compare R2 against Azure pay-as-you-go using real corpus bytes and plays. AWS is viable, but the idle account alone is not a cost advantage.
+### Custom domain: do you need to buy one? What does it cost?
 
-Calculate storage, new/changed uploads, health checks, manifest requests, clip downloads, repeat plays served from local storage, and outbound bytes separately. Set billing alerts; alerts are not hard spending caps. Monthly credits do not remove the need for export/backups or a post-credit operating budget. Fetch region-specific prices again immediately before provisioning.
+| Item | Charge |
+|---|---|
+| Cloudflare Free DNS zone | $0 |
+| R2 custom-domain binding | $0 |
+| Domain registration | **Yes, you must own a domain** — typically **~$10–15/year** (Cloudflare Registrar or another registrar), then point nameservers at Cloudflare |
+| Workers Paid ($5/month) | **Not required** for public R2 via `r2.dev` or a custom domain |
+| `r2.dev` public URL | $0, rate-limited, development only |
 
-### Official sources checked
+Until a domain exists, stay on `r2.dev`. When ready: set `enable_custom_domain = true`, fill `custom_domain` + `cloudflare_zone_id`, optionally set `enable_r2_dev = false`, then `tofu apply`.
 
-- [Azure monthly credit offer and production restriction](https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/)
-- [Azure Blob Storage pricing](https://azure.microsoft.com/en-us/pricing/details/storage/blobs/)
-- [AWS S3 pricing](https://aws.amazon.com/s3/pricing/) and [AWS Free Tier FAQ, including existing customers](https://aws.amazon.com/free/free-tier-faqs/)
-- [Cloudflare R2 pricing](https://developers.cloudflare.com/r2/pricing/)
-- [Google Cloud Storage pricing and Always Free limits](https://cloud.google.com/storage/pricing)
-- [Backblaze B2 pricing](https://www.backblaze.com/cloud-storage/pricing)
+### Rough cost analysis (corpus snapshot September 19, 2026)
 
-## Infrastructure-as-code plan, not a deployment
+Measured in-repo speakable segments (prose/dialogue/poem_line/question/vocab/note/competency/fill_blank with non-empty text): **~3,284 clips**, **~158k characters**, rough one-voice audio estimate **~11 MB** (2 KB floor + ~50 B/char — order-of-magnitude only).
 
-If Azure is selected, prefer [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview) for the small Azure-only pilot. Proposed files are `infra/azure/main.bicep`, separate dev/prod non-secret parameter files, and a deployment README with `what-if`, deployment, verification, rollback, export, and teardown steps. Do not create parallel infrastructure in several clouds merely to keep options open. If multi-cloud operation becomes a real requirement, evaluate Terraform/OpenTofu then; provider-independent asset IDs and exportable objects matter more now than one universal IaC file.
+| Scenario | Storage | Class B reads (GET/HEAD) | Monthly R2 $ (Standard) |
+|---|---|---|---|
+| One Kannada voice, current corpus | ~0.01–0.05 GB | — | **$0** (inside free 10 GB) |
+| Five voices × current corpus | ~0.05–0.25 GB | — | **$0** |
+| School demo: 50 students × 200 clip plays/month (cold; no client cache) | negligible | ~10k Class B | **$0** (≪ 10M free) |
+| Growth: 5k students × 500 cold plays | still ≪ 10 GB | ~2.5M Class B | **$0** ops; still free egress |
+| Pathological: >10 GB stored | overage × $0.015/GB | — | e.g. 20 GB → ~$0.15 storage |
+| Pathological: >10M Class B | — | overage × $0.36/M | e.g. +5M → ~$1.80 |
 
-The implementation must cover:
+**Generation cost is separate** (Bhashini / other TTS APIs or self-hosted GPU) and is not included above. Client-side caching and offline chapter packs cut Class B operations dramatically; budget cold misses, health checks, and uploads (Class A) separately. Set Cloudflare billing alerts even on free tier. Re-fetch [R2 pricing](https://developers.cloudflare.com/r2/pricing/) before production cutover.
 
-- Separate environment/resource group and predictable account naming; explicit region, Hot tier, redundancy, and budget inputs.
-- HTTPS-only delivery, modern TLS, no public writes, no account keys in mobile/Git, and scoped workload-identity/OIDC uploader access instead of durable upload secrets.
-- Private originals/staging; a separate approved-derivative delivery container. If anonymous reads are permitted, expose known objects only, not container listing. If subscription policy disallows public blobs, design a suitable delivery layer rather than silently weakening account policy.
-- Correct MIME types, immutable cache headers for hashed audio, CORS for supported browser origins, soft-delete/version-retention policy, export/recovery procedures, and lifecycle rules that do not delete supported editions.
-- A tiny public `health.json` on the same delivery origin/access path as the audio, published with the deployment. Do not probe the provider's marketing homepage or a private container-list endpoint.
-- Verification of public GET/HEAD and failed unauthenticated writes; publish approved objects before their manifests. A custom domain/CDN is optional and should be priced separately.
+## Infrastructure-as-code (implemented)
 
-No IaC deployment is authorized by a documentation recommendation. Subscription/offer, environment, region, access model, expected traffic, and spending approval remain inputs to provisioning.
+OpenTofu/Terraform under [`infra/cloudflare/`](../infra/cloudflare/):
+
+- `cloudflare_r2_bucket` (Standard, `apac` hint, `prevent_destroy`)
+- Lifecycle: abort incomplete multipart uploads only (no auto-delete of published audio)
+- CORS: GET/HEAD for configured localhost browser origins
+- `cloudflare_r2_managed_domain` when `enable_r2_dev` (default true)
+- Optional `cloudflare_r2_custom_domain` when toggled
+- Canonical [`infra/cloudflare/assets/health.json`](../infra/cloudflare/assets/health.json)
+- Publish: [`scripts/media_publish.py`](../scripts/media_publish.py) (S3 API; credentials via env only)
+- Manifest validation: [`scripts/validate_media_manifests.py`](../scripts/validate_media_manifests.py) (wired into `scripts/check.py`)
+
+**Public GitHub constraints:** never commit API tokens, R2 access keys, `terraform.tfvars`, or `*.tfstate`. Upload tokens are created in the Cloudflare dashboard (not by OpenTofu) so secrets do not land in state by default. Apply steps are documented in the infra README; applying is a maintainer action with spending approval, not authorized merely by this document.
 
 ## Mobile startup and offline behavior
 
-The implementation reads the optional public `EXPO_PUBLIC_MEDIA_HEALTH_URL`. Copy `apps/mobile/.env.example` to a local environment file and set it only after a real delivery endpoint exists. Leave it empty while audio is unprovisioned; do not insert a sample host that would make real network requests. Environment values prefixed `EXPO_PUBLIC_` are bundled client configuration, never a place for storage credentials or signed upload tokens.
+The implementation reads the optional public `EXPO_PUBLIC_MEDIA_HEALTH_URL` and `EXPO_PUBLIC_MEDIA_BASE_URL`. Copy `apps/mobile/.env.example` to a local environment file and set them after the R2 public origin exists. Leave them empty while audio is unprovisioned. Environment values prefixed `EXPO_PUBLIC_` are bundled client configuration, never a place for storage credentials or signed upload tokens.
 
 The health object must return HTTP success, JSON content type, and this small body:
 
@@ -70,8 +87,13 @@ The health object must return HTTP success, JSON content type, and this small bo
 {"service":"akshar-media","schemaVersion":1}
 ```
 
-At boot, the app probes it alongside existing splash initialization, with a three-second bound covering fetch and body parsing. Failure must not block text reading or make an offline startup unrecoverable. The app rechecks when returning to the foreground; simultaneous probes share one request. With no configured endpoint it performs no media request and reports `not-configured` rather than pretending the origin is online. This bound applies to the media check, not all pre-existing catalog startup work.
+At boot, the app probes health alongside existing splash initialization, with a three-second bound covering fetch and body parsing. Failure must not block text reading or make an offline startup unrecoverable. The app rechecks when returning to the foreground; simultaneous probes share one request. With no configured endpoint it performs no media request and reports `not-configured` rather than pretending the origin is online. This bound applies to the media check, not all pre-existing catalog startup work.
 
-**Per-segment speaker rule for the future player:** enable only when a playable, revision-matched local audio file exists, or when the segment has a known remote asset and the delivery origin is currently reachable. Local playback must remain enabled when the network fails. A successful health check does not prove that every audio object exists; missing/forbidden/corrupt objects need per-asset error handling and retry. Recheck after foreground/retry and network recovery rather than treating boot status as permanent. Unknown words/sentences or missing audio metadata must not get enabled controls merely because storage is reachable.
+### Offline audio on chapter download (sample-backed, landed)
 
-The current speaker icons remain dimmed/non-interactive because no audio manifest, local audio cache, or player exists yet. The health probe is infrastructure readiness only, not completed pronunciation support. Implement verified local audio cache and playback together before wiring this state to enabled sentence controls; add airplane-mode/cache-hit, missing-file, timeout, malformed-health, corrupt-audio, and recovery acceptance tests.
+1. **Download chapter JSON** under `chapters-v2/…` as before.
+2. **Prefetch audio** (best-effort, after JSON write): fetch `{CONTENT_BASE_URL}/content/media/manifests/<bookId>/<editionId>/<chapterId>.json`, then for each unique `assetId` ensure `audio-v1/<assetId>.m4a` via `MEDIA_BASE_URL/<objectKey>` (or seed the shared sample from the bundled beep if remote fails). Explore “download all” already calls per-chapter download, so it picks up audio too.
+3. **Playback:** local cache → remote URL (then cache) → bundled sample. Shared `audio-v1` clips are **not** deleted when one chapter is removed; clear only on full local data reset.
+4. **Speaker enable (sample mode):** speakable type + non-empty translation + `MEDIA_SAMPLE_MODE`. Production should later require a revision-matched manifest entry (and preferably a local file or reachable origin) instead of sample mode.
+
+A successful health check does not prove that every audio object exists; missing/forbidden/corrupt objects need per-asset error handling. Airplane-mode/cache-hit and recovery acceptance tests remain recommended follow-ups.

@@ -14,13 +14,27 @@ import { loadSavedScope, saveScope } from '@/services/scope-storage';
  * new scope from a separate screen instance, and Settings stays mounted
  * underneath it in the navigation stack (same reasoning as
  * hooks/use-reading-history.ts).
+ *
+ * `loaded` is false until the first AsyncStorage read finishes — Settings →
+ * scope-setup must wait on it so the flow is not mounted with deriveScope
+ * (catalog[0], often English/Grade5) and then left stale when the real saved
+ * scope arrives.
  */
 export function useScope(catalog: Catalog) {
   const [saved, setSaved] = useState<Scope | null>(null);
+  const [loaded, setLoaded] = useState(false);
 
   useFocusEffect(
     useCallback(() => {
-      loadSavedScope().then(setSaved);
+      let cancelled = false;
+      loadSavedScope().then((next) => {
+        if (cancelled) return;
+        setSaved(next);
+        setLoaded(true);
+      });
+      return () => {
+        cancelled = true;
+      };
     }, []),
   );
 
@@ -29,5 +43,5 @@ export function useScope(catalog: Catalog) {
     saveScope(next);
   }, []);
 
-  return { scope: saved ?? deriveScope(catalog), isSaved: saved !== null, setScope };
+  return { scope: saved ?? deriveScope(catalog), isSaved: saved !== null, loaded, setScope };
 }

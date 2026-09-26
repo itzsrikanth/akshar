@@ -1,6 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { reloadAppAsync } from 'expo';
 
+import { clearAudioCache } from './audio-cache';
 import { clearDownloadedChapters } from './downloads';
 import { invalidateContentCache } from './index';
 import { clearDownloadedLexicons } from './lexicon';
@@ -15,6 +16,7 @@ async function performReset(): Promise<void> {
     clearDownloadedChapters();
     clearDownloadedV2Chapters();
     clearDownloadedLexicons();
+    clearAudioCache();
     await AsyncStorage.clear();
     invalidateContentCache();
     invalidateV2ContentCache();

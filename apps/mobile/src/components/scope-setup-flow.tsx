@@ -21,7 +21,8 @@ type Step = 'scope' | 'board' | 'state' | 'medium' | 'grade' | 'translation' | '
  *
  * Levels with exactly one catalog option are auto-selected (e.g. only KSEEB).
  * Levels with multiple options stay empty until the user picks, unless this
- * is an edit session with an initialScope / initialPreference.
+ * is an edit session — then the saved initialScope / initialPreference values
+ * are kept (never the first catalog option, which caused Grade 1 vs Grade 5 mismatches).
  */
 export function ScopeSetupFlow({
   catalog,
@@ -38,10 +39,8 @@ export function ScopeSetupFlow({
 }) {
   const [step, setStep] = useState<Step>('scope');
 
-  // Only an *editing* session (Settings → scope-setup, initialScope/
-  // initialPreference passed in) falls back to "first option" when a level
-  // has multiple choices and nothing is set yet. A single-option level is
-  // always auto-selected (see board/state/medium/grade below).
+  // Edit session (Settings → scope-setup) preserves initialScope / initialPreference.
+  // A single-option level is always auto-selected (see board/state/medium/grade below).
   const hasInitialScope = initialScope != null;
   const hasInitialPreference = initialPreference != null;
 
@@ -59,10 +58,12 @@ export function ScopeSetupFlow({
 
   // Auto-select whenever a level has exactly one option (e.g. only KSEEB).
   // Fresh onboarding still requires an explicit tap when multiple choices exist.
+  // Edit sessions keep the saved initial* value — never options[0], which used
+  // to mark Grade 1 checked while the summary still reflected Grade 5.
   const boardOptions = useMemo(() => optionsAtLevel(catalog.chapters, [], 0) as string[], [catalog]);
   const board =
     obBoard ??
-    (boardOptions.length === 1 ? boardOptions[0]! : hasInitialScope ? (boardOptions[0] ?? null) : null);
+    (boardOptions.length === 1 ? boardOptions[0]! : hasInitialScope ? (initialScope?.board ?? null) : null);
 
   const stateOptions = useMemo(
     () => (board ? (optionsAtLevel(catalog.chapters, [board], 1) as string[]) : []),
@@ -70,7 +71,7 @@ export function ScopeSetupFlow({
   );
   const state =
     obState ??
-    (stateOptions.length === 1 ? stateOptions[0]! : hasInitialScope ? (stateOptions[0] ?? null) : null);
+    (stateOptions.length === 1 ? stateOptions[0]! : hasInitialScope ? (initialScope?.state ?? null) : null);
 
   const mediumOptions = useMemo(
     () => (board && state ? (optionsAtLevel(catalog.chapters, [board, state], 2) as string[]) : []),
@@ -78,7 +79,7 @@ export function ScopeSetupFlow({
   );
   const medium =
     obMedium ??
-    (mediumOptions.length === 1 ? mediumOptions[0]! : hasInitialScope ? (mediumOptions[0] ?? null) : null);
+    (mediumOptions.length === 1 ? mediumOptions[0]! : hasInitialScope ? (initialScope?.medium ?? null) : null);
 
   const gradeOptions = useMemo(
     () => (board && state && medium ? (optionsAtLevel(catalog.chapters, [board, state, medium], 3) as number[]) : []),
@@ -86,7 +87,7 @@ export function ScopeSetupFlow({
   );
   const grade =
     obGrade ??
-    (gradeOptions.length === 1 ? gradeOptions[0]! : hasInitialScope ? (gradeOptions[0] ?? null) : null);
+    (gradeOptions.length === 1 ? gradeOptions[0]! : hasInitialScope ? (initialScope?.grade ?? null) : null);
 
   // Translation (meaning) and transliteration (pronunciation) are separate
   // axes — same split Settings already has, not one combined "reading
@@ -104,7 +105,7 @@ export function ScopeSetupFlow({
     (translationOptions.length === 1
       ? translationOptions[0]!
       : hasInitialPreference
-        ? (translationOptions[0] ?? null)
+        ? (initialPreference?.translationLanguage ?? null)
         : null);
   const transliterationOptions = useMemo(() => availableScripts(scopedChapters), [scopedChapters]);
   const transliteration =
@@ -112,7 +113,7 @@ export function ScopeSetupFlow({
     (transliterationOptions.length === 1
       ? transliterationOptions[0]!
       : hasInitialPreference
-        ? (transliterationOptions[0] ?? null)
+        ? (initialPreference?.transliterationScript ?? null)
         : null);
 
   // Any change to board/state/medium/grade clears everything downstream —
@@ -202,10 +203,17 @@ export function ScopeSetupFlow({
       )}
       {step === 'medium' && (
         <ListPickerStep
-          title="Select medium"
+          title="School medium"
+          subtitle="Language the school teaches in — not the translation language. English-medium grades list the matching Kannada first-language book (Grade 3 → Kannada book Grade 1, and so on)."
           options={mediumOptions}
           selected={medium}
           labelFor={(v) => `${v} medium`}
+          detailFor={(v) => {
+            const grades = optionsAtLevel(catalog.chapters, [board!, state!, v], 3) as number[];
+            if (grades.length === 0) return undefined;
+            if (grades.length === 1) return `Grade ${grades[0]} only`;
+            return `Grades ${Math.min(...grades)}–${Math.max(...grades)}`;
+          }}
           onSelect={(v) => {
             setObMedium(v);
             clearDownstreamOfMedium();
@@ -217,9 +225,19 @@ export function ScopeSetupFlow({
       {step === 'grade' && (
         <ListPickerStep
           title="Select grade"
+          subtitle={
+            medium === 'English'
+              ? 'English-medium grade N opens the Kannada first-language book for grade N−2.'
+              : undefined
+          }
           options={gradeOptions}
           selected={grade}
           labelFor={(g) => `Grade ${g}`}
+          detailFor={
+            medium === 'English'
+              ? (g) => `Same book as Kannada medium Grade ${Number(g) - 2}`
+              : undefined
+          }
           onSelect={(g) => {
             setObGrade(g);
             clearDownstreamOfGrade();
@@ -349,7 +367,13 @@ function ScopeStep({
         <View style={[styles.card, { borderColor: theme.border }]}>
           <ScopeRow label="Board" value={board} onPress={onPickBoard} />
           <ScopeRow label="State" value={state} onPress={onPickState} enabled={board !== null} />
-          <ScopeRow label="Medium" value={medium ? `${medium} medium` : null} onPress={onPickMedium} enabled={state !== null} isLast />
+          <ScopeRow
+            label="School medium"
+            value={medium ? `${medium} medium` : null}
+            onPress={onPickMedium}
+            enabled={state !== null}
+            isLast
+          />
         </View>
 
         <ThemedText type="small" themeColor="textSecondary" style={styles.sectionLabel}>
@@ -406,16 +430,20 @@ function PickerHeader({ title, onBack }: { title: string; onBack: () => void }) 
 /** Shared flat-list-with-checkmark picker — used for every step (board/state/medium/grade/translation/transliteration). */
 function ListPickerStep<T extends string | number>({
   title,
+  subtitle,
   options,
   selected,
   labelFor,
+  detailFor,
   onSelect,
   onBack,
 }: {
   title: string;
+  subtitle?: string;
   options: T[];
   selected: T | null;
   labelFor: (value: T) => string;
+  detailFor?: (value: T) => string | undefined;
   onSelect: (value: T) => void;
   onBack: () => void;
 }) {
@@ -423,17 +451,32 @@ function ListPickerStep<T extends string | number>({
   return (
     <View style={styles.fill}>
       <PickerHeader title={title} onBack={onBack} />
+      {subtitle ? (
+        <ThemedText type="small" themeColor="textSecondary" style={styles.pickerSubtitle}>
+          {subtitle}
+        </ThemedText>
+      ) : null}
       <View style={styles.pickerList}>
-        {options.map((opt, i) => (
-          <Touchable
-            key={String(opt)}
-            onPress={() => onSelect(opt)}
-            style={[styles.pickerRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
-          >
-            <ThemedText type="default">{labelFor(opt)}</ThemedText>
-            {opt === selected && <MaterialCommunityIcons name="check" size={20} color={theme.tint} />}
-          </Touchable>
-        ))}
+        {options.map((opt, i) => {
+          const detail = detailFor?.(opt);
+          return (
+            <Touchable
+              key={String(opt)}
+              onPress={() => onSelect(opt)}
+              style={[styles.pickerRow, i < options.length - 1 && { borderBottomWidth: 1, borderBottomColor: theme.border }]}
+            >
+              <View style={styles.pickerLabelBlock}>
+                <ThemedText type="default">{labelFor(opt)}</ThemedText>
+                {detail ? (
+                  <ThemedText type="small" themeColor="textSecondary" style={styles.pickerDetail}>
+                    {detail}
+                  </ThemedText>
+                ) : null}
+              </View>
+              {opt === selected && <MaterialCommunityIcons name="check" size={20} color={theme.tint} />}
+            </Touchable>
+          );
+        })}
       </View>
     </View>
   );
@@ -456,6 +499,9 @@ const styles = StyleSheet.create({
   primaryButtonText: { fontWeight: '600', fontSize: 16 },
 
   pickerHeader: { flexDirection: 'row', alignItems: 'center', gap: Spacing.three, padding: Spacing.three },
+  pickerSubtitle: { paddingHorizontal: Spacing.three, marginBottom: Spacing.three, lineHeight: 19 },
   pickerList: { flex: 1, paddingHorizontal: Spacing.three },
   pickerRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingVertical: Spacing.three },
+  pickerLabelBlock: { flex: 1, paddingRight: Spacing.two },
+  pickerDetail: { marginTop: 2 },
 });

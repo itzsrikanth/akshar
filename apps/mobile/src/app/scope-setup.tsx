@@ -1,5 +1,5 @@
 import { router } from 'expo-router';
-import { StyleSheet, View } from 'react-native';
+import { ActivityIndicator, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AsyncStateView } from '@/components/async-state-view';
@@ -11,6 +11,7 @@ import { Spacing } from '@/constants/theme';
 import { useCatalog } from '@/hooks/use-catalog';
 import { useReadingPreference } from '@/hooks/use-reading-preference';
 import { useScope } from '@/hooks/use-scope';
+import { useTheme } from '@/hooks/use-theme';
 import type { Catalog } from '@/services/content-repository';
 import { saveReadingPreference } from '@/services/reading-preference-storage';
 import { saveScope } from '@/services/scope-storage';
@@ -52,8 +53,17 @@ function TopBar() {
 }
 
 function ScopeSetupContent({ catalog }: { catalog: Catalog }) {
-  const { scope } = useScope(catalog);
+  const theme = useTheme();
+  const { scope, loaded } = useScope(catalog);
   const { preference } = useReadingPreference(catalog);
+
+  if (!loaded || !scope) {
+    return (
+      <View style={styles.loading}>
+        <ActivityIndicator color={theme.tint} />
+      </View>
+    );
+  }
 
   return (
     <>
@@ -63,6 +73,7 @@ function ScopeSetupContent({ catalog }: { catalog: Catalog }) {
         </ThemedText>
       </Touchable>
       <ScopeSetupFlow
+        key={`${scope.board}|${scope.state}|${scope.medium}|${scope.grade}`}
         catalog={catalog}
         initialScope={scope}
         initialPreference={preference}
@@ -82,4 +93,5 @@ const styles = StyleSheet.create({
   safeArea: { flex: 1 },
   topBar: { padding: Spacing.three },
   backRow: { padding: Spacing.three },
+  loading: { flex: 1, alignItems: 'center', justifyContent: 'center' },
 });

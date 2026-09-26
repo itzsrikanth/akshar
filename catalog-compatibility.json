@@ -1,6 +1,18 @@
 {
   "canonicalScope": { "board": "KSEEB", "state": "Karnataka", "medium": "Kannada", "grade": 3, "subject": "Kannada" },
   "legacyScope": { "board": "KSEEB", "state": "Karnataka", "medium": "English", "grade": 5, "subject": "Kannada" },
+  "discoveryAdoptions": [
+    {
+      "board": "KSEEB",
+      "state": "Karnataka",
+      "sourceMedium": "Kannada",
+      "sourceSubject": "Kannada",
+      "learnerMedium": "English",
+      "learnerSubject": "Kannada",
+      "gradeOffset": 2,
+      "note": "Kannada FL grade N is also listed under English-medium learner grade N+2 (G1→G3, G2→G4, …). Discovery only — chapter fetch paths stay canonical Kannada."
+    }
+  ],
   "chapters": [
     { "slug": "ch01-bannada-tagadina", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch01-bannada-tagadina.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json", "clientPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch01-bannada-tagadina.json" },
     { "slug": "ch02-nanna-kanasu", "canonicalPath": "KSEEB/Karnataka/Kannada/Grade3/Kannada/ch02-nanna-kanasu.json", "legacyPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json", "clientPath": "KSEEB/Karnataka/English/Grade5/Kannada/ch02-nanna-kanasu.json" },

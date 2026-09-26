@@ -1,0 +1,26 @@
+# Local OpenTofu / Terraform state and provider plugins — never commit.
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Real variable values and credentials — only *.tfvars.example is committed.
+*.tfvars
+!*.tfvars.example
+*.auto.tfvars
+*.auto.tfvars.json
+.env
+.env.*
+!.env.example
+
+# Plan artifacts
+*.tfplan
+tfplan
+plan.out
+
+# Keep .terraform.lock.hcl committed for reproducible provider versions.

@@ -19,6 +19,7 @@ import {
   memoryRead,
   memoryWrite,
 } from '../chapter-fs';
+import { prefetchChapterAudioInBackground } from '../audio-cache';
 import { downloadLexiconInBackground } from '../lexicon';
 import {
   type ChapterIdentity,
@@ -183,6 +184,8 @@ export function downloadV2Chapter(identity: ChapterIdentity, chapter: V2Chapter,
     memoryWrite(memoryPath(identity), raw);
   }
   downloadLexiconInBackground('kn');
+  // Best-effort: shared audio-v1 cache; failures must not undo the JSON download.
+  prefetchChapterAudioInBackground(identity);
   invalidate();
 }
 

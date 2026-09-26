@@ -26,7 +26,14 @@ export function optionsAtLevel(chapters: CatalogChapter[], selected: LevelValue[
   const key = LEVEL_KEYS[levelIndex];
   const scopes = chapters.flatMap(discoveryScopesFor).filter((scope) =>
     LEVEL_KEYS.every((level, index) => index >= selected.length || scope[level] === selected[index]));
-  return Array.from(new Set(scopes.map((scope) => scope[key])));
+  const values = Array.from(new Set(scopes.map((scope) => scope[key])));
+  // Set insertion order follows chapter walk order — not grade order. Sort so
+  // pickers don't show Grade 1 above a checked Grade 5 (or English G3's
+  // "Kannada book · Grade 1" detail above the saved Grade 5 row).
+  return values.sort((a, b) => {
+    if (typeof a === 'number' && typeof b === 'number') return a - b;
+    return String(a).localeCompare(String(b));
+  });
 }
 
 // Auto-fills board/state/medium/grade (curriculum identity — usually one

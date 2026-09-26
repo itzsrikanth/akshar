@@ -1,6 +1,6 @@
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import { Redirect, router } from 'expo-router';
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { ActivityIndicator, Alert, ScrollView, StyleSheet, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -12,6 +12,11 @@ import { useDevSettings } from '@/hooks/use-dev-settings';
 import { useTheme } from '@/hooks/use-theme';
 import { CONTENT_SOURCES, type ContentSourceId } from '@/services/config';
 import { resetLocalDataAndRestart } from '@/services/reset-local-data';
+import {
+  getSuggestFixMetrics,
+  suggestFixCompletionRate,
+  type SuggestFixMetrics,
+} from '@/services/suggest-fix-metrics';
 
 const SOURCE_LABELS: Record<ContentSourceId, string> = {
   local: 'Local content server',
@@ -33,7 +38,12 @@ function DevSettingsContent() {
   const [changingSource, setChangingSource] = useState(false);
   const [resetting, setResetting] = useState(false);
   const [resetStarted, setResetStarted] = useState(false);
+  const [suggestMetrics, setSuggestMetrics] = useState<SuggestFixMetrics | null>(null);
   const actionPending = useRef(false);
+
+  useEffect(() => {
+    void getSuggestFixMetrics().then(setSuggestMetrics);
+  }, []);
 
   const changeSource = async (source: ContentSourceId) => {
     if (actionPending.current || resetStarted) return;
@@ -76,6 +86,9 @@ function DevSettingsContent() {
       { cancelable: false },
     );
   };
+
+  const completionPct =
+    suggestMetrics != null ? Math.round(suggestFixCompletionRate(suggestMetrics) * 100) : null;
 
   return (
     <ThemedView style={styles.container}>
@@ -120,6 +133,37 @@ function DevSettingsContent() {
           </View>
           <ThemedText type="small" themeColor="textDisabled" style={styles.hint}>
             Takes effect immediately — forces a catalog refetch from the new source everywhere in the app.
+          </ThemedText>
+
+          <ThemedText type="small" themeColor="textSecondary" style={[styles.sectionLabel, styles.resetSection]}>
+            SUGGEST-A-FIX (THIS DEVICE)
+          </ThemedText>
+          <View style={[styles.card, { borderColor: theme.border, padding: Spacing.three }]}>
+            {suggestMetrics == null ? (
+              <ThemedText type="small" themeColor="textDisabled">
+                Loading…
+              </ThemedText>
+            ) : (
+              <>
+                <ThemedText type="small">
+                  {`Sheets opened: ${suggestMetrics.sheetOpened} · GitHub opens: ${
+                    suggestMetrics.githubOpened.translation +
+                    suggestMetrics.githubOpened.source +
+                    suggestMetrics.githubOpened.gloss +
+                    suggestMetrics.githubOpened.other
+                  } · Cancelled: ${suggestMetrics.cancelled}`}
+                </ThemedText>
+                <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+                  {`Completion (GitHub / sheet): ${completionPct}%`}
+                </ThemedText>
+                <ThemedText type="small" themeColor="textSecondary" style={styles.mt2}>
+                  {`Layers chosen — translation ${suggestMetrics.layerChosen.translation}, gloss ${suggestMetrics.layerChosen.gloss}, source ${suggestMetrics.layerChosen.source}, other ${suggestMetrics.layerChosen.other}`}
+                </ThemedText>
+              </>
+            )}
+          </View>
+          <ThemedText type="small" themeColor="textDisabled" style={styles.hint}>
+            Local-only Stage 1 counters for deciding whether an in-app suggestion queue (Stage 2) is worth building. Cleared with reset local data.
           </ThemedText>
 
           <ThemedText type="small" themeColor="textSecondary" style={[styles.sectionLabel, styles.resetSection]}>

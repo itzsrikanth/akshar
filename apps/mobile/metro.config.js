@@ -1,6 +1,19 @@
 const { getDefaultConfig } = require('expo/metro-config');
+const path = require('path');
 
-const config = getDefaultConfig(__dirname);
+const projectRoot = __dirname;
+const workspaceRoot = path.resolve(projectRoot, '../..');
+
+const config = getDefaultConfig(projectRoot);
+
+// Repo-root files (e.g. catalog-compatibility.json) are imported by the app.
+// Without watchFolders, Metro caches them once and ignores later edits — which
+// made discoveryAdoptions look "missing" after only restarting the content server.
+config.watchFolders = [workspaceRoot];
+config.resolver.nodeModulesPaths = [
+  path.resolve(projectRoot, 'node_modules'),
+  path.resolve(workspaceRoot, 'node_modules'),
+];
 
 // @sentry/browser-utils (pulled in transitively by @sentry/react-native's @sentry/browser,
 // itself only relevant to web builds) ships a package.json "exports" map with no wildcard

@@ -1,0 +1,27 @@
+# Copy to terraform.tfvars (gitignored) and fill real values.
+#   cp terraform.tfvars.example terraform.tfvars
+#
+# Replace the value below with your real 32-char hex account ID from the
+# Cloudflare dashboard. Leaving a placeholder fails validation before apply.
+# Exporting CLOUDFLARE_API_TOKEN authenticates; it does not set this field.
+
+cloudflare_account_id = "replace-with-your-32-char-hex-id"
+environment           = "dev"
+project_name          = "akshar"
+bucket_location       = "apac"
+
+# Free-tier pilot: managed r2.dev URL (rate-limited; not production).
+enable_r2_dev = true
+
+# Later: buy/add a domain to Cloudflare DNS, then flip these.
+enable_custom_domain = false
+custom_domain        = "" # e.g. media.example.com
+cloudflare_zone_id   = ""
+custom_domain_min_tls = "1.2"
+
+cors_allowed_origins = [
+  "http://localhost:8081",
+  "http://localhost:19006",
+  "http://127.0.0.1:8081",
+  "http://127.0.0.1:19006",
+]

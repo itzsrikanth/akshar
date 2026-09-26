@@ -1,9 +1,11 @@
 import { createAudioPlayer, setAudioModeAsync, type AudioPlayer } from 'expo-audio';
 import type { EventSubscription } from 'expo-modules-core';
 
+import { resolveSegmentAudioUri } from './audio-cache';
 import { MEDIA_SAMPLE_MODE } from './config';
+import type { ChapterIdentity } from './v2/identity';
 
-/** Bundled placeholder clip (24 kHz AAC). Replace with per-segment R2 assets later. */
+/** Bundled placeholder clip (24 kHz AAC). Last resort when cache/remote unavailable. */
 // eslint-disable-next-line @typescript-eslint/no-require-imports
 const SAMPLE_ASSET = require('../../assets/audio/pronunciation-demo.m4a');
 
@@ -42,9 +44,8 @@ export function isSpeakableSegmentType(type: string | undefined): boolean {
 }
 
 /**
- * Sample mode: speakable segments with a non-empty translation may play the
- * bundled demo clip. Missing translation keeps the speaker disabled.
- * Production will require a revision-matched per-segment asset instead.
+ * Sample mode: speakable segments with a non-empty translation may play audio
+ * (local cache → remote → bundled). Missing translation keeps the speaker disabled.
  */
 export function canPlayPronunciation(
   segmentType: string | undefined,
@@ -87,9 +88,12 @@ function clearStatusSubscription(): void {
 /**
  * Play pronunciation for a segment. If another clip is already playing, it is
  * stopped immediately and this one starts (after seek-to-start completes).
- * Sample mode uses one shared bundled clip for every segment.
+ * Prefers local audio-v1 cache, then remote MEDIA_BASE_URL, then bundled sample.
  */
-export async function playPronunciation(segmentId: string): Promise<void> {
+export async function playPronunciation(
+  segmentId: string,
+  identity?: ChapterIdentity | null,
+): Promise<void> {
   await ensureAudioMode();
   const audio = getPlayer();
   const generation = ++playGeneration;
@@ -104,6 +108,24 @@ export async function playPronunciation(segmentId: string): Promise<void> {
   playingSegmentId = segmentId;
   publish();
 
+  let source: string | number = SAMPLE_ASSET;
+  if (identity) {
+    try {
+      const uri = await resolveSegmentAudioUri(identity, segmentId);
+      if (generation !== playGeneration) return;
+      if (uri) source = uri;
+    } catch {
+      // keep bundled fallback
+    }
+  }
+
+  try {
+    audio.replace(source);
+  } catch {
+    // ignore; fall through to seek/play on current source
+  }
+  if (generation !== playGeneration) return;
+
   // seekTo is async — not awaiting it was the main cause of intermittent silence
   // (play() raced ahead and often started at EOF after a prior finish).
   try {
@@ -114,7 +136,7 @@ export async function playPronunciation(segmentId: string): Promise<void> {
   if (generation !== playGeneration) return;
 
   if (audio.currentTime > 0.05) {
-    audio.replace(SAMPLE_ASSET);
+    audio.replace(source);
     try {
       await audio.seekTo(0);
     } catch {

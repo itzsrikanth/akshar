@@ -24,11 +24,14 @@ import { useTheme } from '@/hooks/use-theme';
 import { useV2Chapter } from '@/hooks/use-v2-chapter';
 import { useV2Downloads } from '@/hooks/use-v2-downloads';
 import type { Catalog, Chapter, ChapterSegment } from '@/services/content-repository';
+import { getDownloadedChapterHash } from '@/services/downloads';
 import type { ChapterVocabPair } from '@/services/lexicon';
 import { recordChapterOpened } from '@/services/reading-history';
 import {
   type ChapterIdentity,
   type V2Chapter,
+  getDownloadedV2ChapterHash,
+  getV2CatalogSnapshot,
   recordV2ChapterOpened,
 } from '@/services/v2';
 
@@ -161,7 +164,17 @@ function TermPair({
 }
 
 export default function ReaderScreen() {
-  const params = useLocalSearchParams<{ path?: string; bookId?: string; editionId?: string; chapterId?: string }>();
+  const params = useLocalSearchParams<{
+    path?: string;
+    bookId?: string;
+    editionId?: string;
+    chapterId?: string;
+    learnerBoard?: string;
+    learnerState?: string;
+    learnerMedium?: string;
+    learnerGrade?: string;
+    learnerSubject?: string;
+  }>();
   const v2Identity =
     params.bookId && params.editionId && params.chapterId
       ? { bookId: params.bookId, editionId: params.editionId, chapterId: params.chapterId }
@@ -186,6 +199,33 @@ export default function ReaderScreen() {
   }, [state.status, chapterPath, v2Identity?.bookId, v2Identity?.editionId, v2Identity?.chapterId]);
 
   const showCatalogLoading = !v2Identity && catalogState.status === 'loading';
+
+  const learnerBreadcrumb = useMemo(() => {
+    if (v2Identity) return `${v2Identity.bookId} · ${v2Identity.editionId} · ${v2Identity.chapterId}`;
+    if (!params.learnerMedium || !params.learnerGrade || state.status !== 'ready') return undefined;
+    const learnerGrade = Number(params.learnerGrade);
+    const bookGrade = state.chapter.meta.grade;
+    const base = [
+      params.learnerBoard ?? state.chapter.meta.board,
+      params.learnerState ?? state.chapter.meta.state,
+      params.learnerMedium,
+      `Grade ${learnerGrade}`,
+      params.learnerSubject ?? state.chapter.meta.subject,
+    ].join(' · ');
+    // English-medium discovery uses Kannada FL book grade N−2 — say so when they differ.
+    if (Number.isFinite(learnerGrade) && learnerGrade !== bookGrade) {
+      return `${base} · (printed Grade ${bookGrade} Kannada medium)`;
+    }
+    return base;
+  }, [
+    v2Identity,
+    params.learnerBoard,
+    params.learnerState,
+    params.learnerMedium,
+    params.learnerGrade,
+    params.learnerSubject,
+    state,
+  ]);
 
   return (
     <ThemedView style={styles.container}>
@@ -221,16 +261,13 @@ export default function ReaderScreen() {
             <ReaderContent
               chapter={state.chapter}
               chapterPath={chapterPath ?? ''}
+              chapterIdentity={v2Identity}
               catalog={
                 catalogState.status === 'ready'
                   ? catalogState.catalog
                   : ({ schemaVersion: '1.0', generatedAt: '', chapters: [] } as Catalog)
               }
-              breadcrumbOverride={
-                v2Identity
-                  ? `${v2Identity.bookId} · ${v2Identity.editionId} · ${v2Identity.chapterId}`
-                  : undefined
-              }
+              breadcrumbOverride={learnerBreadcrumb}
               exerciseParams={
                 v2Identity
                   ? {
@@ -380,12 +417,14 @@ function V2ReaderMenu({ chapter, identity }: { chapter: Chapter; identity: Chapt
 function ReaderContent({
   chapter,
   chapterPath,
+  chapterIdentity,
   catalog,
   breadcrumbOverride,
   exerciseParams,
 }: {
   chapter: Chapter;
   chapterPath: string;
+  chapterIdentity?: ChapterIdentity | null;
   catalog: Catalog;
   breadcrumbOverride?: string;
   exerciseParams: Record<string, string>;
@@ -403,11 +442,46 @@ function ReaderContent({
   const transliterationFor = (seg: ChapterSegment) =>
     transliterationScript ? seg.transliterations?.[transliterationScript] : undefined;
 
+  const contentHash = useMemo(() => {
+    if (chapterIdentity) {
+      const fromDownload = getDownloadedV2ChapterHash(chapterIdentity);
+      if (fromDownload) return fromDownload;
+      return getV2CatalogSnapshot().catalog?.chapters.find(
+        (c) =>
+          c.bookId === chapterIdentity.bookId &&
+          c.editionId === chapterIdentity.editionId &&
+          c.chapterId === chapterIdentity.chapterId,
+      )?.contentHash;
+    }
+    if (chapterPath) {
+      const slug = chapter.meta.slug;
+      const fromDownload = getDownloadedChapterHash(slug);
+      if (fromDownload) return fromDownload;
+      return catalog.chapters.find((c) => c.path === chapterPath)?.contentHash;
+    }
+    return undefined;
+  }, [catalog, chapter.meta.slug, chapterIdentity, chapterPath]);
+
+  const suggestBase = useMemo(
+    () => ({
+      chapterPath: chapterPath || undefined,
+      bookId: chapterIdentity?.bookId,
+      editionId: chapterIdentity?.editionId,
+      chapterId: chapterIdentity?.chapterId,
+      contentHash,
+      translationLanguage,
+      transliterationScript,
+    }),
+    [chapterPath, chapterIdentity, contentHash, translationLanguage, transliterationScript],
+  );
+
   const lineProps = {
     enableWordSelection: true as const,
     lexicon,
     chapterVocab,
     preferredLanguage: translationLanguage,
+    chapterIdentity,
+    suggestContext: suggestBase,
   };
 
   return (

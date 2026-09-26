@@ -3,6 +3,7 @@ import { useCallback, useMemo, useState } from 'react';
 import { Modal, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { SuggestFixSheet } from '@/components/suggest-fix-sheet';
 import { ThemedText } from '@/components/themed-text';
 import { Touchable } from '@/components/touchable';
 import { Radius, Spacing, Typography } from '@/constants/theme';
@@ -16,6 +17,7 @@ import {
   type MeaningResult,
   type SourceToken,
 } from '@/services/lexicon';
+import type { SuggestFixContext } from '@/services/suggest-fix';
 
 const cardChrome = Platform.select({
   ios: {
@@ -152,17 +154,21 @@ export function SelectableSourceText({
   lexicon,
   chapterVocab,
   preferredLanguage,
+  suggestContext,
 }: {
   source: string;
   lexicon: LexiconBundle | null;
   chapterVocab: ChapterVocabPair[];
   preferredLanguage: string | null;
+  /** When set, the meaning sheet can open Suggest a better meaning. */
+  suggestContext?: SuggestFixContext | null;
 }) {
   const theme = useTheme();
   const { scale } = useFontScale();
   const insets = useSafeAreaInsets();
   const tokens = useMemo(() => tokenizeSource(source), [source]);
   const [activeIndex, setActiveIndex] = useState<number | null>(null);
+  const [suggestOpen, setSuggestOpen] = useState(false);
 
   const closeSheet = useCallback(() => {
     setActiveIndex(null);
@@ -184,6 +190,20 @@ export function SelectableSourceText({
     fontSize: Typography.reading.fontSize * scale,
     lineHeight: Typography.reading.lineHeight * scale,
   };
+
+  const glossSeed = result
+    ? {
+        selectedForm: result.selectedForm,
+        lemma: result.lemma,
+        currentGloss:
+          result.kind === 'function'
+            ? 'Connecting word — no dictionary gloss'
+            : result.kind === 'unavailable'
+              ? 'Root/meaning not available'
+              : result.gloss,
+        glossLanguage: result.glossLanguage ?? preferredLanguage,
+      }
+    : null;
 
   return (
     <View>
@@ -211,7 +231,7 @@ export function SelectableSourceText({
         })}
       </Text>
 
-      <Modal visible={sheetOpen} transparent animationType="slide" onRequestClose={closeSheet}>
+      <Modal visible={sheetOpen && !suggestOpen} transparent animationType="slide" onRequestClose={closeSheet}>
         <Pressable style={styles.sheetBackdrop} onPress={closeSheet}>
           <Pressable
             style={[
@@ -246,10 +266,34 @@ export function SelectableSourceText({
               keyboardShouldPersistTaps="handled"
             >
               {result ? <MeaningDetail result={result} /> : null}
+              {suggestContext && result ? (
+                <Touchable
+                  accessibilityRole="button"
+                  accessibilityLabel="Suggest a better meaning"
+                  onPress={() => setSuggestOpen(true)}
+                  style={[styles.suggestBtn, { borderColor: theme.border, backgroundColor: theme.background }]}
+                >
+                  <MaterialCommunityIcons name="pencil-outline" size={18} color={theme.tint} />
+                  <ThemedText type="small" themeColor="tint">
+                    Suggest a better meaning
+                  </ThemedText>
+                </Touchable>
+              ) : null}
             </ScrollView>
           </Pressable>
         </Pressable>
       </Modal>
+
+      <SuggestFixSheet
+        visible={suggestOpen}
+        onClose={() => {
+          setSuggestOpen(false);
+          closeSheet();
+        }}
+        context={suggestContext ?? null}
+        initialLayer="gloss"
+        glossSeed={glossSeed}
+      />
     </View>
   );
 }
@@ -319,6 +363,16 @@ const styles = StyleSheet.create({
     paddingHorizontal: Spacing.two,
     paddingVertical: Spacing.two,
     borderRadius: Radius.small,
+    borderWidth: 1,
+  },
+  suggestBtn: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: Spacing.two,
+    marginTop: Spacing.three,
+    paddingVertical: Spacing.two,
+    paddingHorizontal: Spacing.three,
+    borderRadius: Radius.medium,
     borderWidth: 1,
   },
   mt2: { marginTop: 2 },

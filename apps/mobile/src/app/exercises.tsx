@@ -148,7 +148,7 @@ export default function ExercisesScreen() {
             <AsyncStateView state={state} />
           ) : (
             <FadeInView>
-              <ExercisesContent chapter={state.chapter} />
+              <ExercisesContent chapter={state.chapter} chapterIdentity={v2Identity} />
             </FadeInView>
           )}
         </ScrollView>
@@ -157,7 +157,13 @@ export default function ExercisesScreen() {
   );
 }
 
-function ExercisesContent({ chapter }: { chapter: Chapter }) {
+function ExercisesContent({
+  chapter,
+  chapterIdentity,
+}: {
+  chapter: Chapter;
+  chapterIdentity?: { bookId: string; editionId: string; chapterId: string } | null;
+}) {
   const theme = useTheme();
   const [selected, setSelected] = useState<ExerciseTypeId>('answer');
   const data = useMemo(() => deriveExerciseData(chapter), [chapter]);
@@ -203,6 +209,7 @@ function ExercisesContent({ chapter }: { chapter: Chapter }) {
                       source={p.text}
                       transliteration={p.transliterations?.devanagari}
                       translation={p.translations?.en}
+                      chapterIdentity={chapterIdentity}
                     />
                   </View>
                 ))}
